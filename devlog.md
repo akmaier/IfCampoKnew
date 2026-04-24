@@ -176,4 +176,33 @@ Timestamps are in the local timezone of the machine where Claude Code ran (Europ
 
 **Proposed next session (Entry 0004):** repo skeleton + first scraper pass (catalog tree walk for `periodId=589`, polite rate limit, write `data/589-tree.json`). Implementation only starts after O3/O4/O6 are resolved.
 
+---
+
+## Entry 0004 — Resolve blocking open items (O3/O4/O6)
+
+- **Start:** 2026-04-24 23:45 CEST
+- **End:** 2026-04-24 23:48 CEST
+- **Duration:** ~3 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context)
+
+**Prompt (verbatim):**
+
+> Q3 <campo-search>
+> Q4 OK
+> Q6 F10 ok
+
+(User answers map to open items **O3**, **O4**, **O6** from §8 of `docs/requirements.md`; the "Q" prefix is recycled from the earlier walk-through.)
+
+**Actions:**
+
+1. **O3 locked — custom-element prefix is `campo-`.** Updated `docs/requirements.md` NFR-9 and §5 repo layout to use `<campo-app>`, `<campo-search>`, `<campo-day>`, `<campo-rooms>`, `<campo-onboard>` (shorter than the `ifcampoknew-` alternative; still unambiguous because of Shadow DOM isolation).
+2. **O4 locked — cron = Mondays 03:00 UTC** (= 04:00 CET / 05:00 CEST). Recorded in §5 architecture block and §7 decisions log.
+3. **O6 locked — F10 wireframe added inline to §3.** Three ASCII screens: role pick → role-specific details (student / lecturer-staff / guest) → confirm. Student path accommodates PO-version uncertainty with a "latest / don't know" default. Guest path skips straight to confirm.
+4. Removed O3/O4/O6 from §8 open items; they're now in §7 decisions log. Remaining open items (renumbered O1/O2/O3): analytics vendor, WP target page, next semester's `periodId`.
+5. (Pending) Commit.
+
+**Decisions added to §7 log:** custom-element prefix = `campo-`; cron = Mondays 03:00 UTC; F10 wireframe pinned.
+
+**Unblocked** — the next session can start with implementation (repo skeleton + Python scraper's tree-walk pass).
+
 
