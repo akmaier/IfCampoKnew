@@ -60,3 +60,60 @@ Timestamps are in the local timezone of the machine where Claude Code ran (Europ
 - Which of the 9 functional candidates are MVP?
 - Stack: vanilla JS vs. Preact/Svelte? Scraper in Node vs. Python?
 - DE-first, EN-first, or bilingual?
+
+---
+
+## Entry 0002 — Deeper analysis: run a real search, drill the catalog tree
+
+- **Start:** 2026-04-24 22:00 CEST
+- **End:** 2026-04-24 22:55 CEST
+- **Duration:** ~55 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context)
+
+**Prompt (verbatim):**
+
+> 2
+
+(Shorthand for "option 2" offered at the end of Entry 0001 — i.e. *go deeper on analysis: actually run a search POST, or drill into the catalog tree*.)
+
+**Plan:**
+
+1. Start a fresh cookie-jar session; GET the course-search page.
+2. Parse its JSF form state: `javax.faces.ViewState`, form action URL, all hidden inputs, and the generated name of the free-text "Suchbegriffe" field.
+3. POST a real query and inspect the response.
+4. Drill into the course-catalog tree: expand a faculty node and see what comes back.
+5. If a result row has a detail link, follow it to see the course-detail page.
+6. Document the mechanics (JSF partial responses? full HTML? AJAX behaviour?) in `docs/campo-public-surface.md` §8.
+
+**Actions:**
+
+1. GET startpage + search form in a fresh cookie jar; parsed the `genericSearchMask` form (15 hidden inputs incl. `authenticity_token`, `javax.faces.ViewState=e1s1`, `genericSearchMask_SUBMIT=1`; ~45 visible inputs).
+2. Identified the `Suchbegriffe` free-text field by label-for mapping: `genericSearchMask:search_e4ff…:cm_exa_eventprocess_basic_data:fieldset:inputField_0_…:id1ad0…`.
+3. First POST attempt **silently failed** — response was identical to the GET, same `e1s1` ViewState. Reason: stale session (reused cookie jar from Entry 0001 — 20+ min old). Debug trail included: diffing GET vs POST response (only `authenticity_token` rotated), checking field IDs (stable), checking session cookie (only one `JSESSIONID`, bound to `/qisserver`).
+4. Restart in a **fresh session** (visit startpage → visit search form → POST) with all hidden inputs + MyFaces `SCROLL_TO_ANCHOR`/`DISABLE_AUTOSCROLL` extras + submit button name. POST succeeded: `e1s1` → `e1s2`, `<h2>Gefundene Veranstaltungen</h2>`, 2 hits for *Mustererkennung* (VL Prof. Maier, Praktikum Dr. Christlein).
+5. Parsed result table — 9 columns per row, with Aktionen cells containing a plain `<a href>` to the course-detail deep-link `?_flowId=detailView-flow&unitId=86267&periodId=589`.
+6. Fetched the detail page directly via the deep-link in a new flow (e2s1): 5 tabs visible (Termine / Inhalte / Vorlesungsverzeichnis / Module-Studiengänge / Dokumente), fields including ECTS=5.0, Unterrichtssprache, Verantwortliche/-r, plus the self-generated Perma-Link in a `<textarea>`.
+7. Parsed the catalog permalink textareas — the catalog tree is deep-linkable via `&path=title:ROOT|title:CHILD|title:GRANDCHILD…`, which renders any sub-tree view in a fresh session with a single GET.
+8. Verified the catalog deep-link by fetching `path=title:17593|title:17598` from a clean session — returned 222 KB HTML with 22 unique child paths and full H3 permalinks ("Sprachkenntnisse Latein", "Veranstaltungen aus der Philosophischen Fakultät", …).
+9. Wrote `docs/campo-public-surface.md` §7a.1-7a.7: session recipe, POST recipe, result-table schema, deep-link patterns, course-detail tab list, absence of exports, and the resulting scraper architecture (catalog-walk via GETs, no POSTs needed for 95% of the data).
+10. (Pending) Commit.
+
+**Key findings:**
+
+- **Deep-linking works.** Both `detailView-flow?unitId=…&periodId=…` and `showCourseCatalog-flow?periodId=…&path=title:…|title:…` render directly in a fresh session. This is the single biggest architectural unblocker — a scraper can walk the whole catalog with pure GETs.
+- **Filtered search requires a full JSF+CSRF POST.** Recipe documented. But given deep-links, we can skip it entirely in the scraper and reproduce filtering client-side over the snapshot.
+- **Session hygiene matters.** Must start from `hisinoneStartPage.faces`; cannot reuse a stale `JSESSIONID` across long gaps.
+- **Course detail has 5 tabs**, incl. *Dokumente* (likely the hidden treasure of syllabi & slides) — requires tab-switch postback, left as a follow-up.
+- **No iCal, no JSON, no PDF export** from the default views.
+
+**Hypothesis for next session** (architecture is now clear):
+
+1. Scraper is a Node or Python script that:
+   - GETs the catalog root per semester, recursively walks via `path=`.
+   - At each leaf, issues GETs to `detailView-flow?unitId=…&periodId=…`.
+   - Writes `data/{periodId}/courses.json`, `tree.json`.
+2. Site is vanilla JS + client-side filter/search over JSON. URL hash encodes filters.
+3. GitHub Actions nightly cron re-runs the scraper and commits the snapshot.
+
+**Status:** analysis now complete enough to start requirements.
+

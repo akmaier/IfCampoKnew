@@ -149,10 +149,122 @@ Recommended: **(1) snapshot**, with a `scraper/` subfolder (Node or Python) that
 
 ---
 
-## 7. Open questions for the requirements session
+## 7a. How to actually scrape Campo (tested 2026-04-24)
+
+### 7a.1 Session prerequisites
+
+- **A fresh session is mandatory.** Any client must first `GET` `hisinoneStartPage.faces` to receive a `JSESSIONID` bound to `/qisserver`. Reusing a stale cookie (even <24h old) causes silent POST rejection — the form re-renders but no flow advance happens.
+- `_flowExecutionKey` is assigned per-flow; it is the literal value of `javax.faces.ViewState` in that flow.
+- An `authenticity_token` (Rails-style CSRF token) is embedded in every form and rotates per request.
+- After a successful submit, both `_flowExecutionKey` and `javax.faces.ViewState` increment (`e1s1` → `e1s2`).
+
+### 7a.2 Course search — POST recipe (tested, works)
+
+1. Fresh session: GET `hisinoneStartPage.faces`.
+2. GET `startFlow.xhtml?_flowId=searchCourseNonStaff-flow` to receive the search form (ViewState `e1s1`).
+3. Parse the `genericSearchMask` form: ~15 hidden inputs (incl. `authenticity_token`, `navigationPosition`, `javax.faces.ViewState`, `genericSearchMask_SUBMIT=1`), ~45 visible inputs/selects.
+4. POST to the form action with: all hidden inputs, all visible inputs (using current values), plus `SCROLL_TO_ANCHOR=`, `DISABLE_AUTOSCROLL=true`, and the submit button `genericSearchMask:search=Suchen`.
+5. Headers: `Content-Type: application/x-www-form-urlencoded`, a realistic `User-Agent`, `Referer` of the form URL, `Origin: https://www.campo.fau.de`.
+6. Response (200, same URL with `_flowExecutionKey=e1s2`) contains `<h2>Gefundene Veranstaltungen</h2>` + a result table.
+
+Verified with `Suchbegriffe=Mustererkennung`: returned 2 hits — *Mustererkennung* (Prof. Andreas Maier) and *Praktikum Mustererkennung* (Dr. Vincent Christlein).
+
+### 7a.3 Result-table columns
+
+Per-row fields (8 data columns + 2 action cells):
+
+| Col | Content |
+|-----|---------|
+| 0 | Actions-left (quick menu with detail button) |
+| 1 | **Semesterunabhängiger Titel** (stable course title) |
+| 2 | **Kurztext** (short code, e.g. `PME`) |
+| 3 | **Semesterabhängiger Titel** (semester-specific title) |
+| 4 | **Veranstaltungsart** (Vorlesung / Seminar / Übung / Praktikum / …) |
+| 5 | **Dozent/-in (verantwortlich)** |
+| 6 | **Dozent/-in (durchführend)** |
+| 7 | **Organisationseinheit** |
+| 8 | Actions-right (detail button with `unitId` + `periodId`) |
+
+### 7a.4 Deep links (the gold find)
+
+Campo exposes **stable deep-links** for every course and every catalog node. These work with *only a fresh session cookie* — no ViewState, no CSRF token:
+
+- **Course detail:**
+  ```
+  /qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId={unitId}&periodId={periodId}
+  ```
+  Example: `unitId=86267&periodId=589` → *Praktikum Mustererkennung* (SoSe 2026).
+
+- **Catalog tree node:**
+  ```
+  /qisserver/pages/startFlow.xhtml?_flowId=showCourseCatalog-flow&periodId={periodId}&path=title:{rootId}|title:{lvl1Id}|title:{lvl2Id}…
+  ```
+  The full hierarchy is encoded in the `path=` parameter, pipe-separated (`|` URL-encoded as `%7C`, `:` as `%3A` when strict). Root `title:17593` has faculty-level children; each deeper level adds another `|title:NNNN`.
+
+  Both the GET-only catalog browser (root node via `_flowId=showCourseCatalog-flow` with no `path`) and any sub-node permalink were verified to render directly in a fresh session.
+
+### 7a.5 Course detail — available tabs
+
+The detail page (tested on `unitId=86267`) exposes 5 tabs, loaded via JSF postback:
+
+1. **Termine** (default) — schedule, time slots, rooms, parallel groups.
+2. **Inhalte** — description, learning goals, literature.
+3. **Vorlesungsverzeichnis** — where the course sits in the catalog tree.
+4. **Module / Studiengänge** — which study programs and modules use this course.
+5. **Dokumente** — file attachments (syllabus, etc.).
+
+Data fields already visible on the default tab (sample): Veranstaltungsart, Turnus des Angebots (*jedem Semester*), ECTS-Punkte (`5.0`), Unterrichtssprache (`Deutsch oder Englisch`), Verantwortliche/-r.
+
+### 7a.6 No direct exports (confirmed)
+
+- No iCal/`.ics` download links on course detail or today's events.
+- No PDF download on course detail (though *Dokumente* tab may hold them).
+- No JSON API endpoints observed.
+- `robots.txt` returns 404 — so Campo has no published crawl policy; defensive scraping etiquette is our responsibility (slow, cached, weekly).
+
+### 7a.7 Scraper implications
+
+A scraper for IfCampoKnew becomes *much* simpler than expected:
+
+1. Walk the catalog tree via `path=` deep-links (pure GETs).
+2. At each leaf, a `unitId` is exposed → fetch the course detail (pure GET).
+3. Parse the Termine tab HTML for schedule/room/instructor data.
+4. Per semester (`periodId`) this is ≈ O(n) courses * 2 GETs each.
+
+The only operation requiring a full JSF POST-with-CSRF is the **filtered course search**. We can skip it entirely in the scraper: if we have the catalog tree + all course detail pages, any filter is a client-side operation.
+
+**Target data model:**
+
+```jsonc
+{
+  "periodId": 589,
+  "periodName": "Sommersemester 2026",
+  "tree":   [ /* nested catalog nodes with titleId, name, parent */ ],
+  "courses": [
+    {
+      "unitId": 86267,
+      "titleStable": "Praktikum Mustererkennung",
+      "titleSemester": "Praktikum Mustererkennung",
+      "shortText": "PME",
+      "type": "Praktikum",
+      "ects": 5.0,
+      "language": "Deutsch oder Englisch",
+      "orgUnit": "Lehrstuhl für Informatik 5 (Mustererkennung)",
+      "instructorsResp": ["Andreas Maier"],
+      "instructorsExec": ["Vincent Christlein"],
+      "catalogPaths": [ "17593|17598|17...", /* ... */ ],
+      "termine": [ /* parallel groups with weekday/time/room/dates */ ],
+      "permalink": "https://www.campo.fau.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86267&periodId=589"
+    }
+  ]
+}
+```
+
+## 7b. Open questions for the requirements session
 
 - Do we want to replicate *all 10* public flows, or focus on 2-3 that cover the top pain points?
 - Should the demo be English-first, German-first, or bilingual?
 - Do we care about historical semesters, or only the current + next?
 - Is it acceptable that data is ~24h stale (scraper runs nightly) on the demo?
 - Which persona gets priority: the student hunting for a course, or the lecturer checking who else is teaching at the same time?
+- Given deep-linking works (§7a.4), is the scraper's first output a full **snapshot per semester** (all courses + tree + rooms), or do we demo with a single faculty first?
