@@ -46,6 +46,89 @@ Tailored home:
 
 A always-visible **"Show me everything"** link bypasses the tailoring. Every entity has an **"Open in Campo"** deep-link.
 
+#### F10 wireframe (ASCII, session 0004)
+
+**Screen 1 — Role pick** (everyone sees this)
+
+```
+ ┌────────────────────────────────────────────────┐
+ │  Welcome to IfCampoKnew          Step 1 of 3   │
+ │  ─────────────────────────────────────────     │
+ │                                                │
+ │  Who are you?                                  │
+ │                                                │
+ │   ┌────────────────┐    ┌────────────────┐    │
+ │   │   Student      │    │    Lecturer    │    │
+ │   └────────────────┘    └────────────────┘    │
+ │                                                │
+ │   ┌────────────────┐    ┌────────────────┐    │
+ │   │    Staff       │    │  Just visiting │    │
+ │   └────────────────┘    └────────────────┘    │
+ │                                                │
+ │                                                │
+ │   Skip – show me everything                    │
+ │   (We use localStorage. No cookies, no login.) │
+ └────────────────────────────────────────────────┘
+```
+
+**Screen 2a — Student details**
+
+```
+ ┌────────────────────────────────────────────────┐
+ │  Your program                    Step 2 of 3   │
+ │  ─────────────────────────────────────────     │
+ │                                                │
+ │  Degree          [ B.Sc.            ▾ ]        │
+ │  Subject         [ Informatik       ▾ ]        │
+ │  Exam regs (PO)  [ Latest / unsure  ▾ ]        │
+ │  Current sem #   [ •──────────○── ] 4          │
+ │                                                │
+ │                                                │
+ │   ←  Back                           Next  →    │
+ └────────────────────────────────────────────────┘
+```
+
+**Screen 2b — Lecturer / staff details**
+
+```
+ ┌────────────────────────────────────────────────┐
+ │  Your home                       Step 2 of 3   │
+ │  ─────────────────────────────────────────     │
+ │                                                │
+ │  Organisational unit                           │
+ │  [ Lehrstuhl für Informatik 5 (Muster…)  ▾ ]   │
+ │                                                │
+ │  Role     ( ) Teaching  ( ) Admin  ( ) Both    │
+ │                                                │
+ │   ←  Back                           Next  →    │
+ └────────────────────────────────────────────────┘
+```
+
+**Screen 3 — Confirm & save** (shown for all roles; guest path skips 2 and lands here with nothing preselected)
+
+```
+ ┌────────────────────────────────────────────────┐
+ │  Looks good?                     Step 3 of 3   │
+ │  ─────────────────────────────────────────     │
+ │                                                │
+ │  You are:   Student                            │
+ │  Program:   B.Sc. Informatik                   │
+ │             PO: latest                         │
+ │             Semester 4                         │
+ │                                                │
+ │  We'll preselect your courses on the home page │
+ │  and every filter. You can change or clear     │
+ │  this anytime from the profile menu.           │
+ │                                                │
+ │   ←  Edit                    Save & continue → │
+ └────────────────────────────────────────────────┘
+```
+
+Behavioural notes:
+- Every screen reachable by keyboard (Tab + Enter).
+- `Skip` is available from all screens, not only Screen 1 — it commits an empty profile.
+- Final profile is `{role, abschluss?, fach?, po?, semNum?, orgUnit?, staffRole?, ts}` — serialised to `localStorage.ifcampoknew.profile` and base64-url-encoded into `#profile=…` on the next navigation so the view is shareable.
+
 ### Deferred (not v1, explicit backlog)
 
 | ID | Feature | Reason to defer |
@@ -70,7 +153,7 @@ A always-visible **"Show me everything"** link bypasses the tailoring. Every ent
   - **T2 — Anonymous aggregate analytics**: cookieless, GDPR-clean analytics ([GoatCounter](https://www.goatcounter.com/) or [Plausible](https://plausible.io/) — TBD). Collects only: visited routes, quiz-answer bucket (role + Fach only), referrer. No IPs stored, no cross-site identifiers. Visible privacy note + opt-out link in footer.
   - **No cookies, no local accounts, no server-side session.** The onboarding profile lives in `localStorage` on the user's device only.
 - **NFR-8 (Reproducibility)** Scraper and snapshot pipeline live in-repo; anyone can `python scraper/scrape.py --period 589` and get the same JSON.
-- **NFR-9 (Embeddability)** UI ships as **Web Components** (custom elements with Shadow DOM). Drop `<ifcampoknew-app></ifcampoknew-app>` (or `<ifcampoknew-search>` / `<ifcampoknew-day>` / `<ifcampoknew-rooms>`) into any HTML page — including a WordPress shortcode block — and it boots self-contained, with its own CSS isolated from the host.
+- **NFR-9 (Embeddability)** UI ships as **Web Components** with custom-element prefix `campo-` (Shadow DOM for CSS isolation). Drop `<campo-app></campo-app>` (or `<campo-search>` / `<campo-day>` / `<campo-rooms>`) into any HTML page — including a WordPress shortcode block — and it boots self-contained.
 - **NFR-10 (Archival)** Each completed academic year is snapshotted into `archive/{year-slug}/` as a full copy of the site (HTML + JS + data JSON) at that point in time. GitHub Pages serves these alongside the live site.
 - **NFR-11 (Licensing)** MIT. Code only — the Campo data itself is FAU's and stays subject to FAU's terms.
 
@@ -84,7 +167,8 @@ A always-visible **"Show me everything"** link bypasses the tailoring. Every ent
          ▲                                 │
          │                                 ▼
    GitHub Actions cron               ┌──────────────────────────────┐
-    (weekly, Monday 03:00 UTC)       │ site/  — Vite build          │
+    (Mondays 03:00 UTC = 04:00 CET   │ site/  — Vite build          │
+        / 05:00 CEST)                │                              │
                                      │   Web Components (vanilla JS)│
                                      │   FlexSearch client index    │
                                      └──────────────────────────────┘
@@ -118,11 +202,11 @@ IfCampoKnew/
 │   ├── src/
 │   │   ├── main.ts
 │   │   ├── components/
-│   │   │   ├── ifcampoknew-app.ts        # <ifcampoknew-app>
-│   │   │   ├── ifcampoknew-search.ts     # F1
-│   │   │   ├── ifcampoknew-day.ts        # F2
-│   │   │   ├── ifcampoknew-rooms.ts      # F3
-│   │   │   └── ifcampoknew-onboard.ts    # F10
+│   │   │   ├── campo-app.ts        # <campo-app>
+│   │   │   ├── campo-search.ts     # F1
+│   │   │   ├── campo-day.ts        # F2
+│   │   │   ├── campo-rooms.ts      # F3
+│   │   │   └── campo-onboard.ts    # F10
 │   │   ├── i18n/
 │   │   │   ├── en.json
 │   │   │   └── de.json
@@ -198,23 +282,23 @@ type Course = {
 | 2026-04-24 | **Scraper = Python (`requests` + `lxml` + `pydantic`-ish dataclasses).** | Matches FAU-scientist tooling culture; best HTML parsing libraries. |
 | 2026-04-24 | **Client search = FlexSearch.** | 30 KB gz, facets + boosting; right fit for ≤10 k courses. |
 | 2026-04-24 | **Privacy posture = T1 (GitHub-issue feedback) + T2 (cookieless aggregate analytics — Plausible or GoatCounter).** | Keeps privacy story clean while still giving us signal to improve the UI. Final analytics vendor pinned before first deploy. |
+| 2026-04-24 | **Custom-element prefix = `campo-`.** | Shorter than `ifcampoknew-`; Shadow DOM isolates anyway. Elements: `campo-app`, `campo-search`, `campo-day`, `campo-rooms`, `campo-onboard`. |
+| 2026-04-24 | **Weekly scrape runs Mondays 03:00 UTC** (04:00 CET / 05:00 CEST). | Off-peak for Campo; fresh data by Monday morning; a single fixed cron slot is predictable for Actions billing. |
+| 2026-04-24 | **F10 wireframe pinned** (3 ASCII screens in §3). | Role → role-specific details → confirm; keyboard-reachable; "Skip" always visible; profile persists to `localStorage` + URL-hash. |
 
-## 8. Open items (to decide before first deploy)
+## 8. Open items (resolve before first deploy)
 
 - **O1** — Pick analytics vendor: Plausible vs GoatCounter. (Both free for small OSS projects; difference is mostly UI preference.)
 - **O2** — Confirm WordPress target page (which FAU WP instance will embed the Web Component?) — affects CSP headers and the final bundle loading snippet.
-- **O3** — Decide naming: `<ifcampoknew-…>` vs `<campo-…>` custom-element prefix.
-- **O4** — Cron day-of-week and time (proposal: Mondays 03:00 UTC = 04:00/05:00 CE(S)T, off-peak for Campo).
-- **O5** — Determine the `periodId` for WiSe 2026/27 (not yet known — first weekly scrape will discover it by walking the semester dropdown).
-- **O6** — Sketch the F10 quiz flow visually (wireframe) before coding.
+- **O3** — Determine the `periodId` for WiSe 2026/27 (first weekly scrape will discover it by walking the semester dropdown).
 
 ## 9. Next session — implementation start
 
-Proposal for Entry 0004:
+Proposal for Entry 0005 (Entry 0004 is this items-resolution pass):
 
 1. Bootstrap the repo skeleton: `scraper/`, `site/`, `.github/workflows/`.
 2. Write the scraper's first pass: catalog-tree walk for `periodId=589`, extract all `unitId`s. No course-detail fetch yet.
-3. Smoke-test against live Campo with a polite rate limit (e.g. 1 req/s).
+3. Smoke-test against live Campo with a polite rate limit (≤ 1 req/s).
 4. Output a first `data/589-tree.json`.
 
-*Implementation only starts after alignment on §8 open items where they block day-one work (O3, O4, O6 probably yes).*
+All day-one blockers are resolved: component prefix, cron slot, and F10 wireframe are locked. Remaining open items (O1–O3) do not block implementation.
