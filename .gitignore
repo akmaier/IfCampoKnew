@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (for a future scraper / build tooling)
+node_modules/
+dist/
+build/
+*.log
+.env
+.env.local
+
+# Python (if we choose Python for the scraper)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local scratch / exploration
+tmp/
+scratch/
+*.local.*
+
+# Claude Code local config (kept out of git)
+.claude/
