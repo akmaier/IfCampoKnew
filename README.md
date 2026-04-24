@@ -28,4 +28,4 @@ Only **public** Campo data is in scope. Anything that needs a FAU login (persona
 
 ## License
 
-TBD.
+[MIT](LICENSE) © Andreas Maier.
