@@ -22,10 +22,13 @@ __pycache__/
 venv/
 scraper/.venv/
 
-# Local scratch / exploration
+# Local scratch / exploration — including JSON intermediates from the scraper
 tmp/
 scratch/
 *.local.*
+
+# Scraper's JSON intermediate (the deliverable is the markdown corpus under data/{period}/)
+data/*.json
 
 # Claude Code local config (kept out of git)
 .claude/
