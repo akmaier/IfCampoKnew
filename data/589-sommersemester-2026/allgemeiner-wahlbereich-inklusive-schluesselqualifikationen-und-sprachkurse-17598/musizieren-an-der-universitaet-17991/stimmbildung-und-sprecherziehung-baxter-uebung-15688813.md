@@ -1,15 +1,33 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 90541
+segment: "exam:15688813"
 ---
 
 
-# - Stimmbildung und Sprecherziehung (Baxter) - Übung
+# Stimmbildung und Sprecherziehung (Baxter) - Übung
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:15688813` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:15688813` · **unitId:** `90541`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17991|exam:15688813>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17991|exam:15688813>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90541&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Übung |
+| Unterrichtssprache | Deutsch |
+| Turnus | in jedem Semester |
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — | Laura Ann McGahee Baxter-Weithaus |
+
+## Organisation / Studiengänge
+
+Professur für Kirchenmusik (Verantwortlicher)

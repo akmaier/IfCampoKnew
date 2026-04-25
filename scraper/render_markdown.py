@@ -109,13 +109,142 @@ def _strip_inline_html(name: str) -> str:
     return re.sub(r"<[^>]+>", "", name).strip()
 
 
-def _front_matter(period_id: int, period_name: str) -> str:
-    return (
-        "---\n"
-        f"period_id: {period_id}\n"
-        f"period_name: {json.dumps(period_name, ensure_ascii=False)}\n"
-        "---\n\n"
+def _front_matter(period_id: int, period_name: str, **extra) -> str:
+    lines = [
+        "---",
+        f"period_id: {period_id}",
+        f"period_name: {json.dumps(period_name, ensure_ascii=False)}",
+    ]
+    for k, v in extra.items():
+        if v is None:
+            continue
+        lines.append(f"{k}: {json.dumps(v, ensure_ascii=False)}")
+    lines.append("---\n\n")
+    return "\n".join(lines)
+
+
+def _md_escape_cell(s: str | None) -> str:
+    """Escape pipe characters in a markdown table cell."""
+    if not s:
+        return "—"
+    return s.replace("|", "\\|").replace("\n", " ")
+
+
+def render_course_md(node: dict, course: dict, period_id: int, period_name: str) -> str:
+    """Full course-detail leaf — Eckdaten + Termine + Organisation."""
+    lines: list[str] = []
+    lines.append(
+        _front_matter(
+            period_id,
+            period_name,
+            unit_id=course.get("unit_id"),
+            segment=node["segment"],
+        )
     )
+    title_clean = _strip_inline_html(node["name"]).lstrip("- ").strip()
+    course_type = course.get("course_type") or ""
+    heading = title_clean
+    if course_type and course_type.lower() not in title_clean.lower():
+        heading = f"{title_clean} — {course_type}"
+    lines.append(f"# {heading}\n")
+
+    lines.append(
+        f"**Period:** {period_name} · **Segment:** `{node['segment']}` · "
+        f"**unitId:** `{course.get('unit_id')}`\n"
+    )
+    lines.append(f"**Katalog-Permalink:** <{catalog_permalink(node, period_id)}>\n")
+    if course.get("permalink"):
+        lines.append(f"**Veranstaltungs-Permalink:** <{course['permalink']}>\n")
+
+    # Eckdaten
+    eckdaten = [
+        ("Veranstaltungsart", course.get("course_type")),
+        ("Kurztext", course.get("short_text")),
+        ("ECTS-Punkte", course.get("ects")),
+        ("Unterrichtssprache", course.get("language")),
+        ("Turnus", course.get("turnus")),
+    ]
+    eckdaten = [(k, v) for k, v in eckdaten if v not in (None, "", [])]
+    if eckdaten:
+        lines.append("## Eckdaten\n")
+        lines.append("| Feld | Wert |")
+        lines.append("|---|---|")
+        for k, v in eckdaten:
+            lines.append(f"| {k} | {_md_escape_cell(str(v))} |")
+        lines.append("")
+
+    # Verantwortliche / Durchführende
+    inst_resp = course.get("instructors_resp") or []
+    inst_exec = course.get("instructors_exec") or []
+    if inst_resp or inst_exec:
+        lines.append("## Lehrende\n")
+        if inst_resp:
+            lines.append(f"- **Verantwortlich:** {', '.join(inst_resp)}")
+        if inst_exec:
+            lines.append(f"- **Durchführend:** {', '.join(inst_exec)}")
+        lines.append("")
+
+    # Termine
+    appts = course.get("appointments") or []
+    lines.append("## Termine\n")
+    if appts:
+        lines.append("| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |")
+        lines.append("|---|---|---|---|---|---|")
+        for a in appts:
+            time_cell = (
+                f"{a['time_from']}–{a['time_to']}"
+                if a.get("time_from") and a.get("time_to")
+                else "—"
+            )
+            date_cell = (
+                f"{a['date_from']}–{a['date_to']}"
+                if a.get("date_from") and a.get("date_to")
+                else (a.get("date_from") or "—")
+            )
+            lines.append(
+                "| "
+                + " | ".join(
+                    _md_escape_cell(s)
+                    for s in [
+                        a.get("rhythm"),
+                        a.get("weekday"),
+                        time_cell,
+                        date_cell,
+                        a.get("room"),
+                        ", ".join(a.get("instructors") or []) or None,
+                    ]
+                )
+                + " |"
+            )
+        lines.append("")
+        if any(a.get("cancelled_dates") for a in appts):
+            lines.append("**Ausfalltermine:**")
+            for a in appts:
+                if a.get("cancelled_dates"):
+                    lines.append(f"- {', '.join(a['cancelled_dates'])}")
+            lines.append("")
+    else:
+        lines.append(
+            "_Keine festen Termine in der Termine-Tabelle gelistet (z. B. Block-Praktikum)._\n"
+        )
+
+    # Organisation
+    if course.get("org_unit"):
+        lines.append("## Organisation / Studiengänge\n")
+        # Campo joins multiple org-unit assignments with whitespace; pretty-print as bullets.
+        org = course["org_unit"]
+        # Try to split on " (Verantwortlicher)" or "Mehr..." markers
+        chunks = re.split(r"\s+(?=(?:TechFak|PhilFak|RWFak|NatFak|MedFak|FB ))", org)
+        if len(chunks) > 1:
+            for ch in chunks:
+                ch = ch.strip().rstrip(".").rstrip("…").strip()
+                if ch:
+                    lines.append(f"- {ch}")
+        else:
+            lines.append(org.strip())
+        lines.append("")
+
+    return "\n".join(lines).lstrip("\n")
 
 
 def render_index_md(
@@ -166,10 +295,14 @@ def render_leaf_md(node: dict, period_id: int, period_name: str) -> str:
 # ── render the whole snapshot ───────────────────────────────────────────────
 
 
-def render_corpus(snapshot: dict, out_root: Path) -> dict:
+def render_corpus(
+    snapshot: dict, out_root: Path, *, courses: dict | None = None
+) -> dict:
     """Write the whole markdown tree under ``out_root/{period-slug}/``.
 
-    Returns a small stats dict for logging.
+    If ``courses`` (the JSON produced by ``fetch_courses.py``) is given,
+    every leaf with a ``unitId`` is rendered with full course detail
+    instead of the placeholder text.
     """
     period_id: int = snapshot["periodId"]
     period_name: str = snapshot["periodName"]
@@ -189,7 +322,12 @@ def render_corpus(snapshot: dict, out_root: Path) -> dict:
     )
     root = by_segment[root_seg]
 
-    stats = {"folders": 0, "leaf_files": 0, "index_files": 0}
+    courses_by_uid: dict[int, dict] = {}
+    if courses:
+        for c in courses.get("courses", []):
+            courses_by_uid[int(c["unit_id"])] = c
+
+    stats = {"folders": 0, "leaf_files": 0, "index_files": 0, "courses_embedded": 0}
 
     def child_targets(parent_seg: str) -> dict[str, str]:
         out: dict[str, str] = {}
@@ -217,10 +355,18 @@ def render_corpus(snapshot: dict, out_root: Path) -> dict:
                 if children_of.get(ch["segment"]):
                     walk(ch["segment"], folder / base_name)
                 else:
-                    (folder / f"{base_name}.md").write_text(
-                        render_leaf_md(ch, period_id, period_name),
-                        encoding="utf-8",
-                    )
+                    course = courses_by_uid.get(int(ch.get("unitId") or 0))
+                    if course:
+                        (folder / f"{base_name}.md").write_text(
+                            render_course_md(ch, course, period_id, period_name),
+                            encoding="utf-8",
+                        )
+                        stats["courses_embedded"] += 1
+                    else:
+                        (folder / f"{base_name}.md").write_text(
+                            render_leaf_md(ch, period_id, period_name),
+                            encoding="utf-8",
+                        )
                     stats["leaf_files"] += 1
         else:
             # Root with no children — degenerate but keep the file.
@@ -250,14 +396,23 @@ def main(argv: Iterable[str] | None = None) -> int:
         required=True,
         help="output root (period-slug subfolder will be created beneath it)",
     )
+    p.add_argument(
+        "--courses",
+        type=Path,
+        default=None,
+        help="optional JSON from fetch_courses.py — embeds course content in leaves",
+    )
     args = p.parse_args(list(argv) if argv else None)
 
     snapshot = json.loads(args.inp.read_text(encoding="utf-8"))
-    stats = render_corpus(snapshot, args.out)
+    courses = (
+        json.loads(args.courses.read_text(encoding="utf-8")) if args.courses else None
+    )
+    stats = render_corpus(snapshot, args.out, courses=courses)
     print(
         f"rendered period {snapshot['periodId']} {snapshot['periodName']!r} "
         f"into {args.out}: folders={stats['folders']} index={stats['index_files']} "
-        f"leaves={stats['leaf_files']}"
+        f"leaves={stats['leaf_files']} courses_embedded={stats['courses_embedded']}"
     )
     return 0
 

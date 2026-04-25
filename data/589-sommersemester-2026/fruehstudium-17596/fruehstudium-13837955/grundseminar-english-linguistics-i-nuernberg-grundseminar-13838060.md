@@ -1,15 +1,41 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 96019
+segment: "exam:13838060"
 ---
 
 
-# - Grundseminar English Linguistics I (Nürnberg) - Grundseminar
+# Grundseminar English Linguistics I (Nürnberg) - Grundseminar
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13838060` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13838060` · **unitId:** `96019`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838060>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838060>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96019&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Grundseminar |
+| Unterrichtssprache | Englisch |
+| Turnus | in jedem Semester |
+
+## Lehrende
+
+- **Verantwortlich:** Dr. Panagiotis Kenanidis
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | — | Dr. Panagiotis Kenanidis |
+
+## Organisation / Studiengänge
+
+- Institut für Anglistik und Amerikanistik (Verantwortlicher)
+- PhilFak | Englisch | Erweiterungsprüfung Grundschule (Verantwortlicher)
+- PhilFak | Englisch | Erweiterungsprüfung Realschule (Verantwortlicher)
+- PhilFak | Englisch | Lehramt Grundschule (Verantwortlicher)
+- PhilFak | Englisch | Lehramt Grundschule o. Didak (Verantwortlicher) Mehr

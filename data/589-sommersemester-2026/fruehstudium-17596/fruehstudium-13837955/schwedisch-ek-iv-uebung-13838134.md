@@ -1,15 +1,43 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 91879
+segment: "exam:13838134"
 ---
 
 
-# - Schwedisch: EK IV - Übung
+# Schwedisch: EK IV - Übung
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13838134` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13838134` · **unitId:** `91879`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838134>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838134>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91879&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Übung |
+| ECTS-Punkte | 5.0 |
+| Unterrichtssprache | Schwedisch |
+| Turnus | nur im Sommersemester |
+
+## Lehrende
+
+- **Verantwortlich:** Miriam Schlosser Dr. Antje Lenora
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| — | wöchentlich | — | 25.05.2026 | — | — |
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | — | — |
+
+**Ausfalltermine:**
+- 18:15, -, 19:45
+- 18:15, -, 19:45
+
+## Organisation / Studiengänge
+
+Sprachenzentrum, Abteilung Nord-, Ost- und Außereuropäische Sprachen (Verantwortlicher)

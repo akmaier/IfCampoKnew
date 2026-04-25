@@ -1,15 +1,33 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 87079
+segment: "exam:15688812"
 ---
 
 
-# - Stimmbildung und Sprecherziehung (Bobe) - Übung
+# Stimmbildung und Sprecherziehung (Bobe) - Übung
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:15688812` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:15688812` · **unitId:** `87079`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17991|exam:15688812>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17991|exam:15688812>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87079&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Übung |
+| Unterrichtssprache | Deutsch |
+| Turnus | in jedem Semester |
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — | Franziska Bobe |
+
+## Organisation / Studiengänge
+
+Professur für Kirchenmusik (Verantwortlicher)

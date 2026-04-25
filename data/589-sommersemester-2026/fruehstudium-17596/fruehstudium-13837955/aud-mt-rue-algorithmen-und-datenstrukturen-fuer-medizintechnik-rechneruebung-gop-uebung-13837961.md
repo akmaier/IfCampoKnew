@@ -1,15 +1,46 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 85479
+segment: "exam:13837961"
 ---
 
 
 # AuD-MT-RUE - Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP) - Übung
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13837961` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13837961` · **unitId:** `85479`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13837961>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13837961>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85479&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Übung |
+| Kurztext | AuD-MT-RUE |
+| ECTS-Punkte | 2.5 |
+| Unterrichtssprache | Deutsch |
+| Turnus | in jedem Semester |
+
+## Lehrende
+
+- **Verantwortlich:** Prof. Dr. Tobias Reichenbach Janna Steinebach Pablo Ochoa de Eribe Delgado Michael Thornton
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| — | wöchentlich | — | 26.05.2026 | — | — |
+
+**Ausfalltermine:**
+- 10:15, -, 11:45
+
+## Organisation / Studiengänge
+
+- ReWiFak | Wirtschaftsinformatik | Bachelor of Science (Verantwortlicher)
+- NatFak | Data Science | Bachelor of Science (Verantwortlicher)
+- TechFak | Medizintechnik | Austauschstudium Bachelor (Verantwortlicher)
+- TechFak | Medizintechnik | Austauschstudium Master (Verantwortlicher)
+- TechFak | Medizintechnik | Bachelor of Science (Verantwortlicher) Mehr

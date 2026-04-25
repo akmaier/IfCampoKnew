@@ -1,15 +1,46 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 83167
+segment: "exam:13839486"
 ---
 
 
 # SMSE-V - V: Service Management and Service Engineering - Vorlesung
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13839486` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13839486` · **unitId:** `83167`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839426|exam:13839486>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839426|exam:13839486>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83167&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Vorlesung |
+| Kurztext | SMSE-V |
+| ECTS-Punkte | 5.0 |
+| Unterrichtssprache | Deutsch |
+| Turnus | nur im Sommersemester |
+
+## Lehrende
+
+- **Verantwortlich:** Prof. Dr. Martin Matzner Pepe Bellin
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| — | wöchentlich | — | 15.04.2026 | — | — |
+| — | Einzeltermin | — | — | — | — |
+| — | wöchentlich | — | 26.05.2026 | 20 | — |
+
+**Ausfalltermine:**
+- 09:45, -, 11:15
+- 14:00, -, 15:00
+- 13:45, -, 14:45
+
+## Organisation / Studiengänge
+
+ReWiFak | Wirtschaftspädagogik | Erweiterungsprüfung Berufsschule (Verantwortlicher) Lehrstuhl für Digital Industrial Service Systems (Verantwortlicher) ReWiFak | International Business Studies | Bachelor of Science (Verantwortlicher) ReWiFak | International Economic Studies | Bachelor of Science (Verantwortlicher) ReWiFak | International Business Studies | Bachelor of Arts (1 Fach) (Verantwortlicher) Mehr...

@@ -322,5 +322,75 @@ Timestamps are in the local timezone of the machine where Claude Code ran (Europ
 
 **Status:** Entry 0006 ships the markdown skeleton. Going deeper (full catalogue depth + course content) is Entry 0007.
 
+---
+
+## Entry 0007 — Going deeper: full-depth walk, course content, weekly cron
+
+- **Start:** 2026-04-25 08:25 CEST
+- **End:** 2026-04-25 13:38 CEST
+- **Duration:** ~5 h elapsed; ~70 min active (rest = waiting on rate-limited fetches)
+- **Actor:** user → Claude Code (Opus 4.7, 1M context)
+
+**Prompt (verbatim):**
+
+> Also update the README.md with the new plans and push, Then continue with our plan.
+
+**Plan (per requirements.md §9 + Entry 0006 findings):**
+
+1. README updated and pushed (done as the first action of this entry).
+2. Run a full-depth catalogue walk in the background (`--max-depth 0`, hard-cap 12) — likely tens of minutes to a couple of hours; doesn't block other work.
+3. Resolve the **mixed-leaf finding** from Entry 0006: are Wahlbereich/Musizieren leaves like `akademischer-chor-uebung-15688820` actually courses with `unitId=15688820` reachable via `detailView-flow`? Or is `15688820` a different segment kind?
+4. Probe `searchStudyCourseSchedule-flow` with a known PO-version (e.g. `exam:14867623` Lehramt Gym Info PO 2007) — does it list the courses for that PO?
+5. Probe `detailView-flow?unitId=…&periodId=…` and define the field set worth pulling (title, type, ECTS, Unterrichtssprache, instructors, Termine, Inhalte, module memberships, FAUdir links).
+6. Implement `scraper/parse_detail.py` + a `Course` dataclass; extend `render_markdown.py` to embed courses in the relevant content file.
+7. Apply F-TOKEN bucket policy.
+8. Wire up `.github/workflows/scrape-weekly.yml` so the weekly run is automated and a Release is cut.
+
+**Mid-entry, additional prompt (verbatim):**
+
+> All of the study programs have study regulations:
+> https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/#philosophische-fakultaet-und-fachbereich-theologie
+> We need to scrape them too and make them available as Markdowns too.
+>
+> On top of that every study program maintains additional information that also needs to be added as markdowns. An overview of this additional nested structure is here:
+> https://www.fau.de/studium/studienangebot/alle-studiengaenge/
+> We need to scrape all of this as markdown as well.
+
+Acknowledged but **deferred to Entry 0008** so this entry could close with a clean Campo deliverable. Sketch returned to user with three design questions (PDF text extraction yes/no, separate cadence, ordering); awaiting answers.
+
+**Actions taken in this entry:**
+
+1. **Probed `_flowId=detailView-flow&unitId=15688820`** for "Akademischer Chor" — Campo replied "Die Unit mit der ID 15.688.820 konnte nicht gefunden werden". So `exam:NNN` segment IDs are **not** course `unit_id`s.
+2. **Probed the parent catalogue page** (`title:17991`, *Musizieren an der Universität*) and found that each leaf row has a `_flowId=detailView-flow&unitId=NNN` link in its action column — Campo emits *both* a permalink (with `exam:` segment) and a detail-view link (with the real course `unitId`). Akademischer Chor: `exam:15688820` ↔ `unitId=92769`.
+3. **Updated `parse_tree.py`**: new `_unit_id_for_textarea()` walks back to the enclosing `<tr` and extracts the action-column `unitId`; `ParsedNode.unit_id` field added.
+4. **Updated `schema.py`**: new `Appointment` and `Course` dataclasses (Eckdaten + Termine + Lehrende + org-units).
+5. **Wrote `parse_detail.py`**: parses Veranstaltungsart / ECTS / Unterrichtssprache / Turnus from labelled blocks; pulls the Termine table (rhythm / weekday / time / date-range / room / instructors) from the stable `appointmentSeriesTableTable` `<tbody>`; strips Campo's "Elementdaten " title prefix.
+6. **Wrote `fetch_courses.py`**: dedupes `unit_id`s, GETs each detail page at 1 req/s, supports `--path-contains` for subset runs.
+7. **Extended `render_markdown.py`**: when a `--courses` JSON is provided, every leaf with a matching `unit_id` is rendered with full Eckdaten + Termine + Lehrende + Organisation tables; Katalog-Permalink and Veranstaltungs-Permalink both included.
+8. **Wrote `.github/workflows/scrape-weekly.yml`**: Mondays 03:00 UTC + manual dispatch; runs scrape → fetch_courses → render → commit → cuts a Release with the JSON intermediates as assets.
+9. **Wrote pytest fixtures + 15 tests** in `scraper/tests/` against real Campo HTML; all pass.
+10. **Ran the full pipeline** end-to-end: scrape (1895 nodes), fetch (683 unique unit_ids, 0 failures, 11 min wall), render (765 leaves embedded with full course content — same course referenced from multiple POs counts each time).
+11. (Pending) Commit + push.
+
+**Mid-flight bug fixes:**
+
+- `_label_value` was leaking `</label>` text into values — refactored to consume the entire opening label (including its closing tag) so the captured group starts at the value cell.
+- Title carried Campo's internal "Elementdaten " prefix — stripped explicitly in `_parse_permalink_and_title`.
+
+**Findings worth recording:**
+
+- The catalogue's `exam:NNN` segments **mix two semantically different things** at depth 4: PO-versions in faculty branches, and individual course events in cross-cutting branches (Musizieren, Frühstudium, FAU Scientia). Both look the same in HTML; the `unit_id` field is what distinguishes a course-leaf from a structural node.
+- Of the 1895 depth-4 nodes, **683 unique courses** are reachable as leaves (≈40% of leaves are course-bearing at this depth; the other 60% are PO-versions whose courses are deeper, not yet walked).
+- Course distribution across sections at depth 4: FAU Scientia 624 · Frühstudium 113 · Allg. Wahlbereich 27 · Phil Fak 1 · Tech/Nat/Med/RW Fak: 0. The big faculties' courses live deeper in the catalogue.
+
+**Open items pushed to Entry 0008+:**
+
+- O1 token-counting library (still unresolved; characters used as proxy for now).
+- Full-depth catalogue walk (`--max-depth 0`, hours) to pick up Tech/Nat/Med/RW Fak courses.
+- F-TOKEN bucket policy (merge thin / split thick) — most leaves are still tiny (~700 bytes) until courses attach.
+- **NEW for Entry 0008** (deferred via the user's mid-entry add): scrape `fau.de/.../pruefungsordnungen/` (≈50 landing pages + their PDFs) and `fau.de/studiengang/{slug}/` (222 program pages); cross-link to Campo nodes by name match.
+
+**Status:** Entry 0007 closes a complete Campo end-to-end. Entry 0008 will take on FAU.de regulations + program-info corpora.
+
 
 

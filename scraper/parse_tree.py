@@ -38,6 +38,9 @@ PERMALINK_TITLE_ATTR_RE = re.compile(
 PATH_PARAM_RE = re.compile(r"[?&]path=([^&\s\"']+)")
 PERIOD_PARAM_RE = re.compile(r"[?&]periodId=(\d+)")
 SEGMENT_RE = re.compile(r"^([a-z]+):(\d+)$", re.IGNORECASE)
+DETAIL_VIEW_UNIT_ID_RE = re.compile(
+    r'_flowId=detailView-flow[^"\s]*?unitId=(\d+)', re.IGNORECASE
+)
 
 
 @dataclass
@@ -47,6 +50,7 @@ class ParsedNode:
     segment: str        # e.g. "title:17593" or "exam:14867623"
     name: str
     path: list[str]     # inclusive: from root to this node
+    unit_id: int | None = None  # set when the row links to a course (detailView)
 
 
 def _decode_permalink(url: str) -> tuple[int, list[str]] | None:
@@ -77,13 +81,32 @@ def _decode_permalink(url: str) -> tuple[int, list[str]] | None:
     return period_id, segments
 
 
+def _unit_id_for_textarea(html: str, textarea_pos: int) -> int | None:
+    """If the row containing this textarea links to a course detail view,
+    return the linked ``unitId``; else ``None``.
+
+    We walk backwards from the textarea position to the enclosing ``<tr``
+    and search that slice for a ``detailView-flow&unitId=NNN`` href —
+    Campo emits the action button (detail link) earlier in the row than
+    the permalink popup, so the lookbehind is well-bounded.
+    """
+    row_start = html.rfind("<tr", 0, textarea_pos)
+    if row_start < 0:
+        return None
+    chunk = html[row_start:textarea_pos]
+    m = DETAIL_VIEW_UNIT_ID_RE.search(chunk)
+    return int(m.group(1)) if m else None
+
+
 def parse_nodes(html: str) -> list[ParsedNode]:
     """Extract every node-with-permalink from the rendered page.
 
     Each permalink ``<textarea>`` carries the full path in its body and the
     human-readable name in ``data-page-permalink-title``. The same node can
     appear in two textareas (inline + popup copy) — we deduplicate by
-    terminal segment.
+    terminal segment. If the row also has a ``detailView-flow`` action
+    button (i.e. the leaf points at a real course event), we attach the
+    ``unitId`` so the course-detail fetcher can use it directly.
     """
     seen: set[str] = set()
     nodes: list[ParsedNode] = []
@@ -105,7 +128,10 @@ def parse_nodes(html: str) -> list[ParsedNode]:
             if title_m
             else terminal
         )
-        nodes.append(ParsedNode(segment=terminal, name=name, path=segments))
+        unit_id = _unit_id_for_textarea(html, m.start())
+        nodes.append(
+            ParsedNode(segment=terminal, name=name, path=segments, unit_id=unit_id)
+        )
     return nodes
 
 

@@ -1,15 +1,40 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 87159
+segment: "exam:13839864"
 ---
 
 
 # OSS-NYT-PROJ - Nailing your Thesis (PROJ) - Hauptseminar
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13839864` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13839864` · **unitId:** `87159`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839808|exam:13839864>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839808|exam:13839864>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87159&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Hauptseminar |
+| Kurztext | OSS-NYT-PROJ |
+| ECTS-Punkte | 5.0 |
+| Unterrichtssprache | Englisch |
+| Turnus | Unregelmäßig |
+
+## Lehrende
+
+- **Verantwortlich:** Prof. Dr. Dirk Riehle
+
+## Termine
+
+_Keine festen Termine in der Termine-Tabelle gelistet (z. B. Block-Praktikum)._
+
+## Organisation / Studiengänge
+
+- ReWiFak | International Information Systems | Master of Science (Verantwortlicher) ReWiFak | Wirtschaftsinformatik | Bachelor of Science (Verantwortlicher)
+- TechFak | Informatik | Austauschstudium Bachelor (Verantwortlicher)
+- TechFak | Informatik | Austauschstudium Master (Verantwortlicher)
+- TechFak | Informatik | Austauschstudium Promotion (Verantwortlicher) Mehr

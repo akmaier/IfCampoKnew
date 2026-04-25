@@ -1,0 +1,81 @@
+"""Tests for ``parse_detail``.
+
+Two real course-detail fixtures (saved 2026-04-25):
+
+* ``detail_92769_chor.html`` — Akademischer Chor (Übung, weekly schedule).
+* ``detail_86267_praktikum_mustererkennung.html`` — Block Praktikum (no
+  fixed weekly slot).
+"""
+from __future__ import annotations
+
+import sys
+from pathlib import Path
+
+import pytest
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT_DIR))
+
+from parse_detail import parse_course_detail  # noqa: E402
+
+FIXTURES = Path(__file__).parent / "fixtures"
+
+
+@pytest.fixture(scope="module")
+def chor_html() -> str:
+    return (FIXTURES / "detail_92769_chor.html").read_text(encoding="utf-8")
+
+
+@pytest.fixture(scope="module")
+def mustererkennung_html() -> str:
+    return (FIXTURES / "detail_86267_praktikum_mustererkennung.html").read_text(
+        encoding="utf-8"
+    )
+
+
+def test_parse_chor_basic_data(chor_html):
+    c = parse_course_detail(chor_html, unit_id=92769, period_id=589)
+    assert c.title == "Akademischer Chor"
+    assert c.course_type == "Übung"
+    assert c.ects == 3.0
+    assert c.language == "Deutsch"
+    assert c.turnus == "in jedem Semester"
+    assert c.permalink.startswith("https://www.campo.fau.de")
+    assert "unitId=92769" in c.permalink
+
+
+def test_parse_chor_appointments(chor_html):
+    c = parse_course_detail(chor_html, unit_id=92769, period_id=589)
+    assert len(c.appointments) == 1
+    a = c.appointments[0]
+    assert a.rhythm == "wöchentlich"
+    assert a.weekday == "Mi"
+    assert a.time_from == "19:30"
+    assert a.time_to == "22:00"
+    assert a.date_from == "15.04.2026"
+    assert a.date_to == "15.07.2026"
+    assert "Jan Dolezel" in a.instructors
+
+
+def test_parse_mustererkennung_basic_data(mustererkennung_html):
+    c = parse_course_detail(mustererkennung_html, unit_id=86267, period_id=589)
+    assert c.title == "Praktikum Mustererkennung"
+    assert c.course_type == "Praktikum"
+    assert c.ects == 5.0
+    assert c.language == "Deutsch oder Englisch"
+    assert "Vincent Christlein" in (c.instructors_resp[0] if c.instructors_resp else "")
+
+
+def test_parse_mustererkennung_no_fixed_appointments(mustererkennung_html):
+    """A Block-Praktikum has no Termine rows."""
+    c = parse_course_detail(mustererkennung_html, unit_id=86267, period_id=589)
+    assert c.appointments == []
+
+
+def test_fallback_title_used_when_permalink_omits_it():
+    # Empty HTML — no permalink popup; the fallback should win.
+    c = parse_course_detail(
+        "<html></html>", unit_id=42, period_id=589, fallback_title="Dummy"
+    )
+    assert c.title == "Dummy"
+    assert c.unit_id == 42

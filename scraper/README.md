@@ -1,13 +1,15 @@
 # scraper
 
-Two-stage Python pipeline that turns the public Campo portal into the **markdown corpus** under [`../data/`](../data/) consumed by IfCampoKnew's downstream agents and tooling.
+Three-stage Python pipeline that turns the public Campo portal into the **markdown corpus** under [`../data/`](../data/) consumed by IfCampoKnew's downstream agents and tooling.
 
 ```
-Campo HTML ─▶ scrape.py ─▶ tmp/<period>.json ─▶ render_markdown.py ─▶ data/<period-slug>/
-                            (gitignored)                                   (committed)
+Campo HTML ─▶ scrape.py        ─▶ tmp/<period>.json
+              fetch_courses.py ─▶ tmp/<period>-courses.json
+              render_markdown  ─▶ data/<period-slug>/
+                                  (committed)
 ```
 
-The JSON file is an internal intermediate only — it lives in `tmp/` and is regenerated on every run. The deliverable is the markdown tree.
+The JSON files are internal intermediates only — they live in `tmp/` and are regenerated on every run. The deliverable is the markdown tree.
 
 ## Quick start
 
@@ -20,12 +22,20 @@ scraper/.venv/bin/pip install -r scraper/requirements.txt
 scraper/.venv/bin/python scraper/scrape.py \
     --period 589 --out tmp/589.json --max-depth 4 -v
 
-# 3. render the JSON into the hierarchical markdown corpus
+# 3. fetch every course-detail page referenced from the tree
+scraper/.venv/bin/python scraper/fetch_courses.py \
+    --in tmp/589.json --out tmp/589-courses.json -v
+
+# 4. render the JSON into the hierarchical markdown corpus
 scraper/.venv/bin/python scraper/render_markdown.py \
-    --in tmp/589.json --out data
+    --in tmp/589.json --courses tmp/589-courses.json --out data
 ```
 
-Result: `data/589-sommersemester-2026/INDEX.md` + nested folders/files for every catalogue node.
+Result: `data/589-sommersemester-2026/INDEX.md` + nested folders/files for every catalogue node, with course-leaves carrying full Eckdaten + Termine + Organisation tables.
+
+### Subset run (testing)
+
+`fetch_courses.py --path-contains title:17991` only fetches courses whose catalogue path includes that segment — handy for working on a single section (e.g. `title:17991` = *Musizieren an der Universität*) without hitting Campo for the full set.
 
 ### Going deeper
 
@@ -59,13 +69,16 @@ Walks until every branch hits its true leaf (the deepest `exam:` sub-section). E
 
 | File | Purpose |
 |------|---------|
-| `campo_client.py`   | HTTP session bootstrap (start-page → JSESSIONID) + 1 req/s rate limit + 5xx retry. |
-| `parse_tree.py`     | Catalogue HTML → `ParsedNode`s. Handles both `title:NNN` and `exam:NNN` segments. |
-| `parse_detail.py`   | *(phase 2)* Course-detail HTML → `Course`. |
-| `schema.py`         | `CatalogNode`, `CatalogSnapshot`, `Course` dataclasses + JSON shape. |
-| `render_markdown.py`| JSON snapshot → hierarchical markdown corpus with stable, ASCII-folded German slugs. |
-| `scrape.py`         | CLI: BFS walk of the catalogue. |
-| `tests/`            | *(phase 2)* pytest fixtures + parser unit tests. |
+| `campo_client.py`     | HTTP session bootstrap (start-page → JSESSIONID) + 1 req/s rate limit + 5xx retry. |
+| `parse_tree.py`       | Catalogue HTML → `ParsedNode`s; pairs each leaf with its `unit_id` from the action-column `detailView` link. |
+| `parse_detail.py`     | Course-detail HTML → `Course` (Eckdaten + Termine + instructors + org-units). |
+| `schema.py`           | `CatalogNode`, `CatalogSnapshot`, `Course`, `Appointment` dataclasses + JSON shape. |
+| `scrape.py`           | CLI: BFS walk of the catalogue. |
+| `fetch_courses.py`    | CLI: GETs every unique `unit_id` referenced in the tree, parses to `Course`. |
+| `render_markdown.py`  | JSON snapshots → hierarchical markdown corpus with stable, ASCII-folded German slugs. |
+| `tests/`              | pytest fixtures (real Campo HTML) + unit tests for both parsers. Run with `pytest scraper/tests/`. |
+| `requirements.txt`    | `requests`, `lxml`. |
+| `requirements-dev.txt`| Adds `pytest`. |
 
 ## Notes for AI consumers / agents
 

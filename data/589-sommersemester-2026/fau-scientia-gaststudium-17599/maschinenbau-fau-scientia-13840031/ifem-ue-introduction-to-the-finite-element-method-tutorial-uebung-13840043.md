@@ -1,15 +1,45 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 85128
+segment: "exam:13840043"
 ---
 
 
 # IFEM (UE) - Introduction to the Finite Element Method - Tutorial - Übung
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13840043` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13840043` · **unitId:** `85128`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840031|exam:13840043>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840031|exam:13840043>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85128&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Übung |
+| Kurztext | IFEM (UE) |
+| Unterrichtssprache | Englisch |
+| Turnus | nur im Sommersemester |
+
+## Lehrende
+
+- **Verantwortlich:** PD Dr.-Ing. Sebastian Pfaller
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| — | wöchentlich | — | 25.05.2026 | 100 | — |
+
+**Ausfalltermine:**
+- 16:15, -, 17:45
+
+## Organisation / Studiengänge
+
+- Lehrstuhl für Technische Mechanik (Verantwortlicher)
+- TechFak | Computational Engineering | Austauschstudium Bachelor (Verantwortlicher)
+- TechFak | Computational Engineering | Austauschstudium Master (Verantwortlicher)
+- TechFak | Computational Engineering | Austauschstudium Promotion (Verantwortlicher)
+- TechFak | Computational Engineering | Bachelor of Science (Verantwortlicher) Mehr

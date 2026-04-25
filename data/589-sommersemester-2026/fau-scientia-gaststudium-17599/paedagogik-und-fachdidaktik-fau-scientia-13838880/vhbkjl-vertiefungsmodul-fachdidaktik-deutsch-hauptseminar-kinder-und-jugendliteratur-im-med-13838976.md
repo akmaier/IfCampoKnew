@@ -1,15 +1,46 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 85434
+segment: "exam:13838976"
 ---
 
 
 # VHBKJL - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Kinder- und Jugendliteratur im Medienverbund (VHB) - Online-Kurs
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13838976` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13838976` · **unitId:** `85434`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838880|exam:13838976>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838880|exam:13838976>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85434&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Online-Kurs |
+| Kurztext | VHBKJL |
+| ECTS-Punkte | 4.0 |
+| Unterrichtssprache | Deutsch |
+| Turnus | in jedem Semester |
+
+## Lehrende
+
+- **Verantwortlich:** Axel Krommer
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| — | wöchentlich | — | 26.05.2026 | — | — |
+
+**Ausfalltermine:**
+- 13:00, -, 15:00
+
+## Organisation / Studiengänge
+
+- Lehrstuhl für Didaktik der deutschen Sprache und Literatur (Verantwortlicher)
+- PhilFak | Deutsch | Lehramt Grundschule (Verantwortlicher)
+- PhilFak | Deutsch | Lehramt Grundschule o. Didak (Verantwortlicher)
+- PhilFak | Deutsch | Lehramt Hauptschule (Verantwortlicher)
+- PhilFak | Deutsch | Lehramt Mittelschule (Verantwortlicher) Mehr

@@ -1,15 +1,46 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 91602
+segment: "exam:13838270"
 ---
 
 
 # CA: Ikonographie - Einführung in die christliche Ikonographie - Einführungskurs
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13838270` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13838270` · **unitId:** `91602`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838270>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838270>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91602&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Einführungskurs |
+| Kurztext | CA: Ikonographie |
+| ECTS-Punkte | 3.0 |
+| Unterrichtssprache | Deutsch |
+| Turnus | nur im Sommersemester |
+
+## Lehrende
+
+- **Verantwortlich:** Prof. Dr. Ute Verstegen Dr. Arabella Cortese
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | — | — |
+
+**Ausfalltermine:**
+- 14:00, -, 16:00, c.t.
+
+## Organisation / Studiengänge
+
+- PhilFak | Medien-Ethik-Religion | Austauschstudium Master (Verantwortlicher)
+- PhilFak | Medien-Ethik-Religion | Master of Arts (Verantwortlicher)
+- PhilFak | Archäologische Wissenschaften | Austauschstudium Bachelor (Verantwortlicher)
+- PhilFak | Archäologische Wissenschaften | Austauschstudium Master (Verantwortlicher)
+- PhilFak | Archäologische Wissenschaften | Bachelor of Arts (1 Fach) (Verantwortlicher) Mehr

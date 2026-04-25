@@ -1,15 +1,43 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 83676
+segment: "exam:13838224"
 ---
 
 
-# - Makroökonomie - Vorlesung
+# Makroökonomie - Vorlesung
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13838224` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13838224` · **unitId:** `83676`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838224>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838224>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83676&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Vorlesung |
+| ECTS-Punkte | 2.5 |
+| Unterrichtssprache | Deutsch |
+| Turnus | nur im Sommersemester |
+
+## Lehrende
+
+- **Verantwortlich:** Prof. Dr. Claus Schnabel
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| — | wöchentlich | — | 25.05.2026 | — | — |
+
+**Ausfalltermine:**
+- 11:30, -, 13:00
+
+## Organisation / Studiengänge
+
+- PhilFak | Chinese Studies with an Optional Focus | Master of Arts (Verantwortlicher)
+- PhilFak | Wirtschaftswissenschaften (ER) | Lehramt Gymnasium (Verantwortlicher)
+- PhilFak | Wirtschaftswissenschaften (ER) | Lehramt Realschule (Verantwortlicher) ReWiFak | International Business Studies | Bachelor of Arts (1 Fach) (Verantwortlicher) ReWiFak | Sozialökonomik | Bachelor of Arts (1 Fach) (Verantwortlicher) Mehr

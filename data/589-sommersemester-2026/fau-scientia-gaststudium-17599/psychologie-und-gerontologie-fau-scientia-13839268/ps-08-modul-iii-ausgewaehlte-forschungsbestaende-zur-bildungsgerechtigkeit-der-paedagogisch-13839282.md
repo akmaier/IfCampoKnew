@@ -1,15 +1,40 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 88288
+segment: "exam:13839282"
 ---
 
 
 # PS 08 - Modul III: Ausgewählte Forschungsbestände zur Bildungsgerechtigkeit der Pädagogischen Psychologie - Seminar
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13839282` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13839282` · **unitId:** `88288`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839268|exam:13839282>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839268|exam:13839282>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88288&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Seminar |
+| Kurztext | PS 08 |
+| ECTS-Punkte | 5.0 |
+| Unterrichtssprache | Deutsch |
+| Turnus | in jedem Semester |
+
+## Lehrende
+
+- **Verantwortlich:** Prof. Dr. Albert Ziegler
+
+## Termine
+
+_Keine festen Termine in der Termine-Tabelle gelistet (z. B. Block-Praktikum)._
+
+## Organisation / Studiengänge
+
+- PhilFak | Erziehungswissenschaften | LA Kunst Nbg (Verantwortlicher) Lehrstuhl für Pädagogische Psychologie und Exzellenzforschung (Verantwortlicher)
+- PhilFak | Erziehungswissenschaften | Lehramt Gymnasium (Verantwortlicher)
+- PhilFak | Erziehungswissenschaften | Lehramt Realschule (Verantwortlicher)
+- PhilFak | Erziehungswissenschaften | Master of Education LAG (Verantwortlicher) Mehr

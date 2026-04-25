@@ -1,15 +1,33 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 82218
+segment: "exam:15688817"
 ---
 
 
-# - Stimmbildung und Sprecherziehung (Simon) - Übung
+# Stimmbildung und Sprecherziehung (Simon) - Übung
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:15688817` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:15688817` · **unitId:** `82218`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17991|exam:15688817>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17991|exam:15688817>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82218&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Übung |
+| Unterrichtssprache | Deutsch |
+| Turnus | in jedem Semester |
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — | Markus Simon |
+
+## Organisation / Studiengänge
+
+Professur für Kirchenmusik (Verantwortlicher)

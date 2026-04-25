@@ -1,15 +1,37 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 99592
+segment: "exam:13839791"
 ---
 
 
-# - Übung zu Product Engineering für LSE (MVTII) - Übung
+# Übung zu Product Engineering für LSE (MVTII) - Übung
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:13839791` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:13839791` · **unitId:** `99592`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839715|exam:13839791>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839715|exam:13839791>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99592&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Übung |
+| Unterrichtssprache | Deutsch |
+| Turnus | nur im Sommersemester |
+
+## Lehrende
+
+- **Verantwortlich:** PD Dr. Jochen Schmidt
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | — | PD Dr. Jochen Schmidt |
+
+## Organisation / Studiengänge
+
+Lehrstuhl für Interfaces und Partikeltechnologie (Verantwortlicher)

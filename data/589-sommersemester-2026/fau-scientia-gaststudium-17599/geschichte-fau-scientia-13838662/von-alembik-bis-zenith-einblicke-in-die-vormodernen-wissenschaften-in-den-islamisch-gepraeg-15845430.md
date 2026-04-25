@@ -1,15 +1,42 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
+unit_id: 135705
+segment: "exam:15845430"
 ---
 
 
-# - Von Alembik bis Zenith. Einblicke in die vormodernen Wissenschaften in den islamisch geprägten Gesellschaften. - Seminar
+# Von Alembik bis Zenith. Einblicke in die vormodernen Wissenschaften in den islamisch geprägten Gesellschaften. - Seminar
 
-**Period:** Sommersemester 2026 · **Segment:** `exam:15845430` · **Depth:** 4
+**Period:** Sommersemester 2026 · **Segment:** `exam:15845430` · **unitId:** `135705`
 
-**Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838662|exam:15845430>
+**Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838662|exam:15845430>
 
-## Status
+**Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135705&periodId=589>
 
-This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+## Eckdaten
+
+| Feld | Wert |
+|---|---|
+| Veranstaltungsart | Seminar |
+| Unterrichtssprache | Deutsch |
+| Turnus | nur im Sommersemester |
+
+## Lehrende
+
+- **Verantwortlich:** Prof. Dr. Georges Tamer
+
+## Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
+|---|---|---|---|---|---|
+| — | wöchentlich | — | 29.04.2026 | — | — |
+
+**Ausfalltermine:**
+- 12:00, -, 14:00
+
+## Organisation / Studiengänge
+
+- Lehrstuhl für Orientalische Philologie und Islamwissenschaft (Verantwortlicher)
+- PhilFak | Arabistik, Islamwissenschaft, Semitistik | Austauschstudium Master (Verantwortlicher)
+- PhilFak | Arabistik, Islamwissenschaft, Semitistik | Master of Arts (Verantwortlicher)

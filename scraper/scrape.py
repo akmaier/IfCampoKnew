@@ -81,9 +81,14 @@ def walk_tree(
                 name=p.name,
                 path=list(p.path),
                 parent_segment=parent_segment,
+                unit_id=p.unit_id,
             )
-        elif p.name and not nodes[p.segment].name:
-            nodes[p.segment].name = p.name
+        else:
+            existing = nodes[p.segment]
+            if p.name and not existing.name:
+                existing.name = p.name
+            if p.unit_id and not existing.unit_id:
+                existing.unit_id = p.unit_id
         return nodes[p.segment]
 
     # record root + its immediate children from the root page.
