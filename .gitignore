@@ -15,11 +15,12 @@ build/
 .env
 .env.local
 
-# Python (if we choose Python for the scraper)
+# Python (scraper)
 __pycache__/
 *.pyc
 .venv/
 venv/
+scraper/.venv/
 
 # Local scratch / exploration
 tmp/
