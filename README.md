@@ -82,7 +82,7 @@ Browse the result under `data/`.
 | Monthly GitHub Action — FAU.de | ✅ | First of each month, 04:00 UTC. |
 | Full-depth catalogue walk | ⏳ | `--max-depth 0` to bottom out every `exam:` chain; capture Tech/Nat/Med/RW Fak courses (deeper than 4). |
 | F-TOKEN bucket policy | ⏳ | Merge thin / split thick content files into 10–30 k-token chunks. |
-| Cross-link Campo ↔ FAU.de | ⏳ | Every Campo program node gets a "Siehe auch" line pointing to the FAU.de page + matching PO PDF. |
+| Cross-link Campo ↔ FAU.de | ✅ | Each Campo program-level INDEX.md links to matching `studiengang/{slug}.md` + PO landing folder; each PO-version leaf links to dated `pruefungsordnungen/.../{pdf}.md` files (year-matched). |
 | Archive prior years | later | `archive/{year-slug}/` per completed academic year. |
 
 See [`docs/requirements.md` §9](docs/requirements.md) for the full plan and open items (token-counting library, course-association strategy, next semester's `periodId`).
