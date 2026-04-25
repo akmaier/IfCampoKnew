@@ -53,6 +53,57 @@ class CatalogNode:
 
 
 @dataclass
+class Appointment:
+    """One row of the *Termine* (schedule) table on a course-detail page."""
+
+    rhythm: Optional[str] = None  # "wöchentlich", "einmalig", "Block", …
+    weekday: Optional[str] = None  # "Mo", "Di", "Mi", …
+    time_from: Optional[str] = None  # "HH:MM"
+    time_to: Optional[str] = None  # "HH:MM"
+    date_from: Optional[str] = None  # "DD.MM.YYYY"
+    date_to: Optional[str] = None  # "DD.MM.YYYY"
+    room: Optional[str] = None
+    instructors: list[str] = field(default_factory=list)
+    cancelled_dates: list[str] = field(default_factory=list)
+    note: Optional[str] = None
+
+    def to_dict(self) -> dict:
+        return asdict(self)
+
+
+@dataclass
+class Course:
+    """One course event (Lehrveranstaltung) with its public detail data.
+
+    Mirrors the Termine tab of Campo's ``detailView-flow`` page; richer
+    tabs (Inhalte, Module/Studiengänge, Dokumente) are filled in only
+    when the renderer asks for them.
+    """
+
+    unit_id: int
+    period_id: int
+    title: str
+    permalink: str
+    course_type: Optional[str] = None  # Vorlesung / Seminar / Übung / Praktikum
+    short_text: Optional[str] = None
+    ects: Optional[float] = None
+    language: Optional[str] = None
+    turnus: Optional[str] = None
+    instructors_resp: list[str] = field(default_factory=list)
+    instructors_exec: list[str] = field(default_factory=list)
+    appointments: list[Appointment] = field(default_factory=list)
+    org_unit: Optional[str] = None
+    description: Optional[str] = None  # Inhalte tab — filled if available
+    extra_links: list[tuple[str, str]] = field(default_factory=list)  # (label, url)
+
+    def to_dict(self) -> dict:
+        d = asdict(self)
+        # appointments serialise themselves
+        d["appointments"] = [a.to_dict() for a in self.appointments]
+        return d
+
+
+@dataclass
 class CatalogSnapshot:
     """A complete per-semester catalogue tree."""
 
