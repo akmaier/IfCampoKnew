@@ -499,8 +499,8 @@ PO-version-level matching (Campo `exam:NNN` → specific PDF by version year) is
 ## Entry 0010 — PO-version → PDF matching + full-depth walk
 
 - **Start:** 2026-04-25 21:08 CEST
-- **End:** 2026-04-25 21:24 CEST
-- **Duration:** ~16 min (interactive); plus a long-running BG walk
+- **End:** 2026-04-25 21:32 CEST
+- **Duration:** ~24 min (interactive); plus a long-running BG walk
 
 **Prompt (verbatim):**
 
@@ -532,6 +532,16 @@ PO-version-level matching (Campo `exam:NNN` → specific PDF by version year) is
 5. 15-test pytest suite still green.
 
 **Status:** Entry 0010 ships PO-version precision links. Awaiting full-depth walk for course-content attachment under Tech/Nat/Med/RW Fak.
+
+**Mid-entry extension — Lehramt-PDF fallback:**
+
+After committing the PO-version matching (commit `5c2a018`), surveyed unmatched program nodes — 87 of 211 still without any FAU link. Most fall into two buckets: (a) Wahlbereich / Veranstaltungen-aus-X umbrella nodes that intentionally have no FAU page (≈ 28), and (b) Lehramt-subject nodes (Englisch für das Lehramt, Mathematik, Chinesisch, …) which have no `/studiengang/` page but do have a regulation PDF under `pruefungsordnungen/lehramt/lehramtsfaecher/`.
+
+Added a third lookup index in `load_fau_index()` (`lehramt_pdfs`) and a `_lehramt_pdf_matches()` helper that requires the Campo slug (or a known abbreviation: `mathematik→mathe`, `wirtschaftswissenschaften→wirtschaftswiss`, `evangelische→ev`, `katholische→kath`, `informationstechnologie→it`) to appear as a complete hyphen token in a PDF stem. Stopwords (`lehramt`, `fuer`, `der`, …) are filtered first, so umbrella nodes like "FAU Lehramt International" don't false-positive every PDF.
+
+Match-rate after the fallback: **152 / 211 program-level nodes (72 %)** — 124 via Studiengang/PO-folder, 28 newly via Lehramt PDFs. Three new tests for the fallback (subject exact, abbrev map, stopword guard); total suite 45 cases passing.
+
+Commits: `5c2a018` (PO-version matching), `a61a838` (tests + README), `c93bf3d` (Lehramt fallback + tests).
 
 
 
