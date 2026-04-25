@@ -1,0 +1,422 @@
+---
+kind: "fau-pruefungsordnung-document"
+title: "FPOManagement 20240229.pdf"
+pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Management/konsolidierte_Fassungen/FPOManagement_20240229.pdf
+parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
+scraped_at: 2026-04-25T16:32:58+00:00
+page_count_chars: 41498
+---
+
+# FPOManagement 20240229.pdf
+
+**PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Management/konsolidierte_Fassungen/FPOManagement_20240229.pdf>
+**Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
+
+## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOManagement – Vom 29. Februar 2024** 
+
+Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 9 Satz 1, Art. 90 Abs. 1 Satz 2 und 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Studien- und Prüfungsordnung: 
+
+## **Inhaltsverzeichnis:** 
+
+§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Zugangskommission zum Masterstudiengang ................................................................. 1 § 3 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................. 1 § 4 Umfang und Gliederung des Masterstudiums, Prüfungen,  Unterrichts- und Prüfungssprache, Teilzeitstudium .......................................................................................... 5 § 5 Vertiefungsbereich ........................................................................................................... 6 § 6 Inkrafttreten und Übergangsvorschriften .......................................................................... 8 Anlage 1: Zugangstest ..........................................................................................................10 Anlage 2: Studienverlaufsplan Master Management: Vollzeitstudium ...................................12 Studienverlaufsplan Master Management: Teilzeitstudium ...................................................15 
+
+## **§ 1 Geltungsbereich** 
+
+Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiven Masterstudiengang „Management“ mit dem Abschlussziel des „Master of Science“ ergänzt die Rahmenprüfungsordnung für die Masterstudiengänge im Fachbereich Wirtschafts- und Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU – **MPOWISO** – in der jeweils geltenden Fassung. 
+
+## **§ 2 Zugangskommission zum Masterstudiengang** 
+
+Die Zugangskommission zum Masterstudiengang Management gemäß § 11 **MPOWISO** besteht aus einer Professorin bzw. einem Professor als der bzw. dem Vorsitzenden, zwei weiteren Hochschullehrerinnen bzw. Hochschullehrern, wovon mindestens eine bzw. einer der Gruppe der hauptberuflichen Hochschullehrerinnen und Hochschullehrer i. S. d. Art. 19 **BayHIG** angehören muss, sowie einem weiteren prüfungsberechtigten Mitglied des Fachbereichs. 
+
+## **§ 3 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
+
+(1) Als einschlägiger Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **MPOWISO** wird ein Bachelorabschluss in einem wirtschaftswissenschaftlichen Studiengang (insbesondere Bachelorstudiengang Wirtschaftswissenschaften an der FAU sowie vergleichbare Studiengänge anderer Hochschulen) oder einem nicht-wirtschaftswissenschaftlichen Studiengang anerkannt. 
+
+1 
+
+- (2)[1] Folgende weitere Unterlagen im Sinne der Nr. 2.3.3 **Anlage MPOWISO** sind vorzulegen: 
+
+1. Nachweis des bestandenen Zugangstests gemäß **Anlage 1** bzw. im Falle der **Anlage 1** Nr. 2.3 ein Nachweis des Graduate Management Admission Tests® (GMAT) mit mindestens 600 Punkten (Score Report) bzw. Nachweis des Graduate Management Admission Tests Focus Edition® (GMAT Focus Edition) mit mindestens 565 Punkten (Score Report); der Nachweis des Zugangstests bzw. GMAT bzw. GMAT Focus Edition darf nicht älter als zwei Jahre sein, 
+
+2. Nachweis über Sprachkenntnisse entweder 
+
+   - a) für das Masterstudium in deutscher Sprache Kenntnisse der deutschen Sprache auf dem Niveau DSH-2, nachgewiesen durch die Deutsche Sprachprüfung für den Hochschulzugang mit einem Ergebnis zwischen 67 und 81 oder höher oder äquivalente Nachweise, insbesondere dem Test Deutsch als Fremdsprache auf dem Niveau 4 (TDN-4) oder 
+
+   - b) für das Masterstudium in englischer Sprache Kenntnisse der englischen Sprache auf dem Niveau von mindestens C1 des Gemeinsamen Europäischen Referenzrahmens (GER); der Nachweis kann entweder durch den Nachweis des erfolgreichen Test of English as a Foreign Language (TOEFL) mit mindestens 105 Punkten im iBT oder International English Language Testing System (IELTS) 7.5 oder höher oder durch vergleichbare Nachweise erbracht werden; 
+
+   - der Nachweis ist nicht erforderlich, wenn die Bewerberin bzw. der Bewerber den ersten berufsqualifizierenden Abschluss oder die Hochschulzugangsberechtigung in deutscher oder englischer Sprache erworben hat; der Nachweis der deutschen Sprachkenntnisse nach Buchst. a) kann bis zur Immatrikulation nachgereicht werden, sofern zu Bewerbungsschluss Deutschkenntnisse durch das Goethe-Zertifikat B2, telc-Zertifikat B2 oder höher oder durch vergleichbare Zertifikate nachgewiesen werden. 
+
+3. Nachweis über qualifizierte Auslandsaufenthalte (Leistungsnachweis inkl. Nachweis über den genauen Zeitraum, eine Tätigkeitsbeschreibung (bei Auslandssemestern beispielsweise eine Übersicht mit den im Ausland belegten Kursen) und das Aufenthaltsland des Auslandsaufenthaltes), soweit vorhanden und 
+
+4. Nachweis über kaufmännische oder vergleichbare einschlägige Berufserfahrung (Zeugnisse bzw. Arbeitsbescheinigungen; Nachweise müssen Beschäftigungszeitraum, die exakte wöchentliche Arbeitszeit in Stunden und eine Beschreibung der ausgeführten Tätigkeiten enthalten), soweit vorhanden. 
+
+- 2Auslandsaufenthalte gelten als „qualifiziert“ i. S. d. Satz 1 Nr. 3, wenn es sich um Aufenthalte mit betriebswirtschaftlichem Bezug handelt und Sprachkenntnisse erforderlich sind, die von denjenigen abweichen, die im Land des regelmäßigen Aufenthalts der Bewerberin bzw. des Bewerbers erforderlich sind (bspw. Auslandssemester an Hochschulen im Ausland mit absolvierten Kursen, die einen betriebswirtschaftlichen Bezug aufweisen oder Auslandspraktika, in deren Rahmen kaufmännische Tätigkeiten übernommen wurden). 
+
+(3)[1] In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Nr. 2.3 **Anlage MPOWISO** und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden, maximal zu vergebenden Punkten gemäß Nr. 5.1 **Anlage MPOWISO** bewertet: 
+
+1. 1Qualität des bisherigen Studienabschlusses bzw. der bisherigen Studienleistungen anhand des Notendurchschnitts (max. 50 Punkte).[2] Die Punktevergabe erfolgt anhand des folgenden Bewertungsschemas: 
+
+2 
+
+|**Tabelle 1: Punktevergabe nach § 3 Abs. 3 Satz 1**|**Tabelle 1: Punktevergabe nach § 3 Abs. 3 Satz 1**|**Tabelle 1: Punktevergabe nach § 3 Abs. 3 Satz 1**|**Tabelle 1: Punktevergabe nach § 3 Abs. 3 Satz 1**|**Nr. 1**||||
+|---|---|---|---|---|---|---|---|
+|**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|
+|1,0|50,0|1,8|44,0|2,6|32,5|3,4|16,0|
+|1,1|49,5|1,9|43,0|2,7|31,0|3,5|13,5|
+|1,2|49,0|2,0|41,5|2,8|29,0|3,6|11,0|
+|1,3|48,5|2,1|40,5|2,9|27,0|3,7|8,5|
+|1,4|47,5|2,2|39,0|3,0|25,0|3,8|5,5|
+|1,5|47,0|2,3|37,5|3,1|23,0|3,9|3,0|
+|1,6|46,0|2,4|36,0|3,2|20,5|4,0|0,0|
+|1,7|45,0|2,5|34,5|3,3|18,5|||
+
+
+
+|**Tabelle 1: Punktevergabe nach § 3 Abs. 3 Satz 1**|**Tabelle 1: Punktevergabe nach § 3 Abs. 3 Satz 1**|**Tabelle 1: Punktevergabe nach § 3 Abs. 3 Satz 1**|**Tabelle 1: Punktevergabe nach § 3 Abs. 3 Satz 1**|**Nr. 1**||||
+|---|---|---|---|---|---|---|---|
+|**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|
+|1,0|50,0|1,8|44,0|2,6|32,5|3,4|16,0|
+|1,1|49,5|1,9|43,0|2,7|31,0|3,5|13,5|
+|1,2|49,0|2,0|41,5|2,8|29,0|3,6|11,0|
+|1,3|48,5|2,1|40,5|2,9|27,0|3,7|8,5|
+|1,4|47,5|2,2|39,0|3,0|25,0|3,8|5,5|
+|1,5|47,0|2,3|37,5|3,1|23,0|3,9|3,0|
+|1,6|46,0|2,4|36,0|3,2|20,5|4,0|0,0|
+|1,7|45,0|2,5|34,5|3,3|18,5|||
+
+
+
+2. 1Ergebnis des Zugangstests; Bewertung anhand der im Zugangstest erzielten Note (max. 30 Punkte).[2] Die Punktevergabe erfolgt anhand des folgenden Bewertungsschemas: 
+
+**Tabelle 2: Punktevergabe nach § 3 Abs. 3 Satz 1 Nr. 2 Alt. 1** 
+
+|**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|
+|---|---|---|---|---|---|---|---|
+|1,0|30,0|1,8|24,0|2,6|18,0|3,4|8,0|
+|1,1|30,0|1,9|24,0|2,7|14,0|3,5|8,0|
+|1,2|30,0|2,0|21,0|2,8|14,0|3,6|8,0|
+|1,3|28,0|2,1|21,0|2,9|14,0|3,7|4,0|
+|1,4|28,0|2,2|21,0|3,0|11,0|3,8|4,0|
+|1,5|28,0|2,3|18,0|3,1|11,0|3,9|4,0|
+|1,6|28,0|2,4|18,0|3,2|11,0|4,0|1,0|
+|1,7|24,0|2,5|18,0|3,3|8,0|||
+
+
+
+3Alternativ erfolgt die Bewertung anhand der im Graduate Management Admission Test® (GMAT) erzielten Punktzahl (max. 30 Punkte).[4] Die Punktevergabe erfolgt anhand des folgenden Bewertungsschemas: 
+
+**Tabelle 3: Punktevergabe nach § 3 Abs. 3 Satz 1 Nr. 2 Alt. 2** 
+
+|**GMAT**<br>**Score**|**Punkte**|**GMAT**<br>**Score**|**Punkte**|**GMAT**<br>**Score**|**Punkte**|
+|---|---|---|---|---|---|
+|800|30,0|730|24,0|660|17,0|
+|790|29,5|720|23,0|650|16,0|
+|780|29,0|710|22,0|640|15,0|
+|770|28,0|700|21,0|630|14,0|
+|760|27,0|690|20,0|620|13,0|
+|750|26,0|680|19,0|610|12,0|
+|740|25,0|670|18,0|600|11,0|
+
+
+
+5Alternativ erfolgt die Bewertung anhand der im Graduate Management Admission Test Focus Edition® (GMAT Focus Edition) erzielten Punktzahl (max. 30 Punkte). 6Die Punktevergabe erfolgt anhand des folgenden Bewertungsschemas: 
+
+3 
+
+**Tabelle 4: Punktevergabe nach § 3 Abs. 3 Satz 1 Nr. 2 Alt. 3** 
+
+|**Punkte**|**GMAT**<br>**Focus**<br>**Edition**<br>**Score**|**Punkte**|**GMAT**<br>**Focus**<br>**Edition**<br>**Score**|**Punkte**|
+|---|---|---|---|---|
+|30,0|685|24,0|605|17,0|
+|29,5|675|23,0|595|16,0|
+|29,0|655|22,0|585|15,0|
+|28,0|645|21,0|580|14,0|
+|27,0|635|20,0|575|13,0|
+|26,0|615|19,0|570|12,0|
+|25,0|610|18,0|565|11,0|
+
+
+
+2Bewerberinnen bzw. Bewerber, die in der Bewertung der beiden Kriterien nach Satz 1 mindestens 65 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung.[3] Werden in der ersten Stufe zwischen 64 und 45 Punkte erreicht, schließt sich die zweite Stufe nach Abs. 4 an.[4] Werden in der ersten Stufe weniger als 45 Punkte erreicht, gelten Bewerberinnen und Bewerber als ungeeignet und erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
+
+(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2.1 **Anlage MPOWISO** werden die Unterlagen der Bewerberinnen bzw. Bewerber, die im Bereich von 64 und 45 Punkten liegen, auf Basis folgender Kriterien mit den nachstehenden, maximal zu vergebenden Punkten bewertet: 
+
+1. 1Umfang und Dauer qualifizierter Auslandsaufenthalte; Bewertung anhand der nach Abs. 2 Nr. 2 eingereichten Unterlagen (max. 10 Punkte).[2] Die Punktevergabe erfolgt anhand des folgenden Bewertungsschemas: 
+
+## **Tabelle 5: Punktevergabe nach § 3 Abs. 4 Satz 1 Nr. 1** 
+
+|**Qualifizierter Auslandsaufenthalt**<br>**(in Monaten)**|**Punkte**|**Qualifizierter Auslandsaufenthalt**<br>**(in Monaten)**|**Punkte**|
+|---|---|---|---|
+|Ab 6|10|2|2|
+|5|8|1|1|
+|4|6|0|0|
+|3|4|||
+
+
+
+2. 1Umfang und Dauer kaufmännischer oder vergleichbarer einschlägiger berufspraktischer Tätigkeiten, insbesondere Praktika, Berufsausbildung oder Werkstudententätigkeiten; Bewertung anhand der nach Abs. 2 Nr. 3 eingereichten Unterlagen und gemessen in Vollzeitäquivalenten (max. 10 Punkte).[2] Die Punktevergabe erfolgt anhand des folgenden Bewertungsschemas: 
+
+**Tabelle 6: Punktevergabe nach § 3 Abs. 4 Satz 1 Nr. 2** 
+
+|<br>**Berufserfahrung**<br>**(in Wochen)**|<br>**Punkte**|<br>**Berufserfahrung**<br>**(in Wochen)**|**Punkte**|
+|---|---|---|---|
+|Ab 46|10|22|5|
+|45|9|21|5|
+|44|9|20|4|
+|43|9|19|4|
+|42|9|18|4|
+|41|9|17|4|
+|40|8|16|4|
+|39|8|15|3|
+|38|8|14|3|
+|37|8|13|3|
+|36|8|12|3|
+|35|7|11|3|
+|34|7|10|2|
+
+
+
+4 
+
+|**Berufserfahrung**<br>**(in Wochen)**|**Punkte**|**Berufserfahrung**<br>**(in Wochen)**|**Punkte**|
+|---|---|---|---|
+|33|7|9|2|
+|32|7|8|2|
+|31|7|7|2|
+|30|6|6|2|
+|29|6|5|1|
+|28|6|4|1|
+|27|6|3|1|
+|26|6|2|1|
+|25|5|1|1|
+|24|5|0|0|
+|23|5|||
+
+
+
+2Bewerberinnen und Bewerber, die in der Bewertung der ersten und zweiten Stufe in der Summe mindestens 65 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung.[3] Alle übrigen Bewerberinnen und Bewerber gelten als nicht geeignet und erhalten einen mit Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
+
+## **§ 4 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichts- und Prüfungssprache, Teilzeitstudium** 
+
+(1)[1] Im ersten und zweiten Semester werden ganzheitliche Perspektiven des Managements in den drei Wahlpflichtbereichen „Management foundations“ (20 ECTS-Punkte), „Finance & Controlling“ (5 ECTS-Punkte) und „Project, presentation, and team skills“ (10 ECTS-Punkte) vermittelt.[2] Der Wahlpflichtbereich „Management foundations“ umfasst Grundlagen-Veranstaltungen aus den Disziplinen des strategischen Managements, der Personalführung, der Logistik, des industriellen Managements, sowie des Innovations- und Nachhaltigkeitsmanagements und vermittelt somit die relevanten Grundkenntnisse im Bereich Management.[3] Der Wahlpflichtbereich „Finance & Controlling“ umfasst Veranstaltungen, in denen die für Managementpositionen vorausgesetzten finanziellen Grundlagen erlernt werden.[4] Der Wahlpflichtbereich „Project, presentation, and team skills“ ergänzt die Grundlagen-Veranstaltungen mit Seminaren, die Soft Skills in den Bereichen Präsentations- und Teamfähigkeiten vermitteln sowie den Anwendungsbezug der erlernten Kenntnisse durch Praxisseminare und die Arbeit mit Fallstudien sicherstellen.[5] Zusätzlich belegen die Studierenden im ersten bis dritten Semester Module im Umfang von 55 ECTS-Punkten im Vertiefungsbereich.[6] Aus den einzelnen Vertiefungsbereichen kann dabei in beliebiger Zusammensetzung nach § 4 gewählt werden.[7] Art und Umfang der Prüfungen bestimmen sich nach **Anlage 2** und den §§ 16 – 18b **MPOWISO** .[8] Im Modul Masterarbeit (30 ECTS-Punkte) ist die Masterthesis zu erstellen.[9] Sollte die Masterarbeit an einem Lehrstuhl des Fachbereichs verfasst werden, welcher nicht dem Institut für Management angehört, so hat die bzw. der Studierende einen Antrag auf Genehmigung bei der Studiengangskoordination zu stellen.[10] Der Antrag muss den Managementbezug der geplanten Masterarbeit nachweisen. 
+
+(2)[1] Abweichend von § 4 Abs. 5 **MPOWISO** ist die Unterrichts- und Prüfungssprache nach Wahl der Studierenden Deutsch oder Englisch.[2] Der Studiengang kann sowohl nur auf Deutsch als auch nur auf Englisch sowie in einer Mischform der beiden Sprachen studiert werden.[3] Es wird dringend empfohlen, englischsprachige Module nur zu belegen, wenn im Rahmen der Bewerbung auf einen Studienplatz nach § 2 der entsprechende Sprachnachweis erbracht wurde; Entsprechendes gilt für die deutschsprachigen Module. 
+
+5 
+
+(3) Das Masterstudium kann sowohl in Vollzeit ( **Anlage 1** ) als auch in Teilzeit ( **Anlage 2** ) absolviert werden; im Falle des Teilzeitstudium gilt § 3 **MPOWISO** . 
+
+## **§ 5 Vertiefungsbereich** 
+
+(1)[1] Das übergeordnete Qualifikationsziel der einzelnen Modulgruppen „Strategic Management & International Business“, „Value Creation & Digital Transformation“, „Entrepreneurship & Innovation“, „Financial Management“, „Health Care Management“, „Marketing Management“, „Supply Chain Management“, „Sustainable & Responsible Management“ und „Management Research“ des Vertiefungsbereichs liegt darin, es den Studierenden zu ermöglichen, sich auf einen Anwendungsbereich oder mehrere Anwendungsbereiche des Managements zu spezialisieren.[2] Darüber hinaus sollen die Studierenden durch Wahl der jeweiligen Modulgruppe gezielt auf die Übernahme verschiedener Managementaufgaben in Unternehmen vorbereitet werden.[3] Die gewählte Spezialisierung dient den Studierenden dazu, ihr Profil mit Blick auf ein gewünschtes zukünftiges Berufsfeld zu schärfen. 
+
+(2)[1] Das Qualifikationsziel der Modulgruppe „Strategic Management & International Business“ liegt darin, die Studierenden zu befähigen, strategische Problemstellungen im Unternehmenskontext zu identifizieren und geeignete Maßnahmen abzuleiten. 2Ebenso wird die interkulturelle Kompetenz der Studierenden geschult, wodurch sie befähigt werden, in globalen Unternehmen zu agieren und Internationalisierungsschritte zu planen und zu bewerten.[3] Die Vertiefung umfasst Module in deutscher und in englischer Sprache.[4] Der Schwerpunkt (20 ECTS-Punkte) kann sowohl ausschließlich in deutscher als auch ausschließlich in englischer Sprache sowie durch eine Mischform der beiden Sprachen absolviert werden.[5] Art und Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und der Veranstaltungsart und dem Modulhandbuch zu entnehmen.[6] Die Prüfung für die durch Vorlesungen in Kombination mit einem Seminar vermittelten Kompetenzen ist: Präsentation und Diskussionspapier. 7Die Prüfung für die durch Vorlesungen in Kombination mit einer Übung vermittelten Kompetenzen ist: Klausur (60 oder 90 Min.).[8] Die Prüfung für die durch Vorlesungen vermittelten Kompetenzen ist in gemäß § 6 Abs. 2 Satz 3 **MPOWISO** begründeten Fällen eine Kombination aus Klausur (60 oder 90 Min.) und Projektarbeit.[9] Mögliche Prüfungen für die durch Seminare vermittelten Kompetenzen sind: Haus- bzw. Seminararbeit, Präsentation und Projektbericht, Präsentation und Haus- bzw. Seminararbeit oder Präsentation und Fallstudie. 
+
+(3)[1] Das Qualifikationsziel der Modulgruppe „Value Creation & Digital Transformation“ liegt darin, die Studierenden zu befähigen, Wertschöpfungspotenziale im wirtschaftswissenschaftlichen Kontext zu identifizieren sowie digitale Konzepte zur Lösung unternehmerischer Herausforderungen zu entwickeln.[ 2] Die Vertiefung umfasst Module in deutscher und in englischer Sprache.[3] Der Schwerpunkt (20 ECTS-Punkte) kann sowohl ausschließlich in englischer Sprache als auch durch eine Mischform der beiden Sprachen absolviert werden.[4] Art und Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und dem Modulhandbuch zu entnehmen.[ 5] Mögliche Prüfungen umfassen: Klausur (60 oder 90 Min.), Haus- bzw. Seminararbeit und Präsentation oder Projektbericht und Präsentation und in entsprechend gemäß § 6 Abs. 2 Satz 3 **MPOWISO** begründeten Fällen eine Kombination aus Fallstudie und Klausur (60 oder 90 Min.). 
+
+6 
+
+(4)[1] Das Qualifikationsziel der Modulgruppe „Entrepreneurship & Innovation“ liegt darin, die Studierenden zu befähigen, Aufgaben und Problemstellungen der Unternehmensgründung identifizieren und lösen zu können.[2] Zusätzlich lernen die Studierenden, die Anwendung und Einführung von Innovationen in Unternehmen zu unterstützen und umzusetzen.[ 3] Die Vertiefung umfasst Module in deutscher und in englischer Sprache.[4] Der Schwerpunkt (20 ECTS-Punkte) kann sowohl ausschließlich in deutscher als auch ausschließlich in englischer Sprache sowie durch eine Mischform der beiden Sprachen absolviert werden.[5] Art und Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und dem Modulhandbuch zu entnehmen.[ 6] Mögliche Prüfungen umfassen: Klausur (60 oder 90 Min.), Haus- bzw. Seminararbeit, Präsentation oder Haus- bzw. Seminararbeit und Präsentation. 
+
+(5)[1] Das Qualifikationsziel der Modulgruppe „Financial Management“ liegt darin, die Studierenden zu befähigen, geeignete finanzwirtschaftliche Modelle und Instrumente der Unternehmensrechnung anzuwenden und für strategische Entscheidungen zu nutzen.[2] Die Vertiefung umfasst Module in deutscher und in englischer Sprache.[3] Der Schwerpunkt (20 ECTS-Punkte) kann sowohl ausschließlich in deutscher Sprache als auch durch eine Mischform der beiden Sprachen absolviert werden.[4] Art und Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und dem Modulhandbuch zu entnehmen.[ 5] Mögliche Prüfungen umfassen: Klausur (60 oder 90 Min.), Hausbzw. Seminararbeit und Präsentation oder Diskussionsbeitrag und Präsentation, sowie in entsprechend gemäß § 6 Abs. 2 Satz 3 **MPOWISO** begründeten Fällen eine Kombination aus Präsentation und Klausur (60 oder 90 Min.). 
+
+(6)[1] Das Qualifikationsziel der Modulgruppe „Health Care Management“ liegt darin, die Studierenden zu befähigen, die verschiedenen Rahmenbedingungen und Interessen im Gesundheitswesen sowie die Prozesse der medizinischen Leistungserbringung zu identifizieren und zielgerichtet für Projekte im Gesundheitsmanagement zu implementieren.[ 2] Die Vertiefung umfasst Module in deutscher und in englischer Sprache.[3] Der Schwerpunkt (20 ECTS-Punkte) kann sowohl ausschließlich in deutscher Sprache als auch durch eine Mischform der beiden Sprachen absolviert werden.[ 4] Art und Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und dem Modulhandbuch zu entnehmen.[ 5] Mögliche Prüfungen umfassen: Klausur (60 oder 90 Min.) oder Haus- bzw. Seminararbeit und Präsentation. 
+
+(7)[1] Das Qualifikationsziel der Modulgruppe „Marketing Management“, liegt darin, die Studierenden zu befähigen, marketing- und vertriebsbezogene Fragestellungen im gesamtunternehmerischen Kontext zu analysieren und unter Berücksichtigung der Gesamtunternehmensstrategie in strategische Entscheidungen zu implementieren.[2] Die Vertiefung umfasst Module in deutscher und in englischer Sprache.[3] Der Schwerpunkt (20 ECTS-Punkte) kann sowohl ausschließlich in deutscher Sprache als auch durch eine Mischform der beiden Sprachen absolviert werden.[ 4] Art und Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und dem Modulhandbuch zu entnehmen.[ 5] Mögliche Prüfungen umfassen: Klausur (60 oder 90 Min.), Haus- bzw. Seminararbeit, Präsentation oder Haus- bzw. Seminararbeit und Präsentation. 
+
+(8)[1] Das Qualifikationsziel der Modulgruppe „Supply Chain Management“ liegt darin, die Studierenden zu befähigen, logistische Strukturen und Prozesse zu definieren und funktionale Strategien zur Optimierung und Implementierung logistischer Systeme und Prozesse zu entwickeln.[2] Die Vertiefung umfasst Module in deutscher und in englischer Sprache.[3] Der Schwerpunkt (20 ECTS-Punkte) kann sowohl ausschließlich in 
+
+7 
+
+deutscher Sprache als auch durch eine Mischform der beiden Sprachen absolviert werden.[4] Art und Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und dem Modulhandbuch zu entnehmen.[ 5] Mögliche Prüfungen umfassen: Klausur (60 oder 90 Min.), Haus- bzw. Seminararbeit und Präsentation oder in entsprechend gemäß § 6 Abs. 2 Satz 3 **MPOWISO** begründeten Fällen eine Kombination aus Fallstudie und Klausur (60 oder 90 Min.). 
+
+(9)[1] Das Qualifikationsziel der Modulgruppe „Sustainable & Responsible Management“ liegt darin, die Studierenden zu befähigen, die Themen der Nachhaltigkeit und der gesellschaftlichen Verantwortung in strategische Fragestellungen im Unternehmenskontext zu integrieren und an die verschiedenen Stakeholder zu kommunizieren.[2] Die Vertiefung umfasst Module in deutscher und in englischer Sprache.[3] Der Schwerpunkt (20 ECTS-Punkte) kann sowohl ausschließlich in deutscher als auch ausschließlich in englischer Sprache sowie durch eine Mischform der beiden Sprachen absolviert werden. 4Art und Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und der Veranstaltungsart und dem Modulhandbuch zu entnehmen.[ 5] Mögliche Prüfungen für die durch Vorlesungen vermittelten Kompetenzen sind: Präsentation und Hausbzw. Seminararbeit sowie in gemäß § 6 Abs. 2 Satz 3 **MPOWISO** begründeten Fällen Klausur (60 oder 90 Min) und Präsentation.[6] Mögliche Prüfungen für die durch Vorlesungen in Kombination mit einer Übung vermittelten Kompetenzen sind: Klausur (60 oder 90 Min) oder in gemäß § 6 Abs. 2 Satz 3 **MPOWISO** begründeten Fällen Klausur (60 oder 90 Min.) und Projektarbeit.[7] Mögliche Prüfungen für die durch Seminare vermittelten Kompetenzen sind: Haus- bzw. Seminararbeit und Präsentation oder Fallstudie; § 6 Abs. 2 Satz 3 **MPOWISO** bleibt unberührt. 
+
+(10)[1] Das Qualifikationsziel der Modulgruppe „Management Research“ liegt darin, die Studierenden zu befähigen, wissenschaftliche Methoden kontextsensitiv anzuwenden und somit in der wirtschaftswissenschaftlichen Forschung tätig zu sein.[2] Die Vertiefung umfasst Module in deutscher und in englischer Sprache.[3] Der Schwerpunkt (20 ECTSPunkte) kann sowohl ausschließlich in deutscher als auch ausschließlich in englischer Sprache sowie durch eine Mischform der beiden Sprachen absolviert werden.[4] Art und Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und dem Modulhandbuch zu entnehmen.[ 5] Mögliche Prüfungen umfassen: Klausur (60 oder 90 Min.), Haus- bzw. Seminararbeit, Präsentation oder Haus- bzw. Seminararbeit und Präsentation. 
+
+(11)[1] Die Vertiefungsmodule bestehen in der Regel entweder aus einer Vorlesung (2 SWS), einer Vorlesung und einem Seminar (3 SWS), einer Vorlesung und einer Übung (jeweils 3-4 SWS) oder einem Seminar (2-3 SWS).[2] Näheres regelt das Modulhandbuch. 
+
+## **§ 6 Inkrafttreten und Übergangsvorschriften** 
+
+(1)[1] Diese Fachstudien- und Prüfungsordnung tritt am 1. April 2024 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden sowie diejenigen, die zum Zeitpunkt des Inkrafttretens bereits nach der bisher gültigen Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPOManagement** – vom 24. Juli 2009 in der Fassung vom 23. März 2023 studieren.[3] Studierende, die zum Zeitpunkt des Inkrafttretens 
+
+8 
+
+nach der FPOManagement in einer vor dem 23. März 2023 gültigen Fassung studieren, beenden ihr Studium nach der bisher für sie geltenden Fassung der FPOManagement. 
+
+(2)[1] Gleichzeitig tritt die Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPOManagement** – vom 24. Juli 2009, zuletzt geändert durch Satzung vom 23. März 2023, mit Wirkung zum 31. März 2027 außer Kraft.[2] Prüfungen nach der in Satz 1 genannten FPOManagement werden letztmals im Wintersemester 2026/2027 angeboten.[3] Nach dem in Satz 2 genannten Zeitpunkt legen die vom Wegfall des Angebots betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt geltenden Fassung der FPOManagement ab. 
+
+9 
+
+## **Anlage 1: Zugangstest** 
+
+1. Zweck des Zugangstests 
+
+   - Der Zugangstest soll zeigen, ob die Bewerberin bzw. der Bewerber die für den Masterstudiengang Management erforderlichen Vorkenntnisse aus den masterspezifischen Fachgebieten besitzen. 
+
+2. Testverfahren 
+
+- 2.1 1Der Zugangstest wird gemäß Nr. 2.2 der **Anlage MPOWISO** zum Wintersemester zweimal durchgeführt und findet spätestens drei Wochen vor Ende der Bewerbungsfrist für den Masterstudiengang statt.[2] Die Termine für die Zugangstests werden auf den Internetseiten des Masterstudiengangs Management spätestens vier Wochen vor dessen Durchführung bekannt gegeben. 
+
+- 2.2 Die Anmeldung zur Teilnahme am Zugangstest erfolgt bis spätestens drei Tage vor dem Termin des Zugangstests über die Internetseite des Masterstudiengangs Management (Ausschlussfrist). 
+
+- 2.3 Der Zugangstest kann durch einen Nachweis eines Graduate Management Admission Tests® (GMAT) mit mindestens 600 Punkten (Score Report) oder durch einen Nachweis eines Graduate Management Admission Tests Focus Edition® (GMAT Focus Edition) mit mindestens 565 Punkten (Score Report) ersetzt werden. 
+
+3. Prüfende 1Die Koordination, die Durchführung und die Bewertung des Zugangstests obliegt der Zugangskommission gemäß § 2 i.V.m. § 11 **MPOWISO** .[2] Die Zugangskommission kann die Koordination und Durchführung sowie Bewertung des Zugangstests einzelnen von ihr beauftragten Mitgliedern übertragen. 
+
+4. Durchführung des Zugangstests und Bewertung 
+
+- 4.1 1Der Zugangstest wird in Form einer Open-Book-Prüfung über eine abgesicherte Prüfungsplattform wahlweise in deutscher und englischer Sprache mit einer Dauer von 60 Minuten durchgeführt.[2] Er umfasst Aufgaben zu betriebswirtschaftlichen und managementbezogenen Themen sowie Forschungsmethoden (insbesondere Methoden der empirischen Wirtschaftsforschung), die auf der Internetseite des Masterstudiengangs Management näher definiert werden. 
+
+- 4.2 1Für die Bewertung und Notenstufen im Zugangstest gilt § 22 Abs. 1 Satz 1 **MPOWISO** entsprechend.[2] Der Zugangstest ist bestanden, wenn er mindestens mit dem Prädikat „ausreichend“ bewertet ist. 
+
+- 4.3 Das Ergebnis des Zugangstests wird der Bewerberin bzw. dem Bewerber spätestens eine Woche vor Ende der Bewerbungsfrist per E-Mail mitgeteilt. 
+
+5. Rücktritt, Versäumnis, Wiederholung 
+
+- 5.1 1Ein Rücktritt kann spätestens bis zum dritten Werktag vor dem Zugangstest ohne nachteilige Folgen per E-Mail bei der Zugangskommission erfolgen.[2] Als Werktage gelten dabei die Tage von Montag bis einschließlich Freitag.[3] Ein Rücktritt bis vor Beginn des Zugangstests kann nur aus Gründen, die die Bewerberin bzw. der Bewerber nicht zu vertreten hat (z. B. krankheitsbedingte Prüfungsunfähigkeit) erfolgen.[4] Die Gründe nach Satz 2 müssen der Zugangskommission unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[5] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; die Zugangskommission kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[6] Ein Rücktritt 
+
+10 
+
+nach Beginn der Prüfungszeit ist ausgeschlossen.[7] Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung. 
+
+- 5.2 Bei verspätetem bzw. nicht ordnungsgemäßem Rücktritt oder Versäumnis des Zugangstests gilt dieser als nicht bestanden. 
+
+- 5.3 1Der Zugangstest kann an beiden angebotenen Terminen desselben Bewerbungszeitraums abgelegt werden; es zählt das bessere Ergebnis.[2] Des Weiteren kann der Zugangstest bei unveränderten Qualifikationsnachweisen im Rahmen der Bewerbung für den Zugang zum Studium im nächsten Bewerbungszeitraum abermals an beiden Terminen wiederholt werden. 
+
+6. Ungültigkeit des Zugangstests 
+
+   - §§ 13 und 23 Abs. 1 und 3 **MPOWISO** gelten entsprechend. 
+
+7. Kosten 
+
+   - Etwaige eigene Kosten für den Zugangstest bzw. den GMAT® und GMAT Focus Edition® haben die Bewerberinnen bzw. Bewerber selbst zu tragen. 
+
+11 
+
+## **Anlage 2: Studienverlaufsplan Master Management: Vollzeitstudium** 
+
+|**Modulbezeichnung**||||||**Gesamt**<br>|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||**Lehrveranstaltung**|**SWS**||||**ECTS-**<br>**Pkt**||<br>**Punkten**|||||
+|||||||**une**|||||||
+|||**V**|**Ü**|**P**|**S**||**1.Sem.**|**2.Sem.**|**3. Sem.**|**4.Sem.**|||
+|**Wahlpflichtbereich:**<br>**Management foundations**||||||**20**|**10**|**10**|||||
+|**Business ethics and corporate**<br>**social responsibility**|Business ethics and corporate<br>social responsibility|2||||5||(5)|||Klausur (60 Minuten)|1|
+|**Business strategy**|Business strategy|2|1|||5|(5)||||Klausur (60 Minuten)|1|
+|**Corporate strategy**|Corporate strategy||||3|5||(5)|||Präsentation und Hausarbeit<br>(50% + 50%)|1|
+|**Global operations strategy**|Global operations strategy|2|||1|5|(5)||||Präsentation (100%)|1|
+|**Industrielles Management**|Industrielles Management|2|1|||5||(5)|||Klausur (60 Minuten)|1|
+|**Produktions- und Supply Chain**<br>**Management**|Produktions- und Supply Chain<br>Management|2|1|||5|(5)||||Klausur (90 Minuten)|1|
+|**Personalmanagement**|Personalmanagement|2|1|||5|(5)||||Diskussionspapier und<br>Präsentation(80% + 20%)|1|
+|**Technology and innovation**<br>**management**|Technology and innovation<br>management|2|1|||5||(5)|||Klausur (90 Minuten)|1|
+|**Wahlpflichtbereich:**<br>**Finance & Controlling**||||||**5**|**5**||||||
+|**Managerial Finance**|Managerial Finance|2|1|||5|(5)||||Klausur (60 Minuten)|1|
+|**Kapitalmarktorientierte Un-**<br>**ternehmenssteuerung (KUST)**|Kapitalmarktorientierte<br>Unternehmenssteuerung (KUST)|2|1|||5|(5)||||Klausur (60 Minuten)|1|
+|**Controlling and Reporting**<br>**(CAR)**|Controlling and Reporting (CAR)|1|1|||5|(5)||||Klausur (60 Minuten)|1|
+|**Controlling of business sys-**<br>**tems(CBS)**|Controlling of business systems<br>(CBS)|2|1|||5|(5)||||Klausur (60 Minuten)|1|
+|**Wahlpflichtbereich:**<br>**Project, presentation & team**<br>**skills**||||||**10**|**5**|**5**||||vgl. Fuß-<br>note 2|
+
+
+
+12 
+
+|**Fallstudien und Projekte im**<br>**Management**|||0<br>-<br>2|0<br>-<br>2|0<br>-<br>2|0<br>-<br>2|||2<br>-<br>6|10|(5)|(5)|||Präsentation oder<br>Seminararbeit und Präsentation,<br>oder<br>Klausur, Präsentation und Diskussi-<br>onsbeitrag oder<br>Präsentation und Diskussionsbei-<br>trag1||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Teamfähigkeit, Präsentations-**<br>**und**<br>**Verhandlungstechniken**|||0<br>-<br>2||0<br>-<br>2||||2<br>-<br>5|10|(5)|(5)|||Präsentation oder<br>Seminararbeit oder<br>Präsentation und Diskussionsbeitrag<br>oder<br>Projektbericht1||
+|**Vertiefungsbereich**<br>**(freie Wahl von elf Modulen)**||||||||||**55**|**10**|**15**|**30**|||vgl. Fuß-<br>note 3|
+|**Modulgruppe Strategic**<br>**management & International**<br>**business**|gem. § 5 Abs. 11|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 2||
+|**Modulgruppe Value creation &**<br>**Digital transformation**|gem. § 5 Abs. 11|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 3||
+|**Modulgruppe**<br>**Entrepreneurship &**<br>**Innovation**|gem. § 5 Abs. 11|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 4||
+|**Modulgruppe Financial**<br>**management**|gem. § 5 Abs. 11|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 5||
+|**Modulgruppe Health care**<br>**management**|gem. § 5 Abs. 11|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 6||
+|**Modulgruppe Marketing**<br>**management**|gem. § 5 Abs. 11|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 7||
+|**Modulgruppe Supply chain**<br>**management**|gem. § 5 Abs. 11|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 8||
+|**Modulgruppe Sustainable &**<br>**responsible management**|gem. § 5 Abs. 11|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 9||
+|**Modulgruppe Management**<br>**research**|gem. § 5 Abs. 11|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 10||
+|**Masterarbeit**||||||||||**30**||||30|||
+|**Masterarbeit**||||||||||**30**||||30|Masterarbeit|1|
+|**Summe SWS und ECTS-Punkte:**|||||||||||**30**|**30**|**30**|**30**|||
+|||**Mind. 40**<br>**SWS4**||||||||**120**|||||||
+||||||||||||||||||
+
+
+
+13 
+
+- 1 Art und Umfang der Lehrveranstaltung(en) und der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und richten sich nach dem Modulhandbuch. 
+
+- 2 Es sind zwei Module im Umfang von jeweils 5 ECTS-Punkten zu wählen, wobei jedes Einzelmodul mit dem Faktor 1 in die Gesamtnote des Masterstudiums eingeht. Einzelmodule der Modulgruppen sind im Modulhandbuch des Studiengangs aufgeführt und können sich semesterweise ändern. Die Module können aus mehreren Modulgruppen beliebig kombiniert werden. 
+
+- 3 vgl. § 5. Es sind elf Module im Umfang von jeweils 5 ECTS-Punkten zu wählen, wobei jedes Einzelmodul mit dem Faktor 1 in die Gesamtnote des Masterstudiums eingeht. Einzelmodule der Modulgruppen sind im Modulhandbuch des Studiengangs aufgeführt und können sich im Rahmen der Festlegungen des § 5 semesterweise ändern. Die Module können aus mehreren Modulgruppen beliebig kombiniert werden. 
+
+- 4 Die Gesamtzahl der SWS sowie die Verteilung auf die einzelnen Lehrveranstaltungsformen variiert in Abhängigkeit von den gewählten Kursen im Wahlpflichtbereich sowie im Vertiefungsbereich. 
+
+14 
+
+## **Studienverlaufsplan Master Management: Teilzeitstudium** 
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**||**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||<br>**in ECTS-Punkten**||||||||
+|||**V**|**Ü**|**P**|**S**|||||||||**8.**|||
+||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**||||
+||||||||||||||||||
+|**Wahlpflichtbereich:**<br>**Management founda-**<br>**tions**||||||**20**|**5**|**5**|**5**|**5**|||||||
+|Business ethics and cor-<br>porate social responsibility|Business ethics and corpo-<br>rate social responsibility|2||||5||(5)|||||||Klausur<br>(60 Minuten)|1|
+|Business strategy|Business strategy|2|1|||5|(5)||||||||Klausur<br>(60 Minuten)|1|
+|Corporate strategy|Corporate strategy||||3|5||(5)|||||||Präsentation und<br>Hausarbeit<br>(50% + 50%)|1|
+|Global operations strategy|Global operations strategy|2|||1|5|||(5)||||||Präsentation<br>(100%)|1|
+|Industrielles Management|Industrielles Management|2|1|||5||||(5)|||||Klausur<br>(60 Minuten)|1|
+|Produktions- und Supply<br>Chain Management|Produktions- und Supply<br>Chain Management|2|1|||5|(5)||||||||Klausur<br>(90Minuten)|1|
+|Personalmanagement|Personalmanagement|2|1|||5|||(5)||||||Diskussionspapier<br>und<br>Präsentation<br>(80% +20%)|1|
+|Technology and innova-<br>tion management|Technology and innovation<br>management|2|1|||5||||(5)|||||Klausur<br>(90 Minuten)|1|
+|**Wahlpflichtbereich:**<br>**Finance & Controlling**||||||**5**|**5**||||||||||
+|Managerial Finance|Managerial Finance|2|1|||5|(5)||||||||Klausur<br>(60Minuten)|1|
+|Kapitalmarktorientierte<br>Unternehmenssteuerung<br>(KUST)|Kapitalmarktorientierte Un-<br>ternehmenssteuerung|2|1|||5|(5)||||||||Klausur<br>(60 Minuten)|1|
+|Controlling and Reporting<br>(CAR)|Controlling and Reporting<br>(CAR)|1|1|||5|(5)||||||||Klausur<br>(60 Minuten)|1|
+|Controlling of business<br>systems (CBS)|Controlling of business sys-<br>tems (CBS)|2|1|||5|(5)||||||||Klausur<br>(60 Minuten)|1|
+|**Wahlpflichtbereich: Pro-**<br>**ject, presentation &**<br>**team skills**||||||**10**|**5**|**5**||||||||**Vgl. Fuß-**<br>**note 2**|
+
+
+
+15 
+
+|Fallstudien und Projekte<br>im Management||0<br>–<br>2|0<br>–<br>2||2<br>–<br>6|10|(5)|(5)|||||||Präsentation<br>oder<br>Seminararbeit und<br>Präsentation,<br>oder<br>Klausur, Präsenta-<br>tion und Diskussi-<br>onsbeitrag<br>oder<br>Präsentation und<br>Diskussionsbei-<br>trag1||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Teamfähigkeit, Präsentati-<br>ons- und Verhandlungs-<br>techniken||0<br>–<br>2|0<br>–<br>2||2<br>–<br>5|10|(5)|(5)|||||||Präsentation oder<br>Seminararbeit oder<br>Präsentation und<br>Diskussionsbeitrag<br>oder<br>Projektbericht1||
+|**Vertiefungsbereich**<br>**(freie Wahl von elf Modu-**<br>**len)**||||||**55**||**5**|**10**|**10**|**15**|**15**||||**Vgl. Fuß-**<br>**note 3**|
+|Modulgruppe Strategic<br>management & Internatio-<br>nal business|Vgl. § 5 Abs. 11|||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 2||
+|Modulgruppe Value crea-<br>tion & Digital transforma-<br>tion||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 3||
+|Modulgruppe Entrepre-<br>neurship & Innovation||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 4||
+|Modulgruppe Financial<br>management||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 5||
+|Modulgruppe Health care<br>management||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 6||
+|Modulgruppe Marketing<br>management||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 7||
+|Modulgruppe Supply chain<br>management||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 8||
+|Modulgruppe Sustainable<br>& responsible manage-<br>ment||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 9||
+|Modulgruppe Manage-<br>mentresearch||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 10||
+|**Masterarbeit**||||||**30**|||||||**15**|**15**|||
+
+
+
+16 
+
+|Masterarbeit||||||30|||||||15|15|Masterarbeit|1|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Summe SWS und ECTS-Punkte**|||||||||||||||||
+|||**Mind. 20**<br>**SWS4 **||||**120**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|||
+||||||||||||||||||
+
+
+
+- 1 Art und Umfang der Lehrveranstaltung(en) und der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und richten sich nach dem Modulhandbuch. 
+
+- 2 Es sind zwei Module im Umfang von jeweils 5 ECTS-Punkten zu wählen, wobei jedes Einzelmodul mit dem Faktor 1 in die Gesamtnote des Masterstudiums eingeht. Einzelmodule der Modulgruppen sind im Modulhandbuch des Studiengangs aufgeführt und können sich semesterweise ändern. Die Module können aus mehreren Modulgruppen beliebig kombiniert werden. 
+
+- 3 vgl. § 5. Es sind elf Module im Umfang von jeweils 5 ECTS-Punkten zu wählen, wobei jedes Einzelmodul mit dem Faktor 1 in die Gesamtnote des Masterstudiums eingeht. Einzelmodule der Modulgruppen sind im Modulhandbuch des Studiengangs aufgeführt und können sich im Rahmen der Festlegungen des § 5 semesterweise ändern. Die Module können aus mehreren Modulgruppen beliebig kombiniert werden. 
+
+- 4 Die Gesamtzahl der SWS sowie die Verteilung auf die einzelnen Lehrveranstaltungsformen variiert in Abhängigkeit von den gewählten Kursen im Wahlpflichtbereich sowie im Vertiefungsbereich. 
+
+17 
+
+

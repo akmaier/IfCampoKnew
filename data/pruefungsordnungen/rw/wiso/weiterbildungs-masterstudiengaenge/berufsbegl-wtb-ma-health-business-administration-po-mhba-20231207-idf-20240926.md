@@ -1,0 +1,524 @@
+---
+kind: "fau-pruefungsordnung-document"
+title: "berufsbegl. WTB MA Health Business Administration PO MHBA 20231207 i.d.F. 20240926.pdf"
+pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Health_Business_Administration/konsolidierte_Fassungen/berufsbegl._WTB_MA_Health_Business_Administration_PO_MHBA_20231207_idF_20240926.pdf
+parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
+scraped_at: 2026-04-25T16:38:31+00:00
+page_count_chars: 69365
+---
+
+# berufsbegl. WTB MA Health Business Administration PO MHBA 20231207 i.d.F. 20240926.pdf
+
+**PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Health_Business_Administration/konsolidierte_Fassungen/berufsbegl._WTB_MA_Health_Business_Administration_PO_MHBA_20231207_idF_20240926.pdf>
+**Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/>
+
+# **Studien- und Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Health Business Administration (MHBA) an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – PO MHBA – Vom 7. Dezember 2023** 
+
+geändert durch Satzung vom 26. September 2024 
+
+Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 86 Abs. 3 Satz 4, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Studien- und Prüfungsordnung: 
+
+## **Inhaltsverzeichnis:** 
+
+§ 1 Geltungsbereich ............................................................................................................... 2 § 2 Zweck der Prüfung, Mastergrad ........................................................................................ 2 § 3 Qualifikation zum Masterstudium ...................................................................................... 2 § 4 Masterstudiengang, Regelstudienzeit, Studienbeginn,  Unterrichts- und Prüfungssprache ............................................................................................................................................... 2 § 5 ECTS-Punkte ................................................................................................................... 3 § 6 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen ............................................................................................................................................... 3 § 7 Prüfungsausschuss .......................................................................................................... 4 § 8 Prüfende und Beisitzerinnen und Beisitzer ....................................................................... 5 § 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht ............................ 5 § 10 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt .................................................................................................................................. 5 § 11 Prüfungsfristen, Fristversäumnis .................................................................................... 6 § 12 Anwesenheitspflicht, Präsenzphasen ............................................................................. 7 § 13 Anerkennung und Anrechnung von Kompetenzen .......................................................... 7 § 14 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme ................................................................................................................ 8 § 15 Entzug akademischer Grade .......................................................................................... 9 § 16 Mängel im Prüfungsverfahren ......................................................................................... 9 § 17 Schriftliche Prüfungen, Antwort-Wahl-Verfahren ............................................................. 9 § 18 Mündliche Prüfungen .................................................................................................... 10 § 19 Elektronische Prüfung in Präsenz ................................................................................. 11 § 20 Bewertung der Prüfungen und Bildung der Prüfungsgesamtnote .................................. 11 § 21 Ungültigkeit der Prüfung ............................................................................................... 12 § 22 Einsicht in die Prüfungsakten........................................................................................ 13 § 23 Bescheinigung über endgültig nicht bestandene Prüfung ............................................. 13 § 24 Nachteilsausgleich ........................................................................................................ 13 § 25 Art und Umfang sowie Bestehen und Nichtbestehen der Masterprüfung ...................... 14 § 26 Zulassungsvoraussetzung zu den Prüfungen ............................................................... 14 § 27 Einsendearbeiten und studienbegleitende Klausuren ................................................... 14 § 28 Masterarbeit ................................................................................................................. 14 § 29 Wiederholung der Prüfungen ........................................................................................ 16 § 30 Zeugnis, Transcript of Records, Diploma Supplement und Urkunde ............................. 16 § 31 Inkrafttreten, Übergangsvorschriften ............................................................................. 16 
+
+1 
+
+**Anlage 1: Qualifikationsfeststellungsverfahren ............................................................... 18 Anlage 2: Sondereignungsfeststellungsprüfung ............................................................. 20 Anlage 3: Studienverlaufsplan .......................................................................................... 22** 
+
+## **§ 1 Geltungsbereich** 
+
+Diese Studien- und Prüfungsordnung regelt die studienbegleitenden und abschließenden Prüfungen des in Kooperation zwischen der FAU, dem Centrum für Kommunikation Information Bildung (CeKIB) des Klinikum Nürnberg und dem Health Economics Research Zentrum (HERZ) als Fernstudium durchgeführten, berufsbegleitenden Weiterbildungsstudiengangs Health Business Administration (MHBA). 
+
+## **§ 2 Zweck der Prüfung, Mastergrad** 
+
+(1)[1] Die Prüfung soll eine differenzierte Beurteilung und die Feststellung ermöglichen, dass die bzw. der Studierende in den Prüfungsfächern relevante Problemstellungen der Wirtschaftspraxis, insbesondere im Gesundheitswesen, im angemessenen Rahmen auch mit wissenschaftlichem Instrumentarium bearbeiten kann.[2] Dabei soll die Urteilsfähigkeit und Kompetenz zur kritischen Reflexion von Wissenschaft und beruflicher Praxis nachgewiesen und die Fähigkeit belegt werden, Fragestellungen in übergreifende Zusammenhänge einordnen zu können. 
+
+(2)[1] Aufgrund der bestandenen Masterprüfung wird der akademische Grad „Master of Health Business Administration“ (abgekürzt „MHBA“) verliehen.[2] Der akademische Grad kann mit dem Zusatz „(FAU Erlangen-Nürnberg)“ geführt werden. 
+
+## **§ 3 Qualifikation zum Masterstudium** 
+
+Die Qualifikation für den Weiterbildungsstudiengang MHBA wird nachgewiesen durch: 
+
+1. einen ersten berufsqualifizierenden Abschluss eines Studiums einer Hochschule bzw. einen sonstigen gleichwertigen in- oder ausländischen Abschluss, bei dem hinsichtlich der Qualifikation keine wesentlichen Unterschiede bestehen, in der Regel mit Bezug zum Gesundheitswesen und mit wirtschaftswissenschaftlichem Anteil mit in der Regel acht Semestern Regelstudienzeit und 240 ECTS-Punkten oder ausnahmsweise mindestens sechs Semestern Regelstudienzeit und mindestens 180 ECTS-Punkten zuzüglich des Bestehens einer Sondereignungsfeststellungsprüfung zur Erreichung des Eingangsniveaus von 240 ECTS-Punkten gemäß **Anlage 2** , 
+
+2. eine mindestens zweijährige qualifizierte Berufstätigkeit in verantwortlicher Position mit Aufgaben der Führung, Planung oder Kontrolle nach Abschluss des Hochschulstudiums in privaten oder öffentlichen Unternehmen, Verbänden oder Verwaltungen, in der Regel mit Bezug zum Gesundheitswesen, 
+
+3. das Bestehen des Qualifikationsfeststellungsverfahrens gemäß **Anlage 1** sowie 
+
+4. im Falle der Nr. 1 Alt. 2 das Bestehen der Sondereignungsfeststellungsprüfung gemäß **Anlage 2** . 
+
+## **§ 4 Masterstudiengang, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache** 
+
+(1)[1] Das Masterstudium wird mit der Masterprüfung abgeschlossen.[2] Die Masterprüfung besteht aus den studienbegleitend abzulegenden Prüfungen in sämtlichen dem Masterstudium zugeordneten Modulen einschließlich des Moduls Masterarbeit gemäß **Anlage 3** .[3] Die Gesamtzahl der für den erfolgreichen Abschluss benötigten ECTSPunkte beträgt 60 ECTS-Punkte.[4] Der ECTS-Punkteumfang der einzelnen Module sowie deren Gewichtung ist in **Anlage 3** angegeben. 
+
+2 
+
+(2) Die Regelstudienzeit beträgt vier Semester. 
+
+(3) Das Studium kann nur zum Wintersemester begonnen werden. 
+
+(4)[1] Die Unterrichts- und Prüfungssprache im berufsbegleitenden Weiterbildungsstudiengang MHBA ist Deutsch.[2] Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch.[3] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache. 
+
+## **§ 5 ECTS-Punkte** 
+
+(1)[1] Studium und Prüfungen beruhen auf dem European Credit Transfer and Accumulation System (ECTS).[2] Das Studiensemester ist mit 15 ECTS-Punkten veranschlagt. 3Ein ECTS-Punkt entspricht einer Arbeitszeit von 30 Stunden. 
+
+(2)[1] ECTS-Punkte dienen als System zur Gliederung, Berechnung und Bescheinigung des Studienaufwandes.[2] Sie sind ein quantitatives Maß für die Arbeitsbelastung der Studierenden. 
+
+## **§ 6 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen** 
+
+(1)[1] Das Studium besteht aus Modulen, die mit ECTS-Punkten bewertet sind.[2] Ein Modul ist eine zeitlich zusammenhängende und in sich geschlossene abprüfbare Lehrund Lerneinheit. 
+
+(2)[1] Die Module schließen mit einer studienbegleitenden Modulprüfung ab.[2] Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder in einer Studienleistung bestehen.[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Teilprüfungen oder Prüfungsteilen bzw. einer Kombination aus Prüfungs- und/oder Studienleistungen bestehen.[4] Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.[5] ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Prüfung festgestellt werden. 
+
+(3)[1] Prüfungen (Prüfungsleistungen und Studienleistungen) messen den Erfolg der Studierenden.[2] Sie können schriftlich, mündlich, elektronisch, über elektronische Kommunikationsmittel oder in anderer Form erfolgen.[3] Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung ( **BayFEV** ) – **EFernPO** – zu beachten.[4] Prüfungsleistungen werden benotet.[5] Bei Studienleistungen kann sich die Feststellung auf das Bestehen oder Nicht-Bestehen beschränken. 
+
+(4)[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise, regelt das Modulhandbuch.[3] Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.[4] Zwischenprüfungsleistungen können die Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern; eine Verschlechterung der Note ist ausgeschlossen. 
+
+3 
+
+(5) Die Teilnahme an Modulprüfungen (Abs. 2 Satz 1) setzt die Immatrikulation im berufsbegleitenden Weiterbildungsstudiengang MHBA an der FAU voraus. 
+
+## **§ 7 Prüfungsausschuss** 
+
+(1)[1] Für die Organisation und Durchführung der Prüfungen des berufsbegleitenden Weiterbildungsstudiengangs MHBA wird vom Fakultätsrat der Rechts- und Wirtschaftswissenschaftlichen Fakultät ein Prüfungsausschuss eingesetzt.[2] Die Mitglieder werden für eine Amtszeit von zwei Jahren gewählt; Wiederwahl ist zulässig.[3] Dem Prüfungsausschuss gehören drei Professorinnen bzw. Professoren des Fachbereichs Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU an.[5] Der Prüfungsausschuss wählt ein Mitglied für zwei Jahre zu der bzw. dem Vorsitzenden und regelt die Vertretung.[6] Die bzw. der Vorsitzende des Prüfungsausschusses kann ihr bzw. ihm oder dem Prüfungsausschuss obliegende Aufgaben einem Mitglied des Prüfungsausschusses zur Erledigung übertragen. 
+
+(2)[1] Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen.[2] Er achtet darauf, dass die Bestimmungen dieser Studien- und Prüfungsordnung eingehalten werden.[3] Er trifft, mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden, alle anfallenden Entscheidungen.[4] Der Prüfungsausschuss überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[5] Er berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten, auch unter geschlechtsspezifischen Aspekten, und gibt gegebenenfalls Anregungen zu Änderungen der Prüfungsordnung; vor einer Änderung ist er zu hören.[6] Die Mitglieder des Prüfungsausschusses haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen.[8] Für den Geschäftsgang gilt § 30 der Grundordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg ( **GrO** ). 
+
+(3) Dem Prüfungsausschuss obliegt darüber hinaus die Prüfung der Qualifikations- und Zugangsvoraussetzungen zum Masterstudium gemäß § 2 i. V. m. den **Anlagen 1** und **2** . 
+
+(4)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder ordnungsgemäß unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag.[4] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig. 
+
+(5)[1] Die Sitzungen des Prüfungsausschusses sind nicht öffentlich.[2] Die bzw. der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[3] Sie bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen. 4Hiervon hat sie bzw. er den Prüfungsausschuss unverzüglich in Kenntnis zu setzen. 5Darüber hinaus kann, soweit diese Studien- und Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss der bzw. dem Vorsitzenden oder anderen Mitgliedern die Erledigung einzelner Aufgaben widerruflich übertragen. 
+
+(6)[1] Über jede Sitzung ist eine Niederschrift anzufertigen.[2] Diese muss Tag und Ort der Sitzung, die Namen der Anwesenden, die behandelten Gegenstände sowie Anträge, Beschlüsse und das jeweilige Abstimmungsergebnis enthalten. 
+
+4 
+
+(7)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der bzw. dem Studierenden ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.[3] Aufgrund eines Beschlusses des Prüfungsausschusses können Bescheide in Prüfungsangelegenheiten jeder bzw. jedem Einzelnen in elektronischer Form bekannt gegeben werden.[4] Widerspruchsbescheide werden im Auftrag der Präsidentin bzw. des Präsidenten erlassen, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfenden. 
+
+## **§ 8 Prüfende und Beisitzerinnen und Beisitzer** 
+
+(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Beisitzerinnen und Beisitzer. 2Er kann die Bestellung der bzw. dem Vorsitzenden übertragen. 
+
+(2)[1] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem **BayHIG** und der **Bayerischen Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Hochschulprüfungen Berechtigten bestellt werden.[2] Die Prüfenden sollen Dozentinnen bzw. Dozenten der jeweiligen Fächer sein.[3] Ein kurzfristig aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Hochschule aus, so bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
+
+(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium auf der gleichen Qualifikationsebene erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll wissenschaftliche Mitarbeiterin bzw. wissenschaftlicher Mitarbeiter und hauptberufliche im Sinne des Art. 53 Abs. 4 **BayHIG** tätig sein. 
+
+## **§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** 
+
+(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 51 Abs. 2 **BayHIG** bzw. Art. 20, 21 **BayVwVfG** . 
+
+(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfenden und Beisitzerinnen bzw. Beisitzer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 26 Abs. 2 Sätzen 2 und 3 **BayHIG** . 
+
+## **§ 10 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** 
+
+(1) Die Termine der Prüfungen und die Prüfenden werden rechtzeitig über ortsübliche elektronische Mittel bekannt gemacht. 
+
+(2)[1] Die Studierenden melden sich durch Einreichung der Einsendearbeit nach § 27 zur entsprechenden Prüfung in Form einer unbenoteten Studienleistung in diesem Modul und zur Teilnahme an der Klausur in dem im gleichen Semester parallel angebotenen Modul an.[2] Die Anmeldetermine und Anmeldeformalitäten werden rechtzeitig 
+
+5 
+
+vorher bekannt gegeben.[3] Ein Wechsel der jeweils gewählten Prüfungsart ist nach der Anmeldung grundsätzlich nicht möglich.[4] Die Teilnahme an der jeweiligen Prüfung setzt die ordnungsgemäße Anmeldung voraus. 
+
+(3)[1] Unbeschadet der Fristen gemäß § 11 ist ein Rücktritt von einer nach Abs. 2 angemeldeten Prüfung ohne Angabe von Gründen durch Nichterscheinen zulässig.[2] In anderen als in den in Satz 1 genannten Fällen sind für einen Rücktritt oder das Versäumnis von der bzw. dem Studierenden nicht zu vertretende Gründe anzugeben, die dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden müssen.[3] Bei Krankheit der bzw. des Studierenden ist ein ärztliches Attest vorzulegen; der Prüfungsausschuss kann die Vorlage einer bzw. eines von der FAU benannten Ärztin bzw. Arztes verlangt werden.[ 4] Das (vertrauens-)ärztliche Attest muss eine Beschreibung der gesundheitlichen Beeinträchtigung und die Angabe der sich daraus ergebenden Verminderung des Leistungsvermögens in der Prüfung speziell durch die Störung bestimmter körperlicher oder geistiger Funktionen enthalten.[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit (= Prüfungsabbruch) ist dem Prüfungsausschuss unverzüglich ein Attest einer bzw. eines von der FAU benannten Ärztin bzw. Arztes vorzulegen.[6] Die Erklärung des Rücktritts ist unwiderruflich.[7] Mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt. 8Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich.[9] Werden die Gründe anerkannt, so wird ein neuer Termin anberaumt.[10] Bereits vorliegende Prüfungsergebnisse werden angerechnet; bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist.[11] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 14 Abs. 1. 
+
+## **§ 11 Prüfungsfristen, Fristversäumnis** 
+
+(1)[1] Die Prüfungen sind ordnungsgemäß so rechtzeitig abzulegen, dass in der Masterprüfung bis zum Ende des Regeltermins 60 ECTS-Punkte erworben werden.[2] Regeltermin ist das letzte Semester der Regelstudienzeit.[3] Der Regeltermin nach Satz 2 darf in der Masterprüfung um zwei Semester überschritten werden (Überschreitungsfrist). 4Die Masterprüfung gilt als abgelegt und erstmals nicht bestanden, wenn nicht innerhalb der Überschreitungsfrist des Satz 3 60 ECTS-Punkte aus den Modulen des Masterstudiums erworben wurden, es sei denn, die bzw. der Studierende hat die Gründe hierfür nicht zu vertreten. 
+
+(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – **MuSchG** ) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – **BEEG** ) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz – **PflegeZG** ) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch ( **SGB XI** ) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist. 
+
+6 
+
+(3)[1] Die Gründe nach den Abs. 1 und 2 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] § 10 Abs. 3 Sätze 3 bis 5 gelten entsprechend. 
+
+## **§ 12 Anwesenheitspflicht, Präsenzphasen** 
+
+1Die bzw. der Studierende ist verpflichtet, in den ersten drei Semestern jeweils an einer Klausur teilzunehmen, welche während einer Präsenzveranstaltung gegen Ende des jeweiligen Semesters angeboten wird.[2] Im Übrigen bestehen während des Studiums keinerlei Anwesenheitspflichten.[3] Jedoch wird den Studierenden dringend empfohlen, auch an den übrigen Veranstaltungen der Präsenzphasen der ersten drei Semester teilzunehmen. 
+
+## **§ 13 Anerkennung und Anrechnung von Kompetenzen** 
+
+(1)[ 1] Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen oder durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines anderen Studiengangs an der FAU oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen staatlichen oder staatlich anerkannten Hochschulen erbracht worden sind, sowie aufgrund solcher Studiengänge erworbene Abschlüsse sind anzuerkennen, sofern hinsichtlich der erworbenen und der nachzuweisenden Kompetenzen keine wesentlichen Unterschiede bestehen.[2] Gleiches gilt für Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Modul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines Früh- oder Jungstudiums erbracht worden sind.[3] Die Anerkennung dient der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums oder der Zulassung zur Promotion. 
+
+(2)[ 1] Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+
+(3)[1] Die Noten anerkannter Studien- und Prüfungsleistungen werden übernommen, wenn sie entsprechend § 20 gebildet wurden.[2] Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter Prüfungen mit dem Notensystem des § 20 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
+
+x = 1 + 3 (Nmax – Nd)/(Nmax - Nmin) mit 
+
+x = gesuchte Umrechnungsnote 
+
+Nmax = beste erzielbare Note 
+
+Nmin = unterste Bestehensnote 
+
+Nd = erzielte Note 
+
+umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.[4] Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
+
+(4)[1] Im Falle der Anerkennung bzw. Anrechnung von 15 oder mehr ECTS-Punkten im Vollzeitstudium erfolgt eine Hochstufung der bzw. des Studierenden in höhere Fachsemester.[2] Dabei wird pro anerkannter 15 ECTS-Punkte ein Semester hochgestuft. 
+
+(5)[1] Anerkennung und Anrechnung erfolgen auf Antrag.[2] Die für die Anerkennung bzw. 
+
+7 
+
+Anrechnung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen.[3] Vorbehaltlich der Regelung in Satz 4 besteht bei Vorliegen der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung bzw. Anrechnung.[4] Eine Anerkennung bzw. Anrechnung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.[5] Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.[6] Die Entscheidung ergeht schriftlich. 
+
+## **§ 14 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** 
+
+(1)[1] Eine Prüfung gilt als mit „nicht ausreichend“ bewertet, wenn die bzw. der Studierende in anderen als den in § 10 Abs. 3 Satz 1 genannten Fällen zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn sie bzw. er ohne triftige Gründe zurücktritt; § 11 Abs. 3 bleibt unberührt.[2] § 10 Abs. 3 Sätze 2 bis 10 gelten entsprechend. 
+
+(2)[ 1] Im Falle des Plagiats sowie bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Leistung als mit "nicht ausreichend" (5,0) bewertet.[2] Zu den nicht zugelassenen Hilfsmitteln in Satz 1 bei der Anfertigung von Prüfungs- bzw. Studienleistungen zählt insbesondere die Nutzung von Chatbots oder anderweitiger Künstlicher Intelligenz, die die eigenständige Leistung der bzw. des Studierenden ersetzen kann, sofern diese nicht ausdrücklich von der bzw. dem Prüfenden als Hilfsmittel zugelassen wurden.[3] Als Versuch i. S. d. Satz 1 gilt bereits der Besitz nicht zugelassener Hilfsmittel während oder nach Ausgabe der Prüfungsunterlagen. 
+
+(3)[1] Besteht der begründete Verdacht für das Vorliegen eines Plagiats bzw. einer anderweitigen Täuschung, insbesondere durch den Einsatz von Systemen künstlicher Intelligenz im Sinne des Abs. 2 Satz 2, so sind die zuständigen Prüfenden im Rahmen der Sachverhaltsermittlung nach Art. 26 BayVwVfG insbesondere auch dazu berechtigt, im Rahmen eines Kontrollgesprächs mithilfe von Fragen zum ursprünglichen Prüfungsgegenstand abzuprüfen, ob die bzw. der betreffende Studierende den Prüfungsstoff beherrscht.[2] Ein begründeter Verdacht im Sinne des Satzes 1 ist gegeben, wenn nach dem Erfahrungswissen der bzw. des Prüfenden ein für das Vorliegen eines Plagiats bzw. einer Täuschung typischer Sachverhalt gegeben ist, der aufgrund des allgemeinen Erfahrungswissens zu dem Schluss berechtigt, dass ein Plagiat bzw. eine Täuschung vorliegt.[3] Das Kontrollgespräch wird von den für die ursprüngliche Prüfung zuständigen Prüfenden durchgeführt; war für die ursprüngliche Prüfung nur eine Prüfende bzw. ein Prüfender eingesetzt, findet das Kontrollgespräch in Anwesenheit einer Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden bestimmt wird.[4] Bei der Bewertung des Kontrollgesprächs ist der zeitliche Abstand zwischen der ursprünglichen Prüfung und dem Kontrollgespräch zu berücksichtigen.[5] Beherrscht die bzw. der Studierende den Prüfungsstoff in einem Umfang, der für das Bestehen der ursprünglichen Prüfung ausgereicht hätte, so gilt der begründete Verdacht für das Vorliegen des Plagiats bzw. der anderweitigen Täuschung als ausgeräumt und die ursprüngliche Prüfung wird regulär inhaltlich bewertet.[6] Kann die bzw. der Studierende im Rahmen des Kontrollgesprächs nach Satz 1 die abgeprüften Kompetenzen nicht in einem im Sinne des Satz 2 ausreichenden Umfang nachweisen und 
+
+8 
+
+sind gleichzeitig keine tatsächlichen Umstände gegeben, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, gilt die Täuschung als bewiesen; es gilt Abs. 2 Satz 1.[7] Verweigert die bzw. der Studierende die Teilnahme an dem Kontrollgespräch, so stellt dies eine Verletzung ihrer bzw. seiner Obliegenheit zur Mitwirkung im Prüfungsverfahren im Sinne des Art. 26 Abs. 2 Satz 1 BayVwVfG dar. 8Macht die bzw. der Studierende gleichzeitig keine tatsächlichen Umstände glaubhaft, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, so gilt der begründete Verdacht des Vorliegens eines Plagiats bzw. einer anderweitigen Täuschung als durch den Beweis des ersten Anscheins bewiesen. 
+
+(4) Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der bzw. dem Prüfenden oder der bzw. dem Aufsichtsführenden von der Fortsetzung der Prüfung ausgeschlossen werden; in diesem Fall gilt die Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet. 
+
+(5) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 2 oder 3 kann der Prüfungsausschuss die Studierende bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen mit der Folge, dass die bzw. der Studierende den Prüfungsanspruch im entsprechenden Modul verliert (endgültiges Nichtbestehen). 
+
+## **§ 15 Entzug akademischer Grade** 
+
+Der Entzug des akademischen Grades richtet sich nach Art. 101 **BayHIG** . 
+
+## **§ 16 Mängel im Prüfungsverfahren** 
+
+(1) Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben, kann auf Antrag einer bzw. eines Studierenden angeordnet werden, dass von einer bzw. einem bestimmten oder von allen Studierenden die Prüfung oder einzelne Teile derselben wiederholt wird bzw. werden. 
+
+(2) Mängel des Prüfungsverfahrens müssen unverzüglich bei der bzw. dem Vorsitzenden des Prüfungsausschusses oder bei der bzw. dem Prüfenden geltend gemacht werden. 
+
+(3) Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen nach Abs. 1 nicht mehr getroffen werden. 
+
+## **§ 17 Schriftliche Prüfungen, Antwort-Wahl-Verfahren** 
+
+(1)[1] In der schriftlichen Prüfung sollen die Studierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln Zusammenhänge des Faches darstellen und Probleme mit den geläufigen Methoden des Faches erkennen, sowie Wege zur Lösung finden können.[2] Dies gilt insbesondere für Klausuren, die unter Aufsicht angefertigt werden.[3] Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als Open-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung. 4Bei Prüfungen i.S.d. Satz 3 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten. 
+
+- (2)[1] Schriftliche Prüfungen werden durch die Erstellerin bzw. den Ersteller der Aufgabe 
+
+9 
+
+bewertet, sofern nichts anderes bestimmt ist.[2] Eine mit „nicht ausreichend“ bewertete schriftliche Prüfung ist von einer bzw. einem zweiten Prüfenden zu bewerten.[3] Die Bewertung der bzw. des Prüfenden muss jeweils schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen 
+
+(3)[1] Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- und/oder Multiple-Choice-Prüfungen).[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.[5] Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden. 6Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.[7] Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satzes 4 fehlerhaft sind.[8] Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen; es ist von einer verminderten Zahl der Prüfungsaufgaben auszugehen.[9] Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
+
+(4)[1] Die Aufgabenstellerinnen bzw. Aufgabensteller nach Abs. 5 Satz 7 legen fest, wann die Prüfungen nach Abs. 5 Satz 1 als bestanden gelten und legen auch eine relative Bestehensgrenze (Satz 2 Nr. 2) fest.[2] Sofern die Aufgabenstellerinnen bzw. Aufgabensteller keine Festlegung getroffen haben, gelten Prüfungen nach Abs. 3 Satz 1 als bestanden, wenn 
+
+1. die bzw. der zu Prüfende insgesamt mindestens 50 Prozent der gestellten Prüfungsfragen zutreffend beantwortet bzw. der zu erzielenden Punkte erreicht hat oder 
+
+2. die bzw. der zu Prüfende insgesamt mindestens 40 Prozent der gestellten Prüfungsfragen zutreffend beantwortet bzw. der zu erzielenden Punkte erreicht hat und die Zahl der von der bzw. dem zu Prüfenden zutreffend beantworteten Fragen bzw. erzielten Punkte um nicht mehr als 17 Prozent die durchschnittlichen Prüfungsleistungen der insgesamt zu Prüfenden unterschreitet, die erstmals an der entsprechenden Prüfung teilgenommen haben. 
+
+3Die Referenzgruppe der Erstteilnehmenden nach Satz 2 Nr. 2 muss aus mindestens 50 Personen bestehen; anderenfalls ist die relative Bestehensgrenze nicht anwendbar. 4Wird Satz 2 Nr. 2 angewendet, ist der Studiendekan bzw. die Studiendekanin zu unterrichten. 
+
+(5) Bei schriftlichen Prüfungen, die nur teilweise im Antwort-Wahl-Verfahren abgenommen werden, gelten die Abs. 3 und 4 nur für diesen Teil. 
+
+## **§ 18 Mündliche Prüfungen** 
+
+(1)[1] Mündliche Prüfungen dienen der Feststellung gründlicher Kenntnisse der bzw. des Studierenden auf dem jeweiligen Prüfungsgebiet.[2] Die Studierenden sollen nachweisen, dass sie die Zusammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermögen.[3] Mündliche Prüfungen werden in der Regel als Einzelprüfungen oder als Gruppenprüfungen (maximal fünf zu Prüfende) von einer bzw. einem Prüfenden in Anwesenheit einer Beisitzerin 
+
+10 
+
+bzw. eines Besitzers abgenommen; Näheres regelt das Modulhandbuch. 
+
+(2)[1] Die Beisitzerin bzw. der Beisitzer führt das Protokoll.[2] In das Protokoll sind aufzunehmen: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der bzw. des Prüfenden, der Beisitzerin bzw. des Beisitzers und der bzw. des Studierenden sowie besondere Vorkommnisse.[3] Die bzw. der Prüfende und die Beisitzerin bzw. der Beisitzer unterzeichnen das Protokoll.[4] Dieses ist mindestens zwei Jahre aufzubewahren. 
+
+(3)[1] Die Note der mündlichen Prüfung setzt die bzw. der jeweilige Prüfende nach der Notenskala des § 20 Abs. 1 Satz 1 unmittelbar nach Abschluss der mündlichen Prüfung fest.[2] In der mündlichen Prüfung vor mehreren prüfungsberechtigten Personen gelten § 20 Abs. 1 Sätze 5 und 7 entsprechend.[3] Die Note der mündlichen Prüfung wird der bzw. dem Studierenden unmittelbar im Anschluss an die mündliche Prüfung bekannt gegeben. 
+
+(4)[1] Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung während eines der nachfolgenden Prüfungszeiträume unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen bzw. Zuhörer zugelassen; auf Verlangen der bzw. des zu Prüfenden werden Zuhörerinnen bzw. Zuhörer ausgeschlossen.[2] Die Zulassung erstreckt sich nicht auf die Beratung und die Bekanntgabe des Prüfungsergebnisses. 
+
+## **§ 19 Elektronische Prüfung in Präsenz** 
+
+1Prüfungen können in elektronischer Form in Präsenz abgenommen werden. 2Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form in Präsenz abgenommen werden, regelt das Modulhandbuch.[3] Elektronische Prüfungen in Präsenz (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.[4] Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.[5] Eine automatisiert erstellte Bewertung einer Prüfung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden. 
+
+**§ 20 Bewertung der Prüfungen und Bildung der Prüfungsgesamtnote** (1)[1] Die Urteile über die einzelnen Prüfungen werden von der bzw. dem jeweiligen Prüfenden durch folgende Noten und Prädikate ausgedrückt: 
+
+|**Prädikat**|**Note**|**Erläuterung**|
+|---|---|---|
+|sehr gut|=(1,0 oder 1,3)|eine hervorragende Leistung;|
+|gut|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den durchschnittli-<br>chen Anforderungen liegt;|
+|befriedigend|= (2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen Anforderungen<br>entspricht;|
+|ausreichend|= (3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch den Anforde-<br>rungen entspricht;|
+|nicht ausreichend|= (4,3 oder 4,7 oder 5,0)|eine Leistung, die wegen erheblicher Mängel den An-<br>forderungen nichtmehrgenügt.|
+
+
+
+2Eine Prüfung (§ 6 Abs. 3) ist bestanden, wenn sie mindestens mit dem Prädikat „ausreichend“ bewertet ist.[3] Bei unbenoteten Prüfungen lautet die Bewertung „bestanden“ oder „nicht bestanden“.[4] Eine Modulprüfung ist bestanden, wenn alle Teilleistungen (§ 6 Abs. 2 Satz 3) bestanden sind.[5] Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Teilleistungen i. S. d. § 6 Abs. 2 Satz 3, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten; das Notenschema des Satz 1 
+
+11 
+
+findet keine Anwendung.[6] Satz 5 kann auch bei Prüfungen angewendet werden, die keine mehrteilige Prüfung im Sinne des § 6 Abs. 2 Satz 3 darstellen, jedoch gleichwohl aus mehreren Teilen bestehen (bspw. Klausur mit einer Kombination aus Antwort-WahlVerfahren und offenen Fragen); Näheres zur Bewertung regelt in diesem Fall die **Anlage.**[7] Die Modulnote errechnet sich, soweit sie auf Teilleistungen beruht, aus dem arithmetischen Mittel der Noten aus den Teilleistungen, soweit in der **Anlage** oder im Modulhandbuch nichts anderes bestimmt ist.[8] Bei der Ermittlung der Note wird nur die erste Dezimalstelle hinter dem Komma ausgewiesen, weitere Dezimalstellen werden ohne Rundung gestrichen.[9] Das Bewertungsverfahren soll in der Regel sechs Wochen nicht überschreiten. 
+
+(2)[1] Der Bewertungsmaßstab von im Antwort-Wahl-Verfahren zu erbringenden Prüfungsleistungen ist von den Aufgabenstellerinnen bzw. Aufgabenstellern nach § 19 Abs. 5 Satz 7 festzulegen.[2] Erfolgt keine Festlegung, sind die erbrachten Prüfungen im Antwort-Wahl-Verfahren (Single- und/oder Multiple-Choice-Prüfungen) wie folgt zu bewerten: 
+
+2Wer die für das Bestehen der Prüfung nach § 17 Abs. 4 Satz 2 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen bzw. die Mindestanzahl der zu erzielenden Punkte erreicht, erhält die Note 
+
+1,0 ("sehr gut"), wenn mindestens 75 Prozent, 2,0 ("gut"), wenn mindestens 50, aber weniger als 75 Prozent, 3,0 ("befriedigend"), wenn mindestens 25, aber weniger als 50 Prozent, 4,0 ("ausreichend"), wenn keine oder weniger als 25 Prozent der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet bzw. zu erzielenden Punkte erreicht wurden.[3] Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Noten 0,7, 4,3 und 4,7 sind dabei ausgeschlossen.[4] Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0.[5] Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 17 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden. 
+
+(3)[1] Die Gesamtnote wird als mit ECTS-Punkten gewichteter Durchschnitt der Noten der Modulprüfungen und der Masterarbeit gemäß der **Anlage 3** errechnet, wobei die Masterarbeit mit doppeltem Gewicht in die Berechnung eingeht.[2] Abs. 1 Satz 5 Halbsatz 2 und Satz 8 gelten entsprechend.[3] Die Prüfungsgesamtnote der bestandenen Prüfung lautet: 
+
+Bei einem Durchschnitt bis 1,5 = sehr gut; bei einem Durchschnitt über 1,5 bis 2,5 = gut; bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend; bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend; bei einem Durchschnitt über 4,00 =  nicht ausreichend. 
+
+## **§ 21 Ungültigkeit der Prüfung** 
+
+(1) Wurde bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung der Urkunden bekannt, so kann der Prüfungsausschuss nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
+
+(2) Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass die Täuschung vorsätzlich erfolgte, und wird diese Tatsache erst nach der Aushändigung der Urkunden bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt. 
+
+12 
+
+(3) Der bzw. dem Studierenden ist vor einer Entscheidung Gelegenheit zur Äußerung zu geben. 
+
+(4)[1] Die unrichtigen Urkunden werden eingezogen; es werden gegebenenfalls neue Urkunden ausgestellt.[2] Eine Entscheidung gemäß Abs. 1 und 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
+
+## **§ 22 Einsicht in die Prüfungsakten** 
+
+(1) Nach Abschluss der einzelnen Prüfungsverfahren erhält die bzw. der Studierende auf Antrag Einsicht in ihre bzw. seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfenden und in die Prüfungsprotokolle. 
+
+(2)[1] Der Antrag ist innerhalb eines Monats nach Notenbekanntgabe bei der bzw. dem Vorsitzenden des Prüfungsausschusses zu stellen.[2] Soweit nichts anderes bestimmt wird, wird die Einsicht durch die bzw. den Prüfenden gewährt; Näheres regelt der Prüfungsausschuss.[3] Wer ohne eigenes Verschulden verhindert war, die Frist nach Satz 1 einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 **BayVwVfG** in der jeweils geltenden Fassung beantragen. 
+
+## **§ 23 Bescheinigung über endgültig nicht bestandene Prüfung** 
+
+1Wer die Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.[2] Die bzw. der Studierende kann darüber hinaus selbst eine Übersicht der in den einzelnen Modulen erzielten Noten einsehen. 
+
+## **§ 24 Nachteilsausgleich** 
+
+(1)[1] Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf.[3] Sätze 1 und 2 gelten entsprechend für Studierende in besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer länger andauernden Krankheit oder Behinderung im Sinne des Satz 2 vergleichbar sind. 
+
+(2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden. 
+
+(3)[1] Entscheidungen gemäß Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des Prüfungsausschusses nach Anhörung der bzw. des Beauftragten für behinderte und chronisch kranke Studierende getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes bzw. eines der jeweiligen besonderen Lebenslage entsprechenden anderen Nachweises verlangt werden.[3] Anträge auf Nachteilsausgleich sind 
+
+13 
+
+möglichst spätestens vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten. 
+
+## **§ 25 Art und Umfang sowie Bestehen und Nichtbestehen der Masterprüfung** 
+
+1Die Masterprüfung umfasst die studienbegleitend zu erbringenden Prüfungen gemäß **Anlage 3** .[2] Die Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Masterarbeit bestanden sind. 
+
+## **§ 26 Zulassungsvoraussetzung zu den Prüfungen** 
+
+(1)[ 1] Wer mit der FAU einen Vertrag über die Teilnahme am berufsbegleitenden Weiterbildungsstudiengang Health Business Administration geschlossen hat und als Studierende bzw. Studierender entsprechend immatrikuliert ist, gilt als zugelassen zu den Prüfungen des Studiengangs, es sei denn, die Zulassung ist zu versagen.[2] Die Zulassung ist zu versagen, wenn 
+
+1. in dieser Prüfungsordnung inkl. der **Anlage 3** vorgeschriebene Voraussetzungen und Nachweise endgültig nicht oder nicht fristgemäß erfüllt werden, 
+
+2. die Diplom- oder Masterprüfung in einem inhaltlich vergleichbaren Studiengang endgültig nicht bestanden ist, oder 
+
+3. die Exmatrikulation unter Verlust des Prüfungsanspruchs verfügt wurde. 
+
+3In Fällen des Satz 2 besteht gleichzeitig ein Immatrikulationshindernis. 
+
+(2) Ist die Zulassung zu versagen, so ist die Entscheidung der bzw. dem Studierenden unverzüglich bekanntzugeben und mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
+
+## **§ 27 Einsendearbeiten und studienbegleitende Klausuren** 
+
+(1)[1] Die in den Modulen der ersten drei Semester vermittelten Kompetenzen werden in Form von Einsendearbeiten sowie Klausuren abgeprüft.[2] Dabei können die Studierenden jedes Semester auswählen, in welchem der beiden angebotenen Module sie die Einsendearbeit anfertigen und in welchem sie die Klausur schreiben möchten. 3§ 10 Abs. 2 ist zu beachten. 
+
+(2)[1] Bei den Einsendearbeiten handelt es sich um unbenotete Studienleistungen.[2] Die Studierenden können dabei pro Modul unter mehreren vom Lehrstuhl für Gesundheitsmanagement vorgegebenen Themen jeweils ein Thema für die Bearbeitung wählen. 
+
+(3)[1] Die Klausuren werden in den Präsenzphasen am Ende eines jeden Semesters geschrieben.[2] Sie sollen den Erkenntnisstand der bzw. des Studierenden bezogen auf das prüfungsrelevante Modul des Semesters sowie das Maß an Reflexionsfähigkeit modulübergreifend zeigen.[3] Die Klausuren werden jeweils von einer bzw. einem Prüfenden korrigiert und bewertet; § 17 Abs. 2 Sätze 2 und 3 gelten entsprechend.[4] Das Bewertungsverfahren soll sechs Wochen nicht überschreiten.[5] Über die Zulässigkeit von Hilfsmitteln entscheiden die zuständigen Prüfenden.[6] Die Studierenden werden rechtzeitig hierüber informiert. 
+
+## **§ 28 Masterarbeit** 
+
+(1)[1] Die Masterarbeit soll zeigen, dass die bzw. der Studierende imstande ist, Fragestellungen in ihrem bzw. seinem Fach selbstständig nach wissenschaftlichen Methoden und Erkenntnissen zu bearbeiten.[2] Die Masterarbeit zeugt von den Fähigkeiten der bzw. des Studierenden, ein konkretes Projekt der Praxis unter Hinzuziehung und Anwendung wissenschaftlicher Methoden und des neu erworbenen Wissens zu lösen. 
+
+14 
+
+3Die Masterarbeit darf nicht mit einer früher vorgelegten eigenen Diplomarbeit, Bachelor- oder Masterarbeit oder Dissertation in wesentlichen Teilen übereinstimmen (Plagiatsschutz).[4] Das Modul Masterarbeit wird mit 15 ECTS-Punkten bewertet. 
+
+(2)[1] Auf Antrag der bzw. des Studierenden vergibt die bzw. der Prüfungsausschussvorsitzende das Thema der Masterarbeit und weist eine Gutachterin bzw. einen Gutachter aus dem Kreis der Prüfenden zu.[2] Der Antrag kann frühestens nach Bestehen der drei Einsendearbeiten sowie von mindestens zwei der drei Klausuren i. S. d. § 27 gestellt werden.[3] Er ist so rechtzeitig zu stellen, dass die Prüfungsfristen (§ 11) eingehalten werden. 
+
+(3)[1] Die Bearbeitungszeit für die Masterarbeit beträgt sechs Monate.[2] In besonderen Ausnahmefällen kann die Bearbeitungszeit durch die bzw. den Vorsitzenden des Prüfungsausschusses um bis zu einen Monat verlängert werden.[3] Wird die Masterthesis nicht fristgerecht abgeliefert, so wird sie mit "nicht ausreichend" (5,0) bewertet.[4] Weist die bzw. der Studierende durch ärztliches Attest nach, dass sie bzw. er durch Krankheit an der Bearbeitung gehindert war, ruht die Bearbeitungsfrist.[5] Ruht die Bearbeitungszeit für einen längeren Zeitraum (mind. 6 Monate) i. S. d. Satz 4, so soll der Prüfungsausschuss einen krankheitsbedingten Abbruch der Bearbeitung prüfen mit der Folge, dass die Masterarbeit nach Wegfall der Krankheit mit einem neuen Thema neu anzumelden ist.[6] Sätze 4 und 5 gelten entsprechend in Fällen, in denen die bzw. der Studierende aus schwerwiegenden, nicht in ihrer bzw. seiner Risikosphäre liegenden und nicht von ihr bzw. ihm zu vertretenden Gründen, an der Bearbeitung der Masterarbeit gehindert ist. 
+
+(4) Die Masterarbeit ist grundsätzlich in deutscher Sprache anzufertigen; über Ausnahmen entscheidet der Prüfungsausschuss auf Antrag der bzw. des Studierenden und in Abstimmung mit der Betreuerin bzw. dem Betreuer. 
+
+(5)[1] Die Masterarbeit ist in zwei schriftlichen Exemplaren sowie in maschinenlesbarer, elektronischer Fassung beim Lehrstuhl für Gesundheitsmanagement einzureichen. 2Zeitpunkt der Themenvergabe und der Abgabe der Masterarbeit sind aktenkundig zu machen.[3] Der Masterarbeit ist ein Verzeichnis der benutzten Hilfsmittel beizufügen. 4Ausführungen, die wörtlich oder sinngemäß Veröffentlichungen oder anderen Quellen entnommen wurden, sind als solche kenntlich zu machen.[5] Die bzw. der Studierende hat eine eigenhändig unterschriebene Versicherung darüber abzugeben, dass die Arbeit selbstständig und ohne Benutzung anderer als der angegebenen Hilfsmittel angefertigt, noch nicht einer anderen Prüfungsbehörde vorgelegt und noch nicht veröffentlicht wurde (Plagiatsschutz).[6] Bei Abgabe einer unwahren Versicherung wird die Arbeit mit der Note „nicht ausreichend“ (5,0) bewertet. 
+
+(6)[1] Die Masterarbeit ist durch die Betreuerin bzw. den Betreuer zu beurteilen, die von der bzw. dem Prüfungsausschussvorsitzenden benannt werden.[2] Im Falle einer Bewertung mit der Note „nicht ausreichend“ wird vom Prüfungsausschuss eine zweite Gutachterin bzw. ein zweiter Gutachter aus dem Kreis der Prüfenden bestellt; § 20 Abs. 1 Satz 5 gilt entsprechend. 
+
+(7)[1] Wird die Masterarbeit mit der Note „nicht ausreichend“ (schlechter als 4,0) bewertet, kann diese einmal wiederholt werden.[2] Die bzw. der Studierende sorgt dafür, dass sie bzw. er innerhalb von zwei Monaten nach der Bekanntgabe des nicht ausreichen- 
+
+15 
+
+den Ergebnisses ein neues Thema für die Wiederholung der Masterthesis erhält; anderenfalls gilt die Arbeit als „endgültig nicht bestanden“.[3] Für die Wiederholung der Masterarbeit gelten die Abs. 1 und 3 bis 6 entsprechend.[4] Eine zweite Wiederholung der Masterarbeit ist unzulässig. 
+
+(8) Die Bewertung der Masterarbeit soll innerhalb von zwei Monaten nach Abgabe der Arbeit abgeschlossen sein. 
+
+## **§ 29 Wiederholung der Prüfungen** 
+
+(1)[1] Mit Ausnahme der Masterarbeit können sämtliche Modulprüfungen dreimal wiederholt werden.[2] Die Wiederholung ist beschränkt auf die mit "nicht ausreichend" bewertete Prüfungs- oder Studienleistung; bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist.[3] Die Wiederholungsprüfung muss in der Regel innerhalb von sechs Monaten angeboten werden.[4] Die bzw. der Studierende meldet sich zur Wiederholungsprüfung eigenständig an; es gilt § 10 Abs. 3.[5] Die Pflicht zur Wiederholung bleibt auch im Falle von Exmatrikulation und Beurlaubung bestehen.[6] Bei Versäumnis der Wiederholung gilt die Prüfung als nicht bestanden, sofern nicht der bzw. dem Studierenden vom Prüfungsausschuss wegen besonderer, von ihr bzw. ihm nicht zu vertretender Gründe eine Ausnahme gewährt wird; § 11 Abs. 3 gilt entsprechend.[7] Die Regeln über Mutterschutz, Eltern- und Pflegezeit (§ 11 Abs. 2) finden entsprechende Anwendung. 
+
+(2) Die freiwillige Wiederholung eines bestandenen Leistungsnachweises desselben Moduls ist nicht zulässig. 
+
+## **§ 30 Zeugnis, Transcript of Records, Diploma Supplement und Urkunde** 
+
+(1) Über die bestandene Masterprüfung werden innerhalb von acht Wochen ein Zeugnis, ein Transcript of Records, ein Diploma Supplement und eine Urkunde über die Verleihung des akademischen Grades ausgestellt. 
+
+(2)[ 1] Das Zeugnis wird von der bzw. dem Vorsitzenden des Prüfungsausschusses oder deren Stellvertreterin bzw. dessen Stellvertreter unterzeichnet und enthält die Module, Modulnoten, Titel und Note der Masterarbeit und die Gesamtnote der Masterprüfung. 2Auf Antrag der Absolventin bzw. des Absolventen wird die benötigte Fachstudiendauer in das Zeugnis aufgenommen.[3] Das Transcript of Records führt alle besuchten Module auf; das Zeugnis und das Transcript of Records können in einer Urkunde zusammengefasst werden.[3] Das Diploma Supplement enthält weitere Angaben zur Qualifikation der Absolventin bzw. des Absolventen und weist auf den berufsbegleitenden weiterbildenden Charakter des Studiengangs hin.[4] Das Transcript of Records und das Diploma Supplement werden in englischer und deutscher Sprache ausgestellt.[5] Informationen, die dem Prüfungsamt noch nicht vorliegen, müssen dort spätestens bis zum Zeitpunkt des Abschlusses des Studiengangs einschließlich entsprechender Nachweise vorgelegt werden; andernfalls können sie nicht mehr berücksichtigt werden. 
+
+## **§ 31 Inkrafttreten, Übergangsvorschriften** 
+
+(1)[ 1] Diese Studien- und Prüfungsordnung tritt am 1. Januar 2024 in Kraft.[2] Sie gilt für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Health Business Administration (MHBA) an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der 
+
+16 
+
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MHBA – vom 6. Juli 2018 studieren sowie diejenigen, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden.[3] Die in Satz 2 genannte Prüfungsordnung tritt gleichzeitig mit Inkrafttreten dieser Studien- und Prüfungsordnung außer Kraft. 
+
+(2)[1] Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft.[2] Sie findet Anwendung auf alle Prüfungen (Erst-, Zweit-, oder Drittversuch), die dem Prüfungszeitraum Wintersemester 2024/2025 und später zugeordnet sind.[3] Für Prüfungen, die früheren Prüfungszeiträumen zugeordnet sind, finden die Regelungen in der Fassung vom 7. Dezember 2023 Anwendung.“ 
+
+17 
+
+## **Anlage 1: Qualifikationsfeststellungsverfahren** 
+
+(1) Das Verfahren zur Feststellung der Qualifikation wird bei Bedarf, mindestens jedoch einmal pro Jahr vor Beginn der allgemeinen Vorlesungszeit zum Wintersemester durchgeführt. 
+
+(2)[1] Die Anträge auf Zulassung zum Qualifikationsfeststellungsverfahren sind schriftlich spätestens bis zu einem ortsüblich bekannt gegebenen Termin bei der bzw. dem Vorsitzenden des Prüfungsausschusses einzureichen; verspätet gestellte Anträge werden nur für den Studienbeginn im nächsten Wintersemester berücksichtigt. 2Dem Antrag sind beizufügen: 
+
+1. Anschreiben und Lebenslauf, 
+
+2. Nachweis eines ersten berufsqualifizierenden Abschlusses nach § 3 Satz 1 Nr. 1 einschließlich Transcript of Records und Diploma Supplement, 
+
+3. Nachweis über die bisherige Berufserfahrung nach § 3 Satz 1 Nr. 2 (erforderlich ist mind. eine zweijährige qualifizierte Berufstätigkeit in verantwortlicher Position mit Aufgaben der Führung, Planung oder Kontrolle nach Abschluss des Hochschulstudiums in privaten oder öffentlichen Unternehmen, Verbänden oder Verwaltungen). 
+
+(3)[1] Die Feststellung der Qualifikation obliegt gemäß § 7 Abs. 3 dem Prüfungsausschuss für den berufsbegleitenden Weiterbildungsstudiengang Health Business Administration.[2] Der Prüfungsausschuss kann die Koordination und Durchführung des Verfahrens einzelnen von ihm beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist. 
+
+(4)[1] Die Zulassung zum Qualifikationsfeststellungsverfahren setzt voraus, dass die in Abs. 2 genannten Unterlagen fristgerecht und vollständig vorliegen.[2] Mit den Bewerberinnen und Bewerbern, die die erforderlichen Voraussetzungen erfüllen, wird das Qualifikationsfeststellungsverfahren gemäß Abs. 5 und 6 durchgeführt.[3] Bewerberinnen und Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
+
+(5)[1] Der Prüfungsausschuss beurteilt im Rahmen des Qualifikationsfeststellungsverfahrens in einer Vorauswahl anhand der schriftlichen Unterlagen, ob eine Bewerberin bzw. ein Bewerber die Eignung zum Masterstudium besitzt.[2] Der Prüfungsausschuss stellt anhand der schriftlichen Unterlagen die Qualifikation fest, wenn als Gesamtnote des ersten berufsqualifizierenden Abschlusses gemäß § 3 Satz 1 Nr. 1 als Durchschnitt der bisherigen Leistungen 3,30 (= befriedigend) oder besser bescheinigt worden ist. 
+
+(6)[1] Mit den übrigen Bewerberinnen und Bewerbern wird das Qualifikationsfeststellungsverfahren mittels eines Qualifikationsfeststellungsgesprächs weiter durchgeführt. 2Das Qualifikationsfeststellungsgespräch dauert ca. 20 Minuten. 3Der Termin wird in der Regel mindestens eine Woche vorher bekannt gegeben.[4] Der festgesetzte Termin des Gesprächs ist von der Bewerberin bzw. dem Bewerber einzuhalten.[5] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme am Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Semesterbeginn anberaumt werden.[6] Das Qualifikationsfeststellungsgespräch ist für jede Bewerberin und jeden Bewerber einzeln durchzuführen.[7] Es kann in begründeten Ausnahmefällen und mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch geführt 
+
+18 
+
+werden.[8] Das Qualifikationsfeststellungsgespräch wird von einem Mitglied des Prüfungsausschusses in Anwesenheit einer Beisitzerin bzw. eines Beisitzers durchgeführt; § 18 Abs. 2 und 3 gelten entsprechend.[9] Das Qualifikationsfeststellungsgespräch erstreckt sich auf folgende gewichtete Kriterien: 
+
+1. Qualität der fachwissenschaftlichen Grundkenntnisse im Bereich Management, insbesondere Planung, Organisation, Führung, Kontrolle (50 Prozent) 
+
+2. Qualität der Grundkenntnisse im Bereich fachwissenschaftlicher Spezialkenntnisse, insbesondere zur Struktur des Gesundheitswesens (30 Prozent) 
+
+3. positive Prognose aufgrund steigender Leistungen im bisherigen Studienverlauf; Besprechung anhand der Abschlussdokumente des Erstabschlusses (insbesondere Transcript of Records) (20 Prozent). 
+
+10Das Ergebnis des Qualifikationsfeststellungsgesprächs sowie des Qualifikationsfeststellungsverfahrens insgesamt lautet bestanden oder nicht bestanden.[11] Das Ergebnis des Qualifikationsfeststellungsverfahrens wird der Bewerberin bzw. dem Bewerber schriftlich mitgeteilt.[12] Ein Ablehnungsbescheid ist mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
+
+(7) § 24 gilt entsprechend. 
+
+(8) Die Bewerberin bzw. der Bewerber trägt die eigenen Kosten des Qualifikationsfeststellungsverfahrens selbst. 
+
+(9)[1] Die Bestätigung über die bestandene Qualifikation im berufsbegleitenden Weiterbildungsstudiengang Health Business Administration hat unbeschränkte Gültigkeit, sofern sich der Masterstudiengang nicht wesentlich geändert hat.[2] Bewerberinnen und Bewerber, die den Nachweis der Eignung für das Masterstudium nicht erbracht haben, können auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen einmal erneut die Teilnahme am Qualifikationsfeststellungsverfahren beantragen. 
+
+19 
+
+## **Anlage 2: Sondereignungsfeststellungsprüfung** 
+
+(1)[1] Die Sondereignungsfeststellungsprüfung (SEFP) soll zeigen, ob die Bewerberinnen und Bewerber das zusätzlich zum ersten berufsqualifizierenden Abschluss (Basisniveau: mindestens 180 ECTS-Punkte) erforderliche Eingangs- bzw. Qualifikationsniveau für den berufsbegleitenden Weiterbildungsstudiengang Health Business Administration von insgesamt 240 ECTS-Punkten erreicht haben.[2] In der Regel wird die Sondereignungsfeststellungsprüfung gleichzeitig mit dem Qualifikationsfeststellungsverfahren gemäß der **Anlage 1** durchgeführt; Abs. 1, 3 und 6 Sätze 3 bis 8 und Sätze 10 und 11 sowie Abs. 7 bis 9 der **Anlage 1** gelten entsprechend. 
+
+(2)[1] Im Rahmen der SEFP findet eine Feststellung der außerhochschulisch erworbenen, studiengangsspezifischen Kompetenzen anhand einer mündlichen Prüfung im Umfang von ca. 20 Minuten statt.[2] Sie erstreckt sich mit folgender Gewichtung im Rahmen der Bewertung auf die Bereiche Fachkompetenz (1/3), Methodenkompetenz (1/3), Selbstkompetenz (1/6) und soziale Kompetenz (1/6).[3] Die Bewerberin bzw. der Bewerber bereitet die mündliche Prüfung anhand eines vom Studiengang zur Verfügung gestellten Templates in Bezug auf die Kompetenzbereiche vor und fügt entsprechende Nachweise bei. 
+
+- 4Der Grad der Kompetenzerfüllung kann nachgewiesen werden durch: 
+
+- a) bisherige Berufserfahrung, insbesondere der Wahrnehmung von Führungsaufgaben, 
+
+- b) Vorliegen internationaler berufspraktischer Erfahrung, 
+
+- c) bisheriger Weiterbildungsaktivitäten, Zusatzprüfungen, 
+
+- d) Beurteilungen im Beruf, Empfehlungsschreiben, Evaluationsbögen, 
+
+   - durch den Arbeitgeber, 
+
+- e) Zeugnisse, Zertifikate, 
+
+f) sonstige Nachweise. 
+
+> 5Die Dokumente sind mit der Bewerbung zum Studiengang entsprechend **Anlage 1** Abs. 2 einzureichen. 
+
+(3)[1] In der mündlichen Prüfung werden zur Vorqualifikation korrespondierende Fragen zu den von der Bewerberin bzw. dem Bewerber zum Kompetenzerwerb vorgelegten Nachweisen in den in Satz 2 genannten Kompetenzbereichen gestellt.[2] In den einzelnen Kompetenzbereichen werden insbesondere folgende Fähigkeiten überprüft, die an der Schnittstelle zwischen Medizin, der eigenen Fachdisziplin und dem Gesundheitswesen als Institution angesiedelt sein müssen: 
+
+1. Fachkompetenz:  Kenntnisse bezüglich der Struktur und der Finanzierung des deutschen Gesundheitswesens, Verständnis bezüglich der sektoralen Unterteilung 
+
+2. Methodenkompetenz: Analyse- und Problemlösungsfähigkeit, Auffassungsfähigkeit/-gabe, Entscheidungsfähigkeit, Ganzheitliches Denken, Organisationsfähigkeit in Bezug auf betriebliche oder medizinische Sachverhalte 
+
+3. Selbstkompetenz: Kritikfähigkeit, Selbstständigkeit, Zielstrebigkeit / Ergebnisorientiertheit im Kontext des deutschen Gesundheitswesens 
+
+4. Sozialkompetenz: Führungsfähigkeit, Kommunikationsfähigkeit, Konfliktlösungskompetenz, Teamfähigkeit. 
+
+(4)[1] Der Prüfungsausschuss bewertet jede Fähigkeit in einer fünfstufigen Skalierung in Abhängigkeit der erreichten Niveaustufe dargestellt durch Prozentpunkte. 2Die Einstufung erfolgt in: 
+
+1. Einsteiger = 0 % 
+
+2. Kenner = bis einschließlich 25 % 
+
+20 
+
+3. Routinier = bis einschließlich 50 % 
+
+4. Könner = bis einschließlich 75 % 
+
+5. Experte = bis einschließlich 100 %. 
+
+3Ergibt der Durchschnitt aller bewerteten Fähigkeiten in den einzelnen Kompetenzbereichen mindestens 60 %, ist die SEFP bestanden.[4] **Anlage 1** Abs. 6 Sätze 8 sowie 10 bis 12 gelten entsprechend. 
+
+21 
+
+## **Anlage 3: Studienverlaufsplan** 
+
+1Das Masterstudium beinhaltet 6 Module (jeweils benotete Prüfungsleistung und unbenotete Studienleistung) sowie das Modul Masterarbeit.[2] Im ersten, zweiten und dritten Semester sind in den dem jeweiligen Semester zugeordneten Modulen jeweils in einem Modul die (unbenotete) Studienleistung (SL) in Form einer Einsendearbeit und in dem anderen Modul die (benotete) Prüfungsleistung (PL) in Form der Klausur zu erbringen, vgl. § 27.[3] In den ersten beiden Semestern werden jeweils zwei Pflichtmodule angeboten, von den im dritten Semester angebotenen Modulen müssen zwei als Wahlpflichtmodule belegt werden.[4] Folgende Module werden angeboten: 
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS1 **|**SWS1 **|**SWS1 **|**SWS1 **|**Gesamt**<br>**ECTS-**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||<br>**ECTS-Punkten**|||||
+|||**V**|||||||||||
+||||**Ü**|**P**|**S**|**Punkte**|**1.**<br>**S **|**2.**<br>**S **|**3.**<br>**S **|**4.**<br>**S **|||
+||||||||**em.**|**em.**|**em.**|**em.**|||
+|**Modul 1:**<br>(Pflichtmodul)||Fernstudium||||5/10|||||||
+|**Einführung in die**<br>**Betriebswirtschafts-**<br>**lehre I**|Einführung in die<br>Betriebswirtschaftslehre I||||||5||||**SL:**Anfertigung einer schriftlichen<br>Einsendearbeit (Umfang ca. 10<br>Seiten)|0|
+|oder|||||||||||||
+|**Einführung in die**<br>**Betriebswirtschafts-**<br>**lehre I**|Einführung in die<br>Betriebswirtschaftslehre I||||||10||||**PL:**Klausur (120 Min.)|1|
+|**Modul 2:**<br>(Pflichtmodul)||Fernstudium||||5/10|||||||
+|**Einführung in die**<br>**Betriebswirtschafts-**<br>**lehre II**|Einführung in die<br>Betriebswirtschaftslehre II||||||5||||**SL:**Anfertigung einer schriftlichen<br>Einsendearbeit (Umfang ca. 10<br>Seiten)|0|
+|oder|||||||||||||
+|**Einführung in die**<br>**Betriebswirtschafts-**<br>**lehre II**|Einführung in die<br>Betriebswirtschaftslehre II||||||10||||**PL:**Klausur (120 Min.)|1|
+|**Modul 3:**<br>(Pflichtmodul)||Fernstudium||||5/10|||||||
+|**Grundlagen des**<br>**Gesundheitswesens I:**<br>**Kostenträger**|Grundlagen des<br>Gesundheitswesens I: Kostenträger|||||||5|||**SL:**Anfertigung einer schriftlichen<br>Einsendearbeit (Umfang ca. 10<br>Seiten)|0|
+|oder|||||||||||||
+|**Grundlagen des**<br>**Gesundheitswesens I:**<br>**Kostenträger**|Grundlagen des<br>Gesundheitswesens I: Kostenträger|||||||10|||**PL:**Klausur (120 Min.)|1|
+
+
+
+22 
+
+|**Modul 4:**<br>(Pflichtmodul)||Fernstudium|5/10|||||||
+|---|---|---|---|---|---|---|---|---|---|
+|**Grundlagen des Ge-**<br>**sundheitswesens II:**<br>**Leistungserbringer**|Grundlagen des Gesundheitswe-<br>sens II: Leistungserbringer||||5|||**SL:**Anfertigung einer schriftlichen<br>Einsendearbeit (Umfang ca. 10<br>Seiten)|0|
+|oder||||||||||
+|**Grundlagen des Ge-**<br>**sundheitswesens II:**<br>**Leistungserbringer**|Grundlagen des Gesundheitswe-<br>sens II: Leistungserbringer||||10|||**PL:**Klausur (120 Min.)|1|
+|**Modul 5:**<br>(Wahlpflichtmodul)||Fernstudium|5/10|||||||
+|**Ambulante Versor-**<br>**gung**|Ambulante Versorgung|||||5||**SL:**Anfertigung einer schriftlichen<br>Einsendearbeit (Umfang ca. 10<br>Seiten)|0|
+|oder||||||||||
+|**Ambulante Versor-**<br>**gung**|Ambulante Versorgung|||||10||**PL:**Klausur (120 Min.)|1|
+|**Modul 6:**<br>(Wahlpflichtmodul)||Fernstudium|5/10|||||||
+|**Stationäre Versorgung**|Stationäre Versorgung|||||5||**SL:**Anfertigung einer schriftlichen<br>Einsendearbeit (Umfang ca. 10<br>Seiten)|0|
+|oder||||||||||
+|**Stationäre Versorgung**|Stationäre Versorgung|||||10||**PL:**Klausur (120 Min.)|1|
+|**Modul 7:**<br>(Wahlpflichtmodul)||Fernstudium|5/10|||||||
+|**Pharmazeutische**<br>**Industrie**|Pharmazeutische Industrie|||||5||**SL:**Anfertigung einer schriftlichen<br>Einsendearbeit (Umfang ca. 10<br>Seiten)|0|
+|oder||||||||||
+|**Pharmazeutische**<br>**Industrie**|Pharmazeutische Industrie|||||10||**PL:**Klausur (120 Min.)|1|
+|**Masterarbeit**||||||||**PL:**Masterarbeit (ca. 45-70 Seiten)|2|
+||Masterarbeit||15||||15|||
+|||||||||||
+|**Summe SWS1 und ECTS-Punkte:**|||**60**|**15**|**15**|**15**|**15**|||
+
+
+
+23 
+
+1 Wenn in einem Modul die Einsendearbeit verfasst wird, beträgt der Workload 150 Stunden (5 ECTS-Punkte), für das Modul, in dem die Klausur geschrieben wird, beträgt der Workload durch die Klausurvorbereitung und die Teilnahme an der entsprechenden Präsenz-Klausurvorbereitung 300 Stunden (10 ECTS-Punkte). Pro Studiensemester ergibt sich somit ein Workload von 450 Stunden (15 ECTS-Punkten). 
+
+24 
+
+

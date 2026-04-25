@@ -1,15 +1,18 @@
 # scraper
 
-Three-stage Python pipeline that turns the public Campo portal into the **markdown corpus** under [`../data/`](../data/) consumed by IfCampoKnew's downstream agents and tooling.
+Python tooling that builds the **markdown corpus** under [`../data/`](../data/) from three sources:
 
 ```
-Campo HTML ─▶ scrape.py        ─▶ tmp/<period>.json
-              fetch_courses.py ─▶ tmp/<period>-courses.json
-              render_markdown  ─▶ data/<period-slug>/
-                                  (committed)
+Campo HTML       ─▶ scrape.py        ─▶ tmp/<period>.json
+                    fetch_courses.py ─▶ tmp/<period>-courses.json
+                    render_markdown  ─▶ data/<period-slug>/
+
+FAU.de Studiengang ─▶ fau_corpus.py ─▶ data/studiengang/{slug}.md
+FAU.de Prüfungsordnungen ─▶ fau_corpus.py ─▶ data/pruefungsordnungen/{path}/INDEX.md + per-PDF .md
+                                              (PDFs downloaded to tmp/, converted via pymupdf4llm)
 ```
 
-The JSON files are internal intermediates only — they live in `tmp/` and are regenerated on every run. The deliverable is the markdown tree.
+The JSON files and downloaded PDFs are internal intermediates only — they live in `tmp/` and are regenerated on every run. The deliverable is the markdown tree under `data/`.
 
 ## Quick start
 
@@ -29,9 +32,13 @@ scraper/.venv/bin/python scraper/fetch_courses.py \
 # 4. render the JSON into the hierarchical markdown corpus
 scraper/.venv/bin/python scraper/render_markdown.py \
     --in tmp/589.json --courses tmp/589-courses.json --out data
+
+# 5. (separate) FAU.de Studiengang + Prüfungsordnungen corpora
+scraper/.venv/bin/python scraper/fau_corpus.py \
+    --out data --tmp tmp/fau-pdfs -v
 ```
 
-Result: `data/589-sommersemester-2026/INDEX.md` + nested folders/files for every catalogue node, with course-leaves carrying full Eckdaten + Termine + Organisation tables.
+Result: `data/589-sommersemester-2026/INDEX.md` + nested folders/files for every catalogue node, with course-leaves carrying full Eckdaten + Termine + Organisation tables. Plus `data/studiengang/` (222 programs) and `data/pruefungsordnungen/` (36 landings + their PDFs converted to markdown).
 
 ### Subset run (testing)
 
@@ -76,8 +83,9 @@ Walks until every branch hits its true leaf (the deepest `exam:` sub-section). E
 | `scrape.py`           | CLI: BFS walk of the catalogue. |
 | `fetch_courses.py`    | CLI: GETs every unique `unit_id` referenced in the tree, parses to `Course`. |
 | `render_markdown.py`  | JSON snapshots → hierarchical markdown corpus with stable, ASCII-folded German slugs. |
+| `fau_corpus.py`       | Single-script pipeline for FAU.de Studiengang + Prüfungsordnungen. Reads the FAU sitemap, fetches every page, downloads every PO PDF, runs each through `pymupdf4llm`, writes markdown directly to `data/`. |
 | `tests/`              | pytest fixtures (real Campo HTML) + unit tests for both parsers. Run with `pytest scraper/tests/`. |
-| `requirements.txt`    | `requests`, `lxml`. |
+| `requirements.txt`    | `requests`, `lxml`, `beautifulsoup4`, `markdownify`, `pymupdf4llm`. |
 | `requirements-dev.txt`| Adds `pytest`. |
 
 ## Notes for AI consumers / agents

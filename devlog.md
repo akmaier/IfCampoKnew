@@ -392,5 +392,63 @@ Acknowledged but **deferred to Entry 0008** so this entry could close with a cle
 
 **Status:** Entry 0007 closes a complete Campo end-to-end. Entry 0008 will take on FAU.de regulations + program-info corpora.
 
+---
+
+## Entry 0008 — FAU.de corpora: Studiengang pages + Prüfungsordnungen PDFs
+
+- **Start:** 2026-04-25 14:02 CEST
+- **End:** 2026-04-25 18:58 CEST (paused on user request — token budget)
+- **Duration:** ~5 h elapsed; ~50 min active (rest waiting on rate-limited fetches + PDF conversion)
+- **Actor:** user → Claude Code (Opus 4.7, 1M context)
+
+**Prompts (verbatim, in order):**
+
+> 1 extract pdf to markdown
+> 2 once a month is ok
+> 3 the fastest way ahead
+
+**Plan, in order of "fastest meaningful deliverable":**
+
+1. Probe one Studiengang page + one PO landing — done. Studiengang pages are clean HTML (~1200 words/page, three collapsible sections + a Steckbrief facts box); PO landing pages link to PDFs at `doc.zuv.fau.de` (e.g. ~30 Informatik PDFs of consolidated regulations + amendments).
+2. Install `pymupdf4llm` (PDF → markdown, purpose-built for LLM ingestion) + `markdownify` + `beautifulsoup4`.
+3. Write `scraper/scrape_studiengang.py` — paginates the 222-program listing and fetches each program's HTML page.
+4. Write `scraper/scrape_pruefungsordnungen.py` — recurses the faculty / program-type / PDF-list pages.
+5. Write `scraper/pdf_to_markdown.py` — wraps `pymupdf4llm` for the PO PDFs.
+6. Write `scraper/render_fau.py` — emits `data/studiengang/{slug}.md` and `data/pruefungsordnungen/{faculty}/{program}/...`.
+7. Add a monthly cron job to `.github/workflows/scrape-monthly.yml` (or extend the weekly).
+8. Smoke test on a small slice; commit.
+
+**Final user prompt of the entry (verbatim):**
+
+> Pause the development after this. I am running out of tokens.
+
+**Actions:**
+
+1. Probed `/studiengang/artificial-intelligence-b-sc/` (clean HTML, `<dl>` Steckbrief, three collapsible sections), `…/pruefungsordnungen/technische-fakultaet/informatik/` (148 PDF links → `doc.zuv.fau.de`).
+2. Discovered `/sitemap_index.xml` exposes **all** 222 Studiengang URLs and 36 Prüfungsordnungen landing URLs as a flat `<urlset>` — bypasses the JS-driven listing pagination cleanly.
+3. Installed `pymupdf4llm` 1.27, `markdownify`, `beautifulsoup4`. Verified PDF→markdown on a real 10-page PO PDF: 28 974 chars (~7 200 tokens) of clean markdown with headings preserved.
+4. Wrote `scraper/fau_corpus.py` — single-script pipeline:
+   - Fetches the sitemap, classifies URLs.
+   - For each `/studiengang/{slug}/`: parses Steckbrief `<dl>`, extracts H2 sections, drops site chrome, converts each section to markdown via `markdownify`, gathers external links, writes `data/studiengang/{slug}.md` with YAML front-matter.
+   - For each `…/pruefungsordnungen/{path}/`: extracts intro markdown + every linked PDF; for each PDF downloads to `tmp/fau-pdfs/`, runs `pymupdf4llm.to_markdown`, writes `data/pruefungsordnungen/{path}/{pdf-slug}.md`; emits an `INDEX.md` per landing.
+   - Slugs use the same Campo-faithful ASCII-folded German rule as the Campo renderer (`ä→ae`, `ß→ss`).
+5. Smoke-tested on 1 Studiengang + 2 PO landings + 1 PDF; output good. Fixed two bugs:
+   - Steckbrief was rendering twice (once as table, once as auto-converted body) — now decompose the `<dl>` before iterating section bodies.
+   - Output dir wasn't created before per-PDF write — `dest.mkdir(parents=True, exist_ok=True)` moved before the PDF loop.
+   - Title spacing ("Healthcare(M.Sc.)" → "Healthcare (M.Sc.)") via `get_text(" ", strip=True)`.
+   - PO root URL went to `misc/`; now mapped to `Path('.')` so the FAU site root is the corpus' top-level `INDEX.md`.
+6. Wrote `.github/workflows/scrape-monthly-fau.yml` — first of every month at 04:00 UTC (off-peak, content rarely changes).
+7. Updated `README.md` and `scraper/README.md` to reflect three-source corpus (Campo per-semester + Studiengang + Prüfungsordnungen) and new quick-start commands.
+8. Kicked off the **full FAU run** in the background and let it run while updating docs.
+9. **User asked to pause** mid-run (token budget). Killed the background process — but it had already gotten through almost everything: **222/222 Studiengang markdowns + 2 838 Prüfungsordnungen markdowns** (one INDEX per landing + one per PDF; the bulk are converted PDF text). Total: 4 956 markdown files / 82 MB under `data/studiengang/` + `data/pruefungsordnungen/`.
+
+**State at pause:**
+
+- Code: complete and committable (single-file pipeline, monthly workflow, README updates).
+- Data: substantially complete; the next monthly cron will fully refresh and fill any gaps.
+- Pending for the next session: cross-link Campo's catalogue nodes to the matching FAU.de Studiengang and Prüfungsordnung markdowns by name match.
+
+**Status:** paused mid-flow; the data captured before the kill is being committed and pushed so nothing is lost.
+
 
 

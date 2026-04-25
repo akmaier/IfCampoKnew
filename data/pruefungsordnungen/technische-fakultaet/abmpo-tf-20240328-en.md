@@ -1,0 +1,601 @@
+---
+kind: "fau-pruefungsordnung-document"
+title: "ABMPO-TF 20240328 en.pdf"
+pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Allgemeine_PO_Bachelor_Master/englisch/_ABMPO-TF_20240328_en.pdf
+parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
+scraped_at: 2026-04-25T16:43:09+00:00
+page_count_chars: 97506
+---
+
+# ABMPO-TF 20240328 en.pdf
+
+**PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Allgemeine_PO_Bachelor_Master/englisch/_ABMPO-TF_20240328_en.pdf>
+**Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/>
+
+# **General Degree Program and Examination Regulations for Bachelor’s and Master's degree programs and other study programs within the meaning of Section 77 (5) BayHIG at the Faculty of Engineering at Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – ABMPO/TF –** 
+
+## **Dated March 28, 2024** 
+
+Based on Section 9 (1) in conjunction with Section 80 (1)(1), Section 84 (2)(1), Section 86 (3)(4), Section 88 (9), Section 90 (1)(2) and Section 96 (3)(1) Bavarian Higher Education Innovation Act ( **BayHIG** ) dated August 5, 2022, Friedrich-AlexanderUniversität Erlangen-Nürnberg enacts the following degree program and examination regulations: 
+
+## **Contents:** 
+
+Part I: General Provisions ....................................................................................................... 3 Section 1 Scope, Purpose of the Bachelor’s and Master’s Examination ................................. 3 Section 2 Degrees .................................................................................................................. 3 Section 3 Structure of the Bachelor’s Degree Program, Examinations and Standard Duration of Study, Part-Time Study, Start of Degree Program, Practical Work Prior to Studies, ........... 3 Teaching and Examination Language .................................................................................... 3 Section 4 Structure of the Master’s Degree Program, Examinations and Standard Duration of Study, Part-Time Study, Start of Degree Program, Examination and Teaching Language ...... 4 Section 5 Part-Time Study, Transfer, Exceeding Maximum Number of ECTS Credits ............ 5 Section 6 ECTS Credits .......................................................................................................... 5 Section 7 Modules and Credits, .............................................................................................. 6 Voluntary Intermediate Examinations ..................................................................................... 6 Section 8 Compulsory Attendance.......................................................................................... 7 Section 9 Examination Deadlines, Failure to Observe Deadlines ........................................... 8 Section 10 Examinations Committee ...................................................................................... 8 Section 11 Degree Program Committees ............................................................................... 9 Section 12 Examiners, Observers, Exclusion Due to ............................................................ 10 Personal Involvement, Obligation to Confidentiality .............................................................. 10 Section 13 Announcement of Examination Dates and Examiners; ....................................... 11 Registration, Withdrawal, Consequences of Delayed Withdrawal ......................................... 11 Section 14 Admissions Committees for Master’s Degree Programs ..................................... 11 Section 15 Recognition and Accreditation of Skills ............................................................... 12 Section 16 Fraud, Breach of Regulations, Exclusion from Further Participation ................... 13 Section 17 Revocation of Degrees ....................................................................................... 13 Section 18 Faults in the Examination Process ...................................................................... 13 Section 19 Written Examination, Multiple Choice Examinations ........................................... 14 Section 20 Oral Examination ................................................................................................ 15 Section 21 On-Campus Electronic Examinations .................................................................. 16 Section 22 Evaluation of Examinations, Grades, Final Grade ............................................... 16 Section 23 Invalidity of Examinations ................................................................................... 18 Section 24 Inspection of Examination Records ..................................................................... 18 Section 25 Final Academic Record, Transcript of Records, Diploma Supplement, ............... 18 Grade Distribution Table and Degree Certificate .................................................................. 18 Section 26 Notification of Failed Examinations ..................................................................... 19 Section 27 Adjustments to Examination Arrangements ........................................................ 19 Part II: Bachelor’s Examination ............................................................................................. 19 Section 28 Admission Requirements for Examinations ......................................................... 19 Section 29 Grundlagen- und Orientierungsprüfung (GOP) ................................................... 20 
+
+1 
+
+Section 30 Bachelor’s Examination ...................................................................................... 20 Section 31 Bachelor’s Thesis ............................................................................................... 20 Section 32 Resit Examinations, Change of Module, Additional Modules .............................. 22 Part III: Master’s Examination ............................................................................................... 23 Section 33 Qualification for a Master’s Degree Program ...................................................... 23 Section 34 Admission Requirements for Examinations ......................................................... 24 Section 35 Master’s Examination ......................................................................................... 24 Section 36 Master’s Thesis................................................................................................... 24 Section 37 Resitting Examinations, Changing Modules, Additional Modules ........................ 26 Part IV Final Provisions ........................................................................................................ 26 Section 38 Legal Validity, Transitory Provisions ................................................................... 26 Appendix: ............................................................................................................................. 28 Qualification assessment process for Master’s degree programs at the Faculty of Engineering at FAU .............................................................................................................. 28 
+
+2 
+
+## **Part I: General Provisions** 
+
+## **Section 1 Scope, Purpose of the Bachelor’s and Master’s Examination** 
+
+(1)[1] These degree program and examination regulations govern studies and examinations for Bachelor’s and Master’s degree programs at the Faculty of Engineering resulting in the degrees “Bachelor of Science” and “Master of Science” as well as other study programs within the meaning of Section 77 (5) **BayHIG** , with the exception of the Bachelor's degree program for working professionals in Computer Science/IT Security and the Bachelor’s and consecutive Master's degree program in Technical Vocational Education and Training for teaching at vocational schools.[2] They are supplemented by the respective **degree program and examination regulations** . 
+
+(2)[1] The Bachelor of Science is an undergraduate degree that qualifies graduates for professional work.[2] The purpose of the Bachelor’s examination is to assess whether students: 
+
+- have acquired fundamental knowledge as well as methodological understanding of the examined subjects 
+
+- have the ability to employ scientific methods and knowledge independently 
+
+- are prepared for the transition to professional practice. 
+
+(3)[1] The Master of Science is a second university degree that qualifies graduates for further research as well as professional work.[2] The Master’s examination serves to determine whether students: 
+
+- have acquired in-depth knowledge of fundamental concepts and research findings in the subjects of their Master’s degree program 
+
+- are capable of working independently according to scientific methods and of developing these further 
+
+- are prepared for professional practice. 
+
+## **Section 2 Degrees** 
+
+(1) Passing the examinations results in the following degrees, depending on the type of degree program: 
+
+1. The degree of Bachelor of Science (abbreviation: BSc) for passing the Bachelor’s examination 
+
+2. The degree of Master of Science (abbreviation: MSc) for passing the Master’s examination. 
+
+- (2) The degrees may also be used with the addition “(FAU Erlangen-Nürnberg)”. 
+
+## **Section 3 Structure of the Bachelor’s Degree Program, Examinations and Standard Duration of Study, Part-Time Study, Start of Degree Program, Practical Work Prior to Studies, Teaching and Examination Language** 
+
+(1)[1] By the end of the second semester, students shall take a preliminary examination (Grundlagen- und Orientierungsprüfung, GOP) covering the foundations of the Bachelor’s degree program pursuant to Section 29 in conjunction with the regulations set forth in the respective **degree program and examination regulations** .[2] The remainder of the Bachelor’s degree program consists of the module examinations throughout the degree program up to the end of the standard duration of studies including the Bachelor’s thesis module (if applicable including an oral examination or 
+
+3 
+
+a presentation) and, if required, an internship and/or research project.[3] 180 ECTS credits are required to successfully complete the degree program. 
+
+(2) Due to the specific subject competencies that must be acquired as part of the qualification goals of the Bachelor’s degree program, each module can only be taken once during the Bachelor’s degree program. 
+
+(3)[1] The standard duration of a Bachelor’s degree program is six semesters.[2] Sentence 1 notwithstanding, the standard duration of a part-time degree is twelve semesters. 
+
+(4) Unless stipulated otherwise in the respective **degree program and examination regulations** , degree programs may only be started in the winter semester. 
+
+(5) The **degree program and examination regulations** govern for which degree programs applicants are to carry out practical work prior to beginning their studies and state more detailed provisions regarding the type and scope thereof. 
+
+(6)[1] Unless stipulated otherwise in the respective **degree and examination regulations** , the teaching and examination language in the Bachelor’s degree program is German.[2] Unless stipulated otherwise in the respective **degree program and examination regulations** , individual modules may be taken and examined in English. 3Further details are stipulated in the **degree program and examination regulations** and the module handbook.[4] In any case of uncertainty, the examination language shall be the same as the teaching language. 
+
+## **Section 4 Structure of the Master’s Degree Program, Examinations and Standard Duration of Study, Part-Time Study, Start of Degree Program, Examination and Teaching Language** 
+
+(1) The Master’s degree program builds on the content of the Bachelor’s program; it is more research-oriented. 
+
+(2)[1] The Master’s degree program shall have a duration of three semesters plus one semester for working on the Master’s thesis.[ 2] The Master’s degree program is concluded with the Master’s examination.[3] This consists of examinations in all modules taken throughout the degree program including the Master’s thesis module.[4] 120 ECTS credits are required to successfully complete the degree program. 
+
+(3) Due to the specific subject competencies that are set out in each module description and must be acquired as part of the qualification goals of the consecutive Bachelor’s and Master’s degree program, each module can only be taken once during the Master’s degree program. 
+
+(4)[1] The standard duration of a Master’s degree program including all examinations is four semesters.[2] Notwithstanding sentence 1, the standard duration of a part-time Master’s degree program is eight semesters.[3] The total standard duration for the consecutive Bachelor’s and Master’s degree program is ten semesters. 
+
+(5)[1] Unless stipulated otherwise in the respective **degree and examination regulations** , the teaching and examination language in the Master’s degree program is German.[2] Individual teaching units and examinations or modules may be held in English.[3] Further details are stipulated in the **degree program and examination** 
+
+4 
+
+**regulations** and the module handbook.[4] In any case of uncertainty, the examination language shall be the same as the teaching language. 
+
+## **Section 5 Part-Time Study, Transfer, Exceeding Maximum Number of ECTS Credits** 
+
+(1)[1] Bachelor’s or Master's degree programs may also be studied in the form of a parttime degree program at twice the standard duration, provided this is allowed for in the relevant **degree program and examination regulations** .[2] If part-time study is possible, the following shall apply. 
+
+(2)[1] Students may change from a full-time degree program to a part-time degree program with effect from any winter semester during Bachelor's degree programs or once per academic year for Master's degree programs. Students are advised to consult their study advisor before making a change.[2] Students may only change to a part-time degree program after the fifth full-time semester (Bachelor’s degrees) or the third fulltime semester (Master’s degree programs) in justified exceptional cases; the decision shall rest with the Examinations Committee.[3] It is possible to change from the part-time to the full-time degree program after completing the second, fourth, sixth, eighth and tenth subject semesters for Bachelor's degree programs and after each subject semester for Master's degree programs.[4] The semesters completed as part of the fulltime or part-time degree program up until that point shall be accredited and the student is enrolled in the relevant subject semester, with the number of subject semesters being either doubled (change to part-time) or halved (change to full-time) as a result. 5The examinations and/or modules the student has taken and any failed attempts are recognized pursuant to Section 15.[6] Any existing rights and obligations governed by the applicable examination regulations created during the part-time or full-time studies shall not be affected by the change; this applies in particular to the obligation to resit failed examinations within the prescribed period.[7] Students may only change back to the original mode of study in justified exceptional cases; the decision lies with the Examinations Committee, sentences 1 to 6 apply accordingly. 
+
+(3)[1] Part-time students may obtain a maximum of 5 ECTS credits more per academic year than the number of credits stated in the degree program structure. 2Notwithstanding sentence 1, modules with a total of 10 ECTS credits in excess of the stated scope may be completed in the academic year in which the Bachelor’s or Master’s thesis is submitted.[3] Students may exceed the maximum number of ECTS credits pursuant to sentences 1 and 2 by 5 ECTS credits one time; if the maximum number of ECTS credits is exceeded more than once, the equivalent number of subject semesters will be accredited.[4] The Examinations Committee may grant exemptions from sentence 3 on written request; the request shall be submitted before the start of the examination and state the reasons for the request. 
+
+## **Section 6 ECTS Credits** 
+
+(1)[1] The degree programs and examinations are based on the European Credit Transfer and Accumulation System (ECTS).[2] In general, 30 ECTS credits are allocated per semester.[ 3] One ECTS credit corresponds to 30 hours of work. 
+
+(2)[1] ECTS credits serve as a system to categorize, calculate and confirm the amount of work a student has invested.[2] They are a quantitative indicator of a student’s workload. 
+
+5 
+
+## **Section 7 Modules and Credits, Voluntary Intermediate Examinations** 
+
+(1)[1] The degree program consists of modules for which students are awarded ECTS credits.[2] One module is a chronologically connected and self-contained teaching and learning unit, the content of which can be tested in an examination. 
+
+(2)[1] The modules shall be completed with a module examination.[2] This examination shall as a rule consist of one examination achievement or one course achievement. 3In exceptional cases, this examination can also consist of several partial examinations or parts of examinations or a combination of examination and course achievements if the subject warrants it.[4] Ungraded course achievements consisting of several parts and/or course achievements which can be repeated an unlimited number of times shall not count as separate examinations consisting of several parts (partial module examinations) within the meaning of sentence 3.[5] ECTS credits shall only be awarded for successful participation in modules that can be verified in individual, separately identifiable performance in a module examination.[6] Module examinations are conducted during the lecture period or following the last lecture/seminar of a module before the start of the next semester’s lecture period.[7] All examinations generally take place during the six-week examination period.[8] The examination period is divided into two weeks after the end of the lecture period (twelve working days including Saturdays; if public holidays are included in this period, an equivalent number of examination days are added) and a period of four weeks before the lecture period for the next semester starts (twenty four working days including Saturdays; if public holidays are included in this period, an equivalent number of examination days are added).[9] The latter period is split into one week for conducting electronic examinations and three weeks for other examinations.[10] Examination achievements are graded.[11] The assessment of course achievements is limited to determining whether the student has passed or not. 
+
+(3)[1] Examinations (examination achievements and course achievements) measure the student’s success. 2They may be written, electronic, oral, use electronic communication devices or be in a different form.[3] In the event of invigilated remote electronic examinations, the Bavarian regulation for testing remote examinations ( **BayFEV** ) and the FAU regulations on remote examinations on the basis of the Bavarian regulations for testing remote examinations (BayFEV) – **EFernPO** – shall be complied with. 4In particular, tutorial achievements, which usually involve independently solving tutorial exercises each week (e.g. exercises in programming), and laboratory achievements, which usually involve practical tasks, written experiment protocols, and oral or written tests, are permitted.[5] Furthermore, students may be required to submit seminar achievements (usually a presentation and written report) and excursion achievements (usually a review or discussion contribution).[6] The specific form and scope of the examinations stated in sentences 4 and 5 depend on the specific manner in which the respective module or teaching unit is taught. Details are stipulated in sentence 8, the applicable **degree program and examination regulations** and/or the module handbook.[7] The scope of a graded seminar achievement depends on the specific topic which has been allocated and shall be agreed with the module coordinator.[8] Unless stipulated otherwise in the relevant **degree program and examination regulations** , a presentation shall last approximately 30 minutes and a written assignment shall be approx. 10 pages long. 
+
+6 
+
+(4) Enrollment in the relevant degree program or in another study program at FAU within the meaning of Section 77 (5) **BayHIG** is a requirement for participation in module examinations according to paragraph 2 (1). 
+
+(5)[1] In addition to the module examinations, voluntary intermediate examinations (e.g. tutorial achievements or short tests) may be offered during teaching units as a way of measuring the standard of performance.[2] More detailed information, including the number, type and scope of these examinations, is given in the module handbook.[3] An intermediate examination achievement may improve the grade for a passed module examination or partial examination by a maximum of 0.7; a grade may not be made worse. 
+
+## **Section 8 Compulsory Attendance** 
+
+(1)[1] For teaching units, which are marked accordingly in the respective module description, in which the qualification goal can only be achieved by regular attendance, compulsory attendance can be made a requirement for admission to the module examination or for obtaining the course achievement.[2] If attendance of the individual student is required for all participants to obtain the subject-specific skills, if the individual student obtaining such skills depends on the attendance of the other participants, or if subject-specific skills can only be obtained by being present at a particular place, or if participation is required for safety reasons, it is permissible to introduce an obligation to attend. 
+
+(2)[1] Regular attendance is defined as missing no more than 15% of instruction time in any given teaching unit.[2] If between 15% and 30% of instruction time has been missed, the lecturer can offer the student the option to obtain a substitute achievement fulfilling the requirement of regular attendance. If no such substitute achievements are offered or the substitute achievements offered are not obtained by the student, attendance is not considered to have been regular.[3] If more than 30% of all instruction time has been missed, the teaching unit must be taken again.[4] Any positions after the decimal point in the percentage of instruction time missed shall be rounded for the benefit of the student. 
+
+(3)[1] Notwithstanding paragraph 2, in the context of excursions, placements and block seminars, attendance is only considered to have been regular if all teaching units have been attended.[2] Appropriate substitute achievements fulfilling the requirement of regular attendance shall be offered in the case of credibly shown periods of absence due to reasons beyond the student’s control of up to and including 15% of instruction time.[3] If more than 15% of instruction time has been missed, the teaching unit must be taken again.[4] Any positions after the decimal point in the percentage of instruction time missed shall be rounded for the benefit of the student. 
+
+(4)[1] Attendance is checked in the individual teaching units, provided these are held face to face, by means of an attendance list in which students must enter their name and signature, or in a comparable manner.[2] If teaching units are held online, teaching staff shall record attendance by taking a register of the names of all those attending. 3Teaching staff shall compare the names on the registration list to see whether they correspond with the names used by the students attending the teaching unit.[4] If students use a pseudonym during an online teaching unit with compulsory attendance, they must inform the member of teaching staff of their real name in order to allow a comparison to be made. 
+
+7 
+
+## **Section 9 Examination Deadlines, Failure to Observe Deadlines** 
+
+(1)[1] Examinations shall be sat in such a timely manner as to allow the student to obtain the ECTS credits specified in the relevant **degree program and examination regulations** for the GOP and the Bachelor’s or Master’s examination by the scheduled deadline.[2] Deadlines shall be the second semester of the Bachelor’s degree program for the GOP in the case of full-time study or the fourth semester in the case of parttime study and the last semester of the respective standard duration of study for the Bachelor’s or Master’s examination.[3] The deadlines according to sentence 2 may be exceeded by the following periods (extended deadline): 
+
+1. GOP in a full-time degree program – by one semester 
+
+2. GOP in a part-time degree program– by two semesters 
+
+3. Bachelor’s examination – by two semesters 
+
+4. Bachelor’s examination in a part-time degree program – by two semesters 
+
+5. Master’s examination in a full-time degree program – by two semesters 
+
+6. Master’s examination in a part-time degree program – by two semesters 
+
+4An examination shall be considered to have been sat and failed at the final attempt if the required number of ECTS credits stipulated in the relevant **degree program and examination regulations** was not obtained within the extended deadline according to Sentence 3, unless the reasons for this are beyond the student’s control. 
+
+(2) The deadline set forth in paragraph (1) shall be extended by claiming the legal periods of protection stipulated in the law protecting mothers at work, in education and whilst studying, the Maternity Protection Act (Mutterschutzgesetz – **MuSchG** ) in the version published on May 23, 2017 (BGBI I S. 1228 [German Federal Law Gazette I p.2318]), according to the periods set forth in the current version of the Parental Allowance and Parental Leave Act (Bundeselterngeld- und Elternzeitgesetz – **BEEG** ) of December 5, 2006 (BGBl I S. 2748 [German Federal Law Gazette I p. 2748]), and according to periods of time spent providing care in the sense of Section 7 (3) of the current version of the Caregiver Leave Act (Pflegezeitgesetz - **PflegeZG** ) of May 28, 2008 (BGBI I S. 874, 896 [German Federal Law Gazette I p. 874, 896]) for a close family member who requires care in the sense of the current version of **SGB XI** (German Social Security Code XI) of May 26, 1994 (BGBI I S. 1014, 1015 [German Federal Law Gazette I p. 1014, 1015]). 
+
+(3)[1] The reasons according to paragraph (1)(4) and paragraph 2 shall be explained in writing and shown credibly to the Examinations Office without delay.[2] If the reasons are acknowledged, the examination shall be sat at the soonest possible time; previous examination and course achievements shall be accredited.[3] Section 13 (2) sentences 2 to 4 shall apply. 
+
+## **Section 10 Examinations Committee** 
+
+(1)[1] An Examinations Committee consisting of seven members of the Faculty of Engineering shall organize the examinations for the Bachelor’s and Master’s degree programs and all study programs as defined in Section 77 (5) **BayHIG** pursuant to these examination regulations.[2] The chairperson and five other members shall be university lecturers pursuant to Section 19 **BayHIG** working at the Faculty of Engineering as their main occupation, and one member shall be either a part-time university lecturer pursuant to Section 19 **BayHIG** who is entitled to vote at FAU or a research associate pursuant to Section 19 **BayHIG** who is eligible to administer examinations pursuant to the Bavarian Higher Education Examiners Act and is employed at the Faculty of Engineering at FAU as their main occupation pursuant to 
+
+8 
+
+Section 53 (4) **BayHIG** .[3] The members of the Examinations Committee shall be appointed by the Faculty Council.[4] The term of office of the members shall be three years.[5] They may be reappointed.[6] A deputy shall be appointed for the chairperson and each member. 
+
+(2) The chairperson may transfer tasks within their responsibility to a member of the Examinations Committee. 
+
+(3)[1] The Examinations Committee shall be tasked with carrying out the examination procedures, especially the planning and organization of the examinations.[2] Its duties include ensuring that the provisions of these degree program and examination regulations are observed.[3] Unless stipulated otherwise in sentence 4 and Section 11, all decisions shall be taken by the Examinations Committee with the exception of examinations themselves and their assessment, which the examiners are responsible for.[4] The Examinations Committee can transfer responsibility for regularly recurring or highly degree program-specific tasks (see Section 11 (1)(4)) to the pertinent Degree Program Committee as specified in Section 11.[5] The Examinations Committee shall check delegated decisions if requested to do so and shall verify that examinations have been legitimately assessed.[6] It shall report regularly to the Dean of Studies on the development of examinations and study periods.[7] The members of the Examinations Committee shall have the right to be present during examinations.[8] The affairs of the committee shall be governed by the Constitution of Friedrich-Alexander-Universität Erlangen-Nürnberg  ( **GrO** ). 
+
+(4)[1] The Examinations Committee shall have a quorum when all members are summoned in writing or electronically, observing a notice period of at least one week, and the majority of members are present and eligible to vote.[2] Decisions shall be taken with the majority of votes cast in meetings.[3] Abstentions, ballot votes and delegation of votes shall not be permitted.[4] In case of a tie of votes, the vote of the chairperson shall be decisive. 
+
+(5)[1] The chairperson shall call the meetings of the Examinations Committee.[2] The chairperson shall be entitled to take decisions that cannot be delayed on behalf of the Examinations Committee.[3] The Examinations Committee shall be informed of such cases without delay.[4] Furthermore, unless these degree program and examination regulations state otherwise, the Examinations Committee shall have the right to transfer individual tasks to the chairperson as well as revoke these. 
+
+(6)[1] Official notifications in legal matters pertaining to examinations shall be made in writing; reasons shall be given and information on legal remedies available to the person shall be included.[2] Students shall be given the opportunity to make a statement before negative decisions are finalized.[3] The Examinations Committee shall have the right to rule that notifications may be sent out in electronic form to individual students. 4Any notification of objection in questions of examination legislation shall be issued on behalf of the President following consultation with the Examinations Committee and after hearing the examiners. 
+
+## **Section 11 Degree Program Committees** 
+
+(1)[1] A Degree Program Committee shall be established for each degree program for quality assurance purposes.[2] The members of the Degree Program Committee shall be full-time university lecturers, research associates, students and subject advisors, 
+
+9 
+
+with the group of full-time university lecturers pursuant to Section 19 **BayHIG** always accounting for at least half of all votes.[3] The Degree Program Committee shall meet at regular intervals to consult on organizational and content-related issues regarding the degree program and on any changes to the examination regulations.[4] The committee shall be responsible for the tasks transferred to it pursuant to Section 10 (3)(4), for example setting compulsory elective modules, taking decisions on exceptions to the rules governing supervision of final theses and taking decisions concerning requests to change specialization.[5] Student members shall not be eligible to take part if the Degree Program Committee is deciding on individual matters relating to examination law (for example exceptions to the rules for supervising final theses pursuant to sentence 4 or other requests submitted by students). 
+
+(2)[1] The Examinations Committee shall have a quorum when all members are summoned in writing or electronically, observing a notice period of at least one week, and the majority of members are present and eligible to vote.[2] Decisions shall be taken with the majority of votes cast in meetings.[3] In case of a tie of votes, the vote of the chairperson shall be decisive.[4] The chairperson shall call the meetings of the Degree Program Committee.[5] The chairperson shall be entitled to take decisions that cannot be delayed on behalf of the Degree Program Committee.[6] Furthermore, unless these degree program and examination regulations state otherwise, the Degree Program Committee shall have the right to transfer individual tasks to the chairperson as well as revoke these.[7] The members of the Degree Program Committee shall be appointed by the Faculty Council.[8 ] Section 12 (4) and (5) shall apply accordingly. 
+
+## **Section 12 Examiners, Observers, Exclusion Due to Personal Involvement, Obligation to Confidentiality** 
+
+(1)[1] The Examinations Committee shall appoint the examiners.[2] All persons eligible to administer examinations according to the current version of the **BayHIG** and the Bavarian Higher Education Examiners Act ( **BayHSchPrüferV** ) shall be eligible for appointment.[3] If a university member who is eligible to administer examinations leaves the University, they shall as a rule remain eligible to administer examinations subject to the provisions in Section 85 **BayHIG** and the **Bavarian Higher Education Examiners Act** for up to one year.[4] Eligible examiners who only have a temporary contract shall only remain eligible to act as an examiner for the contractually agreed duration of employment.[5] The Examinations Committee shall have the right to extend this period upon request. 
+
+(2) A change of examiners shortly before the start of an examination shall be permissible on urgent grounds (in particular a long illness, loss of eligibility to administer examinations or partiality). 
+
+(3)[1] Persons who have completed the degree program in question or a degree program related to it at the same qualification level shall be eligible for appointment as observers.[4] Observers should be research associates pursuant to Section 19 **BayHIG** employed at FAU as their main occupation pursuant to Section 53 (4) **BayHIG** . 
+
+(4) Exclusion from the deliberation and voting process of the Examinations Committee as well as from the positions of examiner and observer due to personal involvement shall be governed by Section 51 (2) **BayHIG** in conjunction with Sections 20 and 21 **BayVwVfG** . 
+
+10 
+
+(5) The obligation to confidentiality of the Examinations Committee and other persons involved in matters pertaining to examinations shall be governed by Section 26 (2) sentences 2 and 3 **BayHIG** . 
+
+## **Section 13 Announcement of Examination Dates and Examiners; Registration, Withdrawal, Consequences of Delayed Withdrawal** 
+
+(1)[1] The dates of the examinations and the examiners shall be announced by the Examinations Office in good time and according to local practice.[2] The students shall register for the individual module examinations after the start of the lecture period.[3] The registration dates and formalities shall generally be announced according to local practice four weeks in advance.[4] In order to sit the examination, students must register correctly on the provided platform. 
+
+(2)[1] Notwithstanding the deadlines set forth in Sections 9, 32 and 37, withdrawal from first attempts at examinations for which students have registered pursuant to paragraph 1 shall be permitted without stating reasons up until the end of the third working day before the examination date; withdrawals are to be submitted to the examiner. The days between and including Monday and Friday shall be considered working days.[2] In cases where the student is unable to sit an examination due to illness, a certificate from an official medical examiner (vertrauensärztliches Attest) may be required by the Examinations Committee responsible.[3] The doctor’s certificate or certificate from an official medical examiner must include a description of the student’s ailment and state how this affects the student’s ability to perform to their full potential during the examination, especially due to a reduction in their physical or mental capacity.[4] In case of withdrawal from an examination due to illness after the examination has started (termination of an examination), the student must submit a certificate from an official medical examiner to the Examinations Office without delay. 5Once a student has declared that they wish to withdraw they may not revoke this declaration; registration to the examination on this date shall be canceled once the declaration is submitted and the student shall no longer be entitled to take the examination.[6] Students shall only be able to register for and sit the examination in a later semester. 
+
+(3)[1] An examination shall be graded as “nicht ausreichend” (unsatisfactory; 5.0) if the student fails to attend an examination on the examination date without good reasons or if the student withdraws from the examination after the withdrawal deadline as specified in (3).[2] The reasons for withdrawal or absence according to sentence 1 shall be explained in writing and shown credibly to the Examinations Committee without delay. Section 2 sentences 2 to 4 shall apply accordingly.[3] If the Examinations Committee accepts the reasons, a new date shall be set. 
+
+## **Section 14 Admissions Committees for Master’s Degree Programs** 
+
+(1) The evaluation of the qualification and admission requirements for a Master’s degree program shall be the responsibility of admissions committees appointed for every Master’s degree program. 
+
+(2)[1] Unless stipulated otherwise in the relevant **degree program and examination regulations** , the admissions committees shall consist of a professor as the chairperson, one other professor and a part-time university lecturer pursuant to Section 19 **BayHIG** who is entitled to vote at FAU or a research associate pursuant to Section 19 **BayHIG** who is eligible to administer examinations pursuant to the **Bavarian Higher** 
+
+11 
+
+**Education Examiners Act** and is employed at the Faculty of Engineering at FAU as their main occupation pursuant to Section 53 (4) **BayHIG** .[2] The members shall be appointed by the Faculty Council of the Faculty of Engineering for a term of office of three years; re-election shall be permitted.[3] Section 10 (4) and (5) shall apply accordingly.[4] For conducting the selection interview pursuant to paragraph 5 (3) et seq and paragraph 6 of the **Appendix** , the selection committee can appoint university lecturers pursuant to Section 19 **BayHIG** working at FAU as their main occupation pursuant to Section 53 (4) **BayHIG** or who have retired from FAU as well as research associates working at FAU as their main occupation pursuant to Section 53 (4) **BayHIG** if they are eligible to administer examinations pursuant to Section 12. 
+
+## **Section 15 Recognition and Accreditation of Skills** 
+
+(1)[1] Study periods, and course and examination achievements achieved in degree programs or by successfully taking part in a distance learning unit as part of a degree program at FAU or at other public or state-approved universities in the Federal Republic of Germany, or in degree programs at public or state approved universities in countries other than Germany shall be recognized according to these examination regulations if there are no significant differences in the skills acquired and required. 2The same shall apply to course and examination achievements obtained at a public or state approved university in Bavaria within the context of a module program or additional studies, at the Virtual University of Bavaria (vhb), or within the context of an early entrance program or university studies started while still at school.[3] Recognition enables students to continue their studies, to take examinations, to start a further degree program or to be admitted to a doctoral degree. 
+
+(2)[ 1] Skills acquired outside the university sector or within the context of degree programs for professional development or for acquiring further qualifications may be accredited if they are equivalent.[2] Skills acquired outside the university sector shall replace no more than half of the required skills of which students must provide proof. 
+
+(3)[1] If the examination to be replaced is a course achievement within the meaning of Section 7 (2)(11), the corresponding achievement shall be marked “passed”. 2Otherwise, the grades achieved in recognized examinations and course achievements shall be transferred if they were awarded according to Section 22 and are recognized as equivalent according to the recommendations in the anabin database (information portal for the recognition of foreign qualifications offered by the Standing Conference of the Ministers of Education and Cultural Affairs (KMK)).[3] If the grading system which is applied to examinations sat at a university or equivalent institution of higher education and accredited by FAU is deemed to be equivalent according to sentence 2 but is not identical to the grading system set forth in Section 22, the grades achieved at other universities are usually converted according to the following formula: 
+
+x= 1 + 3 (Nmax – Nd)/(Nmax – Nmin) with 
+
+x = converted grade Nmax = best grade attainable Nmin = lowest grade for passing Nd = grade attained 
+
+4Only one decimal place is shown for the grades thus calculated. 5If conversion is not possible, the Examinations Committee usually determines a system by which to calculate the grades. 
+
+12 
+
+(4)[1] If 30 or more ECTS credits are recognized or accredited, the student shall be permitted to enter at a higher semester.[2] Students shall move up one semester for every 30 ECTS credits that are accredited.[3] Sentences 1 and 2 shall apply to part-time studies with the proviso that students move up one semester after half of the credits stated in sentences 1 and 2 are accredited or recognized. 
+
+(5)[1] Students must file an application for recognition and accreditation.[2] The documents needed for this accreditation shall be submitted to the chairperson of the Examinations Committee.[3] Subject to the provisions in sentence 4, the student shall have a legal claim to accreditation or recognition if the conditions stipulated in (1) and (2) are met.[3] Accreditation or recognition is only possible if the student has not already lost the right to be examined in that subject at FAU by passing or failing to pass the relevant examination at the final attempt.[4] The decision shall rest with the chairperson of the Examinations Committee after consultation with the department representative appointed by the department in question; the decision shall be issued in writing. 
+
+## **Section 16 Fraud, Breach of Regulations, Exclusion from Further Participation** 
+
+(1)[1] In case of plagiarism or an attempt to commit fraud or to influence the result of an examination through the use of unauthorized aids, the examination in question shall be graded “nicht ausreichend” (unsatisfactory, 5.0).[2] Unauthorized aids for completing examination or course achievements pursuant to sentence 1 include in particular the use of chatbots or other artificial intelligence that is capable of replacing the student’s own performance, unless this is expressly permitted by the examiner. 
+
+(2) Persons who disturb the orderly examination process may be excluded from continuing the examination in question by the authorized examiner or the supervising person; in this case the examination achievement in question shall be considered to be “nicht ausreichend” (unsatisfactory; 5.0). 
+
+(3) In the case of repeated or severe breaches as stipulated in (1) or (2), the Examinations Committee may exclude students from participating in the examination, resulting in the student losing the right of examination in the relevant module (failed at the final attempt) and leading to the student failing the degree program at the final attempt. 
+
+## **Section 17 Revocation of Degrees** 
+
+The revocation of Bachelor’s and Master’s degrees shall be governed by Section 101 **BayHIG** . 
+
+## **Section 18 Faults in the Examination Process** 
+
+(1) Should it turn out that the examination process was faulty in a manner that influenced the result of the examination, it shall be ordered upon a student’s request that a certain student or all students shall resit the examination or parts of the same. 
+
+(2) Faults in the examination process shall be reported to the chairperson of the Examinations Committee or the examiner without delay. 
+
+(3) Six months after completion of the examination, resit examinations may no longer be ordered as stipulated in paragraph (1). 
+
+13 
+
+## **Section 19 Written Examination, Multiple Choice Examinations** 
+
+(1)[1] In written examinations students are required to prove that they are capable of identifying a problem within a limited period and with limited materials, using the conventional methods employed in their field, and to find a solution to this problem. 2This applies in particular to invigilated written examinations ( _Klausur_ ). 3With the exception of a traditional written examination ( _Klausur_ ), written examinations may also be held as open book examinations during which students have to complete one or several tasks in a certain time without supervision using either a wide range of aids or whichever aids they like, but without the assistance of third parties. Further details are stipulated in the module description.[4] In the case of examinations as defined in sentence 3, tasks shall as far as possible be tailored to test higher-level skills such as understanding, analysis, transfer and application. 
+
+(2)[1] Changing the examination form from an (electronic) written examination to an oral examination may be possible in exceptional circumstances after the semester has started if the respective **degree program and examination regulations** allow for both forms of examinations and the teaching concept of a module has been changed accordingly at short notice.[2] The decision shall be taken by the module coordinator. 3They shall inform students at the latest two weeks after lectures begin if the examination is to be an oral examination instead of an (electronic) written examination. 4Resit examinations taken in semesters in which no teaching unit is offered may differ in form from the original examination.[5] Students shall be informed of any changes to the examination form at the latest two months before the resit examination, that shall be held by the scheduled deadline in the next semester.[6] Resit examinations in semesters in which the teaching unit is held shall follow the examination form chosen for the semester in question. 
+
+(3)[1] Students who are unable to attend a written examination on the regular date as they are completing a semester abroad may, in consultation with the respective examiner, apply for an alternative date for an oral examination, provided the change of examination form is compatible with the learning outcome of the module.[2] The decision shall be taken by the Examinations Committee.[3] Evidence of the planned studies abroad and written consent from the examiner shall be attached to the application. 
+
+(4) The duration of the written examination shall be governed by the relevant **degree program and examination regulations.** 
+
+(5)[1] Written examinations shall generally be graded by the author of the examination questions; the Examinations Committee can allow exceptions.[2] If a written examination achievement is graded as “nicht ausreichend” (unsatisfactory) it shall be presented to a second examiner for evaluation.[3] The examiner’s evaluation must be documented in writing and reasons for the final grade must be made clear. 
+
+(6)[1] Written examinations may take the form of multiple-choice examinations (with one or more possible correct answers), either in full or in part.[2] Detailed information on the modules with multiple choice examinations is given in the module handbook.[3] The examinee shall state which of the answers to the questions they deem to be correct. 4Examination questions must allow for reliable examination results. 5When drawing up the examination questions, it shall be specified which of the answers shall be accepted as correct.[6] If the question does not allow multiple answers, multiple answers shall be inadmissible and disregarded.[7] Before the evaluation of the examination results, at 
+
+14 
+
+least two of the authors of the examination shall assess whether the examination questions meet the requirement set out in sentence 4.[8] Should they determine that individual examination questions are faulty, these shall not be taken into account in the evaluation of the examination result; the number of examination questions shall be considered to have been reduced.[9] This reduction of the number of examination questions must not result in disadvantages for any of the examinees.[10] No minus points may be awarded outside of individual examination questions. 
+
+(7)[1] The authors of the examination pursuant to paragraph (6)(7) shall determine when the examinations have been passed pursuant to paragraph (6)(1) and shall set a relative pass limit (sentence 2 (2)).[2] Unless stipulated otherwise in the relevant degree program and examination regulations, examinations pursuant to paragraph (6)(1) shall be deemed to have been passed if 
+
+1. The examinee answered at least 50 percent of the examination questions correctly/achieved at least 50 percent of the attainable points, or 
+
+2. the examinee answered at least 40 percent of the examination questions correctly/achieved at least 40 percent of the attainable points and the number of correct answers/points obtained is no more than 17 percent below the average number of correct answers/points obtained by all examinees sitting the examination for the first time. 
+
+3The reference group of examinees sitting the examination for the first time pursuant to sentence 2(2) must consist of at least 50 people, otherwise the relative pass limit shall not be applicable. 
+
+4If sentence 2(2) is applied, the Dean of Studies shall be notified. 
+
+(8)[1] In case of written examinations that are not entirely composed of multiple choice questions, paragraphs (5) and (6) shall only apply for the respective part.[2] Paragraph 6 does not apply to examinations where the proportion of multiple choice questions is low (usually around 25%). 
+
+## **Section 20 Oral Examination** 
+
+(1)[1] In oral examinations students must demonstrate both general and specific knowledge of the subject being tested.[2] Oral examinations shall be conducted, unless otherwise stated, by one examiner in the presence of an observer appointed by the examiner. 
+
+(2)[1] Changing the examination form from an oral examination to an (electronic) written examination may be possible in exceptional circumstances after the semester has started if the respective **degree program and examination regulations** allow for both forms of examinations and the teaching concept of a module has been changed accordingly at short notice.[2] The decision shall be taken by the module coordinator. 3They shall inform students at the latest two weeks after lectures begin if the examination is to be an (electronic) written examination instead of an oral examination. 4Resit examinations taken in semesters in which no teaching unit is offered may differ in form from the original examination.[5] Students shall be informed of any changes to the examination form at the latest two months before the re-sit examination, that shall be held by the scheduled deadline in the next semester.[6] Resit examinations in semesters in which the teaching unit is held shall follow the examination form chosen for the semester in question. 
+
+15 
+
+(3) The duration of the oral examination shall be 30 minutes unless stipulated otherwise in the relevant **degree program and examination regulations** or the relevant module description. 
+
+(4) In oral examinations in the presence of several authorized examiners, each examiner shall determine the grade according to Section 22. 
+
+(5)[1] A record shall be kept of the oral examination including the following: place, date and duration of the examination; subject and result of the examination; the names of the examiners, the observer and the student; and any special occurrences.[2] The record shall be signed by the authorized examiners and the observer.[3] It shall not be necessary to record the questions asked in the examination or the answers given.[4] The record shall be stored for at least two years. 
+
+## **Section 21 On-Campus Electronic Examinations** 
+
+1Examinations may be administered in electronic form on campus. 2Detailed information on the modules in which examinations are held in electronic form on campus is given in the module handbook.[3] Electronic examinations (e-examinations) on campus are examinations which are administered and evaluated via computer or using digital technology.[4] The authenticity and integrity of the examination results must be verified.[5] Automatically calculated evaluations of examination achievements shall be verified by one examiner at the request of the examinee or two examiners in case of a failed examination. 
+
+## **Section 22 Evaluation of Examinations, Grades, Final Grade** 
+
+(1)[1] The evaluation of individual examination achievements shall be expressed by the examiners with the following grades: 
+
+|**Grade (in words)**|**Grade**|**Explanation**|
+|---|---|---|
+|sehr<br>gut<br>(very<br>good)|= (1.0 or 1.3)|an outstanding achievement|
+|gut (good)|= (1.7 or 2.0 or 2.3)|an achievement that exceeds the average<br>requirements considerably|
+|befriedigend<br>(satisfactory)|= (2.7 or 3.0 or 3.3)|an achievement that fulfills average requirements;|
+|ausreichend<br>(sufficient)|= (3.7 or 4.0)|an achievement that fulfills the requirements<br>despite flaws|
+|nicht ausreichend<br>(unsatisfactory)|= (4.3 or 4.7 or 5.0)|an achievement that no longer fulfills requirements<br>due to considerable flaws.|
+
+
+
+2An examination (Section 7 (2)) has been passed if it has received at least the grade “ausreichend” (sufficient).[3] Ungraded examinations (Section 7 (2)(10)) shall either count as “bestanden” (pass) or “nicht bestanden” (fail); this also applies in the case of a combination of several course achievements in cases as described in Section 7 (2)(3).[4] Except when otherwise stipulated in the relevant **degree program and examination regulations** , a module examination shall have been passed when all parts of the examination or partial achievements (Section 7 (2)(3)) have been passed. 5If an examination has several examiners or consists of several parts or partial achievements within the meaning of Section 7 (2)(3), the total grade is calculated from the weighted average of the individual grades, subject to the provision stipulated in (5); the grading system described in sentence 1 shall not be used.[6] Sentence 5 can also be applied to examinations that are not an examination consisting of several parts as defined in Section 7 (2)(3) but still consist of several different components (for example a written examination with a combination of multiple choice questions and open-ended questions). Details of how to grade such examinations shall be stipulated in the **degree** 
+
+16 
+
+**program and examination regulations** and/or the module description.[7] One decimal place shall count towards the module grade; further decimal places shall be omitted without being rounded. 
+
+(2)[1] The authors of the examination shall set the assessment criteria for multiple choice examination achievements pursuant to Section 19 (6)(7).[2] If no assessment criteria are set, the examinations shall be graded as follows: 
+
+3Students who answer the required minimum of examination questions correctly or attain the minimum number of attainable points according to Section 19 (7)(2) shall receive the grade: 
+
+1.0 (sehr gut/very good) if at least 75 percent of the remaining questions were answered correctly or remaining points were achieved, 
+
+2.0 (gut/good) if at least 50 percent but less than 75 percent of the remaining questions were answered correctly or remaining points were achieved, 
+
+3.0 (befriedigend/satisfactory) if at least 25 percent but less than 50 percent of the remaining questions were answered correctly or remaining points were achieved, 4.0 (ausreichend/sufficient) if none or less than 25 percent of the remaining questions were answered correctly. 
+
+3The grades can be increased or decreased by increments of 0.3 according to the percentage; the grades 0.7, 4.3 and 4.7 shall not be awarded.[4] Students who do not achieve the required minimum shall receive the grade 5.0.[5] Notwithstanding Sentence 3, in addition to the grade 5.0, the grades 4.3 and 4.7 may also be awarded in cases in which examinations according to Section 19 (8) partly take the form of a multiple choice examination. 
+
+(3) The Grundlagen und Orientierungsprüfung (GOP) shall have been passed if the requirements stipulated in Section 29 of these examination regulations and in the relevant **degree program and examination regulations** have been fulfilled. 
+
+(4)[1] The overall grade of the GOP, the Bachelor’s examination, the Master’s examination and the modules shall be as follows: 
+
+at an average of up to 1.5 = sehr gut (very good) at an average of over 1.5 and up to 2.5 = gut (good) at an average of over 2.5 and up to 3.5 = befriedigend (satisfactory) at an average of over 3.5 and up to 4.0 = ausreichend (sufficient). 
+
+2Students who pass the Bachelor’s or Master’s examination with a final grade between 1.0 and 1.2 shall receive the overall assessment “mit Auszeichnung bestanden” (passed with distinction). 
+
+(5)[1] Unless stipulated otherwise in the relevant **degree program and examination regulations** , the module grades shall be calculated from the average of the individual grades achieved in the examinations according to Section 7 (2)(3); the grading system described in paragraph (1)(1) shall not apply.[2] Only one decimal place shall count towards the module grade; further decimal places shall be omitted without being rounded.[3] If there is only one graded examination in a module, this grade shall be the grade for the module.[4] If the examination is not graded, the successfully completed module shall have the result ‘”bestanden” (pass). 
+
+(6)[1] The final grade of the GOP shall be calculated using all module grades from the modules required for passing the GOP with the weighting of their ECTS credits.[2] In case of several possible modules, the better results shall be used. 
+
+17 
+
+(7) 1Unless stipulated otherwise in the **degree program and examination regulations** , all module grades of the Master’s or Bachelor’s degree program shall be included in the calculation of the final grade of the Bachelor’s or Master’s examination, weighted according to their ECTS credits.[2] Paragraph (1) sentences 5 and 7 shall apply accordingly. 
+
+## **Section 23 Invalidity of Examinations** 
+
+(1) If fraudulent methods were used during the examination and if this only becomes known after the certificate has been awarded, the Examinations Committee may correct the grade retrospectively and declare the examination as having been failed in part or in full. 
+
+(2) If the requirements for admission to the examination were not fulfilled while no fraudulent acts were committed willfully, these circumstances shall be considered remedied by the passing of the examination. 
+
+(3) Students shall be given the opportunity to make a statement before a decision is taken. 
+
+(4)[1] The incorrect certificates shall be withdrawn; new certificates shall be issued if applicable.[2] A decision according to paragraph (1) shall be excluded after a period of five years starting with the certificate’s date of issue. 
+
+## **Section 24 Inspection of Examination Records** 
+
+(1) After the completion of the individual examination procedures, students shall on request be entitled to inspect their written examination papers, the corresponding reviews by the examiners, and the examination records. 
+
+(2)[1] Students shall submit the request to the examination body responsible within one month of being notified of their grades.[2] Unless the Examinations Office is responsible, the examiner shall allow the inspection; further details shall be decided by the Examinations Committee.[3] Students prevented from observing the deadline according to (1) through no fault of their own shall be granted full restitution according to Section 32 of the **Bavarian Administrative Procedures Act (BayVwVfG)** . 
+
+## **Section 25 Final Academic Record, Transcript of Records, Diploma Supplement, Grade Distribution Table and Degree Certificate** 
+
+(1)[1] Students who have successfully completed a degree program pursuant to these degree program and examination regulations shall receive a final academic record, a transcript of records, a diploma supplement, a grade distribution table and a degree certificate, as far as possible within four weeks.[2] The certificates shall be signed by the chairperson of the Examinations Committee or their deputy.[3] Electronically verifiable graduation documents may be issued in addition to the graduation documents in paper form. 
+
+(2)[1] The final academic record shall contain the modules and module grades and the final grade of the Bachelor’s or Master’s examination; it shall also cite the topic of the Bachelor’s or Master’s thesis.[2] The transcript of records lists all modules attended; the final academic record and the transcript of records may be combined into one document.[3] The transcript of records and the diploma supplement shall be issued in 
+
+18 
+
+English and German.[4] Information not yet available to the Examinations Office must be submitted together with the required proof by the time of the degree program’s completion at the latest; otherwise this information may no longer be taken into consideration for the documents listed in paragraph (1). 
+
+(3) The graduation documents of other study programs as specified in Section 77 (5) **BayHIG** are regulated in the relevant **degree program and examination regulations** . 
+
+## **Section 26 Notification of Failed Examinations** 
+
+1Students who fail the Bachelor’s or Master’s examination or other studies pursuant to Section 77 (5) **BayHIG** at the final attempt shall receive notification that the examination has been failed at the final attempt, including information on legal remedies available.[2] Students can also print off an overview of their grades achieved in the individual modules in the examination administration system. 
+
+## **Section 27 Adjustments to Examination Arrangements** 
+
+(1)[1] The examination procedure shall be adjusted to take into account the nature and extent of a student’s disability.[2] Students with a doctor’s certificate showing credibly that they are either partially or fully incapable of sitting the examination in the intended manner due to long-term or permanent disabilities which do not affect the performance which is being tested shall be entitled to be granted permission by the chairperson of the Examinations Committee to have this disadvantage offset by working time being extended accordingly or the examination process being structured differently. However, care must be taken to ensure that the examination is still suitable to provide evidence of skills which are being assessed by the examination.[3] Sentences 1 and 2 shall apply accordingly to students in special circumstances, the effects of which on the student’s ability to sit the examination are similar to a longer illness or disability as stated above in sentence 2. 
+
+(2) Adjustments to examination arrangements may be made for pregnant students, if the student submits a medical certificate confirming that she will be at least 30 weeks pregnant by the examination date to the Examinations Committee responsible at the latest four weeks before the examination date. 
+
+(3)[1] Decisions pursuant to (1) and (2) shall only be taken by the chairperson of the Examinations Committee upon written request and after consulting with the Disability Liaison Officer.[2] The student may be required to submit an official certificate from a medical examiner (vertrauensärztliches Attest) proving the fulfillment of the conditions in paragraph (1) or other proof confirming the student’s special circumstances. 3Applications for adjustments to examination arrangements should be made to the Examinations Committee no later than four weeks before the examination.[4] In addition, students should submit notification of approval to the examiners at the latest one week before the examination, wherever possible. 
+
+## **Part II: Bachelor’s Examination** 
+
+## **Section 28 Admission Requirements for Examinations** 
+
+(1)[1] Students enrolled in a Bachelor’s degree program shall be deemed as admitted to the Bachelor’s examination and the module examinations of which the Bachelor’s 
+
+19 
+
+examination consists, unless admission is to be refused.[2] Admission shall be refused if: 
+
+1. Requirements are not met or certificates are not submitted at all or not in due time as stipulated in the special provisions of these examination regulations and in the **degree program and examination regulations** 
+
+2. the GOP, the Bachelor’s examination, the Diplom intermediary examination or the Diplom examination in the same subject or in a related subject covering essentially the same subject matter (specified in the relevant **degree program and examination regulations** and in the Faculty of Engineering’s list of subject-related degree programs) or other degree programs from other universities which are classed as equivalent pursuant to Section 86 **BayHIG** has been failed at the final attempt. 
+
+3. It has been ordered that the student is to be de-registered, resulting in the revocation of the student’s right to sit the examination. 
+
+- 3The cases in sentence 2 also constitute an obstacle to enrollment. 
+
+(2) If admission to the examinations is to be refused, the decision shall be taken without delay, furnished with reasons and information on legal remedies available, and announced to the student. 
+
+## **Section 29 Grundlagen- und Orientierungsprüfung (GOP)** 
+
+- (1) In the GOP, students should prove that they: 
+
+- can fulfill the requirements of an academic course of study in the chosen subjects 
+
+- have acquired the methodological skills required to continue their studies successfully. 
+
+(2)[1] The GOP consists of modules worth at least 30 ECTS credits.[2 ] The GOP shall have been passed when the modules designated as part of the GOP in the relevant **degree program and examination regulations** have been passed and all requirements stipulated in the **degree program and examination regulations** have been fulfilled.[3] The relevant **degree program and examination regulations** shall specify the subject, type and scope of the GOP. 
+
+## **Section 30 Bachelor’s Examination** 
+
+> 1The **degree program and examination regulations** shall specify the subjects, type and scope of the Bachelor’s examination.[2] The Bachelor’s examination shall have been passed if all subject modules required according to the relevant **degree program and examination regulations** have been passed achieving 180 ECTS credits. 
+
+## **Section 31 Bachelor’s Thesis** 
+
+(1)[1] The Bachelor’s thesis is intended to show that the student is capable of dealing with a problem from their field independently according to academic methods within a set period and presenting the results in an appropriate form.[2] The Bachelor’s thesis is awarded between eight and twelve ECTS credits according to the relevant **degree program and examination regulations** . An additional oral examination or presentation may also be required in the respective module.[3] The scope of the Bachelor’s thesis depends on the specific topic which has been allocated and shall be agreed with the supervisor. 
+
+20 
+
+(2)[1] Unless the relevant **degree program and examination regulations** state otherwise, university lecturers who are employed at the Faculty of Engineering for teaching the degree program in question as their main occupation  and part-time lecturers who are entitled to vote at FAU shall be entitled to assign Bachelor’s theses (supervisors).[2] The Examinations Committee shall have the right to grant exceptions. 3Permission may be granted for the Bachelor’s thesis to be completed at an institution outside the University if a supervisor pursuant to sentence 1 is prepared to supervise the thesis for FAU. 
+
+(3)[1] Students shall ensure that they are allocated a subject for their Bachelor’s thesis in time to observe the deadlines set forth in Section 9, usually at the start of the last semester in the regular duration of studies.[2] To be admitted to the Bachelor’s thesis students must have obtained at least 110 ECTS credits and have successfully completed the GOP (preliminary examination).[3] The Examinations Office shall be notified of the subject and the date of allocation.[4] Should a student, despite a genuine effort to that end, not be allocated a subject, the chairperson of the Examinations Committee shall, in consultation with a representative of the student’s department, allocate a subject and a supervisor to the student. 
+
+(4)[1] The period between being allocated the subject and submitting the Bachelor’s thesis (standard thesis work period) shall be five months for both full-time and parttime degree programs.[2] The scope of the subject must be such that it can be completed within the standard thesis work period.[3] With the Examinations Committee’s approval, the supervisor may extend the work period by a maximum of one month upon receiving a justified request.[4] If a student submits a doctor’s certificate proving that they are incapable of working on the thesis due to illness, the period for thesis work shall be suspended temporarily.[5] If the period for working on the thesis is suspended for a considerable period of time as defined in sentence 4 (3 months minimum), the Examinations Committee shall check after hearing the supervisor and the student whether the period for working on the thesis ought to be terminated due to ill health, in which case the Bachelor's thesis shall be registered with a new topic once the student is well again.[6] Sentences 4 and 5 shall apply accordingly in cases in which the student is prevented from working on the Bachelor's thesis due to serious reasons beyond their control and outside their sphere of risk. 
+
+(5)[1] The subject of the Bachelor’s thesis may only be returned once and within the first three weeks of the thesis work period; returning the subject shall not be permitted for repetitions of the Bachelor’s thesis.[2] If the subject is returned where it is not admissible, the Bachelor’s thesis shall be graded “nicht ausreichend” (unsatisfactory; 5.0); it shall be regarded as rejected.[3] Sentence 2 shall apply accordingly if the Bachelor’s thesis is not submitted by the deadline. 
+
+(6) 1Unless otherwise stipulated in the **degree program and examination regulations** , the thesis shall be written in German, or in English with the permission of the supervisor.[2] With the supervisor’s agreement, the chairperson of the Examinations Committee may permit students to write the thesis in a different language upon request. 
+
+(7)[1] One printed and bound copy and one digital copy (PDF document on a storage device) of the thesis shall be submitted to the supervisor.[2] The supervisor shall inform the Examinations Office of the date of submission without delay.[3] The supervisor may 
+
+21 
+
+waive the requirement for submitting a printed and bound copy if FAU can guarantee revision-proof electronic archiving.[4] The waiver shall be documented either electronically or in writing.[5] The Bachelor’s thesis shall include a declaration by the student confirming that the thesis is an original work and that no other sources or materials than the ones listed were used. 
+
+(8)[1] The thesis shall be graded by the supervisor; the Examinations Committee can allow exceptions.[2] Section 19 (5) sentences 2 and 3 shall apply accordingly.[3] The chairperson of the Examinations Committee shall arrange for the Bachelor’s thesis to be graded within one month.[4] The thesis shall be accepted if it receives at least the grade “ausreichend” (sufficient). 
+
+(9)[1] If a Bachelor’s thesis is rejected, it may be repeated once; a second repetition or revision shall not be permitted.[2] The student shall ensure that they receive a new subject for the repetition of the thesis within two months following the announcement that the original thesis was graded unsatisfactory; otherwise the thesis shall be regarded as having been failed at the final attempt.[3] Paragraphs 1 and 2, paragraph 3 sentences 3 and 4 and paragraphs 4 to 8 shall apply accordingly in the case of a repetition. 
+
+**Section 32 Resit Examinations, Change of Module, Additional Modules** (1)[1] With the exception of the GOP and the Bachelor’s thesis, every module examination or partial module examination may be resat twice; course achievements may be repeated without restriction.[2] Examinations that are part of the GOP may only be resat once; Section 31 (9) shall apply to repetition of the Bachelor’s thesis. 3Resitting examinations in (compulsory) elective subjects is governed by the provisions stipulated in (2) in conjunction with the relevant **degree program and examination regulations** .[4] The resit examination shall be limited to the failed examination or course achievement; in the case of modules with compulsory attendance, students shall only be obliged to attend the teaching unit again if the manner in which the unit is taught or the nature of the examination is such that the student must attend again in order to acquire the required skills.[5] Resit examinations shall take place at the earliest possible date, usually within six months of notification of the first examination result.[6] The **degree program and examination regulations** may suspend the obligation to resit examinations within the stated deadlines for elective or compulsory elective modules which have already been started if the student changes modules.[7] Resit examinations of the GOP shall not be offered before the examination period following the period in which the first attempt was sat.[8] The student shall be considered as registered for the next resit examination.[9] The deadline for resit examinations shall not be interrupted by de-registration, change to or from a part-time degree program, or leave.[10] If a student misses the resit examination or the resit period is not observed, the examination shall be deemed to have been failed unless the Examinations Committee grants the student a respite due to special reasons beyond the student’s control. The standard deadlines according to Section 9 (1) shall continue to apply. Section 9 (3) shall apply accordingly. 11The provisions regarding maternity protection, parental leave and caregiver leave (Section 9 (2)) shall apply. 
+
+(2)[1] Voluntarily resitting a passed examination of the same module shall not be permitted.[2] Unless the **degree program and examination regulations** state otherwise, alternative modules may be completed in place of failed modules.[3] Failed attempts in the previous alternative module shall be counted, with students only able 
+
+22 
+
+to change modules if they have not failed one of the modules at the final attempt; notwithstanding the above, **degree program and examination regulations** may stipulate that failed attempts in the previous module are not counted and/or that students may change modules even after failing the previous module three times.[4] The same shall apply to modules taken within the examination deadlines as stipulated in Section 9 in addition to successfully completed modules in the degree program, under the proviso that failing one of these additional modules shall not affect the student’s chances of successfully completing the degree program.[5] If a student completes additional modules, they shall decide which of the achievements shall count towards the grade.[6] Students shall notify the Examinations Office of their decision at the latest by the end of the degree program.[7] This decision is binding.[8] If no decision is made by the student, the Examinations Office shall consider the student’s best achievements in a semester.[9] The achievements that do not count towards the grade shall be listed in the transcript of records. 
+
+(3) Subject to the special provisions in the **degree program and examination regulations** , students may choose in which order they complete the modules. 
+
+## **Part III: Master’s Examination** 
+
+## **Section 33 Qualification for a Master’s Degree Program** 
+
+(1) Qualification requirements for the Master’s degree program shall be proved through: 
+
+1. An undergraduate degree in the same subject, a related subject or an equivalent subject to the Master’s degree program in question from a university or another German or international qualification with equivalent content; the **degree program and examination regulations** of the Master’s degree programs shall govern which degrees are considered to be in the same subject, a related subject or an equivalent subject according to clause 1. 
+
+2. Where applicable, further documents as proof of fulfillment of the requirements set forth in the relevant **degree program and examination regulations** 
+
+3. Passing the qualification assessment process according to the **Appendix** . 
+
+(2)[1] In terms of the skills and knowledge gained, the degrees according to paragraph 1(1) must not differ significantly from the subject-specific Bachelor’s examination according to these examination regulations including the relevant **degree program and examination regulations** .[2] If there are significant differences which can be compensated for, the Admissions Committee may grant admission under the condition that proof of further achievements worth up to a maximum of 20 ECTS credits and to be determined by the Admissions Committee be submitted within one year of taking up studies for a Master’s degree; failure to provide proof of further achievements within the deadline will lead to de-registration.[3] Section 86 **BayHIG** shall apply to the assessment of equivalence of German and foreign degrees.[4] Sentences 2 and 3 shall apply accordingly to subject-related degrees. 
+
+(3)[1] Paragraph 1(1) notwithstanding, students enrolled in a Bachelor’s degree program may be admitted to a Master’s degree program if they have achieved at least 140 ECTS credits.[2] Proof of the successfully completed Bachelor’s degree shall be submitted at the latest within one year of taking up the degree program; completing the Bachelor’s degree program is a prerequisite for formally starting the Master’s degree 
+
+23 
+
+program.[3] Admission to the Master’s degree program is granted provisionally; if proof is not submitted within the deadline, the student shall be de-registered. 
+
+## **Section 34 Admission Requirements for Examinations** 
+
+1Students enrolled in the Master’s degree program shall be considered admitted to the Master’s examination and the module examinations of which the Master’s examination consists, unless admission is to be refused.[2] If there are elective options for the modules to be completed for the Master’s examination, students shall only be admitted to the one module they choose by registering for the examination.[3] Admission shall be refused if: 
+
+1. Requirements are not met or certificates are not submitted at all or not in due time as stipulated in the special provisions of these examination regulations and in the **degree program and examination regulations** 
+
+2. the Diplom or Master’s examination in the same subject or in a related subject, i.e. a subject covering essentially the same content (specified in the relevant **degree program and examination regulations** and in the Faculty of Engineering’s list of subject-related degree programs) or other degree programs which are classed as equivalent pursuant to Section 86 **BayHIG** has been failed at the final attempt. 
+
+3. It has been ordered that the student is to be de-registered, resulting in the revocation of the student’s right to sit the examination. 
+
+- 3Section 28 (1) (3) and Section 28 (2) shall apply accordingly. 
+
+## **Section 35 Master’s Examination** 
+
+(1)[1] The Master’s examination shall consist of all module examinations throughout the degree program including the Master’s thesis module.[2] The relevant **degree program and examination regulations** can stipulate that an oral examination or an additional seminar achievement is to be taken in addition to the Master’s thesis.[3] To complete the Master’s degree, students must pass all required module examinations including the Master’s thesis module and oral examination or seminar achievement, if applicable. 
+
+(2) The relevant **degree program and examination regulations** shall specify subject, type and scope of the Master’s examination including, if applicable, the compulsory vocational practice. 
+
+## **Section 36 Master’s Thesis** 
+
+(1)[1] The Master’s thesis is a graded written assignment that concludes the Master’s degree.[2] It is intended to show that the student is capable of dealing with a problem from their field independently and according to scientific methods within a set period. 3The Master’s thesis may not to any significant degree be identical to a previously submitted Diplom, Bachelor’s, Master’s or doctoral thesis (prevention of plagiarism). 4The relevant **degree program and examination regulations** shall govern the allocation of ECTS credits.[5] The scope of the Master’s thesis depends on the specific topic which has been allocated and shall be agreed with the supervisor. 
+
+(2)[1] Requirements for being admitted to the Master’s thesis are stipulated in the 2 respective **degree program and examination regulations** . Proof that all requirements have been met must be submitted for admission to the Master’s thesis. 3 In addition, students shall ensure that they are allocated a subject for their Master’s thesis in time to observe the deadlines set forth in Section 9, usually at the start of the last semester in the regular duration of studies.[4] The subject and the date of its allocation shall be confirmed by the supervisor and presented to the Examinations 
+
+24 
+
+Office.[5] Should a student not be allocated a subject, despite a genuine effort to that end, the chairperson of the Examinations Committee shall, in consultation with a representative of the student’s department, allocate a subject and a supervisor to the student. 
+
+(3)[1] Unless the relevant **degree program and examination regulations** state otherwise, full-time university lecturers and part-time university lecturers pursuant to Section 19 **BayHIG** who are eligible to vote at FAU and are involved in teaching the degree program in question at the Faculty of Engineering shall be entitled to assign Master’s theses.[2] The Examinations Committee shall have the right to grant exceptions.[3] Permission may be granted for the Master’s thesis to be completed at an institution outside the University if a supervisor pursuant to sentence 1 is prepared to supervise the thesis for FAU. 
+
+(4)[1] The time between the selection of a subject and the submission of the Master’s thesis (standard thesis work period) shall be six months, or twelve months for part-time degree programs; the scope of the subject must be such that it can be completed within this period.[2] The Examinations Committee shall have the right to extend the period for the Master’s thesis by a maximum of three months upon receiving a justified request. 3If a student submits a doctor’s certificate proving that they are incapable of working on the Master’s thesis, the period for thesis work shall be suspended temporarily.[4] If the period for working on the thesis is suspended for a considerable period of time as defined in sentence 3 (6 months minimum), the Examinations Committee shall check after hearing the supervisor and the student whether the period for working on the thesis ought to be terminated due to ill health, in which case the Master’s thesis shall be registered with a new topic once the student is well again.[5] Sentences 3 and 4 shall apply accordingly in cases in which the student is prevented from working on the Master’s thesis due to serious reasons beyond their control and outside their sphere of risk. 
+
+(5)[1] The subject may only be returned once and within the first third of the period for working on the thesis.[2] Otherwise the Master’s thesis shall be graded “nicht ausreichend” (unsatisfactory; 5.0) if the subject is returned; it shall be regarded as rejected. 
+
+(6) 1Unless otherwise stipulated in the **degree program and examination regulations** , the Master’s thesis shall be written in German, or in English with the permission of the supervisor.[2] The Master’s thesis shall contain a summary of results at the end.[3] The Master’s thesis shall include a declaration by the student confirming that the thesis is an original work and that no other sources or materials than the ones listed were used.[4 ] One printed and bound copy and one digital copy (PDF document on a storage device) of the Master’s thesis shall be submitted to the supervisor; the date of submission shall be recorded.[5] The supervisor may waive the requirement for submitting a printed and bound copy if FAU can guarantee revision-proof electronic archiving.[6] The waiver shall be documented either electronically or in writing.[7] If the Master’s thesis is not submitted in time, it shall be graded “nicht ausreichend” (unsatisfactory; 5.0); it shall be regarded as rejected. 
+
+(7)[1] The Master’s thesis is graded by the supervisor; the Examinations Committee may grant exceptions.[2] Section 19 (5) sentences 2 and 3 shall apply accordingly.[3] The 
+
+25 
+
+chairperson of the Examinations Committee shall usually work towards the Master’s thesis being graded within one month. 
+
+(8)[1] The Master’s thesis shall be accepted if it receives at least the grade “ausreichend” (sufficient).[2] It shall be rejected if it receives the grade “nicht ausreichend” (unsatisfactory). 
+
+(9)[1] If the Master’s thesis is rejected or if it is regarded as rejected, it may be repeated once; a second repetition shall not be permitted.[2] The student shall ensure that they receive a new subject for the repetition of the Master’s thesis within the semester following the announcement of the rejection; otherwise the Master’s thesis shall be regarded as having been failed at the final attempt.[3] Paragraph 1, paragraph 2 sentences 3 and 4 and paragraphs 3 to 8 shall apply accordingly for the repetition of the Master’s thesis; returning the subject shall not be permitted.[4] The chairperson of the Examinations Committee may permit the student to submit a revised version of the Master’s thesis within two months of the announcement of its rejection if this has not been ruled out by the examiner’s review and if both the student and supervisor agree; a revised version may not under any circumstances be submitted if the Master’s thesis was rejected on grounds of fraud and plagiarism.[5] If revision of the thesis is permitted, paragraph 1, paragraph 2 sentences 3 and 4 and paragraphs 3 to 8 shall apply accordingly. 
+
+(10) Provisions that deviate from paragraphs 1 to 9 may be agreed upon within the framework of dual degree agreements or degree program co-operations. 
+
+**Section 37 Resitting Examinations, Changing Modules, Additional Modules** Unless stipulated otherwise in the **degree program and examination regulations** for the Elite degree programs, Section 32 shall apply accordingly for resitting examinations, changing modules and taking additional modules. 
+
+## **Part IV Final Provisions** 
+
+## **Section 38 Legal Validity, Transitory Provisions** 
+
+(1)[1] These degree program and examination regulations shall come into effect on April 1, 2024.[2] They shall apply to all students studying in accordance with the General Degree Program and Examination Regulations for Bachelor’s and Master’s Degree Programs and Other Study Programs within the meaning of Section 56 (6) **BayHSchG** at the Faculty of Engineering at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **ABMPO/TechFak** – dated September 18, 2007, last amended by statute of July 26, 2022, at the time the regulations come into effect and those students who start to study any of the degree programs stated in Section 1 (1) as of summer semester 2024.[3] Notwithstanding sentence 2, the amendments in the Appendix relating to the admission procedure shall apply to all students starting a degree program from winter semester 2024/2025 onwards. 
+
+(2)[1] At the same time, the General Degree Program and Examination Regulations for Bachelor’s and Master’s Degree Programs and Other Study Programs within the meaning of Section 56 (6) **BayHSchG** at the Faculty of Engineering at FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – **ABMPO/TechFak** – dated September 18, 2007, last amended by statute of July 26, 2022, shall become invalid. 
+
+26 
+
+> 2The **degree program and examination regulations** supplementing the regulations mentioned in sentence 1 are subject to these examination regulations as of the date of validity. 
+
+27 
+
+## **Appendix:** 
+
+## **Qualification assessment process for Master’s degree programs at the Faculty of Engineering at FAU** 
+
+## Unless stipulated otherwise in the relevant **degree program and examination regulations** , the process shall follow the following rules: 
+
+(1) The qualification assessment process for the relevant Master’s degree program shall be carried out as necessary, but at least once before the start of the lecture period of the semester preceding the regular start of a degree program. 
+
+(2)[1] Applications for the qualification assessment process must be submitted via the FAU application portal during a time period published on the degree program’s website pursuant to sentences 2 and 3.[2] Provided the Master’s degree program allows for applications for the summer semester, applications can be submitted either between September 15 and November 30 of each year or from October 15 of one year until January 15 of the following year.[3] Applications for the winter semester can be submitted between February 15 and May 31 each year or from April 15 until July 15 each year.[4] The start and end dates for the application period specified in sentences 2 and 3 may also be combined in other ways; different start and end dates may only be selected within the scope of sentence 5.[5] In justified exceptional cases, the **degree program and examination regulations** of each Master’s degree program can specify deadlines that deviate from those in sentences 2 and 3.[6] The application shall include: 1. A certificate proving that the applicant holds a qualification according to Section 33 (1)(1) (certificate, transcript of records, diploma supplement or comparable documents) or a transcript of records showing at least 140 ECTS credits in the case set forth in Section 33 (3) 
+
+2. An application letter 
+
+3. Where applicable, further documents as proof of fulfillment of the requirements set forth in the relevant **degree program and examination regulations** . 
+
+(3)[1] In accordance with Section 14, qualification assessment shall be the responsibility of the admissions committee of the Master’s degree program in question.[2] The admissions committee may transfer the task of coordinating and carrying out the process to individual members unless otherwise stated.[3] The admissions committee shall fulfill its obligations in cooperation with the Master’s Office. 
+
+(4)[1] Admission to the qualification assessment process shall be subject to the timely and complete submission of the documents listed in paragraph (2).[2] The qualification assessment process shall be carried out with those applicants who fulfill the requirements according to the provisions in paragraph (5).[3] Applicants who are rejected shall receive a rejection notification including reasons and information on legal remedies available. 
+
+(5)[1] The relevant admissions committee shall select applicants based on the submitted documents as part of the qualification assessment process to assess whether they are qualified for a Master’s degree program.[2] The admissions committee shall deem the applicant qualified based on the documents submitted if: 
+
+1. The final grade of the subject-specific or subject-related/equivalent degree fulfills the provisions under Section 33 (1)(1) or in the case of Section 33 (3) if the student 
+
+28 
+
+has achieved an average of 2.50 (gut/good) or better in their previous achievements **or** 
+
+2. Compulsory modules related to the subject or the degree program, especially from the fourth semester of the Bachelor’s program onwards according to these examination regulations in conjunction with the relevant **degree program and examination regulations** or equivalent modules at another university were passed with a certain grade average or minimum grade; the modules and the grade requirements shall be governed by the relevant **degree program and examination regulations** ; Section 15 (3) sentences 1 to 3 shall apply accordingly for qualifications and modules with a differing grading system. 
+
+3Applicants who cannot be admitted to the Master’s degree program on the basis of their submitted qualifications alone 
+
+shall be invited to an selection interview or an electronic admission examination pursuant to paragraphs 6 or 7 in accordance with the relevance degree program and examination regulations, at the discretion of the admissions committee.[4] Sentence 2 (1) notwithstanding, individual **degree program and examination regulations** can specify whether candidates with a degree from a related subject or an equivalent degree according to Section 33 (2)(2) must attend a selection interview or an electronic admission examination in order to be admitted to the Master’s degree program.[5] The date of the selection interview or electronic admission examination shall be announced as early as possible, but at least one week in advance.[6] If an applicant should be unable to attend due to reasons beyond their control, a second date may be set upon justified request up until two weeks before the start of the lecture period. 
+
+(6)[1] The selection interview is as a rule an individual interview which lasts approximately 15 minutes.[2] It may also be held as a group examination with a total of at most five applicants and a duration of approximately 15 minutes per applicant; the invitation shall state if the examination is to be held as a group examination.[3] With the applicant’s approval, the selection interview may be conducted as a video conference. 4It shall be conducted by at least one member of the admissions committee in the presence of an observer appointed by the admission committee; Section 20 (4) shall apply accordingly.[5] The oral admission examination is intended to demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-oriented degree program; the individual **degree program and examination regulations** shall specify the criteria of the examination and their weightings.[6] The result of the oral examination and the qualification assessment process will be given as “bestanden” (pass) or “nicht bestanden” (fail). 
+
+29 
+
+(7)[1] If an electronic admission examination is held, it shall be held as an electronic test, last 45 to 90 minutes and involve solving tasks taken from fundamental knowledge in engineering, from the modules in the GOP and from the compulsory modules relating to the subject or the degree program pursuant to paragraph 5 (2)(2) in the Bachelor's degree program which the consecutive Master's degree program follows on from. Further details on the electronic admission examination, in particular on whether the examination shall be held with or without an invigilator and on permitted aids shall be given to the applicants when they are informed of the date for the examination; Section 7 (3)(3) shall apply if the examination is held with an invigilator.[3] Section 31 (7)(5) shall apply accordingly.[4] Applicants qualify for admission if they achieve the grade “gut” (good) or better in the test as defined in Section 22 (1)(1).[5] Applicants who achieve lower grades in the admission tests will be deemed unsuitable and cannot be admitted to the Master’s degree program. 
+
+(8)[1] Applicants shall be notified of the result of the selection interview or the electronic admission examination and the qualification assessment process in general in writing. 2A rejection notification shall include reasons and information on the legal remedies available. 
+
+(9) Section 27 shall apply accordingly. 
+
+(10) Applicants shall bear their own costs of the qualification assessment process. 
+
+(11) Confirmation of passing the qualification assessment process shall remain valid indefinitely, provided that the Master’s degree program has not been changed significantly. 
+
+30 
+
+

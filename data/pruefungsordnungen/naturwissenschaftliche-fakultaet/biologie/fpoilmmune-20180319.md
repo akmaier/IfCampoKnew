@@ -1,0 +1,465 @@
+---
+kind: "fau-pruefungsordnung-document"
+title: "FPOilmmune 20180319.pdf"
+pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/konsolidierte_Fassungen/FPOilmmune_20180319.pdf
+parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
+scraped_at: 2026-04-25T14:42:27+00:00
+page_count_chars: 63016
+---
+
+# FPOilmmune 20180319.pdf
+
+**PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/konsolidierte_Fassungen/FPOilmmune_20180319.pdf>
+**Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/>
+
+**Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
+
+## **Prüfungsordnung für den Elitemasterstudiengang Integrated Immunology (iImmune) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO iImmune – Vom 19. März 2018** 
+
+Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Prüfungsordnung: 
+
+**I. Teil: Allgemeine Bestimmungen ..................................................................................... 2** Präambel ............................................................................................................................... 2 § 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Qualifikation zum Masterstudium, Zugangsvoraussetzungen .......................................... 2 § 3 Akademischer Grad ......................................................................................................... 3 § 4 Struktur des Masterstudiengangs und der Prüfungen, Regelstudienzeit und Studienbeginn, Unterrichts- und Prüfungssprache ................................................................. 3 § 5 ECTS-Punkte .................................................................................................................. 3 § 6 Modularisierung, Studienbegleitende Leistungsnachweise,  Freiwillige Zwischenprüfungen ............................................................................................................... 4 § 7 Prüfungsfristen, Fristversäumnis ..................................................................................... 4 § 8 Prüfungsausschuss ......................................................................................................... 5 § 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht ....................................................................................................... 6 § 10 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, ....................... 6 Anmeldung, Rücktritt ............................................................................................................. 6 § 11 Anerkennung von Kompetenzen .................................................................................... 7 § 12 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme ............................................................................................................... 8 § 13 Entzug akademischer Grade ......................................................................................... 8 § 14 Mängel im Prüfungsverfahren ........................................................................................ 8 § 15 Anwesenheitspflicht ....................................................................................................... 8 § 16 Schriftliche Prüfung, Antwort-Wahl-Verfahren ................................................................ 9 § 17 Mündliche Prüfung ........................................................................................................10 § 18 Elektronische Prüfung ..................................................................................................10 § 19 Bewertung der Prüfungen, Gesamtnote ........................................................................11 § 20 Ungültigkeit der Prüfung ...............................................................................................12 § 21 Einsicht in die Prüfungsakten........................................................................................12 § 22 Zeugnis, Transcript of Records, Diploma Supplement, Urkunde ...................................12 § 23 Bescheinigung über endgültig nicht bestandene Prüfung .............................................13 § 24 Nachteilsausgleich ........................................................................................................13 **II. Teil: Besondere Vorschriften .........................................................................................13** § 25 Zulassungsvoraussetzungen für die Prüfungen ............................................................13 § 26 Masterprüfung ..............................................................................................................14 § 27 Master Thesis ...............................................................................................................14 § 28 Wiederholung von Prüfungen, Modulwechsel ...............................................................15 § 29 Zusatzmodule ...............................................................................................................16 
+
+1 
+
+**III. Teil: Übergangs- und Schlussvorschriften ..................................................................16** § 30 Inkrafttreten ..................................................................................................................16 **IV. Teil: Anlagen .................................................................................................................17** Anlage 1: Qualifikationsfeststellungsverfahren gemäß § 2 ...................................................17 Anlage 2: Studienverlaufsplan für den Masterstudiengang (MSc) “Integrated Immunology ..20 
+
+## **I. Teil: Allgemeine Bestimmungen** 
+
+## **Präambel** 
+
+Im Rahmen des Elitenetzwerks Bayern (ENB) bieten die Naturwissenschaftliche und die Medizinische Fakultät der FAU ein Eliteprogramm auf dem Gebiet Immunologie an. 
+
+## **§ 1 Geltungsbereich, Zweck der Masterprüfung** 
+
+(1) Diese Prüfungsordnung regelt die Prüfungen im Elitemasterstudiengang Integrated Immunology (iImmune) mit dem Abschlussziel des Master of Science. 
+
+(2)[1] Der Master of Science ist ein weiterer berufs- und forschungsqualifizierender Abschluss des Studiums; der Elitemasterstudiengang ist forschungsorientiert.[2] Durch die Masterprüfung wird festgestellt, ob die Studierenden selbständig nach wissenschaftlichen Methoden arbeiten können und die für eine Promotion bzw. einen Übergang in die Berufspraxis notwendigen Fachkenntnisse und Fertigkeiten erworben haben. 
+
+## **§ 2 Qualifikation zum Masterstudium, Zugangsvoraussetzungen** 
+
+(1)[1] Qualifikationsvoraussetzung zum Elitemasterstudium ist ein mit überdurchschnittlichem Erfolg abgeschlossenes einschlägiges Studium.[2] Diese Qualifikation zum Elitemasterstudium wird nachgewiesen durch ein Zeugnis über 
+
+1. einen ersten berufsqualifizierenden in Bezug auf den Masterstudiengang fachspezifischen oder fachverwandten Abschluss einer Hochschule bzw. einen sonstigen gleichwertigen im Hinblick auf die Qualifikation nicht wesentlich unterschiedlichen in- oder ausländischen Abschluss und 
+
+2. das Bestehen des Qualifikationsfeststellungsverfahrens gemäß **Anlage 1** . 
+
+3Als fachspezifische Abschlüsse i. S. d. Satz 1 Nr. 1 werden Bachelorabschlüsse aus den Bereichen der Biologie und Integrated Life Sciences sowie Bachelorabschlüsse in Biomedizin und Molekularer Medizin anerkannt, soweit in ihnen den vorgenannten Abschlüssen entsprechende Fachkenntnisse im Umfang von mindestens 90 ECTS-Punkten vermittelt wurden.[4] Als fachverwandte Abschlüsse i. S. d. Satz 1 Nr. 1 werden Abschlüsse von mit den Abschlüssen in Satz 3 vergleichbaren Studiengängen (insbesondere Biowissenschaften oder Molekulare Biologie) anerkannt, soweit in ihnen Fachkenntnisse i. S. d. Satz 3 im Umfang von mindestens 80 ECTS-Punkten vermittelt wurden.[5] Weiterhin wird als fachverwandter Abschluss i. S. d. Satz 1 Nr. 1 ein erfolgreicher Abschluss des Dritten Abschnitts der Ärztlichen Prüfung für Humanmediziner gemäß der Approbationsordnung für Ärzte (ÄAppO) sowie ein erfolgreicher Abschluss der Tierärztlichen Prüfung gemäß der Verordnung zur Approbation von Tierärztinnen und Tierärzten (TAppV) anerkannt. 
+
+(2)[1] Bewerberinnen bzw. Bewerber sollen zu den 50 v. H. Besten ihres Jahrgangs zählen oder den entsprechenden Studiengang mit der Gesamtnote von mindestens 2,5 (Prädikat „gut“) abgeschlossen haben.[2] Abschlüsse, die nach einem anderen Notensystem bewertet wurden, sollen mindestens ein dem Prädikat „gut“ vergleichbares Prädikat aufweisen; § 11 Abs. 3 gilt entsprechend. 
+
+2 
+
+(3)[1] Die Abschlüsse nach Abs. 1 Nr. 1 dürfen hinsichtlich der Qualifikation keine wesentlichen Unterschiede zu den fachspezifischen Abschlüssen nach Abs. 1 Satz 3 aufweisen.[2] Sind ausgleichsfähige Unterschiede gegeben, kann der Prüfungsausschuss den Zugang unter der Bedingung aussprechen, dass zusätzliche vom Prüfungsausschuss festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.[2] Der Zugang wird unter Vorbehalt gewährt. 
+
+(4)[1] Abweichend von Abs. 1 Nr. 1 können Bewerberinnen und Bewerber zum Masterstudium zugelassen werden, wenn sie in einem Bachelorstudiengang immatrikuliert sind und mindestens 140 ECTS-Punkte in einem Studium nach Abs. 1 Satz 3 bzw. 4 erreicht bzw. den Zweiten Abschnitt der Ärztlichen Prüfung bzw. die Tierärztliche Vorprüfung i. S. d. Abs. 1 Satz 5 erfolgreich abgeschlossen haben.[2] Der Nachweis über den bestandenen Abschluss ist spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzureichen; die förmliche Aufnahme des Masterstudiums setzt den Abschluss des ersten berufsqualifizierenden Studiums voraus.[3] Der Zugang zum Masterstudium wird unter Vorbehalt gewährt. 
+
+## **§ 3 Akademischer Grad** 
+
+(1) Aufgrund der bestandenen Prüfungen wird der akademische Grad „Master of Science“, abgekürzt „M.Sc.“, verliehen. 
+
+(2) Der akademische Grad kann auch mit dem Zusatz „(FAU Erlangen-Nürnberg)“ geführt werden. 
+
+## **§ 4 Struktur des Masterstudiengangs und der Prüfungen, Regelstudienzeit und Studienbeginn, Unterrichts- und Prüfungssprache** 
+
+(1)[1] Der Abschluss des Masterstudiums umfasst den Erwerb von insgesamt 120 ECTS-Punkten, die sämtliche studienbegleitend zu erbringenden Modulprüfungen enthalten.[2] Näheres regelt **Anlage 2** . 
+
+(2)[1] Die Regelstudienzeit im Masterstudium einschließlich der Prüfungen und der Zeit zur Anfertigung der Master Thesis beträgt vier Semester.[2] Das Studium kann nur zum Wintersemester begonnen werden. 
+
+(3)[1] Die Unterrichts- und Prüfungssprache im Elitemasterstudiengang Integrated Immunology ist Englisch.[2] Einzelne Lehrveranstaltungen und Prüfungen können in deutscher Sprache abgehalten werden; Näheres regelt das Modulhandbuch.[3] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache. 
+
+## **§ 5 ECTS-Punkte** 
+
+(1)[1] Die Organisation von Studium und Prüfungen beruht auf dem European Credit Transfer System (ECTS).[2] Das Studiensemester ist mit durchschnittlich 30 ECTSPunkten veranschlagt.[ 3] Ein ECTS-Punkt entspricht einer Arbeitszeit von 30 Stunden. 
+
+(2)[1] ECTS-Punkte dienen als System zur Gliederung, Berechnung und Bescheinigung des Studienaufwandes.[2] Sie sind ein quantitatives Maß für die Arbeitsbelastung der Studierenden. 
+
+3 
+
+## **§ 6 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen** 
+
+(1)[1] Das Studium besteht aus Modulen, die mit ECTS-Punkten bewertet sind.[2] Ein Modul ist eine zeitlich zusammenhängende und in sich geschlossene abprüfbare Lehrund Lerneinheit. 
+
+(2)[1] Die Module schließen mit einer studienbegleitenden Modulprüfung ab.[2] Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen.[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Teilprüfungen oder Prüfungsteilen bzw. einer Kombination aus Prüfungs- und / oder Studienleistungen bestehen.[4] ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Modulprüfung festgestellt wird.[5] Studienbegleitende Modulprüfungen sind solche, die während der Vorlesungszeit oder im Anschluss an die letzte Lehrveranstaltung eines Moduls vor Beginn der Vorlesungszeit des folgenden Semesters angeboten werden. 
+
+(3)[1] Prüfungen (Prüfungsleistungen und Studienleistungen) messen den Erfolg der Studierenden.[2] Sie können schriftlich, mündlich, elektronisch oder in anderer Form erfolgen.[3] Prüfungsleistungen und Teilprüfungen werden benotet.[4] Bei Studienleistungen kann sich die Bewertung auf „bestanden“ oder „nicht bestanden“ beschränken. 
+
+(4)[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise, regelt das Modulhandbuch.[3] Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.[4] Zwischen-prüfungsleistungen können die Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern; eine Verschlechterung der Note ist ausgeschlossen. 
+
+(5)[1] Die Teilnahme an Modulprüfungen (Abs. 2 Satz 1) setzt die Immatrikulation im Elitemasterstudiengang Integrated Immunology an der FAU voraus.[2] Dies gilt nicht für Wiederholungsprüfungen im Sinne des § 28 Abs. 1. 
+
+## **§ 7 Prüfungsfristen, Fristversäumnis** 
+
+(1)[1] Die Prüfungen sind ordnungsgemäß so rechtzeitig abzulegen, dass bis zum Ende des Regeltermins in der Masterprüfung 120 ECTS-Punkte erworben sind.[2] Regeltermin ist das letzte Semester der Regelstudienzeit.[3] Der Regeltermin nach Satz 2 darf um ein Semester überschritten werden (Überschreitungsfrist).[4] Die jeweilige Prüfung gilt als abgelegt und endgültig nicht bestanden, wenn die in Satz 1 festgelegte Zahl von ECTS-Punkten nicht innerhalb der Überschreitungsfrist nach Satz 3 erworben wurde, es sei denn, die bzw. der Studierende hat die Gründe hierfür nicht zu vertreten. 
+
+(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes 
+
+4 
+
+über die Pflegezeit (Pflegezeitgesetz – PflegeZG) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch (SGB XI) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist. 
+
+(3)[1] Die Gründe nach den Abs. 1 und 2 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Werden die Gründe anerkannt, so ist die Prüfung zum nächstmöglichen Termin abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden anerkannt.[3] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen. 
+
+## **§ 8 Prüfungsausschuss** 
+
+(1)[1] Für die Organisation und Durchführung der Prüfungen wird ein Prüfungsausschuss eingesetzt.[2] Dem Prüfungsausschuss gehören zwei Mitglieder der Naturwissenschaftlichen Fakultät und zwei Mitglieder der Medizinischen Fakultät der FAU an. 3Mindestens drei Mitglieder einschließlich der bzw. dem Vorsitzenden müssen Professorinnen bzw. Professoren sein.[4] Die Mitglieder werden vom jeweiligen Fakultätsrat gewählt.[5] Der Prüfungsausschuss wählt ein Mitglied zu der bzw. dem Vorsitzenden und regelt die Vertretung.[6] Die Amtszeit der Mitglieder beträgt drei Jahre.[7] Eine Wiederwahl ist zulässig. 
+
+(2) Die bzw. der Vorsitzende kann ihr bzw. ihm obliegende Aufgaben einem Mitglied des Prüfungsausschusses zur Erledigung übertragen. 
+
+(3)[1] Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren im Benehmen mit dem Prüfungsamt, insbesondere die Planung und Organisation der Prüfungen.[2] Er achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.[3] Mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden trifft er alle anfallenden Entscheidungen.[4] Er überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[5] Er berichtet regelmäßig den Fakultätsräten über die Entwicklung der Prüfungen und Studienzeiten, auch unter geschlechtsspezifischen Aspekten, und gibt gegebenenfalls Anregungen zu Änderungen der Prüfungsordnung.[6] Die Mitglieder des Prüfungsausschusses haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen. 
+
+(4)[1] Dem Prüfungsausschuss obliegt darüber hinaus die Prüfung der Qualifikationsund Zugangsvoraussetzungen nach § 2 i. V. m. der **Anlage 1** .[2] Der Prüfungsausschuss bestellt eine Auswahlkommission bestehend aus jeweils vier Professorinnen bzw. Professoren der Naturwissenschaftlichen und der Medizinischen Fakultät.[3] Die Mitglieder der Auswahlkommission führen die Auswahlgespräche mit den Bewerberinnen und Bewerbern und berichten dem Prüfungsausschuss.[4] Der Prüfungsausschuss trifft die abschließende Entscheidung über den Zugang. 
+
+(5)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag. 
+
+5 
+
+(6)[1] Die bzw. der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[2] Sie bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen.[4] Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss der bzw. dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
+
+(7)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der bzw. dem Studierenden ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.[ 3] Aufgrund Beschlusses des Prüfungsausschusses können Notenbescheide jeder bzw. jedem Einzelnen in elektronischer Form bekannt gegeben werden.[ 4] Widerspruchsbescheide erlässt die Präsidentin bzw. der Präsident, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfenden. 
+
+## **§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** 
+
+(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
+
+(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+
+(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
+
+(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
+
+(5) Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG. 
+
+## **§ 10 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** 
+
+(1) Die Termine der Prüfungen und die Prüfenden werden rechtzeitig ortsüblich bekannt gegeben. 
+
+(2)[1] Die Studierenden melden sich zu den einzelnen Modulprüfungen nach Beginn der Vorlesungszeit an.[2] Die Anmeldetermine und Anmeldeformalitäten werden spätestens vier Wochen vorher ortsüblich bekannt gemacht 
+
+6 
+
+(3)[1] Unbeschadet der Fristen nach §§ 7 und 28 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt vom Erstversuch von nach Abs. 2 angemeldeten Prüfungen ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.[2] § 7 Abs. 3 gilt entsprechend.[3] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[4] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 12 Abs. 1. 
+
+## **§ 11 Anerkennung von Kompetenzen** 
+
+(1)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an der FAU oder anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für Studienzeiten, Studienund Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+
+(2)[1] Kompetenzen, die im Rahmen sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+
+(3)[1] Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 19 gebildet wurden.[2] Stimmt das Notensystem an der Universität oder gleichgestellten Hochschule erbrachter und von der FAU anerkannter Prüfungen mit dem Notensystem des § 19 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
+
+x=1+3 (Nmax – Nd)/(Nmax – Nmin) mit 
+
+x= gesuchte Umrechnungsnote 
+
+Nmax= beste erzielbare Note 
+
+Nmin= unterste Bestehensnote 
+
+Nd= erzielte Note 
+
+umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.[4] Ist die Umrechnung nicht möglich oder nachweislich nicht sinnvoll, so legt der Prüfungsausschuss einen entsprechenden Schlüssel für die Notenberechnung fest. 
+
+(4)[1] Die für die Anerkennung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen.[2] Vorbehaltlich der Regelung in Satz 3 besteht bei Vorliegen der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung.[3] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.[4] Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden 
+
+7 
+
+nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.[5] Die Entscheidung ergeht schriftlich. 
+
+## **§ 12 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** 
+
+(1)[1] Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende nach dem Ende der Rücktrittsfrist (vgl. § 10 Abs. 3) ohne triftige Gründe zurücktritt; § 7 Abs. 3 gilt entsprechend.[2] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen. 
+
+(2)[1] Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet. 
+
+(3) Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten oder aufsichtführenden Person von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet. 
+
+(4) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 2 oder Abs. 3 kann der Prüfungsausschuss die Studierende bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen. 
+
+## **§ 13 Entzug akademischer Grade** 
+
+Der Entzug des akademischen Grades richtet sich nach Art. 69 BayHSchG. 
+
+## **§ 14 Mängel im Prüfungsverfahren** 
+
+(1) Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben, kann auf Antrag einer bzw. eines Studierenden angeordnet werden, dass von einer bzw. einem bestimmten oder von allen Studierenden die Prüfung oder einzelne Teile derselben wiederholt wird bzw. werden. 
+
+(2) Mängel des Prüfungsverfahrens müssen unverzüglich bei der bzw. dem Vorsitzenden des Prüfungsausschusses oder bei der bzw. dem Prüfenden geltend gemacht werden. 
+
+(3) Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen nach Abs. 1 nicht mehr getroffen werden. 
+
+## **§ 15 Anwesenheitspflicht** 
+
+(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
+
+8 
+
+(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig. 3Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+
+(3)[1] Im Rahmen von Exkursionen und Praktika ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.[2] Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.[3] Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+
+(4) Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt. 
+
+## **§ 16 Schriftliche Prüfung, Antwort-Wahl-Verfahren** 
+
+(1) In der schriftlichen Prüfung (insbesondere Klausuren, Haus- und Seminararbeiten, Master Thesis) sollen die Studierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln ein Problem mit den geläufigen Methoden des Faches erkennen und Wege zur Lösung finden können. 
+
+(2)[1] Schriftliche Prüfungen sind in der Regel innerhalb von sechs Wochen und mindestens zwei Wochen vor dem Termin der ersten Wiederholungsprüfung von einer bzw. einem Prüfenden zu bewerten.[2] Eine mit „nicht ausreichend“ beurteilte schriftliche Prüfung ist von einer bzw. einem zweiten Prüfenden zu beurteilen.[3] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen. 
+
+(3)[1] Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- und / oder Multiple-Choice-Prüfungen).[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.[5] Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden. 6Wenn die Prüfungsaufgabe Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.[7] Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satz 4 zuverlässige Prüfungsergebnisse ermöglichen.[8] Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des 
+
+9 
+
+Prüfungsergebnisses nicht zu berücksichtigen, es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.[9] Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
+
+- (4)[1] Prüfungen nach Abs. 3 Satz 1 gelten als bestanden, wenn 
+
+1. die bzw. der zu Prüfende insgesamt mindestens 50 Prozent der gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet hat oder 
+
+2. die bzw. der zu Prüfende insgesamt mindestens 40 Prozent der gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet hat und die Zahl der von der bzw. dem zu Prüfenden zutreffend beantworteten Fragen bzw. der erzielten Punkte um nicht mehr als 17 Prozent die durchschnittlichen Prüfungsleistungen der insgesamt zu Prüfenden unterschreitet, die erstmals an der entsprechenden Prüfung teilgenommen haben. 
+
+2Wird Satz 1 Nr. 2 angewendet, ist die Studiendekanin bzw. der Studiendekan zu unterrichten. 
+
+(5) Bei schriftlichen Prüfungen, die nur teilweise im Antwort-Wahl-Verfahren abgenommen werden, gelten die Abs. 3 und 4 nur für diesen Teil. 
+
+## **§ 17 Mündliche Prüfung** 
+
+(1)[1] In den mündlichen Prüfungen sollen die Studierenden nachweisen, dass sie die Zusammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermögen.[2] Mündliche Prüfungen finden, soweit nichts anderes vorgeschrieben ist, als Einzelprüfungen vor einer bzw. einem Prüfenden in Anwesenheit einer Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden bestellt wird. 
+
+(2) In der mündlichen Prüfung vor mehreren prüfungsberechtigten Personen setzt jede bzw. jeder Prüfende die Note nach § 19 fest. 
+
+(3)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstände und Ergebnis der Prüfung, die Namen der Prüfenden, der Beisitzerin bzw. des Beisitzers und der bzw. des Studierenden sowie besondere Vorkommnisse.[2] Das Protokoll wird von den prüfungsberechtigten Personen und der Beisitzerin bzw. dem Beisitzer unterzeichnet.[3] Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.[4] Das Protokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzubewahren. 
+
+(4)[1] Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung in einem der nachfolgenden Prüfungszeiträume unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen bzw. Zuhörer zugelassen; auf Verlangen der Prüfungskandidatin bzw. des Prüfungskandidaten werden Zuhörerinnen bzw. Zuhörer ausgeschlossen.[2] Die Zulassung erstreckt sich in keinem Fall auf die Beratung und die Bekanntgabe des Prüfungsergebnisses. 
+
+## **§ 18 Elektronische Prüfung** 
+
+1Prüfungen können in elektronischer Form abgenommen werden. 2Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.[3] Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, de- 
+
+10 
+
+ren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.[4] Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.[5] Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden. 
+
+## **§ 19 Bewertung der Prüfungen, Gesamtnote** 
+
+(1) Die Urteile über die einzelnen Prüfungen werden von der bzw. dem jeweiligen Prüfenden durch folgende Prädikate und Notenstufen ausgedrückt: 
+
+sehr gut = (1,0 oder 1,3) eine hervorragende Leistung; eine Leistung, die erheblich über den durchschnittligut = (1,7 oder 2,0 oder 2,3) chen Anforderungen liegt; eine Leistung, die durchschnittlichen Anforderunbefriedigend = (2,7 oder 3,0 oder 3,3) gen entspricht; eine Leistung, die trotz ihrer Mängel noch den Anausreichend = (3,7 oder 4,0) forderungen entspricht; eine Leistung, die wegen erheblicher Mängel den nicht ausreichend = (4,3 oder 4,7 oder 5,0) Anforderungen nicht mehr genügt. 
+
+(2)[1] Eine Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.[2] Bei unbenoteten Studienleistungen (§ 6 Abs. 3 Satz 4) lautet die Bewertung „bestanden“ bzw. „nicht bestanden“.[3] Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen (§ 6 Abs. 2 Satz 3) bestanden sind.[ 4] Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Teilleistungen i. S. d. § 6 Abs. 2 Satz 3, so ergibt sich die Note aus dem ggf. gemäß der **Anlage 2** gewichteten Mittel der Einzelnoten; das Notenschema des Abs. 1 findet keine Anwendung.[5] Bei der Ermittlung der Note werden zwei Stellen nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
+
+(3)[1] Prüfungen im Antwort-Wahl-Verfahren sind wie folgt zu bewerten:[2] Wer die für das Bestehen der Prüfung nach § 16 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen bzw. die Mindestzahl der zu erzielenden Punkte erreicht, erhält die Note 
+
+1,0 ("sehr gut"), wenn mindestens 75 Prozent, 2,0 ("gut"), wenn mindestens 50, aber weniger als 75 Prozent, 3,0 ("befriedigend"), wenn mindestens 25, aber weniger als 50 Prozent, 4,0 ("ausreichend"), wenn keine oder weniger als 25 Prozent der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet bzw. der zu erzielenden Punkte erreicht wurden.[3] Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Noten 0,7, 4,3 und 4,7 sind dabei ausgeschlossen. 4Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0. 5Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 16 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden. 
+
+(4) Die Gesamtnote der Masterprüfung und der Module lautet: bei einem Durchschnitt bis 1,50 = sehr gut bei einem Durchschnitt über 1,50 bis 2,50  = gut bei einem Durchschnitt über 2,50 bis 3,50  = befriedigend bei einem Durchschnitt über 3,50 bis 4,00  = ausreichend bei einem Durchschnitt über 4,0 = nicht ausreichend. 
+
+11 
+
+(5)[1] Soweit in **Anlage 2** nichts anderes festgelegt ist, werden die Modulnoten aus dem Durchschnitt der einzelnen Noten der Prüfungen im Sinne von § 6 Abs. 2 Satz 3 errechnet; das Notenschema des Abs. 1 findet keine Anwendung.[2] Bei der Ermittlung der Note werden zwei Stellen nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.[3] Wird in einem Modul nur eine benotete Prüfung abgehalten, bildet sie die Modulnote.[4] Wird keine benotete Prüfung abgehalten, lautet die Bewertung des Moduls „bestanden“ bzw. „nicht bestanden“. 
+
+(6)[1] Soweit in **Anlage 2** nichts anderes festgelegt ist, gehen das Modul Master Thesis sowie die übrigen Modulnoten mit dem einfachen Gewicht der jeweiligen ECTS-Punkte in die Gesamtnote der Masterprüfung ein.[2] Abs. 5 Satz 1 Halbsatz 2 und Abs. 5 Satz 2 gelten entsprechend. 
+
+## **§ 20 Ungültigkeit der Prüfung** 
+
+(1) Wurde bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung der Urkunde bekannt, so kann der Prüfungsausschuss nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
+
+(2) Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass die Täuschung vorsätzlich erfolgte, und wird diese Tatsache erst nach der Aushändigung der Urkunde bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt. 
+
+(3) Vor einer Entscheidung ist der bzw. dem Studierenden Gelegenheit zur Stellungnahme zu geben. 
+
+(4)[1] Die unrichtige Urkunde wird eingezogen; es wird gegebenenfalls eine neue Urkunde ausgestellt.[2] Eine Entscheidung nach Abs. 1 und 2 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum der Urkunde ausgeschlossen. 
+
+## **§ 21 Einsicht in die Prüfungsakten** 
+
+(1) Nach Abschluss der einzelnen Prüfungsverfahren erhält die bzw. der Studierende auf Antrag Einsicht in ihre bzw. seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfenden und die Prüfungsprotokolle. 
+
+(2)[1] Der Antrag ist binnen eines Monats nach Notenbekanntgabe bei dem für die Einsicht zuständigen Prüfungsorgan zu stellen.[2] Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.[3] Wer ohne eigenes Verschulden verhindert war, die Frist nach Satz 1 einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 BayVwVfG in der jeweils geltenden Fassung beantragen. 
+
+## **§ 22 Zeugnis, Transcript of Records, Diploma Supplement, Urkunde** 
+
+(1) Wer den Masterstudiengang erfolgreich abgeschlossen hat, erhält möglichst innerhalb von vier Wochen ein Zeugnis, ein Transcript of Records, ein Diploma Supplement und eine Urkunde über die Verleihung des akademischen Grades. 
+
+(2)[1] Das Zeugnis enthält die in die Masterprüfung eingehenden Module und Modulnoten sowie die Gesamtnote der Masterprüfung und nennt zudem das Thema der Masterarbeit.[2] Das Transcript of Records führt alle bestandenen Module auf; das Zeugnis 
+
+12 
+
+und das Transcript of Records können in einer Urkunde zusammengefasst werden. 3Das Transcript of Records und das Diploma Supplement werden in englischer und deutscher Sprache ausgestellt.[4] Informationen, die dem Prüfungsamt noch nicht vorliegen, müssen dort spätestens bis zum Zeitpunkt des Abschlusses des Studiengangs einschließlich entsprechender Nachweise vorgelegt werden; andernfalls können sie in den Dokumenten nach Abs. 1 nicht mehr berücksichtigt werden. 
+
+## **§ 23 Bescheinigung über endgültig nicht bestandene Prüfung** 
+
+Wer den Masterstudiengang endgültig nicht bestanden hat, erhält auf Antrag und gegen Vorlage der entsprechenden Nachweise sowie der Exmatrikulationsbescheinigung eine schriftliche Bescheinigung, aus der sich das Nichtbestehen der Prüfung, die in den einzelnen Modulprüfungen erzielten Noten und die noch fehlenden Prüfungsleistungen ergeben. 
+
+## **§ 24 Nachteilsausgleich** 
+
+(1)[1] Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf. 
+
+(2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin einen entsprechenden Antrag stellen und eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden. 
+
+(3)[1] Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des Prüfungsausschusses getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.[3] Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Prüfung, in jedem Fall jedoch vor Antritt der Prüfung, schriftlich an den Prüfungsausschuss zu richten. 
+
+## **II. Teil: Besondere Vorschriften** 
+
+## **§ 25 Zulassungsvoraussetzungen für die Prüfungen** 
+
+(1)[1] Wer im Masterstudium immatrikuliert ist, gilt als zugelassen zur Masterprüfung und den Modulprüfungen, aus denen die Masterprüfung besteht, es sei denn, die Zulassung ist zu versagen.[2] Bestehen Wahlmöglichkeiten zwischen den für die Masterprüfung nachzuweisenden Modulen, gelten die Studierenden zu den Modulen als zugelassen, die sie durch Anmeldung zur Prüfung bindend wählen; es können auch mehrere alternativ angebotene Module gewählt werden.[3] Die Zulassung ist zu versagen, wenn 
+
+1. in den Besonderen Vorschriften (§§ 25 ff.) und der **Anlage 2** vorgeschriebene Voraussetzungen und Nachweise endgültig nicht oder nicht fristgemäß erfüllt werden, 
+
+13 
+
+2. die Masterprüfung oder die Diplomprüfung in diesem oder einem verwandten Studiengang i. S. d. § 2 Abs. 1 Satz 3 endgültig nicht bestanden ist oder 
+
+3. die Exmatrikulation unter Verlust des Prüfungsanspruchs verfügt wurde. 
+
+(2) Ist die Zulassung zu den Prüfungen des Studiengangs zu versagen, so ist unverzüglich die Entscheidung zu treffen, mit Gründen und Rechtsbehelfsbelehrung zu versehen und der bzw. dem Studierenden bekannt zu geben. 
+
+## **§ 26 Masterprüfung** 
+
+(1)[1] Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Prüfungen einschließlich des Moduls Master Thesis gemäß **Anlage 2** .[2] Die Master Thesis wird in dem entsprechenden Modul durch einen wissenschaftlichen Vortrag ergänzt.[3] Die Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Master Thesis einschließlich des wissenschaftlichen Vortrags bestanden sind. 
+
+- (2) Die **Anlage 2** regelt Gegenstände, Art und Umfang der Masterprüfung. 
+
+## **§ 27 Master Thesis** 
+
+(1)[1] Die Master Thesis ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt.[2] Sie soll zeigen, dass die bzw. der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus dem Bereich Immunologie (Grundlagenforschung oder klinische Forschung) selbständig und nach wissenschaftlichen Methoden zu bearbeiten.[3] Die Master Thesis darf nicht mit einer früher vorgelegten Diplom-, Bachelor- oder Masterarbeit oder Dissertation in wesentlichen Teilen übereinstimmen (Plagiatsschutz).[4] Sie ist mit 25 ECTS-Punkten bewertet; hinzu kommt der wissenschaftliche Vortrag nach § 26 Abs. 1 im Umfang von 5 ECTS-Punkten. 
+
+(2)[1] Die Studierenden sorgen dafür, dass sie rechtzeitig zur Wahrung der Fristen nach § 7 ein Thema für die Master Thesis erhalten.[2] Gelingt dies trotz ernsthafter Bemühungen nicht, weist die bzw. der Vorsitzende des Prüfungsausschusses der bzw. dem Studierenden auf Antrag ein Thema und eine Betreuerin bzw. einen Betreuer zu. 
+
+(3)[1] Die Betreuung der Master Thesis erfolgt durch eine Professorin bzw. einen Professor, die bzw. der hauptberuflich im Masterstudiengang Integrated Immunology tätig ist.[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
+
+(4)[1] Thema und Tag der Ausgabe des Themas der Master Thesis sind von der Betreuerin bzw. vom Betreuer zu bestätigen und beim Prüfungsamt aktenkundig zu machen. 2Die Zeit von der Themenstellung bis zur Ablieferung der Master Thesis darf sechs Monate nicht überschreiten; das Thema muss so begrenzt sein, dass innerhalb dieser Frist die Master Thesis erstellt werden kann.[3] Auf begründeten Antrag kann die Bearbeitungsfrist ausnahmsweise um höchstens acht Wochen verlängert werden.[4] Weist die bzw. der Studierende durch ärztliches Attest nach, dass sie bzw. er infolge einer Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungszeit. 
+
+(5)[1] Das Thema der Master Thesis kann nur einmal und nur aus triftigen Gründen und mit Einwilligung der bzw. des Vorsitzenden des Prüfungsausschusses zurückgegeben werden.[2] Andernfalls wird die Masterarbeit bei Rückgabe des Themas mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
+
+14 
+
+(6)[1] Die Master Thesis wird in englischer Sprache abgefasst.[2] Die Master Thesis enthält am Ende eine Zusammenfassung der Ergebnisse.[3] Die Master Thesis muss mit einer Erklärung der bzw. des Studierenden versehen sein, dass die Arbeit selbst verfasst wurde und keine anderen als die darin angegebenen Quellen und Hilfsmittel benutzt wurden.[4] Je ein gebundenes sowie ein elektronisches, maschinenlesbares Exemplar der Arbeit ist bei der Betreuerin bzw. dem Betreuer sowie beim Prüfungsamt abzuliefern; die entsprechenden Bescheinigungen müssen das Datum der Abgabe dokumentieren.[5] Wird die Master Thesis nicht fristgerecht abgegeben, wird sie mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
+
+(7)[1] Die Arbeit muss von zwei Prüfenden innerhalb von sechs Wochen nach der Abgabe beurteilt werden.[2] Erstgutachterin bzw. Erstgutachter ist in der Regel diejenige Person, die das Thema der Arbeit gestellt hat. 
+
+(8)[1] Die Arbeit ist angenommen, wenn sie von beiden Gutachterinnen bzw. Gutachtern mit wenigstens „ausreichend“ beurteilt ist.[2] Sie ist abgelehnt, wenn sie von beiden Gutachterinnen bzw. Gutachtern mit „nicht ausreichend“ bewertet ist.[3] Bewertet eine Gutachterin bzw. ein Gutachter die Arbeit mit „nicht ausreichend“, die bzw. der andere mit wenigstens „ausreichend“, so wird vom Prüfungsausschuss eine dritte Bewertung und Notenvergabe durch eine bzw. einen Prüfenden gemäß § 9 veranlasst.[4] In diesem Fall ist die Bewertung der Arbeit „nicht ausreichend“, wenn auch die dritte Note so lautet, andernfalls ist sie die schlechtere der beiden mindestens „ausreichend“ lautenden Noten. 
+
+(9)[1] Ist die Arbeit gemäß Abs. 8 Satz 1 angenommen und weichen die Bewertungen beider Gutachten um nicht mehr als zwei Notenstufen voneinander ab, so ist die Note der Arbeit das arithmetische Mittel der Noten beider Gutachten, wobei das Notenschema des § 19 Abs. 1 keine Anwendung findet; dabei werden die ersten beiden Dezimalstellen nach dem Komma angegeben.[2] Weichen die Bewertungen beider Gutachten um drei oder mehr Notenstufen voneinander ab, bestellt die bzw. der Vorsitzende des Prüfungsausschusses eine Drittgutachterin bzw. einen Drittgutachter; in diesem Fall gilt § 19 Abs. 2 Satz 4. 
+
+(10)[1] Ist die Master Thesis abgelehnt oder gilt sie als abgelehnt, so kann sie einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Die bzw. der Studierende sorgt dafür, dass sie bzw. er innerhalb von zwei Monaten nach der Bekanntgabe der Ablehnung ein neues Thema für die Wiederholung der Master Thesis erhält; andernfalls gilt die Master Thesis als endgültig nicht bestanden.[3] Für die Wiederholung der Master Thesis gelten die Abs. 1 und Abs. 2 Satz 3 sowie Abs. 3 und 4 sowie 6 bis 9 entsprechend; eine Rückgabe des Themas ist ausgeschlossen. 
+
+## **§ 28 Wiederholung von Prüfungen, Modulwechsel** 
+
+(1)[1] Die nicht bestandenen Modulprüfungen der Module Basic Immunology, Translational Immunology und des Moduls Master Thesis können einmal, alle übrigen Modulprüfungen zweimal wiederholt werden.[2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt.[3] Die Wiederholungsprüfung muss zum nächstmöglichen Termin abgelegt werden, der spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses stattfinden muss.[4] Die Frist zur Wiederholung wird durch Exmatrikulation und Beurlaubung nicht unterbrochen. 5Die Studierenden gelten bei Nichtbestehen einer Prüfung zum nächsten Wiederho- 
+
+15 
+
+lungsversuch als angemeldet.[6] Bei Versäumung der Wiederholung oder der Wiederholungsfrist gilt der Wiederholungsversuch als nicht bestanden, sofern der Prüfungsausschuss der bzw. dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Nachfrist gewährt.[7] Die Regeln über Mutterschutz, Eltern- und Pflegezeit (§ 7 Abs. 2) finden Anwendung. 
+
+(2)[1] Die freiwillige Wiederholung einer bestandenen Prüfung desselben Moduls ist nicht zulässig.[2] Im Rahmen der Prüfungsfristen nach § 7 können jedoch statt nicht bestandener Module andere, alternativ angebotene Module besucht und abgeschlossen werden. 
+
+## **§ 29 Zusatzmodule** 
+
+(1)[1] Zusatzmodule sind weitere Module des Studiengangs (z. B. Wahlmodule, Schlüsselqualifikationen), die im Rahmen der Prüfungsfristen nach § 7 zusätzlich zu erfolgreich absolvierten Modulen besucht werden.[2] Besteht die bzw. der Studierende an der FAU zusätzliche Module des Studiengangs, legt sie bzw. er selbst fest, welches der Module in die Abschlussnotenberechnung eingebracht werden soll.[3] Die getroffene Wahl ist dem Prüfungsamt bis spätestens acht Wochen vor Erteilung des Abschlusszeugnisses mitzuteilen.[4] Die Wahl wird damit bindend.[5] Wird keine Wahl getroffen, rechnet das Prüfungsamt bei Wahlmöglichkeiten das besser bewertete Modul an. 
+
+(2)[1] Zusatzmodule sind ebenfalls Module anderer Studiengänge, die als Teilqualifikationen für diesen Studiengang angeboten werden.[2] Hinsichtlich der Prüfungsmodalitäten gelten die Regelungen der Prüfungsordnung des Studiengangs, aus dem das Zusatzmodul stammt.[3] Zusatzmodule nach Abs. 2 gehen nicht in die Abschlussnote ein; sie werden in einem gesonderten Abschnitt im Transcript of Records ausgewiesen. 4Auf Antrag der bzw. des Studierenden beim Prüfungsamt können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden. 
+
+## **III. Teil: Übergangs- und Schlussvorschriften** 
+
+## **§ 30 Inkrafttreten** 
+
+1Diese Prüfungsordnung tritt am 1. Oktober 2018 in Kraft. 2Sie gilt für alle Studierende, die das Studium ab dem Wintersemester 2018/19 aufnehmen werden. 
+
+16 
+
+## **IV. Teil: Anlagen** 
+
+## **Anlage 1: Qualifikationsfeststellungsverfahren gemäß § 2** 
+
+(1)[1] Das Qualifikationsfeststellungsverfahren dient dem Nachweis der Kenntnisse und der Befähigung zum wissenschaftlichen Arbeiten, um den interdisziplinären Elitemasterstudiengang Integrated Immunology erfolgreich abschließen zu können.[2] Es wird bei Bedarf, mindestens jedoch einmal pro Jahr vor Beginn der allgemeinen Vorlesungszeit zum Wintersemester durchgeführt.[3] An diesem Qualifikationsfeststellungsverfahren dürfen zur Gewährleistung eines zügigen weiteren Studiums auch Bewerberinnen und Bewerber teilnehmen, die unmittelbar vor Abschluss ihres Bachelorstudiums bzw. des Dritten Abschnitts der Ärztlichen Prüfung bzw. der Tierärztlichen Prüfung stehen. 
+
+(2)[1] Der Antrag auf Zulassung zum Qualifikationsfeststellungsverfahren ist bis spätestens 15. Juli zum Wintersemester beim Masterbüro der FAU zu stellen.[2] Dem Antrag sind beizufügen: 
+
+1. das Zeugnis über den Abschluss gemäß § 2 Abs. 1 (Zeugnis, Transcript of Records, Diploma Supplement oder vergleichbare Dokumente) bzw. ein Transcript of Records oder eine Notenbescheinigung über die besten 140 ECTS-Punkte bzw. ein Nachweis über den erfolgreichen Abschluss des Zweiten Abschnitts der Ärztlichen Prüfung bzw. der Tierärztlichen Vorprüfung im Falle des § 2 Abs. 4, 
+
+2. der Zulassungsantrag, 
+
+3. ein tabellarischer Lebenslauf in englischer Sprache, 
+
+4. Nachweis über Englischkenntnisse mindestens auf dem Niveau von Englisch Level B 2 (Common European Framework of Reference for Languages – CEFR) Vantage oder Upper intermediate oder vergleichbare Nachweise (insbesondere Nachweis des schulischen Englischunterrichts bis zur Niveaustufe B2 gemäß Gemeinsamem Europäischen Referenzrahmen für Sprachen (GER) mit diesbezüglicher Zertifizierung im Zeugnis bzw. einer entsprechenden Bescheinigung der Schule oder Nachweis des erfolgreichen Test of English as a Foreign Language (TOEFL) mit mindestens 85 Punkten im iBT oder International English Language Testing System (IELTS) 5.0 oder höher); für Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ihren ersten berufsqualifizierenden Abschluss in englischer Sprache erworben haben, ist kein Nachweis der englischen Sprachkenntnisse erforderlich und 
+
+5. Nachweis über theoretische Kenntnisse im Fach Immunologie im Umfang von mindestens 5 ECTS-Punkten. 
+
+(3)[1] Die Feststellung der Qualifikation obliegt gemäß § 8 Abs. 4 dem Prüfungsausschuss des Masterstudiengangs.[2] Der Prüfungsausschuss kann die Koordination und Durchführung des Verfahrens einzelnen von ihm beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist.[3] Sofern der Nachweis nach Satz 2 Nr. 5 bei der Bewerbung bzw. Aufnahme des Studiums noch nicht erbracht werden kann, besteht die Möglichkeit, diesen binnen eines Jahres nach Aufnahme des Master-studiums nachzureichen; § 2 Abs. 4 Satz 3 gilt entsprechend. 
+
+(4)[1] Der Zugang zum Qualifikationsfeststellungsverfahren setzt voraus, dass die in Abs. 2 genannten Unterlagen fristgerecht und vollständig vorliegen.[2] Nicht form- und fristgerechte sowie unvollständige Anträge führen zum Ausschluss vom Qualifikationsfeststellungsverfahren.[3] Mit den Bewerberinnen und Bewerbern, die die erforderlichen Voraussetzungen erfüllen, wird das Qualifikationsfeststellungsverfahren gemäß Abs. 
+
+17 
+
+5 durchgeführt.[4] Bewerberinnen und Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
+
+(5)[1] Das Qualifikationsfeststellungsverfahren besteht aus einer Vorauswahl und einem Auswahlgespräch mit den dazu zugelassenen Bewerberinnen und Bewerbern.[2] Im Vorauswahlverfahren entscheidet der Prüfungsausschuss anhand der eingereichten Unterlagen, ob die Bewerberin bzw. der Bewerber grundsätzlich geeignet ist, den Studiengang mit Erfolg abzuschließen.[3] Bewerberinnen und Bewerber mit einem Abschluss im Sinne des Abs. 2 Satz 2 Nr. 1 i. V. m. § 2 bzw. im Falle des § 2 Abs. 4 einem Durchschnitt der bisherigen Leistungen von 2,50 (= gut) oder besser werden zu einem Auswahlgespräch eingeladen; § 11 Abs. 3 gilt entsprechend.[4] Das Auswahlgespräch soll zeigen, ob die Bewerberin bzw. der Bewerber den Anforderungen eines stärker forschungsorientierten Masterstudiums genügt und insbesondere, ob zu erwarten ist, dass sie bzw. er in einem solchen Studium selbständig wissenschaftlich zu arbeiten versteht.[5] Das Auswahlgespräch erstreckt sich auf folgende gewichtete Kriterien: 
+
+1. Sehr gute Kenntnisse der Grundlagen der Zellbiologie, der Molekularbiologie und der Genetik (50%) 
+
+2. Sehr gute Kenntnisse im Bereich einer fachlichen Spezialisierung entsprechend eines wählbaren Bereiches aus der Immunologie, Mikrobiologie, Virologie, Zellbiologie oder Molekularbiologie; die Bewerberin bzw. der Bewerber wählt den für das Zugangsgespräch maßgeblichen Bereich (25%) 
+
+3. Fähigkeit zum wissenschaftlich-analytischen Denken (bspw. Planung eines Kontrollexperiments anhand eines konkreten Beispiels; Extraktion von Ergebnissen aus wissenschaftlichen Abbildungen oder Herstellen von folgerichtigen Schlussfolgerungen aus Einzelergebnissen) (25%). 
+
+6Das Auswahlgespräch hat eine Dauer von ca. 15 Minuten. 7Das Auswahlgespräch kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden.[8] Der Termin des Auswahlgesprächs wird der Bewerberin bzw. dem Bewerber spätestens eine Woche vorher bekannt gegeben.[9] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.[10] Das Auswahlgespräch wird als Einzelprüfung von mindestens zwei Mitgliedern der Auswahlkommission nach § 8 Abs. 4 Satz 2 durchgeführt, die vom Prüfungsausschuss bestellt werden.[11] Die Bewertung des Auswahlgesprächs sowie des Qualifikationsfeststellungsverfahrens insgesamt lautet „bestanden“ oder „nicht bestanden“.[12] Hat die Bewerberin bzw. der Bewerber das Qualifikationsfeststellungsgespräch bestanden, entscheidet der Prüfungsausschuss auf Vorschlag der Prüfenden, ob der Zugang mit Auflagen gemäß § 2 Abs. 3 verbunden wird. 13Über das Auswahlgespräch ist eine Niederschrift zu fertigen; § 17 Abs. 3 gilt entsprechend. 
+
+(6)[ 1] Wer nach dem Ergebnis des Qualifikationsfeststellungsverfahrens nicht ins Masterstudium aufgenommen ist, erhält einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.[2] Eine erneute Teilnahme am Qualifikationsfeststellungsverfahren auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen ist nicht möglich. 
+
+(7) Die eigenen Kosten, die den Bewerberinnen bzw. Bewerbern aufgrund der Teilnahme am Qualifikationsfeststellungsverfahren entstehen, tragen diese selbst. 
+
+18 
+
+(8) Die Bestätigung über das bestandene Qualifikationsfeststellungsverfahren hat unbeschränkte Gültigkeit, sofern sich der Masterstudiengang nicht wesentlich geändert hat. 
+
+19 
+
+## **Anlage 2: Studienverlaufsplan für den Masterstudiengang (MSc) “Integrated Immunology** 
+
+|Code|Modul|Kurs|SWS|SWS|SWS|SWS|total<br>ECTS|Workload-Verteilung<br>in ECTS|Workload-Verteilung<br>in ECTS|Workload-Verteilung<br>in ECTS|Workload-Verteilung<br>in ECTS|Art/Umfang der<br>Studien-/Prüfungsleistung|Faktor|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||V|Ü|P|S||1.<br>Sem.|<br>2.<br>Sem.|<br>3.<br>Sem.|4.<br>Sem.|||
+|**II-MA-**<br>**M1**|**Basic Immunology****|Basic Immunology|3||||10|2,5||||PL: Klausur 90 Minuten|1|
+|||Tutorials to Basic Immunology||5||||5||||||
+|||Seminar to Basic Immunology||||3||2,5||||||
+|**II-MA-**<br>**M2**|**Integrated Laboratory**<br>**Course**|Integrated LaboratoryCourse|||10||10|8||||SL: Praktikumsprotokoll<br>und mündliches Referat|0|
+|||Tutorials to Integrated LaboratoryCourse||2||||2||||||
+|**II-MA-**<br>**M3**|**Cell-and molecular biology**|Cell-and molecular biology|3||||5|2,5||||PL: Klausur 45 Minuten|1|
+|||Tutorials to Cell-and molecularbiology||3||||2,5||||||
+|**II-MA-**<br>**M4**|**Translational Immunology****|Translational Immunology|3||||10||2,5|||PL: Klausur 90 Minuten|1|
+|||Tutorials to TranslationalImmunology||5|||||5|||||
+|||Seminar to Translational Immunology||||3|||2,5|||||
+|**II-MA-**<br>**M5**|**Integrated Laboratory**<br>**Course**|Translational Immunology|||10||10||8|||SL: Praktikumsprotokoll<br>und mündliches Referat|0|
+|||Seminar to Translational Immunology||2|||||2|||||
+|**II-MA-**<br>**M6**|**Clinical Immunology****|Clinical Immunology|2||||5||2,5|||PL: Klausur, 45 Minuten|1|
+|||Tutorials Clinical Immunology|||2||||2,5|||||
+|**II-MA-**<br>**M7**|**Practical project work**|Laboratory rotations including<br>international laboratories|||15||15|||15||SL: Praktikumsprotokoll<br>undmündlichesReferat|0|
+|**II-MA-**<br>**M8**|**Theoretical project work**|Theoretical project work|||10||10|||||PL: schriftliche<br>Ausarbeitung, 25 Seiten<br>(100 %) und SL:<br>Seminarvortrag|1|
+|||Seminar to project work||||2||||||||
+|**II-MA-**<br>**M9**|**Softskills**|imaging, bioinformatics, animal sciences, ge-<br>netic engineering clinical study design|||2|2|10|5|5|||SL: mündlich oder<br>schriftlich*|0|
+|**II-MA-**<br>**M10**|**Becoming a scientist**|winter school**, international meetings**, meet<br>the professor, graduate school committee|||||5|||5||SL: mündlich<br>oder schriftlich*|0|
+|**II-MA-**<br>**M11**|**Master thesis**|Master thesis|||||30||||30|PL: Masterthesis,<br>75 Seiten (100%) und<br>SL: wiss. Verteidigung|1|
+|SWS bzw. ECTS|||11|17|49|10||30|30|30|30|||
+|Summe SWS und ECTS|||87||||120|||||||
+
+
+
+*  Wählbar aus dem Bereich der Softskills der NatFak., TechFak und MedFak. Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter des von der 
+
+- bzw. dem Studierenden gewählten Moduls und dem Modulhandbuch zu entnehmen. Als mündliche Prüfungsleistungen werden bspw. Seminarvorträge (30 min) oder als schriftliche Prüfungsleistung das Schreiben eines Essays (10 Seiten) durchgeführt. 
+
+****** Module offen für Studierende aus anderen Masterstudiengängen (Integrated Life Sciences, Master Molekular- und Zellbiologie, Molecular Sciences). 
+
+20 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 29. November 2017 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.Ing. Joachim Hornegger vom 19. März 2018. 
+
+Erlangen, den 19. März 2018 
+
+Prof. Dr.-Ing. Joachim Hornegger Präsident 
+
+Die Satzung wurde am 19. März 2018 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 19. März 2018 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 19. März 2018. 
+
+21 
+
+

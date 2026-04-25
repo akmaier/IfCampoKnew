@@ -1,0 +1,86 @@
+name: Monthly FAU.de scrape
+
+# Runs the FAU.de Studiengang and Prüfungsordnungen scrapers on the
+# first day of every month, 04:00 UTC (= 05:00/06:00 CE(S)T).
+# These pages change rarely — once a month is plenty.
+on:
+  schedule:
+    - cron: "0 4 1 * *"
+  workflow_dispatch:
+    inputs:
+      max_studiengang:
+        description: "Limit studiengang count (testing). Empty = all 222."
+        required: false
+        default: ""
+      max_po:
+        description: "Limit PO landings (testing). Empty = all 36."
+        required: false
+        default: ""
+      skip_pdfs:
+        description: "Render PO landings without downloading PDFs (true/false)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-fau-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Resolve inputs
+        id: vars
+        run: |
+          extra=""
+          if [ -n "${{ github.event.inputs.max_studiengang }}" ]; then
+            extra="$extra --max-studiengang ${{ github.event.inputs.max_studiengang }}"
+          fi
+          if [ -n "${{ github.event.inputs.max_po }}" ]; then
+            extra="$extra --max-po ${{ github.event.inputs.max_po }}"
+          fi
+          if [ "${{ github.event.inputs.skip_pdfs }}" = "true" ]; then
+            extra="$extra --skip-pdfs"
+          fi
+          echo "extra=$extra" >> "$GITHUB_OUTPUT"
+          echo "iso_month=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
+
+      - name: Build FAU corpora
+        run: |
+          mkdir -p tmp/fau-pdfs
+          python scraper/fau_corpus.py \
+            --out data \
+            --tmp tmp/fau-pdfs \
+            -v ${{ steps.vars.outputs.extra }}
+
+      - name: Commit corpus changes
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/studiengang data/pruefungsordnungen
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No corpus changes — skipping commit."
+          else
+            git commit -m "Monthly FAU scrape: ${{ steps.vars.outputs.iso_month }}"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
