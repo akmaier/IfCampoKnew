@@ -33,3 +33,8 @@ period_name: "Sommersemester 2026"
 - [Staatsexamen Rechtswissenschaft Hauptfach PO-Version 20152](staatsexamen-rechtswissenschaft-hauptfach-po-version-20152-14061283.md) — `exam:14061283`
 - [Staatsexamen Rechtswissenschaft Hauptfach PO-Version 20182](staatsexamen-rechtswissenschaft-hauptfach-po-version-20182-14063323.md) — `exam:14063323`
 - [Zusatzstudien Praxisorientiertes betriebswirtschaftliches Basiswissen für Studierende der Rechtswissenschaft Hauptfach PO-Version 20242](zusatzstudien-praxisorientiertes-betriebswirtschaftliches-basiswissen-fuer-studierende-der-14065722.md) — `exam:14065722`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Rechtswissenschaft (Staatsexamen)](../../../studiengang/rechtswissenschaft-staatsexamen.md) — Staatsexamen (außer Lehramt)

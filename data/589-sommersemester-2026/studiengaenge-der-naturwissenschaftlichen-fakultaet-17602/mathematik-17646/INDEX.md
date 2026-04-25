@@ -32,3 +32,12 @@ period_name: "Sommersemester 2026"
 - [Master of Education Mathematik Hauptfach PO-Version 20232](master-of-education-mathematik-hauptfach-po-version-20232-14216942.md) — `exam:14216942`
 - [Master of Science Mathematik Hauptfach PO-Version 20192](master-of-science-mathematik-hauptfach-po-version-20192-14232518.md) — `exam:14232518`
 - [Staatsexamensvorbereitung Fachdidaktik](staatsexamensvorbereitung-fachdidaktik-17860.md) — `title:17860`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Mathematik (B.Sc.)](../../../studiengang/mathematik-b-sc.md) — Bachelor of Science
+- [Mathematik (M.Sc.)](../../../studiengang/mathematik-m-sc.md) — Master of Science
+
+**Prüfungsordnungen:**
+- [mathematik](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/INDEX.md) — `pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik`

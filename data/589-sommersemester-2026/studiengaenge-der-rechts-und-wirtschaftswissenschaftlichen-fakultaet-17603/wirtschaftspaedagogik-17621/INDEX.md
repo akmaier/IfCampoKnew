@@ -15,3 +15,8 @@ period_name: "Sommersemester 2026"
 - [Master of Science Wirtschaftspädagogik Studienrichtung I Hauptfach PO-Version 20232](master-of-science-wirtschaftspaedagogik-studienrichtung-i-hauptfach-po-version-20232-14044309.md) — `exam:14044309`
 - [Master of Science Wirtschaftspädagogik Studienrichtung II Hauptfach PO-Version 2009](master-of-science-wirtschaftspaedagogik-studienrichtung-ii-hauptfach-po-version-2009-14051292.md) — `exam:14051292`
 - [Master of Science Wirtschaftspädagogik Studienrichtung II Hauptfach PO-Version 20232](master-of-science-wirtschaftspaedagogik-studienrichtung-ii-hauptfach-po-version-20232-14046344.md) — `exam:14046344`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Wirtschaftspädagogik (M.Sc.)](../../../studiengang/wirtschaftspaedagogik-m-sc.md) — Master of Science

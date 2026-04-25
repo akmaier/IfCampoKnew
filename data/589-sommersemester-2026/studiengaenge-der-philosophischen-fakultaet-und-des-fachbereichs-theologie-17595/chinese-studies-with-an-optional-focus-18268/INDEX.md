@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Chinese Studies with an Optional Focus Hauptfach PO-Version 20242](master-of-arts-chinese-studies-with-an-optional-focus-hauptfach-po-version-20242-15198900.md) — `exam:15198900`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Chinese Studies with an Optional Focus (M.A.)](../../../studiengang/chinese-studies-with-an-optional-focus-m-a.md) — Master of Arts

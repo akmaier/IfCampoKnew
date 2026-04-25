@@ -16,3 +16,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Digitale Geistes- und Sozialwissenschaften 1. Fach PO-Version 20252](bachelor-of-arts-2-faecher-digitale-geistes-und-sozialwissenschaften-1-fach-po-version-2025-15006493.md) — `exam:15006493`
 - [Bachelor of Arts (2 Fächer) Digitale Geistes- und Sozialwissenschaften 2. Fach PO-Version 20182](bachelor-of-arts-2-faecher-digitale-geistes-und-sozialwissenschaften-2-fach-po-version-2018-15011379.md) — `exam:15011379`
 - [Bachelor of Arts (2 Fächer) Digitale Geistes- und Sozialwissenschaften 2. Fach PO-Version 20252](bachelor-of-arts-2-faecher-digitale-geistes-und-sozialwissenschaften-2-fach-po-version-2025-15013015.md) — `exam:15013015`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Digitale Geistes- und Sozialwissenschaften (B.A.)](../../../studiengang/digitale-geistes-und-sozialwissenschaften-b-a.md) — Bachelor of Arts

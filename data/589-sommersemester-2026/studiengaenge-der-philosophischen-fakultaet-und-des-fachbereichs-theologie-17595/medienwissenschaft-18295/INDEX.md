@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Medienwissenschaft Hauptfach PO-Version 20202](master-of-arts-medienwissenschaft-hauptfach-po-version-20202-15195384.md) — `exam:15195384`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Medienwissenschaft (M.A.)](../../../studiengang/medienwissenschaft-m-a.md) — Master of Arts

@@ -14,3 +14,9 @@ period_name: "Sommersemester 2026"
 
 - [Bachelor of Science Elektromobilität-ACES Hauptfach PO-Version 20222](bachelor-of-science-elektromobilitaet-aces-hauptfach-po-version-20222-14707537.md) — `exam:14707537`
 - [Master of Science Elektromobilität-ACES Hauptfach PO-Version 20222](master-of-science-elektromobilitaet-aces-hauptfach-po-version-20222-14711560.md) — `exam:14711560`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Elektromobilität-ACES (B.Sc.)](../../../studiengang/elektromobilitaet-aces-b-sc.md) — Bachelor of Science
+- [Elektromobilität-ACES (M.Sc.)](../../../studiengang/elektromobilitaet-aces-m-sc.md) — Master of Science

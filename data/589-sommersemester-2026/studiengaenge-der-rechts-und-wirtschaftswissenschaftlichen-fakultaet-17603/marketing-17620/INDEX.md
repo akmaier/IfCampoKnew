@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Science Marketing Hauptfach PO-Version 20182](master-of-science-marketing-hauptfach-po-version-20182-14012994.md) — `exam:14012994`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Marketing (M.Sc.)](../../../studiengang/marketing-m-sc.md) — Master of Science

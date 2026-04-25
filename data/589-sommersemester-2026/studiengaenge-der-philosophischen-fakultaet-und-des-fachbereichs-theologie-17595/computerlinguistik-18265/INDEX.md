@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Bachelor of Arts (2 Fächer) Computerlinguistik 1. Fach PO-Version 20222](bachelor-of-arts-2-faecher-computerlinguistik-1-fach-po-version-20222-15464745.md) — `exam:15464745`
 - [Bachelor of Arts (2 Fächer) Computerlinguistik 2. Fach PO-Version 20222](bachelor-of-arts-2-faecher-computerlinguistik-2-fach-po-version-20222-15468089.md) — `exam:15468089`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Computerlinguistik (B.A.)](../../../studiengang/computerlinguistik-b-a.md) — Bachelor of Arts

@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Literaturstudien - medial und transkulturell Hauptfach PO-Version 20242](master-of-arts-literaturstudien-medial-und-transkulturell-hauptfach-po-version-20242-15347005.md) — `exam:15347005`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Literaturstudien – medial und transkulturell (M.A.)](../../../studiengang/literaturstudien-medial-und-transkulturell-m-a.md) — Master of Arts

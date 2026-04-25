@@ -18,3 +18,9 @@ period_name: "Sommersemester 2026"
 - [Master of Science Energietechnik Hauptfach PO-Version 20152](master-of-science-energietechnik-hauptfach-po-version-20152-14761109.md) — `exam:14761109`
 - [Master of Science Energietechnik Hauptfach PO-Version 20182](master-of-science-energietechnik-hauptfach-po-version-20182-14765038.md) — `exam:14765038`
 - [Master of Science Energietechnik Hauptfach PO-Version 20222](master-of-science-energietechnik-hauptfach-po-version-20222-14768845.md) — `exam:14768845`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Energietechnik (B.Sc.)](../../../studiengang/energietechnik-b-sc.md) — Bachelor of Science
+- [Energietechnik (M.Sc.)](../../../studiengang/energietechnik-m-sc.md) — Master of Science

@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Bachelor of Science International Economic Studies Hauptfach PO-Version 20202](bachelor-of-science-international-economic-studies-hauptfach-po-version-20202-13896832.md) — `exam:13896832`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [International Economic Studies (B.Sc.)](../../../studiengang/international-economic-studies-b-sc.md) — Bachelor of Science

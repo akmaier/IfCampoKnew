@@ -16,3 +16,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Wirtschaftsinformatik Hauptfach PO-Version 20182](bachelor-of-science-wirtschaftsinformatik-hauptfach-po-version-20182-14034111.md) — `exam:14034111`
 - [Bachelor of Science Wirtschaftsinformatik Hauptfach PO-Version 20202](bachelor-of-science-wirtschaftsinformatik-hauptfach-po-version-20202-14036420.md) — `exam:14036420`
 - [Bachelor of Science Wirtschaftsinformatik Hauptfach PO-Version 20232](bachelor-of-science-wirtschaftsinformatik-hauptfach-po-version-20232-14038453.md) — `exam:14038453`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Wirtschaftsinformatik (B.Sc.)](../../../studiengang/wirtschaftsinformatik-b-sc.md) — Bachelor of Science

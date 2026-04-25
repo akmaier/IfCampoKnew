@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Arts Linguistik Hauptfach PO-Version 20182](master-of-arts-linguistik-hauptfach-po-version-20182-15151223.md) — `exam:15151223`
 - [Master of Arts Linguistik Hauptfach PO-Version 20212](master-of-arts-linguistik-hauptfach-po-version-20212-15154873.md) — `exam:15154873`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Linguistik (M.A.)](../../../studiengang/linguistik-m-a.md) — Master of Arts

@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Bachelor of Science Informatik/IT-Sicherheit Hauptfach PO-Version 20152](bachelor-of-science-informatik-it-sicherheit-hauptfach-po-version-20152-14889276.md) — `exam:14889276`
 - [Bachelor of Science Informatik/IT-Sicherheit Hauptfach PO-Version 20242](bachelor-of-science-informatik-it-sicherheit-hauptfach-po-version-20242-14890905.md) — `exam:14890905`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Informatik/IT-Sicherheit (B.Sc.)](../../../studiengang/informatik-it-sicherheit-b-sc.md) — Bachelor of Science

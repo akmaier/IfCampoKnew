@@ -20,3 +20,9 @@ period_name: "Sommersemester 2026"
 - [Master of Arts Politikwissenschaft Hauptfach PO-Version 20192](master-of-arts-politikwissenschaft-hauptfach-po-version-20192-15389811.md) — `exam:15389811`
 - [Master of Arts Politikwissenschaft Hauptfach PO-Version 20212](master-of-arts-politikwissenschaft-hauptfach-po-version-20212-15393008.md) — `exam:15393008`
 - [Master of Arts Politikwissenschaft Hauptfach PO-Version 20232](master-of-arts-politikwissenschaft-hauptfach-po-version-20232-15396218.md) — `exam:15396218`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Politikwissenschaft (B.A.)](../../../studiengang/politikwissenschaft-b-a.md) — Bachelor of Arts
+- [Politikwissenschaft (M.A.)](../../../studiengang/politikwissenschaft-m-a.md) — Master of Arts

@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Materials Science and Engineering Hauptfach PO-Version 20222](master-of-science-materials-science-and-engineering-hauptfach-po-version-20222-14591309.md) — `exam:14591309`
 - [Master of Science Materials Science and Engineering Hauptfach PO-Version 20232](master-of-science-materials-science-and-engineering-hauptfach-po-version-20232-14593928.md) — `exam:14593928`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Materials Science and Engineering (M.Sc.)](../../../studiengang/materials-science-and-engineering-m-sc.md) — Master of Science

@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Finance - Auditing - Controlling - Taxation Hauptfach PO-Version 2009](master-of-science-finance-auditing-controlling-taxation-hauptfach-po-version-2009-14040472.md) — `exam:14040472`
 - [Master of Science Finance - Auditing - Controlling - Taxation Hauptfach PO-Version 20172](master-of-science-finance-auditing-controlling-taxation-hauptfach-po-version-20172-14042367.md) — `exam:14042367`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Finance, Auditing, Controlling, Taxation (M.Sc.)](../../../studiengang/finance-auditing-controlling-taxation-m-sc.md) — Master of Science

@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Erziehungswissenschaftlich-Empirische Bildungsforschung Hauptfach PO-Version 20182](master-of-arts-erziehungswissenschaftlich-empirische-bildungsforschung-hauptfach-po-version-15527544.md) — `exam:15527544`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Erziehungswissenschaftlich-Empirische Bildungsforschung (M.A.)](../../../studiengang/erziehungswissenschaftlich-empirische-bildungsforschung-m-a.md) — Master of Arts

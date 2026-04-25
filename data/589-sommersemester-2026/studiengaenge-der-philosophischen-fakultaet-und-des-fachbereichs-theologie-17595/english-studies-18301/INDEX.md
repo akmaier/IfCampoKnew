@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts English Studies Hauptfach PO-Version 20212](master-of-arts-english-studies-hauptfach-po-version-20212-15089623.md) — `exam:15089623`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [English Studies (M.A.)](../../../studiengang/english-studies-m-a.md) — Master of Arts

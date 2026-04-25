@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Arts Human Rights Hauptfach PO-Version 20192](master-of-arts-human-rights-hauptfach-po-version-20192-15458058.md) — `exam:15458058`
 - [Master of Arts Human Rights Hauptfach PO-Version 20232](master-of-arts-human-rights-hauptfach-po-version-20232-15459694.md) — `exam:15459694`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Human Rights (M.A.)](../../../studiengang/human-rights-m-a.md) — Master of Arts

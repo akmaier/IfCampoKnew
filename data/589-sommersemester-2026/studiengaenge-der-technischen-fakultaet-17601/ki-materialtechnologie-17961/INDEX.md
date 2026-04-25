@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Bachelor of Science KI-Materialtechnologie Hauptfach PO-Version 20242](bachelor-of-science-ki-materialtechnologie-hauptfach-po-version-20242-14588117.md) — `exam:14588117`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [KI - Materialtechnologie (B.Sc.)](../../../studiengang/ki-materialtechnologie-b-sc.md) — Bachelor of Science

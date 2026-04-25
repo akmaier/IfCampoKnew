@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Arabistik, Islamwissenschaft, Semitistik Hauptfach PO-Version 20202](master-of-arts-arabistik-islamwissenschaft-semitistik-hauptfach-po-version-20202-15588015.md) — `exam:15588015`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Arabistik, Islamwissenschaft, Semitistik (M.A.)](../../../studiengang/arabistik-islamwissenschaft-semitistik-m-a.md) — Master of Arts

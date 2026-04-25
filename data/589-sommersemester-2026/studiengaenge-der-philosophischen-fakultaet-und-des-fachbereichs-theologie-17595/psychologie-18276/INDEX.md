@@ -18,3 +18,9 @@ period_name: "Sommersemester 2026"
 - [Master of Science Psychologie Hauptfach PO-Version 20172](master-of-science-psychologie-hauptfach-po-version-20172-15335241.md) — `exam:15335241`
 - [Master of Science Psychologie Hauptfach PO-Version 20222](master-of-science-psychologie-hauptfach-po-version-20222-15337522.md) — `exam:15337522`
 - [Master of Science Psychologie Hauptfach PO-Version 20232](master-of-science-psychologie-hauptfach-po-version-20232-15339897.md) — `exam:15339897`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Psychologie (B.Sc.)](../../../studiengang/psychologie-b-sc.md) — Bachelor of Science
+- [Psychologie (M.Sc.)](../../../studiengang/psychologie-m-sc.md) — Master of Science

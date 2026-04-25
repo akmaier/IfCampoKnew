@@ -21,3 +21,9 @@ period_name: "Sommersemester 2026"
 - [Master of Arts Pädagogik Hauptfach PO-Version 20152](master-of-arts-paedagogik-hauptfach-po-version-20152-15244545.md) — `exam:15244545`
 - [Master of Arts Pädagogik Hauptfach PO-Version 20192](master-of-arts-paedagogik-hauptfach-po-version-20192-15247657.md) — `exam:15247657`
 - [Master of Arts Pädagogik Hauptfach PO-Version 20212](master-of-arts-paedagogik-hauptfach-po-version-20212-15251052.md) — `exam:15251052`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Pädagogik (B.A.)](../../../studiengang/paedagogik-b-a.md) — Bachelor of Arts
+- [Pädagogik (M.A.)](../../../studiengang/paedagogik-m-a.md) — Master of Arts

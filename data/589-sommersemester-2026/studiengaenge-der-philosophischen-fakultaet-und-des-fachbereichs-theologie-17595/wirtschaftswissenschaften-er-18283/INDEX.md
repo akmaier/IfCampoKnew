@@ -17,3 +17,8 @@ period_name: "Sommersemester 2026"
 - [Lehramt Realschule Wirtschaftswissenschaften Hauptfach PO-Version 2007](lehramt-realschule-wirtschaftswissenschaften-hauptfach-po-version-2007-15306412.md) — `exam:15306412`
 - [Lehramt Realschule Wirtschaftswissenschaften Hauptfach PO-Version 20142](lehramt-realschule-wirtschaftswissenschaften-hauptfach-po-version-20142-15306477.md) — `exam:15306477`
 - [Lehramt Realschule Wirtschaftswissenschaften Hauptfach PO-Version 20202](lehramt-realschule-wirtschaftswissenschaften-hauptfach-po-version-20202-15306564.md) — `exam:15306564`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Wirtschaftswissenschaften (B.A.)](../../../studiengang/wirtschaftswissenschaften-b-a.md) — Bachelor of Arts

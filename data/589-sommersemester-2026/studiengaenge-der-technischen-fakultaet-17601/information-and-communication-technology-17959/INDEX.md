@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Information and Communication Technology Hauptfach PO-Version 20191](master-of-science-information-and-communication-technology-hauptfach-po-version-20191-14847138.md) — `exam:14847138`
 - [Master of Science Information and Communication Technology Hauptfach PO-Version 20222](master-of-science-information-and-communication-technology-hauptfach-po-version-20222-14851286.md) — `exam:14851286`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Information and Communication Technology (M.Sc.)](../../../studiengang/information-and-communication-technology-m-sc.md) — Master of Science

@@ -19,3 +19,9 @@ period_name: "Sommersemester 2026"
 - [Master of Science Medizintechnik Hauptfach PO-Version 20182](master-of-science-medizintechnik-hauptfach-po-version-20182-14536896.md) — `exam:14536896`
 - [Master of Science Medizintechnik Hauptfach PO-Version 20192](master-of-science-medizintechnik-hauptfach-po-version-20192-14541641.md) — `exam:14541641`
 - [Master of Science Medizintechnik Hauptfach PO-Version 20222](master-of-science-medizintechnik-hauptfach-po-version-20222-14547163.md) — `exam:14547163`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Medizintechnik (B.Sc.)](../../../studiengang/medizintechnik-b-sc.md) — Bachelor of Science
+- [Medizintechnik (M.Sc.)](../../../studiengang/medizintechnik-m-sc.md) — Master of Science

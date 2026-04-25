@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Advanced Materials and Processes Hauptfach PO-Version 20192](master-of-science-advanced-materials-and-processes-hauptfach-po-version-20192-14424418.md) — `exam:14424418`
 - [Master of Science Advanced Materials and Processes Hauptfach PO-Version 20242](master-of-science-advanced-materials-and-processes-hauptfach-po-version-20242-14426110.md) — `exam:14426110`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Advanced Materials and Processes (M.Sc.)](../../../studiengang/advanced-materials-and-processes-m-sc.md) — Master of Science

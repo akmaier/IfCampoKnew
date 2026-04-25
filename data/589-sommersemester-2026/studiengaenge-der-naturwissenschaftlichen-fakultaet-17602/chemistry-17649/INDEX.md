@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Lecture Directory (under construction)](lecture-directory-under-construction-17754.md) — `title:17754`
 - [Module Directory](module-directory-17753.md) — `title:17753`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Chemistry (M.Sc.)](../../../studiengang/chemistry-m-sc.md) — Master of Science

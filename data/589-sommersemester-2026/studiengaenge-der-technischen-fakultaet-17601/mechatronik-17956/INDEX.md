@@ -19,3 +19,9 @@ period_name: "Sommersemester 2026"
 - [Master of Science Mechatronik Hauptfach PO-Version 20202](master-of-science-mechatronik-hauptfach-po-version-20202-14570326.md) — `exam:14570326`
 - [Master of Science Mechatronik Hauptfach PO-Version 20212](master-of-science-mechatronik-hauptfach-po-version-20212-14575621.md) — `exam:14575621`
 - [Master of Science Mechatronik Hauptfach PO-Version 20252](master-of-science-mechatronik-hauptfach-po-version-20252-14580947.md) — `exam:14580947`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Mechatronik (B.Sc.)](../../../studiengang/mechatronik-b-sc.md) — Bachelor of Science
+- [Mechatronik (M.Sc.)](../../../studiengang/mechatronik-m-sc.md) — Master of Science

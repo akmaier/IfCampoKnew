@@ -18,3 +18,9 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Elektrotechnik - Elektronik und Informationstechnik Hauptfach PO-Version 20232](bachelor-of-science-elektrotechnik-elektronik-und-informationstechnik-hauptfach-po-version-14653766.md) — `exam:14653766`
 - [Master of Science Elektrotechnik - Elektronik und Informationstechnik Hauptfach PO-Version 20151](master-of-science-elektrotechnik-elektronik-und-informationstechnik-hauptfach-po-version-20-14668397.md) — `exam:14668397`
 - [Master of Science Elektrotechnik - Elektronik und Informationstechnik Hauptfach PO-Version 20232](master-of-science-elektrotechnik-elektronik-und-informationstechnik-hauptfach-po-version-20-14658653.md) — `exam:14658653`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Elektrotechnik – Elektronik – Informationstechnik (B.Sc.)](../../../studiengang/elektrotechnik-elektronik-informationstechnik-b-sc.md) — Bachelor of Science
+- [Elektrotechnik – Elektronik – Informationstechnik (M.Sc.)](../../../studiengang/elektrotechnik-elektronik-informationstechnik-m-sc.md) — Master of Science

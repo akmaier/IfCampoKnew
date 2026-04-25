@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Science Molecular Medicine Hauptfach PO-Version 20162](master-of-science-molecular-medicine-hauptfach-po-version-20162-13859305.md) — `exam:13859305`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Molecular Medicine (M.Sc.)](../../../studiengang/molecular-medicine-m-sc.md) — Master of Science

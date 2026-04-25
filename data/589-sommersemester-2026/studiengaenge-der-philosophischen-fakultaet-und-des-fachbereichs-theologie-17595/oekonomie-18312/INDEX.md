@@ -16,3 +16,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Ökonomie 1. Fach PO-Version 20202](bachelor-of-arts-2-faecher-oekonomie-1-fach-po-version-20202-15138432.md) — `exam:15138432`
 - [Bachelor of Arts (2 Fächer) Ökonomie 2. Fach PO-Version 20142](bachelor-of-arts-2-faecher-oekonomie-2-fach-po-version-20142-15143360.md) — `exam:15143360`
 - [Bachelor of Arts (2 Fächer) Ökonomie 2. Fach PO-Version 20202](bachelor-of-arts-2-faecher-oekonomie-2-fach-po-version-20202-15144998.md) — `exam:15144998`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Ökonomie (B.A.)](../../../studiengang/oekonomie-b-a.md) — Bachelor of Arts

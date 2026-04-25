@@ -23,3 +23,9 @@ period_name: "Sommersemester 2026"
 - [Master of Arts Kunstgeschichte Hauptfach PO-Version 20201](master-of-arts-kunstgeschichte-hauptfach-po-version-20201-15678941.md) — `exam:15678941`
 - [Master of Arts Kunstgeschichte Hauptfach PO-Version 20232](master-of-arts-kunstgeschichte-hauptfach-po-version-20232-15677233.md) — `exam:15677233`
 - [Masterstudiengang](masterstudiengang-18379.md) — `title:18379`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Kunstgeschichte (B.A.)](../../../studiengang/kunstgeschichte-b-a.md) — Bachelor of Arts
+- [Kunstgeschichte (M.A.)](../../../studiengang/kunstgeschichte-m-a.md) — Master of Arts

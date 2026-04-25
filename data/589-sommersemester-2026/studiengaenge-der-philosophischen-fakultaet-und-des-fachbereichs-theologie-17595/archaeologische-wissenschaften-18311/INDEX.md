@@ -21,3 +21,9 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Archäologische Wissenschaften 2. Fach PO-Version 20242](bachelor-of-arts-2-faecher-archaeologische-wissenschaften-2-fach-po-version-20242-15661276.md) — `exam:15661276`
 - [Master of Arts Archäologische Wissenschaften Hauptfach PO-Version 20182](master-of-arts-archaeologische-wissenschaften-hauptfach-po-version-20182-15650933.md) — `exam:15650933`
 - [Master of Arts Archäologische Wissenschaften Hauptfach PO-Version 20201](master-of-arts-archaeologische-wissenschaften-hauptfach-po-version-20201-15652641.md) — `exam:15652641`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Archäologische Wissenschaften (B.A.)](../../../studiengang/archaeologische-wissenschaften-b-a.md) — Bachelor of Arts
+- [Archäologische Wissenschaften (M.A.)](../../../studiengang/archaeologische-wissenschaften-m-a.md) — Master of Arts

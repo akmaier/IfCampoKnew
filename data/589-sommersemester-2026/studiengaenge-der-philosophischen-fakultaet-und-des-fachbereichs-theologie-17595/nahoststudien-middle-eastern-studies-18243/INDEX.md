@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Nahoststudien (Middle Eastern Studies) Hauptfach PO-Version 20182](master-of-arts-nahoststudien-middle-eastern-studies-hauptfach-po-version-20182-15592978.md) — `exam:15592978`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Nahoststudien (M.A.)](../../../studiengang/nahoststudien-m-a.md) — Master of Arts

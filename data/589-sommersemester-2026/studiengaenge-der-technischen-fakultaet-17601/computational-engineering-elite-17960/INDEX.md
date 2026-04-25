@@ -13,3 +13,9 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Science Computational Engineering (Eliteprogramm) Hauptfach PO-Version 20162](master-of-science-computational-engineering-eliteprogramm-hauptfach-po-version-20162-14736868.md) — `exam:14736868`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Computational Engineering (B.Sc.)](../../../studiengang/computational-engineering-b-sc.md) — Bachelor of Science
+- [Computational Engineering (M.Sc.)](../../../studiengang/computational-engineering-m-sc.md) — Master of Science

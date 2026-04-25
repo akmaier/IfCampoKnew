@@ -18,3 +18,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Buchwissenschaft 2. Fach PO-Version 20192](bachelor-of-arts-2-faecher-buchwissenschaft-2-fach-po-version-20192-15100223.md) — `exam:15100223`
 - [Master of Arts Buchwissenschaft Hauptfach PO-Version 20192](master-of-arts-buchwissenschaft-hauptfach-po-version-20192-15103361.md) — `exam:15103361`
 - [Master of Arts Schriftmedienkultur und Digitale Transformation Hauptfach PO-Version 20232](master-of-arts-schriftmedienkultur-und-digitale-transformation-hauptfach-po-version-20232-15104927.md) — `exam:15104927`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Buchwissenschaft (B.A.)](../../../studiengang/buchwissenschaft-b-a.md) — Bachelor of Arts

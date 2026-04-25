@@ -20,3 +20,9 @@ period_name: "Sommersemester 2026"
 - [Bachelorstudiengang, 2. Fach](bachelorstudiengang-2-fach-18382.md) — `title:18382`
 - [M.A. Germanistik](m-a-germanistik-18383.md) — `title:18383`
 - [Masterstudiengang](masterstudiengang-18380.md) — `title:18380`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Germanistik (B.A.)](../../../studiengang/germanistik-b-a.md) — Bachelor of Arts
+- [Germanistik (M.A.)](../../../studiengang/germanistik-m-a.md) — Master of Arts

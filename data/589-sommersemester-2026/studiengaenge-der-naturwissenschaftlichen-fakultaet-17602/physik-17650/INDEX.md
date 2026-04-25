@@ -14,3 +14,11 @@ period_name: "Sommersemester 2026"
 
 - [Modulverzeichnis nach Studiengängen](modulverzeichnis-nach-studiengaengen-17715.md) — `title:17715`
 - [Vorlesungsverzeichnis](vorlesungsverzeichnis-17716.md) — `title:17716`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Physik (B.Sc.)](../../../studiengang/physik-b-sc.md) — Bachelor of Science
+
+**Prüfungsordnungen:**
+- [physik](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/INDEX.md) — `pruefungsordnungen/naturwissenschaftliche-fakultaet/physik`

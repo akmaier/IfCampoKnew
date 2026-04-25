@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Digitale Japanstudien Hauptfach PO-Version 20212](master-of-arts-digitale-japanstudien-hauptfach-po-version-20212-15596474.md) — `exam:15596474`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Digitale Japanstudien (M.A.)](../../../studiengang/digitale-japanstudien-m-a.md) — Master of Arts

@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Bachelor of Science Logopädie Hauptfach PO-Version 20162](bachelor-of-science-logopaedie-hauptfach-po-version-20162-13846950.md) — `exam:13846950`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Logopädie (B.Sc.)](../../../studiengang/logopaedie-b-sc.md) — Bachelor of Science

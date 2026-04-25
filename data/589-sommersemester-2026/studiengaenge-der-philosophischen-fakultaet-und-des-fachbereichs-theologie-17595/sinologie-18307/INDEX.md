@@ -18,3 +18,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Sinologie 2. Fach PO-Version 20172](bachelor-of-arts-2-faecher-sinologie-2-fach-po-version-20172-15062691.md) — `exam:15062691`
 - [Bachelor of Arts (2 Fächer) Sinologie 2. Fach PO-Version 20192](bachelor-of-arts-2-faecher-sinologie-2-fach-po-version-20192-15064274.md) — `exam:15064274`
 - [Bachelor of Arts (2 Fächer) Sinologie 2. Fach PO-Version 20232](bachelor-of-arts-2-faecher-sinologie-2-fach-po-version-20232-15065861.md) — `exam:15065861`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Sinologie (B.A.)](../../../studiengang/sinologie-b-a.md) — Bachelor of Arts

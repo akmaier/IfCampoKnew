@@ -16,3 +16,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) English and American Studies 1. Fach PO-Version 20202](bachelor-of-arts-2-faecher-english-and-american-studies-1-fach-po-version-20202-15426955.md) — `exam:15426955`
 - [Bachelor of Arts (2 Fächer) English and American Studies 2. Fach PO-Version 2009](bachelor-of-arts-2-faecher-english-and-american-studies-2-fach-po-version-2009-15430354.md) — `exam:15430354`
 - [Bachelor of Arts (2 Fächer) English and American Studies 2. Fach PO-Version 20202](bachelor-of-arts-2-faecher-english-and-american-studies-2-fach-po-version-20202-15432078.md) — `exam:15432078`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [English and American Studies (B.A.)](../../../studiengang/english-and-american-studies-b-a.md) — Bachelor of Arts

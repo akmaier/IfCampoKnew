@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Economics Hauptfach PO-Version 20212](master-of-science-economics-hauptfach-po-version-20212-14020293.md) — `exam:14020293`
 - [Master of Science Economics Hauptfach PO-Version 20252](master-of-science-economics-hauptfach-po-version-20252-14024051.md) — `exam:14024051`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Economics (M.Sc.)](../../../studiengang/economics-m-sc.md) — Master of Science

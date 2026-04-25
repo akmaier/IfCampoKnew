@@ -26,3 +26,9 @@ period_name: "Sommersemester 2026"
 - [Master of Science Wirtschaftsingenieurwesen Maschinenbau Hauptfach PO-Version 20251](master-of-science-wirtschaftsingenieurwesen-maschinenbau-hauptfach-po-version-20251-14507109.md) — `exam:14507109`
 - [Studienrichtung Elektrotechnik:](studienrichtung-elektrotechnik-17971.md) — `title:17971`
 - [Studienrichtung Maschinenbau:](studienrichtung-maschinenbau-17970.md) — `title:17970`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Wirtschaftsingenieurwesen (B.Sc.)](../../../studiengang/wirtschaftsingenieurwesen-b-sc.md) — Bachelor of Science
+- [Wirtschaftsingenieurwesen (M.Sc.)](../../../studiengang/wirtschaftsingenieurwesen-m-sc.md) — Master of Science

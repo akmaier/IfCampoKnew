@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Staatsexamen Medizin Hauptfach PO-Version 1](staatsexamen-medizin-hauptfach-po-version-1-13855543.md) — `exam:13855543`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Medizin (Staatsexamen)](../../../studiengang/medizin-staatsexamen.md) — Staatsexamen (außer Lehramt)

@@ -27,3 +27,9 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Soziologie 2. Fach PO-Version 20192](bachelor-of-arts-2-faecher-soziologie-2-fach-po-version-20192-14995789.md) — `exam:14995789`
 - [Master of Arts Soziologie Hauptfach PO-Version 20172](master-of-arts-soziologie-hauptfach-po-version-20172-15001469.md) — `exam:15001469`
 - [Master Soziologie](master-soziologie-18335.md) — `title:18335`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Soziologie (B.A.)](../../../studiengang/soziologie-b-a.md) — Bachelor of Arts
+- [Soziologie (M.A.)](../../../studiengang/soziologie-m-a.md) — Master of Arts

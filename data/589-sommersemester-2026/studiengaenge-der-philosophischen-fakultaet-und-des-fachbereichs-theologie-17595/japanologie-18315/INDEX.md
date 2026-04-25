@@ -18,3 +18,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Japanologie 2. Fach PO-Version 20182](bachelor-of-arts-2-faecher-japanologie-2-fach-po-version-20182-15418786.md) — `exam:15418786`
 - [Bachelor of Arts (2 Fächer) Japanologie 2. Fach PO-Version 20212](bachelor-of-arts-2-faecher-japanologie-2-fach-po-version-20212-15420365.md) — `exam:15420365`
 - [Bachelor of Arts (2 Fächer) Japanologie 2. Fach PO-Version 20232](bachelor-of-arts-2-faecher-japanologie-2-fach-po-version-20232-15421951.md) — `exam:15421951`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Japanologie (B.A.)](../../../studiengang/japanologie-b-a.md) — Bachelor of Arts

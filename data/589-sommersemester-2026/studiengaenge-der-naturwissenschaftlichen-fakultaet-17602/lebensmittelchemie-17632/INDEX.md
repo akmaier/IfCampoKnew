@@ -15,3 +15,8 @@ period_name: "Sommersemester 2026"
 - [Grundstudium](grundstudium-17923.md) — `title:17923`
 - [Hauptstudium](hauptstudium-17922.md) — `title:17922`
 - [Staatsexamen Lebensmittelchemie Hauptfach PO-Version 1](staatsexamen-lebensmittelchemie-hauptfach-po-version-1-14194279.md) — `exam:14194279`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Lebensmittelchemie (Staatsexamen)](../../../studiengang/lebensmittelchemie-staatsexamen.md) — Staatsexamen (außer Lehramt)

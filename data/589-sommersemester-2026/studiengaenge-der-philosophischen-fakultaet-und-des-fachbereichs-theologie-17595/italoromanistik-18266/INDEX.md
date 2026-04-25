@@ -16,3 +16,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Italoromanistik 1. Fach PO-Version 20212](bachelor-of-arts-2-faecher-italoromanistik-1-fach-po-version-20212-15202687.md) — `exam:15202687`
 - [Bachelor of Arts (2 Fächer) Italoromanistik 2. Fach PO-Version 20172](bachelor-of-arts-2-faecher-italoromanistik-2-fach-po-version-20172-15214122.md) — `exam:15214122`
 - [Bachelor of Arts (2 Fächer) Italoromanistik 2. Fach PO-Version 20212](bachelor-of-arts-2-faecher-italoromanistik-2-fach-po-version-20212-15212476.md) — `exam:15212476`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Italoromanistik (B.A.)](../../../studiengang/italoromanistik-b-a.md) — Bachelor of Arts

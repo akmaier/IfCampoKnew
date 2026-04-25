@@ -16,3 +16,9 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Wirtschaftsmathematik Hauptfach PO-Version 20261](bachelor-of-science-wirtschaftsmathematik-hauptfach-po-version-20261-15884135.md) — `exam:15884135`
 - [Master of Science Wirtschaftsmathematik Hauptfach PO-Version 20192](master-of-science-wirtschaftsmathematik-hauptfach-po-version-20192-14148750.md) — `exam:14148750`
 - [Master of Science Wirtschaftsmathematik Hauptfach PO-Version 20261](master-of-science-wirtschaftsmathematik-hauptfach-po-version-20261-15882590.md) — `exam:15882590`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Wirtschaftsmathematik (B.Sc.)](../../../studiengang/wirtschaftsmathematik-b-sc.md) — Bachelor of Science
+- [Wirtschaftsmathematik (M.Sc.)](../../../studiengang/wirtschaftsmathematik-m-sc.md) — Master of Science

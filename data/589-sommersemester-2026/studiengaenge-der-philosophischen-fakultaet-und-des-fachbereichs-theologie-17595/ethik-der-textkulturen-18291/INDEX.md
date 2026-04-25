@@ -20,3 +20,8 @@ period_name: "Sommersemester 2026"
 - [M2: Hermeneutik und Fremdverstehen](m2-hermeneutik-und-fremdverstehen-18343.md) — `title:18343`
 - [M3: Narrativität und Normativität](m3-narrativitaet-und-normativitaet-18339.md) — `title:18339`
 - [Master of Arts Ethik der Textkulturen Hauptfach PO-Version 20192](master-of-arts-ethik-der-textkulturen-hauptfach-po-version-20192-15308187.md) — `exam:15308187`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Ethik der Textkulturen (M.A.)](../../../studiengang/ethik-der-textkulturen-m-a.md) — Master of Arts

@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Integrated Immunology Hauptfach PO-Version 20182](master-of-science-integrated-immunology-hauptfach-po-version-20182-14245841.md) — `exam:14245841`
 - [Master of Science Integrated Immunology Hauptfach PO-Version 20222](master-of-science-integrated-immunology-hauptfach-po-version-20222-14248907.md) — `exam:14248907`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Integrated Immunology (M.Sc.)](../../../studiengang/integrated-immunology-m-sc.md) — Master of Science

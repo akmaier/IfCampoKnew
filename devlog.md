@@ -450,5 +450,49 @@ Acknowledged but **deferred to Entry 0008** so this entry could close with a cle
 
 **Status:** paused mid-flow; the data captured before the kill is being committed and pushed so nothing is lost.
 
+---
+
+## Entry 0009 — Cross-link Campo ↔ FAU.de
+
+- **Start:** 2026-04-25 20:54 CEST
+- **End:** 2026-04-25 21:08 CEST
+- **Duration:** ~14 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context)
+
+**Prompt (verbatim):**
+
+> We now have more tokens: they refreshed. Please continue working on the plan.
+
+**Plan:**
+
+1. Survey the existing `data/studiengang/` and `data/pruefungsordnungen/` markdown frontmatter to know what to match on.
+2. Extend `render_markdown.py` with a small linker:
+   - Load a FAU index at startup (slug → title/abschluss/fakultät for studiengang; folder leaf → relative path for PO landings).
+   - For each Campo program-level node (`title:NNN` at depth 3), find FAU studiengang slugs whose pre-degree base equals the slugified Campo name; find PO landing folders whose leaf name matches.
+   - Inject a "Verwandte FAU-Inhalte" section into the program's `INDEX.md` with relative-path links.
+3. Re-render the Campo corpus from the existing `tmp/589.json` + `tmp/589-courses.json`.
+4. Verify a sample (e.g. Tech Fak / Informatik program node).
+5. Commit + push.
+
+PO-version-level matching (Campo `exam:NNN` → specific PDF by version year) is intentionally deferred — needs filename year-parsing and is a follow-up.
+
+**Actions:**
+
+1. Surveyed existing FAU markdowns: Studiengang has rich front-matter (`title`, `abschluss`, `fakultät`, `unterrichtssprache` …); Prüfungsordnungen documents have `kind`, `title`, `pdf_source`, `parent_landing`. Folder layout `pruefungsordnungen/{faculty}/{program}/` mirrors fau.de.
+2. Extended `scraper/render_markdown.py` with: `_parse_frontmatter()` (no PyYAML dep), `_strip_degree_suffix()` (drops `-b-sc`, `-m-sc`, `-staatsexamen` …), `load_fau_index()` (builds slug → entries lookup at render time), `_find_related_fau()`, `_relative_link_from()`, `_related_fau_section()`.
+3. Wired the linker into `render_corpus`: program-level Campo nodes (depth 3, `title:NNN`) get a "Verwandte FAU-Inhalte" section before INDEX.md is written, listing matching Studiengang pages and PO landing folders with relative links.
+4. First render: **118 fau_links** out of 235 program nodes (≈50 %). Spot-checked Informatik (linked to `informatik-b-sc.md` + `informatik-m-sc.md`) and AI (linked to AI Bachelor + Master) — clean.
+5. Inspected unmatched cases — Elektrotechnik mismatched because Campo writes "Elektronik und Informationstechnik" (with "und") and FAU drops the connector. Added `_candidate_slugs()` that also tries slug variants with parenthetical qualifiers stripped (e.g. "(Elite)") and connector words (`und`, `and`, `or`, `oder`, `mit`, `in`, `im`, `of`, …) removed. Match count rose to **123 fau_links**; Elektrotechnik B.Sc./M.Sc. now linked.
+6. Re-ran the existing pytest suite (15 cases) — all green.
+7. Commit + push.
+
+**Key design points worth noting:**
+
+- The linker reads `data/studiengang/` and `data/pruefungsordnungen/` *at render time* — no separate `links.json`, no extra build step. If either of those corpora is missing on the disk where rendering runs, links are simply skipped (graceful degradation).
+- Cross-links are added as a final block in the program-level `INDEX.md`, *after* the existing children list, so the existing flow is undisturbed.
+- Match strategy is intentionally coarse (slug-equality on the pre-degree base name); it favours precision over recall, leaving the harder cases ("Wirtschaftsinformatik", "Computational Engineering (Elite)") to a future iteration.
+
+**Status:** Entry 0009 closes the cross-linking task. Roadmap items still pending: full-depth catalogue walk (capture Tech/Nat/Med/RW Fak courses below depth 4 — best left to the GH Action), F-TOKEN bucket policy.
+
 
 

@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Bachelor of Arts (2 Fächer) Öffentliches Recht 2. Fach PO-Version 20162](bachelor-of-arts-2-faecher-oeffentliches-recht-2-fach-po-version-20162-13904326.md) — `exam:13904326`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Öffentliches Recht (B.A.)](../../../studiengang/oeffentliches-recht-b-a.md) — Bachelor of Arts

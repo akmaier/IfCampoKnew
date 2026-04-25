@@ -21,3 +21,9 @@ period_name: "Sommersemester 2026"
 - [Erweiterungsprüfung Mittelschule Islamischer Unterricht Hauptfach PO-Version 20152](erweiterungspruefung-mittelschule-islamischer-unterricht-hauptfach-po-version-20152-15493188.md) — `exam:15493188`
 - [Erweiterungsprüfung Realschule Islamischer Unterricht Hauptfach PO-Version 20152](erweiterungspruefung-realschule-islamischer-unterricht-hauptfach-po-version-20152-15494739.md) — `exam:15494739`
 - [Master of Arts Islamisch-Religiöse Studien Hauptfach PO-Version 20192](master-of-arts-islamisch-religioese-studien-hauptfach-po-version-20192-15490061.md) — `exam:15490061`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Islamisch-Religiöse Studien (B.A.)](../../../studiengang/islamisch-religioese-studien-b-a.md) — Bachelor of Arts
+- [Islamisch-Religiöse Studien (M.A.)](../../../studiengang/islamisch-religioese-studien-m-a.md) — Master of Arts

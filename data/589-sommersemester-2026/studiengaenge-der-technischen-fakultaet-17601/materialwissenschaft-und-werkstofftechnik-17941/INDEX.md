@@ -17,3 +17,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Materialwissenschaft und Werkstofftechnik Hauptfach PO-Version 20232](bachelor-of-science-materialwissenschaft-und-werkstofftechnik-hauptfach-po-version-20232-14396107.md) — `exam:14396107`
 - [Master of Science Materialwissenschaft und Werkstofftechnik Hauptfach PO-Version 2010](master-of-science-materialwissenschaft-und-werkstofftechnik-hauptfach-po-version-2010-14391319.md) — `exam:14391319`
 - [Master of Science Materialwissenschaft und Werkstofftechnik Hauptfach PO-Version 20202](master-of-science-materialwissenschaft-und-werkstofftechnik-hauptfach-po-version-20202-14393664.md) — `exam:14393664`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Materialwissenschaft und Werkstofftechnik (B.Sc.)](../../../studiengang/materialwissenschaft-und-werkstofftechnik-b-sc.md) — Bachelor of Science

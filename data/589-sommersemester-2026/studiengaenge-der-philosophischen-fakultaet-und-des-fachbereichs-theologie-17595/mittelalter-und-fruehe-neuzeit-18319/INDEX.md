@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Mittelalter und Frühe Neuzeit Hauptfach PO-Version 20172](master-of-arts-mittelalter-und-fruehe-neuzeit-hauptfach-po-version-20172-15070834.md) — `exam:15070834`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Mittelalter und Frühe Neuzeit (M.A.)](../../../studiengang/mittelalter-und-fruehe-neuzeit-m-a.md) — Master of Arts

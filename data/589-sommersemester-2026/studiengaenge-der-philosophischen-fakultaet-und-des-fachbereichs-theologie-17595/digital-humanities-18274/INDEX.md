@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Arts Digital Humanities Hauptfach PO-Version 20192](master-of-arts-digital-humanities-hauptfach-po-version-20192-15112064.md) — `exam:15112064`
 - [Master of Arts Digital Humanities Hauptfach PO-Version 20252](master-of-arts-digital-humanities-hauptfach-po-version-20252-15113734.md) — `exam:15113734`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Digital Humanities (M.A.)](../../../studiengang/digital-humanities-m-a.md) — Master of Arts

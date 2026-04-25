@@ -15,3 +15,9 @@ period_name: "Sommersemester 2026"
 - [Lecture Directory M.Sc. Molecular Science ( under construction)](lecture-directory-m-sc-molecular-science-under-construction-17869.md) — `title:17869`
 - [Modulverzeichnis nach Studiengängen / Module directory](modulverzeichnis-nach-studiengaengen-module-directory-17868.md) — `title:17868`
 - [Vorlesungsverzeichnis B.Sc. Molecular Science nach Semestern (PO 2020)](vorlesungsverzeichnis-b-sc-molecular-science-nach-semestern-po-2020-17870.md) — `title:17870`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Molecular Science (B.Sc.)](../../../studiengang/molecular-science-b-sc.md) — Bachelor of Science
+- [Molecular Science (M.Sc.)](../../../studiengang/molecular-science-m-sc.md) — Master of Science

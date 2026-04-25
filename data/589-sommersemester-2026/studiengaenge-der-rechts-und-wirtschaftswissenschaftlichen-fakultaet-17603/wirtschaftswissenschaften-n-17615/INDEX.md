@@ -18,3 +18,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (1 Fach) Wirtschaftswissenschaften Hauptfach PO-Version 20222](bachelor-of-arts-1-fach-wirtschaftswissenschaften-hauptfach-po-version-20222-13982353.md) — `exam:13982353`
 - [Bachelor of Arts (1 Fach) Wirtschaftswissenschaften Hauptfach PO-Version 20232](bachelor-of-arts-1-fach-wirtschaftswissenschaften-hauptfach-po-version-20232-13991236.md) — `exam:13991236`
 - [Bachelor of Arts (1 Fach) Wirtschaftswissenschaften Hauptfach PO-Version 20252](bachelor-of-arts-1-fach-wirtschaftswissenschaften-hauptfach-po-version-20252-14000112.md) — `exam:14000112`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Wirtschaftswissenschaften (B.A.)](../../../studiengang/wirtschaftswissenschaften-b-a.md) — Bachelor of Arts

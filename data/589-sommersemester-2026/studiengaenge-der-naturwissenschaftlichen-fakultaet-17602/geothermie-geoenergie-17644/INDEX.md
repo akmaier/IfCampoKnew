@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science GeoThermie/GeoEnergie Hauptfach PO-Version 20172](master-of-science-geothermie-geoenergie-hauptfach-po-version-20172-14275752.md) — `exam:14275752`
 - [Master of Science GeoThermie/GeoEnergie Hauptfach PO-Version 20261](master-of-science-geothermie-geoenergie-hauptfach-po-version-20261-15800936.md) — `exam:15800936`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [GeoThermie/GeoEnergie (M.Sc.)](../../../studiengang/geothermie-geoenergie-m-sc.md) — Master of Science

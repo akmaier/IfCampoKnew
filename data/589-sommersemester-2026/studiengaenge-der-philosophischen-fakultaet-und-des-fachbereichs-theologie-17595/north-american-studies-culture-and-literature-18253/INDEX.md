@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Arts North American Studies: Culture and Literature Hauptfach PO-Version 20162](master-of-arts-north-american-studies-culture-and-literature-hauptfach-po-version-20162-15158520.md) — `exam:15158520`
 - [Master of Arts North American Studies: Culture and Literature Hauptfach PO-Version 20212](master-of-arts-north-american-studies-culture-and-literature-hauptfach-po-version-20212-15160134.md) — `exam:15160134`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [North American Studies: Culture and Literature (M.A.)](../../../studiengang/north-american-studies-culture-and-literature-m-a.md) — Master of Arts

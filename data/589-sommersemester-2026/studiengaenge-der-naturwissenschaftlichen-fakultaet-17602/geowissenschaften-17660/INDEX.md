@@ -19,3 +19,10 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Geowissenschaften Hauptfach PO-Version 20252](bachelor-of-science-geowissenschaften-hauptfach-po-version-20252-14185131.md) — `exam:14185131`
 - [Master of Science Geowissenschaften Hauptfach PO-Version 20202](master-of-science-geowissenschaften-hauptfach-po-version-20202-14192158.md) — `exam:14192158`
 - [Zusatzstudien Geowissenschaften im Lehramt Hauptfach PO-Version 20182](zusatzstudien-geowissenschaften-im-lehramt-hauptfach-po-version-20182-14194263.md) — `exam:14194263`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Geowissenschaften (B.Sc.)](../../../studiengang/geowissenschaften-b-sc.md) — Bachelor of Science
+- [Geowissenschaften (M.Sc.)](../../../studiengang/geowissenschaften-m-sc.md) — Master of Science
+- [Geowissenschaften (Zertifikat)](../../../studiengang/geowissenschaften-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)

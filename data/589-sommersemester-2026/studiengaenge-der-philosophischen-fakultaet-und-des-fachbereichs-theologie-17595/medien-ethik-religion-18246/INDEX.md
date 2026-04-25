@@ -15,3 +15,8 @@ period_name: "Sommersemester 2026"
 - [Master of Arts Medien-Ethik-Religion Hauptfach PO-Version 20182](master-of-arts-medien-ethik-religion-hauptfach-po-version-20182-15629256.md) — `exam:15629256`
 - [Master of Arts Medien-Ethik-Religion Hauptfach PO-Version 20202](master-of-arts-medien-ethik-religion-hauptfach-po-version-20202-15627596.md) — `exam:15627596`
 - [Master of Arts Medien-Ethik-Religion Hauptfach PO-Version 20242](master-of-arts-medien-ethik-religion-hauptfach-po-version-20242-15625992.md) — `exam:15625992`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Medien, Ethik, Religion (M.A.)](../../../studiengang/medien-ethik-religion-m-a.md) — Master of Arts

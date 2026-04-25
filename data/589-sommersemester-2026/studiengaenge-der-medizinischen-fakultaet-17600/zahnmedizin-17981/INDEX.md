@@ -15,3 +15,8 @@ period_name: "Sommersemester 2026"
 - [- Extracurriculare Veranstaltungen der Zahnmedizin -](extracurriculare-veranstaltungen-der-zahnmedizin-13855530.md) — `exam:13855530`
 - [Staatsexamen Zahnmedizin Hauptfach PO-Version 1](staatsexamen-zahnmedizin-hauptfach-po-version-1-13851681.md) — `exam:13851681`
 - [Staatsexamen Zahnmedizin Hauptfach PO-Version 20212](staatsexamen-zahnmedizin-hauptfach-po-version-20212-13853463.md) — `exam:13853463`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Zahnmedizin (Staatsexamen)](../../../studiengang/zahnmedizin-staatsexamen.md) — Staatsexamen (außer Lehramt)

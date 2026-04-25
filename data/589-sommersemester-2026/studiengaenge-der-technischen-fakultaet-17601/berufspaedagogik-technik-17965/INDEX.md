@@ -25,3 +25,9 @@ period_name: "Sommersemester 2026"
 - [Master of Science Berufspädagogik Technik Elektrotechnik und Informationstechnik Hauptfach PO-Version 20222](master-of-science-berufspaedagogik-technik-elektrotechnik-und-informationstechnik-hauptfach-14774894.md) — `exam:14774894`
 - [Master of Science Berufspädagogik Technik Informatik Hauptfach PO-Version 20252](master-of-science-berufspaedagogik-technik-informatik-hauptfach-po-version-20252-14815924.md) — `exam:14815924`
 - [Master of Science Berufspädagogik Technik Metalltechnik Hauptfach PO-Version 20222](master-of-science-berufspaedagogik-technik-metalltechnik-hauptfach-po-version-20222-14778686.md) — `exam:14778686`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Berufspädagogik Technik (B.Sc.)](../../../studiengang/berufspaedagogik-technik-b-sc.md) — Bachelor of Science
+- [Berufspädagogik Technik (M.Sc.)](../../../studiengang/berufspaedagogik-technik-m-sc.md) — Master of Science

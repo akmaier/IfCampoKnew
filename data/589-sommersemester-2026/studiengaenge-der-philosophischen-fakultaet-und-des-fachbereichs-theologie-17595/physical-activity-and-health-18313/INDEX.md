@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Physical Activity and Health Hauptfach PO-Version 20192](master-of-arts-physical-activity-and-health-hauptfach-po-version-20192-15282374.md) — `exam:15282374`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Physical Activity and Health (M.A.)](../../../studiengang/physical-activity-and-health-m-a.md) — Master of Arts

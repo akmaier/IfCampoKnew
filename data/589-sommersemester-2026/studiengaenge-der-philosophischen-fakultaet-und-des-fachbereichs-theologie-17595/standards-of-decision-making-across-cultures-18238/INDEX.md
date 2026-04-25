@@ -15,3 +15,8 @@ period_name: "Sommersemester 2026"
 - [Master of Arts Standards of Decision-Making Across Cultures Hauptfach PO-Version 20172](master-of-arts-standards-of-decision-making-across-cultures-hauptfach-po-version-20172-15509433.md) — `exam:15509433`
 - [Master of Arts Standards of Decision-Making Across Cultures Hauptfach PO-Version 20222](master-of-arts-standards-of-decision-making-across-cultures-hauptfach-po-version-20222-15510983.md) — `exam:15510983`
 - [Master of Arts Standards of Decision-Making Across Cultures Hauptfach PO-Version 20242](master-of-arts-standards-of-decision-making-across-cultures-hauptfach-po-version-20242-15512559.md) — `exam:15512559`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Standards of Decision-Making Across Cultures (M.A.)](../../../studiengang/standards-of-decision-making-across-cultures-m-a.md) — Master of Arts

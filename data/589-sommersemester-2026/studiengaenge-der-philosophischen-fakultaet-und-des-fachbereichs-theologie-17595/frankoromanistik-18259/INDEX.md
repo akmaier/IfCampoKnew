@@ -18,3 +18,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Frankoromanistik 2. Fach PO-Version 20142](bachelor-of-arts-2-faecher-frankoromanistik-2-fach-po-version-20142-15267579.md) — `exam:15267579`
 - [Bachelor of Arts (2 Fächer) Frankoromanistik 2. Fach PO-Version 20172](bachelor-of-arts-2-faecher-frankoromanistik-2-fach-po-version-20172-15265973.md) — `exam:15265973`
 - [Bachelor of Arts (2 Fächer) Frankoromanistik 2. Fach PO-Version 20212](bachelor-of-arts-2-faecher-frankoromanistik-2-fach-po-version-20212-15264311.md) — `exam:15264311`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Frankoromanistik (B.A.)](../../../studiengang/frankoromanistik-b-a.md) — Bachelor of Arts

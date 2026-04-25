@@ -15,3 +15,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Kulturgeschichte des Christentums 1. Fach PO-Version 2011](bachelor-of-arts-2-faecher-kulturgeschichte-des-christentums-1-fach-po-version-2011-15598205.md) — `exam:15598205`
 - [Bachelor of Arts (2 Fächer) Kulturgeschichte des Christentums 1. Fach PO-Version 20182](bachelor-of-arts-2-faecher-kulturgeschichte-des-christentums-1-fach-po-version-20182-15601488.md) — `exam:15601488`
 - [Bachelor of Arts (2 Fächer) Kulturgeschichte des Christentums 2. Fach PO-Version 20182](bachelor-of-arts-2-faecher-kulturgeschichte-des-christentums-2-fach-po-version-20182-15606439.md) — `exam:15606439`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Kulturgeschichte des Christentums (B.A.)](../../../studiengang/kulturgeschichte-des-christentums-b-a.md) — Bachelor of Arts

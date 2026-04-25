@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Theater - Forschung - Vermittlung Hauptfach PO-Version 20202](master-of-arts-theater-forschung-vermittlung-hauptfach-po-version-20202-15608107.md) — `exam:15608107`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Theater – Forschung – Vermittlung (M.A.)](../../../studiengang/theater-forschung-vermittlung-m-a.md) — Master of Arts

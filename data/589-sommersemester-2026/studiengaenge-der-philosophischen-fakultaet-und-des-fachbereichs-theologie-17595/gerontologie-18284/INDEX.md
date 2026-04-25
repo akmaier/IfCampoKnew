@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Gerontologie Hauptfach PO-Version 2010](master-of-science-gerontologie-hauptfach-po-version-2010-14936890.md) — `exam:14936890`
 - [Master of Science Gerontologie Hauptfach PO-Version 20172](master-of-science-gerontologie-hauptfach-po-version-20172-14935281.md) — `exam:14935281`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Gerontologie (M.Sc.)](../../../studiengang/gerontologie-m-sc.md) — Master of Science

@@ -16,3 +16,9 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science International Business Studies Hauptfach PO-Version 20202](bachelor-of-science-international-business-studies-hauptfach-po-version-20202-14120270.md) — `exam:14120270`
 - [Master of Science International Business Studies Hauptfach PO-Version 20172](master-of-science-international-business-studies-hauptfach-po-version-20172-14125327.md) — `exam:14125327`
 - [Master of Science International Business Studies Hauptfach PO-Version 20252](master-of-science-international-business-studies-hauptfach-po-version-20252-14127937.md) — `exam:14127937`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [International Business Studies (B.Sc.)](../../../studiengang/international-business-studies-b-sc.md) — Bachelor of Science
+- [International Business Studies (M.Sc.)](../../../studiengang/international-business-studies-m-sc.md) — Master of Science

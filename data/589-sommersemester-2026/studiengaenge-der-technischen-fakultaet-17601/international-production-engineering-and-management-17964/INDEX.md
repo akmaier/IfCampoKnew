@@ -19,3 +19,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science International Production Engineering and Management Hauptfach PO-Version 20222 (Studienbeginn WiSe)](bachelor-of-science-international-production-engineering-and-management-hauptfach-po-versio-14413480.md) — `exam:14413480`
 - [Bachelor of Science International Production Engineering and Management Hauptfach PO-Version 20231 (Studienbeginn SoSe)](bachelor-of-science-international-production-engineering-and-management-hauptfach-po-versio-14417130.md) — `exam:14417130`
 - [Bachelor of Science International Production Engineering and Management Hauptfach PO-Version 20251](bachelor-of-science-international-production-engineering-and-management-hauptfach-po-versio-14420780.md) — `exam:14420780`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [International Production Engineering and Management (B.Sc.)](../../../studiengang/international-production-engineering-and-management-b-sc.md) — Bachelor of Science

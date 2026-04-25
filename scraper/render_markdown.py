@@ -39,6 +39,16 @@ CATALOG_URL = (
     "?_flowId=showCourseCatalog-flow"
 )
 
+# Slug suffixes the FAU.de Studiengang URLs use to encode the degree.
+# A Campo program "Informatik" (one node) maps to several FAU slugs like
+# "informatik-b-sc", "informatik-m-sc", "informatik-it-sicherheit-b-sc".
+_DEGREE_SUFFIXES = (
+    "-b-a", "-b-sc", "-b-ed",
+    "-m-a", "-m-sc", "-m-ed", "-m-eng",
+    "-staatsexamen", "-zertifikat", "-magister", "-promotion",
+    "-diplom", "-erweiterungsstudium",
+)
+
 
 # ── slug helpers ────────────────────────────────────────────────────────────
 
@@ -295,6 +305,160 @@ def render_leaf_md(node: dict, period_id: int, period_name: str) -> str:
 # ── render the whole snapshot ───────────────────────────────────────────────
 
 
+_FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
+_FM_LINE_RE = re.compile(r'^([\w_\-]+):\s*"?([^"\n]*?)"?\s*$', re.MULTILINE)
+
+
+def _parse_frontmatter(path: Path) -> dict:
+    """Lightweight YAML front-matter reader (no PyYAML dependency)."""
+    try:
+        head = path.read_text(encoding="utf-8")[:2000]
+    except OSError:
+        return {}
+    m = _FRONT_MATTER_RE.match(head)
+    if not m:
+        return {}
+    return {k: v.strip() for k, v in _FM_LINE_RE.findall(m.group(1))}
+
+
+def _strip_degree_suffix(slug: str) -> str:
+    for sfx in _DEGREE_SUFFIXES:
+        if slug.endswith(sfx):
+            return slug[: -len(sfx)]
+    return slug
+
+
+def load_fau_index(out_root: Path) -> dict:
+    """Build a small lookup of the FAU.de markdowns alongside the Campo corpus.
+
+    Returns a dict with two indexes keyed by *slugified base name*:
+      * ``studiengang``: name → list of {slug, title, fakultaet, rel_path}
+      * ``po_folders``:   name → list of {rel_dir, name (faculty/program)}
+    """
+    studiengang_by_base: dict[str, list[dict]] = {}
+    sg_dir = out_root / "studiengang"
+    if sg_dir.is_dir():
+        for f in sorted(sg_dir.glob("*.md")):
+            if f.name == "INDEX.md":
+                continue
+            base = _strip_degree_suffix(f.stem)
+            fm = _parse_frontmatter(f)
+            studiengang_by_base.setdefault(base, []).append(
+                {
+                    "slug": f.stem,
+                    "title": fm.get("title", f.stem),
+                    "fakultaet": fm.get("fakultät", ""),
+                    "abschluss": fm.get("abschluss", ""),
+                    "rel_path": f.relative_to(out_root).as_posix(),
+                }
+            )
+
+    po_folders_by_leaf: dict[str, list[dict]] = {}
+    po_dir = out_root / "pruefungsordnungen"
+    if po_dir.is_dir():
+        for index_md in sorted(po_dir.rglob("INDEX.md")):
+            folder = index_md.parent
+            if folder == po_dir:
+                continue  # skip the root /pruefungsordnungen/INDEX.md itself
+            leaf = folder.name
+            po_folders_by_leaf.setdefault(leaf, []).append(
+                {
+                    "leaf": leaf,
+                    "rel_dir": folder.relative_to(out_root).as_posix(),
+                    "rel_index": index_md.relative_to(out_root).as_posix(),
+                }
+            )
+
+    return {
+        "studiengang": studiengang_by_base,
+        "po_folders": po_folders_by_leaf,
+    }
+
+
+def _candidate_slugs(name: str) -> list[str]:
+    """Several normalised slug variants to try when matching Campo → FAU.
+
+    Campo and FAU.de don't always agree on connectors and qualifiers — e.g.
+    *"Elektrotechnik - Elektronik und Informationstechnik"* on Campo vs the
+    FAU slug *"elektrotechnik-elektronik-informationstechnik-b-sc"* (no
+    *und*). We try the literal slug, then progressively-cleaned variants.
+    """
+    base = re.sub(r"\([^)]*\)", "", name).strip()  # drop "(Elite)" etc.
+    candidates = [slugify(name), slugify(base)]
+    # Drop common connector tokens that vary between sources.
+    for cand in list(candidates):
+        cleaned = re.sub(r"-(?:und|and|or|oder|with|mit|in|im|of|der|die|das|the|the)-", "-", cand)
+        if cleaned != cand:
+            candidates.append(cleaned)
+    # de-dupe, preserve order
+    seen: set[str] = set()
+    out: list[str] = []
+    for c in candidates:
+        if c and c not in seen:
+            seen.add(c)
+            out.append(c)
+    return out
+
+
+def _find_related_fau(node: dict, fau_index: dict) -> dict:
+    """For a Campo program-level node, find matching FAU.de entries."""
+    studiengang: list[dict] = []
+    po_folders: list[dict] = []
+    seen_sg: set[str] = set()
+    seen_po: set[str] = set()
+    for cand in _candidate_slugs(node["name"]):
+        for sg in fau_index["studiengang"].get(cand, []):
+            if sg["slug"] in seen_sg:
+                continue
+            seen_sg.add(sg["slug"])
+            studiengang.append(sg)
+        for po in fau_index["po_folders"].get(cand, []):
+            if po["rel_dir"] in seen_po:
+                continue
+            seen_po.add(po["rel_dir"])
+            po_folders.append(po)
+    return {"studiengang": studiengang, "po_folders": po_folders}
+
+
+def _relative_link_from(md_file: Path, target_rel_in_root: str, out_root: Path) -> str:
+    """Posix relative path from *md_file*'s folder to ``out_root/target``."""
+    target = out_root / target_rel_in_root
+    rel = Path(target).resolve().relative_to(Path(out_root).resolve())
+    # Compute relative from md_file's parent to target
+    src_parent = md_file.parent.resolve()
+    target_abs = target.resolve()
+    try:
+        return str(target_abs.relative_to(src_parent)).replace("\\", "/")
+    except ValueError:
+        # Need to walk up
+        from os.path import relpath
+        return relpath(target_abs, src_parent).replace("\\", "/")
+
+
+def _related_fau_section(node: dict, fau_index: dict, md_file: Path, out_root: Path) -> str:
+    """Render the 'Verwandte FAU-Inhalte' block for a program node, or ''."""
+    rel = _find_related_fau(node, fau_index)
+    if not rel["studiengang"] and not rel["po_folders"]:
+        return ""
+    lines: list[str] = ["## Verwandte FAU-Inhalte"]
+    if rel["studiengang"]:
+        lines.append("")
+        lines.append("**Studiengangsseite(n):**")
+        for sg in rel["studiengang"]:
+            link = _relative_link_from(md_file, sg["rel_path"], out_root)
+            note = sg.get("abschluss") or sg.get("fakultaet") or ""
+            tail = f" — {note}" if note else ""
+            lines.append(f"- [{sg['title']}]({link}){tail}")
+    if rel["po_folders"]:
+        lines.append("")
+        lines.append("**Prüfungsordnungen:**")
+        for po in rel["po_folders"]:
+            link = _relative_link_from(md_file, po["rel_index"], out_root)
+            lines.append(f"- [{po['leaf']}]({link}) — `{po['rel_dir']}`")
+    lines.append("")
+    return "\n".join(lines)
+
+
 def render_corpus(
     snapshot: dict, out_root: Path, *, courses: dict | None = None
 ) -> dict:
@@ -327,7 +491,15 @@ def render_corpus(
         for c in courses.get("courses", []):
             courses_by_uid[int(c["unit_id"])] = c
 
-    stats = {"folders": 0, "leaf_files": 0, "index_files": 0, "courses_embedded": 0}
+    fau_index = load_fau_index(out_root)
+
+    stats = {
+        "folders": 0,
+        "leaf_files": 0,
+        "index_files": 0,
+        "courses_embedded": 0,
+        "fau_links": 0,
+    }
 
     def child_targets(parent_seg: str) -> dict[str, str]:
         out: dict[str, str] = {}
@@ -345,10 +517,22 @@ def render_corpus(
         if kids:
             folder.mkdir(parents=True, exist_ok=True)
             stats["folders"] += 1
-            (folder / "INDEX.md").write_text(
-                render_index_md(node, period_id, period_name, kids, child_targets(seg)),
-                encoding="utf-8",
+            content = render_index_md(
+                node, period_id, period_name, kids, child_targets(seg)
             )
+            # Cross-link Campo program-level nodes (depth 3, title:NNN) to
+            # matching FAU.de Studiengang and PO landing pages.
+            if (
+                len(node["path"]) == 3
+                and node["segment"].startswith("title:")
+            ):
+                fau_section = _related_fau_section(
+                    node, fau_index, folder / "INDEX.md", out_root
+                )
+                if fau_section:
+                    content = content.rstrip() + "\n\n" + fau_section
+                    stats["fau_links"] += 1
+            (folder / "INDEX.md").write_text(content, encoding="utf-8")
             stats["index_files"] += 1
             for ch in kids:
                 base_name = node_basename(ch)
@@ -412,7 +596,8 @@ def main(argv: Iterable[str] | None = None) -> int:
     print(
         f"rendered period {snapshot['periodId']} {snapshot['periodName']!r} "
         f"into {args.out}: folders={stats['folders']} index={stats['index_files']} "
-        f"leaves={stats['leaf_files']} courses_embedded={stats['courses_embedded']}"
+        f"leaves={stats['leaf_files']} courses_embedded={stats['courses_embedded']} "
+        f"fau_links={stats['fau_links']}"
     )
     return 0
 

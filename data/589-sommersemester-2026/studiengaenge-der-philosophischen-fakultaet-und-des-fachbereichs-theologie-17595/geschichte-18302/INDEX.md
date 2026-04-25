@@ -29,3 +29,9 @@ period_name: "Sommersemester 2026"
 - [Lehramt Realschule Geschichte Hauptfach PO-Version 2011](lehramt-realschule-geschichte-hauptfach-po-version-2011-15567091.md) — `exam:15567091`
 - [Lehramt Realschule Geschichte Hauptfach PO-Version 20182](lehramt-realschule-geschichte-hauptfach-po-version-20182-15567380.md) — `exam:15567380`
 - [Master of Arts Geschichte Hauptfach PO-Version 20172](master-of-arts-geschichte-hauptfach-po-version-20172-15582929.md) — `exam:15582929`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Geschichte (B.A.)](../../../studiengang/geschichte-b-a.md) — Bachelor of Arts
+- [Geschichte (M.A.)](../../../studiengang/geschichte-m-a.md) — Master of Arts

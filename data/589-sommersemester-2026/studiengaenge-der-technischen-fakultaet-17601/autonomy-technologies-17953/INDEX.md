@@ -15,3 +15,9 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Autonomy Technologies Hauptfach PO-Version 20232](bachelor-of-science-autonomy-technologies-hauptfach-po-version-20232-14832718.md) — `exam:14832718`
 - [Bachelor of Science Autonomy Technologies Hauptfach PO-Version 20242](bachelor-of-science-autonomy-technologies-hauptfach-po-version-20242-14841680.md) — `exam:14841680`
 - [Master of Science Autonomy Technologies Hauptfach PO-Version 20232](master-of-science-autonomy-technologies-hauptfach-po-version-20232-14838191.md) — `exam:14838191`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Autonomy Technologies (B.Sc.)](../../../studiengang/autonomy-technologies-b-sc.md) — Bachelor of Science
+- [Autonomy Technologies (M.Sc.)](../../../studiengang/autonomy-technologies-m-sc.md) — Master of Science

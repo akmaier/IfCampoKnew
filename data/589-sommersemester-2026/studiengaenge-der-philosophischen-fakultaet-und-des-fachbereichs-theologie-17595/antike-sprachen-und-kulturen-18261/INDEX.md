@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Arts Antike Sprachen und Kulturen Hauptfach PO-Version 20192](master-of-arts-antike-sprachen-und-kulturen-hauptfach-po-version-20192-15127506.md) — `exam:15127506`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Antike Sprachen und Kulturen (M.A.)](../../../studiengang/antike-sprachen-und-kulturen-m-a.md) — Master of Arts

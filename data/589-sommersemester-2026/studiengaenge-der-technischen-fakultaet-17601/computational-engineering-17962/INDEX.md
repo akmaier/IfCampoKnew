@@ -16,3 +16,9 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Computational Engineering (Rechnergestütztes Ingenieurwesen) Hauptfach PO-Version 20222](bachelor-of-science-computational-engineering-rechnergestuetztes-ingenieurwesen-hauptfach-p-14742827.md) — `exam:14742827`
 - [Master of Science Computational Engineering (Rechnergestütztes Ingenieurwesen) Hauptfach PO-Version 2013](master-of-science-computational-engineering-rechnergestuetztes-ingenieurwesen-hauptfach-po-14746434.md) — `exam:14746434`
 - [Master of Science Computational Engineering (Rechnergestütztes Ingenieurwesen) Hauptfach PO-Version 20252](master-of-science-computational-engineering-rechnergestuetztes-ingenieurwesen-hauptfach-po-14748832.md) — `exam:14748832`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Computational Engineering (B.Sc.)](../../../studiengang/computational-engineering-b-sc.md) — Bachelor of Science
+- [Computational Engineering (M.Sc.)](../../../studiengang/computational-engineering-m-sc.md) — Master of Science

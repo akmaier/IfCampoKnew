@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Science Arbeitsmarkt und Personal Hauptfach PO-Version 20172](master-of-science-arbeitsmarkt-und-personal-hauptfach-po-version-20172-14106969.md) — `exam:14106969`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Arbeitsmarkt und Personal (M.Sc.)](../../../studiengang/arbeitsmarkt-und-personal-m-sc.md) — Master of Science

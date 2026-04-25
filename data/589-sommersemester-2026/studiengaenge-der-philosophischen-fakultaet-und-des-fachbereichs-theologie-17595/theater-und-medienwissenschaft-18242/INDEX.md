@@ -20,3 +20,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 2. Fach PO-Version 20162](bachelor-of-arts-2-faecher-theater-und-medienwissenschaft-2-fach-po-version-20162-15556288.md) — `exam:15556288`
 - [Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 2. Fach PO-Version 20172](bachelor-of-arts-2-faecher-theater-und-medienwissenschaft-2-fach-po-version-20172-15554712.md) — `exam:15554712`
 - [Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 2. Fach PO-Version 20192](bachelor-of-arts-2-faecher-theater-und-medienwissenschaft-2-fach-po-version-20192-15553123.md) — `exam:15553123`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Theater- und Medienwissenschaft (B.A.)](../../../studiengang/theater-und-medienwissenschaft-b-a.md) — Bachelor of Arts

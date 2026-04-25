@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Bachelor of Arts (1 Fach) Literatur und Buch Hauptfach PO-Version 20192](bachelor-of-arts-1-fach-literatur-und-buch-hauptfach-po-version-20192-15032531.md) — `exam:15032531`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Literatur und Buch (B.A.)](../../../studiengang/literatur-und-buch-b-a.md) — Bachelor of Arts

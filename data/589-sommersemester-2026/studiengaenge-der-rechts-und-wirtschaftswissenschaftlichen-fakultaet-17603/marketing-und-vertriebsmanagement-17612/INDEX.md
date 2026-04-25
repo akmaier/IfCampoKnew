@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Master of Science Marketing- und Vertriebsmanagement Hauptfach PO-Version 20202](master-of-science-marketing-und-vertriebsmanagement-hauptfach-po-version-20202-13901209.md) — `exam:13901209`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Marketing- und Vertriebsmanagement (M.Sc.)](../../../studiengang/marketing-und-vertriebsmanagement-m-sc.md) — Master of Science

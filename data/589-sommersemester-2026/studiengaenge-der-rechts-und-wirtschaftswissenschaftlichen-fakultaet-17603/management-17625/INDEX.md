@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Management Hauptfach PO-Version 20192](master-of-science-management-hauptfach-po-version-20192-13879026.md) — `exam:13879026`
 - [Master of Science Management Hauptfach PO-Version 20232](master-of-science-management-hauptfach-po-version-20232-13881294.md) — `exam:13881294`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Management (M.Sc.)](../../../studiengang/management-m-sc.md) — Master of Science

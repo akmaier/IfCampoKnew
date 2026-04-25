@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Lecture Directory](lecture-directory-17891.md) — `title:17891`
 - [Module Directory](module-directory-17890.md) — `title:17890`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Physics (M.Sc.)](../../../studiengang/physics-m-sc.md) — Master of Science

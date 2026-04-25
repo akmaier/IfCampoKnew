@@ -15,3 +15,8 @@ period_name: "Sommersemester 2026"
 - [Modulverzeichnis nach Studiengängen](modulverzeichnis-nach-studiengaengen-17769.md) — `title:17769`
 - [Vorlesungsverzeichnis B.Sc. Chemie nach Semestern (PO 2020)](vorlesungsverzeichnis-b-sc-chemie-nach-semestern-po-2020-17767.md) — `title:17767`
 - [Vorlesungsverzeichnis Lehramt Chemie nach Semestern (PO 2022)](vorlesungsverzeichnis-lehramt-chemie-nach-semestern-po-2022-17768.md) — `title:17768`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Chemie (B.Sc.)](../../../studiengang/chemie-b-sc.md) — Bachelor of Science

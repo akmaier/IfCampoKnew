@@ -18,3 +18,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Skandinavistik 2. Fach PO-Version 20192](bachelor-of-arts-2-faecher-skandinavistik-2-fach-po-version-20192-15171659.md) — `exam:15171659`
 - [Bachelor of Arts (2 Fächer) Skandinavistik 2. Fach PO-Version 20222](bachelor-of-arts-2-faecher-skandinavistik-2-fach-po-version-20222-15173394.md) — `exam:15173394`
 - [Bachelor of Arts (2 Fächer) Skandinavistik 2. Fach PO-Version 20252](bachelor-of-arts-2-faecher-skandinavistik-2-fach-po-version-20252-15175130.md) — `exam:15175130`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Skandinavistik (B.A.)](../../../studiengang/skandinavistik-b-a.md) — Bachelor of Arts

@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Modulverzeichnis Zell- und Molekularbiologie (PO-Versionen)](modulverzeichnis-zell-und-molekularbiologie-po-versionen-17862.md) — `title:17862`
 - [Vorlesungsverzeichnis Zell- und Molekularbiologie (PO 2019)](vorlesungsverzeichnis-zell-und-molekularbiologie-po-2019-17861.md) — `title:17861`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Zell- und Molekularbiologie (M.Sc.)](../../../studiengang/zell-und-molekularbiologie-m-sc.md) — Master of Science

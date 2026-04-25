@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Bachelor of Science Hebammenwissenschaft Hauptfach PO-Version 20212](bachelor-of-science-hebammenwissenschaft-hauptfach-po-version-20212-13871486.md) — `exam:13871486`
 - [Bachelor of Science Hebammenwissenschaft Hauptfach PO-Version 20242](bachelor-of-science-hebammenwissenschaft-hauptfach-po-version-20242-13873293.md) — `exam:13873293`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Hebammenwissenschaft (B.Sc.)](../../../studiengang/hebammenwissenschaft-b-sc.md) — Bachelor of Science

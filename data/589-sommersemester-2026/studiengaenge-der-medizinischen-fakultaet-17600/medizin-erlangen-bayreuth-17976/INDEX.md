@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Staatsexamen Medizin Erlangen/Bayreuth Hauptfach PO-Version 1](staatsexamen-medizin-erlangen-bayreuth-hauptfach-po-version-1-13868770.md) — `exam:13868770`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Medizin Erlangen/Bayreuth (Staatsexamen)](../../../studiengang/medizin-erlangen-bayreuth-staatsexamen.md) — Staatsexamen (außer Lehramt)

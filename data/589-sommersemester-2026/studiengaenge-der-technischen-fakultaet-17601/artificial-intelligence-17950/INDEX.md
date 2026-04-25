@@ -14,3 +14,9 @@ period_name: "Sommersemester 2026"
 
 - [Bachelor of Science Artificial Intelligence Hauptfach PO-Version 20242](bachelor-of-science-artificial-intelligence-hauptfach-po-version-20242-14687132.md) — `exam:14687132`
 - [Master of Science Artificial Intelligence Hauptfach PO-Version 20211](master-of-science-artificial-intelligence-hauptfach-po-version-20211-14689039.md) — `exam:14689039`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Artificial Intelligence (B.Sc.)](../../../studiengang/artificial-intelligence-b-sc.md) — Bachelor of Science
+- [Artificial Intelligence (M.Sc.)](../../../studiengang/artificial-intelligence-m-sc.md) — Master of Science

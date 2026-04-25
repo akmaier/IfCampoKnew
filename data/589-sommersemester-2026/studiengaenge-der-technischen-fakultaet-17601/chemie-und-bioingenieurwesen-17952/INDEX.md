@@ -16,3 +16,12 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Chemie- und Bioingenieurwesen Hauptfach PO-Version 20242](bachelor-of-science-chemie-und-bioingenieurwesen-hauptfach-po-version-20242-14821993.md) — `exam:14821993`
 - [Master of Science Chemie- und Bioingenieurwesen Hauptfach PO-Version 20152](master-of-science-chemie-und-bioingenieurwesen-hauptfach-po-version-20152-14827089.md) — `exam:14827089`
 - [Master of Science Chemie- und Bioingenieurwesen Hauptfach PO-Version 20242](master-of-science-chemie-und-bioingenieurwesen-hauptfach-po-version-20242-14829108.md) — `exam:14829108`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Chemie- und Bioingenieurwesen (B.Sc.)](../../../studiengang/chemie-und-bioingenieurwesen-b-sc.md) — Bachelor of Science
+- [Chemie- und Bioingenieurwesen (M.Sc.)](../../../studiengang/chemie-und-bioingenieurwesen-m-sc.md) — Master of Science
+
+**Prüfungsordnungen:**
+- [chemie-und-bioingenieurwesen](../../../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/INDEX.md) — `pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen`

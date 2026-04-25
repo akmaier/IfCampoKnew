@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Bachelor of Science Biotechnologie Hauptfach PO-Version 20252](bachelor-of-science-biotechnologie-hauptfach-po-version-20252-13829724.md) — `exam:13829724`
 - [Master of Science Biotechnologie Hauptfach PO-Version 20252](master-of-science-biotechnologie-hauptfach-po-version-20252-13826470.md) — `exam:13826470`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Biotechnologie (B.Sc.)](../../../studiengang/biotechnologie-b-sc.md) — Bachelor of Science

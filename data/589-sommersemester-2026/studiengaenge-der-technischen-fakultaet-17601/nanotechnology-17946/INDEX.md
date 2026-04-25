@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Nanotechnology Hauptfach PO-Version 20222](master-of-science-nanotechnology-hauptfach-po-version-20222-14516454.md) — `exam:14516454`
 - [Master of Science Nanotechnology Hauptfach PO-Version 20232](master-of-science-nanotechnology-hauptfach-po-version-20232-14518606.md) — `exam:14518606`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Nanotechnology (M.Sc.)](../../../studiengang/nanotechnology-m-sc.md) — Master of Science

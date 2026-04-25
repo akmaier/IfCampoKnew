@@ -16,3 +16,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (2 Fächer) Iberoromanistik 1. Fach PO-Version 20212](bachelor-of-arts-2-faecher-iberoromanistik-1-fach-po-version-20212-15283958.md) — `exam:15283958`
 - [Bachelor of Arts (2 Fächer) Iberoromanistik 2. Fach PO-Version 20172](bachelor-of-arts-2-faecher-iberoromanistik-2-fach-po-version-20172-15295433.md) — `exam:15295433`
 - [Bachelor of Arts (2 Fächer) Iberoromanistik 2. Fach PO-Version 20212](bachelor-of-arts-2-faecher-iberoromanistik-2-fach-po-version-20212-15293766.md) — `exam:15293766`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Iberoromanistik (B.A.)](../../../studiengang/iberoromanistik-b-a.md) — Bachelor of Arts

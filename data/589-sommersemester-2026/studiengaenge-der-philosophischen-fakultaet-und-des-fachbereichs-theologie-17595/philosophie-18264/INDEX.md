@@ -16,3 +16,9 @@ period_name: "Sommersemester 2026"
 - [Bachelorstudiengang Philosophie - 2. Fach](bachelorstudiengang-philosophie-2-fach-18355.md) — `title:18355`
 - [Lehramt Erweiterungsfächer Philosophie/Ethik und Ethik](lehramt-erweiterungsfaecher-philosophie-ethik-und-ethik-18356.md) — `title:18356`
 - [Masterstudiengang Philosophie](masterstudiengang-philosophie-18354.md) — `title:18354`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Philosophie (B.A.)](../../../studiengang/philosophie-b-a.md) — Bachelor of Arts
+- [Philosophie (M.A.)](../../../studiengang/philosophie-m-a.md) — Master of Arts

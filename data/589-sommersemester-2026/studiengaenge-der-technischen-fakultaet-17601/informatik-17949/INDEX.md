@@ -26,3 +26,9 @@ period_name: "Sommersemester 2026"
 - [Lehramt Realschule Informatik Hauptfach PO-Version 20222](lehramt-realschule-informatik-hauptfach-po-version-20222-14868601.md) — `exam:14868601`
 - [Lehramt Realschule Informatik Hauptfach PO-Version 20242](lehramt-realschule-informatik-hauptfach-po-version-20242-14868687.md) — `exam:14868687`
 - [Master of Science Informatik Hauptfach PO-Version 2010](master-of-science-informatik-hauptfach-po-version-2010-14884271.md) — `exam:14884271`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Informatik (B.Sc.)](../../../studiengang/informatik-b-sc.md) — Bachelor of Science
+- [Informatik (M.Sc.)](../../../studiengang/informatik-m-sc.md) — Master of Science

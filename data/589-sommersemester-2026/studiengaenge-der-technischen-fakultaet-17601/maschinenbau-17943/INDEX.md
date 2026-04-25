@@ -18,3 +18,9 @@ period_name: "Sommersemester 2026"
 - [Master of Science Maschinenbau Hauptfach PO-Version 20222](master-of-science-maschinenbau-hauptfach-po-version-20222-14610978.md) — `exam:14610978`
 - [Master of Science Maschinenbau International Production Engineering and Management Hauptfach PO-Version 2013](master-of-science-maschinenbau-international-production-engineering-and-management-hauptfac-14616949.md) — `exam:14616949`
 - [Master of Science Maschinenbau International Production Engineering and Management Hauptfach PO-Version 20222](master-of-science-maschinenbau-international-production-engineering-and-management-hauptfac-14621963.md) — `exam:14621963`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Maschinenbau (B.Sc.)](../../../studiengang/maschinenbau-b-sc.md) — Bachelor of Science
+- [Maschinenbau (M.Sc.)](../../../studiengang/maschinenbau-m-sc.md) — Master of Science

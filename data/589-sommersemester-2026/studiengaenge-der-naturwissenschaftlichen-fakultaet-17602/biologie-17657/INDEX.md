@@ -16,3 +16,11 @@ period_name: "Sommersemester 2026"
 - [Modulverzeichnis Lehramtsstudiengänge (PO-Versionen)](modulverzeichnis-lehramtsstudiengaenge-po-versionen-17673.md) — `title:17673`
 - [Vorlesungsverzeichnis Bachelor of Science Biologie PO-Version 20192](vorlesungsverzeichnis-bachelor-of-science-biologie-po-version-20192-17674.md) — `title:17674`
 - [Vorlesungsverzeichnis Lehramtsstudiengänge (Fachwissenschaften Biologie)](vorlesungsverzeichnis-lehramtsstudiengaenge-fachwissenschaften-biologie-17672.md) — `title:17672`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Biologie (B.Sc.)](../../../studiengang/biologie-b-sc.md) — Bachelor of Science
+
+**Prüfungsordnungen:**
+- [biologie](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/INDEX.md) — `pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie`

@@ -17,3 +17,9 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien Hauptfach PO-Version 20232](bachelor-of-science-chemical-engineering-nachhaltige-chemische-technologien-hauptfach-po-ve-14719970.md) — `exam:14719970`
 - [Master of Science Chemical Engineering - Nachhaltige Chemische Technologien Hauptfach PO-Version 20152](master-of-science-chemical-engineering-nachhaltige-chemische-technologien-hauptfach-po-vers-14723161.md) — `exam:14723161`
 - [Master of Science Chemical Engineering - Nachhaltige Chemische Technologien Hauptfach PO-Version 20232](master-of-science-chemical-engineering-nachhaltige-chemische-technologien-hauptfach-po-vers-14725716.md) — `exam:14725716`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Chemical Engineering - Nachhaltige Chemische Technologien (B.Sc.)](../../../studiengang/chemical-engineering-nachhaltige-chemische-technologien-b-sc.md) — Bachelor of Science
+- [Chemical Engineering - Nachhaltige Chemische Technologien (M.Sc.)](../../../studiengang/chemical-engineering-nachhaltige-chemische-technologien-m-sc.md) — Master of Science

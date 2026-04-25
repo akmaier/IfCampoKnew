@@ -14,3 +14,8 @@ period_name: "Sommersemester 2026"
 
 - [Master of Science Computational and Applied Mathematics Hauptfach PO-Version 20192](master-of-science-computational-and-applied-mathematics-hauptfach-po-version-20192-14272054.md) — `exam:14272054`
 - [Master of Science Computational and Applied Mathematics Hauptfach PO-Version 20261](master-of-science-computational-and-applied-mathematics-hauptfach-po-version-20261-15873052.md) — `exam:15873052`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Computational and Applied Mathematics (M.Sc.)](../../../studiengang/computational-and-applied-mathematics-m-sc.md) — Master of Science

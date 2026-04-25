@@ -18,3 +18,9 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Arts (1 Fach) Sozialökonomik Hauptfach PO-Version 20242](bachelor-of-arts-1-fach-sozialoekonomik-hauptfach-po-version-20242-14092804.md) — `exam:14092804`
 - [Master of Science Sozialökonomik Hauptfach PO-Version 20172](master-of-science-sozialoekonomik-hauptfach-po-version-20172-14100592.md) — `exam:14100592`
 - [Master of Science Sozialökonomik Hauptfach PO-Version 20222](master-of-science-sozialoekonomik-hauptfach-po-version-20222-14103739.md) — `exam:14103739`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Sozialökonomik (B.A.)](../../../studiengang/sozialoekonomik-b-a.md) — Bachelor of Arts
+- [Sozialökonomik (M.Sc.)](../../../studiengang/sozialoekonomik-m-sc.md) — Master of Science

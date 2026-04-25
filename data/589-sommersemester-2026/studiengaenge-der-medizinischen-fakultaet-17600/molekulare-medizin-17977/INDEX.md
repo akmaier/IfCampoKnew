@@ -15,3 +15,8 @@ period_name: "Sommersemester 2026"
 - [Bachelor of Science Molekulare Medizin Hauptfach PO-Version 2012](bachelor-of-science-molekulare-medizin-hauptfach-po-version-2012-13840353.md) — `exam:13840353`
 - [Bachelor of Science Molekulare Medizin Hauptfach PO-Version 20232](bachelor-of-science-molekulare-medizin-hauptfach-po-version-20232-13842035.md) — `exam:13842035`
 - [Bachelor of Science Molekulare Medizin Hauptfach PO-Version 20252](bachelor-of-science-molekulare-medizin-hauptfach-po-version-20252-13843725.md) — `exam:13843725`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Molekulare Medizin (B.Sc.)](../../../studiengang/molekulare-medizin-b-sc.md) — Bachelor of Science

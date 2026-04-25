@@ -15,3 +15,8 @@ period_name: "Sommersemester 2026"
 - [Grundstudium Pharmazie](grundstudium-pharmazie-17664.md) — `title:17664`
 - [Hauptstudium Pharmazie](hauptstudium-pharmazie-17663.md) — `title:17663`
 - [Staatsexamen Pharmazie Hauptfach PO-Version 1](staatsexamen-pharmazie-hauptfach-po-version-1-14195585.md) — `exam:14195585`
+
+## Verwandte FAU-Inhalte
+
+**Studiengangsseite(n):**
+- [Pharmazie (Staatsexamen)](../../../studiengang/pharmazie-staatsexamen.md) — Staatsexamen (außer Lehramt)
