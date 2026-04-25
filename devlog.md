@@ -205,4 +205,61 @@ Timestamps are in the local timezone of the machine where Claude Code ran (Europ
 
 **Unblocked** — the next session can start with implementation (repo skeleton + Python scraper's tree-walk pass).
 
+---
+
+## Entry 0005 — Implementation start: scraper skeleton + first tree walk
+
+- **Start:** 2026-04-24 23:52 CEST
+- **End:** 2026-04-25 07:05 CEST (with a long break overnight; active time ≈ 25 min)
+- **Duration:** ~25 min active
+- **Actor:** user → Claude Code (Opus 4.7, 1M context)
+
+**Prompt (verbatim):**
+
+> please start
+
+**Plan:**
+
+1. Scaffold `scraper/` + project venv (Python 3.14, `requests`, `lxml`); update `.gitignore` for the venv.
+2. Write `scraper/schema.py` (dataclasses), `scraper/campo_client.py` (session + rate limit + retries), `scraper/parse_tree.py` (catalog HTML → child nodes), `scraper/scrape.py` (CLI).
+3. Smoke test: shallow walk of `periodId=589` (root + 1 faculty's children, ≤ 20 requests at 1 req/s).
+4. Commit the first `data/589-tree.json`.
+
+**Actions:**
+
+1. Created `scraper/.venv/` (Python 3.14.3); installed `requests==2.33.1` + `lxml==6.1.0`. Added `scraper/.venv/` to `.gitignore`.
+2. Wrote five Python files under `scraper/`:
+   - `requirements.txt` — pinned deps.
+   - `schema.py` — `CatalogNode` and `CatalogSnapshot` dataclasses with `to_dict()`.
+   - `campo_client.py` — `CampoClient` with session bootstrap (start page → JSESSIONID), rate limit (default 1.0 s), 3-retry exponential backoff on 5xx, `catalog_url(period_id, path)` builder.
+   - `parse_tree.py` — `parse_nodes(html)` returns deduplicated `(title_id, name, path)` tuples; `classify_nodes(parsed, current_path)` splits "current vs immediate children"; `parse_periods(html)` extracts the semester dropdown.
+   - `scrape.py` — argparse CLI (`--period`, `--out`, `--max-depth`, `--interval`, `-v`); BFS tree walk; writes JSON.
+3. Wrote `scraper/README.md` with quick start + module map + safety notes.
+4. **Smoke test 1 (`max-depth=1`)** revealed two parser bugs:
+   - Node names came out as `title:NNNN` because I was reading them from a non-existent `<h3>Permalink: NAME</h3>`. Real Campo HTML stores the name in `data-page-permalink-title="…"` directly on the `<textarea>` tag.
+   - Period name was empty because the semester `<select>` ID is `…term-selection-container:termSelection_input`, not `termPeriodDropDownList`.
+   Diagnosed by re-inspecting `/tmp/campo/catalog.html` from Entry 0001. Fixed both regexes in `parse_tree.py`.
+5. **Smoke test 2 (`max-depth=1`)** clean: 12 nodes, root = "Vorlesungsverzeichnis FAU", period = "Sommersemester 2026", all 11 faculty/section names correctly populated (incl. those with embedded `<a>` markup like "Schulungsangebot der Universitätsbibliothek (Link)" — Campo's own formatting, kept verbatim for the UI to render).
+6. **Real first snapshot (`max-depth=2`)**: 12 GETs (1 root + 11 faculties) at 1 req/s ≈ 12 s. Output `data/589-tree.json` = 54 KB, 223 nodes:
+   - Phil Fak: 100 study programs
+   - Tech Fak: 32 (incl. Advanced Materials, AI, Autonomy Technologies, …)
+   - Nat Fak: 32, RW Fak: 19, Med Fak: 11, Allg. Wahlbereich: 10, Sustainability: 6, EELISA: 1, plus 3 leafless sections.
+7. (Pending) Commit + push.
+
+**Key findings & decisions made during implementation:**
+
+- Names can contain inline HTML (`<a href="…">…</a>`). Kept raw in JSON; UI will sanitise/render.
+- Each Campo deep-link GET expands the *current* node's children plus the path back to root, so a single GET per node is enough — no need to also fetch the parent. BFS at 1 req/s is the natural pace.
+- A full-depth walk is O(internal-nodes) GETs. Depth 2 = 12 GETs / 12 s. Depth 3 will be ~223 GETs / ~4 min — acceptable for weekly cron, deliberately deferred to keep the first commit's smoke test fast.
+
+**Next session candidates (Entry 0006):**
+
+1. Push depth to its terminus (full tree per semester) and verify it stays sane against pagination edge-cases.
+2. Add **course-detail fetcher** (`detailView-flow?unitId=…&periodId=…`) so leaf nodes get their `unit_id` populated and we can extract Termine/Inhalte.
+3. Add a small **pytest** suite for `parse_tree.py` against fixtures in `scraper/tests/fixtures/`.
+4. Wire up `.github/workflows/scrape-weekly.yml`.
+
+**Reminder of remaining open items:** O1 analytics vendor · O2 WP target page · O3 next-semester `periodId` (will discover from `parse_periods()` once we hit the live catalogue with the next semester announced).
+
+
 
