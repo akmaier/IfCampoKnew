@@ -95,12 +95,15 @@ class CampoClient:
                 time.sleep(backoff)
         raise RuntimeError(f"GET {url} failed after {self.max_retries} attempts: {last_exc}")
 
-    def catalog_url(self, period_id: int, path: Optional[list[int]] = None) -> str:
-        """Build a catalogue deep-link URL."""
+    def catalog_url(self, period_id: int, path: Optional[list[str]] = None) -> str:
+        """Build a catalogue deep-link URL.
+
+        ``path`` is a list of *segment strings* like ``["title:17593",
+        "exam:14867623"]``. Pass an empty list or ``None`` for the root.
+        """
         url = f"{CATALOG_FLOW}&periodId={period_id}"
         if path:
-            path_str = "|".join(f"title:{i}" for i in path)
-            url += f"&path={path_str}"
+            url += "&path=" + "|".join(path)
         return url
 
     def _rate_limit(self) -> None:

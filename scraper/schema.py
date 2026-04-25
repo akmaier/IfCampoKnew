@@ -11,22 +11,45 @@ from typing import Optional
 
 @dataclass
 class CatalogNode:
-    """One node in the Campo course catalogue tree.
+    """One node in the Campo course-catalogue tree.
 
-    A node can be either an internal (subject/faculty) node or a leaf course.
-    Leaf-ness is indicated by ``unit_id`` being set: internal nodes have
-    ``unit_id is None`` and zero or more ``children``.
+    Campo identifies tree nodes by *segments* of the form ``"title:NNN"`` for
+    title/program nodes and ``"exam:NNN"`` for examination-regulation
+    (Prüfungsordnung) nodes. We keep the raw segment string and expose its
+    parts (``kind``, ``node_id``) for convenience.
+
+    A node is a *leaf* in the catalogue when ``len(children) == 0``. It can
+    additionally have a ``unit_id`` if the catalogue links it to a concrete
+    course event — but in practice the FAU catalogue bottoms out at PO
+    sections, and courses are reached via the search-flow.
     """
 
-    title_id: int
+    segment: str
     name: str
-    path: list[int]
-    parent_title_id: Optional[int] = None
-    children: list[int] = field(default_factory=list)
+    path: list[str]
+    parent_segment: Optional[str] = None
+    children: list[str] = field(default_factory=list)
     unit_id: Optional[int] = None
 
+    @property
+    def kind(self) -> str:
+        return self.segment.split(":", 1)[0]
+
+    @property
+    def node_id(self) -> int:
+        return int(self.segment.split(":", 1)[1])
+
     def to_dict(self) -> dict:
-        return asdict(self)
+        return {
+            "segment": self.segment,
+            "kind": self.kind,
+            "nodeId": self.node_id,
+            "name": self.name,
+            "path": list(self.path),
+            "parentSegment": self.parent_segment,
+            "children": list(self.children),
+            "unitId": self.unit_id,
+        }
 
 
 @dataclass
@@ -36,7 +59,8 @@ class CatalogSnapshot:
     period_id: int
     period_name: str
     scraped_at: str  # ISO-8601
-    root_title_id: int
+    root_segment: str
+    max_depth: int  # the depth limit used (1 = root only)
     nodes: list[CatalogNode]
 
     def to_dict(self) -> dict:
@@ -44,6 +68,7 @@ class CatalogSnapshot:
             "periodId": self.period_id,
             "periodName": self.period_name,
             "scrapedAt": self.scraped_at,
-            "rootTitleId": self.root_title_id,
+            "rootSegment": self.root_segment,
+            "maxDepth": self.max_depth,
             "nodes": [n.to_dict() for n in self.nodes],
         }

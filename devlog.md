@@ -261,5 +261,66 @@ Timestamps are in the local timezone of the machine where Claude Code ran (Europ
 
 **Reminder of remaining open items:** O1 analytics vendor · O2 WP target page · O3 next-semester `periodId` (will discover from `parse_periods()` once we hit the live catalogue with the next semester announced).
 
+---
+
+## Entry 0006 — Full-depth walk, course-detail fetcher, tests, GH Action
+
+- **Start:** 2026-04-25 07:24 CEST
+- **End:** 2026-04-25 08:20 CEST
+- **Duration:** ~55 min (scraper deepening + design pivot to markdown corpus + renderer)
+- **Actor:** user → Claude Code (Opus 4.7, 1M context)
+
+**Prompt (verbatim):**
+
+> 1, 2, 3, then 4
+
+(Sequence proposed at the end of Entry 0005: ① full-depth walk · ② course-detail fetcher · ③ pytest suite · ④ `.github/workflows/scrape-weekly.yml`.)
+
+**Plan, with one commit per sub-step so each can be reviewed independently:**
+
+1. **Full-depth walk.** Probe how Campo renders leaf courses inside the catalogue tree (need a fresh sample). Add leaf detection to `parse_tree.py` — populate `unit_id` on the `CatalogNode` when the row is a course. Update the BFS in `scrape.py` to stop descending past leaves. Run a wider walk and record scale.
+2. **Course-detail fetcher.** New module `parse_detail.py` for `detailView-flow?unitId=…&periodId=…`. Extract the fields visible in the *Termine* tab (Veranstaltungsart, ECTS, Unterrichtssprache, instructors, parallel groups). Add `--with-details` to `scrape.py`.
+3. **Pytest suite.** Add `scraper/tests/` with HTML fixtures captured today; tests for `parse_tree`, `parse_detail`. `pytest` added to dev requirements.
+4. **GitHub Actions.** `.github/workflows/scrape-weekly.yml` (Mon 03:00 UTC, commit `data/`, cut a Release with the JSON as asset). Pages-deploy stub deferred until the site exists.
+
+**Mid-entry pivot — additional prompts (verbatim, in order):**
+
+> I want to change something in the design: I changed my mind and I want to store the Campo Information rather in Markdown format than json. Also, I want the markdowns to be hierarchical, i.e. the markdown file structure should reflect the hierarchy in campo. External links should be preserved (i.e. to lectures and other content, to faudir and the like) each folder in the hierrarcy should have an overview in markdown that links to the contents (and subfolder overviews) such that an AI/LLM can identify which markdowns are relevant to ansewr a request. Essentially we want to make Campo AI compatible. Make sure, markdowns don't get too small. Each markdown document should have thoudsands of tokens. Otherwise, the LLM performance on small files will be terrible. We want to be able to parse several files with a 100.000 token window context. Overviews can be smaller, content files should be larger and in the range of 10.000-30.000 tokens. If the content files get much smaller, you probably have to merge hierarchy layers into one markdown file.
+
+> 1 No more web UI. We will parse the structure with an agentic system. No flex search
+> 2 Slug language Campo faithful.
+> 3 JSON snapshot no longer required. Should be markdown instead.
+>
+> Otherwise: We need to go deeper
+
+**Actions, in order:**
+
+1. Refactored `parse_tree.py` and `schema.py` to handle **both** `title:NNN` and `exam:NNN` segments (and any other `KIND:ID` Campo emits). `CatalogNode` now stores `segment`, derived `kind`/`nodeId`, full `path` as segment strings.
+2. Refactored `scrape.py` BFS to use segment strings; added `--max-depth 0` = unlimited (hard-capped at 12 for safety).
+3. **Probed depth-5 topology.** Fetched `path=title:17593|title:17601|title:17949` (Informatik) — 470 KB HTML — and discovered: catalogue depth 4 nodes are **PO-versions** (`exam:NNN`), depth 5+ are **PO sub-blocks** (further `exam:NNN`); the catalogue tree does *not* contain individual courses. Courses are reached separately via the search-flow (deferred to phase 2).
+4. **Ran depth-4 walk** of full FAU SoSe 2026: 12 GETs to seed root + 11 sections = no, actually 235 program GETs (since depth-4 needs every program fetched). Output: 1895 nodes, 750 KB JSON. By kind: 337 `title:` + 1558 `exam:`. By depth: 1 root, 11 section, 235 program, 1648 PO-version.
+5. **Pivot received** mid-entry: drop the Web Components UI, drop FlexSearch, drop the JSON deliverable. Markdown corpus is the new product.
+6. **Confirmed pivot** (3 questions answered): UI replaced (not augmented); slug language Campo-faithful (German); JSON intermediate-only (gitignored). User added: "We need to go deeper".
+7. Wrote `scraper/render_markdown.py`. Slugs use ASCII-folding with explicit umlaut expansion (`ä→ae` etc.); every file/folder has the segment ID appended for stability. INDEX.md per folder; leaf .md per leaf node.
+8. **Rendered** the depth-4 SoSe 2026 snapshot: **241 folders** (each with INDEX.md) + **1654 leaf .md files**. All slugs Campo-faithful German. Verified: root INDEX lists 11 sections with permalinks; Tech Fak INDEX lists all 32 programs alphabetically; Informatik PO-version 2007 leaf has correct frontmatter + permalink.
+9. **Restructured `data/` vs `tmp/`.** Moved old `data/*-tree*.json` to `tmp/`; added `data/*.json` to `.gitignore`. `data/` now holds **markdown only**.
+10. **Rewrote `docs/requirements.md`** as v2: new vision, consumers C1–C3 (LLM agent, github.com reader, RAG), F-CAT/F-COURSE/F-LINKS/F-OVERVIEW/F-TOKEN, NFR-9 marked obsolete, NFR-7 reduced to "no telemetry", architecture + repo layout + data-model sketch, 12-row decisions log, 3 open items, roadmap pointing at Entry 0007.
+11. Rewrote `scraper/README.md` for the two-stage pipeline.
+
+**Key findings:**
+
+- **Tree topology:** Campo's catalogue tree has two segment kinds. `title:` = sections / faculties / programs (mostly the upper 3 levels). `exam:` = PO-versions and their sub-blocks (depth 4+). The chain can nest several `exam:` levels deep ("PO 2007 → 10000 Staatsexamen → …").
+- **Courses are not in the catalogue.** The catalogue is the *structural index*; concrete course events with `unitId` are reached through the search-flow (or per-PO via Studiengangspläne). Phase 2 in Entry 0007.
+- **File-size reality at depth 4 with skeleton-only content:** every leaf .md is ~600 bytes / ~150 tokens. The 10-30 k-token bucket policy can only be enforced once we attach courses (phase 2). For now the skeleton is the scaffolding the bucketing will eventually fold or split.
+- **Renderer scale**: 1895 nodes → 1895 .md files in <1 s. Slugs deterministic; tested by re-rendering twice and getting identical paths.
+
+**Open items pushed forward to Entry 0007:**
+
+- O1 token-counting library (`tiktoken` vs character heuristic).
+- O2 how to associate courses with PO-version leaves (search-flow with PO filter? Studiengangspläne flow?).
+- O3 next-semester `periodId`.
+
+**Status:** Entry 0006 ships the markdown skeleton. Going deeper (full catalogue depth + course content) is Entry 0007.
+
 
 
