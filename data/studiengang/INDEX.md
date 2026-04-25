@@ -1,0 +1,233 @@
+---
+kind: "fau-studiengang-index"
+count: 222
+---
+
+# FAU Studiengang-Übersicht
+
+Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
+
+## Programme (222)
+
+- [Advanced Healthcare (M.Sc.)](advanced-healthcare-m-sc.md) — Master of Science
+- [Advanced Materials and Processes (M.Sc.)](advanced-materials-and-processes-m-sc.md) — Master of Science
+- [Advanced Optical Technologies (M.Sc.)](advanced-optical-technologies-m-sc.md) — Master of Science
+- [Allgemeine und fachbezogene Bildung in der digitalen Welt (Zertifikat)](allgemeine-und-fachbezogene-bildung-in-der-digitalen-welt-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
+- [Antike Sprachen und Kulturen (M.A.)](antike-sprachen-und-kulturen-m-a.md) — Master of Arts
+- [Arabistik, Islamwissenschaft, Semitistik (M.A.)](arabistik-islamwissenschaft-semitistik-m-a.md) — Master of Arts
+- [Arbeitsmarkt und Personal (M.Sc.)](arbeitsmarkt-und-personal-m-sc.md) — Master of Science
+- [Archäologische Wissenschaften (B.A.)](archaeologische-wissenschaften-b-a.md) — Bachelor of Arts
+- [Archäologische Wissenschaften (M.A.)](archaeologische-wissenschaften-m-a.md) — Master of Arts
+- [Artificial Intelligence (B.Sc.)](artificial-intelligence-b-sc.md) — Bachelor of Science
+- [Artificial Intelligence (M.Sc.)](artificial-intelligence-m-sc.md) — Master of Science
+- [Autonomy Technologies (B.Sc.)](autonomy-technologies-b-sc.md) — Bachelor of Science
+- [Autonomy Technologies (M.Sc.)](autonomy-technologies-m-sc.md) — Master of Science
+- [Beruf und Wirtschaft (Lehramt)](beruf-und-wirtschaft-lehramt.md) — Staatsexamen
+- [Berufspädagogik Technik (B.Sc.)](berufspaedagogik-technik-b-sc.md) — Bachelor of Science
+- [Berufspädagogik Technik (M.Sc.)](berufspaedagogik-technik-m-sc.md) — Master of Science
+- [Biologie (B.Sc.)](biologie-b-sc.md) — Bachelor of Science
+- [Biologie (Lehramt)](biologie-lehramt.md) — Staatsexamen
+- [Biotechnologie (B.Sc.)](biotechnologie-b-sc.md) — Bachelor of Science
+- [Biotechnologie (ehem. Life Science Engineering) (M.Sc.)](biotechnologie-ehem-life-science-engineering-m-sc.md) — Master of Science
+- [Buchwissenschaft (B.A.)](buchwissenschaft-b-a.md) — Bachelor of Arts
+- [Business Management (MBA)](business-management-mba.md) — Master of Business Administration
+- [Chemical Engineering - Nachhaltige Chemische Technologien (B.Sc.)](chemical-engineering-nachhaltige-chemische-technologien-b-sc.md) — Bachelor of Science
+- [Chemical Engineering - Nachhaltige Chemische Technologien (M.Sc.)](chemical-engineering-nachhaltige-chemische-technologien-m-sc.md) — Master of Science
+- [Chemie (B.Sc.)](chemie-b-sc.md) — Bachelor of Science
+- [Chemie (Lehramt)](chemie-lehramt.md) — Staatsexamen
+- [Chemie- und Bioingenieurwesen (B.Sc.)](chemie-und-bioingenieurwesen-b-sc.md) — Bachelor of Science
+- [Chemie- und Bioingenieurwesen (M.Sc.)](chemie-und-bioingenieurwesen-m-sc.md) — Master of Science
+- [Chemistry (M.Sc.)](chemistry-m-sc.md) — Master of Science
+- [Chinese Studies with an Optional Focus (M.A.)](chinese-studies-with-an-optional-focus-m-a.md) — Master of Arts
+- [Chinesisch (Lehramt)](chinesisch-lehramt.md) — Staatsexamen
+- [Clean Energy Processes (B.Sc.)](clean-energy-processes-b-sc.md) — Bachelor of Science
+- [Clean Energy Processes (M.Sc.)](clean-energy-processes-m-sc.md) — Master of Science
+- [Communications and Multimedia Engineering (M.Sc.)](communications-and-multimedia-engineering-m-sc.md) — Master of Science
+- [Computational and Applied Mathematics (M.Sc.)](computational-and-applied-mathematics-m-sc.md) — Master of Science
+- [Computational Engineering (B.Sc.)](computational-engineering-b-sc.md) — Bachelor of Science
+- [Computational Engineering (M.Sc.)](computational-engineering-m-sc.md) — Master of Science
+- [Computational Molecular and Materials Science (M.Sc.)](computational-molecular-and-materials-science-m-sc.md) — Master of Science
+- [Computerlinguistik (B.A.)](computerlinguistik-b-a.md) — Bachelor of Arts
+- [Darstellendes Spiel (Lehramt)](darstellendes-spiel-lehramt.md) — Staatsexamen
+- [Data Science (B.Sc.)](data-science-b-sc.md) — Bachelor of Science
+- [Data Science (M.Sc.)](data-science-m-sc.md) — Master of Science
+- [Deutsch (Lehramt)](deutsch-lehramt.md) — Staatsexamen
+- [Deutsch als Zweitsprache (Lehramt)](deutsch-als-zweitsprache-lehramt.md) — Staatsexamen
+- [Deutsch-Französisches Recht (LL.M.)](deutsch-franzoesisches-recht-ll-m.md) — Master of Laws
+- [Development Economics and International Studies (M.A.)](development-economics-and-international-studies-m-a.md) — Master of Arts
+- [Digital Business & AI (MBA)](digital-business-ai-mba.md) — Master of Business Administration
+- [Digital Humanities (M.A.)](digital-humanities-m-a.md) — Master of Arts
+- [Digital Humanities (Modulstudien)](digital-humanities-modulstudien.md) — Zertifikat (Modulstudien)
+- [Digitale Geistes- und Sozialwissenschaften (B.A.)](digitale-geistes-und-sozialwissenschaften-b-a.md) — Bachelor of Arts
+- [Digitale Japanstudien (M.A.)](digitale-japanstudien-m-a.md) — Master of Arts
+- [Economics (M.Sc.)](economics-m-sc.md) — Master of Science
+- [Elektromobilität-ACES (B.Sc.)](elektromobilitaet-aces-b-sc.md) — Bachelor of Science
+- [Elektromobilität-ACES (M.Sc.)](elektromobilitaet-aces-m-sc.md) — Master of Science
+- [Elektrotechnik – Elektronik – Informationstechnik (B.Sc.)](elektrotechnik-elektronik-informationstechnik-b-sc.md) — Bachelor of Science
+- [Elektrotechnik – Elektronik – Informationstechnik (M.Sc.)](elektrotechnik-elektronik-informationstechnik-m-sc.md) — Master of Science
+- [Energietechnik (B.Sc.)](energietechnik-b-sc.md) — Bachelor of Science
+- [Energietechnik (M.Sc.)](energietechnik-m-sc.md) — Master of Science
+- [Englisch (Lehramt)](englisch-lehramt.md) — Staatsexamen
+- [English and American Studies (B.A.)](english-and-american-studies-b-a.md) — Bachelor of Arts
+- [English Studies (M.A.)](english-studies-m-a.md) — Master of Arts
+- [Erziehungswissenschaftlich-Empirische Bildungsforschung (M.A.)](erziehungswissenschaftlich-empirische-bildungsforschung-m-a.md) — Master of Arts
+- [Ethik der Textkulturen (M.A.)](ethik-der-textkulturen-m-a.md) — Master of Arts
+- [Europäischer Master für Lexikographie (M.A.)](europaeischer-master-fuer-lexikographie-m-a.md) — Master of Arts
+- [Evangelische Religionslehre (Lehramt)](evangelische-religionslehre-lehramt.md) — Staatsexamen
+- [Evangelische Theologie (kirchliches Examen/Magister Theologiae)](evangelische-theologie-kirchliches-examen-magister-theologiae.md) — kirchliches Examen/Magister Theologiae
+- [Finance, Auditing, Controlling, Taxation (M.Sc.)](finance-auditing-controlling-taxation-m-sc.md) — Master of Science
+- [Frankoromanistik (B.A.)](frankoromanistik-b-a.md) — Bachelor of Arts
+- [Französisch (Lehramt)](franzoesisch-lehramt.md) — Staatsexamen
+- [Gender 1 2 3 (Zertifikat)](gender-1-2-3-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
+- [Geographie (Lehramt)](geographie-lehramt.md) — Staatsexamen
+- [Geographie: Kulturgeographie (B.A.)](geographie-kulturgeographie-b-a.md) — Bachelor of Arts
+- [Geographie: Kulturgeographie (M.A.)](geographie-kulturgeographie-m-a.md) — Master of Arts
+- [Geographie: Kulturgeographie im Zwei-Fach-Bachelor (B.A.)](geographie-kulturgeographie-im-zwei-fach-bachelor-b-a.md) — Bachelor of Arts
+- [Geographie: Physische Geographie (B.Sc.)](geographie-physische-geographie-b-sc.md) — Bachelor of Science
+- [GeoNachhaltigkeit (B.Sc.)](geonachhaltigkeit-b-sc.md) — Bachelor of Science
+- [GeoThermie/GeoEnergie (M.Sc.)](geothermie-geoenergie-m-sc.md) — Master of Science
+- [Geowissenschaften (B.Sc.)](geowissenschaften-b-sc.md) — Bachelor of Science
+- [Geowissenschaften (M.Sc.)](geowissenschaften-m-sc.md) — Master of Science
+- [Geowissenschaften (Zertifikat)](geowissenschaften-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
+- [Germanistik (B.A.)](germanistik-b-a.md) — Bachelor of Arts
+- [Germanistik (M.A.)](germanistik-m-a.md) — Master of Arts
+- [Gerontologie (M.Sc.)](gerontologie-m-sc.md) — Master of Science
+- [Geschichte (B.A.)](geschichte-b-a.md) — Bachelor of Arts
+- [Geschichte (Lehramt)](geschichte-lehramt.md) — Staatsexamen
+- [Geschichte (M.A.)](geschichte-m-a.md) — Master of Arts
+- [Gesundheitsmanagement und Gesundheitsökonomie (M.Sc.)](gesundheitsmanagement-und-gesundheitsoekonomie-m-sc.md) — Master of Science
+- [Global Business Management (MBA)](global-business-management-mba.md) — Master of Business Administration
+- [Griechisch (Lehramt)](griechisch-lehramt.md) — Staatsexamen
+- [Griechische Philologie (B.A.)](griechische-philologie-b-a.md) — Bachelor of Arts
+- [Health Business Administration (MHBA)](health-business-administration-mhba.md) — Master of Health Business Administration
+- [Hebammenwissenschaft (B.Sc.)](hebammenwissenschaft-b-sc.md) — Bachelor of Science
+- [Human Rights (M.A.)](human-rights-m-a.md) — Master of Arts
+- [Iberoromanistik (B.A.)](iberoromanistik-b-a.md) — Bachelor of Arts
+- [Indogermanistik und Indoiranistik (B.A.)](indogermanistik-und-indoiranistik-b-a.md) — Bachelor of Arts
+- [Informatik (B.Sc.)](informatik-b-sc.md) — Bachelor of Science
+- [Informatik (Lehramt)](informatik-lehramt.md) — Staatsexamen
+- [Informatik (M.Sc.)](informatik-m-sc.md) — Master of Science
+- [Informatik/IT-Sicherheit (B.Sc.)](informatik-it-sicherheit-b-sc.md) — Bachelor of Science
+- [Information and Communication Technology (M.Sc.)](information-and-communication-technology-m-sc.md) — Master of Science
+- [Informations- und Kommunikationstechnik (B.Sc.)](informations-und-kommunikationstechnik-b-sc.md) — Bachelor of Science
+- [Integrated Immunology (M.Sc.)](integrated-immunology-m-sc.md) — Master of Science
+- [Integrated Life Sciences: Biologie, Biomathematik, Biophysik (B.Sc.)](integrated-life-sciences-biologie-biomathematik-biophysik-b-sc.md) — Bachelor of Science
+- [Integrated Life Sciences: Biology, Biomathematics and Biophysics (M.Sc.)](integrated-life-sciences-biology-biomathematics-and-biophysics-m-sc.md) — Master of Science
+- [International Business Studies (B.Sc.)](international-business-studies-b-sc.md) — Bachelor of Science
+- [International Business Studies (M.Sc.)](international-business-studies-m-sc.md) — Master of Science
+- [International Economic Studies (B.Sc.)](international-economic-studies-b-sc.md) — Bachelor of Science
+- [International Information Systems (M.Sc.)](international-information-systems-m-sc.md) — Master of Science
+- [International Production Engineering and Management (B.Sc.)](international-production-engineering-and-management-b-sc.md) — Bachelor of Science
+- [Islamisch-Religiöse Studien (B.A.)](islamisch-religioese-studien-b-a.md) — Bachelor of Arts
+- [Islamisch-Religiöse Studien (M.A.)](islamisch-religioese-studien-m-a.md) — Master of Arts
+- [Islamischer Unterricht (Lehramt)](islamischer-unterricht-lehramt.md) — Staatsexamen
+- [Italienisch (Lehramt)](italienisch-lehramt.md) — Staatsexamen
+- [Italoromanistik (B.A.)](italoromanistik-b-a.md) — Bachelor of Arts
+- [Japanologie (B.A.)](japanologie-b-a.md) — Bachelor of Arts
+- [Katholische Religionslehre (Lehramt)](katholische-religionslehre-lehramt.md) — Staatsexamen
+- [KI - Materialtechnologie (B.Sc.)](ki-materialtechnologie-b-sc.md) — Bachelor of Science
+- [Kulturgeschichte des Christentums (B.A.)](kulturgeschichte-des-christentums-b-a.md) — Bachelor of Arts
+- [Kulturraum Italien: Kunst, Literatur und Sprache (Modulstudien)](kulturraum-italien-kunst-literatur-und-sprache-modulstudien.md) — Zertifikat (Modulstudien)
+- [Kunst (Lehramt)](kunst-lehramt.md) — Staatsexamen
+- [Kunstgeschichte (B.A.)](kunstgeschichte-b-a.md) — Bachelor of Arts
+- [Kunstgeschichte (M.A.)](kunstgeschichte-m-a.md) — Master of Arts
+- [Kunstpädagogik (M.A.)](kunstpaedagogik-m-a-2.md) — Master of Arts
+- [Kunstpädagogik (M.A.)](kunstpaedagogik-m-a.md) — Master of Arts
+- [Latein (Lehramt)](latein-lehramt.md) — Staatsexamen
+- [Lateinische Philologie (B.A.)](lateinische-philologie-b-a.md) — Bachelor of Arts
+- [Learning Design – Digitale Transformation in der Bildung (M.A.)](learning-design-digitale-transformation-in-der-bildung-m-a.md) — Master of Arts
+- [Lebensmittelchemie (Staatsexamen)](lebensmittelchemie-staatsexamen.md) — Staatsexamen (außer Lehramt)
+- [Lehramt an Beruflichen Schulen (M.Sc.)](lehramt-an-beruflichen-schulen-m-sc.md) — Master of Science
+- [Lehramt an Grundschulen / Didaktik der Grundschule (Lehramt)](lehramt-an-grundschulen-didaktik-der-grundschule-lehramt.md) — Staatsexamen
+- [Lehramt an Gymnasien (Lehramt)](lehramt-an-gymnasien-lehramt.md) — Staatsexamen
+- [Lehramt an Mittelschulen / Didaktik der Mittelschule (Lehramt)](lehramt-an-mittelschulen-didaktik-der-mittelschule-lehramt.md) — Staatsexamen
+- [Lehramt an Realschulen (Lehramt)](lehramt-an-realschulen-lehramt.md) — Staatsexamen
+- [Lehramtsbezogener Masterstudiengang Gymnasium M.Ed. (M.Ed.)](lehramtsbezogener-masterstudiengang-gymnasium-m-ed-m-ed.md) — Master of Education
+- [Linguistik (M.A.)](linguistik-m-a.md) — Master of Arts
+- [Literatur und Buch (B.A.)](literatur-und-buch-b-a.md) — Bachelor of Arts
+- [Literaturstudien – medial und transkulturell (M.A.)](literaturstudien-medial-und-transkulturell-m-a.md) — Master of Arts
+- [Logopädie (B.Sc.)](logopaedie-b-sc.md) — Bachelor of Science
+- [Magister Legum (LL.M.)](magister-legum-ll-m.md) — Master of Laws
+- [Management (M.Sc.)](management-m-sc.md) — Master of Science
+- [Marketing (M.Sc.)](marketing-m-sc.md) — Master of Science
+- [Marketing- und Vertriebsmanagement (M.Sc.)](marketing-und-vertriebsmanagement-m-sc.md) — Master of Science
+- [Maschinenbau (B.Sc.)](maschinenbau-b-sc.md) — Bachelor of Science
+- [Maschinenbau (M.Sc.)](maschinenbau-m-sc.md) — Master of Science
+- [Materials Science and Engineering (M.Sc.)](materials-science-and-engineering-m-sc.md) — Master of Science
+- [Materialwissenschaft und Werkstofftechnik (B.Sc.)](materialwissenschaft-und-werkstofftechnik-b-sc.md) — Bachelor of Science
+- [Mathematik (B.Sc.)](mathematik-b-sc.md) — Bachelor of Science
+- [Mathematik (Lehramt)](mathematik-lehramt.md) — Staatsexamen
+- [Mathematik (M.Sc.)](mathematik-m-sc.md) — Master of Science
+- [Mechatronik (B.Sc.)](mechatronik-b-sc.md) — Bachelor of Science
+- [Mechatronik (M.Sc.)](mechatronik-m-sc.md) — Master of Science
+- [Medical Process Management (MPM) (M.Sc.)](medical-process-management-mpm-m-sc.md) — Master of Science
+- [Medien, Ethik, Religion (M.A.)](medien-ethik-religion-m-a.md) — Master of Arts
+- [Medienpädagogik (Lehramt)](medienpaedagogik-lehramt.md) — Staatsexamen
+- [Medienwissenschaft (M.A.)](medienwissenschaft-m-a.md) — Master of Arts
+- [Medizin (Staatsexamen)](medizin-staatsexamen.md) — Staatsexamen (außer Lehramt)
+- [Medizin Erlangen/Bayreuth (Staatsexamen)](medizin-erlangen-bayreuth-staatsexamen.md) — Staatsexamen (außer Lehramt)
+- [Medizintechnik (B.Sc.)](medizintechnik-b-sc.md) — Bachelor of Science
+- [Medizintechnik (M.Sc.)](medizintechnik-m-sc.md) — Master of Science
+- [Mittelalter und Frühe Neuzeit (M.A.)](mittelalter-und-fruehe-neuzeit-m-a.md) — Master of Arts
+- [Mittellatein und Neulatein (B.A.)](mittellatein-und-neulatein-b-a.md) — Bachelor of Arts
+- [Modulstudien Naturale: Naturwissenschaften und Nachhaltigkeit (Modulstudien)](modulstudien-naturale-naturwissenschaften-und-nachhaltigkeit-modulstudien.md) — Zertifikat (Modulstudien)
+- [Molecular Medicine (M.Sc.)](molecular-medicine-m-sc.md) — Master of Science
+- [Molecular Science (B.Sc.)](molecular-science-b-sc.md) — Bachelor of Science
+- [Molecular Science (M.Sc.)](molecular-science-m-sc.md) — Master of Science
+- [Molekulare Medizin (B.Sc.)](molekulare-medizin-b-sc.md) — Bachelor of Science
+- [Musik (Lehramt)](musik-lehramt.md) — Staatsexamen
+- [Nahoststudien (M.A.)](nahoststudien-m-a.md) — Master of Arts
+- [Nanotechnologie (B.Sc.)](nanotechnologie-b-sc.md) — Bachelor of Science
+- [Nanotechnology (M.Sc.)](nanotechnology-m-sc.md) — Master of Science
+- [North American Studies: Culture and Literature (M.A.)](north-american-studies-culture-and-literature-m-a.md) — Master of Arts
+- [Organisations- und Personalentwicklung (M.A.)](organisations-und-personalentwicklung-m-a.md) — Master of Arts
+- [Orientalistik (B.A.)](orientalistik-b-a.md) — Bachelor of Arts
+- [Pharmazie (Staatsexamen)](pharmazie-staatsexamen.md) — Staatsexamen (außer Lehramt)
+- [Philosophie (B.A.)](philosophie-b-a.md) — Bachelor of Arts
+- [Philosophie (M.A.)](philosophie-m-a.md) — Master of Arts
+- [Philosophie/Ethik (Lehramt)](philosophie-ethik-lehramt.md) — Staatsexamen
+- [Physical Activity and Health (M.A.)](physical-activity-and-health-m-a.md) — Master of Arts
+- [Physical Geography: Climate and Environmental Sciences (M.Sc.)](physical-geography-climate-and-environmental-sciences-m-sc.md) — Master of Science
+- [Physics (M.Sc.)](physics-m-sc.md) — Master of Science
+- [Physik (B.Sc.)](physik-b-sc.md) — Bachelor of Science
+- [Physik (Lehramt)](physik-lehramt.md) — Staatsexamen
+- [Politik und Gesellschaft (Lehramt)](politik-und-gesellschaft-lehramt.md) — Staatsexamen
+- [Politikwissenschaft (B.A.)](politikwissenschaft-b-a.md) — Bachelor of Arts
+- [Politikwissenschaft (M.A.)](politikwissenschaft-m-a.md) — Master of Arts
+- [Praxisorientiertes Basiswissen BWL (Zertifikat)](praxisorientiertes-basiswissen-bwl-zertifikat.md) — Zertifikat (Zusatzstudium)
+- [Psychologie (B.Sc.)](psychologie-b-sc.md) — Bachelor of Science
+- [Psychologie (M.Sc.)](psychologie-m-sc.md) — Master of Science
+- [Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie (M.Sc.)](psychologie-mit-schwerpunkt-klinische-psychologie-und-psychotherapie-m-sc.md) — Master of Science
+- [Pädagogik (B.A.)](paedagogik-b-a.md) — Bachelor of Arts
+- [Pädagogik (M.A.)](paedagogik-m-a.md) — Master of Arts
+- [Recht und Informatik (LL.M.)](recht-und-informatik-ll-m.md) — Master of Laws
+- [Rechtswissenschaft (Staatsexamen)](rechtswissenschaft-staatsexamen.md) — Staatsexamen (außer Lehramt)
+- [SCHRIFT-MEDIEN-KULTUR und Digitale Transformation (M.A.)](schrift-medien-kultur-und-digitale-transformation-m-a.md) — Master of Arts
+- [Sinologie (B.A.)](sinologie-b-a.md) — Bachelor of Arts
+- [Skandinavistik (B.A.)](skandinavistik-b-a.md) — Bachelor of Arts
+- [Sozialökonomik (B.A.)](sozialoekonomik-b-a.md) — Bachelor of Arts
+- [Sozialökonomik (M.Sc.)](sozialoekonomik-m-sc.md) — Master of Science
+- [Soziologie (B.A.)](soziologie-b-a.md) — Bachelor of Arts
+- [Soziologie (M.A.)](soziologie-m-a.md) — Master of Arts
+- [Spanisch (Lehramt)](spanisch-lehramt.md) — Staatsexamen
+- [Sport (Lehramt)](sport-lehramt.md) — Staatsexamen
+- [Standards of Decision-Making Across Cultures (M.A.)](standards-of-decision-making-across-cultures-m-a.md) — Master of Arts
+- [Studium Philosophicum (Modulstudien)](studium-philosophicum-modulstudien.md) — kein Abschluss (Modulstudien)
+- [Sustainability Management (MBA)](sustainability-management-mba.md) — Master of Business Administration
+- [Technomathematik (B.Sc.)](technomathematik-b-sc.md) — Bachelor of Science
+- [Theater – Forschung – Vermittlung (M.A.)](theater-forschung-vermittlung-m-a.md) — Master of Arts
+- [Theater- und Medienwissenschaft (B.A.)](theater-und-medienwissenschaft-b-a.md) — Bachelor of Arts
+- [Wirtschaftsinformatik (B.Sc.)](wirtschaftsinformatik-b-sc.md) — Bachelor of Science
+- [Wirtschaftsingenieurwesen (B.Sc.)](wirtschaftsingenieurwesen-b-sc.md) — Bachelor of Science
+- [Wirtschaftsingenieurwesen (M.Sc.)](wirtschaftsingenieurwesen-m-sc.md) — Master of Science
+- [Wirtschaftsmathematik (B.Sc.)](wirtschaftsmathematik-b-sc.md) — Bachelor of Science
+- [Wirtschaftsmathematik (M.Sc.)](wirtschaftsmathematik-m-sc.md) — Master of Science
+- [Wirtschaftspädagogik (M.Sc.)](wirtschaftspaedagogik-m-sc.md) — Master of Science
+- [Wirtschaftswissenschaften (B.A.)](wirtschaftswissenschaften-b-a.md) — Bachelor of Arts
+- [Wirtschaftswissenschaften (Lehramt)](wirtschaftswissenschaften-lehramt.md) — Staatsexamen
+- [Zahnerhaltung (M.Sc.)](zahnerhaltung-m-sc.md) — Master of Science
+- [Zahnmedizin (Staatsexamen)](zahnmedizin-staatsexamen.md) — Staatsexamen (außer Lehramt)
+- [Zell- und Molekularbiologie (M.Sc.)](zell-und-molekularbiologie-m-sc.md) — Master of Science
+- [Zusatzstudien Zertifikat "FAU Lehramt International" (Zertifikat)](zusatzstudien-zertifikat-fau-lehramt-international-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
+- [Öffentliches Recht (B.A.)](oeffentliches-recht-b-a.md) — Bachelor of Arts
+- [Ökonomie (B.A.)](oekonomie-b-a.md) — Bachelor of Arts

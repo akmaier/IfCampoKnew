@@ -8,20 +8,30 @@ An **AI-readable markdown corpus** built from the public parts of [FAU Campo](ht
 
 ## What this repo is
 
-A self-contained markdown corpus + the Python tooling that builds it. Browse on github.com or feed the files to an agent.
+A self-contained markdown corpus + the Python tooling that builds it. Three sources, one corpus:
 
 ```
-data/{period-slug}/
-    INDEX.md                                   # root: links to all sections
-    {section-slug-id}/
-        INDEX.md                               # section: links to programs
-        {program-slug-id}/
-            INDEX.md                           # program: links to PO-versions
-            {po-version-slug-id}.md            # leaf: course-level content (phase 2)
-        {program-slug-id}.md                   # leaf-program (no PO sub-tree)
+data/
+├── {period-slug}/                            # Campo course catalogue per semester
+│   ├── INDEX.md                              # root: links to all sections
+│   ├── {section-slug-id}/
+│   │   ├── INDEX.md                          # section: links to programs
+│   │   └── {program-slug-id}/
+│   │       ├── INDEX.md                      # program: links to PO-versions
+│   │       ├── {po-or-course-slug-id}.md     # PO-version OR full course content
+│   │       └── …
+│   └── …
+├── studiengang/                              # FAU.de program info pages (222 programs)
+│   ├── INDEX.md
+│   └── {slug}.md                             # ~3-5k tok per program
+└── pruefungsordnungen/                       # FAU.de Prüfungsordnungen + PDFs
+    ├── INDEX.md
+    └── {faculty}/{program}/
+        ├── INDEX.md                          # landing page (intro + PDF list)
+        └── {pdf-slug}.md                     # converted PDF (10-30k tok typical)
 ```
 
-Slugs are Campo-faithful German with ASCII-folded umlauts (`ä→ae`, `ß→ss`); every basename ends in `-<segmentId>` so links survive Campo renames.
+Slugs are Campo/FAU-faithful German with ASCII-folded umlauts (`ä→ae`, `ß→ss`); every Campo basename ends in `-<segmentId>` so links survive renames.
 
 ## Why a markdown corpus, not a website?
 
@@ -31,12 +41,14 @@ Original plan was a Web Components SPA on GitHub Pages. After analysis we realis
 
 | Path | What's in it |
 |---|---|
-| [`data/`](data/) | The corpus. One folder per scraped semester. **The deliverable.** |
-| [`scraper/`](scraper/) | Python pipeline: catalogue walk → JSON intermediate → markdown render. See [`scraper/README.md`](scraper/README.md). |
+| [`data/{period-slug}/`](data/) | Campo per-semester corpus (catalogue tree + course detail). **The primary deliverable.** |
+| [`data/studiengang/`](data/) | FAU.de Studiengang info — one markdown per program (222). |
+| [`data/pruefungsordnungen/`](data/) | FAU.de regulations — landing pages + each PO converted from PDF. |
+| [`scraper/`](scraper/) | Python pipeline. See [`scraper/README.md`](scraper/README.md). |
 | [`docs/campo-public-surface.md`](docs/campo-public-surface.md) | Inventory of every Campo page/flow reachable without logging in, plus the working POST recipe and deep-link patterns we use. |
 | [`docs/requirements.md`](docs/requirements.md) | v2-locked requirements (markdown-corpus pivot, decisions log, open items). |
 | [`devlog.md`](devlog.md) | Chronological log of every prompt → actions → findings → time spent. |
-| [`tmp/`](tmp/) | *(gitignored)* JSON snapshots from the scraper, regenerated each run. |
+| [`tmp/`](tmp/) | *(gitignored)* JSON snapshots and downloaded PDFs, regenerated each run. |
 
 ## Quick start
 
@@ -45,28 +57,32 @@ Original plan was a Web Components SPA on GitHub Pages. After analysis we realis
 python3 -m venv scraper/.venv
 scraper/.venv/bin/pip install -r scraper/requirements.txt
 
-# scrape SoSe 2026 catalogue tree (≈12 GETs at 1 req/s ≈ 15 s for depth 4)
-scraper/.venv/bin/python scraper/scrape.py \
-    --period 589 --out tmp/589.json --max-depth 4 -v
+# Campo (per-semester catalogue + course detail)
+scraper/.venv/bin/python scraper/scrape.py        --period 589 --out tmp/589.json --max-depth 4 -v
+scraper/.venv/bin/python scraper/fetch_courses.py --in tmp/589.json --out tmp/589-courses.json -v
+scraper/.venv/bin/python scraper/render_markdown.py --in tmp/589.json --courses tmp/589-courses.json --out data
 
-# render to markdown
-scraper/.venv/bin/python scraper/render_markdown.py \
-    --in tmp/589.json --out data
+# FAU.de (programs + Prüfungsordnungen — single-script pipeline)
+scraper/.venv/bin/python scraper/fau_corpus.py --out data --tmp tmp/fau-pdfs -v
 ```
 
-Browse the result in `data/589-sommersemester-2026/`.
+Browse the result under `data/`.
 
 ## Roadmap
 
 | Phase | Status | What it covers |
 |------|:------:|----------------|
-| Public-surface analysis | ✅ done | What Campo exposes anonymously; HTTP/JSF mechanics; deep-link patterns. |
-| Requirements (v1 → v2 pivot) | ✅ locked | v1 was a Web Components UI; v2 is the markdown corpus. |
-| Catalogue skeleton (depth 4) | ✅ done | 1 895 nodes for SoSe 2026; folders + INDEX.md + leaf placeholders. |
-| Full-depth catalogue walk | ⏳ next | `--max-depth 0` to bottom out every `exam:` chain; run via GitHub Action. |
-| Course content attachment | ⏳ next | Fetch each course's *Termine + Inhalte + Module memberships*, embed in the corpus. |
+| Public-surface analysis | ✅ | What Campo exposes anonymously; HTTP/JSF mechanics; deep-link patterns. |
+| Requirements (v1 → v2 pivot) | ✅ | v1 was a Web Components UI; v2 is the markdown corpus. |
+| Catalogue skeleton (depth 4) | ✅ | 1 895 nodes for SoSe 2026; folders + INDEX.md + leaf placeholders. |
+| Course content attachment | ✅ | Fetch each course's *Termine + Eckdaten + Lehrende*, embed in the corpus (683/683 ok for SoSe 2026). |
+| Weekly GitHub Action — Campo | ✅ | Mondays 03:00 UTC: scrape, render, commit, cut a Release. |
+| FAU.de Studiengang corpus | ✅ | 222 programs, one markdown per page, with Steckbrief + sections + external links. |
+| FAU.de Prüfungsordnungen corpus | ✅ | 36 landing pages + every linked PDF converted to markdown via PyMuPDF4LLM. |
+| Monthly GitHub Action — FAU.de | ✅ | First of each month, 04:00 UTC. |
+| Full-depth catalogue walk | ⏳ | `--max-depth 0` to bottom out every `exam:` chain; capture Tech/Nat/Med/RW Fak courses (deeper than 4). |
 | F-TOKEN bucket policy | ⏳ | Merge thin / split thick content files into 10–30 k-token chunks. |
-| Weekly GitHub Action | ⏳ | Mondays 03:00 UTC: scrape, render, commit, cut a Release. |
+| Cross-link Campo ↔ FAU.de | ⏳ | Every Campo program node gets a "Siehe auch" line pointing to the FAU.de page + matching PO PDF. |
 | Archive prior years | later | `archive/{year-slug}/` per completed academic year. |
 
 See [`docs/requirements.md` §9](docs/requirements.md) for the full plan and open items (token-counting library, course-association strategy, next semester's `periodId`).
