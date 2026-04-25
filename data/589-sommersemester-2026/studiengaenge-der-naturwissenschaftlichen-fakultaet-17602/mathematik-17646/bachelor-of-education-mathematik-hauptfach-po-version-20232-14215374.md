@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Status
 
 This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+
+## Verwandte Prüfungsordnungs-PDFs (FAU.de)
+
+- [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20230731.pdf](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20230731.md)
+- [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/sammel-aesa-masterbewerbung-20230731-aes.md)

@@ -494,5 +494,44 @@ PO-version-level matching (Campo `exam:NNN` → specific PDF by version year) is
 
 **Status:** Entry 0009 closes the cross-linking task. Roadmap items still pending: full-depth catalogue walk (capture Tech/Nat/Med/RW Fak courses below depth 4 — best left to the GH Action), F-TOKEN bucket policy.
 
+---
+
+## Entry 0010 — PO-version → PDF matching + full-depth walk
+
+- **Start:** 2026-04-25 21:08 CEST
+- **End:** 2026-04-25 21:24 CEST
+- **Duration:** ~16 min (interactive); plus a long-running BG walk
+
+**Prompt (verbatim):**
+
+> Go ahead
+
+**Plan:** kick off the full-depth catalogue walk in the background (it will run for hours), and use the time to (a) survey the corpus token distribution and (b) close the precision gap on PO-version → PDF cross-linking.
+
+**Actions:**
+
+1. Started `scrape.py --period 589 --max-depth 0` in the background (`--max-depth 0` = unlimited, hard cap 12). At 1 req/s the run is expected to take 1–3 hours.
+2. **Token-distribution survey** of the existing `data/` (4 956 files, ≈27 M tokens):
+
+   | bucket | count | share |
+   |---|--:|--:|
+   | < 200 tok | 30 | 0.6 % |
+   | 200 – 1 k | 2 009 | 40.5 % |
+   | 1 k – 5 k | 1 419 | 28.6 % |
+   | 5 k – 10 k | 703 | 14.2 % |
+   | 10 k – 30 k | 659 | 13.3 % |
+   | > 30 k | 136 | 2.7 % |
+
+   The 200-1k bulk is mostly Campo PO-version stubs (no courses attached at depth 4). Will tighten when the deep walk + course attachment land. The >30 k tail is exclusively Lehramt regulation PDFs (StuPO/LAPO consolidated, ~30-37 k tok each) — splitting risks breaking legal-reference structure, so leaving them whole.
+3. Implemented **PO-version → FAU PDF matching** in `scraper/render_markdown.py`:
+   - `_po_version_years()` extracts the leading 4-digit year from Campo PO-version names (`Bachelor of Science Informatik PO-Version 20242` → `2024`).
+   - `_po_pdfs_for_version()` walks the matching PO folder for the parent program, returns every PDF whose filename contains that year.
+   - `_related_pdf_section()` renders a `## Verwandte Prüfungsordnungs-PDFs (FAU.de)` block.
+   - Wired into the leaf-rendering branch of `render_corpus`: depth-4 `exam:NNN` leaves whose parent program is at `path[2]` get the section appended after the existing leaf or course content.
+4. Re-rendered the SoSe 2026 corpus: `fau_links` rose from **123 → 142**. Spot-checked Lehramt Gymnasium Mathematik PO-Version 20192 → linked to 10 dated 2019 PDFs (FPOMathe / FPOTechnoMathe / FPOWiMathe consolidated + amendments + EN translations).
+5. 15-test pytest suite still green.
+
+**Status:** Entry 0010 ships PO-version precision links. Awaiting full-depth walk for course-content attachment under Tech/Nat/Med/RW Fak.
+
 
 

@@ -13,3 +13,10 @@ period_name: "Sommersemester 2026"
 ## Status
 
 This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+
+## Verwandte Prüfungsordnungs-PDFs (FAU.de)
+
+- [PDF vom 07.06.2011 i.d.F. 03.07.2015](../../../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-juli2015.md)
+- [PDF vom 05.12.2008 i.d.F. 03.07.2015](../../../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemie-bioingenieurwesen-juli2015.md)
+- [PDF vom 24.09.2007 i.d.F. 03.07.2015](../../../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-lifesceng-juli2015.md)
+- [PDF vom 15.12.2008 i.d.F. 02.07.2015](../../../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-energietechnik-ba-ma-juli2015.md)

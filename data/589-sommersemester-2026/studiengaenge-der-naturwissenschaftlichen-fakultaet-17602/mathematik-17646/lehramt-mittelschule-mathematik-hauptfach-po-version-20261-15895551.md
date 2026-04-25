@@ -13,3 +13,10 @@ period_name: "Sommersemester 2026"
 ## Status
 
 This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+
+## Verwandte Prüfungsordnungs-PDFs (FAU.de)
+
+- [FPODataScience 20260305.pdf](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)
+- [FPOMathe 20260305.pdf](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20260305.md)
+- [FPOTechnomathe 20260305.pdf](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20260305.md)
+- [FPOWiMathe 20260305.pdf](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md)

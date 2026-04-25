@@ -13,3 +13,7 @@ period_name: "Sommersemester 2026"
 ## Status
 
 This is a leaf at the catalogue depth scraped. The Campo permalink above navigates to this node. Course-level details (instructors, schedules, Inhalte) are not yet attached and will be filled in by a later scraper pass that joins to the search-flow.
+
+## Verwandte Prüfungsordnungs-PDFs (FAU.de)
+
+- [PDF vom 07.09.2007 i.d.F. 30.07.2010](../../../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/po-bachelor-ma-mathe-technomathe-neu-ws-2010-2011.md)

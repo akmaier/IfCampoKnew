@@ -459,6 +459,73 @@ def _related_fau_section(node: dict, fau_index: dict, md_file: Path, out_root: P
     return "\n".join(lines)
 
 
+_PO_VERSION_YEAR_RE = re.compile(r"PO-Version\s+(\d{4})\d?", re.IGNORECASE)
+
+
+def _po_version_years(name: str) -> list[str]:
+    """Years implied by a Campo PO-version name.
+
+    Campo writes them as ``PO-Version 2007`` (single year) or
+    ``PO-Version 20222`` (year + variant digit). We return the leading
+    4-digit year — that's the one that turns up in FAU PDF filenames.
+    """
+    m = _PO_VERSION_YEAR_RE.search(name)
+    return [m.group(1)] if m else []
+
+
+def _po_pdfs_for_version(
+    po_node: dict,
+    program_node: dict,
+    fau_index: dict,
+    out_root: Path,
+    md_file: Path,
+) -> list[tuple[str, str]]:
+    """For a Campo PO-version leaf, list FAU PO PDFs whose filename
+    mentions the same 4-digit year. Returns ``[(label, rel_link), …]``.
+    """
+    related = _find_related_fau(program_node, fau_index)
+    if not related["po_folders"]:
+        return []
+    years = _po_version_years(po_node["name"])
+    if not years:
+        return []
+    matches: list[tuple[str, str]] = []
+    seen: set[Path] = set()
+    for po_folder in related["po_folders"]:
+        folder = out_root / po_folder["rel_dir"]
+        for pdf_md in sorted(folder.glob("*.md")):
+            if pdf_md.name == "INDEX.md" or pdf_md in seen:
+                continue
+            stem = pdf_md.stem
+            if not any(y in stem for y in years):
+                continue
+            seen.add(pdf_md)
+            fm = _parse_frontmatter(pdf_md)
+            label = fm.get("title") or stem
+            link = _relative_link_from(
+                md_file, pdf_md.relative_to(out_root).as_posix(), out_root
+            )
+            matches.append((label, link))
+    return matches
+
+
+def _related_pdf_section(
+    po_node: dict,
+    program_node: dict,
+    fau_index: dict,
+    out_root: Path,
+    md_file: Path,
+) -> str:
+    pdfs = _po_pdfs_for_version(po_node, program_node, fau_index, out_root, md_file)
+    if not pdfs:
+        return ""
+    lines = ["## Verwandte Prüfungsordnungs-PDFs (FAU.de)", ""]
+    for label, link in pdfs:
+        lines.append(f"- [{label}]({link})")
+    lines.append("")
+    return "\n".join(lines)
+
+
 def render_corpus(
     snapshot: dict, out_root: Path, *, courses: dict | None = None
 ) -> dict:
@@ -539,18 +606,30 @@ def render_corpus(
                 if children_of.get(ch["segment"]):
                     walk(ch["segment"], folder / base_name)
                 else:
+                    leaf_file = folder / f"{base_name}.md"
                     course = courses_by_uid.get(int(ch.get("unitId") or 0))
                     if course:
-                        (folder / f"{base_name}.md").write_text(
-                            render_course_md(ch, course, period_id, period_name),
-                            encoding="utf-8",
-                        )
+                        content = render_course_md(ch, course, period_id, period_name)
                         stats["courses_embedded"] += 1
                     else:
-                        (folder / f"{base_name}.md").write_text(
-                            render_leaf_md(ch, period_id, period_name),
-                            encoding="utf-8",
-                        )
+                        content = render_leaf_md(ch, period_id, period_name)
+
+                    # PO-version → matching FAU PO PDF: only for depth-4
+                    # exam:NNN leaves whose parent program node we can resolve.
+                    if (
+                        len(ch["path"]) == 4
+                        and ch["segment"].startswith("exam:")
+                    ):
+                        program_seg = ch["path"][2]
+                        program_node = by_segment.get(program_seg)
+                        if program_node:
+                            pdf_section = _related_pdf_section(
+                                ch, program_node, fau_index, out_root, leaf_file
+                            )
+                            if pdf_section:
+                                content = content.rstrip() + "\n\n" + pdf_section
+                                stats["fau_links"] += 1
+                    leaf_file.write_text(content, encoding="utf-8")
                     stats["leaf_files"] += 1
         else:
             # Root with no children — degenerate but keep the file.
