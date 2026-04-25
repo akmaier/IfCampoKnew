@@ -21,3 +21,10 @@ period_name: "Sommersemester 2026"
 - [Lehramt Mittelschule Katholische Religionslehre Didaktikfach PO-Version 20162](lehramt-mittelschule-katholische-religionslehre-didaktikfach-po-version-20162-15198852.md) — `exam:15198852`
 - [Lehramt Mittelschule Katholische Religionslehre Didaktikfach PO-Version 20212](lehramt-mittelschule-katholische-religionslehre-didaktikfach-po-version-20212-15198830.md) — `exam:15198830`
 - [Lehramt Mittelschule Katholische Religionslehre Didaktikfach PO-Version 20242](lehramt-mittelschule-katholische-religionslehre-didaktikfach-po-version-20242-15198886.md) — `exam:15198886`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [LA Katholische Religionslehre 20210415 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-katholische-religionslehre-20210415-aes.md)
+- [LA Katholische Religionslehre FPO LA KathRel 20090727 i.d.F. 20210415.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-katholische-religionslehre-fpo-la-kathrel-20090727-idf-20210415.md)
+- [LA Katholische Religionslehre FPO LA KathRel 20240118.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-katholische-religionslehre-fpo-la-kathrel-20240118.md)

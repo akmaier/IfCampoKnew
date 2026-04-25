@@ -13,3 +13,13 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Lehramt Mittelschule Arbeitslehre Didaktikfach PO-Version 20162](lehramt-mittelschule-arbeitslehre-didaktikfach-po-version-20162-15529197.md) — `exam:15529197`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [14. September 2015](../../../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-la-arbeitslehre.md)
+- [LA Arbeitslehre FPO LA ArbL 20090727 i.d.F. 20190913.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-arbeitslehre-fpo-la-arbl-20090727-idf-20190913.md)
+- [LA Arbeitslehre FPO LA ArbL 20190913 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-arbeitslehre-fpo-la-arbl-20190913-aes.md)
+- [LA Arbeitslehre FPO LA ArbL 20210301 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-arbeitslehre-fpo-la-arbl-20210301-aes.md)
+- [pdf vom 27.07.2009](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lehramt-arbeitslehre-neu.md)
+- [pdf vom 27.07.2009 i.d.F. 14.09.2015](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lehramt-arbeitslehre-sept2015.md)

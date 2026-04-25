@@ -14,3 +14,16 @@ period_name: "Sommersemester 2026"
 
 - [Lehramt Gymnasium Italienisch Hauptfach PO-Version 20172](lehramt-gymnasium-italienisch-hauptfach-po-version-20172-15115498.md) — `exam:15115498`
 - [Lehramt Gymnasium Italienisch Hauptfach PO-Version 20212](lehramt-gymnasium-italienisch-hauptfach-po-version-20212-15115387.md) — `exam:15115387`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [24. September 2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20la-italienisch.md)
+- [29. September 2014](../../../pruefungsordnungen/lehramt/lehramtsfaecher/2aes-la-italienisch.md)
+- [8. August 2017](../../../pruefungsordnungen/lehramt/lehramtsfaecher/3aesa-fpo-la-italienisch.md)
+- [LA Italienisch 20210624 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-italienisch-20210624-aes.md)
+- [LA Italienisch FPO LA Italienisch 20090325 i.d.F. 20210624.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-italienisch-fpo-la-italienisch-20090325-idf-20210624.md)
+- [pdf vom 25.03.2009 i.d.F. 08.08.2017](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-italienisch-aug2017.md)
+- [pdf vom 25.03.2009 i.d.F. 24.09.2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-italienisch-neu-ws2010-2011.md)
+- [pdf vom 25.03.2009 i.d.F. 24.09.2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-italienisch-neu.md)
+- [pdf vom 25.03.2009 i.d.F. 29.09.2014](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-italienisch-sept2014.md)

@@ -41,3 +41,28 @@ period_name: "Sommersemester 2026"
 - [Lehramt Realschule Deutsch Hauptfach PO-Version 20202](lehramt-realschule-deutsch-hauptfach-po-version-20202-14925787.md) — `exam:14925787`
 - [Lehramt Realschule Deutsch Hauptfach PO-Version 20222](lehramt-realschule-deutsch-hauptfach-po-version-20222-14925986.md) — `exam:14925986`
 - [Zusätzliches Angebot Fachdidaktik Deutsch (Freier Bereich)](zusaetzliches-angebot-fachdidaktik-deutsch-freier-bereich-18403.md) — `title:18403`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [28. September 2009](../../../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20lapo-deutsch.md)
+- [31. März 2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/2aes-20la-deutsch.md)
+- [28. März 2011](../../../pruefungsordnungen/lehramt/lehramtsfaecher/3aes-20la-deutsch.md)
+- [29. November 2011](../../../pruefungsordnungen/lehramt/lehramtsfaecher/4aes-20la-deutsch-1.md)
+- [25. Mai 2012](../../../pruefungsordnungen/lehramt/lehramtsfaecher/5aes-la-deutsch.md)
+- [16. Januar 2015](../../../pruefungsordnungen/lehramt/lehramtsfaecher/6aes-la-deutsch.md)
+- [24. September 2015](../../../pruefungsordnungen/lehramt/lehramtsfaecher/7aes-la-deutsch.md)
+- [LA Deutsch als Zweitsprache FPO LA DaZ 20220811 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-als-zweitsprache-fpo-la-daz-20220811-aes.md)
+- [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20200203.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200203.md)
+- [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20200923.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200923.md)
+- [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20220914.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20220914.md)
+- [LA Deutsch FPO LA Deutsch 20200203 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20200203-aes.md)
+- [LA Deutsch FPO LA Deutsch 20200923 ÄS zu 9ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20200923-aes-zu-9aes.md)
+- [LA Deutsch FPO LA Deutsch 20220914 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20220914-aes.md)
+- [pdf vom 26.02.2009 i.d.F. 16.01.2015](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-feb2015.md)
+- [pdf vom 26.02.2009 i.d.F. 28.03.2011](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-maerz2011.md)
+- [pdf vom 26.02.2009 i.d.F. 25.05.2012](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-mai2012.md)
+- [pdf vom 26.02.2009 i.d.F. 10.11.2016](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-nov2016.md)
+- [pdf vom 26.02.2009 i.d.F. 29.11.2011](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-november2011.md)
+- [pdf vom 26.02.2009 i.d.F. 24.09.2015](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-sept2015.md)
+- [pdf vom 26.02.2009 i.d.F. 31.03.2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu.md)

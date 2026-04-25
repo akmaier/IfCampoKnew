@@ -18,3 +18,9 @@ period_name: "Sommersemester 2026"
 - [Erweiterungsprüfung Realschule Didaktik des Deutschen als Zweitsprache Hauptfach PO-Version 2007](erweiterungspruefung-realschule-didaktik-des-deutschen-als-zweitsprache-hauptfach-po-versio-15117486.md) — `exam:15117486`
 - [Lehramt Grundschule Didaktik des Deutschen als Zweitsprache Didaktikfach PO-Version 20162](lehramt-grundschule-didaktik-des-deutschen-als-zweitsprache-didaktikfach-po-version-20162-15115717.md) — `exam:15115717`
 - [Lehramt Mittelschule Didaktik des Deutschen als Zweitsprache Didaktikfach PO-Version 20162](lehramt-mittelschule-didaktik-des-deutschen-als-zweitsprache-didaktikfach-po-version-20162-15115739.md) — `exam:15115739`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [LA Deutsch als Zweitsprache FPO LA DaZ 20220811 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-als-zweitsprache-fpo-la-daz-20220811-aes.md)
+- [LA Didaktik des Deutschen als Zweitsprache FPO LA DiDaZ 20201123 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-didaktik-des-deutschen-als-zweitsprache-fpo-la-didaz-20201123-aes.md)

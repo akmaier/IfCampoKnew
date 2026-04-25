@@ -26,3 +26,20 @@ period_name: "Sommersemester 2026"
 - [Lehramt Mittelschule Englisch Hauptfach PO-Version 20202](lehramt-mittelschule-englisch-hauptfach-po-version-20202-15270018.md) — `exam:15270018`
 - [Lehramt Realschule Englisch Hauptfach PO-Version 2012](lehramt-realschule-englisch-hauptfach-po-version-2012-15270385.md) — `exam:15270385`
 - [Lehramt Realschule Englisch Hauptfach PO-Version 20202](lehramt-realschule-englisch-hauptfach-po-version-20202-15270230.md) — `exam:15270230`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [28. September 2009](../../../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20lapo-englisch.md)
+- [17. Dezember 2009](../../../pruefungsordnungen/lehramt/lehramtsfaecher/2aes-20lapo-englisch.md)
+- [31. März 2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/3aes-20la-englisch.md)
+- [15. Oktober 2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/4aes-20la-englisch.md)
+- [28. März 2011](../../../pruefungsordnungen/lehramt/lehramtsfaecher/5aes-20la-englisch.md)
+- [26. März 2012](../../../pruefungsordnungen/lehramt/lehramtsfaecher/6aes-20la-englisch.md)
+- [27. September 2013](../../../pruefungsordnungen/lehramt/lehramtsfaecher/7aes-la-englisch.md)
+- [LA Englisch 20090226 i.d.F. 20200124.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-englisch-20090226-idf-20200124.md)
+- [LA Englisch 20200124 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-englisch-20200124-aes.md)
+- [pdf vom 26.02.2009 i.d.F. 28.03.2011](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-englisch-maerz2011.md)
+- [pdf vom 26.02.2009 i.d.F. 26.03.2012](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-englisch-maerz2012.md)
+- [pdf vom 26.02.2009 i.d.F. 15.10.2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-englisch-neu.md)
+- [pdf vom 26.02.2009 i.d.F. 27.09.2013](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-englisch-sept2013.md)

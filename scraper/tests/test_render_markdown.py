@@ -19,6 +19,7 @@ sys.path.insert(0, str(ROOT_DIR))
 from render_markdown import (  # noqa: E402
     _candidate_slugs,
     _find_related_fau,
+    _lehramt_pdf_matches,
     _po_version_years,
     _strip_degree_suffix,
     load_fau_index,
@@ -211,3 +212,50 @@ def test_find_related_fau_unmatched(tiny_fau_corpus):
     node = {"name": "Nichtexistent", "path": ["title:1"]}
     rel = _find_related_fau(node, idx)
     assert rel == {"studiengang": [], "po_folders": []}
+
+
+# ── Lehramt PDF fallback ──────────────────────────────────────────────────
+
+
+@pytest.fixture
+def tiny_lehramt_corpus(tmp_path: Path) -> Path:
+    lehramt = tmp_path / "pruefungsordnungen" / "lehramt" / "lehramtsfaecher"
+    lehramt.mkdir(parents=True)
+    for stem in [
+        "1aes-20la-englisch",
+        "1aes-20lapo-englisch",
+        "1aes-20la-mathe",
+        "lapo-mathe-neu",
+        "1aes-la-arbeitslehre",
+        "1aes-20la-musik",
+    ]:
+        (lehramt / f"{stem}.md").write_text(
+            f"---\nkind: \"fau-pruefungsordnung-document\"\ntitle: \"{stem}.pdf\"\n---\n# {stem}\n",
+            encoding="utf-8",
+        )
+    return tmp_path
+
+
+def test_lehramt_match_exact_subject(tiny_lehramt_corpus):
+    idx = load_fau_index(tiny_lehramt_corpus)
+    node = {"name": "Englisch für das Lehramt", "path": []}
+    matches = _lehramt_pdf_matches(node, idx)
+    assert {m["stem"] for m in matches} == {"1aes-20la-englisch", "1aes-20lapo-englisch"}
+
+
+def test_lehramt_match_via_abbreviation(tiny_lehramt_corpus):
+    idx = load_fau_index(tiny_lehramt_corpus)
+    node = {"name": "Mathematik", "path": []}
+    matches = _lehramt_pdf_matches(node, idx)
+    assert {m["stem"] for m in matches} == {"1aes-20la-mathe", "lapo-mathe-neu"}
+
+
+def test_lehramt_match_no_false_positive_on_stopwords(tiny_lehramt_corpus):
+    """A node whose only meaningful tokens are stopwords (or "lehramt"
+    itself) must NOT match every Lehramt PDF in the corpus."""
+    idx = load_fau_index(tiny_lehramt_corpus)
+    node = {"name": "FAU Lehramt International", "path": []}
+    matches = _lehramt_pdf_matches(node, idx)
+    # 'lehramt' is a stopword; 'fau' / 'international' aren't tokens of any
+    # PDF in the fixture, so no matches should fire.
+    assert matches == []

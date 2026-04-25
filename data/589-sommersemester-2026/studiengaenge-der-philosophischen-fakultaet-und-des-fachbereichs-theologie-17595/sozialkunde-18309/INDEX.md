@@ -19,3 +19,15 @@ period_name: "Sommersemester 2026"
 - [Lehramt Mittelschule Sozialkunde Didaktikfach PO-Version 20162](lehramt-mittelschule-sozialkunde-didaktikfach-po-version-20162-15180364.md) — `exam:15180364`
 - [Lehramt Mittelschule Sozialkunde Hauptfach PO-Version 20162](lehramt-mittelschule-sozialkunde-hauptfach-po-version-20162-15180377.md) — `exam:15180377`
 - [Lehramt Realschule Sozialkunde Hauptfach PO-Version 20162](lehramt-realschule-sozialkunde-hauptfach-po-version-20162-15180508.md) — `exam:15180508`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [17. Dezember 2009](../../../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20lapo-sozialkunde-bisss2010.md)
+- [9. September 2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/2aes-20la-sozialkunde.md)
+- [1. August 2012](../../../pruefungsordnungen/lehramt/lehramtsfaecher/3aes-20la-sozialkunde.md)
+- [25. Oktober 2016](../../../pruefungsordnungen/lehramt/lehramtsfaecher/4aesa-la-sozialkunde.md)
+- [pdf vom 30.03.2009 i.d.F. 01.08.2012](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-sozialkunde-august2012.md)
+- [pdf vom 30.03.2009 i.d.F. 09.09.2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-sozialkunde-neu-ws2010-2011.md)
+- [pdf vom 30.03.2009 i.d.F. 17.12.2009](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-sozialkunde-neu.md)
+- [pdf vom 30.03.2009 i.d.F. 25.10.2016](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-sozialkunde-okt2016.md)

@@ -18,3 +18,17 @@ period_name: "Sommersemester 2026"
 - [Erweiterungsprüfung Hauptschule Darstellendes Spiel Hauptfach PO-Version 2007](erweiterungspruefung-hauptschule-darstellendes-spiel-hauptfach-po-version-2007-15532289.md) — `exam:15532289`
 - [Erweiterungsprüfung Mittelschule Darstellendes Spiel Hauptfach PO-Version 2013](erweiterungspruefung-mittelschule-darstellendes-spiel-hauptfach-po-version-2013-15529239.md) — `exam:15529239`
 - [Erweiterungsprüfung Realschule Darstellendes Spiel Hauptfach PO-Version 2007](erweiterungspruefung-realschule-darstellendes-spiel-hauptfach-po-version-2007-15533814.md) — `exam:15533814`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2014-15.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2014-15.md)
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2015-16.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2015-16.md)
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2016-17 Aussetzung der Immatrikulation.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2016-17-aussetzung-der-immatrikulation.md)
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2017-18.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2017-18.md)
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2018-19.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2018-19.md)
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2019-20.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2019-20.md)
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2020-21.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2020-21.md)
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2021-22.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2021-22.md)
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2022-23.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2022-23.md)
+- [Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2025-26 20250616 Aussetzung der Immatrikulation.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/ausbildungsplaetze-im-erweiterungsfach-darstellendes-spiel-2025-26-20250616-aussetzung-der-immatriku.md)

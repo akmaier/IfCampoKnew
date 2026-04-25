@@ -331,9 +331,13 @@ def _strip_degree_suffix(slug: str) -> str:
 def load_fau_index(out_root: Path) -> dict:
     """Build a small lookup of the FAU.de markdowns alongside the Campo corpus.
 
-    Returns a dict with two indexes keyed by *slugified base name*:
-      * ``studiengang``: name → list of {slug, title, fakultaet, rel_path}
-      * ``po_folders``:   name → list of {rel_dir, name (faculty/program)}
+    Returns a dict with three indexes:
+      * ``studiengang``  (keyed by slug-base): list of {slug, title, fakultaet, rel_path}
+      * ``po_folders``   (keyed by leaf folder name): list of {rel_dir, leaf, rel_index}
+      * ``lehramt_pdfs`` (a flat list of lehramt PDF entries with their stem
+        tokens) — for matching Campo Lehramt-subject nodes that have no
+        FAU.de Studiengang page but do have a regulation in
+        ``pruefungsordnungen/lehramt/lehramtsfaecher/``.
     """
     studiengang_by_base: dict[str, list[dict]] = {}
     sg_dir = out_root / "studiengang"
@@ -369,10 +373,66 @@ def load_fau_index(out_root: Path) -> dict:
                 }
             )
 
+    lehramt_pdfs: list[dict] = []
+    lehramt_dir = po_dir / "lehramt" / "lehramtsfaecher" if po_dir.is_dir() else None
+    if lehramt_dir and lehramt_dir.is_dir():
+        for pdf_md in sorted(lehramt_dir.glob("*.md")):
+            if pdf_md.name == "INDEX.md":
+                continue
+            tokens = set(pdf_md.stem.split("-"))
+            fm = _parse_frontmatter(pdf_md)
+            lehramt_pdfs.append(
+                {
+                    "stem": pdf_md.stem,
+                    "tokens": tokens,
+                    "title": fm.get("title", pdf_md.stem),
+                    "rel_path": pdf_md.relative_to(out_root).as_posix(),
+                }
+            )
+
     return {
         "studiengang": studiengang_by_base,
         "po_folders": po_folders_by_leaf,
+        "lehramt_pdfs": lehramt_pdfs,
     }
+
+
+_LEHRAMT_SUBJECT_ABBREVIATIONS = {
+    # Campo full token → token actually used in lehramtsfaecher PDF stems
+    "mathematik": "mathe",
+    "wirtschaftswissenschaften": "wirtschaftswiss",
+    "evangelische": "ev",
+    "katholische": "kath",
+    "informationstechnologie": "it",
+}
+
+
+def _lehramt_pdf_matches(node: dict, fau_index: dict) -> list[dict]:
+    """For a Campo node whose slug appears as a token in a Lehramt PDF
+    filename, return the matching PDFs. Avoids false positives by requiring
+    the campo slug (or a known abbreviation) to be a *complete* hyphen
+    token in the PDF stem.
+    """
+    pdfs = fau_index.get("lehramt_pdfs") or []
+    if not pdfs:
+        return []
+    name_slug = slugify(node["name"])
+    candidates: set[str] = set()
+    # full slug, plus its first non-stopword token, plus any known abbrev
+    stopwords = {"fuer", "der", "die", "das", "des", "dem", "in", "im", "mit", "an",
+                 "von", "als", "und", "oder", "ein", "eine", "lehramt"}
+    for tok in name_slug.split("-"):
+        if tok and tok not in stopwords and len(tok) >= 3:
+            candidates.add(tok)
+            if tok in _LEHRAMT_SUBJECT_ABBREVIATIONS:
+                candidates.add(_LEHRAMT_SUBJECT_ABBREVIATIONS[tok])
+    if not candidates:
+        return []
+    matches: list[dict] = []
+    for pdf in pdfs:
+        if pdf["tokens"] & candidates:
+            matches.append(pdf)
+    return matches
 
 
 def _candidate_slugs(name: str) -> list[str]:
@@ -438,7 +498,8 @@ def _relative_link_from(md_file: Path, target_rel_in_root: str, out_root: Path) 
 def _related_fau_section(node: dict, fau_index: dict, md_file: Path, out_root: Path) -> str:
     """Render the 'Verwandte FAU-Inhalte' block for a program node, or ''."""
     rel = _find_related_fau(node, fau_index)
-    if not rel["studiengang"] and not rel["po_folders"]:
+    lehramt = _lehramt_pdf_matches(node, fau_index) if not rel["studiengang"] else []
+    if not rel["studiengang"] and not rel["po_folders"] and not lehramt:
         return ""
     lines: list[str] = ["## Verwandte FAU-Inhalte"]
     if rel["studiengang"]:
@@ -455,6 +516,15 @@ def _related_fau_section(node: dict, fau_index: dict, md_file: Path, out_root: P
         for po in rel["po_folders"]:
             link = _relative_link_from(md_file, po["rel_index"], out_root)
             lines.append(f"- [{po['leaf']}]({link}) — `{po['rel_dir']}`")
+    if lehramt:
+        # Cap to a reasonable number to avoid overwhelming the index.
+        lines.append("")
+        lines.append("**Lehramts-Prüfungsordnungen:**")
+        for pdf in lehramt[:30]:
+            link = _relative_link_from(md_file, pdf["rel_path"], out_root)
+            lines.append(f"- [{pdf['title']}]({link})")
+        if len(lehramt) > 30:
+            lines.append(f"- … und {len(lehramt)-30} weitere unter `pruefungsordnungen/lehramt/lehramtsfaecher/`")
     lines.append("")
     return "\n".join(lines)
 

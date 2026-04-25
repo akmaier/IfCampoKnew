@@ -30,3 +30,14 @@ period_name: "Sommersemester 2026"
 - [Lehramt Realschule Sport Hauptfach PO-Version 2007](lehramt-realschule-sport-hauptfach-po-version-2007-15181374.md) — `exam:15181374`
 - [Lehramt Realschule Sport Hauptfach PO-Version 20232](lehramt-realschule-sport-hauptfach-po-version-20232-15185025.md) — `exam:15185025`
 - [Master of Education Sport Hauptfach PO-Version 20232](master-of-education-sport-hauptfach-po-version-20232-15187183.md) — `exam:15187183`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [31. März 2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20la-sport.md)
+- [14. März 2012](../../../pruefungsordnungen/lehramt/lehramtsfaecher/2aes-20la-sport.md)
+- [22. März 2013](../../../pruefungsordnungen/lehramt/lehramtsfaecher/3aes-la-sport.md)
+- [LA Sport FPO LA Sport 20230822.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-sport-fpo-la-sport-20230822.md)
+- [pdf vom 01.04.2009 i.d.F. 14.03.2012](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-sport-maerz2012.md)
+- [pdf vom 01.04.2009 i.d.F. 22.03.2013](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-sport-maerz2013.md)
+- [pdf vom 01.04.2009 i.d.F. 31.03.2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-sport-neu.md)

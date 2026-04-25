@@ -13,3 +13,8 @@ period_name: "Sommersemester 2026"
 ## Children (1)
 
 - [Lehramt Mittelschule Beruf und Wirtschaft Didaktikfach PO-Version 20202](lehramt-mittelschule-beruf-und-wirtschaft-didaktikfach-po-version-20202-15436940.md) — `exam:15436940`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [LA Beruf und Wirtschaft FPO LA BuW 20090727 i.d.F. 20210301.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-beruf-und-wirtschaft-fpo-la-buw-20090727-idf-20210301.md)

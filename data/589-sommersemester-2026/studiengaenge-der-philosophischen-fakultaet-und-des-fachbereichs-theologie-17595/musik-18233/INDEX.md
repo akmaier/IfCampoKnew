@@ -22,3 +22,12 @@ period_name: "Sommersemester 2026"
 - [Lehramt Mittelschule Musik Hauptfach PO-Version 20242](lehramt-mittelschule-musik-hauptfach-po-version-20242-15564060.md) — `exam:15564060`
 - [Lehramt Realschule Musik Hauptfach PO-Version 2007](lehramt-realschule-musik-hauptfach-po-version-2007-15563837.md) — `exam:15563837`
 - [Lehramt Realschule Musik Hauptfach PO-Version 20242](lehramt-realschule-musik-hauptfach-po-version-20242-15563963.md) — `exam:15563963`
+
+## Verwandte FAU-Inhalte
+
+**Lehramts-Prüfungsordnungen:**
+- [31. März 2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20la-musik.md)
+- [LA Musik 20220601 ÄS.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-musik-20220601-aes.md)
+- [LA Musik FPO LA Musik 20090326 i.d.F. 20220601.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-musik-fpo-la-musik-20090326-idf-20220601.md)
+- [LA Musik FPO LA Musik 20240904.pdf](../../../pruefungsordnungen/lehramt/lehramtsfaecher/la-musik-fpo-la-musik-20240904.md)
+- [pdf vom 26.03.2009 i.d.F. 31.03.2010](../../../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-musik-neu.md)
