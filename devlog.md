@@ -543,5 +543,34 @@ Match-rate after the fallback: **152 / 211 program-level nodes (72 %)** — 124 
 
 Commits: `5c2a018` (PO-version matching), `a61a838` (tests + README), `c93bf3d` (Lehramt fallback + tests).
 
+---
+
+## Entry 0011 — Checkpoint/resume for `scrape.py`
+
+- **Start:** 2026-04-26 09:50 CEST
+- **End:** 2026-04-26 10:05 CEST
+- **Duration:** ~15 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context)
+
+**Prompt (verbatim):**
+
+> 3 i have some more time today...
+
+(Choosing to let the long-running BG walk continue — at this point ~12 h 30 min and ~45 k requests in, no log visibility because the original launch piped through `tail -20`.)
+
+**Plan:** make future walks survivable. The current walk holds all state in memory; if the process is killed, every fetch is wasted. Adding periodic checkpoint writes + a `--resume` flag closes that loophole.
+
+**Actions:**
+
+1. Rewrote `scraper/scrape.py`:
+   - Every `--checkpoint-every` nodes (default 50), `_save_checkpoint()` flushes the in-flight `nodes` map and BFS `queue` to `<out>.checkpoint.json` (atomic write via a `.tmp` then `replace`).
+   - `--resume` reads the checkpoint, restores `nodes` + `queue`, skips the root fetch, and continues the BFS from the saved queue.
+   - Signal handlers for `SIGINT` / `SIGTERM` flush a final checkpoint before exiting (so a `Ctrl-C` or a CI-runner timeout doesn't lose work).
+   - When the walk completes cleanly the checkpoint is deleted (so future runs don't accidentally pick up a stale partial state).
+   - Increased per-step logging to `processed % 10 == 0 or kids > 0` so the CI runner shows real progress.
+2. Smoke-tested a fresh `--max-depth 2` run — 12 nodes written, no checkpoint left behind. All 45 existing tests still pass.
+
+**Status:** Entry 0011 ships scraper resilience. Big BG walk still running; if it finishes before the user comes back we keep the result, if it ever needs interrupting we can resume.
+
 
 
