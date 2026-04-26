@@ -18,6 +18,8 @@ sys.path.insert(0, str(ROOT_DIR))
 
 from render_markdown import (  # noqa: E402
     _candidate_slugs,
+    _compute_fold_set,
+    _estimate_folder_chars,
     _find_related_fau,
     _lehramt_pdf_matches,
     _po_version_years,
@@ -259,3 +261,76 @@ def test_lehramt_match_no_false_positive_on_stopwords(tiny_lehramt_corpus):
     # 'lehramt' is a stopword; 'fau' / 'international' aren't tokens of any
     # PDF in the fixture, so no matches should fire.
     assert matches == []
+
+
+# ── F-TOKEN folding logic ─────────────────────────────────────────────────
+
+
+def _mk_node(seg: str, parent: str | None = None, unit_id=None) -> dict:
+    return {
+        "segment": seg,
+        "parentSegment": parent,
+        "unitId": unit_id,
+        "name": seg,
+        "path": [seg] if parent is None else [parent, seg],
+    }
+
+
+def test_fold_set_includes_stub_only_program():
+    """A program with N stub leaves and combined size below threshold folds."""
+    parent = _mk_node("title:1")
+    kids = [_mk_node(f"exam:{i}", parent="title:1") for i in range(1, 6)]
+    by_segment = {n["segment"]: n for n in [parent] + kids}
+    children_of = {"title:1": kids}
+    courses_by_uid: dict[int, dict] = {}
+    fold = _compute_fold_set(by_segment, children_of, courses_by_uid)
+    assert "title:1" in fold
+
+
+def test_fold_set_excludes_folder_with_grandchildren():
+    """If any kid has its own children, the parent does NOT fold."""
+    parent = _mk_node("title:1")
+    kid_with_kids = _mk_node("title:2", parent="title:1")
+    grand = _mk_node("exam:99", parent="title:2")
+    by_segment = {n["segment"]: n for n in [parent, kid_with_kids, grand]}
+    children_of = {"title:1": [kid_with_kids], "title:2": [grand]}
+    fold = _compute_fold_set(by_segment, children_of, {})
+    assert "title:1" not in fold
+    assert "title:2" in fold  # grand is a leaf → title:2 still folds
+
+
+def test_fold_set_uses_higher_threshold_for_course_folders():
+    """A course-bearing folder with ~10 kids fits under the 90k-char ceiling
+    but would have exceeded the 24k stub ceiling — assert it folds anyway."""
+    parent = _mk_node("title:1")
+    kids = [_mk_node(f"exam:{i}", parent="title:1", unit_id=i) for i in range(1, 11)]
+    by_segment = {n["segment"]: n for n in [parent] + kids}
+    children_of = {"title:1": kids}
+    courses_by_uid = {i: {"unit_id": i, "title": f"course-{i}"} for i in range(1, 11)}
+    fold = _compute_fold_set(by_segment, children_of, courses_by_uid)
+    assert "title:1" in fold
+
+
+def test_fold_set_excludes_huge_course_folders():
+    """A course folder so large it exceeds even the 90k-char ceiling is left
+    as a regular folder so each course gets its own file."""
+    parent = _mk_node("title:1")
+    # 100 courses × 2500 chars baseline = 250k chars, well above the 90k ceiling
+    kids = [_mk_node(f"exam:{i}", parent="title:1", unit_id=i) for i in range(1, 101)]
+    by_segment = {n["segment"]: n for n in [parent] + kids}
+    children_of = {"title:1": kids}
+    courses_by_uid = {i: {"unit_id": i, "title": f"course-{i}"} for i in range(1, 101)}
+    fold = _compute_fold_set(by_segment, children_of, courses_by_uid)
+    assert "title:1" not in fold
+
+
+def test_estimate_folder_chars_distinguishes_courses_from_stubs():
+    parent = _mk_node("title:1")
+    kid_stub = _mk_node("exam:1", parent="title:1")
+    kid_course = _mk_node("exam:2", parent="title:1", unit_id=42)
+    courses_by_uid = {42: {"unit_id": 42}}
+    total_stubs, has1 = _estimate_folder_chars([kid_stub, kid_stub], courses_by_uid)
+    total_mixed, has2 = _estimate_folder_chars([kid_stub, kid_course], courses_by_uid)
+    assert has1 is False
+    assert has2 is True
+    assert total_mixed > total_stubs
