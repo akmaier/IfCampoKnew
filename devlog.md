@@ -572,5 +572,42 @@ Commits: `5c2a018` (PO-version matching), `a61a838` (tests + README), `c93bf3d` 
 
 **Status:** Entry 0011 ships scraper resilience. Big BG walk still running; if it finishes before the user comes back we keep the result, if it ever needs interrupting we can resume.
 
+---
+
+## Entry 0012 — F-TOKEN folding (the user-mentioned bucket policy)
+
+- **Start:** 2026-04-26 10:05 CEST
+- **End:** 2026-04-26 10:18 CEST
+- **Duration:** ~13 min
+
+**Plan:** finally implement the F-TOKEN merge — fold subtrees of catalogue stubs (or modest course collections) into one file each so the corpus stops emitting near-empty markdowns and small course folders surface as a single rich page.
+
+**Actions:**
+
+1. Added a fold-set computation to `render_markdown.py`:
+   - `_compute_fold_set(by_segment, children_of, courses_by_uid)` walks every parent → leaf-children pair, estimates total content size, and folds when:
+     - All kids are leaves (no grand-children) — anything deeper stays a folder, AND
+     - Total estimated chars fit a threshold: **24 k chars (≈ 8 k tok) for stub-only folders**, **90 k chars (≈ 30 k tok) for course-bearing folders**.
+   - `_estimate_folder_chars()` averages 700 chars per stub leaf, 2 500 chars per course-bearing leaf, plus 1 500 char overhead.
+2. Added `_course_h3_section()`: inlines a course as an `### Title — Type` section with bulleted Eckdaten, Lehrende, and an `#### Termine` table. Preserves the H1/H2 hierarchy of the parent file.
+3. Generalised `render_folded_md()`: now accepts `courses_by_uid` and emits real course content for course-bearing folders; otherwise falls back to a metadata-only PO-version listing. Cross-link section ("Verwandte FAU-Inhalte") still appended for depth-3 program nodes.
+4. Wired into the `walk()` recursion: when a child segment is in `fold_set`, the renderer writes one `<base>.md` at the parent's level instead of recursing into a subfolder. Parent's `child_targets()` already routes the link to the file path.
+5. Re-rendered SoSe 2026 corpus.
+
+**Effect on the SoSe 2026 corpus:**
+
+| metric | before folding | after folding |
+|---|--:|--:|
+| Campo .md files | 1 654 | **742** |
+| Campo folders | 241 | **18** |
+| folded programs | 0 | **223** |
+| files < 200 tok | 30 | **1** |
+| FAU cross-links | 142 | 150 |
+| 45-test pytest suite | ✅ | ✅ |
+
+Spot-check: *Musizieren an der Universität* now lives as a single 13 KB / ≈ 4 k-token file with all 17 Übungen inline (Eckdaten + Termine + instructors per course). *Informatik* (no courses at depth 4) folds into one file listing all 14 PO-versions with permalinks + the existing FAU cross-link block.
+
+**Status:** Entry 0012 closes the F-TOKEN policy. The remaining 200-1k bulk are mostly individual course files (one Vorlesung is naturally that size) and small folded programs with 1–3 PO-versions; both are intrinsic to the data and not over-folded.
+
 
 

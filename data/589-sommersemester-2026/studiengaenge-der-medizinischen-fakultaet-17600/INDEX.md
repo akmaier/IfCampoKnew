@@ -12,14 +12,14 @@ period_name: "Sommersemester 2026"
 
 ## Children (11)
 
-- [Advanced Healthcare - Interprofessionelle Gesundheitsversorgung](advanced-healthcare-interprofessionelle-gesundheitsversorgung-17978/) — `title:17978`
-- [Advanced ImmunoMedicine](advanced-immunomedicine-17974/) — `title:17974`
-- [Hebammenwissenschaft](hebammenwissenschaft-17980/) — `title:17980`
-- [Logopädie](logopaedie-17975/) — `title:17975`
-- [Medical Process Management](medical-process-management-17979/) — `title:17979`
-- [Medizin](medizin-17973/) — `title:17973`
-- [Medizin Erlangen/Bayreuth](medizin-erlangen-bayreuth-17976/) — `title:17976`
-- [Molecular Medicine](molecular-medicine-17982/) — `title:17982`
-- [Molekulare Medizin](molekulare-medizin-17977/) — `title:17977`
-- [Zahnerhaltung](zahnerhaltung-17972/) — `title:17972`
-- [Zahnmedizin](zahnmedizin-17981/) — `title:17981`
+- [Advanced Healthcare - Interprofessionelle Gesundheitsversorgung](advanced-healthcare-interprofessionelle-gesundheitsversorgung-17978.md) — `title:17978`
+- [Advanced ImmunoMedicine](advanced-immunomedicine-17974.md) — `title:17974`
+- [Hebammenwissenschaft](hebammenwissenschaft-17980.md) — `title:17980`
+- [Logopädie](logopaedie-17975.md) — `title:17975`
+- [Medical Process Management](medical-process-management-17979.md) — `title:17979`
+- [Medizin](medizin-17973.md) — `title:17973`
+- [Medizin Erlangen/Bayreuth](medizin-erlangen-bayreuth-17976.md) — `title:17976`
+- [Molecular Medicine](molecular-medicine-17982.md) — `title:17982`
+- [Molekulare Medizin](molekulare-medizin-17977.md) — `title:17977`
+- [Zahnerhaltung](zahnerhaltung-17972.md) — `title:17972`
+- [Zahnmedizin](zahnmedizin-17981.md) — `title:17981`

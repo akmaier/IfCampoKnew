@@ -16,7 +16,7 @@ period_name: "Sommersemester 2026"
 - [Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprachkurse](allgemeiner-wahlbereich-inklusive-schluesselqualifikationen-und-sprachkurse-17598/) — `title:17598`
 - [FAU Scientia Gaststudium](fau-scientia-gaststudium-17599/) — `title:17599`
 - [Frühstudium](fruehstudium-17596/) — `title:17596`
-- [Internationale Angebote von <a href="https://opportunities.eelisa.eu/" style="color:#0563c1; text-decoration:underline">EELISA</a> (Europäische Universitätsallianz)](internationale-angebote-von-eelisa-europaeische-universitaetsallianz-17594/) — `title:17594`
+- [Internationale Angebote von <a href="https://opportunities.eelisa.eu/" style="color:#0563c1; text-decoration:underline">EELISA</a> (Europäische Universitätsallianz)](internationale-angebote-von-eelisa-europaeische-universitaetsallianz-17594.md) — `title:17594`
 - [Lehrveranstaltungen mit Nachhaltigkeitsbezug](lehrveranstaltungen-mit-nachhaltigkeitsbezug-17604/) — `title:17604`
 - [Studiengänge der Medizinischen Fakultät](studiengaenge-der-medizinischen-fakultaet-17600/) — `title:17600`
 - [Studiengänge der Naturwissenschaftlichen Fakultät](studiengaenge-der-naturwissenschaftlichen-fakultaet-17602/) — `title:17602`

@@ -596,6 +596,209 @@ def _related_pdf_section(
     return "\n".join(lines)
 
 
+_STUB_FOLD_THRESHOLD = 24_000   # ≈ 8 k tokens — enough for a list of stubs.
+_COURSE_FOLD_THRESHOLD = 90_000  # ≈ 30 k tokens — fits the F-TOKEN sweet spot.
+_AVG_COURSE_CHARS = 2_500
+
+
+def _empty_leaf_chars() -> int:
+    """Rough size of a placeholder leaf (no course attached)."""
+    return 700
+
+
+def _estimate_folder_chars(
+    kids: list[dict], courses_by_uid: dict[int, dict]
+) -> tuple[int, bool]:
+    """Estimated total chars + whether any kid is course-bearing."""
+    total = 1500  # folder INDEX overhead
+    has_courses = False
+    for k in kids:
+        uid = int(k.get("unitId") or 0)
+        if uid and courses_by_uid.get(uid):
+            total += _AVG_COURSE_CHARS
+            has_courses = True
+        else:
+            total += _empty_leaf_chars()
+    return total, has_courses
+
+
+def _compute_fold_set(
+    by_segment: dict[str, dict],
+    children_of: dict[str, list[dict]],
+    courses_by_uid: dict[int, dict],
+) -> set[str]:
+    """Decide which subtrees should collapse into one merged file.
+
+    A segment folds iff:
+      * it has children, all of which are themselves leaves (no grand-children), AND
+      * the estimated total content fits below the appropriate threshold —
+        small for stub-only folders (so they don't bloat) and 30 k-tokens
+        for course-bearing folders (so an agent can read all events in one
+        shot, e.g. "Musizieren an der Universität" with 17 Übungen).
+
+    Re-evaluated on every render: when a deeper walk later adds
+    grand-children, the fold is automatically dropped on the next render.
+    """
+    fold: set[str] = set()
+    for seg, kids in children_of.items():
+        if not kids:
+            continue
+        if any(children_of.get(k["segment"]) for k in kids):
+            continue
+        total, has_courses = _estimate_folder_chars(kids, courses_by_uid)
+        threshold = _COURSE_FOLD_THRESHOLD if has_courses else _STUB_FOLD_THRESHOLD
+        if total < threshold:
+            fold.add(seg)
+    return fold
+
+
+def _course_h3_section(node: dict, course: dict, period_id: int) -> str:
+    """A single course rendered as an ``###``-headed inline section
+    inside a folded program file. Mirrors `render_course_md` but uses
+    H3 for the title and H4 for sub-sections so the parent's H1/H2
+    hierarchy survives."""
+    title_clean = _strip_inline_html(node["name"]).lstrip("- ").strip()
+    course_type = course.get("course_type") or ""
+    heading = title_clean
+    if course_type and course_type.lower() not in title_clean.lower():
+        heading = f"{title_clean} — {course_type}"
+
+    lines: list[str] = [f"### {heading}\n"]
+    lines.append(
+        f"- **Segment:** `{node['segment']}` · **unitId:** `{course.get('unit_id')}`"
+    )
+    lines.append(f"- **Katalog-Permalink:** <{catalog_permalink(node, period_id)}>")
+    if course.get("permalink"):
+        lines.append(f"- **Veranstaltungs-Permalink:** <{course['permalink']}>")
+
+    eckdaten = [
+        ("Veranstaltungsart", course.get("course_type")),
+        ("ECTS-Punkte", course.get("ects")),
+        ("Unterrichtssprache", course.get("language")),
+        ("Turnus", course.get("turnus")),
+    ]
+    eckdaten = [(k, v) for k, v in eckdaten if v not in (None, "", [])]
+    if eckdaten:
+        lines.append("")
+        for k, v in eckdaten:
+            lines.append(f"- **{k}:** {v}")
+
+    inst_resp = course.get("instructors_resp") or []
+    inst_exec = course.get("instructors_exec") or []
+    if inst_resp or inst_exec:
+        lines.append("")
+        if inst_resp:
+            lines.append(f"- **Verantwortlich:** {', '.join(inst_resp)}")
+        if inst_exec:
+            lines.append(f"- **Durchführend:** {', '.join(inst_exec)}")
+
+    appts = course.get("appointments") or []
+    if appts:
+        lines.append("")
+        lines.append("#### Termine")
+        lines.append("")
+        lines.append("| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |")
+        lines.append("|---|---|---|---|---|---|")
+        for a in appts:
+            time_cell = (
+                f"{a['time_from']}–{a['time_to']}"
+                if a.get("time_from") and a.get("time_to")
+                else "—"
+            )
+            date_cell = (
+                f"{a['date_from']}–{a['date_to']}"
+                if a.get("date_from") and a.get("date_to")
+                else (a.get("date_from") or "—")
+            )
+            lines.append(
+                "| "
+                + " | ".join(
+                    _md_escape_cell(s)
+                    for s in [
+                        a.get("rhythm"),
+                        a.get("weekday"),
+                        time_cell,
+                        date_cell,
+                        a.get("room"),
+                        ", ".join(a.get("instructors") or []) or None,
+                    ]
+                )
+                + " |"
+            )
+    lines.append("")
+    return "\n".join(lines)
+
+
+def render_folded_md(
+    program_node: dict,
+    kids: list[dict],
+    period_id: int,
+    period_name: str,
+    *,
+    courses_by_uid: dict[int, dict] | None = None,
+    fau_index: dict | None = None,
+    md_file: Path | None = None,
+    out_root: Path | None = None,
+) -> str:
+    """One merged file per folded program: program metadata + each leaf
+    rendered as an H3 section. Replaces the program's INDEX.md folder
+    when ``_compute_fold_set`` flagged it. If ``courses_by_uid`` is
+    given, course content is inlined; otherwise the H3 section just
+    holds metadata. If ``fau_index`` is given, "Verwandte FAU-Inhalte"
+    is appended.
+    """
+    courses_by_uid = courses_by_uid or {}
+    has_courses = any(courses_by_uid.get(int(k.get("unitId") or 0)) for k in kids)
+    lines: list[str] = []
+    lines.append(_front_matter(period_id, period_name, folded="true"))
+    lines.append(f"# {_strip_inline_html(program_node['name'])}\n")
+    lines.append(
+        f"**Period:** {period_name} · **Segment:** `{program_node['segment']}` · "
+        f"**Depth:** {len(program_node['path'])}\n"
+    )
+    lines.append(f"**Permalink:** <{catalog_permalink(program_node, period_id)}>\n")
+    if has_courses:
+        lines.append(
+            "_All catalogue entries beneath this program are course events, "
+            "merged here as one file so an agent can read every Termin in a "
+            "single pass._\n"
+        )
+    else:
+        lines.append(
+            "_This program's PO-versions had no course content attached at the "
+            "scraped catalogue depth, so they have been folded into this single "
+            "file (instead of a subfolder + many tiny placeholders) — easier for "
+            "agents to read in one pass._\n"
+        )
+    label = "Veranstaltungen" if has_courses else "PO-Versionen"
+    lines.append(f"## {label} ({len(kids)})\n")
+    for ch in sorted(kids, key=lambda k: k["name"].lower()):
+        course = courses_by_uid.get(int(ch.get("unitId") or 0))
+        if course:
+            lines.append(_course_h3_section(ch, course, period_id))
+        else:
+            lines.append(f"### {_strip_inline_html(ch['name'])}\n")
+            lines.append(f"- **Segment:** `{ch['segment']}`")
+            lines.append(f"- **Permalink:** <{catalog_permalink(ch, period_id)}>")
+            lines.append("")
+
+    body = "\n".join(lines).lstrip("\n")
+
+    # Append FAU cross-links if requested AND the program is at the
+    # depth-3 layer where the linker has rules.
+    if (
+        fau_index is not None
+        and md_file is not None
+        and out_root is not None
+        and len(program_node["path"]) == 3
+        and program_node["segment"].startswith("title:")
+    ):
+        section = _related_fau_section(program_node, fau_index, md_file, out_root)
+        if section:
+            body = body.rstrip() + "\n\n" + section
+    return body
+
+
 def render_corpus(
     snapshot: dict, out_root: Path, *, courses: dict | None = None
 ) -> dict:
@@ -604,6 +807,11 @@ def render_corpus(
     If ``courses`` (the JSON produced by ``fetch_courses.py``) is given,
     every leaf with a ``unitId`` is rendered with full course detail
     instead of the placeholder text.
+
+    Thin program folders — i.e. depth-3 nodes whose children are all
+    course-less leaf placeholders — are automatically folded into a
+    single ``<program-base>.md`` file so the corpus stops emitting
+    near-empty stubs (see :func:`_compute_fold_set`).
     """
     period_id: int = snapshot["periodId"]
     period_name: str = snapshot["periodName"]
@@ -630,19 +838,25 @@ def render_corpus(
 
     fau_index = load_fau_index(out_root)
 
+    fold_set = _compute_fold_set(by_segment, children_of, courses_by_uid)
+
     stats = {
         "folders": 0,
         "leaf_files": 0,
         "index_files": 0,
         "courses_embedded": 0,
         "fau_links": 0,
+        "folded_programs": 0,
     }
 
     def child_targets(parent_seg: str) -> dict[str, str]:
         out: dict[str, str] = {}
         for ch in children_of.get(parent_seg, []):
             base_name = node_basename(ch)
-            if children_of.get(ch["segment"]):
+            if ch["segment"] in fold_set:
+                # folded subtree → single merged file at parent level
+                out[ch["segment"]] = f"{base_name}.md"
+            elif children_of.get(ch["segment"]):
                 out[ch["segment"]] = f"{base_name}/"
             else:
                 out[ch["segment"]] = f"{base_name}.md"
@@ -651,6 +865,12 @@ def render_corpus(
     def walk(seg: str, folder: Path) -> None:
         node = by_segment[seg]
         kids = children_of.get(seg, [])
+        if kids and seg in fold_set:
+            # Folded program → write one merged file in *parent* scope.
+            # The caller (parent walk) already chose the file path via
+            # child_targets, so we don't need to do anything here. The
+            # actual write happens in the parent's recursion below.
+            return
         if kids:
             folder.mkdir(parents=True, exist_ok=True)
             stats["folders"] += 1
@@ -673,7 +893,27 @@ def render_corpus(
             stats["index_files"] += 1
             for ch in kids:
                 base_name = node_basename(ch)
-                if children_of.get(ch["segment"]):
+                if ch["segment"] in fold_set:
+                    # Folded program: one merged file at THIS level.
+                    folded_kids = children_of.get(ch["segment"], [])
+                    folded_path = folder / f"{base_name}.md"
+                    body = render_folded_md(
+                        ch, folded_kids, period_id, period_name,
+                        courses_by_uid=courses_by_uid,
+                        fau_index=fau_index,
+                        md_file=folded_path,
+                        out_root=out_root,
+                    )
+                    folded_path.write_text(body, encoding="utf-8")
+                    if (
+                        len(ch["path"]) == 3
+                        and ch["segment"].startswith("title:")
+                        and "## Verwandte FAU-Inhalte" in body
+                    ):
+                        stats["fau_links"] += 1
+                    stats["folded_programs"] += 1
+                    stats["leaf_files"] += 1  # counts as one file at parent's level
+                elif children_of.get(ch["segment"]):
                     walk(ch["segment"], folder / base_name)
                 else:
                     leaf_file = folder / f"{base_name}.md"
@@ -746,7 +986,7 @@ def main(argv: Iterable[str] | None = None) -> int:
         f"rendered period {snapshot['periodId']} {snapshot['periodName']!r} "
         f"into {args.out}: folders={stats['folders']} index={stats['index_files']} "
         f"leaves={stats['leaf_files']} courses_embedded={stats['courses_embedded']} "
-        f"fau_links={stats['fau_links']}"
+        f"fau_links={stats['fau_links']} folded_programs={stats['folded_programs']}"
     )
     return 0
 
