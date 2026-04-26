@@ -81,7 +81,7 @@ Browse the result under `data/`.
 | FAU.de Prüfungsordnungen corpus | ✅ | 36 landing pages + every linked PDF converted to markdown via PyMuPDF4LLM. |
 | Monthly GitHub Action — FAU.de | ✅ | First of each month, 04:00 UTC. |
 | Full-depth catalogue walk | ⏳ | `--max-depth 0` to bottom out every `exam:` chain; capture Tech/Nat/Med/RW Fak courses (deeper than 4). |
-| F-TOKEN bucket policy | ⏳ | Merge thin / split thick content files into 10–30 k-token chunks. |
+| F-TOKEN bucket policy | ✅ | Thin program folders fold into one merged file; course-bearing folders fold up to ~30 k tok; per-leaf Eckdaten + Termine inlined. SoSe 2026 went 1 654 → 742 files. |
 | Cross-link Campo ↔ FAU.de | ✅ | Each Campo program-level INDEX.md links to matching `studiengang/{slug}.md` + PO landing folder; each PO-version leaf links to dated `pruefungsordnungen/.../{pdf}.md` files (year-matched). |
 | Archive prior years | later | `archive/{year-slug}/` per completed academic year. |
 
