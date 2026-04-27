@@ -67,7 +67,7 @@ _All catalogue entries beneath this program are course events, merged here as on
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | — | — |
+| — | wöchentlich | — | — | 20 | — |
 
 ### Islam und Recht in Europa (NOS 22 und 51/52) - Vorlesung
 

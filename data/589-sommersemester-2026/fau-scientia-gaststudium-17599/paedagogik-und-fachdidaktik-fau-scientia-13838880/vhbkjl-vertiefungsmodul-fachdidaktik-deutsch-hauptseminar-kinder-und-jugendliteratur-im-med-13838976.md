@@ -32,10 +32,10 @@ segment: "exam:13838976"
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — | — |
+| — | wöchentlich | — | 01.05.2026 05.06.2026 | — | — |
 
 **Ausfalltermine:**
-- 13:00, -, 15:00
+- 09:00, -, 11:00
 
 ## Organisation / Studiengänge
 
