@@ -421,6 +421,12 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--max-po", type=int, default=None, help="limit PO landings (testing)")
     p.add_argument("--max-pdfs-per-po", type=int, default=None, help="limit PDFs per PO landing (testing)")
     p.add_argument("--skip-pdfs", action="store_true", help="render PO landings but don't download PDFs")
+    p.add_argument(
+        "--resume",
+        action="store_true",
+        help="skip Studiengang pages, PO landings, and PDFs whose markdown is already on disk; "
+        "lets a killed run pick up where it stopped without re-downloading.",
+    )
     p.add_argument("-v", "--verbose", action="count", default=0)
     args = p.parse_args(argv)
 
@@ -443,18 +449,39 @@ def main(argv: list[str] | None = None) -> int:
     sg_out = args.out / "studiengang"
     sg_out.mkdir(parents=True, exist_ok=True)
     sg_data: list[dict] = []
+    sg_skipped = 0
     for i, url in enumerate(sg_urls, 1):
         slug = slugify(url.rstrip("/").rsplit("/", 1)[-1])
+        target = sg_out / f"{slug}.md"
+        if args.resume and target.exists():
+            # Re-use the existing markdown's metadata so the index lists the
+            # program even when we skipped its network fetch.
+            existing = target.read_text(encoding="utf-8")
+            title_m = re.search(r'title:\s*"([^"]+)"', existing)
+            sg_data.append(
+                {
+                    "url": url,
+                    "title": title_m.group(1) if title_m else slug,
+                    "steckbrief": [],
+                    "sections": [],
+                    "links": [],
+                }
+            )
+            sg_skipped += 1
+            continue
         try:
             r = client.get(url)
             r.raise_for_status()
             d = parse_studiengang(url, r.text)
-            (sg_out / f"{slug}.md").write_text(render_studiengang_md(d), encoding="utf-8")
+            target.write_text(render_studiengang_md(d), encoding="utf-8")
             sg_data.append(d)
         except Exception as e:  # noqa: BLE001
             log.warning("studiengang %s failed: %s", url, e)
         if i % 25 == 0 or i == len(sg_urls):
-            log.info("studiengang progress: %d/%d", i, len(sg_urls))
+            log.info(
+                "studiengang progress: %d/%d (resumed-skip %d)",
+                i, len(sg_urls), sg_skipped,
+            )
     render_studiengang_index(sg_data, sg_out)
 
     # ── Prüfungsordnungen ──────────────────────────────────────────────
@@ -462,16 +489,47 @@ def main(argv: list[str] | None = None) -> int:
     po_root.mkdir(parents=True, exist_ok=True)
     landings: list[tuple[dict, Path]] = []
     pdf_total = 0
+    pdf_skipped = 0
     for i, url in enumerate(po_urls, 1):
         rel = relpath_for_po(url)
         dest = po_root / rel
-        try:
-            r = client.get(url)
-            r.raise_for_status()
-            d = parse_po_landing(url, r.text)
-        except Exception as e:  # noqa: BLE001
-            log.warning("PO landing %s failed: %s", url, e)
-            continue
+        landing_index = dest / "INDEX.md"
+        # If --resume and the landing's INDEX.md exists, we still need its
+        # metadata + PDF list to update the root index. Read from disk if
+        # possible to avoid the network round-trip.
+        d: Optional[dict] = None
+        if args.resume and landing_index.exists():
+            try:
+                existing = landing_index.read_text(encoding="utf-8")
+                title_m = re.search(r'title:\s*"([^"]+)"', existing)
+                d = {
+                    "url": url,
+                    "title": title_m.group(1) if title_m else url,
+                    "intro_md": "",
+                    # Re-discover PDFs by listing per-PDF markdowns we already produced.
+                    "pdfs": [],
+                }
+                for md in dest.glob("*.md"):
+                    if md.name == "INDEX.md":
+                        continue
+                    body = md.read_text(encoding="utf-8")
+                    src_m = re.search(r"^pdf_source:\s*(\S+)", body, re.MULTILINE)
+                    title_pdf = re.search(r'^title:\s*"([^"]+)"', body, re.MULTILINE)
+                    if src_m and title_pdf:
+                        d["pdfs"].append(
+                            {"url": src_m.group(1), "title": title_pdf.group(1)}
+                        )
+            except OSError:
+                d = None
+
+        if d is None:
+            try:
+                r = client.get(url)
+                r.raise_for_status()
+                d = parse_po_landing(url, r.text)
+            except Exception as e:  # noqa: BLE001
+                log.warning("PO landing %s failed: %s", url, e)
+                continue
 
         pdf_targets: list[tuple[dict, Path]] = []
         pdfs = d["pdfs"]
@@ -484,6 +542,9 @@ def main(argv: list[str] | None = None) -> int:
             pdf_targets.append((pdf, pdf_target))
             if args.skip_pdfs:
                 continue
+            if args.resume and pdf_target.exists():
+                pdf_skipped += 1
+                continue
             tmp_pdf = args.tmp / pdf_slug / "doc.pdf"
             try:
                 client.download(pdf["url"], tmp_pdf)
@@ -494,12 +555,17 @@ def main(argv: list[str] | None = None) -> int:
         render_po_landing(d, dest, pdf_targets)
         landings.append((d, rel))
         if i % 5 == 0 or i == len(po_urls):
-            log.info("PO progress: %d/%d landings, %d PDFs converted so far", i, len(po_urls), pdf_total)
+            log.info(
+                "PO progress: %d/%d landings, %d PDFs converted, %d resumed-skip",
+                i, len(po_urls), pdf_total, pdf_skipped,
+            )
     root_landing = next((d for d, rel in landings if str(rel) == "."), None)
     render_po_root_index(landings, po_root, root_landing=root_landing)
 
     print(
-        f"done: studiengang={len(sg_data)}, po_landings={len(landings)}, pdfs_converted={pdf_total}"
+        f"done: studiengang={len(sg_data)} (skipped {sg_skipped}), "
+        f"po_landings={len(landings)}, "
+        f"pdfs_converted={pdf_total} (skipped {pdf_skipped})"
     )
     return 0
 
