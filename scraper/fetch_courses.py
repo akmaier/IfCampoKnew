@@ -55,26 +55,78 @@ def collect_unit_ids(snapshot: dict, *, path_contains: str | None) -> list[tuple
     return out
 
 
+def _read_existing_progress(out_path: Path) -> tuple[list[dict], list[dict]]:
+    """Load courses + failures already on disk so a re-run can skip them."""
+    if not out_path.exists():
+        return [], []
+    try:
+        existing = json.loads(out_path.read_text(encoding="utf-8"))
+    except (OSError, ValueError) as e:
+        log.warning("existing %s unreadable (%s) — starting fresh", out_path, e)
+        return [], []
+    return list(existing.get("courses") or []), list(existing.get("failures") or [])
+
+
+def _write_progress(
+    out_path: Path,
+    period_id: int,
+    period_name: str,
+    courses: list,
+    failures: list[dict],
+) -> None:
+    """Atomic write of the current courses + failures.
+
+    Called periodically inside :func:`fetch_courses` so an interrupted run
+    leaves ``--resume``-able state on disk.
+    """
+    payload = {
+        "periodId": period_id,
+        "periodName": period_name,
+        "fetchedAt": _dt.datetime.now(_dt.timezone.utc).isoformat(timespec="seconds"),
+        "courses": [c.to_dict() if hasattr(c, "to_dict") else c for c in courses],
+        "failures": failures,
+    }
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = out_path.with_suffix(out_path.suffix + ".tmp")
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    tmp.replace(out_path)
+
+
 def fetch_courses(
     snapshot: dict,
     *,
     interval: float,
     path_contains: str | None,
     max_courses: int | None,
+    out_path: Path | None = None,
+    resume: bool = False,
+    save_every: int = 25,
 ) -> dict:
     period_id = int(snapshot["periodId"])
     period_name = snapshot.get("periodName", f"(period {period_id})")
 
-    units = collect_unit_ids(snapshot, path_contains=path_contains)
-    if max_courses and len(units) > max_courses:
-        log.info("limiting to first %d of %d unit_ids", max_courses, len(units))
-        units = units[:max_courses]
-    log.info("fetching %d course details", len(units))
+    all_units = collect_unit_ids(snapshot, path_contains=path_contains)
+    if max_courses and len(all_units) > max_courses:
+        log.info("limiting to first %d of %d unit_ids", max_courses, len(all_units))
+        all_units = all_units[:max_courses]
+
+    courses_existing: list[dict] = []
+    failures: list[dict] = []
+    skip: set[int] = set()
+    if resume and out_path:
+        courses_existing, failures = _read_existing_progress(out_path)
+        skip = {int(c["unit_id"]) for c in courses_existing}
+        skip |= {int(f["unitId"]) for f in failures if "unitId" in f}
+        if skip:
+            log.info("resume: %d courses + %d failures already on disk", len(courses_existing), len(failures))
+
+    todo = [(uid, t) for (uid, t) in all_units if uid not in skip]
+    log.info("fetching %d new course details (%d skipped via resume)", len(todo), len(skip))
 
     client = CampoClient(min_interval=interval)
-    courses: list[Course] = []
-    failures: list[dict] = []
-    for i, (uid, fallback_title) in enumerate(units, 1):
+    courses: list = list(courses_existing)
+    last_save_count = 0
+    for i, (uid, fallback_title) in enumerate(todo, 1):
         url = DETAIL_URL_TPL.format(unit_id=uid, period_id=period_id)
         try:
             r = client.get(url)
@@ -89,14 +141,20 @@ def fetch_courses(
         except Exception as e:  # noqa: BLE001
             log.warning("unit_id=%d failed: %s", uid, e)
             failures.append({"unitId": uid, "error": str(e)})
-        if i % 25 == 0 or i == len(units):
-            log.info("progress %d/%d (%d ok, %d failed)", i, len(units), len(courses), len(failures))
+        if i % 25 == 0 or i == len(todo):
+            log.info(
+                "progress %d/%d (total: %d ok, %d failed)",
+                i, len(todo), len(courses), len(failures),
+            )
+        if out_path and save_every > 0 and (i - last_save_count) >= save_every:
+            _write_progress(out_path, period_id, period_name, courses, failures)
+            last_save_count = i
 
     return {
         "periodId": period_id,
         "periodName": period_name,
         "fetchedAt": _dt.datetime.now(_dt.timezone.utc).isoformat(timespec="seconds"),
-        "courses": [c.to_dict() for c in courses],
+        "courses": [c.to_dict() if hasattr(c, "to_dict") else c for c in courses],
         "failures": failures,
     }
 
@@ -118,6 +176,17 @@ def main(argv: list[str] | None = None) -> int:
         "(e.g. 'title:17991' for the Musizieren section)",
     )
     p.add_argument("--max-courses", type=int, default=None, help="stop after N (testing)")
+    p.add_argument(
+        "--resume",
+        action="store_true",
+        help="if --out already exists, skip course unit_ids already in it and append the rest",
+    )
+    p.add_argument(
+        "--save-every",
+        type=int,
+        default=25,
+        help="atomically write --out after every N successful fetches (default 25; 0 disables)",
+    )
     p.add_argument("-v", "--verbose", action="count", default=0)
     args = p.parse_args(argv)
 
@@ -130,6 +199,9 @@ def main(argv: list[str] | None = None) -> int:
         interval=args.interval,
         path_contains=args.path_contains,
         max_courses=args.max_courses,
+        out_path=args.out,
+        resume=args.resume,
+        save_every=args.save_every,
     )
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
