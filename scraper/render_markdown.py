@@ -1,33 +1,41 @@
-"""Render a Campo catalogue snapshot as a hierarchical markdown corpus.
+"""Render a Campo catalogue snapshot as an AI-readable markdown corpus.
 
-Each catalogue node becomes either a folder + ``INDEX.md`` (if it has
-children) or a single ``<slug>.md`` file (leaf, in the parent folder).
-Slug language is Campo-faithful (German, ASCII-folded with umlaut
-expansion: ä→ae, ö→oe, ü→ue, ß→ss). The terminal segment ID is appended
-to every name so file paths stay stable across weekly scrapes.
-
-The output is intended for consumption by LLM-based agents (an agent
-walks INDEX.md → child INDEX.md → content). Plain humans browsing on
-github.com get a passable secondary view because GitHub renders .md
-natively.
-
-Layout per period:
+**Layout (Entry 0013 redesign — flat, RAG-friendly):**
 
     out/{period-slug}/
-        INDEX.md                                   # root overview
-        {section-slug-id}/                         # one folder per section
-            INDEX.md
-            {program-slug-id}/                     # one per program (if it has POs)
-                INDEX.md
-                {po-version-slug-id}.md            # leaf
-            {program-slug-id}.md                   # leaf-program (no PO sub-tree)
-        ...
+        INDEX.md                       # programs grouped by section
+        {program-slug-id}.md           # ONE merged file per Campo program
+                                       # (depth-3 catalogue node), with:
+                                       #   • FAU.de Studiengang content inlined
+                                       #     (Steckbrief, sections, links) when matched,
+                                       #   • every PO-version listed with permalinks
+                                       #     and matched dated PDF references,
+                                       #   • every course attached to any leaf in
+                                       #     the program's subtree inlined as
+                                       #     ``### Title — Type`` with full
+                                       #     Eckdaten + Termine + instructors,
+                                       #   • Lehramts-Prüfungsordnungen list when
+                                       #     the program is a Lehramt-subject node.
+
+Each program file therefore stands alone — a RAG agent can answer most
+questions about a program by reading exactly one file, with all back-links
+to original Campo URLs and FAU.de pages preserved in the markdown body
+and the YAML front-matter.
+
+Slugs are Campo-faithful German with explicit umlaut expansion
+(ä→ae, ö→oe, ü→ue, ß→ss). Every basename ends in ``-<segmentId>`` so file
+paths stay stable across weekly scrapes even when Campo renames a node.
+
+The big PO-PDF markdowns stay separate under
+``out/pruefungsordnungen/{faculty}/{program}/{po-slug}.md`` — they're already
+10–30 k tokens each and naturally too large to inline.
 """
 from __future__ import annotations
 
 import argparse
 import json
 import re
+import shutil
 import unicodedata
 from pathlib import Path
 from typing import Iterable
@@ -799,24 +807,253 @@ def render_folded_md(
     return body
 
 
+_FRONT_MATTER_BLOCK_RE = re.compile(r"\A---\n.*?\n---\n+", re.DOTALL)
+_H1_LINE_RE = re.compile(r"^# [^\n]*\n+", re.MULTILINE)
+
+
+def _read_studiengang_body(rel_path_inside_root: str, out_root: Path) -> tuple[str, str]:
+    """Return ``(source_url, body_md_without_frontmatter_or_h1)`` for one
+    FAU.de Studiengang markdown that we want to inline. Empty strings if
+    the file is missing or unreadable."""
+    target = out_root / rel_path_inside_root
+    try:
+        text = target.read_text(encoding="utf-8")
+    except OSError:
+        return "", ""
+    fm = _parse_frontmatter(target)
+    src = fm.get("source_url", "")
+    body = _FRONT_MATTER_BLOCK_RE.sub("", text, count=1)
+    body = _H1_LINE_RE.sub("", body, count=1)
+    body = body.strip()
+    return src, body
+
+
+def _walk_subtree(
+    root_seg: str, children_of: dict[str, list[dict]]
+) -> Iterable[dict]:
+    """Yield every descendant node (excluding the root itself), depth-first."""
+    stack = list(children_of.get(root_seg, []))
+    while stack:
+        n = stack.pop(0)
+        yield n
+        kids = children_of.get(n["segment"], [])
+        if kids:
+            # depth-first → push to front
+            stack[:0] = kids
+
+
+def render_program_md(
+    program: dict,
+    by_segment: dict[str, dict],
+    children_of: dict[str, list[dict]],
+    courses_by_uid: dict[int, dict],
+    fau_index: dict,
+    out_root: Path,
+    md_path: Path,
+    period_id: int,
+    period_name: str,
+) -> tuple[str, dict]:
+    """Render *one* merged Campo-program markdown.
+
+    Returns ``(content, stats_for_this_file)``. The file inlines:
+
+      * matched FAU.de Studiengang content (Steckbrief + sections),
+      * every PO-version under the program with permalinks +
+        year-matched dated PDF references,
+      * every course attached to any leaf in the subtree (full Eckdaten +
+        Termine + instructors),
+      * a Lehramts-Prüfungsordnungen list when the program has no
+        Studiengang match but matches Lehramt PDFs.
+
+    Source links are preserved verbatim (Campo permalinks, FAU.de URLs,
+    PDF source URLs all appear inline so a RAG can cite them).
+    """
+    file_stats = {"po_versions": 0, "courses": 0, "studiengang_inlines": 0, "lehramt_pdfs": 0}
+
+    # Collect descendants → split into PO-versions vs courses
+    po_versions: list[dict] = []
+    course_pairs: list[tuple[dict, dict]] = []
+    for n in _walk_subtree(program["segment"], children_of):
+        kids = children_of.get(n["segment"], [])
+        if kids:
+            continue  # internal node: not a course, not a leaf PO-version
+        # leaf
+        uid = int(n.get("unitId") or 0)
+        if uid and courses_by_uid.get(uid):
+            course_pairs.append((n, courses_by_uid[uid]))
+        else:
+            po_versions.append(n)
+
+    # FAU matches
+    related = _find_related_fau(program, fau_index)
+    has_studiengang = bool(related["studiengang"])
+
+    # ── Front-matter ──────────────────────────────────────────────────
+    fm: list[str] = ["---"]
+    fm.append(f"period_id: {period_id}")
+    fm.append(f"period_name: {json.dumps(period_name, ensure_ascii=False)}")
+    fm.append(f'campo_segment: "{program["segment"]}"')
+    fm.append(f'campo_path: "{"|".join(program["path"])}"')
+    fm.append(f'campo_permalink: "{catalog_permalink(program, period_id)}"')
+    fm.append(f"po_version_count: {len(po_versions)}")
+    fm.append(f"course_count: {len(course_pairs)}")
+    if has_studiengang:
+        fm.append("fau_studiengang:")
+        for sg in related["studiengang"]:
+            fm.append(f'  - title: {json.dumps(sg["title"], ensure_ascii=False)}')
+            fm.append(f'    rel_path: {json.dumps(sg["rel_path"], ensure_ascii=False)}')
+    fm.append("---")
+    fm.append("")
+
+    body: list[str] = []
+    body.append(f"# {_strip_inline_html(program['name'])}")
+    body.append("")
+    body.append(f"**Campo-Permalink:** <{catalog_permalink(program, period_id)}>")
+    body.append("")
+    body.append(
+        f"_Section: {by_segment[program['path'][1]]['name']}_  "
+        if len(program["path"]) >= 2
+        else ""
+    )
+    body.append("")
+
+    # ── FAU.de Studiengang content ────────────────────────────────────
+    if has_studiengang:
+        body.append("## FAU.de Studiengang-Seiten")
+        body.append("")
+        for sg in related["studiengang"]:
+            src_url, sg_body = _read_studiengang_body(sg["rel_path"], out_root)
+            note = sg.get("abschluss") or sg.get("fakultaet") or ""
+            tail = f" — {note}" if note else ""
+            body.append(f"### {sg['title']}{tail}")
+            body.append("")
+            if src_url:
+                body.append(f"**Quelle (FAU.de):** <{src_url}>")
+                body.append("")
+            if sg_body:
+                # Demote H2 → H4 inside the inlined body so the program's H1/H2
+                # hierarchy isn't broken.
+                demoted = re.sub(r"^## ", "#### ", sg_body, flags=re.MULTILINE)
+                demoted = re.sub(r"^### ", "##### ", demoted, flags=re.MULTILINE)
+                body.append(demoted)
+                body.append("")
+                file_stats["studiengang_inlines"] += 1
+
+    # ── PO-versions ───────────────────────────────────────────────────
+    if po_versions:
+        body.append(f"## Prüfungsordnungs-Versionen ({len(po_versions)})")
+        body.append("")
+        for po in sorted(po_versions, key=lambda n: n["name"].lower()):
+            title = _strip_inline_html(po["name"]).lstrip("- ").strip()
+            body.append(f"### {title}")
+            body.append("")
+            body.append(f"- **Campo-Segment:** `{po['segment']}`")
+            body.append(f"- **Campo-Permalink:** <{catalog_permalink(po, period_id)}>")
+            pdfs = _po_pdfs_for_version(po, program, fau_index, out_root, md_path)
+            if pdfs:
+                body.append("- **Passende PO-PDFs (FAU.de):**")
+                for label, link in pdfs:
+                    body.append(f"  - [{label}]({link})")
+            body.append("")
+            file_stats["po_versions"] += 1
+
+    # ── Courses ───────────────────────────────────────────────────────
+    if course_pairs:
+        body.append(f"## Veranstaltungen ({len(course_pairs)})")
+        body.append("")
+        for node, course in sorted(course_pairs, key=lambda p: p[0]["name"].lower()):
+            body.append(_course_h3_section(node, course, period_id))
+            file_stats["courses"] += 1
+
+    # ── Lehramt fallback ──────────────────────────────────────────────
+    if not has_studiengang:
+        lehramt_pdfs = _lehramt_pdf_matches(program, fau_index)
+        if lehramt_pdfs:
+            body.append("## Lehramts-Prüfungsordnungen")
+            body.append("")
+            for pdf in lehramt_pdfs[:30]:
+                link = _relative_link_from(md_path, pdf["rel_path"], out_root)
+                body.append(f"- [{pdf['title']}]({link})")
+            if len(lehramt_pdfs) > 30:
+                body.append(
+                    f"- … und {len(lehramt_pdfs)-30} weitere unter "
+                    "`pruefungsordnungen/lehramt/lehramtsfaecher/`"
+                )
+            body.append("")
+            file_stats["lehramt_pdfs"] = len(lehramt_pdfs)
+
+    return "\n".join(fm + body).rstrip() + "\n", file_stats
+
+
+def render_period_index_md(
+    period_id: int,
+    period_name: str,
+    by_segment: dict[str, dict],
+    by_section: dict[str, list[dict]],
+    program_filenames: dict[str, str],
+) -> str:
+    """Top-level INDEX for a period — programs grouped by section heading."""
+    fm = [
+        "---",
+        f"period_id: {period_id}",
+        f"period_name: {json.dumps(period_name, ensure_ascii=False)}",
+        f"program_count: {sum(len(v) for v in by_section.values())}",
+        "---",
+        "",
+    ]
+    body: list[str] = [
+        f"# {period_name} — Studiengänge",
+        "",
+        "Dieses Verzeichnis enthält pro Campo-Studiengang **eine** Markdown-Datei "
+        "mit allen Prüfungsordnungs-Versionen, Veranstaltungen und der zugehörigen "
+        "FAU.de-Studiengang-Seite *inline*. Die großen PO-PDF-Volltexte liegen separat "
+        "unter [`../pruefungsordnungen/`](../pruefungsordnungen/INDEX.md) und sind aus "
+        "den Programm-Dateien direkt verlinkt.",
+        "",
+    ]
+    section_segments = sorted(
+        by_section.keys(), key=lambda s: by_segment[s]["name"].lower()
+    )
+    for sec_seg in section_segments:
+        sec_name = by_segment[sec_seg]["name"]
+        progs = sorted(by_section[sec_seg], key=lambda p: p["name"].lower())
+        body.append(f"## {sec_name}")
+        body.append("")
+        for p in progs:
+            fname = program_filenames[p["segment"]]
+            body.append(f"- [{_strip_inline_html(p['name'])}]({fname})")
+        body.append("")
+    return "\n".join(fm + body)
+
+
+def _wipe_period_folder(base: Path) -> None:
+    """Remove every previous render output under ``base`` so a re-render
+    starts fresh — keeps the parent ``out/`` tree untouched."""
+    if not base.exists():
+        return
+    for child in base.iterdir():
+        if child.is_dir():
+            shutil.rmtree(child)
+        else:
+            child.unlink()
+
+
 def render_corpus(
     snapshot: dict, out_root: Path, *, courses: dict | None = None
 ) -> dict:
-    """Write the whole markdown tree under ``out_root/{period-slug}/``.
+    """Write the merged-program corpus under ``out_root/{period-slug}/``.
 
-    If ``courses`` (the JSON produced by ``fetch_courses.py``) is given,
-    every leaf with a ``unitId`` is rendered with full course detail
-    instead of the placeholder text.
-
-    Thin program folders — i.e. depth-3 nodes whose children are all
-    course-less leaf placeholders — are automatically folded into a
-    single ``<program-base>.md`` file so the corpus stops emitting
-    near-empty stubs (see :func:`_compute_fold_set`).
+    Layout (Entry 0013):
+      * ``out/{period}/INDEX.md`` — programs grouped by section.
+      * ``out/{period}/{program-slug-id}.md`` — one merged file per Campo
+        depth-3 program, with FAU.de Studiengang inline + every PO-version
+        + every course (Eckdaten + Termine + instructors).
     """
     period_id: int = snapshot["periodId"]
     period_name: str = snapshot["periodName"]
     period_slug = f"{period_id}-{slugify(period_name)}"
     base = out_root / period_slug
+    _wipe_period_folder(base)
     base.mkdir(parents=True, exist_ok=True)
 
     by_segment: dict[str, dict] = {n["segment"]: n for n in snapshot["nodes"]}
@@ -826,11 +1063,6 @@ def render_corpus(
         if ps:
             children_of.setdefault(ps, []).append(n)
 
-    root_seg: str = snapshot.get("rootSegment") or next(
-        n["segment"] for n in snapshot["nodes"] if not n.get("parentSegment")
-    )
-    root = by_segment[root_seg]
-
     courses_by_uid: dict[int, dict] = {}
     if courses:
         for c in courses.get("courses", []):
@@ -838,116 +1070,54 @@ def render_corpus(
 
     fau_index = load_fau_index(out_root)
 
-    fold_set = _compute_fold_set(by_segment, children_of, courses_by_uid)
+    # Identify the "program" layer: every depth-3 node is a program — it's
+    # the unit a user (and a RAG) thinks about as a single thing.
+    programs = [n for n in snapshot["nodes"] if len(n["path"]) == 3]
+
+    # Group programs by their section (depth-2 parent) for the period INDEX.
+    by_section: dict[str, list[dict]] = {}
+    program_filenames: dict[str, str] = {}
+    for p in programs:
+        section_seg = p["path"][1]
+        by_section.setdefault(section_seg, []).append(p)
+        program_filenames[p["segment"]] = f"{node_basename(p)}.md"
 
     stats = {
-        "folders": 0,
-        "leaf_files": 0,
-        "index_files": 0,
+        "programs": 0,
+        "po_versions": 0,
         "courses_embedded": 0,
-        "fau_links": 0,
-        "folded_programs": 0,
+        "studiengang_inlines": 0,
+        "lehramt_pdf_blocks": 0,
     }
 
-    def child_targets(parent_seg: str) -> dict[str, str]:
-        out: dict[str, str] = {}
-        for ch in children_of.get(parent_seg, []):
-            base_name = node_basename(ch)
-            if ch["segment"] in fold_set:
-                # folded subtree → single merged file at parent level
-                out[ch["segment"]] = f"{base_name}.md"
-            elif children_of.get(ch["segment"]):
-                out[ch["segment"]] = f"{base_name}/"
-            else:
-                out[ch["segment"]] = f"{base_name}.md"
-        return out
+    # Render every program
+    for program in programs:
+        md_path = base / program_filenames[program["segment"]]
+        content, fstats = render_program_md(
+            program,
+            by_segment,
+            children_of,
+            courses_by_uid,
+            fau_index,
+            out_root,
+            md_path,
+            period_id,
+            period_name,
+        )
+        md_path.write_text(content, encoding="utf-8")
+        stats["programs"] += 1
+        stats["po_versions"] += fstats["po_versions"]
+        stats["courses_embedded"] += fstats["courses"]
+        stats["studiengang_inlines"] += fstats["studiengang_inlines"]
+        if fstats["lehramt_pdfs"]:
+            stats["lehramt_pdf_blocks"] += 1
 
-    def walk(seg: str, folder: Path) -> None:
-        node = by_segment[seg]
-        kids = children_of.get(seg, [])
-        if kids and seg in fold_set:
-            # Folded program → write one merged file in *parent* scope.
-            # The caller (parent walk) already chose the file path via
-            # child_targets, so we don't need to do anything here. The
-            # actual write happens in the parent's recursion below.
-            return
-        if kids:
-            folder.mkdir(parents=True, exist_ok=True)
-            stats["folders"] += 1
-            content = render_index_md(
-                node, period_id, period_name, kids, child_targets(seg)
-            )
-            # Cross-link Campo program-level nodes (depth 3, title:NNN) to
-            # matching FAU.de Studiengang and PO landing pages.
-            if (
-                len(node["path"]) == 3
-                and node["segment"].startswith("title:")
-            ):
-                fau_section = _related_fau_section(
-                    node, fau_index, folder / "INDEX.md", out_root
-                )
-                if fau_section:
-                    content = content.rstrip() + "\n\n" + fau_section
-                    stats["fau_links"] += 1
-            (folder / "INDEX.md").write_text(content, encoding="utf-8")
-            stats["index_files"] += 1
-            for ch in kids:
-                base_name = node_basename(ch)
-                if ch["segment"] in fold_set:
-                    # Folded program: one merged file at THIS level.
-                    folded_kids = children_of.get(ch["segment"], [])
-                    folded_path = folder / f"{base_name}.md"
-                    body = render_folded_md(
-                        ch, folded_kids, period_id, period_name,
-                        courses_by_uid=courses_by_uid,
-                        fau_index=fau_index,
-                        md_file=folded_path,
-                        out_root=out_root,
-                    )
-                    folded_path.write_text(body, encoding="utf-8")
-                    if (
-                        len(ch["path"]) == 3
-                        and ch["segment"].startswith("title:")
-                        and "## Verwandte FAU-Inhalte" in body
-                    ):
-                        stats["fau_links"] += 1
-                    stats["folded_programs"] += 1
-                    stats["leaf_files"] += 1  # counts as one file at parent's level
-                elif children_of.get(ch["segment"]):
-                    walk(ch["segment"], folder / base_name)
-                else:
-                    leaf_file = folder / f"{base_name}.md"
-                    course = courses_by_uid.get(int(ch.get("unitId") or 0))
-                    if course:
-                        content = render_course_md(ch, course, period_id, period_name)
-                        stats["courses_embedded"] += 1
-                    else:
-                        content = render_leaf_md(ch, period_id, period_name)
+    # Top-level period INDEX
+    index_md = render_period_index_md(
+        period_id, period_name, by_segment, by_section, program_filenames
+    )
+    (base / "INDEX.md").write_text(index_md, encoding="utf-8")
 
-                    # PO-version → matching FAU PO PDF: only for depth-4
-                    # exam:NNN leaves whose parent program node we can resolve.
-                    if (
-                        len(ch["path"]) == 4
-                        and ch["segment"].startswith("exam:")
-                    ):
-                        program_seg = ch["path"][2]
-                        program_node = by_segment.get(program_seg)
-                        if program_node:
-                            pdf_section = _related_pdf_section(
-                                ch, program_node, fau_index, out_root, leaf_file
-                            )
-                            if pdf_section:
-                                content = content.rstrip() + "\n\n" + pdf_section
-                                stats["fau_links"] += 1
-                    leaf_file.write_text(content, encoding="utf-8")
-                    stats["leaf_files"] += 1
-        else:
-            # Root with no children — degenerate but keep the file.
-            (folder / "INDEX.md").write_text(
-                render_leaf_md(node, period_id, period_name), encoding="utf-8"
-            )
-            stats["index_files"] += 1
-    walk(root_seg, base)
     return stats
 
 
@@ -984,9 +1154,10 @@ def main(argv: Iterable[str] | None = None) -> int:
     stats = render_corpus(snapshot, args.out, courses=courses)
     print(
         f"rendered period {snapshot['periodId']} {snapshot['periodName']!r} "
-        f"into {args.out}: folders={stats['folders']} index={stats['index_files']} "
-        f"leaves={stats['leaf_files']} courses_embedded={stats['courses_embedded']} "
-        f"fau_links={stats['fau_links']} folded_programs={stats['folded_programs']}"
+        f"into {args.out}: programs={stats['programs']} "
+        f"po_versions={stats['po_versions']} courses={stats['courses_embedded']} "
+        f"studiengang_inlines={stats['studiengang_inlines']} "
+        f"lehramt_blocks={stats['lehramt_pdf_blocks']}"
     )
     return 0
 

@@ -609,5 +609,65 @@ Spot-check: *Musizieren an der Universität* now lives as a single 13 KB / ≈ 4
 
 **Status:** Entry 0012 closes the F-TOKEN policy. The remaining 200-1k bulk are mostly individual course files (one Vorlesung is naturally that size) and small folded programs with 1–3 PO-versions; both are intrinsic to the data and not over-folded.
 
+---
+
+## Entry 0013 — Merge refactor: one program file, root README, zip release
+
+- **Start:** 2026-05-01 14:23 CEST
+- **End:** 2026-05-01 14:32 CEST
+- **Duration:** ~9 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context)
+
+**Prompts (verbatim):**
+
+> We will supply the resulting scarping results as md files to a RAG system that will parse the files. 50k files seems a lot for this. Let's why we need to parse the full scrape result and refactor it such that we avoid smaller files of less than 10k tokens and too deep hierarchies.
+>
+> What the status of scraping study regulations and websites of the study programs. I also wanted this merged into the campo hierarchy and converted to markdowns. Also, the links to original sources should be preserved such that the RAG system later can find all of the original pages.
+>
+> In the end, I want a zip file for download with all this information merged and regularly updated via github actions. This can be explained in [README.md](http://README.md) on github. Maybe we also need a root md in the zip that will inform the RAG system how to work with this.
+
+> Yes. And I think, we should also stop the current running scrape.
+
+**Plan:**
+
+1. Local 5-day scrape killed (no recoverable state — predates Entry 0011's checkpointing).
+2. Refactor `render_markdown.py`: one merged file per Campo program at depth 3, FAU.de Studiengang content + every PO-version + every attached course inlined; drop the per-PO-version stub files entirely; section-level grouping moves into `INDEX.md` headings instead of subfolders.
+3. Result: `data/{period-slug}/INDEX.md` plus a flat list of `{program-slug}.md` siblings — depth 2.
+4. Standalone `data/studiengang/{slug}.md` files (3–5 k tok each) become redundant once their content is inlined; keep the FAU monthly cron writing them but the Campo render no longer emits the per-program-PO-version stubs.
+5. Big PO-PDF markdowns stay separate under `data/pruefungsordnungen/{faculty}/{program}/{po}.md` — they're naturally 10–30 k tok, exactly the F-TOKEN sweet spot.
+6. New `data/README.md` ("how a RAG should consume this corpus"). It explains the layout, source-link conventions, and where each kind of content lives.
+7. New cron step: tar + gzip the entire `data/` tree into `ifcampoknew-corpus-{period-slug}.zip` and upload as a Release asset.
+8. Repo `README.md` points at the *latest-release* zip download for users who don't want to clone.
+
+**Actions:**
+
+1. Sent `SIGTERM` to the local 5-day scrape (PIDs 52117 / 52119 / 52120). All gone. Process pre-dated Entry 0011's checkpoint code so its 14 minutes of accumulated CPU time is not recoverable.
+2. Rewrote `render_corpus()` in `scraper/render_markdown.py`:
+   - New `render_program_md()` produces ONE merged file per Campo depth-3 program with: matched FAU.de Studiengang content inlined (Steckbrief + sections + links, H2 demoted to H4 to keep the program's hierarchy clean), every PO-version under the program with permalinks + year-matched dated PDF references, every course attached to any leaf in the subtree (full Eckdaten + Termine + instructors), and a Lehramts-Prüfungsordnungen list for unmatched programs.
+   - New `render_period_index_md()`: one INDEX.md per period grouping programs by their Campo section as H2 headings.
+   - New `_wipe_period_folder()` clears the previous render's nested layout before re-emitting flat files (no orphans).
+   - Old helpers kept (`render_index_md`, `render_leaf_md`, `render_folded_md`, `_compute_fold_set`, …) — unused now but tests still cover them; removal can wait.
+3. Wrote [`data/README.md`](data/README.md) — RAG usage guide that explains the layout, source-link conventions (`campo_permalink` / `source_url` / `pdf_source` in front-matter, inline autolinks in body), stable-id rules (segments in front-matter and basename), and update cadence.
+4. Updated `.github/workflows/scrape-weekly.yml`: after the corpus commit, build `ifcampoknew-corpus-{iso-week}.zip` from the `data/` tree and attach it as a GitHub Release asset. Body of the release now points download instructions back at the zip.
+5. Re-simplified `.github/workflows/scrape-monthly-fau.yml`: it just commits `data/studiengang/` + `data/pruefungsordnungen/` updates; the next weekly Campo cron picks them up and builds the canonical zip.
+6. Rewrote the project `README.md`'s "What this repo is", quick-start, and roadmap rows to reflect the new layout. Added a top-level *Download the corpus* section pointing at the latest GitHub Release.
+
+**Effect on the SoSe 2026 corpus:**
+
+| metric | before Entry 0013 | after |
+|---|--:|--:|
+| Campo `data/{period}/` files | 742 | **236** |
+| Campo subfolders | 38 | **0** (flat) |
+| Total `data/` files | 4 956 | **3 298** |
+| Average tokens per Campo file | ~1 700 | **~4 800** |
+| Files in 10–30 k bucket | 0 | **26 (11 %)** |
+| Files > 30 k | 0 | **2** (FAU-Scientia mega-files with many courses) |
+| Repo zip size | n/a | **21 MB** |
+| 72-test pytest suite | ✅ | ✅ |
+
+Spot-check: `informatik-17949.md` is now ~36 KB / ~12 k tokens with both FAU.de Studiengang pages (B.Sc. + M.Sc.) inlined as H3 sections, all 14 PO-versions listed with permalinks, and front-matter declaring `campo_segment: "title:17949"`, `fau_studiengang: [{title: …, rel_path: …}, …]` so a RAG can ground answers.
+
+**Status:** Entry 0013 ships the merge refactor + zip release. Pending follow-ups: (a) prune now-unused `render_folded_md` / fold helpers later if they get in the way, (b) consider deleting `data/studiengang/` from the committed tree once we're confident nothing references it directly (its content lives inside program files now).
+
 
 
