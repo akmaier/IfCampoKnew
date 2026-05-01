@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/konsolidierte_Fassungen/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20250711.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:35:19+00:00
-page_count_chars: 117477
+scraped_at: 2026-05-01T07:24:44+00:00
+page_count_chars: 112730
 ---
 
 # BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/konsolidierte_Fassungen/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20250711.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Studien- und Prüfungsordnung für den Bachelorstudiengang Molekulare Medizin und den Masterstudiengang Molecular Medicine an der Medizinischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MolMed – Vom 22. August 2023** 
 
@@ -23,6 +27,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 **Erster Abschnitt: Allgemeine Vorschriften ..........................................................................................2** § 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung........................................... 2 § 2 Akademische Grade ..................................................................................................... 2 § 3 Bachelorstudiengang, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ................................................................................................................ 3 § 4 Masterstudiengang, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ................................................................................................................ 3 § 5 ECTS-Punkte ................................................................................................................ 3 § 6 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen, Sicherheitsunterweisung .................................................................... 3 § 7 Prüfungsfristen, Fristversäumnis................................................................................... 5 § 8 Prüfungsausschuss ...................................................................................................... 6 § 9 Studiengangskommission ............................................................................................. 7 § 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht ...... 7 § 11 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt ............. 8 § 12 Anerkennung und Anrechnung von Kompetenzen ...................................................... 9 § 13 Folge eines verspäteten Rücktritts, Ordnungsverstoß, Täuschung ........................... 10 § 14 Mängel im Prüfungsverfahren ................................................................................... 11 § 15 Entzug akademischer Grade .................................................................................... 11 § 16 Anwesenheitspflicht .................................................................................................. 11 § 17 Schriftliche Prüfung, Antwort-Wahl-Verfahren ........................................................... 12 § 18 Elektronische Prüfungen in Präsenz ......................................................................... 14 § 19 Mündliche Prüfungen ................................................................................................ 14 § 20 Bewertung von Prüfungen, Noten, Gesamtnote ........................................................ 14 § 21 Ungültigkeit der Prüfung ........................................................................................... 16 § 22 Einsicht in die Prüfungsakten .................................................................................... 16 § 23 Zeugnis, Transcript of Records, Diploma Supplement, Grade distribution table, Urkunde ............................................................................................................................ 16 § 24 Endgültig nicht bestandene Prüfungen ..................................................................... 16 § 25 Nachteilsausgleich .................................................................................................... 17 **Zweiter Abschnitt: Besonderer Teil I. Bachelorstudiengang .......................................................... 17** § 26 Bachelorprüfung ....................................................................................................... 17 § 27 Zulassungsvoraussetzungen für die Prüfungen ........................................................ 17 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 § 28 Bachelorarbeit .......................................................................................................... 18 § 29 Wiederholung von Prüfungen, Zusatzmodule ........................................................... 19 **II. Masterstudiengang .......................................................................................................................... 20** § 30 Masterprüfung .......................................................................................................... 20 § 31 Qualifikation zum Masterstudium .............................................................................. 21 § 32 Umfang und Gliederung des Masterstudiums ........................................................... 21 § 33 Masterarbeit .............................................................................................................. 22 § 34 Elective Modules ...................................................................................................... 23 § 35 Wiederholung von Prüfungen ................................................................................... 24 **Dritter Abschnitt: Schluss- und Übergangsvorschriften ................................................................ 24** § 36 Inkrafttreten .............................................................................................................. 24 **Anlage 1 – Studienverlaufsplan Bachelor Molekulare Medizin ...................................................... 26 Anlage 2: Qualifikationsfeststellungsverfahren ............................................................................... 30 Anlage 3: Zugangstest ........................................................................................................................ 33 Anlage 4: Studienverlaufsplan Master Molecular Medicine ............................................................ 35** 
 
@@ -47,6 +55,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 (2) Die akademischen Grade können auch mit dem Zusatz (FAU Erlangen-Nürnberg) geführt werden. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 3 Bachelorstudiengang, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache** 
 
@@ -80,6 +92,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2)[1] Die Module schließen mit einer studienbegleitenden Modulprüfung ab.[2] Diese Prüfung soll in der Regel aus einer Prüfungs- oder Studienleistung bestehen.[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Teilprüfungen oder Prüfungsteilen bzw. einer Kombination aus Prüfungs- und/oder Studienleistungen bestehen.[4] Leistungsnachweise in Form von unmittelbar aufeinander bezogenen Teilleistungen zum selben Prüfungsgegenstand (sog. echte Portfolioprüfung) sowie in Form von einer unbenoteten und/oder beliebig oft wiederholbaren Studienleistung, die aus mehreren in sich geschlossenen mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Teilleistungen bestehen, zählen als nur eine selbständige Modul(teil)prüfung im Sinne des Satz 3.[5] ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Modulprüfung festgestellt wird.[6] Studienbegleitende Modulprüfungen sind solche, die während der Vorlesungszeit oder im Anschluss an die letzte Lehrveranstaltung eines Moduls vor Beginn der Vorlesungszeit des folgenden Semesters angeboten werden. 
 
 (3)[1] Prüfungen (Prüfungs- und Studienleistungen) messen den Erfolg der Studierenden.[2] Sie können schriftlich, mündlich, elektronisch, über elektronische Kommunikationsmittel oder in anderer Form erfolgen.[3] Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung ( **BayFEV** ) – **EFernPO** – zu beachten.[4] Prüfungsleistungen und Teilprüfungen werden benotet.[5] Bei Studienleistungen kann sich die Bewertung auf die Feststellung des Bestehens oder Nichtbestehens beschränken. 
@@ -89,6 +105,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 (5)[1] Der Umfang einer benoteten Seminarleistung nach Abs. 4 Satz 4 ist abhängig vom konkret vergebenen Thema und mit der bzw. dem Modulverantwortlichen abzustimmen.[2] Soweit in der jeweils einschlägigen **Anlage** nichts Anderes festgelegt ist, beträgt der Umfang der Präsentation in der Regel ca. 30 Minuten, derjenige der schriftlichen Ausarbeitung ca. 10 Seiten. 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (6)[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Papier- und Rechnerübungen, Referate) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise, regelt das Modulhandbuch.[3] Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.[4] Zwischenprüfungsleistungen können die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern; eine Verschlechterung der Note ist ausgeschlossen. 
 
@@ -112,6 +132,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 28. Mai 2008 ( **BGBl** . I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch ( **SGB XI** ) vom 26. Mai 1994 ( **BGBl** . I S. 1014, 1015) in der jeweils geltenden Fassung ist. 
 
 (3)[1] Die Gründe nach den Abs. 1 Satz 4 und Abs. 2 müssen dem Prüfungsamt unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Werden die Gründe anerkannt, so ist die Prüfung zum nächstmöglichen Termin abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden anerkannt.[3] Es gelten § 11 Abs. 3 Sätze 2 bis 4. 
@@ -130,6 +154,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (6)[1] Die bzw. der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[2] Sie bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen alleine zu treffen.[3] Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen.[4] Darüber hinaus kann, soweit diese Prüfungsordnung nichts Anderes bestimmt, der Prüfungsausschuss der bzw. dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
 
 (7)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der bzw. dem Studierenden ist vor einer ablehnenden Entscheidung Gelegenheit zur Äußerung zu geben.[3] Aufgrund Beschlusses des Prüfungsausschusses können Bescheide in Prüfungsangelegenheiten jeder bzw. jedem Einzelnen in elektronischer Form bekannt gegeben werden.[ 4] Widerspruchsbescheide werden im Auftrag der Präsidentin bzw. des Präsidenten erlassen, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfenden. 
@@ -145,6 +173,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 (1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **BayHIG** und der **Hochschulprüferverordnung** ( **BayHSchPrüferV** ) in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prü- 
 
 7 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 fungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vorbehaltlich der Regelung in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.[6] Beim Prüfungsausschuss wird eine Liste mit allen in diesem Studiengang Prüfungsberechtigten geführt. 
 
@@ -166,6 +198,10 @@ fungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vor
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 schuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[5] Das (vertrauens-)ärztliche Attest muss eine Beschreibung der gesundheitlichen Beeinträchtigung und die Angabe der sich daraus ergebenden Verminderung des Leistungsvermögens in der Prüfung speziell durch die Störung bestimmter körperlicher oder geistiger Funktionen enthalten.[6] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit (= Prüfungsabbruch) ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.[7] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung für diesen Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[8] Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich.[ 9] Für den Rücktritt von Wiederholungsprüfungen ist § 29 Abs. 3 zu beachten.[10] Die Folgen eines verspäteten Rücktritts richten sich nach § 13 Abs. 1 und 2. 
 
 ## **§ 12 Anerkennung und Anrechnung von Kompetenzen** 
@@ -182,6 +218,10 @@ x = gesuchte Umrechnungsnote Nmax = beste erzielbare Note Nmin = unterste Besteh
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4)[1] Im Falle der Anerkennung bzw. Anrechnung von 30 oder mehr ECTS-Punkten erfolgt eine Hochstufung der bzw. des Studierenden in höhere Fachsemester.[2] Dabei wird pro anerkannter 30 ECTS-Punkte ein Semester hochgestuft. 
 
 (5)[1] Anerkennung und Anrechnung erfolgen auf Antrag.[2] Die für die Anerkennung bzw. Anrechnung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen.[3] Vorbehaltlich der Regelung in Satz 4 besteht bei Vorliegen der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung bzw. Anrechnung.[4] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.[5] Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.[6] Die Entscheidung ergeht schriftlich. 
@@ -195,6 +235,10 @@ x = gesuchte Umrechnungsnote Nmax = beste erzielbare Note Nmin = unterste Besteh
 (3)[1] Besteht der begründete Verdacht für das Vorliegen eines Plagiats bzw. einer anderweitigen Täuschung, insbesondere durch den Einsatz von Systemen künstlicher Intelligenz im Sinne des Abs. 2 Satz 2, so sind die zuständigen Prüfenden im Rahmen der Sachverhaltsermittlung nach Art. 26 **BayVwVfG** insbesondere auch dazu berechtigt, im Rahmen eines Kontrollgesprächs mithilfe von Fragen zum ursprünglichen Prüfungsgegenstand abzuprüfen, ob die bzw. der betreffende Studierende den Prüfungsstoff beherrscht.[2] Ein begründeter Verdacht im Sinne des Satzes 1 ist gegeben, wenn nach dem Erfahrungswissen der bzw. des Prüfenden ein für das Vorliegen eines Plagiats bzw. einer Täuschung typischer Sachverhalt gegeben ist, der aufgrund des allgemeinen Erfahrungswissens zu dem Schluss berechtigt, dass ein Plagiat bzw. eine Täuschung vorliegt.[3] Das Kontrollgespräch wird von den für die ursprüngliche Prüfung zuständigen Prüfenden durchgeführt; war für die ursprüngliche Prüfung nur eine Prüfende bzw. ein Prüfender eingesetzt, findet das Kontrollgespräch in Anwesenheit einer Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden bestimmt wird.[ 4] Bei der Bewertung des Kontrollgesprächs ist der zeitliche Abstand zwi- 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 schen der ursprünglichen Prüfung und dem Kontrollgespräch zu berücksichtigen.[5] Beherrscht die bzw. der Studierende den Prüfungsstoff in einem Umfang, der für das Bestehen der ursprünglichen Prüfung ausgereicht hätte, so gilt der begründete Verdacht für das Vorliegen des Plagiats bzw. der anderweitigen Täuschung als ausgeräumt und die ursprüngliche Prüfung wird regulär inhaltlich bewertet.[6] Kann die bzw. der Studierende im Rahmen des Kontrollgesprächs nach Satz 1 die abgeprüften Kompetenzen nicht in einem im Sinne des Satz 2 ausreichenden Umfang nachweisen und sind gleichzeitig keine tatsächlichen Umstände gegeben, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, gilt die Täuschung als bewiesen; es gilt Abs. 2 Satz 1.[7] Verweigert die bzw. der Studierende die Teilnahme an dem Kontrollgespräch, so stellt dies eine Verletzung ihrer bzw. seiner Obliegenheit zur Mitwirkung im Prüfungsverfahren im Sinne des Art. 26 Abs. 2 Satz 1 **BayVwVfG** dar. 8Macht die bzw. der Studierende gleichzeitig keine tatsächlichen Umstände glaubhaft, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, so gilt der begründete Verdacht des Vorliegens eines Plagiats bzw. einer anderweitigen Täuschung als durch den Beweis des ersten Anscheins bewiesen. 
 
@@ -218,6 +262,10 @@ schen der ursprünglichen Prüfung und dem Kontrollgespräch zu berücksichtigen
 
 11 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 dulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
 (2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die oder der Lehrende der oder dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der oder dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig. 3Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
@@ -231,6 +279,10 @@ dulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vo
 (1)[1] In der schriftlichen Prüfung sollen die Studierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln ein Problem mit den geläufigen Methoden des Faches erkennen und Wege zur Lösung finden können.[2] Dies gilt insbesondere für Klausuren, die unter Aufsicht angefertigt werden.[3] Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als Open-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Nä- 
 
 12 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 heres regelt die Modulbeschreibung.[4] Bei Prüfungen i.S.d. Satz 3 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten. 
 
@@ -251,6 +303,10 @@ heres regelt die Modulbeschreibung.[4] Bei Prüfungen i.S.d. Satz 3 sind die Auf
 (6) Bei schriftlichen Prüfungen, die nur teilweise im Antwort-Wahl-Verfahren abgenommen werden, gelten die Absätze 4 und 5 nur für diesen Teil. 
 
 13 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 18 Elektronische Prüfungen in Präsenz** 
 
@@ -284,6 +340,10 @@ heres regelt die Modulbeschreibung.[4] Bei Prüfungen i.S.d. Satz 3 sind die Auf
 
 14 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Prüfenden zu bewerten oder besteht sie aus mehreren Teilleistungen, so ergibt sich die Note aus dem ggf. gewichteten Mittel der Einzelnoten; das Notenschema des Abs. 1 findet keine Anwendung.[5] Satz 4 kann auch bei Prüfungen angewendet werden, die keine mehrteilige Prüfung im Sinne des § 6 Abs. 2 Satz 3 darstellen, jedoch gleichwohl aus mehreren Teilen bestehen (bspw. Klausur mit einer Kombination aus Antwort-Wahl-Verfahren und offenen Fragen); Näheres zur Bewertung regelt in diesem Fall die jeweilige **Anlage** .[6] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
 
 (3)[1] Der Bewertungsmaßstab von im Antwort-Wahl-Verfahren zu erbringenden Prüfungen ist von den Aufgabenstellerinnen bzw. Aufgabenstellern nach § 17 Abs. 4 Satz 7 festzulegen.[2] Erfolgt keine Festlegung, sind die erbrachten Prüfungen wie folgt zu bewerten:[3] Wer die für das Bestehen der Prüfung nach § 17 Abs. 5 Satz 2 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die Note 
@@ -299,6 +359,10 @@ Prüfenden zu bewerten oder besteht sie aus mehreren Teilleistungen, so ergibt s
 (7) Die **Anlagen 1** und **4** regeln, ob Module mit doppeltem oder halbem ECTS-PunkteGewicht in die Berechnung der Note eingehen. 
 
 15 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 21 Ungültigkeit der Prüfung** 
 
@@ -328,6 +392,10 @@ Prüfenden zu bewerten oder besteht sie aus mehreren Teilleistungen, so ergibt s
 
 16 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen erzielten Noten ausdrucken. 
 
 ## **§ 25 Nachteilsausgleich** 
@@ -352,6 +420,10 @@ Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen e
 
 17 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 2. die Grundlagen- und Orientierungsprüfung, die Bachelorprüfung, die Diplomvorprüfung oder die Diplomprüfung im gleichen oder einem inhaltlich im Wesentlichen gleichen Studiengang (z. B. Molecular Life Sciences) endgültig nicht bestanden ist, 
 
 3. die Exmatrikulation unter Verlust des Prüfungsanspruchs verfügt wurde. 
@@ -372,6 +444,10 @@ Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen e
 
 18 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Rückgabe des Themas ausgeschlossen.[2] Wird das Thema unzulässigerweise zurückgegeben, wird die Bachelorarbeit mit „nicht ausreichend“ (5,0) benotet. 
 
 (6)[1] Die Arbeit ist in deutscher Sprache oder mit Zustimmung der Betreuerin bzw. des Betreuers in englischer Sprache abzufassen.[2] Auf Antrag der bzw. des Studierenden kann die bzw. der Vorsitzende des Prüfungsausschusses mit Zustimmung der Betreuerin bzw. des Betreuers die Abfassung der Arbeit in einer anderen Sprache zulassen. 
@@ -387,6 +463,10 @@ Rückgabe des Themas ausgeschlossen.[2] Wird das Thema unzulässigerweise zurüc
 (1)[1] Mit Ausnahme der Prüfungen der Module der Grundlagen- und Orientierungsprüfung, der Prüfungen von Praktika, Geländeseminaren und Exkursionen sowie des Moduls Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden.[2] Prüfungen der Module der Grundlagen- und Orientierungsprüfung sowie des Moduls Bachelorarbeit können einmal wiederholt werden. 3Prüfungen von Praktika, Geländeseminaren und Exkursionen können zweimal wiederholt werden, sofern im Falle der Wiederholung abweichend von Satz 5 auch das Praktikum, das Geländeseminar oder die Exkursion wiederholt werden muss.[ 4] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt. 5Bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist; Näheres regelt das Modulhandbuch.[6] Hinsichtlich der Wiederholung der Bachelorarbeit gilt § 33 Abs. 11.[7] Die Wiederholungsprüfung muss in der Regel innerhalb von sechs Monaten angeboten werden. 
 
 19 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] Die bzw. der Studierende meldet sich vorbehaltlich der Regelung in Satz 2 eigenständig zur Wiederholungsprüfung an.[2] Abweichend von Satz 1 melden sich die Studierenden im Falle von Praktika, Geländeseminaren und Exkursionen, bei denen nach Abs. 1 Satz 5 eine Wiederholung des Praktikums, des Geländeseminars oder der Exkursion erforderlich ist, eigenständig in einem von ihnen gewählten Semester für die Wiederholung des Praktikums, des Geländeseminars bzw. der Exkursion an; es gilt § 11 Abs. 2 Satz 4. 
 
@@ -407,6 +487,10 @@ Rückgabe des Themas ausgeschlossen.[2] Wird das Thema unzulässigerweise zurüc
 1Die für ein ordnungsgemäßes Studium zu durchlaufenden Module, deren zeitliche Einpassung in die Fachsemester sowie die Modulprüfungen ergeben sich aus **Anlage 4** zu dieser Studien- und Prüfungsordnung.[2] Der Höchstumfang der für ein planmäßiges Studium erforderlichen ECTS-Punkte beträgt 120. 
 
 20 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 31 Qualifikation zum Masterstudium** 
 
@@ -440,6 +524,10 @@ Rückgabe des Themas ausgeschlossen.[2] Wird das Thema unzulässigerweise zurüc
 
 21 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 gewichtet nach den ECTS-Punkten des Modulbereichs in die Endnote der Masterprüfung ein. 
 
 ## **§ 33 Masterarbeit** 
@@ -457,6 +545,10 @@ gewichtet nach den ECTS-Punkten des Modulbereichs in die Endnote der Masterprüf
 (6)[1] Die Masterarbeit soll in englischer Sprache abgefasst werden.[2] Eine Abfassung in deutscher Sprache ist in Ausnahmefällen zulässig und bedarf der Zustimmung durch den Prüfungsausschuss.[3] Die Masterarbeit muss mit einer Erklärung der bzw. des Studierenden versehen sein, dass die Arbeit selbst verfasst und keine anderen als die 
 
 22 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 darin angegebenen Quellen und Hilfsmittel benutzt wurden.[4] Die Masterarbeit ist in zwei schriftlichen Exemplaren und einer maschinenlesbaren elektronischen Fassung bei der Betreuerin bzw. dem Betreuer abzuliefern; der Abgabezeitpunkt ist schriftlich festzuhalten.[5] Wird die Masterarbeit nicht fristgerecht abgegeben, wird sie mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
 
@@ -478,6 +570,10 @@ darin angegebenen Quellen und Hilfsmittel benutzt wurden.[4] Die Masterarbeit is
 
 23 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ziele der einzelnen Module sind abhängig vom jeweils gewählten Modul und der jeweils einschlägigen **Studien- und Prüfungsordnung** bzw. der Modulbeschreibung zu entnehmen. 
 
 (3) Art und Umfang der Prüfungen sowie die Zusammensetzung der Module sind der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. der Modulbeschreibung zu entnehmen. 
@@ -498,85 +594,113 @@ Für die Wiederholung von Prüfungen und die Belegung von Zusatzmodulen gilt § 
 
 24 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Wintersemester 2024/2025 und später zugeordnet sind.[3] Für Prüfungen, die früheren Prüfungszeiträumen zugeordnet sind, finden die Regelungen in der Fassung vom 22. August 2023 Anwendung. 
 
 „(4)[1] Die zweite Änderungssatzung tritt zum 1. Oktober 2025 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2025/2026 aufnehmen werden sowie diejenigen Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der PO MolMed vom 22. August 2023 in der Fassung vom 26. September 2024 studieren. 3Abweichend von Satz 2 gelten die Änderungen in den Bachelormodulen "Biochemie und Molekularbiologie I", "Biochemie und Molekularbiologie II" und "Strahlenschutz in der experimentellen Medizin“ sowie das Modul „Masterarbeit und Masterkolloquium“ nur für diejenigen Studieren-den, die sich in den bisherigen Modulen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[4] Abweichend von Satz 2 gelten die Änderungen in § 31 und Anlagen 2 und 3 für alle Studierenden, die das Master-studium ab dem Wintersemester 2026/2027 aufnehmen werden.[5] Prüfungen nach der PO MolMed in der Fassung vom 26. September 2024 werden letztmals im Sommersemester 2028 angeboten. “ 
 
 25 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **– Anlage 1 Studienverlaufsplan Bachelor Molekulare Medizin** 
 
-|**1.**<br>**Modulbez-**<br>**eichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung1)**|**GOP**|
+|**1.**<br>**Modulbez-**<br>**eichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**||**Art und Umfang der**<br>**Prüfung1)**|**GOP**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1. Sem**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
-|**Akademisches**<br>**Mentorat**<br>~~eB~~|Seminar<br>~~eB~~<br>~~po~~|~~eB~~<br>~~po~~|~~eB~~<br>~~po~~|~~eB~~<br>~~po~~|2)<br>~~eB~~<br>~~po~~|**2,5**<br>~~eB~~|0,5<br>~~eB~~|0,5<br>~~eB~~<br>~~TE~~|0,5<br>~~eB~~<br>~~TE~~|0,5<br>~~eB~~<br>~~TEET~~|0,5<br>~~eB~~<br>~~ET~~|~~eB~~<br>~~ET |~~|Diskussionsbeitrag im 5.<br>Semester<br>~~eB~~<br>~~|~~|~~eB~~<br>~~|~~|
-|**Physik**<br>~~i ~~|Vorlesung<br>~~eee~~<br>~~pT~~<br>~~po~~|4<br>~~eee~~<br>~~pT~~<br>~~po~~|~~eee~~<br>~~pT~~<br>~~po~~|~~eee~~<br>~~pT~~<br>~~po~~|~~eee~~<br>~~pT~~<br>~~po~~|**7,5**<br>~~pT~~<br>~~ee~~|7,5 <br>~~pT~~<br>~~re~~<br>~~ee~~|~~pT~~<br>~~TE~~<br>~~re~~|~~pT~~<br>~~TE~~|~~pT~~<br>~~TEET~~<br>~~eee~~|~~pT~~<br>~~ET~~<br>~~eee~~|~~pT~~<br>~~ET |~~<br>~~eee~~|Klausur 120 min. (p/f)<br>und<br>pÜL (p/f)<br>~~pT~~<br>~~|~~<br>~~eee~~|~~pT~~<br>~~|~~<br>~~eee~~|
-||Übung zur<br>Vorlesung<br>~~eee~~<br>~~pT~~<br>~~po~~|~~eee~~<br>~~pT~~<br>~~po~~|2<br>~~eee~~<br>~~pT~~<br>~~po~~|~~eee~~<br>~~pT~~<br>~~po~~|~~eee~~<br>~~pT~~<br>~~po~~||||||||||
-||Praktikum<br> ~~eee~~<br>~~pT~~<br>~~po~~<br>~~es~~<br>~~es~~|~~eee~~<br>~~pT~~<br>~~po~~<br>~~ee~~<br>|~~eee~~<br>~~pT~~<br>~~po~~<br>~~ee~~<br>|5<br>~~eee~~<br>~~pT~~<br>~~po~~|~~eee~~<br>~~pT~~<br>~~po~~||||||||||
-|**Physikalische**<br>**Chemie 3)**<br>~~SSS~~<br>~~po~~|Vorlesung I<br>~~po~~<br>~~es~~<br>~~SSS~~<br>~~es~~|2<br>~~po~~<br>~~ee~~<br>~~SSS~~<br>|~~po~~<br>~~ee~~<br>~~SSS~~<br>|~~po~~<br>~~SSS~~|~~po~~<br>~~SSS~~|**7,5**<br>~~SSS~~<br>~~ee~~<br>|2,5<br>~~re~~<br>~~SSS~~<br>~~ee~~|~~TE~~<br>~~re~~<br>~~SSS~~|~~TE~~<br>~~SSS~~<br>|~~TE ET~~<br>~~SSS~~<br>~~eee~~<br>|~~ET~~<br>~~SSS~~<br>~~eee~~<br>|~~ET |~~<br>~~SSS~~<br>~~eee~~<br>|Klausur 90 min. (p/f)<br>und<br>pÜL(p/f)<br>~~|~~<br>~~SSS~~<br>~~eee~~<br>|~~|~~<br>~~SSS~~<br>~~eee~~<br>|
-||VorlesungII<br>~~po~~<br>~~es ~~<br>~~SSS~~<br>~~es~~<br>|2<br>~~po~~<br> ~~ee~~<br>~~SSS~~<br>~~ee~~<br>|~~po~~<br>~~ee~~<br>~~SSS~~<br>~~ee~~<br>|~~po~~<br>~~SSS~~<br>|~~po~~<br>~~SSS~~<br>||~~re~~<br>~~SSS~~<br>~~ee~~<br>~~a~~<br>|2,5<br>~~TE~~<br>~~re~~<br>~~SSS~~<br>~~a~~<br>|||||||
-||Praktikum<br>~~SSS~~<br>~~es~~<br>|~~SSS~~<br>~~ee~~<br>|~~SSS~~<br>~~ee~~<br>|2<br>~~SSS~~<br>|~~SSS~~<br>||~~SSS~~<br>~~ee~~<br>~~a~~<br>|2,5<br>~~SSS~~<br>~~a~~<br>|||||||
-|**Grundlagen der**<br>**Zellbiologie**<br>~~po~~|Vorlesung<br>~~es~~<br>|3<br>~~ee~~<br>|~~ee~~<br>|||**5**<br>~~ee~~<br>|5<br>~~ee~~<br>~~a~~<br>|~~a~~<br>||~~eee~~<br>|~~eee~~<br>|~~eee~~<br>|Klausur 90 min. (benotet)<br>~~eee~~<br>|~~eee~~<br>|
-|**Allgemeine und**<br>**Anorganische**<br>**Chemie**<br>~~po~~|Vorlesung<br><br>|4<br>~~ee ~~<br>|~~ee~~<br>|||**5**<br>|5<br>~~a~~<br>|~~a~~<br>|||||Klausur 90 min. (p/f)<br>|GOP<br>|
-|**Anorganisch-**<br>**chemisches**<br>**Praktikum 4)**<br>|Praktikum<br>|~~a~~||8<br>||**5**<br><br>~~ET~~|~~ET~~|5<br><br>~~ET~~|~~ET~~|~~ET~~|||pÜL (p/f)<br>|GOP<br>|
-|**Biochemie und**<br>**Grundzüge der**<br>**Molekularen Medizin**<br>|Propädeutik-<br>vorlesung<br>~~es~~|1<br>~~es~~<br>~~a~~|~~es~~<br>|~~es~~|~~es~~|**5**<br>~~es~~<br>~~ET~~|2,5<br>~~es~~<br>~~ET~~<br>~~a~~|~~es~~<br>~~ET~~<br>~~a~~|~~es~~<br>~~ET~~|~~es~~<br>~~ET~~|~~es~~|~~es~~|Diskussionsleitung 45 min.<br>(p/f) und<br>Präsentation 10-20 min.<br>(p/f)<br>~~es~~|GOP<br>~~es~~|
-||Tutorium<br>~~es~~<br>~~es~~|~~es~~<br>~~a~~<br>~~ee~~|~~es~~<br>~~a~~<br>~~ee~~|~~es~~|2<br>~~es~~||||||||||
-||Seminar<br>~~es~~<br>~~es~~|~~es~~<br>~~a~~<br>~~ee~~|~~es~~<br>~~a~~<br>~~ee~~|~~es~~|1<br>~~es~~||~~es~~<br>~~ET~~<br>~~a~~|2,5<br>~~es~~<br>~~ET~~<br>~~a~~|||||||
-|**Funktionelle**<br>**Anatomie des**<br>**Menschen für**<br>**Molekulare Medizin**|Vorlesung<br>~~es ~~<br>~~rr~~|2<br>~~a ~~<br> ~~ee ~~<br>~~rr~~|~~a~~<br> ~~ee~~<br>~~rr~~|~~rr~~|~~rr~~|**5**<br>~~ET~~|5<br>~~ET~~<br>~~a~~|~~ET~~<br>~~a~~|~~ET~~|~~ET~~|||Klausur 60 min.<br>(benotet)|GOP|
-||Seminar<br>~~re~~|~~re~~<br>~~ee~~|~~re~~<br>~~ee~~|~~re~~<br>~~ce~~|3<br>~~re~~<br>~~ce~~||||||||||
-|**Allgemeine**<br>**Histologie und**<br>**Embryologie**<br>~~es~~<br>~~ee~~|Vorlesung<br>~~es~~|2<br>~~es~~<br>~~ee~~<br>~~|~~|~~es~~<br>~~ee~~<br>~~|~~|~~es~~<br>~~ce~~|~~es~~<br>~~ce~~|**5**<br>~~es~~<br>~~Prrry~~<br>~~{|~~|5<br>~~es~~<br>~~{|~~|~~es~~<br>~~|~~|~~es~~<br>~~tT~~|~~es~~<br>~~tTEE~~|~~es~~<br>~~EE~~|~~es~~<br>~~EE~~|Klausur oder pÜL5)<br>(benotet)<br>~~es~~|GOP<br>~~es~~|
-||Praktikum<br>~~es~~<br>~~ft~~|~~es~~<br>~~ee~~<br>~~ft~~<br>~~|~~<br>~~Prrry~~|~~es~~<br>~~ee~~<br>~~ft~~<br>~~|~~<br>~~Prrry~~|1,5<br>~~es~~<br>~~ce~~<br>~~ft~~<br>~~Prrry~~|~~es~~<br>~~ce~~<br>~~ft~~<br>~~Prrry~~||||||||||
-|**Spezielle Histologie**<br>**und**<br>**Organogenese**<br>~~ee~~|Vorlesung|3<br>~~ee~~<br>~~|~~<br>~~Prrry~~<br>~~|~~|~~ee~~<br>~~|~~<br>~~Prrry~~<br>~~|~~|~~ce~~<br>~~Prrry~~|~~ce~~<br>~~Prrry~~|**5**<br>~~Prrry~~<br>~~{|~~|~~{|~~|5<br>~~|~~|~~tT~~|~~tTEE~~|~~EE~~|~~EE~~|Klausur oder pÜL5)<br>(benotet)|GOP|
-||Praktikum<br>~~ft~~|~~ee~~<br>~~|~~<br>~~Prrry~~<br>~~ft~~<br>~~|~~|~~ee ~~<br>~~|~~<br>~~Prrry~~<br>~~ft~~<br>~~|~~|2<br> ~~ce~~<br>~~Prrry~~<br>~~ft~~|~~ce~~<br>~~Prrry~~<br>~~ft~~||||||||||
-|**Grundlagen der**<br>**Physiologie des**<br>**Menschen und**<br>~~ee~~|Zellphysiologie|1,6<br>~~|~~<br>~~Prrry~~<br>~~|~~|~~|~~<br>~~Prrry~~<br>~~|~~|~~Prrry~~|0,4<br>~~Prrry~~|**5**<br>~~Prrry~~<br>~~{|~~<br>~~ee~~|~~{|~~|5<br> ~~|~~|~~tT~~|~~tTEE~~|~~EE~~|~~EE~~|Klausur 60-90 min.<br>(benotet)||
-||Bioinformatik<br>~~ee~~|2<br>~~|~~<br>~~Prrry~~<br>~~ee~~|~~|~~<br>~~Prrry~~<br>~~ee~~|~~Prrry~~<br>~~ee~~|~~Prrry~~<br>~~ee~~||~~{| ~~<br>~~ee~~||~~tT~~|~~tT EE~~|~~EE~~|~~EE~~|||
+||||**SWS**||||||||||||
+||||||||||<br>**in ECTS-Punkten**||||||
+||||||||||||||||
+|||**V**|**Ü**|**P**|**S**||**1. Sem**|**2.**<br>**Sem.**|**3.**|**4.**|**5.**|**6.**|||
+||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|**Akademisches**<br>**Mentorat**|Seminar||||2)|**2,5**|0,5|0,5|0,5|0,5|0,5||Diskussionsbeitrag im 5.<br>Semester||
+|**Physik**|Vorlesung|4||||**7,5**|7,5||||||Klausur 120 min. (p/f)<br>und<br>pÜL (p/f)||
+||Übung zur<br>Vorlesung||2||||||||||||
+||Praktikum|||5|||||||||||
+|**Physikalische**<br>**Chi 3)**|Vorlesung I|2||||**7,5**|2,5||||||Klausur 90 min. (p/f)<br>und<br>pÜL(p/f)||
+||VorlesungII|2||||||2,5|||||||
+|**eme  **|Praktikum|||2||||2,5|||||||
+|**Grundlagen der**<br>**Zellbiologie**|Vorlesung|3||||**5**|5||||||Klausur 90 min. (benotet)||
+|**Allgemeine und**<br>**Anorganische**<br>**Chemie**|Vorlesung|4||||**5**|5||||||Klausur 90 min. (p/f)|GOP|
+|**Anorganisch-**<br>**chemisches**<br>**Praktikum 4)**|Praktikum|||8||**5**||5|||||pÜL (p/f)|GOP|
+|**Biochemie und**<br>**Grundzüge der**<br>**Mlkl Mdii**|Propädeutik-<br>vorlesung|1||||**5**|2,5||||||Diskussionsleitung 45 min.<br>(p/f) und<br>Präsentation 10-20 min.<br>(p/f)|GOP|
+||Tutorium||||2||||||||||
+|**oeuaren ezn**|Seminar||||1|||2,5|||||||
+|**Funktionelle**<br>**Anatomie des**<br>**Menschen für**<br>**Molekulare Medizin**|Vorlesung|2||||**5**|5||||||Klausur 60 min.<br>(benotet)|GOP|
+||Seminar||||3||||||||||
+|**Allgemeine**<br>**Histologie und**<br>**Embryologie**|Vorlesung|2||||**5**|5||||||Klausur oder pÜL5)<br>(benotet)|GOP|
+||<br>Praktikum|||1,5|||||||||||
+|**Spezielle Histologie**<br>**und**<br>**Organogenese**|Vorlesung|3||||**5**||5|||||Klausur oder pÜL5)<br>(benotet)|GOP|
+||<br>Praktikum|||2|||||||||||
+|**Grundlagen der**<br>**Physiologie des**<br>**Menschen und**|Zellphysiologie|1,6|||0,4||||||||Klausur 60-90 min.<br>(benotet)||
+||Bioinformatik|2|||||||||||||
+|||||||**5**||5|||||||
+||||||||||||||||
 
 
 
 26 
 
-|**1.**<br>**Modulbez-**<br>**eichnung**<br>**Grundlagen der**<br>**Bioinformatik**<br>~~A~~|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung1)**<br>~~eee~~|**GOP**<br>~~eee~~|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**1.**<br>**Modulbez-**<br>**eichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**||**Art und Umfang der**<br>**Prüfung1)**|**GOP**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1. Sem**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
-||~~———_—_--~~|~~———_—_--~~|~~———_—_--~~|~~———_—_--~~|~~———_—_--~~|||~~eee~~|~~eee~~|~~eee~~|~~eee~~|~~eee~~|||
-|**Organische Chemie**<br>~~A~~|Vorlesung<br>~~———_—_--~~<br>~~es~~|3<br>~~———_—_--~~<br>~~ee~~|~~———_—_--~~<br>~~ee~~|~~———_—_--~~|~~———_—_--~~|**10**<br>~~po~~|~~po~~|5<br>~~eee~~<br>~~|~~|~~eee~~<br>~~|~~|~~eee~~|~~eee~~|~~eee~~|Klausur 90 min. (p/f)<br>und<br>pÜL(p/f)<br>~~eee~~|~~eee~~|
-||Seminar<br>~~———_—_--~~<br>~~es~~|~~———_—_--~~<br>~~ee~~|~~———_—_--~~<br>~~ee~~|~~———_—_--~~|1<br>~~———_—_--~~||~~po~~||~~eee~~<br>~~|~~||||||
-||Praktikum4)<br>~~———_—_--~~<br>~~es ~~|~~———_—_--~~<br> ~~ee ~~|~~———_—_--~~<br> ~~ee~~|7<br>~~———_—_--~~|~~———_—_--~~||~~po~~|~~eee~~<br>~~|~~|5<br>~~eee~~<br>~~|~~||||||
-|**Vegetative**<br>**Physiologie**<br>~~A ~~<br>~~a~~|Vegetative<br>Physiologie<br> ~~———_—_--~~<br>~~ee~~|4<br>~~———_—_--~~<br>~~ee~~|~~———_—_--~~<br>~~ee ~~|3,5<br>~~———_—_--~~<br> ~~ee~~|2,8<br>~~———_—_--~~<br>~~ee ~~|**10**<br> ~~ee~~|~~ee ~~|~~eee~~<br> ~~ee~~|10<br>~~eee~~<br>~~ee~~|~~eee~~|~~eee~~|~~eee~~|Klausur 60 min. (benotet)<br>~~eee~~|~~eee~~|
-|**Neurophysiologie**<br>**und Neuroanatomie**<br>~~es~~|Neuroanatomie|1,5|||1|**10**<br>~~ee~~<br>|~~ee~~<br>|||10|||Teilklausur Neuroana-<br>tomie 45-60 min. (benotet,<br>25%) sowie<br>Teilklausur Neurophysio-<br>logie 60 min. (benotet,<br>75%)6)||
-||Neurophysiologie<br>~~es~~|4<br>~~ee~~<br>|~~ee~~<br>|3,5<br>~~ee~~<br>|2,8<br>~~ee~~<br>||||||||||
-|**Biochemie und**<br>**Molekularbiologie I**<br>~~es~~<br>~~es~~|Vorlesung<br>~~es~~<br>~~es~~|4<br>~~es~~<br>~~ee~~<br>|~~es~~<br>~~ee~~<br>|~~es~~<br>~~ee~~<br>|~~es~~<br>~~ee~~<br>|**10**<br>~~es~~<br>~~ee~~<br>|~~es~~<br>~~ee~~<br>|~~es~~<br>|10<br>~~es~~<br>|~~es~~|~~es~~|~~es~~|zwei Teilklausuren 90<br>min. (benotet und<br>benotet, jeweils 50%)<br>~~es~~|~~es~~|
-||Seminare<br>~~es~~<br>~~es~~|~~es~~<br>~~ee~~<br>|~~es~~<br>~~ee~~<br>|~~es~~<br>~~ee~~<br>|2,5<br>~~es~~<br>~~ee~~<br>||||||||||
-|**Biochemie und**<br>**Molekularbiologie II**<br>~~es~~|Vorlesung<br>~~es~~|4<br>~~ee~~<br>|~~ee~~<br>|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|**10**<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~|~~ee~~|10|||Referat ca. 10 min. (p/f)<br>und<br>zwei Teilklausuren<br>90min. (benotet und<br>benotet, jeweils 50%)||
-||Seminare<br>~~es ~~|~~ee~~<br>|~~ee~~<br>|~~ee~~<br> ~~ee~~|3,5<br>~~ee~~<br>~~ee~~||||||||||
-|**Biochemisches**<br>**Praktikum I**<br>~~es~~<br>~~a~~|Einführungsvorlesu<br>ng<br>~~es ~~<br>~~ee~~|1<br>~~ee~~<br> <br>~~ee~~|~~ee~~<br> <br>~~ee~~|~~ee~~<br> <br>~~ee~~|~~ee~~<br><br>~~ee~~|**5**<br>~~ee~~<br><br> ~~ee~~|~~ee~~<br><br>~~ee~~|~~ee~~|5<br>||||pÜL (p/f)||
-||Praktikum<br>~~ee~~|~~ee~~|~~ee~~|4<br>~~ee~~|~~ee ~~||||||||||
-|**Biochemisches**<br>**Praktikum II**<br>~~eee~~<br>~~a~~|Einführungsvorlesu<br>ng<br>~~eee~~|1<br>~~eee~~|~~eee~~|~~eee~~|~~eee~~|**5**<br>~~eee~~|~~eee~~|~~eee~~|~~eee~~|5<br>~~eee~~|~~eee~~|~~eee~~|pÜL (p/f)<br>~~eee~~|~~eee~~|
-||Praktikum<br>~~eee~~<br>~~rere~~|~~eee~~<br>~~rere~~|~~eee~~<br>~~ere~~|4<br>~~eee~~<br>~~ere~~|~~eee~~<br>~~ee~~||||||||||
-|**Mikrobiologie,**<br>**Immunologie und**<br>**Virologie**<br>~~a~~|Vorlesung<br>~~rere~~|3<br>~~rere~~<br>~~ee eee~~|~~ere~~<br>~~eee~~|~~ere~~<br>~~eee~~|~~ee~~<br>~~eee~~|**5**||||5|||Klausur 90 min.<br>(benotet)||
-||Übung<br>~~rere~~<br>~~ee~~|2<br>~~rere~~<br>~~ee~~<br>~~ee eee~~|1<br>~~ere~~<br>~~ee~~<br>~~eee~~|~~ere~~<br>~~ee~~<br>~~eee~~|~~ee~~<br>~~ee~~<br>~~eee~~||||||||||
-|**Strahlenschutz in**<br>**der experimentellen**<br>**Medizin**<br>~~a ~~|Kurs<br> ~~rere~~|2<br>~~rere ~~<br>~~ee eee~~|0,5<br> ~~ere~~<br>~~eee~~|0,5<br>~~ere ~~<br>~~eee~~|~~ee~~<br>~~eee~~|**2,5**||||||2,5|Klausur 90 min.<br>(benotet)7)||
-|**Humangenetik**<br>~~ee~~|Vorlesung<br>~~ee~~|2<br>~~ee~~<br>~~ee~~|~~ee ee)~~<br>~~ee~~|~~ee)~~|~~ee)~~|**5**<br>~~ee)~~|~~ee)~~|~~ee)~~|~~ee)~~|~~ee)~~|5<br>~~ee)~~||Klausur 90 min.<br>(benotet)||
-||Übung<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~<br>~~ee~~|4<br>~~ee ee)~~<br>~~ee~~<br>~~ee~~|~~ee)~~<br>~~ee~~|~~ee)~~<br>~~ee~~||||||||||
+||||**SWS**||||||||||||
+||||||||||<br>**in ECTS-Punkten**||||||
+||||||||||||||||
+|||**V**|**Ü**|**P**|**S**||**1. Sem**|**2.**<br>**Sem.**|**3.**|**4.**|**5.**|**6.**|||
+||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|**Grundlagen der**<br>**Bioinformatik**|||||||||||||||
+|**Organische Chemie**|Vorlesung|3||||**10**||5|||||Klausur 90 min. (p/f)<br>und<br>pÜL(p/f)||
+||Seminar||||1||||||||||
+||Praktikum4)|||7|||||5||||||
+|**Vegetative**<br>**Physiologie**|Vegetative<br>Physiologie|4||3,5|2,8|**10**|||10||||Klausur 60 min. (benotet)||
+||Neuroanatomie|1,5|||1||||||||Teilklausur Neuroana-<br>tomie 45-60 min. (benotet,<br>25%) sowie<br>Teilklausur Neurophysio-<br>logie 60 min. (benotet,<br>75%)6)||
+|**Neurophysiologie**<br>**und Neuroanatomie**|Neurophysiologie|4||3,5|2,8|**10**||||10|||||
+|**Biochemie und**<br>**Molekularbiologie I**|Vorlesung|4||||**10**|||10||||zwei Teilklausuren 90<br>min. (benotet und<br>benotet, jeweils 50%)||
+||Seminare||||2,5||||||||||
+|**Biochemie und**<br>**Molekularbiologie II**|Vorlesung|4||||**10**||||10|||Referat ca. 10 min. (p/f)<br>und<br>zwei Teilklausuren<br>90min. (benotet und<br>benotet, jeweils 50%)||
+||Seminare||||3,5||||||||||
+|**Biochemisches**<br>**Praktikum I**|Einführungsvorlesu<br>ng|1||||**5**|||5||||pÜL (p/f)||
+||Praktikum|||4|||||||||||
+|**Biochemisches**<br>**Praktikum II**|Einführungsvorlesu<br>ng|1||||**5**||||5|||pÜL (p/f)||
+||Praktikum|||4|||||||||||
+|**Mikrobiologie,**<br>**Immunologie und**<br>**Virologie**|Vorlesung|3||||**5**||||5|||Klausur 90 min.<br>(benotet)||
+||Übung|2|1||||||||||||
+|**Strahlenschutz in**<br>**der experimentellen**<br>**Medizin**|Kurs|2|0,5|0,5||**2,5**||||||2,5|Klausur 90 min.<br>(benotet)7)||
+|**Humangenetik**|Vorlesung|2||||**5**|||||5||Klausur 90 min.<br>(benotet)||
+||Übung||4||||||||||||
 
 
 
 27 
 
-|**1.**<br>**Modulbez-**<br>**eichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung1)**|**GOP**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**1.**<br>**Modulbez-**<br>**eichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**||**Art und Umfang der**<br>**Prüfung1)**|**GOP**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1. Sem**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
+||||||||||<br>**in ECTS-Punkten**||||||
+|||**V**|**Ü**|**P**|**S**||**1. Sem**|**2.**<br>**Sem.**|**3.**|**4.**|**5.**|**6.**|||
+||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
 |**Zellbiologisches**<br>**Praktikum**|Praktikum|||5||**5**|||||5||Präsentation 10-20 min.<br>und PrL (p/f und p/f)||
 |**Wissenschafts-**<br>**geschichte und**<br>**Ethik der Medizin**|Geschichte, Ethik<br>der Medizin|1|||1|**2,5**|||||2,5||Klausur 60 min.<br>(benotet)||
 |**Pharmakologie und**<br>**Toxikologie**|Vorlesung|4||||**5**|||||5||Klausur 60 min.<br>(benotet)||
 |**Molekulare**<br>**Pharmakologie**|Übung||4|||**5**||||||5|Präsentation (15-20 min.)<br>(benotet) und schriftl.<br>Ausarbeitung (4-5 Seiten)<br>(p/f)||
-|**Allgemeine**<br>**Pathologie**<br>~~ee~~|Vorlesung<br>~~ee~~|6<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|**5**<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|5<br>~~ee~~|~~ee~~|Klausur ca. 60 min.<br>(benotet, 50 %) und<br>Präparateprüfung ca. 45<br>min. (benotet, 50 %)6)<br>~~ee~~|~~ee~~|
-||Übungen<br>~~ee~~|~~ee~~|2<br>~~ee~~|~~ee~~|~~ee~~|||||||~~ee~~|||
-|**Spezielle Pathologie**<br>**8)**<br>~~Reese~~<br>~~Po~~|Vorlesung<br>~~Reese~~|2<br>~~Reese~~|~~Reese~~|~~Reese~~|~~Reese~~|**5**<br>~~Reese~~<br>~~|~~|~~Reese~~<br>~~tT~~|~~Reese~~<br>~~tTtT~~|~~Reese~~<br>~~tT|~~|~~Reese~~|~~Reese~~|5<br>~~Reese~~|Klausur ca. 60 min.<br>(benotet, 50 %) und<br>Präparateprüfung ca. 45<br>min. (benotet, 50 %)6)<br>~~Reese~~|~~Reese~~|
-||Übung<br>~~Reese~~<br>~~rrr~~|~~Reese~~<br>~~rrr~~|1<br>~~Reese~~<br>~~rrr~~|~~Reese~~<br>~~rrr~~|~~Reese~~|||||||||~~Reese~~|
-|**Biometrie und**<br>**Epidemiologie**<br>~~Po~~|Vorlesung<br>~~rrr~~|1<br>~~rrr~~|~~rrr~~|~~rrr~~||**5**<br>~~|~~|~~tT~~|~~tTtT~~|~~tT|~~||5||Klausur 90 min.<br>(benotet)||
-||Übungen<br>~~rrr~~|~~rrr~~|3<br>~~rrr~~|~~rrr~~|||||||||||
-|**Wahlpflichtmodul**<br>**Laborexperimentelle**<br>**s Arbeiten**<br>~~Po~~|~~rrr~~|~~rrr~~|~~rrr~~|10<br>~~rrr~~||**7,5**<br>~~|~~|~~tT~~|~~tT tT~~|~~tT |~~|||7,5|PrL inkl. schriftl. und<br>mündl. Dokumentation in<br>2 verschiedenen Laboren<br>(benotet und benotet,<br>jeweils 50%) 6)||
+|**Allgemeine**<br>**Pathologie**|Vorlesung|6||||**5**|||||5||Klausur ca. 60 min.<br>(benotet, 50 %) und<br>Präparateprüfung ca. 45<br>min. (benotet, 50 %)6)||
+||Übungen||2||||||||||||
+|**Spezielle Pathologie**<br>**8)**|Vorlesung|2||||**5**||||||5|Klausur ca. 60 min.<br>(benotet, 50 %) und<br>Präparateprüfung ca. 45<br>min. (benotet, 50 %)6)||
+||Übung||1||||||||||||
+|**Biometrie und**<br>**Epidemiologie**|Vorlesung|1||||**5**|||||5||Klausur 90 min.<br>(benotet)||
+||Übungen||3||||||||||||
+|**Wahlpflichtmodul**<br>**Laborexperimentelle**<br>**s Arbeiten**||||10||**7,5**||||||7,5|PrL inkl. schriftl. und<br>mündl. Dokumentation in<br>2 verschiedenen Laboren<br>(benotet und benotet,<br>jeweils 50%) 6)||
 |**Bachelorarbeit**|Bachelorarbeit|||||**10**||||||10|Präsentation und<br>schriftliche Thesis<br>(p/f und benotet) 6)||
 |**Summe SWS und ECTS-Punkte:**||**72,1**|**17,**<br>**5**|**56**|**21**|**180**|**33**|**28**|**30,5**|**30,5**|**28**|**30**|||
 |||**166,6**|||||||||||||
@@ -586,6 +710,10 @@ Wintersemester 2024/2025 und später zugeordnet sind.[3] Für Prüfungen, die fr
 **Erläuterungen:** 
 
 28 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - 1) (p/f): pass/fail 
 
@@ -604,6 +732,10 @@ Wintersemester 2024/2025 und später zugeordnet sind.[3] Für Prüfungen, die fr
 - 8) Zulassungsvoraussetzung für dieses Modul ist, dass das Modul „Allgemeine Pathologie“ bestanden ist.“ 
 
 29 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage 2: Qualifikationsfeststellungsverfahren** 
 
@@ -629,6 +761,10 @@ Wintersemester 2024/2025 und später zugeordnet sind.[3] Für Prüfungen, die fr
 
 30 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (5)[1] In der Vorauswahl wird anhand der eingereichten Unterlagen geprüft, ob zu erwarten ist, dass die Bewerberin bzw. der Bewerber in der mündlichen Prüfung nach Abs. 6 die Eignung zum Masterstudium nachweisen kann.[2] Besonders qualifizierte Bewerberinnen bzw. Bewerber werden allein aufgrund der Vorauswahl in das Masterstudium aufgenommen.[3] Als besonders qualifiziert gilt insbesondere, wer einen fachspezifischen Abschluss nach § 31 Abs. 1 S. 1 Nr. 1 bzw. im Falle des § 31 Abs. 3 einen Durchschnitt der bisherigen fachspezifischen Leistungen mit mindestens der Note 2,5 (= gut) vorweisen kann.[4] Bei Abschlüssen und Modulen, die ein abweichendes Notensystem ausweisen, gelten § 12 Abs. 3 Sätze 1 bis 3 entsprechend.[5] Bewerberinnen und Bewerber, die nicht bereits aufgrund der Vorauswahl in das Masterstudium aufgenommen werden und die schlechtestenfalls die Note 3,0 (fachspezifischer Abschluss) bzw. 2,5 (fachverwandter Abschluss) nachweisen, werden nach folgenden Kriterien bewertet: 
 
 1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen (pro Notenstufe 0,1 zwei Punkte) (max. 30 Punkte; entspricht Abschlussnote 1,0 des bisherigen Studienabschlusses; 28 Punkte entspricht 1,1, etc.), 
@@ -639,7 +775,7 @@ Wintersemester 2024/2025 und später zugeordnet sind.[3] Für Prüfungen, die fr
 
 6Für das Bewertungskriterium nach Satz 5 Nr. 3 werden die Punkte wie folgt vergeben, wobei auch bei voller Punktzahl in allen Teilbereichen insgesamt maximal 10 Punkte vergeben werden: 
 
-|wobei auch bei voller Punktzahl in allen Teilbereichen insgesamt maximal 10 Punkte<br>vergeben werden:|wobei auch bei voller Punktzahl in allen Teilbereichen insgesamt maximal 10 Punkte|wobei auch bei voller Punktzahl in allen Teilbereichen insgesamt maximal 10 Punkte|
+|<br>vergeben werden:|||
 |---|---|---|
 |**Art**|**Qualifikation**|**Punkte(insg. max 20)**|
 |Praktikum, Publikationen,<br>Laboraufenthalt,<br>fachbezogene<br>Auslandserfahrungen o.ä.|Laborexperimentelle<br>Kenntnisse,<br>molekularbiologisches<br>Arbeiten, eigenständige<br>Projektbearbeitung,|**max. 6**<br>hierbei über das in § 31 Abs. 1 definierte<br>Mindestmaß von 8 Wochen<br>hinausgehend<br>bis 1 Monat = 1 P.<br>bis 3 Monate = 2 P.<br>länger als 3 Monate = 3 P.<br>Publikationen (peer-review) = 1 P.<br>fachbezogene Auslandserfahrung = 2 P.|
@@ -652,6 +788,10 @@ Wintersemester 2024/2025 und später zugeordnet sind.[3] Für Prüfungen, die fr
 7Bewerberinnen und Bewerber, die im Bereich von 100-75 Punkten liegen, erhalten direkten Zugang zum Masterstudium.[8] Bewerberinnen und Bewerber, die im Bereich von 74-60 Punkten liegen, werden zu einem Qualifikationsfeststellungsgespräch ge- 
 
 31 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 mäß Abs. 6 eingeladen.[9] Wer nach dem Ergebnis der Vorauswahl weder direkten Zugang noch eine Einladung zum Qualifikationsfeststellungsgespräch erhält, erhält einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid; eine nochmalige Teilnahme am Qualifikationsfeststellungsverfahren auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen ist ausgeschlossen. 
 
@@ -674,6 +814,10 @@ mäß Abs. 6 eingeladen.[9] Wer nach dem Ergebnis der Vorauswahl weder direkten 
 (9) Die eigenen Kosten, die den Bewerberinnen bzw. Bewerbern aufgrund der Teilnahme am Auswahlgespräch entstehen, tragen diese selbst. 
 
 32 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage 3: Zugangstest** 
 
@@ -707,6 +851,10 @@ mäß Abs. 6 eingeladen.[9] Wer nach dem Ergebnis der Vorauswahl weder direkten 
 
 33 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - 5.3 Der Zugangstest kann auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen einmal zum nächsten angebotenen Termin wiederholt werden. 
 
 6. Für Mängel im Zugangstest gilt § 14 entsprechend. 
@@ -715,12 +863,21 @@ mäß Abs. 6 eingeladen.[9] Wer nach dem Ergebnis der Vorauswahl weder direkten 
 
 34 
 
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
 ## **Anlage 4: Studienverlaufsplan Master Molecular Medicine** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung1)**|**Faktor**<br>**Modul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung1)**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
+||||**SWS**||||||||||
+||||||||||||||
+|||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|||
+|||||||||**Sem.**|**Sem.**|**Sem.**|||
 |**Pflichtbereich (35 ECTS-Leistungspunkte)**|||||||||||||
+||||||||||||||
+||||||||||||||
 |Advanced Lectures in<br>Molecular Medicine 1|Lectures|6||||**10**|10||||Klausur 180 min. (benotet)|1|
 |Advanced Lectures in<br>Molecular Medicine 2|Lectures|6||||**10**||10|||Klausur 180 min. (benotet)|1|
 |Architecture of<br>Biopolymers|Seminar||||2|**5**|5||||Präsentation ca. 30 min. (p/f) und<br>Klausur 60 min. (benotet)|1|
@@ -730,6 +887,8 @@ mäß Abs. 6 eingeladen.[9] Wer nach dem Ergebnis der Vorauswahl weder direkten 
 ||Animal Handling or<br>Alternative Methods<br>Training|||1,<br>5|||||||||
 ||Lecture Biological Safety|1|||||||||||
 |**Wahlpflichtbereich A (30 ECTS-Leistungspunkte)**|||||||||||||
+||||||||||||||
+||||||||||||||
 |Seminar Module 1|Seminar||||2|**5**|5||||Präsentation (ca. 30 min.) und<br>schriftliche Seminararbeit (ca. 20 Seiten)<br>(p/f und benotet)|1|
 |Seminar Module 2|Seminar||||2|**5**||5|||Entweder 1 oder 2<br>1. Präsentation (ca. 30 min.) und schriftliche Se-<br>minararbeit (ca. 20 Seiten) (p/f und be-<br>notet)<br>2. Präsentation (ca. 30 min.) und schriftliche<br>Seminararbeit (ca. 20 Seiten) (benotet 50% und<br>benotet 50%)2)|1|
 
@@ -737,65 +896,66 @@ mäß Abs. 6 eingeladen.[9] Wer nach dem Ergebnis der Vorauswahl weder direkten 
 
 35 
 
-||||||||**Workload-Verteilung pro**|**Workload-Verteilung pro**|||
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Modulbezeichnung**|**Lehrveranstaltung**|**V**|**SWS**<br>**Ü**<br>**P**||**S**|**Gesamt**<br>**ECTS**|**Semester**<br>**in ECTS-Punkten**<br>**1.**<br>**Sem.**<br>**2.**<br>**Sem.**<br>**3.**<br>**Sem.**<br>**4.**<br>**Sem.**||**Art und Umfang der Prüfung1)**|**Faktor**<br>**Modul-**<br>**note**|
-||||||||||Entweder 1, 2 oder 3:||
-||||||||||1. Präsentation (ca. 30 min.) und||
-||||||||||schriftliche Seminararbeit (ca. 20 Seiten) (p/f||
-|Seminar Module 3|Seminar||||2|**5**|5||und benotet)<br>2. Präsentation (ca. 30 min., p/f) und|1|
-||||||||||Klausur (ca. 90 min.) (benotet)||
-||||||||||3. Präsentation (ca. 30 min., p/f) und||
-|Elective Module A<br>Project Development<br>**Wahlpflichtbereich B (25 ECTS-Leistungspunkte)**<br>~~esa~~|vgl. § 34 Abs. 3<br>Lab course with seminar<br>**Wahlpflichtbereich B (25 ECTS-Leistungspunkte)**<br>~~a~~|~~a~~|~~a~~|6<br>~~a~~|1<br>~~a~~|**5**<br>**10**<br>~~a~~|5<br>10<br>~~a~~|~~a~~|Moderation(30-45min.) (benotet) 2)<br>vgl. § 34 Abs. 2<br>Schriftlicher Projektplan (5-10 Seiten)<br>~~a~~|0<br>1<br>~~a~~|
+**==> picture [165 x 48] intentionally omitted <==**
 
+**==> picture [114 x 45] intentionally omitted <==**
 
-
-**Wahlpflichtbereich B (25 ECTS-Leistungspunkte)** ~~a~~ 
-
-||**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|**A. Laboratory Training (25 LP)**<br>~~PT~~|
+|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**|<br>**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung1)**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||PrL inkl. Protokoll (ca. 20-30 Seiten) und||
-||External Module<br>5 months practical course|||||**25**||10|15||Präsentation des Inhalts (20-30 min.) (benotet|1|
-||||||||||||und p/f)||
-||**B. Laboratory Training (25 LP)**<br>~~a~~||||||||||||
-||||||||||||PrL inkl. Protokoll (ca. 20-30 Seiten) und||
-||External Module<br>4 months practical course|||||**20**||10|10||Präsentation des Inhalts (20-30 min.) (benotet|1|
-|und p/f)<br>Elective Module<br>vgl. § 34 Abs. 3<br>**5**<br>5<br>vgl. § 34 Abs. 2<br>0<br>**C. Laboratory Training (25 LP)**<br>~~oopT~~|||||||||||||
-||||||||||||PrL inkl. Protokoll (ca. 20-30 Seiten) und||
-||External Module<br>3 months practical course|||||**15**|||15||Präsentation des Inhalts (20-30 min.) (benotet|1|
-||||||||||||und p/f)||
-||||||||||||PrL inkl. Protokoll (ca. 20-30 Seiten) und||
-||Laboratory Module<br>2 months practical course|||||**10**||10|||Präsentation des Inhalts (20-30 min.) (benotet|1|
-||||||||||||und p/f)||
-||**D. Laboratory Training (25 LP)**<br>~~pT~~||||||||||||
-||||||||||||PrL inkl. Protokoll (ca. 20-30 Seiten) und||
-||External Module<br>2 months practical course|||||**10**||10|||Präsentation des Inhalts (20-30 min.) (benotet|1|
-||||||||||||und p/f)||
+||||**SWS**||||||||||
+||||||||||||||
+|||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|||
+|||||||||**Sem.**|**Sem.**|**Sem.**|||
+|Seminar Module 3|Seminar||||2|**5**|||5||Entweder 1, 2 oder 3:<br>1. Präsentation (ca. 30 min.) und<br>schriftliche Seminararbeit (ca. 20 Seiten) (p/f<br>und benotet)<br>2. Präsentation (ca. 30 min., p/f) und<br>Klausur (ca. 90 min.) (benotet)<br>3. Präsentation (ca. 30 min., p/f) und<br>Moderation(30-45min.) (benotet) 2)|1|
+|Elective Module A|vgl. § 34 Abs. 3|||||**5**|5||||vgl. § 34 Abs. 2|0|
+|Project Development|Lab course with seminar|||6|1|**10**|||10||Schriftlicher Projektplan (5-10 Seiten)|1|
+|**Wahlpflichtbereich B (25 ECTS-Leistungspunkte)**|||||||||||||
+||||||||||||||
+||||||||||||||
+|**A. Laboratory Training (25 LP)**|||||||||||||
+|External Module|5 months practical course|||||**25**||10|15||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
+|**B. Laboratory Training (25 LP)**|||||||||||||
+||||||||||||||
+||||||||||||||
+|External Module|4 months practical course|||||**20**||10|10||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
+|Elective Module|vgl. § 34 Abs. 3|||||**5**|||5||vgl. § 34 Abs. 2|0|
+|**C. Laboratory Training (25 LP)**|||||||||||||
+|External Module|3 months practical course|||||**15**|||15||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
+|Laboratory Module|2 months practical course|||||**10**||10|||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
+|**D. Laboratory Training (25 LP)**|||||||||||||
+|External Module|2 months practical course|||||**10**||10|||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
 
 
 
 36 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung1)**|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**|<br>**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung1)**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
-|Laboratory Module|3 months practical course|||||**15**|||15||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
-|**E. Laboratory Training (25 LP)**<br>~~pe~~|||||||||||||
-|Laboratory Module<br>~~pe~~|2 months practical course<br>~~pe~~|~~pe~~|~~pe~~|~~pe~~|~~pe~~|**10**<br>~~pe~~|~~pe~~|10<br>~~pe~~|~~pe~~|~~pe~~|PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)<br>~~pe~~|1<br>~~pe~~|
-|Laboratory Module<br>~~**p**o~~|2 months practical course|||||**10**|||10||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
-|Elective Module B<br>~~**p**o~~|vgl. § 34 Abs. 3|||||**5**|||5||vgl. § 34 Abs. 2|0|
-|**F. Laboratory Training (25 LP)**<br>~~**p**o~~<br>~~T~~|||||||||||||
-|Laboratory Module|2 months practical course|||||**10**|~~T~~|10<br>~~T~~|~~T~~|~~T~~|PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)<br>~~T~~|1<br>~~T~~|
-|Laboratory Module|3 months practical course|||||**15**|||15||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
-|**Masterarbeitsbereich (30 ECTS-Leistungspunkte)**<br>~~TT~~|||||||||||||
-|Masterarbeit mit<br>Masterkolloquium<br>~~a ~~|6 months<br>~~ene~~|~~ene~~|~~ene~~|~~ene~~|~~ene~~|**30**<br>~~ene~~|~~ene~~|~~ene~~|~~ene~~|25<br>~~ene~~|Schriftliche Thesis und<br>Präsentation (10-20 min.)<br>(benotet, 5/6, und benotet,1/6)3)<br>~~ene~~|1<br>~~ene~~|
-||~~ene~~|~~ene~~|~~ene~~|~~ene~~|1,<br>5<br>~~ene~~||~~ene~~|~~ene~~|~~ene~~|5<br>~~ene~~||1<br>~~ene~~|
-|**Summe SWS und  ECTS-Punkte:**||**14**|**2**|**7,**<br>**5**|**13**<br>**,5 **|**120**|**30**|**30**|**30**|**30**|||
+||||**SWS**||||||||||
 ||||||||||||||
+|||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|||
+|||||||||**Sem.**|**Sem.**|**Sem.**|||
+|Laboratory Module|3 months practical course|||||**15**|||15||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
+|**E. Laboratory Training (25 LP)**|||||||||||||
+|Laboratory Module|2 months practical course|||||**10**||10|||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
+|Laboratory Module|2 months practical course|||||**10**|||10||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
+|Elective Module B|vgl. § 34 Abs. 3|||||**5**|||5||vgl. § 34 Abs. 2|0|
+|**F. Laboratory Training (25 LP)**|||||||||||||
+|Laboratory Module|2 months practical course|||||**10**||10|||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
+|Laboratory Module|3 months practical course|||||**15**|||15||PrL inkl. Protokoll (ca. 20-30 Seiten) und<br>Präsentation des Inhalts (20-30 min.) (benotet<br>und p/f)|1|
+|**Masterarbeitsbereich (30 ECTS-Leistungspunkte)**|||||||||||||
+|Masterarbeit mit<br>Masterkolloquium|6 months|||||||||25|Schriftliche Thesis und<br>|1|
+||||||1,<br>5|**30**||||5|Präsentation (10-20 min.)<br>(benotet, 5/6, und benotet,1/6)3)|1|
+|||||**7,**|**13**||||||||
+|**Summe SWS und  ECTS-Punkte:**||**14**|**2**|**5**|**,5 **|**120**|**30**|**30**|**30**|**30**|||
 
 
 
-- 1) (p/f): pass/fail 
+> 1) (p/f): pass/fail 
 
 > 2) Art und Umfang der Prüfung sind abhängig von der Modulwahl der bzw. des Studierenden und werden in der jeweiligen Modulbeschreibung bekannt gegeben. 
 

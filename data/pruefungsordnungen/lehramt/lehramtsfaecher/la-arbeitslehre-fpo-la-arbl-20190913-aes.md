@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Arbeitslehre FPO LA ArbL 20190913 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Beruf_und_Wirtschaft/Aenderungssatzungen/LA_Arbeitslehre_FPO_LA_ArbL_20190913_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:19:56+00:00
+scraped_at: 2026-05-01T06:59:30+00:00
 page_count_chars: 3461
 ---
 

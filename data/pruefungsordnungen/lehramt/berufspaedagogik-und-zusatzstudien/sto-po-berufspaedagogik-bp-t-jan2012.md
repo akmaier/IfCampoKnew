@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 19.02.2009 i.d.F. 19.01.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/StO-PO-Berufspaedagogik-BP-T-JAN2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-04-25T14:19:08+00:00
-page_count_chars: 59155
+scraped_at: 2026-05-01T06:58:17+00:00
+page_count_chars: 58834
 ---
 
 # pdf vom 19.02.2009 i.d.F. 19.01.2012
@@ -657,15 +657,18 @@ bei der Universität (Studentenkanzlei) auf dem vorgegebenen Vordruck zu stellen
 
 **Anlage 2b: Module des Bachelorstudiums - Studienrichtung Metalltechnik** 
 
-|**Modul**|**Modul**|**Modul**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**schriftl. Prüfung**<br>**in Min. bzw.**<br>**Studienleistung**|
+|**Modul**|**Modul**|**Modul**|||||||**schriftl. Prüfung**<br>**in Min. bzw.**<br>**Studienleistung**|
 |---|---|---|---|---|---|---|---|---|---|
+||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
 |**Nr.**|**Bezeichnung**|**GOP**||||||||
 ||Mechanik und Konstruktion|||||||||
 |B 1|Statik und Festigkeitslehre|GOP||7,5|||||90|
 |B 2|Dynamik starrer Körper||||7,5||||90|
 |B 3|Methode der Finiten Elemente|||||5,0|||60|
-|B 4|Technische Darstellungslehre I<br>Technische Darstellungslehre II||2,5|2,5|||||uSL<br>uSL|
-|B 5|Grundlagen der Produktentwicklung<br>Konstruktionsübung||||7,5<br>2,5||||120<br>uSL|
+||Technische Darstellungslehre I||2,5||||||uSL|
+|B 4|Technische Darstellungslehre II|||2,5|||||uSL|
+||Grundlagen der Produktentwicklung||||7,5||||120|
+|B 5|Konstruktionsübung||||2,5||||uSL|
 |B 6|Konstruktive Projektarbeit (Teamwork, Präsentationstech‐<br>nik)||||||5,0||uSL|
 ||Informatik und Mathematik|||||||||
 |B 7|Mathematik B 1|GOP|7,5||||||uSL+90|
@@ -680,8 +683,8 @@ bei der Universität (Studentenkanzlei) auf dem vorgegebenen Vordruck zu stellen
 ||Elektrotechnik, Thermodynamik und Werkstoffkunde|||||||||
 |B 15|Grundlagen der Elektrotechnik|GOP||5,0|||||60|
 |B 16|Technische Thermodynamik|||||7,5|||120|
-|B 17|Werkstoffkunde<br>Werkstoffprüfung|**GOP**|5,0|2,5|||||120|
-||||||||||uSL|
+|1|Werkstoffkunde|**GOP**|5,0||||||120|
+|B 7|Werkstoffprüfung|||2,5|||||uSL|
 ||Berufspädagogik|||||||||
 |B 18|Fachdidaktik Metalltechnik I|||||||5,0|90|
 |B 19|Grundlagen der Berufspädagogik|||5,0|||||90|
@@ -693,7 +696,7 @@ bei der Universität (Studentenkanzlei) auf dem vorgegebenen Vordruck zu stellen
 ||Zweitfach|||||||||
 |B 25|Unterrichtsfach(Zweitfach)inkl. Fachdidaktik||10||5,0|5,0|5,0||*)|
 ||Abschlussarbeit|||||||||
-|B 26 Bachelorarbeit incl. Vortra|B 26 Bachelorarbeit incl. Vortrag|||||||10,0||
+|B 26|Bachelorarbeit incl. Vortrag|||||||10,0||
 ||||30|30|30,0|30,0|30,0|30,0||
 |||Summe der ECTS‐Punkte|||||||180,0|
 

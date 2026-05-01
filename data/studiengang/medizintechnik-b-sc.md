@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät, Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:13:07+00:00
+scraped_at: 2026-05-01T06:48:59+00:00
 ---
 
 # Medizintechnik (B.Sc.)

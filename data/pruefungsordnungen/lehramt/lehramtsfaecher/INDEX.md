@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Lehramtsfächer"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:30:49+00:00
+scraped_at: 2026-05-01T07:18:51+00:00
 ---
 
 # Lehramtsfächer

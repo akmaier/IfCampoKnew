@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Februar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AESDSH-PrO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:41:24+00:00
-page_count_chars: 22284
+scraped_at: 2026-05-01T09:51:53+00:00
+page_count_chars: 23041
 ---
 
 # 18. Februar 2013
@@ -239,6 +239,20 @@ ii) Folgender neuer Buchst. e) wird angefügt:
 
 „ 
 
+**==> picture [27 x 60] intentionally omitted <==**
+
+**==> picture [33 x 60] intentionally omitted <==**
+
+**==> picture [23 x 42] intentionally omitted <==**
+
+**==> picture [55 x 42] intentionally omitted <==**
+
+**==> picture [54 x 42] intentionally omitted <==**
+
+**==> picture [55 x 42] intentionally omitted <==**
+
+**==> picture [26 x 42] intentionally omitted <==**
+
 ## **DSH-Z nis eug** 
 
 Her **r** /Frau geb **o** ren am aus 
@@ -251,10 +265,9 @@ ____ **_** _______ **_** ______
 
 hat **a** m [Datu **m** ] die „De **u** tsche Sp **r** achprüfun **g** für den **H** ochschul **z** ugang“ (DSH) mit folg **e** ndem Erg **e** bnis abgel **e** gt: 
 
-## **Gesamtergebnis: DSH – 1/2/3** 
-
-|In de<br>n Teilprüfun**g**<br>en wurden|In de<br>n Teilprüfun**g**<br>en wurden|en wurden<br>erreicht:|||
+|**Ges**<br>**amtergeb**<br>**nis: DSH**|**Ges**<br>**amtergeb**<br>**nis: DSH**|<br>**– 1/2/3**|||
 |---|---|---|---|---|
+|In de<br>n Teilprüfun**g**<br>en wurden||<br>erreicht:|||
 |**Schr**<br>**iftliche Prüf**<br>**ung:**|||**__**|**%**|
 |Hörv**e**<br>rstehen:|||__|%|
 |Text**p**<br>roduktion:|||__|%|
@@ -264,15 +277,29 @@ hat **a** m [Datu **m** ] die „De **u** tsche Sp **r** achprüfun **g** für d
 
 
 
+**==> picture [5 x 261] intentionally omitted <==**
+
+**==> picture [55 x 66] intentionally omitted <==**
+
 Ein Gesamtergebn **i** s DSH-2 wei **s** t die sprachli **c** he Studierfä **h** igkeit für die uneingeschr **ä** nkte Zulassu **n** g oder Einschreibung zu **a** llen Studieng **ä** ngen und St **u** dienabschlü **s** sen an allen Hochschulen aus. Mit E **r** reichen der **E** bene DSH-3 **w** erden beso **n** ders hohe D **e** utschkenntni **s** se nachgewi **e** sen. Die DSH-3 liegt über **d** em für die Z **u** lassung oder Einschreibu **n** g erforderlichen Niveau. Ein Gesamterg **e** bnis DSH-1 **w** eist eine einge **s** chränkte sprachliche Studierfähigkeit a **u** s. Nach Entscheidung der Hochschule i **s** t damit die Z **u** lassung oder **E** inschreibun **g** für bestimmte Studiengän **g** e oder Studi **e** nabschlüsse möglich. 
+
+**==> picture [55 x 66] intentionally omitted <==**
 
 Besc **h** reibung der **m** it dem Prüfu **n** gsergebnis **n** achgewiese **n** en sprachlichen Fähigkeit **e** n siehe Rück **s** eite. 
 
+**==> picture [54 x 66] intentionally omitted <==**
+
+**==> picture [55 x 66] intentionally omitted <==**
+
+**==> picture [55 x 66] intentionally omitted <==**
+
 Erla **n** gen, den [D **a** tum] 
 
-___ **__** ________ **_** _______ (Professur für Deutsch als F **r** emdsprache) 
+**==> picture [55 x 66] intentionally omitted <==**
 
 (Siegel) 
+
+___ **__** ________ **_** _______ (Professur für Deutsch als F **r** emdsprache) 
 
 _ **_** ________ **__** ________ **_** __ (L **e** iter der Abt. Deutschh als Fremdsprache) 
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 07.09.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Urfassung/Nat%20Fak/PrO-BA%20MA%20Mathe%20Technomathe-2007.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:59:24+00:00
+scraped_at: 2026-05-01T07:54:16+00:00
 page_count_chars: 121601
 ---
 

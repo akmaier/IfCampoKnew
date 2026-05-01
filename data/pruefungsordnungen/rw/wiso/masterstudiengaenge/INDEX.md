@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Masterstudiengänge"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:36:07+00:00
+scraped_at: 2026-05-01T09:43:58+00:00
 ---
 
 # Masterstudiengänge

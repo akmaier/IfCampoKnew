@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PO MHMM 20250227 Aufhebung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Health_and_Medical_Management/konsolidierte_Fassungen/PO_MHMM_20250227_Aufhebung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:31:17+00:00
+scraped_at: 2026-05-01T07:19:20+00:00
 page_count_chars: 3103
 ---
 

@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakul
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-04-25T14:14:46+00:00
+scraped_at: 2026-05-01T06:51:19+00:00
 ---
 
 # Wirtschaftsinformatik (B.Sc.)

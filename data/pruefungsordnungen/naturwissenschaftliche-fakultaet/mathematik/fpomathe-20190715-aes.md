@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOMathe 20190715 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/Aenderungssatzungen/FPOMathe_20190715_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:56:16+00:00
-page_count_chars: 27784
+scraped_at: 2026-05-01T07:49:35+00:00
+page_count_chars: 27733
 ---
 
 # FPOMathe 20190715 ÄS.pdf
@@ -284,11 +284,15 @@ a) Die bisher einzige Regelung wird zu Abs. 1.
 
 ## **1a: Curricular-Übersicht** 
 
-**==> picture [458 x 632] intentionally omitted <==**
+**==> picture [324 x 218] intentionally omitted <==**
 
 **----- Start of picture text -----**<br>
-Bachelorseminar und Bachelorarbeit<br>15 ECTS<br>Querschnittsmodul und Seminar<br>15 ECTS<br>Mathematische<br>Wahlpflichtmodule<br>Theoretische  Angewandte<br>Mathematik  Mathematik<br>20-40 ECTS  20-40 ECTS<br>Grundlagen<br>50 ECTS<br>1Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der<br>folgenden Darstellung des (Muster-)Studienverlaufs (vgl.  Anlage 1b ).  [2] Zum Bestehen der<br>GOP müssen mindestens 30 ECTS-Punkte aus den Modulen des Blocks „Grundlagen“<br>erworben werden (§ 41).  [3] Im mathematischen Wahlpflichtbereich können Module der The-<br>oretischen Mathematik und der Angewandten Mathematik aus dem entsprechenden Mo-<br>dulkatalog (vgl. § 42 Abs. 2) frei gewählt werden wobei aus jedem dieser beiden Blöcke<br>mindestens 20 ECTS-Punkte und aus beiden Blöcken zusammen in der Summe 60 ECTS-<br>Punkte erworben werden müssen.  [4] Im Nebenfach (vgl. § 43) sollen Module im Gesamt-<br>umfang von 30 ECTS-Punkten belegt werden.  [5] Für Art und Umfang der Lehrveranstaltun-<br>gen und der Prüfungen im Wahlpflichtbereich und im Nebenfach gelten § 42 Abs. 3 bzw.<br>[3] § 43 Abs. 3.<br>8<br>10 ECTS  30 ECTS<br>Nebenfach<br>Schlüsselqualifikationen<br>**----- End of picture text -----**<br>
+Bachelorseminar und Bachelorarbeit<br>15 ECTS<br>Querschnittsmodul und Seminar<br>15 ECTS<br>Mathematische<br>Wahlpflichtmodule<br>Theoretische  Angewandte<br>Mathematik  Mathematik<br>20-40 ECTS  20-40 ECTS<br>Grundlagen<br>50 ECTS<br>10 ECTS  30 ECTS<br>Nebenfach<br>Schlüsselqualifikationen<br>**----- End of picture text -----**<br>
 
+
+1Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der folgenden Darstellung des (Muster-)Studienverlaufs (vgl. **Anlage 1b** ).[2] Zum Bestehen der GOP müssen mindestens 30 ECTS-Punkte aus den Modulen des Blocks „Grundlagen“ erworben werden (§ 41).[3] Im mathematischen Wahlpflichtbereich können Module der Theoretischen Mathematik und der Angewandten Mathematik aus dem entsprechenden Modulkatalog (vgl. § 42 Abs. 2) frei gewählt werden wobei aus jedem dieser beiden Blöcke mindestens 20 ECTS-Punkte und aus beiden Blöcken zusammen in der Summe 60 ECTSPunkte erworben werden müssen.[4] Im Nebenfach (vgl. § 43) sollen Module im Gesamtumfang von 30 ECTS-Punkten belegt werden.[5] Für Art und Umfang der Lehrveranstaltungen und der Prüfungen im Wahlpflichtbereich und im Nebenfach gelten § 42 Abs. 3 bzw. § 43 Abs. 3. 
+
+8 
 
 ## **Anlage 1b: Studienverlaufsplan Bachelorstudiengang Mathematik** 
 

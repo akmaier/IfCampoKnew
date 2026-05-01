@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Kunstgeschichte FPO BA KuGe 20071005 i.d.F. 20200813.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Kunstgeschichte/konsolidierte_Fassungen/2-Fach-BA_Kunstgeschichte_FPO_BA_KuGe_20071005_idF_20200813.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:59:03+00:00
+scraped_at: 2026-05-01T09:04:55+00:00
 page_count_chars: 21325
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Studienordnung StudO RW  20040910 i.d.F. 20180730.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Studienordnung/konsolidierte_Fassungen/Studienordnung_StudO_RW__20040910_idF_20180730.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:07:11+00:00
+scraped_at: 2026-05-01T09:16:34+00:00
 page_count_chars: 16735
 ---
 

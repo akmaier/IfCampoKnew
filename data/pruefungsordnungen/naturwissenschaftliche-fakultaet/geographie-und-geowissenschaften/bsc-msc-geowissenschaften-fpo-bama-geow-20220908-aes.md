@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Geowissenschaften FPO BAMA Geow 20220908 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften/Aenderungssatzungen/BSc-MSc_Geowissenschaften_FPO_BAMA_Geow_20220908_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:50:04+00:00
+scraped_at: 2026-05-01T07:40:27+00:00
 page_count_chars: 19521
 ---
 

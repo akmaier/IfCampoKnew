@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOTechnoMathe 20190715 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/Aenderungssatzungen/FPOTechnoMathe_20190715_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:57:21+00:00
-page_count_chars: 38037
+scraped_at: 2026-05-01T07:51:22+00:00
+page_count_chars: 37432
 ---
 
 # FPOTechnoMathe 20190715 ÄS.pdf
@@ -380,14 +380,10 @@ Workload-Verteilung pro Semester<br>SWS  Art und Umfang der  Faktor<br>Spezialis
 
 17 
 
-||**Nr.**|**Spezialisierungs-**<br>**gebiet**|**Modulbezeichnung**|**Lehrveranstaltung**|**V**|**SWS**<br>**Ü**<br>**P**|**SWS**<br>**Ü**<br>**P**|**S**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**<br>**1.**<br>**Sem.**<br>**2.**<br>**Sem.**<br>**3.**<br>**Sem.**<br>**4.**<br>**Sem.**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**<br>**1.**<br>**Sem.**<br>**2.**<br>**Sem.**<br>**3.**<br>**Sem.**<br>**4.**<br>**Sem.**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**<br>**1.**<br>**Sem.**<br>**2.**<br>**Sem.**<br>**3.**<br>**Sem.**<br>**4.**<br>**Sem.**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**<br>**1.**<br>**Sem.**<br>**2.**<br>**Sem.**<br>**3.**<br>**Sem.**<br>**4.**<br>**Sem.**|**Art und Umfang der**<br>**Prüfung/**<br>**Studienleistung**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Freie Wahlmodule (WM)**|9||Freie Wahlmodule|vgl. § 51|||||**15**|101<br>152|||51<br>02|vgl. § 51|1|
-|||**Summe Freie Wahlmodule (WM) gemäß § 49 Abs. 3 Satz 2 Nr. 4**|||||||**15**|101<br>152|01,2|01,2|51<br>02|||
-||10a|MApA|**Master seminar MApA**|Master seminar MApA||||(2)||||(5)||Seminarleistung4|1|
-|**Masterseminar und**<br>**Masterthesis (MA)**|10b<br>10c<br>11|NASi<br>Opti<br>MApA/<br>NASi/<br>Opti|**Master seminar NASi**<br>**Master seminar Opti**<br>**Masterthesis**|Master seminar NASi<br>Master seminar Opti<br>Master colloquium<br>Masterthesis||||(2)<br>(2)|**5**<br>**25**|||(5)<br>(5)|2,5<br>22,5|Seminarleistung4<br>Seminarleistung4<br>Mündliche Prüfung<br>(15 Min.) (10 %) mit<br>Masterthesis (90 %)|1<br>1<br>1|
-|||**Summe Masterseminar und Masterthesis (MA)**||**Summe Masterseminar und Masterthesis (MA)**|0|0|0|2|**30**|0|0|5|25|||
+**==> picture [746 x 365] intentionally omitted <==**
 
+**----- Start of picture text -----**<br>
+Workload-Verteilung pro Semester<br>SWS  Art und Umfang der  Faktor<br>Spezialisierungs-  Gesamt in ECTS-Punkten<br>Nr.  Modulbezeichnung  Lehrveranstaltung  Prüfung/  Modul-<br>gebiet ECTS  1.  2.  3.   4.<br>V  Ü  P  S  Studienleistung  note<br>Sem.  Sem.  Sem.  Sem.<br>9  10 [1] 5 [1 ]<br>Freie Wahlmodule  vgl. § 51   15  vgl. § 51  1<br>15 [2 ] 0 [2 ]<br>10 [1 ] 5 [1 ]<br>Summe Freie Wahlmodule (WM) gemäß § 49 Abs. 3 Satz 2 Nr. 4  15  0 [1,2] 0 [1,2 ]<br>15 [2 ] 0 [2 ]<br>10a  MApA  Master seminar MApA  Master seminar MApA  (2)  (5)  Seminarleistung [4] 1<br>10b  NASi  Master seminar NASi  Master seminar NASi  (2)  5  (5)  Seminarleistung [4] 1<br>Seminarleistung [4]<br>10c  Opti  Master seminar Opti  Master seminar Opti  (2)  (5)  1<br>MApA/  Master colloquium  2,5  Mündliche Prüfung<br>11  NASi/  Masterthesis  25  (15 Min.) (10 %) mit   1<br>Opti  Masterthesis  22,5  Masterthesis (90 %)<br>Summe Masterseminar und Masterthesis (MA)  0  0  0  2  30  0  0  5  25<br>Freie Wahlmodule (WM)<br>Masterseminar und   Masterthesis (MA)<br>**----- End of picture text -----**<br>
 
 
 - 1 Studienbeginn im Wintersemester 

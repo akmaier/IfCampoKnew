@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Spezielle weiterbildende Studien Transition Studies Chemistry StuPO-STSC 20200221.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/spezielle_weiterbildende_Studien/konsolidierte_Fassungen/Spezielle_weiterbildende_Studien_Transition_Studies_Chemistry_StuPO-STSC_20200221.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/
-scraped_at: 2026-04-25T15:02:21+00:00
+scraped_at: 2026-05-01T07:55:44+00:00
 page_count_chars: 39425
 ---
 

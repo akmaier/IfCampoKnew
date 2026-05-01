@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "1. August 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES%20MA-IntBusStud.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:31:33+00:00
+scraped_at: 2026-05-01T09:38:00+00:00
 page_count_chars: 6282
 ---
 

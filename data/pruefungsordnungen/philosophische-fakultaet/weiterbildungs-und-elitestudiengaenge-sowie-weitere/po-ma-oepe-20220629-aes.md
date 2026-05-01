@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PO MA OEPE 20220629 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/Aenderungssatzungen/PO_MA_OEPE_20220629_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:40:12+00:00
+scraped_at: 2026-05-01T08:48:04+00:00
 page_count_chars: 17440
 ---
 

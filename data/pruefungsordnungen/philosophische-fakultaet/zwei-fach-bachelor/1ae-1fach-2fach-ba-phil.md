@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "5. November 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AE-1Fach_2Fach_BA-Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:05:26+00:00
+scraped_at: 2026-05-01T09:15:05+00:00
 page_count_chars: 9220
 ---
 

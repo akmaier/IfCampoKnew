@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Chemie- und Bioingenieurwesen"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:52:36+00:00
+scraped_at: 2026-05-01T10:03:59+00:00
 ---
 
 # Chemie- und Bioingenieurwesen

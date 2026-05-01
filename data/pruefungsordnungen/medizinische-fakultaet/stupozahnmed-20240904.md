@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPOZahnMed 20240904.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Zahnmedizin_Staatsexamen/konsolidierte_Fassungen/StuPOZahnMed_20240904.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:38:16+00:00
+scraped_at: 2026-05-01T07:28:20+00:00
 page_count_chars: 88590
 ---
 

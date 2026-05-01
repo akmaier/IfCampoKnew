@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Digitale Japanstudien MA DIJAS 20230426 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digitale_Japanstudien/Aenderungssatzungen/MSc_Digitale Japanstudien_MA_DIJAS_20230426_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:22:45+00:00
+scraped_at: 2026-05-01T08:26:16+00:00
 page_count_chars: 6646
 ---
 

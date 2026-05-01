@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:14:09+00:00
+scraped_at: 2026-05-01T06:50:27+00:00
 ---
 
 # Psychologie (B.Sc.)

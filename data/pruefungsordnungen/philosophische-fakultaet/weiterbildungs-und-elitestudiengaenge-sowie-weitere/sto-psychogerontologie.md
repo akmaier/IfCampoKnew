@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.07.1986 i.d.F. 28.07.1988"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/EWF/StO_Psychogerontologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:51:11+00:00
+scraped_at: 2026-05-01T08:52:32+00:00
 page_count_chars: 6777
 ---
 

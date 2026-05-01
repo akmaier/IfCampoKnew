@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BAMA Chemie 20200806.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Chemie/konsolidierte_Fassungen/FPO_BAMA_Chemie_20200806.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:44:47+00:00
+scraped_at: 2026-05-01T07:35:12+00:00
 page_count_chars: 31312
 ---
 

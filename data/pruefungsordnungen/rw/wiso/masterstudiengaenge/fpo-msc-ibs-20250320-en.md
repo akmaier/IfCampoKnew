@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO MSc IBS  20250320 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/englisch/FPO_MSc_IBS__20250320_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:31:10+00:00
-page_count_chars: 33468
+scraped_at: 2026-05-01T09:37:24+00:00
+page_count_chars: 30995
 ---
 
 # FPO MSc IBS  20250320 en.pdf
@@ -12,9 +12,13 @@ page_count_chars: 33468
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/englisch/FPO_MSc_IBS__20250320_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **NEW VERSION** 
 
-# **Degree Program and Examination Regulations for the Master’s degree program International Business Studies at the Faculty of Business, Economics, and Law at FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPO MSc IBS – dated March 20, 2025** 
+## **Degree Program and Examination Regulations for the Master’s degree program International Business Studies at the Faculty of Business, Economics, and Law at FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPO MSc IBS – dated March 20, 2025** 
 
 Based on Section 9 (1) in conjunction with Section 80 (1)(1), Section 84 (2)(1), Section 88 (9), Section 90 (1)(2) and Section 96 (3)(1) Bavarian Higher Education Innovation Act dated August 5, 2022 ( **BayHIG** ), FAU enacts the following degree program and examination regulations: 
 
@@ -38,6 +42,10 @@ c) at least 10 ECTS credits in culture and communication.
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 3The following shall be recognized as subject-related degrees within the meaning of Section 32 (1)(1) (1) alt. 2 **MPOWISO** : Bachelor’s degrees in economics or social sciences as well as non-business degrees with subject-specific knowledge in economics worth at least 50 ECTS credits as well as knowledge in statistics worth at least 5 ECTS credits.[4] The final thesis is not included in the calculation of credits in accordance with sentences 2 and 3. 
 
 (2)[1] As further documentation within the meaning of 2.3.3 of the **Appendix** of **MPOWISO** , applicants shall be required to submit evidence of proficiency in English equivalent to at least level C1 of the Common European Framework of Reference (CEFR); this proof shall be provided either with a certificate indicating that the applicant has successfully passed the Test of English as a Foreign Language (TOEFL), attaining at least 100 points in the iBT test or a score of 7.0 or above in the International English Language Testing System (IELTS) or by providing equivalent proof.[2] This shall not affect Section 5 (5)(14a) **ImmaS** . 
@@ -55,6 +63,10 @@ c) at least 10 ECTS credits in culture and communication.
 (5)[1] Pursuant to 2.3 of the **Appendix** to **MPOWISO** and Section 4, the documents to be submitted by applicants whose overall grade in their subject-related first degree specified in paragraph 1 is between 1.31 and 2.50 as well as those of applicants whose overall grade in their subject-related first degree is between 1.00 and 2.50, shall be assessed on the second stage of the qualification assessment process pursuant to 5.2 of the **Appendix** to **MPOWISO** according to the following criteria: 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 1. Quality of previous degree or previous achievements based on the overall grade average; assessment on the basis of graduation documents from first degree (max. 40 points, pursuant to sentence 4, table 1), 
 
@@ -74,9 +86,8 @@ c) at least 10 ECTS credits in culture and communication.
 
 ## a) Table 1: Conversion of grades pursuant to sentence 1 (1) 
 
-|Table 1: Conversion of grades pursuant to sentence 1 (1)|Table 1: Conversion of grades pursuant to sentence 1 (1)|Table 1: Conversion of grades pursuant to sentence 1 (1)|Table 1: Conversion of grades pursuant to sentence 1 (1)|
+||**Bachelor’s degree (max. 40 points)**|**Bachelor’s degree (max. 40 points)**|**Bachelor’s degree (max. 40 points)**|
 |---|---|---|---|
-|Table 1: Conversion of grades pursuant to sentence 1 (1)<br>**Bachelor’s degree (max. 40 points)**||||
 |Grade|Points|Grade|Points|
 |1|40|1.8|24|
 |1.1|38|1.9|22|
@@ -93,9 +104,8 @@ c) at least 10 ECTS credits in culture and communication.
 
 - b) Table 2: Skills in business administration and statistics, pursuant to sentence 1 (2) (3) 
 
-|**Courses in business administra-**|**Courses in business administra-**||**Statistics**|**Statistics**|
+|**Courses in business administra-**<br>**tion (10 points max.)**|**Courses in business administra-**<br>**tion (10 points max.)**||**Statistics**<br>**(2.5points max.)**|**Statistics**<br>**(2.5points max.)**|
 |---|---|---|---|---|
-|**tion (10 points max.)**|||**(2.5points max.)**||
 |ECTS credits|Points||ECTS credits|Points|
 |Over 120|10||Over 20|2.5|
 |100–120|8||16–20|2|
@@ -106,11 +116,15 @@ c) at least 10 ECTS credits in culture and communication.
 
 3 
 
-|30–52|2||5|
-|---|---|---|---|
-||Degree not rele-|||
-|Under 30|vant, see Section||Under 5|
-||1 (2) and (3)|||
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|30–52|2||5|0.5|
+|---|---|---|---|---|
+||Degree not rele-<br>vant, see Section<br>1 (2) and (3)||Under 5|Degree not rele-<br>vant, see Section<br>1 (2) and (3)|
+|Under 30|||||
+||||||
 
 
 
@@ -118,8 +132,9 @@ c) at least 10 ECTS credits in culture and communication.
 
 ## c) Table 3: Experience abroad pursuant to sentence 1 (4) 
 
-|Table 3: Experience abroad pursuant to sentence 1 (4)Experience abroad pursuant to sentence 1 (4)perience abroad pursuant to sentence 1 (4)erience abroad pursuant to sentence 1 (4)pursuant to sentence 1 (4)ursuant to sentence 1 (4)<br>**Experience abroad (max. 10 points)**|Table 3: Experience abroad pursuant to sentence 1 (4)Experience abroad pursuant to sentence 1 (4)perience abroad pursuant to sentence 1 (4)erience abroad pursuant to sentence 1 (4)pursuant to sentence 1 (4)ursuant to sentence 1 (4)<br>**Experience abroad (max. 10 points)**|
+|||
 |---|---|
+|**Experience abroad (max. 10 points)**||
 |Months|Points|
 |Over 12|10|
 |10–12|8|
@@ -132,15 +147,15 @@ c) at least 10 ECTS credits in culture and communication.
 
 ## d) Table 4: Language skills pursuant to sentence 1 (5) (6) 
 
-|**English language skills pursuant to sentence 1**<br>**(5)**<br>**(max. 20 points)**|**English language skills pursuant to sentence 1**<br>**(5)**<br>**(max. 20 points)**|**English language skills pursuant to sentence 1**<br>**(5)**<br>**(max. 20 points)**||**Other languages except**<br>**German pursuant to sen-**<br>**tence 1 (6)**<br>**(max. 5 points)**|**Other languages except**<br>**German pursuant to sen-**<br>**tence 1 (6)**<br>**(max. 5 points)**|
-|---|---|---|---|---|---|
-|TOEFL (points)|IELTS (points)|Points||Number|Points|
-|Over 110|Over 8.5|20||5+|5|
-|106–110|8.0|15||4|4|
-|101–105|7.5|10||3|3|
-|100|7.0|5||2|2|
-|Less than 100|Less than 7.0|Exclusion of the<br>application from<br>the qualification<br>assessment pro-<br>cess, minimum<br>level pursuant to<br>paragraph 2 not<br>achieved||1|1|
-|||||0|0|
+|**English language skills pursuant to sentence 1**<br>**(5)**<br>**(max. 20 points)**|**English language skills pursuant to sentence 1**<br>**(5)**<br>**(max. 20 points)**|**English language skills pursuant to sentence 1**<br>**(5)**<br>**(max. 20 points)**||**Other languages except**<br>**German pursuant to sen-**<br>**tence 1 (6)**<br>**(max. 5 points)**|**Other languages except**<br>**German pursuant to sen-**<br>**tence 1 (6)**<br>**(max. 5 points)**||**German language skills**<br>**(max. 2.5 points)**|**German language skills**<br>**(max. 2.5 points)**|
+|---|---|---|---|---|---|---|---|---|
+|TOEFL (points)|IELTS (points)|Points||Number|Points||Level|Points|
+|Over 110|Over 8.5|20||5+|5||C1|2.5|
+|106–110|8.0|15||4|4||B2|2|
+|101–105|7.5|10||3|3||B1|1.5|
+|100|7.0|5||2|2||A2|1|
+|||Exclusion of the<br>f||1|1||A1|0.5|
+|Less than 100|Less than 7.0|application rom<br>the qualification<br>assessment pro-<br>cess, minimum<br>level pursuant to<br>paragraph 2 not<br>achieved||0|0||None|0|
 
 
 
@@ -148,8 +163,9 @@ e) Table 5: Presentation video pursuant to sentence 1 (7)
 
 ## **Presentation video (max. 10 points)** 
 
-|Evaluation per criterion|Points per criterion|
+|**Presentation video (max. 10 points)**|**Presentation video (max. 10 points)**|
 |---|---|
+|Evaluation per criterion|Points per criterion|
 |Exceptional / Herausragend|2.5|
 |Above Average /<br>Überdurchschnittlich|2|
 |Average / Durchschnittlich|1.5|
@@ -161,6 +177,10 @@ e) Table 5: Presentation video pursuant to sentence 1 (7)
 4 
 
 Exclusion of application from the qualification assessment process due to missing documents pursuant to paragraph 4 (3) 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Did not submit a video 
 
@@ -212,6 +232,10 @@ Did not submit a video
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2)[1] The main learning outcome of the core course "Foundations of international management" is to enable students to use fundamental theories, concepts and instruments from international management.[2] They should be able to identify complex challenges in management in a multi-cultural and global environment and to solve these challenges through the use of suitable management methods.[ 3] The specific learning outcomes and examination subjects as well as type and scope of the examination for the individual modules depend on the skills taught in the chosen module and are stipulated in the module handbook.[4] Examinations shall take one of the following forms: Handout or presentation, or a combination of these; Section 6 (2)(3) **MPOWISO** shall remain unaffected. 
 
 (3)[1] The main learning outcome of the core course "International strategic management" is to enable students to analyze strategic challenges on an international level and to make informed strategic decisions.[2] They should be able to evaluate various market conditions and competitive situations and to develop appropriate strategies for the success of international companies.[3] The specific learning outcomes and examination subjects as well as type and scope of the examination for the individual modules depend on the skills taught in the chosen module and are stipulated in the module handbook.[4] Examinations shall take one of the following forms: Written examination (60 min) or handout, or a combination of these; Section 6 (2)(3) **MPOWISO** shall remain unaffected. 
@@ -223,6 +247,10 @@ Did not submit a video
 (6)[1] The main learning outcome of the core course "Soft skills” is to enable students to develop their intercultural communication and teamworking skills.[2] They should be able to work effectively in multi-cultural teams and to use their leadership skills in an international environment.[3] The specific learning outcomes and examination subjects as 
 
 6 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 well as type and scope of the examination for the individual modules depend on the skills taught in the chosen module and are stipulated in the module handbook.[4] Examinations shall take one of the following forms: Handout or presentation or project report, or a combination of these; Section 6 (2)(3) **MPOWISO** shall remain unaffected. 
 
@@ -237,6 +265,10 @@ well as type and scope of the examination for the individual modules depend on t
 (2)[1] Area studies "English-speaking countries" focuses on the economic and political dynamics of English-speaking countries such as the USA, the United Kingdom, Canada and Australia.[2] Topics such as international organizations, trade and innovation 
 
 7 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 policy, transatlantic relations and international governance are investigated.[3] The aim is to enable students to gain a thorough understanding of the international business relationships and political structures of these countries and to analyze their global role. 
 
@@ -258,60 +290,76 @@ policy, transatlantic relations and international governance are investigated.[3
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Appendix: Degree Program Structure Master International Business Studies** 
 
-|**Module name**|**Teaching unit**|**SWS (semes-**<br>**ter hours)**|**SWS (semes-**<br>**ter hours)**|**SWS (semes-**<br>**ter hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Type and scope of the examina-**<br>**tion**|**Weightin**<br>**g final**<br>**grade**|
+|**Module name**|**Teaching unit**|**SWS (semes-**<br>**ter hours)**|**SWS (semes-**<br>**ter hours)**|**SWS (semes-**<br>**ter hours)**|**Total**<br>**ECTS**|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Type and scope of the examina-**<br>**i**|**Weightin**<br>**g final**<br>**grade**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**|**S**||**1. sem.**|**2. sem.**|**3. sem.**|**4. sem.**|||
+||||||||**ECTS credits1 **|||||
+|||**L**|**T**|**S**|**credits**|**1. sem.**|**2. sem.**|**3. sem.**|**4. sem.**|**ton**||
 |Core Courses (_Kernbereich_) (60 out of 90 ECTS - 12 x 5 ECTS)|||||**60**|20|20|20||||
-|Modules Environment of international business<br>~~po~~|||||**10**|||||||
-|Issues in international political<br>economy<br>~~po~~<br>~~es~~|Issues in international political<br>economy<br>~~OO~~|2<br>~~OO~~|~~OO~~|~~OO~~|**5**<br>~~OO OG~~|(5)<br>~~OG~~|~~OG~~|(5)<br>~~OG~~|~~OG~~|Written examination (60 minutes)<br>~~OG~~|1<br>~~OG~~|
-|International and European<br>trade law<br>~~po~~<br>~~es~~|International and European trade<br>law<br>~~OO~~|2<br>~~OO~~|~~OO~~|~~OO~~|**5**<br>~~OO OG~~|~~OG~~|(5)<br>~~OG~~|~~OG~~|~~OG~~|Written examination (60 minutes)<br>~~OG~~|1<br>~~OG~~|
-|Modules Foundations of international management<br>~~es~~<br>~~OO~~<br>~~po~~|||||**10**<br>~~OO OG~~|~~OG~~|~~OG~~|~~OG~~|~~OG~~|~~OG~~|~~OG~~|
-|Foundations of international<br>managementI<br>~~po~~|Foundations of international<br>managementI|2||1|**5**|(5)<br>~~OO~~|~~OO~~|(5)<br>~~OO~~|~~OO~~|Discussion paper (80%) and<br>Presentation(20 %)|1|
-|Foundations of international<br>management II<br>~~po~~<br>~~OO~~|Foundations of international<br>management II<br>~~OO~~|2<br>~~OO~~|~~OO~~|1<br>~~OO~~|**5**<br>~~OO~~|(5)<br>~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|(5)<br>~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|Discussion paper (80%) and<br>Presentation (20 %)<br>~~OO~~|1<br>~~OO~~|
-|Modules International strategic management<br>~~po~~|||||**10**<br>|~~OO~~<br>|~~OO~~<br>|~~OO~~<br>|~~OO~~<br>|||
-|Business strategy<br>~~po~~|Business strategy<br>|2<br><br>~~OG~~|1<br><br>~~OG~~|~~OG~~|**5**<br><br>~~OG~~|(5)<br><br>~~OO~~|~~OO~~|(5)<br><br>~~OO~~|~~OO~~|Written examination (60 minutes)<br><br>~~OO~~|1<br>|
-|Advanced methods of manage-<br>ment research IV<br>~~posn~~|Advanced methods of manage-<br>ment research IV<br>~~sn~~|~~sn~~<br>~~OG~~|~~sn~~<br>~~OG~~|3<br>~~sn~~<br>~~OG~~|**5**<br>~~sn~~<br>~~OG~~|~~sn~~<br>~~OO~~|(5)<br>~~sn~~<br>~~OO~~|~~sn~~<br>~~OO~~|~~sn~~<br>~~OO~~|Discussion paper<br>~~sn~~<br>~~OO~~|1<br>~~sn~~|
-|Modules International functional management<br>~~OG~~|||||**10**<br>~~OG ~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~||
-|International marketing<br>~~a~~<br>~~a~~|International marketing<br>~~Oe~~<br>~~es~~|2<br>~~Oe~~<br>~~ee~~|~~Oe~~<br>~~ee~~|~~ee~~|**5**<br>~~ee~~|(5)||(5)||Discussion paper|1|
-|Global operations strategy<br>~~a~~|Global operations strategy<br>~~es~~|2<br>~~ee~~|~~ee~~|1<br>~~ee~~|**5**<br>~~ee~~|(5)||(5)||Presentation (100%)|1|
-|Modules International information management<br>~~a~~<br>~~es ee~~<br>~~ee ~~<br>~~po~~|||||**10**<br> ~~ee~~|||||||
-|Innovations and Leadership<br>~~po~~<br>~~a~~|Innovation and leadership (Lect.)<br>~~ee~~|(1)<br>~~ee~~|(1)<br>~~ee~~|~~ee~~|**5**<br>~~ee~~|(5)<br>(Lect.)<br>~~ee~~|~~ee~~|(5)<br>(Lect.)<br>~~ee~~|~~ee ee~~|Presentation and<br>Seminar paper (100 %+0 %)<br>~~ee~~|1<br>~~ee~~|
-|Service innovation<br>~~po~~<br>~~a~~|Service innovation<br>~~ee~~|1<br>~~ee~~|~~ee~~|2<br>~~ee~~|**5**<br>~~ee~~|~~ee~~|(5)<br>~~ee~~|~~ee~~|(5)<br>~~ee ee~~|Seminar paper<br>~~ee~~|1<br>~~ee~~|
-|Modules Soft skills<br>~~a~~<br>~~ee ee ee ee~~|||||**10**<br>~~ee ~~|~~ee~~|~~ee~~|~~ee~~|~~ee ee~~|~~ee ~~|~~ee~~|
+|||||||||||||
+|||||||||||||
+|Modules Environment of international business|||||**10**|||||||
+|Issues in international political<br>economy|Issues in international political<br>economy|2|||**5**|(5)||(5)||Written examination (60 minutes)|1|
+|International and European<br>trade law|International and European trade<br>law|2|||**5**||(5)|||Written examination (60 minutes)|1|
+|Modules Foundations of international management|||||**10**|||||||
+|Foundations of international<br>managementI|Foundations of international<br>managementI|2||1|**5**|(5)||(5)||Discussion paper (80%) and<br>Presentation(20 %)|1|
+|Foundations of international<br>management II|Foundations of international<br>management II|2||1|**5**|(5)||(5)||Discussion paper (80%) and<br>Presentation (20 %)|1|
+|Modules International strategic management|||||**10**|||||||
+|Business strategy|Business strategy|2|1||**5**|(5)||(5)||Written examination (60 minutes)|1|
+|Advanced methods of manage-<br>ment research IV|Advanced methods of manage-<br>ment research IV|||3|**5**||(5)|||Discussion paper|1|
+|Modules International functional management|||||**10**|||||||
+|International marketing|International marketing|2|||**5**|(5)||(5)||Discussion paper|1|
+|Global operations strategy|Global operations strategy|2||1|**5**|(5)||(5)||Presentation (100%)|1|
+|Modules International information|management||||**10**|||||||
+|Innovations and Leadership|Innovation and leadership (Lect.)|(1)|(1)||**5**|(5)<br>(Lect.)||(5)<br>(Lect.)||Presentation and<br>Seminar paper (100 %+0 %)|1|
+|Service innovation|Service innovation|1||2|**5**||(5)||(5)|Seminar paper|1|
+|Modules Soft skills|||||**10**|||||||
 |Managing intercultural relations|Managing intercultural relations|2||1|**5**||(5)|||Discussion paper (80%) and<br>Presentation (20 %)|1|
 
 
 
 9 
 
-|**Module name**|**Teaching unit**|**SWS (semes-**<br>**ter hours)**|**SWS (semes-**<br>**ter hours)**|**SWS (semes-**<br>**ter hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Type and scope of the examina-**<br>**tion**|**Weightin**<br>**g final**<br>**grade**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Module name**|**Teaching unit**|**SWS (semes-**<br>**ter hours)**|**SWS (semes-**<br>**ter hours)**|**SWS (semes-**<br>**ter hours)**|**Total**<br>**ECTS**|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Distribution of workload per semester in**<br>**ECTS credits1 **|**Type and scope of the examina-**<br>**i**|**Weightin**<br>**g final**<br>**grade**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**|**S**||**1. sem.**|**2. sem.**|**3. sem.**|**4. sem.**|||
-|International management solu-<br>tions<br>~~ne~~|International management solu-<br>tions|||3|**5**<br>~~IIIT~~|(5)<br>~~(RU~~|~~(RS~~|(5)<br>~~(RS~~|~~(I~~|Project report|1|
-|Modules International finance and change management<br>~~IIIT~~<br>~~ne~~<br>~~(te dd~~<br>~~es~~|||||**10**<br>~~IIIT~~<br>~~IIIT~~<br>~~dd~~<br>|~~IIIT~~<br>~~(RU~~<br>|~~IIIT~~<br>~~(RS~~<br>~~(GO~~<br>|~~IIIT~~<br>~~(RS~~<br>~~(GO~~<br>|~~IIIT~~<br>~~(I~~<br>~~(GO~~|~~IIIT~~|~~IIIT~~|
-|International finance<br>~~ne~~<br>~~es~~<br>~~a~~|International finance, theory and<br>policy<br>~~(te~~<br>~~rs~~|2<br>~~(te dd~~<br>~~td~~|1<br>~~dd~~<br>~~td~~|~~dd~~<br>~~rd~~|**5**<br>~~IIIT~~<br>~~dd~~<br>~~rs~~|(5)<br>~~(RU~~<br>~~rs~~|~~(RS~~<br>~~(GO~~<br>~~(Rr~~|(5)<br>~~(RS~~<br>~~(GO~~<br>~~(Rs~~|~~(I~~<br>~~(GO~~|Written examination (60 minutes)|1|
-|Change management<br>~~ne~~<br>~~es~~<br>~~a~~|Change management<br>~~(te~~<br>~~rs~~|2<br>~~(te dd~~<br>~~td~~|1<br>~~dd~~<br>~~td~~|~~dd~~<br>~~rd~~|**5**<br>~~IIIT ~~<br>~~dd~~<br>~~rs~~|~~(RU~~<br>~~rs~~|(5)<br>~~(RS~~<br>~~(GO~~<br>~~(Rr~~|~~(RS~~<br>~~(GO~~<br>~~(Rs~~|~~(I~~<br>~~(GO~~|Written examination (60 minutes)|1|
-|Modules International corporate sustainability<br>~~(te dd~~<br>~~es rstdtdrd~~<br>~~a~~<br>~~a~~|||||**10**<br>~~dd~~<br>~~rs~~|~~rs~~|~~(GO~~<br>~~(Rr~~|~~(GO~~<br>~~(Rs~~|~~(GO~~|||
-|Business ethics and corporate<br>social responsibility<br> <br>~~a~~|Business ethics and corporate so-<br>cial responsibility<br> ~~rs~~<br>~~a~~|2<br>~~td~~|~~td~~|~~rd~~|**5**<br>~~rs~~|~~rs~~|(5)<br>~~(Rr~~|~~(Rs~~||Written examination (60 minutes)|1|
-|Regeneration and sustainable<br>development<br> <br>~~a~~|Introduction to regeneration<br>practices and circularity<br> ~~rs ~~|~~td ~~|~~td ~~|2<br> ~~rd ~~|**5**<br> ~~rs~~|~~rs~~|(5)<br>~~(Rr ~~|~~(Rs~~||Presentation (50 %) and<br>seminar paper (50 %)|1|
-|Modules International relations<br>~~ee~~|||||**5**<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~||||
-|Power, order and institutions<br>in world politics<br>~~ee~~|Power, order and institutions in<br>world politics<br>~~ee~~|~~ee~~|~~ee~~<br>~~ee~~|2<br>~~ee~~<br>~~ee~~|**5**<br>~~ee~~<br>~~ee~~|(5)<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|(5)<br>~~ee~~<br>~~ee~~|~~ee~~|Seminar paper and<br>Presentation (50% + 50%) and<br>Performance assessment (0 %)<br>~~ee~~|1<br>~~ee~~|
-|Elective courses (Wahlbereich)<br>Area studies (1 area out of 4)2 3<br>~~ee ~~|||||**30**<br> ~~ee~~|10<br>~~ee~~|10<br>~~ee~~|10<br>~~ee~~||||
-|Area<br>English speaking countries<br>~~a~~<br>~~ne~~|pursuant to Section 4 (1)|pursuant to<br>Section 4 (3)<br>~~GO~~<br>~~I~~|||~~GO~~<br>~~I~~|(10)<br>~~GO~~<br>~~I~~|(10)<br>~~GO~~<br>~~I~~|(10)<br>~~GO~~||pursuant to Section 4 (2)|1<br>~~aa~~<br>~~a~~|
-|Area<br>Latin America<br>~~ne~~<br>~~es~~|pursuant to Section 4 (1)<br>~~sD~~|pursuant to<br>Section 4 (3)<br>~~I~~<br>~~sD~~|||~~I~~<br>~~sD~~|(10)<br>~~I~~|(10)<br>~~I~~|(10)|||1<br>~~a~~<br>~~a~~|
-|Area Asia<br>~~ne~~<br>~~es~~<br>~~es~~|pursuant to Section 4 (1)<br>~~sD~~<br>~~ee~~|pursuant to<br>Section 4 (3)<br>~~I~~<br>~~sD~~|||~~I~~<br>~~sD~~|(10)<br>~~I~~|(10)<br>~~I~~|(10)|||1<br>~~a~~<br>~~a~~<br>~~a~~|
-|Area: Europe<br>~~es~~<br>~~es~~|pursuant to Section 4 (1)<br>~~sD~~<br>~~ee~~|pursuant to<br>Section 4 (3)<br>~~sD~~|||~~sD~~|(10)|(10)|(10)|||1<br>~~a~~<br>~~a~~|
-|Master’s thesis<br>~~es ee~~<br>~~QQ~~|||||**30**<br>~~QQ~~|~~QQ~~|~~(OG~~|~~(OG~~|**30**<br>~~(OG~~|~~(OG~~|~~a~~|
-|Master’s thesis<br>~~QQ~~|Master’s thesis<br>~~QQ~~|~~QQ~~|||~~QQ~~|~~QQ~~|~~(OG~~|~~(OG~~|30<br>~~(OG~~|Master’s thesis<br>~~(OG~~|1|
-|**Total SWS (minimum) and ECTS**<br>~~QQ~~||**At least 27**<br>**SWS4**<br>~~QQ~~|||**120**<br>~~QQ~~|**30**<br>~~QQ ~~|**30**<br> ~~(OG~~|**30**<br>~~(OG~~|**30**<br>~~(OG~~|~~(OG~~||
+||||||||**ECTS credits1 **|||||
+|||**L**|**T**|**S**|**credits**|**1. sem.**|**2. sem.**|**3. sem.**|**4. sem.**|**ton**||
+|International management solu-<br>tions|International management solu-<br>tions|||3|**5**|(5)||(5)||Project report|1|
+|Modules International finance and change management|||||**10**|||||||
+|International finance|International finance, theory and<br>policy|2|1||**5**|(5)||(5)||Written examination (60 minutes)|1|
+|Change management|Change management|2|1||**5**||(5)|||Written examination (60 minutes)|1|
+|Modules International corporate sustainability|||||**10**|||||||
+|Business ethics and corporate<br>social responsibility|Business ethics and corporate so-<br>cial responsibility|2|||**5**||(5)|||Written examination (60 minutes)|1|
+|Regeneration and sustainable<br>development|Introduction to regeneration<br>practices and circularity|||2|**5**||(5)|||Presentation (50 %) and<br>seminar paper (50 %)|1|
+|Modules International relations|||||**5**|||||||
+|Power, order and institutions<br>in world politics|Power, order and institutions in<br>world politics|||2|**5**|(5)||(5)||Seminar paper and<br>Presentation (50% + 50%) and<br>Performance assessment (0 %)|1|
+|Elective courses (Wahlbereich)<br>Area studies (1 area out of 4)2 3|||||**30**|10|10|10||||
+|Area<br>English speaking countries|pursuant to Section 4 (1)|pursuant to<br>Section 4 (3)||||(10)|(10)|(10)||pursuant to Section 4 (2)|1|
+|Area<br>Latin America|pursuant to Section 4 (1)|pursuant to<br>Section 4 (3)||||(10)|(10)|(10)|||1|
+|Area Asia|pursuant to Section 4 (1)|pursuant to<br>Section 4 (3)||||(10)|(10)|(10)|||1|
+|Area: Europe|pursuant to Section 4 (1)|pursuant to<br>Section 4 (3)||||(10)|(10)|(10)|||1|
+|Master’s thesis|||||**30**||||**30**|||
+|Master’s thesis|Master’s thesis||||||||30|Master’s thesis|1|
+|**Total SWS (minimum) and ECTS**||**At least 27**<br>**SWS4**|||**120**|**30**|**30**|**30**|**30**|||
 
 
 
 > **1** The suggested distribution is a recommendation. 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - 2 see Section 4 The modules that can be taken in Area Studies are listed in the module handbook of the degree program. Up to 10 ECTS credits can be gained by means of language courses in the language(s) of the selected area (course levels: English - at least C1, all other languages - 5 ECTS, at least A2; 5 ECTS, at least B1). Admission requirements Language proficiency in the respective language of the chosen area according to the European Framework of Reference. The 10 ECTS credits can be divided between a maximum of 2 different languages of the area (5 ECTS each). 
 

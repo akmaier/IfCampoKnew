@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BSc-MSc ILS FPO BAMA ILS 20191028.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated-Life-Science/konsolidierte_Fassungen/FPO_BSc-MSc_ILS_FPO_BAMA_ILS_20191028.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:43:02+00:00
+scraped_at: 2026-05-01T07:33:13+00:00
 page_count_chars: 41588
 ---
 

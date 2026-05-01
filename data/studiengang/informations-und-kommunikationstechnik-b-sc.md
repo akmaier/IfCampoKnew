@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:11:25+00:00
+scraped_at: 2026-05-01T06:46:34+00:00
 ---
 
 # Informations- und Kommunikationstechnik (B.Sc.)

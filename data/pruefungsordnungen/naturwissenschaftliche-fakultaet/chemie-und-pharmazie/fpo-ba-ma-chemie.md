@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 25th of July 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/pdf-englisch/FPO_BA_MA_Chemie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:44:52+00:00
+scraped_at: 2026-05-01T07:35:25+00:00
 page_count_chars: 12051
 ---
 

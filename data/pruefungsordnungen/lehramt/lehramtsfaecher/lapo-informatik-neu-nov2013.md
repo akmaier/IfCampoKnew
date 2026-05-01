@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 25.03.2009 i.d.F. 22.11.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Informatik-NEU.NOV2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:26:05+00:00
-page_count_chars: 17336
+scraped_at: 2026-05-01T07:10:52+00:00
+page_count_chars: 14285
 ---
 
 # pdf vom 25.03.2009 i.d.F. 22.11.2013
@@ -61,13 +61,13 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |Grundlagen der Technischen Informatik|WS|6|4V+2Ü|7,5|Portfolioprüfung:<br>PL: K120<br>SL: Kurztests,<br>praktische<br>Übungen|5|
 |Systemprogrammierung|SS+WS|8|4V+2Ü+2P|10|K120|4+5|
 |Wahlpflichtmodul(e) aus der Fachwissenschaft Infor-<br>matik, davon min. 5 ECTS-Punkte aus dem Bereich<br>Datenbanksysteme und Softwaretechnologie||||15|PL lt. MB||
-|Falls das jeweils andere Unterrichtsfach nicht Mathe-<br>matik ist, dann:<br>Mathematik für Naturwissenschaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>Math. Modellbildung und Statistik für Naturwissen-<br>schaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>Portfolioprüfung:<br>PL: K50<br>SL: Rechner-<br>klausur<br>3<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>10<br>PL lt. MB<br>t<br>~~t~~<br>~~'~~<br>~~'~~<br>~~'~~<br>~~t~~<br>1<br>1<br>1<br>1<br>1<br>1<br>-----------------------------------------------------------------<br>- --- -<br>- - te- - -- - -- -- - - - - tee - -- te- - - - - -- -t-----<br>ee<br>a<br>1<br>~~1~~<br>~~1~~<br>~~1~~<br>~~1~~<br>~~H~~<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1|||||||
+|Falls das jeweils andere Unterrichtsfach nicht Mathe-<br>matik ist, dann:<br>Mathematik für Naturwissenschaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>Math. Modellbildung und Statistik für Naturwissen-<br>schaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>Portfolioprüfung:<br>PL: K50<br>SL: Rechner-<br>klausur<br>3<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>10<br>PL lt. MB|||||||
 
 
 
 2 
 
-|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5<br>PL lt. MB|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5<br>PL lt. MB|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5<br>PL lt. MB|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5<br>PL lt. MB|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5<br>PL lt. MB|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5<br>PL lt. MB|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5<br>PL lt. MB|
+|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik|SS<br>2|SS<br>2|2S|2,5<br>2,5|SV<br>PL lt. MB|6|
 |---|---|---|---|---|---|---|
 |**Summe**||||**95**|||
 
@@ -88,7 +88,23 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 In den **Erläuterungen** : HMA: Gesamtnote wird gebildet aus schriftl. Hausaufgaben (60 %), Mitarbeit in Präsenzveranstaltungen (10 %) und Abschlusspräsentation (30 %) 
 
-(3) Falls die **Schriftliche Hausarbeit** im Studium des Lehramts an Gymnasien im Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module erfolgreich abzulegen: Schriftliche Hausarbeit SS/WS 10 HA 6 Begleitseminar (ECTS-Punkte zählen zur Fachwissenschaft SS/WS 2 2S 2,5 SV 6 ~~ee~~ Informatik, s. § 5 (1)) **Erläuterungen** : HA: schriftliche Hausarbeit, SS/WS: Angebot orientiert sich an Nachfrage, ~~ee~~ (4) Falls das **studienbegleitende fachdidaktische Praktikum** im Studium des Lehramts an Gymnasien in Informatik belegt wird, ist folgendes Modul erfolgreich abzulegen: Studienbegleitendes fachdidaktisches Praktikum Informatik für SS/WS 4 2P+2S 5 SL 8 ~~ee~~ das Lehramt an Gymnasien 
+(3) Falls die **Schriftliche Hausarbeit** im Studium des Lehramts an Gymnasien im Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module erfolgreich abzulegen: 
+
+|folgreich abzulegen:|||||||
+|---|---|---|---|---|---|---|
+|Schriftliche Hausarbeit|SS/WS|||10|HA|6|
+|Begleitseminar (ECTS-Punkte zählen zur Fachwissenschaft<br>Informatik, s.§ 5 (1))|SS/WS|2|2S|2,5|SV|6|
+
+
+
+**Erläuterungen** : HA: schriftliche Hausarbeit, SS/WS: Angebot orientiert sich an Nachfrage, 
+
+(4) Falls das **studienbegleitende fachdidaktische Praktikum** im Studium des Lehramts an Gymnasien in Informatik belegt wird, ist folgendes Modul erfolgreich abzulegen: 
+
+|Studienbegleitendes fachdidaktisches Praktikum Informatik für<br>dasLehramt anGymnasien|SS/WS|4|2P+2S|5|SL|8|
+|---|---|---|---|---|---|---|
+
+
 
 (5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studiensemestern absolviert werden. 
 
@@ -100,7 +116,7 @@ In den **Erläuterungen** : HMA: Gesamtnote wird gebildet aus schriftl. Hausaufg
 
 |**Modul**|**Angebot**|**SWS (Summe)**|**SWS (Auftei-**<br>**lung)**|**ECTS-Punkte**|**Studien- und**<br>**Prüfungs-**<br>**leistung**|**Semester**|
 |---|---|---|---|---|---|---|
-|Algorithmen und Datenstrukturen|WS|8 4V+2Ü+2P|8 4V+2Ü+2P|10|Portfolioprüfung:<br>PL: K120<br>SL: Hausauf-<br>gaben|1|
+|Algorithmen und Datenstrukturen|WS|8|4V+2Ü+2P|10|Portfolioprüfung:<br>PL: K120<br>SL: Hausauf-<br>gaben|1|
 |Parallele und Funktionale Programmierung|SS|4|2V+2Ü|5|K60|2|
 |Konzeptionelle Modellierung|WS|4|2V+2Ü|5|K90|3|
 |Implementierungvon Datenbanksystemen|WS|4|2V+2Ü|5|K90|5|
@@ -108,8 +124,8 @@ In den **Erläuterungen** : HMA: Gesamtnote wird gebildet aus schriftl. Hausaufg
 |Theoretische Informatik für Lehramtsstudierende|SS|4|2V+2Ü|5|K90|2|
 |Praktikum|WS|||10|PL lt. MB|5|
 |Wahlpflichtmodul aus der Fachwissenschaft Informatik||||2,5|PL lt. MB||
-|Falls das jeweils andere Unterrichtsfach nicht Mathematik<br>ist, dann:<br>Mathematik für Naturwissenschaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>Math. Modellbildung und Statistik für Naturwissenschaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>Portfolioprüfung:<br>PL: K50<br>SL: Rechner-<br>klausur<br>3<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>10<br>PL lt. MB<br>i<br>1<br>'<br>1<br>i<br>1<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>-------------------------------------------------------<br>+--+<br>5-5-5 -4<br>a<br>ee<br>4 t+- --- --4- +--<br>Tr<br>rr<br>rt rr<br>pra<br>'<br>'<br>'<br>'<br>'<br>**'**<br>'<br>1<br>1<br>1<br>1|||||||
-|Falls die schriftliche Hausarbeit gem. § 6 (3) im Fach oder<br>in der Fachdidaktik Informatik angefertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5<br>PL lt. MB<br>~~i~~<br>ae<br>es<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>----------------------------------------------------------------------5------5--<br>+--+ + + +<br>te<br>+-<br>t<br>'<br>'<br>'<br>'<br>'<br>t<br>~~'~~<br>~~'~~<br>~~'~~<br>~~'~~<br>~~'~~<br>t<br>'<br>'<br>'<br>'<br>'|||||||
+|Falls das jeweils andere Unterrichtsfach nicht Mathematik<br>ist, dann:<br>Mathematik für Naturwissenschaftler*<br>Math. Modellbildung und Statistik für Naturwissenschaftler*<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik|WS<br>4<br>WS<br>4||3V+1Ü<br>3V+1Ü|5<br>5<br>10|K90<br>1<br>Portfolioprüfung:<br>PL: K50<br>SL: Rechner-<br>klausur<br>3<br>PL lt. MB||
+|Falls die schriftliche Hausarbeit gem. § 6 (3) im Fach oder<br>in der Fachdidaktik Informatik angefertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik|SS<br>2||2S|2,5<br>2,5|SV<br>6<br>PL lt. MB||
 |**Summe**||||**60**|||
 
 
@@ -117,6 +133,14 @@ In den **Erläuterungen** : HMA: Gesamtnote wird gebildet aus schriftl. Hausaufg
 *In der Fächerkombination mit Physik können anstelle dieser Module die Module „Analysis I“ und „Lineare Algebra und Analytische Geometrie“ gewählt werden, die im Umfang von 10 ECTS-Punkten in die Notenberechnung eingehen. Prüfungsart und -umfang ergeben sich aus der Fachprüfungsordnung Mathematik. 
 
 ## (2) Im Bereich **Fachdidaktik** sind im Fach Informatik im Studium des Lehramts an Realschulen folgende Module erfolgreich abzulegen: 
+
+|Didaktikder Informatik I|SS|4|2V+2Ü|5|HMA|4|
+|---|---|---|---|---|---|---|
+|Didaktik der Informatik II|SS+WS|4|2V+2Ü|5|Portfolioprüfung:<br>PL: K120<br>SL: Praktikum mit<br>Bericht, Techni-<br>schesZeichnen|5+6|
+|Seminar Didaktik der Informatik|SS/WS|2|2S|2,5||5|
+|**Summe**||||**12,5**|||
+
+
 
 **Erläuterung** : HA: schriftliche Hausarbeit 
 
@@ -131,44 +155,57 @@ In den **Erläuterungen** : HMA: Gesamtnote wird gebildet aus schriftl. Hausaufg
 
 4 
 
-|(4) Falls das**studienbegleitende fachdidaktische Praktikum**|(4) Falls das**studienbegleitende fachdidaktische Praktikum**|(4) Falls das**studienbegleitende fachdidaktische Praktikum**|**studienbegleitende fachdidaktische Praktikum**im Studium des|**studienbegleitende fachdidaktische Praktikum**im Studium des|im Studium des|im Studium des|im Studium des|im Studium des|im Studium des|||
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Lehramts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich||Lehramts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich||Lehramts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich|Lehramts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich||||Lehramts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich|||
-|abzulegen:<br>Studienbegleitendes fachdidaktisches Prakti-<br>kum Informatik fürdasLehramt an Realschulen<br>SS/WS<br>4<br>2P+2S<br>5<br>SL<br>6<br>~~ee~~<br>~~ee~~||||||||||||
-|(5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studien-||||(5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studien-||||||||
-|semestern absolviert werden.||||||||||||
-|**4. Lehramt an Hauptschulen**||||||||||||
-|**§ 7**<br>**Inhalt, Aufbau und Gliederung des Studiums**||||||||||||
-|(1) Im Studium des Faches Informatik für das Lehramt an Hauptschulen sind im Be-|||(1) Im Studium des Faches Informatik für das Lehramt an Hauptschulen sind im Be-|||||(1) Im Studium des Faches Informatik für das Lehramt an Hauptschulen sind im Be-||||
-|reich der**Fachwissenschaft**folgende Module erfolgreich abzulegen:<br>**SWS (Summe)**||||||||||||
-|**Modul**<br>**Angebot**<br>**SWS (Summe)**<br>**SWS (Auftei-**<br>**lung)**<br>**ECTS-Punkte**<br>**Studien- und**<br>**Prüfungs-**<br>**leistung**<br>**Semester**<br>~~|~~||||||||||||
-|||||||||Portfolioprüfung:||||
-|Algorithmen und Datenstrukturen<br>WS||8||4V+2Ü+2P|10|||PL: K120|||1|
-|||||||||SL: Hausaufgaben||||
-|Parallele und Funktionale Programmierung<br>SS||4||2V+2Ü|5|||K60|||2|
-|Konzeptionelle Modellierung<br>WS||4||2V+2Ü|5|||K90|||3|
-|Implementierungvon Datenbanksystemen<br>WS||4||2V+2Ü|5|||K90|||5|
-|Softwareentwicklungin Großprojekten<br>WS||4||2V+2Ü|5|||K90|||3|
-|Theoretische Informatik für Lehramtsstudierende<br>SS||4||2V+2Ü|5|||K90|||2|
-|Praktikum<br>WS|||||10|||PL lt. MB|||5|
-|Wahlpflichtmodul aus der Fachwissenschaft Informatik|||||2,5|||PL lt. MB||||
-|Falls die gewählte Didaktik einer Fächergruppe nicht||||||||||||
-|Mathematik enthält, dann:||||||||||||
-|Mathematik für Naturwissenschaftler<br>WS||4||3V+1Ü|5|||K90|||1|
-|sonst: Wahlpflichtmodul(e)aus dem Fach Informatik|||||5|||PL lt. MB||||
-|||||||||||||
-|Falls die schriftliche Hausarbeit gem. § 7 (3) im Fach oder in||||||||||||
-|der Fachdidaktik Informatik angefertigt wird, dann:||||||||||||
-|Begleitseminar zur schriftlichen Hausarbeit||SS||SS<br>2<br>2S|2,5|||2,5<br>SV<br>6||||
-|sonst: Wahlpflichtmodul(e) aus dem Fach Informatik|||||2,5|||2,5<br>PL lt.<br>MB||||
+(4) Falls das **studienbegleitende fachdidaktische Praktikum** im Studium des Lehramts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich abzulegen: 
+
+||Studienbegleitendes fachdidaktisches Prakti-<br>kum Informatik fürdasLehramt an Realschulen|SS/WS|4|2P+2S|5|SL|6||
+|---|---|---|---|---|---|---|---|---|
 
 
 
-(2) Im Bereich **Fachdidaktik** sind im Fach Informatik im Studium des Lehramts an 
+(5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studiensemestern absolviert werden. 
 
-Hauptschulen folgende Module erfolgreich abzulegen: 
+## **4. Lehramt an Hauptschulen** 
 
-Didaktik der Informatik I SS 4 2V+2Ü 5 Portfolioprüfung: 4 PL: K120 Didaktik der Informatik II SS+WS 4 2V+2Ü 5 5+6 SL: Praktikum Seminar Didaktik der Informatik SS/WS 2 2S 2,5 mit Bericht 5 ~~=~~ **Summe 12,5 Erläuterungen** : HA: schriftliche Hausarbeit (3) Falls die **Schriftliche Hausarbeit** im Studium des Lehramts an Hauptschulen im Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module erfolgreich abzulegen: Schriftliche Hausarbeit SS/WS 10 HA 6 Begleitseminar (ECTS-Punkte zählen zur SS/WS 2 2S 2,5 SV 6 ~~TE~~ Fachwissenschaft Informatik, s. § 7 (1)) 
+**§ 7 Inhalt, Aufbau und Gliederung des Studiums** 
+
+(1) Im Studium des Faches Informatik für das Lehramt an Hauptschulen sind im Bereich der **Fachwissenschaft** folgende Module erfolgreich abzulegen: 
+
+|**Modul**|**Angebot**|**SWS (Summe)**|**SWS (Auftei-**<br>**lung)**|**ECTS-Punkte**|**Studien- und**<br>**Prüfungs-**<br>**leistung**|**Semester**|
+|---|---|---|---|---|---|---|
+|Algorithmen und Datenstrukturen|WS|8|4V+2Ü+2P|10|Portfolioprüfung:<br>PL: K120<br>SL: Hausaufgaben|1|
+|Parallele und Funktionale Programmierung|SS|4|2V+2Ü|5|K60|2|
+|Konzeptionelle Modellierung|WS|4|2V+2Ü|5|K90|3|
+|Implementierungvon Datenbanksystemen|WS|4|2V+2Ü|5|K90|5|
+|Softwareentwicklungin Großprojekten|WS|4|2V+2Ü|5|K90|3|
+|Theoretische Informatik für Lehramtsstudierende|SS|4|2V+2Ü|5|K90|2|
+|Praktikum|WS|||10|PL lt. MB|5|
+|Wahlpflichtmodul aus der Fachwissenschaft Informatik||||2,5|PL lt. MB||
+|Falls die gewählte Didaktik einer Fächergruppe nicht<br>Mathematik enthält, dann:<br>Mathematik für Naturwissenschaftler<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>5<br>PL lt. MB|||||||
+|Falls die schriftliche Hausarbeit gem. § 7 (3) im Fach oder in<br>der Fachdidaktik Informatik angefertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e) aus dem Fach Informatik<br>2,5<br>PL lt.<br>MB|||||||
+|Falls die schriftliche Hausarbeit gem. § 7 (3) im Fach oder in<br>der Fachdidaktik Informatik angefertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e) aus dem Fach Informatik<br>2,5<br>PL lt.<br>MB|||||||
+
+
+
+## (2) Im Bereich **Fachdidaktik** sind im Fach Informatik im Studium des Lehramts an Hauptschulen folgende Module erfolgreich abzulegen: 
+
+|Didaktik der Informatik I|SS|4|2V+2Ü|5|Portfolioprüfung:<br>PL: K120<br>SL: Praktikum<br>mitBericht|4|
+|---|---|---|---|---|---|---|
+|Didaktikder Informatik II|SS+WS|4|2V+2Ü|5||5+6|
+|Seminar Didaktik der Informatik|SS/WS|2|2S|2,5||5|
+|**Summe**||||**12,5**|||
+
+
+
+**Erläuterungen** : HA: schriftliche Hausarbeit 
+
+(3) Falls die **Schriftliche Hausarbeit** im Studium des Lehramts an Hauptschulen im Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module erfolgreich abzulegen: 
+
+|folgreich abzulegen:|||||||
+|---|---|---|---|---|---|---|
+|Schriftliche Hausarbeit|SS/WS|||10|HA|6|
+|Begleitseminar (ECTS-Punkte zählen zur<br>FachwissenschaftInformatik, s.§7(1))|SS/WS|2|2S|2,5|SV|6|
+
+
 
 5 
 

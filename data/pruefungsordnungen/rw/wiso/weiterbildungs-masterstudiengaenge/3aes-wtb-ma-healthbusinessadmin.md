@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Juni 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES_WTB_MA_HealthBusinessAdmin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:38:58+00:00
+scraped_at: 2026-05-01T09:48:20+00:00
 page_count_chars: 38832
 ---
 

@@ -8,7 +8,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "<25"
 besondere_studienformen: "Zusatzstudien im Lehramt"
-scraped_at: 2026-04-25T14:10:24+00:00
+scraped_at: 2026-05-01T06:45:10+00:00
 ---
 
 # Gender 1 2 3 (Zertifikat)

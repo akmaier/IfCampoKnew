@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BMPO BP-T 20211015 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20211015_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-04-25T14:18:19+00:00
+scraped_at: 2026-05-01T06:56:44+00:00
 page_count_chars: 37125
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Arabistik Islamwissenschaft Semitistik FPOAIS 20200813 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Arabistik,_Islamwissenschaft,_Semitistik/Aenderungssatzungen/MA_Arabistik_Islamwissenschaft_Semitistik_FPOAIS_20200813_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:21:32+00:00
+scraped_at: 2026-05-01T08:24:15+00:00
 page_count_chars: 13148
 ---
 

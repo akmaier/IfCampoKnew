@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PO Deutsche Sprachprüfung für Hochschulzugang DSH 20210429 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/DSH/Aenderungssatzungen/PO_Deutsche_Sprachpruefung_fuer_Hochschulzugang_DSH_20210429_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:41:18+00:00
-page_count_chars: 23295
+scraped_at: 2026-05-01T09:51:45+00:00
+page_count_chars: 23359
 ---
 
 # PO Deutsche Sprachprüfung für Hochschulzugang DSH 20210429 ÄS.pdf
@@ -254,13 +254,13 @@ Die Bewertung der Leistung erfolgt nach der inhaltlichen Angemessenheit, Verstä
 
 ## Anlage 
 
+**==> picture [59 x 60] intentionally omitted <==**
+
+**==> picture [207 x 42] intentionally omitted <==**
+
 ## **DSH-Zeugnis** 
 
-Herr/Frau geboren am aus 
-
-___________________ 
-
-___________________ 
+Herr/Frau ___________________ geboren am ___________________ aus 
 
 ___________________ 
 
@@ -274,7 +274,7 @@ hat am [Datum] die „Deutsche Sprachprüfung für den Hochschulzugang“ (DSH) 
 |Hörverstehen:|__|%|
 |Textproduktion:|__|%|
 |Leseverstehen:|__|%|
-|Wissenschaftssprachliche Strukturen:|Wissenschaftssprachliche Strukturen:<br>__|%|
+|Wissenschaftssprachliche Strukturen:|<br>__|%|
 |**Mündliche Prüfung:**|**__**|**%**|
 
 
@@ -285,7 +285,7 @@ Mit Erreichen der Ebene DSH-3 werden besonders hohe Deutschkenntnisse nachgewies
 
 Beschreibung der mit dem Prüfungsergebnis nachgewiesenen sprachlichen Fähigkeiten siehe Rückseite. 
 
-## Erlangen, den [Datum] 
+Erlangen, den [Datum] 
 
 (Siegel) 
 

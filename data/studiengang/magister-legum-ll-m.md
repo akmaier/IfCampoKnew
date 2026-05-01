@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "50-150"
-scraped_at: 2026-04-25T14:12:33+00:00
+scraped_at: 2026-05-01T06:48:13+00:00
 ---
 
 # Magister Legum (LL.M.)

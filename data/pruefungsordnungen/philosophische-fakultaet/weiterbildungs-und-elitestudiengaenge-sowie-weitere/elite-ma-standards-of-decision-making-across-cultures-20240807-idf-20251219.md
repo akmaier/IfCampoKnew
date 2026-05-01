@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Elite-MA Standards of Decision Making Across Cultures 20240807 i.d.F. 20251219.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision_Making_Across_Cultures_20240807_idF_20251219.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:41:31+00:00
-page_count_chars: 20115
+scraped_at: 2026-05-01T08:49:39+00:00
+page_count_chars: 20275
 ---
 
 # Elite-MA Standards of Decision Making Across Cultures 20240807 i.d.F. 20251219.pdf
@@ -12,32 +12,17 @@ page_count_chars: 20115
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision_Making_Across_Cultures_20240807_idF_20251219.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 # **Fachstudien- und Prüfungsordnung für den Elite-Masterstudiengang Standards of Decision-Making Across Cultures (M.A.) an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOSDAC – Vom 7. August 2024** 
 
 geändert durch Satzung vom 19. Dezember 2025. 
 
 Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) erlässt die FAU folgende Fachstudien- und Prüfungsordnung: 
 
-**==> picture [457 x 151] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-|||
-|---|---|
-|Inhaltsverzeichnis:|
-|Präambel|.............................................................................................................................. 1|
-|§ 1 Geltungsbereich ............................................................................................................. 1|
-|§ 2 Qualifikation zum Masterstudium .................................................................................... 1|
-|§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichts- und|
-|Prüfungssprache ................................................................................................................... 2|
-|§ 4 Prüfungsausschuss ........................................................................................................ 3|
-|§ 5 Wiederholung ................................................................................................................. 3|
-|§ 6 Inkrafttreten und Übergangsvorschriften ......................................................................... 3|
-|Anlage 1:|Studienverlaufsplan Elite-Masterstudiengang “Standards of Decision-Making|
-|Across Cultures” (SDAC) ....................................................................................................... 4|
-|Anlage 2:|Qualifikationsfeststellungsverfahren ..................................................................... 4|
-
-**----- End of picture text -----**<br>
-
+**Inhaltsverzeichnis: Präambel** .............................................................................................................................. 1 § 1 Geltungsbereich ............................................................................................................. 1 § 2 Qualifikation zum Masterstudium .................................................................................... 1 § 3 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichts- und Prüfungssprache ................................................................................................................... 2 § 4 Prüfungsausschuss ........................................................................................................ 3 § 5 Wiederholung ................................................................................................................. 3 § 6 Inkrafttreten und Übergangsvorschriften ......................................................................... 3 **Anlage 1:** Studienverlaufsplan Elite-Masterstudiengang “Standards of Decision-Making Across Cultures” (SDAC) ....................................................................................................... 4 **Anlage 2:** Qualifikationsfeststellungsverfahren ..................................................................... 4 
 
 ## **Präambel** 
 
@@ -54,6 +39,10 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten Elite-Mast
 1. ein mit überdurchschnittlichem Erfolg abgeschlossenes Studium an einer Hochschule (Bachelor, Diplom, Magister, Master oder Staatsexamen) insbesondere in den Bereichen Philologie, Sozialwissenschaft, Geschichtswissenschaft, Pädagogik, 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Philosophie, Religionswissenschaft, Ethnologie, Wirtschaftswissenschaft, Rechtswissenschaft, Psychologie und Medizin mit besonderem Forschungs- und Wissenschaftsbezug bzw. einen sonstigen gleichwertigen Abschluss einer in- oder ausländischen Hochschule in den genannten Bereichen, soweit das Studium ein zu den o. g. Abschlüssen nicht wesentlich unterschiedliches forschungs- und wissenschaftsbezogenes Qualifikationsprofil aufweist, sowie 
 
@@ -74,6 +63,10 @@ Philosophie, Religionswissenschaft, Ethnologie, Wirtschaftswissenschaft, Rechtsw
 (3)[1] Die Unterrichts- und Prüfungssprache im Elite-Masterstudiengang Standards of Decision-Making Across Cultures (M.A.) ist Englisch.[2] Einzelne Lehrveranstaltungen und Prüfungen in von den Studierenden entsprechend wählbaren Modulen können in 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 deutscher und / oder chinesischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch.[3] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache. 
 

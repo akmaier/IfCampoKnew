@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-04-25T14:10:25+00:00
+scraped_at: 2026-05-01T06:45:13+00:00
 ---
 
 # Geographie: Kulturgeographie (B.A.)

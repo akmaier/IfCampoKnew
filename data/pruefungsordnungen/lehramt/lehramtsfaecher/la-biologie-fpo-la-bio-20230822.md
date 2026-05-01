@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Biologie FPO LA Bio 20230822.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Biologie/konsolidierte_Fassungen/LA_Biologie_FPO_LA_Bio_20230822.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:20:20+00:00
+scraped_at: 2026-05-01T06:59:58+00:00
 page_count_chars: 49142
 ---
 

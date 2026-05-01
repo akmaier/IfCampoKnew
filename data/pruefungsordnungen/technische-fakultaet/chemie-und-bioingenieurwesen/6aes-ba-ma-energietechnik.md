@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Oktober 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES_BA-MA_Energietechnik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:50:52+00:00
+scraped_at: 2026-05-01T10:01:33+00:00
 page_count_chars: 6778
 ---
 

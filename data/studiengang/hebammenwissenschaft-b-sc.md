@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-04-25T14:11:09+00:00
+scraped_at: 2026-05-01T06:46:10+00:00
 ---
 
 # Hebammenwissenschaft (B.Sc.)

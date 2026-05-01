@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Artificial Intelligence FPOBScAI 20240328.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Artificial_Intelligence_Bachelor/konsolidierte_Fassungen/BSc_Artificial_Intelligence_FPOBScAI_20240328.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/
-scraped_at: 2026-04-25T16:46:35+00:00
+scraped_at: 2026-05-01T09:56:01+00:00
 page_count_chars: 27062
 ---
 

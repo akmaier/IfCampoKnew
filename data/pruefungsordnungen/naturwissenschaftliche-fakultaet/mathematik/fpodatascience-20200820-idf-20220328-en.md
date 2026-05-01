@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPODataScience 20200820 i.d.F. 20220328 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/englisch/FPODataScience_20200820_idF_20220328_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:55:43+00:00
+scraped_at: 2026-05-01T07:48:48+00:00
 page_count_chars: 66633
 ---
 

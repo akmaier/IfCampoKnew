@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "<25"
 besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-04-25T14:09:36+00:00
+scraped_at: 2026-05-01T06:43:09+00:00
 ---
 
 # Business Management (MBA)

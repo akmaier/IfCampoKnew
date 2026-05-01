@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOManagement ÄSa 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Management/Aenderungssatzungen/FPOManagement_AeSa_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:33:19+00:00
-page_count_chars: 29613
+scraped_at: 2026-05-01T09:40:06+00:00
+page_count_chars: 24653
 ---
 
 # FPOManagement ÄSa 20260305.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Management/Aenderungssatzungen/FPOManagement_AeSa_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Management an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPOManagement – Vom 5. März 2026** 
 
@@ -35,6 +39,10 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang an der Rechts- 
       - cc) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 „[2] Die Fristen des § 35 Abs. 4 Satz 1 und 2 **MPOWISO** für die Regelbearbeitungszeit der Masterarbeit sowie deren Verlängerung werden im Teilzeitstudiengang verdoppelt.“ 
 
@@ -65,6 +73,10 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang an der Rechts- 
    - bb) In Satz 2 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte „Der Schwerpunkt“ ersetzt. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - d) Abs. 4 wird wie folgt geändert: 
 
@@ -102,6 +114,10 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang an der Rechts- 
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
    - bb) In Satz 2 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte „Der Schwerpunkt“ ersetzt. 
 
 - j) Abs. 10 wird wie folgt geändert: 
@@ -138,18 +154,28 @@ k) Nach Abs. 10 wird folgender neuer Abs. 11 eingefügt:
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - a) In Nr. 4.2 Satz 1 wird nach den Worten und dem Zeichen „im Zugangstest gilt §“ die Zahl „22“ durch die Zahl „25“ ersetzt. 
 
 - b) In Nr. 6 wird nach den Zeichen, der Zahl und dem Wort „§§ 13 und“ die Zahl „23“ durch die Zahl „26“ ersetzt. 
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 7. Die **Anlage 2** erhält folgende neue Fassung: 
 
 ## „ **Anlage 2: Studienverlaufsplan Master Management: Vollzeitstudium** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|**Modulbezeichnung**||||||**Gesamt**<br>|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+||**Lehrveranstaltung**|**SWS**||||**ECTS-**<br>**Pkt**||<br>**Punkten**|||||
+|||||||**une**|||||||
 |||**V**|**Ü**|**P**|**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|||
 |**Wahlpflichtbereich:**<br>**Management foundations**||||||**20**|**10**|**10**|||||
 |**Business ethics and corporate**<br>**social responsibility**|Business ethics and corporate<br>social responsibility|2||||5||(5)|||Klausur (60 Minuten)|1|
@@ -169,8 +195,14 @@ k) Nach Abs. 10 wird folgender neuer Abs. 11 eingefügt:
 
 6 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**||||||**Gesamt**<br>|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+||**Lehrveranstaltung**|**SWS**||||**ECTS-**<br>**Pkt**||<br>**Punkten**|||||
+|||||||**une**|||||||
 |||**V**|**Ü**|**P**|**S**||**1.Sem.**|**2.Sem.**|**3. Sem.**|**4.Sem.**|||
 |**Controlling and Reporting**<br>**(CAR)**|Controlling and Reporting (CAR)|1|1|||5|(5)||||Klausur (60 Minuten)|1|
 |**Controlling of business sys-**<br>**tems(CBS)**|Controlling of business systems<br>(CBS)|2|1|||5|(5)||||Klausur (60 Minuten)|1|
@@ -188,18 +220,25 @@ k) Nach Abs. 10 wird folgender neuer Abs. 11 eingefügt:
 
 7 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**||**Ü**||**P**||**S**||**1.Sem.**|**2.Sem.**|**3. Sem.**|**4.Sem.**|||
-|**Schwerpunkt Marketing**<br>**management**|gem. § 5 Abs. 12|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 7||
-|**Schwerpunkt Supply chain**<br>**management**|gem. § 5 Abs. 12|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 8||
-|**Schwerpunkt Sustainable &**<br>**responsible management**|gem. § 5 Abs. 12|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 9||
-|**Schwerpunkt Management**<br>**research**|gem. § 5 Abs. 12|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 10||
-|**Schwerpunkt Organizational**<br>**Behavior & Human Perfor-**<br>**mance Management**|gem. § 5 Abs. 12|||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 11||
-|**Masterarbeit**||||||||||**30**||||30|||
-|**Masterarbeit**||||||||||**30**||||30|Masterarbeit|1|
-|**Summe SWS und ECTS-Punkte:**||||||||||**120**|**30**|**30**|**30**|**30**|||
-|||**Mind. 40**<br>**SWS5**|||||||||||||||
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|||||||||**Gesamt**<br>|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Workload-Verteilung in ECTS-**<br>**Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||**Lehrveranstaltung**|**SWS**|||||||**ECTS-**<br>**Pkt**|||||||
+||||||||||**une**|||||||
+|||**V**||**Ü**||**P**||**S**||**1.Sem.**|**2.Sem.**|**3. Sem.**|**4.Sem.**|||
+|**Schwerpunkt Marketing**<br>**management**|gem. § 5 Abs. 12||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 7||
+|**Schwerpunkt Supply chain**<br>**management**|gem. § 5 Abs. 12||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 8||
+|**Schwerpunkt Sustainable &**<br>**responsible management**|gem. § 5 Abs. 12||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 9||
+|**Schwerpunkt Management**<br>**research**|gem. § 5 Abs. 12||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 10||
+|**Schwerpunkt Organizational**<br>**Behavior & Human Perfor-**<br>**mance Management**|gem. § 5 Abs. 12||||||||0-55|0-10|0-15|0-30||gem. § 5 Abs. 11||
+|**Masterarbeit**|||||||||**30**||||30|||
+|**Masterarbeit**|||||||||**30**||||30|Masterarbeit|1|
+|**Summe SWS und ECTS-Punkte:**||||||||||**30**|**30**|**30**|**30**|||
+|||**Mind. 40**<br>**SWS5**|||||||**120**|||||||
+|||||||||||||||||
 
 
 
@@ -217,68 +256,88 @@ k) Nach Abs. 10 wird folgender neuer Abs. 11 eingefügt:
 
 - 5 Die Gesamtzahl der SWS sowie die Verteilung auf die einzelnen Lehrveranstaltungsformen variiert in Abhängigkeit von den gewählten Kursen im Wahlpflichtbereich sowie im Vertiefungsbereich. 
 
-“ 
+## “ 
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 9 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 8. Der bisher ebenfalls in der **Anlage 2** befindliche Studienverlaufsplan für den Master Management in Teilzeit wird in eine eigene neue **Anlage 3** überführt und erhält folgende neue Fassung: 
 
 ## „ **Anlage 3: Studienverlaufsplan Master Management: Teilzeitstudium** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**||**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
+||||||||||<br>**in ECTS-Punkten**||||||||
+|||**V**|**Ü**|**P**|**S**|**Punkte**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
 |**Wahlpflichtbereich:**<br>**Management foundations**||||||**20**|**5**|**5**|**5**|**5**|||||||
-|**Business ethics and cor-**<br>**porate social responsibil-**<br>**ity**<br>~~ee~~|Business ethics and corpo-<br>rate social responsibility<br>~~Od~~|2<br>~~Od~~|~~Fd~~|~~Fd~~|~~nk~~|5<br>~~ne~~|~~ne~~|(5)<br>~~ne~~|~~GG~~|~~GG~~|~~GG~~|~~GG~~|~~GG~~|~~Gn~~|Klausur<br>(60 Minuten)|1|
-|**Business strategy**<br>~~ee~~<br>~~ee~~|Business strategy<br>~~Od~~<br>~~Gd~~|2<br>~~Od~~<br>~~Gd~~|1<br>~~Fd~~<br>~~Gd~~|~~Fd~~<br>~~Gd~~|~~nk~~<br>~~ne~~|5<br>~~ne~~<br>~~ee~~|(5)<br>~~ne~~<br>~~ee~~|~~ne~~<br>~~ee~~|~~GG~~<br>~~Gn~~|~~GG~~<br>~~Gn~~|~~GG~~<br>~~(GGG~~|~~GG~~<br>~~(GGG~~|~~GG~~<br>~~(GGG~~|~~Gn~~<br>~~(GGG~~|Klausur<br>(60 Minuten)|1|
-|**Corporate strategy**<br>~~ee~~<br>~~ee~~<br>~~a~~|Corporate strategy<br>~~Od~~<br>~~Gd~~<br>~~Rn~~|2<br>~~Od ~~<br>~~Gd~~<br>~~Ftd~~|1<br> ~~Fd~~<br>~~Gd~~<br>~~(tt)~~|~~Fd ~~<br>~~Gd~~<br>~~(tn td~~|~~nk~~<br>~~ne~~<br>~~td~~|5<br>~~ne~~<br>~~ee~~<br>~~td~~|~~ne~~<br>~~ee~~<br>~~(RD~~|(5)<br>~~ne ~~<br>~~ee~~<br>~~(RD~~|~~GG~~<br>~~Gn~~<br>~~(EQS~~|~~GG~~<br>~~Gn~~<br>~~(EQS~~|~~GG ~~<br>~~(GGG~~<br>~~(EQS~~|~~GG~~<br>~~(GGG~~<br>~~(QO~~|~~GG ~~<br>~~(GGG~~<br>~~(QO~~|~~Gn~~<br>~~(GGG~~<br>~~(QO~~|Klausur (60 Minuten)<br>~~(~~|1|
-|**Digitale Industrie**<br>~~ee~~<br>~~a~~<br>~~ee Gn~~|Digitale Industrie<br>~~Gd~~<br>~~Rn~~<br>~~Gn~~|2<br>~~Gd ~~<br>~~Ftd~~<br>~~Gd~~|~~Gd~~<br>~~(tt)~~<br>~~fa~~|~~Gd ~~<br>~~(tn td~~<br>~~Fl~~|~~ne~~<br>~~td~~<br>~~a~~|5<br>~~ee~~<br>~~td~~<br>~~PO~~|~~ee~~<br>~~(RD~~|~~ee ~~<br>~~(RD~~<br>~~GG~~|(5)<br> ~~Gn~~<br>~~(EQS~~<br>~~GG~~|~~Gn~~<br>~~(EQS~~<br>~~GG~~|~~(GGG~~<br>~~(EQS~~<br>~~GG~~|~~(GGG~~<br>~~(QO~~<br>~~GOGO~~|~~(GGG~~<br>~~(QO~~<br>~~GOGO~~|~~(GGG~~<br>~~(QO~~<br>~~GOGO~~|Klausur(60 Minuten)<br>~~(~~|1|
-|**Global operations stra-**<br>**tegy**<br>~~a~~<br>~~ee Gn~~<br>~~ne~~|Global operations strategy<br>~~Rn~~<br>~~Gn~~<br>~~Od~~|2<br>~~Ftd ~~<br>~~Gd~~<br>~~Od~~|~~(tt) ~~<br>~~fa~~<br>~~Gd~~|~~(tn td~~<br>~~Fl~~<br>~~Gd~~|1<br>~~td~~<br>~~a~~<br>~~ne~~|5<br>~~td~~<br>~~PO~~|~~(RD~~<br>~~GG~~|~~(RD~~<br>~~GG~~<br>~~GG~~|(5)<br>~~(EQS~~<br>~~GG~~<br>~~GG~~|~~(EQS~~<br>~~GG~~<br>~~GG~~|~~(EQS~~<br>~~GG~~<br>~~GG~~|~~(QO~~<br>~~GOGO~~<br>~~GG~~|~~(QO~~<br>~~GOGO~~<br>~~GG~~|~~(QO ~~<br>~~GOGO~~<br>~~GO~~|Präsentation<br> ~~(~~|1|
-|**Industrielles Manage-**<br>**ment**<br>~~ee Gn~~<br>~~ne~~<br>~~ee~~|Industrielles Management<br>~~Gn~~<br>~~Od~~<br>~~Od~~|2<br>~~Gd ~~<br>~~Od~~<br>~~Od~~|1<br> ~~fa ~~<br>~~Gd~~<br>~~Od~~|~~Fl ~~<br>~~Gd~~<br>~~Od~~|~~a ~~<br>~~ne~~<br>~~ne~~|5<br> ~~PO~~<br>~~ee~~|~~GG~~<br>~~ee~~|~~GG~~<br>~~GG~~<br>~~ee~~|~~GG~~<br>~~GG~~<br>~~GG~~|(5)<br>~~GG~~<br>~~GG~~<br>~~GG~~|~~GG ~~<br>~~GG~~<br>~~GG~~|~~GOGO~~<br>~~GG~~<br>~~GGG~~|~~GOGO~~<br>~~GG~~<br>~~GGG~~|~~GOGO~~<br>~~GO~~<br>~~GGG~~|Klausur<br>(60 Minuten)|1|
-|**Produktions- und Supply**<br>**Chain Management**<br>~~ne~~<br>~~ee~~|Produktions- und Supply<br>Chain Management<br>~~Od~~<br>~~Od~~|2<br>~~Od ~~<br>~~Od~~|1<br> ~~Gd~~<br>~~Od~~|~~Gd ~~<br>~~Od~~|~~ne~~<br>~~ne~~|5<br>~~ee~~|(5)<br>~~GG~~<br>~~ee~~|~~GG~~<br>~~ee~~|~~GG~~<br>~~GG~~|~~GG~~<br>~~GG~~|~~GG ~~<br>~~GG~~|~~GG~~<br>~~GGG~~|~~GG ~~<br>~~GGG~~|~~GO~~<br>~~GGG~~|Klausur<br>(90 Minuten)|1|
-|**Personalmanagement**<br>~~ee~~|Personalmanagement<br>~~Od~~|2<br>~~Od ~~|1<br> ~~Od~~|~~Od ~~|~~ne~~|5<br>~~ee~~|~~ee~~|~~ee ~~|(5)<br> ~~GG~~|~~GG~~|~~GG ~~|~~GGG~~|~~GGG~~|~~GGG~~|Diskussionspapierund<br>Präsentation<br>(80%+20%)|1|
-|**Technology and innova-**<br>**tion management**<br>~~ee~~|Technology and innovation<br>management<br>~~nr~~|2<br>~~Od~~|~~Od~~|~~Od~~|~~nd~~|5<br>~~GG~~|~~GG~~||~~GG~~|(5)<br>~~GG~~|~~GG~~|~~GG~~|~~GG~~|~~Gn~~|Klausur<br>(60_oder_<br>90Minuten)1|1|
-|**Wahlpflichtbereich:**<br>**Finance & Controlling**<br>~~ee~~<br>~~ee Pe~~|~~nr~~<br>~~Pe~~|~~Od~~<br>~~Od~~|~~Od~~<br>~~Fd~~|~~Od~~<br>~~Fd~~|~~nd~~<br>~~fn~~|**5**<br>~~GG~~|**5**<br>~~GG~~<br>~~eG~~|~~eG~~|~~GG~~<br>~~eG~~|~~GG~~<br>~~eG~~|~~GG~~<br>~~(GG~~|~~GG~~<br>~~(GG~~|~~GG~~<br>~~(GG~~|~~Gn~~<br>~~GO~~|||
-|**Managerial Finance**<br>~~ee~~<br>~~ee Pe~~|Managerial Finance<br>~~nr~~<br>~~Pe~~|2<br>~~Od ~~<br>~~Od~~|1<br> ~~Od~~<br>~~Fd~~|~~Od ~~<br>~~Fd~~|~~nd~~<br>~~fn~~|5<br>~~GG~~|(5)<br>~~GG~~<br>~~eG~~|~~eG~~|~~GG~~<br>~~eG~~|~~GG~~<br>~~eG~~|~~GG ~~<br>~~(GG~~|~~GG~~<br>~~(GG~~|~~GG ~~<br>~~(GG~~|~~Gn~~<br>~~GO~~|Klausur<br>(60 Minuten)|1|
-|**Kapitalmarktorientierte**<br>**Unternehmenssteuerung**<br>**(KUST)**<br>~~ee Pe~~|Kapitalmarktorientierte Un-<br>ternehmenssteuerung<br>~~Pe~~|2<br>~~Od ~~|1<br> ~~Fd~~|~~Fd ~~|~~fn~~|5|(5)<br>~~eG~~|~~eG~~|~~eG~~|~~eG ~~|~~(GG~~|~~(GG~~|~~(GG ~~|~~GO~~|Klausur<br>(60 Minuten)|1|
+|**Business ethics and cor-**<br>**porate social responsibil-**<br>**ity**|Business ethics and corpo-<br>rate social responsibility|2||||5||(5)|||||||Klausur<br>(60 Minuten)|1|
+|**Business strategy**|Business strategy|2|1|||5|(5)||||||||Klausur<br>(60 Minuten)|1|
+|**Corporate strategy**|Corporate strategy|2|1|||5||(5)|||||||Klausur (60 Minuten)|1|
+|**Digitale Industrie**|Digitale Industrie|2||||5|||(5)||||||Klausur(60 Minuten)|1|
+|**Global operations stra-**<br>**tegy**|Global operations strategy|2|||1|5|||(5)||||||Präsentation|1|
+|**Industrielles Manage-**<br>**ment**|Industrielles Management|2|1|||5||||(5)|||||Klausur<br>(60 Minuten)|1|
+|**Produktions- und Supply**<br>**Chain Management**|Produktions- und Supply<br>Chain Management|2|1|||5|(5)||||||||Klausur<br>(90 Minuten)|1|
+|**Personalmanagement**|Personalmanagement|2|1|||5|||(5)||||||Diskussionspapierund<br>Präsentation<br>(80%+20%)|1|
+|**Technology and innova-**<br>**tion management**|Technology and innovation<br>management|2||||5||||(5)|||||Klausur<br>(60_oder_<br>90Minuten)1|1|
+|**Wahlpflichtbereich:**<br>**Finance & Controlling**||||||**5**|**5**||||||||||
+|**Managerial Finance**|Managerial Finance|2|1|||5|(5)||||||||Klausur<br>(60 Minuten)|1|
+|**Kapitalmarktorientierte**<br>**Unternehmenssteuerung**<br>**(KUST)**|Kapitalmarktorientierte Un-<br>ternehmenssteuerung|2|1|||5|(5)||||||||Klausur<br>(60 Minuten)|1|
 
 
 
 10 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**||**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
-|**Controlling and Report-**<br>**ing (CAR)**<br>~~CEE~~<br>~~ee~~|Controlling and Reporting<br>(CAR)<br>~~CEE~~<br>~~Gd~~|1<br>~~CEE~~<br>~~Gd~~|1<br>~~CEE~~<br>~~Od~~|~~CEE~~<br>~~Od~~|~~CEE~~<br>~~ae~~|5<br>~~CEE~~<br>~~ee~~|(5)<br>~~CEE~~<br>~~ee~~|~~CEE~~<br>~~ee~~|~~CEE~~<br>~~eG~~|~~CEE~~<br>~~eG~~|~~CEE~~<br>~~GG~~|~~CEE~~<br>~~GG~~|~~CEE~~<br>~~GG~~|~~CEE~~<br>~~GG~~|Klausur<br>(60 Minuten)<br>~~CEE~~|1<br>~~CEE~~|
-|**Controlling of business**<br>**systems (CBS)**<br>~~ee~~|Controlling of business sys-<br>tems (CBS)<br>~~Gd~~|2<br>~~Gd~~|1<br>~~Od~~|~~Od~~|~~ae~~|5<br>~~ee~~|(5)<br>~~ee~~|~~ee~~|~~eG~~|~~eG~~|~~GG~~|~~GG~~|~~GG~~|~~GG~~|Klausur<br>(60Minuten)|1|
-|**Wahlpflichtbereich: Pro-**<br>**ject, presentation & team**<br>**skills2**<br>~~ee~~|~~Gd~~|~~Gd ~~|~~Od ~~|~~Od ~~|~~ae~~|**102**<br>~~ee~~|**5**<br>~~ee~~|**5**<br>~~ee ~~|~~eG~~|~~eG ~~|~~GG~~|~~GG ~~|~~GG~~|~~GG~~|||
+||||||||||<br>**in ECTS-Punkten**||||||||
+|||**V**|**Ü**|**P**|**S**|**Punkte**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
+|**Controlling and Report-**<br>**ing (CAR)**|Controlling and Reporting<br>(CAR)|1|1|||5|(5)||||||||Klausur<br>(60 Minuten)|1|
+|**Controlling of business**<br>**systems (CBS)**|Controlling of business sys-<br>tems (CBS)|2|1|||5|(5)||||||||Klausur<br>(60Minuten)|1|
+|**Wahlpflichtbereich: Pro-**<br>**ject, presentation & team**<br>**skills2**||||||**102**|**5**|**5**|||||||||
 |**Fallstudien und Projekte**<br>**im Management**||0<br>–<br>2|0<br>–<br>2||2<br>–<br>6|0-10|(5)|(5)|||||||Präsentation<br>_oder_<br>Seminararbeitund<br>Präsentation,<br>_oder_<br>Klausur, Präsentation<br>und<br>Diskussionsbeitrag<br>_oder_<br>Präsentationund<br>Diskussionsbeitrag3||
 |**Teamfähigkeit, Präsenta-**<br>**tions- und Verhandlungs-**<br>**techniken**||0<br>–<br>2|0<br>–<br>2||2<br>–<br>5|0-10|(5)|(5)|||||||Präsentation_oder_Se-<br>minararbeit_oder_Prä-<br>sentationund<br>Diskussionsbeitrag<br>_oder_<br>Projektbericht3||
 |**Vertiefungsbereich**<br>**(freie Wahl von elf Modu-**<br>**len)4**||||||**554**||**5**|**10**|**10**|**15**|**15**|||||
 |**Schwerpunkt Strategic**<br>**management & Internati-**<br>**onal business**|Vgl. § 5 Abs. 12|||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 2||
-|**Schwerpunkt Value crea-**<br>**tion & Digital transforma-**<br>**tion **<br>~~|~~||||||0-55<br>~~ee~~|~~ee~~|0-5<br>~~ae~~|0-<br>10<br>~~a~~|0-<br>10<br>~~ee~~|0-<br>15<br>~~ee~~|0-<br>15<br>~~ee~~|~~ee~~|~~ee~~|Vgl. § 5 Abs. 3<br>~~ee~~||
-|**Schwerpunkt Entrepre-**<br>**neurship & Innovation**<br>~~|~~<br>~~|~~||||||0-55<br>~~ee~~<br>~~a~~|~~ee~~<br>~~ee~~|0-5<br>~~ae~~<br>~~ee~~|0-<br>10<br>~~a~~<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>15<br>~~ee~~<br>~~ee~~|0-<br>15<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~|Vgl. § 5 Abs. 4<br>~~ee~~||
-|**Schwerpunkt Financial**<br>**management**<br>~~|~~<br>~~|~~||||||0-55<br>~~ee~~<br>~~a~~|~~ee ~~<br>~~ee~~|0-5<br> ~~ae ~~<br>~~ee~~|0-<br>10<br> ~~a~~<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>15<br>~~ee~~<br>~~ee~~|0-<br>15<br>~~ee ~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~|Vgl. § 5 Abs. 5<br>~~ee~~||
+|**Schwerpunkt Value crea-**<br>**tion & Digital transforma-**<br>**tion **||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 3||
+|**Schwerpunkt Entrepre-**<br>**neurship & Innovation**||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 4||
+|**Schwerpunkt Financial**<br>**management**||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 5||
 
 
 
 11 
 
-|**Modulbezeichnung**<br>~~|~~|**Lehrveranstaltung**<br>**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**<br>~~a~~|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**||**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
-|**Schwerpunkt Health care**<br>**management**<br>~~|~~<br>~~|~~||||||0-55<br>~~a~~<br>~~a~~|~~ee~~|0-5<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>15<br>~~ee~~|0-<br>15<br>~~ee~~|~~ee~~|~~ee~~|Vgl. § 5 Abs. 6||
-|**Schwerpunkt Marketing**<br>**management**<br>~~|~~<br>~~|~~||||||0-55<br>~~a~~<br>~~a~~|~~ee~~|0-5<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>15<br>~~ee~~|0-<br>15<br>~~ee~~|~~ee~~|~~ee~~|Vgl. § 5 Abs. 7||
-|**Schwerpunkt Supply**<br>**chain management**<br>~~|~~||||||0-55<br>~~a~~|~~ee ~~|0-5<br> ~~ee~~|0-<br>10<br>~~ee ~~|0-<br>10<br> ~~ee~~|0-<br>15<br>~~ee~~|0-<br>15<br>~~ee ~~|~~ee~~|~~ee~~|Vgl. § 5 Abs. 8||
-|**Schwerpunkt**<br>**Sustainable & respon-**<br>**sible management**<br>~~|~~||||||0-55<br>~~a~~|~~ee~~|0-5<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>15<br>~~ee~~|0-<br>15<br>~~ee~~|~~ee~~|~~ee~~|Vgl. § 5 Abs. 9||
-|**Schwerpunkt Manage-**<br>**ment research**<br>~~|~~||||||0-55<br>~~a~~|~~ee~~|0-5<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>10<br>~~ee~~|0-<br>15<br>~~ee~~|0-<br>15<br>~~ee~~|~~ee~~|~~ee~~|Vgl. § 5 Abs. 10||
-|**Schwerpunkt Organiza-**<br>**tional Behavior & Human**<br>**Performance Manage-**<br>**ment**<br>~~|~~<br>~~ee~~||||||0-55<br>~~a~~<br>~~ID~~|~~ee ~~<br>~~**(**Ot~~|0-5<br> ~~ee~~<br>~~DQ~~|0-<br>10<br>~~ee ~~<br>~~DQ~~|0-<br>10<br> ~~ee~~<br>~~(OR~~|0-<br>15<br>~~ee~~<br>~~(Os~~|0-<br>15<br>~~ee ~~<br>~~(Os~~|~~ee~~<br>~~(Os~~|~~ee~~<br>~~(OO~~|Vgl. § 5 Abs. 11<br>~~(OO~~||
-|**Masterarbeit**<br>~~I~~<br>~~ee~~|~~I~~<br>~~rn rr)~~|||||**30**<br>~~I~~<br>~~ID~~<br>~~rr)~~|~~I~~<br>~~**(**Ot~~<br>~~Ret~~|~~I~~<br>~~DQ~~<br>~~rs~~|~~I~~<br>~~DQ~~<br>~~(nnn~~|~~I~~<br>~~(OR~~<br>~~(nnn~~|~~I~~<br>~~(Os~~<br>~~(nnn~~|~~I~~<br>~~(Os~~<br>~~QR~~|**15**<br>~~I~~<br>~~(Os~~<br>~~(~~|**15**<br>~~I~~<br>~~(OO~~<br>~~(en~~|~~I~~<br>~~(OO~~<br>~~en~~|~~I~~|
-|**Masterarbeit**<br>~~ee~~|~~rn rr)~~|||||30<br>~~ID~~<br>~~rr)~~|~~**(**Ot~~<br>~~Ret~~|~~DQ~~<br>~~rs~~|~~DQ~~<br>~~(nnn~~|~~(OR~~<br>~~(nnn~~|~~(Os~~<br>~~(nnn~~|~~(Os~~<br>~~QR~~|15<br>~~(Os~~<br>~~(~~|15<br>~~(OO~~<br>~~(en~~|Masterarbeit<br>~~(OO~~<br>~~en~~|1|
-|**Summe SWS und ECTS-Punkte**<br>~~ee~~<br>~~rn~~||~~rn~~|~~rn~~|~~rn~~|~~rn rr)~~|**120**<br>~~ID ~~<br>~~rr) ~~|**15**<br> ~~**(**Ot ~~<br> ~~Ret~~|**15**<br> ~~DQ~~<br>~~rs~~|**15**<br>~~DQ ~~<br>~~(nnn~~|**15**<br> ~~(OR ~~<br>~~(nnn~~|**15**<br> ~~(Os~~<br>~~(nnn~~|**15**<br>~~(Os~~<br>~~QR ~~|**15**<br>~~(Os~~<br> ~~(~~|**15**<br>~~(OO~~<br>~~(en~~|~~(OO~~<br>~~en~~||
-|||**Mind. 20**<br>**SWS5 **|||||||||||||||
+||||||||||<br>**in ECTS-Punkten**||||||||
+|||**V**|**Ü**|**P**|**S**|**Punkte**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
+|**Schwerpunkt Health care**<br>**management**||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 6||
+|**Schwerpunkt Marketing**<br>**management**||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 7||
+|**Schwerpunkt Supply**<br>**chain management**||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 8||
+|**Schwerpunkt**<br>**Sustainable & respon-**<br>**sible management**||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 9||
+|**Schwerpunkt Manage-**<br>**ment research**||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 10||
+|**Schwerpunkt Organiza-**<br>**tional Behavior & Human**<br>**Performance Manage-**<br>**ment**||||||0-55||0-5|0-<br>10|0-<br>10|0-<br>15|0-<br>15|||Vgl. § 5 Abs. 11||
+|**Masterarbeit**||||||**30**|||||||**15**|**15**|||
+|**Masterarbeit**||||||30|||||||15|15|Masterarbeit|1|
+|**Summe SWS und ECTS-Punkte**|||||||||||||||||
+|||**Mind. 20**||||**120**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|||
+|||**SWS5 **|||||||||||||||
 
 
 
@@ -292,11 +351,15 @@ k) Nach Abs. 10 wird folgender neuer Abs. 11 eingefügt:
 
 - 5  Die Gesamtzahl der SWS sowie die Verteilung auf die einzelnen Lehrveranstaltungsformen variiert in Abhängigkeit von den gewählten Kursen im Wahlpflichtbereich sowie im Vertiefungsbereich. 
 
-## “ 
+“ 
 
 12 
 
 **§ 2** 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 1Diese Änderungssatzung tritt zum 1. April 2026 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2026 aufnehmen werden sowie diejenigen, die zum Zeitpunkt des Inkrafttretens bereits nach der **FPOManagement** vom 29. Februar 2024 studieren. 
 

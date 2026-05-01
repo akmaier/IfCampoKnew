@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BA Sozialökonomik FPO BA SozÖk 20190806 ÄS zu 2ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Sozialoekonomik/Aenderungssatzungen/BA_Sozialökonomik_FPO_BA_SozÖk_20190806_AeS_zu_2AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:15:07+00:00
+scraped_at: 2026-05-01T09:26:59+00:00
 page_count_chars: 1984
 ---
 

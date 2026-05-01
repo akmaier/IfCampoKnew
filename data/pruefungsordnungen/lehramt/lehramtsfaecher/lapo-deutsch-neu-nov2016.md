@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 26.02.2009 i.d.F. 10.11.2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Deutsch-NEU-Nov2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:22:18+00:00
+scraped_at: 2026-05-01T07:03:34+00:00
 page_count_chars: 53632
 ---
 

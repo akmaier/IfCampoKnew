@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Einschreibung zum WiSe 25/26 ausgesetzt"
 größe: "1-50"
-scraped_at: 2026-04-25T14:09:54+00:00
+scraped_at: 2026-05-01T06:43:55+00:00
 ---
 
 # Darstellendes Spiel (Lehramt)

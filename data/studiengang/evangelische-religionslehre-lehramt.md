@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "150-250"
-scraped_at: 2026-04-25T14:10:19+00:00
+scraped_at: 2026-05-01T06:44:56+00:00
 ---
 
 # Evangelische Religionslehre (Lehramt)

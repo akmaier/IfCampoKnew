@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "M.A. Learning Design ÄSa 20250320 20250702 .pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Learning_Design_-_Digitale_Transformation_in_der_Bildung/Aenderungssatzungen/M.A. Learning Design_AeSa_20250320_20250702 .pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:26:28+00:00
-page_count_chars: 15999
+scraped_at: 2026-05-01T08:32:04+00:00
+page_count_chars: 16099
 ---
 
 # M.A. Learning Design ÄSa 20250320 20250702 .pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Learning_Design_-_Digitale_Transformation_in_der_Bildung/Aenderungssatzungen/M.A. Learning Design_AeSa_20250320_20250702 .pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Learning DesignDigitale Transformation in der Bildung an der Philosophischen Fakultät und Fachbereich Theologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO M.A. LD –** 
 
@@ -42,6 +46,10 @@ a) Absatz 2 wird wie folgt geändert:
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
       - (1) In Satz 3 wird nach den Worten „so bestehen“ das Wort „Schnittmenge“ durch das Wort „Schnittmengen“ ersetzt. 
 
       - (2) Satz 4 erhält folgende neue Fassung: „Der Wahlpflichtbereich ermöglicht den Studierenden eine erweiterte Qualifikation nach ihren individuellen Interessen und fördert eine spezifische wissenschaftliche und praktische Profilierung.“ 
@@ -71,6 +79,10 @@ a) Absatz 2 wird wie folgt geändert:
       - (3) Nach den Worten „mit steigendem Komplexitätsniveau“ wird die hochgestellte Zahl „1“ eingefügt. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
    - (4) Nach den Worten, den Zeichen und Zahlen „mündliche Prüfung (30 Min.)“ wird die hochgestellte Zahl „1“ durch die hochgestellte Zahl „2“ ersetzt. 
 
@@ -102,6 +114,10 @@ a) Absatz 2 wird wie folgt geändert:
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - h) In Zeile 10 (Modul „Innovation“) wird in Spalte 6 (Art und Umfang der Prüfung) folgendes geändert: 
 
    - (1) Nach den Worten, Zeichen und Zahlen „Essay (ca. 15 S.)“ wird die hochgestellte Zahl „4“ und durch die hochgestellte Zahl „5“ ersetzt. 
@@ -130,16 +146,26 @@ m) Die Fußnoten werden wie folgt geändert:
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - (6) Die bisherige Fußnote 5 wird zur neuen Fußnote 6. Am Ende der neuen Fußnote 6 wird nach dem Wort „Wahlpflichtmodul“ die römische Zahl „I“ durch die römische Zahl „II“ ersetzt. 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 8. Nach Anlage 1 wird folgende Anlage 2 angefügt: 
 
 ## **„Anlage 2: Studienverlaufsplan Masterstudiengang Learning Design – Digitale Transformation in der Bildung in Teilzeit** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesam**<br>**t**<br>**ECTS**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesam**<br>**t**<br>**ECTS**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Workload-Verteilung in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**SWS**||||||||||||||
+||||||||||||||||||
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
 |**Pflichtbereich**|||||||||||||||||
 |**Wissenschaftliches**<br>**Basismodul**|Digitalisierung in Hochschule<br>und lebenslangem Lernen|2||||**10**|5||||||||Review zu zwei<br>wissenschaftlichen Studien mit<br>steigendem Komplexitätsniveau<br>(Gesamtumfang ca. 15 S.)1_oder_<br>Klausur (90 Min)_oder_<br>Hausarbeit (ca. 15 S.)_oder_<br>mündliche Prüfung (30 Min.)2|1|
@@ -155,23 +181,31 @@ m) Die Fußnoten werden wie folgt geändert:
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**E-Assessment**|E-Assessment &<br>Prüfungsdidaktik||||2|**5**||5|||||||Portfoliomappe: Konzeption und<br>mediengestützte Umsetzung von<br>drei Prüfszenarien (ca. 15 S.)3<br>_oder_<br>Klausur (90 Min)_oder_<br>Hausarbeit (ca. 15 S.)_oder_<br>mündliche Prüfung (30 Min.)2|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**Qualitätssicherung**|Qualitätsentwicklung in<br>Bildungsinstitutionen||||2|**5**||||5|||||Hausarbeit (ca. 10 S.) und<br>mediengestützte Umsetzung eines<br>Evaluationsinstruments4<br>(70% + 30%)_oder_<br>Klausur (90-120 Min)_oder_<br>mündliche Prüfung (15-30 Min.)2|1|
-|**Praxismodul**<br>~~es~~|Handlungsfelder<br>||||2<br>|**10**<br>||||5<br>|||||Praktikumsbericht (ca. 15 S.)<br>|1<br>|
-||Praktikum(150h)<br>|||10<br>||||||5<br>|||||||
-|**Innovation**<br>~~es~~|Innovation<br>||||2<br>|**5**<br>|5<br>||||||||Essay (ca. 15 S.)5_oder_<br>Klausur (90 Min)_oder_<br>Hausarbeit (ca. 15 S.)_oder_<br>mündliche Prüfung (30 Min.)2<br>|1<br>|
-|**Rechtliche und**<br>**medienethische**<br>**Grundlagen**<br>~~es~~|Einführung in rechtliche<br>Grundlagen<br>||||1<br>|**5**<br>|||2,5<br>||||||Klausur (90 Min)_oder_<br>Hausarbeit (ca. 15 S.)_oder_<br>mündliche Prüfung (30 Min.) 2<br>|1<br>|
-||Medienethik<br>||||2<br>||||2,5<br>||||||||
-|**Design-based**<br>**Research**<br>~~TT~~|Projekt- und<br>Wissensmanagement<br>~~TT~~|~~TT~~|~~TT~~|~~TT~~|2<br>~~TT~~|**10**<br>~~TT~~|~~TT~~|~~TT~~|~~TT~~|~~TT~~|5<br>~~TT~~|~~TT~~|~~TT~~|~~TT~~|Hausarbeit (ca. 15 S.)<br>~~TT~~|1<br>~~TT~~|
-||Projekt (150h)<br>~~TT~~|~~TT~~|~~TT~~|10<br>~~TT~~|~~TT~~||~~TT~~|~~TT~~|~~TT~~|~~TT~~|~~TT~~|5<br>~~TT~~|~~TT~~|~~TT~~|||
-|**Wahlpflichtbereich6 **<br>~~|~~|||||||||||||||||
-|**Wahlpflichtmodul I-a**<br>~~po~~|gemäß § 4 Abs. 3<br>~~po~~|||||**(5)**<br>~~po~~|~~po~~|~~po~~|~~po~~|~~po~~|(5)<br>~~po~~|(5)<br>~~po~~|~~po~~|~~po~~|gemäß § 4 Abs. 3<br>~~po~~|1<br>~~po~~|
-|**Wahlpflichtmodul I-b**<br>~~a ~~|gemäß § 4 Abs. 3<br> ~~OO~~|||||**(5)**<br>~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|(5)<br>~~OO~~|(5)<br>~~OO~~|~~OO~~|~~OO~~|gemäß § 4 Abs. 3<br>~~OO~~|1<br>~~OO~~|
-|**Wahlpflichtmodul II**<br>~~|~~|gemäß § 4 Abs. 3<br>~~|~~|||||**(10)**<br>~~|~~|~~|~~|~~|~~|~~|~~|~~|~~|(10)<br>~~|~~|(10)<br>~~|~~|~~|~~|~~|~~|gemäß § 4 Abs. 3<br>~~|~~|1<br>~~|~~|
-|**Masterarbeit**<br>~~a~~|||||||||||||||||
-|**Masterabschluss-**<br>**Modul**<br>~~aaa~~|Kolloquium<br>~~aaa~~|~~aaa~~|~~aaa~~|~~aaa~~|1<br>~~aaa~~|**30**<br>~~aaa~~|~~aaa~~|~~aaa~~|~~aaa~~|~~aaa~~|~~aaa~~|2,5<br>~~aaa~~|~~aaa~~|~~aaa~~|Masterarbeit (80 S.) mit<br>Verteidigung (30 Min.)<br>(75% + 25%)<br>~~aaa~~|1<br>~~aaa~~|
-||Masterarbeit<br>~~aaa~~<br>~~a~~|~~aaa~~<br>~~a~~|~~aaa~~<br>~~a~~|~~aaa~~<br>~~a~~|~~aaa~~<br>~~a~~||~~aaa~~|~~aaa~~|~~aaa~~|~~aaa~~|~~aaa~~|~~aaa~~|12,5<br>~~aaa~~|15<br>~~aaa~~|||
+|**Praxismodul**|Handlungsfelder||||2|**10**||||5|||||Praktikumsbericht (ca. 15 S.)|1|
+||Praktikum(150h)|||10||||||5|||||||
+|**Innovation**|Innovation||||2|**5**|5||||||||Essay (ca. 15 S.)5_oder_<br>Klausur (90 Min)_oder_<br>Hausarbeit (ca. 15 S.)_oder_<br>mündliche Prüfung (30 Min.)2|1|
+|**Rechtliche und**<br>**medienethische**|Einführung in rechtliche<br>Grundlagen||||1|**5**|||2,5||||||Klausur (90 Min)_oder_<br>Hausarbeit (ca. 15 S.)_oder_<br>mündliche Prüfung (30 Min.) 2|1|
+|**Grundlagen**|Medienethik||||2||||2,5||||||||
+|**Design-based**<br>**Research**|Projekt- und<br>Wissensmanagement||||2|**10**|||||5||||Hausarbeit (ca. 15 S.)|1|
+||Projekt (150h)|||10||||||||5|||||
+|**Wahlpflichtbereich6 **|||||||||||||||||
+||||||||||||||||||
+||||||||||||||||||
+|**Wahlpflichtmodul I-a**|gemäß § 4 Abs. 3|||||**(5)**|||||(5)|(5)|||gemäß § 4 Abs. 3|1|
+|**Wahlpflichtmodul I-b**|gemäß § 4 Abs. 3|||||**(5)**|||||(5)|(5)|||gemäß § 4 Abs. 3|1|
+|**Wahlpflichtmodul II**|gemäß § 4 Abs. 3|||||**(10)**|||||(10)|(10)|||gemäß § 4 Abs. 3|1|
+|**Masterarbeit**|||||||||||||||||
+||||||||||||||||||
+||||||||||||||||||
+|**Masterabschluss-**<br>**Modul**|Kolloquium||||1|**30**||||||2,5|||Masterarbeit (80 S.) mit<br>Verteidigung (30 Min.)<br>(75% + 25%)|1|
+||Masterarbeit||||||||||||12,5|15|||
 |**Summe SWS und ECTS-Punkte:**||**2-6**|**0**|**20**|**28-**<br>**32**|**120**|**15**|**15**|**15**|**15**|**15-**<br>**25**|**7,5-**<br>**17,5**|**12,5**|**15**|||
 |||**53**|||||||||||||||
 
@@ -179,7 +213,13 @@ m) Die Fußnoten werden wie folgt geändert:
 
 7 
 
-- **1** Nach Wahl der Studierenden können stattdessen auch semesterbegleitend zwei Reviews im Umfang von jeweils ca. 7 Seiten eingereicht werden. 2 Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung und werden zu Beginn der Vorlesungszeit durch die Modulverantwortlichen festgelegt. 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+- **1** Nach Wahl der Studierenden können stattdessen auch semesterbegleitend zwei Reviews im Umfang von jeweils ca. 7 Seiten eingereicht werden. 
+
+- 2 Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung und werden zu Beginn der Vorlesungszeit durch die Modulverantwortlichen festgelegt. 
 
 - **3** Nach Wahl der Studierenden können stattdessen auch semsterbegleitend drei Teilprüfungen, jeweils bestehend aus Konzeption und mediengestützter Umsetzung eines Prüfszenarios, abgelegt werden. 
 
@@ -192,6 +232,10 @@ m) Die Fußnoten werden wie folgt geändert:
 - “ 
 
 8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **§ 2** 
 

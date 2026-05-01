@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Archäologische Wissenschaften FPOArWi 20180730 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Archaeologische_Wissenschaften/Aenderungssatzungen/MA_Archaeologische_Wissenschaften_FPOArWi_20180730_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:21:39+00:00
-page_count_chars: 8663
+scraped_at: 2026-05-01T08:24:32+00:00
+page_count_chars: 8764
 ---
 
 # MA Archäologische Wissenschaften FPOArWi 20180730 ÄS.pdf
@@ -20,15 +20,19 @@ Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 A
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Archäologische Wissenschaften an der Philosophischen Fakultät und Fachbereich Theologie der FAU – FPOArWi – vom 8. Juni 2010, zuletzt geändert durch Satzung vom 26. Januar 2016, wird wie folgt geändert: 
 
-1. § 1 wird wie folgt geändert: 
+## 1. § 1 wird wie folgt geändert: 
 
-   - Nach den Worten „Archäologische Wissenschaften“ werden die Worte mit Satzzeichen „mit dem Abschluss „Master of Arts (M.A.)“ gestrichen. 
+**==> picture [11 x 12] intentionally omitted <==**
 
-   - Nach den Worten „Bachelor- und Masterstudiengänge“ wird das Wort „an“ gestrichen. 
+- Nach den Worten „Archäologische Wissenschaften“ werden die Worte mit Satzzeichen „mit dem Abschluss „Master of Arts (M.A.)“ gestrichen. 
+
+**==> picture [10 x 13] intentionally omitted <==**
+
+- Nach den Worten „Bachelor- und Masterstudiengänge“ wird das Wort „an“ gestrichen. 
 
 ## 2. § 2 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
 aa) In Satz 1 werden nach den Worten „Fachspezifischer Abschluss“ die Worte und Zahlen „i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** “ eingefügt und nach den Worten „Abschluss in“ die Worte „dem Bachelorstudiengang“ durch die Worte „einem Ein- oder Zwei-Fach-Bachelorstudiengang“ ersetzt. 
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "1. September 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa-Allg%20BA%20Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-04-25T15:10:03+00:00
+scraped_at: 2026-05-01T08:05:30+00:00
 page_count_chars: 4490
 ---
 

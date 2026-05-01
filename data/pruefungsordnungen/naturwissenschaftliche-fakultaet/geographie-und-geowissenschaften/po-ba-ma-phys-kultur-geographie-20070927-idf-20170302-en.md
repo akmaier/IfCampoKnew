@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "(PDF 2nd of March 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/englisch/PO-BA-MA_Phys-Kultur-Geographie_20070927_idF_20170302_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:52:55+00:00
+scraped_at: 2026-05-01T07:45:35+00:00
 page_count_chars: 96033
 ---
 

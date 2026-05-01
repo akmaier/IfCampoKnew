@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Medizinische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "> 600"
-scraped_at: 2026-04-25T14:15:03+00:00
+scraped_at: 2026-05-01T06:51:42+00:00
 ---
 
 # Zahnmedizin (Staatsexamen)

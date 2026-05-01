@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "5. Juni 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AES_MA_FACT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:30:13+00:00
+scraped_at: 2026-05-01T09:36:07+00:00
 page_count_chars: 5480
 ---
 

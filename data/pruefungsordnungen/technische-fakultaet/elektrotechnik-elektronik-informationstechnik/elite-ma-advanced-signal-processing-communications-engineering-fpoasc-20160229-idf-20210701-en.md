@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20160229 i.d.F. 20210701 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/ASC/englisch/Elite-MA_Advanced_Signal_Processing_Communications_Engineering_FPOASC_20160229_idF_20210701_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-04-25T16:53:00+00:00
+scraped_at: 2026-05-01T10:04:27+00:00
 page_count_chars: 21578
 ---
 

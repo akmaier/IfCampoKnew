@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 25.03.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:26:20+00:00
-page_count_chars: 14781
+scraped_at: 2026-05-01T07:11:05+00:00
+page_count_chars: 12667
 ---
 
 # pdf vom 25.03.2009
@@ -62,11 +62,11 @@ für die die jeweiligen fachlichen und formalen Voraussetzungen gegeben sind, so
 |Theoretische Informatik für Lehramtsstudieren-<br>de|SS|4|2V+2Ü|5|S+K90|4|
 |Rechnerkommunikation|SS|4|2V+2Ü|5|S+K90|4|
 |Praktikum|WS|||10|bS|5|
-|Grundlagen der Technischen Informatik|WS|6|4V+2Ü|7,5 S+K120|5 S+K120|5|
+|Grundlagen der Technischen Informatik|WS|6|4V+2Ü|7,5|S+K120|5|
 |Systemprogrammierung|WS|8|4V+2Ü+2P|10|S+K120|7|
 |Wahlpflichtmodul(e) aus der Fachwissenschaft<br>Informatik, davon min. 5 ECTS-Punkte aus dem<br>Bereich Datenbanksysteme und Softwaretech-<br>nologie||||15|||
-|Falls das jeweils andere Unterrichtsfach nicht<br>Mathematik ist, dann:<br>Mathematik für Chemiker*<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>Mathematik für Naturwissenschaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>K50<br>3<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik<br>10<br>Tr<br>rt<br>rr<br>rr<br>ptrrrr arrrr<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>--------------------------------------------------------<br>+--+<br>tt<br>ee<br>eett<br>te<br>'<br>'<br>'<br>'<br>'<br>i<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>i]<br>f]<br>1<br>1|||||||
-|Falls die schriftliche Hausarbeit gem. §5 (3) im<br>Fach oder in der Fachdidaktik Informatik ange-<br>fertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>bS<br>6<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik<br>2,5<br>'<br>~~'~~<br>~~'~~<br>~~'~~<br>~~'~~<br>~~'~~<br>'<br>'<br>'<br>'<br>'<br>'<br>------------------------ +--+<br>ee ee<br>ee ee ee<br>ee ee ee ee ee ee ee ee<br>et eee ee ee ee<br>ee eee eee|||||||
+|Falls das jeweils andere Unterrichtsfach nicht<br>Mathematik ist, dann:<br>Mathematik für Chemiker*<br>Mathematik für Naturwissenschaftler*<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik|WS<br>4<br>WS<br>4||3V+1Ü<br>3V+1Ü|5<br>5<br>10|K90<br>K50|1<br>3|
+|Falls die schriftliche Hausarbeit gem. §5 (3) im<br>Fach oder in der Fachdidaktik Informatik ange-<br>fertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik|SS<br>2||2S|2,5<br>2,5|bS|6|
 |**Summe**||||**95**|||
 
 
@@ -107,7 +107,7 @@ Didaktik der Informatik I SS 4 2V+2Ü 5 bS 4
 
 ## **3. Lehramt an Realschulen** 
 
-**§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
+## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
 - (1) Im Studium des Faches Informatik für das Lehramt an Realschulen sind im Bereich der **Fachwissenschaft** folgende Module erfolgreich abzulegen: 
 
@@ -121,8 +121,8 @@ Didaktik der Informatik I SS 4 2V+2Ü 5 bS 4
 |Theoretische Informatik für Lehramtsstudieren-<br>de|SS|4|2V+2Ü|5|S+K90|4|
 |Praktikum|WS|||10|bS|5|
 |Wahlpflichtmodul aus der Fachwissenschaft<br>Informatik||||2,5|||
-|Falls das jeweils andere Unterrichtsfach nicht<br>Mathematik ist, dann:<br>Mathematik für Chemiker *<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>Mathematik für Naturwissenschaftler *<br>WS<br>4<br>3V+1Ü<br>5<br>K50<br>3<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik<br>10<br>------------------------------------------------------------------------------------------~------4----------4--------<br>i<br>~~f~~<br>~~i~~<br>~~i~~<br>~~i~~<br>~~1~~<br>1<br>1<br>1<br>1<br>1<br>1<br>'<br>'<br>'<br>'<br>'<br>'<br>~------------------------------------------------------------------<br>~~ +--+ ~~ --------~~ - +------4----------4--------<br>1<br>1<br>1<br>1<br>1<br>1<br>~--------------------------------------------------------<br>----------} ----b----------------b------4----------4--------|||||||
-|Falls die schriftliche Hausarbeit gem. § 6 (3) im<br>Fach oder in der Fachdidaktik Informatik ange-<br>fertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>bS<br>6<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik<br>2,5<br>-~-----------------------------------------------------------------------------------------------4----------4--------<br>i<br>i<br>i<br>i<br>i<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>'<br>'<br>'<br>~-------------------------------------------------------<br>4 -+--+~~<br>4 =~ = - 4<br>-+--+<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1|||||||
+|Falls das jeweils andere Unterrichtsfach nicht<br>Mathematik ist, dann:<br>Mathematik für Chemiker *<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>Mathematik für Naturwissenschaftler *<br>WS<br>4<br>3V+1Ü<br>5<br>K50<br>3<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik<br>10|||||||
+|Falls die schriftliche Hausarbeit gem. § 6 (3) im<br>Fach oder in der Fachdidaktik Informatik ange-<br>fertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>bS<br>6<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik<br>2,5|||||||
 
 
 
@@ -136,20 +136,41 @@ Didaktik der Informatik I SS 4 2V+2Ü 5 bS 4
 
 - (2) Im Bereich **Fachdidaktik** sind im Fach Informatik im Studium des Lehramts an Realschulen folgende Module erfolgreich abzulegen: 
 
-Didaktik der Informatik I SS 4 2V+2Ü 5 bS 4 Didaktik der Informatik II SS+WS 4 2V+2Ü 5 S+K120 5+6 Seminar Didaktik der Informatik SS/WS 2 2S 2,5 bS 5 ~~——~~ **Summe 12,5** (3) Falls die **Schriftliche Hausarbeit** im Studium des Lehramts an Realschulen im Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module erfolgreich abzulegen: Schriftliche Hausarbeit SS/WS 10 6 Begleitseminar (ECTS-Punkte zählen zur FachSS/WS 2 2S 2,5 6 ~~Po~~ wissenschaft Informatik, s. § 6 (1)) 
+|Didaktikder Informatik I|SS|4|2V+2Ü|5|bS|4|
+|---|---|---|---|---|---|---|
+|Didaktikder Informatik II|SS+WS|4|2V+2Ü|5|S+K120|5+6|
+|Seminar Didaktik der Informatik|SS/WS|2|2S|2,5|bS|5|
+|**Summe**||||**12,5**|||
+
+
+
+- (3) Falls die **Schriftliche Hausarbeit** im Studium des Lehramts an Realschulen im Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module erfolgreich abzulegen: 
+
+|Schriftliche Hausarbeit|SS/WS|||10||6|
+|---|---|---|---|---|---|---|
+|Begleitseminar (ECTS-Punkte zählen zur Fach-<br>wissenschaftInformatik, s.§ 6 (1))|SS/WS|2|2S|2,5||6|
+
+
 
 - (4) Falls das **studienbegleitende fachdidaktische Praktikum** im Studium des Lehramts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich abzulegen: 
 
-Studienbegleitendes fachdidaktisches PraktiSS/WS 4 2P+2S 5 bS 6 ~~ee~~ kum Informatik für das Lehramt an Realschulen ~~ee ee~~ (5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studiensemestern absolviert werden. 
+|Studienbegleitendes fachdidaktisches Prakti-<br>kum Informatik fürdasLehramtan Realschulen|SS/WS|4|2P+2S|5|bS|6|
+|---|---|---|---|---|---|---|
+
+
+
+- (5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studiensemestern absolviert werden. 
 
 ## **4. Lehramt an Hauptschulen** 
 
 **§ 7 Inhalt, Aufbau und Gliederung des Studiums** 
 
-|**Modul**<br>~~|~~|**Angebot**<br>~~|~~|**SWS (Summe)**<br>~~|~~|**SWS (Auftei-**<br>**lung)**<br>~~|~~|**ECTS-Punkte**<br>~~|~~|**Prüfung**<br>~~|~~|**Semester**<br>~~|~~|
+- (1) Im Studium des Faches Informatik für das Lehramt an Hauptschulen sind im Bereich der **Fachwissenschaft** folgende Module erfolgreich abzulegen: 
+
+|**Modul**|**Angebot**|**SWS (Summe)**|**SWS (Auftei-**<br>**lung)**|**ECTS-Punkte**|**Prüfung**|**Semester**|
 |---|---|---|---|---|---|---|
-|Algorithmen und Datenstrukturen<br>~~|~~|WS<br>~~|~~|8<br>~~|~~|4V+2Ü+2P<br>~~|~~|10<br>~~|~~|S+K120<br>~~|~~|1<br>~~|~~|
-|Parallele und Funktionale Programmierung<br>~~|~~|SS<br>~~|~~|4<br>~~|~~|2V+2Ü<br>~~|~~|5<br>~~|~~|K60<br>~~|~~|2<br>~~|~~|
+|Algorithmen und Datenstrukturen|WS|8|4V+2Ü+2P|10|S+K120|1|
+|Parallele und Funktionale Programmierung|SS|4|2V+2Ü|5|K60|2|
 |Konzeptionelle Modellierung|SS|4|2V+2Ü|5|K90|2|
 |Datenbanksysteme|WS|4|2V+2Ü|5|K90|3|
 |Softwareentwicklungin Großprojekten|WS|4|2V+2Ü|5|K90|3|
@@ -162,15 +183,16 @@ Studienbegleitendes fachdidaktisches PraktiSS/WS 4 2P+2S 5 bS 6 ~~ee~~ kum Infor
 
 4 
 
-|Mathematik ist, dann:<br>~~‘~~<br>~~‘~~<br>~~‘~~<br>~~‘~~<br>~~‘~~<br>~~‘~~<br>~~**‘**~~<br>**‘**<br>**‘**<br>**‘**<br>**‘**<br>**‘**|~~‘~~<br>~~‘~~<br>~~‘~~<br>~~‘~~<br>~~‘~~|
-|---|---|
-|Mathematik für Chemiker<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik<br>5<br>~~a~~<br>~~1~~<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>-------------------------------------------------------------------<br>+---b ---- ----- ---- -- - - t- --- -<br>3-- - +<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>~~'~~<br>~~'~~<br>~~'~~<br>~~'~~<br>~~'~~<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>~~**'**~~<br>~~**'**~~<br>~~**'**~~<br>~~**'**~~<br>~~**'**~~<br>'||
-|||
-|Falls die schriftliche Hausarbeit gem. § 7 (3) im||
-|Fach oder in der Fachdidaktik Informatik ange-||
-|fertigt wird, dann:<br>~~a~~||
-|Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>bS<br>6<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik<br>2,5<br>~~'~~<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>---------------------------------------------------------b<br>--------- t-te --- 5- - 5 -- 5-5-5-------- 4- - ------- -4--------|~~'~~|
-|**Summe**<br>**55**||
+|Mathematik ist, dann:|||||||
+|---|---|---|---|---|---|---|
+|Mathematik für Chemiker|WS|4|3V+1Ü|5|K90|1|
+|sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik||||5|||
+
+
+
+|Falls die schriftliche Hausarbeit gem. § 7 (3) im<br>Fach oder in der Fachdidaktik Informatik ange-<br>fertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik|SS<br>2|SS<br>2|2S|2,5<br>2,5|bS|6|
+|---|---|---|---|---|---|---|
+|**Summe**||||**55**|||
 
 
 

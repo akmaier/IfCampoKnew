@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Deutsch FPO LA Deutsch 20220914 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Deutsch/Aenderungssatzungen/LA_Deutsch_FPO_LA_Deutsch_20220914_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:22:02+00:00
+scraped_at: 2026-05-01T07:03:03+00:00
 page_count_chars: 35195
 ---
 

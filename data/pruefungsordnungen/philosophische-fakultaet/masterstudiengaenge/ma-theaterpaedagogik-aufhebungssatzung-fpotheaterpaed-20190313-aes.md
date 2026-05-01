@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Theaterpädagogik Aufhebungssatzung FPOTheaterPäd 20190313 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Theaterpaedagogik/Aenderungssatzungen/MA_Theaterpädagogik_Aufhebungssatzung_FPOTheaterPäd_20190313_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:30:33+00:00
+scraped_at: 2026-05-01T08:38:47+00:00
 page_count_chars: 2281
 ---
 

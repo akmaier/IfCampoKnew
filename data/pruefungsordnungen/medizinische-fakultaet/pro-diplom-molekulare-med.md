@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 07.02.2001"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Urschriften/PrO-Diplom-Molekulare-Med.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:37:45+00:00
+scraped_at: 2026-05-01T07:27:49+00:00
 page_count_chars: 34406
 ---
 

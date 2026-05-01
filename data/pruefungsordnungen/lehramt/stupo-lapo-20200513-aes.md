@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPO LAPO 20200513 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20200513_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/
-scraped_at: 2026-04-25T14:15:50+00:00
+scraped_at: 2026-05-01T06:53:01+00:00
 page_count_chars: 6219
 ---
 

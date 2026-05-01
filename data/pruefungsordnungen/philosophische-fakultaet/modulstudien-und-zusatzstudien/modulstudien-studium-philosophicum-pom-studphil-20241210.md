@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Studium Philosophicum POM-StudPhil 20241210.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20241210.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-04-25T15:31:11+00:00
+scraped_at: 2026-05-01T08:39:28+00:00
 page_count_chars: 9513
 ---
 

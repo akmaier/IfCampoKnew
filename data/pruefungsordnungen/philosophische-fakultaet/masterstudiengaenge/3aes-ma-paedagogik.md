@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "10. Februar 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES MA-Paedagogik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:28:51+00:00
+scraped_at: 2026-05-01T08:35:58+00:00
 page_count_chars: 12153
 ---
 

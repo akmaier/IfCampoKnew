@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc International Business Studies FPO MSc IBS 20220808 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPO_MSc_IBS_20220808_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:31:16+00:00
+scraped_at: 2026-05-01T09:37:35+00:00
 page_count_chars: 4954
 ---
 

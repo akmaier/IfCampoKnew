@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Romanistik Aufhebungssatzung M.A. Romanistik 20200727.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Romanistik/Aenderungssatzungen/MA_Romanistik_Aufhebungssatzung_M.A._Romanistik_20200727.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:29:45+00:00
+scraped_at: 2026-05-01T08:37:25+00:00
 page_count_chars: 2197
 ---
 

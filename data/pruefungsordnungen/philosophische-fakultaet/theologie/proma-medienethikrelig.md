@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 09.12.2008 i.d.F. 24.11.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/PrOMA_MedienEthikRelig.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:36:21+00:00
+scraped_at: 2026-05-01T08:44:02+00:00
 page_count_chars: 49719
 ---
 

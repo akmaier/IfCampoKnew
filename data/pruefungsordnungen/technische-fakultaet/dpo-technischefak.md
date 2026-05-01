@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 17.10.1972 i.d.F. 21.12.2006"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/DPO_TechnischeFak.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:44:31+00:00
+scraped_at: 2026-05-01T09:55:22+00:00
 page_count_chars: 52064
 ---
 

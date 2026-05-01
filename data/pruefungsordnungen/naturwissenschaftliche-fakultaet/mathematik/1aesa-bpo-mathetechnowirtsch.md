@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "3. Dezember 2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-BPO-MatheTechnoWirtsch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:59:12+00:00
+scraped_at: 2026-05-01T07:53:55+00:00
 page_count_chars: 24071
 ---
 

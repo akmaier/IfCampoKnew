@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Juli 2008"
 pdf_source: https://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_%20Kultgesch%20des%20Christentums.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:58:57+00:00
+scraped_at: 2026-05-01T09:04:45+00:00
 page_count_chars: 5184
 ---
 

@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "BA Wirtschaftswissenschaften FPO BA WiWi 20250616 ÄSa.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftswissenschaften/Aenderungssatzungen/BA_Wirtschaftswissenschaften_FPO_BA_WiWi_20250616_AeSa.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:16:49+00:00
-page_count_chars: 7304
+scraped_at: 2026-05-01T09:29:20+00:00
+page_count_chars: 8426
 ---
 
 # BA Wirtschaftswissenschaften FPO BA WiWi 20250616 ÄSa.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftswissenschaften/Aenderungssatzungen/BA_Wirtschaftswissenschaften_FPO_BA_WiWi_20250616_AeSa.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftswissenschaften am Fachbereich Wirtschaftsund Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPO BA WiWi – Vom 16. Juni 2025** 
 
@@ -35,6 +39,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftswi
 „(6)[1] Das übergeordnete Qualifikationsziel des Schwerpunktbereichs Wirtschafts- und Betriebspädagogik III liegt darin, es den Studierenden zu ermöglichen, sich in mehreren pädagogisch-didaktischen Schwerpunktbereichen thematisch zu vertiefen. 2Dies umfasst 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 beispielsweise Qualifikationen aus den Bereichen Bildungssystem und Organisation der beruflichen Schulen.[3] Zweitens wird der Transfer theoretischer Inhalte auf praktische Problemstellungen im Umfeld an beruflichen Schulen angestrebt.“ 
 
@@ -66,15 +74,23 @@ beispielsweise Qualifikationen aus den Bereichen Bildungssystem und Organisation
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 5.  In § 6 wird nach Abs. 2 folgender Abs. 3 neu angefügt: 
 
 „(3)[1] Die erste Änderungssatzung tritt am 1. Oktober 2025 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2025/2026 aufnehmen.“ 
 
 3 
 
-## 6.  Die **Anlage** wird wie folgt geändert: 
+**==> picture [165 x 49] intentionally omitted <==**
 
-- a) Zeile 24 (Modulbezeichnung „Buchführung (GOP)“) erhält folgende neue Fassung: 
+**==> picture [114 x 46] intentionally omitted <==**
+
+6.  Die **Anlage** wird wie folgt geändert: 
+
+   - a) Zeile 24 (Modulbezeichnung „Buchführung (GOP)“) erhält folgende neue Fassung: 
 
 |Buchführung (GOP)|V|2||||**5**||5|||||Klausur|0,5|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -105,19 +121,19 @@ beispielsweise Qualifikationen aus den Bereichen Bildungssystem und Organisation
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - aa) In Fußnote 1 werden die Sätze 3 und 4 gestrichen. 
 
-- bb) 
-
-   - Fußnote 4 wird wie folgt neu gefasst: 
+- bb) Fußnote 4 wird wie folgt neu gefasst: 
 
    - „[4) ] Bei beabsichtigter Wahl der Studienrichtung WiPäd III wird das Modul „Grundlagen des öffentlichen Rechts und des Zivilrechts“ im 5. Semester belegt. Ein Wahlpflichtmodul aus WiPäd III wird im 3. Semester belegt.“ 
 
 - cc) Fußnote 5 wird gestrichen. 
 
-- dd) 
-
-   - Die bisherige Fußnote 6 wird zur neuen Fußnote 5. 
+- dd) Die bisherige Fußnote 6 wird zur neuen Fußnote 5. 
 
 - ee) In der neuen Fußnote 5 wird nach dem Zeichen, der Zahl und dem Wort „§ 3 Abs.“ die Zahl „7“ durch die Zahl „8“ ersetzt. 
 
@@ -133,13 +149,35 @@ beispielsweise Qualifikationen aus den Bereichen Bildungssystem und Organisation
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anhang: Studienverlaufsplan der FPO BA WiWi in der Fassung vom 7. August 2024 im Änderungsmodus:** 
+
+**==> picture [678 x 412] intentionally omitted <==**
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+**==> picture [682 x 436] intentionally omitted <==**
+
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+**==> picture [675 x 87] intentionally omitted <==**
+
 8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 4. Juni 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 16. Juni 2025 Erlangen, den 16. Juni 2025 
 

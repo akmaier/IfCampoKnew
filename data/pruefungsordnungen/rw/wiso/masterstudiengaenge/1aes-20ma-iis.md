@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Januar 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES%20MA-IIS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:32:35+00:00
+scraped_at: 2026-05-01T09:39:16+00:00
 page_count_chars: 2438
 ---
 

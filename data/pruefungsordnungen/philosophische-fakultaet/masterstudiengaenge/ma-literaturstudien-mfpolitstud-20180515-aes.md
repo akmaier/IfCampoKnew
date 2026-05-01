@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Literaturstudien MFPOLitStud 20180515 Äs.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Literaturstudien_-_intermedial_und_interkulturell/Aenderungssatzungen/MA_Literaturstudien_MFPOLitStud_20180515_Aes.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:27:00+00:00
+scraped_at: 2026-05-01T08:33:01+00:00
 page_count_chars: 14290
 ---
 

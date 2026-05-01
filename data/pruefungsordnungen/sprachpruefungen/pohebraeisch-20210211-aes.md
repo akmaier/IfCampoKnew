@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "POHebräisch 20210211 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachpruefungen/Hebraeisch/Aenderungssatzungen/POHebraeisch_20210211_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:42:16+00:00
+scraped_at: 2026-05-01T09:52:17+00:00
 page_count_chars: 1566
 ---
 

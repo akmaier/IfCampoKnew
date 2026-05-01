@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "> 600"
-scraped_at: 2026-04-25T14:14:17+00:00
+scraped_at: 2026-05-01T06:50:36+00:00
 ---
 
 # Rechtswissenschaft (Staatsexamen)

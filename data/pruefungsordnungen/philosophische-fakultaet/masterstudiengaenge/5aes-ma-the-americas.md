@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "12. Februar 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES_MA-The Americas.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:20:56+00:00
+scraped_at: 2026-05-01T08:23:13+00:00
 page_count_chars: 5707
 ---
 

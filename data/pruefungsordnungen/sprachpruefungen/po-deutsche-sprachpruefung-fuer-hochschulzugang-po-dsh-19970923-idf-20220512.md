@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PO Deutsche Sprachprüfung für Hochschulzugang PO DSH 19970923 i.d.F. 20220512.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/DSH/konsolidierte_Fassungen/PO_Deutsche_Sprachpruefung_fuer_Hochschulzugang_PO_DSH_19970923_idF_20220512.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:41:13+00:00
-page_count_chars: 32241
+scraped_at: 2026-05-01T09:51:38+00:00
+page_count_chars: 32310
 ---
 
 # PO Deutsche Sprachprüfung für Hochschulzugang PO DSH 19970923 i.d.F. 20220512.pdf
@@ -338,6 +338,10 @@ Die Bewertung der Leistung erfolgt nach der inhaltlichen Angemessenheit, Verstä
 
 ## **Anlage** 
 
+**==> picture [59 x 60] intentionally omitted <==**
+
+**==> picture [208 x 42] intentionally omitted <==**
+
 ## **DSH-Zeugnis** 
 
 Herr/Frau ___________________ geboren am ___________________ aus 
@@ -354,7 +358,7 @@ hat am [Datum] die „Deutsche Sprachprüfung für den Hochschulzugang“ (DSH) 
 |Hörverstehen:|__|%|
 |Textproduktion:|__|%|
 |Leseverstehen:|__|%|
-|Wissenschaftssprachliche Strukturen:|Wissenschaftssprachliche Strukturen:<br>__|%|
+|Wissenschaftssprachliche Strukturen:|<br>__|%|
 |**Mündliche Prüfung:**|**__**|**%**|
 
 
@@ -367,9 +371,7 @@ Beschreibung der mit dem Prüfungsergebnis nachgewiesenen sprachlichen Fähigkei
 
 Erlangen, den [Datum] 
 
-___________________________ (Siegel) (TITEL, NAME) Prüfungsvorsitzende/r 
-
-____________________________ (TITEL, NAME) Mitglied der Prüfungskommission 
+___________________________ (Siegel) ____________________________ (TITEL, NAME) (TITEL, NAME) Prüfungsvorsitzende/r Mitglied der Prüfungskommission 
 
 10 
 

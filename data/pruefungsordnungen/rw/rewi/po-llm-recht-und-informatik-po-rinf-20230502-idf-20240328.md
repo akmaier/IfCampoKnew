@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PO LLM Recht und Informatik PO Rinf 20230502 i.d.F. 20240328.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Recht_und_Informatik/konsolidierte_Fassungen/PO_LLM_Recht_und_Informatik_PO_Rinf_20230502_idF_20240328.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:10:09+00:00
+scraped_at: 2026-05-01T09:19:07+00:00
 page_count_chars: 66308
 ---
 

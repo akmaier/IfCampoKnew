@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "15. September 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AES%20BA-MA%20Chem+MolSc.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:45:21+00:00
+scraped_at: 2026-05-01T07:36:24+00:00
 page_count_chars: 22711
 ---
 

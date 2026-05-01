@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.09.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/StuOPrO-MA-PhysicActHealth.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:16:58+00:00
-page_count_chars: 48669
+scraped_at: 2026-05-01T08:16:45+00:00
+page_count_chars: 48673
 ---
 
 # PDF vom 27.09.2007
@@ -196,7 +196,7 @@ Der Entzug des Akademischen Grades richtet sich nach Art. 69 BayHSchG.
 |**gut**<br>= (1,7 oder 2,0 oder 2,3)<br>eine Leistung, die erheblich über den durch-<br>schnittlichen Anforderungen liegt;|
 |**befriedigend**<br>= (2,7 oder 3,0 oder 3,3)<br>eine Leistung, die durchschnittlichen Anforderun-<br>gen entspricht;|
 |**ausreichend**<br>= (3,7 oder 4,0)<br>eine Leistung, die trotz ihrer Mängel noch den<br>Anforderungen entspricht;|
-|**nicht ausreichend**<br>= (4,3 oder 4,7 oder 5,0)<br>eine Leistung, die wegen erheblicher Mängel den<br>Anforderungen nicht mehr genügt.|
+|**nicht ausreichend**<br>= (4,3 oder 4,7 oder 5,0)<br>eine Leistung, die wegen erheblicher Mängel den<br>Anforderungen nicht mehr genügt.<br>|
 
 
 

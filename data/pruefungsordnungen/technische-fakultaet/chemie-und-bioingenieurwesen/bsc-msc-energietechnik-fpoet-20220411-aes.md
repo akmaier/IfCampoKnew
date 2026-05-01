@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Energietechnik FPOET 20220411 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Energietechnik/Aenderungssatzungen/BSc-MSc_Energietechnik_FPOET_20220411_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:50:40+00:00
+scraped_at: 2026-05-01T10:01:09+00:00
 page_count_chars: 26382
 ---
 

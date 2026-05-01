@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.09.2007 i.d.F. 01.08.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/EWF/PrO-MA-Gerontologie-NEU-WS2010-2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:15:15+00:00
-page_count_chars: 44544
+scraped_at: 2026-05-01T08:13:47+00:00
+page_count_chars: 44556
 ---
 
 # PDF vom 27.09.2007 i.d.F. 01.08.2010
@@ -229,8 +229,9 @@ Der Entzug des Mastergrades richtet sich nach Art. 69 BayHSchG
 
 **§ 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote** (1) Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt: 
 
-|**sehr gut**|= (1,0 oder 1,3)|eine hervorragende Leistung;|
+|drückt:|||
 |---|---|---|
+|**sehr gut**|= (1,0 oder 1,3)|eine hervorragende Leistung;|
 |**gut**|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den<br>durchschnittlichen Anforderungen liegt;|
 |**befriedigend**|= (2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen An-<br>forderungen entspricht;|
 |**ausreichend**|= (3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch<br>den Anforderungen entspricht;|

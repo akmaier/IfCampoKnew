@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "50-150"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:09:30+00:00
+scraped_at: 2026-05-01T06:42:52+00:00
 ---
 
 # Berufspädagogik Technik (M.Sc.)

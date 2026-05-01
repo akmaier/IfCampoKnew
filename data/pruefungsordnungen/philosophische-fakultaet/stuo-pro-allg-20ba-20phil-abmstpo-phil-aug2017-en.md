@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 24th of August 2017"
 pdf_source: https://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/StuO_PrO_Allg_%20BA_%20Phil_ABMStPO_Phil_AUG2017_EN.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-04-25T15:09:10+00:00
+scraped_at: 2026-05-01T08:03:54+00:00
 page_count_chars: 91771
 ---
 

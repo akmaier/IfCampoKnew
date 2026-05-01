@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Zugangsverfahren PST 20250731.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/konsolidierte_Fassungen/Zugangsverfahren PST_20250731.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-04-25T15:07:24+00:00
-page_count_chars: 28440
+scraped_at: 2026-05-01T08:01:12+00:00
+page_count_chars: 27886
 ---
 
 # Zugangsverfahren PST 20250731.pdf
@@ -12,34 +12,27 @@ page_count_chars: 28440
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/konsolidierte_Fassungen/Zugangsverfahren PST_20250731.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/>
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **N E U E N T W U R F** 
 
-## **Satzung über das Qualifikationsfeststellungsverfahren für den Zugang zum und die Immatrikulation im Studiengang Photon Science and Technology mit dem Abschluss Master of Science an der Physikalisch-Astronomischen Fakultät der Friedrich-Schiller-Universität Jena (Universität Jena), dem Karlsruher Institut für Technologie (KIT) und der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – Zugangssatzung PST – Vom 31. Juli 2025** 
+**Satzung über das Qualifikationsfeststellungsverfahren für den Zugang zum und die Immatrikulation im Studiengang Photon Science and Technology mit dem Abschluss Master of Science an der Physikalisch-Astronomischen Fakultät der Friedrich-Schiller-Universität Jena (Universität Jena), dem Karlsruher Institut für Technologie (KIT) und der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – Zugangssatzung PST – Vom 31. Juli 2025** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 6 und Art. 90 Abs. 1 Satz 2, Art. 95 Satz 3 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Satzung mit Wirkung für und gegen die Universität Jena und das KIT: 
 
 ## **Inhaltsverzeichnis** 
 
-|§ 1 Geltungsbereich, Zweck des Qualifikationsfeststellungsverfahrens ................................. 1|§ 1 Geltungsbereich, Zweck des Qualifikationsfeststellungsverfahrens ................................. 1|
-|---|---|
-|§ 2 Qualifikationsvoraussetzung ............................................................................................ 2|§ 2 Qualifikationsvoraussetzung ............................................................................................ 2|
-|§ 3 Zugangskommission ........................................................................................................ 3|§ 3 Zugangskommission ........................................................................................................ 3|
-|§ 4 Antrag auf Gewährung des Zugangs zum Studiengang ................................................... 3|§ 4 Antrag auf Gewährung des Zugangs zum Studiengang ................................................... 3|
-|§ 5 Inhalt und Ablauf des Qualifikationsfeststellungsverfahrens ............................................ 4|§ 5 Inhalt und Ablauf des Qualifikationsfeststellungsverfahrens ............................................ 4|
-|§ 6 Erste Stufe des Qualifikationsfeststellungsverfahrens ..................................................... 4|§ 6 Erste Stufe des Qualifikationsfeststellungsverfahrens ..................................................... 4|
-|§ 7 Zweite Stufe des Qualifikationsfeststellungsverfahrens ................................................... 6|§ 7 Zweite Stufe des Qualifikationsfeststellungsverfahrens ................................................... 6|
-|§ 8 Dritte Stufe des Qualifikationsfeststellungsverfahrens ..................................................... 6|§ 8 Dritte Stufe des Qualifikationsfeststellungsverfahrens ..................................................... 6|
-|§ 9 Niederschrift .................................................................................................................... 7|§ 9 Niederschrift .................................................................................................................... 7|
-|§ 10 Nachteilsausgleich ......................................................................................................... 7|§ 10 Nachteilsausgleich ......................................................................................................... 7|
-|§ 11 Wiederholung ................................................................................................................ 8|§ 11 Wiederholung ................................................................................................................ 8|
-|§ 12 Immatrikulation .............................................................................................................. 8|§ 12 Immatrikulation .............................................................................................................. 8|
-|§ 13 Inkrafttreten ................................................................................................................... 9|§ 13 Inkrafttreten ................................................................................................................... 9|
-
-
+§ 1 Geltungsbereich, Zweck des Qualifikationsfeststellungsverfahrens ................................. 1 § 2 Qualifikationsvoraussetzung ............................................................................................ 2 § 3 Zugangskommission ........................................................................................................ 3 § 4 Antrag auf Gewährung des Zugangs zum Studiengang ................................................... 3 § 5 Inhalt und Ablauf des Qualifikationsfeststellungsverfahrens ............................................ 4 § 6 Erste Stufe des Qualifikationsfeststellungsverfahrens ..................................................... 4 § 7 Zweite Stufe des Qualifikationsfeststellungsverfahrens ................................................... 6 § 8 Dritte Stufe des Qualifikationsfeststellungsverfahrens ..................................................... 6 § 9 Niederschrift .................................................................................................................... 7 § 10 Nachteilsausgleich ......................................................................................................... 7 § 11 Wiederholung ................................................................................................................ 8 § 12 Immatrikulation .............................................................................................................. 8 § 13 Inkrafttreten ................................................................................................................... 9 
 
 ## **§ 1 Geltungsbereich, Zweck des Qualifikationsfeststellungsverfahrens** 
 
 (1)[1] Die Aufnahme des Studiums im Masterstudiengang Photon Science and Technology im ersten oder höheren Fachsemester setzt das Bestehen des Qualifikationsfeststellungsverfahrens nach dieser Satzung voraus.[2] Im Qualifikationsfeststellungsverfahren sollen die Studienbewerberinnen und Studienbewerber nachweisen, dass sie den besonderen qualitativen Anforderungen des Studiengangs nach Abs. 2 entsprechen, über die notwendige fachliche Vorqualifikation für den Masterstudiengang verfügen und dadurch einen erfolgreichen Studienverlauf erwarten lassen. 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] Der Studiengang verfolgt das Ziel, Bewerberinnen und Bewerbern eine an den aktuellsten Themen der weltweiten Spitzenforschung auf dem Feld der Photonik orientierte Ausbildung auf Basis der Expertise dreier führender Universitäten zu ermöglichen und optimal auf eine weitere Karriere und eigene Forschungsleistungen im wissenschaftlichen Sektor vorzubereiten.[2] Daher bestehen hohe Anforderungen an die Qualifikation von Bewerberinnen und Bewerbern für einen erfolgreichen Abschluss des Studiengangs.[3] Dies umfasst das eigene Vorwissen in relevanten Fächern, die Fähigkeit zur Selbstorganisation in einem breiten Bildungsangebot, den Reifegrad im wissenschaftlichen Denken und Arbeiten und die Kooperationsfähigkeit in einem interkulturellen und diversen Umfeld.[4] Das Qualifikationsfeststellungsverfahren dient dem Ziel, bei Bewerberinnen und Bewerbern das Vorliegen dieser individuellen Voraussetzungen für den erfolgreichen Abschluss des Studiengangs zu überprüfen. 
 
@@ -64,6 +57,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 6 und Art. 90 Abs. 1 Satz 2, Art. 95 Sa
 3. das Bestehen des in dieser Satzung geregelten Qualifikationsfeststellungsverfahrens. 
 
 - 2Bewerberinnen und Bewerber dürfen den Studiengang Photon Science and Technology oder einen mit diesem im wesentlichen identischen Studiengang einer anderen Hochschule nicht endgültig nicht bestanden haben. 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 3 Zugangskommission** 
 
@@ -93,6 +90,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 6 und Art. 90 Abs. 1 Satz 2, Art. 95 Sa
 
 (3)[1] Die Teilnahme am Qualifikationsfeststellungsverfahren nach §§ 5 ff. setzt vorbehaltlich der Regelung in Satz 2 die vollständige und fristgerechte Abgabe der in Abs. 2 Satz 1 genannten Unterlagen im Bewerbungsportal voraus.[2] Liegen die Empfehlungsschreiben nach Abs. 2 Satz 1 Nr. 4 nicht spätestens bis zum Ende des Bewerbungsschlusses vor, kann die Zugangskommission die Bewerberin bzw. den Bewerber auffordern, das Empfehlungsschreiben direkt zu übermitteln. 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4)[1] Abweichend von Abs. 3 können Bewerberinnen und Bewerber, die in einem Bachelorstudiengang immatrikuliert sind, zum Qualifikationsfeststellungsverfahren zugelassen werden, wenn zu erwarten ist, dass sie den Bachelorabschluss bis zum Beginn des Masterstudiengangs erreicht haben; Bewerberinnen und Bewerber müssen bereits mindestens 100 ECTS-Punkte erreicht haben.[2] In diesem Fall sind die bis zum Zeitpunkt des Bewerbungsschlusses erbrachten Leistungen dem Qualifikationsfeststellungsverfahren zugrunde zu legen; eine spätere Neubewertung nach erfolgreichem Abschluss des Bachelorstudiengangs erfolgt nicht. 
 
 (5)[1] Mit den Bewerberinnen und Bewerbern, die die erforderlichen Voraussetzungen erfüllen, wird das Qualifikationsfeststellungsverfahren gemäß § 5 ff. durchgeführt.[2] Bewerberinnen und Bewerber, die die erforderlichen Voraussetzungen für die Teilnahme am Qualifikationsfeststellungsverfahren nicht erfüllen, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
@@ -112,6 +113,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 6 und Art. 90 Abs. 1 Satz 2, Art. 95 Sa
 2. hervorragende Leistungen in den Bereichen Mathematik, Elektrodynamik und Optik (0 bis 15 Punkte gemäß Abs. 3), 
 
 3. zwei Empfehlungsschreiben gemäß § 4 Abs. 2 Satz 1 Nr. 4 von Personen, welche die Bewerberin bzw. den Bewerber bereits fachlich betreut haben (0 bis 10 Punkte gemäß Abs. 4), 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 4. andere zusätzliche Faktoren, die die besondere Eignung für den Masterstudiengang Photon Science and Technology belegen können, bspw. die in Lebenslauf und Anschreiben erläuterten und gemäß Abs. 5 nachgewiesenen Beteiligungen an Forschungsarbeiten, Veröffentlichungen, Patenten, Konferenzen, Workshops, Praktika, Wettbewerben und erlangte Stipendien und Preise (0 bis 10 Punkte gemäß Abs. 5). 
 
@@ -150,6 +155,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 6 und Art. 90 Abs. 1 Satz 2, Art. 95 Sa
 
 (5) Die Bewertung anderer Faktoren, die die Eignung für den Masterstudiengang Photon Science and Technology belegen können nach Abs. 1 Satz 2 Nr. 4 erfolgt anhand folgender Maßstäbe: 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 1. Nachweis mindestens einer forschungspraktischen Arbeit mit hohem eigenverantwortlichem Arbeitsanteil, die außerhalb des Regelstudiums erstellt wurde: 4 Punkte, 
 
 2. Nachweis einer mindestens zweiwöchigen Erfahrung in einem von dem Land, in dem die Bewerberin bzw. der Bewerber den ersten berufsqualifizierenden Abschluss erworben hat, abweichenden Land in Form eines Praktikums, Workshops o.ä.: 2 Punkte, 
@@ -174,6 +183,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 6 und Art. 90 Abs. 1 Satz 2, Art. 95 Sa
 
 (2)[1] Der Termin des Auswahlgesprächs wird den Bewerberinnen und Bewerbern mindestens eine Woche vorher bekannt gegeben.[2] Ist die Bewerberin bzw. der Bewerber 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhindert, so kann auf begründeten Antrag ein Nachholtermin anberaumt werden.[3] Das Auswahlgespräch wird als Einzelprüfung mit einem Umfang von ca. 30 Minuten durchgeführt. 4Das Auswahlgespräch kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden.[5] Es wird von zwei Mitgliedern der Zugangskommission nach § 3 durchgeführt. 
 
 (3)[1] In dem Auswahlgespräch nach Abs. 2 halten die Bewerberinnen und Bewerber zunächst eine ca. zehnminütige Präsentation über ein Forschungsprojekt, welches sie in der Vergangenheit bearbeitet haben.[2] In dem darauffolgenden Gespräch erläutern sie ihre Forschung und gehen näher auf ihren Werdegang und ihre interkulturellen Kompetenzen ein.[3] Die Bewerberinnen und Bewerber werden hinsichtlich ihres Reifegrades des wissenschaftlichen Denkens und Arbeitens und ihrer Kooperationsfähigkeit in einem interkulturellen und diversen Umfeld mit einer Punktzahl zwischen 0 und 10 Punkten wie folgt bewertet: 
@@ -195,6 +208,10 @@ aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhindert,
 ## **§ 10 Nachteilsausgleich** 
 
 1Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht in der Lage zu sein, das Qualifikationsfeststellungsverfahren ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende der jeweiligen Zugangskommission gestattet, den Nachteil durch entsprechende Verlängerung der Bearbeitungszeit oder eine andere Gestaltung des Qua- 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 lifikationsfeststellungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der Bewertungskriterien gehören, nicht verzichtet werden darf.[3] Sätze 1 und 2 gelten entsprechend für Studierende in besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer länger andauernden Krankheit oder Behinderung im Sinne des Satz 2 vergleichbar sind. 
 
@@ -254,6 +271,10 @@ lifikationsfeststellungsverfahrens auszugleichen, wobei auf den Nachweis von Kom
 
    - g) Bescheid über die Gewährung des Zugangs zum Studiengang gemäß § 8 Abs. 4 Satz 1. 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 2Es gelten die von der jeweiligen Hochschule festgesetzten Formerfordernisse und Fristen, die auf der Homepage des Studiengangs bekannt gegeben werden. 
 
 (3)[1] Am KIT kann die Immatrikulation unter dem Vorbehalt zu gesichert werden, dass der endgültige Nachweis des Bachelorabschlusses unverzüglich, spätestens jedoch bis zwei Monate nach Beginn des Semesters, für das die Immatrikulation beantragt wurde, nachgereicht wird.[2] Wird der Nachweis nicht fristgerecht erbracht, erlischt die Zusicherung und eine Immatrikulation erfolgt nicht. 
@@ -267,6 +288,10 @@ lifikationsfeststellungsverfahrens auszugleichen, wobei auf den Nachweis von Kom
 ## **§ 13 Inkrafttreten** 
 
 1Diese Satzung tritt am 1. Oktober 2025 in Kraft. 2Sie gilt erstmals für eine Aufnahme des Studiums zum Wintersemester 2026/2027. 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 16. Juli 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 31. Juli 2025 Erlangen, den 31. Juli 2025 FAU gez. 
 

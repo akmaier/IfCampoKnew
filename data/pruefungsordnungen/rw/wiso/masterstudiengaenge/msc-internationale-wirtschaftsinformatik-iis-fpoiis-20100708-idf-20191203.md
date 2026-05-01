@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Internationale Wirtschaftsinformatik IIS FPOIIS 20100708 i.d.F. 20191203.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/konsolidierte_Fassungen/MSc_Internationale_Wirtschaftsinformatik_IIS_FPOIIS_20100708_idF_20191203.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:31:58+00:00
+scraped_at: 2026-05-01T09:38:30+00:00
 page_count_chars: 24073
 ---
 

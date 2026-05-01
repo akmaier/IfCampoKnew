@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.06.2006 i.d.F. 27.04.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_Ethik-Textkulturen-Master-Elite.APRIL2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:41:23+00:00
+scraped_at: 2026-05-01T08:49:31+00:00
 page_count_chars: 15688
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2. März 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/Änderungssatzungen/2AeSa_FPO_BA_MA_Geowiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:50:17+00:00
+scraped_at: 2026-05-01T07:40:50+00:00
 page_count_chars: 29043
 ---
 

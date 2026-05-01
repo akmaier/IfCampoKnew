@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Dezember 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/12AeSa_BA-MA_EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-04-25T16:55:22+00:00
+scraped_at: 2026-05-01T10:07:07+00:00
 page_count_chars: 2290
 ---
 

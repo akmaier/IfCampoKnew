@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Japanologie FPO BA Japanologie 20230615.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Japanologie/konsolidierte_Fassungen/2-Fach-BA_Japanologie_FPO_BA_Japanologie_20230615.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:57:55+00:00
+scraped_at: 2026-05-01T09:02:58+00:00
 page_count_chars: 13245
 ---
 

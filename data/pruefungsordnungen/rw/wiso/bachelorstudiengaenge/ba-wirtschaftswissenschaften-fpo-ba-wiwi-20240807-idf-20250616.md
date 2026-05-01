@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "BA Wirtschaftswissenschaften FPO BA WiWi 20240807 i.d.F. 20250616.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftswissenschaften/konsolidierte_Fassungen/BA_Wirtschaftswissenschaften_FPO_BA_WiWi_20240807_idF_20250616.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:15:55+00:00
-page_count_chars: 33472
+scraped_at: 2026-05-01T09:27:53+00:00
+page_count_chars: 27286
 ---
 
 # BA Wirtschaftswissenschaften FPO BA WiWi 20240807 i.d.F. 20250616.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftswissenschaften/konsolidierte_Fassungen/BA_Wirtschaftswissenschaften_FPO_BA_WiWi_20240807_idF_20250616.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/>
+
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
 
 # **Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftswissenschaften am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA WiWi – Vom 7. August 2024** 
 
@@ -48,6 +52,10 @@ Aufgrund von 9 Satz 1 i. V. m. Art. 80 Abs. 1, Art. 84 Abs. 2 Satz 1, Art. 88 Ab
 
 1 
 
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
 1. FACT-S 
 
 2. Nachhaltigkeit 
@@ -74,6 +82,10 @@ Aufgrund von 9 Satz 1 i. V. m. Art. 80 Abs. 1, Art. 84 Abs. 2 Satz 1, Art. 88 Ab
 
 2 
 
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
 mehreren personalwissenschaftlichen oder pädagogisch-didaktischen Schwerpunktbereichen thematisch zu vertiefen.[2] Dies umfasst beispielsweise Qualifikationen aus den Bereichen der betrieblichen Aus- und Weiterbildung.[3] Zweitens wird der Transfer theoretischer Inhalte auf praktische Problemstellungen angestrebt. 
 
 (6)[1] Das übergeordnete Qualifikationsziel des Schwerpunktbereichs Wirtschafts- und Betriebspädagogik III liegt darin, es den Studierenden zu ermöglichen, sich in mehreren pädagogisch-didaktischen Schwerpunktbereichen thematisch zu vertiefen.[2] Dies umfasst beispielsweise Qualifikationen aus den Bereichen Bildungssystem und Organisation der beruflichen Schulen.[3] Zweitens wird der Transfer theoretischer Inhalte auf praktische Problemstellungen im Umfeld an beruflichen Schulen angestrebt. 
@@ -91,6 +103,10 @@ mehreren personalwissenschaftlichen oder pädagogisch-didaktischen Schwerpunktbe
 (2)[1] Das Ziel der Studienrichtung „FACT-S“ ist die interdisziplinäre Vermittlung von fachlichen und persönlichen Kompetenzen in Finance, Auditing, Controlling und Taxation sowie ergänzenden Studieninhalten („Supplements“).[2] Diese Inhalte sind für berufliche Tätigkeiten in Unternehmen und öffentlichen Institutionen relevant und werden zunehmend durch Megatrends wie die Digitalisierung und Nachhaltigkeit geprägt.[3] Die Studienrichtung „FACT-S“ bereitet Studierende auf zukunftsträchtige Berufsfelder im Finanz- und Rechnungswesen von Unternehmen (Industrie, Banken und Versicherun- 
 
 3 
+
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
 
 gen), bei Steuer- und Wirtschaftsprüfungsgesellschaften und in der Unternehmensberatung sowie in Aufsichtsbehörden und internationalen Organisationen vor.[4] Eine starke Vernetzung mit Praxiskooperationspartnern und die Integration von neuesten Forschungserkenntnissen bereitet für die „FACT-S“-Studierenden eine tragfähige Basis für den Berufseinstieg oder weiterführende Masterprogramme vor. 
 
@@ -124,7 +140,11 @@ gen), bei Steuer- und Wirtschaftsprüfungsgesellschaften und in der Unternehmens
 
 4 
 
-## 10. Berufssprache Deutsch 
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
+10. Berufssprache Deutsch 
 
 11. Ethik 
 
@@ -146,6 +166,10 @@ gen), bei Steuer- und Wirtschaftsprüfungsgesellschaften und in der Unternehmens
 
 5 
 
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
 der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPO LA Ev. Rel** . – in der jeweils geltenden Fassung. 
 
 (8)[1] Im Zweitfach Sport werden Basiskompetenzen in den Bereichen Sportwissenschaft, Sportpädagogik und Sportdidaktik gelegt und die Lehrkompetenz in Mannschafts- und Einzelsportarten geschult.[2] Art und Umfang der Prüfung richten sich nach den Prüfungsformen im Unterrichtsfach Sport für das Realschullehramt gemäß der Fachstudien- und Prüfungsordnung für das Fach Sport im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPO LA Sport** – in der jeweils geltenden Fassung. 
@@ -164,6 +188,10 @@ der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPO LA Ev. R
 
 6 
 
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
 (15)[1] Die Module setzen sich in der Regel aus zwei Lehrveranstaltungen (Vorlesung oder Übung oder Seminar) im Umfang von je 2 SWS zusammen.[2] Die Lehrveranstaltungen des Zweitfachs Sonderpädagogik (Abs. 14) finden teilweise an der Julius-Maximilians-Universität Würzburg statt.[3] Näheres regelt das Modulhandbuch. 
 
 ## **§ 6 Inkrafttreten** 
@@ -176,70 +204,100 @@ der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPO LA Ev. R
 
 7 
 
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
 ## **Anlage: Studienverlaufsplan Bachelorstudiengang Wirtschaftswissenschaften** 
 
-|**Modulbezeichnung**|**Lehr-**<br>**veran-**<br>**staltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|**Modulbezeichnung**|**Lehr-**<br>**veran-**<br>**staltung**|||||**Ge-**<br>**samt**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Art und Umfang der**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü/T**|**S**|**P**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
-|**Pflichtbereich**<br>~~**|**~~|||||||||||||||
+||||**SWS**||||||||||||
+|||||||||**in ECTS-Punkten **|||||||
+||||||||||||||||
+|||**V**|||||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|**5.**|**6.**|**Prüfung**||
+||||**Ü/T**|**S**|**P**|**ECTS**|||||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+||||||||||||||||
+|**Pflichtbereich**|||||||||||||||
 |**Übersicht/Welt des Unternehmens**|||||||||||||||
 |Perspektiven der Wirtschaftswissenschaften<br>(GOP)|1)|0-4|0-4|0-4||**5**|5||||||2)|0|
 |Unternehmen, Märkte, Volkswirtschaften<br>(GOP)|V|3||||**5**|5||||||Klausur|0,5|
-|Unternehmer und Unternehmen (GOP)<br>~~oe~~<br>||V<br>~~oe~~|1<br>~~oe~~<br>~~|~~|~~oe~~<br>~~|~~|~~oe~~|~~oe~~|**5**<br>~~oe~~|5<br>~~oe~~|~~oe~~|~~oe~~|~~oe~~|~~oe~~|~~oe~~|Klausur (70 %) und<br>Präsentation (30 %)<br>~~oe~~|0,5<br>~~oe~~|
-||Ü<br>~~oe~~|~~oe~~<br>~~|~~|2<br>~~oe~~<br>~~|~~|~~oe~~|~~oe~~|||~~oe~~|~~oe~~|~~oe~~|~~oe~~|~~oe~~|||
-|**Data Science**<br>|<br>~~|~~<br>~~eereseeeeeeeee~~<br>~~rr~~<br>~~eees~~|||||||||||||||
-|Data Science: Machine Learning und Data<br>Driven Business (GOP)<br>~~ee~~|V<br>~~res~~<br>~~ee~~|2<br>~~ee~~|~~eee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|**5**<br>~~ee~~<br>|5<br>~~rr~~<br>~~re~~|~~rr~~<br>~~ee~~|~~rr~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~e~~<br>~~ee~~|~~e~~<br>~~ee~~|Klausur (50 %) und<br>Projektbericht (50 %)<br>~~es~~<br>~~ee~~<br>~~ees~~|0,5|
-||Ü<br>~~res~~<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|2<br>~~eee~~<br>~~ee~~<br>~~eer~~|~~ee~~<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~<br>~~ee~~|||~~rr~~<br>~~ee~~<br>~~re~~|~~rr~~<br>~~ee~~<br>~~re~~|~~ee~~<br>~~ee~~<br>~~re~~|~~e~~<br>~~ee~~<br>~~ee~~|~~e~~<br>~~ee~~<br>~~ee~~|||
-|Data Science: Datenauswertung (GOP)<br>~~ee ~~<br>~~res~~|V<br> ~~res ~~<br>~~ee~~<br>~~res~~<br>~~ee~~|2<br> ~~ee ~~<br>~~res~~<br>~~ee~~|~~eee ~~<br>~~ee~~<br>~~res~~<br>~~eer~~<br>~~ee~~|~~ee ~~<br>~~ee~~<br>~~res~~<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~<br>~~res~~<br>~~ee~~<br>~~ee~~|**5**<br>~~ee~~<br>~~res~~<br><br>~~ee~~<br>~~ee~~|5<br>~~rr~~<br>~~res~~<br>~~re~~|~~rr~~<br>~~ee ~~<br>~~res~~<br>~~re~~<br>~~ee~~|~~rr~~<br> ~~ee ~~<br>~~res~~<br>~~re~~<br>~~ee~~|~~ee ~~<br> ~~ee~~<br>~~res~~<br>~~re~~<br>~~ee~~|~~e~~<br>~~ee~~<br>~~res~~<br>~~ee~~<br>~~ee~~|~~e~~<br>~~ee~~<br>~~res~~<br>~~ee~~<br>~~ee~~|Klausur<br>~~es~~<br>~~ee~~<br>~~res~~<br>~~ees~~<br>~~ee~~<br>~~eC~~|0,5<br>~~res~~<br>~~eC~~|
-||Ü<br>~~res~~<br>~~ee~~<br>~~ee~~|~~res~~<br>~~ee~~<br>~~ee~~|4<br>~~res~~<br>~~eer~~<br>~~ee~~<br>~~ee~~|~~res~~<br>~~ee~~<br>~~ee~~<br>~~ee~~|~~res~~<br>~~ee~~<br>~~ee~~<br>~~ee~~|||~~res~~<br>~~re~~<br>~~ee~~<br>~~ee~~|~~res~~<br>~~re~~<br>~~ee~~<br>~~ee~~|~~res~~<br>~~re~~<br>~~ee~~<br>~~ee~~|~~res~~<br>~~ee~~<br>~~ee~~<br>~~ee eC~~|~~res~~<br>~~ee~~<br>~~ee~~<br>~~eC~~|||
-|Data Science: Statistik (GOP)<br>~~res~~<br>~~eee~~|V<br>~~res~~<br>~~ee~~<br>~~eee~~<br>~~ee~~|2<br>~~res~~<br>~~ee ~~<br>~~eee~~<br>~~ee~~|~~res~~<br> ~~eer ~~<br>~~ee~~<br>~~eee~~<br>~~ee~~|~~res~~<br> ~~ee ~~<br>~~ee~~<br>~~eee~~<br>~~ee~~|~~res~~<br> ~~ee ~~<br>~~ee~~<br>~~eee~~<br>~~ee~~|**5**<br>~~res~~<br> <br>~~ee~~<br>~~eee~~<br>~~ee~~|5<br>~~res~~<br> ~~re~~<br>~~eee~~|~~res~~<br>~~re~~<br>~~ee ~~<br>~~eee~~<br>~~ee~~<br>~~ee~~|~~res~~<br>~~re~~<br> ~~ee ~~<br>~~eee~~<br>~~ee~~<br>~~ee~~|~~res~~<br>~~re ~~<br> ~~ee~~<br>~~eee~~<br>~~ee~~<br>~~ee~~|~~res~~<br> ~~ee~~<br>~~ee~~<br>~~eee~~<br>~~ee eC~~<br>~~ee~~|~~res~~<br>~~ee~~<br>~~ee~~<br>~~eee~~<br>~~eC~~<br>~~ee~~|Klausur<br>~~res~~<br>~~ees~~<br>~~ee~~<br>~~eee~~<br>~~eC~~|0,5<br>~~res~~<br>~~eee~~<br>~~eC~~|
-||Ü<br>~~eee~~<br>~~ee~~|~~eee~~<br>~~ee~~|4<br>~~eee~~<br>~~ee~~|~~eee~~<br>~~ee~~|~~eee~~<br>~~ee~~|||~~eee~~<br>~~ee~~<br>~~ee~~|~~eee~~<br>~~ee~~<br>~~ee~~|~~eee~~<br>~~ee~~<br>~~ee~~|~~eee~~<br>~~ee eC~~<br>~~ee~~|~~eee~~<br>~~eC~~<br>~~ee~~|||
-|Data Science: Datenmanagement und –<br>analyse (GOP)<br>~~eee~~<br>~~a~~<br>||V<br>~~ee~~<br>~~eee~~<br>~~ee~~<br>|2<br>~~ee~~<br>~~eee~~<br>~~ee~~<br>|~~ee~~<br>~~eee~~<br>~~ee~~<br>|~~ee~~<br>~~eee~~<br>~~ee~~<br>|~~ee~~<br>~~eee~~<br>~~ee~~<br>|**5**<br>~~ee~~<br>~~eee~~<br>~~ee~~<br>~~ee~~|~~eee~~<br>~~ee~~|5<br>~~ee~~<br>~~ee ~~<br>~~eee~~<br>ee|~~ee~~<br> ~~ee ~~<br>~~eee~~<br>ee|~~ee~~<br> ~~ee~~<br>~~eee~~|~~ee eC~~<br>~~ee~~<br>~~eee~~|~~eC~~<br>~~ee~~<br>~~eee~~|Klausur<br>~~eC~~<br>~~eee~~|0,5<br>~~eC~~<br>~~eee~~|
-||Ü<br>~~eee~~<br>~~ee~~<br>~~cece~~|~~eee~~<br>~~ee~~<br>~~eee ee~~|3<br>~~eee~~<br>~~ee~~<br>~~ee~~|~~eee~~<br>~~ee~~<br>~~ee eee~~|~~eee~~<br>~~ee~~<br>~~eee~~||~~eee~~<br>~~ee~~<br>~~ee~~||~~eee~~<br>ee<br>~~es ee~~|~~eee~~<br>~~es ee~~|~~eee~~<br>~~es ee~~|~~eee~~<br>~~es ee~~|||
-|Data Science: Ökonometrie3)<br>~~a ~~<br>||V<br>~~ee~~<br>~~cece~~<br>~~ee~~|2<br>~~ee~~<br>~~eee ee~~<br>~~ee~~|~~ee~~<br>~~ee~~<br>~~eee~~|~~ee~~<br>~~ee eee~~<br>~~eee~~|~~ee~~<br>~~eee~~<br>~~eee~~|**5**<br>~~ee~~<br>~~ee~~<br>~~eee~~|~~ee~~<br>~~ee~~<br>~~|~~|53)<br> ee|ee<br>~~es ee~~<br>~~|~~|~~es ee~~<br>~~| |~~|~~es ee~~<br>~~|~~|~~es ee~~<br>~~|~~|Klausur|1|
-||Ü<br>~~ee~~<br> ~~cece~~<br>~~ee~~|~~ee~~<br>~~eee ee~~<br>~~ee~~|4<br>~~ee~~<br>~~ee~~<br>~~eee~~|~~ee~~<br>~~ee eee~~<br>~~eee~~|~~ee~~<br>~~eee~~<br>~~eee~~||~~ee ~~<br>~~ee~~<br>~~|~~|||~~es ee~~<br>~~| |~~|~~es ee~~<br>~~|~~|~~es ee~~<br>~~|~~|||
-|**BWL/Unternehmen und ihr Geschäft**<br> ~~cece eee ee ee eee~~<br>~~ee~~<br>~~es ee~~<br>|<br>~~ee ee~~<br>~~eee~~<br>~~|~~<br>~~| |~~<br>~~a~~<br>~~aa~~|||||||||||||||
-|Marketing3)<br>~~a~~|V<br>~~a~~<br>~~ee~~|2<br><br>~~ee~~|~~a~~<br>~~eee~~|~~a~~<br>~~eee~~|~~a~~<br>~~eee~~|**5**<br>~~eee~~|~~ee~~||~~ee~~|53)<br>~~ee~~|||Klausur|1|
-||Ü<br>~~a~~<br>~~ee~~<br>~~ee~~|~~ee~~|2<br>~~a~~<br>~~eee~~|~~a~~<br>~~eee~~|~~a~~<br>~~eee~~||~~ee~~<br>~~a~~||~~ee~~||||||
-|Jahresabschluss<br>~~a~~<br>~~ee~~<br>~~eS~~|V<br>~~a~~<br>~~ee ~~<br>~~ee~~<br>~~ee~~|2<br><br> ~~ee~~<br>~~ee~~|~~a~~<br>~~eee~~<br>~~ee~~<br>~~ee~~|~~a~~<br>~~eee~~<br>~~ee~~<br>~~ee~~|~~a~~<br>~~eee~~<br>~~ee~~<br>~~ee~~|**5**<br>~~eee~~<br>~~ee~~<br>~~ee~~<br>~~|~~|~~ee~~<br>~~ee~~<br>~~a~~<br>~~|~~|~~ee~~|5<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~<br>~~|~~|~~ee~~<br>~~|~~|~~ee~~<br>|Klausur<br>~~ee~~|1<br>~~ee~~|
-||Ü<br>~~a ~~<br>~~ee~~<br>~~ee~~|<br>~~ee~~|2<br> ~~a~~<br>~~ee~~<br>~~ee~~|~~a~~<br>~~ee~~<br>~~ee~~|~~a~~<br>~~ee~~<br>~~ee~~||~~ee~~<br>~~a~~<br>~~|~~||||~~ee~~<br>~~|oT~~|~~ee~~<br>~~oT~~|||
-|Produktion, Logistik, Beschaffung<br>~~eS~~<br>||V<br>~~ee~~<br>~~ee~~|2<br>~~ee ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|**5**<br>~~ee~~<br>~~|~~|~~a~~<br>~~|~~<br>~~ee~~|~~ee~~|5<br>|~~|~~<br>~~ee~~|~~|oT~~<br>~~ee~~|~~oT~~<br>~~ee~~|Klausur|1|
-||Ü<br>~~ee~~<br>~~ee~~|~~ee ee~~|2<br>~~ee~~|~~ee~~|~~ee~~||~~a~~<br>~~ee~~|~~ee~~||~~ee~~|~~oT~~<br>~~ee~~|~~oT~~<br>~~ee~~|||
-|**VWL/Unternehmen und ihr Umfeld**<br>~~oT~~<br>~~eS~~<br>|<br>~~ee ee~~<br>~~ee ee ee~~|||||||||||||||
-|Makroökonomie3)<br>~~eS~~<br>~~a~~|V<br>~~ee~~|2<br>~~a~~|~~a~~<br>~~ee~~|~~a~~<br>~~ee~~|~~a~~<br>~~ee~~|**5**<br>~~a~~<br>~~ee~~|~~ee~~|53)<br>~~ee~~|||~~oT~~|~~oT~~|Klausur|1|
-||Ü<br>~~ee~~|~~a~~|2<br>~~a~~<br>~~ee~~|~~a~~<br>~~ee~~|~~a~~<br>~~ee~~||~~ee~~||||||||
+|Unternehmer und Unternehmen (GOP)|V|1||||**5**|5||||||Klausur (70 %) und<br>Präsentation (30 %)|0,5|
+||Ü||2||||||||||||
+|**Data Science**|||||||||||||||
+|Data Science: Machine Learning und Data<br>Driven Business (GOP)|V|2||||**5**|5||||||Klausur (50 %) und<br>Projektbericht (50 %)|0,5|
+||Ü||2||||||||||||
+|Data Science: Datenauswertung (GOP)|V|2||||**5**|5||||||Klausur|0,5|
+||Ü||4||||||||||||
+|Data Science: Statistik (GOP)|V|2||||**5**|5||||||Klausur|0,5|
+||Ü||4||||||||||||
+|Data Science: Datenmanagement und –<br>analyse (GOP)|V|2||||**5**||5|||||Klausur|0,5|
+||Ü||3||||||||||||
+|Data Science: Ökonometrie3)|V|2||||**5**||53)|||||Klausur|1|
+||Ü||4||||||||||||
+|**BWL/Unternehmen und ihr Geschäft**|||||||||||||||
+|Marketing3)|V|2||||**5**||||53)|||Klausur|1|
+||Ü||2||||||||||||
+|Jahresabschluss|V|2||||**5**|||5||||Klausur|1|
+||Ü||2||||||||||||
+|Produktion, Logistik, Beschaffung|V|2||||**5**|||5||||Klausur|1|
+||Ü||2||||||||||||
+|**VWL/Unternehmen und ihr Umfeld**|||||||||||||||
+|Makroökonomie3)|V|2||||**5**||53)|||||Klausur|1|
+||Ü||2||||||||||||
 
 
 
 8 
 
-|**Modulbezeichnung**<br>~~ee~~|**Lehr-**<br>**veran-**<br>**staltung**<br>~~ee~~|**SWS**<br>~~ee~~|**SWS**<br>~~ee~~|**SWS**<br>~~ee~~|**SWS**<br>~~ee~~|**Ge-**<br>**samt**<br>**ECTS**<br>~~ee~~|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **<br>~~ee~~|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **<br>~~ee~~|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **<br>~~ee~~|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **<br>~~ee~~|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **<br>~~ee~~|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **<br>~~ee~~|**Art und Umfang der**<br>**Prüfung**<br>~~ee~~|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**<br>~~ee~~|
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehr-**<br>**veran-**<br>**staltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Art und Umfang der**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**<br>~~ee~~|**Ü/T**<br>~~ee~~|**S**<br>~~ee~~|**P**<br>~~ee~~||**1.**<br>**Sem.**<br>~~ee~~|**2.**<br>**Sem.**<br>~~ee~~|**3.**<br>**Sem.**<br>~~ee~~|**4.**<br>**Sem.**<br>~~ee~~|**5.**<br>**Sem.**<br>~~ee~~|**6.**<br>**Sem.**<br>~~ee~~|||
-|Mikroökonomie (GOP)<br>~~ee~~|V<br>~~ee~~<br>~~ee~~|2<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|**5**<br>~~ee~~<br>~~ee~~<br>~~|~~|~~ee~~<br>~~||~~|5<br>~~ee~~|~~ee~~<br>~~a~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|Klausur<br>~~ee~~<br>~~ee~~|0,5<br>~~ee~~|
-||Ü<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|2<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~||~~ee~~<br>~~||~~||~~ee~~<br>~~a~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|||
-|Wirtschaft und Staat<br>~~ee~~<br>~~===~~|V<br>~~ee~~<br>~~ee ~~<br>~~===~~|2<br>~~ee~~<br> ~~ee ~~<br>~~===~~|~~ee~~<br> ~~ee~~<br>~~===~~|~~ee~~<br>~~ee~~<br>~~===~~|~~ee~~<br>~~ee~~<br>~~===~~|**5**<br>~~ee~~<br>~~ee~~<br>~~|~~<br>~~===~~|~~ee~~<br>~~| |~~<br>~~===~~|~~ee~~<br>~~===~~|5<br>~~ee~~<br>~~a~~<br>~~===~~|~~ee~~<br>~~ee ~~<br>~~===~~|~~ee~~<br> ~~ee~~<br>~~===~~|~~ee~~<br>~~ee~~<br>~~===~~|Klausur<br>~~ee~~<br>~~ee~~<br>~~===~~|1<br>~~ee~~<br>~~===~~|
-||Ü<br>~~ee~~<br>~~===~~<br>~~Pf~~|~~ee~~<br>~~===~~<br>~~Pf~~|2<br>~~ee~~<br>~~===~~<br>~~Pf~~|~~ee~~<br>~~===~~<br>~~Pf~~|~~ee~~<br>~~===~~<br>~~Pf~~||~~ee~~<br>~~===~~<br>~~Pf~~|~~ee~~<br>~~===~~<br>~~Pf~~||~~ee~~<br>~~===~~<br>~~Pf~~|~~ee~~<br>~~===~~<br>~~Pf~~|~~ee~~<br>~~===~~<br>~~Pf~~|||
+|||||||||**in ECTS-Punkten **|||||||
+|||**V**|||||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|**5.**|**6.**|**Prüfung**||
+||||**Ü/T**|**S**|**P**|**ECTS**|||||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+||||||||||||||||
+|Mikroökonomie (GOP)|V|2||||**5**||5|||||Klausur|0,5|
+||Ü||2||||||||||||
+|Wirtschaft und Staat|V|2||||**5**|||5||||Klausur|1|
+||Ü||2||||||||||||
 |**Studium Integrale**|||||||||||||||
-|Mathematik (GOP)<br>~~a~~<br>~~ee~~|V<br>~~a~~<br>~~ee~~<br>|2<br>~~a~~<br>~~ee~~<br>|~~a~~<br>~~ee~~<br>|~~a~~<br>~~ee~~<br>|~~a~~<br>~~ee~~<br>|**5**<br>~~a~~<br>~~|~~<br>|~~a~~<br>~~||~~|5<br>~~a~~|~~a~~<br>~~**f**~~|~~a~~<br>~~**f**F~~|~~a~~|~~a~~|Klausur<br>~~a~~<br>~~ee~~|0,5<br>~~a~~<br>~~ee~~|
-||Ü<br>~~a~~<br>~~ee~~<br>|~~a~~<br>~~ee~~<br>|2<br>~~a~~<br>~~ee~~<br>|~~a~~<br>~~ee~~<br>|~~a~~<br>~~ee~~<br>||~~a~~<br>~~||~~|||~~a~~<br>~~**f**F~~|~~a~~<br>~~f~~|~~a~~<br>~~f~~|||
-|Buchführung (GOP)<br>~~a~~<br>~~ee~~|V<br>~~ee~~<br>~~a~~<br>|2<br>~~ee~~<br>~~a~~<br>|~~ee~~<br>~~a~~<br>|~~ee~~<br>~~a~~<br>|~~ee~~<br>~~a~~<br>|**5**<br>~~|~~<br>~~a~~<br>~~ee~~|~~| |~~<br>~~a~~|5<br>~~a~~|~~**f**~~<br>~~a~~|~~**f**F~~<br>~~a~~|~~a~~|~~a~~|Klausur<br>~~a~~<br>~~ee~~|0,5<br>~~a~~<br>~~ee~~|
-||Ü<br>~~a~~<br>~~ee~~|2<br>~~a~~<br>~~ee~~|~~a~~<br>~~ee~~|~~a~~<br>~~ee~~|~~a~~<br>~~ee~~||~~a~~||~~a~~|~~a~~|~~a~~|~~a~~|||
-|Grundlagen des öffentlichen Rechts und<br>des Zivilrechts<br>~~ee~~|V<br>~~ee~~|4<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|**5**<br>~~ee~~|||54)||||Klausur (50 %) und<br>elektronische Prüfung<br>(50 %)<br>~~ee~~|1<br>~~ee~~|
-|**Schwerpunkt**<br>~~ee~~<br>~~ee ee ee ee~~<br>~~eee~~|||||||||||||||
-|Schwerpunktmodule aus einem der Berei-<br>cheBWL,VWL,WInf,WiPäd<br>~~eee~~|5)<br>~~eee~~|0-4<br>~~eee~~|0-4<br>~~eee~~|0-4<br>~~eee~~|~~eee~~|55<br>~~eee~~|~~eee~~|~~eee~~|56)<br>~~eee~~|20<br>~~eee~~|20<br>~~eee~~|10<br>~~eee~~|gemäß § 3 Abs. 6<br>~~eee~~|1<br>~~eee~~|
-|**Studienrichtung**<br>~~eee~~|||||||||||||||
-|Wahl(pflicht)module aus einer Studienrich-<br>tung gemäß § 2 Abs. 2 bzw. Zweitfach ge-<br>mäß § 5|5)|0-4|0-4|0-4||**25**||~~eee~~|5<br>~~eee~~|5<br>~~eee~~|10<br>~~eee~~|5|gemäß § 4 Abs. 5 bzw. § 5|1|
-|Modul Bachelorarbeit<br>~~eee~~|S<br>~~eee~~|~~eee~~|~~eee~~|2<br>~~eee~~|~~eee~~|**15**<br>~~eee~~|~~eee~~|~~eee~~<br>~~eee~~|~~eee~~<br>~~eee~~|~~eee~~<br>~~eee~~|~~eee~~<br>~~eee~~|3<br>~~eee~~|Bachelorarbeit und<br>Seminarleistung (unbe-<br>notet) (100 % + 0 %) 7)<br>~~eee~~|1<br>~~eee~~|
-||Bachelor-<br>arbeit<br>~~eee~~|~~eee~~|~~eee~~|~~eee~~|~~eee~~||~~eee~~|~~eee~~<br>~~eee~~|~~eee~~<br>~~eee~~|~~eee~~<br>~~eee~~|~~eee~~<br>~~eee~~|12<br>~~eee~~|||
-|**Summe SWS und ECTS-Punkte**||**mind**<br>**34 **|**mind**<br>**35**|**mind**<br>**2**|**0**|**180**|**30**|**30**<br>~~eee~~|**30**<br>~~eee~~|**30**<br>~~eee~~|**30**<br>~~eee~~|**30**|||
+||||||||||||||||
+||||||||||||||||
+|Mathematik (GOP)|V|2||||**5**||5|||||Klausur|0,5|
+||Ü||2||||||||||||
+|Buchführung (GOP)|V|2||||**5**||5|||||Klausur|0,5|
+||Ü|2|||||||||||||
+|Grundlagen des öffentlichen Rechts und<br>des Zivilrechts|V|4||||**5**|||54)||||Klausur (50 %) und<br>elektronische Prüfung<br>(50 %)|1|
+|**Schwerpunkt**|||||||||||||||
+|Schwerpunktmodule aus einem der Berei-<br>cheBWL,VWL,WInf,WiPäd|5)|0-4|0-4|0-4||55|||56)|20|20|10|gemäß § 3 Abs. 6|1|
+|**Studienrichtung**|||||||||||||||
+|Wahl(pflicht)module aus einer Studienrich-<br>tung gemäß § 2 Abs. 2 bzw. Zweitfach ge-<br>mäß § 5|5)|0-4|0-4|0-4||**25**|||5|5|10|5|gemäß § 4 Abs. 5 bzw. § 5|1|
+|Modul Bachelorarbeit|S|||2||**15**||||||3|Bachelorarbeit und<br>Seminarleistung (unbe-<br>notet) (100 % + 0 %) 7)|1|
+||Bachelor-<br>arbeit|||||||||||12|||
+|**Summe SWS und ECTS-Punkte**||**mind**<br>**34 **|**mind**<br>**35**|**mind**<br>**2**|**0**|**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
 |||**Mind. 71**|||||||||||||
 
 
 
+- 1) Das Modul Perspektiven der Wirtschaftswissenschaften setzt sich zusammen aus einem allgemeinem Einführungsteil und einem spezifischen Teil, in dem in die unterschiedlichen Studienrichtungen eingeführt wird. Dabei können die Studierenden eine der Studienrichtungen gemäß § 2 Abs. 2 wählen. 
+
+- 2) Das Modul schließt mit einer Studienleistung im allgemeinen Teil und einer Studienleistung im spezifischen Teil ab. Art und Umfang dieser Studienleistungen sind abhängig vom konkreten didaktischen Charakter der jeweils gewählten Lehrveranstaltung; Näheres regelt das Modulhandbuch entsprechend § 4. 
+
+- 3) Bei beabsichtigter Wahl des Schwerpunkt BWL werden das Modul „Marketing“ sowie das Schwerpunktmodul „Investition & Finanzierung“ im 2. Semester belegt. Die Module „Data Science: Ökonometrie“ und „Makroökonomie“ werden im 4. Semester belegt. 
+
 - 4) Bei beabsichtigter Wahl der Studienrichtung WiPäd III wird das Modul „Grundlagen des öffentlichen Rechts und des Zivilrechts“ im 5. Semester belegt. Ein Wahlpflichtmodul aus WiPäd III wird im 3. Semester belegt.[5)] Vgl. § 3 Abs. 7 bzw. § 4 Abs. 5. 
 
 9 
+
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
 
 - 6)  Bei beabsichtigter Wahl des Schwerpunkts Wirtschafts- und Betriebspädagogik ist im 3. Semester das Modul „Kostenrechnung und Controlling“ als Pflichtmodul zu belegen. 
 

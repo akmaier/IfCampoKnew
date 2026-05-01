@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Oktober 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES LA-Chemie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:21:13+00:00
+scraped_at: 2026-05-01T07:01:43+00:00
 page_count_chars: 28898
 ---
 

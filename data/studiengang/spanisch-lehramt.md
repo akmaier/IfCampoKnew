@@ -7,7 +7,7 @@ unterrichtssprache: "auf Deutsch und in den Sprachen der jeweiligen Kernfächer"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-04-25T14:14:33+00:00
+scraped_at: 2026-05-01T06:50:58+00:00
 ---
 
 # Spanisch (Lehramt)

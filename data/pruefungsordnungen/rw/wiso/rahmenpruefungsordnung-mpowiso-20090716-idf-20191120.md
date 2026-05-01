@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Rahmenprüfungsordnung MPOWISO 20090716 i.d.F. 20191120.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Rahmenpruefungsordnung/konsolidierte_Fassungen/Rahmenprüfungsordnung_MPOWISO_20090716_idF_20191120.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:13:19+00:00
+scraped_at: 2026-05-01T09:24:11+00:00
 page_count_chars: 67685
 ---
 

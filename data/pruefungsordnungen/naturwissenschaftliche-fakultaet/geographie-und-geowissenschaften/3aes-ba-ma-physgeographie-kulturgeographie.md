@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_BA-MA_PhysGeographie-Kulturgeographie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:53:07+00:00
+scraped_at: 2026-05-01T07:45:58+00:00
 page_count_chars: 26279
 ---
 

@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPO LAPO 20250806 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20250806_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/
-scraped_at: 2026-04-25T14:15:47+00:00
-page_count_chars: 4886
+scraped_at: 2026-05-01T06:52:53+00:00
+page_count_chars: 5318
 ---
 
 # StuPO LAPO 20250806 ÄS.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20250806_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **Satzung zur Änderung der Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – LAPO – und für die Teilstudiengänge des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. / Master Ed. „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Services“** 
 
@@ -36,6 +40,10 @@ Die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten 
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 > 3Abweichend von Satz 2 gelten die Änderungen in **Anlage 2** Ziffer 3a) nur für diejenigen Studierenden, die die entsprechenden Module noch nicht abgeschlossen haben.“ 
 
 6. In **Anlage 1** (Fächerangebot und Fächerkombinationen) wird in der zweiten Tabelle (Wählbare Unterrichtsfächer im Lehramt an Grund- und Mittelschulen) nach der Zeile 4 (Deutsch I Deutsch) folgende neue Zeile 5 eingefügt: 
@@ -47,6 +55,10 @@ Deutsch als Zweitsprache
 „ 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 7. In **Anlage 2** Ziffer **3a) Psychologie** wird wie folgt geändert: 
 
@@ -70,6 +82,10 @@ Deutsch als Zweitsprache
 1Diese Änderungssatzung tritt am 1. Oktober 2025 in Kraft. 3Die Änderungen in **Anlage 1** gelten für alle Studierenden, die das Studium ab dem Wintersemester 2025/2026 aufnehmen werden sowie diejenigen, die zum Zeitpunkt des Inkrafttretens bereits nach der bisher gültigen Fassung der LAPO studieren.[3] Abweichend von Satz 2 gelten die Änderungen in **Anlage 2** Ziffer 3a) Psychologie gelten nur für diejenigen Studierenden, die die entsprechenden Module noch nicht abgeschlossen haben.“ 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 19. Februar 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 6. August 2025 Erlangen, den 6. August 2025 FAU gez. 
 

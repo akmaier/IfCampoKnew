@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Physik FPO LA Physik 20090330 i.d.F. 20200813.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Physik/konsolidierte_Fassungen/LA_Physik_FPO_LA_Physik_20090330_idF_20200813.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:28:50+00:00
+scraped_at: 2026-05-01T07:15:20+00:00
 page_count_chars: 32580
 ---
 

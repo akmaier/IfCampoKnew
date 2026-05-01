@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 18.07.2014 i.d.F. 22.07.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/StuOPrO_BA_2Fach_ Islam-Relig-Studien.JULI2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:57:28+00:00
+scraped_at: 2026-05-01T09:02:07+00:00
 page_count_chars: 7461
 ---
 

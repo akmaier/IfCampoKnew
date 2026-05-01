@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOGeoT-GeoEn 20260305 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/GeoThermie_und_GeoEnergie/Aenderungssatzungen/FPOGeoT-GeoEn_20260305_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:49:20+00:00
-page_count_chars: 5011
+scraped_at: 2026-05-01T07:39:24+00:00
+page_count_chars: 5550
 ---
 
 # FPOGeoT-GeoEn 20260305 ÄS.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/GeoThermie_und_GeoEnergie/Aenderungssatzungen/FPOGeoT-GeoEn_20260305_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang GeoThermie/GeoEnergie (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOGeoT/GeoEn – Vom 5. März 2026** 
 
@@ -32,6 +36,10 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang GeoThermie/ Geo
 
 1. Klausur (60-180 Min.), 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 2. Hausarbeit (max. 20 Seiten), 
 
 3. Bericht (5-10 Seiten),4. Exkursionsleistung (ExL, Bericht 5-15 Seiten oder Protokollheft 15-30 Seiten). 
@@ -42,13 +50,17 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang GeoThermie/ Geo
 
 „(4)[1] Die zweite Änderungssatzung tritt zum 1. April 2026 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2026 aufnehmen werden.[3] Studierende, die nach der FPOGeoT/GeoEn in der vorherigen Fassung studieren, beenden ihr Studium nach dieser vorherigen Fassung.“ 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 3. **Anlage 2** wird wie folgt geändert: 
 
 - a)  Zeile 9 (GT-E4 Prozessmaschinen und Apparatetechnik) wird wie folgt neu gefasst: 
 
 „ 
 
-**==> picture [678 x 49] intentionally omitted <==**
+**==> picture [725 x 79] intentionally omitted <==**
 
 **----- Start of picture text -----**<br>
 GT-E4<br>vgl. § 48a Abs. 4  5  5  1<br>Technische   vgl. § 48a Abs. 3, 4<br>Wahlmodule<br>**----- End of picture text -----**<br>
@@ -60,7 +72,7 @@ GT-E4<br>vgl. § 48a Abs. 4  5  5  1<br>Technische   vgl. § 48a Abs. 3, 4<br>Wa
 
 „ 
 
-**==> picture [506 x 7] intentionally omitted <==**
+**==> picture [725 x 37] intentionally omitted <==**
 
 **----- Start of picture text -----**<br>
 Summe SWS und ECTS-Punkte  22  25 2  10  120  30  30  30  30<br>**----- End of picture text -----**<br>
@@ -68,13 +80,19 @@ Summe SWS und ECTS-Punkte  22  25 2  10  120  30  30  30  30<br>**----- End of p
 
 - „ 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 2** 
 
 1Diese Änderungssatzung tritt zum 1. April 2026 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2026 aufnehmen werden.[3] Studierende, die nach der FPOGeoT/GeoEn in der vorherigen Fassung studieren, beenden ihr Studium nach dieser vorherigen Fassung.“ 
 
-Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026 Erlangen, den 5. März 2026 
+**==> picture [165 x 49] intentionally omitted <==**
 
-FAU gez. 
+**==> picture [114 x 46] intentionally omitted <==**
+
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026 Erlangen, den 5. März 2026 FAU gez. 
 
 Prof. Dr.-Ing. Joachim Hornegger, Präsident 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PO Deutsche Sprachprüfung für Hochschulzugang-DSH 19970923 i.d.F. 20210429.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/DSH/konsolidierte_Fassungen/PO_Deutsche_Sprachpruefung_fuer_Hochschulzugang-DSH_19970923_idF_20210429.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:41:15+00:00
-page_count_chars: 30623
+scraped_at: 2026-05-01T09:51:41+00:00
+page_count_chars: 30694
 ---
 
 # PO Deutsche Sprachprüfung für Hochschulzugang-DSH 19970923 i.d.F. 20210429.pdf
@@ -336,6 +336,10 @@ Die Bewertung der Leistung erfolgt nach der inhaltlichen Angemessenheit, Verstä
 
 ## **Anlage** 
 
+**==> picture [59 x 60] intentionally omitted <==**
+
+**==> picture [207 x 42] intentionally omitted <==**
+
 ## **DSH-Zeugnis** 
 
 Herr/Frau ___________________ geboren am ___________________ aus 
@@ -352,7 +356,7 @@ hat am [Datum] die „Deutsche Sprachprüfung für den Hochschulzugang“ (DSH) 
 |Hörverstehen:|__|%|
 |Textproduktion:|__|%|
 |Leseverstehen:|__|%|
-|Wissenschaftssprachliche Strukturen:|Wissenschaftssprachliche Strukturen:<br>__|%|
+|Wissenschaftssprachliche Strukturen:|<br>__|%|
 |**Mündliche Prüfung:**|**__**|**%**|
 
 

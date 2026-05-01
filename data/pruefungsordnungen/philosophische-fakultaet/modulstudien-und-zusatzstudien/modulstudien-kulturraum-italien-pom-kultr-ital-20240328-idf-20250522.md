@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Kulturraum Italien POM-KultR-Ital 20240328 i.d.F. 20250522.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20240328_idF_20250522.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-04-25T15:31:03+00:00
-page_count_chars: 12105
+scraped_at: 2026-05-01T08:39:17+00:00
+page_count_chars: 12638
 ---
 
 # Modulstudien Kulturraum Italien POM-KultR-Ital 20240328 i.d.F. 20250522.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20240328_idF_20250522.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 # **Studien- und Prüfungsordnung für die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) ─ POM/KultR-Ital ─ Vom 28. März 2024** 
 
@@ -20,29 +24,7 @@ Aufgrund von Art. 9 in Verbindung mit Art. 77 Abs. 5 Satz 2, Art. 80 Abs. 1 Satz
 
 ## **Inhaltsverzeichnis:** 
 
-**==> picture [454 x 189] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-||||
-|---|---|---|
-|§ 1 Geltungsbereich; Ziele ..................................................................................................... 1|
-|§ 2 Studienbeginn; Regelstudienzeit, Umfang ....................................................................... 2|
-|§ 3 Qualifikationsvoraussetzungen ........................................................................................ 2|
-|§ 4 Prüfungsausschüsse; Verfahrensrecht ............................................................................ 2|
-|§ 5 Zulassung zu den Prüfungen ........................................................................................... 2|
-|§ 6 Prüfungen ........................................................................................................................ 2|
-|§ 7 Wiederholung von Prüfungen .......................................................................................... 3|
-|§ 8 Transcript of Records, Zertifikat ....................................................................................... 3|
-|§ 9 Inkrafttreten ..................................................................................................................... 3|
-|Anlage 1: ............................................................................................................................... 4|
-|Studienverlaufsplan Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“;|
-|Studienbeginn|Wintersemester|.............................................................................................. 4|
-|Anlage 2: ............................................................................................................................... 5|
-|Studienverlaufsplan Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“;|
-|Studienbeginn|Sommersemester|.......................................................................................... 5|
-
-**----- End of picture text -----**<br>
-
+§ 1 Geltungsbereich; Ziele ..................................................................................................... 1 § 2 Studienbeginn; Regelstudienzeit, Umfang ....................................................................... 2 § 3 Qualifikationsvoraussetzungen ........................................................................................ 2 § 4 Prüfungsausschüsse; Verfahrensrecht ............................................................................ 2 § 5 Zulassung zu den Prüfungen ........................................................................................... 2 § 6 Prüfungen ........................................................................................................................ 2 § 7 Wiederholung von Prüfungen .......................................................................................... 3 § 8 Transcript of Records, Zertifikat ....................................................................................... 3 § 9 Inkrafttreten ..................................................................................................................... 3 Anlage 1: ............................................................................................................................... 4 Studienverlaufsplan Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“; Studienbeginn _Wintersemester_ .............................................................................................. 4 Anlage 2: ............................................................................................................................... 5 Studienverlaufsplan Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“; Studienbeginn _Sommersemester_ .......................................................................................... 5 
 
 ## **§ 1 Geltungsbereich; Ziele** 
 
@@ -51,6 +33,10 @@ Aufgrund von Art. 9 in Verbindung mit Art. 77 Abs. 5 Satz 2, Art. 80 Abs. 1 Satz
 (2)[1] Die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ ermöglichen den Erwerb einer Teilqualifikation im Bereich Kunst-, Literatur- und Kulturwissenschaften sowie der italienischen Sprache und vermitteln fächerübergreifend Fachkompetenzen, die inhaltlich auf den Kulturraum Italien bezogen sind; ebenso werden Metho- 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 denkompetenzen zur Aneignung und Anwendung der Fachkompetenzen sowie fachspezifische Sprachkompetenzen vermittelt.[2] Studierende und Nachwuchswissenschaftlerinnen und Nachwuchswissenschaftler erfahren durch die Schwerpunktsetzung auf die Italienforschung eine wissenschaftliche Profilbildung.[3] Die Modulstudien stehen dabei nicht nur Studierenden der Kunstgeschichte und der Romanistik offen, sondern sind auch für Studierende anderer Fächer und Fakultäten sowie für das Seniorenstudium geeignet.[4] Die Studierenden der Modulstudien qualifizieren sich in der Kunst- und Architekturgeschichte Italiens, der italienischen Literaturgeschichte und Kulturwissenschaft sowie der italienischen Sprache und erwerben nach erfolgreichem Abschluss ein Zertifikat. 
 
@@ -80,6 +66,10 @@ Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus den **Anlagen 
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 7 Wiederholung von Prüfungen** 
 
 (1)[1] Eine im Rahmen der Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ nicht bestandene Modulprüfung kann einmal wiederholt werden (Art. 84 Abs. 3 Satz 1 Nr. 11 **BayHIG** ).[2] Eine zweite Wiederholung ist ausgeschlossen. 
@@ -98,24 +88,30 @@ Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus den **Anlagen 
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 1:** 
 
 ## **Studienverlaufsplan Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“; Studienbeginn** _**Wintersemester**_ 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Art und Umfang<br>|Faktor<br>Modul-<br>note|
 |---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|||
+|||V|Ü|P|S|ECTS|<br>1.|<br>2.|der Prüfung||
 |**Bereich Kunstgeschichte**|||||||||||
 |Kunstgeschichte Italiens I|vgl. FPO B.A. Kunstgeschichte|||||5|5||vgl. FPO B.A. Kunstgeschichte|0|
 |Kunstgeschichte Italiens II|vgl. FPO B.A. Kunstgeschichte|||||5||5|vgl. FPO B.A. Kunstgeschichte|0|
 |**Bereich Italienische Kulturwissenschaft**|||||||||||
+||||||||||||
+||||||||||||
 |Aufbaumodul Italienische Literatur<br>und Kulturwissenschaft 1|vgl. FPO B. A. Italoromanistik|||||5|5||vgl. FPO B.A. Italoromanistik|0|
 |Literatur, Kunst und Kulturgeschichte<br>Italiens|vgl. FPO B. A. Kunstgeschichte|||||5||5|vgl. FPO B.A. Kunstgeschichte|0|
 |**Wahlpflichtbereich Sprache1**|||||||||||
 |Italienische Sprache und Kultur I|vgl. FPO B.A. Kunstgeschichte|||||5|5||vgl. FPO B.A. Kunstgeschichte|0|
 |Italienische Sprache und Kultur II|vgl. FPO B.A. Kunstgeschichte|||||5||5|vgl. FPO B.A. Kunstgeschichte|0|
-|Summe SWS:||2-4|8||4-8||15|15|||
-|Summen (SWS bzw. ECTS):||16-18||||30|||||
+|Summe SWS:||2-4|8||4-8||1|1|||
+|Summen (SWS bzw. ECTS):||16-18||||30|5|5|||
 
 
 
@@ -123,17 +119,23 @@ Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus den **Anlagen 
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2:** 
 
 ## **Studienverlaufsplan Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“; Studienbeginn** _**Sommersemester**_ 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Art und Umfang<br>|Faktor<br>Modul-<br>note|
 |---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|||
+|||V|Ü|P|S|ECTS|<br>1.|<br>2.|der Prüfung||
 |**Bereich Kunstgeschichte**|||||||||||
 |Kunstgeschichte Italiens I|vgl. FPO B.A. Kunstgeschichte|||||5||5|vgl. FPO B.A. Kunstgeschichte|0|
 |Kunstgeschichte Italiens II|vgl. FPO B.A. Kunstgeschichte|||||5|5||vgl. FPO B.A. Kunstgeschichte|0|
 |**Bereich Italienische Kulturwissenschaft**|||||||||||
+||||||||||||
+||||||||||||
 |Literatur, Kunst und Kulturgeschichte<br>Italiens|vgl. FPO B.A. Kunstgeschichte|||||5|5||vgl. FPO B.A. Kunstgeschichte|0|
 |Aufbaumodul Italienische Literatur-<br>und Kulturwissenschaft 1|vgl. FPO B.A. Italoromanistik|||||5||5|vgl. FPO B.A. Italoromanistik|0|
 |**Wahlpflichtbereich Sprache1**|||||||||||
@@ -147,6 +149,10 @@ Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus den **Anlagen 
 > 1 Die Wahl der Kurse hängt von den individuellen Sprachvoraussetzungen ab und ist im Rahmen einer Studienberatung festzulegen. Die angebotenen Lehrveranstaltungen können dem semester-aktuellen Modulhandbuch entnommen werden. 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 7. Mai 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 13. Mai 2025 Erlangen, den 13. Mai 2025 
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 24.07.2009 i.d.F: 18.08.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-IntBusStud_FPOIBS.AUG2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:31:23+00:00
+scraped_at: 2026-05-01T09:37:46+00:00
 page_count_chars: 14919
 ---
 

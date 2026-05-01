@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Neufassung POGriechisch 20200313.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachpruefungen/Griechisch/konsolidierte_Fassungen/Neufassung_POGriechisch_20200313.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:42:12+00:00
+scraped_at: 2026-05-01T09:52:11+00:00
 page_count_chars: 26439
 ---
 

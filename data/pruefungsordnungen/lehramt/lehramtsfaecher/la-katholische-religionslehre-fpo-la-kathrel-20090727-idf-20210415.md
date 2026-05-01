@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Katholische Religionslehre FPO LA KathRel 20090727 i.d.F. 20210415.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Katholische_Religionslehre/konsolidierte_Fassungen/LA_Katholische_Religionslehre_FPO_LA_KathRel_20090727_idF_20210415.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:26:40+00:00
+scraped_at: 2026-05-01T07:11:46+00:00
 page_count_chars: 9947
 ---
 

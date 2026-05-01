@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "3. September 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/12AES-Dipl-PrO-IntWirtschRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:08:05+00:00
+scraped_at: 2026-05-01T09:17:30+00:00
 page_count_chars: 1327
 ---
 

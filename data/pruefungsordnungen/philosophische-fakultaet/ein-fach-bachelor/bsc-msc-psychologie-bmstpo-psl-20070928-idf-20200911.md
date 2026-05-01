@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Psychologie BMStPO-PSL 20070928 i.d.F. 20200911.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20070928_idF_20200911.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:12:24+00:00
+scraped_at: 2026-05-01T08:09:27+00:00
 page_count_chars: 96589
 ---
 

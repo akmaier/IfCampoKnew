@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "14. September 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES_LA-Arbeitslehre.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:19:58+00:00
+scraped_at: 2026-05-01T06:59:33+00:00
 page_count_chars: 5032
 ---
 

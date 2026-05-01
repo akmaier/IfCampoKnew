@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Lehramt"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/
-scraped_at: 2026-04-25T14:16:42+00:00
+scraped_at: 2026-05-01T06:54:39+00:00
 ---
 
 # Lehramt

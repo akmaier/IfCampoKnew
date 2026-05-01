@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Hebammenwissenschaft StuPOHeb 20240926.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Hebammenwissenschaft/konsolidierte_Fassungen/BSc_Hebammenwissenschaft_StuPOHeb_20240926.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:31:48+00:00
+scraped_at: 2026-05-01T07:20:14+00:00
 page_count_chars: 90715
 ---
 

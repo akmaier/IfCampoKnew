@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Erweiterungsfach Chinesisch FPO LA Chin. 20230822 i.d.F. 20260331.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Chinesisch/konsolidierte_Fassungen/LA_Erweiterungsfach_Chinesisch_FPO_LA_Chin._20230822_idF_20260331.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:21:23+00:00
-page_count_chars: 11026
+scraped_at: 2026-05-01T07:02:00+00:00
+page_count_chars: 10814
 ---
 
 # LA Erweiterungsfach Chinesisch FPO LA Chin. 20230822 i.d.F. 20260331.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Chinesisch/konsolidierte_Fassungen/LA_Erweiterungsfach_Chinesisch_FPO_LA_Chin._20230822_idF_20260331.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Fachstudien- und Prüfungsordnung für das Erweiterungsfach Chinesisch im Lehramtsstudiengang an Gymnasien an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA Chin – Vom 22. August 2023** 
 
@@ -32,6 +36,10 @@ Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1 u
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 3 Inhalt, Aufbau und Gliederung des Studiums** 
 
 Für das Studium des Erweiterungsfaches Chinesisch im Rahmen des Lehramtsstudiengangs an Gymnasien wird empfohlen die Module gemäß **Anlage** erfolgreich abzulegen. 
@@ -40,23 +48,24 @@ Für das Studium des Erweiterungsfaches Chinesisch im Rahmen des Lehramtsstudien
 
 1Der Sprachunterricht im Erweiterungsfach Chinesisch im Rahmen des Lehramtsstudiengangs Chinesisch an der FAU ist wie folgt aufgeschlüsselt: 
 
-|~~es~~|||||
+|**Semester**|**Modulname**||**Workload**||
 |---|---|---|---|---|
-|**Semester**<br>~~es~~|**Modulname**|**Workload**|||
-|1. Semester<br>~~es~~<br>~~a~~|Modernes Chinesisch 1<br>|8 SWS<br>|10 ECTS-Punkte<br>|300 Stunden<br>|
-|2.Semester<br>~~aRs~~|Modernes Chinesisch 2<br>~~Rs~~|8 SWS<br>~~Rs~~|10ECTS-Punkte<br>~~Rs~~|300 Stunden<br>~~Rs~~|
-|3. Semester<br>~~a~~|Modernes Chinesisch 3<br>~~ee~~|6 SWS|10 ECTS-Punkte|300 Stunden|
-|~~a~~|Modernes Chinesisch:<br>Hörenund Sprechen<br>~~ee~~|2 SWS|5 ECTS-Punkte|150 Stunden|
-|4. Semester<br>~~a~~|Modernes Chinesisch:<br>Hören und Sprechen<br>~~ee~~|2 SWS|5 ECTS-Punkte|150 Stunden|
-|~~Rs~~<br>~~Rs~~|Modernes Chinesisch 4<br>~~Rs~~<br>~~eG~~|4SWS<br>~~Rs~~<br>~~eG~~|5ECTS-Punkte<br>~~Rs~~<br>~~eG~~|150 Stunden<br>~~Rs~~<br>~~eG~~|
-|5. Semester<br>~~Rs~~<br>~~es~~|Klassisches Chinesisch 1<br>~~eG~~<br>~~eG~~|4 SWS<br>~~eG~~<br>~~eG~~|5 ECTS-Punkte<br>~~eG~~<br>~~eG~~|150 Stunden<br>~~eG~~<br>~~eG~~|
-|~~Rs~~<br>~~es~~<br>~~Rs~~|Modernes Chinesisch5<br>~~eG~~<br>~~eG~~|4SWS<br>~~eG~~<br>~~eG~~|5ECTS-Punkte<br>~~eG~~<br>~~eG~~|150 Stunden<br>~~eG~~<br>~~eG~~|
-|6. Semester<br>~~es~~<br>~~Rs~~<br>~~Rs~~|Modernes Chinesisch 6<br>~~eG~~|4 SWS<br>~~eG~~|5 ECTS-Punkte<br>~~eG~~|150 Stunden<br>~~eG~~|
-|7. Semester<br>~~Rs~~<br>~~Rs~~|Language Class 1|4 SWS|5 ECTS-Punkte|150 Stunden|
-|8.Semester<br>~~Rs~~<br>~~Rs~~<br>~~es~~|Language Class2<br>~~Rs~~<br>~~GG~~|4SWS<br>~~Rs~~<br>~~GG~~|5ECTS-Punkte<br>~~Rs~~<br>~~GG~~|150 Stunden<br>~~Rs~~<br>~~GG~~|
-|~~es~~|**Gesamt:**<br>~~GG~~|**47 SWS**<br>~~GG~~|**70 ECTS-Punkte**<br>~~GG~~|**2100 Stunden**<br>~~GG~~|
+|1. Semester|Modernes Chinesisch 1|8 SWS|10 ECTS-Punkte|300 Stunden|
+|2.Semester|Modernes Chinesisch 2|8 SWS|10ECTS-Punkte|300 Stunden|
+|3. Semester|Modernes Chinesisch 3|6 SWS|10 ECTS-Punkte|300 Stunden|
+||Modernes Chinesisch:<br>Hörenund Sprechen|2 SWS|5 ECTS-Punkte|150 Stunden|
+|4. Semester|Modernes Chinesisch:<br>Hören und Sprechen|2 SWS|5 ECTS-Punkte|150 Stunden|
+||Modernes Chinesisch 4|4SWS|5ECTS-Punkte|150 Stunden|
+|5. Semester|Klassisches Chinesisch 1|4 SWS|5 ECTS-Punkte|150 Stunden|
+||Modernes Chinesisch5|4SWS|5ECTS-Punkte|150 Stunden|
+|6. Semester|Modernes Chinesisch 6|4 SWS|5 ECTS-Punkte|150 Stunden|
+|7. Semester|Language Class 1|4 SWS|5 ECTS-Punkte|150 Stunden|
+|8.Semester|Language Class2|4SWS|5ECTS-Punkte|150 Stunden|
+||**Gesamt:**|**47 SWS**|**70 ECTS-Punkte**|**2100 Stunden**|
 
 
+
+2Der Sprachunterricht ist dabei so konstruiert, dass im Verlauf des Studiums von einer bzw. einem durchschnittlichen Studierenden die folgenden HSK-Stufen erreicht werden: 
 
 - HSK Stufe 1: 1. Semester 
 
@@ -77,6 +86,10 @@ Für das Studium des Erweiterungsfaches Chinesisch im Rahmen des Lehramtsstudien
 (2)[1] Die Fachstudien- und Prüfungsordnung für das Erweiterungsfach Chinesisch im Lehramtsstudiengang an Gymnasien an der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) – **FPO LA Chin.** – vom 11. November 2016 in der Fassung vom 28. August 2019 tritt am 30. September 2028 außer Kraft.[2] Prüfungen nach der bis zum 30. September 2028 gültigen **FPO LA Chin.** werden letztmals im Sommersemester 2028 angeboten.[3] Ab dem in Satz 2 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (3)[1] Die erste Änderungssatzung tritt am 1. Oktober 2026 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen werden.[3] Abweichend von Satz 2 gilt sie auch für alle Studierenden die das Studium ab dem Wintersemester 2023/2024 aufgenommen haben. 
 

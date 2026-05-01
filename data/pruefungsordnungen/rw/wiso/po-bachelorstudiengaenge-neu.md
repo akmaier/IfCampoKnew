@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 01.08.2006 i.d.F. 24.02.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO_Bachelorstudiengaenge_NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:12:57+00:00
-page_count_chars: 108029
+scraped_at: 2026-05-01T09:23:33+00:00
+page_count_chars: 106130
 ---
 
 # PDF vom 01.08.2006 i.d.F. 24.02.2010
@@ -1515,24 +1515,30 @@ Der Prüfungsausschuss kann auf Antrag weitere Module, die in sinnvollem Zusamme
 
 ## **Anlage 4 Bachelor in Wirtschaftsinformatik** 
 
-|SWS<br>ECTS|SWS<br>ECTS|1. Semester|2. Semester|3. Semester|4. Semester|5. Semester|6. Semester|
+|||WS<br>SS<br>WS<br>SS<br>WS<br>SS|WS<br>SS<br>WS<br>SS<br>WS<br>SS|WS<br>SS<br>WS<br>SS<br>WS<br>SS|WS<br>SS<br>WS<br>SS<br>WS<br>SS|WS<br>SS<br>WS<br>SS<br>WS<br>SS|WS<br>SS<br>WS<br>SS<br>WS<br>SS|
 |---|---|---|---|---|---|---|---|
+|||1. Semester|2. Semester|3. Semester|4. Semester|5. Semester|6. Semester|
 ||SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|
-|**Pflichtbereich (Methodenkompetenz)**|**32 **<br>**40**|4<br>5<br>4<br>5<br>8<br>10<br>4<br>5<br>~~n~~nn nnnn<br>teleieieiaietetatabatabatabatabatate|8<br>10<br>4<br>5<br>nnnnnn<br>telakatatataietakatabetabatabataietatheketelateiatetaledidedetatetatled|nn<br>nn<br>nn<br>ep<br>theketelateiatetaledidedetatetatled|ep<br>enne <br>catakateakaekataietaietaetaietaied|pe<br>ee<br>eeeeen nn <br>Relaeteiataiatatetahetatetetetated|fe<br>ee ee<br>eeeee<br>tleideieieitedtstetstetaatetad|
-|**Mathematik**<br>Mathematik<br>**BWL**<br>Buchführung<br>**Wirtschaftsinformatik**<br>IT und E-Business für Wirtschaftsinformatik<br>**Informatik**<br>Algorithmen und Datenstrukturen<br>Grundlagen der Logik und Logikprogrammierung<br>Theoretische Informatik für Wirtschaftsinformatik<br>'<br>'<br>'<br>Pr<br>nn<br>nn nn nn<br>rn nn<br>nn nn en<br>nn nn<br>rr nn <br>'<br>'<br>'<br>Fsleeieeseeeteeietetieteeeeeietetieteieteeteaierietieieteieteeteteeteateetiteteretieteteetereteteteteatetetetetetatetetetetetatetatetetatetatetatetatatat<br>i]<br>i]eee<br>eee <br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>i<br>f]<br>f]<br>l|8<br>10<br>8<br>10<br>4<br>5<br>4<br>5<br>4<br>5<br>4<br>5<br>16<br>20<br>8<br>10<br>4<br>5<br>4<br>5<br> fn<br>nn<br>f~~n~~<br>tekaketateiatetatatabatatatatataletal<br> ee|||||||
+|**Pflichtbereich (Methodenkompetenz)**|**32 **<br>**40**|||||||
+|**Mathematik**<br>Mathematik<br>**BWL**<br>Buchführung<br>**Wirtschaftsinformatik**<br>IT und E-Business für Wirtschaftsinformatik<br>**Informatik**<br>Algorithmen und Datenstrukturen<br>Grundlagen der Logik und Logikprogrammierung<br>Theoretische Informatik für Wirtschaftsinformatik|8<br>10<br>8<br>10<br>4<br>5<br>4<br>5<br>4<br>5<br>4<br>5<br>16<br>20<br>8<br>10<br>4<br>5<br>4<br>5|4<br>5<br>4<br>5<br>8<br>10<br>4<br>5|8<br>10<br>4<br>5|||||
 |**Kernbereich (Fachkompetenz)**|**78**<br>**97,5**|||||||
-|**BWL**<br>Unternehmer und Unternehmen<br>Absatz<br>Produktion, Logistik, Beschaffung<br> **Wirtschaftsinformatik**<br>Allgemeine WI1: IT-gestützte Unternehmensführung<br>Allgemeine WI3: IT-Management<br>Allgemeine WI2: E-Business-Management<br>Spezielle WI1: Technologie- und Projektmanag. im E-Business<br>Spezielle WI2: Innovations- und Wertschöpfungsmanagement<br>Spezielle WI3: Service-, Prozess-, und Informationsmanag.<br>**Informatik**<br>Parallele und Funktionale Programmierung<br>Konzeptionelle Modellierung<br>Grundlagen der Technischen Informatik<br>Systemprogrammierung<br>Rechnerkommunikation<br>Datenbanksysteme<br>~~Facet,~~<br>i<br>i<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>Flestecieteeteeteaieaietiateaieeieaieaieaeeieaieieteeteateaieaieaieaeeaieaieaieeeaietieteteteieeeateteateteteaeteteaieteteteteteateateteteteateatetetetetetemeteteatetetatetetetats<br>i]<br>i]<br>1<br>i<br>i<br>i<br>'<br>1<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>i]<br>i]t<br>a<br>'<br>'<br>'<br>1<br>1<br>'<br>i]<br>f]<br>f]<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>i]<br>f]<br>f]<br>'|12<br>15<br>4<br>5<br>4<br>5<br>4<br>5<br>36<br>45<br>4<br>5<br>4<br>5<br>4<br>5<br>8<br>10<br>8<br>10<br>8<br>10<br>30<br>37,5<br>4<br>5<br>4<br>5<br>6<br>7,5<br>8<br>10<br>4<br>5<br>4<br>5<br>Tatatatatattettatatatatatatetatatal<br>teckeieteteteetitted lett<br>aEAN<br>eS|4<br>5<br>Cetetetetatetatatetatatatatatatatat<br>AN<br>RTERT <br> Se|4<br>5<br>4<br>5<br>4<br>5<br>teletekataietabatenetenatatatatatate <br> COIS TSTttt<br>Se|4<br>5<br>4<br>5<br>4<br>5<br>6<br>7,5<br>8<br>10<br> weanetaenaneneteiaietetetatatatatel<br>ttt<br>Se|4<br>5<br>4<br>5<br>4<br>5<br>4<br>5<br>tatatatatataataiiaiaeteteaatel<br>ttt<br> a|4<br>5<br>4<br>5<br>4<br>5<br>4<br>5<br>tetetatatatataiatetatatenaaeaten|4<br>5<br>leteteteteteteteeaatatatetetaten<br>eee|
+|**BWL**<br>Unternehmer und Unternehmen<br>Absatz<br>Produktion, Logistik, Beschaffung<br> **Wirtschaftsinformatik**<br>Allgemeine WI1: IT-gestützte Unternehmensführung<br>Allgemeine WI3: IT-Management<br>Allgemeine WI2: E-Business-Management<br>Spezielle WI1: Technologie- und Projektmanag. im E-Business<br>Spezielle WI2: Innovations- und Wertschöpfungsmanagement<br>Spezielle WI3: Service-, Prozess-, und Informationsmanag.<br>**Informatik**<br>Parallele und Funktionale Programmierung<br>Konzeptionelle Modellierung<br>Grundlagen der Technischen Informatik<br>Systemprogrammierung<br>Rechnerkommunikation<br>Datenbanksysteme|12<br>15<br>4<br>5<br>4<br>5<br>4<br>5<br>36<br>45<br>4<br>5<br>4<br>5<br>4<br>5<br>8<br>10<br>8<br>10<br>8<br>10<br>30<br>37,5<br>4<br>5<br>4<br>5<br>6<br>7,5<br>8<br>10<br>4<br>5<br>4<br>5|4<br>5|4<br>5<br>4<br>5<br>4<br>5|4<br>5<br>4<br>5<br>4<br>5<br>6<br>7,5<br>8<br>10|4<br>5<br>4<br>5<br>4<br>5<br>4<br>5|4<br>5<br>4<br>5<br>4<br>5<br>4<br>5|4<br>5|
 
 
 
 ||||WS|SS|WS|SS|WS|SS|
 |---|---|---|---|---|---|---|---|---|
-|SWS<br>ECTS|||1. Semester|2. Semester|3. Semester|4. Semester|5. Semester|6. Semester|
+||||1. Semester|2. Semester|3. Semester|4. Semester|5. Semester|6. Semester|
 |||SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|
 |**Schlüsselqualifikationen (Sozialkompetenz 7,5-12,5 ECTS)**||**8**<br>**12,5**|||||||
-|Seminar Wirtschaftsinformatik<br>Präsentationsfähigkeiten<br>Einführung in das wissenschaftliche Arbeiten<br>Fallstudienseminar(WInf)*(0/ 5ECTS; 5.oder6.Semester)<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'||2<br>2,5<br>2<br>2,5<br>2<br>2,5<br>2<br>5<br>||||2<br>2,5<br>2<br>2,5<br>2<br>2,5||2<br>5|
-|**Vertiefungsbereich 7,5-12,5 ECTS**<br>~~en ee~~||**4**<br>**30**<br>~~ee ee~~|~~ee~~||~~eee ee~~|~~ee~~|~~ee~~|~~ee~~|
-|**Fachliche Vertiefung**<br>Fachvertiefung* (0/ 5/ 10/ 15/ 20 ECTS; 5. oder 6. Sem.)<br>Bachelorarbeit<br>Seminar zur Bachelorarbeit<br>**Praxiskompetenz**<br>Praktikum Wirtschaftsinformatik * (0/ 10 ECTS; 5. oder 6. Sem.)<br>Planspiel*(0/ 5 ECTS; 5. oder 6. Semester)<br>~~en ee~~<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>----------------------------------------------------------------------------- ~~f~~<br>'<br>'<br>'<br>'<br>'<br>'<br>i||2<br>15<br>0<br>0<br>0<br>12<br>2<br>3<br>2<br>15<br>0<br>10<br>2<br>5<br>~~ee ee~~<br>~~f~~ee<br>ee<br>enn eeeee ~~f~~|~~ee~~<br>~~f~~e ee eeee~~fe~~|~~fe~~ ee<br>eeee ee|~~eee ee~~<br> ee<br>ee ee<br>ee ee ee eb|~~ee~~<br>eb eee eeeee ee eeeee|10<br>~~ee~~|12<br>2<br>3<br>2<br>5<br>~~ee~~|
+|Seminar Wirtschaftsinformatik<br>Präsentationsfähigkeiten<br>Einführung in das wissenschaftliche Arbeiten<br>Fallstudienseminar(WInf)*(0/ 5ECTS; 5.oder6.Semester)||2<br>2,5<br>2<br>2,5<br>2<br>2,5<br>2<br>5||||2<br>2,5<br>2<br>2,5<br>2<br>2,5|||
+|||||||||2<br>5|
+|**Vertiefungsbereich 7,5-12,5 ECTS**||**4**<br>**30**|||||||
+|**Fachliche Vertiefung**<br>Fachvertiefung* (0/ 5/ 10/ 15/ 20 ECTS; 5. oder 6. Sem.)<br>Bachelorarbeit<br>Seminar zur Bachelorarbeit<br>**Praxiskompetenz**<br>Praktikum Wirtschaftsinformatik * (0/ 10 ECTS; 5. oder 6. Sem.)<br>Planspiel*(0/ 5 ECTS; 5. oder 6. Semester)||2<br>15<br>0<br>0<br>0<br>12<br>2<br>3<br>2<br>15<br>0<br>10<br>2<br>5|||||||
+||||||||||
+|||||||||12<br>2<br>3|
+||||||||10||
+|||||||||2<br>5|
 ||SWS|122|24|24|26|22|16|10|
 ||ECTS|180|30|30|32,5|27,5|30|30|
 

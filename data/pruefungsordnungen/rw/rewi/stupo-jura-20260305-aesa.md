@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPO Jura 20260305 ÄSa.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/Aenderungssatzungen/StuPO_Jura_20260305_AeSa.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:06:26+00:00
-page_count_chars: 6970
+scraped_at: 2026-05-01T09:16:08+00:00
+page_count_chars: 7403
 ---
 
 # StuPO Jura 20260305 ÄSa.pdf
@@ -12,7 +12,11 @@ page_count_chars: 6970
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/Aenderungssatzungen/StuPO_Jura_20260305_AeSa.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-# **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den Studiengang Rechtswissenschaft an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – StuPO Jura – Vom 5. März 2026** 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+## **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den Studiengang Rechtswissenschaft an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – StuPO Jura – Vom 5. März 2026** 
 
 Aufgrund von Art. 9 Satz 1, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Änderungssatzung: 
 
@@ -31,6 +35,10 @@ Die Studien- und Prüfungsordnung für den Studiengang Rechtswissenschaft an der
 (2) Die Anforderungen an die zulässigen Endgeräte einschließlich etwaigen Zubehörs und die übrigen einzusetzenden elektronischen Systeme (technische Ausstattung einschließlich der erforderlichen Anwendungen) sind durch die bzw. den Prüfenden zu bestimmen, sofern nicht der Studiendekan bzw. die Studiendekanin einheitliche Bestimmungen trifft, und den Studierenden in der Veranstaltungsbekanntmachung mitzuteilen. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (3)[1] Werden E-Prüfungen nicht mit von der Universität gestellten Mitteln durchgeführt, sind die Prüfungsteilnehmerinnen und Prüfungsteilnehmer selbst für die Funktionsfähigkeit der von ihnen eingesetzten technischen Ausstattung verantwortlich.[2] Sie tragen insbesondere das Risiko, dass die Ausstattung in der Prüfung nicht ordnungsgemäß funktioniert.[3] Die Prüfungsteilnehmerinnen und Prüfungsteilnehmer sind bei der Verwendung eigener Endgeräte verpflichtet, erforderliche Software zu installieren und während der Prüfung zu nutzen. 
 
@@ -60,6 +68,10 @@ Die Studien- und Prüfungsordnung für den Studiengang Rechtswissenschaft an der
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 b) Nach Abs. 2 wird folgender neuer Abs. 3 angefügt: 
 
 „(3)[1] Am Seminar nimmt ein Beisitzer bzw. eine Beisitzerin (§ 14 Abs. 4) teil. 2Über die Verteidigung ist nach den Grundsätzen des § 52 Abs. 3 ein Protokoll anzufertigen.“ 
@@ -87,6 +99,10 @@ gez.
 Prof. Dr.-Ing. Joachim Hornegger, Präsident 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfer-tigung der Satzung wurde am 5. März in der im Referat L 1 der Zentralen Universi-tätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. 
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl WTB MA Marketing- und Vertriebsmanagement PO MVM 20240430 i.d.F. 20241219.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Marketing_Vertriebsmanagement/konsolidierte_Fassungen/berufsbegl_WTB_MA_Marketing-_und_Vertriebsmanagement_PO_MVM_20240430_idF_20241219.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:39:11+00:00
+scraped_at: 2026-05-01T09:48:42+00:00
 page_count_chars: 89551
 ---
 

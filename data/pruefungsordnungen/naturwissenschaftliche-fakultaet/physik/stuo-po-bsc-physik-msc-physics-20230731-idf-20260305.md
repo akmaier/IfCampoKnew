@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "StuO-PO BSc Physik-MSc Physics 20230731 i.d.F. 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Physik/konsolidierte_Fassungen/StuO-PO_BSc_Physik-MSc_Physics_20230731_idF_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-04-25T15:04:31+00:00
-page_count_chars: 145723
+scraped_at: 2026-05-01T07:57:33+00:00
+page_count_chars: 149038
 ---
 
 # StuO-PO BSc Physik-MSc Physics 20230731 i.d.F. 20260305.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Physik/konsolidierte_Fassungen/StuO-PO_BSc_Physik-MSc_Physics_20230731_idF_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Studien- und Prüfungsordnung für den Bachelorstudiengang Physik und den Masterstudiengang Physics an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – BMPO/Physik – vom 31. Juli 2023** 
 
@@ -22,99 +26,15 @@ Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, 
 
 ## **Inhaltsverzeichnis** 
 
-**==> picture [455 x 441] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-|||
-|---|---|
-|I. Teil: Allgemeine Bestimmungen|..................................................................................... 2|
-|§ 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung,|
-|Forschungsstudienrichtungen|............................................................................................ 2|
-|§ 2 Akademische Grade|.................................................................................................... 3|
-|§ 3 Struktur des Bachelorstudiengangs und der Prüfungen, Regelstudienzeit,|
-|Studienbeginn, Unterrichts- und Prüfungssprache|............................................................. 3|
-|§ 4 Struktur des Masterstudiengangs und der Prüfungen, Studienschwerpunkt,|
-|Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache|................................. 4|
-|§ 5 ECTS-Punkte|............................................................................................................... 4|
-|§ 6 Modularisierung, studienbegleitende Leistungsnachweise, freiwillige|
-|Zwischenprüfungen|............................................................................................................ 5|
-|§ 7 Anwesenheitspflicht|..................................................................................................... 5|
-|§ 8 Prüfungsfristen, Fristversäumnis|.................................................................................. 7|
-|§ 9 Prüfungsausschuss|...................................................................................................... 7|
-|§ 10 Zugangskommission zum Masterstudium|.................................................................. 8|
-|§ 11 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung,|
-|Verschwiegenheitspflicht|................................................................................................... 9|
-|§ 12 Bekanntgabe der Prüfungsart, Prüfungstermine und der Prüfenden,|........................10|
-|Anmeldung, Rücktritt, Folgen eines verspäteten bzw. nicht ordnungsgemäßen Rücktritts|10|
-|§ 13 Anerkennung von Kompetenzen|...............................................................................10|
-|§ 14 Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme|...................12|
-|§ 15 Entzug akademischer Grade|.....................................................................................12|
-|§ 16 Mängel im Prüfungsverfahren|...................................................................................12|
-|§ 17 Schriftliche Prüfung, Antwort-Wahl-Verfahren|...........................................................12|
-|§ 18 Mündliche Prüfung|....................................................................................................14|
-|§ 19 Vorträge|....................................................................................................................14|
-|§ 20 Praktikumsleistungen und Forschungsprojekte|.........................................................15|
-|§ 21 Elektronische Prüfung in Präsenz|.............................................................................15|
-|§ 22 Bewertung der Prüfungen, Gesamtnote|....................................................................15|
-|§ 23 Ungültigkeit der Prüfung|............................................................................................17|
-|§ 24 Einsicht in die Prüfungsakten|....................................................................................18|
-|§ 25 Urkunde, Zeugnis, Transcript of Records, Diploma Supplement,  Grade distribution|
-|table|..................................................................................................................................18|
-|§ 26 Bescheinigung über endgültig nicht bestandene Prüfung|..........................................18|
-|§ 27 Nachteilsausgleich|....................................................................................................18|
-
-**----- End of picture text -----**<br>
-
+**I. Teil: Allgemeine Bestimmungen** ..................................................................................... 2 § 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung, Forschungsstudienrichtungen **............................................................................................ 2** § 2 Akademische Grade **.................................................................................................... 3** § 3 Struktur des Bachelorstudiengangs und der Prüfungen, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache **............................................................. 3** § 4 Struktur des Masterstudiengangs und der Prüfungen, Studienschwerpunkt, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache **................................. 4** § 5 ECTS-Punkte **............................................................................................................... 4** § 6 Modularisierung, studienbegleitende Leistungsnachweise, freiwillige Zwischenprüfungen **............................................................................................................ 5** § 7 Anwesenheitspflicht **..................................................................................................... 5** § 8 Prüfungsfristen, Fristversäumnis **.................................................................................. 7** § 9 Prüfungsausschuss **...................................................................................................... 7** § 10 Zugangskommission zum Masterstudium **.................................................................. 8** § 11 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht **................................................................................................... 9** § 12 Bekanntgabe der Prüfungsart, Prüfungstermine und der Prüfenden, **........................10** Anmeldung, Rücktritt, Folgen eines verspäteten bzw. nicht ordnungsgemäßen Rücktritts **10** § 13 Anerkennung von Kompetenzen **...............................................................................10** § 14 Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme **...................12** § 15 Entzug akademischer Grade **.....................................................................................12** § 16 Mängel im Prüfungsverfahren **...................................................................................12** § 17 Schriftliche Prüfung, Antwort-Wahl-Verfahren **...........................................................12** § 18 Mündliche Prüfung **....................................................................................................14** § 19 Vorträge **....................................................................................................................14** § 20 Praktikumsleistungen und Forschungsprojekte **.........................................................15** § 21 Elektronische Prüfung in Präsenz **.............................................................................15** § 22 Bewertung der Prüfungen, Gesamtnote **....................................................................15** § 23 Ungültigkeit der Prüfung **............................................................................................17** § 24 Einsicht in die Prüfungsakten **....................................................................................18** § 25 Urkunde, Zeugnis, Transcript of Records, Diploma Supplement,  Grade distribution table **..................................................................................................................................18** § 26 Bescheinigung über endgültig nicht bestandene Prüfung **..........................................18** § 27 Nachteilsausgleich **....................................................................................................18** 
 
 1 
 
-**==> picture [455 x 492] intentionally omitted <==**
+**==> picture [165 x 49] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-|||
-|---|---|
-|II. Teil: Besondere Vorschriften|.........................................................................................19|
-|Erster Abschnitt: Grundlagen- und Orientierungsprüfung und Bachelorprüfung|.........19|
-|1. Allgemeine Regelungen für den Bachelorstudiengang|...............................................19|
-|§ 28 Zulassungsvoraussetzungen für die Prüfungen|.........................................................19|
-|§ 29 Orientierungsphase, Grundlagen- und Orientierungsprüfung|....................................20|
-|§ 30 Bachelorphase|..........................................................................................................20|
-|§ 31 Bachelorarbeit|...........................................................................................................20|
-|§ 32 Wiederholung von Prüfungen, Modulwechsel|...........................................................22|
-|2. Prüfungsgegenstände im Bachelorstudiengang|..........................................................23|
-|§ 33 Gliederung des Bachelorstudiengangs|......................................................................23|
-|§ 34 Pflichtbereich des Bachelorstudiengangs|..................................................................23|
-|§ 35 Grundlagen- und Orientierungsprüfung|.....................................................................24|
-|§ 36 Wahlbereich (Physikalische und Nichtphysikalische Wahlfächer)|.............................24|
-|§ 37 Schlüsselqualifikationen|............................................................................................25|
-|§ 38 Freier Bereich|...........................................................................................................25|
-|§ 39 Forschungsstudienrichtung|.......................................................................................25|
-|Zweiter Abschnitt: Masterprüfung|....................................................................................28|
-|1. Allgemeine Regelungen für den Masterstudiengang|...................................................28|
-|§ 40 Qualifikation zum Masterstudium|..............................................................................28|
-|§ 41 Masterprüfung|...........................................................................................................28|
-|§ 42 Zulassungsvoraussetzungen für die Prüfungen|.........................................................29|
-|§ 43 Forschungsphase und Master’s thesis|......................................................................29|
-|§ 44 Wiederholung von Prüfungen, Modulwechsel|...........................................................31|
-|2. Prüfungsgegenstände im Masterstudiengang|.............................................................31|
-|§ 45 Gliederung des Masterstudiengangs|.........................................................................31|
-|§ 46 Pflichtbereich des Masterstudiengangs|.....................................................................31|
-|§ 47 Wahlbereich (Physikalische Wahlfächer und Nichtphysikalische  Wahlfächer)|..........32|
-|§ 48 Freier Bereich|...........................................................................................................32|
-|§ 49 Studienschwerpunkte|................................................................................................32|
-|§ 50 Forschungsstudienrichtung|.......................................................................................33|
-|III. Teil: Übergangs- und Schlussvorschriften|..................................................................35|
-|§ 51 Inkrafttreten .............................................................................................................35|
-|IV. Teil: Anlagen|.................................................................................................................37|
-|Anlage 1: Qualifikationsfeststellungsverfahren gemäß § 40|...........................................37|
-|Anlage 2: Bachelorstudiengang Studienverlaufsplan Physik B.Sc. ...............................40|
-|Anlage 3: Bachelorstudiengang Physik B.Sc. – Forschungsstudienrichtung ...............43|
-|Anlage 4: Studienverlaufsplan Masterstudiengang Physics M.Sc. ................................46|
-|Anlage 5: Studienverlaufsplan Masterstudiengang Physics M.Sc. –|
-|Forschungsstudienrichtung ..............................................................................................48|
+**==> picture [114 x 46] intentionally omitted <==**
 
-**----- End of picture text -----**<br>
-
+**II. Teil: Besondere Vorschriften** .........................................................................................19 **Erster Abschnitt: Grundlagen- und Orientierungsprüfung und Bachelorprüfung** .........19 **1. Allgemeine Regelungen für den Bachelorstudiengang** ...............................................19 § 28 Zulassungsvoraussetzungen für die Prüfungen **.........................................................19** § 29 Orientierungsphase, Grundlagen- und Orientierungsprüfung **....................................20** § 30 Bachelorphase **..........................................................................................................20** § 31 Bachelorarbeit **...........................................................................................................20** § 32 Wiederholung von Prüfungen, Modulwechsel **...........................................................22 2. Prüfungsgegenstände im Bachelorstudiengang** ..........................................................23 § 33 Gliederung des Bachelorstudiengangs **......................................................................23** § 34 Pflichtbereich des Bachelorstudiengangs **..................................................................23** § 35 Grundlagen- und Orientierungsprüfung **.....................................................................24** § 36 Wahlbereich (Physikalische und Nichtphysikalische Wahlfächer) **.............................24** § 37 Schlüsselqualifikationen **............................................................................................25** § 38 Freier Bereich **...........................................................................................................25** § 39 Forschungsstudienrichtung **.......................................................................................25 Zweiter Abschnitt: Masterprüfung** ....................................................................................28 **1. Allgemeine Regelungen für den Masterstudiengang** ...................................................28 § 40 Qualifikation zum Masterstudium **..............................................................................28** § 41 Masterprüfung **...........................................................................................................28** § 42 Zulassungsvoraussetzungen für die Prüfungen **.........................................................29** § 43 Forschungsphase und Master’s thesis **......................................................................29** § 44 Wiederholung von Prüfungen, Modulwechsel **...........................................................31 2. Prüfungsgegenstände im Masterstudiengang** .............................................................31 § 45 Gliederung des Masterstudiengangs **.........................................................................31** § 46 Pflichtbereich des Masterstudiengangs **.....................................................................31** § 47 Wahlbereich (Physikalische Wahlfächer und Nichtphysikalische  Wahlfächer) **..........32** § 48 Freier Bereich **...........................................................................................................32** § 49 Studienschwerpunkte **................................................................................................32** § 50 Forschungsstudienrichtung **.......................................................................................33 III. Teil: Übergangs- und Schlussvorschriften** ..................................................................35 **§ 51 Inkrafttreten .............................................................................................................35 IV. Teil: Anlagen** .................................................................................................................37 **Anlage 1: Qualifikationsfeststellungsverfahren gemäß § 40** ...........................................37 **Anlage 2: Bachelorstudiengang Studienverlaufsplan Physik B.Sc. ...............................40 Anlage 3: Bachelorstudiengang Physik B.Sc. – Forschungsstudienrichtung ...............43 Anlage 4: Studienverlaufsplan Masterstudiengang Physics M.Sc. ................................46 Anlage 5: Studienverlaufsplan Masterstudiengang Physics M.Sc. – Forschungsstudienrichtung ..............................................................................................48** 
 
 ## **I. Teil: Allgemeine Bestimmungen** 
 
@@ -125,6 +45,10 @@ Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, 
 (2)[1] Der Bachelor of Science ist ein erster berufsqualifizierender Abschluss des wissenschaftlichen Studiums.[2] Durch die Bachelorprüfung wird festgestellt, ob die Studierenden die grundlegenden Zusammenhänge des Fachs überblicken und die für ein 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 anschließendes Masterstudium oder einen frühen Übergang in die Berufspraxis notwendigen Fachkenntnisse und Fertigkeiten erworben haben. 
 
@@ -150,6 +74,10 @@ anschließendes Masterstudium oder einen frühen Übergang in die Berufspraxis n
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3) Das Bachelorstudium kann nur zum Wintersemester begonnen werden. 
 
 (4)[1] Die Unterrichts- und Prüfungssprache im Bachelorstudiengang Physik ist Deutsch. 2Einzelne Lehrveranstaltungen und Prüfungen im Wahl- und Schlüsselqualifikationsbereich sowie in der Forschungsstudienrichtung können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch.[3] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache. 
@@ -174,6 +102,10 @@ anschließendes Masterstudium oder einen frühen Übergang in die Berufspraxis n
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2)[1] ECTS-Punkte dienen als System zur Gliederung, Berechnung und Bescheinigung des Studienaufwandes.[2] Sie sind ein quantitatives Maß für die Arbeitsbelastung der Studierenden. 
 
 ## **§ 6 Modularisierung, studienbegleitende Leistungsnachweise, freiwillige Zwischenprüfungen** 
@@ -194,6 +126,10 @@ anschließendes Masterstudium oder einen frühen Übergang in die Berufspraxis n
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
 (2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden, wobei die Gründe für das Versäumnis unerheblich sind.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.[3] Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
@@ -205,6 +141,10 @@ Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Mo
 (5) Im Fall des Rücktritts von der Prüfung (Erst- oder Wiederholungsversuch) eines anwesenheitspflichtigen Moduls besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist; Näheres regelt das Modulhandbuch. 
 
 6 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 8 Prüfungsfristen, Fristversäumnis** 
 
@@ -232,6 +172,10 @@ Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Mo
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden trifft er alle anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt delegiert sind.[4] Auf Antrag überprüft er delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[5] Er berichtet regelmäßig den zuständigen Gremien des Departments über die Entwicklung der Prüfungen und Studienzeiten und gibt gegebenenfalls Anregungen zu Änderungen der Studien- und Prüfungsordnung.[6] Die Mitglieder des Prüfungsausschusses haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen.[7] Für den Geschäftsgang gilt § 30 der Grundordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg ( **GrO** ). 
 
 (4)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich oder elektronisch unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag. 
@@ -245,6 +189,10 @@ der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden trifft 
 (1) Die Prüfung der Qualifikations- und Zugangsvoraussetzungen zum Masterstudiengang obliegt der Zugangskommission. 
 
 8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] Die Zugangskommission besteht aus neun Mitgliedern des hauptberuflich i. S. d. Art. 53 Abs. 4 **BayHIG** beschäftigten wissenschaftlichen Personals des Departments Physik, die nach dem **BayHIG** und der **HSchPrüferV** in der jeweils geltenden Fassung prüfungsberechtigt sind.[2] Mindestens sechs Mitglieder einschließlich der bzw. dem Vorsitzenden müssen Professorinnen bzw. Professoren sein.[3] Die Mitglieder werden auf Vorschlag des Departments Physik vom Fakultätsrat der Naturwissenschaftlichen Fakultät für eine Amtszeit von drei Jahren bestellt; Wiederbestellung ist möglich.[4] Der Fakultätsrat bestimmt ein Mitglied zu der bzw. dem Vorsitzenden.[5] § 9 Abs. 4 und Abs. 5 Satz 1 gelten entsprechend. 
 
@@ -262,6 +210,10 @@ der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden trifft 
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 12 Bekanntgabe der Prüfungsart, Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt, Folgen eines verspäteten bzw. nicht ordnungsgemäßen Rücktritts** 
 
 (1)[1] Art und Umfang der Prüfungen ergeben sich aus den **Anlagen 2** bis **5** .[2] Die Termine der Prüfungen und die Prüfenden werden rechtzeitig ortsüblich bekannt gemacht. 
@@ -278,6 +230,10 @@ der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden trifft 
 
 10 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 staatlichen oder staatlich anerkannten Hochschulen erbracht worden sind, sowie aufgrund solcher Studiengänge erworbene Abschlüsse sind anzuerkennen, sofern hinsichtlich der erworbenen und der nachzuweisenden Kompetenzen keine wesentlichen Unterschiede bestehen.[2] Gleiches gilt für Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Modul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines Früh- oder Jungstudiums erbracht worden sind.[3] Die Anerkennung dient der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums oder der Zulassung zur Promotion. 
 
 (2)[1] Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
@@ -290,9 +246,7 @@ x= gesuchte Umrechnungsnote
 
 Nmax= beste erzielbare Note 
 
-Nmin= unterste Bestehensnote 
-
-Nd= erzielte Note 
+Nmin= unterste Bestehensnote Nd= erzielte Note 
 
 umgerechnet.[3] Bei den so berechneten Noten werden zwei Stellen hinter dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.[4] Ist die Umrechnung nach Satz 2 nicht möglich oder nachweislich nicht sinnvoll, so legt der Prüfungsausschuss einen entsprechenden Schlüssel für die Notenberechnung fest. 
 
@@ -301,6 +255,10 @@ umgerechnet.[3] Bei den so berechneten Noten werden zwei Stellen hinter dem Komm
 (5)[1] Anerkennung und Anrechnung erfolgen auf Antrag.[2] Die für die Anerkennung bzw. Anrechnung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen.[3] Vorbehaltlich der Regelung in Satz 3 besteht bei Vorliegen der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung bzw. Anrechnung.[4] Eine Anerkennung bzw. Anrechnung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.[5] Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses; erforderlichenfalls werden Fachvertreterinnen bzw. Fachvertreter des zuständigen Fachs vorab angehört.[6] Die Entscheidung ergeht schriftlich. 
 
 11 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 14 Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** 
 
@@ -328,6 +286,10 @@ Der Entzug des akademischen Grades richtet sich nach Art. 101 **BayHIG** .
 
 12 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 nach entsprechender Festlegung der bzw. des Prüfenden erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung.[4] Bei Prüfungen i. S. d. Satz 3 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten. 
 
 (2)[1] Klausuren dauern mindestens 60 und höchstens 180 Minuten.[2] Die Prüfungsdauer ergibt sich im Einzelnen aus den **Anlagen 2** bis **5** . 
@@ -341,6 +303,10 @@ nach entsprechender Festlegung der bzw. des Prüfenden erweiterten Kreises an Hi
 (6)[1] Die Aufgabenstellerinnen bzw. Aufgabensteller nach Abs. 5 Satz 7 legen fest, wann die Prüfungen nach Abs. 5 Satz 1 als bestanden gelten und legen auch eine relative Bestehensgrenze (Satz 2 Nr. 2) fest.[2] Sofern die Aufgabenstellerinnen bzw. Aufgabensteller keine Festlegung getroffen haben, gelten Prüfungen nach Abs. 3 Satz 1 als bestanden, wenn 
 
 13 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 1. die bzw. der zu Prüfende insgesamt mindestens 50 Prozent der gestellten Prüfungsfragen zutreffend beantwortet bzw. der zu erzielenden Punkte erreicht hat oder 
 
@@ -366,6 +332,10 @@ nach entsprechender Festlegung der bzw. des Prüfenden erweiterten Kreises an Hi
 
 14 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 und Verhalten in der Diskussion sowie ggf. die Leistung während der Vortragsvorbereitung ein.[3] Die Betreuerin bzw. der Betreuer des Vortrags soll in der Regel zu der bzw. dem Prüfenden bestellt werden.[4] Sind bei einem Vortrag mehrere nach § 11 Abs. 1 Satz 2 grundsätzlich Prüfungsberechtigte anwesend, entfällt die Notwendigkeit der Hinzuziehung einer Beisitzerin bzw. eines Beisitzers. 
 
 (2) § 18 Abs. 2 und 3 gelten entsprechend. 
@@ -384,8 +354,9 @@ und Verhalten in der Diskussion sowie ggf. die Leistung während der Vortragsvor
 
 (1) Die Urteile über die einzelnen Prüfungen werden von der bzw. dem jeweiligen Prüfenden durch folgende Prädikate und Noten ausgedrückt: 
 
-|**Prädikat**|**Note**|**Erläuterung**|
+||||
 |---|---|---|
+|**Prädikat**|**Note**|**Erläuterung**|
 |**sehr gut**|= (1,0 oder 1,3)|eine hervorragende Leistung;|
 |**gut**|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den durchschnittli-<br>chen Anforderungen liegt;|
 |**befriedigend**|= (2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen Anforderungen<br>entspricht;|
@@ -394,6 +365,10 @@ und Verhalten in der Diskussion sowie ggf. die Leistung während der Vortragsvor
 
 
 15 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **nicht ausreichend** = (4,3 oder 4,7 oder 5,0) 
 
@@ -418,6 +393,10 @@ eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genüg
 (5)[1] Soweit in §§ 31 und 43 sowie der jeweiligen **Anlage** bzw. im Modulhandbuch nichts anderes festgelegt ist, werden die Modulnoten aus dem Durchschnitt der einzelnen Noten der Prüfungen im Sinne von § 6 Abs. 2 Satz 3 errechnet; das Notenschema des Abs. 1 Satz 1 findet keine Anwendung.[2] Änderungen an den Gewichtungsfaktoren im Sinne des Satz 1 sind nur zu Semesterbeginn möglich und gelten jeweils nur für Studierende, die sich bezogen auf das jeweilige Module noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Abweichend von Satz 2 sind Änderungen an den Gewichtungsfaktoren von Prüfungen, die Bestandteil der Grundlagen- und Orientierungsprüfung sind, sowie in den Modulen Bachelor- und Masterarbeit jeweils nur mit Wirkung für Studierende möglich, die das Studium ab dem jeweiligen Semester neu aufnehmen.[4] Näheres zur Bewertung von Prüfungen mit mehreren Prüfungsteilen bzw. Teilleistungen regelt die jeweilige Modulbeschrei- 
 
 16 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 bung.[5] Bei der Ermittlung der Note werden zwei Stellen nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.[6] Wird in einem Modul nur eine benotete Prüfung abgehalten, bildet sie die Modulnote.[7] Wird keine benotete Prüfung abgehalten, lautet die Bewertung des Moduls “bestanden“ bzw. „nicht bestanden“.[8] In den **Anlagen** können Kompensationsmöglichkeiten für nicht bestandene Teilprüfungen vorgesehen werden. 
 
@@ -445,6 +424,10 @@ bei einem Durchschnitt über 1,50 bis 2,50 = gut bei einem Durchschnitt über 2,
 
 17 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 24 Einsicht in die Prüfungsakten** 
 
 (1) Nach Abschluss der einzelnen Prüfungsverfahren erhält die bzw. der Studierende auf Antrag Einsicht in ihre bzw. seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfenden und die Prüfungsprotokolle. 
@@ -466,6 +449,10 @@ bei einem Durchschnitt über 1,50 bis 2,50 = gut bei einem Durchschnitt über 2,
 (1)[1] Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf.[3] Sätze 1 und 2 gelten entsprechend für Studierende in 
 
 18 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer länger andauernden Krankheit oder Behinderung im Sinne des Satz 2 vergleichbar sind. 
 
@@ -499,6 +486,10 @@ besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer
 
 19 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 29 Orientierungsphase, Grundlagen- und Orientierungsprüfung** 
 
 (1)[1] Die ersten beiden Fachsemester des Bachelorstudiengangs Physik dienen als Orientierungsphase, in der wichtige inhaltliche und methodische Grundlagen des Fachs erworben werden.[2] In der Grundlagen- und Orientierungsprüfung, die dieser Orientierungsphase zugeordnet ist, sollen die Studierenden zeigen, dass sie 
@@ -525,6 +516,10 @@ besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer
 
 20 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4)[1] Die Zeit von der Themenstellung bis zur Abgabe der Bachelorarbeit darf drei Monate nicht überschreiten (Regelbearbeitungszeit); sie kann nur in begründeten Ausnahmefällen um maximal einen Monat verlängert werden.[2] Das Thema muss so begrenzt sein, dass der Arbeitsaufwand für das Modul Bachelorarbeit inkl. Bachelorkolloquium insgesamt 450 Stunden (375 Stunden für die Bachelorarbeit in der Forschungsstudienrichtung) nicht überschreitet und dass die Bachelorarbeit innerhalb der Regelbearbeitungszeit erstellt werden kann. 
 
 (5)[1] Weist die bzw. der Studierende durch ärztliches Attest nach, dass sie bzw. er infolge einer Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungszeit.[2] Ruht die Bearbeitungszeit für einen längeren Zeitraum (mind. 6 Monate) i. S. d. Satz 1, so kann der Prüfungsausschuss in Rücksprache mit der Betreuerin bzw. dem Betreuer einen krankheitsbedingten Abbruch der Bearbeitung verfügen mit der Folge, dass die Bachelorarbeit nach Wegfall der Krankheit mit einem neuen Thema neu anzumelden ist.[3] Sätze 1 und 2 gelten entsprechend in Fällen, in denen die bzw. der Studierende aus schwerwiegenden, nicht in die Risikosphäre der bzw. des Studierenden liegenden und nicht von ihr bzw. ihm zu vertretenden Gründen an der Bearbeitung der Bachelorarbeit gehindert ist. 
@@ -538,6 +533,10 @@ besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer
 (9)[1] Die Arbeit muss von zwei Prüfenden innerhalb von vier Wochen nach der Abgabe beurteilt werden.[2] Erstgutachterin bzw. Erstgutachter ist in der Regel diejenige Person, 
 
 21 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 die das Thema der Arbeit gestellt hat.[3] Über Ausnahmen entscheidet der Prüfungsausschuss. 
 
@@ -558,6 +557,10 @@ die das Thema der Arbeit gestellt hat.[3] Über Ausnahmen entscheidet der Prüfu
 (4)[1] Die bzw. der Studierende ist verpflichtet, ihren bzw. seinen Prüfungsstatus im Prüfungsverwaltungssystem regelmäßig zu überprüfen.[2] Etwaige Unstimmigkeiten sind unverzüglich dem Prüfungsamt mitzuteilen.[3] Die Pflicht zur Wiederholung bleibt auch 
 
 22 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 im Falle von Exmatrikulation und Beurlaubung bestehen.[4] Die Regeln über Mutterschutz, Eltern- und Pflegezeit (§ 8 Abs. 2) finden Anwendung. 
 
@@ -595,6 +598,10 @@ im Falle von Exmatrikulation und Beurlaubung bestehen.[4] Die Regeln über Mutte
 
 23 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 10. das Modul Bachelorarbeit (inkl. Bachelorkolloquium). 
 
 3Für Studierende, die das Studium in der Forschungsstudienrichtung gemäß § 39 absolvieren, umfasst der Pflichtbereich mindestens 147,5 ECTS-Punkte aus folgenden Modulen: 
@@ -631,6 +638,10 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung sind bis zum Ende des zwe
 
 24 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Wahlfächer zugelassenen Module und die jeweiligen Prüfungsmodalitäten sind dem Modulkatalog zu entnehmen.[8] Von Sätzen 4 und 5 abweichende Modulgrößen und Lehrveranstaltungs-Zusammensetzungen sind möglich.[9] Die im Falle einer Abweichung jeweils einschlägigen Bedingungen sind dem Modulhandbuch zu entnehmen. 
 
 (3)[1] In den Nichtphysikalischen Wahlfächern werden fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt.[2] Es müssen Module im Umfang von mindestens 10 ECTS-Punkten erfolgreich abgeschlossen sein.[3] In diesem Bereich erwerben die Studierenden in der Orientierungsphase des Bachelorstudiums Grundkenntnisse in einem der Physik nahestehenden Fach (Nichtphysikalisches Wahlfach 1).[4] Gegenwärtig sind Astronomie, Chemie, Informatik, Physikalische Chemie und Werkstoffwissenschaften zugelassen.[5] Die Auswahl an zugelassenen Wahlfächern kann erweitert werden; Näheres regelt das Modulhandbuch.[6] In der Bachelorphase können vertiefte Kenntnisse in demselben oder Grundkenntnisse in weiteren nichtphysikalischen Wahlfächern erworben werden, solange diese in einem sinnvollen Zusammenhang mit dem Studium der Physik stehen.[7] Dies trifft insbesondere für alle Fächer der Naturwissenschaftlichen Fakultät, der Technischen Fakultät und der Medizinischen Fakultät im nichtklinischen Bereich zu; in anderen Fällen entscheidet der Prüfungsausschuss auf Antrag der bzw. des Studierenden.[8] Art und Umfang der Lehrveranstaltungen und der Prüfung sowie die jeweiligen Qualifikationsziele und Prüfungsgegenstände sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem entsprechenden Modulhandbuch zu entnehmen. 
@@ -649,6 +660,10 @@ Wahlfächer zugelassenen Module und die jeweiligen Prüfungsmodalitäten sind de
 
 25 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2)[1] Die Auswahl von geeigneten Studierenden für die Forschungsstudienrichtung des Bachelorstudiengangs obliegt einer Auswahlkommission, der drei Professorinnen bzw. Professoren des Departments Physik der FAU angehören.[2] Die Mitglieder werden vom Fakultätsrat der Naturwissenschaftlichen Fakultät für drei Jahre bestellt.[3] Wiederbestellung ist möglich.[4] Die Mitglieder der Auswahlkommission wählen aus ihrer Mitte eine Vorsitzende bzw. einen Vorsitzenden und deren bzw. dessen Stellvertreterin bzw. Stellvertreter. 
 
 (3)[1] Für die Wahl der Forschungsstudienrichtung zum Beginn des vierten Fachsemesters des Bachelorstudiums müssen folgende Voraussetzungen erfüllt sein: 
@@ -666,6 +681,10 @@ Wahlfächer zugelassenen Module und die jeweiligen Prüfungsmodalitäten sind de
 (4)[1] Die Bewerbung zur Gewährung des Zugangs zur Forschungsstudienrichtung im vierten Fachsemester des Bachelorstudiums ist nur zum Sommersemester möglich und kann jeweils bis zum 15. Februar eines jeden Jahres bei der Auswahlkommission 
 
 26 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 nach Abs. 2 erfolgen (Ausschlussfrist).[2] Der Bewerbung sind folgende Unterlagen beizufügen: 
 
@@ -692,6 +711,10 @@ nach Abs. 2 erfolgen (Ausschlussfrist).[2] Der Bewerbung sind folgende Unterlage
 - 3Im Zweifelsfall entscheidet der Prüfungsausschuss. 
 
 27 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Zweiter Abschnitt: Masterprüfung** 
 
@@ -721,6 +744,10 @@ nach Abs. 2 erfolgen (Ausschlussfrist).[2] Der Bewerbung sind folgende Unterlage
 
 28 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 zu erbringenden Modulprüfungen und die Module der Forschungsphase bestanden sind. 
 
 (2)[1] Die **Anlage 4** in Verbindung mit § 45 regelt Gegenstände, Art und Umfang der Masterprüfung.[2] Soll die Masterprüfung mit einem Schwerpunkt absolviert werden, gelten zusätzlich die Regelungen gemäß §49.[3] Abweichend von Sätzen 1 und 2 sind Gegenstände, Art und Umfang der Masterprüfung in der Forschungsstudienrichtung in **Anlage 5** in Verbindung mit § 50 geregelt.[4] Module, die bereits Gegenstand der für den Masterstudiengang qualifizierenden Bachelorprüfung waren, können wegen des fachspezifischen Kompetenzerwerbs, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des Masterstudiengangs ergibt, nicht mehr in die Masterprüfung eingebracht werden; Gleiches gilt für die Mehrfachbelegung von Modulen innerhalb des Masterstudiums.[5] Der Prüfungsausschuss kann Ausnahmen von der Regelung in Satz 4 Halbsatz 1 zulassen. 
@@ -743,6 +770,10 @@ zu erbringenden Modulprüfungen und die Module der Forschungsphase bestanden sin
 
 29 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2)[1] Die Studierenden sorgen dafür, dass sie rechtzeitig zur Wahrung der Fristen nach § 8 ein Projekt für die Forschungsphase erhalten.[2] Gelingt dies trotz ernsthafter Bemühungen nicht, weist die bzw. der Vorsitzende des Prüfungsausschusses der bzw. dem Studierenden auf Antrag ein Projekt und eine Betreuerin bzw. einen Betreuer zu. 
 
 (3)[1] Nach erfolgreichem Absolvieren von fachlicher Spezialisierung und Projektplanung erfolgt die Themenstellung für die Master’s thesis.[2] Thema und Tag der Ausgabe der Master’s thesis sind von der Betreuerin bzw. vom Betreuer zu bestätigen und beim Prüfungsausschuss aktenkundig zu machen.[3] Die Zeit von der Themenstellung bis zur Ablieferung der Master’s thesis darf sechs Monate nicht überschreiten; das Thema muss so begrenzt sein, dass innerhalb dieser Frist die Master’s thesis erstellt werden kann.[4] Auf begründeten Antrag kann die Bearbeitungsfrist ausnahmsweise um höchstens drei Monate verlängert werden. 
@@ -754,6 +785,10 @@ zu erbringenden Modulprüfungen und die Module der Forschungsphase bestanden sin
 (6)[1] Ist die Arbeit abgelehnt oder gilt sie als abgelehnt, so kann sie einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Die bzw. der Studierende sorgt dafür, dass sie bzw. er innerhalb von zwei Monaten nach der Bekanntgabe der Ablehnung ein neues Thema für die Master’s thesis erhält, für das die bereits absolvierten Module Specialisation phase und Project planning and preparation inhaltlich nutzbar sind; anderenfalls gilt die Arbeit als endgültig nicht bestanden.[3] Für die Wiederholung gelten die Abs. 1, Abs. 2 Satz 2 sowie Abs. 3 bis 6 entsprechend. 
 
 30 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (7)[1] Auf Vorschlag der beiden Gutachterinnen bzw. Gutachter kann der Prüfungsausschuss mit dem Einverständnis der bzw. des Studierenden gestatten, eine überarbeitete Fassung der Master’s thesis innerhalb einer vom Prüfungsausschuss festzusetzenden Frist von maximal zwei Monaten nach Rückgabe zur Überarbeitung außerhalb der Wiederholungsregelung nach Abs. 7 vorzulegen.[2] Im Falle der Ablehnung der Master’s thesis wegen Täuschung oder Plagiats ist eine Überarbeitung ausgeschlossen. 3Die Begutachtung der überarbeiteten Fassung obliegt in der Regel den Gutachterinnen bzw. Gutachtern der Erstversion; der Prüfungsausschuss kann Ausnahmen genehmigen und regeln. 
 
@@ -791,6 +826,10 @@ Für die Wiederholung von Prüfungen und den Wechsel von Modulen gilt § 32 ents
 
 31 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (Satz 2 Ziffer 3 durch zwei Module Research-oriented projects ersetzt werden und zusätzlich das Modul Research seminar zum Pflichtbereich gehört.[4] Für die Module Advanced experimental physics nach Satz 2 Ziffer 1 bestehen die Auswahlmöglichkeiten 1. Lasers, atomic physics and quantum optics (EV-A), 
 
 2. Particle and astroparticle physics (EV-B) oder 
@@ -825,6 +864,10 @@ Für die Wiederholung von Prüfungen und den Wechsel von Modulen gilt § 32 ents
 
 32 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 2. Condensed matter physics 
 
 3. Optical sciences 
@@ -846,6 +889,10 @@ Für die Wiederholung von Prüfungen und den Wechsel von Modulen gilt § 32 ents
 (1)[1] Im Rahmen der Forschungsstudienrichtung müssen im Masterstudium im Pflichtbereich die Module entsprechend § 46 Satz 3 und im Wahlbereich Module entsprechend § 47 absolviert werden.[2] Von den zwei Modulen Forschungsorientierte Projektarbeit (Research-oriented project) muss eines aus dem Bereich der Experimentalphysik und eines aus dem Bereich der Theoretischen Physik kommen; die beiden Projekte müssen verschiedenen Themenbereichen der Physik zugeordnet sein.[3] Der Prüfungsausschuss kann Ausnahmen von der Regelung in Satz 2 zulassen und regeln.[4] Anstelle des Moduls Physikalisches Seminar (Physics seminar) wird ein weiteres Modul Studientage (Study workshop) absolviert.[5] Im Rahmen des Moduls Project planning and preparation (FFO-2) wird zusätzlich zum Inhalt des Moduls FO-2 im regulären 
 
 33 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Masterstudium das Konzept eines Forschungsantrags zur Themenstellung der Forschungsphase erarbeitet.[6] Zum Studienverlauf im Übrigen siehe **Anlage 5** .[7] § 39 Abs. 1 Satz 6 gilt entsprechend.[8] Ein Leistungsnachweis kann wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des konsekutiven Studiums ergibt, nur einmal verwendet werden. 
 
@@ -873,6 +920,10 @@ Masterstudium das Konzept eines Forschungsantrags zur Themenstellung der Forschu
 
 34 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 nach Satz 1 Nrn. 2 und 3 wird unter Berücksichtigung dieser Unterlagen und in einem Auswahlgespräch festgestellt, für dessen Durchführung § 39 Abs. 5 entsprechend gilt. 
 
 (3)[1] Die Bewerbung zum Zugang zur Forschungsstudienrichtung ist mit der Bewerbung zum Zugang zum regulären Masterstudiengang Physics einzureichen.[2] § 39 Abs. 2, 4 Satz 2 und Abs. 6 gelten entsprechend. 
@@ -899,6 +950,10 @@ nach Satz 1 Nrn. 2 und 3 wird unter Berücksichtigung dieser Unterlagen und in e
 
 35 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 nannten Studien- und Prüfungsordnung werden für den Bachelorstudiengang letztmals im Sommersemester 2027 und für die Masterstudiengang letztmals im Sommersemester 2026 angeboten. 
 
 (3)[1] Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft.[2] Sie findet Anwendung auf alle Prüfungen (Erst-, Zweit- und Drittversuch), die dem Prüfungszeitraum Wintersemester 2024/2025 und später zugeordnet sind.[3] Für Prüfungen, die früheren Prüfungszeiträumen zugeordnet sind, finden die Regelungen in der BMPO/Physik in der Fassung vom 31. Juli 2023 Anwendung. 
@@ -906,6 +961,10 @@ nannten Studien- und Prüfungsordnung werden für den Bachelorstudiengang letztm
 (4)[1] Die zweite Änderungssatzung tritt am 1. April 2026 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen werden. 3Studierende, die das Studium ab dem Wintersemester 2025/2026 aufgenommen haben und ab dem Sommersemester 2026 in die Forschungsstudienrichtung im Bachelorstudiengang aufgenommen werden, werden zum Zeitpunkt der Aufnahme in die Forschungsstudienrichtung von Amts wegen in die BMPO/Physik vom 31. Juli 2023 in der Fassung dieser zweiten Änderungssatzung überführt. 
 
 36 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **IV. Teil: Anlagen** 
 
@@ -939,6 +998,10 @@ nannten Studien- und Prüfungsordnung werden für den Bachelorstudiengang letztm
 
 37 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (5)[1] Besonders qualifizierte Bewerberinnen bzw. Bewerber werden allein aufgrund der Vorauswahl in das Masterstudium aufgenommen.[2] Als besonders qualifiziert gilt insbesondere, wer einen nach § 40 Abs. 1 Satz 2 Nr. 1 i. V. m. Abs. 3 einschlägigen Abschluss mit mindestens der Note 2,5 (= „gut“) vorweisen kann; bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gelten § 13 Abs. 3 Sätze 1 bis 3 entsprechend. 
 
 (6)[1] Bewerberinnen bzw. Bewerber, denen nicht bereits im Rahmen der Vorauswahl der Zugang zum Masterstudium gewährt werden kann und deren bisherige Leistungen im Bereich von 2,51 bis 3,00 liegen, werden zu einem Auswahlgespräch eingeladen; die übrigen Bewerberinnen und Bewerber werden nicht zum Auswahlgespräch zugelassen; sie gelten als abgelehnt im Sinne von Abs. 7.[2] Das Auswahlgespräch soll zeigen, ob die Bewerberin bzw. der Bewerber den Anforderungen eines stärker forschungsorientierten Masterstudiums genügt und insbesondere, ob zu erwarten ist, dass sie bzw. er in einem solchen Studium selbstständig wissenschaftlich zu arbeiten versteht.[3] Das Auswahlgespräch erstreckt sich auf folgende gleichgewichtete Kriterien: 
@@ -957,64 +1020,98 @@ nannten Studien- und Prüfungsordnung werden für den Bachelorstudiengang letztm
 
 38 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (9) Die Bestätigung über das bestandene Qualifikationsfeststellungsverfahren hat unbeschränkte Gültigkeit, sofern sich der Masterstudiengang nicht wesentlich geändert hat. 
 
 39 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage 2: Bachelorstudiengang Studienverlaufsplan Physik B.Sc.** 
 
 1In der Regel umfasst das Bachelorstudium der Physik die in der nachfolgenden Tabelle aufgeführten Module. 2Davon ist eine Auswahl entsprechend der Vorgaben in §§ 33, 34, 36-38 erfolgreich abzuschließen.[3] Das Modul Rechenmethoden der Physik kann durch ein Modul aus dem Wahlbereich ersetzt werden.[4] Die Module des Wahl- und Schlüsselqualifikationsbereichs können in ECTS-Punkten, Semesterwochenstunden, Zuordnungen zu den Fachsemestern und Zuordnung zu den Physikalischen und Nichtphysikalischen Wahlbereichen von den Angaben in der nachfolgenden Tabelle abweichen; Näheres regelt das Modulhandbuch.[5] Der Prüfungsausschuss kann zudem weitere unbenotete Module für den Wahlbereich zulassen. 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**ECTS**<br>**Gesamt**<br>**3)**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**3**||||||||
+||||||**SWS2)**|||**ECTS**|**Workload **||**pro Semester in ECTS-**|||||**Faktor**|
+||||||||||||<br>||||||
+|||||||||**Gesamt**<br>**3)**|||**Punkten**||||**Art und Umfang**<br>**der Prüfung**|**Abschluss**<br>**note**|
+||||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**|**6**|||
 |**EP-12**|**Experimentalphysik**<br>**1+2**|**Experimentalphysik 1:**<br>**Mechanik**|**P**|5|2|1||**15**|7,5||||||Klausur (120 Min.)und<br>unbenotete Praktikumsleis-<br>tung gemäß § 20|0|
 |||**Experimentalphysik 2:**<br>**Wärmelehre und**<br>**Elektrodynamik**||5|2|1||||7,5|||||||
-|**RMP**|**Rechenmethoden der**<br>**Physik**|**Rechenmethoden d.**<br>**Physik, Teil 1**|**W**|(2)|(2)|||**(5)**|(2,5)||||||Unbenotete Klausur<br>(90 Min.)|0|
-|||**Rechenmethoden d.**<br>**Physik, Teil 2**||(2)|(2)|||||(2,5)|(2,5)||||||
+|**RMP**|**Rechenmethoden der**<br>**Physik**|**Rechenmethoden d.**<br>**Physik, Teil 1**|**W**|(2)||||**(5)**|(2,5)||||||Unbenotete Klausur<br>(90 Min.)|0|
+|||**Rechenmethoden d.**<br>**Physik, Teil 2**||(2)||||||(2,5)|||||||
 |**MP-A**|**Mathematik A für Physikstudierende4)**||**P**|4|4|||**10**|10||||||Klausur (120 Min.)und<br>Übungsleistung (unbenotet)|0|
 |**DV**|**Datenverarbeitung in der Physik**||**P**|2||2||**5**|5||||||Unbenotete Praktikumsleis-<br>tung<br>gemäß § 20|0|
-|**NW-1**|**Nichtphysikalisches**<br>**Wahlfach 1 gemäß**<br>**§ 36 Abs. 3 Sätze 3-5**|**Nichtphys. Wahlfach 1,**<br>**Teil 1**|**W**|5), 6)||||**10**|7,5||||||Nach Maßgabe des Fachs<br>5)|0|
+|**NW-1**|**Nichtphysikalisches**<br>**Wahlfach 1 gemäß**<br>**§ 36 Abs. 3 Sätze 3-5**|**Nichtphys. Wahlfach 1,**<br>**Teil 1**|**W**||5), 6)|||**10**|7,5||||||Nach Maßgabe des Fachs<br>5)|0|
 |||**Nichtphys. Wahlfach 1,**<br>**Teil 2**||||||||2,5|||||||
-|**TP-1**<br>~~pp~~|**Theoretische Physik 1: Mechanik**<br>~~pp~~||**P**|4|3|||**10**||10|||||Klausur (120 Min.)|0|
+|**TP-1**|**Theoretische Physik 1:**|**Mechanik**|**P**|4|3|||**10**||10|||||Klausur (120 Min.)|0|
 
 
 
 40 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**ECTS**<br>**Gesamt**<br>**3)**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**3**||||||||
+||||||**SWS2)**|||**ECTS**|**Workload **||**pro Semester in ECTS-**|||||**Faktor**|
+||||||||||||<br>||||||
+|||||||||**Gesamt**<br>**3)**|||**Punkten**||||**Art und Umfang**<br>**der Prüfung**|**Abschluss**<br>**note**|
+||||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**|**6**|||
 |**MP-B**|**Mathematik B für Physikstudierende4)**||**P**|4|4|||**10**||10|||||Klausur (120 Min.)und<br>Übungsleistung (unbenotet)|0|
 |**EP-34**|**Experimentalphysik**<br>**3+4**|**Experimentalphysik 3:**<br>**Optik und Quanten-**<br>**phänomene**|**P**|4|2|||**15**|||7,5||||Mündliche Prüfung<br>(30 Min.)|1|
 |||**Experimentalphysik 4:**<br>**Atom- und Molekül-**<br>**physik**||3|2|||||||7,5|||||
-|**GP**|**Grundpraktikum**||**P**||~~OO~~|6<br>~~OO~~|~~GO~~|**5**<br>~~GO~~|~~GO~~|~~OO~~|5<br>~~OO~~|~~OG~~|~~OG~~||Unbenotete Praktikumsleis-<br>tung<br>gemäß § 20|0|
-|**TP-2**|**Theoretische Physik 2: Elektrodynamik7)**<br>~~PG~~||**P**<br>~~PG~~|4<br>~~PG~~|3<br>~~PG~~<br>~~OO~~|~~PG~~<br>~~OO~~|~~PG~~<br>~~GO~~|**10**<br>~~PG~~<br>~~GO~~|~~PG~~<br>~~GO~~|~~PG~~<br>~~OO~~|10<br>~~PG~~<br>~~OO~~|~~PG~~<br>~~OG~~|~~PG~~<br>~~OG~~|~~PG~~|Klausur (120 Min.)<br>~~PG~~|1|
-|**MP-C**|**Mathematik C für Physikstudierende4)**||**P**|(5)|(2)<br>~~OO~~|(2)<br>~~OO ~~|~~GO~~|**(10)**<br>~~GO~~|~~GO ~~|~~OO~~|(10)<br>~~OO ~~|~~OG~~|~~OG~~||Klausur (120 Min.)|0|
-|**SQ**|**Schlüsselqualifikation**<br>**gemäß § 37**|**5)**|**S**|5)||||**5**|||2,5|2,5|||Unbenotete Studienleistung<br>nach Maßgabe des Fachs<br>5)|0|
-|**NW**|**Nichtphysikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 3**|**5)**|**W**|5)||||**5**|||5||||Nach Maßgabe des Fachs<br>5)|1|
+|**GP**|**Grundpraktikum**||**P**|||6||**5**|||5||||Unbenotete Praktikumsleis-<br>tung<br>gemäß § 20|0|
+|**TP-2**|**Theoretische Physik 2:**|**Elektrodynamik7)**|**P**|4|3|||**10**|||10||||Klausur (120 Min.)|1|
+|**MP-C**|**Mathematik C für Physikstudierende4)**||**P**|(5)|(2)|||**(10)**|||(10)||||Klausur (120 Min.)|0|
+|**SQ**|**Schlüsselqualifikation**<br>**gemäß § 37**|**5)**|**S**|||5)||**5**|||2,5|2,5|||Unbenotete Studienleistung<br>nach Maßgabe des Fachs<br>5)|0|
+|**NW**|**Nichtphysikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 3**|**5)**|**W**|||5)||**5**|||5||||Nach Maßgabe des Fachs<br>5)|1|
 |**PE-A**|**Physikalisches**<br>**Experimentieren A**|**Elektronikpraktikum**|**P**|1||7||**10**||||10|||Präsentation einer Ver-<br>suchsauswertung<br>(50 %)und<br>Praktikumsleistung gemäß<br>§ 20 (50 %)|1|
-|**TP-3**<br>~~i~~|**Theoretische Physik 3: Quantenmechanik 7)**<br>~~i~~||**P**|4|3|||**10**||||10|||Klausur (120 Min.)|1|
-|**EP-5**<br>~~i~~|**Experimentalphysik 5: Kern- und Teilchenphy-**<br>**sik8)**<br>~~i~~||**P**|3|2|||**7,5**|||||7,5||Klausur (90 Min.)|1|
-|**EP-6**<br>~~a~~<br>~~ee~~|**Experimentalphysik 6: Festkörperphysik8)**<br>~~a~~<br>~~ee~~||**P**|(3)|(2)|(2)||**(7,5)**|||||(7,5)|(7,5)|Klausur (90 Min.)|1|
-|**TP-4**<br>~~ee~~|**Theoretische Physik 4: Statistische Physik7)**<br>~~ee~~||**P**|(4)|(3)|(3)||**(10)**|||||(10)||Klausur (120 Min.)|1|
+|**TP-3**|**Theoretische Physik 3: Quantenmechanik 7)**||**P**|4|3|||**10**||||10|||Klausur (120 Min.)|1|
+|**EP-5**|**Experimentalphysik 5: Kern- und Teilchenphy-**<br>**sik8)**||**P**|3|2|||**7,5**|||||7,5||Klausur (90 Min.)|1|
+|**EP-6**|**Experimentalphysik 6: Festkörperphysik8)**||**P**|(3)|(2)|||**(7,5)**|||||(7,5)||Klausur (90 Min.)|1|
+|**TP-4**|**Theoretische Physik 4: Statistische Physik7)**||**P**|(4)|(3)|||**(10)**|||||(10)||Klausur (120 Min.)|1|
 
 
 
 41 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**ECTS**<br>**Gesamt**<br>**3)**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**3**||||||||
+||||||**SWS2)**|||**ECTS**|**Workload **||**pro Semester in ECTS-**|||||**Faktor**|
+||||||||||||<br>||||||
+|||||||||**Gesamt**<br>**3)**|||**Punkten**||||**Art und Umfang**<br>**der Prüfung**|**Abschluss**<br>**note**|
+||||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**|**6**|||
 |**PE-B**|**Physikalisches**<br>**Experimentieren B**|**Projekt- oder**<br>**Aufbaupraktikum**|**P**|||8||**5**|||||5||Praktikumsleistung gemäß<br>gemäß § 2|0|
 |**TP-K**|**Kolloquium Theoreti-**<br>**sche Physik**|**Synopsis d.**<br>**Theoretischen Physik**|**P**||1||1|**7,5**|||||7,5||Mündliche Prüfung<br>(30 Min.)|1|
-|**PW**|**Physikalisches Wahl-**<br>**fach gemäß § 36 Abs.**<br>**2**|**5)**|**W**|5)||||**12,5**|||||5|7,5|vgl. § 36 Abs. 25)|1|
+|**PW**|**Physikalisches Wahl-**<br>**fach gemäß § 36 Abs.**<br>**2**|**5)**|**W**|||5)||**12,5**|||||5|7,5|vgl. § 36 Abs. 25)|1|
 |**PS**|**Physikalisches Seminar**||**W**||||2|**5**|||||5||Vortrag (45 Min.) mit<br>anschließender Diskussion<br>gemäß § 19|1|
 |**PE-C**|**Physikalisches**<br>**Experimentieren C**|**Fortgeschrittenen-**<br>**praktikum**|**P**|||10||**7,5**||||||7,5|Praktikumsleistung gemäß<br>§ 20 (7 Versuche)|1|
-|**BA**<br>~~2~~|**Bachelorarbeit**|**Bachelorarbeit**|**P**|||||**15**||||||12,5|vgl. § 31|2|
+|**BA**|**Bachelorarbeit**|**Bachelorarbeit**|**P**|||||**15**||||||12,5|vgl. § 31|2|
 |||**Bachelorkolloquium**|||||2|||||||2,5|||
+||||||||||||||||||
 |**Summe der SWS9)und ECTS-Punkte**||||**54**|**37**|**36**|**10**|**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
-|||||**137**|||||||||||||
+||||||||||||||||||
+||||||**137**||||||||||||
+||||||||||||||||||
 
 
 

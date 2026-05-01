@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc International Information Systems FPOIIS 20240229 i.d.F. 20250711.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/gueltig_ab_WS_2024-25/MSc_International_Information_Systems_FPOIIS_20240229_idF_20250711.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:31:51+00:00
-page_count_chars: 35638
+scraped_at: 2026-05-01T09:38:19+00:00
+page_count_chars: 32162
 ---
 
 # MSc International Information Systems FPOIIS 20240229 i.d.F. 20250711.pdf
@@ -12,7 +12,13 @@ page_count_chars: 35638
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/gueltig_ab_WS_2024-25/MSc_International_Information_Systems_FPOIIS_20240229_idF_20250711.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIIS – Vom 29. Februar 2024** 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+## **Fachstudien- und Prüfungsordnung für den Masterstudiengang International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIIS –** 
+
+## **Vom 29. Februar 2024** 
 
 geändert durch Satzung vom 11. Juli 2025 
 
@@ -20,7 +26,9 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 
 ## **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Zugangskommission zum Masterstudiengang ................................................................. 1 
+§ 1 Geltungsbereich .............................................................................................................. 1 
+
+§ 2 Zugangskommission zum Masterstudiengang ................................................................. 1 
 
 § 3 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................. 2 § 4 Umfang und Gliederung des Masterstudiums, Prüfungen, Schwerpunktbereiche, Auslandsaufenthalt, Unterrichts- und Prüfungssprache .................................................. 4 
 
@@ -35,6 +43,10 @@ Die Fachstudienund Prüfungsordnung für den forschungsorientierten Masterstudie
 1Die Zugangskommission zum Masterstudiengang International Information Systems setzt sich aus den hauptberuflichen Hochschullehrerinnen bzw. Hochschullehrern des Instituts für Wirtschaftsinformatik am Fachbereich Wirtschaftsund Sozialwissenschaften im Sinne des Art. 19 Abs. 1 **BayHIG** sowie fünf Vertreterinnen bzw. Vertretern der wissenschaftlichen und künstlerischen Mitarbeiterinnen und Mitarbeiter im Sinne des Art. 19 Abs. 1 **BayHIG** zusammen, die jeweils hauptberuflich im Sinne des Art. 53 Abs. 4 **BayHIG** im Studiengang tätig sind.[2] Unterschreitet die Anzahl der hauptberuflichen Hochschullehrerinnen und Hochschullehrer nach Satz 1 die Zahl 5, so reduziert sich die Anzahl der Vertreterinnen und Vertreter der 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 wissenschaftlichen und künstlerischen Mitarbeiterinnen und Mitarbeiter nach Satz 1 jeweils dergestalt, dass stets gewährleistet ist, dass die hauptberuflichen Hochschullehrerinnen und Hochschullehrer im Sinne des Art. 19 Abs. 1 **BayHIG** über mindestens die Hälfte der Stimmen verfügen. 
 
@@ -66,7 +78,11 @@ wissenschaftlichen und künstlerischen Mitarbeiterinnen und Mitarbeiter nach Sat
 
 2 
 
-(3)[1] In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach Nr. 2.3 **Anlage** zur **MPOWISO** und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit insgesamt maximal 100 zu vergebenden Punkten gemäß Nr. 5.1 **Anlage** zur **MPOWISO** wie folgt bewertet: 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+- (3)[1] In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach Nr. 2.3 **Anlage** zur **MPOWISO** und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit insgesamt maximal 100 zu vergebenden Punkten gemäß Nr. 5.1 **Anlage** zur **MPOWISO** wie folgt bewertet: 
 
 1. Qualität der im einschlägigen Erstabschluss nach Abs. 1 erzielten Leistungen anhand des Notendurchschnitts (max. 40 Punkte), 
 
@@ -82,22 +98,22 @@ wissenschaftlichen und künstlerischen Mitarbeiterinnen und Mitarbeiter nach Sat
 
 **Tabelle 1: Notenumrechnung gem. Satz 1 Nr. 1** 
 
-|**Note**<br>~~ee~~<br>~~ee~~|**Punkte**|**Note**|**Punkte**|
+|**Note**|**Punkte**|**Note**|**Punkte**|
 |---|---|---|---|
-|**1.0**<br>~~ee~~<br>~~ee~~<br>~~ee~~|40.0|**2.4**|19.0|
-|**1.1**<br>~~ee~~<br>~~ee~~<br>~~ee~~|38.5<br>~~es~~|**2.5**|17.5|
-|**1.2**<br>~~ee~~<br>~~ee~~<br>~~es~~|37.0<br>~~es~~<br>~~es~~|**2.6**|16.0|
-|**1.3**<br>~~ee~~<br>~~es~~|35.5<br>~~es~~<br>~~es~~|**2.7**|14.5|
-|**1.4**<br>~~es~~<br>~~ee~~<br>~~ee~~|34.0<br>~~es~~<br>~~ee~~<br>~~es~~|**2.8**<br>~~ee~~|13.0<br>~~ee~~|
-|**1.5**<br>~~ee~~<br>~~ee~~<br>~~ee~~|32.5<br>~~ee~~<br>~~es~~|**2.9**<br>~~ee~~|11.5<br>~~ee~~|
-|**1.6**<br>~~ee~~<br>~~ee~~<br>~~ee~~|31.0<br>~~es~~<br>~~es~~|**3.0**|10.0|
-|**1.7**<br>~~ee~~<br>~~ee~~<br>~~ee~~|29.5<br>~~es~~<br>~~es~~|**3.1**|8.5|
-|**1.8**<br>~~ee~~<br>~~ee~~|28.0<br>~~es~~<br>~~es~~|**3.2**|7.0|
-|**1.9**<br>~~ee~~<br>~~ee~~<br>~~ee~~|26.5<br>~~es~~<br>~~ee~~|**3.3**<br>~~ee~~|5.5<br>~~ee~~|
-|**2.0**<br>~~ee~~<br>~~ee~~<br>~~ee~~|25.0<br>~~ee~~|**3.4**<br>~~ee~~|4.0<br>~~ee~~|
-|**2.1**<br>~~ee~~<br>~~ee~~<br>~~ee~~|23.5<br>~~es~~|**3.5**|2.5|
-|**2.2**<br>~~ee~~<br>~~ee~~|22.0<br>~~es~~|**3.6**|1.0|
-|**2.3**<br>~~ee~~<br>~~ee~~|20.5<br>~~es~~<br>~~ee~~|**≥ 3.7**<br>~~ee~~|0<br>~~ee~~|
+|**1.0**|40.0|**2.4**|19.0|
+|**1.1**|38.5|**2.5**|17.5|
+|**1.2**|37.0|**2.6**|16.0|
+|**1.3**|35.5|**2.7**|14.5|
+|**1.4**|34.0|**2.8**|13.0|
+|**1.5**|32.5|**2.9**|11.5|
+|**1.6**|31.0|**3.0**|10.0|
+|**1.7**|29.5|**3.1**|8.5|
+|**1.8**|28.0|**3.2**|7.0|
+|**1.9**|26.5|**3.3**|5.5|
+|**2.0**|25.0|**3.4**|4.0|
+|**2.1**|23.5|**3.5**|2.5|
+|**2.2**|22.0|**3.6**|1.0|
+|**2.3**|20.5|**≥ 3.7**|0|
 
 
 
@@ -112,6 +128,10 @@ wissenschaftlichen und künstlerischen Mitarbeiterinnen und Mitarbeiter nach Sat
 3. 1Einschlägige/studiengangsspezifische Berufserfahrung und Auslandsaufenthalte, insbesondere Praktika, Berufsausbildung oder qualifizierte Auslandsaufenthalte gemäß Satz 1 Nr. 3 fließen mit maximal 10 Punkten in die Bewertung mit ein. 2Dabei werden pro Monat der Beschäftigung in einschlägigen Vollzeitpraktika / 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Berufstätigkeiten oder Auslandsaufenthalten 1,7 Punkte vergeben sowie 0,85 Punkte pro Monat der Beschäftigung in einschlägigen Nebentätigkeiten. 
 
@@ -144,6 +164,10 @@ Berufstätigkeiten oder Auslandsaufenthalten 1,7 Punkte vergeben sowie 0,85 Punk
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
    - datengestützten Generierung von neuen Informationen und Wissen sowie dem Wissensmanagement. 
 
 2.[1] Im Modulbereich ‚Digital Business‘ werden den Studierenden Module angeboten, um Kompetenzen des Prozess-, Innovations- und Geschäftsmodellmanagements zu erlernen.[2] Dabei wird insbesondere auf die Möglichkeiten des Einsatzes von Informations- und Anwendungssystemen eingegangen. 
@@ -159,6 +183,10 @@ Berufstätigkeiten oder Auslandsaufenthalten 1,7 Punkte vergeben sowie 0,85 Punk
 (6)[1] § 4 Abs. 5 **MPOWISO** gilt mit der Maßgabe, dass die Unterrichts- und Prüfungssprache in den Modulen des Pflichtbereichs Englisch ist.[2] Im Wahlbereich können auch Module angeboten werden, in denen die Unterrichts- und Prüfungssprache Deutsch ist.[3] Des Weiteren können nach Wahl der Studierenden in 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 den Foreign Language Skills Modulen weitere Fremdsprachen zur Anwendung kommen. 
 
@@ -180,6 +208,10 @@ den Foreign Language Skills Modulen weitere Fremdsprachen zur Anwendung kommen.
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 fachlichen Perspektive der Informatik anwendungsbezogenes Wissen zu vermitteln. 2Dabei werden die einzelnen Themen aus einer operativ-technischen Perspektive betrachtet, die die Konzeption, Gestaltung und Implementierung von IT-basierten Anwendungssystemen aus technischer Sicht im jeweiligen Kontext untersucht.[3] Die Wahlfreiheit innerhalb der Bereiche ermöglicht es den Studierenden, sich thematisch zu fokussieren.[4] Das spezifische Qualifikationsziel der einzelnen wählbaren Module ist abhängig vom jeweils gewählten Modul und dem Modulhandbuch zu entnehmen. 
 
 (2)[1] Im Wahlpflichtbereich Informatics im Umfang von insgesamt 30 ECTS-Punkten müssen die Studierenden aus jedem Modulbereich mindestens 5 ECTS-Punkte nachweisen.[2] Im Rahmen der weiteren zu erbringenden ECTS-Punkte können die Studierenden bis zu 15 weitere ECTS-Punkte aus den drei in § 4 Abs. 3 Satz 1 genannten Modulbereichen, bis zu 10 ECTS-Punkte aus dem Bereich ‚Extension Courses‘ (vgl. Abs. 3) sowie bis zu 10 ECTS-Punkte aus dem Bereich ‚Study Abroad Courses‘ (vgl. § 7) einbringen. 
@@ -195,6 +227,10 @@ fachlichen Perspektive der Informatik anwendungsbezogenes Wissen zu vermitteln. 
 (1)[1] Im Rahmen der Wahlpflichtbereiche Information Systems (vgl. § 5) und Informatics (vgl. § 6) stehen den Studierenden optional Module aus dem Bereich ‚Study Abroad Courses‘ zur Verfügung.[2] Das übergeordnete Qualifikationsziel des Bereichs ‚Study Abroad Courses‘ liegt darin, den Studierenden sonstiges einschlägiges Wissen zu den Anwendungsgebieten der im jeweiligen Wahlpflichtbereich erworbenen Kenntnisse zu vermitteln, welches von den übrigen Modulen im entsprechenden Wahlpflichtbereich nicht abgedeckt wird.[3] Durch den Erwerb dieser Kenntnisse an einer ausländischen Hochschule wird dies durch den Erwerb interkultureller Kompetenzen bzw. Perspektiven auf die behandelten Themen ergänzt.[4] Das spezifische Qualifikationsziel und die Prüfungsgegenstände der einzelnen wählbaren Module sind abhängig vom jeweils gewählten Modul und dem Modulangebot der jeweiligen ausländischen Hochschule zu entnehmen. 
 
 7 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] Art und Umfang der Lehrveranstaltungen und Prüfungen sind abhängig von den jeweils vermittelten Kompetenzen nach Abs. 1 und richten sich nach der **(Fach-)Studien- und Prüfungsordnung** der jeweiligen Hochschule im Ausland. 
 
@@ -216,6 +252,10 @@ fachlichen Perspektive der Informatik anwendungsbezogenes Wissen zu vermitteln. 
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Wirtschaftsinformatik /International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) – **FPOIIS** – vom 8. Juli 2010, zuletzt geändert durch Satzung vom 22. September 2021, studieren, beenden ihr Studium nach der bisher für sie geltenden Fassung der Fachstudien- und Prüfungsordnung. 
 
 (2)[1] Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik /International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) – **FPOIIS** – vom 8. Juli 2010, zuletzt geändert durch Satzung vom 22. September 2021, tritt mit Wirkung zum 30. September 2028 außer Kraft. 2Prüfungen nach der in Satz 1 genannten Fachstudien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.[3] Abweichend von Satz 2 wird das Modul „Konzeptionelle Modellierung“ letztmalig im Wintersemester 2023/2024 angeboten; Studierende, die das Modul bis zu diesem Zeitpunkt noch nicht absolviert haben, müssen stattdessen das Modul „Data Engineering“ absolvieren. 
@@ -224,54 +264,89 @@ Wirtschaftsinformatik /International Information Systems (IIS) der Rechts- und W
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage: Studienverlaufsplan Master IIS** 
 
-|**Modulbezeichnung**<br>~~Cn~~|**Lehrveranstaltung**<br>|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**<br>|**Gesamt**<br>**Workload-**<br>**Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten **|**Gesamt**<br>**Workload-**<br>**Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten **|**Gesamt**<br>**Workload-**<br>**Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten **|**Gesamt**<br>**Workload-**<br>**Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten **|**Art und Umfang der**<br>**Prüfung**<br>|**Faktor**<br>**Ab-**<br>**schluss**<br>**note**<br>|
+||||||||**Workload-**|**Workload-**|**Workload-**|**Workload-**|||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**<br>|**Ü**<br>|**P**<br>|**S**<br>||**1.**<br>**Se**<br>**m.**<br>|**m.**<br>**2.**<br>**Sem**<br>**.**<br>|**3.**<br>**Sem**<br>**.**<br>|**4.**<br>**Sem**<br>**.**<br>|||
-|Customized Introduction to International Information Systems (Management I und II oder Informatics I und II) (15 ECTS)<br>~~Cn~~|||||||||||||
-|Management I(5 ECTS)<br>~~CnCe~~<br>~~GGG~~|||||||||||||
-|Foundations of international management I<br>~~Ce~~<br>~~GF~~|vgl. FPO MSc IBS<br>~~Ce~~<br>~~GF~~|||||5<br>~~Ce~~<br>~~GF~~|5<br>~~Ce~~<br>~~GF~~|~~Ce~~<br>~~GF~~<br>~~GGG~~|~~Ce~~<br>~~GF~~<br>~~GGG~~|~~Ce~~<br>~~GF~~<br>~~GGG~~|vgl. FPO MSc IBS<br>~~Ce~~<br>~~GF~~<br>~~GGG~~|1<br>~~Ce~~<br>~~GF~~|
-|Management II(10 ECTS)<br>~~GF~~<br>~~GGG~~<br>~~Ce~~|||||||||||||
-|Business strategy<br>~~Ce~~|vgl. FPO MSc IBS<br>~~Ce~~|||||0-5<br>~~Ce~~|0-<br>5<br>~~Ce~~|~~Ce~~|~~Ce~~|~~Ce~~|vgl. FPO MSc IBS<br>~~Ce~~|1<br>~~Ce~~|
-|und / oder<br>~~|~~|||||||||||||
-|Foundations of international management II|vgl. FPO MSc IBS|||||0-5|0-<br>5||||vgl. FPO MSc IBS|1|
-|und / oder<br>~~Ce~~|||||||||||||
-|Global operations strategy<br>~~Ce~~|vgl. FPO MSc IBS|||||0-5|0-<br>5||||vgl. FPO MSc IBS|1|
-|und / oder<br>~~Ce~~<br>~~FG~~|||||||||||||
-|Managingintercultural relations<br>~~Ce~~<br>~~FO~~|vgl. FPO MSc IBS<br>~~FO~~|||||0-5<br>~~FO~~|~~FO~~|0-5<br>~~FO~~|~~FO~~<br>~~FG~~|~~FO~~<br>~~FG~~|vgl. FPO MSc IBS<br>~~FO~~<br>~~FG~~|1<br>~~FO~~|
-|Informatics I(10 ECTS)<br>~~FG~~<br>~~Ce~~<br>~~OO~~<br>~~feGG~~|||||||||||||
-|Introduction to Computer Science<br>~~eG~~|Introduction to Computer Science<br>~~eG~~|4<br>~~eG~~<br>~~OO~~|2<br>~~eG~~<br>~~OO~~|2<br>~~eG~~<br>~~OO~~|~~eG~~|10<br>~~eG~~<br>~~fe~~|10<br>~~eG~~<br>~~fe~~|~~eG~~<br>|~~eG~~<br>~~GG~~|~~eG~~<br>~~GG~~|Klausur(120 Minuten) <br>~~eG~~<br>~~GG~~|1<br>~~eG~~|
-|Informatics II(5 ECTS)<br>~~OO~~<br>~~fe GG~~<br>~~Ce~~<br>~~OeGG~~|||||||||||||
-|Data Engineering<br>~~eG~~|vgl. FPO BSc AI<br>~~eG~~|||||5<br>~~eG~~<br>~~Oe~~|~~eG~~<br>~~Oe~~|5<br>~~eG~~<br>~~Oe~~|~~eG~~<br>~~GG~~|~~eG~~<br>~~GG~~|vgl. FPO BSc AI<br>~~eG~~<br>~~GG~~|1<br>~~eG~~|
-|Information Systems(30 ECTS) 1)<br>~~Oe GG~~<br>~~SO~~<br>~~OG~~|||||||||||~~GG~~<br>~~SO~~<br>~~OG~~||
-|Modulbereich: Data & Knowledge – Information systems<br>~~OO~~||~~OO~~||||5-20<br>~~OO~~<br>~~Oe~~|5<br>~~OO~~<br>~~Oe~~|0-15<br>~~OO~~<br>|0-15<br>~~OO~~<br>~~OG~~<br>~~GO~~|~~OO~~<br>~~OG~~<br>~~GO~~|vgl. § 5 Abs. 4<br>~~OO~~<br>~~OG~~<br>~~GO~~|1<br>~~OO~~|
-|Modulbereich: Digital Business – Information systems<br>~~eG~~||~~eG~~||||5-20<br>~~eG~~<br>~~Oe~~<br>~~Oe~~|5<br>~~eG~~<br>~~Oe~~<br>~~Oe~~|0-15<br>~~eG~~<br><br>|0-15<br>~~OG~~<br>~~eG~~<br>~~GO~~<br>~~GO~~|~~OG~~<br>~~eG~~<br>~~GO~~<br>~~GO~~|vgl.§5 Abs. 4<br>~~OG~~<br>~~eG~~<br>~~GO~~<br>~~GO~~|1<br>~~eG~~|
-|Modulbereich: Architectures & Development – Information systems<br>~~eG~~||~~eG~~||||5-20<br>~~Oe~~<br>~~eG~~<br>~~Oe~~|~~Oe ~~<br>~~eG~~<br>~~Oe~~|5<br> <br>~~eG~~<br>|0-15<br> ~~GO~~<br>~~eG~~<br>~~GO~~<br>~~OG~~|0-15<br>~~GO~~<br>~~eG~~<br>~~GO~~<br>~~OG~~|vgl.§5 Abs. 4<br>~~GO~~<br>~~eG~~<br>~~GO~~<br>~~OG~~|1<br>~~eG~~|
-|Extension Courses<br>~~FO~~||~~FO~~||||0-10<br>~~Oe~~<br>~~FO~~<br>~~Oe~~|~~Oe ~~<br>~~FO~~<br>~~Oe~~|0-10<br> <br>~~FO~~<br>|0-10<br> ~~GO~~<br>~~FO~~<br>~~OG~~<br>~~GG~~|~~GO~~<br>~~FO~~<br>~~OG~~<br>~~GG~~|vgl.§5 Abs. 4<br>~~GO~~<br>~~FO~~<br>~~OG~~<br>~~GG~~|1<br>~~FO~~|
-|StudyAbroad Courses<br>~~eG~~||~~eG~~||||0-10<br>~~eG~~<br>~~Oe~~|~~eG~~<br>~~Oe~~|~~eG~~<br>|0-10<br>~~OG~~<br>~~eG~~<br>~~GG~~|0-10<br>~~OG~~<br>~~eG~~<br>~~GG~~|vgl.§7 Abs. 2<br>~~OG~~<br>~~eG~~<br>~~GG~~|1<br>~~eG~~|
-|Informatics(30 ECTS) 1)<br>~~Oe GG~~<br>~~Cf~~|||||||||||~~GG~~<br>~~Cf~~||
+||||||||**Verteilung pro**||||||
+|||**SWS**||||||||||**Faktor**|
+||||||||<br> <br>**Semester in**||||||
+|||||||**Gesamt**|||||**Art und Umfang der**|**Ab-**|
+|**Modulbezeichnung**|**Lehrveranstaltung**||||||<br>**ECTS-Punkten **||||||
+|||||||**ECTS**|||||**Prüfung**|**schluss**|
+|||**V**|**Ü**|**P**|**S**||**1.**<br>**Se**<br>**m.**|<br>**2.**<br>**Sem**<br>**.**|**3.**<br>**Sem**<br>**.**|**4.**<br>**Sem**<br>**.**|||
+|||||||||||||**note**|
+||||||||||||||
+|Customized Introduction to International Information Systems (Management I und II oder Informatics I und II) (15 ECTS)|||||||||||||
+|Management I(5 ECTS)|||||||||||||
+|Foundations of international management I|vgl. FPO MSc IBS|||||5|5||||vgl. FPO MSc IBS|1|
+|Management II(10 ECTS)|||||||||||||
+||||||||0-<br>5||||||
+|Business strategy|vgl. FPO MSc IBS|||||0-5|||||vgl. FPO MSc IBS|1|
+||||||||||||||
+|und / oder|||||||||||||
+||||||||0-<br>5||||||
+|Foundations of international management II|vgl. FPO MSc IBS|||||0-5|||||vgl. FPO MSc IBS|1|
+||||||||||||||
+|und / oder|||||||||||||
+||||||||0-<br>5||||||
+|Global operations strategy|vgl. FPO MSc IBS|||||0-5|||||vgl. FPO MSc IBS|1|
+||||||||||||||
+|und / oder|||||||||||||
+|Managingintercultural relations|vgl. FPO MSc IBS|||||0-5||0-5|||vgl. FPO MSc IBS|1|
+|Informatics I(10 ECTS)|||||||||||||
+|Introduction to Computer Science|Introduction to Computer Science|4|2|2||10|10||||Klausur(120 Minuten)|1|
+|Informatics II(5 ECTS)|||||||||||||
+|Data Engineering|vgl. FPO BSc AI|||||5||5|||vgl. FPO BSc AI|1|
+|Information Systems(30 ECTS) 1)|||||||||||||
+|Modulbereich: Data & Knowledge – Information systems||||||5-20|5|0-15|||vgl. § 5 Abs. 4|1|
+|Modulbereich: Digital Business – Information systems||||||5-20|5|0-15|||vgl.§5 Abs. 4|1|
+|Modulbereich: Architectures & Development – Information systems||||||5-20||5|0-15||vgl.§5 Abs. 4|1|
+|Extension Courses||||||0-10||0-10|||vgl.§5 Abs. 4|1|
+|StudyAbroad Courses||||||0-10|||0-10||vgl.§7 Abs. 2|1|
+|Informatics(30 ECTS) 1)|||||||||||||
 
 
 
 10 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Gesamt**<br>**Workload-**<br>**Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten **|**Gesamt**<br>**Workload-**<br>**Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten **|**Gesamt**<br>**Workload-**<br>**Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten **|**Gesamt**<br>**Workload-**<br>**Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten **|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Ab-**<br>**schluss**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||**Workload-**|**Workload-**|**Workload-**|**Workload-**|||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**<br>**Se**<br>**m.**<br>~~Ge~~|**m.**<br>**2.**<br>**Sem**<br>**.**<br>~~Ge~~|**3.**<br>**Sem**<br>**.**<br>~~OG~~|**4.**<br>**Sem**<br>**.**<br>~~OG~~|||
-|Modulbereich: Data & Knowledge – Informatics<br>~~GO~~||~~GO~~||||5-20<br>~~GO~~|5<br>~~GO~~<br>~~Ge~~<br>~~OC~~|0-15<br>~~GO~~<br>~~Ge~~<br>~~OC~~|0-15<br>~~GO~~<br>~~OG~~<br>~~OC ON~~|~~GO~~<br>~~OG~~<br>~~ON~~|vgl. § 6 Abs. 4<br>~~GO~~<br>~~ON~~|1<br>~~GO~~|
-|Modulbereich: Digital Business – Informatics<br>~~GO~~||~~GO~~||||5-20<br>~~GO~~|5<br>~~Ge~~<br>~~GO~~<br>~~OC~~<br>~~Oe~~|0-15<br>~~Ge ~~<br>~~GO~~<br>~~OC~~<br>~~GG~~|0-15<br> ~~OG~~<br>~~GO~~<br>~~OC ON~~<br>~~GG~~|~~OG~~<br>~~GO~~<br>~~ON~~<br>~~GG~~|vgl.§6 Abs. 4<br>~~GO~~<br>~~ON~~|1<br>~~GO~~|
-|Modulbereich: Architectures & Development – Informatics<br>~~GO~~||~~GO~~||||5-20<br>~~GO~~|~~OC~~<br>~~GO~~<br>~~Oe~~<br>~~Oe~~|5<br>~~OC~~<br>~~GO~~<br>~~GG~~<br>~~GG~~|0-15<br>~~OC ON~~<br>~~GO~~<br>~~GG~~<br>~~GG~~|0-15<br>~~ON~~<br>~~GO~~<br>~~GG~~<br>~~GG~~|vgl.§6 Abs. 4<br>~~ON~~<br>~~GO~~|1<br>~~GO~~|
-|Extension Courses<br>~~GD~~||~~GD~~||||0-10<br>~~GD~~|~~Oe ~~<br>~~GD~~<br>~~Oe~~<br>~~Fe~~|0-10<br> ~~GG~~<br>~~GD~~<br>~~GG~~<br>~~CNG~~|0-10<br>~~GG~~<br>~~GD~~<br>~~GG~~<br>~~CNG~~|~~GG~~<br>~~GD~~<br>~~GG~~<br>~~CNG~~|vgl.§6 Abs. 4<br>~~GD~~<br>~~CNG~~|1<br>~~GD~~|
-|StudyAbroad Courses<br>~~GO~~||~~GO~~||||0–10<br>~~GO~~|~~Oe ~~<br>~~GO~~<br>~~Fe~~|~~GG~~<br>~~GO~~<br>~~CNG~~|0-10<br>~~GG~~<br>~~GO~~<br>~~CNG~~|0-10<br>~~GG~~<br>~~GO~~<br>~~CNG~~|vgl.§7 Abs. 2<br>~~GO~~<br>~~CNG~~|1<br>~~GO~~|
-|InterdisciplinaryQualifications(15 ECTS) 2)<br>~~Fe CNG~~<br>~~**a**~~<br>~~GO~~<br>~~OeGG~~|||||||||||~~CNG~~<br>~~**a**~~||
-|Foreign Language Skillsgemäß§8 Abs. 2||~~GO~~||||0-5<br>~~GO~~|~~Oe~~|0-5<br>~~GG~~|~~GG~~|~~GG~~|Vgl.§8 Abs. 6|1|
-|Studium Generalegemäß§8 Abs. 3||~~GO~~||||0-5<br>~~GO~~|~~Oe ~~|0-5<br> ~~GG~~|~~GG~~|~~GG~~|Vgl.§8 Abs. 6|0|
-|IIS Seminar gemäß § 8 Abs. 4||||||0-10|||0-10|0-10|Seminararbeit und Präsentation<br>(70% + 30%)|1|
-|Master thesis(30 ECTS)<br>~~|~~<br>~~dGOdGO~~<br>~~OeOGG~~|||||||||||||
-|Master thesis<br>~~|~~<br>~~ee~~||~~|~~<br>~~ee~~<br>~~dG~~|~~|~~<br>~~ee~~<br>~~dG~~|~~|~~<br>~~ee~~<br>~~dG~~|~~|~~<br>~~ee~~<br>~~Od~~|30<br>~~|~~<br>~~ee~~<br>~~GO~~|~~|~~<br>~~ee~~<br>~~Oe~~|~~|~~<br>~~ee~~<br>~~OGG~~|~~|~~<br>~~ee~~<br>~~OGG~~|30<br>~~|~~<br>~~ee~~<br>~~OGG~~|Master thesis<br>~~|~~<br>~~ee~~<br>~~OGG~~|1<br>~~|~~<br>~~ee~~|
-|**Summe SWS (mind.) und ECTS:**||**24**<br>~~dG~~|**10**<br>~~dG~~|**4**<br>~~dG ~~|**10**<br> ~~Od ~~|**120**<br> ~~GO~~|**30**<br>~~Oe~~|**30**<br>~~OGG~~|**30**<br>~~OGG~~|**30**<br>~~OGG~~|~~OGG~~||
+||||||||**Verteilung pro**||||||
+|||**SWS**||||||||||**Faktor**|
+||||||||<br> <br>**Semester in**||||||
+|||||||**Gesamt**|||||**Art und Umfang der**|**Ab-**|
+|**Modulbezeichnung**|**Lehrveranstaltung**||||||<br>**ECTS-Punkten **||||||
+|||||||**ECTS**|||||**Prüfung**|**schluss**|
+|||**V**|**Ü**|**P**|**S**||**1.**<br>**Se**<br>**m.**|<br>**2.**<br>**Sem**<br>**.**|**3.**<br>**Sem**<br>**.**|**4.**<br>**Sem**<br>**.**|||
+|||||||||||||**note**|
+||||||||||||||
+|Modulbereich: Data & Knowledge – Informatics||||||5-20|5|0-15|||vgl. § 6 Abs. 4|1|
+|Modulbereich: Digital Business – Informatics||||||5-20|5|0-15|||vgl.§6 Abs. 4|1|
+|Modulbereich: Architectures & Development – Informatics||||||5-20||5|0-15||vgl.§6 Abs. 4|1|
+|Extension Courses||||||0-10||0-10|||vgl.§6 Abs. 4|1|
+|StudyAbroad Courses||||||0–10|||0-10||vgl.§7 Abs. 2|1|
+|InterdisciplinaryQualifications(15 ECTS) 2)|||||||||||||
+|Foreign Language Skillsgemäß§8 Abs. 2||||||0-5||0-5|||Vgl.§8 Abs. 6|1|
+|Studium Generalegemäß§8 Abs. 3||||||0-5||0-5|||Vgl.§8 Abs. 6|0|
+||||||||||0-10||Seminararbeit und Präsentation||
+|IIS Seminar gemäß § 8 Abs. 4||||||0-10||||||1|
+||||||||||||(70% + 30%)||
+||||||||||||||
+|Master thesis(30 ECTS)|||||||||||||
+|Master thesis||||||30||||30|Master thesis|1|
+|||**24**|**10**|**4**|**10**||**30**|**30**|**30**|**30**|||
+|**Summe SWS (mind.) und ECTS:**||||||**120**|||||||
 |||**48**|||||||||||
+||||||||||||||
 
 
 

@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "Elite-MA Standards of Decision Making Across Cultures Aufhebungssatzung 20251219.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision_Making_Across_Cultures_Aufhebungssatzung_20251219.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:41:28+00:00
-page_count_chars: 3292
+scraped_at: 2026-05-01T08:49:36+00:00
+page_count_chars: 3508
 ---
 
 # Elite-MA Standards of Decision Making Across Cultures Aufhebungssatzung 20251219.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision_Making_Across_Cultures_Aufhebungssatzung_20251219.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Satzung der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) über die Aufhebung des Elite-Masterstudiengangs „Standards of Decision Making Across Cultures“ an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) - Aufhebungssatzung SDAC - Vom 19. Dezember 2025** 
 
@@ -33,6 +37,10 @@ In § 6 wird nach Abs. 2 folgender neuer Abs. 3 angefügt:
 „(3)[1] Diese Fachstudien- und Prüfungsordnung tritt mit Wirkung zum 30. September 2027 außer Kraft.[2] Prüfungen nach dieser Studien- und Prüfungsordnung werden spätestens im Sommersemester 2027 letztmals angeboten.[3] Sollten zum Ende des Sommersemesters 2027 noch nicht alle immatrikulierten Studierenden ihr Studium abgeschlossen haben, so entscheidet der nach der Allgemeinen Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen- 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Nürnberg (FAU) – ABMStPO/Phil – in der jeweils geltenden Fassung zuständige Prüfungsausschuss über die jeweils anstehenden prüfungsrechtlichen Fragen.“ 
 

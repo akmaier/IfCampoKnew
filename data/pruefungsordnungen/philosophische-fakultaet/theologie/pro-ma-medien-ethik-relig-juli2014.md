@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 09.12.2008 i.d.F. 08.07.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/PrO_MA_Medien_Ethik-Relig-JULI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:36:05+00:00
+scraped_at: 2026-05-01T08:43:43+00:00
 page_count_chars: 56875
 ---
 

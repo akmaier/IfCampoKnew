@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOSozialökonomik 20240807 i.d.F. 20260213.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/konsolidierte_Fassungen/FPOSozialökonomik_20240807_idF_20260213.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:34:22+00:00
-page_count_chars: 37725
+scraped_at: 2026-05-01T09:41:38+00:00
+page_count_chars: 36749
 ---
 
 # FPOSozialökonomik 20240807 i.d.F. 20260213.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/konsolidierte_Fassungen/FPOSozialökonomik_20240807_idF_20260213.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 # **Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOSozialökonomik – Vom 7. August 2024** 
 
@@ -32,6 +36,10 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 3 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
 (1)[1] Fachspezifischer Abschluss im Sinne des § 32 Abs. 1 Satz 1 Nr. 1 **MPOWISO** ist der Bachelorabschluss in Sozialökonomik an der FAU.[2] Als fachverwandte Abschlüsse im Sinne des § 32 Abs. 1 Satz 1 Nr. 1 **MPOWISO** werden insbesondere Abschlüsse in sozial- und wirtschaftswissenschaftlichen Bachelorstudiengängen anerkannt, die insbesondere Kenntnisse in den Bereichen Sozialwissenschaften (Kommunikationswissenschaft, Politikwissenschaft, Psychologie, Soziologie), Wirtschaftswissenschaften (Betriebswirtschaftslehre, Volkswirtschaftslehre) und empirische Sozialforschung und Statistik vermitteln. 
@@ -51,6 +59,10 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 2. Nachweis von fachspezifischen wirtschaftswissenschaftlichen Grundkenntnissen (Betriebswirtschaftslehre und/oder Volkswirtschaftslehre), soweit der Abschluss nach Abs. 1 in einem sozialwissenschaftlichen Studiengang erlangt wurde, wenn dies nicht aus den Nachweisen zum Abschluss nach Abs. 1 ersichtlich ist, 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 3. Nachweis über Grundkenntnisse in quantitativ-empirischer Sozialforschung und Statistik, sofern dies nicht aus den Nachweisen zum Abschluss nach Abs. 1 ersichtlich ist, 
 
@@ -95,54 +107,28 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 3 
 
-|||**Note**|**Punkte**|**Punkte**||**Note**||**Punkte**|**Note**||**Punkte**||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||1,4|10|||2,1||8|2,8||1||
-|||1,5|10|||2,2||7|2,9 und schlechter||0||
-|||1,6|9|||2,3||6|||||
-|2. Tabelle 2: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Sozialwissen-||||||2. Tabelle 2: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Sozialwissen-||||2. Tabelle 2: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Sozialwissen-|||
-|schaften nach Satz 1 Nr. 2||||||schaften nach Satz 1 Nr. 2|||||||
-|||**ECTS-Punkte**||**Punkte**|||||||||
-|||Bis 14||0|||||||||
-|||15-19||5|||||||||
-|||20-29||10||10|||||||
-|||30-39||15||15|||||||
-|||40-44||20||20|||||||
-|||45-49||25||25|||||||
-|||Ab 50||30||30|||||||
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|2.<br>3.<br>4.<br>5.<br>6.<br>7.|**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|
+|---|---|---|---|---|---|---|
+||1,4|10|2,1|8|2,8|1|
+||1,5|10|2,2|7|2,9 und schlechter|0|
+||1,6|9|2,3|6|||
+||**Tätigkeit**||**Punkte**||||
+||Nichtvorhanden||0||||
+||Vorhanden||5||||
 
 
-
-3. Tabelle 3: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Wirtschaftswissenschaften nach Satz 1 Nr. 3 
-
-|**ECTS-Punkte**|**Punkte**|
-|---|---|
-|Bis 9|0|
-|10-19|5|
-|20-29|10|
-|30-39|15|
-|Ab 40|20|
-
-
-
-|Bis 9<br>0<br>10-19<br>5<br>20-29<br>10<br>30-39<br>15<br>Ab 40<br>20|Bis 9<br>0<br>10-19<br>5<br>20-29<br>10<br>30-39<br>15<br>Ab 40<br>20|Bis 9<br>0<br>10-19<br>5<br>20-29<br>10<br>30-39<br>15<br>Ab 40<br>20|Bis 9<br>0<br>10-19<br>5<br>20-29<br>10<br>30-39<br>15<br>Ab 40<br>20|
-|---|---|---|---|
-|4. Tabelle 4: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich quantitativ-||||
-|empirische Sozialforschung und Statistik nach Satz 1 Nr. 4||||
-||**ECTS-Punkte**|**Punkte**||
-||Bis 14|0||
-||15-24|5||
-||25-34|10||
-||35-44|15||
-||Ab45|20||
-
-
-
-5. Tabelle 5: Fachliche Qualifikation in einem einschlägigen statistischen Analyseprogramm (z. B. STATA, SPSS oder R) nach Satz 1 Nr. 5 **Statistikkenntnisse Punkte** Nicht vorhanden 0 ~~SS,~~ Vorhanden 12 6. Tabelle 6: Auslandsaufenthalt nach Satz 1 Nr. 6 a) **Auslandsaufenthalt Punkte** Nicht vorhanden 0 ~~SS——~~ Vorhanden 3 7. Tabelle 7: Tätigkeit als studentische oder wissenschaftliche Hilfskraft nach Satz 1 Nr. 6 b) **Tätigkeit Punkte** Nicht vorhanden 0 ~~SS—~~ Vorhanden 5 
 
 3Die Gesamtpunktzahl der in der zweiten Stufe des Qualifikationsfeststellungsverfahrens erreichten Punkte ergibt sich aus der Addition der in den einzelnen Kriterien nach Satz 1 vergebenen Punkte und beträgt maximal 100 Punkte.[4] Bewerberinnen bzw. Bewerber, die mindestens 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.[5] Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur dritten Stufe gemäß Abs. 5 eingeladen.[6] Sätze 1 bis 5 gelten entsprechend für Bewerberinnen und Bewerber, die einen fachverwandten Abschluss nach Abs. 1 Satz 2 mit einer Abschluss- bzw. vorläufigen Note zwischen 1,0 und 2,99 vorweisen können. 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (5)[1] In der dritten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Nr. 5.3 **Anlage MPOWISO** werden die Bewerberinnen und Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung der schriftlichen Arbeitsprobe durch zwei Mitglieder der Zugangskommission hinsichtlich ihrer besonderen fachlichen Eignung zum Masterstudium Sozialökonomik beurteilt.[2] Die in der zweiten Stufe des Qualifikationsfeststellungsverfahrens vergebenen Punkte nach den in Absatz 4 dargelegten Kriterien werden nicht in die dritte Stufe des Qualifikationsfeststellungsverfahrens übertragen; die Begutachtung der Arbeitsprobe erfolgt unabhängig von der zweiten Stufe.[3] Jedes der Mitglieder nach Satz 1 vergibt auf das Ergebnis der Begutachtung der Arbeitsprobe maximal 10 Punkte, sodass ein Gesamtergebnis von maximal 20 Punkten erreicht werden kann.[4] Die Punktzahl der in der dritten Stufe erreichten Bewertung ergibt sich aus der Aufsummierung der Einzelbewertungen (max. 10 Punkte pro prüfender Person und insgesamt max. 20 Punkte) nach den folgenden Kriterien, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden: 
 
@@ -154,38 +140,51 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 4. Anwendung wissenschaftlicher Arbeitstechniken (insgesamt max. 4 Punkte, pro prüfender Person max. 2 Punkte). 
 
-|**Bewertungskriterium**<br>~~CR~~|**Gesamtpunktzahl**<br>**(Prüfende(r) 1 / Prüfende(r) 2)**|
+|pro prüfender Person max. 2 Punkte)<br>3.Quantitativ-empirische Analysen und Interpretation der Ergebnisse (insgesamt<br>max. 8 Punkte, pro prüfender Person max. 4 Punkte)<br>4.Anwendung wissenschaftlicher Arbeitstechniken (insgesamt max. 4 Punkte, pro<br>prüfender Person max. 2 Punkte).|pro prüfender Person max. 2 Punkte)<br>3.Quantitativ-empirische Analysen und Interpretation der Ergebnisse (insgesamt<br>max. 8 Punkte, pro prüfender Person max. 4 Punkte)<br>4.Anwendung wissenschaftlicher Arbeitstechniken (insgesamt max. 4 Punkte, pro<br>prüfender Person max. 2 Punkte).|
 |---|---|
-|**1. Benennung und Ausführung der Fragestellung**<br>~~CR~~<br>~~CR~~||
-|Viele Mängel<br>~~CR~~<br>~~CR~~<br>~~CR~~|0 Punkte (0/0)|
-|Einige Mängel<br>~~CR~~<br>~~CR~~<br>~~CR~~|1 Punkt (0,5/0,5)|
-|Durchschnittlich<br>~~CR~~<br>~~CR~~<br>~~CR~~|2 Punkte (1/1)|
-|Gut<br>~~CR~~<br>~~CR~~<br>~~CR~~|3 Punkte (1,5/1,5)|
-|Sehr gut<br>~~CR~~<br>~~CR~~<br>~~CR~~|4 Punkte (2/2)|
-|~~CR~~<br>~~CR~~<br>~~CR~~||
-|**2. Theoretische Überlegungen und deren Ausarbeitung**<br>~~CR~~<br>~~CR~~<br>~~CR~~||
-|Viele Mängel<br>~~CR~~<br>~~CR~~<br>~~CR~~|0 Punkte (0/0)|
-|Einige Mängel<br>~~CR~~<br>~~CR~~<br>~~CR~~|1 Punkt (0,5/0,5)|
-|Durchschnittlich<br>~~CR~~<br>~~CR~~<br>~~CR~~|2 Punkte (1/1)|
-|Gut<br>~~CR~~<br>~~CR~~<br>~~CR~~|3 Punkte (1,5/1,5)|
-|Sehr gut<br>~~CR~~<br>~~CR~~<br>~~CR~~|4 Punkte (2/2)<br>|
-|~~CR~~<br>~~CR~~||
-|**3. Quantitativ-empirische Analysen und Interpretation**<br>**der Ergebnisse**<br>~~CR~~||
-|Viele Mängel<br>~~Ce~~|0 Punkte (0/0)<br>~~Ce~~|
-|Einige Mängel<br>~~Ce~~|2 Punkte (1/1)<br>~~Ce~~|
-|Durchschnittlich<br>~~Ce~~|4 Punkte (2/2)<br>~~Ce~~|
-|Gut<br>~~Ce~~|6 Punkte (3/3)<br>~~Ce~~|
-|Sehr gut<br>~~Ce~~|8 Punkte (4/4)<br>~~Ce~~|
-|~~Ce~~|~~Ce~~|
-|**4. Wissenschaftliche Arbeitstechniken**<br>~~Ce~~|~~Ce~~|
-|Viele Mängel<br>~~Ce~~|0 Punkte (0/0)<br>~~Ce~~|
-|Einige Mängel<br>~~Ce~~|1 Punkt (0,5/0,5)<br>~~Ce~~|
-|Durchschnittlich<br>~~Ce~~|2 Punkte (1/1)<br>~~Ce~~|
-|Gut<br>~~rs~~|3Punkte (1,5/1,5)<br>~~rs~~|
+|Tabelle 8: Bewertung der Arbeitsprobe nach Abs. 3 Nr. 6 i. V. m. Abs. 5:||
+|**Bewertungskriterium**|**Gesamtpunktzahl**<br>**(Prüfende(r) 1 / Prüfende(r) 2)**|
+|**1. Benennung und Ausführung der Fragestellung**||
+|Viele Mängel|0 Punkte (0/0)|
+|Einige Mängel|1 Punkt (0,5/0,5)|
+|Durchschnittlich|2 Punkte (1/1)|
+|Gut|3 Punkte (1,5/1,5)|
+|Sehr gut|4 Punkte (2/2)|
+|||
+|**2. Theoretische Überlegungen und deren Ausarbeitung**||
+|Viele Mängel|0 Punkte (0/0)|
+|Einige Mängel|1 Punkt (0,5/0,5)|
+|Durchschnittlich|2 Punkte (1/1)|
+|Gut|3 Punkte (1,5/1,5)|
+|Sehr gut|4 Punkte (2/2)|
+|||
+|**3. Quantitativ-empirische Analysen und Interpretation**<br>**der Ergebnisse**||
+|Viele Mängel|0 Punkte (0/0)|
+|Einige Mängel|2 Punkte (1/1)|
+|Durchschnittlich|4 Punkte (2/2)|
+|Gut|6 Punkte (3/3)|
+|Sehr gut|8 Punkte (4/4)|
+|||
+|**4. Wissenschaftliche Arbeitstechniken**||
+|Viele Mängel|0 Punkte (0/0)|
+|Einige Mängel|1 Punkt (0,5/0,5)|
+|Durchschnittlich|2 Punkte (1/1)|
+|Gut|3Punkte (1,5/1,5)|
 
 
 
-Sehr gut 4 Punkte (2/2) **MAXIMAL ERREICHBARE PUNKTZAHL 20 (10/10)** 
+5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|Sehr gut|4 Punkte (2/2)|
+|---|---|
+|||
+|**MAXIMAL ERREICHBARE PUNKTZAHL**|**20 (10/10)**|
+
+
 
 5Ab einer in der dritten Stufe erreichten Punktzahl von mindestens 11 Punkten wird der Zugang zum Studiengang gewährt; die übrigen Bewerberinnen und Bewerber erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
 
@@ -213,6 +212,10 @@ d) Personal und Organisation.
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2)[1] Das übergeordnete Qualifikationsziel der Wahlpflichtmodule „Vertiefung Methoden“ und „Angewandte Methoden“ im Bereich „Methodische Grundlagen“ besteht darin, den Studierenden ein solides Verständnis dafür zu vermitteln, wie Daten erhoben, analysiert und/oder interpretiert werden können, um gesellschaftlich und wirtschaftlich relevante Fragestellungen zu beantworten.[2] Dies beinhaltet Kenntnisse zur Datenerhebung, in welchen Studierende lernen, wie man Experimente, Umfragen und/oder andere Datenerhebungsmethoden so gestaltet, dass Verzerrungen und Fehler minimiert werden.[3] Zudem eignen sich Studierende Fähigkeiten in verschiedenen statistischen Techniken und Methoden an, um komplexe Datensätze zusammenzufassen und zu interpretieren sowie Muster und Beziehungen zu erkennen.[4] Weiterhin entwickeln Studierende die Fähigkeit, die Ergebnisse der Datenanalyse kritisch zu bewerten, die Grenzen der verwendeten Methoden zu verstehen und gültige, umsetzbare Schlussfolgerungen zu ziehen.[5] Durch die Beherrschung dieser Komponenten können Studierende zu einer fundierten, objektiven und effektiven Entscheidungsfindung in verschiedenen beruflichen und akademischen Bereichen beitragen.[6] Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen wählbaren Module sind abhängig vom jeweils gewählten Modul und der jeweiligen Modulbeschreibung zu entnehmen. 
 
 (3)[1] Das übergeordnete Qualifikationsziel der Wahlpflichtmodule „Spezielle BWL“ und „Spezielle VWL“ im Bereich „Wirtschaftswissenschaftliche Grundlagen“ besteht darin, den Studierenden zu ermöglichen, sich in einem oder mehreren wirtschaftswissenschaftlichen Themengebieten zu vertiefen. 2Es ist entweder ein Modul aus dem Bereich „Spezielle BWL“ oder ein Modul aus dem Bereich Spezielle VWL“ zu wählen. 3Hierbei sollen Studierende befähigt werden, gesellschaftliche Fragestellungen im Kontext ökonomischer (d.h. sowohl gesamtwirtschaftlicher aber auch unternehmensspezifischer) Argumente zu thematisieren und mit geeigneten fachspezifischen Methoden lösen zu können.[4] Dazu gehören u.a. das Verstehen von verschiedenen Wirtschaftssystemen und Märkten, sowie die Schaffung eines Bewusstseins für das Treffen strategischer Entscheidungen, die Optimierung von Abläufen, die Förderung von Innovationen in Unternehmen sowie ethische und sozial verantwortliche Praktiken. 5Darüber hinaus werden Studierenden in diesem Wahlbereich Fähigkeiten zur Problemlösung und zum kritischen Denken vermittelt.[6] Den Studierenden wird durch diese Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein individuell zugeschnittenes Profil an der Schnittstelle von Wirtschafts- und Sozialwissenschaften zu bilden.[7] Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen wählbaren Module sind abhängig vom jeweils gewählten Modul und dem Modulhandbuch zu entnehmen. 
@@ -222,6 +225,10 @@ d) Personal und Organisation.
 (5)[1] Die Wahlpflichtmodule haben in der Regel einen Umfang von 5 ECTS-Punkten und setzen sich üblicherweise entweder aus einer Vorlesung (2 SWS) oder einem Seminar (2 SWS) zusammen.[2] Abweichende Modulgrößen und Verteilungen sind dem Modulhandbuch zu entnehmen. 
 
 7 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 6 Vertiefungsbereiche** 
 
@@ -237,6 +244,10 @@ d) Personal und Organisation.
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2) Gleichzeitig tritt die Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPOSozialökonomik – vom 2. September 2009, zuletzt geändert durch Satzung vom 27. Juli 2022, vorbehaltlich der Regelung in Abs. 1 Satz 2 und Satz 3 außer Kraft. 
 
 (3)[1] Die erste Änderungssatzung tritt rückwirkend zum 1. Oktober 2024 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden. 
@@ -245,19 +256,25 @@ d) Personal und Organisation.
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 1: Studienverlaufsplan Master Sozialökonomik Vollzeit** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**f  f**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**|**VP**|||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
+|||**V**|||||||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|**Art und Umang der Prüung**||
+||||**Ü**|**P**|**S**|**VP**|||||||||
+|||||||||||**Sem.**|**Sem.**|**Sem.**|||
+||||||||||||||||
 |**Interdisziplinäres**<br>**Einführungsmodul**|||||||||||||||
 |SCoPE – Ringvorlesung Sozi-<br>alökonomik|SCoPE – Ringvorlesung<br>Sozialökonomik|2||||||**5**|5||||Performance Assessment (0%),<br>Klausur (0%),<br>Mündliche Prüfung (0%)_oder_<br>Referat/Präsentation (0%)1|0|
 |**Sozialökonomischer**<br>**Pflichtbereich**||||||||**60**|||||||
 |**Sozialwissenschaftliche**<br>**Grundlagen**||||||||**15**|||||||
 |Media Psychology & Effects|Media Psychologie &<br>Effects|2||||||5|5||||Klausur (90 Minuten)|1|
-|Personalpsychologie|Personalpsychologie|2||||||5|5||||Klausur (90 Minuten, 100%)und<br>Versuchspersonenstunde (0%)|1|
-||Übung zur Personalpsy-<br>chologie||1||||||||||||
-||Versuchspersonenstunde<br>zur Personalpsychologie1||||||0,52||||||||
+|Personalpsychologie|Personalpsychologie<br>Übung zur Personalpsy-|2|1|||||5|5||||Klausur (90 Minuten, 100%)und<br>Versuchspersonenstunde (0%)|1|
+||chologie<br>Versuchspersonenstunde<br>zur Personalpsychologie1||||||0,52||||||||
 |Soziologische Forschungs-<br>probleme und Forschungs-<br>designs|Soziologie – Forschungs-<br>probleme und For-<br>schungsdesigns||||3|||5|5||||Klausur (60 Minuten) (100%)<br>und<br>Performance Assessment (0%)|1|
 |**Methodische**<br>**Grundlagen**|||||||||||||||
 
@@ -265,12 +282,22 @@ d) Personal und Organisation.
 
 10 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |Ökonometrie|Ökonometrie|2||||||5|5||||Klausur (90 Minuten)|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||Ökonometrie||2||||||||||||
-|Vertiefung Methoden, vgl. § 5<br>Abs. 2|Vgl. § 5 Abs. 5|||||||5|||5||Vgl. § 5 Abs. 4|1|
-|Angewandte Methoden, vgl. §<br>5 Abs. 2|Vgl. § 5 Abs. 5|||||||5||5|||Vgl. § 5 Abs. 4|1|
+|Vertiefung Methoden, vgl. § 5<br>Abs. 2|Vgl. §|||||||5|||5||Vgl. § 5 Abs. 4|1|
+|||5 Abs. 5|||||||||||||
+||||||||||||||||
+|Angewandte Methoden, vgl. §<br>5 Abs. 2|Vgl. §|||||||5||5|||Vgl. § 5 Abs. 4|1|
+|||5 Abs. 5|||||||||||||
+||||||||||||||||
 |**Wirtschaftswissenschaft-**<br>**liche Grundlagen**||||||||**10**|||||||
+||||||||||||||||
+||||||||||||||||
 |Mikroökonomie und<br>Spieltheorie|Mikroökonomie und<br>Spieltheorie|2||||||5|5||||Klausur (60 Minuten, 80%)<br>und<br>Präsentation (20%)|1|
 ||Mikroökonomie und<br>Spieltheorie||2||||||||||||
 |Spezielle VWL **oder**<br>Spezielle BWL|Vgl. § 5 Abs. 5||5|||||5||5|||Vgl. § 5 Abs. 3|1|
@@ -285,6 +312,10 @@ d) Personal und Organisation.
 
 11 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |Kommunikation in der digitalen<br>Arbeitswelt|Kommunikation der digi-<br>talen Arbeitswelt||||2||5||5|||Hausarbeitund<br>Präsentation|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Ökonomie der Sozialpolitik|Ökonomie der<br>Sozialpolitik||||3||5|||5||Hausarbeitund<br>Präsentation|1|
@@ -294,8 +325,10 @@ d) Personal und Organisation.
 |**Masterarbeit**||||||||||||||
 |Masterarbeit|Seminar zur Masterarbeit||||2||30||||30|Masterarbeit (100%)und<br>Präsentation (0%)|1|
 ||Masterarbeit||||0|||||||||
-|**Summe SWS und ECTS-Punkte:**||**6**|**5**|**0**|**23**|**0,52 **|**120**|**30**|**30**|**30**|**30**|||
-|||**34,5**||||||||||||
+|**Summe SWS und ECTS-Punkte:**||||||**2**||||||||
+|||**6**|**5**|**0**|**23**|**0,5 **|**120**|**30**|**30**|**30**|**30**|||
+|||**345**||||||||||||
+|||**,**||||||||||||
 
 
 
@@ -309,11 +342,17 @@ d) Personal und Organisation.
 
 12 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2: Studienverlaufsplan Master Sozialökonomik Teilzeit** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**||**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**|**VP**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
+|||**V**||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
+||||**Ü**|**P**|**S**|**VP**||||||||||||
+|||||||||||||||||||
 |**Interdisziplinäres Einführungs-**<br>**modul**|||||||**5**|||||||||||
 |SCoPE – Ringvorlesung<br>Sozialökonomik|SCoPE – Ringvorlesung<br>Sozialökonomik|2|||||**5**|5||||||||Performance<br>Assessment (0%),<br>Klausur (0%),<br>Mündliche Prüfung<br>(0%)_oder_<br>Referat/Präsentation<br>(0%)1|0|
 |**Sozialökonomischer Pflichtbe-**<br>**reich**|||||||**60**|||||||||||
@@ -329,6 +368,10 @@ d) Personal und Organisation.
 
 
 13 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ||Ökonometrie||2|||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -351,15 +394,19 @@ d) Personal und Organisation.
 
 14 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Freier Vertiefungsbereich gemäß**<br>**§ 6 Abs. 2 (2 Module sind zu wäh-**<br>**len)4 **<br>~~ee~~|~~eG~~|~~eG~~|~~eG~~|~~eG~~|~~eG~~|~~eG~~|**10**|~~GG~~|~~GG~~|~~GG~~|~~GG~~|~~GG~~|~~GG~~|~~GG~~|~~GG~~|||
-|Modul I<br>~~ee~~<br>~~ee~~|4<br>~~eG~~<br>~~re~~|~~eG~~<br>~~re~~|~~eG~~<br>~~Ge~~|~~eG~~<br>~~Ge~~|~~eG~~<br>~~Gd~~|~~eG~~<br>~~en~~|**5**<br>~~en~~|~~GG~~<br>~~OO~~|5<br>~~GG~~<br>~~OO~~|~~GG~~<br>~~GO~~|~~GG~~<br>~~GO~~|~~GG~~<br>~~GO GG~~|~~GG~~<br>~~GG~~|~~GG~~<br>~~GG~~|~~GG~~<br>~~GG~~|4|1|
-|Modul II<br>~~ee ~~<br>~~ee~~|4<br> ~~eG~~<br>~~re~~|~~eG~~<br>~~re~~|~~eG ~~<br>~~Ge~~|~~eG~~<br>~~Ge~~|~~eG~~<br>~~Gd~~|~~eG~~<br>~~en~~|**5**<br>~~en~~|~~GG~~<br>~~OO~~|~~GG ~~<br>~~OO~~|~~GG~~<br>~~GO~~|~~GG~~<br>~~GO~~|~~GG~~<br>~~GO GG~~|5<br>~~GG~~<br>~~GG~~|~~GG~~<br>~~GG~~|~~GG~~<br>~~GG~~|4|1|
-|**Masterarbeit**<br>~~ee~~|~~re~~<br>~~ee~~|~~re~~<br>~~EE~~<br>|~~Ge~~<br>~~EE~~<br>|~~Ge ~~<br>~~EE~~<br>|~~Gd ~~<br>~~EE~~<br>|~~en~~<br>|**30**<br>~~en~~|~~OO~~|~~OO ~~|~~GO~~|~~GO~~|~~GO GG~~|~~GG~~|~~GG~~|~~GG~~|||
-|Masterarbeit|Seminar zur Masterar-<br>beit<br>~~UE~~<br>~~ee~~|~~UE~~<br>~~EE~~<br>|~~UE~~<br>~~EE~~<br>|~~UE~~<br>~~EE~~<br>|2<br>~~UE~~<br>~~EE~~<br>|~~UE~~<br>|**30**|||||||1<br>5|1<br>5|Masterarbeitund<br>Präsentation<br>(100%+0%)|1|
-||Masterarbeit<br>~~ee ~~|~~EE~~<br> ~~eee~~|~~EE~~<br>~~eee~~|~~EE~~<br>~~eee~~|0<br>~~EE~~<br>~~eee~~|~~eee~~||||||||||||
-|**Summe SWS und ECTS-Punkte**<br>~~ee ~~||**6**<br>~~EE~~<br>|**5**<br>~~EE~~<br>|**0**<br>~~EE~~<br>|**2**<br>**3**<br>~~EE~~<br>|**0,5**<br>**2**<br>|**120**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|||
+|**Freier Vertiefungsbereich gemäß**<br>**§ 6 Abs. 2 (2 Module sind zu wäh-**<br>**len)4 **|||||||**10**|||||||||||
+|Modul I|4||||||**5**||5|||||||4|1|
+|Modul II|4||||||**5**||||||5|||4|1|
+|**Masterarbeit**|||||||**30**|||||||||||
+|Masterarbeit|Seminar zur Masterar-<br>beit||||2||**30**|||||||1<br>5|1<br>5|Masterarbeitund<br>Präsentation<br>(100%+0%)|1|
+||Masterarbeit||||0|||||||||||||
+|**Summe SWS und ECTS-Punkte**||**6**|**5**|**0**|**2**<br>**3**|**0,5**<br>**2**|**120**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|**1**<br>**5**|||
 |||**34,5**||||||||||||||||
 
 

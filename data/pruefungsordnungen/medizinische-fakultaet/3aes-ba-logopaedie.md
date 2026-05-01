@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Mai 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/3AES_BA_Logopaedie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:32:29+00:00
+scraped_at: 2026-05-01T07:21:17+00:00
 page_count_chars: 32843
 ---
 
@@ -542,9 +542,9 @@ bb) In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird das Wort „
 
 „ 
 
-|**21**|**Professioneller Umgang**<br>**mit klinisch-**<br>**logopädischen**<br>**Problemstellungen**|Repetitorien||||2|5||||||5||PL:Examen<br>gemäß § 2 ff.<br>LogAPrO**9**|doppelt|
+|**21**|**Professioneller Umgang**<br>**mit klinisch-**<br>**logopädischen**<br>**Problemstellungen**|Repetitorien||||2|||||||||PL:Examen||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Staatsexamen||||2|||||||||||
+|||Staatsexamen||||2|5||||||5||<br>gemäß § 2 ff.<br>LogAPrO**9**|doppelt|
 
 
 

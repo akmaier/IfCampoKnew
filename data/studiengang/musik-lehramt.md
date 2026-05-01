@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-04-25T14:13:22+00:00
+scraped_at: 2026-05-01T06:49:22+00:00
 ---
 
 # Musik (Lehramt)

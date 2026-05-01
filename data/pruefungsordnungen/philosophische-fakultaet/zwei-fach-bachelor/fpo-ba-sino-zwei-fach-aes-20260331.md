@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BA Sino Zwei-Fach ÄS 20260331.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Sinologie/Aenderungssatzungen/FPO_BA_Sino_Zwei-Fach_AeS_20260331.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:03:46+00:00
-page_count_chars: 14620
+scraped_at: 2026-05-01T09:12:02+00:00
+page_count_chars: 15393
 ---
 
 # FPO BA Sino Zwei-Fach ÄS 20260331.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Sinologie/Aenderungssatzungen/FPO_BA_Sino_Zwei-Fach_AeS_20260331.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA Sino Zwei-Fach – Vom 31. März 2026** 
 
@@ -30,16 +34,23 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bache
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 4. Die Tabelle in **Anlage 1** erhält samt Erläuterungen folgende neue Fassung: 
 
 „ 
 
 ## **Anlage 1: Sinologie als Erstfach** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prü-**<br>**fung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**||**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prü-**<br>**f**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
-|**Erstfach:Sinologie**|||||||||||||||
+||||||||||||||||
+|||**V**|||||||||||||
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**ung**||
+||||||||||||||||
+|||||**Erstfach:Sinologie**|||||||||||
 |Modernes Chinesisch 1|Seminar und Konversationsübung||2||6|**10**|10||||||Klausur<br>(120 Min.)und<br>mündliche Prüfung<br>(10Min.)|1|
 |Geschichte und Kultur<br>Chinas|Seminar||||2|**5**|2,5||||||Klausur (120 Min.)|2|
 ||Seminar||||2||2,5||||||||
@@ -53,13 +64,23 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bache
 
 
 
-`2` 
+```
+2
+```
 
-|**Modulbezeichnung**<br>~~——~~|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**<br>~~_~~|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prü-**<br>**fung**<br>(10 Seiten = ca. 3.800<br>Worte)<br>~~—E~~|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**<br>~~—E~~|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Ge-**<br>**samt**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prü-**<br>**f**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**<br>~~:~~|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
-|||||~~:~~|||||||||||
-|Klassisches Chinesisch 2<br>~~——~~|Übung||2|~~:~~||**5**<br>~~_~~||||5|||Wissenschaftliche Überset-<br>zung<br>(10-15 Seiten = ca. 3.800-<br>5.700Worte)<br>~~—E~~|2<br>~~—E~~|
+||||**SWS**||||||||||||
+||||||||||||||||
+|||**V**|||||||||||||
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**ung**||
+||||||||||||||||
+||||||||||||||(10 Seiten = ca. 3.800<br>Worte)||
+|Klassisches Chinesisch 2|Übung||2|||**5**||||5|||Wissenschaftliche Überset-<br>zung<br>(10-15 Seiten = ca. 3.800-<br>5.700Worte)|2|
 |Sprache und Literatur Chi-<br>nas|Hauptseminar||||2|**5**||||5|||Klausur (120 Min.)_oder_<br>mündliche Prüfung (30 Min.)|2|
 |Modernes Chinesisch 4|Seminar und Konversationsübung||2||2|**5**||||5|||Klausur (120 Min.)|1|
 |Modernes Chinesisch 5|Seminar||||2|**5**|||||2,5||Klausur (120 Min.)|1|
@@ -68,37 +89,53 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bache
 ||Hauptseminar||||2||||||2,5||||
 |Modernes Chinesisch 6|Seminar||||2|**5**||||||2,5|Klausur (120 Min.)|0|
 ||Konversationsübung||2|||||||||2,5|||
-|Politik und Wirtschaft Chinas<br>~~a~~|Hauptseminar<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|2|**5**||||||5|Wissenschaftliche Überset-<br>zung<br>~~—~~|2<br>~~=~~|
+|Politik und Wirtschaft Chinas|Hauptseminar||||2|**5**||||||5|Wissenschaftliche Überset-<br>zung|2|
 
 
 
-`3` 
+```
+3
+```
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prü-**<br>**fung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prü-**<br>**f**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
+|||**V**|||||||||||||
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**ung**||
+||||||||||||||||
 ||||||||||||||(10-15 Seiten = 3.800-5.700<br>Worte)||
 |**Summe SWS und ECTS-Punkte im Erstfach:**|||**20-**<br>**22**||**36-**<br>**38**|**90**|**15**|**20**|**17**|**18**|**10**|**10**|||
-|**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**<br>||||||||||||||||
+|**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**|||||||||||||||
 |Module des Zweitfachs2|vgl. FPO des Zweitfachs|||||**70**|15|10|8|7|20|10|vgl. FPO des Zweitfachs||
-|**Schlüsselqualifikationen gem. § 4 Abs. 2**|||||||||||||||
+|||**Schlüsselqualifikationen gem. § 4 Abs. 2**|||||||||||||
 |Modernes Chinesisch: Hö-<br>ren und Sprechen3|Seminar und Konversationsübung||2||2|**10**|||5|5|||Klausur (60 Min.)und<br>Mündliche Prüfung (15 Min.)|0|
 |**Summe SWS und ECTS-Punkte Schlüsselqualifikationen:**|||**2**||**2**|**10**|||**5**|**5**|||||
-|**Bachelorarbeit im Erstfach (Sinologie)**<br>:<br>=|||||||||||||||
+|||**Bachelorarbeit im Erstfach (Sinologie)**|||||||||||||
 |Bachelorarbeit||||||**10**||||||10|Bachelorarbeit<br>(ca. 40 Seiten = ca. 15.000<br>Worte)|1|
+||||||||||||||||
+||||||||||||||||
 |**Summe SWS und ECTS-Punkte Studiengang**|||**22-**<br>**24**||**38-**<br>**40**|**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
 
 
 
-1  Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 11 **ABMStPO/Phil** . 
+- 1  Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 11 **ABMStPO/Phil** . 
 
 - 2  Da es sich bei der hier angegebenen Verteilung um eine Empfehlung handelt, kann das Fach auch mit Zweitfächern kombiniert werden, die eine andere Verteilung der ECTSPunkte auf die Fachsemester vorsehen. Es wird empfohlen, in diesem Fall eine Studienberatung zur Kombination der beiden Fächer in Anspruch zu nehmen. 
 
-3  10 ECTS-Punkte festgelegte Schlüsselqualifikationen. 
+- 3  10 ECTS-Punkte festgelegte Schlüsselqualifikationen. 
 
 “ 
 
-`4` 
+```
+4
+```
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 5. Die Tabelle in **Anlage 2** erhält samt Erläuterungen folgende neue Fassung: 
 
@@ -109,9 +146,10 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bache
 |**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
-|**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**|||||||||||||||
+||**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**||||||||||||||
 |Module des Erstfachs2|vgl. FPO des Erstfachs|||||**70-90**|0-<br>15|0-<br>15|0-<br>15|0-<br>20|0-23|0-15|vgl. FPO des Erstfachs||
-|**Zweitfach: Sinologie**|||||||||||||||
+||||||||||||||||
+|||||**Zweitfach: Sinologie**|||||||||||
 |Modernes Chinesisch 1|Seminar und Konversations-<br>übung||2||6|**10**|10||||||Klausur<br>(120 Min.)und<br>mündliche Prüfung<br>(10 Min.)|1|
 ||||||||||||||||
 |Geschichte und Kultur<br>Chinas|Seminar||||2|**5**|2,5||||||Klausur (120 Min.)|2|
@@ -124,16 +162,26 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bache
 
 
 
-`5` 
+```
+5
+```
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**SWS**||||||||||||
+||||||||||||||||
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
 ||||||||||||||(10-15 Seiten = ca.<br>3.800-5.700 Worte)||
-|Modernes Chinesisch 4<br>~~ee~~|Seminar und Konversations-<br>übung<br>~~es~~|~~eee~~|2<br>~~eee~~|~~eee~~|2<br>~~eee~~|**5**||||5|||Klausur (120 Min.)|1|
-|Modernes Chinesisch 5<br>~~ee~~|Seminar<br>~~es~~|~~eee~~|~~eee~~|~~eee~~|2<br>~~eee~~|**5**|||||2,5||Klausur (120 Min.)|1|
-||Konversationsübung<br>~~es~~|~~eee~~|2<br>~~eee~~|~~eee~~|~~eee~~||||||2,5||||
-|Wissenschaft und Technik<br>Chinas3<br>~~ee~~|Übung<br>~~es ~~|~~eee~~|2<br>~~eee~~|~~eee~~|~~eee~~|**(5)**|||||2||Wissenstest<br>(10-15 Seiten = ca.<br>3.800-5.700 Worte)und<br>Rezension<br>(10 Seiten = 3.800Worte)|2|
+|Modernes Chinesisch 4|Seminar und Konversations-<br>übung||2||2|**5**||||5|||Klausur (120 Min.)|1|
+|Modernes Chinesisch 5|Seminar||||2|**5**|||||2,5||Klausur (120 Min.)|1|
+||Konversationsübung||2||||||||2,5||||
+|Wissenschaft und Technik<br>Chinas3|||||||||||||Wissenstest<br>(10-15 Seiten = ca.<br>3.800-5.700 Worte)und<br>Rezension<br>(10 Seiten = 3.800Worte)|2|
+||Übung||2||||||||2||||
+|||||||**(5)**|||||||||
 ||Seminar||||2|||||||3|||
 |Sprache und Literatur Chi-<br>nas3|Hauptseminar||||2|**(5)**||||||5|Klausur (120 Min.)_oder_<br>mündliche Prüfung (30<br>Min.)|2|
 |Geistes-<br>und<br>Ideenge-<br>schichte Chinas3|Hauptseminar||||2|**(5)**|||||2,5||Hausarbeit<br>(12-17 Seiten = ca.<br>4.500-6.400 Worte)und<br>Referat (15-20 Min.)<br>_oder_<br>mündliche Prüfung (30<br>Min.)|2|
@@ -143,20 +191,28 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bache
 
 
 
-`6` 
+```
+6
+```
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
-|**Schlüsselqualifikationen gem. § 4 Abs. 2**<br>||||||||||||||||
+|||**Schlüsselqualifikationen gem. § 4 Abs. 2**|||||||||||||
 |Wissenschaftliches<br>Arbeiten4|Übung||2|||**(5)**||5|||||Referat (15-20 Min.)|0|
 |Modernes Chinesisch: Hö-<br>ren und Sprechen4|Seminar und Konversations-<br>übung||2||2|**(10)**|||5|5|||Klausur (60 Min.)und<br>mündliche Prüfung (15<br>Min.)|0|
 |Modernes Chinesisch 64|Seminar||||2|**(5)**||||||2,5|Klausur (120 Min.)|0|
 ||Konversationsübung||2|||||||||2,5|||
 |**Summe ECTS-Punkte Schlüsselqualifikationen:**||||||**10-30**|**0-**<br>**15**|**0-**<br>**15**|**0-**<br>**15**|**0-**<br>**20**|**0-23**|**0-15**|||
-|**Bachelorarbeit im Erstfach**<br>||||||||||||||||
+|||**Bachelorarbeit im Erstfach**|||||||||||||
 |Bachelorarbeit|vgl. FPO des Erstfachs|||||**10**||||||10|vgl. FPO des Erstfachs||
-|**Summe SWS und ECTS-Punkte im Studiengang:**|||**33-**<br>**37 **||**16**|**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
+|**Summe SWS und ECTS-Punkte im Studiengang:**|||**33-**<br>**37 **||**16**|**180**|||||||||
+||||||||**30**|**30**|**30**|**30**|**30**|**30**|||
+||||||||||||||||
 
 
 
@@ -164,9 +220,17 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bache
 
 - 4 Die Wahl dieses Moduls wird empfohlen.“ 
 
-`7` 
+```
+7
+```
 
-Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 31. März 2026 Erlangen, den 31. März 2026 FAU gez. 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 31. März 2026 
+
+Erlangen, den 31. März 2026 FAU gez. 
 
 Prof. Dr.-Ing. Joachim Hornegger, Präsident 
 

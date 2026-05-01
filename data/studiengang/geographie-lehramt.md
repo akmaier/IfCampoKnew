@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-scraped_at: 2026-04-25T14:10:28+00:00
+scraped_at: 2026-05-01T06:45:21+00:00
 ---
 
 # Geographie (Lehramt)

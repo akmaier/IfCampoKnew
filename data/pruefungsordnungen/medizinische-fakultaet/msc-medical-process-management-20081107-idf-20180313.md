@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Medical Process Management 20081107 i.d.F. 20180313.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Medical_Process_Management/konsolidierte_Fassungen/MSc_Medical_Process_Management_20081107_idF_20180313.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:33:00+00:00
+scraped_at: 2026-05-01T07:22:18+00:00
 page_count_chars: 62325
 ---
 

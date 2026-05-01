@@ -8,7 +8,7 @@ unterrichtssprache: "Deutsch oder Englisch möglich"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-04-25T14:10:37+00:00
+scraped_at: 2026-05-01T06:45:35+00:00
 ---
 
 # Geowissenschaften (M.Sc.)

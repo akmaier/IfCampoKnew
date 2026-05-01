@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "31. Oktober 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/6AeSa-PrO-Biol.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:40:46+00:00
+scraped_at: 2026-05-01T07:31:28+00:00
 page_count_chars: 8583
 ---
 

@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Masterstudiengänge (eigenständige PO und konsekutiv)"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:19:52+00:00
+scraped_at: 2026-05-01T08:21:48+00:00
 ---
 
 # Masterstudiengänge (eigenständige PO und konsekutiv)

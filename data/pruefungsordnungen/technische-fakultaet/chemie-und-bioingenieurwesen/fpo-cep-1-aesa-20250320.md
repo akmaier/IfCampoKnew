@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO CEP 1. ÄSa 20250320.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Clean_Energy_Processes/Aenderungssatzungen/FPO CEP_1. AeSa_20250320.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:50:29+00:00
-page_count_chars: 13444
+scraped_at: 2026-05-01T10:00:50+00:00
+page_count_chars: 14203
 ---
 
 # FPO CEP 1. ÄSa 20250320.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Clean_Energy_Processes/Aenderungssatzungen/FPO CEP_1. AeSa_20250320.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Clean Energy Processes an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOCEP – Vom: 20.03.2025** 
 
@@ -36,13 +40,17 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang C
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - b) In Abs. 1 Satz 1 Nummer 7 wird nach Buchstaben, der Zahl und dem Zeichen „B8:“ das Wort „Electrochemistry“ durch die Worte „Scientific computing in engineering“ ersetzt. 
 
 ## 5.  Die Regelung in § 45 erhält folgende neue Fassung: 
 
 „[1] Das übergeordnete Qualifikationsziel der Elective modules liegt in der Ausweitung fachlicher Kenntnisse im technischen Bereich und der Berufsqualifikation durch die Verstärkung praxisnaher Kenntnisse.[2] Den Studierenden soll ermöglicht werden, Informationen in einem selbst gewählten Themenbereich zu sammeln oder bereits erworbene Kompetenzen zu vertiefen und ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld oder zur Vorbereitung auf ein nachfolgendes Masterstudium zu schärfen.[3] Die Module B5 und B29 im Umfang von jeweils 5 ECTS-Punkten sind aus dem Angebot der FAU zu wählen.[4] Im Rahmen des jeweiligen Moduls können die Studierenden entweder ein Modul im Umfang von 5 ECTS-Punkten oder zwei Module im Umfang von je 2,5 ECTS-Punkten wählen. 5Art und Umfang der Lehrveranstaltungen und der Prüfung sowie die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen Module sind abhängig von den im jeweiligen Modul vermittelten Kompetenzen und der jeweils einschlägigen **(Fach-)Studien- und Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen.“ 
 
-6.  Die Regelung in § 47 erhält folgende neue Fassung: 
+## 6.  Die Regelung in § 47 erhält folgende neue Fassung: 
 
 „(1)[1] Fachspezifischer Abschluss im Sinne des § 33 Abs. 1 Nr. 1 **ABMPO/TF** ist der Abschluss des Bachelorstudiengangs Clean Energy Processes nach dieser Fachstudien- und Prüfungsordnung bzw. ein gleichwertiger und im Hinblick auf das Kompetenzprofil zu diesem Studiengang nicht wesentlich unterschiedlicher Abschluss einer anderen in- oder ausländischen Hochschule in Clean Energy Processes.[2] Abschlüsse in den Bachelorstudiengängen Chemical Engineering, Chemie- und Bioingenieurwesen und Energietechnik sind in der Regel als fachverwandt anzusehen. 
 
@@ -62,6 +70,10 @@ einreichen.
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - b) des erfolgreichen Test of English as a Foreign Language (TOEFL) mit mindestens 80 Punkten im iBT, oder 
 
 - c) des International English Language Testing System (IELTS) 5.5 oder höher geführt werden; für alternative Nachweismöglichkeiten wird beispielhaft auf die Äquivalenztabelle des Sprachenzentrums der FAU verwiesen. 
@@ -75,6 +87,10 @@ einreichen.
 (5)[1] Auf der zweiten Stufe des Qualifikationsfeststellungsverfahrens findet eine mündliche Zugangsprüfung gemäß Abs. 6 **Anlage ABMPO/TF** für diejenigen Bewerberinnen und Bewerber statt **,** die den elektronischen Zugangstest nach Abs. 4 mit dem Prädikat „gut“ oder besser gemäß § 22 Abs. 1 Satz 1 **ABMPO/TF** bestanden haben.[2] Die Bewerberinnen bzw. Bewerber werden auf Basis folgender Kriterien beurteilt: 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 1. Qualität der Fähigkeit, komplexe Aufgabenstellungen aus dem Bereich der Clean Energy Processes einschließlich relevanter Verfahrens- und Messtechniken zu analysieren, Wege zur Problemlösung zu erarbeiten sowie Ergebnisse kritisch zu diskutieren (40 Prozent), 
 
@@ -102,6 +118,10 @@ einreichen.
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 den im jeweiligen Modul vermittelten Kompetenzen und der jeweils einschlägigen (Fach-)Studien- und Prüfungsordnung bzw. dem Modulhandbuch zu entnehmen.“ 
 
 11.  In § 55 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
@@ -110,13 +130,17 @@ den im jeweiligen Modul vermittelten Kompetenzen und der jeweils einschlägigen 
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 12. Die **Anlage 1** wird wie folgt geändert: 
 
 a) Zeile 8  (Modulnummer B7) erhält folgende neue Fassung: 
 
 ## „ 
 
-**==> picture [674 x 158] intentionally omitted <==**
+**==> picture [710 x 168] intentionally omitted <==**
 
 **----- Start of picture text -----**<br>
 B7  Measurement systems(GOP)  2  1  2  5  5  PL (K, 90 min.)<br>„<br>b)    Zeile 9 (Modulnummer B8) erhält folgende neue Fassung:<br>„<br>Scientific computing in<br>B8  2  4  5  5  PL (K, 90 min.)<br>engineering (GOP)<br>„<br>c)   Zeile 16 (Modulnummer B15)  erhält folgende neue Fassung:<br>„<br> Introduction to interface<br>B15  2  3  5  5  PL (K, 90 min.)<br>engineering<br>**----- End of picture text -----**<br>
@@ -135,6 +159,10 @@ B7  Measurement systems(GOP)  2  1  2  5  5  PL (K, 90 min.)<br>„<br>b)    Zei
 - „[3] vgl. § 52. Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen. Abweichend von § 37 i.V.m. § 32 Abs. 2 Satz 3 **ABMPO/TF** ist ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich.“ 
 
 6 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 14. In **Anlage 3** wird Fußnote 3 unterhalb der Tabelle wie folgt neu gefasst: 
 

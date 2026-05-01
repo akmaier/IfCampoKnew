@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 18 February 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/pdf_englisch/PrO-BA-MA_MolekMedizin-FEB2016_engl.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:36:55+00:00
+scraped_at: 2026-05-01T07:26:49+00:00
 page_count_chars: 79223
 ---
 

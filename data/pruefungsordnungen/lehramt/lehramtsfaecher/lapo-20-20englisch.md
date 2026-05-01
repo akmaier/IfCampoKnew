@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 26.02.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Englisch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:23:47+00:00
-page_count_chars: 13214
+scraped_at: 2026-05-01T07:06:16+00:00
+page_count_chars: 13283
 ---
 
 # pdf vom 26.02.2009
@@ -105,7 +105,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 
 
-(3) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum angeboten: 
+## (3) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum angeboten: 
 
 |**FS.**|**Modul**|**SWS**|**ECTS-**|**Prüfung / Zulassungsvoraussetzungen***|
 |---|---|---|---|---|
@@ -119,7 +119,11 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 (1)[1] Im Studium des Lehramts Englisch an Grund-, Haupt- und Realschulen sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen: 
 
-**Nr. Modul Veranstaltungen/Art SWS ECTS Prüfung / Zulassungsvoraussetzungen *** 
+|**Nr.**|**Modul**|**Veranstaltungen/Art**|**SWS**|**ECTS**|**Prüfung / Zulassungsvoraus-**<br>**setzungen ***|
+|---|---|---|---|---|---|
+|||||||
+
+
 
 3 
 

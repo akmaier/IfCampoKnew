@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-2F-BA%20Kunstgesch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:59:22+00:00
+scraped_at: 2026-05-01T09:05:31+00:00
 page_count_chars: 2440
 ---
 

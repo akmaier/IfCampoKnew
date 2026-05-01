@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl WTB MBA Digital Business and AI PO MBA DB&AI 20240229 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Digital_Business_and_AI/englisch/berufsbegl_WTB_MBA_Digital_Business_and_AI_PO_MBA_DB&AI_20240229_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:37:51+00:00
+scraped_at: 2026-05-01T09:46:30+00:00
 page_count_chars: 72562
 ---
 

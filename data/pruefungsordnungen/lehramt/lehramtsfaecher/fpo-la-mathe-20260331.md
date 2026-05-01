@@ -3,14 +3,26 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO LA Mathe 20260331.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Mathematik/konsolidierte_Fassungen/FPO_LA_Mathe_20260331.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:27:46+00:00
-page_count_chars: 68934
+scraped_at: 2026-05-01T07:13:18+00:00
+page_count_chars: 73656
 ---
 
 # FPO LA Mathe 20260331.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Mathematik/konsolidierte_Fassungen/FPO_LA_Mathe_20260331.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 ## **Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) und für den Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. / Master Ed. „Berufliche Bildung/Fachrichtung Sozialpädagogik – Vocational Education/Social Pedagogy and Social Services“ – FPO LA Mathe – Vom 31. März 2026** 
 
@@ -27,6 +39,18 @@ Aufgrund von Art. 9 Satz 1, Art. 80 Abs. 1 Satz 1 und Art. 84 Abs. 2 Satz 1 Baye
 Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium an der FAU und für die Teilstudiengänge Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. / Master Ed. „Berufliche Bildung/Fachrichtung Sozialpädagogik – Vocational Education/Social Pedagogy and Social Services“ – **LAPO** – in der jeweils geltenden Fassung für das Fach Mathematik. 
 
 1 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 ## **§ 2 Studienbeginn** 
 
@@ -52,9 +76,33 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 2 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 (3) 1Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Übungsleistungen, Kurztests oder Hausaufgaben) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.[4] Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen. 
 
 3 
+
+**==> picture [165 x 12] intentionally omitted <==**
+
+**==> picture [165 x 12] intentionally omitted <==**
+
+**==> picture [165 x 12] intentionally omitted <==**
+
+**==> picture [165 x 12] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
 
 ## **2. Lehramt an Gymnasien** 
 
@@ -64,43 +112,60 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 ## 1. Pflichtmodule 
 
-||**Modulbezeichnung1)**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul**<br>**note**|
+||**Modulbezeichnung1)**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||**Gesamt**||||||||||||
+|||||||||**ECTS**||||||||||||
 ||||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|||
 ||||**V**|**Ü**|**P**|**S**|**T**|||||||||||||
-|**Pflichtmodule (Lehramt an Gymnasien)**<br>~~rr~~<br>~~po~~|Analysis I1)|Vorlesung Analysis I<br>~~EO~~<br>~~EE~~|4<br>~~EO~~<br>~~EE~~|~~EO~~<br>~~EE~~|~~EO~~<br>~~EE~~|~~EO~~<br>~~EE~~|~~EO~~<br>~~EE~~|**10**|6<br>~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)|0|
-|||Übung Analysis I<br>~~EE~~|~~EE~~|2<br>~~EE~~|~~EE~~|~~EE~~|~~EE~~||2<br>~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|||
-|||Tafelübung Analysis I<br>~~a~~||2<br>~~OO~~|~~OO~~|~~OO~~|~~OO~~||2|||||||||||
-||Lineare<br>Algebra I1)<br>~~Se~~|Vorlesung Lineare Algebra I<br>~~SO~~<br>~~a~~|4<br>~~SO~~|~~SO~~<br>~~OO~~|~~SO~~<br>~~OO~~|~~SO~~<br>~~OO~~|~~SO~~<br>~~OO~~|**10**<br>~~OO~~<br>~~OO~~|6<br>~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)|0|
-|||Übung Lineare Algebra I<br>~~a~~<br>~~Se~~||2<br>~~OO~~|~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~||2<br>~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|||
-|||Tafelübung Lineare Algebra I<br>~~Se~~||2|~~OO~~|~~OO~~|~~OO~~||2<br>~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|~~OO~~|||
-||Analysis II1)<br>~~Se~~|Vorlesung Analysis II<br>~~Se~~<br>~~Se~~<br>~~EE~~|4<br>~~Se~~<br>~~EE~~|~~Se~~<br>~~EE~~|~~OO~~<br>~~Se~~<br>~~EE~~|~~OO~~<br>~~Se~~<br>~~EE~~|~~OO~~<br>~~Se~~<br>~~EE~~|**10**<br>~~OO~~|~~OO~~<br>~~Eee~~|6<br>~~OO~~<br>~~Eee~~|~~OO~~<br>~~Eee~~|~~OO~~<br>~~Eee~~|~~OO~~<br>~~Eee~~|~~OO~~<br>~~Eee~~|~~OO~~<br>~~Eee~~|~~OO~~<br>~~Eee~~|~~OO~~<br>~~Eee~~|Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)|0,5|
-|||Übung Analysis II<br>~~EE~~|~~EE~~|2<br>~~EE~~|~~EE~~|~~EE~~|~~EE~~||~~Eee~~|2<br>~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|||
-|||Tafelübung Analysis II<br>~~a~~||2<br>~~OO~~|~~OO~~|~~OO~~|~~OO~~|||2||||||||||
-||Lineare<br>Algebra II1)|Vorlesung Lineare Algebra II<br>~~a~~<br>~~EE~~|4<br>~~EE~~|~~OO~~<br>~~EE~~|~~OO~~<br>~~EE~~|~~OO~~<br>~~EE~~|~~OO~~<br>~~EE~~|**10**|~~Eee~~|6<br>~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)|0,5|
-|||Übung Lineare Algebra II<br>~~EE~~|~~EE~~|2<br>~~EE~~|~~EE~~|~~EE~~|~~EE~~||~~Eee~~|2<br>~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|||
-|||Tafelübung Lineare Algebra II<br>~~a~~||2<br>~~OO~~|~~OO~~|~~OO~~|~~OO~~|||2||||||||||
-||Algebra2)<br>~~rr~~|Vorlesung Algebra<br>~~a~~<br>~~EE~~|4<br>~~EE~~|~~OO~~<br>~~EE~~|~~OO~~<br>~~EE~~|~~OO~~<br>~~EE~~|~~OO~~<br>~~EE~~|**10**<br>~~eee~~|~~Eee~~|~~Eee~~|(6)<br>~~Eee~~|(6)<br>~~Eee~~|(6)<br>~~Eee~~|(6)<br>~~Eee~~|(6)<br>~~Eee~~|(6)<br>~~Eee~~|(6)<br>~~Eee~~|Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)<br>~~eee~~|(1)<br>~~eee~~|
-|||Übung Algebra<br>~~EE~~|~~EE~~|2<br>~~EE~~|~~EE~~|~~EE~~|~~EE~~||~~Eee~~|~~Eee~~|(2)<br>~~Eee~~|(2)<br>~~Eee~~|(2)<br>~~Eee~~|(2)<br>~~Eee~~|(2)<br>~~Eee~~|(2)<br>~~Eee~~|(2)<br>~~Eee~~|||
-|||Tafelübung Algebra<br>~~**a**~~<br>~~eee~~|~~eee~~|1<br>~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~||~~eee~~|~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|||
-||Körpertheorie2)<br>~~rr~~<br>~~po~~|Vorlesung Körpertheorie<br>~~**a**~~<br>~~eee~~|2<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~|**5**<br>~~eee~~<br>~~EE~~|~~eee~~|~~eee~~|(3)<br>~~eee~~|(3)<br>~~eee~~|(3)<br>~~eee~~|(3)<br>~~eee~~|(3)<br>~~eee~~|(3)<br>~~eee~~|(3)<br>~~eee~~|Klausur 90 Min.<br>~~eee~~|(1)<br>~~eee~~|
-|||Übung Körpertheorie<br>~~**a**~~<br>~~eee~~<br>~~po~~|~~eee~~|2<br>~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~<br>~~EE~~||~~eee~~<br>~~EE~~|~~eee~~<br>~~EE~~|(2)<br>~~eee~~<br>~~EE~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|||
-||Analysis für<br>Lehramt<br>~~rr~~<br>~~po~~|Vorlesung Analysis für<br>Lehramt<br>~~**a**~~<br>~~eee~~<br>~~po~~|4<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~|~~**OO**~~<br>~~eee~~<br>~~EE~~|**10**<br>~~eee~~<br>~~EE~~|~~eee~~<br>~~EE~~|~~eee~~<br>~~EE~~|(6)<br>~~eee~~<br>~~EE~~|(6)<br>~~eee~~|(6)<br>~~eee~~|(6)<br>~~eee~~|(6)<br>~~eee~~|(6)<br>~~eee~~|(6)<br>~~eee~~|Klausur 120 Min.und<br>~~eee~~|(1)<br>~~eee~~|
+||Analysis I1)|Vorlesung Analysis I|4|||||**10**|6|||||||||Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)|0|
+|||Übung Analysis I||2|||||2|||||||||||
+|||Tafelübung Analysis I||2|||||2|||||||||||
+|||Vorlesung Lineare Algebra I|4||||||6|||||||||Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)|0|
+|**en)**|Lineare<br>Algebra I1)|Übung Lineare Algebra I||2||||**10**|2|||||||||||
+|**Lehramt an Gymnasi**||Tafelübung Lineare Algebra I||2|||||2|||||||||||
+||Analysis II1)|Vorlesung Analysis II|4|||||**10**||6||||||||Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)|0,5|
+|||Übung Analysis II||2||||||2||||||||||
+|||Tafelübung Analysis II||2||||||2||||||||||
+|||Vorlesung Lineare Algebra II|4|||||||6||||||||Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)|0,5|
+|**le (**|Lineare<br>Algebra II1)|Übung Lineare Algebra II||2||||**10**||2||||||||||
+|**Pflichtmodu**||Tafelübung Lineare Algebra II||2||||||2||||||||||
+||Algebra2)|Vorlesung Algebra|4|||||**10**|||(6)|(6)|(6)|(6)|(6)|(6)|(6)|Klausur 120 Min.und<br>Übungsleistung<br>(unbenotet)|(1)|
+|||Übung Algebra||2|||||||(2)|(2)|(2)|(2)|(2)|(2)|(2)|||
+|||Tafelübung Algebra||1|||||||(2)|(2)|(2)|(2)|(2)|(2)|(2)|||
+||Körpertheorie2)|Vorlesung Körpertheorie|2|||||**5**|||(3)|(3)|(3)|(3)|(3)|(3)|(3)|Klausur 90 Min.|(1)|
+|||Übung Körpertheorie||2|||||||(2)|(2)|(2)|(2)|(2)|(2)|(2)|||
+||Analysis für<br>Lehramt|Vorlesung Analysis für<br>Lehramt|4|||||**10**|||(6)|(6)|(6)|(6)|(6)|(6)|(6)|Klausur 120 Min.und|(1)|
 
 
 
 4 
 
-|~~po~~|**Modulbezeichnung1)**<br>~~po~~<br>~~a~~|**Lehrveranstaltung**<br>~~rrr~~|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**<br>~~eee~~<br>~~ge~~|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**<br>Übungsleistung<br>(unbenotet)<br>~~eee~~<br>~~ge~~|**Faktor**<br>**Modul**<br>**note**<br>~~eee~~<br>~~ge~~|
+**==> picture [165 x 12] intentionally omitted <==**
+
+**==> picture [165 x 12] intentionally omitted <==**
+
+**==> picture [165 x 12] intentionally omitted <==**
+
+**==> picture [165 x 12] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+||**Modulbezeichnung1)**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|||||||||||**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||**1.**<br>~~eee~~|**2.**<br>~~eee~~|**3.**<br>~~eee~~|**4.**<br>~~eee~~|**5.**<br>~~eee~~|**6.**<br>~~eee~~|**7.**<br>~~eee~~|**8.**<br>~~eee~~|**9.**<br>~~eee~~|||
-||||**V**<br>~~rrr~~|**Ü**<br>~~rrr~~|**P**<br>~~rrr~~|**S**<br>~~rrr~~|**T**<br>~~eee~~|||||||||||||
-|||Übung Analysis für Lehramt<br>~~rrr~~|~~rrr~~|2<br>~~rrr~~|~~rrr~~|~~rrr~~|~~eee~~||~~eee~~|~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|(2)<br>~~eee~~|||
-|||Tafelübung Analysis für<br>Lehramt<br>~~rrr~~<br>~~ee~~|~~rrr~~<br>~~a~~|1<br>~~rrr~~<br>~~a~~|~~rrr~~<br>~~ge~~|~~rrr~~<br>~~ge~~|~~eee~~<br>~~ge~~||~~eee~~<br>~~ge~~|~~eee~~<br>~~ge~~|(2)<br>~~eee~~<br>~~ge~~|(2)<br>~~eee~~<br>~~ge~~|(2)<br>~~eee~~<br>~~ge~~|(2)<br>~~eee~~<br>~~ge~~|(2)<br>~~eee~~<br>~~ge~~|(2)<br>~~eee~~<br>~~ge~~|(2)<br>~~eee~~<br>~~ge~~|||
-||Funktionentheorie2)<br>~~po~~<br>~~a~~|Vorlesung Funktionentheorie I<br>~~rrr~~<br>~~ee~~|2<br>~~rrr~~<br>~~a~~|~~rrr~~<br>~~a~~|~~rrr~~<br>~~ge~~<br>~~OO~~|~~rrr~~<br>~~ge~~<br>~~OO~~|~~eee~~<br>~~ge~~<br>~~OO~~|**5**<br>~~eee~~<br>~~ge~~<br>~~OO~~|~~eee~~<br>~~ge~~<br>~~OO~~|~~eee~~<br>~~ge~~<br>~~OO~~|(3)<br>~~eee~~<br>~~ge~~|(3)<br>~~eee~~<br>~~ge~~|(3)<br>~~eee~~<br>~~ge~~|(3)<br>~~eee~~<br>~~ge~~|(3)<br>~~eee~~<br>~~ge~~|(3)<br>~~eee~~<br>~~ge~~|(3)<br>~~eee~~<br>~~ge~~|Klausur 90 Min.<br>~~eee~~<br>~~ge~~|(1)<br>~~eee~~<br>~~ge~~|
-|||Übung Funktionentheorie I<br>~~ee~~<br>~~SO~~|~~a~~<br>~~SO~~|2<br>~~a~~<br>~~SO~~|~~ge~~<br>~~SO~~<br>~~OO~~|~~ge~~<br>~~SO~~<br>~~OO~~|~~ge~~<br>~~SO~~<br>~~OO~~||~~ge~~<br>~~OO~~|~~ge~~<br>~~OO~~|(2)<br>~~ge~~|(2)<br>~~ge~~|(2)<br>~~ge~~|(2)<br>~~ge~~|(2)<br>~~ge~~|(2)<br>~~ge~~|(2)<br>~~ge~~|||
-||**Summe Pflichtmodule (Lehramt an Gymnasien)**<br>~~a~~<br>~~ee~~||**28**<br>~~a~~|**26**<br>~~a~~|**0**<br>~~ge~~<br>~~OO~~|**0**<br>~~ge~~<br>~~OO~~|**0**<br>~~ge~~<br>~~OO~~|**70**<br>~~ge~~<br>~~OO~~|**20**<br>~~ge~~<br>~~OO~~|**20**<br>~~ge~~<br>~~OO~~|**0-**<br>**30**<br>~~ge~~|**0-**<br>**30**<br>~~ge~~|**0-**<br>**30**<br>~~ge~~|**0-**<br>**30**<br>~~ge~~|**0-**<br>**30**<br>~~ge~~|**0-**<br>**30**<br>~~ge~~|**0-**<br>**30**<br>~~ge~~|~~ge~~||
-||||**54**|||||||||||||||||
+|||||||||||**Workload-Verteilung pro Semester**||||||||||
+|||||||||**Gesamt**||||**in ECTS-Punkten**||||||||
+|||||||||**ECTS**||||||||||||
+||||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|||
+||||**V**|**Ü**|**P**|**S**|**T**|||||||||||||
+|||Übung Analysis für Lehramt||2|||||||(2)|(2)|(2)|(2)|(2)|(2)|(2)|Übungsleistung<br>(unbenotet)||
+|||Tafelübung Analysis für<br>Lehramt||1|||||||(2)|(2)|(2)|(2)|(2)|(2)|(2)|||
+||Funktionentheorie2)|Vorlesung Funktionentheorie I|2|||||**5**|||(3)|(3)|(3)|(3)|(3)|(3)|(3)|Klausur 90 Min.|(1)|
+|||Übung Funktionentheorie I||2|||||||(2)|(2)|(2)|(2)|(2)|(2)|(2)|||
+||**Summe Pflichtmodule (Lehramt an Gymnasien)**||**28**|**26**|**0**|**0**|**0**|**70**|**20**|**20**|**0-**<br>|**0-**<br>|**0-**<br>|**0-**<br>|**0-**<br>|**0-**<br>|**0-**<br>|||
+||||**54**||||||||**30**|**30**|**30**|**30**|**30**|**30**|**30**|||
 
 
 
@@ -112,12 +177,26 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 5 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 ## 2. Wahlpflichtmodule gemäß § 8 
 
-||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesa**<br>**mt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Art und Umfang**<br>**der**<br>**Prüfung**|**Faktor**<br>**Modulno**<br>**te**|
+||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesa**<br>**mt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Art und Umfang**<br>**der**|**Faktor**<br>**Modulno**<br>**te**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|||
+||||||||||**1.**|||||||||||
+|||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|**Prüfung**||
 ||||**V**|**Ü**|**P**|**S**|**T**|||||||||||||
+|||||||||||||||||||||
 |**Angewan**<br>**dte**|Wahlpflichtmodule<br>aus dem Katalog für<br>Angewandte<br>Mathematik gemäß §<br>8|vgl. § 8 Abs. 4||||||5|||(5)|(5)|(5)|(5)|(5)|(5)|(5)|vgl. § 8 Abs. 4|(1)|
 ||**Summe Angewandte Mathematik**|||||||**5**|**0**|**0**|**0-5**|**0-5**|**0-5**|**0-5**|**0-5**|**0-5**|**0-5**|||
 |**Stochastik**|Wahlpflichtmodule<br>aus dem Katalog für<br>Stochastik<br>gemäß § 8|vgl. § 8 Abs. 4||||||10|||(10)|(10)|(10)|(10)|(10)|(10)|(10)|vgl. § 8 Abs. 4|(1)|
@@ -136,16 +215,30 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 6 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 ## (2) Im Bereich der Fachdidaktik sind folgende Module erfolgreich abzulegen: 
 
 ## 1. Pflichtmodul 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul**<br>**note**|**Faktor**<br>**Modul**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul**<br>**note**|**Faktor**<br>**Modul**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**||||
+|||**V**|||||||||||||||||
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**||||
+||||||||||||||||||||
 |Mathematikdidaktik 1:<br>Gymnasium (MD1Gym)|Vorlesung: Einführung<br>in die Sekundarstufen<br>Mathematikdidaktik|2||||**5**||||2,5||||||Klausur (45 Min.)und<br>Klausur (45 Min)|1||
 ||Vorlesung: Didaktik im<br>Bereich Zahl und<br>Operation, Muster und<br>funktionaler<br>Zusammenhang<br>_oder_<br>Vorlesung: Didaktik im<br>Bereich Raum und<br>Form|2|||||||||2,5||||||||
-|**Summe:**||**4**||||**10**||||**2,5**|**2,5-5 **||||||||
+||**Summe:**|**4**||||**10**||||**2,5**|**2,5-5 **||||||||
 
 
 
@@ -153,9 +246,11 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 1Es muss eines der folgenden Module erfolgreich abgelegt werden. 2Die Wahl erfolgt durch die Anmeldung zur ersten Teilprüfung. 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**||**SWS**|**SWS**||**Gesamt**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|||
+|||**V**||||||||||||||||
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|||
+|||||||||||||||||||
 |Mathematikdidaktik 2 S:<br>Gymnasium (MD2SGym)2|Hauptseminar:<br>Ausgewählte Themen<br>der Sekundarstufen-<br>Mathematikdidaktik||||2|**5**||||||(2,5)||(2,5)||Seminarleistung<br>(unbenotet) und<br>Klausur (45 Min.)|1|
 ||Vorlesung: Didaktik<br>der Analysis|2|||||||||(2,5)||(2,5)||(2,5)|||
 |Mathematikdidaktik 2 V:<br>Gymnasium (MD2VGym)2|Vorlesung: Didaktik im<br>Bereich Daten und<br>Zufall, Größen und<br>Messen|2||||**5**||||||(2,5)||(2,5)||Klausur (45 Min)und<br>Klausur (45 Min.)|1|
@@ -163,6 +258,18 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 
 7 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 ||Vorlesung: Didaktik<br>der Analysis|2|||||||||(2,5)||(2,5)||(2,5)||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -176,9 +283,11 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 ## (3) Falls das studienbegleitende fachdidaktische Praktikum im Fach Mathematik belegt wird, ist folgendes Modul erfolgreich abzulegen: 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**||**SWS**|**SWS**|||**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**f**|**Faktor**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|||
+|||**V**||||**Gesamt**||||||||||**Art und Umang**<br>**der Prüfung**|**Modul-**<br>**note**|
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|||
+|||||||||||||||||||
 |Mathematikdidaktik 3:<br>Praktikum Gymnasium<br>(MDPraktGym)|Studienbegleitendes<br>fachdidaktisches Praktikum|||3||**5**||||||(3)||(3)||Seminarleistung<br>(unbenotet)|0|
 ||Hauptseminar:<br>Begleitveranstaltung zum<br>studienbegleitenden<br>fachdidaktischen Praktikum<br>Gymnasium||||2|||||||(2)||(2)||||
 |**Summe SWS und ECTS-Punkte:**||||**4**|**2**|**5**||||||**0-5 **||**0-5 **||||
@@ -189,12 +298,17 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 ## (4) Im freien Bereich können folgende Module aus der Fachdidaktik gewählt werden: 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**G**||**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**Workload-Verteilung pro Semester in ECTS-Punkten1)**|**A d Uf**|**Faktor**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|||
+|||**V**||||**esamt**||||||||||**rt un mang**<br>**der Prüfung**|**Modul-**<br>**note**|
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|||
+|||||||||||||||||||
 |Mathematikdidaktik<br>Examensmodul<br>(MDExGym)|Staatsexamenskurs<br>Mathematikdidaktik<br>Gymnasium||2|||**3**||||||||(3)|(3)|Übungsleistung<br>(unbenotet)|0|
-|Mathematikdidaktik<br>Vertiefungsmodul<br>Gymnasium (MDVGym)<br>~~a~~|Hauptseminar oder Seminar<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|2<br>~~ee~~|**5**||||||(2,5)|(2,5)|(2,5)|(2,5)|Seminarleistung<br>(unbenotet)und<br>Klausur (45 Min.)|0|
-||Vorlesung<br>~~ee~~|2<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|||||||(2.5)|(2.5)|(2.5)|(2.5)|||
+|Mathematikdidaktik<br>Vertiefungsmodul|Hauptseminar oder Seminar|||||||||||||||Seminarleistung<br>(unbenotet)und<br>Klausur (45 Min.)|0|
+||||||2|||||||(2,5)|(2,5)|(2,5)|(2,5)|||
+|||||||**5**||||||||||||
+|<br>Gymnasium (MDVGym)|Vorlesung|2||||||||||(2.5)|(2.5)|(2.5)|(2.5)|||
+|||||||||||||||||||
 |**Summe SWS und ECTS-Punkte**||**2**|**2**||**2**|**8**||||||**0-5**|**0-5**|**0-5**|**0-5**|||
 |||**6**||||||||||||||||
 
@@ -203,6 +317,18 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 - 1) Bei der angegebenen Verteilung handelt es sich um eine Option. 
 
 8 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 ## **§ 8 Wahlpflichtmodule im Lehramt Mathematik an Gymnasien im Bereich Fachwissenschaften** 
 
@@ -230,6 +356,18 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 9 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 ## **3. Lehramt an Grund-, Mittel- und Realschulen** 
 
 ## **§ 9 Inhalt, Aufbau und Gliederung des Studiums** 
@@ -238,22 +376,28 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 ||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
+||||||||||**1.**|||||||||
+|||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
 ||||**V**|**Ü**|**P**|**S**|**T**|||||||||||
-|**Pflichtmodule (Lehramt an Grund-, Mittel- und Realschulen)**|Elemente der Linearen<br>Algebra I1)|Vorlesung Elemente der<br>Linearen Algebra I|3|||||**5**|4|||||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|0|
-|||Übung Elemente der<br>Linearen Algebra I||1|||||1|||||||||
+|||||||||||||||||||
+|**ittel- und Realschulen)**|Elemente der Linearen<br>Algebra I1)|Vorlesung Elemente der<br>Linearen Algebra I|3||||||4|||||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|0|
+|||Übung Elemente der<br>Linearen Algebra I||1||||**5**|1|||||||||
+|||||||||||||||||||
 ||Elemente der Linearen<br>Algebra II2)|Vorlesung Elemente der<br>Linearen Algebra II|4|||||**10**||6||||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|1|
 |||Übung Elemente der<br>Linearen Algebra II||2||||||4||||||||
-||Elemente der Analysis I2)|Vorlesung Elemente<br>der Analysis I|3|||||**5**||4||||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|0|
-|||Übung Elemente<br>der Analysis I||1||||||1||||||||
-||Elemente der Analysis II1)|Vorlesung Elemente<br>der Analysis II|4|||||**10**|||6|||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|1|
-|||Übung Elemente<br>der Analysis II||2|||||||4|||||||
-||Analytische Geometrie1)|Vorlesung Analytische<br>Geometrie|3|||||**5**|||4|||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|1|
-|||Übung Analytische<br>Geometrie||1|||||||1|||||||
+||2)|Vorlesung Elemente<br>der Analysis I|3|||||||4||||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|0|
+|**nd-, M**|Elemente der Analysis I|Übung Elemente<br>der Analysis I||||||**5**||||||||||
+|||||1||||||1||||||||
+|**Pflichtmodule (Lehramt an Gru**|Elemente der Analysis II1)|Vorlesung Elemente<br>der Analysis II|4||||||||6|||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|1|
+|||Übung Elemente<br>der Analysis II||2||||**10**|||4|||||||
+|||||||||||||||||||
+||Analytische Geometrie1)|Vorlesung Analytische<br>Geometrie|3||||||||4|||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|1|
+|||Übung Analytische<br>Geometrie||||||**5**||||||||||
+|||||1|||||||1|||||||
 ||Aufbaumodul Analysis2)|Vorlesung Elemente<br>der Analysis III|3|||||**5**||||4||||Klausur max. 180 Min.|1|
 |||Übung Elemente<br>der Analysis III||1||||||||1||||||
 |||||||||||||||||||
-|**Summe SWS und ECTS-Punkte**|||**20**|**8**|**0**|**0**|**0**|**40**|**5**|**15**|**15**|**5**|**0**|**0**|**0**|||
+||||**20**|**8**|**0**|**0**|**0**|**40**|**5**|**15**|**15**|**5**|**0**|**0**|**0**|||
 ||||**28**|||||||||||||||
 
 
@@ -263,6 +407,18 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 - 2) Das Modul wird nur im Sommersemester angeboten. 
 
 10 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 **Erläuterung:** 
 
@@ -278,8 +434,10 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 ||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
+||||||||||**1.**|||||||||
+|||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
 ||||**V**|**Ü**|**P**|**S**|**T**|||||||||||
+|||||||||||||||||||
 |**Weitere Module (Lehramt an Grund-, Mittel-**<br>**und Real-**|Elementare Stochastik1)|Vorlesung Elementare<br>Stochastik|3|||||5||||(4)|(4)|(4)|(4)|Klausur max. 90 Min.|1|
 |||Übung Elementare<br>Stochastik||1||||||||(1)|(1)|(1)|(1)|||
 ||Mathematisches Seminar in<br>elementarer Stochastik3)|Seminar||||2||5||||(5)|(5)|(5)|(5)|Vortrag (90 Min.; benotet),und<br>schriftliche Ausarbeitung des<br>Vortrags (max. 10 Seiten; benotet)<br>(75 %+25%)|1|
@@ -293,9 +451,23 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 11 
 
-||Mathematisches Seminar in<br>elementarer Zahlentheorie3)|Seminar||||2||5||||(5)|(5)|(5)|(5)|Vortrag (90 Min.; benotet)und<br>schriftliche Ausarbeitung des<br>Vortrags (max. 10 Seiten; benotet)<br>(75 %+25 %)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||||||
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
+||Mathematisches Seminar in<br>elementarer Zahlentheorie3)|Seminar||||2||5|5||||(5)|(5)|(5)|(5)|Vortrag (90 Min.; benotet)und<br>schriftliche Ausarbeitung des<br>Vortrags (max. 10 Seiten; benotet)<br>(75 %+25 %)|1|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||||||||
+||||**9**|**3**|**0**|**6**|**0**|**30**|||||**0-**|**0-**|**0-**|**0-**<br>**30**|||
+||**Summe SWS und ECTS-Punkte**||**18**||||||**0**||**0**|**0**|**30**|**30**|**30**||||
 
 
 
@@ -307,15 +479,32 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 12 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 ## (2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich abzulegen: 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul**<br>**note**|
+|**Modulbezeichnung**||**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**||||||||||
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
-|Didaktik der<br>Grundschulmathematik 1|Elemente der Arithmetik, Algebra und<br>des Sachrechnen|3||||**5**|(3)||(3)||(3)|||Klausur (90 Min.)<br>~~dt~~|1<br>~~dt~~|
-||Übungen zu Elemente der Arithmetik||2||||(2)<br>~~eee~~|~~eee~~|(2)<br>~~eee~~|~~eee~~|(2)<br>~~eee~~|~~eee~~|~~eee~~|||
-|Didaktik der<br>Grundschulmathematik 2 –<br>Geometrie<br>~~eT~~|Elemente der Schulgeometrie<br>~~eT~~|3<br>~~eT~~|~~eT~~|~~eT~~|~~eT~~|**5**<br>~~eT~~|~~eT~~<br>~~eee~~|(3)<br>~~eT~~<br>~~eee~~|~~eT~~<br>~~eee~~|(3)<br>~~eT~~<br>~~eee~~|~~eT~~<br>~~eee~~|(3)<br>~~eT~~<br>~~eee~~|~~eT~~<br>~~eee~~|Klausur (90 Min.)<br>~~eT~~<br>~~dt~~|1<br>~~eT~~<br>~~dt~~|
-||Übungen zu Elemente der<br>Schulgeometrie<br>~~eT~~|~~eT~~|2<br>~~eT~~|~~eT~~|~~eT~~||~~eT~~<br>~~eee~~|(2)<br>~~eT~~<br>~~eee~~|~~eT~~<br>~~eee~~|(2)<br>~~eT~~<br>~~eee~~|~~eT~~<br>~~eee~~|(2)<br>~~eT~~<br>~~eee~~|~~eT~~<br>~~eee~~|||
+|Didaktik der<br>Grundschulmathematik 1|Elemente der Arithmetik, Algebra und<br>des Sachrechnen|3||||**5**|(3)||(3)||(3)|||Klausur (90 Min.)|1|
+||Übungen zu Elemente der Arithmetik||2||||(2)||(2)||(2)|||||
+|Didaktik der<br>Grundschulmathematik 2 –<br>Geometrie|Elemente der Schulgeometrie|3||||||(3)||(3)||(3)||||
+||Übungen zu Elemente der<br>Schulgeometrie||2|||**5**||2||2||2||Klausur (90 Min.)|1|
+|||||||||()||()||()||||
+|Didaktik der<br>Grundschulmathematik 3 –<br>Wahlpflicht|weitere fachdidaktische Veranstaltung||||2|**2**||||(2)|(2)|(2)|(2)|Präsentation<br>(30 Min.)_oder_<br>Ausarbeitung<br>(10-15 Seiten)2)|0|
+|||**6**<br>**4**<br>**2**<br>|||||<br> <br> <br> <br> <br> <br> <br>|||||||||
+|**Summe SWS und ECTS-Punkte:**||**12**||||**12**|**0-5**|**0-5**|**0-5**|**0-7**|**0-7**|**0-7**|**0-2**|||
 
 
 
@@ -325,18 +514,32 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 13 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 (3) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich abzulegen: 
 
-|**Modulbezeichnun**<br>**g**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Moduln**<br>**ote**|
+|**Modulbezeichnun**<br>**g**||**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Moduln**<br>**ote**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||||
+||**Lehrveranstaltung**|||||||||||||||
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
 |Didaktik der<br>Grundschulmathem<br>atik 1|Elemente der Arithmetik,<br>Algebra und des Sachrechnen|3||||**5**|(3)||(3)||(3)|||Klausur (90 Min.)|1|
 ||Übungen zu Elemente der<br>Arithmetik||2||||(2)||(2)||(2)|||||
-|Didaktik der<br>Grundschulmathem<br>atik 2 – Geometrie<br>~~eo~~|Elemente der Schulgeometrie<br>~~eo~~|3<br>~~eo~~||||**5**|~~eee~~|(3)<br>~~eee~~|~~eee~~|(3)<br>~~eee~~|~~eee~~|(3)<br>~~eee~~|~~eee~~|Klausur (90 Min.)|1|
-||Übungen zu Elemente der<br>Schulgeometrie<br>~~eo~~|~~eo~~|2||||~~eee~~|(2)<br>~~eee~~|~~eee~~|(2)<br>~~eee~~|~~eee~~|(2)<br>~~eee~~|~~eee~~|||
-|Didaktik der<br>Grundschulmathem<br>atik 3 – Wahlpflicht|weitere fachdidaktische<br>Veranstaltung||||2|**1**||||(1)|(1)|(1)|(1)|Präsentation (30<br>Min.)_oder_<br>Ausarbeitung<br>(5-10 Seiten)2)|0|
-|**Summe SWS und ECTS-Punkte:**||**6**|**4**||**2**|**11**|**0-5**|**0-5**|**0-5**|**0-6**|**0-6**|**0-6**|**0-1**|||
-|||**12**||||||||||||||
+|Didaktik der<br>Grundschulmathem<br>atik 2 – Geometrie|Elemente der Schulgeometrie|3||||**5**||(3)||(3)||(3)||Klausur (90 Min.)|1|
+||Übungen zu Elemente der<br>Schulgeometrie||2|||||(2)||(2)||(2)||||
+|Didaktik der<br>Grundschulmathem<br>atik 3 – Wahlpflicht|<br>weitere fachdidaktische<br>Veranstaltung||||2|**1**||||(1)|(1)|(1)|(1)|Präsentation (30<br>Min.)_oder_<br>Ausarbeitung<br>(5-10 Seiten)2)|0|
+|||**6**|**4**||**2**|**11**|**0-5**|**0-5**|**0-5**|**0-6**|**0-6**|**0-6**|**0-1**|||
+|**Summe SWS und ECTS-Punkte:**||**12**||||||||||||||
 
 
 
@@ -346,18 +549,31 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 14 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 (4) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Realschulen und Mittelschulen sind folgende Module erfolgreich abzulegen: 
 
 ## 1. Pflichtmodule 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Moduln**<br>**ote**|
+|**Modulbezeichnung**||**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1)**|**Art und Umfang**<br>**Püf**|**Faktor**<br>**Moduln**<br>**ote**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
+||**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**||||||||||
+|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**der rung**||
 |Mathematikdidaktik 1:<br>Sekundarstufe I (MD1SekI)|Vorlesung: Einführung in<br>die Sekundarstufen-<br>Mathematikdidaktik|2||||**5**||2,5||||||Klausur (45 Min.)und<br>Klausur (45 Min.)|1|
 ||Vorlesung: Didaktik im<br>Bereich Zahl und<br>Operation, Muster und<br>funktionaler<br>Zusammenhang|2|||||||2,5|||||||
 |Mathematikdidaktik<br>Planung (MDPlan)|Übung: Lernzielorientierte<br>Planung von<br>Mathematikunterricht||2|||**2**||||(2)||(2)||Übungsleistung<br>(unbenotet)2|0|
-|**Summe SWS und ECTS-Punkte:**||**4**|**2**|||**7**||**2,5**|**2,5**|**0-2**||**0-2**||||
-|||**6**||||||||||||||
+|||**4**|**2**|||**7**||**2,5**|**2,5**|**0-2**||**0-2**||||
+|**Summe SWS und ECTS-Punkte:**||**6**||||||||||||||
 
 
 
@@ -366,6 +582,18 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 > 2) Abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden gewählten Lehrveranstaltung; Näheres regelt das Modulhandbuch. 
 
 15 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 ## 2. Wahlpflichtmodul 
 
@@ -376,10 +604,12 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**||**3.**||**4.**||**5.**||**6.**||**7.**||||
 |Mathematikdidaktik 2 S:<br>Sekundarstufe I<br>(MD2SSekI)2|Hauptseminar:<br>Ausgewählte Themen der<br>Mathematikdidaktik||||2|**5**|||||||(2,5)||||(2,5)|||Seminarleistung<br>(unbenotet) und<br>Klausur (45 Min.)|1|
 ||Vorlesung: Didaktik im<br>Bereich Raum und Form|2|||||||||(2,5)||||(2,5)||||(2,5)|||
-|Mathematikdidaktik 2:<br>Sekundarstufe I<br>(MD2VSekI)|Vorlesung: Didaktik im<br>Bereich Daten und Zufall,<br>Größen und Messen|2||||**5**|||||||(2,5)||||(2,5)|||Klausur (45 Min)und<br>Klausur (45 Min.)|1|
+|Mathematikdidaktik 2:<br>Sekundarstufe I<br>(MD2VSekI)|Vorlesung: Didaktik im|||||||||||||||||||Klausur (45 Min)und<br>Klausur (45 Min.)|1|
+||<br>Bereich Daten und Zufall,|2|||||||||||(2,5)||||(2,5)|||||
+||Größen und Messen|||||**5**||||||||||||||||
 ||Vorlesung: Didaktik im<br>Bereich Raum und Form|2|||||||||(2,5)||||(2,5)||||(2,5)|||
-|**Summe Wahlpflichtmodul Fachdidaktik:**||**2-4 **|||**0-2 **|**5**|||||**0-2,5**||**0-2,5**||**0-2,5**||**0-2,5**||**0-2,5**|||
-|||**2-6 **||||||||||||||||||||
+|**f**||**2-4 **|||**0-2 **|**5**|||||**0-2,5**||**0-2,5**||**0-2,5**||**0-2,5**||**0-2,5**|||
+|**Summe Wahlplichtmodul Fachdidaktik:**||**2-6 **||||||||||||||||||||
 
 
 
@@ -389,20 +619,33 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 16 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 (5) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Mittelschulen sind folgende Module erfolgreich abzulegen: 
 
 ## 1. Pflichtmodule 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Moduln**<br>**ote**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**||**Art und Umfang**<br>**Püf**|**Faktor**<br>**Moduln**<br>**ote**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
+||||||||||**in ECTS-Punkten1 **|||||||
+|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**der rung**||
 |Zentrale Gegenstände der<br>Sekundarstufenmathemati<br>k (MSMathe)|Vorlesung mit Übung:<br>Zentrale Gegenstände im<br>Bereich Zahl und<br>Operation, Muster und<br>funktionaler<br>Zusammenhang|2|1|||**8**|4|||||||Klausur (45 Min.)<br>und<br>Klausur (45 Min.)|1|
 ||Vorlesung mit Übung:<br>Zentrale Gegenstände im<br>Bereich Raum und Form,<br>Daten und Zufall|2|1|||||4||||||||
 |Mathematikdidaktik 1:<br>Sekundarstufe I<br>(MD1SekI)|Vorlesung: Einführung in<br>die Sekundarstufen-<br>Mathematikdidaktik|2||||**5**||2,5||||||Klausur (45 Min.)<br>undKlausur (45<br>Min.)|1|
 ||Vorlesung: Didaktik im<br>Bereich Zahl und<br>Operation, Muster und<br>funktionaler<br>Zusammenhang|2|||||||2,5|||||||
 |Mathematikdidaktik<br>Planung (MDPlan)|Seminar:<br>Lernzielorientierte<br>Planung von<br>Mathematikunterricht||2|||**2**||||(2)||(2)||Übungsleistung<br>(unbenotet)|0|
-|**Summe SWS und ECTS-Punkte:**||**8**|**4**|||**20**|**4**|**6,5**|**2,5**|**0-2**||**0-2**||||
-|||**12**||||||||||||||
+|||**8**|**4**|||**20**|**4**|**6,5**|**2,5**|**0-2**||**0-2**||||
+|**Summe SWS und ECTS-Punkte:**||**12**||||||||||||||
 
 
 
@@ -410,19 +653,34 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 17 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 ## 2. Wahlpflichtmodul 
 
 1Es muss eines der folgenden Module erfolgreich abgelegt werden. 2Die Wahl erfolgt durch die Anmeldung zur ersten Teilprüfung. 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**||**Art und Umfang**<br>**Püf**|**Faktor**<br>**Modul**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
+||||||||||**in ECTS-Punkten1 **|||||||
+|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**der rung**||
 |Mathematikdidaktik 2 S:<br>Sekundarstufe I<br>(MD2SSekI)2|Hauptseminar:<br>Ausgewählte Themen der<br>Mathematikdidaktik||||2|**5**||||(2,5)||(2,5)||Seminarleistung<br>(unbenotet) und<br>Klausur (45 Min.)|1|
 ||Vorlesung: Didaktik im<br>Bereich Raum und Form|2|||||||(2,5)||(2,5)||(2,5)|||
-|Mathematikdidaktik 2:<br>Sekundarstufe I<br>(MD2VSekI)|Vorlesung: Didaktik im<br>Bereich Daten und Zufall,<br>Größen und Messen|2||||**5**||||(2,5)||(2,5)||Klausur (45 Min)und<br>Klausur (45 Min.)|1|
+|Mathematikdidaktik 2:<br>Sekundarstufe I<br>(MD2VSekI)|Vorlesung: Didaktik im|||||||||||||Klausur (45 Min)und<br>Klausur (45 Min.)|1|
+||<br>Bereich Daten und Zufall,|2||||||||(2,5)||(2,5)||||
+||Größen und Messen|||||**5**||||||||||
 ||Vorlesung: Didaktik im<br>Bereich Raum und Form|2|||||||(2,5)||(2,5)||(2,5)|||
-|**Summe Wahlpflichtmodul Fachdidaktik:**||**2-4 **|||**0-2 **|**5**|||**0-2,5**|**0-2,5**|**0-2,5**|**0-2,5**|**0-2,5**|||
-|||**2-6 **||||||||||||||
+|**f**||**2-4 **|||**0-2 **|**5**|||**0-2,5**|**0-2,5**|**0-2,5**|**0-2,5**|**0-2,5**|||
+|**Summe Wahlplichtmodul Fachdidaktik:**||**2-6 **||||||||||||||
 
 
 
@@ -431,6 +689,18 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 - 2) Zulassungsvoraussetzung für die Prüfungen ist mindestens die erbrachte Teilprüfungsleistung zur „Vorlesung: Einführung in die Sekundarstufen-Mathematikdidaktik“ aus dem Modul MD1SekI. 
 
 18 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 (6) Falls ein studienbegleitendes fachdidaktisches Praktikum im Studium des Lehramts an Realschulen oder Mittelschulen im Fach Mathematik belegt wird, ist folgendes Modul erfolgreich abzulegen: 
 
@@ -448,20 +718,46 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 19 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 (7) Im freien Bereich im Studium des Lehramts an Realschulen oder Mittelschulen im Fach Mathematik können folgende Module aus der Fachdidaktik gewählt werden: 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|||
-|Mathematikdidaktik<br>Examensmodul<br>Sekundarstufe I<br>(MDExSekI)<br>~~S|}~~|Staatsexamenskurs<br>Mathematikdidaktik<br>Sekundarstufe I<br>~~S|}___~~|~~___~~|2<br>|||**2**<br>~~Fs~~|~~Fs~~|~~Fs~~|~~Fs~~|~~Fs~~|~~Fs~~|(3)<br>~~Fs~~|(3)<br>~~Fs~~|Übungsleistung<br>(unbenotet)<br>~~Fs~~|0<br>~~Fs~~|
-|Mathematikdidaktik<br>Vertiefungsmodul<br>Sekundarstufe I<br>(MDVSekI)<br>~~S|}~~|Hauptseminar oder Seminar<br>~~S|}___~~|~~___~~|||2<br>|**5**<br>~~Fs~~|~~Fs~~|~~Fs~~|~~Fs~~|(2,5)<br>~~Fs~~|(2,5)<br>~~Fs~~|(2,5)<br>~~Fs~~|(2,5)<br>~~Fs~~|Seminarleistung<br>(unbenotet) und<br>Klausur (45 Min.)<br>~~Fs~~|0<br>~~Fs~~|
-||Vorlesung<br>~~S|}___~~|2<br>~~___~~|||||~~Fs~~|~~Fs~~|~~Fs~~|(2.5)<br>~~Fs~~|(2.5)<br>~~Fs~~|(2.5)<br>~~Fs~~|(2.5)<br>~~Fs~~|||
-|**Summe SWS und ECTS-Punkte**<br>~~S|}___~~||**2**<br>~~___ ~~|**2**<br>||**2**<br>|**7**<br> ~~Fs~~|~~Fs~~|~~Fs~~|~~Fs~~|**0-5**<br>~~Fs~~|**0-5**<br>~~Fs~~|**0-8**<br>~~Fs~~|**0-8**<br>~~Fs~~|~~Fs~~|~~Fs~~|
-|||**6**||||||||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang der**<br>**Prüfung**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**||||
+|Mathematikdidaktik<br>Examensmodul<br>Sekundarstufe I<br>(MDExSekI)|Staatsexamenskurs<br>Mathematikdidaktik<br>Sekundarstufe I||2|||**2**||||||(3)|(3)|Übungsleistung<br>(unbenotet)||0|
+|Mathematikdidaktik<br>Vertiefungsmodul<br>Sekundarstufe I<br>(MDVSekI)|Hauptseminar oder Seminar||||2|**5**||||(2,5)|(2,5)|(2,5)|(2,5)|Seminarleistung<br>(unbenotet) und<br>Klausur (45 Min.)||0|
+||Vorlesung|2||||||||(2.5)|(2.5)|(2.5)|(2.5)||||
+|<br>**Summe SWS und ECTS-Punkte**||**2**|**2**||**2**|**7**||||**0-5**|**0-5**|**0-8**|**0-8**||||
+|||**6**|||||||||||||||
 
 
+
+> 1) Bei der angegebenen Verteilung handelt es sich um eine Option. 
 
 20 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 ## **4. Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/Fachrichtung Sozialpädagogik – Vocational Education/Social Pedagogy and Social Services“** 
 
@@ -469,18 +765,24 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 (1) Im Rahmen des Teilstudiengangs Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. / Master Ed. „Berufliche Bildung/Fachrichtung Sozialpädgogik – Vocational Education/Social Pedagogy and Social Services“ sind in der Fachwissenschaft die folgenden Module abzulegen: 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
+||||||||**Gesamt**|**Semester in**||||||||
+||||||||**ECTS**|**1.**||||||||
+||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|||
 |||**V**|**Ü**|**P**|**S**|**T**||||||||||
-|Elemente der Linearen<br>Algebra I1)|Vorlesung Elemente der<br>Linearen Algebra I|3|||||**5**|4||||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|0|
-||Übung Elemente der<br>Linearen Algebra I||1|||||1||||||||
+|||||||||||||||||
+|Elemente der Linearen<br>Algebra I1)|Vorlesung Elemente der<br>Linearen Algebra I|3||||||4||||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|0|
+||Übung Elemente der<br>Linearen Algebra I||1||||**5**|1||||||||
+|||||||||||||||||
 |Elemente der Linearen<br>Algebra II2)|Vorlesung Elemente der<br>Linearen Algebra II|4|||||**10**||6|||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|1|
 ||Übung Elemente der<br>Linearen Algebra II||2||||||4|||||||
-|Elemente der Analysis I2)|Vorlesung Elemente<br>der Analysis I|3|||||**5**||4|||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|0|
-||Übung Elemente<br>der Analysis I||1||||||1|||||||
-|Elemente der Analysis II1)|Vorlesung Elemente<br>der Analysis II|4|||||**10**|||6||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|1|
-||Übung Elemente<br>der Analysis II||2|||||||4||||||
+|Elemente der Analysis I2)|Vorlesung Elemente<br>der Analysis I|3|||||||4|||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|0|
+||Übung Elemente<br>der Analysis I||||||**5**|||||||||
+||||1||||||1|||||||
+|Elemente der Analysis II1)|Vorlesung Elemente<br>der Analysis II|4||||||||6||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|1|
+||Übung Elemente<br>der Analysis II||2||||**10**|||4||||||
+|||||||||||||||||
 |Aufbaumodul Analysis2)|Vorlesung Elemente<br>der Analysis III|3|||||**5**||||4|||Klausur max. 180 Min.|1|
 ||Übung Elemente<br>der Analysis III||1||||||||1|||||
 |**Summe SWS und ECTS-Punkte:**||**17**|**7**||||**35**|**5**|**15**|**10**|**5**|||||
@@ -492,11 +794,23 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 21 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 (2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium Bachelor Ed. „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Services“ sind folgende Module erfolgreich abzulegen: 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modulno**<br>**te**|
+|||**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**|**Workload-Verteilung pro Semester**<br>  **1**|**Workload-Verteilung pro Semester**<br>  **1**|**Workload-Verteilung pro Semester**<br>  **1**|**Workload-Verteilung pro Semester**<br>  **1**|**Workload-Verteilung pro Semester**<br>  **1**|**Workload-Verteilung pro Semester**<br>  **1**|**Art und Umfan**|**Faktor**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**V**<br>**Ü**<br>**P**<br>**S**||||<br>**ECTS**|**in ECTS-Punkten **<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**||||||**g**<br>**der Prüfung**|**Modulno**<br>**te**|
 |Mathematikdidaktik 1:<br>Gymnasium (MD1Gym)|Vorlesung: Einführung in<br>die Sekundarstufen<br>Mathematikdidaktik|2||||**5**||(2,5)||(2,5)|||Klausur (45 Min.)und<br>Klausur (45 Min.)|1|
 ||Vorlesung: Didaktik im<br>Bereich Zahl und<br>Operation, Muster und<br>funktionaler<br>Zusammenhang<br>_oder_<br>Vorlesung: Didaktik im<br>Bereich Raum und Form|2|||||||(2,5)||(2,5)||||
 |Mathematikdidaktik 1:<br>Planung (MD1Plan)|Übung: Lernzielorientierte<br>Planung von<br>Mathematikunterricht||2|||**2**||||(2)||(2)|Übungsleistung<br>(unbenotet)|0|
@@ -509,11 +823,23 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 22 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 (3) Zudem muss im Rahmen des fachdidaktischen Praktikums im Unterrichtsfach das Modul _Mathematikdidaktik 3: Praktikum Gymnasium (MDPraktGym)_ oder _Mathematikdidaktik 3: Praktikum Sekundarstufe I (MDPraktSekI)_ erfolgreich abgelegt werden. 
 
-|**Mögliche Module**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|**Mögliche Module**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Art und Umfang**<br>**Püf**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
+||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**der rung**||
 |Mathematikdidaktik 3: Praktikum<br>Gymnasium (MDPraktGym)<br>_oder_<br>Mathematikdidaktik 3: Praktikum<br>Sekundarstufe I (MDPraktSekI)|||3|2|**5**|||(5)|(5)|(5)|(5)|Seminarleistung<br>(unbenotet)2|0|
 |**Summe SWS und ECTS-Punkte:**|**3**|**2**|||**5**|||**0-5**|**0-5**|**0-5**|**0-5**|||
 ||**5**|||||||||||||
@@ -524,18 +850,33 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 23 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 ## **5. Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Master Ed. „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Services“** 
 
 ## **§ 11 Inhalt, Aufbau und Gliederung des Studiums** 
 
 (1) Im Rahmen des Teilstudiengangs Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Master Ed. „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Services“ müssen in der Fachwissenschaft das Modul „Analytische Geometrie“ sowie (mindestens) vier der anderen nachfolgend aufgeführten Module erfolgreich abgelegt werden: 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||**1.**|**2.**|**3.**|**4.**|||
-|||**V**|**Ü**|**P**|**S**|**T**||||||||
-|Analytische Geometrie1)|Vorlesung Analytische<br>Geometrie|3|||||**5**|4||||Klausur max. 180 Min.und<br>Übungsleistung (unbenotet)|1|
-||Übung Analytische<br>Geometrie||1|||||1||||||
+||||||||**Gesamt**|||||||
+||||||||<br>**ECTS**|**1.**||||||
+|||**V**|**Ü**|**P**|**S**|**T**|||**2.**|**3.**|**4.**|||
+|||||||||||||||
+|Analytische Geometrie1)|Vorlesung Analytische<br>Geometrie|3||||||4||||Klausur max. 180 Min.und||
+||Übung Analytische<br>Geometrie||||||**5**|||||Übungsleistung (unbenotet)|1|
+||||1|||||1||||||
 |Elementare Stochastik1)|Vorlesung Elementare<br>Stochastik|3|||||**5**|(4)|(4)|(4)|(4)|Klausur max. 90 Min.|1|
 ||Übung Elementare<br>Stochastik||1|||||(1)|(1)|(1)|(1)|||
 |Mathematisches Seminar in<br>elementarer Stochastik3)|Seminar||||2||**5**|(5)|(5)|(5)|(5)|Vortrag (90 Min.; benotet),und<br>schriftliche Ausarbeitung des<br>Vortrags (max. 10 Seiten; benotet)<br>(75%+25%)|1|
@@ -548,6 +889,18 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 
 24 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 |Mathematisches Seminar in<br>elementarer Zahlentheorie3)|Seminar||||2||**5**|(5)|(5)|(5)|(5)|Vortrag (90 Min.; benotet),und<br>schriftliche Ausarbeitung des<br>Vortrags (max. 10 Seiten; benotet)<br>(75%+25%)|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -564,6 +917,18 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 25 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 (2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium Masters Ed. „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Services“ ist eines der beiden folgenden Modul erfolgreich abzulegen: 
 
 |**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modulno**<br>**te**|
@@ -573,14 +938,26 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 ||Vorlesung: Didaktik der<br>Analysis|2|||||(2,5)||(2,5)||||
 |Mathematikdidaktik 2 V:<br>Gymnasium (MD2VGym)|Vorlesung: Didaktik im<br>Bereich Daten und<br>Zufall, Größen und<br>Messen|2||||**5**||(2,5)||(2.5)|Klausur (45 Min)und<br>Klausur (45 Min.)|1|
 ||Vorlesung: Didaktik der<br>Analysis|2|||||(2,5)||(2,5)||||
-|**Summe SWS und ECTS-Punkte:**||**2-4 **|||**0-2 **|**5**|**0-2,5**|**0-2,5**|**0-2,5**|**0-2,5**|||
-|||**2-6 **|||||||||||
+|**Summe SWS und ECTS-Punkte:**||**2-4 **|||**0-2 **||||||||
+|||**2-6 **||||**5**|**0-2,5**|**0-2,5**|**0-2,5**|**0-2,5**|||
 
 
 
 - 1) Bei der angegebenen Verteilung handelt es sich um eine Option. 
 
 26 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 ## **6. Schluss- und Übergangsvorschriften** 
 
@@ -604,89 +981,127 @@ gilt zudem für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits 
 
 27 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 (4) 1Die Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) und für den Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. / Master Ed. „Berufliche Bildung/Fachrichtung Sozialpädagogik – Vocational Education/Social Pedagogy and Social Services“ – FPO LA Mathe – vom 11. November 2015, zuletzt geändert durch Satzung vom 26. April 2023, tritt im Hinblick auf die in Abs. 1 Satz 3 genannten Module gleichzeitig, im Übrigen mit Wirkung zum 31. März 2029 außer Kraft.[2] Prüfungen in den in Abs. 2 und 3 genannten Modulen nach der bisher gültigen FPO LA Mathe werden letztmals im Wintersemester 2028/2029 angeboten. 
 
 ## **Anlage: Zuordnung der Inhalte der Module im Lehramtsstudiengang Mathematik an der FAU zu den Zulassungsvoraussetzungen nach der LPO I:** 
 
 ## **1. Lehramt an Gymnasien:** 
 
-|**§ 73 Abs. 1 LPO I**|**Modul an der FAU**|**ECTS-Punkte**|
-|---|---|---|
-|~~a~~|||
-|**Nr. 1:**<br>**mind. 23 LP in Analysis**<br>**(Differential- und Integralrechnung**<br>**im Rn, Gewöhnliche**<br>**Differentialgleichungen,**<br>**Funktionentheorie)**|Analysis I|9,5|
-||Analysis II|9|
-||Analysis für Lehramt<br>(beinhaltet Mehrdimensionale<br>Integration und Gewöhnliche<br>Differenzialgleichungen)|10|
-||Funktionentheorie|5|
-||Summe|33,5|
-|~~a~~|||
-|**Nr. 2:**<br>**mind. 23 LP in Lineare Algebra,**<br>**Algebra und Elemente der**<br>**Zahlentheorie**|Lineare Algebra I<br>~~PO~~|9,5<br>~~PO~~|
-||Lineare Algebra II<br>~~a~~|6<br>~~a~~|
-||Algebra (beinhaltet Gruppen,<br>Ringe und Zahlentheorie)|10|
-||Körpertheorie<br>~~ee~~|5<br>~~ee~~|
-||Summe<br>~~ee~~|30,5<br>~~ee~~|
-|~~RG~~|~~ee~~<br>~~RG~~|~~ee~~<br>~~RG~~|
-|**Nr. 3:**<br>**mind. 8 LP in Stochastik**|Stochastik|10|
-||Summe|10|
-|~~a~~|||
-|**Nr. 4:**<br>**mind. 8 LP in Geometrie**<br>~~a~~|Lineare Algebra II<br>~~PO~~|3<br>~~PO~~|
-||Geometrie<br>~~a~~|5<br>~~a~~<br>~~ee~~|
-||Summe<br>~~ee~~|8<br>~~ee~~<br>~~ee~~|
-|~~a~~|~~ee~~|~~ee~~<br>~~ee~~|
-|**Nr. 5:**<br>**mind. 8 LP in Angewandter**<br>**Mathematik (z.B. Computeralgebra,**<br>**Algorithmische Geometrie,**<br>**Diskrete Mathematik, Optimierung,**<br>**Numerik)**|Analysis I|0,5|
-||Lineare Algebra I|0,5|
-||Analysis II|1|
-||Lineare Algebra II|1|
-||Angewandte Mathematik|5|
-||Summe|8|
-|~~a~~|||
-|**Nr. 6:**<br>**mind. 8 LP aus der Fachdidaktik**|Mathematikdidaktik 1:<br>Gymnasium|5|
+|**§ 73 Abs. 1 LPO I**||**Modul an der FAU**|**ECTS-Punkte**|
+|---|---|---|---|
+|||||
+|**Nr. 1:**<br>**mind. 23 LP in Analysis**<br>**(Differential- und Integralrechnung**<br>**im Rn, Gewöhnliche**<br>**Differentialgleichungen,**<br>**Funktionentheorie)**||Analysis I|9,5|
+|||Analysis II|9|
+|||Analysis für Lehramt<br>(beinhaltet Mehrdimensionale<br>Integration und Gewöhnliche<br>Differenzialgleichungen)|10|
+|||Funktionentheorie|5|
+|||Summe|33,5|
+|||||
+|**Nr. 2:**<br>**mind. 23 LP in Lineare Algebra,**<br>**Algebra und Elemente der**<br>**Zahlentheorie**||Lineare Algebra I|9,5|
+|||Lineare Algebra II|6|
+|||Algebra (beinhaltet Gruppen,<br>Ringe und Zahlentheorie)|10|
+|||Körpertheorie|5|
+|||Summe|30,5|
+|||||
+|**Nr. 3:**<br>**mind. 8 LP in Stochastik**||Stochastik|10|
+|||Summe|10|
+|||||
+|**Nr. 4:**<br>**mind. 8 LP in Geometrie**||Lineare Algebra II|3|
+|||Geometrie|5|
+|||Summe|8|
+|||||
+|**Nr. 5:**<br>**mind. 8 LP in Angewandter**<br>**Mathematik (z.B. Computeralgebra,**<br>**Algorithmische Geometrie,**<br>**Diskrete Mathematik, Optimierung,**<br>**Numerik)**||Analysis I|0,5|
+|||Lineare Algebra I|0,5|
+|||Analysis II|1|
+|||Lineare Algebra II|1|
+|||Angewandte Mathematik|5|
+|||Summe|8|
+|||||
+|**Nr. 6:**<br>**mind. 8 LP aus der Fachdidaktik**||Mathematikdidaktik 1:<br>Gymnasium|5|
 
 
 
 28 
 
-|**§ 73 Abs. 1 LPO I**|**Modul an der FAU**|**ECTS-Punkte**|
-|---|---|---|
-||(MD1Gym)||
-||Mathematikdidaktik 2 S:<br>Gymnasium (MD2SGym) oder<br>Mathematikdidaktik 2 V:<br>Gymnasium (MD2VGym)|5|
-||Summe|10|
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
+|**§ 73 Abs. 1 LPO I**||**Modul an der FAU**|**ECTS-Punkte**|
+|---|---|---|---|
+|||(MD1Gym)||
+|||Mathematikdidaktik 2 S:<br>Gymnasium (MD2SGym) oder<br>Mathematikdidaktik 2 V:<br>Gymnasium (MD2VGym)|5|
+|||Summe|10|
 
 
 
 29 
 
-## **2. Unterrichtsfach im Lehramt an Grund- und Mittelschulen; Lehramt an Realschulen:** 
+**==> picture [165 x 13] intentionally omitted <==**
 
-|**§ 51 Abs. 1 LPO I**|**Modul an der FAU**|**ECTS-Punkte**|
-|---|---|---|
-|~~a~~|~~a~~|~~a~~|
-|**Nr. 1:**<br>**mind. 15 LP in Differential- und**<br>**Integralrechnung (insbesondere**<br>**elementare Funktionen)**<br>~~a~~|Elemente d. Analysis I<br>~~a~~|5<br>~~a~~|
-||Elemente d. Analysis II|10|
-||Aufbaumodul Analysis|5|
-||Summe|20|
-|~~a~~|~~a~~|~~a~~|
-|**Nr. 2:**<br>**mind. 15 LP in Lineare Algebra und**<br>**Analytische Geometrie**|Elemente der Linearen<br>Algebra I|5|
-||Elemente der Linearen<br>Algebra II|10|
-||Analytische Geometrie<br>~~a~~|5<br>~~a~~|
-||Summe<br>~~a~~<br>~~ee~~|20<br>~~a~~<br>~~ee~~|
-|~~a~~|~~ee~~|~~ee~~|
-|**Nr. 3:**<br>**mind. 15 LP in Elementare**<br>**Zahlentheorie, Elementare**<br>**Stochastik, Elementargeometrie**<br>~~a~~|Elementare Stochastik<br>~~Po~~|5<br>~~Po~~|
-||Seminar elementare<br>Stochastik|5|
-||Elementargeometrie<br>~~ee~~|5<br>~~ee~~|
-||Seminar Elementargeometrie<br>~~a~~<br>~~a~~|5<br>~~a~~|
-||Elementare Zahlentheorie<br>~~a~~|5|
-||Seminar Elementare<br>Zahlentheorie<br>~~a~~|5|
-||Summe|201)|
-|~~a~~|||
-|**Nr. 4:**<br>**mind. 10 LP in Fachdidaktik**|Mathematikdidaktik 1:<br>Sekundarstufe I<br>(MD1SekI)|52|
-||Mathematikdidaktik Planung<br>(MDPlan)|22|
-||Mathematikdidaktik 2 S:<br>Sekundarstufe I (MD2SSekI)<br>bzw.<br>Mathematikdidaktik 2 V:<br>Sekundarstufe I (MD2VSekI)|52|
-||Summe Realschule bzw.<br>Mittelschule|122|
-||~~a~~|~~a~~|
-||Didaktik der<br>Grundschulmathematik 1|53|
-||Didaktik der<br>Grundschulmathematik 2|53|
-||Didaktik der<br>Grundschulmathematik 3|23|
-||Summe Grundschule<br>~~a~~|123<br>~~a~~|
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
+## **2. Unterrichtsfach im Lehramt an Grund- und Mittelschulen; Lehramt an** 
+
+## **Realschulen:** 
+
+|**§ 51 Abs. 1 LPO I**||**Modul an der FAU**|**ECTS-Punkte**|
+|---|---|---|---|
+|||||
+|**Nr. 1:**<br>**mind. 15 LP in Differential- und**<br>**Integralrechnung (insbesondere**<br>**elementare Funktionen)**||Elemente d. Analysis I|5|
+|||Elemente d. Analysis II|10|
+|||Aufbaumodul Analysis|5|
+|||Summe|20|
+|||||
+|**Nr. 2:**<br>**mind. 15 LP in Lineare Algebra und**<br>**Analytische Geometrie**||Elemente der Linearen<br>Algebra I|5|
+|||Elemente der Linearen<br>Algebra II|10|
+|||Analytische Geometrie|5|
+|||Summe|20|
+|||||
+|**Nr. 3:**<br>**mind. 15 LP in Elementare**<br>**Zahlentheorie, Elementare**<br>**Stochastik, Elementargeometrie**||Elementare Stochastik|5|
+|||Seminar elementare<br>Stochastik|5|
+|||Elementargeometrie|5|
+|||Seminar Elementargeometrie|5|
+|||Elementare Zahlentheorie|5|
+|||Seminar Elementare<br>Zahlentheorie|5|
+|||Summe|201)|
+|||||
+|**Nr. 4:**<br>**mind. 10 LP in Fachdidaktik**||Mathematikdidaktik 1:<br>Sekundarstufe I<br>(MD1SekI)|52|
+|||Mathematikdidaktik Planung<br>(MDPlan)|22|
+|||Mathematikdidaktik 2 S:<br>Sekundarstufe I (MD2SSekI)<br>bzw.<br>Mathematikdidaktik 2 V:<br>Sekundarstufe I (MD2VSekI)|52|
+|||Summe Realschule bzw.<br>Mittelschule|122|
+|||||
+|||Didaktik der<br>Grundschulmathematik 1|53|
+|||Didaktik der<br>Grundschulmathematik 2|53|
+|||Didaktik der<br>Grundschulmathematik 3|23|
+|||Summe Grundschule|123|
 
 
 
@@ -698,32 +1113,56 @@ gilt zudem für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits 
 
 30 
 
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
+
 ## **3. Fachdidaktik im Rahmen der Fächergruppe im Lehramt an Mittelschulen:** 
 
-|**§ 38 Abs. 1 LPO I**|**Modul an der FAU**|**ECTS-Punkte**|
-|---|---|---|
-||||
-|**Nr. 1 (a):**<br>**mind. 17 LP aus dem Fach**|Zentrale Themen der<br>Sekundarstufenmathematik<br>(MSMathe)|8|
-||Mathematikdidaktik 1:<br>Sekundarstufe I<br>(MD1SekI)|5|
-||Mathematikdidaktik Planung<br>(MDPlan)|2|
-||Mathematikdidaktik 2 S:<br>Sekundarstufe I (MD2SSekI)<br>bzw.<br>Mathematikdidaktik 2 V:<br>Sekundarstufe I (MD2VSekI)|5|
-||Summe|20|
+|**§ 38 Abs. 1 LPO I**||**Modul an der FAU**|**ECTS-Punkte**|
+|---|---|---|---|
+|||||
+|**Nr. 1 (a):**<br>**mind. 17 LP aus dem Fach**||Zentrale Themen der<br>Sekundarstufenmathematik<br>(MSMathe)|8|
+|||Mathematikdidaktik 1:<br>Sekundarstufe I<br>(MD1SekI)|5|
+|||Mathematikdidaktik Planung<br>(MDPlan)|2|
+|||Mathematikdidaktik 2 S:<br>Sekundarstufe I (MD2SSekI)<br>bzw.<br>Mathematikdidaktik 2 V:<br>Sekundarstufe I (MD2VSekI)|5|
+|||Summe|20|
 
 
 
 ## **4. Fachdidaktik im Rahmen der Fächergruppe im Lehramt an Grundschulen:** 
 
-|**§ 36, Abs. 1 LPO I**|**Modul an der FAU**|**ECTS-Punkte**|
-|---|---|---|
-||||
-|**Nr. (7): mind. 9 LP aus dem Fach**|Didaktik der<br>Grundschulmathematik 1|5|
-||Didaktik der<br>Grundschulmathematik 2|5|
-||Didaktik der<br>Grundschulmathematik 3|1|
-||Summe|11|
+|**§ 36, Abs. 1 LPO I**||**Modul an der FAU**|**ECTS-Punkte**|
+|---|---|---|---|
+|||||
+|**Nr. (7): mind. 9 LP aus dem Fach**||Didaktik der<br>Grundschulmathematik 1|5|
+|||Didaktik der<br>Grundschulmathematik 2|5|
+|||Didaktik der<br>Grundschulmathematik 3|1|
+|||Summe|11|
 
 
 
 31 
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [165 x 13] intentionally omitted <==**
+
+**==> picture [114 x 23] intentionally omitted <==**
+
+**==> picture [114 x 24] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 17. Dezember 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 31. März 2026 Erlangen, den 31. März 2026 FAU gez. 
 

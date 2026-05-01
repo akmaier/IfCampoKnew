@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 13th of November 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/pdf-englisch/PrO_WTB_MBA_neu_EN.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:37:11+00:00
+scraped_at: 2026-05-01T09:45:31+00:00
 page_count_chars: 48791
 ---
 

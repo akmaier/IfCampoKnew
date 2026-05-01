@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20250711_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:36:06+00:00
-page_count_chars: 119400
+scraped_at: 2026-05-01T07:25:40+00:00
+page_count_chars: 113725
 ---
 
 # BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711 en.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20250711_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Degree program and examination regulations for the Bachelor’s and Master’s degree programs in Molecular Medicine at the Faculty of Medicine at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MolMed – dated August 22, 2023** 
 
@@ -23,6 +27,10 @@ Based on Section 9 (1) in conjunction with the currently valid versions of Secti
 **Part I: General Provisions .................................................................................................... 2** Section 1 Scope, Purpose of the Bachelor’s and Master’s Examination ............................. 2 Section 2 Degrees .............................................................................................................. 2 Section 3 Bachelor’s Degree Program, Standard Duration of Studies, Start of Degree Program, Teaching and Examination Language ................................................................. 2 Section 4 Master’s Degree Program, Standard Duration of Studies, Start of Degree Program, Teaching and Examination Language ................................................................. 3 Section 5 ECTS Credits ...................................................................................................... 3 Section 6 Modules and Credits, Voluntary Intermediate Examinations, Safety Briefing ...... 3 Section 7 Examination Deadlines, Failure to Observe Deadlines ........................................ 5 Section 8 Examinations Committee .................................................................................... 6 Section 9 Degree Program Committee ............................................................................... 7 Section 10 Examiners, Exclusion Due to Personal Involvement, Obligation to Confidentiality ..................................................................................................................... 7 Section 11 Announcement of Examination Dates and Examiners, Registration, Withdrawal 8 Section 12 Recognition and Accreditation of Skills ............................................................. 9 Section 13 Consequences of Delayed Withdrawal, Breach of Regulations, Fraud ............ 10 Section 14 Faults in the Examination Process .................................................................. 11 Section 15 Revocation of Degrees ................................................................................... 11 Section 16 Compulsory Attendance .................................................................................. 11 Section 17 Written Examination, Multiple Choice Examinations ........................................ 12 Section 18 On-Campus Electronic Examinations .............................................................. 13 Section 19 Oral Examinations........................................................................................... 13 Section 20 Evaluation of Examinations, Grades, Final Grade ........................................... 14 Section 21 Invalidity of Examinations ................................................................................ 15 Section 22 Inspection of Examination Records ................................................................. 15 Section 23 Final Academic Record, Transcript of Records, Diploma Supplement, Grade Distribution Table, Degree Certificate ............................................................................... 16 Section 24 Examinations Failed at the Final Attempt ........................................................ 16 Section 25 Adjustments to Examination Arrangements..................................................... 16 **Part II: Special Provisions Part I Bachelor’s Degree Program ........................................ 17** Section 26 Bachelor’s Examination................................................................................... 17 Section 27 Admission Requirements for Examinations ..................................................... 17 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Section 28 Bachelor’s Thesis............................................................................................ 17 Section 29 Resitting Examinations, Additional Modules .................................................... 18 **Part II. Master’s Degree Program ...................................................................................... 20** Section 30 Master’s Examination ...................................................................................... 20 Section 31 Qualification for a Master’s Degree Program ................................................... 20 Section 32 Scope and Structure of the Master’s Degree Program .................................... 21 Section 33 Master’s Thesis ............................................................................................... 21 Section 34 Elective Modules ............................................................................................. 22 Section 35 Resit Examinations ......................................................................................... 23 **Part III: Final and Transitory Provisions ........................................................................... 23** Section 36 Legal Validity .................................................................................................. 23 **Appendix 1: Structure of the Bachelor’s Degree Program in Molecular Medicine ........ 25 Appendix 2: Qualification assessment process ............................................................... 29 Appendix 3: Admissions Examination .............................................................................. 32 Appendix 4: Study Plan for the Master’s Degree Program in Molecular Medicine ........ 34** 
 
@@ -51,6 +59,10 @@ Section 28 Bachelor’s Thesis..................................................
 (1)[1] The Bachelor’s degree program consists of an initial phase called the Grundlagenund Orientierungsphase, followed by the Bachelor’s phase.[ 2] Students must take a preliminary examination (Grundlagen- und Orientierungsprüfung, GOP) covering the 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 foundations of the Bachelor’s degree program by the end of the second semester.[3] The remainder of the Bachelor’s degree program consists of the examinations taken up to the end of the standard duration of studies.[4] To complete the Bachelor’s program successfully, students shall achieve 180 ECTS credits pursuant to **Appendix 1** , which include all required module examinations and the Bachelor’s thesis module. 
 
@@ -86,6 +98,10 @@ foundations of the Bachelor’s degree program by the end of the second semester
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 3In exceptional cases, the module examination can also consist of several parts or partial examinations or a combination of examination and/or course achievements if the subject warrants it.[4] Achievements taking the form of directly related partial examinations on the same examination subject (genuine portfolio examination) or ungraded course achievements that may or may not be repeated an unlimited number of times consisting of several separate partial ungraded course achievements that may or may not be repeated an unlimited number of times shall only count as one independent (partial) module examination pursuant to sentence 3.[5] ECTS credits are only awarded for the successful completion of modules determined on the basis of a module examination testing the student’s own achievements.[6] As a rule, examinations during the course of the degree program are held during the lecture period or after the last lectures and seminars of a module have been held before the start of the lecture period of the following semester. 
 
 (3)[1] Examinations (examination achievements and course achievements) measure the students’ performance.[2] They may be written, oral, electronic, use electronic communication devices or be in a different form.[3] In the event of invigilated remote electronic examinations, the Bavarian regulation for testing remote examinations ( **BayFEV** ) and the FAU regulations on remote examinations on the basis of the Bavarian regulations for testing remote examinations ( **BayFEV** ) – **EFernPO** – shall be complied with.[4] Examination achievements and partial examinations are graded.[5] The assessment of course achievements may be limited to either pass or fail. 
@@ -97,6 +113,10 @@ foundations of the Bachelor’s degree program by the end of the second semester
 (6)[1] In addition to the module examinations, voluntary intermediate examinations (e.g. paper and computer exercises, presentations) may be offered during courses as a way of measuring the standard of performance.[2] More detailed information, including the number, type and scope of these examinations, is given in the module handbook.[3] If a student chooses to use the option detailed in sentence 1, these results shall be taken into account when determining the grade for the module.[4] Intermediate examination 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 achievements may improve the grade for a module examination or partial examination by a maximum of 0.7; a grade may not be made worse. 
 
@@ -122,6 +142,10 @@ achievements may improve the grade for a module examination or partial examinati
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 examination and course achievements shall be accredited.[3] Section 11 (3) sentences 2 to 4 shall apply. 
 
 ## **Section 8 Examinations Committee** 
@@ -140,6 +164,10 @@ examination and course achievements shall be accredited.[3] Section 11 (3) sente
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (7)[1] Official notifications in legal matters pertaining to examinations shall be made in writing; reasons shall be given and information on legal remedies available to the person shall be included.[2] Students shall be given the opportunity to make a statement before negative decisions are finalized.[3] The Examinations Committee shall have the right to rule that official notifications in legal matters pertaining to examinations may be sent out in electronic form to the individual students.[ 4] Any notification of objection in questions of examination legislation shall be issued on behalf of the President following consultation with the Examinations Committee and after hearing the examiners. 
 
 ## **Section 9 Degree Program Committee** 
@@ -153,6 +181,10 @@ examination and course achievements shall be accredited.[3] Section 11 (3) sente
 (1)[1] The Examinations Committee shall appoint the examiners.[2] All persons eligible to administer examinations according to the current version of the **BayHIG** and the Bavarian Higher Education Examiners Act ( **BayHSchPrüferV** ) shall be eligible for appointment.[3] If a university member who is eligible to administer examinations leaves the University, they shall as a rule remain eligible to administer examinations subject to the provisions in Section 85 **BayHIG** and the **Bavarian Higher Education Examiners Act** for up to one year.[4] Eligible examiners who only have a temporary contract shall only remain eligible to act as an examiner for the contractually agreed duration of employment.[5] The Examinations Committee shall have the right to extend this period upon request.[6] The Examinations Committee shall keep a list of everyone eligible to administer examinations in this degree program 
 
 7 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)A change of examiners shortly before the start of an examination shall be permissible on urgent grounds. 
 
@@ -171,6 +203,10 @@ examination and course achievements shall be accredited.[3] Section 11 (3) sente
 (3)[1] Notwithstanding the deadlines set forth in Section 7, withdrawal from first attempts at examinations for which students have registered pursuant to paragraph 2 sentences 1 to 3 shall be permitted without stating reasons up until the end of the third working day before the examination date; withdrawals are to be submitted to the examiner, and the days between and including Monday and Friday shall be considered working days. 2The examiner must be notified immediately in the event of an inability to sit the examination occurring before or during the examination.[ 3] In cases covered by paragraph 2 sentence 4, withdrawal from the examination is only permissible for reasons beyond the student's control, particularly in the case of illness.[4] In cases where the student is unable to sit an examination due to illness, a certificate from an official medical examiner (vertrauensärztliches Attest) may be required by the Examinations Committee responsible.[5] The doctor’s certificate or certificate from an official medical examiner must include a description of the student’s ailment and state how this affects the student’s ability to perform to their full potential during the examination, especially due to a reduction in their physical or mental capacity.[6] In case of withdrawal from an examination due to illness after the examination has started (termination of an examination), the student must submit a certificate from an official medical examiner to the Examinations Office without delay.[7] Once a student has declared that they wish to withdraw they may 
 
 8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 not revoke this declaration; registration to the examination on this date shall be canceled once the declaration is submitted and the student shall no longer be entitled to take the examination.[8] Students shall only be able to register for and sit the examination in a later semester.[ 9] Section 29 (3) must be observed for withdrawal from resit examinations.[10] The consequences of a delayed or invalid withdrawal shall be governed by Section 13 (1) and (2). 
 
@@ -194,6 +230,10 @@ x = converted grade Nmax = best grade attainable Nmin = lowest grade for passing
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 right to be examined in that subject at FAU by passing or failing to pass the relevant examination at the final attempt.[5] If a student requests accreditation, the decision shall rest with the chairperson of the Examinations Committee after consultation with the subject representative appointed by the department.[6] The decision shall be issued in writing. 
 
 ## **Section 13 Consequences of Delayed Withdrawal, Breach of Regulations, Fraud** 
@@ -205,6 +245,10 @@ right to be examined in that subject at FAU by passing or failing to pass the re
 (3)[1] If there are sufficient grounds for suspecting plagiarism or other deception, particularly through the use of artificial intelligence systems as per paragraph 2 sentence 2, the examiners responsible are entitled, within the scope of fact-finding according to Section 26 **BayVwVfG** , to conduct an interview using questions on the original examination subject to verify whether the student has mastered the examination material. 2Sufficient grounds as per sentence 1 exist if, according to the examiner’s experience, a typical situation for the presence of plagiarism or deception is given, which, based on general experience, justifies the conclusion that plagiarism or deception is present. 3The interview is conducted by the examiners responsible for the original examination; if only one examiner was assigned for the original examination, the interview takes place in the presence of an observer appointed by the examiner.[ 4] When assessing the interview, the time interval between the original examination and the control interview must be taken into account.[5] If the student masters the examination material to an extent that would have sufficed to pass the original examination, the grounds for suspecting plagiarism or other deception are considered rejected, and the original examination will be evaluated in accordance with standard procedure.[6] If the student cannot demonstrate the examined competencies to a sufficient extent as per sentence 2 during the interview according to sentence 1, and there are no actual circumstances that would make an atypical occurrence appear seriously possible in the individual case, the deception is considered proven; paragraph 2 sentence 1 shall apply.[7] If the student refuses to participate in the interview, this constitutes a violation of their obligations to cooperate in the examination procedure as per Section 26 (2) sentence 1 **BayVwVfG** . 8If the student simultaneously does not credibly demonstrate actual circumstances that make an atypical occurrence appear seriously possible in the individual case, sufficient grounds for plagiarism or other deception are considered proven. 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (4) Persons who disturb the orderly examination process may be excluded from continuing the examination by the authorized examiner or invigilator; in this case the examination achievement in question shall be graded ‘nicht ausreichend’ (unsatisfactory, 5.0). 
 
@@ -232,6 +276,10 @@ The revocation of Bachelor’s and Master’s degrees shall be governed by Secti
 
 11 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 regular attendance shall be offered in the case of credibly shown periods of absence due to reasons beyond the student’s control of up to and including 15% of instruction time.[3] If more than 15% of instruction time is missed, the student must take the teaching unit again.[4] Any positions after the decimal point in the percentage of instruction time missed shall be rounded for the benefit of the student. 
 
 (4)[1] Attendance is checked in the individual teaching units, provided these are held face to face, by means of an attendance list in which students must enter their name and signature, or in a comparable manner.[2] If teaching units are held online, teaching staff shall record attendance by taking a register of the names of all those attending. 3Teaching staff shall compare the names on the registration list to see whether they correspond with the names used by the students attending the teaching unit.[4] If students use a pseudonym during an online teaching unit with compulsory attendance, they must inform the member of teaching staff of their real name in order to allow a comparison to be made. 
@@ -247,6 +295,10 @@ regular attendance shall be offered in the case of credibly shown periods of abs
 (4)[1] Written examinations may take the form of multiple-choice examinations (with one or more possible correct answers), either in full or in part.[2] Detailed information on the modules with multiple choice examinations is given in the module handbook.[3] The candidate must indicate which of the answers to the questions they consider to be correct. 4Examination questions must allow for reliable examination results. 5When setting the examination questions, the answers that shall be recognized as applicable must be defined.[6] Multiple answers shall not be permitted and shall not be evaluated in cases where the examination task does not allow multiple answers.[7] Before the evaluation of the examination results, at least two of the authors of the examination shall assess whether the examination questions allow for reliable examination results.[8] If the results of this assessment show that individual examination questions contain errors, these questions must not be considered when determining the examination result; a reduced number of examination questions must be assumed.[9] A reduction in the number of 
 
 12 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 examination questions must not have any negative consequences for examinees.[10] No minus points may be awarded beyond the respective question. 
 
@@ -276,6 +328,10 @@ examination questions must not have any negative consequences for examinees.[10]
 
 13 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 **Section 20 Evaluation of Examinations, Grades, Final Grade** (1)[1] The evaluation of individual examinations shall be expressed by the examiners with the following grades: 
 
 |**Grade (in words)**|**Grade**|**Key**|
@@ -303,6 +359,10 @@ examination questions must not have any negative consequences for examinees.[10]
 at an average of up to 1.5 = sehr gut (very good) at an average of over 1.5 and up to 2.5  = gut (good) 
 
 14 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 at an average of over 2.5 and up to 3.5  = befriedigend (satisfactory) at an average of over 3.5 and up to 4.0  = ausreichend (sufficient) 
 
@@ -332,6 +392,10 @@ at an average of over 2.5 and up to 3.5  = befriedigend (satisfactory) at an ave
 
 15 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Section 23 Final Academic Record, Transcript of Records, Diploma Supplement, Grade Distribution Table, Degree Certificate** 
 
 (1)[1] Students who have successfully completed a degree program shall receive a final academic record, a transcript of records, a diploma supplement, a grade distribution table and a degree certificate, within four weeks if possible.[2] The certificates shall be signed by the chairperson of the Examinations Committee or their deputy. 
@@ -351,6 +415,10 @@ at an average of over 2.5 and up to 3.5  = befriedigend (satisfactory) at an ave
 (3)[1] Decisions pursuant to (1) and (2) shall only be taken by the chairperson of the Examinations Committee upon written request and after consulting with the Disability Liaison Officer.[2] Students may be required to submit an official certificate from a medical examiner (vertrauensärztliches Attest) proving the fulfillment of the conditions in paragraph 1 or other proof confirming their special circumstances.[3] Applications for adjustments to examination arrangements shall be made to the Examinations Committee at the latest four weeks before registration for the examination. 
 
 16 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Part II: Special Provisions Part I Bachelor’s Degree Program** 
 
@@ -380,6 +448,10 @@ at an average of over 2.5 and up to 3.5  = befriedigend (satisfactory) at an ave
 
 17 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4)[1] The period between the allocation of the subject and the date of the thesis’ submission (standard thesis work period) shall be two months; it may be extended by a maximum of one month upon request and the supervisor’s approval.[2] The scope of the subject must be such that it can be dealt with within the standard thesis work period. 3Extensions are only possible in justified exceptional cases. 4If a student submits a doctor’s certificate proving that they are incapable of working on their thesis, the period for thesis work shall be suspended temporarily.[5] If the period for working on the thesis is suspended for a considerable period of time as defined in sentence 4 (3 months minimum), the Examinations Committee shall check whether the period for working on the thesis ought to be terminated due to ill health, in which case the Bachelor's thesis shall be registered with a new topic once the student is well again.[6] Sentences 4 and 5 shall apply accordingly in cases in which the student is prevented from working on the Bachelor's thesis due to serious reasons beyond their control and outside their sphere of risk. 
 
 (5)[1] The topic of the Bachelor's thesis can only be returned once, and within the first three weeks of the working period; if students resit the thesis, returning the subject shall not be permitted.[2] If the subject is returned where it is not admissible, the Bachelor’s thesis shall be graded "nicht ausreichend" (unsatisfactory; 5.0). 
@@ -398,6 +470,10 @@ at an average of over 2.5 and up to 3.5  = befriedigend (satisfactory) at an ave
 
 18 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Bachelor’s thesis module, all failed module examinations or partial module examinations may be resat three times.[2] Module examinations for the Grundlagen- und Orientierungsprüfung and Bachelor’s thesis may only be resat once.[3] Examinations of internships, field seminars, and excursions can be repeated twice, provided that in the case of a resit notwithstanding sentence 5, the internship, field seminar, or excursion must be resat.[ 4] The resit examination shall be limited to the failed examination or course achievement.[5] In the case of modules with compulsory attendance, students shall only be obliged to attend the teaching unit again if the manner in which the unit is taught or the nature of the examination is such that the student must attend again in order to acquire the required skills; see module handbook for details.[6] Section 33 (11) shall apply to the repetition of the Bachelor’s thesis module.[7] As a rule, resit examinations must be offered within six months of the original examination. 
 
 (2)[1] The student independently registers for the resit examination, subject to the regulation in sentence 2.[2] Notwithstanding sentence 1, students independently register for the repetition of an internship, field seminar, or excursion in a semester of their choice in the case of internships, field seminars, and excursions where, according to paragraph 1 sentence 5, repetition is required; Section 11 (2) sentence 4 applies. 
@@ -411,6 +487,10 @@ Bachelor’s thesis module, all failed module examinations or partial module exa
 (6)[1] Additional modules are modules that are attended and completed within the examination periods according to Section 7 in addition to successfully completed modules.[2] If a student completes additional modules, they shall decide which of the modules shall count towards the final grade.[3] Students shall inform the Examinations Office of their decision at the latest eight weeks before the final certificate is issued.[4] The decision is binding.[5] If students do not make a decision, the Examinations Office shall calculate the better achievement.[6] Additional modules shall not count towards the final grade; they may, however, be included in the transcript of records at the student’s request.[7] Students shall submit a request to the Examinations Office at the latest four weeks before the final certificate is issued. 
 
 19 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (7) Subject to the special provisions in **Appendix 1** , students may choose in which order they complete the modules. 
 
@@ -438,6 +518,10 @@ Bachelor’s thesis module, all failed module examinations or partial module exa
 
 20 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Section 32 Scope and Structure of the Master’s Degree Program** 
 
 (1) The Master's degree program consists of the following four module areas: 
@@ -464,6 +548,10 @@ Bachelor’s thesis module, all failed module examinations or partial module exa
 
 21 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (5)[1] The subject may only be returned once with good reason and with the approval of the chairperson of the Examinations Committee within the first third of the period for thesis work.[2] Otherwise the Master’s thesis shall be graded "nicht ausreichend" (unsatisfactory; 5.0) if the subject is returned; it shall be regarded as rejected. 
 
 (6)[1] The Master’s thesis shall be written in English.[2] The thesis may be written in German in exceptional cases, but this requires the approval of the Examinations Committee.[3] The Master’s thesis shall include a declaration by the student confirming that the thesis is an original work and that no other sources or materials than the ones listed were used.[4] The Master’s thesis shall be submitted to the supervisor in duplicate as well as in a machine-readable electronic version; the date of submission shall be recorded in writing.[5] If the Master’s thesis is not submitted in time, it shall be graded “nicht ausreichend” (unsatisfactory; 5.0); it shall be regarded as rejected. 
@@ -484,6 +572,10 @@ Bachelor’s thesis module, all failed module examinations or partial module exa
 
 22 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2)[1] The learning outcome of the elective modules is to allow students to gain a fundamental or more in-depth knowledge of certain skills in individual areas chosen according to their own interests.[2] In addition, students can acquire specific practical laboratory skills.[3] The element of choice also allows students to tailor their profile in view of their career plans.[4] The specific learning outcomes of the individual modules depend on the chosen module and are stated in the relevant **degree program and examination regulations** or the module description. 
 
 (3) The type and scope of examinations and the form of the modules are stipulated in the relevant **degree program and examination regulations** or the module description. 
@@ -502,6 +594,10 @@ Section 29 shall apply to resitting examinations and taking additional modules.
 
 23 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 that time, the provisions stipulated in the **PO MolMed** stated in sentence 3 shall continue to apply. 
 
 (3)[1] The first amendment statute shall come into effect on October 1, 2024.[2] It shall apply to all examinations (first, second, or third attempt) in the examination period winter semester 2024/2025 and later.[3] For examinations from previous examination periods, the regulations in the version dated August 22, 2023, shall apply. 
@@ -510,76 +606,102 @@ that time, the provisions stipulated in the **PO MolMed** stated in sentence 3 s
 
 24 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Appendix 1: Structure of the Bachelor’s Degree Program in Molecular Medicine** 
 
-|**1.**<br>**Module**<br>**name**|**Teaching unit**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**Total**<br>**ECTS**<br>**credits**<br>~~ee~~|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Type and scope of the**<br>**examination1)**<br>~~eee~~|**GOP**<br>~~eee~~|
+|**1.**<br>**Module**<br>**name**|**Teaching unit**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**Total**<br>|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**<br>~~ee~~|**P**<br>~~ee~~|**S**<br>~~ee~~||**1st**<br>**sem.**<br>~~ee~~|**2nd**<br>**sem.**<br>~~ee~~|**3rd**<br>**sem.**<br>~~ee~~|**4th**<br>**sem.**<br>~~ee~~|**5th**<br>**sem.**<br>~~ee~~|**6th**<br>**sem.**<br>~~ee~~|||
-|**Academic**<br>**mentoring**<br>~~ee~~|Seminar<br>~~ee~~|~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|2)<br>~~ee~~<br>~~ee~~|**2.5**<br>~~ee~~<br>~~ee~~|0.5<br>~~ee~~<br>~~ee~~|0.5<br>~~ee~~<br>~~ee~~|0.5<br>~~ee~~<br>~~ee~~|0.5<br>~~ee~~<br>~~ee~~|0.5<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|Class participation in the<br>5th semester<br>~~ee~~<br>~~eee~~|~~ee~~<br>~~eee~~|
-|**Physics**<br>~~a~~<br>~~Se~~|Lecture<br>~~a~~|4<br>~~a~~<br>~~es~~|~~ee~~<br>~~a~~<br>~~es~~|~~ee ~~<br>~~a~~|~~ee~~|**7.5**<br>~~ee~~<br>~~OS~~|7.5 <br>~~ee ~~<br>~~a~~<br>~~OS~~|~~ee ~~<br>~~a~~<br>~~OS~~|~~ee ~~<br>~~OS~~|~~ee ~~<br>~~ee~~<br>~~OS~~|~~ee ~~<br>~~ee~~|~~ee ~~<br>~~ee~~|Written examination 120<br>min (p/f) and<br>PA(p/f)<br> ~~eee~~<br>~~ee~~|~~eee~~<br>~~ee~~|
-||Tutorial<br>~~a~~<br>~~ee~~<br>~~es~~|~~a~~<br>~~ee~~<br>~~es~~<br>~~es~~<br>|2<br>~~a~~<br>~~ee~~<br>~~es~~<br>~~es~~|~~a~~<br>~~ee~~|~~ee~~||||||||||
-||Laboratory course<br>~~a~~<br>~~ee~~<br>~~es Gs~~<br>|~~a~~<br>~~es~~<br>~~ee~~<br>~~es~~<br>~~Gs~~<br>|~~a~~<br>~~es~~<br>~~ee~~<br>~~es~~<br>|5<br>~~a~~<br>~~ee~~|~~ee~~||||||||||
-|**Physical chemistry**<br>**3)**<br>~~ES~~<br>~~Se~~<br>~~ee~~|Lecture I<br>~~es Gs~~<br>~~ES~~<br>|2<br>~~es~~<br>~~Gs~~<br>~~ES~~<br>|~~es~~<br>~~ES~~<br>|~~ES~~|~~ES~~|**7.5**<br>~~ES~~<br>~~OS~~|2.5<br>~~a~~<br>~~ES~~<br>~~OS~~|~~a~~<br>~~ES~~<br>~~OS~~|~~ES~~<br>~~OS~~|~~ES~~<br>~~OS~~|~~ES~~|~~ES~~|Written examination 90<br>min (p/f)<br>and<br>PA (p/f)<br>~~ES~~|~~ES~~|
-||Lecture II<br>~~es Gs~~<br>~~ES~~<br>|2<br>~~es ~~<br>~~Gs~~<br>~~ES~~<br>|~~es~~<br>~~ES~~<br>|~~ES~~|~~ES~~||~~a~~<br>~~ES~~<br>~~OS~~|2.5<br>~~a~~<br>~~ES~~<br>~~OS~~|||||||
-||Laboratory course<br>~~ES~~<br>~~OO~~|~~ES~~<br>~~OO~~|~~ES~~<br>~~OO~~|2<br>~~ES~~|~~ES~~||~~ES~~<br>~~OS~~|2.5<br>~~ES~~<br>~~OS~~|||||||
-|**Principles of cell**<br>**biology**<br>~~Se~~<br>~~ee~~<br>~~ee~~|Lecture<br>~~OO~~<br>~~**es**~~|3<br>~~OO~~<br>~~ee~~|~~OO~~<br>~~ee~~|~~ers~~|~~(is~~|**5**<br>~~OS~~<br>~~rrrted~~|5<br>~~OS~~<br>~~**rs**~~|~~OS~~<br>~~ner~~~~**s**~~|~~OS~~<br>~~r~~~~**s**~~|~~OS~~<br>~~**rs**~~|~~(O~~~~**s**~~||Written examination 90<br>min.<br>(graded)||
-|**General and**<br>**inorganic chemistry**<br>~~Se ~~<br>~~ee~~<br>~~ee~~|Lecture<br> ~~OO~~<br>~~**es**~~|4<br>~~OO~~<br>~~ee~~<br>~~eter~~|~~OO~~<br>~~ee~~<br>~~re~~|~~ers~~<br>~~rir~~|~~(is~~<br>~~te~~|**5**<br>~~OS~~<br>~~rrrted~~<br>~~ere~~|5<br>~~OS~~<br>~~**rs**~~|~~OS~~<br>~~ner~~~~**s**~~<br>~~r~~|~~OS~~<br>~~r~~~~**s**~~<br>~~r~~|~~OS~~<br>~~**rs**~~|~~(O~~~~**s**~~<br>~~r~~|~~ts~~|Written examination 90<br>min (p/f)|GOP|
-|**Inorganic chemistry**<br>**laboratory course 4)**<br> <br>~~ee~~<br>~~ee~~<br>~~oe~~|Laboratory course<br> ~~OO~~<br>~~**es**~~|~~OO~~<br>~~ee~~<br>~~eter~~|~~OO~~<br>~~ee~~<br>~~re~~|8<br>~~ers~~<br>~~rir~~|~~(is~~<br>~~te~~|**5**<br>~~rrrted~~<br>~~ere~~<br>~~El~~|~~**rs**~~<br>~~El~~|5<br>~~ner~~~~**s**~~<br>~~r~~<br>~~El|~~|~~r~~~~**s**~~<br>~~r~~<br>~~||~~|~~**rs**~~<br>~~|i]~~|~~(O~~~~**s**~~<br>~~r~~<br>~~i]~~|~~ts~~<br>~~i] ff~~|PA (p/f)<br>~~ff~~|GOP<br>~~ff~~|
-|**Biochemistry and**<br>**foundations of**<br>**molecular medicine**<br>~~ee~~<br>~~oe~~|Preparatory course:<br>Lecture<br>~~**es** ~~<br>~~——+ete7~~<br>~~es~~|1<br> ~~ee ~~<br>~~eter ~~<br>~~——+ete7~~<br>~~a~~|~~ee ~~<br> ~~re ~~<br>~~——+ete7~~<br>~~ee~~|~~ers ~~<br> ~~rir ~~<br>~~——+ete7~~<br>~~ee~~|~~(is ~~<br> ~~te ~~<br>~~——+ete7~~<br>~~ee~~|**5**<br> ~~rrrted ~~<br> ~~ere~~<br>~~——+ete7~~<br>~~El~~<br>~~ee~~|2.5<br> ~~**rs** ~~<br>~~——+ete7~~<br>~~El~~<br>~~ee~~|~~ner~~~~**s** ~~<br>~~r~~<br>~~——+ete7~~<br>~~El|~~<br>~~ee~~|~~r~~~~**s** ~~<br>~~r~~<br>~~——+ete7~~<br>~~||~~|~~**rs**~~<br>~~——+ete7~~<br>~~|i]~~|~~(O~~~~**s**~~<br>~~r ~~<br>~~——+ete7~~<br>~~i]~~|~~ts~~<br>~~——+ete7~~<br>~~i] ff~~|Leading a discussion 45<br>min (p/f) and<br>presentation 10–20 min<br>(p/f)<br>~~——+ete7~~<br>~~ff~~|GOP<br>~~——+ete7~~<br>~~ff~~|
-||Tutorial<br>~~——+ete7~~<br>~~es~~|~~——+ete7~~<br>~~a~~|~~——+ete7~~<br>~~ee~~|~~——+ete7~~<br>~~ee~~|2<br>~~——+ete7~~<br>~~ee~~||||||||||
-||Seminar<br>~~——+ete7~~<br>~~es~~<br>~~ee~~|~~——+ete7~~<br>~~a~~<br>~~eee~~|~~——+ete7~~<br>~~ee~~<br>~~eee~~|~~——+ete7~~<br>~~ee~~<br>~~eee~~|1<br>~~——+ete7~~<br>~~ee~~<br>~~eee~~||~~——+ete7~~<br>~~El~~<br>~~ee~~|2.5<br>~~——+ete7~~<br>~~El|~~<br>~~ee~~|||||||
-|**Functional anatomy**<br>**of the**<br>**human body for**<br>**molecular medicine**<br>~~oe~~|Lecture<br>~~es~~<br>~~ee~~|2<br>~~a~~<br>~~eee~~<br>~~ee~~|~~ee ~~<br>~~eee~~<br>~~eee~~|~~ee ~~<br>~~eee~~<br>~~eee~~|~~ee~~<br>~~eee~~<br>~~eee~~|**5**<br>~~El~~<br>~~ee~~|5<br>~~El~~<br>~~ee~~|~~El |~~<br>~~ee~~|~~| |~~|~~| i]~~|~~i]~~|~~i] ff~~<br>~~oT~~|Written examination 60<br>min<br>(graded)<br>~~ff~~<br>~~oT~~|GOP<br>~~ff~~<br>~~oT~~|
-||Seminar<br>~~ee ~~<br>~~ee~~<br>~~ee~~|~~eee~~<br>~~ee~~<br>~~ee~~<br>~~ee~~|~~eee~~<br>~~ee~~<br>~~eee~~<br>~~ee~~|~~eee~~<br>~~ee~~<br>~~eee~~<br>~~ee~~|3<br>~~eee~~<br>~~ee~~<br>~~eee~~<br>~~ee~~||||||||||
-|**General histology**<br>**and**<br>**embryology**<br>~~SOLE~~|Lecture<br>~~SOLE~~<br>~~ee~~|2<br>~~ee ~~<br>~~SOLE~~<br>~~ee~~<br>~~eee~~|~~eee~~<br>~~SOLE~~<br>~~ee~~<br>~~eee~~|~~eee~~<br>~~SOLE~~<br>~~ee~~<br>~~ee~~|~~eee~~<br>~~SOLE~~<br>~~ee~~<br>~~ee~~|**5**<br>~~SOLE~~|5<br>~~SOLE~~<br>~~Po~~|~~SOLE~~<br>~~Po~~|~~SOLE~~<br>~~Po~~|~~SOLE~~|~~SOLE~~<br>~~oT~~|~~SOLE~~<br>~~oT~~<br>~~oT~~|Written examination or<br>PA5)(graded)<br>~~SOLE~~<br>~~oT~~<br>~~oT~~|GOP<br>~~SOLE~~<br>~~oT~~<br>~~oT~~|
-||Internships<br>~~SOLE~~<br>~~ee~~<br>~~ee~~|~~SOLE~~<br>~~ee~~<br>~~eee~~<br>~~ee~~|~~SOLE~~<br>~~ee~~<br>~~eee~~<br>~~ee~~|1.5<br>~~SOLE~~<br>~~ee~~<br>~~ee~~<br>~~ee~~|~~SOLE~~<br>~~ee~~<br>~~ee~~<br>~~ee~~||||||||||
-|**Special histology**<br>**and**<br>**organ formation**<br>~~ES~~<br>~~a~~|Lecture<br>~~ee~~<br>~~ES~~<br>~~ee~~|3<br>~~ee~~<br>~~eee~~<br>~~ES~~<br>~~ee~~<br>**e**e|~~ee~~<br>~~eee~~<br>~~ES~~<br>~~ee~~<br>~~e~~|~~ee~~<br>~~ee~~<br>~~ES~~<br>~~ee~~<br>~~e~~~~**e**~~|~~ee~~<br>~~ee~~<br>~~ES~~<br>~~ee~~<br>~~**e**e~~|**5**<br>~~ES~~<br>~~ee~~|~~ES~~<br>~~Po~~<br>~~ee~~|5<br>~~ES~~<br>~~Po~~<br>~~ee~~|~~ES~~<br>~~Po~~<br>~~ee~~|~~ES~~<br>~~ee~~|~~ES~~<br>~~oT~~<br>~~ee~~|~~oT~~<br>~~ES~~<br>~~oT~~<br>~~ee~~|Written examination or<br>PA5)(graded)<br>~~oT~~<br>~~ES~~<br>~~oT~~<br>~~ee~~|GOP<br>~~oT~~<br>~~ES~~<br>~~oT~~<br>~~ee~~|
-||Laboratory course<br>~~ES~~<br>~~ee~~<br>~~ee~~|~~ES~~<br>~~ee~~<br>**e**e|~~ES~~<br>~~ee~~<br>~~e~~|2<br>~~ES~~<br>~~ee~~<br>~~e~~~~**e**~~|~~ES~~<br>~~ee~~<br>~~**e**e~~||||||||||
-|**Foundations of**<br>**physiology and**<br>**Foundations of**<br>**bioinformatics**<br>~~a~~|Cell physiology<br>~~ee~~<br>~~ee~~|1.6<br>~~ee~~<br>**e**e|~~ee~~<br>~~e~~|~~ee~~<br>~~e~~~~**e**~~|0.4<br>~~ee~~<br>~~**e**e~~|**5**<br>~~ee~~|~~Po~~<br>~~ee~~|5<br>~~Po~~<br>~~ee~~|~~Po~~<br>~~ee~~|~~ee~~|~~oT~~<br>~~ee~~|~~oT~~<br>~~ee~~|Written examination 60-<br>90 min (graded)<br>~~oT~~<br>~~ee~~<br>~~eed~~|~~oT~~<br>~~ee~~|
-||Bioinformatics<br>~~ee~~<br>~~es~~|2<br>**e**e|~~e~~|~~e~~~~**e**~~|~~**e**e~~||~~ee~~||~~ee~~|~~ee~~<br>~~eed~~|~~ee~~<br>~~eed~~|~~ee~~<br>~~eed~~|||
-|**Organic chemistry**<br>~~rE~~|Lecture<br>~~ee~~<br>~~rE~~<br>~~es~~|3<br>~~rE~~|~~rE~~|~~rE~~|~~rE~~|**10**<br>~~ee~~<br>~~rE~~<br>~~|~~|~~ee~~<br>~~rE~~<br>~~|~~|5<br>~~ee~~<br>~~rE~~<br>~~|~~|~~ee~~<br>~~rE~~<br>~~|~~|~~ee~~<br>~~rE~~<br>~~eed~~|~~ee~~<br>~~rE~~<br>~~eed~~|~~ee~~<br>~~rE~~<br>~~eed~~|Written examination 90<br>min(p/f)<br>~~ee~~<br>~~rE~~<br>~~eed~~|~~ee~~<br>~~rE~~|
-||Seminar<br>~~rE~~<br>~~es~~|~~rE~~|~~rE~~|~~rE~~|1<br>~~rE~~||~~rE~~<br>~~|~~||~~rE~~<br>~~|~~||||||
+|||**L**|||||||||||**Type and scope of the**<br> **1)**|**GOP**|
+||||**T**|**P**|**S**|**ECTS**<br>**credits**|**1st**<br>**sem.**|**2nd**|**3rd**|**4th**|**5th**|**6th**|||
+|||||||||**sem.**|**sem.**|**sem.**|**sem.**|**sem.**|**examination **||
+|**Academic**<br>**mentoring**|Seminar||||2)|**2.5**|0.5|0.5|0.5|0.5|0.5||Class participation in the<br>5th semester||
+|**Physics**|Lecture|4||||**7.5**|7.5||||||Written examination 120<br>min (p/f) and<br>PA(p/f)||
+||Tutorial||2||||||||||||
+||Laboratory course|||5|||||||||||
+||Lecture I|2|||||2.5||||||Written examination 90<br>min (p/f)<br>and<br>PA (p/f)||
+|**Physical chemistry**|Lecture II|2||||**75**||2.5|||||||
+|**3)**|Laboratory course|||2||**.**||2.5|||||||
+|**Principles of cell**<br>**biology**|Lecture|3||||**5**|5||||||Written examination 90<br>min.<br>(graded)||
+|**General and**<br>**inorganic chemistry**|Lecture|4||||**5**|5||||||Written examination 90<br>min (p/f)|GOP|
+|**Inorganic chemistry**<br>**laboratory course 4)**|Laboratory course|||8||**5**||5|||||PA (p/f)|GOP|
+|**Biochemistry and**<br>**foundations of**<br>**ll dii**|Preparatory course:<br>Lecture|1||||**5**|2.5||||||Leading a discussion 45<br>min (p/f) and<br>presentation 10–20 min<br>(p/f)|GOP|
+||Tutorial||||2||||||||||
+|**moecuar mecne**|Seminar||||1|||2.5|||||||
+|**Functional anatomy**<br>**of the**<br>**human body for**<br>**molecular medicine**|Lecture|2||||**5**|5||||||Written examination 60<br>min<br>(graded)|GOP|
+||Seminar||||||||||||||
+||||||3||||||||||
+||||||||||||||||
+|**General histology**<br>**and**<br>**embryology**|Lecture|2||||**5**|5||||||Written examination or<br>PA5)(graded)|GOP|
+||Internships|||1.5|||||||||||
+|**Special histology**<br>**and**<br>**organ formation**|Lecture|3||||**5**||5|||||Written examination or<br>PA5)(graded)|GOP|
+||Laboratory course|||2|||||||||||
+|**Foundations of**<br>**physiology and**<br>**Foundations of**<br>**bioinformatics**|Cell physiology|1.6|||0.4||||||||Written examination 60-<br>90 min (graded)||
+||Bioinformatics|2|||||||||||||
+|||||||**5**||5|||||||
+||||||||||||||||
+|**Organic chemistry**|Lecture|3||||**10**||5|||||Written examination 90<br>min(p/f)||
+||Seminar||||1||||||||||
 
 
 
-|**1.**<br>**Module**<br>**name**|**Teaching unit**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Type and scope of the**<br>**examination1)**<br>and<br>PA (p/f)|**GOP**|
+25 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**1.**<br>**Module**<br>**name**|**Teaching unit**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**Total**<br>|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**|**P**|**S**||**1st**<br>**sem.**|**2nd**<br>**sem.**|**3rd**<br>**sem.**|**4th**<br>**sem.**|**5th**<br>**sem.**|**6th**<br>**sem.**|||
-||Laboratory course4)|||7|||||5||||||
+|||**L**|||||||||||**Type and scope of the**<br> **1)**|**GOP**|
+||||**T**|**P**|**S**|**ECTS**<br>**credits**|**1st**<br>**sem.**|**2nd**|**3rd**|**4th**|**5th**|**6th**|||
+|||||||||**sem.**|**sem.**|**sem.**|**sem.**|**sem.**|**examination **||
+||Laboratory course4)|||7|||||5||||and<br>PA (p/f)||
 |**Vegetative**<br>**physiology**|Vegetative<br>physiology|4||3.5|2.8|**10**|||10||||Written examination 60<br>min.<br>(graded)||
-|**Neurophysiology**<br>**and neuroanatomy**|Neuroanatomy|1.5|||1|**10**||||10|||Partial examination<br>Neuroanatomy 45-60 min<br>(graded, 20%) and<br>Partial examination<br>Neurophysiology 60 min<br>(graded,75%) 6)||
-||Neurophysiology|4||3.5|2.8||||||||||
-|**Biochemistry and**<br>**molecular biology I**<br>~~Ps~~|Lecture<br>~~Ps~~|4<br>~~Ps~~|~~Ps~~|~~Ps~~|~~Ps~~|**10**<br>~~Ps~~|~~Ps~~|~~Ps~~|10<br>~~Ps~~|~~Ps~~|~~Ps~~|~~Ps~~|Two partial examinations<br>(both graded, both 50%)<br>~~Ps~~|~~Ps~~|
-||Seminars<br>~~Ps~~|~~Ps~~|~~Ps~~|~~Ps~~|2.5<br>~~Ps~~||||||||||
+||Neuroanatomy|1.5|||1||||||||Partial examination||
+|**Neurophysiology**<br>**and neuroanatomy**|Neurophysiology||||||||||||Neuroanatomy 45-60 min<br>(graded, 20%) and<br>Partial examination<br>Neurophysiology 60 min<br>(graded,75%) 6)||
+|||4||3.5|2.8|**10**||||10|||||
+||||||||||||||||
+|**Biochemistry and**<br>**molecular biology I**|Lecture|4||||**10**|||10||||Two partial examinations<br>(both graded, both 50%)||
+||Seminars||||2.5||||||||||
 |**Biochemistry and**<br>**molecular biology II**|Lecture|4||||**10**||||10|||Presentation approx. 10<br>min. (p/f) and<br>two partial examinations<br>90 min (both graded,<br>both50%)||
-||Seminars||~~ee~~|~~ee~~|3.5<br>~~ee~~||||||||||
-|**Biochemical**<br>**laboratory course I**<br>~~see~~|Introductorylecture<br>~~see~~|1<br>~~see~~<br>~~ee~~|~~see~~<br>~~ee~~<br>~~ee~~|~~see~~<br>~~ee~~<br>~~eee~~|~~see~~<br>~~ee~~<br>~~eee~~|**5**<br>~~see~~<br>~~eee~~|~~see~~|~~see~~|5<br>~~see~~|~~see~~|~~see~~|~~see~~|PA (p/f)<br>~~see~~|~~see~~|
-||Internships<br>~~see~~<br>~~es~~|~~see~~<br>~~es~~<br>~~ee~~|~~see~~<br>~~ee~~<br>~~es~~<br>~~ee~~<br>~~ee ee~~|4<br>~~see~~<br>~~ee~~<br>~~es~~<br>~~eee~~<br>~~ee~~|~~see~~<br>~~ee~~<br>~~es~~<br>~~eee~~<br>~~ee~~||||||||||
-|**Biochemical**<br>**laboratory course II**<br>~~eee~~|Introductory lecture<br>~~eee~~|1<br>~~ee ~~<br>~~eee~~|~~ee ~~<br> ~~ee ~~<br>~~eee~~<br>~~ee ee~~|~~ee~~<br> ~~eee~~<br>~~eee~~<br>~~ee~~|~~ee~~<br>~~eee~~<br>~~eee~~<br>~~ee~~|**5**<br>~~eee~~<br>~~eee~~|~~eee~~|~~eee~~|~~eee~~|5<br>~~eee~~|~~eee~~|~~eee~~|PA (p/f)<br>~~eee~~|~~eee~~|
-||Laboratory course<br>~~eee~~<br>~~es~~|~~eee~~<br>~~es~~|~~eee~~<br>~~ee ee~~<br>~~es~~<br>~~ere~~|4<br>~~eee~~<br>~~ee~~<br>~~es~~<br>~~ere~~|~~eee~~<br>~~ee~~<br>~~es~~<br>~~ee~~||||||||||
-|**Microbiology,**<br>**immunology and**<br>**virology**<br>~~reer~~|Lecture<br>~~reer~~|3<br>~~reer~~|~~ee ee~~<br>~~reer~~<br>~~ere~~|~~ee~~<br>~~reer~~<br>~~ere~~|~~ee~~<br>~~reer~~<br>~~ee~~|**5**<br>~~reer~~|~~reer~~|~~reer~~|~~reer~~|5<br>~~reer~~|~~reer~~|~~reer~~|Written examination 90<br>min<br>(graded)<br>~~reer~~|~~reer~~|
-||Tutorial/exercise<br>~~reer~~|2<br>~~reer~~|1<br>~~reer~~<br>~~ere~~|~~reer~~<br>~~ere~~|~~reer~~<br>~~ee~~||||||||||
-|**Radiation protection**<br>**in experimental**<br>**medicine**<br>~~eee~~<br>~~a~~|course<br>~~eee~~<br>|2<br>~~eee~~|0.5<br>~~ere~~<br>~~eee~~<br>~~ee~~|0.5<br>~~ere ~~<br>~~eee~~<br>~~ee~~|~~ee~~<br>~~eee~~<br>~~ee~~|**2.5**<br>~~eee~~|~~eee~~|~~eee~~<br>~~|~~|~~eee~~<br>~~|~~|~~eee~~<br>~~|~~|~~eee~~<br>~~|~~|2.5<br>~~eee~~|Written examination 90<br>min<br>(graded)7)<br>~~eee~~|~~eee~~|
-|**Human genetics**<br>~~ee~~<br>~~a~~|Lecture<br>~~ee~~<br>|2<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|**5**<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~|~~<br>~~ee~~|~~ee~~<br>~~|~~<br>~~ee~~|~~ee~~<br>~~|~~<br>~~ee~~|5<br>~~ee~~<br>~~|~~<br>~~ee~~|~~ee~~<br>~~ee~~|Written examination 90<br>min<br>(graded)<br>~~ee~~<br>~~eee~~|~~ee~~<br>~~eee~~|
-||Tutorial/exercise<br>~~ee~~<br>~~a~~|~~ee~~|4<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~<br>~~ee~~||||||||||
-|**Cell biology**<br>**laboratory course**<br>~~a ~~|Laboratory course<br> ~~a~~||~~ee ~~|5<br> ~~ee~~|~~ee~~<br>~~ee~~|**5**<br>~~ee~~|~~ee~~|~~|~~<br>~~ee~~|~~|~~<br>~~ee~~|~~|~~<br>~~ee~~|5<br>~~|~~<br>~~ee~~|~~ee~~|Presentation 10-20 min<br>and EA (p/f and p/f)<br>~~eee~~|~~eee~~|
+||Seminars||||3.5||||||||||
+|**Biochemical**<br>**laboratory course I**|Introductorylecture|1||||**5**|||5||||PA (p/f)||
+||Internships|||4|||||||||||
+|**Biochemical**<br>**laboratory course II**|Introductory lecture|1||||**5**||||5|||PA (p/f)||
+||Laboratory course|||4|||||||||||
+|**Microbiology,**<br>**immunology and**<br>**virology**|Lecture|3||||**5**||||5|||Written examination 90<br>min<br>(graded)||
+||Tutorial/exercise|2|1||||||||||||
+|**Radiation protection**<br>**in experimental**<br>**medicine**|course|2|0.5|0.5||**2.5**||||||2.5|Written examination 90<br>min<br>(graded)7)||
+|**Human genetics**|Lecture|2||||**5**|||||5||Written examination 90<br>min<br>(graded)||
+||Tutorial/exercise||4||||||||||||
+|**Cell biology**<br>**laboratory course**|Laboratory course|||5||**5**|||||5||Presentation 10-20 min<br>and EA (p/f and p/f)||
 
 
 
 26 
 
-|**1.**<br>**Module**<br>**name**|**Teaching unit**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Type and scope of the**<br>**examination1)**|**GOP**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**1.**<br>**Module**<br>**name**|**Teaching unit**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**Total**<br>|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|**Distribution of workload per semester in ECTS credits**|||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**|**P**|**S**||**1st**<br>**sem.**|**2nd**<br>**sem.**|**3rd**<br>**sem.**|**4th**<br>**sem.**|**5th**<br>**sem.**|**6th**<br>**sem.**|||
+|||**L**|||||||||||**Type and scope of the**<br> **1)**|**GOP**|
+||||**T**|**P**|**S**|**ECTS**<br>**credits**|**1st**<br>**sem.**|**2nd**|**3rd**|**4th**|**5th**|**6th**|||
+|||||||||**sem.**|**sem.**|**sem.**|**sem.**|**sem.**|**examination **||
 |**History of science**<br>**and medical ethics**|History, medical<br>ethics|1|||1|**2.5**|||||2.5||Written examination 60<br>min<br>(graded)||
 |**Pharmacology and**<br>**toxicology**|Lecture|4||||**5**|||||5||Written examination 60<br>min<br>(graded)||
 |**Molecular**<br>**pharmacology**|Tutorial/exercise||4|||**5**||||||5|Presentation (15-20 min)<br>(graded) and written<br>assignment (4-5 pages)<br>(p/f)||
 |**General pathology**|Lecture|6||||**5**|||||5||Written examination<br>approx. 60 min. (graded,<br>50%) and<br>preparation examination<br>approx. 45 min (graded,<br>50%)6)||
 ||Tutorial/exercise||2||||||||||||
-|**Special pathology 8)**<br>~~Po~~|Lecture|2||||**5**<br>~~|~~|~~|~~|~~tT~~|~~tT|~~|||5|Written examination<br>approx. 60 min. (graded,<br>50%) and<br>preparation examination<br>approx. 45 min (graded,<br>50%)6)||
-||Tutorial/exercise<br>~~rrr~~|~~rrr~~|1<br>~~rrr~~|~~rrr~~|||||||||||
-|**Biometrics and**<br>**epidemiology**<br>~~Po~~|Lecture<br>~~rrr~~|1<br>~~rrr~~|~~rrr~~|~~rrr~~||**5**<br>~~|~~|~~|~~|~~tT~~|~~tT|~~||5||Written examination 90<br>min<br>(graded)||
-||Tutorial/exercise<br>~~rrr~~|~~rrr~~|3<br>~~rrr~~|~~rrr~~|||||||||||
-|**Compulsory elective**<br>**module Practical**<br>**experiments**<br>~~Po~~|~~rrr~~|~~rrr~~|~~rrr~~|10<br>~~rrr~~||**7.5**<br>~~|~~|~~|~~|~~tT~~|~~tT |~~|||7.5|EA including written and<br>oral documentation in 2<br>different laboratories<br>(both graded, both<br>graded, both50%)||
+|**Special pathology 8)**|Lecture|2||||**5**||||||5|Written examination<br>approx. 60 min. (graded,<br>50%) and<br>preparation examination<br>approx. 45 min (graded,<br>50%)6)||
+||Tutorial/exercise||1||||||||||||
+|**Biometrics and**<br>**epidemiology**|Lecture|1|||||||||||Written examination 90<br>min<br>(graded)||
+||Tutorial/exercise||3|||**5**|||||5||||
+|**Compulsory elective**<br>**module Practical**<br>**experiments**||||10||**7.5**||||||7.5|EA including written and<br>oral documentation in 2<br>different laboratories<br>(both graded, both<br>graded, both50%)||
 |**Bachelor’s thesis**|Bachelor’s thesis|||||**10**||||||10|Presentation and<br>written thesis<br>(p/f andgraded) 6)||
 |**Total SWS and ECTS credits:**||**72.1**|**17.**<br>**5**|**56**|**21**|**180**|**33**|**28**|**30.5**|**30.5**|**28**|**30**|||
 |||**166.6**|||||||||||||
@@ -587,6 +709,10 @@ that time, the provisions stipulated in the **PO MolMed** stated in sentence 3 s
 
 
 27 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Key:** 
 
@@ -607,6 +733,10 @@ that time, the provisions stipulated in the **PO MolMed** stated in sentence 3 s
 - 8) The module “General pathology” must be passed as a prerequisite for this module. 
 
 28 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Appendix 2: Qualification assessment process** 
 
@@ -634,6 +764,10 @@ that time, the provisions stipulated in the **PO MolMed** stated in sentence 3 s
 
 29 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 to Section 31 (1)(1)(1) or, in the case of Section 31 (3), an average grade in their previous subject-specific achievements of at least 2.5 (= gut, good).[4] Section 12 (3) sentences 1 to 3 shall apply accordingly for qualifications and modules with a differing grading system.[5] Applicants who are not accepted on to the Master's degree program after the preselection and who have at worst the grade 3.0 (subject-specific degree) or 2.5 (subject-related degree) shall be evaluated according to the following criteria: 
 
 1. Quality of the previous degree or previous achievements (two points per increment of 0.1 in the grade) (maximum of 30 points; equivalent to a final grade of 1.0 in previous degree; 28 points equivalent to 1.1 etc.) 
@@ -659,6 +793,10 @@ to Section 31 (1)(1)(1) or, in the case of Section 31 (3), an average grade in t
 
 30 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 also be announced at shorter notice if the applicant agrees.[3] The qualification assessment interview lasts approximately 20 minutes per person and is generally conducted as a video call; applicants may object to the interview being conducted as a video call. 4It is intended to demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-oriented degree program.[ 5] It shall cover the following equally weighted criteria: 
 
 1. Knowledge of theories, key concepts and fundamentals of molecular medicine 
@@ -678,6 +816,10 @@ also be announced at shorter notice if the applicant agrees.[3] The qualificatio
 (9) Applicants shall bear their own costs incurred as a result of taking part in the qualification assessment process. 
 
 31 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Appendix 3: Admissions Examination** 
 
@@ -711,6 +853,10 @@ also be announced at shorter notice if the applicant agrees.[3] The qualificatio
 
 32 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - 5.3 The admissions examination may be repeated one time at the next available appointment on the basis of the documents submitted with the first application. 
 
 6. Section 14 shall apply accordingly to faults in the admissions examination. 
@@ -719,12 +865,22 @@ also be announced at shorter notice if the applicant agrees.[3] The qualificatio
 
 33 
 
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
 ## **Appendix 4: Study Plan for the Master’s Degree Program in Molecular Medicine** 
 
-|**Module name**|**Teaching unit**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Type and scope of the examination1)**|**Grade**<br>**factor**|
+|**Module name**|**Teaching unit**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**f1)**|**Grade**<br>**factor**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**|**P**|**S**||**1st**<br>**sem.**|**2nd**<br>**sem.**|**3rd**<br>**sem.**|**4th**<br>**sem.**|||
+||||<br>**hours)**||||||||||
+|||**L**|||||**1st**<br>**sem.**|**2nd**|**3rd**|**4th**|**Type and scope o the examination **||
+||||**T**|**P**|**S**||||||||
+|||||||||**sem.**|**sem.**|**sem.**|||
+||||||||||||||
 |**Compulsory modules (35 ECTS credits)**|||||||||||||
+||||||||||||||
+||||||||||||||
 |Advanced lectures in<br>Molecular Medicine 1|Lectures|6||||**10**|10||||Written examination 180 min.<br>(graded)|1|
 |Advanced lectures in<br>Molecular Medicine 2|Lectures|6||||**10**||10|||Written examination 180 min.<br>(graded)|1|
 |Architecture of<br>biopolymers|Seminar||||2|**5**|5||||Presentation approx. 30 min. (p/f) and<br>Written examination 60 min.<br>(graded)|1|
@@ -734,6 +890,8 @@ also be announced at shorter notice if the applicant agrees.[3] The qualificatio
 ||Animal handling or<br>alternative methods<br>training|||1.<br>5|||||||||
 ||Lecture Biological safety|1|||||||||||
 |**Compulsory electives A (30 ECTS credits)**|||||||||||||
+||||||||||||||
+||||||||||||||
 |Seminar module 1|Seminar||||2|**5**|5||||Presentation (approx. 30 min.) and<br>written seminar paper (approx. 20 pages)<br>(p/f and graded)|1|
 |Seminar module 2|Seminar||||2|**5**||5|||Either 1 or 2<br>1. Presentation (approx. 30 min.) and written<br>seminar paper (approx. 20 pages) (p/f and<br>graded)<br>2. Presentation (approx. 30 min.) and written<br>seminar paper (approx. 20 pages) (graded 50%<br>and graded 50 %)|1|
 |Seminar module 3|Seminar||||2|**5**|||5||Either 1, 2 or 3<br>1. Presentation(approx. 30 min.)and|1|
@@ -742,63 +900,67 @@ also be announced at shorter notice if the applicant agrees.[3] The qualificatio
 
 34 
 
-|**Module name**|**Teaching unit**|**SWS (semester**<br>**hours)**<br>**L**<br>**T**<br>**P**<br>**S**|**SWS (semester**<br>**hours)**<br>**L**<br>**T**<br>**P**<br>**S**|**SWS (semester**<br>**hours)**<br>**L**<br>**T**<br>**P**<br>**S**|**SWS (semester**<br>**hours)**<br>**L**<br>**T**<br>**P**<br>**S**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per**<br>**semester in ECTS credits**<br>**1st**<br>**2nd**<br>**3rd**<br>**4th**|**Distribution of workload per**<br>**semester in ECTS credits**<br>**1st**<br>**2nd**<br>**3rd**<br>**4th**|**Distribution of workload per**<br>**semester in ECTS credits**<br>**1st**<br>**2nd**<br>**3rd**<br>**4th**|**Distribution of workload per**<br>**semester in ECTS credits**<br>**1st**<br>**2nd**<br>**3rd**<br>**4th**|**Type and scope of the examination1)**|**Grade**<br>**factor**|
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
+|**Module name**|**Teaching unit**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**f1)**|**Grade**<br>**factor**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**sem.**|**sem.**|**sem.**|**sem.**|||
-||||||||||||written seminar paper (approx. 20 pages) (p/f||
-||||||||||||and graded)||
-||||||||||||2. Presentation (approx. 30 min, p/f) and||
-||||||||||||written examination approx. 90 min (graded)||
-||||||||||||3. Presentation (approx. 30 min, p/f) and||
-||||||||||||moderation (30–45 min) graded2)||
-|Elective module A|See Section 34 (3)|||||**5**|5||||See Section 34 (2)|0|
-|Project development|Lab course with seminar|||6|1|**10**|||10||Written project plan (5-10 pages)|1|
-|**Compulsory electives B (25 ECTS credits)**<br>~~ON~~|||||||||||||
-
-
-
-|**Module name**|**Teaching unit**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Type and scope of the examination1)**|**Grade**<br>**factor**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**|**P**|**S**||**1st**<br>**sem.**|**2nd**<br>**sem.**|**3rd**<br>**sem.**|**4th**<br>**sem.**|||
+|||**L**|||||**1st**<br>**sem.**|**2nd**|**3rd**|**4th**|**Type and scope o the examination **||
+||||**T**|**P**|**S**||||||||
+|||||||||**sem.**|**sem.**|**sem.**|||
+||||||||||||||
 ||||||||||||written seminar paper (approx. 20 pages) (p/f<br>and graded)<br>2. Presentation (approx. 30 min, p/f) and<br>written examination approx. 90 min (graded)<br>3. Presentation (approx. 30 min, p/f) and<br>moderation (30–45 min) graded2)||
 |Elective module A|See Section 34 (3)|||||**5**|5||||See Section 34 (2)|0|
 |Project development|Lab course with seminar|||6|1|**10**|||10||Written project plan (5-10 pages)|1|
-|**Compulsory electives B (25 ECTS credits)**<br>~~ON~~|||||||||||||
-|**A. Laboratory training (25 LP)**<br>~~pe~~|||||||||||||
-|External module<br>~~pe~~|5 months practical course<br>~~pe~~|~~pe~~|~~pe~~|~~pe~~|~~pe~~|**25**<br>~~pe~~|~~pe~~|10<br>~~pe~~|15<br>~~pe~~|~~pe~~|EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)<br>~~pe~~|1<br>~~pe~~|
-|**B. Laboratory training (25 LP)**<br>~~oe~~|||||||||||||
+|**Compulsory electives B (25 ECTS credits)**|||||||||||||
+||||||||||||||
+||||||||||||||
+|**A. Laboratory training (25 LP)**|||||||||||||
+|External module|5 months practical course|||||**25**||10|15||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
+|**B. Laboratory training (25 LP)**|||||||||||||
+||||||||||||||
+||||||||||||||
 |External module|4 months practical course|||||**20**||10|10||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
-|Elective module<br>~~a~~|See Section 34 (3)<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|**5**<br>~~en~~|~~en~~|~~en~~|5||See Section 34 (2)|0|
-|**C. Laboratory training (25 LP)**<br>~~pT~~|||||||||||||
+|Elective module|See Section 34 (3)|||||**5**|||5||See Section 34 (2)|0|
+|**C. Laboratory training (25 LP)**|||||||||||||
 |External module|3 months practical course|||||**15**|||15||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
 |Laboratory module|2 months practical course|||||**10**||10|||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
-|**D. Laboratory training (25 LP)**<br>~~pT~~|||||||||||||
+|**D. Laboratory training (25 LP)**|||||||||||||
 |External module|2 months practical course|||||**10**||10|||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
 |Laboratory module|3 months practical course|||||**15**|||15||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
-|**E. Laboratory training (25 LP)**<br>~~pt~~|||||||||||||
+|**E. Laboratory training (25 LP)**|||||||||||||
 
 
 
 35 
 
-|**Module name**|**Teaching unit**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Type and scope of the examination1)**|**Grade**<br>**factor**|
+**==> picture [165 x 48] intentionally omitted <==**
+
+**==> picture [114 x 45] intentionally omitted <==**
+
+|**Module name**|**Teaching unit**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**f1)**|**Grade**<br>**factor**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**|**P**|**S**||**1st**<br>**sem.**|**2nd**<br>**sem.**|**3rd**<br>**sem.**|**4th**<br>**sem.**|||
+||||<br>**hours)**||||||||||
+|||**L**|||||**1st**<br>**sem.**|**2nd**|**3rd**|**4th**|**Type and scope o the examination **||
+||||**T**|**P**|**S**||||||||
+|||||||||**sem.**|**sem.**|**sem.**|||
+||||||||||||||
 |Laboratory module|2 months practical course|||||**10**||10|||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
 |Laboratory module|2 months practical course|||||**10**|||10||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
-|Elective module B<br>~~a~~|See Section 34 (3)|||||**5**|||5||See Section 34 (2)|0|
+|Elective module B|See Section 34 (3)|||||**5**|||5||See Section 34 (2)|0|
 |**F. Laboratory training (25 LP)**|||||||||||||
 |Laboratory module|2 months practical course|||||**10**||10|||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
 |Laboratory module|3 months practical course|||||**15**|||15||EA including protocol (approx. 20-30 pages) and<br>presentation of the content (20-30 min) (graded<br>and p/f)|1|
-|**Work on Master’s thesis (30 ECTS credits)**<br>~~pe~~|||||||||||||
-|Master's thesis with<br>Master’s colloquium<br>~~a~~|6 months<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|**30**|~~ce~~|~~ce~~|~~ce~~|25|Written thesis and<br>presentation 10–20 min<br>(graded, 5/6 and graded, 1/6)3|1|
-||~~ee~~|~~ee~~|~~ee~~|~~ee~~|1.<br>5<br>~~ee~~||~~ce~~|~~ce~~|~~ce~~|5||1|
-|**Total SWS and ECTS credits: **||**14**|**2**|**7.**<br>**5**|**13**<br>**.5**|**120**|**30**|**30**|**30**|**30**|||
-||||||||||||||
+|**Work on Master’s thesis (30 ECTS credits)**|||||||||||||
+|Master's thesis with<br>Master’s colloquium|6 months|||||||||25|Written thesis and<br>|1|
+||||||1.<br>5|**30**||||5|presentation 10–20 min<br>(graded, 5/6 and graded, 1/6)3|1|
+|||||**7.**|**13**||||||||
+|**Total SWS and ECTS credits: **||**14**|**2**|**5**|**.5**|**120**|**30**|**30**|**30**|**30**|||
 
 
 
-- 1) (p/f): pass/fail 
+> 1) (p/f): pass/fail 
 
 - 2) The type and scope of the examination depend on the student’s choice of module and are published in the relevant module description. 
 

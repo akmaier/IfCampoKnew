@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Physik"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-04-25T15:07:28+00:00
+scraped_at: 2026-05-01T08:01:14+00:00
 ---
 
 # Physik
@@ -84,8 +84,6 @@ Bitte beachten: Für Studiengänge der Physik gilt \***nicht**\* die Allgemeine 
 | englisch | Dateigröße |
 | --- | --- |
 | [Zugangsverfahren PST 20250731 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/englisch/Zugangsverfahren PST_20250731_en.pdf) | 248 KB |
-
-[SPO vom 10. Juli 2025, veröffentlicht auf der Homepage der Friedrich-Schiller-Universität Jena](https://www.hanfried.uni-jena.de/?block=body-1&dir=31955&trail=1-1101-1110-15985#block_body_1)
 
 ## **Weitere Regelungen**
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Didaktik des Deutschen als Zweitsprache FPO LA DiDaZ 20201123 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/DaZ/Aenderungssatzungen/LA_Didaktik des Deutschen als Zweitsprache_FPO_LA_DiDaZ_20201123_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:23:22+00:00
+scraped_at: 2026-05-01T07:05:34+00:00
 page_count_chars: 6943
 ---
 

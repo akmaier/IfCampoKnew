@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Geographie und Geowissenschaften"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:54:14+00:00
+scraped_at: 2026-05-01T07:46:45+00:00
 ---
 
 # Geographie und Geowissenschaften

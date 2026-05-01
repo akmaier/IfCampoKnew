@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Finance Auditing Controlling Taxation FPO FACT 20230615 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Finance,_Auditing,_Controlling,_Taxation/englisch/MSc_Finance_Auditing_Controlling_Taxation_FPO_FACT_20230615_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:29:58+00:00
+scraped_at: 2026-05-01T09:35:42+00:00
 page_count_chars: 22158
 ---
 

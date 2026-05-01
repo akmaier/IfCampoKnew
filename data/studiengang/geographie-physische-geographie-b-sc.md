@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:10:29+00:00
+scraped_at: 2026-05-01T06:45:24+00:00
 ---
 
 # Geographie: Physische Geographie (B.Sc.)

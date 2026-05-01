@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 27.07.2009 i.d.F. 14.09.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/Lehramt_Arbeitslehre.Sept2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:19:58+00:00
+scraped_at: 2026-05-01T06:59:34+00:00
 page_count_chars: 4671
 ---
 

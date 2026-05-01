@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 18.09.2007 i.d.F. 07.06.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/AllgPO_TechFak_BA-MA_JUNI2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:44:17+00:00
-page_count_chars: 63418
+scraped_at: 2026-05-01T09:55:04+00:00
+page_count_chars: 63430
 ---
 
 # PDF vom 18.09.2007 i.d.F. 07.06.2011
@@ -315,7 +315,7 @@ Der Entzug des Bachelor- oder Mastergrades richtet sich nach Art. 69 BayHSchG.
 |gut|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den durchschnittli-<br>chen Anforderungen liegt;|
 |befriedigend|= (2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen Anforderungen<br>entspricht;|
 |ausreichend|= (3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch den An-<br>forderungen entspricht;|
-|nicht ausreichend|= (4,3 oder 4,7 oder 5,0)|eine Leistung, die wegen erheblicher Mängel den<br>Anforderungen nicht mehr genügt.|
+|nicht ausreichend<br>|= (4,3 oder 4,7 oder 5,0)<br>|eine Leistung, die wegen erheblicher Mängel den<br>Anforderungen nicht mehr genügt.<br>|
 
 
 

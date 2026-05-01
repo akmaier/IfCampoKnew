@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 30th of March 2017"
 pdf_source: http://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/StuOPrO-MA-PhysicActHealth-Maerz2017_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:16:52+00:00
+scraped_at: 2026-05-01T08:16:35+00:00
 page_count_chars: 63574
 ---
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AES-BA%20WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:12:35+00:00
-page_count_chars: 30134
+scraped_at: 2026-05-01T09:23:11+00:00
+page_count_chars: 30074
 ---
 
 # 30. Juli 2010
@@ -612,42 +612,52 @@ Es wird folgender neuer § 29 eingefügt:
 ||||||||||||
 |**Bachelor in Wirtschaftsinformatik (WInf)**|||||**Semester**||||||
 ||||||**1**|**2**|**3**|**4**|**5**|**6**|
-||||ECTSECTSECTSECTSECTSECTSECTS||ECTSECTSECTSECTSECTSECTSECTS|ECTSECTSECTSECTSECTSECTSECTS|ECTSECTSECTSECTSECTSECTSECTS|ECTSECTSECTSECTSECTSECTSECTS|ECTSECTSECTSECTSECTSECTSECTS|ECTSECTSECTSECTSECTSECTSECTS|
-|**Pflichtbereich(Methodenkompetenz)**<br>**40**<br>BWL<br>5<br>Buchführung<br>5<br>Wirtschaftsinformatik<br>5<br>IT und E-Business für Wirtschaftsinformatik<br>5<br>Mathematik<br>10<br>Mathematik<br>10<br>Informatik<br>20<br>Algorithmen und Datenstrukturen<br>10|||||5<br>5<br>10|10<br>5|5||||
-|||||5<br>5<br>5<br>5<br>10<br>10<br>20<br>10|||||||
+|||||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Pflichtbereich(Methodenkompetenz)**||||**40**|||||||
+|BWL<br>Buchführung<br>Wirtschaftsinformatik<br>IT und E-Business für Wirtschaftsinformatik<br>Mathematik||||5<br>5<br>5<br>5<br>10<br>10<br>20<br>10|||||||
+||||||5||||||
 ||||||||||||
-||Theoretische Informatik für Wirtschaftsinformatik|||5|||||||
+||||||5||||||
+||||||||||||
+||Mathematik|||||10|||||
+|Informatik<br>Algorithmen und Datenstrukturen|||||||||||
+||||||10||||||
+||Theoretische Informatik für Wirtschaftsinformatik|||5||5|5||||
 ||Grundlagen der Logik und Logikprogrammierung|||5|||||||
-|**Kernbereich(Fachkompetenz)**<br>**97,5**<br>BWL<br>15<br>Unternehmer und Unternehmen<br>5|||||||||||
-|||||15<br>5|5<br>5|5<br>5<br>5|5<br>5<br>5<br>5<br>7,5|5<br>5<br>5<br>5|5<br>5<br>5<br>5|5|
+|**Kernbereich(Fachkompetenz)**||||**97,5**|||||||
+|BWL<br>Unternehmer und Unternehmen||||15<br>5|||||||
+||||||5||||||
+||Absatz|||5||5|||||
+|||||5<br>45<br>5|||5||||
 ||||||||||||
-||Absatz|||5|||||||
-|||||5<br>45<br>5|||||||
-||||||||||||
+||||||||5<br>5|5<br>5<br>5|5<br>5<br>5|5|
 ||Allgemeine WI3: IT-Management|||5|||||||
 ||Allgemeine WI2: E-Business-Management|||5|||||||
-||Spezielle WI1: Technologie- und Projektmanag. im E-Business|||. im E-Business 10|||||||
+||Spezielle WI1: Technologie- und Projektmanag. im E-Business|||10|||||||
 ||Spezielle WI2: Innovations- und Wertschöpfungsmanagement|||10|||||||
 |||||10<br>37,5<br>5|||||||
-||||||||||||
+||||||5|5<br>5|5<br>7,5|5|5||
 ||Parallele und Funktionale Programmierung|||5|||||||
 ||Systemprogrammierung|||10|||||||
 ||Grundlagen der Technischen Informatik|||7,5|||||||
 ||Rechnerkommunikation|||5|||||||
 ||Implementierungvon Datenbanksystemen|||5|||||||
-|**Schlüsselqualifikationen(Sozialkompetenz)**<br>**12,5**<br>Seminar Wirtschaftsinformatik<br>2,5|||||||||||
-|||||2,5||||2,5<br>5||5|
-||Forschungsmethodisches Seminar|||5|||||||
-||Fallstudienseminar *(0/ 5 ECTS;5. oder 6. Semester~~)~~|||5|||||||
+|**Schlüsselqualifikationen(Sozialkompetenz)**<br>**12,5**|||||||||||
+|||Seminar Wirtschaftsinformatik||2,5||||2,5<br>5|||
+|||Forschungsmethodisches Seminar||5|||||||
+|||Fallstudienseminar *(0/ 5 ECTS;5. oder 6. Semester~~)~~||5||||||5|
 |**Vertiefungsbereich**<br>**30**|||||||||||
-|Fachliche Vertiefung<br>Fachvertiefung*(0/ 5/ 10/ 15/ 20 ECTS;5. oder 6. Sem.)||||15<br>0|||||10|15<br>5|
+|Fachliche Vertiefung<br>Fachvertiefung*(0/ 5/ 10/ 15/ 20 ECTS;5. oder 6. Sem.)||||15<br>0|||||||
 ||||||||||||
-|||||15<br>15<br>10|||||||
+|||||15<br>15<br>10||||||15|
 ||||||||||||
-||Planspiel *(0/ 5 ECTS;5. oder 6. Semester)|||5|||||||
+||||||||||10|5|
+|||Planspiel *(0/ 5 ECTS;5. oder 6. Semester)||5|||||||
 ||||ECTS|180|30|30|32,5|27,5|30|30|
 ||||||||||||
+|||Module der Assessmentprüfungsindgrün hinterlegt.|||||||||
 ||||||||||||
+|||*) Wahl zwischen Fachvertiefung, Fallstudienseminar, Praktikum und Planspiel|||||||||
 
 
 

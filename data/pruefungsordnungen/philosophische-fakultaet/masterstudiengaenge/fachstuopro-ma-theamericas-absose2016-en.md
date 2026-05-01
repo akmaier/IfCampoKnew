@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 12th of February 2016"
 pdf_source: https://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/FachStuOPrO-MA-TheAmericas.abSoSe2016_EN.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:20:59+00:00
+scraped_at: 2026-05-01T08:23:18+00:00
 page_count_chars: 9381
 ---
 

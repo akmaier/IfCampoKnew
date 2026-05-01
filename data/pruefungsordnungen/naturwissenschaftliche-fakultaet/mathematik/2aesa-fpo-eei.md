@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "4. November 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-FPO-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T15:02:02+00:00
+scraped_at: 2026-05-01T07:55:14+00:00
 page_count_chars: 6063
 ---
 

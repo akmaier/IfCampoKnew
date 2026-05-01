@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Indogermanistik und Indoiranistik Zwei-Fach FPO Indo 20250131.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Indogermanistik_und_Indoiranistik/konsolidierte_Fassungen/Indogermanistik und Indoiranistik_Zwei-Fach_FPO Indo_20250131.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:56:36+00:00
+scraped_at: 2026-05-01T09:00:52+00:00
 page_count_chars: 14940
 ---
 

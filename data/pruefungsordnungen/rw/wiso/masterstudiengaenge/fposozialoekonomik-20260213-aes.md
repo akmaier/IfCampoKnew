@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOSozialökonomik 20260213 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/Aenderungssatzungen/FPOSozialökonomik_20260213_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:34:43+00:00
-page_count_chars: 14848
+scraped_at: 2026-05-01T09:41:59+00:00
+page_count_chars: 16195
 ---
 
 # FPOSozialökonomik 20260213 ÄS.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/Aenderungssatzungen/FPOSozialökonomik_20260213_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPOSozialökonomik – Vom 13. Februar 2026** 
 
@@ -50,6 +54,10 @@ aa) In Satz 1 erhält die Aufzählung in den lit. a) bis d) folgende neue Fassun
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - a) In Abs. 2 Satz 6 werden die Worte „dem Modulhandbuch“ durch die Worte „der jeweiligen Modulbeschreibung“ ersetzt. 
 
 - b) In Abs. 3 wird nach Satz 1 folgender neuer Satz „2“ eingefügt; die bisherigen Sätze 2 bis 6 werden zu Sätzen 3 bis 7: 
@@ -74,36 +82,62 @@ aa) In Satz 1 erhält die Aufzählung in den lit. a) bis d) folgende neue Fassun
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 5. Die bisher einzige **Anlage** wird zu **Anlage 1** und erhält folgende neue Fassung: 
 
-## „ 
+„ 
 
 ## **Anlage 1: Studienverlaufsplan Master Sozialökonomik Vollzeit** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Art und Umfang der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**|**VP**|||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
-|**Interdisziplinäres**<br>**Einführungsmodul**|||||||||||||||
-|SCoPE – Ringvorlesung Sozi-<br>alökonomik|SCoPE – Ringvorlesung<br>Sozialökonomik|2||||||**5**|5||||Performance Assessment (0%),<br>Klausur (0%),<br>Mündliche Prüfung (0%)_oder_<br>Referat/Präsentation (0%)1|0|
-|**Sozialökonomischer**<br>**Pflichtbereich**||||||||**60**|||||||
-|**Sozialwissenschaftliche**<br>**Grundlagen**||||||||**15**|||||||
-|Media Psychology & Effects|Media Psychologie &<br>Effects|2||||||5|5||||Klausur (90 Minuten)|1|
-|Personalpsychologie|Personalpsychologie|2||||||5|5||||Klausur (90 Minuten, 100%)und<br>Versuchspersonenstunde (0%)|1|
-||Übung zur Personalpsy-<br>chologie||1||||||||||||
-||Versuchspersonenstunde<br>zur Personalpsychologie1||||||0,52||||||||
-|Soziologische Forschungs-<br>probleme und Forschungs-<br>designs|Soziologie – Forschungs-<br>probleme und For-<br>schungsdesigns||||3|||5|5||||Klausur (60 Minuten) (100%)<br>und<br>Performance Assessment (0%)|1|
+|**Modulbezeichnung**|**Lehrveranstaltung**||||||**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**f  f**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||**SWS**||||||||||
+|||||||||||||||
+|||**V**||||||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|**Art und Umang der Prüung**||
+||||**Ü**|**P**|**S**|**VP**||||||||
+||||||||||**Sem.**|**Sem.**|**Sem.**|||
+|||||||||||||||
+|**Interdisziplinäres**<br>**Einführungsmodul**||||||||||||||
+|||||||||||||||
+|||||||||||||||
+|SCoPE – Ringvorlesung Sozi-<br>alökonomik|SCoPE – Ringvorlesung<br>Sozialökonomik|2|||||**5**|5||||Performance Assessment (0%),<br>Klausur (0%),<br>Mündliche Prüfung (0%)_oder_<br>Referat/Präsentation (0%)1|0|
+|**Sozialökonomischer**<br>**Pflichtbereich**|||||||**60**|||||||
+|||||||||||||||
+|||||||||||||||
+|**Sozialwissenschaftliche**<br>**Grundlagen**|||||||**15**|||||||
+|||||||||||||||
+|||||||||||||||
+|Media Psychology & Effects|Media Psychologie &<br>Effects|2|||||5|5||||Klausur (90 Minuten)|1|
+|Personalpsychologie|Personalpsychologie<br>Übung zur Personalpsy-|2|1||||5|5||||Klausur (90 Minuten, 100%)und<br>Versuchspersonenstunde (0%)|1|
+||chologie<br>Versuchspersonenstunde<br>zur Personalpsychologie1|||||0,52||||||||
+|Soziologische Forschungs-<br>probleme und Forschungs-<br>designs|Soziologie – Forschungs-<br>probleme und For-<br>schungsdesigns||||3||5|5||||Klausur (60 Minuten) (100%)<br>und<br>Performance Assessment (0%)|1|
 
 
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Methodische**<br>**Grundlagen**|||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||||
+||||||||||||||||
 |Ökonometrie|Ökonometrie|2||||||5|5||||Klausur (90 Minuten)|1|
 ||Ökonometrie||2||||||||||||
-|Vertiefung Methoden, vgl. § 5<br>Abs. 2|Vgl. § 5 Abs. 5|||||||5|||5||Vgl. § 5 Abs. 4|1|
-|Angewandte Methoden, vgl. §<br>5 Abs. 2|Vgl. § 5 Abs. 5|||||||5||5|||Vgl. § 5 Abs. 4|1|
+|Vertiefung Methoden, vgl. § 5<br>Abs. 2|Vgl. §|||||||5|||5||Vgl. § 5 Abs. 4|1|
+|||5 Abs. 5|||||||||||||
+||||||||||||||||
+|Angewandte Methoden, vgl. §<br>5 Abs. 2|Vgl. §|||||||5||5|||Vgl. § 5 Abs. 4|1|
+|||5 Abs. 5|||||||||||||
+||||||||||||||||
 |**Wirtschaftswissenschaft-**<br>**liche Grundlagen**||||||||**10**|||||||
+||||||||||||||||
+||||||||||||||||
 |Mikroökonomie und<br>Spieltheorie|Mikroökonomie und<br>Spieltheorie|2||||||5|5||||Klausur (60 Minuten, 80%)<br>und<br>Präsentation (20%)|1|
 ||Mikroökonomie und<br>Spieltheorie||2||||||||||||
 |Spezielle VWL **oder**<br>Spezielle BWL|Vgl. § 5 Abs. 5||5|||||5||5|||Vgl. § 5 Abs. 3|1|
@@ -117,6 +151,10 @@ aa) In Satz 1 erhält die Aufzählung in den lit. a) bis d) folgende neue Fassun
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |Seminar zur Organisationspsy-<br>chologie|Seminar zur Organisati-<br>onspsychologie||||2||5|||5||Hausarbeitund<br>Präsentation|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Kommunikation in der digitalen<br>Arbeitswelt|Kommunikation der digi-<br>talen Arbeitswelt||||2||5||5|||Hausarbeitund<br>Präsentation|1|
@@ -127,8 +165,10 @@ aa) In Satz 1 erhält die Aufzählung in den lit. a) bis d) folgende neue Fassun
 |**Masterarbeit**||||||||||||||
 |Masterarbeit|Seminar zur Masterarbeit||||2||30||||30|Masterarbeit (100%)und<br>Präsentation (0%)|1|
 ||Masterarbeit||||0|||||||||
-|**Summe SWS und ECTS-Punkte:**||**6**|**5**|**0**|**23**|**0,52 **|**120**|**30**|**30**|**30**|**30**|||
-|||**34,5**||||||||||||
+|**Summe SWS und ECTS-Punkte:**||||||**2**||||||||
+|||**6**|**5**|**0**|**23**|**0,5 **|**120**|**30**|**30**|**30**|**30**|||
+|||**345**||||||||||||
+|||**,**||||||||||||
 
 
 
@@ -144,15 +184,24 @@ aa) In Satz 1 erhält die Aufzählung in den lit. a) bis d) folgende neue Fassun
 
 5 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 6. Nach **Anlage 1** (neu) wird folgende neue **Anlage 2** angefügt: 
 
 ## „ 
 
 ## **Anlage 2: Studienverlaufsplan Master Sozialökonomik in Teilzeit** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**||||||**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**|**VP**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
+|||||**SWS**||||||||||||||
+|||||||||||<br>**in ECTS-Punkten **||||||||
+|||||||||||||||||||
+|||**V**||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
+||||**Ü**|**P**|**S**|**VP**||||||||||||
+|||||||||||||||||||
 |**Interdisziplinäres Einführungsmodul**|||||||**5**|||||||||||
 |SCoPE – Ringvorlesung<br>Sozialökonomik|SCoPE – Ringvorlesung<br>Sozialökonomik|2|||||**5**|5||||||||Performance<br>Assessment (0%),<br>Klausur (0%),<br>Mündliche Prüfung (0%)<br>_oder_<br>Referat/Präsentation<br>(0%) 1|0|
 |**Sozialökonomischer Pflichtbereich**|||||||**60**|||||||||||
@@ -166,6 +215,10 @@ aa) In Satz 1 erhält die Aufzählung in den lit. a) bis d) folgende neue Fassun
 
 
 6 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**Methodische Grundlagen**|||||||**15**|||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -187,6 +240,10 @@ aa) In Satz 1 erhält die Aufzählung in den lit. a) bis d) folgende neue Fassun
 
 
 7 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |Kommunikation in der digitalen<br>Arbeitswelt|Kommunikation in der digi-<br>talen Arbeitswelt||||2||**5**|||||5||||Hausarbeitund<br>Präsentation|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -213,6 +270,10 @@ aa) In Satz 1 erhält die Aufzählung in den lit. a) bis d) folgende neue Fassun
 ## „ 
 
 8 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 2** 
 

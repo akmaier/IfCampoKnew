@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Evangelische Theologie StuPO EvTheol 20230314 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Theologie/Evangelische_Theologie/Aenderungssatzungen/Evangelische_Theologie_StuPO_EvTheol_20230314_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:32:22+00:00
-page_count_chars: 16338
+scraped_at: 2026-05-01T08:40:51+00:00
+page_count_chars: 16448
 ---
 
 # Evangelische Theologie StuPO EvTheol 20230314 ÄS.pdf
@@ -222,7 +222,11 @@ cc) Die bisherigen Sätze 2 bis 4 werden zu Abs. 2 Sätzen 1 bis 3.
 
 8 
 
+**==> picture [705 x 455] intentionally omitted <==**
+
 9 
+
+**==> picture [714 x 455] intentionally omitted <==**
 
 10 
 

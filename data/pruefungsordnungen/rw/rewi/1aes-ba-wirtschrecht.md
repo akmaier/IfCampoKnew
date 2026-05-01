@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Februar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES BA-WirtschRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:09:36+00:00
+scraped_at: 2026-05-01T09:18:10+00:00
 page_count_chars: 7228
 ---
 

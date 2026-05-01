@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "ABMPO-NatFak 20200827 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_NatFak/Aenderungssatzungen/ABMPO-NatFak_20200827_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/
-scraped_at: 2026-04-25T14:39:46+00:00
+scraped_at: 2026-05-01T07:29:57+00:00
 page_count_chars: 13886
 ---
 

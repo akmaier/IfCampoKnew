@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "29. November 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/4AES%20LA-Deutsch_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:22:47+00:00
+scraped_at: 2026-05-01T07:04:30+00:00
 page_count_chars: 7061
 ---
 

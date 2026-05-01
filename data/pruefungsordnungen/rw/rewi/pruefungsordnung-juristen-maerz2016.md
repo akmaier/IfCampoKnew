@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 14.10.2004 i.d.F. 11.03.2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/Pruefungsordnung_Juristen.Maerz2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:07:50+00:00
+scraped_at: 2026-05-01T09:17:09+00:00
 page_count_chars: 42262
 ---
 

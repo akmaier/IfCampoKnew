@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Islamisch-Religiöse Studien FPOIRS 20150515 i.d.F. 20190802.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Islamisch-_Religioese_Studien/konsolidierte_Fassungen/MA_Islamisch-Religioese_Studien_FPOIRS_20150515_idF_20190802.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:25:19+00:00
+scraped_at: 2026-05-01T08:30:21+00:00
 page_count_chars: 7333
 ---
 

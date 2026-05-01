@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOSozialökonomik 20241122 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/Aenderungssatzungen/FPOSozialökonomik_20241122_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:34:44+00:00
-page_count_chars: 2791
+scraped_at: 2026-05-01T09:42:00+00:00
+page_count_chars: 3125
 ---
 
 # FPOSozialökonomik 20241122 ÄS.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/Aenderungssatzungen/FPOSozialökonomik_20241122_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOSozialökonomik –** 
 
@@ -28,18 +32,22 @@ Nach Abs. 2 wird folgender neuer Abs. 3 angefügt:
 
 „(3)[1] Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden.“ 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 2. Die Tabelle in der **Anlage** wird wie folgt geändert: 
 
 - a) In Zeile 1 wird in Spalte 3 (SWS) eine neue Unterspalte 5 (VP) angefügt. 
 
 - b) Zeile 5 (Modul Personalpsychologie) wird gestrichen und durch folgende neue Zeile 5 ersetzt: 
 
-„ 
+## „ 
 
-|Personalpsychologie|Personalpsychologie|2|||||5|5||||Klausur (90<br>Min., 100 %)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Übung zur Personalpsychologie1||1|||||||||||
-||Versuchspersonenstunde zur Per-<br>sonalpsychologie1|||||0,5||||||||
+||Personalpsychologie|Personalpsychologie|2|||||5|5||||Klausur (90<br>Min., 100 %)|1|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||Übung zur Personalpsychologie1||1|||||||||||
+|||Versuchspersonenstunde zur Per-<br>sonalpsychologie1|||||0,5||||||||
 
 
 
@@ -58,6 +66,10 @@ Nach Abs. 2 wird folgender neuer Abs. 3 angefügt:
 - h) Unter der Tabelle in der **Anlage** wird folgende neue Fußnote 1 eingefügt: 
 
 „[1 ] Bei der Versuchspersonenstunde (VP) und der Übung (Ü) besteht Anwesenheitspflicht. Die Teilnahme an der VP und der Ü ist Voraussetzung zum Bestehen des Moduls. Näheres regelt das Modulhandbuch.“ 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - i) Die bisherige Fußnote 1 wird zur neuen Fußnote 2, die bisherige Fußnote 2 wird zur neuen Fußnote 3. 
 

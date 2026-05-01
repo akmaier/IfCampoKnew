@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "<25"
 besondere_studienformen: "Internationales Studienangebot, Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-04-25T14:14:38+00:00
+scraped_at: 2026-05-01T06:51:08+00:00
 ---
 
 # Sustainability Management (MBA)
@@ -141,7 +141,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.wiso.rw.fau.de/)
 - [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [FAU/Giulia Iannicelli](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Sustainability-Management-scaled-1.jpg)
+- [FAU/Giulia Iannicelli](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Sustainability-Management-scaled-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

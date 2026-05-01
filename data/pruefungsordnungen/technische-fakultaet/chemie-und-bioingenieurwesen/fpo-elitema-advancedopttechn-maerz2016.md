@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 8 of March 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/pdf-englisch/FPO_EliteMA_AdvancedOptTechn_Maerz2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:47:40+00:00
+scraped_at: 2026-05-01T09:57:08+00:00
 page_count_chars: 21527
 ---
 

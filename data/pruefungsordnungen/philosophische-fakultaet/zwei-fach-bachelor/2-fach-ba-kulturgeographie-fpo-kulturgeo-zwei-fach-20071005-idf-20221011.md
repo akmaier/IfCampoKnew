@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Kulturgeographie FPO Kulturgeo Zwei-Fach 20071005 i.d.F. 20221011.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Kulturgeographie/konsolidierte_Fassungen/2-Fach-BA_Kulturgeographie_FPO_Kulturgeo_Zwei-Fach_20071005_idF_20221011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:58:16+00:00
+scraped_at: 2026-05-01T09:03:36+00:00
 page_count_chars: 21523
 ---
 

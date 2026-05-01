@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "15. Februar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES BA Bio + MA ZellMolek.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:40:25+00:00
+scraped_at: 2026-05-01T07:30:47+00:00
 page_count_chars: 29123
 ---
 

@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-04-25T14:09:40+00:00
+scraped_at: 2026-05-01T06:43:19+00:00
 ---
 
 # Chemie (Lehramt)

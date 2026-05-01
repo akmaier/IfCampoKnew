@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "Eignungsfeststellungsverfahren"
 pdf_source: https://www.doc.zuv.fau.de//L1/Regelungen_zum_Studium/Eignungspruefungen/Technische_Fakultaet/CEP/konsolidierte_Fassungen/EFV_BSc_Clean_Energy_Processes_20210304_idF_20260115.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:49:51+00:00
-page_count_chars: 16541
+scraped_at: 2026-05-01T10:00:11+00:00
+page_count_chars: 14671
 ---
 
 # Eignungsfeststellungsverfahren
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/Regelungen_zum_Studium/Eignungspruefungen/Technische_Fakultaet/CEP/konsolidierte_Fassungen/EFV_BSc_Clean_Energy_Processes_20210304_idF_20260115.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **Der Text dieser Satzung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Referat L 1 einsehbare Text.** 
 
@@ -38,6 +42,10 @@ Aufgrund von Art. 13 Abs. 1 und Art. 44 Abs. 1 und 4 des Bayerischen Hochschulge
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 lehrer sein, das andere Mitglied kann auch eine hauptberuflich im Dienst der FAU stehende wissenschaftliche Mitarbeiterin bzw. wissenschaftlicher Mitarbeiter sein, die bzw. der gemäß § 9 der Allgemeinen Studien- und Prüfungsordnung für die Bachelorund Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **ABMPO/TF** – in der jeweils geltenden Fassung zur Abnahme von Prüfungen am Department CBI berechtigt ist.[3] Sämtliche Mitglieder inklusive der bzw. dem Vorsitzenden sowie jeweils eine Stellvertreterin bzw. ein Stellvertreter für die bzw. den Vorsitzenden und jedes weitere Mitglied werden vom Fakultätsrat der Technischen Fakultät für eine Amtszeit von drei Jahren bestellt; Wiederbestellung ist möglich.[4] Die Kommission kann für die Durchführung der Einzelgespräche gemäß § 6 Abs. 2 an der Technischen Fakultät hauptberuflich tätige oder aus der Technischen Fakultät heraus pensionierte/emeritierte Hochschullehrerinnen bzw. Hochschullehrer sowie hauptberuflich im Dienst der FAU stehende wissenschaftliche Mitarbeiterinnen bzw. Mitarbeiter als Prüfende bestellen, wenn sie gemäß § 12 **ABMPO/TF** zur Abnahme von Prüfungen berechtigt sind.[5] Für den Geschäftsgang gilt Art. 41 **BayHSchG** i. V. m. § 30 **Grundordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** vom 20. Juni 2007 in der jeweils geltenden Fassung. 
 
 ## **§ 3 Zulassung zum Eignungsfeststellungsverfahren** 
@@ -61,6 +69,10 @@ lehrer sein, das andere Mitglied kann auch eine hauptberuflich im Dienst der FAU
 (2)[1] Die Durchschnittsnote der HZB wird in einen Punktewert HZB auf einer Skala von 0 bis 100 umgerechnet, wobei 0 die schlechteste und 100 die beste mögliche Bewertung darstellt.[2] Die Skala ist so zu wählen, dass eine gerade noch bestandene HZB mit 40 Punkten bewertet wird (Bewertungsskala s. **Anlage** ).[3] Bei einem Notensystem, das von dem in Deutschland üblichen Notenschema abweicht, erfolgt eine entsprechende Umrechnung gemäß Ziffer 2 der **Anlage** . 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 5 Erste Stufe des Eignungsfeststellungsverfahrens** 
 
@@ -89,6 +101,10 @@ lehrer sein, das andere Mitglied kann auch eine hauptberuflich im Dienst der FAU
 (2)[1] Das Auswahlgespräch wird in englischer Sprache geführt.[2] Der Termin des Auswahlgesprächs wird mindestens eine Woche vorher bekannt gegeben.[3] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.[4] Das Auswahlgespräch wird in der Regel als Einzelprüfung mit einem Umfang von ca. 15 Minuten durchgeführt; es kann auch als Gruppenprüfung mit maximal fünf Bewerberinnen bzw. Bewerbern und einem Umfang von je ca. 15 Minuten pro Bewerberin bzw. Bewerber erfolgen.[5] Das Auswahlgespräch kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden.[6] Es wird von mindestens einem Mitglied der Auswahlkommission nach § 2 in Anwesenheit einer Beisitzerin bzw. eines Beisitzers durchgeführt oder einer bzw. einem gemäß § 2 Satz 4 bestellten Prüfenden in Anwesenheit einer Beisitzerin bzw. eines Beisitzers gemäß § 12 Abs. 3 **ABMPO/TF** ; § 20 Abs. 5 **ABMPO/TF** gilt entsprechend.[7] Das Auswahlgespräch soll insbesondere zeigen, ob die Bewerberin bzw. der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbstständig und verantwortungsbewusst zu erreichen. 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - (3)[1] In dem Auswahlgespräch nach Abs. 2 werden die Bewerberinnen bzw. Bewerber auf Basis folgender Kriterien beurteilt: 
 
@@ -126,67 +142,79 @@ Ein erfolgloses Eignungsfeststellungsverfahren kann einmalig und frühestens zum
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 **1.** Die Ermittlung des Punktewerts der Durchschnittsnote HZB (gem. § 4 Abs. 2) und der fachspezifischen Einzelnote (gem. § 5 Abs. 1 Nr. 2 und Nr. 3) wird anhand der folgenden Bewertungsskala vorgenommen: 
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Punkte HZB (z. B.**<br>**deutsche Kol-**<br>**legstufennoten)**|**Note**<br>**HZB**|**Punktewert Durch-**<br>**schnittsnote HZB**<br>**(gem. § 4 Abs. 2)**|**Punktewert fachspezifische**<br>**Einzelnote der HZB (gem. § 5**<br>**Abs. 2)**|
 |---|---|---|---|
-|15<br>~~es~~<br>~~ee~~|1,0<br>~~es~~|100<br>~~es~~|100<br>~~es~~|
-|~~es~~<br>~~ee~~<br>~~a~~|1,1<br>~~es~~<br>|98<br>~~es~~<br>|99<br>~~es~~<br>|
-|~~ee~~<br>~~a~~|1,2<br>|96<br><br>~~ns~~|98<br>|
-|14<br>~~ane~~|1,3<br>~~ne~~|94<br>~~ne~~<br>~~ns~~|97<br>~~ne~~|
-|~~ne~~<br>~~es~~|1,4<br>~~ne~~<br>~~es~~|92<br>~~ne~~<br>~~ns~~<br>~~es~~|96<br>~~ne~~<br>~~es~~|
-|~~es~~<br>~~es~~<br>~~ee~~|1,5<br>~~es~~<br>~~es~~|90<br>~~es~~<br>~~es~~|95<br>~~es~~<br>~~es~~|
-|13<br>~~es~~<br>~~ee~~<br>~~a~~|1,6<br>~~es~~<br>|88<br>~~es~~<br>|94<br>~~es~~<br>|
-|~~ee~~<br>~~a~~|1,7<br>|86<br><br>~~ns~~|93<br>|
-|~~ane~~|1,8<br>~~ne~~|84<br>~~ne~~<br>~~ns~~|92<br>~~ne~~|
-|12<br>~~ne~~<br>~~ne~~<br>~~ee~~|1,9<br>~~ne~~<br>~~ne~~|82<br>~~ne~~<br>~~ns~~<br>~~ne~~<br>~~ns~~|91<br>~~ne~~<br>~~ne~~|
-|~~ne~~<br>~~es~~<br>~~ee~~|2,0<br>~~ne~~<br>~~es~~|80<br>~~ne~~<br>~~es~~<br>~~ns~~|90<br>~~ne~~<br>~~es~~|
-|~~es~~<br>~~ee~~<br>~~a~~|2,1<br>~~es~~<br>|78<br>~~es~~<br>~~ns~~<br>|89<br>~~es~~<br>|
-|11<br>~~ee~~<br>~~a~~|2,2<br>|76<br>~~ns~~<br><br>~~ns~~|88<br>|
-|~~ane~~|2,3<br>~~ne~~|74<br>~~ne~~<br>~~ns~~|87<br>~~ne~~|
-|~~ne~~<br>~~ne~~|2,4<br>~~ne~~<br>~~ne~~|72<br>~~ne~~<br>~~ns~~<br>~~ne~~|86<br>~~ne~~<br>~~ne~~|
-|10<br>~~ne~~<br>~~ee~~<br>~~a~~|2,5<br>~~ne~~<br>~~ee~~<br>|70<br>~~ne~~<br>~~ee~~<br>|85<br>~~ne~~<br>~~ee~~<br>|
-|~~aa~~|2,6<br>|68<br>|84<br>|
-|~~aa~~|2,7<br>|66<br><br>~~ns~~|83<br>|
-|9<br>~~ane~~|2,8<br>~~ne~~|64<br>~~ne~~<br>~~ns~~|82<br>~~ne~~|
-|~~ne~~<br>~~ne~~|2,9<br>~~ne~~<br>~~ne~~|62<br>~~ne~~<br>~~ns~~<br>~~ne~~|81<br>~~ne~~<br>~~ne~~|
-|~~ne~~<br>~~ee~~<br>~~a~~|3,0<br>~~ne~~<br>~~ee~~<br>|60<br>~~ne~~<br>~~ee~~<br>|80<br>~~ne~~<br>~~ee~~<br>|
-|8<br>~~aa~~|3,1<br>|58<br>|79<br>|
-|~~aa~~|3,2<br>|56<br><br>~~ns~~|78<br>|
-|~~ane~~|3,3<br>~~ne~~|54<br>~~ne~~<br>~~ns~~|77<br>~~ne~~|
-|7<br>~~ne~~|3,4<br>~~ne~~|52<br>~~ns~~<br>~~ne~~|76<br>~~ne~~|
-|~~ee~~<br>~~a~~|3,5<br>~~ee~~<br>|50<br>~~ee~~<br>|75<br>~~ee~~<br>|
-|~~a~~|3,6<br>|48<br><br>~~ns~~|74<br>|
-|6<br>~~ane~~|3,7<br>~~ne~~|46<br>~~ne~~<br>~~ns~~|73<br>~~ne~~|
-|~~ne~~|3,8<br>~~ne~~|44<br>~~ns~~<br>~~ne~~|72<br>~~ne~~|
-|~~ne~~|3,9<br>~~ne~~|42<br>~~ne~~|71<br>~~ne~~|
-|5<br>~~ee~~<br>~~a~~|4,0<br>~~ee~~<br>|40<br>~~ee~~<br>|70<br>~~ee~~<br>|
-|~~a~~|4,1<br>|38<br><br>~~ns~~|0<br>|
-|~~ane~~|4,2<br>~~ne~~|36<br>~~ne~~<br>~~ns~~|0<br>~~ne~~|
-|4<br>~~ne~~|4,3<br>~~ne~~|34<br>~~ns~~<br>~~ne~~|0<br>~~ne~~|
-|~~ne~~|4,4<br>~~ne~~|32<br>~~ne~~|0<br>~~ne~~|
-|~~ee~~<br>~~a~~|4,5<br>~~ee~~<br>|30<br>~~ee~~<br>|0<br>~~ee~~<br>|
-|3<br>~~a~~|4,6<br>|28<br><br>~~ns~~|0<br>|
-|~~ane~~|4,7<br>~~ne~~|26<br>~~ne~~<br>~~ns~~|0<br>~~ne~~|
-|~~ne~~|4,8<br>~~ne~~|24<br>~~ns~~<br>~~ne~~|0<br>~~ne~~|
-|2<br>~~ee~~<br>~~aa~~|4,9<br>~~ee~~<br>|22<br>~~ee~~<br>|0<br>~~ee~~<br>|
-|~~aa~~|5,0<br>|20<br>|0<br>|
-|~~aa~~|5,1<br>|18<br><br>~~ns~~|0<br>|
-|1<br>~~aane~~|5,2<br>~~ne~~|16<br>~~ne~~<br>~~ns~~|0<br>~~ne~~|
-|~~ne~~|5,3<br>~~ne~~|14<br>~~ns~~<br>~~ne~~|0<br>~~ne~~|
-|~~ee~~<br>~~aa~~|5,4<br>~~ee~~<br>|12<br>~~ee~~<br>|0<br>~~ee~~<br>|
-|0<br>~~aa~~|5,5<br>|10<br>|0<br>|
-|~~aa~~|5,6<br>|8<br><br>~~ns~~|0<br>|
-|~~aane~~|5,7<br>~~ne~~|6<br>~~ne~~<br>~~ns~~|0<br>~~ne~~|
-|~~ne~~|5,8<br>~~ne~~|4<br>~~ns~~<br>~~ne~~|0<br>~~ne~~|
-|~~ee~~|5,9<br>~~ee~~|2<br>~~ee~~|0<br>~~ee~~|
-|~~ee~~|6,0<br>~~ee~~|0<br>~~ee~~|0<br>~~ee~~|
+|15|1,0|100|100|
+||1,1|98|99|
+||1,2|96|98|
+|14|1,3|94|97|
+||1,4|92|96|
+||1,5|90|95|
+|13|1,6|88|94|
+||1,7|86|93|
+||1,8|84|92|
+|12|1,9|82|91|
+||2,0|80|90|
+||2,1|78|89|
+|11|2,2|76|88|
+||2,3|74|87|
+||2,4|72|86|
+|10|2,5|70|85|
+||2,6|68|84|
+||2,7|66|83|
+|9|2,8|64|82|
+||2,9|62|81|
+||3,0|60|80|
+|8|3,1|58|79|
+||3,2|56|78|
+||3,3|54|77|
+|7|3,4|52|76|
+||3,5|50|75|
+||3,6|48|74|
+|6|3,7|46|73|
+||3,8|44|72|
+||3,9|42|71|
+|5|4,0|40|70|
+||4,1|38|0|
+||4,2|36|0|
+|4|4,3|34|0|
+||4,4|32|0|
+||4,5|30|0|
+|3|4,6|28|0|
+||4,7|26|0|
+||4,8|24|0|
+|2|4,9|22|0|
+||5,0|20|0|
+||5,1|18|0|
+|1|5,2|16|0|
+||5,3|14|0|
+||5,4|12|0|
+|0|5,5|10|0|
+||5,6|8|0|
+||5,7|6|0|
+||5,8|4|0|
+||5,9|2|0|
+||6,0|0|0|
 
 
 
 6 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **2.** Für die Umrechnung aus **anderen numerischen Notensystemen** erfolgt die Umrechnung auf Basis der modifizierten Bayerischen Formel; § 12 Abs. 3 Satz 2 **ABMPO/TF** gilt entsprechend. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 25.03.2009 i.d.F. 28.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Informatik-NEU.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:26:10+00:00
-page_count_chars: 14267
+scraped_at: 2026-05-01T07:10:57+00:00
+page_count_chars: 13568
 ---
 
 # pdf vom 25.03.2009 i.d.F. 28.03.2011
@@ -56,11 +56,11 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |Theoretische Informatik für Lehramtsstudierende|SS|4|2V+2Ü|5|SL+K90|4|
 |Rechnerkommunikation|SS|4|2V+2Ü|5|SL+K90|4|
 |Praktikum|WS|||10|PL lt. MB|5|
-|Grundlagen der Technischen Informatik|WS|6|4V+2Ü|7,5 SL+K120|5 SL+K120|5|
+|Grundlagen der Technischen Informatik|WS|6|4V+2Ü|7,5|SL+K120|5|
 |Systemprogrammierung|WS|8|4V+2Ü+2P|10|SL+K120|7|
 |Wahlpflichtmodul(e) aus der Fachwissenschaft Infor-<br>matik, davon min. 5 ECTS-Punkte aus dem Bereich<br>Datenbanksysteme und Softwaretechnologie||||15|PL lt. MB||
-|Falls das jeweils andere Unterrichtsfach nicht Mathe-<br>matik ist, dann:<br>Mathematik für Naturwissenschaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>Math. Modellbildung und Statistik für Naturwissen-<br>schaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>SL+K50<br>3<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>10<br>PL lt. MB<br>i<br>i<br>i<br>i<br>i<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>~~**'**~~<br>~~**'**~~<br>~~**'**~~<br>~~**'**~~<br>~~**'**~~<br>'|||||||
-|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5 PL lt. MB<br>~~a~~<br>esSs<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>-------------------------------<br>+--+- =- -<br>a et<br>tee<br>'<br>~~'~~<br>~~'~~<br>~~'~~<br>~~'~~<br>~~'~~<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'|||||||
+|Falls das jeweils andere Unterrichtsfach nicht Mathe-<br>matik ist, dann:<br>Mathematik für Naturwissenschaftler*<br>Math. Modellbildung und Statistik für Naturwissen-<br>schaftler*<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik|WS<br>4<br>WS<br>4||3V+1Ü<br>3V+1Ü|5<br>5<br>10|K90<br>1<br>SL+K50<br>3<br>PL lt. MB||
+|Falls die schriftliche Hausarbeit gem. § 5 (3) im Fach<br>oder in der Fachdidaktik Informatik angefertigt wird,<br>dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik|SS<br>2||2S|2,5<br>2,5|SV<br>6<br>PL lt. MB||
 |**Summe**||||**95**|||
 
 
@@ -95,31 +95,28 @@ In den **Erläuterungen** : HMA: Gesamtnote wird gebildet aus schriftl. Hausaufg
 
 (4) Falls das **studienbegleitende fachdidaktische Praktikum** im Studium des Lehramts an Gymnasien in Informatik belegt wird, ist folgendes Modul erfolgreich abzulegen: 
 
-|Studienbegleitendes fachdidaktisches Praktikum Informatik für<br>das Lehramt an Gymnasien|SS/WS|4|2P+2S|5|SL|8|
-|---|---|---|---|---|---|---|
-
-
+Studienbegleitendes fachdidaktisches Praktikum Informatik für SS/WS 4 2P+2S 5 SL 8 das Lehramt an Gymnasien 
 
 (5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studiensemestern absolviert werden. 
 
 ## **3. Lehramt an Realschulen** 
 
-## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
+**§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
 (1) Im Studium des Faches Informatik für das Lehramt an Realschulen sind im Bereich der **Fachwissenschaft** folgende Module erfolgreich abzulegen: 
 
 |**Modul**|**Angebot**|**SWS (Summe)**|**SWS (Auftei-**<br>**lung)**|**ECTS-Punkte**|**Studien- und**<br>**Prüfungs-**<br>**leistung**|**Semester**|
 |---|---|---|---|---|---|---|
-|Algorithmen und Datenstrukturen|WS|8 4V+2Ü+2P|8 4V+2Ü+2P|10|SL+K120|1|
+|Algorithmen und Datenstrukturen|WS|8|4V+2Ü+2P|<br>10|SL+K120|1|
 |Parallele und Funktionale Programmierung|SS|4|2V+2Ü|5|K60|2|
 |Konzeptionelle Modellierung|SS|4|2V+2Ü|5|K90|2|
 |Implementierungvon Datenbanksystemen|WS|4|2V+2Ü|5|K90|3|
 |Softwareentwicklungin Großprojekten|WS|4|2V+2Ü|5|K90|3|
 |Theoretische Informatik für Lehramtsstudierende|SS|4|2V+2Ü|5|SL+K90|4|
 |Praktikum|WS|||10|PL lt. MB|5|
-|Wahlpflichtmodul aus der Fachwissenschaft Informatik||||2,5 PL lt. MB|5 PL lt. MB||
-|Falls das jeweils andere Unterrichtsfach nicht Mathematik<br>ist, dann:<br>Mathematik für Naturwissenschaftler*<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>Math. Modellbildung und Statistik für Naturwissenschaftler *<br>WS<br>4<br>3V+1Ü<br>5<br>SL+K50<br>3<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>10<br>PL lt. MB<br>i<br>i<br>i<br>i<br>i<br>i<br>'<br>'<br>'<br>'<br>'<br>'<br>‘<br>‘<br>‘<br>‘<br>‘<br>‘<br>een?<br>Senet Sent eee eet Sen See eee ee<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>--------------------------- +--+<br>=<br>5<br>en en en en<br>nn<br>nn nn<br>tn<br>nn nn tin<br>tn<br>nn<br>nn<br>ne<br>ee<br>4<br>- ==<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>‘<br>‘<br>‘<br>‘<br>‘<br>‘|||||||
-|Falls die schriftliche Hausarbeit gem. § 6 (3) im Fach oder in<br>der Fachdidaktik Informatik angefertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>2,5 PL lt. MB<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>ee<br>aeSees an.<br>iSeeS~~e~~<br>|<br>fi<br>**1**<br>t<br>r<br>f<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1|||||||
+|Wahlpflichtmodul aus der Fachwissenschaft Informatik||||2,5|PL lt. MB||
+|Falls das jeweils andere Unterrichtsfach nicht Mathematik<br>ist, dann:<br>Mathematik für Naturwissenschaftler*<br>Math. Modellbildung und Statistik für Naturwissenschaftler *<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik|WS<br>4<br>WS<br>4||3V+1Ü<br>3V+1Ü|5<br>5<br>10|K90<br>1<br>SL+K50<br>3<br>PL lt. MB||
+|Falls die schriftliche Hausarbeit gem. § 6 (3) im Fach oder in<br>der Fachdidaktik Informatik angefertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik|SS<br>2||2S|2,5<br>2,5|SV<br>6<br>PL lt. MB||
 |**Summe**||||**60**|||
 
 
@@ -128,9 +125,30 @@ In den **Erläuterungen** : HMA: Gesamtnote wird gebildet aus schriftl. Hausaufg
 
 3 
 
-(2) Im Bereich **Fachdidaktik** sind im Fach Informatik im Studium des Lehramts an 
+- (2) Im Bereich **Fachdidaktik** sind im Fach Informatik im Studium des Lehramts an Realschulen folgende Module erfolgreich abzulegen: 
 
-Realschulen folgende Module erfolgreich abzulegen: Didaktik der Informatik I SS 4 2V+2Ü 5 HMA 4 Didaktik der Informatik II SS+WS 4 2V+2Ü 5 SL+K120 5+6 Seminar Didaktik der Informatik SS/WS 2 2S 2,5 HA+SV 5 ~~—~~ **Summe 12,5 Erläuterung** : HA: schriftliche Hausarbeit (3) Falls die **Schriftliche Hausarbeit** im Studium des Lehramts an Realschulen im Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module erfolgreich abzulegen: Schriftliche Hausarbeit SS/WS 10 HA 6 Begleitseminar (ECTS-Punkte zählen zur FachSS/WS 2 2S 2,5 SV 6 ~~i~~ wissenschaft Informatik, s. § 6 (1)) (4) Falls das **studienbegleitende fachdidaktische Praktikum** im Studium des Lehramts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich abzulegen: Studienbegleitendes fachdidaktisches PraktiSS/WS 4 2P+2S 5 SL 6 ~~ee~~ kum Informatik für das Lehramt an Realschulen 
+|Didaktikder Informatik I|SS|4|2V+2Ü|5|HMA|4|
+|---|---|---|---|---|---|---|
+|Didaktikder Informatik II|SS+WS|4|2V+2Ü|5|SL+K120|5+6|
+|Seminar Didaktik der Informatik|SS/WS|2|2S|2,5|HA+SV|5|
+|**Summe**||||**12,5**|||
+
+
+
+**Erläuterung** : HA: schriftliche Hausarbeit 
+
+(3) Falls die **Schriftliche Hausarbeit** im Studium des Lehramts an Realschulen im Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module erfolgreich abzulegen: 
+
+|folgreich abzulegen:|||||||
+|---|---|---|---|---|---|---|
+|Schriftliche Hausarbeit|SS/WS|||10|HA|6|
+|Begleitseminar (ECTS-Punkte zählen zur Fach-<br>wissenschaftInformatik, s.§ 6 (1))|SS/WS|2|2S|2,5|SV|6|
+
+
+
+(4) Falls das **studienbegleitende fachdidaktische Praktikum** im Studium des Lehramts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich abzulegen: 
+
+Studienbegleitendes fachdidaktisches PraktiSS/WS 4 2P+2S 5 SL 6 kum Informatik für das Lehramt an Realschulen 
 
 (5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studiensemestern absolviert werden. 
 
@@ -138,17 +156,22 @@ Realschulen folgende Module erfolgreich abzulegen: Didaktik der Informatik I SS 
 
 **§ 7 Inhalt, Aufbau und Gliederung des Studiums** 
 
-|**Modul**<br>~~|~~|**Angebot**<br>~~|~~|**SWS (Summe)**<br>~~|~~|**SWS (Auftei-**<br>**lung)**<br>~~|~~|**ECTS-Punkte**<br>~~|~~|**Studien- und**<br>**Prüfungs-**<br>**leistung**<br>~~|~~|**Semester**<br>~~|~~|
+(1) Im Studium des Faches Informatik für das Lehramt an Hauptschulen sind im Be- 
+
+|reich der**Fachwissenschaft**folgende Module erfolgreich abzulegen:<br>|reich der**Fachwissenschaft**folgende Module erfolgreich abzulegen:<br>|reich der**Fachwissenschaft**folgende Module erfolgreich abzulegen:<br>|reich der**Fachwissenschaft**folgende Module erfolgreich abzulegen:<br>|reich der**Fachwissenschaft**folgende Module erfolgreich abzulegen:<br>|reich der**Fachwissenschaft**folgende Module erfolgreich abzulegen:<br>|reich der**Fachwissenschaft**folgende Module erfolgreich abzulegen:<br>|
 |---|---|---|---|---|---|---|
-|Algorithmen und Datenstrukturen<br>~~|~~|WS<br>~~|~~|8<br>~~|~~|4V+2Ü+2P<br>~~|~~|10<br>~~|~~|SL+K120<br>~~|~~|1<br>~~|~~|
-|Parallele und Funktionale Programmierung<br>~~|~~|SS<br>~~|~~|4<br>~~|~~|2V+2Ü<br>~~|~~|5<br>~~|~~|K60<br>~~|~~|2<br>~~|~~|
+|**Modul**|**Angebot**|**SWS (Summe)**|**SWS (Auftei-**<br>**lung)**|**ECTS-Punkte**|**Studien- und**<br>**Prüfungs-**<br>**leistung**|**Semester**|
+|Algorithmen und Datenstrukturen|WS|8|4V+2Ü+2P|10|SL+K120|1|
+|Parallele und Funktionale Programmierung|SS|4|2V+2Ü|5|K60|2|
 |Konzeptionelle Modellierung|SS|4|2V+2Ü|5|K90|2|
-|Implementierungvon Datenbanksystemen<br>~~=e~~|WS<br>~~=e~~|4<br>~~=e~~|2V+2Ü<br>~~=e~~|5<br>~~=e~~|K90<br>~~=e~~|3<br>~~=e~~|
-|Softwareentwicklungin Großprojekten<br>~~=e~~|WS<br>~~=e~~|4<br>~~=e~~|2V+2Ü<br>~~=e~~|5<br>~~=e~~|K90<br>~~=e~~|3<br>~~=e~~|
-|Theoretische Informatik für Lehramtsstudierende<br>~~=e~~|SS<br>~~=e~~|4<br>~~=e~~|2V+2Ü<br>~~=e~~|5<br>~~=e~~|SL+K90<br>~~=e~~|4<br>~~=e~~|
-|Praktikum<br>~~=e~~|WS<br>~~=e~~|~~=e~~|~~=e~~|10<br>~~=e~~|PL lt. MB<br>~~=e~~|5<br>~~=e~~|
-|Wahlpflichtmodul aus der Fachwissenschaft Informa-<br>tik<br>~~=e~~|~~=e~~|~~=e~~|~~=e~~|2,5<br>~~=e~~|PL lt. MB<br>~~=e~~|~~=e~~|
-|Falls die gewählte Didaktik einer Fächergruppe nicht<br>Mathematik enthält, dann:<br>Mathematik für Naturwissenschaftler<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>5<br>PL lt. MB<br>~~=e~~|||||||
+|Implementierungvon Datenbanksystemen|WS|4|2V+2Ü|5|K90|3|
+|Softwareentwicklungin Großprojekten|WS|4|2V+2Ü|5|K90|3|
+|Theoretische Informatik für Lehramtsstudierende|SS|4|2V+2Ü|5|SL+K90|4|
+|Praktikum|WS|||10|PL lt. MB|5|
+|Wahlpflichtmodul aus der Fachwissenschaft Informa-<br>tik||||2,5|PL lt. MB||
+|Falls die gewählte Didaktik einer Fächergruppe nicht<br>Mathematik enthält, dann:<br>Mathematik für Naturwissenschaftler<br>WS<br>4<br>3V+1Ü<br>5<br>K90<br>1<br>sonst: Wahlpflichtmodul(e)aus dem Fach Informatik<br>5<br>PL lt. MB|||||||
+||||||||
+|Falls die schriftliche Hausarbeit gem. § 7 (3) im<br>Fach oder in der Fachdidaktik Informatik ange-<br>fertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e) aus dem Fach In-<br>formatik<br>2,5<br>PL lt.<br>MB|||||||
 
 
 

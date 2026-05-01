@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 23.03.1993 i.d.F. 10.02.2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/StO_Medizin_alt.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:34:35+00:00
+scraped_at: 2026-05-01T07:24:26+00:00
 page_count_chars: 20958
 ---
 

@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-04-25T14:10:31+00:00
+scraped_at: 2026-05-01T06:45:29+00:00
 ---
 
 # GeoThermie/GeoEnergie (M.Sc.)

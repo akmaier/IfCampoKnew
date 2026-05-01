@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Rahmenprüfungsordnung MPOWIWI 20191120 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Rahmenpruefungsordnung/Aenderungssatzungen/Rahmenprüfungsordnung_MPOWIWI_20191120_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:13:22+00:00
+scraped_at: 2026-05-01T09:24:16+00:00
 page_count_chars: 19872
 ---
 

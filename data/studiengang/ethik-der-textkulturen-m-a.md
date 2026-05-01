@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Elitestudiengang/-programm"
-scraped_at: 2026-04-25T14:10:17+00:00
+scraped_at: 2026-05-01T06:44:51+00:00
 ---
 
 # Ethik der Textkulturen (M.A.)

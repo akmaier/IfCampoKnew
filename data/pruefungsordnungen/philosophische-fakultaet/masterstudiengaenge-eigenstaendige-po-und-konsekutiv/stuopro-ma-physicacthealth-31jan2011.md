@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.09.2007 i.d.F. 31.01.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/StuOPrO-MA-PhysicActHealth-31JAN2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:16:55+00:00
-page_count_chars: 48157
+scraped_at: 2026-05-01T08:16:42+00:00
+page_count_chars: 48219
 ---
 
 # PDF vom 27.09.2007 i.d.F. 31.01.2011
@@ -188,7 +188,21 @@ diese Zusammenhänge einzuordnen vermögen.[2] Mündliche Prüfungen finden, sow
 
 (4)[1] Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen oder Zuhörer zugelassen; auf Verlangen der Prüfungskandidaten werden Zuhörerinnen oder Zuhörer ausgeschlossen.[2] Die Zulassung erstreckt sich nicht auf die Beratung und die Bekanntgabe des Prüfungsergebnisses. 
 
-**§ 17 Bewertung der Prüfungen, Notenstufen, Gesamtnote** (1)[1] Die Urteile über die einzelnen Prüfungen werden von der jeweiligen Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt: **sehr gut** =(1,0 oder 1,3) eine hervorragende Leistung; eine Leistung, die erheblich über den durch- **gut** = (1,7 oder 2,0 oder 2,3) schnittlichen Anforderungen liegt; eine Leistung, die durchschnittlichen Anforderun- **befriedigend** = (2,7 oder 3,0 oder 3,3) gen entspricht; :ii **ausreichend** ii = (3,7 oder 4,0) ii eine Leistung, die trotz ihrer Mängel noch den Anforderungen entspricht; ii eine Leistung, die wegen erheblicher Mängel den **nicht ausreichend** = (4,3 oder 4,7 oder 5,0) Anforderungen nicht mehr genügt. 2Eine Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.[3] Bei unbenoteten Prüfungen (§ 6 Abs. 3 Satz 4) lautet die Bewertung „bestanden“ oder „nicht bestanden“.[4] Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen bestanden sind. 
+|**§ 17**|
+|---|
+|**Bewertung der Prüfungen, Notenstufen, Gesamtnote**<br>(1)1Die Urteile über die einzelnen Prüfungen werden von der jeweiligen Prüferin oder|
+|dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:|
+|**sehr gut**<br>=(1,0 oder 1,3)<br>eine hervorragende Leistung;|
+|**gut**<br>= (1,7 oder 2,0 oder 2,3)<br>eine Leistung, die erheblich über den durch-<br>schnittlichen Anforderungen liegt;|
+|**befriedigend**<br>= (2,7 oder 3,0 oder 3,3)<br>eine Leistung, die durchschnittlichen Anforderun-<br>gen entspricht;|
+|**ausreichend**<br>= (3,7 oder 4,0)<br>eine Leistung, die trotz ihrer Mängel noch den<br>Anforderungen entspricht;|
+|**nicht ausreichend**<br>= (4,3 oder 4,7 oder 5,0)<br>eine Leistung, die wegen erheblicher Mängel den<br>Anforderungen nicht mehr genügt.|
+|2Eine Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausrei-|
+|chend“ bewertet ist.3Bei unbenoteten Prüfungen (§ 6 Abs. 3 Satz 4) lautet die Be-|
+|wertung „bestanden“ oder „nicht bestanden“.4Eine Modulprüfung ist bestanden,|
+|wenn sämtliche Teilleistungen bestanden sind.|
+
+
 
 (2)[1] Die Gesamtnote der Masterprüfung lautet: bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2,5 = gut bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend. 2Wer die Masterprüfung mit einer Gesamtnote von 1,0 bis 1,2 abschließt, erhält das Gesamturteil "mit Auszeichnung bestanden". 
 

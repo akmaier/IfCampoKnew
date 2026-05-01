@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 22.07.2015 i.d.F. 05.08.2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/FPO_Bio+ZellMolekBio_Neu_Aug2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:40:16+00:00
+scraped_at: 2026-05-01T07:30:31+00:00
 page_count_chars: 28888
 ---
 

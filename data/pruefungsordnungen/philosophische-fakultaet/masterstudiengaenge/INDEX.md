@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Masterstudiengänge"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:30:41+00:00
+scraped_at: 2026-05-01T08:38:58+00:00
 ---
 
 # Masterstudiengänge
@@ -48,7 +48,7 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
-| [MA Antike Sprachen und Kulturen FPOAnSk 20250131.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Antike_Sprachen_und_Kulturen/konsolidierte_Fassungen/MA_Antike_Sprachen_und_Kulturen_FPOAnSk_20250131.pdf) | 199 KB |
+| [MA Antike Sprachen und Kulturen FPOAnSk 20250131.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Antike_Sprachen_und_Kulturen/konsolidierte_Fassungen/MA_Antike_Sprachen_und_Kulturen_FPOAnSk_20250131.pdf) | 194 KB |
 | [MA Antike Sprachen und Kulturen FPOAnSK 20100608 i.d.F. 20210222.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Antike_Sprachen_und_Kulturen/konsolidierte_Fassungen/MA_Antike_Sprachen_und_Kulturen_FPOAnSK_20100608_idF_20210222.pdf) | 489 KB |
 | [MA Antike Sprachen und Kulturen FPOAnSK 20100608 i.d.F. 20190326.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Antike_Sprachen_und_Kulturen/konsolidierte_Fassungen/MA_Antike_Sprachen_und_Kulturen_FPOAnSK_20100608_idF_20190326.pdf) | 108 KB |
 

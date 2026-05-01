@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "12. November 1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AeSa-PrO-BWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-04-25T16:17:55+00:00
+scraped_at: 2026-05-01T09:30:14+00:00
 page_count_chars: 28422
 ---
 

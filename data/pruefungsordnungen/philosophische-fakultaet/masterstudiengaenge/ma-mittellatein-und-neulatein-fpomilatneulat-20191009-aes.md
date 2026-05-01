@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Mittellatein und Neulatein FPOMiLatNeuLat 20191009 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Mittellatein_und_Neulatein/Aenderungssatzungen/MA_Mittellatein_und_Neulatein_FPOMiLatNeuLat_20191009_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:27:45+00:00
+scraped_at: 2026-05-01T08:34:05+00:00
 page_count_chars: 1874
 ---
 

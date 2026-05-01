@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor, Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-04-25T14:11:20+00:00
+scraped_at: 2026-05-01T06:46:24+00:00
 ---
 
 # Informatik/IT-Sicherheit (B.Sc.)

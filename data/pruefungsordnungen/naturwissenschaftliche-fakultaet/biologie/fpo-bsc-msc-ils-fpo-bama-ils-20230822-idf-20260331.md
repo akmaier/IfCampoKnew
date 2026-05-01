@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BSc-MSc ILS FPO BAMA ILS 20230822 i.d.F. 20260331.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated-Life-Science/konsolidierte_Fassungen/FPO_BSc-MSc_ILS_FPO_BAMA_ILS_20230822_idF_20260331.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:42:55+00:00
-page_count_chars: 49111
+scraped_at: 2026-05-01T07:32:59+00:00
+page_count_chars: 48529
 ---
 
 # FPO BSc-MSc ILS FPO BAMA ILS 20230822 i.d.F. 20260331.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated-Life-Science/konsolidierte_Fassungen/FPO_BSc-MSc_ILS_FPO_BAMA_ILS_20230822_idF_20260331.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Life Sciences - Biologie, Biomathematik, Biophysik (B.Sc. ILS) und den Masterstudiengang Integrated Life Sciences - Biology, Biomathematics and Biophysics (M.Sc. ILS) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BAMA ILS – Vom 22. August 2023** 
 
@@ -23,6 +27,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 **I. Teil: Allgemeine Bestimmungen ..................................................................................... 2** § 41 Geltungsbereich ............................................................................................................ 2 § 42 Bachelorstudiengang, inhaltlich im Wesentlichen gleiche Abschlüsse ........................... 2 § 43 Masterstudiengang, inhaltlich im Wesentlichen gleiche Abschlüsse, Studienbeginn, Unterrichts- und Prüfungssprache .............................................................................. 2 § 44 Zusammensetzung des Prüfungsausschusses .............................................................. 2 **II. Teil: Besondere Bestimmungen ..................................................................................... 3** 1. Bachelorprüfung ................................................................................................................ 3 § 45 Gliederung des Bachelorstudiums ................................................................................. 3 § 46 Grundlagen- und Orientierungsprüfung ......................................................................... 3 § 47 Wahlpflichtmodule ......................................................................................................... 3 § 48 Bachelorarbeit ............................................................................................................... 3 2. Masterprüfung ................................................................................................................... 4 § 49 Zusammensetzung der Zugangskommission zum Masterstudium ................................. 4 § 50 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ............... 4 § 51 Umfang und Gliederung des Masterstudiums ................................................................ 5 § 52 Qualifikationsziele und Prüfungen der wählbaren Modulgruppen ................................... 6 § 53 Masterarbeit .................................................................................................................. 7 **III. Teil: Schlussbestimmungen .......................................................................................... 7** § 54 Inkrafttreten ................................................................................................................... 7 **Anlage 1: Studienverlaufsplan Bachelor ILS ..................................................................... 9 Anlage 2a: Studienverlaufsplan für den Masterstudiengang Integrated Life Sciences mit Studienbeginn im Wintersemester ..................................................................13 Anlage 2b: Studienverlaufsplan für den Masterstudiengang Integrated Life Sciences mit Studienbeginn im Sommersemester ...............................................................16** 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **I. Teil: Allgemeine Bestimmungen** 
 
@@ -49,6 +57,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Li
 1Der Prüfungsausschuss für den Bachelor- und Masterstudiengang ILS besteht aus drei Mitgliedern, je einem aus dem Department der Biologie, der Physik und der Mathematik.[2] Die bzw. der Vorsitzende, die Stellvertreterin bzw. der Stellvertreter und das weitere Mitglied des Prüfungsausschusses werden auf Vorschlag der Departments Biologie, Physik und Mathematik vom Fakultätsrat der Naturwissenschaftlichen Fakultät bestellt. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **II. Teil: Besondere Bestimmungen** 
 
@@ -86,6 +98,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Li
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Masterstudiengang ILS tätig sind (Betreuerinnen bzw. Betreuer).[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
 
 ## **2. Masterprüfung** 
@@ -107,6 +123,10 @@ Masterstudiengang ILS tätig sind (Betreuerinnen bzw. Betreuer).[2] Der Prüfung
 (3) In der mündlichen Zugangsprüfung gemäß Abs. 5 Satz 3 ff. der **Anlage ABMPO/NatFak** werden die Bewerberinnen bzw. Bewerber auf Basis folgender gleichgewichteter Kriterien beurteilt: 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
    1. Fachliche und methodische Kenntnisse im Bereich der Mathematik, Physik und Molekularbiologie (Gewichtung 40%), 
 
@@ -144,6 +164,10 @@ Masterstudiengang ILS tätig sind (Betreuerinnen bzw. Betreuer).[2] Der Prüfung
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 unterstützen bei Fragen zum Studium.[3] Dieses Mentorat bezieht sich auf die gesamte Masterstudienzeit. 
 
 (5) Die Belegung von Zusatzmodulen bzw. Lehrveranstaltungen mit begrenzter Teilnehmerzahl ist insgesamt nur möglich, soweit die Kapazitäten dies zulassen; Studierende, die die Module zum Nachweis der für den Abschluss des Studiums erforderlichen 180 ECTS-Punkte belegen, sind vorrangig zu berücksichtigen. 
@@ -165,6 +189,10 @@ unterstützen bei Fragen zum Studium.[3] Dieses Mentorat bezieht sich auf die ge
 (6)[1] Die Wahlpflichtmodule der Modulgruppen 1 bis 3 werden im Modulhandbuch geführt.[2] Die Wahlpflichtmodule umfassen in der Regel 5, 7,5 oder 10 ECTS-Punkte.[3] Die Module im Umfang von 5 ECTS-Punkten setzen sich in der Regel aus einer Vorlesung (2 SWS) und einer Übung (2 SWS) zusammen.[4] Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
 
 6 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (7)[1] Über Abweichungen und über die Zulassung anderer als der in Abs. 1 genannten Wahlpflichtmodule entscheidet der Prüfungsausschuss auf Antrag der bzw. des Studierenden.[2] Ein Wahlpflichtmodul kann nur dann zugelassen werden, wenn es mit dem Ziel der Masterausbildung vereinbar ist und das betroffene Fach von einer Professorin bzw. einem Professor vertreten wird.[3] Im Falle der Zulassung weiterer Wahlpflichtmodule sind Abweichungen von den in **Anlage 2** genannten Prüfungen im Rahmen der Regelungen des § 6 Abs. 3 und 4 **ABMPO/NatFak** möglich. 
 
@@ -190,16 +218,25 @@ unterstützen bei Fragen zum Studium.[3] Dieses Mentorat bezieht sich auf die ge
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 in Satz 1 genannten Fachstudien- und Prüfungsordnung tritt mit Wirkung zum 30. September 2027 außer Kraft.[3] Prüfungen nach der in Satz 1 genannten Fachprüfungsordnung werden für den Bachelorstudiengang letztmals im Sommersemester 2027 und für die Masterstudiengang letztmals im Wintersemester 2025/2026 angeboten. 
 
 (3)[1] Die erste Änderungssatzung tritt am 1. April 2026 in Kraft.[2] Sie gilt für alle Studierenden, die das Bachelor- oder Masterstudium ab dem Wintersemester 2026/2027 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in § 52 zudem für alle Masterstudierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der FPO BAMA ILS vom 22. August 2023 studieren. 
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 1: Studienverlaufsplan Bachelor ILS** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS-**<br>**Punkte**||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**SWS**||||||<br>**in ECTS-Punkten**||||||
 ||||||||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
 |||**V**|**Ü**|**P**|**S**||||||||||
 |**ILS-M1:**<br>**Mathematik für**<br>**Integrated Life Sciences I**|Mathematik für Ingeni-<br>eure C1: INF,ILS|4||||**7,5**|5||||||PL: Klausur 90 Min. +<br>SL: ÜL (unbenotet)|1|
@@ -221,62 +258,38 @@ in Satz 1 genannten Fachstudien- und Prüfungsordnung tritt mit Wirkung zum 30. 
 
 9 
 
-**==> picture [771 x 429] intentionally omitted <==**
+**==> picture [165 x 49] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-|||||||||
-|---|---|---|---|---|---|---|---|
-|Atom-/Molekülphysik|3|4|
-|ILS-P3:|
-|5|PL:  mündliche Prüfung 30 Min.|1|
-|Atom- und Molekülphysik|Übung zu Atom-/Mole-|
-|1|1|
-|külphysik|
-|Physik der Biologischen|
-|ILS-P4:|3|4|
-|Materie|
-|Physik der|7,5|PL: Klausur 90 Min.|1|
-|Übung zu Physik der|
-|Biologischen Materie|3|3,5|
-|Biologischen Materie|
-|7|
-|Basismodul 1|
-|Moleküle, Grundlagen der|vgl.|FPO BAMA Bio|15|6|vgl.|FPO BAMA Bio|1|
-|Zellbiologie und Genetik|
-|2|
-|Vorlesung Quantitative|
-|3|5|
-|Biologie|
-|Übungen Quantitative|
-|Quantitative Biologie|3|10|3|PL: Klausur 90 Min.|1|
-|Biologie|[1)]|
-|Tutorium Quantitative Bi-|
-|1|2|
-|ologie|
-|2|
-|Basismodul 3a|
-|Struktur und Funktion in|vgl.|FPO BAMA Bio|5|2|vgl.|FPO BAMA Bio|1|
-|Lebewesen|
-|1|
-|5|
-|Basismodul 3b|
-|Struktur und Funktion in|vgl.|FPO BAMA Bio|10|4|vgl.|FPO BAMA Bio|1|
-|Lebewesen|
-|1|
-|Allgemeine Chemie|4|3|
-|ILS-C1:|
-|5|PL: Klausur 120 Min.|1|
-|Einführung in die Chemie|Übung zur allgemeinen|
-|3|2|
-|Chemie|
-|ILS-C2:|Grundlagen der Physika-|
-|2|5|2,5|PL: Klausur 90 Min.|1|
-|Physikalische Chemie|lischen Chemie|
+**==> picture [114 x 46] intentionally omitted <==**
 
-**----- End of picture text -----**<br>
+|**ILS-P3:**<br>**Atom- und Molekülphysik**|Atom-/Molekülphysik|3||||**5**||||4|||PL:  mündliche Prüfung 30 Min.|1|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Übung zu Atom-/Mole-<br>külphysik||1|||||||1|||||
+|**ILS-P4:**<br>**Physik der**<br>**Biologischen Materie**|Physik der Biologischen<br>Materie|3||||**7,5**||||4|||PL: Klausur 90 Min.|1|
+||Übung zu Physik der<br>Biologischen Materie||3|||||||3,5|||||
+|**Basismodul 1**<br>**Moleküle, Grundlagen der**<br>**Zellbiologie und Genetik**|vgl.**FPO BAMA Bio**|||||**15**|7||||||vgl.**FPO BAMA Bio**|1|
+||||||||6||||||||
+||||||||2||||||||
+|**Quantitative Biologie**|Vorlesung Quantitative<br>Biologie|**3**||||**10**||5|||||PL: Klausur 90 Min.|**1**|
+||Übungen Quantitative<br>Biologie1)||**3**|||||3|||||||
+||Tutorium Quantitative Bi-<br>ologie||||**1**|||2|||||||
+|**Basismodul 3a**<br>**Struktur und Funktion in**<br>**Lebewesen**|vgl.**FPO BAMA Bio**|||||**5**|||2||||vgl.**FPO BAMA Bio**|1|
+||||||||||2||||||
+||||||||||1||||||
+|**Basismodul 3b**<br>**Struktur und Funktion in**<br>**Lebewesen**|vgl.**FPO BAMA Bio**|||||**10**|||5||||vgl.**FPO BAMA Bio**|1|
+||||||||||4||||||
+||||||||||1||||||
+|**ILS-C1:**<br>**Einführung in die Chemie**|Allgemeine Chemie|4||||**5**||3|||||PL: Klausur 120 Min.|1|
+||Übung zur allgemeinen<br>Chemie||3|||||2|||||||
+|**ILS-C2:**<br>**Physikalische Chemie**|Grundlagen der Physika-<br>lischen Chemie|2||||**5**|||2,5||||PL: Klausur 90 Min.|1|
+
 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ||Übung zu Grundlagen<br>der Physikalischen Che-<br>mie||||2||||2,5||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -298,6 +311,10 @@ in Satz 1 genannten Fachstudien- und Prüfungsordnung tritt mit Wirkung zum 30. 
 
 
 11 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**Molekularbiologisches**<br>**Modul2)**|vgl.**FPO BAMA Bio**|vgl.**FPO BAMA Bio**|vgl.**FPO BAMA Bio**|vgl.**FPO BAMA Bio**|vgl.**FPO BAMA Bio**|**12,5**|||||10||vgl.**FPO BAMA Bio**|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -324,65 +341,124 @@ P = Praktikum
 
 S = Seminar 
 
-SWS = Semesterwochenstunden ECTS = Punkte des European Credit Transfer Systems SL = Studienleistung PL = Prüfungsleistung pÜL = praktische Übungsleistung gemäß § 6 Abs. 4 **ABMPO/NatFak** SeL = Seminarleistung gemäß § 6 Abs. 4 **ABMPO/NatFak** ÜL = Übungsleistung gemäß § 6 Abs. 4 **ABMPO/NatFak “** 
+SWS = Semesterwochenstunden ECTS = Punkte des European Credit Transfer Systems 
+
+SL = Studienleistung PL = Prüfungsleistung pÜL = praktische Übungsleistung gemäß § 6 Abs. 4 **ABMPO/NatFak** SeL = Seminarleistung gemäß § 6 Abs. 4 **ABMPO/NatFak** ÜL = Übungsleistung gemäß § 6 Abs. 4 **ABMPO/NatFak “** 
 
 12 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage 2a: Studienverlaufsplan für den Masterstudiengang Integrated Life Sciences mit Studienbeginn im Wintersemester** 
 
 1Vergleiche §§ 51 und52. 2Im Masterstudiengang Integrated Life Sciences werden drei Modulgruppen (MG 1, MG 2 und MG 3) angeboten, die unterschiedliche Themenschwerpunkte aufweisen und so eine fachspezifische Profilbildung ermöglichen.[3] Jede Modulgruppe beinhaltet Pflicht- sowie Wahlpflichtmodule.[4] Die Pflichtmodule sind unten im Studienverlaufsplan dokumentiert, während die Wahlpflichtmodule im Modulhandbuch geregelt sind.[5] Darüber hinaus gehören das Modul ILS-MA-M1, das Vertiefungsmodul (Advanced Module) und die Masterarbeit (Master’s thesis) zu den allgemeinen Pflichtmodulen des Curriculums. 
 
-|**Modul-Code**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfn**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**ECTS**<br>**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
-|**Pflichtmodul**<br>~~Pee~~<br>~~FSose~~||||||||||||||
-|**ILS-MA-**<br>**M1**<br>~~FS~~|**Introduction to Statistics**<br>**and Statistical Program-**<br>**ming**<br>~~FS~~|Introduction to Statistics<br>~~ose~~|2<br>~~ose~~|~~ose~~|~~ose~~|~~ose~~|5<br>~~ose~~<br>~~es~~|~~ose~~|2<br>~~ose~~|~~ose~~||PL: Klausur 90 Min. +<br>SL: ÜL1)<br>~~ee~~|1|
-|||Tutorial for Introduction to<br>Statistics (Problem Ses-<br>sion)<br>~~ose~~|~~ose~~|1<br>~~ose~~|~~ose~~|~~ose~~||~~ose~~|1,5<br>~~ose~~|~~ose~~||||
-|||Lab class<br>Statistical Programming<br>~~ose~~|~~ose~~<br>~~ee~~|1<br>~~ose~~<br>~~ees~~|~~ose~~<br>~~Gere~~|~~ose~~<br>~~rs~~||~~ose~~<br>~~ree~~|1,5<br>~~ose~~<br>~~rs~~|~~ose~~<br>~~rd~~|~~rs ee~~|||
-|~~FS~~<br>~~ee~~|**Gesamt ECTS-Punkte**<br>~~FS ose~~<br>~~ee~~||~~ose~~<br>~~ee~~<br>~~ee~~|~~ose~~<br>~~ee~~<br>~~ees~~|~~ose~~<br>~~ee~~<br>~~Gere~~|~~ose~~<br>~~ee~~<br>~~rs~~|**5**<br>~~ose~~<br>~~ee~~<br>~~es~~|**0**<br>~~ose~~<br>~~ee~~<br>~~ree~~|**5**<br>~~ose~~<br>~~ee~~<br>~~rs~~|**0**<br>~~ose~~<br>~~ee~~<br>~~rd~~|**0**<br>~~ee~~<br>~~rs ee~~|~~ee~~<br>~~ee~~|~~ee~~|
-|**Pflichtmodule der Modulgruppe 1: Mathematical Modelling and Systems Biology, vgl. §§ 51 und 52**<br>~~ee ees Gere rs es ree~~<br>~~rs rd rs ee~~<br>~~eo~~<br>~~_.~~||||||||||||||
-|**ILS-MA-**<br>**M2**|**Biomathematics**<br>~~Pe~~|Biomathematics<br>~~Pe~~|4<br>~~Pe~~|~~Pe~~|~~Pe~~|~~Pe~~|10<br>~~Pe~~|7<br>~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|PL: mündliche Prüfung<br>30 Min. oder Klausur 90<br>Min.2)+<br>SL: ÜL1)<br>~~Pe~~<br>~~eo~~<br>~~_.~~|1<br>~~Pe~~<br>~~_.~~|
-|||Tutorial for Biomathema-<br>tics<br>~~Pe~~|~~Pe~~|2<br>~~Pe~~|~~Pe~~|~~Pe~~||3<br>~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|||
-|**ILS-MA-B1**|**ILS-MA-B1**<br>**Systems Biology**|Systems Biology|2||||5|3<br>~~eo~~|~~eo~~|~~eo~~|~~eo~~|PL: Klausur 60 Min.<br>~~eo~~<br>~~_.~~|1<br>~~_.~~|
-|||Laboratory course Sys-<br>tems<br>Biology||1||||2||||||
-||**Gesamt ECTS-Punkte**|||||||**15**<br>||**15**|**0**<br>||**0**|**0**|||
-|**Pflichtmodule der Modulgruppe 2: Bioimaging and Biophysics, vgl. §§ 51 und 52**<br>~~rrr~~||||||||||||||
-|~~ee~~|**Bioimaging & Biophysics A**<br>~~ee~~|Bioimaging & Biophysics I<br>~~ee~~|2<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|7,5<br>~~ee~~|2,5<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|1<br>~~ee~~|
+|**Modul-Code**||||||||||||||
+||||**V**|||||**1**|**2**|**3**|**4**|||
+|||||**Ü**|**P**|**S**|**ECTS**|<br>**.**<br>**Sem**|**.**|**.**|**.**|**ug**||
+||||||||||**Sem**|**Sem**|**Sem**|||
+|||||||||**.**|**.**|**.**|**.**|||
+|**Pflichtmodul**||||||||||||||
+||**Introduction to Statistics**<br>**and Statistical Program-**<br>**ming**|Introduction to Statistics|2||||5||2|||PL: Klausur 90 Min. +<br>SL: ÜL1)|1|
+|||Tutorial for Introduction to<br>Statistics (Problem Ses-<br>sion)||1|||||1,5|||||
+|**ILS-MA-**||||||||||||||
+|**M1**||||||||||||||
+|||||||||||||||
+|||Lab class<br>Statistical Programming||1|||||1,5|||||
+||**Gesamt ECTS-Punkte**||||||**5**|**0**|**5**|**0**|**0**|||
+|**Pflichtmodule der Modulgruppe 1: Mathematical Modelling and Systems Biology, vgl. §§ 51 und 52**||||||||||||||
+||**Biomathematics**|Biomathematics|4||||10|7||||PL: mündliche Prüfung<br>30 Min. oder Klausur 90<br>Min.2)+<br>SL: ÜL1)|1|
+|**ILS-MA-**||||||||||||||
+|**M2**||Tutorial for Biomathema-<br>tics||2||||3||||||
+|||||||||||||||
+||<br>**Systems Biology**|Systems Biology|2||||5|3||||PL: Klausur 60 Min.|1|
+|**ILS-MA-B1**||Laboratory course Sys-<br>tems<br>Biology||1||||2||||||
+|||||||||||||||
+||**Gesamt ECTS-Punkte**||||||**15**|**15**|**0**|**0**|**0**|||
+|**Pflichtmodule der Modulgruppe 2: Bioimaging and Biophysics, vgl. §§ 51 und 52**||||||||||||||
+||**Bioimaging & Biophysics A**|Bioimaging & Biophysics I|2||||7,5|2,5|||||1|
 
 
 
 13 
 
-|**Modul-Code**<br>**ILS-MA-**<br>**I1A**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**<br>PL: Klausur 90 Min._oder_<br>mündliche Prüfung<br>40 Min.2)+ SL:pÜL1)|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Modulbezeichnung**|**Lehrveranstaltung**|||||**Ge-**<br>**samt-**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfun**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
-|||Laboratory course for<br>Bioimaging & Biophysics I||4||||5||||||
-|**ILS-MA-**<br>**I1B**<br>~~i~~|**Bioimaging & Biophysics B**<br>~~i~~<br>~~a~~|Bioimaging & Biophysics II<br>~~i~~|2<br>~~i~~|~~i~~|~~i~~|~~i~~|7,5<br>~~i~~<br>~~CNC~~|~~i~~|2,5<br>~~i~~|~~i~~|~~i~~|PL: Klausur 90 Min._oder_<br>mündliche Prüfung<br>40 Min.2)<br>~~i~~|1<br>~~i~~|
-|||Laboratory course for<br>Bioimaging& Biophysics II<br>~~i~~|~~i~~<br>~~GG~~|4<br>~~i~~<br>~~GG~~|~~i~~<br>~~OO~~|~~i~~<br>~~OO~~||~~i~~<br>~~CNC~~|5<br>~~i~~|~~i~~<br>~~GC~~|~~i~~<br>~~GC~~|||
-|~~a~~|**Gesamt ECTS-Punkte**<br>~~a~~<br>~~a~~||~~a~~<br>~~GG~~|~~a~~<br>~~GG~~|~~a~~<br>~~OO~~|~~a~~<br>~~OO~~|**15**<br>~~a~~<br>~~CNC~~|**7,5**<br>~~a~~<br>~~CNC~~|**7,5**<br>~~a~~|**0**<br>~~a~~<br>~~GC~~|**0**<br>~~a~~<br>~~GC~~|~~a~~|~~a~~|
-|**Pflichtmodule der Modulgruppe 3: Biological Structures and Processes, vgl. §§ 51 und 52**<br>~~a~~<br>~~GG OO CNC~~<br>~~GC~~||||||||||||||
-|**ILS-MA-**<br>**I2A**|**Interactions of Biological**<br>**Macromolecules A**|Interactions of Biological<br>Macromolecules A|2||||5|3||||PL: Klausur 120 Min._oder_<br>mündliche Prüfung<br>60 Min.2)+ SL: ÜL1)|1|
-|||Seminar/Tutorial for<br>Interactions of Biological<br>Macromolecules A||1,5||0,5||2||||||
-|**ILS-MA-**<br>**I2B**|**Interactions of Biological**<br>**Macromolecules B**|Interactions of Biological<br>Macromolecules B|2||||5||3|||PL: Klausur 120 Min._oder_<br>mündliche Prüfung<br>60 Min.2)|1|
-|||Seminar/Tutorial for<br>Interactions of Biological<br>Macromolecules B||1,5||0,5|||2|||||
-|~~a~~|**Gesamt ECTS-Punkte**<br>~~a~~||||||**10**|**5**|**5**<br>~~|~~|**0**|**0**|~~|~~||
-|**Wahlpflichtmodule der Modulgruppen 1-3**<br>~~|~~<br>~~|~~<br>~~a~~<br>~~|~~||||||||||||||
-|~~a~~<br>~~|yy~~|**Modulgruppe 1 gemäß Modulhandbuch**<br>~~a~~<br>~~yy~~<br>~~eei(‘i‘i‘i‘i‘“a“ell~~||~~“ell~~|~~“ell~~|~~“ell~~|~~“ell~~|**15-20**<br>~~“ell~~|**15-204)**<br>~~|~~<br>~~“ell~~|||**0**<br>~~“ell~~|**vgl. § 52 Abs. 5**<br>~~|~~<br>~~“ell~~|~~“ell~~|
-|~~|yy~~|**Modulgruppe 2 gemäß Modulhandbuch**<br>~~yy~~<br>~~eei(‘i‘i‘i‘i‘“a“ell~~||~~“ell~~|~~“ell~~|~~“ell~~|~~“ell~~|**15-20**<br>~~“ell~~|**15-204)**<br>~~“ell~~|||**0**<br>~~“ell~~|**vgl. § 52 Abs. 5**<br>~~“ell~~|~~“ell~~|
-|~~yy~~<br>~~ee~~|**Modulgruppe 3 gemäß Modulhandbuch**<br>~~yy~~<br>~~eei(‘i‘i‘i‘i‘“a“ell~~<br>~~ny~~||~~“ell~~<br>~~ttn~~|~~“ell~~<br>~~tn~~|~~“ell~~<br>~~nn~~|~~“ell~~<br>~~tn)~~|**20-25**<br>~~“ell~~<br>~~(eS~~|**20-254)**<br>~~“ell~~<br>~~(eS~~|||**0**<br>~~“ell~~<br>~~(OO~~|**vgl. § 52 Abs. 5**<br>~~“ell~~<br>~~(OO~~|~~“ell~~|
-|~~ee~~|**Gesamt ECTS-Punkte**<br>~~ny~~||~~ttn~~|~~tn~~|~~nn~~|~~tn)~~|**35-40**<br>~~(eS~~|**35-40**<br>~~(eS~~|||**0**<br>~~(OO~~|~~(OO~~||
+|||||**SWS**||||||||||
+|**Modul-Code**||||||||||||||
+||||**V**|||||**1**|**2**|**3**|**4**|||
+|||||**Ü**|**P**|**S**|**ECTS**|<br>**.**<br>**Sem**|**.**|**.**|**.**|**g**||
+||||||||||**Sem**|**Sem**|**Sem**|||
+|||||||||**.**|**.**|**.**|**.**|||
+|||Laboratory course for<br>Bioimaging & Biophysics I||4||||5||||PL: Klausur 90 Min._oder_<br>mündliche Prüfung<br>40 Min.2)+ SL:pÜL1)||
+|**ILS-MA-**||||||||||||||
+|**I1A**||||||||||||||
+|||||||||||||||
+||**Bioimaging & Biophysics B**|Bioimaging & Biophysics II|2||||7,5||2,5|||PL: Klausur 90 Min._oder_<br>mündliche Prüfung<br>40 Min.2)|1|
+|**ILS-MA-**||||||||||||||
+|**I1B**||Laboratory course for<br>Bioimaging& Biophysics II||4|||||5|||||
+|||||||||||||||
+||**Gesamt ECTS-Punkte**||||||**15**|**7,5**|**7,5**|**0**|**0**|||
+|**Pflichtmodule der Modulgruppe 3: Biological Structures and Processes, vgl.**||||||||||||||
+|||||**§§ 51 und 52**||||||||||
+|||||||||||||||
+||**Interactions of Biological**<br>**Macromolecules A**|Interactions of Biological<br>Macromolecules A|2|||||3||||PL: Klausur 120 Min._oder_|1|
+|**ILS-MA-**||||||||||||||
+|||Seminar/Tutorial for<br>Interactions of Biological<br>Macromolecules A|||||5|||||mündliche Prüfung||
+|**I2A**||||||||||||||
+|||||1,5||0,5||2||||60 Min.2)+ SL: ÜL1)||
+|||||||||||||||
+|||||||||||||||
+||**Interactions of Biological**<br>**Macromolecules B**|Interactions of Biological<br>Macromolecules B|2||||||3|||PL: Klausur 120 Min._oder_|1|
+|**ILS-MA-**||||||||||||||
+|||Seminar/Tutorial for<br>Interactions of Biological<br>Macromolecules B|||||5|||||mündliche Prüfung||
+|**I2B**||||||||||||||
+|||||1,5||0,5|||2|||60 Min.2)||
+|||||||||||||||
+|||||||||||||||
+||**Gesamt ECTS-Punkte**||||||**10**|**5**|**5**|**0**|**0**|||
+|**Wahlpflichtmodule der Modulgruppen 1-3**||||||||||||||
+|||||||||||||||
+|||||||||||||||
+||**Modulgruppe 1 gemäß Modulhandbuch**||||||**15-20**|**15-204)**|||**0**|**vgl. § 52 Abs. 5**||
+||**Modulgruppe 2 gemäß Modulhandbuch**||||||**15-20**|**15-204)**|||**0**|**vgl. § 52 Abs. 5**||
+||**Modulgruppe 3 gemäß Modulhandbuch**||||||**20-25**|**20-254)**|||**0**|**vgl. § 52 Abs. 5**||
+||**Gesamt ECTS-Punkte**||||||**35-40**|**35-40**|||**0**|||
 
 
 
 14 
 
-|**Modul-Code**|**Modulbezeichnung**|**Lehrveranstaltung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Modulbezeichnung**||**Lehrveranstaltung**|||||**Ge-**<br>**samt-**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfun**|**Faktor**<br>**Modul-**<br>**note**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**||**ECTS**<br>**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**||||
+||||||**SWS**|||||||||||
+|**Modul-Code**||||||||||||||||
+|||||**V**|||||**1**|**2**|**3**|**4**||||
+||||||**Ü**|**P**|**S**|**ECTS**|<br>**.**<br>**Sem**|**.**|**.**|**.**|**g**|||
+|||||||||||**Sem**|**Sem**|**Sem**||||
+||||||||||**.**|**.**|**.**|**.**||||
 |**Spezialisierung**||||||||||||||||
-|**ILS-MA-VM**|**Advanced Module**||Lecture, seminar, practical<br>trainingin chosen subject|||||20|||20||PL: mündliche Prüfung<br>30 Min.|1||
-|**ILS-MA-TH**|**Master’s thesis**||Master‘s thesis|||||30||||30|PL: schriftliche Arbeit,<br>ca. 20.000 Wörter +<br>SL: Seminarvortrag 30 Min.<br>(Präsentation der Ergebnisse)|1||
+||**Advanced Module**||Lecture, seminar, practical<br>trainingin chosen subject|||||20|||20||PL: mündliche Prüfung<br>30 Min.|1||
+|**ILS-MA-VM**||||||||||||||||
+|||||||||||||||||
+||**Master’s thesis**||Master‘s thesis|||||30||||30|PL: schriftliche Arbeit,<br>ca. 20.000 Wörter +<br>SL: Seminarvortrag 30 Min.<br>(Präsentation der Ergebnisse)|1||
+|**ILS-MA-TH**||||||||||||||||
+|||||||||||||||||
 ||**Gesamt ECTS-Punkte**|||||||50|||20|30||||
+|||||||||||||||||
+|||||||||||||||||
 ||**Summe SWS und ECTS**|||**3)**|**3)**|**3)**|**3)**|**120**|**304,5)**|**304,5)**|**304,5)**|**30**||||
 
 
@@ -397,62 +473,120 @@ SWS = Semesterwochenstunden ECTS = Punkte des European Credit Transfer Systems S
 
 15 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2b: Studienverlaufsplan für den Masterstudiengang Integrated Life Sciences mit Studienbeginn im Sommersemester** 
 
 1Vergleiche §§ 51 und52. 2Im Masterstudiengang Integrated Life Sciences werden drei Modulgruppen (MG 1, MG 2 und MG 3) angeboten, die unterschiedliche Themenschwerpunkte aufweisen und so eine fachspezifische Profilbildung ermöglichen.[3] Jede Modulgruppe beinhaltet Pflicht- sowie Wahlpflichtmodule.[4] Die Pflichtmodule sind unten im Studienverlaufsplan dokumentiert, während die Wahlpflichtmodule im Modulhandbuch geregelt sind.[5] Darüber hinaus gehören das Modul ILS-MA-M1, das Vertiefungsmodul (Advanced Module) und die Masterarbeit (Master’s thesis) zu den allgemeinen Pflichtmodulen des Curriculums 
 
-|**Modul-Code**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfn**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**ECTS**<br>**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
-|**Pflichtmodul**<br>~~Pee~~<br>~~FSose~~||||||||||||||
-|**ILS-MA-**<br>**M1**<br>~~FS~~|**Introduction to Statistics**<br>**and Statistical Program-**<br>**ming**<br>~~FS~~|Introduction to Statistics<br>~~ose~~|2<br>~~ose~~|~~ose~~|~~ose~~|~~ose~~|5<br>~~ose~~<br>~~es~~|2<br>~~ose~~|~~ose~~|~~ose~~||PL: Klausur 90 Min. +<br>SL: ÜL1)<br>~~ee~~|1|
-|||Tutorial for Introduction to<br>Statistics (Problem Ses-<br>sion)<br>~~ose~~|~~ose~~|1<br>~~ose~~|~~ose~~|~~ose~~||1,5<br>~~ose~~|~~ose~~|~~ose~~||||
-|||Lab class<br>Statistical Programming<br>~~ose~~|~~ose~~<br>~~ee~~|1<br>~~ose~~<br>~~ees~~|~~ose~~<br>~~Gere~~|~~ose~~<br>~~rs~~||1,5<br>~~ose~~<br>~~ree~~|~~ose~~<br>~~rs~~|~~ose~~<br>~~rd~~|~~rs ee~~|||
-|~~FS~~<br>~~ee~~|**Gesamt ECTS-Punkte**<br>~~FS ose~~<br>~~ee~~||~~ose~~<br>~~ee~~<br>~~ee~~|~~ose~~<br>~~ee~~<br>~~ees~~|~~ose~~<br>~~ee~~<br>~~Gere~~|~~ose~~<br>~~ee~~<br>~~rs~~|**5**<br>~~ose~~<br>~~ee~~<br>~~es~~|**5**<br>~~ose~~<br>~~ee~~<br>~~ree~~|**0**<br>~~ose~~<br>~~ee~~<br>~~rs~~|**0**<br>~~ose~~<br>~~ee~~<br>~~rd~~|**0**<br>~~ee~~<br>~~rs ee~~|~~ee~~<br>~~ee~~|~~ee~~|
-|**Pflichtmodule der Modulgruppe 1: Mathematical Modelling and Systems Biology, vgl. §§ 51 und 52**<br>~~ee ees Gere rs es ree~~<br>~~rs rd rs ee~~<br>~~eo~~<br>~~_.~~||||||||||||||
-|**ILS-MA-**<br>**M2**|**Biomathematics**<br>~~Pe~~|Biomathematics<br>~~Pe~~|4<br>~~Pe~~|~~Pe~~|~~Pe~~|~~Pe~~|10<br>~~Pe~~|~~Pe~~<br>~~eo~~|7<br>~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|PL: mündliche Prüfung<br>30 Min. oder Klausur 90<br>Min.2)+<br>SL: ÜL1)<br>~~Pe~~<br>~~eo~~<br>~~_.~~|1<br>~~Pe~~<br>~~_.~~|
-|||Tutorial for Biomathema-<br>tics<br>~~Pe~~|~~Pe~~|2<br>~~Pe~~|~~Pe~~|~~Pe~~||~~Pe~~<br>~~eo~~|3<br>~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|~~Pe~~<br>~~eo~~|||
-|**ILS-MA-B1**|**ILS-MA-B1**<br>**Systems Biology**|Systems Biology|2||||5|~~eo~~|3<br>~~eo~~|~~eo~~|~~eo~~|PL: Klausur 60 Min.<br>~~eo~~<br>~~_.~~|1<br>~~_.~~|
-|||Laboratory course Sys-<br>tems<br>Biology||1|||||2|||||
-||**Gesamt ECTS-Punkte**|||||||**15**<br>|||**15**<br>||**0**|**0**|||
+|**Modul-Code**||||||||||||||
+||||**V**|||||**1**|**2**|**3**|**4**|||
+|||||**Ü**|**P**|**S**|**ECTS**|<br>**.**<br>**Sem**|**.**|**.**|**.**|**ug**||
+||||||||||**Sem**|**Sem**|**Sem**|||
+|||||||||**.**|**.**|**.**|**.**|||
+|**Pflichtmodul**||||||||||||||
+||**Introduction to Statistics**<br>**and Statistical Program-**<br>**ming**|Introduction to Statistics|2||||5|2||||PL: Klausur 90 Min. +<br>SL: ÜL1)|1|
+|||Tutorial for Introduction to<br>Statistics (Problem Ses-<br>sion)||1||||1,5||||||
+|**ILS-MA-**||||||||||||||
+|**M1**||||||||||||||
+|||||||||||||||
+|||Lab class<br>Statistical Programming||1||||1,5||||||
+||**Gesamt ECTS-Punkte**||||||**5**|**5**|**0**|**0**|**0**|||
+|**Pflichtmodule der Modulgruppe 1: Mathematical Modelling and Systems Biology, vgl. §§ 51 und 52**||||||||||||||
+||**Biomathematics**|Biomathematics|4||||10||7|||PL: mündliche Prüfung<br>30 Min. oder Klausur 90<br>Min.2)+<br>SL: ÜL1)|1|
+|**ILS-MA-**||||||||||||||
+|**M2**||Tutorial for Biomathema-<br>tics||2|||||3|||||
+|||||||||||||||
+||<br>**Systems Biology**|Systems Biology|2||||5||3|||PL: Klausur 60 Min.|1|
+|**ILS-MA-B1**||Laboratory course Sys-<br>tems<br>Biology||1|||||2|||||
+|||||||||||||||
+||**Gesamt ECTS-Punkte**||||||**15**||**15**|**0**|**0**|||
 |**Pflichtmodule der Modulgruppe 2: Bioimaging and Biophysics, vgl. §§ 51 und 52**||||||||||||||
 
 
 
 16 
 
-|**Modul-Code**<br>~~0)~~|**Modulbezeichnung**<br>~~a~~|**Lehrveranstaltung**<br>~~es~~|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Modulbezeichnung**|**Lehrveranstaltung**|||||**Ge-**<br>**samt-**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfun**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
-|**ILS-MA-**<br>**I1A**<br>~~0)~~|**Bioimaging & Biophysics A**<br>~~a~~|Bioimaging & Biophysics I<br>~~es~~|2||||||2,5|||PL: Klausur 90 Min._oder_<br>mündliche Prüfung<br>40 Min.2)+ SL: pÜL1)|1|
-|||Laboratory course for<br>Bioimaging& Biophysics I<br>~~es~~||4|||||5|||||
-|**ILS-MA-**<br>**I1B**<br>~~0) ~~<br>~~eee~~|**Bioimaging & Biophysics B**<br> ~~a~~<br>~~eee~~|Bioimaging & Biophysics II<br>~~es~~<br>~~eee~~|2<br>~~eee~~|~~eee~~|~~eee~~||7,5<br>|2,5<br>~~Ee~~|~~Ee~~|~~Ee~~|~~Ee~~|PL: Klausur 90 Min._oder_<br>mündliche Prüfung<br>40 Min.2)<br>~~Ee~~|1<br>~~Ee~~|
-|||Laboratory course for<br>Bioimaging& Biophysics II<br>~~eee~~|~~eee~~|4<br>~~eee~~|~~eee ~~|||5<br> ~~Ee~~|~~Ee~~|~~Ee~~|~~Ee~~|||
-|~~TOTO~~|**Gesamt ECTS-Punkte**<br>~~TOTO~~||~~TOTO~~|~~TOTO~~|~~TOTO~~|~~TOTO~~|**15**<br>~~TOTO~~|**7,5**<br>~~TOTO~~|**7,5**<br>~~TOTO~~|**0**<br>~~TOTO~~|**0**<br>~~TOTO~~|~~TOTO~~|~~TOTO~~|
-|**Pflichtmodule der Modulgruppe 3: Biological Structures and Processes, vgl. §§ 51 und 52**||||||||||||||
-|**ILS-MA-**<br>**I2A**|**Interactions of Biological**<br>**Macromolecules A**|Interactions of Biological<br>Macromolecules A|2||||5||3|||PL: Klausur 120 Min._oder_<br>mündliche Prüfung<br>60 Min.2)+ SL: ÜL1)|1|
-|||Seminar/Tutorial for<br>Interactions of Biological<br>Macromolecules A||1,5||0,5|||2|||||
-|**ILS-MA-**<br>**I2B**|**Interactions of Biological**<br>**Macromolecules B**|Interactions of Biological<br>Macromolecules B|2||||5|3||||PL: Klausur 120 Min._oder_<br>mündliche Prüfung<br>60 Min.2)|1|
-|||Seminar/Tutorial for<br>Interactions of Biological<br>Macromolecules B||1,5||0,5||2||||||
-||**Gesamt ECTS-Punkte**||||||**10**|**5**|**5**<br>~~|~~|**0**<br>~~|~~|**0**<br>~~|~~|~~|~~<br>~~|~~|~~|~~<br>~~|~~|
-|**Wahlpflichtmodule der Modulgruppen 1-3**<br>~~a~~<br>~~|~~||||||||||||||
-|~~|~~|**Modulgruppe 1 gemäß Modulhandbuch**<br>||||||**15-20**|**15-204)**|||**0**|**vgl. § 52 Abs. 5**||
-|~~|Bp~~|**Modulgruppe 2 gemäß Modulhandbuch**<br>~~Bp~~||~~Bp~~|~~Bp~~|||**15-20**|**15-204)**|||**0**|**vgl. § 52 Abs. 5**||
-|~~Bp~~<br>~~ee~~|**Modulgruppe 3 gemäß Modulhandbuch**<br>~~Bp~~<br>~~rn~~||~~Bp~~<br>~~ts~~|~~Bp~~<br>~~ttt~~|~~ts~~|~~(tins~~|**20-25**<br>~~(nS~~|**20-254)**<br>~~(nS~~|||**0**<br>~~(I~~|**vgl. § 52 Abs. 5**<br>~~I~~||
-|~~ee~~|**Gesamt ECTS-Punkte**<br>~~rn~~||~~ts~~|~~ttt~~|~~ts~~|~~(tins~~|**35-40**<br>~~(nS~~|**35-40**<br>~~(nS~~|||**0**<br>~~(I~~|~~I~~||
+|||||**SWS**||||||||||
+|**Modul-Code**||||||||||||||
+||||**V**|||||**1**|**2**|**3**|**4**|||
+|||||**Ü**|**P**|**S**|**ECTS**|**.**<br>**Sem**|**.**|**.**|**.**|**g**||
+||||||||||**Sem**|**Sem**|**Sem**|||
+|||||||||**.**|**.**|**.**|**.**|||
+||**Bioimaging & Biophysics A**|Bioimaging & Biophysics I|2||||||2,5|||PL: Klausur 90 Min._oder_<br>mündliche Prüfung<br>40 Min.2)+ SL: pÜL1)|1|
+|**ILS-MA-**||||||||||||||
+|**I1A**||Laboratory course for<br>Bioimaging& Biophysics I||4|||||5|||||
+|||||||||||||||
+||**Bioimaging & Biophysics B**|Bioimaging & Biophysics II|2||||7,5|2,5||||PL: Klausur 90 Min._oder_<br>mündliche Prüfung<br>40 Min.2)|1|
+|**ILS-MA-**||||||||||||||
+|**I1B**||Laboratory course for<br>Bioimaging& Biophysics II||4||||5||||||
+|||||||||||||||
+||**Gesamt ECTS-Punkte**||||||**15**|**7,5**|**7,5**|**0**|**0**|||
+|**Pflichtmodule der Modulgruppe 3: Biological Structures and Processes, vgl.**||||||||||||||
+|||||**§§ 51 und 52**||||||||||
+|||||||||||||||
+||**Interactions of Biological**<br>**Macromolecules A**|Interactions of Biological<br>Macromolecules A|2||||||3|||PL: Klausur 120 Min._oder_|1|
+|**ILS-MA-**||||||||||||||
+|||Seminar/Tutorial for<br>Interactions of Biological<br>Macromolecules A|||||5|||||mündliche Prüfung||
+|**I2A**||||||||||||||
+|||||1,5||0,5|||2|||60 Min.2)+ SL: ÜL1)||
+|||||||||||||||
+|||||||||||||||
+||**Interactions of Biological**<br>**Macromolecules B**|Interactions of Biological<br>Macromolecules B|2|||||3||||PL: Klausur 120 Min._oder_|1|
+|**ILS-MA-**||||||||||||||
+|||Seminar/Tutorial for<br>Interactions of Biological<br>Macromolecules B|||||5|||||mündliche Prüfung||
+|**I2B**||||||||||||||
+|||||1,5||0,5||2||||60 Min.2)||
+|||||||||||||||
+|||||||||||||||
+||**Gesamt ECTS-Punkte**||||||**10**|**5**|**5**|**0**|**0**|||
+|**Wahlpflichtmodule der Modulgruppen 1-3**||||||||||||||
+|||||||||||||||
+|||||||||||||||
+||**Modulgruppe 1 gemäß Modulhandbuch**||||||**15-20**|**15-204)**|||**0**|**vgl. § 52 Abs. 5**||
+||**Modulgruppe 2 gemäß Modulhandbuch**||||||**15-20**|**15-204)**|||**0**|**vgl. § 52 Abs. 5**||
+||**Modulgruppe 3 gemäß Modulhandbuch**||||||**20-25**|**20-254)**|||**0**|**vgl. § 52 Abs. 5**||
+||**Gesamt ECTS-Punkte**||||||**35-40**|**35-40**|||**0**|||
 
 
 
 17 
 
-|**Modul-Code**|**Modulbezeichnung**|**Lehrveranstaltung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Modulbezeichnung**||**Lehrveranstaltung**|||||**Ge-**<br>**samt-**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfun**|**Faktor**<br>**Modul-**<br>**note**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**||**ECTS**<br>**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**||||
+||||||**SWS**|||||||||||
+|**Modul-Code**||||||||||||||||
+|||||**V**|||||**1**|**2**|**3**|**4**||||
+||||||**Ü**|**P**|**S**|**ECTS**|<br>**.**<br>**Sem**|**.**|**.**|**.**|**g**|||
+|||||||||||**Sem**|**Sem**|**Sem**||||
+||||||||||**.**|**.**|**.**|**.**||||
 |**Spezialisierung**||||||||||||||||
-|**ILS-MA-VM**|**Advanced Module**||Lecture, seminar, practical<br>trainingin chosen subject|||||20|||20||PL: mündliche Prüfung<br>30 Min.|1||
-|**ILS-MA-TH**|**Master’s thesis**||Master‘s thesis|||||30||||30|PL: schriftliche Arbeit,<br>ca. 20.000 Wörter +<br>SL: Seminarvortrag 30 Min.<br>(Präsentation der Ergebnisse)|1||
+||**Advanced Module**||Lecture, seminar, practical<br>trainingin chosen subject|||||20|||20||PL: mündliche Prüfung<br>30 Min.|1||
+|**ILS-MA-VM**||||||||||||||||
+|||||||||||||||||
+||**Master’s thesis**||Master‘s thesis|||||30||||30|PL: schriftliche Arbeit,<br>ca. 20.000 Wörter +<br>SL: Seminarvortrag 30 Min.<br>(Präsentation der Ergebnisse)|1||
+|**ILS-MA-TH**||||||||||||||||
+|||||||||||||||||
 ||**Gesamt ECTS-Punkte**|||||||50|||20|30||||
-||**Summe SWS und ECTS**|||**3)**|**3)**|**3)**|**3)**|**120**|**304,5)**|**304,5)**|**304,5)**|**30**||||
+|||||||||||||||||
+|||||||||||||||||
+||**Summe SWS und ECTS**|||**3)**|**3)**|**3)**|**3)**|**120**|**304,5)**|||||||
+|||||||||||**304,5)**|**304,5)**|**30**||||
+|||||||||||||||||
 
 
 
@@ -473,6 +607,10 @@ Module und Lehrveranstaltungsformen: _Specialisation module_ = Vertiefungsmodul 
 Abkürzungen Lehrformen: P = Praktikum = _laboratory course_ S = Seminar = _seminar_ Ü = Übung oder Laborübung = _tutorial or laboratory course_ V = Vorlesung = _lecture_ 
 
 18 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ECTS = Credit points of the European Credit Transfer Systems SWS = Semesterwochenstunden ( _semester hours_ ) 
 

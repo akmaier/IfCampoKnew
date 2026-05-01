@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakul
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-04-25T14:14:47+00:00
+scraped_at: 2026-05-01T06:51:22+00:00
 ---
 
 # Wirtschaftsingenieurwesen (B.Sc.)

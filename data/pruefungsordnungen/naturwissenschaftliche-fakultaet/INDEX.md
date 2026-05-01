@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Naturwissenschaftliche Fakultät"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/
-scraped_at: 2026-04-25T14:39:46+00:00
+scraped_at: 2026-05-01T07:29:57+00:00
 ---
 
 # Naturwissenschaftliche Fakultät
@@ -77,6 +77,7 @@ Die folgenden Webseiten der Prüfungsordnungen haben teilweise sehr lange Ladeze
 * [Materialphysik/Material Physics](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/#materialphysikmaterial-physics)
 * [Physics (Master)](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/#physik-bachelor-und-physics-master)
 * [Physik](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/#physik-bachelor-und-physics-master)
+* [Photon Science and Technology (Kooperationsstudiengang)](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/#photon-science-and-technology-kooperationsstudiengang)
 
 ### Modulstudien und weitere Studien
 

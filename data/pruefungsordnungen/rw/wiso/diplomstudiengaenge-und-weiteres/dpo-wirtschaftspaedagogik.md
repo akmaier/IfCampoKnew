@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.12.1999 i.d.F. 17.08.2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/DPO_Wirtschaftspaedagogik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-04-25T16:23:33+00:00
+scraped_at: 2026-05-01T09:31:58+00:00
 page_count_chars: 58210
 ---
 

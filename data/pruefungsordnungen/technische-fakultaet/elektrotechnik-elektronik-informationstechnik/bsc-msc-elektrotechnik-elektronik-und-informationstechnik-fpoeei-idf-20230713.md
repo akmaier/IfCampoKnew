@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Elektrotechnik, Elektronik und Informationstechnik FPOEEI i.d.F. 20230713.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Elektrotechnik_Elektronik_und_Informationstechnik/konsolidierte_Fassungen/BSc-MSc_Elektrotechnik, Elektronik_und_Informationstechnik_FPOEEI_idF_20230713.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-04-25T16:54:55+00:00
+scraped_at: 2026-05-01T10:06:18+00:00
 page_count_chars: 47027
 ---
 

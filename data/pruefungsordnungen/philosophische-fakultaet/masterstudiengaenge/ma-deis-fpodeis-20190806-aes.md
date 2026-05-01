@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA DEIS FPODEIS 20190806 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/Aenderungssatzungen/MA_DEIS_FPODEIS_20190806_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:22:17+00:00
+scraped_at: 2026-05-01T08:25:38+00:00
 page_count_chars: 5549
 ---
 

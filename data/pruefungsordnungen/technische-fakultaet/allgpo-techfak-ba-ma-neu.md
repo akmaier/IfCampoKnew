@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 18.09.2007 i.d.F. 07.07.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/AllgPO_TechFak_BA-MA_NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:44:21+00:00
-page_count_chars: 59556
+scraped_at: 2026-05-01T09:55:09+00:00
+page_count_chars: 59550
 ---
 
 # PDF vom 18.09.2007 i.d.F. 07.07.2010
@@ -287,7 +287,7 @@ Prüfenden oder des Prüfenden festlegen, dass in diesem Prüfungsabschnitt die 
 
 |gedrückt:|||
 |---|---|---|
-|sehr gut<br>es|= (1,0 oder 1,3)|eine hervorragende Leistung;|
+|sehr gut|= (1,0 oder 1,3)|eine hervorragende Leistung;|
 |gut|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den durch-<br>schnittlichen Anforderungen liegt;|
 |befriedigend|= (2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen Anforde-<br>rungen entspricht;|
 |ausreichend|= (3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch den<br>Anforderungen entspricht;|

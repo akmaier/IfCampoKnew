@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "23. August 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_Jurist-UniPruefung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:07:53+00:00
+scraped_at: 2026-05-01T09:17:14+00:00
 page_count_chars: 1414
 ---
 

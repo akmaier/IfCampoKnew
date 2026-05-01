@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "PO Zusatzstudien Gender 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Gender_1_2_3/konsolidierte_Fassungen/PO_Zusatzstudien_Gender_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-04-25T15:31:22+00:00
-page_count_chars: 10005
+scraped_at: 2026-05-01T08:39:39+00:00
+page_count_chars: 10538
 ---
 
 # PO Zusatzstudien Gender 20260305.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Gender_1_2_3/konsolidierte_Fassungen/PO_Zusatzstudien_Gender_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Studien- und Prüfungsordnung für die Zusatzstudien „Gender 1 2 3“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO ZS Gender – Vom 5. März 2026** 
 
@@ -31,6 +35,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 77 Abs. 5, Art. 80 Abs. 1 Satz 1, Art. 
 (1)[1] Die Aufnahme der Zusatzstudien „Gender 1 2 3“ ist nur zum Wintersemester möglich.[2] Nach Abschluss des Studiums der Zusatzstudien bzw. nach deren (endgültigem) Nichtbestehen ist eine erneute Immatrikulation in die Zusatzstudien „Gender 1 2 3“ an der FAU ausgeschlossen. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] Die Regelstudienzeit beträgt drei Semester und darf um maximal zwei Semester überschritten werden.[2] Die Studierenden haben die Möglichkeit, die Zusatzstudien „Gender 1 2 3“ im Laufe ihres gesamten Bachelor-, Master- oder Lehramtsstudiums zu einem beliebigen Zeitpunkt zu absolvieren.[3] Der Umfang der im Rahmen der Zusatzstudien „Gender 1 2 3“ angebotenen Module richtet sich nach der **Anlage** .[4] Zum erfolgreichen Bestehen der Zusatzstudien sind Module im Umfang von 15 ECTS-Punkten nachzuweisen. 
 
@@ -62,6 +70,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 77 Abs. 5, Art. 80 Abs. 1 Satz 1, Art. 
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Sozialwissenschaften/Digital Humanities, Germanistik/Komparatistik, Geschichte, Pädagogik, Psychologie, Soziologie und der Fachbereich Theologie.[3] Die Prüfungsgegenstände beziehen sich auf eine erfolgreiche Anwendung der Forschungansätze durch Bearbeitung einer fachspezifischen Forschungsfrage.[4] Die spezifischen Qualifikationsziele und Prüfungsgegenstände des jeweiligen Wahlpflichtmoduls sind abhängig vom jeweils gewählten Modul und sind der jeweils einschlägigen **(Fach-)Studienund Prüfungsordnung** bzw. der jeweils einschlägigen Modulbeschreibung zu entnehmen.[5] Der Katalog der wählbaren Module wird vor Semesterbeginn ortsüblich bekanntgemacht.[6] Der Katalog wählbarer Module nach Satz 5 kann erweitert werden; Näheres regelt das Modulhandbuch der Zusatzstudien „Gender 1 2 3“. 
 
 (2)[1] Art und Umfang der Lehrveranstaltungen und der Prüfungen sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1.[2] Sie richten sich nach den Vorgaben der beteiligten Studienfächer und sind der jeweils einschlägigen **(Fach-)Studien- und Prüfungsordnung** bzw. der einschlägigen Modulbeschreibung zu entnehmen. 
@@ -80,13 +92,18 @@ Sozialwissenschaften/Digital Humanities, Germanistik/Komparatistik, Geschichte, 
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage: Studienverlaufsplan Zusatzstudien „Gender 1 2 3“** 
 
 |**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punk-**<br>**ten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punk-**<br>**ten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punk-**<br>**ten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||**ten**||||
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|||
 |Basismodul: Was ist Gender?|Vorlesung||||2|**5**|5|||Klausur (90 Min.)|1|
-|Gender in Natur- und Technik-<br>wissenschaften|Seminar||||3|**5**||5||Klausur in Form eines Essays<br>(180 Min.)|Klausur in Form eines Essays<br>1|
+|Gender in Natur- und Technik-<br>wissenschaften|Seminar||||3|**5**||5||Klausur in Form eines Essays<br>(180 Min.)|<br>1|
 |Wahlpflichtmodul|Seminar oder Vorlesung|(2)|||(2)|**5**|||5|vgl. § 7 Abs. 2|1|
 |**Summe SWS und ECTS-Punkte**||**0-2**|**0**|**0**|**5-7**|**15**|**5**|**5**|**5**|||
 |||**7**||||||||||
@@ -94,6 +111,10 @@ Sozialwissenschaften/Digital Humanities, Germanistik/Komparatistik, Geschichte, 
 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026 Erlangen, den 5. März 2026 
 

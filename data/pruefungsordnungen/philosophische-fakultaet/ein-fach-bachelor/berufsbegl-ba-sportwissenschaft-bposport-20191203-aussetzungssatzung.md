@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl BA Sportwissenschaft BPOSport 20191203 Aussetzungssatzung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Ein-Fach/Sportwissenschaft/Aenderungssatzungen/berufsbegl_BA_Sportwissenschaft_BPOSport_20191203_Aussetzungssatzung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:13:44+00:00
+scraped_at: 2026-05-01T08:11:55+00:00
 page_count_chars: 1242
 ---
 

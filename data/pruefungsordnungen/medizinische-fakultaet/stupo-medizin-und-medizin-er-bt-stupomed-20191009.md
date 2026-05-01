@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPO Medizin und Medizin ER-BT StuPOMed 20191009.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Medizin/konsolidierte_Fassungen/StuPO_Medizin_und Medizin_ER-BT_StuPOMed_20191009.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:33:57+00:00
+scraped_at: 2026-05-01T07:23:30+00:00
 page_count_chars: 75127
 ---
 

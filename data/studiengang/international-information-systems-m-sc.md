@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-04-25T14:11:36+00:00
+scraped_at: 2026-05-01T06:46:51+00:00
 ---
 
 # International Information Systems (M.Sc.)

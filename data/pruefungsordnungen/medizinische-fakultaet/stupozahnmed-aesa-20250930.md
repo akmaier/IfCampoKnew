@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPOZahnMed ÄSa 20250930.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Zahnmedizin_Staatsexamen/Aenderungssatzungen/StuPOZahnMed_AeSa_20250930.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:38:34+00:00
-page_count_chars: 40468
+scraped_at: 2026-05-01T07:28:40+00:00
+page_count_chars: 42308
 ---
 
 # StuPOZahnMed ÄSa 20250930.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Med/Zahnmedizin_Staatsexamen/Aenderungssatzungen/StuPOZahnMed_AeSa_20250930.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für das Studium der Zahnmedizin an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – StuPOZahnMed – Vom 30. September 2025** 
 
@@ -31,6 +35,10 @@ Die Studien- und Prüfungsordnung für das Studium der Zahnmedizin an der Friedr
       - bb) In Satz 2 werden nach den Worten „Die erfolgreiche Teilnahme an“ die Worte und das Zeichen „einem Praktikum, einer Übung“ durch die Worte „einer praktischen Lehrveranstaltung“ und nach den Worten „und Fertigkeiten über den“ die Worte, die Zeichen und die Buchstaben „dem Praktikum (P), der Übung (Ü)“ durch die Worte, die Zeichen und die Buchstaben „der praktischen Lehrveranstaltung (P, PPh, PP, Ü)“ ersetzt. 
 
    - b) In Abs. 6 Satz 1 werden am Satzanfang nach den Worten „Bei den“ die Worte, die Zeichen und die Buchstaben „Praktika (P), Praktika am Phantom (PPh), Übungen (Ü)“ durch die Worte, die Zeichen und die 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Buchstaben „praktischen Lehrveranstaltungen (P, PPh, PP, Ü)“ ersetzt und nach den Worten „Prüfung gegen Ende“ die Worte und das Zeichen „des Praktikums, der praktischen Übung“ durch die Worte „der praktischen Lehrveranstaltung“ ersetzt. 
 
@@ -55,6 +63,10 @@ Buchstaben „praktischen Lehrveranstaltungen (P, PPh, PP, Ü)“ ersetzt und na
    - b) In Abs. 3 Satz 2 werden nach den Worten „wird spätestens“ die Worte „vier Wochen“ durch die Worte „eine Woche“ ersetzt. 
 
 7.  In § 20 Satz 2 werden nach den Worten „wird spätestens“ die Worte „vier Wochen“ durch die Worte „eine Woche“ ersetzt. 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 8.  In § 21 Abs. 1 Satz 2 werden nach den Worten „wenn sie mindestens mit“ die Worte „der Note“ durch die Worte „dem Prädikat“ ersetzt. 
 
@@ -82,6 +94,10 @@ Buchstaben „praktischen Lehrveranstaltungen (P, PPh, PP, Ü)“ ersetzt und na
 
 „[2] Studierende haben im Zweiten Studienabschnitt eine Wahlfachveranstaltung nach § 11 **ZApprO** zu absolvieren.[3] Die Liste 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 der von der medizinischen Fakultät angebotenen Wahlfächer wird vom Fakultätsrat unter Berücksichtigung der insgesamt erforderlichen Plätze beschlossen und auf den Internetseiten der Medizinischen Fakultät der FAU ortsüblich bekannt gemacht.[4] Die Leistung im Wahlfach wird benotet.“ 
 
    - b) In Abs. 4 werden nach den Worten „Teilnahme an einzelnen“ die Worte „Praktika oder Praktika am Phantom“ durch die Worte, die Zeichen und die Buchstaben „praktischen Lehrveranstaltungen (P, PPh, PP, Ü)“ ersetzt. 
@@ -99,6 +115,10 @@ der von der medizinischen Fakultät angebotenen Wahlfächer wird vom Fakultätsr
 ## 13.  In § 30 wird nach Abs. 2 folgender Abs. 3 neu angefügt: 
 
 - „(3)[1] Die erste Änderungssatzung tritt zum 1. Oktober 2025 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2025/2026 aufnehmen werden sowie für alle Studierenden, die nach der Fassung vom 4. September 2024 studieren.“ 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 14. Die **Anlage 1** erhält folgende neue Fassung: 
 
@@ -121,6 +141,10 @@ Praktische Lehrveranstaltung (P + E-P) sowie Übungen (Ü), die im Ersten Studie
 
 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semesterwoch**<br>**enstunden**<br>**(SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und**<br>**Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraus**<br>**setzung an der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach**<br>**ZApprO**|
 |---|---|---|---|---|---|---|
 |1-P10B|Biochemisches Praktikum II|3,5|49|P|1-P2,<br>Betriebsärztliche<br>Untersuchung|Praktikum der Biochemie und<br>Molekularbiologie|
@@ -135,6 +159,10 @@ Praktische Lehrveranstaltung (P + E-P) sowie Übungen (Ü), die im Ersten Studie
 
 
 > 1 Dieses Praktikum ist in der vorlesungsfreien Zeit als fünftägiges Praktikum in einer zahnmedizinischen Einrichtung abzuleisten.“ 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 15. Die **Anlage 2** erhält folgende neue Fassung: 
 
@@ -158,6 +186,10 @@ Vorlesungen (VL) im Ersten Studienabschnitt, die der Begleitung und Einführung 
 
 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semesterwoch**<br>**enstunden**<br>**(SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraus**<br>**setzung an der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
 |---|---|---|---|---|---|---|
 |1-V12|Neuroanatomie|1,5|21|VL||Praktikum der makroskopischen<br>Anatomie|
@@ -172,6 +204,10 @@ Vorlesungen (VL) im Ersten Studienabschnitt, die der Begleitung und Einführung 
 |1-V20|Einführung in die Zahnmedizin incl.<br>Berufsfelderkundung|2|28|VL||Praktikum der Zahnmedizinischen<br>Propädeutik mit Schwerpunkt Präventive<br>Zahnheilkunde/Dentale Technologie|
 
 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 16. Die **Anlage 3** erhält folgende neue Fassung: 
 
@@ -194,6 +230,10 @@ Praktische Lehrveranstaltungen (Praktika (P), Praktika am Phantom (PPh) und Prak
 
 
 “ 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 17. Die **Anlage 4** erhält folgende neue Fassung: 
 
@@ -218,6 +258,10 @@ Die Bezeichnungen Q 1-9 beziehen sich auf die Querschnittsbereiche gemäß **Anl
 
 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semester**<br>**wochenst**<br>**unden**<br>**(SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und**<br>**Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraus**<br>**setzung an der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
 |---|---|---|---|---|---|---|
 |2-V11|Einführung zum Praktikum der zahnärztlich-<br>chirurgischen Propädeutik und Notfallmedizin (Teil II)<br>-**QZ1**|1|14|VL||Praktikum der zahnärztlich-chirurgischen<br>Propädeutik und der Notfallmedizin und<br>**QZ1**|
@@ -234,6 +278,10 @@ Die Bezeichnungen Q 1-9 beziehen sich auf die Querschnittsbereiche gemäß **Anl
 
 
 “ 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 18. Die **Anlage 5** erhält folgende neue Fassung: 
 
@@ -260,7 +308,11 @@ Die Bezeichnungen Q1-9 beziehen sich auf die Querschnittsbereiche gemäß **Anla
 
 
 
-|**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semesterw**<br>**ochenstun**<br>**den (SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und**<br>**Semester**<br>~~Ll~~<br>~~AX\ \(~~|**Art der**<br>**Veranstaltung**<br>~~\( )~~|**Teilnahmevora**<br>**ussetzung an**<br>**der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semesterw**<br>**ochenstun**<br>**den (SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und**<br>**Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevora**<br>**ussetzung an**<br>**der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
 |---|---|---|---|---|---|---|
 |3-S2|Seminar zum Praktikum der kieferorthopädischen<br>DiagnostikundTherapieI|1|14|S||Praktikum der kieferorthopädischen<br>DiagnostikundTherapieI|
 |3-S3|Seminar zum Praktikum der kieferorthopädischen<br>Diagnostik und Therapie II|1|14|S|3-S2|Praktikum der kieferorthopädischen<br>Diagnostik und Therapie II|
@@ -282,6 +334,10 @@ Die Bezeichnungen Q1-9 beziehen sich auf die Querschnittsbereiche gemäß **Anla
 
 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semesterw**<br>**ochenstun**<br>**den (SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und**<br>**Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevora**<br>**ussetzung an**<br>**der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
 |---|---|---|---|---|---|---|
 |3-P27|Hygiene – Integrierter Behandlungskurs III|1|14|P|3-P26|Integrierter Behandlungskurs III|
@@ -297,6 +353,10 @@ Die Bezeichnungen Q1-9 beziehen sich auf die Querschnittsbereiche gemäß **Anla
 
 “ 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 19. Die **Anlage 6** erhält folgende neue Fassung: 
 
 ## „ **Anlage 6: Ausbildungskatalog Dritter Studienabschnitt – Teil 2** 
@@ -307,10 +367,10 @@ Die Bezeichnungen **QZ 1-9** beziehen sich auf die Querschnittsbereiche gemäß 
 
 |**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semester**<br>**wochenst**<br>**unden**<br>**(SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und**<br>**Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraus**<br>**setzung an der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
 |---|---|---|---|---|---|---|
-|3-V1|Poliklinik zum integrierten Behandlungskurs I u. IV|2|28|VL<br>~~(OG~~|~~(OG~~|Integrierter Behandlungskurs I u. IV<br>~~(~~|
-|3-V2<br>~~(OD~~|Zahnerhaltungskunde I<br>~~(OD~~|2<br>~~(OD~~|28<br>~~(OD~~|VL<br>~~(OD~~<br>~~(OG~~|~~(OD~~<br>~~(OG~~|Integrierter Behandlungskurs I<br>~~(OD~~<br>~~(~~|
-|3-V3<br>~~(OD~~|Zahnerhaltungskunde II<br>~~(OD~~|2<br>~~(OD~~|28<br>~~(OD~~|VL<br>~~(OD~~<br>~~(OG~~|3-V2<br>~~(OD~~<br>~~(OG ~~|Integrierter Behandlungskurs IV<br>~~(OD~~<br> ~~(~~|
-|3-V4<br>~~a ~~|Therapie der Parodontopathien<br> ~~a~~|2<br>~~GG~~|28<br>~~GG~~|VL<br>~~GG~~|~~GG~~|Integrierter Behandlungskurs IV<br>~~GG~~|
+|3-V1|Poliklinik zum integrierten Behandlungskurs I u. IV|2|28|VL||Integrierter Behandlungskurs I u. IV|
+|3-V2|Zahnerhaltungskunde I|2|28|VL||Integrierter Behandlungskurs I|
+|3-V3|Zahnerhaltungskunde II|2|28|VL|3-V2|Integrierter Behandlungskurs IV|
+|3-V4|Therapie der Parodontopathien|2|28|VL||Integrierter Behandlungskurs IV|
 |3-V5|Parodontologische Demonstrationen|1|14|VL||Integrierter Behandlungskurs IV|
 |3-V6|Kinderzahnheilkunde|1|14|VL||Integrierter Behandlungskurs IV|
 |3-V7|Unterweisungen im zahnärztlichen Klinikalltag Teil II|2|28|E-VL||Integrierter Behandlungskurs I|
@@ -322,25 +382,33 @@ Die Bezeichnungen **QZ 1-9** beziehen sich auf die Querschnittsbereiche gemäß 
 
 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semester**<br>**wochenst**<br>**unden**<br>**(SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und**<br>**Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraus**<br>**setzung an der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
 |---|---|---|---|---|---|---|
 |3-V13|Poliklinisches Kolloquium der Zahnersatzkunde II|1|14|VL||Integrierter Behandlungskurs III|
 |3-V14|Allgemeine Pathologie|1|14|VL||Fach Pathologie|
-|3-V15<br>~~ee~~|Zahn-, Mund- und Kieferkrankheiten u. Mund-, Kiefer-<br>u. Gesichtschirurgie I<br>~~ee~~|1<br>~~ee~~|14<br>~~ee~~|VL<br>~~ee~~|~~ee~~|Praktikum in der Klinik oder Poliklinik für<br>Zahn-, Mund- und Kieferkrankheiten I u.<br>II<br>~~ee~~|
-|3-V16<br>~~ee~~|Zahn-, Mund- und Kieferkrankheiten u. Mund-, Kiefer-<br>u. Gesichtschirurgie II<br>~~ee~~|1<br>~~ee~~|14<br>~~ee~~|VL<br>~~ee~~|3-V15<br>~~ee~~|Praktikum in der Klinik oder Poliklinik für<br>Zahn-, Mund- und Kieferkrankheiten I u.<br>II<br>~~ee~~|
+|3-V15|Zahn-, Mund- und Kieferkrankheiten u. Mund-, Kiefer-<br>u. Gesichtschirurgie I|1|14|VL||Praktikum in der Klinik oder Poliklinik für<br>Zahn-, Mund- und Kieferkrankheiten I u.<br>II|
+|3-V16|Zahn-, Mund- und Kieferkrankheiten u. Mund-, Kiefer-<br>u. Gesichtschirurgie II|1|14|VL|3-V15|Praktikum in der Klinik oder Poliklinik für<br>Zahn-, Mund- und Kieferkrankheiten I u.<br>II|
 |3-V17|Zahn-, Mund- und Kieferkrankheiten u. Mund-, Kiefer-<br>u. Gesichtschirurgie III|1|14|VL|3-V16|Praktikum in der Klinik oder Poliklinik für<br>Zahn-, Mund- und Kieferkrankheiten I u.<br>II|
 |3-V18|Zahn-, Mund- und Kieferkrankheiten u. Mund-, Kiefer-<br>u. Gesichtschirurgie IV|1|14|VL|3-V17|Praktikum in der Klinik oder Poliklinik für<br>Zahn-, Mund- und Kieferkrankheiten I u.<br>II|
-|3-V19<br>~~a~~|Oralchirurgie I<br>~~a~~<br>~~a~~|1|14|VL||Operationskurs I|
+|3-V19|Oralchirurgie I|1|14|VL||Operationskurs I|
 |3-V20|Oralchirurgie II|1|14|VL|3-V19|Operationskurs II|
-|3-V21<br>~~a~~|eReconstruction (Chirurgische Techniken)<br>~~a~~|2|28|E-VL||Operationskurs II|
+|3-V21|eReconstruction (Chirurgische Techniken)|2|28|E-VL||Operationskurs II|
 |3-V22|eOralSurgery (Oralchirurgie)|2|28|E-VL||Operationskurs II|
-|3-V23<br>~~a~~|Kieferorthopädie I<br>~~a~~|2|28|VL||Praktikum der kieferorthopädischen<br>Diagnostik und Therapie I|
+|3-V23|Kieferorthopädie I|2|28|VL||Praktikum der kieferorthopädischen<br>Diagnostik und Therapie I|
 |3-V24|Kieferorthopädie II|2|28|VL|3-V23|Praktikum der kieferorthopädischen<br>Diagnostik und Therapie II|
 |3-V25|Evidenz in der Zahnmedizin -**QZ8**|2|28|E-VL||**QZ8**|
 |3-V26|Lippen-Kiefer-Gaumenspalten|2|28|E-VL||Praktikum der kieferorthopädischen<br>Diagnostik und Therapie II|
 |3-V27|Vorlesung zum Praktikum der zahnmedizinischen<br>Diagnostik und BehandlungsplanungI|1|14|VL||Praktikum der zahnmedizinischen<br>Diagnostik und BehandlungsplanungI|
 
 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semester**<br>**wochenst**<br>**unden**<br>**(SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und**<br>**Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraus**<br>**setzung an der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
 |---|---|---|---|---|---|---|
@@ -360,6 +428,10 @@ Die Bezeichnungen **QZ 1-9** beziehen sich auf die Querschnittsbereiche gemäß 
 
 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semester**<br>**wochenst**<br>**unden**<br>**(SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und**<br>**Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraus**<br>**setzung an der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
 |---|---|---|---|---|---|---|
 |3-V41|Ethik und Geschichte der Medizin und der<br>Zahnmedizin**QZ8**|1|14<br>(6VL/8S)|VL/S||Ethik und Geschichte der Medizin und<br>der Zahnmedizin**QZ8**|
@@ -371,7 +443,11 @@ Die Bezeichnungen **QZ 1-9** beziehen sich auf die Querschnittsbereiche gemäß 
 
 “ 
 
-20. Die **Anlage 7** erhält folgende neue Fassung: 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+## 20. Die **Anlage 7** erhält folgende neue Fassung: 
 
 - „ **Anlage 7: Ausbildungskatalog Zweiter Studienabschnitt – Teil 1 Übergangsregelung (Ü) § 134 ZApprO** 
 
@@ -391,6 +467,10 @@ Praktische Lehrveranstaltungen (Praktika (ÜP) und Praktika am Phantom (ÜPPh)),
 
 
 “ 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 21. Die **Anlage 8** wird durch folgende neue Anlage 8 ersetzt: 
 
@@ -412,6 +492,10 @@ Vorlesungen (VL + E-VL) im Zweiten Studienabschnitt, die der Begleitung und Einf
 
 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Kenncod**<br>**es der**<br>**Ausbildu**<br>**ngseinhe**<br>**iten**|**Bezeichnung der Veranstaltungen**|**Semester**<br>**wochenstu**<br>**nden**<br>**(SWS)**|**Akademische**<br>**Stunden**<br>**pro**<br>**Veranstaltung**<br>**und Semester**|**Art der**<br>**Veranstaltung**|**Teilnahmevora**<br>**ussetzung an**<br>**der**<br>**Veranstaltung**|**Zugeordnet dem Schein nach ZApprO**|
 |---|---|---|---|---|---|---|
 |2-ÜV12|Vorlesung zum Radiologischen Praktikum|2|28|VL||Radiologisches Praktikum<br>mit besonderer Berücksichtigung des<br>Strahlenschutzes|
@@ -424,11 +508,15 @@ Vorlesungen (VL + E-VL) im Zweiten Studienabschnitt, die der Begleitung und Einf
 
 **§ 2** 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 1Die erste Änderungssatzung tritt zum 1. Oktober 2025 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2025/2026 aufnehmen werden sowie für alle Studierenden, die nach der Fassung vom 4. September 2024 studieren. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 4. Juni 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 30. September 2025 Erlangen, den 30. September 2025 FAU 
 
-gez. 
+## gez. 
 
 Prof. Dr.-Ing. Joachim Hornegger, Präsident 
 

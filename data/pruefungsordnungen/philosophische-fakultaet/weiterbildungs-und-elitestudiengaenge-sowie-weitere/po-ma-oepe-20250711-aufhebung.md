@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "PO MA OEPE 20250711 Aufhebung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20250711_Aufhebung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:39:52+00:00
-page_count_chars: 2797
+scraped_at: 2026-05-01T08:47:47+00:00
+page_count_chars: 3013
 ---
 
 # PO MA OEPE 20250711 Aufhebung.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20250711_Aufhebung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Satzung der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) über die Aufhebung des Berufsbegleitenden Weiterbildungsstudiengangs Organisations- und Personalentwicklung an der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) - Aufhebungssatzung OEPE -** 
 
@@ -35,6 +39,10 @@ In § 31 wird nach Abs. 4 folgender neuer Abs. 5 angefügt:
 „(5) 1Der berufsbegleitende Weiterbildungsstudiengang Organisationsund Personalentwicklung wird mit Wirkung zum Wintersemester 2026/2027 aufgehoben. 2Diese Studien- und Prüfungsordnung tritt mit Wirkung zum 30. September 2026 außer Kraft.[3] Prüfungen nach dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.“ 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 4 Inkrafttreten** 
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA FPO BA SKAND 20071004 i.d.F. 20190520.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Skandinavistik/konsolidierte_Fassungen/2-Fach-BA_FPO_BA_SKAND_20071004_idF_20190520.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:04:17+00:00
+scraped_at: 2026-05-01T09:12:58+00:00
 page_count_chars: 12251
 ---
 

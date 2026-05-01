@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
-scraped_at: 2026-04-25T14:09:45+00:00
+scraped_at: 2026-05-01T06:43:31+00:00
 ---
 
 # Chinesisch (Lehramt)

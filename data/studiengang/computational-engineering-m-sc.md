@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-04-25T14:09:51+00:00
+scraped_at: 2026-05-01T06:43:47+00:00
 ---
 
 # Computational Engineering (M.Sc.)

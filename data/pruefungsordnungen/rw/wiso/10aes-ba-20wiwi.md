@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "1. August 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/10AES-BA%20WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:12:05+00:00
+scraped_at: 2026-05-01T09:22:20+00:00
 page_count_chars: 3497
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "29. Januar 2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AeSa-PrO-Jurist-Unipr.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:08:01+00:00
+scraped_at: 2026-05-01T09:17:25+00:00
 page_count_chars: 1598
 ---
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AES%20BA-MA%20ILS-Bio....pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:43:50+00:00
-page_count_chars: 30066
+scraped_at: 2026-05-01T07:34:15+00:00
+page_count_chars: 30334
 ---
 
 # 30. Juli 2012
@@ -250,9 +250,16 @@ Zugangskommission in Anwesenheit einer Beisitzerin oder eines Beisitzers durchge
 
 Inhalt, Aufbau und Gliederung des Masterstudiums Integrated Life Sciences 
 
-|**Module verteilt in**<br>**die Modulgruppen**|**Möglich**<br>**auch**<br>**in MG:**|**SWS**<br>**Möglich**|**SWS**<br>**Möglich**|**SWS**<br>**Möglich**|**ECTS-**<br>**Punkte**<br>**(insg.)**|**ECTS-Punkte,**<br>**Verteilung auf die**<br>**Semester**|**ECTS-Punkte,**<br>**Verteilung auf die**<br>**Semester**|**ECTS-Punkte,**<br>**Verteilung auf die**<br>**Semester**|**ECTS-Punkte,**<br>**Verteilung auf die**<br>**Semester**|**Art und Umfang**<br>**der Prüfung**|
+||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|
-|||**VORL/**<br>**SEM**|**VORL/**<br>**UE/**<br>**SEM**|**PR**||**1.**|**2.**|**3.**|**4.**||
+|**Module verteilt in**<br>**die Modulgruppen**||||||**ECTS-Punkte,**||||**Art und Umfang**<br>**der Prüfung**|
+||**Möglich**|**SWS**<br>|||**ECTS-**|**Verteilung auf die**|||||
+||<br>**auch**<br>||||**Punkte**<br>|**Semester**|||||
+||**in MG:**|**VORL/**|<br>**UE/**||**(insg.)**||||||
+|||||**PR**||**1.**|**2.**|**3.**|**4.**||
+|||**SEM**|**SEM**||||||||
+||||||||||||
+||||||||||||
 |**MG1: Mathematische Modellierung und Systembiologie:**<br>Einführung in die<br>Statistik mit<br>Rechnerübungen<br>(Pflicht für alle MG)<br>2<br>1 + 1<br>5<br>5<br>Klausur ca. 90 Min<br>Vertiefungsmodul<br>Insg. 600h<br>20<br>20<br>mündliche Prüfung<br>ca. 30 Min<br>Masterthesis<br>Insg. 900h<br>30<br>30 schriftliche Arbeit<br>Biomathematik<br>(Pflicht für MG1)<br>4<br>2<br>10<br>10<br>mündliche Prüfung<br>ca. 30 Min<br>Systembiologie<br>(Pflicht für MG1)<br>3<br>2<br>1<br>5<br>5<br>Klausur 60 Min<br>*** Metabolische<br>Netzwerke II<br>3<br>3<br>1<br>5<br>5<br>Klausur 60 Min<br>*** Räumliche<br>Modelle der<br>Stoffwechsel-<br>3<br>4<br>2<br>2<br>10<br>10<br>Klausur 60 Min|||||||||||
 
 
@@ -261,16 +268,68 @@ Inhalt, Aufbau und Gliederung des Masterstudiums Integrated Life Sciences
 
 |regulation<br>Stochastische<br>Modelle für<br>Lebens-<br>wissenschaftler<br>Einführung in die<br>Mathematische<br>Modellierung<br>Numerische<br>Methoden für<br>Natur-<br>wissenschaftler<br>Partielle<br>Differentialgleichun<br>gen für Lebens-<br>wissenschaftler<br>Bioinformatik von<br>Hochdurchsatzdaten<br>Komplexe Systeme<br>Teil I<br>Komplexe Systeme<br>Teil II<br>Computersimulatio-<br>nen embryonaler<br>Musterbildungs-<br>prozesse<br>Bioanalytik<br>Cycles, Poles and<br>Time|3<br>3<br>3|2<br>2<br>2<br>2<br>2<br>2<br>2<br>1<br>1<br>1|2<br>2<br>2<br>2<br>2<br>2<br>2<br>7<br>7<br>1 + 3||5<br>5<br>5<br>5<br>5<br>5<br>5<br>7,5<br>7,5<br>5|5<br>5<br>7,5*|5<br>5<br>5<br>5<br>5<br>7,5<br>5|7,5*||mündliche Prüfung<br>ca. 30 Min<br>Klausur ca. 90 Min<br>oder mündliche<br>Prüfung ca. 15 Min<br>Klausur ca. 90 Min<br>oder mündliche<br>Prüfung ca. 15 Min<br>Klausur ca. 90 Min<br>oder mündliche<br>Prüfung ca. 15 Min<br>mündliche Prüfung<br>ca. 30 Min<br>Klausur ca. 60 Min<br>Klausur ca. 60 Min<br>Klausur 60 Min<br>mündliche Prüfung<br>ca. 30 Min<br>Klausur 60 Min<br>oder mündliche<br>Prüfung 30 Min|
 |---|---|---|---|---|---|---|---|---|---|---|
-|**MG2: Bioimaging und Biophysik:**<br>Einführung in die<br>Statistik mit<br>Rechnerübungen<br>(Pflicht für alle MG)<br>2<br>1 + 1<br>5<br>5<br>Klausur ca. 90 Min<br>Vertiefungsmodul<br>Insg. 600h<br>20<br>20<br>mündliche Prüfung<br>ca. 30 Min<br>Masterthesis<br>Insg. 900h<br>30<br>30<br>schriftliche Arbeit<br>*** Bioimaging &<br>Biophysik (Pflicht<br>für MG2)<br>3<br>2 + 2<br>4 + 4<br>15<br>7,5<br>7,5<br>Klausur 120 Min<br>Grundkurs Optik I:<br>Geometrische und<br>technische Optik<br>2<br>2<br>5<br>5*<br>5*<br>mündliche Prüfung<br>ca. 30 Min<br>Grundkurs Optik II:<br>Wellenoptik<br>2<br>2<br>5<br>5<br>mündliche Prüfung<br>ca. 30 Min<br>Mathematische<br>Bildverarbeitung<br>2<br>2<br>5<br>5<br>Klausur ca. 60 Min<br>oder mündliche|||||||||||
+|**MG2: Bioimaging und Biophysik:**|||||||||||
+||||||||||||
+|Einführung in die<br>Statistik mit<br>Rechnerübungen<br>(Pflicht für alle MG)|||||||||||
+|||2|1 + 1||5||5|||Klausur ca. 90 Min|
+||||||||||||
+||||||||||||
+|Vertiefungsmodul||||||||||mündliche Prüfung|
+|||Insg. 600h|||20|||20|||
+|||||||||||ca. 30 Min|
+||||||||||||
+||||||||||||
+|Masterthesis||Insg. 900h|||30||||30|schriftliche Arbeit|
+||||||||||||
+|*** Bioimaging &<br>Biophysik (Pflicht<br>für MG2)|||||||||||
+||3|2 + 2|4 + 4||15|7,5|7,5|||Klausur 120 Min|
+||||||||||||
+||||||||||||
+|Grundkurs Optik I:<br>Geometrische und<br>technische Optik|||||||||||
+|||||||||||mündliche Prüfung|
+|||2|2||5|5*||5*|||
+|||||||||||ca. 30 Min|
+||||||||||||
+||||||||||||
+||||||||||||
+|Grundkurs Optik II:<br>Wellenoptik||||||||||mündliche Prüfung|
+|||2|2||5||5||||
+|||||||||||ca. 30 Min|
+||||||||||||
+||||||||||||
+|Mathematische<br>Bildverarbeitung||||||||||Klausur ca. 60 Min|
+|||2|2||5||5||||
+|||||||||||oder mündliche|
+||||||||||||
+||||||||||||
 
 
 
 10 
 
-|Experimentalphysik<br>3: Optik und<br>Quantenphänomene<br>Methoden der<br>modernen<br>(Konfokalen-)<br>Lichtmikroskopie<br>Molekulare<br>Neurophysiologie|3|4<br>1<br>1|2<br>5<br>7||7,5<br>5<br>7,5|7,5<br>5*|7,5|7,5|5*||Prüfung ca. 20 Min<br>Klausur 90 Min<br>Klausur ca. 30 Min<br>oder mündliche<br>Prüfung ca. 20 Min<br>Mündliche Prüfung<br>30 Min|
+|||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|**MG3: Biologische Strukturen und Prozesse**<br>Einführung in die<br>Statistik mit<br>Rechnerübungen<br>(Pflicht für alle MG)<br>2<br>1 + 1<br>5<br>5<br>Klausur ca. 90 Min<br>Vertiefungsmodul<br>Insg. 600h<br>20<br>20<br>mündliche Prüfung<br>ca. 30 Min<br>Masterthesis<br>Insg. 900h<br>30<br>30 schriftliche Arbeit<br>*** Interactions of<br>Biological<br>Macromolecules<br>(Pflicht für MG3)<br>2 + 2<br>2 + 2<br>10<br>5<br>5<br>Klausur 120 Min<br>oder mündliche<br>Prüfung 60 Min<br>Einführung in<br>Röntgen- und<br>Neutronenstreuung I<br>2<br>2<br>5<br>5*<br>5*<br>Klausur 60 Min<br>oder mündliche<br>Prüfung 30 Min<br>Einführung in<br>Röntgen- und<br>Neutronenstreuung II<br>2<br>2<br>5<br>5<br>Klausur 60 Min<br>oder mündliche<br>Prüfung 30 Min<br>Soft matter and<br>biological physics<br>2<br>3<br>5<br>5*<br>5*<br>5*<br>Klausur 180 Min<br>Strukturbiologie 1.<br>Proteindesign und<br>Designerproteine<br>1,2<br>1<br>7<br>7,5<br>7,5*<br>7,5*<br>Klausur 30 Min<br>Structural Biology 2:<br>Structure and<br>function<br>relationships in<br>biological<br>macromolecules<br>1,2<br>1<br>7<br>7,5<br>7,5<br>Klausur 30 Min<br>Entwicklungs-<br>biologisches<br>Wahlpflichtmodul<br>(B3, B4, B6)<br>1<br>7<br>7,5<br>7,5* 7,5* 7,5*<br>mündliche Prüfung<br>30 Min<br>Spezielle Themen<br>der Biophysik und<br>Strukturphysik<br>1<br>2<br>2<br>5<br>5<br>Klausur 90 Min.<br>oder mündliche<br>Prüfung 30 Min<br>Ionentransport und<br>Signaltransduktion<br>2<br>1<br>5<br>5<br>5*<br>5*<br>mündliche Prüfung<br>30 Min||||||||||||
+||||||||||||Prüfung ca. 20 Min|
+|||||||||||||
+|Experimentalphysik<br>3: Optik und<br>Quantenphänomene||||||||||||
+|||4|2||7,5|7,5|||||Klausur 90 Min|
+|||||||||||||
+|||||||||||||
+|Methoden der<br>modernen<br>(Konfokalen-)<br>Lichtmikroskopie||||||||||||
+||||||||||||Klausur ca. 30 Min|
+||3|1|5||5|5*|||5*||oder mündliche|
+||||||||||||Prüfung ca. 20 Min|
+|||||||||||||
+|||||||||||||
+|Molekulare<br>Neurophysiologie|||||||||||Mündliche Prüfung|
+|||1|7||7,5||7,5|||||
+||||||||||||30 Min|
+|||||||||||||
+|||||||||||||
+|**MG3: Biologische Strukturen und Prozesse**<br>Einführung in die<br>Statistik mit<br>Rechnerübungen<br>(Pflicht für alle MG)<br>2<br>1 + 1<br>Vertiefungsmodul<br>Insg. 600h<br>Masterthesis<br>Insg. 900h<br>*** Interactions of<br>Biological<br>Macromolecules<br>(Pflicht für MG3)<br>2 + 2<br>2 + 2<br>Einführung in<br>Röntgen- und<br>Neutronenstreuung I<br>2<br>2<br>Einführung in<br>Röntgen- und<br>Neutronenstreuung II<br>2<br>2<br>Soft matter and<br>biological physics<br>2<br>3<br>Strukturbiologie 1.<br>Proteindesign und<br>Designerproteine<br>1,2<br>1<br>7<br>Structural Biology 2:<br>Structure and<br>function<br>relationships in<br>biological<br>macromolecules<br>1,2<br>1<br>7<br>Entwicklungs-<br>biologisches<br>Wahlpflichtmodul<br>(B3, B4, B6)<br>1<br>7<br>Spezielle Themen<br>der Biophysik und<br>Strukturphysik<br>1<br>2<br>2<br>Ionentransport und<br>Signaltransduktion<br>2<br>1<br>5|||||5<br>20<br>30<br>10<br>5<br>5<br>5<br>7,5<br>7,5<br>7,5<br>5<br>5|5<br>20<br>30<br>5<br>5<br>5*<br>5*<br>5<br>5*<br>5*<br>5*<br>7,5*<br>7,5*<br>7,5<br>7,5* 7,5* 7,5*<br>5<br>5*<br>5*|||||Klausur ca. 90 Min<br>mündliche Prüfung<br>ca. 30 Min<br>schriftliche Arbeit<br>Klausur 120 Min<br>oder mündliche<br>Prüfung 60 Min<br>Klausur 60 Min<br>oder mündliche<br>Prüfung 30 Min<br>Klausur 60 Min<br>oder mündliche<br>Prüfung 30 Min<br>Klausur 180 Min<br>Klausur 30 Min<br>Klausur 30 Min<br>mündliche Prüfung<br>30 Min<br>Klausur 90 Min.<br>oder mündliche<br>Prüfung 30 Min<br>mündliche Prüfung<br>30 Min|
+|||||||||||||
 |**ECTS-Punkte**|||||**120**|**30****||**30****|**30****|**30**||
+|||||||||||||
 
 
 

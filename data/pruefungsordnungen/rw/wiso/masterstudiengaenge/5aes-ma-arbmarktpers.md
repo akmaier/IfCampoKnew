@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "4. November 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_MA_ArbMarktPers.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:28:55+00:00
+scraped_at: 2026-05-01T09:34:11+00:00
 page_count_chars: 2147
 ---
 

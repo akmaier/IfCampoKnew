@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 29th February 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/pdf-englisch/FPO_Elite_MA_AdvancedSignalProcessingCommunicEng_en_FEB2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-04-25T16:53:10+00:00
+scraped_at: 2026-05-01T10:04:44+00:00
 page_count_chars: 18942
 ---
 

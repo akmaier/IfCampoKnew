@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "28. September 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Englisch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:23:44+00:00
+scraped_at: 2026-05-01T07:06:12+00:00
 page_count_chars: 2965
 ---
 

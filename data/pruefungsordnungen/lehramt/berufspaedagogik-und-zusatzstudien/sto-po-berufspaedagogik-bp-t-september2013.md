@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 19.02.2009 i.d.F. 09.09.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/StO_PO_Berufspaedagogik_BP_T_September2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-04-25T14:18:53+00:00
-page_count_chars: 64255
+scraped_at: 2026-05-01T06:57:53+00:00
+page_count_chars: 63934
 ---
 
 # pdf vom 19.02.2009 i.d.F. 09.09.2013
@@ -722,15 +722,18 @@ bSL     benotete Studienleistung
 
 **Anlage 2b: Module des Bachelorstudiums - Studienrichtung Metalltechnik** 
 
-|**Modul**|**Modul**|**Modul**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**schriftl. Prüfung**<br>**in Min. bzw.**<br>**Studienleistung**|
+|**Modul**|**Modul**|**Modul**|||||||**schriftl. Prüfung**<br>**in Min. bzw.**<br>**Studienleistung**|
 |---|---|---|---|---|---|---|---|---|---|
+||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
 |**Nr.**|**Bezeichnung**|**GOP**||||||||
 ||Mechanik und Konstruktion|||||||||
 |B 1|Statik und Festigkeitslehre|GOP||7,5|||||90|
 |B 2|Dynamik starrer Körper||||7,5||||90|
 |B 3|Methode der Finiten Elemente|||||5,0|||60|
-|B 4|Technische Darstellungslehre I<br>Technische Darstellungslehre II||2,5|2,5|||||uSL<br>uSL|
-|B 5|Grundlagen der Produktentwicklung<br>Konstruktionsübung||||7,5<br>2,5||||120<br>uSL|
+||Technische Darstellungslehre I||2,5||||||uSL|
+|B 4|Technische Darstellungslehre II|||2,5|||||uSL|
+||Grundlagen der Produktentwicklung||||7,5||||120|
+|B 5|Konstruktionsübung||||2,5||||uSL|
 |B 6|Konstruktive Projektarbeit (Teamwork, Präsentationstech‐<br>nik)||||||5,0||uSL|
 ||Informatik und Mathematik|||||||||
 |B 7|Mathematik für BPT‐M 1 **)|GOP|7,5||||||uSL+90|
@@ -745,8 +748,8 @@ bSL     benotete Studienleistung
 ||Elektrotechnik, Thermodynamik und Werkstoffkunde|||||||||
 |B 15|Grundlagen der Elektrotechnik|GOP||5,0|||||60|
 |B 16|Technische Thermodynamik|||||7,5|||120|
-|B 17|Werkstoffkunde<br>Werkstoffprüfung|**GOP**|5,0|2,5|||||120|
-||||||||||uSL|
+||Werkstoffkunde|**GOP**|5,0||||||120|
+|B 17|Werkstoffprüfung|||2,5|||||uSL|
 ||Berufspädagogik|||||||||
 |B 18|Fachdidaktik Metalltechnik I|||||||5,0|90|
 |B 19|Grundlagen der Berufspädagogik|||5,0|||||90|
@@ -758,7 +761,7 @@ bSL     benotete Studienleistung
 ||Zweitfach|||||||||
 |B 25|Unterrichtsfach(Zweitfach)inkl. Fachdidaktik||10||5,0|5,0|5,0||*)|
 ||Abschlussarbeit|||||||||
-|B 26 Bachelorarbeit incl. Vortra|B 26 Bachelorarbeit incl. Vortrag|||||||10,0||
+|B 26|Bachelorarbeit incl. Vortrag|||||||10,0||
 ||||30|30|30,0|30,0|30,0|30,0||
 |||Summe der ECTS‐Punkte|||||||180,0|
 

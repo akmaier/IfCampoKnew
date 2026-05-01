@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOBAMAILS ÄS 20260331.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated-Life-Science/Aenderungssatzungen/FPOBAMAILS_AeS_20260331.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:43:15+00:00
-page_count_chars: 14338
+scraped_at: 2026-05-01T07:33:32+00:00
+page_count_chars: 15152
 ---
 
 # FPOBAMAILS ÄS 20260331.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated-Life-Science/Aenderungssatzungen/FPOBAMAILS_AeS_20260331.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Life Sciences – Biologie, Biomathematik, Biophysik (B.Sc. ILS) und den Masterstudiengang Integrated Life Sciences – Biology, Biomathematics and Biophysics (M.Sc. ILS) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BAMA ILS 2023 – Vom 31. März 2026** 
 
@@ -36,6 +40,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Li
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
    - b) In Satz 5 werden nach den Worten „Mitglieder sowie jeweils“ die Worte „zwei Stellvertreterinnen bzw.“ durch die Worte „eine Stellvertreterin bzw. ein“ ersetzt. 
 
 6. Die Regelung in § 50 erhält folgende neue Fassung: 
@@ -50,9 +58,7 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Li
 
 (3) In der mündlichen Zugangsprüfung gemäß Abs. 5 Satz 3 ff. der **Anlage ABMPO/NatFak** werden die Bewerberinnen bzw. Bewerber auf Basis folgender gleichgewichteter Kriterien beurteilt: 
 
-   1. Fachliche und methodische Kenntnisse im Bereich der Mathematik, Physik und 
-
-      - Molekularbiologie (Gewichtung 40%), 
+   1. Fachliche und methodische Kenntnisse im Bereich der Mathematik, Physik und Molekularbiologie (Gewichtung 40%), 
 
    2. die Fähigkeit, die in Nr. 1 genannten Fächer interdisziplinär zu verknüpfen (Gewichtung 40%) und 
 
@@ -61,6 +67,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Li
 7. In § 51 Abs. 1 Satz 1 wird das Wort „Studium“ durch das Wort „Masterstudium“ ersetzt. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 8. § 52 wird wie folgt geändert: 
 
@@ -80,12 +90,17 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Li
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 10. Die Tabelle **Anlage 1** (Studienverlaufsplan Bachelor ILS) erhält samt Erläuterungen folgende neue Fassung: 
 
 ## „ 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS-**<br>**Punkte**||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**SWS**||||||<br>**in ECTS-Punkten**||||||
 ||||||||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
 |||**V**|**Ü**|**P**|**S**||||||||||
 |**ILS-M1:**<br>**Mathematik für**<br>**Integrated Life Sciences I**|Mathematik für Ingeni-<br>eure C1: INF,ILS|4||||**7,5**|5||||||PL: Klausur 90 Min. +<br>SL: ÜL (unbenotet)|1|
@@ -106,6 +121,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Li
 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**ILS-P3:**<br>**Atom- und Molekülphysik**|Atom-/Molekülphysik|3||||**5**||||4|||PL:  mündliche Prüfung 30 Min.|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -132,6 +151,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Li
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ||Übung zu Grundlagen<br>der Physikalischen Che-<br>mie||||2||||2,5||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**ILS-I1:**<br>**Optik und Mikroskopie**|Optik und Mikroskopie|0,5||||**2,5**|0,5||||||PL: pÜL (Protokollheft)<br>ca. 25 Seiten|1|
@@ -152,6 +175,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Integrated Li
 
 
 6 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**Molekularbiologisches**<br>**Modul2)**|vgl.**FPO BAMA Bio**|vgl.**FPO BAMA Bio**|vgl.**FPO BAMA Bio**|vgl.**FPO BAMA Bio**|vgl.**FPO BAMA Bio**|**12,5**|||||10||vgl.**FPO BAMA Bio**|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -189,6 +216,10 @@ PL = Prüfungsleistung pÜL = praktische Übungsleistung gemäß § 6 Abs. 4 **A
 7 
 
 **§ 2** 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 1Diese Änderungssatzung tritt am 1. April 2026 in Kraft. 2Sie gilt für alle Studierenden, die das Bachelor- oder Masterstudium ab dem Wintersemester 2026/2027 aufnehmen werden. 3Abweichend von Satz 2 gelten die Änderungen in § 52 zudem für alle Masterstudierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der FPO BAMA ILS vom 22. August 2023 studieren. 
 

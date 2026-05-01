@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Zwei-Fach-Bachelor"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:05:31+00:00
+scraped_at: 2026-05-01T09:15:13+00:00
 ---
 
 # Zwei-Fach-Bachelor
@@ -242,7 +242,7 @@ Indem Sie auf einen der nachfolgenden Studiengänge klicken, erhalten Sie weiter
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
-| [Indogermanistik und Indoiranistik Zwei-Fach FPO Indo 20250131.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Indogermanistik_und_Indoiranistik/konsolidierte_Fassungen/Indogermanistik und Indoiranistik_Zwei-Fach_FPO Indo_20250131.pdf) | 128 KB |
+| [Indogermanistik und Indoiranistik Zwei-Fach FPO Indo 20250131.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Indogermanistik_und_Indoiranistik/konsolidierte_Fassungen/Indogermanistik und Indoiranistik_Zwei-Fach_FPO Indo_20250131.pdf) | 126 KB |
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- |

@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-04-25T14:10:55+00:00
+scraped_at: 2026-05-01T06:45:56+00:00
 ---
 
 # Gesundheitsmanagement und Gesundheitsökonomie (M.Sc.)

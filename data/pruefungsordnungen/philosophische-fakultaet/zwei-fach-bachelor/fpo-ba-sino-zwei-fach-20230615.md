@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BA Sino Zwei-Fach 20230615.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Sinologie/konsolidierte_Fassungen/FPO_BA_Sino_Zwei-Fach_20230615.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:03:38+00:00
+scraped_at: 2026-05-01T09:11:54+00:00
 page_count_chars: 22341
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "1. September 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES%20MA-Marketing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:34:01+00:00
+scraped_at: 2026-05-01T09:41:13+00:00
 page_count_chars: 4738
 ---
 

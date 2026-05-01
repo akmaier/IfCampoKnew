@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BAMA Bio 20191028.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Biologie_und_Zell-_und_Molekularbiologie/konsolidierte_Fassungen/FPO_BAMA_Bio_20191028.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:40:06+00:00
+scraped_at: 2026-05-01T07:30:17+00:00
 page_count_chars: 31860
 ---
 

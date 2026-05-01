@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:54:53+00:00
+scraped_at: 2026-05-01T07:47:37+00:00
 page_count_chars: 20808
 ---
 

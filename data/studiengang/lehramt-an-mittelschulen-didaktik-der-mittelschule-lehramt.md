@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie, Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-scraped_at: 2026-04-25T14:12:20+00:00
+scraped_at: 2026-05-01T06:47:54+00:00
 ---
 
 # Lehramt an Mittelschulen / Didaktik der Mittelschule (Lehramt)

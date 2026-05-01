@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO MA DH 20240229 WS 24-25 Aussetzung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/konsolidierte_Fassungen/FPO_MA_DH_20240229_WS_24-25_Aussetzung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:22:35+00:00
+scraped_at: 2026-05-01T08:26:00+00:00
 page_count_chars: 651
 ---
 

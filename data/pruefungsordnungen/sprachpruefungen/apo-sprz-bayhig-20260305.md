@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "APO SprZ BayHIG 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachenzentrum/konsolidierte_Fassungen/APO_SprZ_BayHIG_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:40:48+00:00
-page_count_chars: 63116
+scraped_at: 2026-05-01T09:51:03+00:00
+page_count_chars: 64610
 ---
 
 # APO SprZ BayHIG 20260305.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachenzentrum/konsolidierte_Fassungen/APO_SprZ_BayHIG_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Allgemeine Studien- und Prüfungsordnung für das Sprachenzentrum der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – APO/SprZ – Vom 5. März 2026** 
 
@@ -59,6 +63,10 @@ Auf Grund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, 84 Abs. 2 Satz 1 Bay
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Präambel** 
 
 1Das Sprachenzentrum ist eine zentrale Einrichtung der FAU. 2Es bietet eine Fremdsprachenausbildung gemäß den Niveaustufen des Gemeinsamen Europäischen Referenzrahmens für Sprachen an.[3] Die Ausbildung kann in den in der **Anlage zu § 23 Abs. 1 und 2** aufgeführten Sprachen absolviert werden. 
@@ -83,6 +91,10 @@ Sofern diese Allgemeine Studien- und Prüfungsordnung eine Frist zur Erbringung 
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 sind in Abhängigkeit vom Kontext, in dem das Modul belegt wird (vgl. § 1 Abs. 2) in der jeweils zugrundeliegenden **(Fach-)Studien- und Prüfungsordnung** bzw. den Modulbeschreibungen des Sprachenzentrums geregelt. 
 
 (3)[1] Die Module schließen mit einer studienbegleitenden Modulprüfung ab.[2] Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen.[3] In nach Einschätzung der bzw. des jeweiligen Modulverantwortlichen fachlich und didaktisch sinnvollen Fällen kann diese Prüfung auch aus Teilprüfungen oder Prüfungsteilen bzw. einer Kombination aus Prüfungs- und/oder Studienleistungen bestehen, sofern und soweit gleichwohl eine adäquate und belastungsangemessene Prüfungsdichte und -organisation gewährleistet ist.[4] ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Modulprüfung festgestellt wird.[5] Studienbegleitende Prüfungen sind solche, die während der Vorlesungszeit oder im Anschluss an die letzte Lehrveranstaltung eines Moduls angeboten werden. 
@@ -103,6 +115,10 @@ sind in Abhängigkeit vom Kontext, in dem das Modul belegt wird (vgl. § 1 Abs. 
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 der Studierende nicht zur Prüfung zugelassen und die Lehrveranstaltung ist vorbehaltlich etwaiger Modulwechsel erneut zu belegen; dies gilt auch, wenn die bzw. der Studierende die Gründe für die Abwesenheit nicht zu vertreten hat (insbesondere im Falle von Krankheit).[3] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. es zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist.[4] Tritt die bzw. der Studierende nach Erfüllen der Anwesenheitspflicht wirksam von der Prüfung zurück (Erst- oder Wiederholungsversuch), so besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist. 
 
 (2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig. 3Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
@@ -112,6 +128,10 @@ der Studierende nicht zur Prüfung zugelassen und die Lehrveranstaltung ist vorb
 (4)[1] Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen, sofern diese in Präsenzform abgehalten werden, mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.[2] Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs.[3] In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.[4] Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen. 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 7 Prüfungsart, Prüfungstermine, Anmeldung zur Prüfung und Rücktritt** 
 
@@ -141,6 +161,10 @@ der Studierende nicht zur Prüfung zugelassen und die Lehrveranstaltung ist vorb
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4)[1] Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen.[2] Er achtet darauf, dass die Bestimmungen dieser Studien- und Prüfungsordnung eingehalten werden.[3] Er trifft, mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden, alle anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt oder die Prüfungsbeauftragten delegiert sind.[4] Der Prüfungsausschuss erlässt Bescheide in Prüfungsangelegenheiten, nachdem er die Bewertung der Prüfungsleistungen und ihre Rechtmäßigkeit geprüft hat.[5] Er berichtet regelmäßig dem Vorstand des Sprachenzentrums über die Entwicklung der Prüfungen und Studienzeiten.[6] Die Mitglieder des Prüfungsausschusses haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen.[7] Zur Ausführung seiner Aufgaben bedient sich der Prüfungsausschuss des Prüfungsamtes.[8] Für den Geschäftsgang gilt § 30 der Grundordnung der FriedrichAlexander-Universität Erlangen-Nürnberg ( **GrO** ). 
 
 (5)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich oder elektronisch unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag. 
@@ -154,6 +178,10 @@ der Studierende nicht zur Prüfung zugelassen und die Lehrveranstaltung ist vorb
 (1)[1] Über die Bestellung der Prüfenden und Beisitzerinnen bzw. Beisitzer entscheidet der Prüfungsausschuss.[2] Prüfungsberechtigt sind alle am Sprachenzentrum beschäftigten haupt- und nebenberuflichen Lehrkräfte (Tarifbeschäftigte sowie Lehrbeauftragte), soweit diese nach dem **BayHIG** und der **HSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen berechtigt sind.[ 3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prü- 
 
 6 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 fungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der jeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
 
@@ -179,6 +207,10 @@ Die für die Prüfung zugelassenen Hilfsmittel werden ortsüblich bekannt gemach
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3)[1] Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltungssystem regelmäßig zu überprüfen und etwaige Unstimmigkeiten unverzüglich der bzw. dem jeweiligen Kursleitenden oder der zuständigen Abteilungsleiterin bzw. dem zuständigen Abteilungsleiter mitzuteilen.[2] Die Pflicht zur Wiederholung bleibt auch im Falle von Exmatrikulation und Beurlaubung bestehen.[3] Bei Versäumung der Wiederholung gilt die Prüfung als nicht bestanden, sofern der Prüfungsausschuss der bzw. dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Ausnahme gewährt. 
 
 ## **§ 12 Schriftliche Prüfung, Antwort-Wahl-Verfahren** 
@@ -190,6 +222,10 @@ Die für die Prüfung zugelassenen Hilfsmittel werden ortsüblich bekannt gemach
 (3)[1] Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- und/oder Multiple-Choice-Prüfungen).[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt die nach § 3 Abs. 2 Satz 3 i. V. m. § 7 Abs. 1 jeweils einschlägige **(Fach-)Studienund Prüfungsordnung** bzw. das entsprechende Modulhandbuch.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.[5] Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.[6] Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.[7] Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satzes 4 fehlerhaft sind.[8] Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen; es ist von der verminderten Zahl der 
 
 8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Prüfungsaufgaben auszugehen.[9] Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
 
@@ -212,6 +248,10 @@ Prüfungsaufgaben auszugehen.[9] Die Verminderung der Zahl der Prüfungsaufgaben
 (3)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Bezeichnung des geprüften Moduls und Angabe der dem Modul zugeordneten ECTS-Punktzahl, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfenden, der Beisitzerin bzw. des Beisitzers und der bzw. des Studierenden sowie besondere Vorkommnisse.[2] Das Protokoll wird von den prüfungsberechtigten Personen und der Beisitzerin bzw. dem Beisitzer unterzeichnet. 3Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich. 4Das Protokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzubewahren. 
 
 9 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 14 Vorträge und Referate** 
 
@@ -237,6 +277,10 @@ Prüfungsaufgaben auszugehen.[9] Die Verminderung der Zahl der Prüfungsaufgaben
 
 10 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
 
 (2)[1] Der Bewertungsmaßstab von im Antwort-Wahl-Verfahren zu erbringenden Prüfungsleistungen ist von den Aufgabenstellerinnen bzw. Aufgabenstellern nach § 12 Abs. 3 Satz 7 festzulegen.[2] Erfolgt keine Festlegung, sind die erbrachten Prüfungen wie folgt zu bewerten:[3] Wer die für das Bestehen der Prüfung nach § 12 Abs. 3 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält das Prädikat 
@@ -260,6 +304,10 @@ Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle andere
 (2)[1] Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
 11 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (3)[1] Die Noten anerkannter Studien- und Prüfungsleistungen werden übernommen, wenn sie entsprechend § 16 gebildet wurden.[2] Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter Prüfungen mit dem Notensystem des § 16 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
 
@@ -286,6 +334,10 @@ umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Kom
 (3)[1] Entscheidungen nach den Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des Prüfungsausschusses nach Anhörung der bzw. des Beauftragten für behinderte und chronisch kranke Studierende getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Absatz 1 kann die Vorlage eines 
 
 12 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 vertrauensärztlichen Attestes bzw. eines der jeweiligen besonderen Lebenslage entsprechenden anderen Nachweises verlangt werden.[3] Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten. 
 
@@ -315,6 +367,10 @@ vertrauensärztlichen Attestes bzw. eines der jeweiligen besonderen Lebenslage e
 
 13 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3)[1] Besteht der begründete Verdacht für das Vorliegen eines Plagiats bzw. einer anderweitigen Täuschung, so sind die zuständigen Prüfenden im Rahmen der Sachverhaltsermittlung nach Art. 26 **BayVwVfG** insbesondere auch dazu berechtigt, im Rahmen eines Kontrollgesprächs mithilfe von Fragen zum ursprünglichen Prüfungsgegenstand herauszufinden, ob die bzw. der betreffende Studierende den Prüfungsstoff beherrscht.[2] Die bzw. der Prüfende bestimmt Zeitpunkt, Ort und Dauer des Gesprächs und gibt diese rechtzeitig vorher bekannt.[3] Ein begründeter Verdacht im Sinne des Satzes 1 ist gegeben, wenn nach dem Erfahrungswissen der bzw. des Prüfenden ein für das Vorliegen eines Plagiats bzw. einer Täuschung typischer Sachverhalt gegeben ist, der aufgrund des allgemeinen Erfahrungswissens zu dem Schluss berechtigt, dass ein Plagiat bzw. eine Täuschung vorliegt.[4] Das Kontrollgespräch wird von den für die ursprüngliche Prüfung zuständigen Prüfenden durchgeführt; war für die ursprüngliche Prüfung nur eine Prüfende bzw. ein Prüfender eingesetzt, findet das Kontrollgespräch in Anwesenheit einer Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden bestimmt wird.[ 5] Bei der Beurteilung der Leistungen der bzw. des Studierenden im Kontrollgespräch ist der zeitliche Abstand zwischen der ursprünglichen Prüfung und dem Kontrollgespräch zu berücksichtigen.[6] Beherrscht die bzw. der Studierende den Prüfungsstoff in einem Umfang, der für das Bestehen der ursprünglichen Prüfung ausgereicht hätte, so gilt der begründete Verdacht für das Vorliegen des Plagiats bzw. der anderweitigen Täuschung als ausgeräumt und die ursprüngliche Prüfung wird regulär inhaltlich bewertet.[7] Kann die bzw. der Studierende im Rahmen des Kontrollgesprächs nach Satz 1 die abgeprüften Kompetenzen nicht in einem im Sinne des Satz 6 ausreichenden Umfang nachweisen und sind gleichzeitig keine tatsächlichen Umstände gegeben, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen und ist die ungenügende Leistung auch nicht mit dem Zeitablauf zwischen ursprünglicher Prüfung und Kontrollgespräch zu erklären, gilt die Täuschung in der Regel als bewiesen; es gilt Abs. 2 Satz 1.[8] Verweigert die bzw. der Studierende die Teilnahme an dem Kontrollgespräch, so stellt dies eine Verletzung ihrer bzw. seiner Obliegenheit zur Mitwirkung im Prüfungsverfahren im Sinne des Art. 26 Abs. 2 Satz 1 **BayVwVfG** dar.[9] Macht die bzw. der Studierende gleichzeitig keine tatsächlichen Umstände glaubhaft, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, so gilt der begründete Verdacht des Vorliegens eines Plagiats bzw. einer anderweitigen Täuschung als durch den Beweis des ersten Anscheins bewiesen. 10Findet ein Kontrollgespräch statt, ist dieses zu dokumentieren und dem Prüfungsamt samt Ergebnis mitzuteilen; § 13 Abs. 3 gilt entsprechend. 
 
 (4) Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der bzw. dem Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet. 
@@ -324,6 +380,10 @@ vertrauensärztlichen Attestes bzw. eines der jeweiligen besonderen Lebenslage e
 (1) Wurde bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung der Urkunden bekannt, so kann der Prüfungsausschuss nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
 
 14 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] Waren die Voraussetzungen für die Zulassung zu einer (Teil-)Prüfung bzw. einem Prüfungsteil nicht erfüllt, ohne dass die Täuschung vorsätzlich erfolgte, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.[2] Wurde die Zulassung zur Prüfung durch Täuschung erwirkt, wird das Prüfungsergebnis nicht bewertet; der Prüfungsausschuss kann weitere Schritte im Sinne des § 20 Abs. 2 Satz 1 einleiten. 
 
@@ -350,6 +410,10 @@ vertrauensärztlichen Attestes bzw. eines der jeweiligen besonderen Lebenslage e
 (1) Die Fremdsprachenausbildung kann mit dem Nachweis folgender Prüfungen abgeschlossen werden: UNIcert® Basis-Prüfung, UNIcert® I-Prüfung, UNIcert® II-Prüfung und UNIcert® III-Prüfung: 
 
 15 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 1. Das Zertifikat UNIcert® Basis orientiert sich an der Niveaustufe "A2 – Waystage" des Gemeinsamen Europäischen Referenzrahmens für Sprachen des Europarats (GER) und bescheinigt erste Grundkenntnisse zum einfachen und direkten Austausch von Informationen in routinemäßigen Situationen. 
 
@@ -383,6 +447,10 @@ vertrauensärztlichen Attestes bzw. eines der jeweiligen besonderen Lebenslage e
 
 16 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Kurse der jeweiligen Stufe am Sprachenzentrum der FAU erfolgreich absolviert worden sein muss.[2] Für die Zulassung zu den Fremdsprachenprüfungen auf der Stufe UNIcert® III gilt Satz 1 entsprechend, wenn mindestens 50 % des Ausbildungsprogramms dieser Stufe am Sprachenzentrum der FAU erfolgreich besucht worden sind. 3In begründeten Ausnahmefällen kann der Prüfungsausschuss auf Antrag bei Nachweis gleichwertiger Kenntnisse im Rahmen der UNIcert®-Vorgaben von einem Teil der Zulassungsvoraussetzungen nach Satz 1 bzw. 2 befreien. 
 
 ## **§ 27 Meldung, Zulassung und Bekanntgabe der Prüfungen und der Prüfenden** 
@@ -408,6 +476,10 @@ Kurse der jeweiligen Stufe am Sprachenzentrum der FAU erfolgreich absolviert wor
 (2)[1] Auf den UNIcert®-Stufen Basis und UNIcert® I entspricht die schriftliche Prüfungsleistung den Prüfungsteilen „Leseverstehen“, „audiovisuellem Verstehen“ und „schriftlicher Produktion und Interaktion“ des Leistungsnachweises der bzw. des letzten für diese Ausbildungsstufe notwendigen Kurse bzw. Kurses; die mündliche Prüfungsleistung besteht aus einem 10-minütigen Gespräch.[2] Auf der UNIcert®-Stufe II entspricht die schriftliche Prüfungsleistung den Prüfungsteilen „Leseverstehen“, „audiovisuellem Verstehen“ und „schriftlicher Produktion und Interaktion“ des Leistungsnachweises des 
 
 17 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Kurses bzw. der Kurse, der bzw. die für die eben genannten Fertigkeiten in dieser Ausbildungsstufe relevant ist bzw. sind.[3] Die mündliche Prüfungsleistung besteht aus einem 15-minütigen Gespräch.[4] Auf der UNIcert®-Stufe II in Englisch entspricht die schriftliche und mündliche Prüfungsleistung dem Leistungsnachweis der zur Zulassung notwendigen Level 2 Kurse mit schriftlicher bzw. mündlicher Komponente; Leseverstehen und audiovisuelles Verstehen werden in einer separaten, 70-minütigen Prüfung ermittelt. 
 
@@ -447,6 +519,10 @@ bei einem Durchschnitt bis 1,50 = „sehr gut" bei einem Durchschnitt über 1,50
 
 18 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 30 Inkrafttreten** 
 
 (1)[1] Diese Allgemeine Studien- und Prüfungsordnung tritt am 1. April 2026 in Kraft. 2Sie gilt für alle Studierenden, die das Studium an der FAU ab dem Sommersemester 2026 aufnehmen werden sowie für diejenigen Studierenden, die bereits an der FAU studieren. 
@@ -454,6 +530,10 @@ bei einem Durchschnitt bis 1,50 = „sehr gut" bei einem Durchschnitt über 1,50
 (2)[1] Gleichzeitig tritt die bisherige Allgemeine Studien- und Prüfungsordnung für das Sprachenzentrum der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **APO/SprZ** – vom 19. Juni 2017, zuletzt geändert durch Satzung vom 12. Mai 2022, außer Kraft. 
 
 19 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage zu § 23 Abs. 1 und 2** 
 
@@ -471,35 +551,41 @@ bei einem Durchschnitt bis 1,50 = „sehr gut" bei einem Durchschnitt über 1,50
 
    - 2Ein allgemeines Kursangebot von Anfängerkursen ab initio bis zum Abschluss der UNIcert® Stufe III besteht wie folgt: 
 
-||**UNIcert®**<br>**BASIS**|**UNIcert® I**|**UNIcert® II**|**UNIcert® II**|**UNIcert® III**|**UNIcert® III**|
-|---|---|---|---|---|---|---|
-||||**Allgemeine**<br>**Ausrichtung**|**Fachbezogene**<br>**Ausrichtung**|**Allgemeine**<br>**Ausrichtung**|**Fachbezogene**<br>**Ausrichtung**|
-|Arabisch<br>~~ee~~<br>~~ee~~|12-16 SWS<br>~~ee~~<br>~~ee~~|8 SWS<br>~~GG~~<br>~~(nD~~|kein Angebot<br>~~GG~~<br>~~(nD~~|kein Angebot<br>~~GG~~<br>~~(~~|kein Angebot<br>~~GG~~|kein Angebot<br>~~GG~~|
-|Chinesisch<br>~~ee~~|12 SWS<br>~~ee~~|8 SWS<br>~~(nD~~|kein Angebot<br>~~(nD~~|kein Angebot<br>~~(~~|kein Angebot|kein Angebot|
-|Dänisch<br>~~ee~~|8 SWS<br>~~ee~~|4 SWS<br>~~(nD~~|kein Angebot<br>~~(nD~~|kein Angebot<br>~~(~~|kein Angebot|kein Angebot|
-|Englisch|kein Angebot|kein<br>Angebot|8 SWS<br>(2 Module à 4<br>SWS)|8 SWS<br>(2 Module à 4 SWS)<br>Fachrichtung Technik,<br>Naturwiss.|8 SWS|8 SWS<br>Fachrichtungen:Wirt-<br>schaft, Recht, Medizin,<br>Technik, Naturwissen-<br>schaft|
-|Französisch|8 SWS|4 SWS|8 SWS|8 SWS|8 SWS|8 SWS<br>Fachrichtungen: Wirt-<br>schaft, Recht, Medizin,<br>Kultur u. Geisteswiss.|
-|Italienisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS|8 SWS<br>Fachrichtungen:Recht,<br>Kultur u. Geisteswiss.,<br>Wirtschaft|
-|Japanisch|12-16 SWS|kein<br>Angebot|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
-|Koreanisch<br>~~ee~~|12-16 SWS<br>~~ee~~|kein<br>Angebot<br>~~eG~~|kein Angebot<br>~~eG~~|kein Angebot<br>~~GO~~|kein Angebot|kein Angebot|
-|Neugriechisch<br>~~ee~~<br>~~ee~~|8 SWS<br>~~ee~~<br>~~ee~~|8 SWS<br>~~eG~~<br>~~ee~~|12 SWS<br>~~eG~~<br>~~GQ~~|kein Angebot<br>~~GO~~<br>~~GQ~~|kein Angebot|kein Angebot|
-|Niederländisch<br>~~ee~~<br>~~ee~~<br>~~Re~~|kein Angebot<br>~~ee ~~<br>~~ee~~<br>~~DO~~|8 SWS<br> ~~eG~~<br>~~ee~~<br>~~DO~~|6 SWS<br>~~eG~~<br>~~GQ~~<br>~~DO~~|kein Angebot<br>~~GO~~<br>~~GQ~~<br>~~DO~~|kein Angebot<br>~~DO~~|kein Angebot<br>~~DO~~<br>~~(OO~~|
-|Norwegisch<br>~~ee ~~<br>~~Re~~|8 SWS<br> ~~ee~~<br>~~DO~~|4 SWS<br>~~ee~~<br>~~DO~~|kein Angebot<br>~~GQ~~<br>~~DO~~|kein Angebot<br>~~GQ~~<br>~~DO~~|kein Angebot<br>~~DO~~|kein Angebot<br>~~DO~~<br>~~(OO~~|
+||**UNIcert®**<br>**BASIS**|**UNIcert® I**|**UNIcert® II**||**UNIcert® III**|||
+|---|---|---|---|---|---|---|---|
+||||**Allgemeine**<br>**Ausrichtung**|**Fachbezogene**<br>**Ausrichtung**|**Allgemeine**<br>**Ausrichtung**||**Fachbezogene**<br>**Ausrichtung**|
+|Arabisch|12-16 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
+|Chinesisch|12 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
+|Dänisch|8 SWS|4 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
+|Englisch|kein Angebot|kein<br>Angebot|8 SWS<br>(2 Module à 4<br>SWS)|8 SWS<br>(2 Module à 4 SWS)<br>Fachrichtung Technik,<br>Naturwiss.|8 SWS||8 SWS<br>Fachrichtungen:Wirt-<br>schaft, Recht, Medizin,<br>Technik, Naturwissen-<br>schaft|
+|Französisch|8 SWS|4 SWS|8 SWS|8 SWS|8 SWS||8 SWS<br>Fachrichtungen: Wirt-<br>schaft, Recht, Medizin,<br>Kultur u. Geisteswiss.|
+|Italienisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS||8 SWS<br>Fachrichtungen:Recht,<br>Kultur u. Geisteswiss.,<br>Wirtschaft|
+|Japanisch|12-16 SWS|kein<br>Angebot|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
+|Koreanisch|12-16 SWS|kein<br>Angebot|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
+|Neugriechisch|8 SWS|8 SWS|12 SWS|kein Angebot|kein Angebot||kein Angebot|
+|Niederländisch|kein Angebot|8 SWS|6 SWS|kein Angebot|kein Angebot||kein Angebot|
+|Norwegisch|8 SWS|4 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
 
 
 
 20 
 
-|Polnisch<br>~~a~~|8 SWS<br>~~es~~|6 SWS<br>~~es~~|kein Angebot<br>~~es~~|kein Angebot|kein Angebot|kein Angebot|
-|---|---|---|---|---|---|---|
-|Portugiesisch<br>~~a~~|8 SWS<br>~~es~~|4 SWS<br>~~es~~|8 SWS<br>~~es~~|8 SWS|kein Angebot|8 SWS<br>Fachrichtung: Wirtschaft|
-|Russisch<br>~~a~~|8 SWS<br>~~es~~|8 SWS<br>~~es~~|12 SWS<br>~~es~~|10 SWS (Wirtschaft)|8 SWS|8 SWS<br>Fachrichtung: Wirtschaft|
-|Schwedisch|8 SWS|4 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot|
-|Spanisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS|8 SWS<br>Fachrichtungen: Recht,<br>Kultur u. Geisteswiss.,<br>Medizin, Wirtschaft|
-|Tschechisch<br>~~es~~|10 SWS<br>~~ee~~|6 SWS<br>~~ee~~|kein Angebot<br>~~ee~~|kein Angebot<br>~~ee~~|kein Angebot<br>~~ee~~|kein Angebot<br>~~ee~~|
-|Türkisch<br>~~es~~|12 SWS<br>~~ee~~|kein<br>Angebot<br>~~ee~~|kein Angebot<br>~~ee~~|kein Angebot<br>~~ee~~|kein Angebot<br>~~ee~~|kein Angebot<br>~~ee~~|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|Polnisch|8 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
+|---|---|---|---|---|---|---|---|
+|Portugiesisch|8 SWS|4 SWS|8 SWS|8 SWS|kein Angebot||8 SWS<br>Fachrichtung: Wirtschaft|
+|Russisch|8 SWS|8 SWS|12 SWS|10 SWS (Wirtschaft)|8 SWS||8 SWS<br>Fachrichtung: Wirtschaft|
+|Schwedisch|8 SWS|4 SWS|6 SWS|kein Angebot|kein Angebot||kein Angebot|
+|Spanisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS||8 SWS<br>Fachrichtungen: Recht,<br>Kultur u. Geisteswiss.,<br>Medizin, Wirtschaft|
+|Tschechisch|10 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
+|Türkisch|12 SWS|kein<br>Angebot|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
 
 
+
+5. Für alle anderen am Sprachenzentrum angebotenen und nicht UNIcert®-akkreditierten Sprachen erfolgt die Elementare Fremdsprachenprüfung nach den §§ 1 bis 21 der APO/SprZ. 
 
 21 
 

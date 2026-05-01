@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:09:39+00:00
+scraped_at: 2026-05-01T06:43:16+00:00
 ---
 
 # Chemie (B.Sc.)

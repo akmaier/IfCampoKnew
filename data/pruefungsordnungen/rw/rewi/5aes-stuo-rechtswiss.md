@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "29. Juli 2013"
 pdf_source: http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_StuO_Rechtswiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:07:12+00:00
+scraped_at: 2026-05-01T09:16:36+00:00
 page_count_chars: 1470
 ---
 

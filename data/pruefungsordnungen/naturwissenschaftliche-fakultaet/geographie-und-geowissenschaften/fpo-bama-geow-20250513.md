@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BAMA Geow 20250513.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften/konsolidierte_Fassungen/FPO_BAMA_Geow_20250513.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:49:47+00:00
-page_count_chars: 66576
+scraped_at: 2026-05-01T07:39:55+00:00
+page_count_chars: 69333
 ---
 
 # FPO BAMA Geow 20250513.pdf
@@ -12,73 +12,27 @@ page_count_chars: 66576
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften/konsolidierte_Fassungen/FPO_BAMA_Geow_20250513.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 # **N E U F A S S U N G** 
 
-## **Fachstudien- und Prüfungsordnung für die Bachelorstudiengänge Geowissenschaften (B.Sc.), GeoNachhaltigkeit: Erdsystem, Ressourcen, Biodiversität (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BAMA Geow – Vom 13. Mai 2025** 
+# **Fachstudien- und Prüfungsordnung für die Bachelorstudiengänge Geowissenschaften (B.Sc.), GeoNachhaltigkeit: Erdsystem, Ressourcen, Biodiversität (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BAMA Geow – Vom 13. Mai 2025** 
 
 Aufgrund von Art. 9 Satz 1, Art. 80 Abs. 1 S. 1, Art. 84 Abs. 2 S. 1, Art. 86 Abs. 3, Art. 88 Abs. 9, Art. 90 Abs. 1 S. 2, Art. 96 Abs. 1 S. 3 des Bayerischen Hochschulinnovationsgesetzes ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Fachstudien- und Prüfungsordnung: 
 
 ## Inhaltsverzeichnis 
 
-**==> picture [455 x 385] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-||||
-|---|---|---|
-|I. Teil: Allgemeine Bestimmungen .......................................................................... 2|
-|§ 41 Geltungsbereich .............................................................................................. 2|
-|§ 42 Bachelorstudiengänge, inhaltlich im Wesentlichen gleiche Studiengänge ...... 2|
-|§ 43 Masterstudiengang, Studienbeginn, inhaltlich im Wesentlichen gleiche|
-|Studiengänge, Unterrichts- und Prüfungssprache .................................................. 2|
-|§ 44 Zusammensetzung des Prüfungsausschusses ............................................... 3|
-|II. Teil: Besondere Bestimmungen .......................................................................... 3|
-|1. Bachelorstudiengänge|............................................................................................|3|
-|a) Bachelorstudiengang Geowissenschaften|..............................................................|3|
-|§ 45 Gliederung des Bachelorstudiengangs Geowissenschaften ........................... 3|
-|§ 46 Grundlagen- und Orientierungsprüfung im Bachelorstudiengang|
-|Geowissenschaften ................................................................................................. 4|
-|§ 47 Geowissenschaftliche Wahlpflichtmodule ....................................................... 4|
-|§ 48 Überfachliches Wahlmodul ............................................................................. 6|
-|§ 49 Bachelorarbeit ................................................................................................. 7|
-|b) Bachelorstudiengang GeoNachhaltigkeit|................................................................|8|
-|§ 50 Gliederung des Bachelorstudiengangs GeoNachhaltigkeit ............................. 8|
-|§ 51 Grundlagen- und Orientierungsprüfung im Bachelorstudiengang|
-|GeoNachhaltigkeit ................................................................................................... 8|
-|§ 52 Wahlpflichtbereich GeoNachhaltigkeit ............................................................. 9|
-|§ 53 Fachliches Wahlmodul .................................................................................. 11|
-|§ 54 Bachelorarbeit ............................................................................................... 11|
-|2. Masterstudiengang|...............................................................................................|11|
-|§ 55 Zusammensetzung der Zugangskommission zum Masterstudium ................ 11|
-|§ 56 Qualifikation zum Masterstudium, Nachweise und  Zugangsvoraussetzungen|
-|.............................................................................................................................. 12|
-|§ 57 Umfang und Gliederung des Masterstudiums ............................................... 13|
-|§ 58 Wahlpflichtmodule der Studienrichtungen ..................................................... 13|
-
-**----- End of picture text -----**<br>
-
+**I. Teil: Allgemeine Bestimmungen .......................................................................... 2** § 41 Geltungsbereich .............................................................................................. 2 § 42 Bachelorstudiengänge, inhaltlich im Wesentlichen gleiche Studiengänge ...... 2 § 43 Masterstudiengang, Studienbeginn, inhaltlich im Wesentlichen gleiche Studiengänge, Unterrichts- und Prüfungssprache .................................................. 2 § 44 Zusammensetzung des Prüfungsausschusses ............................................... 3 **II. Teil: Besondere Bestimmungen .......................................................................... 3** 1. Bachelorstudiengänge **............................................................................................** 3 a) Bachelorstudiengang Geowissenschaften **..............................................................** 3 § 45 Gliederung des Bachelorstudiengangs Geowissenschaften ........................... 3 § 46 Grundlagen- und Orientierungsprüfung im Bachelorstudiengang Geowissenschaften ................................................................................................. 4 § 47 Geowissenschaftliche Wahlpflichtmodule ....................................................... 4 § 48 Überfachliches Wahlmodul ............................................................................. 6 § 49 Bachelorarbeit ................................................................................................. 7 b) Bachelorstudiengang GeoNachhaltigkeit **................................................................** 8 § 50 Gliederung des Bachelorstudiengangs GeoNachhaltigkeit ............................. 8 § 51 Grundlagen- und Orientierungsprüfung im Bachelorstudiengang GeoNachhaltigkeit ................................................................................................... 8 § 52 Wahlpflichtbereich GeoNachhaltigkeit ............................................................. 9 § 53 Fachliches Wahlmodul .................................................................................. 11 § 54 Bachelorarbeit ............................................................................................... 11 2. Masterstudiengang **...............................................................................................** 11 § 55 Zusammensetzung der Zugangskommission zum Masterstudium ................ 11 § 56 Qualifikation zum Masterstudium, Nachweise und  Zugangsvoraussetzungen .............................................................................................................................. 12 § 57 Umfang und Gliederung des Masterstudiums ............................................... 13 § 58 Wahlpflichtmodule der Studienrichtungen ..................................................... 13 
 
 1 
 
-**==> picture [455 x 164] intentionally omitted <==**
+**==> picture [165 x 49] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-||||
-|---|---|---|
-|§ 59 Geowissenschaftliches Wahlmodul und Schlüsselqualifikationsmodule ....... 15|
-|§ 60 Masterarbeit .................................................................................................. 15|
-|III. Teil: Schlussbestimmungen ............................................................................. 16|
-|§ 61 Inkrafttreten, Übergangsbestimmungen ........................................................ 16|
-|Anlagen|....................................................................................................................|18|
-|Anlage 1: Bachelorstudiengänge|..............................................................................|18|
-|Anlage 1a: Studienverlaufsplan Bachelorstudiengang Geowissenschaften|.............|18|
-|Anlage 1b: Studienverlaufsplan Bachelorstudiengang GeoNachhaltigkeit|...............|22|
-|Anlage 2: Masterstudiengang|...................................................................................|25|
-|Anlage 2a: Curricular-Übersicht|................................................................................|25|
-|Anlage 2b: Strukturplan Master Geowissenschaften (M.Sc.)|....................................|25|
-|Anlage 2c: Studienverlaufsplan Masterstudiengang Geowissenschaften|.................|27|
+**==> picture [114 x 46] intentionally omitted <==**
 
-**----- End of picture text -----**<br>
-
+§ 59 Geowissenschaftliches Wahlmodul und Schlüsselqualifikationsmodule ....... 15 § 60 Masterarbeit .................................................................................................. 15 **III. Teil: Schlussbestimmungen ............................................................................. 16** § 61 Inkrafttreten, Übergangsbestimmungen ........................................................ 16 Anlagen **....................................................................................................................** 18 Anlage 1: Bachelorstudiengänge **..............................................................................** 18 Anlage 1a: Studienverlaufsplan Bachelorstudiengang Geowissenschaften **.............** 18 Anlage 1b: Studienverlaufsplan Bachelorstudiengang GeoNachhaltigkeit **...............** 22 Anlage 2: Masterstudiengang **...................................................................................** 25 Anlage 2a: Curricular-Übersicht **................................................................................** 25 Anlage 2b: Strukturplan Master Geowissenschaften (M.Sc.) **....................................** 25 Anlage 2c: Studienverlaufsplan Masterstudiengang Geowissenschaften **.................** 27 
 
 ## **I. Teil: Allgemeine Bestimmungen** 
 
@@ -101,6 +55,10 @@ Die Fachstudien- und Prüfungsordnung für die Bachelorstudiengänge Geowissensc
 (3) Als inhaltlich im Wesentlichen gleiche Studiengänge i.S.d. § 35 Abs. 1 Satz 1 Nr. 1 **ABMPO/NatFak** gelten naturwissenschaftliche oder technische Studiengänge mit einem geowissenschaftlichen Anteil einschließlich individueller fachlicher Schwerpunktsetzungen im Fachgebiet der Geowissenschaften im Umfang von mindestens 120 ECTS-Punkten. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (4)[1] Die Unterrichts- und Prüfungssprache im Masterstudiengang Geowissenschaften ist in den Studienrichtungen Angewandte Geologie, Angewandte Sedimentologie, Angewandte Mineralogie sowie Petrologie/Geodynamik/Georessourcen Deutsch.[2] Die Unterrichts- und Prüfungssprache in den Studienrichtungen Palaeobiology-Palaeoenvironments und Climate and Earth Systems ist Englisch.[3] § 4 Abs. 4 Satz 2 **ABMPO/NatFak** gilt mit der Maßgabe, dass einzelne Module in den in Sätzen 1 und 2 genannten Studienrichtungen in der jeweils anderen Sprache abgehalten werden dürfen; im Übrigen bleibt § 4 Abs. 4 **ABMPO/NatFak** unberührt. 
 
@@ -125,6 +83,10 @@ Die Fachstudien- und Prüfungsordnung für die Bachelorstudiengänge Geowissensc
 (4)[1] Das Modul Schlüsselqualifikationen (Modul Nr. 28) kann aus dem Angebot an Schlüsselqualifikationen der FAU sowie dem Angebot von EELISA – European University at FAU (EELISA) gewählt werden; § 48 Abs. 3 Sätze 1 und 4 gelten entsprechend.[2] Das überfachliche Wahlmodul (Modul 29) kann aus dem Angebot der überfachlichen Wahlmodule der Lehreinheit Geowissenschaften gewählt werden; Näheres regelt § 48. 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (5) Abweichend von § 34 Abs. 1 und 2 **ABMPO/NatFak** ist die Belegung von Zusatzmodulen nach § 34 **ABMPO/NatFak** im Bachelorstudiengang Geowissenschaften nicht zulässig. 
 
@@ -170,6 +132,10 @@ wobei die Studierenden in ihrer Wahl frei sind und auch Module aus dem Katalog d
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 schärfen.[4] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sind abhängig vom jeweils gewählten Modul und der jeweils einschlägige Modulbeschreibung zu entnehmen. 
 
 (3) Die einzelnen Modulpakete im Umfang von 10 ECTS-Punkten der geowissenschaftlichen Wahlpflichtmodule haben die folgenden fachspezifischen Qualifikationsziele: 
@@ -191,6 +157,10 @@ schärfen.[4] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sin
 2. elektronische Prüfung (E-Klausur 30-60 Min.), 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 3. Bericht (5-10 Seiten), 
 
@@ -228,6 +198,10 @@ wobei die Studierenden in ihrer Wahl frei sind und auch Module aus dem Katalog d
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 naturwissenschaftlichen Methoden gesammelt werden.[4] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
 
 (3)[1] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Umfang der Prüfungen sowie die Berechnung der Note der überfachlichen Wahlmodule sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungen in Modulen des Bereichs Überfachliches Wahlmodul I gemäß Abs. 1 Satz 2 Nr. 1 sind: 
@@ -262,6 +236,10 @@ naturwissenschaftlichen Methoden gesammelt werden.[4] Drittens wird den Studiere
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4)[1] Zur Vergabe des Themas der Bachelorarbeit sind hauptberufliche und nebenberufliche Hochschullehrerinnen und Hochschullehrer der Lehreinheit Geowissenschaften i.S.d. Art. 19 Abs. 1 **BayHIG** berechtigt, die hauptberuflich i.S.d. Art. 53 Abs. 4 **BayHIG** tätig sind; Ausnahmen kann der Prüfungsausschuss genehmigen.[2] Abweichend von § 31 Abs. 7 Satz 1 **ABMPO/NatFak** wird die Bachelorarbeit in der Regel nur von der Betreuerin bzw. dem Betreuer bewertet; § 17 Abs. 4 Satz 2 **ABMPO/NatFak** bleibt unberührt.[3] Bewertet im Falle von zwei Gutachten eine Prüfende bzw. ein Prüfender die Arbeit mit „nicht ausreichend“, ist die Arbeit abgelehnt.[4] Andernfalls ist die Note der Arbeit das arithmetische Mittel der Noten aller beiden Gutachten; § 22 Abs. 1 Sätze 5 und 6 **ABMPO/NatFak** finden Anwendung. 
 
 ## **b) Bachelorstudiengang GeoNachhaltigkeit** 
@@ -293,6 +271,10 @@ naturwissenschaftlichen Methoden gesammelt werden.[4] Drittens wird den Studiere
 (2) Die Grundlagen- und Orientierungsprüfung im Bachelorstudiengang GeoNachhaltigkeit ist bestanden, wenn sämtliche in Abs. 1 genannten Module mit „bestanden“ bzw. mindestens dem Prädikat „ausreichend“ bewertet worden sind. 
 
 8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 52 Wahlpflichtbereich GeoNachhaltigkeit** 
 
@@ -328,6 +310,10 @@ wobei die Studierenden in ihrer Wahl frei sind und auch Module aus dem Katalog d
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 bestimmen und benennen sowie Grundlagen der regionalen Geologie Deutschlands, geologische Grundlagen und Stratigraphie, Geländemethoden (Profilaufnahme, Geländeaufnahme, geophysikalische Arbeitsweisen, strukturgeologische Arbeitsweisen) und die Interpretation von dreidimensionalen Geländeaufbau aus zweidimensionaler Geländeaufnahme und Kartenerstellung erworben. 
 
 3. Im Modulpaket „Labormethoden und Petrologie“ werden Methodenkompetenzen zur Einführung in grundlegende petrologische und mineralogische Labormethoden, die Durchführung von Methoden, wie z.B. XRF-, XRD-, Röntgendiffraktometrie und Massenspektrometrie zur chemischen Bestimmung von Mineralen, die graphische Darstellung und Auswertung von Analysedaten mit statistischer Bewertung (z.B. Fehleranalyse) sowie die Entstehung kristalliner Gesteine und Gesteinsumwandlung bei Orogenese und Kontaktmetamorphose, die Bildung und Kristallisation von Magmen, der Zusammenhang von Kristallchemie und Mineralentstehung (Umgang mit Phasendiagrammen), die Grundlagen der Polarisationsmikroskopie, die Bestimmung von Mineralen unterm Mikroskop anhand ihrer optischen Eigenschaften und Erkennen der wichtigsten gesteinsbildenden Minerale, erworben. 
@@ -360,6 +346,10 @@ bestimmen und benennen sowie Grundlagen der regionalen Geologie Deutschlands, ge
 
 10 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (7)[1] Die Wahl der einzelnen Module im Rahmen des Wahlpflichtbereichs GeoNachhaltigkeit erfolgt durch eine verbindliche Anmeldung zur Prüfung in einem Modul aus dem Wahlpflichtbereich GeoNachhaltigkeit.[2] Im Fall eines Moduls mit Geländeübung erfolgt die verbindliche Anmeldung zur Prüfung durch die Anmeldung an der Geländeübung. 
 
 ## **§ 53 Fachliches Wahlmodul** 
@@ -378,6 +368,10 @@ bestimmen und benennen sowie Grundlagen der regionalen Geologie Deutschlands, ge
 
 11 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 lehrerin bzw. einen hauptberuflichen oder nebenberuflichen Hochschullehrer des Geozentrums Nordbayern i.S.d. Art. 19 **BayHIG** , die bzw. der hauptberuflich i.S.d. Art. 53 Abs. 4 **BayHIG** tätig ist, für jede der fünf Hauptstudienrichtungen. 
 
 ## **§ 56 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
@@ -395,6 +389,10 @@ lehrerin bzw. einen hauptberuflichen oder nebenberuflichen Hochschullehrer des G
 (3)[1] Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses nach Abs. 1 Satz 1 bzw. einem Durchschnitt der bisherigen entsprechenden Leistungen zwischen 2,51 und schlechtestenfalls 3,5 werden zu einer mündlichen Zugangsprüfung nach Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i.V.m. den nachfolgenden Regelungen eingeladen.[2] Gemäß Abs. 5 Satz 5 **Anlage ABMPO/NatFak** können Bewerberinnen und Bewerber mit einem fachverwandten Abschluss nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung nach Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i. V. m. den nachfolgenden Regelungen in das Masterstudium aufgenommen werden; die Note des Abschlusses nach Abs. 1 Satz 2 bzw. die Durchschnittsnote im Falle des Abs. 1 Satz 3 darf schlechtestenfalls 3,5 betragen.[3] Die mündliche Zugangsprüfung wird von zwei von der Zugangskommission bestellten Prüfenden nach § 56 Satz 3 entsprechend den von den Bewerberinnen und Bewerbern gewünschten Studienrichtungen durchgeführt.[4] Die Bewerberinnen bzw. Bewerber werden auf Basis ihrer fachlichen und methodischen Kenntnisse in den Grundlagen der Geowissenschaften (60 %) einschließlich individueller gewählter fachlicher Schwerpunktsetzungen im Fachgebiet der Geowissenschaften (40 %) beurteilt.[5] Die Prüfenden nach Satz 3 geben der Zugangskommission gegenüber eine Empfehlung über das Bestehen bzw. Nichtbestehen der mündlichen Zugangsprüfung ab.[6] Die Zugangskommission entscheidet auf Basis der Empfehlung nach Satz 5 über das Bestehen bzw. Nichtbestehen der mündlichen Zugangsprüfung.[7] Im Falle des Bestehens entscheidet die Zugangskommission darüber, ob der Zugang mit Auflagen gemäß § 35 Abs. 2 **ABMPO/NatFak** verbunden 
 
 12 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 wird.[8] Im Falle des Nichtbestehens gilt die Bewerberin bzw. der Bewerber als nicht geeignet und wird nicht in den Masterstudiengang aufgenommen.[9] Über die erste Stufe sowie das Auswahlgespräch ist jeweils eine Niederschrift zu fertigen; § 18 Abs. 5 **ABMPO/NatFak** gilt entsprechend. 
 
@@ -430,6 +428,10 @@ durchgeführt.[2] Die Studienrichtung Climate and Earth Systems (CES) ist nur al
 
 13 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 1. 1In der Hauptstudienrichtung Angewandte Geologie (AG) werden erweiterte Methodenkompetenzen erworben.[2] Diese behandeln verschiedene Aspekte der Angewandten Geologie und reichen von Bodenbewertungen, über Massenbewegungen und Fundamentbau bis zu Hydrogeologie mit Tracermethoden und Auswertung differenzierter Pumpversuche sowie Wasserqualitätsbetrachtungen.[3] Sie befähigen Studierende dazu, evidenzbasierte, qualitative und quantitative Gutachten und Bewertungen in Angewandter Geologie zu erstellen sowie Projekte im Umwelt- und Grundbaubereich zu planen und umzusetzen. 
 
 2. 1In der Hauptstudienrichtung Angewandte Mineralogie (AM) werden vertiefte Methodenkompetenzen zur Analyse natürlicher und synthetischer Materialien erworben.[2] Das Verständnis des Zusammenspiels von Kristallstruktur und Kristallchemie mit den physikalischen und mineralogischen Eigenschaften von geogenen und synthetischen Materialien steht im Fokus der Ausbildung.[3] Themenschwerpunkte sind die bauchemischen Materialien, Biomaterialien und technische Keramiken. 4Die erworbenen Kompetenzen befähigen zur Entwicklung und Optimierung technischer Produkte mit mineralogischen, chemischen und physikalischen Charakterisierungsmethoden. 
@@ -447,6 +449,10 @@ durchgeführt.[2] Die Studienrichtung Climate and Earth Systems (CES) ist nur al
 2. 1In der Nebenstudienrichtung Angewandte Mineralogie (AM) werden Methodenkompetenzen erworben, die ein erweitertes Verständnis zur mineralogischen Charakterisierung und der Verwendung von technischen und natürlichen Materialien befähigen.[2] Der Einfluss von Kristallstruktur und Kristallchemie auf die chemischen und physikalischen Eigenschaften steht im Fokus der Ausbildung. 
 
 14 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 3. In der Nebenstudienrichtung Angewandte Sedimentologie – Georessourcen (AS) werden Methodenkompetenzen zu den Themen Becken- und Bohrungsanalyse, Strukturgeologie/Tektonik, Sedimentpetrographie, Sedimentgeochemie, Geophysik, inklusive seismischer Interpretation erworben, die zu Basiserkundungen befähigen, um die Nutzung von Geo-Energieressourcen prüfen und einordnen zu können. 
 
@@ -476,6 +482,10 @@ Für das geowissenschaftliche Wahlmodul und die Schlüsselqualifikationsmodule g
 
 15 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - Angewandte Mineralogie (AM) 
 
 - Angewandte Sedimentologie – Georessourcen (AS) 
@@ -504,11 +514,19 @@ ist die Masterarbeit in der Regel in englischer Sprache abzufassen.
 
 16 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 der für sie bisher jeweils geltenden Fassung fortgelten und die Änderungen in den Modulen B9 – GeoMaterialien, B15 – Georessourcen und Tektonik sowie B17 – Nachhaltige mineralische Prozesse nur für diejenigen Studierenden gelten, die sich bezogen auf die geänderten Module (bisheriges Modul B9 – Mineralogie, B15 - Strukturgeologie und Lagerstättenkunde bzw. B17 – Mineralogie II) noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch). 
 
 (2)[1] Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BAMA Geow – vom 28. Oktober 2019, zuletzt geändert durch Satzung vom 8. September 2022, tritt mit Wirkung zum 30. September 2028 außer Kraft.[2] Prüfungen nach der in Satz 1 genannten Fachstudien- und Prüfungsordnung werden spätestens im Sommersemester 2028 letztmals angeboten. 
 
 17 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlagen** 
 
@@ -516,18 +534,24 @@ der für sie bisher jeweils geltenden Fassung fortgelten und die Änderungen in 
 
 ## **Anlage 1a: Studienverlaufsplan Bachelorstudiengang Geowissenschaften** 
 
-|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prü-**<br>**fung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Ge-**<br>**samt**<br>**ECTS-**<br>**Punkte**||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prü-**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
+|||||||||||**in ECTS-Punkten**||||||
+|||||**SWS**||||||||||||
+|||||||||**1.**<br>**Sem.**||||||||
+||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|**fung**||
+||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
 ||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||||||||||
 |**1**|**Grundlagen der Geowis-**<br>**senschaften I**|System Erde I|4||||**5**|5||||||PL: Klausur 60 Min.|1|
 |**2**|**Minerale und Gesteine**|Minerale und Gesteine|3||||**5**|2||||||PL: Klausur 90 Min.|1|
 |||Übungen zur V Minerale<br>und Gesteine||2||||3||||||||
 |**3**|**Mathematik für Natur-**<br>**wissenschaftler (MNat)**|Mathematik für Naturwis-<br>senschaftler|3||||**5**|3||||||PL: Klausur 90 Min.|1|
 |||Übungen zur V Mathem.<br>für Nat.wiss.||1||||2||||||||
 |**4**|**Allgemeine Biologie I:**<br>**Biologie für Nebenfächler**<br>**(Bio-NF)**|Biologie für Nebenfächler|5||||**5**|5||||||PL: Klausur 90 Min.|1|
-|**5**|**Allgemeine und**<br>**Anorganische Chemie mit**<br>**Praktikum (NW-1-AC)**|Allgemeine und Anorgani-<br>sche<br>Chemie|4||||**10**|4||||||PL: Klausur 45 Min.und<br>SL: pÜL (unbenotet)|1|
-|||Anorganisch-chemisches<br>Praktikum für Nebenfäch-<br>ler||8|||||6|||||||
+|**5**|**Allgemeine und**<br>**Anorganische Chemie mit**<br>**Praktikum (NW-1-AC)**|Allgemeine und Anorgani-<br>sche<br>Chemie|4|||||4||||||PL: Klausur 45 Min.und<br>SL: pÜL (unbenotet)|1|
+|||Anorganisch-chemisches<br>Praktikum für Nebenfäch-<br>ler|||||**10**|||||||||
+|||||8|||||6|||||||
 |**6**|**Geowissenschaftliche**<br>**Arbeitsmethoden I**|Geowissenschaftliche<br>Arbeitsmethoden I||2|||**5**|3||||||PL: Klausur 90 Min.und<br>SL: ExL max. 10 Seiten<br>(unbenotet)|1|
 |||Geländeübung I||||3||2||||||||
 |**7**|**Grundlagen der**<br>**Geowissenschaften II**|System Erde II|4||||**5**||5|||||PL: Klausur 60 Min.|1|
@@ -535,6 +559,10 @@ der für sie bisher jeweils geltenden Fassung fortgelten und die Änderungen in 
 
 
 18 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**8**|**Dynamik des Systems**<br>**Erde**|System Erde III|2|1|||**5**||5|||||PL: Klausur 60 Min.|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -560,6 +588,10 @@ der für sie bisher jeweils geltenden Fassung fortgelten und die Änderungen in 
 
 19 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |||Kartierübung||3|||||||3|||(unbenotet)||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**19**|**Sedimentologie**|System Erde IV|3|1|||**5**||||5|||PL: Klausur 60 Min.|1|
@@ -577,12 +609,19 @@ der für sie bisher jeweils geltenden Fassung fortgelten und die Änderungen in 
 |**29**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 2b1**|vgl. § 47 Abs. 5|||||**5**||||||5|vgl. § 47 Abs. 4|1|
 |**30**|**Geowissenschaftliches**<br>**Schwerpunktmodul 2c1**|vgl. § 47 Abs. 5|||||**5**||||||5|vgl. § 47 Abs. 4|1|
 |**31**|**Schlüsselqualifikation**<br>**Veranstaltung aus dem An-**<br>**gebot der FAU**|vgl. § 45 Abs. 4 i.V.m. § 48 Abs. 3|||||**5**|||||5||vgl. § 48 Abs. 3|0|
+|||||||||||||||||
 |**32**|**Überfachliches**<br>**Wahlmodul**2|vgl. § 48 Abs. 3|||||**5**|||||5||vgl. § 48 Abs. 3|0|
+|||||||||||||||||
+|||||||||||||||||
 |**33**|**Bachelorarbeit**|Schriftliche Bachelorarbeit|||||**15**||||||12|Bachelorarbeit<br>(ca. 20-40 Seiten)|1|
 
 
 
 20 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |||Kolloquium||||||||||||3|mit<br>Kolloquium, (20 Min.)<br>(80 % + 20 %)||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -601,12 +640,17 @@ PL: Prüfungsleistung SL: Studienleistung pÜL: praktische Übungsleistung ExL: 
 
 21 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 1b: Studienverlaufsplan Bachelorstudiengang GeoNachhaltigkeit** 
 
-|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br>||**SWS**<br>||**SWS**<br>||**SWS**<br>||**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Art und Umfang der Prü-**<br>**fung**|**Faktor Ab-**<br>**schluss-**<br>**note**|
+|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Pk**||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Art und Umfang der Prü-**|**Faktor Ab-**<br>|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**<br>||**4.**<br>**Sem.**|**5.**<br>**Sem.**<br>||**6.**<br>**Sem.**|||
-||||**V**|**Ü**|**P**<br>||**S**||||||||||
+|||||||||||<br>**in ECTS-Punkten **||||||
+|||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|<br>**fung**|**schluss-**<br>|
+||||**V**|**Ü**|**P**|**S**|**unte**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**||**note**|
 |**1**|**Kompetenzseminar**<br>**Klimawandel**|Kompetenzseminar Klima-<br>wandel||||2|**5**|5||||||PL: SeL (10 Minuten)|1|
 |**2**|**Rohstoffe und Nachhal-**<br>**tigkeit**|Rohstoffe und Nachhal-<br>tigkeit||||2|**5**|5||||||PL: SeL (5 Minuten)|1|
 |**3**|**Grundlagen der Geowis-**<br>**senschaften I**|System Erde I|3|||1|**5**|5||||||PL: Klausur 60 Min.|1|
@@ -626,6 +670,10 @@ PL: Prüfungsleistung SL: Studienleistung pÜL: praktische Übungsleistung ExL: 
 
 
 22 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**12**|**Geländeübung 1**|Geländeübung 1|||4||**5**||5|||||PL: Bericht<br>(max. 10 Seiten)|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -651,6 +699,10 @@ PL: Prüfungsleistung SL: Studienleistung pÜL: praktische Übungsleistung ExL: 
 
 23 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**23**|**Geowissenschaftliche**<br>**Labormethoden II**|Mineralanalyse mit XRD||1||1|**5**|||||2,5||PL: Klausur 90 Min|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||Labormethoden Wasser||2||||||||2,5||||
@@ -662,8 +714,8 @@ PL: Prüfungsleistung SL: Studienleistung pÜL: praktische Übungsleistung ExL: 
 |**29**|**Schlüsselqualifikation**<br>**Veranstaltung aus dem**<br>**Angebot der FAU und**<br>**EELISA1**|Vgl. § 50 Abs. 4|||||**10**||||5|5||Vgl. § 50 Abs. 4 i.V.m. § 53<br>Satz 5|0,5|
 |**30**|**Bachelor Arbeit**|Bachelor Arbeit|||||**15**||||||12|Bachelorarbeit (ca. 20-40<br>Seiten) mit Kolloquium, (20<br>Min.)<br>(80% + 20 %)|2|
 |||Bachelor Seminar|||||||||||3|||
-||**Summe SWS und ECTS-Punkte**||**12**|**28**|**12**<br>a|**45**|**180**|**30**|**30**|**30**<br>||**30**|**30**<br>||**30**|||
-||||**971**<br>a|||||||||||||
+||**W  ETPk**||**12**|**28**|**12**|**45**|**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
+||**Summe SS und CS-unte**||**971**|||||||||||||
 
 
 
@@ -673,11 +725,15 @@ PL: Prüfungsleistung SL: Studienleistung pÜL: praktische Übungsleistung ExL: 
 
 24 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2: Masterstudiengang** 
 
 ## **Anlage 2a: Curricular-Übersicht** 
 
-**==> picture [235 x 125] intentionally omitted <==**
+**==> picture [264 x 144] intentionally omitted <==**
 
 **----- Start of picture text -----**<br>
 Masterarbeit<br>30 ECTS-Punkte<br>Geow. Wahl-<br>Haupt-  modul<br>Nebenstudien-<br>studien-  5 ECTS-<br>richtung<br>richtung  Punkte und<br>30 ECTS-<br>45 ECTS- SQ Module<br>Punkte<br>Punkte  10 ECTS-<br>Punkte<br>**----- End of picture text -----**<br>
@@ -709,15 +765,26 @@ Aus folgenden Studienrichtungen können die Hauptstudienrichtung und die Nebenst
 
 25 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 **Masterarbeit** _**H**_ **& Masterkolloquium** 25 ECTS & 5 ECTS 
 
 26 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2c: Studienverlaufsplan Masterstudiengang Geowissenschaften** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Art und Umfang der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Workload-Verteilung in**<br>**ECTS-Punkten **|**Art und Umfang der Prüfung**|**Faktor**<br>**Abschluss-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
+|||||||||<br>**ECTS-Punkten **|||||
+|||**V**|||||||||||
+||||**Ü**|**P**|**S**|**Punkte**|**1.**<br>**S**|**2.**<br>**S**|**3.**<br>**S**|**4.**<br>**S**|||
+||||||||**em.**|**em.**|**em.**|**em.**|||
 |Hauptstudienrichtung<br>(Wahlpflichtmodule aus<br>Katalog für Hauptstudi-<br>enrichtung gemäß § 58)|vgl. § 58 Abs. 4|||||**45**|15|15|15||vgl. § 58 Abs. 4|1|
 |Nebenstudienrichtung<br>(Wahlpflichtmodule aus<br>Katalog für Nebenstudi-<br>enrichtung gemäß § 58)|vgl. § 58 Abs. 4|||||**30**|10|10|10||vgl. § 58 Abs. 4|1|
 |Geowissenschaftliches<br>Wahlmodul<br>gemäß § 59|vgl. § 59|||||**5**|5||||vgl. § 59|1|
@@ -730,6 +797,10 @@ Aus folgenden Studienrichtungen können die Hauptstudienrichtung und die Nebenst
 
 
 27 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 07. Mai 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 13. Mai 2025 Erlangen, den 13. Mai 2025 FAU 
 

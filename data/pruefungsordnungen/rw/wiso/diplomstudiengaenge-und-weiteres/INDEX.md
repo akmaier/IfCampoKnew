@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Diplomstudiengänge und weiteres"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-04-25T16:28:37+00:00
+scraped_at: 2026-05-01T09:33:24+00:00
 ---
 
 # Diplomstudiengänge und weiteres

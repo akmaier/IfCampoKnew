@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "24. April 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/2AeSa-PrO-Technomath.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T15:01:33+00:00
+scraped_at: 2026-05-01T07:54:53+00:00
 page_count_chars: 2376
 ---
 

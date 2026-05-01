@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO Kulturgeo 20221011 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Kulturgeographie/Aenderungssatzungen/FPO_Kulturgeo_20221011_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:51:36+00:00
+scraped_at: 2026-05-01T07:43:18+00:00
 page_count_chars: 36763
 ---
 

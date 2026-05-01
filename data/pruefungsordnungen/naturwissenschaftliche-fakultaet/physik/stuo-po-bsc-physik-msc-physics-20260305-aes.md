@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "StuO-PO BSc Physik-MSc Physics 20260305 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Physik/Aenderungssatzungen/StuO-PO_BSc_Physik-MSc_Physics_20260305_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-04-25T15:05:45+00:00
-page_count_chars: 48489
+scraped_at: 2026-05-01T07:59:28+00:00
+page_count_chars: 47661
 ---
 
 # StuO-PO BSc Physik-MSc Physics 20260305 ÄS.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Physik/Aenderungssatzungen/StuO-PO_BSc_Physik-MSc_Physics_20260305_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Physik und den Masterstudiengang Physics an der Naturwissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – BMPO/Physik – Vom 5. März 2026** 
 
@@ -33,6 +37,10 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Physik und den Ma
 3. In § 3 Abs. 1 Satz 3 Halbsatz 2 wird nach den Worten und dem Zeichen „Näheres regelt §“ die Zahl „35“ durch die Zahl „39“ ersetzt. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 4. § 4 wird wie folgt geändert: 
 
@@ -66,6 +74,10 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Physik und den Ma
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 „[4] In diesem Fall wird der jeweilige Bescheid in das Benutzerkonto der bzw. des Studierenden im Prüfungsverwaltungssystem der FAU elektronisch übermittelt (Bereitstellung zum Abruf).[5] Die bzw. der Studierende erhält über die Bereitstellung zum Abruf des Bescheids eine Benachrichtigung durch E-Mail an die studentische E-Mail-Adresse gemäß § 3 Abs. 2 Satzung der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) über die Bewerbung, Immatrikulation, Rückmeldung, Beurlaubung und Exmatrikulation (ImmaS). 6Ein gemäß Satz 4 zum Abruf bereitgestellter Bescheid gilt am vierten Tag nach Absendung der E-Mail über die Bereitstellung des Bescheids gemäß Satz 5 als bekanntgegeben.“ 
 
 9. § 11 wird wie folgt geändert: 
@@ -93,6 +105,10 @@ cc) Nach Satz 3 wird folgender neuer Satz 4 angefügt:
 - b) In Abs. 4 Satz 3 werden die Worte „gesundheitlichen Beeinträchtigungen“ durch das Wort „Symptome“ ersetzt. 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 11. § 13 Abs. 4 wird wie folgt geändert: 
 
@@ -122,6 +138,10 @@ cc) Nach Satz 3 wird folgender neuer Satz 4 angefügt:
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 15. § 22 wird wie folgt geändert: 
 
 a) Abs. 2 wird wie folgt geändert: 
@@ -140,15 +160,19 @@ cc) Nach Satz 5 wird folgender neuer Satz 6 angefügt:
 
 „[2] Änderungen an den Gewichtungsfaktoren im Sinne des Satz 1 sind nur zu Semesterbeginn möglich und gelten jeweils nur für Studierende, die sich bezogen auf das jeweilige Module noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Abweichend von Satz 2 sind Änderungen an den Gewichtungsfaktoren von Prüfungen, die Bestandteil der Grundlagen- und Orientierungsprüfung sind, sowie in den Modulen Bachelorund Masterarbeit jeweils nur mit Wirkung für Studierende möglich, die das Studium ab dem jeweiligen Semester neu aufnehmen. 4Näheres zur Bewertung von Prüfungen mit mehreren Prüfungsteilen bzw. Teilleistungen regelt die jeweilige Modulbeschreibung.“ 
 
-   - c) In Abs. 8 Satz 1 werden nach dem Wort „ **Anlage** “ die Zahlen und das Wort „ **1** bzw. **3** “ durch die Zahlen und das Wort „ **2** bis **5** “ ersetzt. 
+- c) In Abs. 8 Satz 1 werden nach dem Wort „ **Anlage** “ die Zahlen und das Wort „ **1** bzw. **3** “ durch die Zahlen und das Wort „ **2** bis **5** “ ersetzt. 
 
 16. § 25 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden vor dem Wort „Zeugnis“ das Wort „Urkunde“ und ein Komma eingefügt sowie nach dem Wort „table“ das Komma und das Wort „Urkunde“ gestrichen. 
+- a) In der Überschrift werden vor dem Wort „Zeugnis“ das Wort „Urkunde“ und ein Komma eingefügt sowie nach dem Wort „table“ das Komma und das Wort „Urkunde“ gestrichen. 
 
-   - b) In Abs. 1 Satz 1 werden nach den Worten „Prüfungsergebnisse beim Prüfungsamt“ die Worte „eine Urkunde über die Verleihung des akademischen Grades“ und ein Komma eingefügt, nach dem Wort „Supplement“ das Komma durch das Wort „und“ ersetzt und nach den Worten „Grade distribution table“ die Worte „und eine Urkunde über die Verleihung des akademischen Grades“ gestrichen. 
+- b) In Abs. 1 Satz 1 werden nach den Worten „Prüfungsergebnisse beim Prüfungsamt“ die Worte „eine Urkunde über die Verleihung des akademischen Grades“ und ein Komma eingefügt, nach dem Wort „Supplement“ das Komma durch das Wort „und“ ersetzt und nach den Worten „Grade distribution table“ die Worte „und eine Urkunde über die Verleihung des akademischen Grades“ gestrichen. 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## 17. § 28 wird wie folgt geändert: 
 
@@ -160,13 +184,13 @@ cc) Nach Satz 5 wird folgender neuer Satz 6 angefügt:
 
 18. In § 29 Abs. 1 Satz 2 wird im zweiten Spiegelstrich das Wort „insbesondere“ gestrichen. 
 
-19. § 31 wird wie folgt geändert: 
+## 19. § 31 wird wie folgt geändert: 
 
-   - a) In Abs. 1 wird Satz 4 gestrichen; der bisherige Satz 5 wird zu Satz 4. 
+- a) In Abs. 1 wird Satz 4 gestrichen; der bisherige Satz 5 wird zu Satz 4. 
 
-   - b) In Abs. 6 Satz 1 wird nach den Worten „nur innerhalb der ersten“ das Wort „zwei“ durch das Wort „sechs“ ersetzt. 
+- b) In Abs. 6 Satz 1 wird nach den Worten „nur innerhalb der ersten“ das Wort „zwei“ durch das Wort „sechs“ ersetzt. 
 
-   - c) In Abs. 9 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
+- c) In Abs. 9 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
 
 „[3] Über Ausnahmen entscheidet der Prüfungsausschuss.“ 
 
@@ -191,6 +215,10 @@ bb) Satz 5 wird gestrichen; der bisherige Satz 6 wird zu Satz 5.
    2. mindestens eines der beiden Module Experimentalphysik 5 und 6; 
 
 6 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
    3. das Grundpraktikum und die Praktika Physikalisches Experimentieren A und Physikalisches Experimentieren B (in der Variante Projektpraktikum); 
 
@@ -234,6 +262,10 @@ dd) Satz 9 wird gestrichen; der bisherige Satz 10 wird zu Satz 9.
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 24. In § 37 Satz 3 werden das Wort „schriftlichen“ gestrichen und das Wort „Universität“ durch die Abkürzung „FAU“ ersetzt. 
 
 25. § 38 wird wie folgt geändert: 
@@ -246,9 +278,9 @@ dd) Satz 9 wird gestrichen; der bisherige Satz 10 wird zu Satz 9.
 
 26. § 39 wird wie folgt geändert: 
 
-   - a) In Abs. 1 werden in Satz 1 vor dem Wort „Der“ die hochgestellte Zahl „[1] “ gestrichen, Satz 2 entfällt. 
+- a) In Abs. 1 werden in Satz 1 vor dem Wort „Der“ die hochgestellte Zahl „[1] “ gestrichen, Satz 2 entfällt. 
 
-   - b) Abs. 3 wird wie folgt geändert: 
+- b) Abs. 3 wird wie folgt geändert: 
 
 aa) Satz 1 wird wie folgt geändert: 
 
@@ -265,6 +297,10 @@ aa) Satz 1 wird wie folgt geändert:
    - (b) In Satz 3 wird nach den Worten „sich die besondere“ das Wort „Qualifikaiton“ durch das Wort „Qualifikation“ ersetzt. 
 
 8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
          - (c) In Satz 4 werden die Worte und Abkürzungen „Noten zu den Modulen TP-2 oder EP-3“ durch die Worte und die Abkürzung „die Note zum Modul TP-2“ ersetzt. 
 
@@ -304,9 +340,13 @@ bb) Der bisherige Satz 4 wird zu Satz 3.
 
 9 
 
-- b) Abs. 3 wird wie folgt geändert: 
+**==> picture [165 x 49] intentionally omitted <==**
 
-   - aa) Satz 1 wird gestrichen; die bisherigen Sätze 2 bis 4 werden zu Sätzen 1 bis 3. 
+**==> picture [114 x 46] intentionally omitted <==**
+
+## b) Abs. 3 wird wie folgt geändert: 
+
+- aa) Satz 1 wird gestrichen; die bisherigen Sätze 2 bis 4 werden zu Sätzen 1 bis 3. 
 
 bb) Satz 1 (neu) erhält folgende neue Fassung: 
 
@@ -316,17 +356,17 @@ bb) Satz 1 (neu) erhält folgende neue Fassung:
 
 29. In § 42 Satz 4 werden nach der Abkürzung „Abs.“ die Zahlen, Worte und die Abkürzung „1 Satz 4 sowie Abs.“ eingefügt. 
 
-30. § 43 wird wie folgt geändert: 
+## 30. § 43 wird wie folgt geändert: 
 
-   - a) Abs. 3 wird gestrichen; die bisherigen Abs. 4 bis 9 werden zu Abs. 3 bis 8. 
+a) Abs. 3 wird gestrichen; die bisherigen Abs. 4 bis 9 werden zu Abs. 3 bis 8. 
 
-   - b) In Abs. 7 (neu) werden nach den Worten „festzusetzenden Frist“ die Worte „von einem Monat“ durch die Worte „von maximal zwei Monaten“ ersetzt. 
+- b) In Abs. 7 (neu) werden nach den Worten „festzusetzenden Frist“ die Worte „von einem Monat“ durch die Worte „von maximal zwei Monaten“ ersetzt. 
 
-   - c) In Abs. 8 (neu) werden nach der Abkürzung „Abs.“ die Zahl „2“ und ein Komma eingefügt. 
+- c) In Abs. 8 (neu) werden nach der Abkürzung „Abs.“ die Zahl „2“ und ein Komma eingefügt. 
 
-   - d) Abs. 10 (alt) wird gestrichen. 
+- d) Abs. 10 (alt) wird gestrichen. 
 
-31. § 46 wird wie folgt geändert: 
+## 31. § 46 wird wie folgt geändert: 
 
    - a) Satz 2 Ziffer 3 erhält folgende neue Fassung: 
 
@@ -339,6 +379,10 @@ bb) Satz 1 (neu) erhält folgende neue Fassung:
    - a) In Abs. 2 wird nach Satz 4 folgender neuer Satz 5 angefügt: 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 „[5] Studierende der Forschungsstudienrichtung können im Physikalischen Wahlbereich nur Module einbringen, die im Modulhandbuch als besonders forschungsnah gekennzeichnet sind.“ 
 
@@ -372,6 +416,10 @@ cc) Die bisherigen Sätze 3 bis 7 werden zu Sätzen 4 bis 8.
 
 11 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 36. In § 51 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
 
 „(4)[1] Die zweite Änderungssatzung tritt am 1. April 2026 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen werden.[3] Studierende, die das Studium ab dem Wintersemester 2025/2026 aufgenommen haben und ab dem Sommersemester 2026 in die Forschungsstudienrichtung im Bachelorstudiengang aufgenommen werden, werden zum Zeitpunkt der Aufnahme in die Forschungsstudienrichtung von Amts wegen in die BMPO/Physik vom 31. Juli 2023 in der Fassung dieser zweiten Änderungssatzung überführt.“ 
@@ -396,6 +444,10 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 
 12 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## 38. **Anlage 2** wird wie folgt geändert: 
 
 - a) In Satz 1 werden nach den Worten „der Physik die in“ die Worte „der nachfolgenden“ eingefügt und nach dem nachfolgenden Wort „Tabelle“ die Zahl „1“ gestrichen. 
@@ -404,62 +456,86 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 
 ## „ 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**ECTS**<br>**Gesamt**<br>**3)**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**3**|||||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**|||**ECTS**|**Workload **||**pro Semester in ECTS-**||||||
+||||||||||||<br>||||||
+|||||||||**Gesamt**<br>**3)**|||**Punkten**||||**Art und Umfang**<br>**der Prüfung**||
+||||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**|**6**|||
 |**EP-12**|**Experimentalphysik**<br>**1+2**|**Experimentalphysik 1:**<br>**Mechanik**|**P**|5|2|1||**15**|7,5||||||Klausur (120 Min.)und<br>unbenotete<br>Praktikumsleistung gemäß<br>§ 20|0|
 |||**Experimentalphysik 2:**<br>**Wärmelehre und**<br>**Elektrodynamik**||5|2|1||||7,5|||||||
-|**RMP**|**Rechenmethoden der**<br>**Physik**|**Rechenmethoden d.**<br>**Physik, Teil 1**|**W**|(2)|(2)|||**(5)**|(2,5)||||||Unbenotete Klausur<br>(90 Min.)|0|
-|||**Rechenmethoden d.**<br>**Physik, Teil 2**||(2)|(2)|||||(2,5)|(2,5)||||||
+|**RMP**|**Rechenmethoden der**<br>**Physik**|**Rechenmethoden d.**<br>**Physik, Teil 1**|**W**|(2)||||**(5)**|(2,5)||||||Unbenotete Klausur<br>(90 Min.)|0|
+|||**Rechenmethoden d.**<br>**Physik, Teil 2**||(2)||||||(2,5)|||||||
 |**MP-A**|**Mathematik A für Physikstudierende4)**||**P**|4|4|||**10**|10||||||Klausur (120 Min.)und<br>Übungsleistung (unbenotet)|0|
 |**DV**|**Datenverarbeitung in der Physik**||**P**|2||2||**5**|5||||||Unbenotete<br>Praktikumsleistung<br>gemäß § 20|0|
-|**NW-1**|**Nichtphysikalisches**<br>**Wahlfach 1 gemäß**<br>**§ 36 Abs. 3 Sätze 3-5**|**Nichtphys. Wahlfach 1,**<br>**Teil 1**|**W**|5), 6)||||**10**|7,5||||||Nach Maßgabe des Fachs<br>5)|0|
+|**NW-1**|**Nichtphysikalisches**<br>**Wahlfach 1 gemäß**<br>**§ 36 Abs. 3 Sätze 3-5**|**Nichtphys. Wahlfach 1,**<br>**Teil 1**|**W**||5), 6)|||**10**|7,5||||||Nach Maßgabe des Fachs<br>5)|0|
 |||**Nichtphys. Wahlfach 1,**<br>**Teil 2**||||||||2,5|||||||
-|**TP-1**<br>~~a~~|**Theoretische Physik 1: Mechanik**<br>~~a~~||**P**|4|3|||**10**||10|||||Klausur (120 Min.)|0|
+|**TP-1**|**Theoretische Physik 1:**|**Mechanik**|**P**|4|3|||**10**||10|||||Klausur (120 Min.)|0|
 
 
 
 13 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**ECTS**<br>**Gesamt**<br>**3)**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**3**|||||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**|||**ECTS**|**Workload **||**pro Semester in ECTS-**||||||
+||||||||||||<br>||||||
+|||||||||**Gesamt**<br>**3)**|||**Punkten**||||**Art und Umfang**<br>**der Prüfung**||
+||||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**|**6**|||
 |**MP-B**|**Mathematik B für Physikstudierende4)**||**P**|4|4|||**10**||10|||||Klausur (120 Min.)und<br>Übungsleistung (unbenotet)|0|
 |**EP-34**|**Experimentalphysik**<br>**3+4**|**Experimentalphysik 3:**<br>**Optik und Quanten-**<br>**phänomene**|**P**|4|2|||**15**|||7,5||||Mündliche Prüfung<br>(30 Min.)|1|
 |||**Experimentalphysik 4:**<br>**Atom- und Molekül-**<br>**physik**||3|2|||||||7,5|||||
-|**GP**<br>~~Poof~~|**Grundpraktikum**<br>~~Poof~~||**P**|~~ee~~|~~ee~~|6<br>~~ee~~|~~ee~~|**5**<br>~~ee~~|||5||||Unbenotete<br>Praktikumsleistung<br>gemäß § 20|0|
-|**TP-2**<br>~~Poof~~|**Theoretische Physik 2: Elektrodynamik7)**<br>~~Poof~~||**P**|4<br>~~ee~~|3<br>~~ee~~|~~ee~~|~~ee~~|**10**<br>~~ee~~|||10||||Klausur (120 Min.)|1|
-|**MP-C**<br>~~Poof~~|**Mathematik C für Physikstudierende4)**<br>~~Poof~~||**P**|(5)<br>~~ee~~|(2)<br>~~ee~~|(2)<br>~~ee~~|~~ee~~|**(10)**<br>~~ee~~|||(10)||||Klausur (120 Min.)|0|
-|**SQ**|**Schlüsselqualifikation**<br>**gemäß § 37**|**5)**|**S**|5)||||**5**|||2,5|2,5|||Unbenotete Studienleistung<br>nach Maßgabe des Fachs<br>5)|0|
-|**NW**|**Nichtphysikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 3**|**5)**|**W**|5)||||**5**|||5||||Nach Maßgabe des Fachs<br>5)|1|
-|**PE-A**|**Physikalisches**<br>**Experimentieren A**|**Elektronikpraktikum**|**P**|1<br>~~EEE~~|~~EEE~~|7<br>~~EEE~~|~~EEE~~|**10**<br>~~EEE EEE~~|~~EEE~~|~~EEE~~|~~EEE~~|10<br>~~EEE~~|~~EEE~~|~~EEE~~|Präsentation einer<br>Versuchsauswertung<br>(50 %)und<br>Praktikumsleistung gemäß<br>§ 20 (50 %)<br>~~EEE~~|1<br>~~EEE~~|
-|**TP-3**<br>~~ooo~~|**Theoretische Physik 3: Quantenmechanik 7)**<br>~~ooo~~||**P**<br>~~ooo~~|4<br>~~ooo~~<br>~~EEE~~|3<br>~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|**10**<br>~~ooo~~<br>~~EEE EEE~~|~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|10<br>~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|Klausur (120 Min.)<br>~~ooo~~<br>~~EEE~~|1<br>~~ooo~~<br>~~EEE~~|
-|**EP-5**<br>~~ooo~~|**Experimentalphysik 5: Kern- und**<br>**Teilchenphysik8)**<br>~~ooo~~||**P**<br>~~ooo~~|3<br>~~ooo~~<br>~~EEE~~|2<br>~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|**7,5**<br>~~ooo~~<br>~~EEE EEE~~|~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|7,5<br>~~ooo~~<br>~~EEE~~|~~ooo~~<br>~~EEE~~|Klausur (90 Min.)<br>~~ooo~~<br>~~EEE~~|1<br>~~ooo~~<br>~~EEE~~|
+|**GP**|**Grundpraktikum**||**P**|||6||**5**|||5||||Unbenotete<br>Praktikumsleistung<br>gemäß § 20|0|
+|**TP-2**|**Theoretische Physik 2:**|**Elektrodynamik7)**|**P**|4|3|||**10**|||10||||Klausur (120 Min.)|1|
+|**MP-C**|**Mathematik C für Physikstudierende4)**||**P**|(5)|(2)|||**(10)**|||(10)||||Klausur (120 Min.)|0|
+|**SQ**|**Schlüsselqualifikation**<br>**gemäß § 37**|**5)**|**S**|||5)||**5**|||2,5|2,5|||Unbenotete Studienleistung<br>nach Maßgabe des Fachs<br>5)|0|
+|**NW**|**Nichtphysikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 3**|**5)**|**W**|||5)||**5**|||5||||Nach Maßgabe des Fachs<br>5)|1|
+|**PE-A**|**Physikalisches**<br>**Experimentieren A**|**Elektronikpraktikum**|**P**|1||7||**10**||||10|||Präsentation einer<br>Versuchsauswertung<br>(50 %)und<br>Praktikumsleistung gemäß<br>§ 20 (50 %)|1|
+|**TP-3**|**Theoretische Physik 3: Quantenmechanik 7)**||**P**|4|3|||**10**||||10|||Klausur (120 Min.)|1|
+|**EP-5**|**Experimentalphysik 5: Kern- und**<br>**Teilchenphysik8)**||**P**|3|2|||**7,5**|||||7,5||Klausur (90 Min.)|1|
 
 
 
 14 
 
-|**Kürzel**<br>~~PF~~<br>~~ooo~~|**Modulbezeichnung**<br><br>~~ooo~~|**Lehrveranstaltungen**<br><br>|**Modul-**<br>**typ1)**<br><br>~~ee~~|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**ECTS**<br>**Gesamt**<br>**3)**<br>|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**<br>|**Faktor**<br>**Abschluss**<br>**note**<br>|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**<br><br>~~ee~~|**Ü**<br><br>~~ee~~|**P**<br>|**S**<br>||**1**<br>|**2**<br>|**3**<br>|**4**<br>|**5**<br>|**6**<br>|||
-|**EP-6**<br>~~PFoasis~~<br>~~ooo~~|**Experimentalphysik 6: Festkörperphysik8)**<br>~~oasis~~<br>~~oooooo~~||**P**<br>~~oasis~~<br>~~ee~~|(3)<br>~~oasis~~<br>~~ee~~<br>~~EE~~|(2)<br>~~oasis~~<br>~~ee~~<br>~~EE~~|(2)<br>~~oasis~~<br>~~EE~~|~~oasis~~<br>~~EE~~|**(7,5)**<br>~~oasis~~<br>~~EE EEE~~|~~oasis~~<br>~~EEE~~|~~oasis~~<br>~~EEE~~|~~oasis~~<br>~~EEE~~|~~oasis~~<br>~~EEE~~|(7,5)<br>~~oasis~~<br>~~EEE~~|(7,5)<br>~~oasis~~<br>~~EEE~~|Klausur (90 Min.)<br>~~oasis~~<br>~~EEE~~|1<br>~~oasis~~<br>~~EEE~~|
-|**TP-4**<br>~~PF~~<br>~~ooo~~|**Theoretische Physik 4: Statistische Physik7)**<br><br>~~oooooo~~||**P**<br><br>~~ee~~|(4)<br><br>~~ee~~<br>~~EE~~|(3)<br><br>~~ee~~<br>~~EE~~|(3)<br><br>~~EE~~|~~EE~~|**(10)**<br><br>~~EE EEE~~|~~EEE~~|~~EEE~~|~~EEE~~|~~EEE~~|(10)<br><br>~~EEE~~|~~EEE~~|Klausur (120 Min.)<br><br>~~EEE~~|1<br><br>~~EEE~~|
-|**PE-B**<br>~~ooo~~|**Physikalisches**<br>**Experimentieren B**<br>~~ooo~~|**Projekt- oder**<br>**Aufbaupraktikum**<br>~~ooo~~|**P**<br>~~ee~~|~~ee~~<br>~~EE~~|~~ee~~<br>~~EE~~|8<br>~~EE~~|~~EE~~|**5**<br>~~EE EEE~~|~~EEE~~|~~EEE~~|~~EEE~~|~~EEE~~|5<br>~~EEE~~|~~EEE~~|Praktikumsleistung gemäß<br>gemäß § 2<br>~~EEE~~|0<br>~~EEE~~|
-|**TP-K**<br>~~ooo~~|**Kolloquium**<br>**Theoretische Physik**<br>~~ooo ~~|**Synopsis d.**<br>**Theoretischen Physik**<br> ~~ooo~~|**P**<br>~~ee~~|~~ee~~<br>~~EE~~|1<br>~~ee~~<br>~~EE~~|~~EE~~|1<br>~~EE~~|**7,5**<br>~~EE EEE~~|~~EEE~~|~~EEE~~|~~EEE~~|~~EEE~~|7,5<br>~~EEE~~|~~EEE~~|Mündliche Prüfung<br>(30 Min.)<br>~~EEE~~|1<br>~~EEE~~|
-|**PW**|**Physikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 2**|**5)**|**W**|5)||||**12,5**|||||5|7,5|vgl. § 36 Abs. 25)|1|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**3**|||||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**|||**ECTS**|**Workload **||**pro Semester in ECTS-**||||||
+||||||||||||<br>||||||
+|||||||||**Gesamt**<br>**3)**|||**Punkten**||||**Art und Umfang**<br>**der Prüfung**||
+||||||||||||||||||
+|||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**|**6**|||
+|**EP-6**|**Experimentalphysik 6: Festkörperphysik8)**||**P**|(3)|(2)|||**(7,5)**|||||(7,5)||Klausur (90 Min.)|1|
+|**TP-4**|**Theoretische Physik 4: Statistische Physik7)**||**P**|(4)|(3)|||**(10)**|||||(10)||Klausur (120 Min.)|1|
+|**PE-B**|**Physikalisches**<br>**Experimentieren B**|**Projekt- oder**<br>**Aufbaupraktikum**|**P**|||8||**5**|||||5||Praktikumsleistung gemäß<br>gemäß § 2|0|
+|**TP-K**|**Kolloquium**<br>**Theoretische Physik**|**Synopsis d.**<br>**Theoretischen Physik**|**P**||1||1|**7,5**|||||7,5||Mündliche Prüfung<br>(30 Min.)|1|
+|**PW**|**Physikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 2**|**5)**|**W**|||5)||**12,5**|||||5|7,5|vgl. § 36 Abs. 25)|1|
 |**PS**|**Physikalisches Seminar**||**W**||||2|**5**|||||5||Vortrag (45 Min.) mit<br>anschließender Diskussion<br>gemäß § 19|1|
-|**PE-C**<br>~~a~~|**Physikalisches**<br>**Experimentieren C**<br>~~a~~|**Fortgeschrittenen-**<br>**praktikum**<br>~~ee~~|**P**<br>~~ees~~|~~os~~|~~eee~~|10<br>~~eee ee~~|~~ee~~|**7,5**<br>~~ee ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|7,5<br>~~ee~~|Praktikumsleistung gemäß<br>§ 20 (7 Versuche)|1|
-|**BA**<br>~~a~~|**Bachelorarbeit**<br>~~a~~|**Bachelorarbeit**<br>~~ee~~|**P**<br>~~ees~~|~~os~~|~~eee~~|~~eee ee~~|~~ee~~|**15**<br>~~ee ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|12,5<br>~~ee~~|vgl. § 31|2|
-|||**Bachelorkolloquium**<br>~~ee~~|~~ees~~|~~os~~|~~eee~~|~~eee ee~~|2<br>~~ee~~||~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|2,5<br>~~ee~~|||
-|**Summe der SWS9)und ECTS-Punkte**<br>~~a ee ees ~~||||**54**<br> ~~os ~~|**37**<br> ~~eee~~|**36**<br>~~eee ee~~|**10**<br>~~ee~~|**180**<br>~~ee ee~~|**30**<br>~~ee~~|**30**<br>~~ee~~|**30**<br>~~ee~~|**30**<br>~~ee~~|**30**<br>~~ee~~|**30**<br>~~ee~~|||
-|||||**137**|||||||||||||
+|**PE-C**|**Physikalisches**<br>**Experimentieren C**|**Fortgeschrittenen-**<br>**praktikum**|**P**|||10||**7,5**||||||7,5|Praktikumsleistung gemäß<br>§ 20 (7 Versuche)|1|
+|**BA**|**Bachelorarbeit**|**Bachelorarbeit**|**P**|||||**15**||||||12,5|vgl. § 31|2|
+|||**Bachelorkolloquium**|||||2|||||||2,5|||
+||||||||||||||||||
+|**Summe der SWS9)und ECTS-Punkte**||||**54**|**37**|**36**|**10**|**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
+||||||||||||||||||
+||||||**137**||||||||||||
+||||||||||||||||||
 
 
 
-- 1) P = Pflichtbereich; W = Wahlbereich; S = Schlüsselqualifikationen. 
-
-- 2) SWS = Semesterwochenstunden; V = Vorlesung; Ü = Übung; P = Praktikum; S = Seminar. Für die Berechnung der Summen wurden die Werte in Klammern nicht berücksichtigt. 3) Für die Workload-Berechnung wurden die ECTS-Punkte in Klammern nicht berücksichtigt. 
+- 1) P = Pflichtbereich; W = Wahlbereich; S = Schlüsselqualifikationen. 2) SWS = Semesterwochenstunden; V = Vorlesung; Ü = Übung; P = Praktikum; S = Seminar. Für die Berechnung der Summen wurden die Werte in Klammern nicht berücksichtigt. 3) Für die Workload-Berechnung wurden die ECTS-Punkte in Klammern nicht berücksichtigt. 
 
 - 4) Mindestens zwei der drei Module MP-A bis MP-C müssen erfolgreich absolviert werden 
 
@@ -468,6 +544,10 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 - 6) Die ECTS-Punkte und die SWS des Moduls NW-1 werden hier für die Variante „Informatik“ angegeben. Bei den anderen Varianten können die Angaben abweichen. 
 
 15 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - 7) Mindestens zwei der drei Module TP-2 bis TP-4 müssen erfolgreich absolviert werden. 
 
@@ -483,57 +563,91 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 
 16 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## b) Die Tabelle erhält samt Erläuterungen folgende neue Fassung: 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**ECTS**<br>**Gesamt**<br>**3)**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+||„||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**<br>||**6**|||
+||||||||||||||||||
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**3**|||||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**|||**ECTS**|**Workload **||**pro Semester in ECTS-**||||||
+||||||||||||<br>||||||
+|||||||||**Gesamt**<br>**3)**|||**Punkten**||||**Art und Umfang**<br>**der Prüfung**||
+||||||||||||||||||
+||||||||||||||||||
+|||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**|**6**|||
 |**EP-12**|**Experimentalphysik**<br>**1+2**|**Experimentalphysik 1:**<br>**Mechanik**|**P**|5|2|1||**15**|7,5||||||Klausur (120 Min.)und<br>unbenotete<br>Praktikumsleistung gemäß<br>§ 20|0|
 |||**Experimentalphysik 2:**<br>**Wärmelehre und**<br>**Elektrodynamik**||5|2|1||||7,5|||||||
-|**RMP**|**Rechenmethoden der**<br>**Physik**|**Rechenmethoden d.**<br>**Physik, Teil 1**|**W**|(2)|(2)|||**(5)**|(2,5)||||||Unbenotete Klausur<br>(90 Min.)|0|
-|||**Rechenmethoden d.**<br>**Physik, Teil 2**||(2)|(2)|||||(2,5)|(2,5)||||||
+|**RMP**|**Rechenmethoden der**<br>**Physik**|**Rechenmethoden d.**<br>**Physik, Teil 1**|**W**|(2)||||**(5)**|(2,5)||||||Unbenotete Klausur<br>(90 Min.)|0|
+|||**Rechenmethoden d.**<br>**Physik, Teil 2**||(2)||||||(2,5)|||||||
 |**MP-A**|**Mathematik A für Physikstudierende4)**||**P**|4|4|||**10**|10||||||Klausur (120 Min.)und<br>Übungsleistung (unbenotet)|0|
 |**DV**|**Datenverarbeitung in der Physik**||**P**|2||2||**5**|5||||||Praktikumsleistung<br>gemäß § 20|0|
-|**NW-1**|**Nichtphysikalisches**<br>**Wahlfach 1 gemäß**<br>**§ 36 Abs. 3 Sätze 3-5**|**Nichtphys. Wahlfach 1,**<br>**Teil 1**|**W**|5), 6)||||**10**|7,5||||||Nach Maßgabe des Fachs<br>5)|0|
+|**NW-1**|**Nichtphysikalisches**<br>**Wahlfach 1 gemäß**<br>**§ 36 Abs. 3 Sätze 3-5**|**Nichtphys. Wahlfach 1,**<br>**Teil 1**|**W**||5), 6)|||**10**|7,5||||||Nach Maßgabe des Fachs<br>5)|0|
 |||**Nichtphys. Wahlfach 1,**<br>**Teil 2**||||||||2,5|||||||
-|**TP-1**|**Theoretische Physik 1: Mechanik**||**P**|4|3|||**10**||10|||||Klausur (120 Min.)|0|
+|**TP-1**|**Theoretische Physik 1:**|**Mechanik**|**P**|4|3|||**10**||10|||||Klausur (120 Min.)|0|
 |**MP-B**|**Mathematik B für Physikstudierende4)**||**P**|4|4|||**10**||10|||||Klausur (120 Min.)und<br>Übungsleistung (unbenotet)|0|
-|**EP-34**|**Experimentalphysik**<br>**3+4**|**EP-3: Optik und**<br>**Quantenphänomene**|**P**|4|2|||**15**|||7,5||||Mündliche Prüfung<br>(30 Min.)|1|
+|**EP-34**|**Experimentalphysik**<br>**3+4**||||||||||||||||
+|||**EP-3: Optik und**<br>**Quantenphänomene**|**P**|4|2|||**15**|||7,5||||Mündliche Prüfung<br>(30 Min.)|1|
 
 
 
 17 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**ECTS**<br>**Gesamt**<br>**3)**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**<br>||**6**|||
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**3**|||||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**|||**ECTS**|**Workload **||**pro Semester in ECTS-**||||||
+||||||||||||<br>||||||
+|||||||||**Gesamt**<br>**3)**|||**Punkten**||||**Art und Umfang**<br>**der Prüfung**||
+||||||||||||||||||
+||||||||||||||||||
+|||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**|**6**|||
 |||**EP-4: Atom- und**<br>**Molekülphysik**||3|2|||||||7,5|||||
 |**GP**|**Grundpraktikum**||**P**|||6||**5**|||5||||Unbenotete<br>Praktikumsleistung<br>gemäß § 20|0|
-|**TP-2**|**Theoretische Physik 2: Elektrodynamik**||**P**|4|3|||**10**|||10||||Klausur (120 Min.)|1|
-|**MP-C**|**Mathematik C für Physikstudierende4)**||**P**|(5)|(2)|(2)||**(10)**|||(10)||||Klausur (120 Min.)|0|
-|**SQ**|**Schlüsselqualifikation**<br>**gemäß § 37**|**5)**|**S**|5)||||**2,5**|||2,5||||Unbenotete Studienleistung<br>nach Maßgabe des Fachs5)|0|
-|**NW**|**Nichtphysikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 3**|**5)**|**W**|5)||||**5**|||5||||Nach Maßgabe des Fachs<br>5)|1|
-|**TP-3**|**Theoretische Physik 3: Quantenmechanik**||**P**|4|3|||**10**||||10|||Klausur (120 Min.)|1|
+|**TP-2**|**Theoretische Physik 2:**|**Elektrodynamik**|**P**|4|3|||**10**|||10||||Klausur (120 Min.)|1|
+|**MP-C**|**Mathematik C für Physikstudierende4)**||**P**|(5)|(2)|||**(10)**|||(10)||||Klausur (120 Min.)|0|
+|**SQ**|**Schlüsselqualifikation**<br>**gemäß § 37**|**5)**|**S**|||5)||**2,5**|||2,5||||Unbenotete Studienleistung<br>nach Maßgabe des Fachs5)|0|
+|**NW**|**Nichtphysikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 3**|**5)**|**W**|||5)||**5**|||5||||Nach Maßgabe des Fachs<br>5)|1|
+|**TP-3**|**Theoretische Physik 3:**|**Quantenmechanik**|**P**|4|3|||**10**||||10|||Klausur (120 Min.)|1|
 |**PE-A**|**Physikalisches**<br>**Experimentieren A**|**Elektronikpraktikum**|**P**|1||7||**10**||||10|||Präsentation einer<br>Versuchsauswertung<br>(50 %)und<br>Praktikumsleistung gemäß<br>§ 20 (50 %)|1|
 |**PE-B**|**Physikalisches**<br>**Experimentieren B**|**Projektpraktikum**|**P**|||8||**5**|||||5||Praktikumsleistung gemäß<br>§ 20|0|
-|**TP-4**|**Theoretische Physik 4: Statistische Physik**||**P**|4|3|||**10**|||||10||Klausur (120 Min.)|1|
+|**TP-4**|**Theoretische Physik 4:**|**Statistische Physik**|**P**|4|3|||**10**|||||10||Klausur (120 Min.)|1|
 
 
 
 18 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**ECTS**<br>**Gesamt**<br>**3)**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Workload 3) pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**3**|||||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**|||**ECTS**|**Workload **||**pro Semester in ECTS-**||||||
+||||||||||||<br>||||||
+|||||||||**Gesamt**<br>**3)**|||**Punkten**||||**Art und Umfang**<br>**der Prüfung**||
+||||||||||||||||||
+||||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|**5**|**6**|||
-|**EP-5**|**Experimentalphysik 5: Kern- und**<br>**Teilchenphysik 7)**||**P**|3|2|||**7,5**|||||7,5||Klausur (90 Minuten)|1|
-|**EP-6**|**Experimentalphysik 6: Festkörperphysik 7)**||**P**|(3)|(2)|||**(7,5)**|||||(7,5)|(7,5)|Klausur (90 Minuten)|1|
-|**FP**|**Forschungsorientierte Projektarbeit**||**P**|||15||**7,5**||||2,5|2,5|2,5|Abschlussbericht<br>(ca. 20 Seiten)<br>gemäß § 207)|1|
-|**PW**|**Physikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 2**|**5)**|**W**|5)||||**10**|||||5|5|vgl. § 36 Abs. 25)|1|
+|**EP-5**|**Experimentalphysik 5:**<br>**Teilchenphysik 7)**|**Kern- und**|**P**|3|2|||**7,5**|||||7,5||Klausur (90 Minuten)|1|
+|**EP-6**|**Experimentalphysik 6:**|**Festkörperphysik 7)**|**P**|(3)|(2)|||**(7,5)**|||||(7,5)||Klausur (90 Minuten)|1|
+|**FP**|**Forschungsorientierte**|**Projektarbeit**|**P**|||15||**7,5**||||2,5|2,5|2,5|Abschlussbericht<br>(ca. 20 Seiten)<br>gemäß § 207)|1|
+|**PW**|**Physikalisches**<br>**Wahlfach gemäß § 36**<br>**Abs. 2**|**5)**|**W**|||5)||**10**|||||5|5|vgl. § 36 Abs. 25)|1|
 |**ST-1**|**Studientage 1**|**Workshop mit Vortrag**|**P**||||2|**5**||||||5|Vortrag (30 Min.) über das<br>Modul FP gemäß § 19|1|
 |**FS**|**Forschungsseminar**|**Seminar zu aktuellen**<br>**Forschungsthemen**|**P**||||2|**5**||||||5|Vortrag (45 Min.) mit<br>anschließender<br>Diskussion gemäß § 19|1|
 |**FBA**|**Bachelorarbeit**||**P**|||||**12,5**||||||12,5|Vgl. § 31|2|
+||||||||||||||||||
 |**Summe der SWS8)und ECTS-Punkte**||||**56**|**38**|**41**|**8**|**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
-|||||**143**|||||||||||||
+||||||**143**||||||||||||
+||||||||||||||||||
 
 
 
@@ -548,6 +662,10 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 - 5) vgl. § 36 und § 37. Art und Umfang der Prüfung und der Lehrveranstaltungen sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen. 
 
 19 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
    - 6) Die ECTS-Punkte und die SWS des Moduls NW-1 werden hier für die Variante „Informatik“ angegeben. Bei den anderen Modulen können die Angaben abweichen. 
 
@@ -565,18 +683,31 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 
 20 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## c) Die Tabelle erhält samt Erläuterungen folgende neue Fassung: 
 
 ## „ 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**Gesamt**<br>**ECTS3)**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**Workload 3) pro**|||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**||||<br>**Semester**||||||
+|||||||||**Gesamt**<br>**ECTS3)**|**in ECTS-Punkten**||||**Art und Umfang**<br>**d Püf**||
+||||||||||||||**er rung**||
+||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|||
 |**EV-1**|**Advanced experimental physics**<br>**1 4)**|**EV-A, EV-B oder EV-C**<br>**(siehe § 46 Satz 4)**|**P**|4|3|||**10**|10||||Mündliche Prüfung<br>(30 Min.)|1|
-|**TV-1**|**Advanced theoretical physics 1 5)**|**TV-A oder TV-B**<br>**(siehe§ 46 Satz 5)**|**P**|(4)|(3)|(3)||**(10)**|(10)|(10)|||Klausur (120 Min.)|1|
+|**TV-1**|**Advanced theoretical physics 1 5)**|**TV-A oder TV-B**<br>**(siehe§ 46 Satz 5)**|**P**|(4)|(3)|||**(10)**|(10)||||Klausur (120 Min.)|1|
 |**WP**|**Advanced lab courses and**<br>**projects**|**Advanced lab course6)**|**P**|||14||**10**|5|5|||Praktikumsleistung<br>gemäß<br>§20(je 5 Versuche)|1|
-|**PW**|**Physics elective course gemäß §**<br>**47 Abs. 2**|**7)**|**W**|7)||||**20**|10|10|||vgl. § 47 Abs. 27)|1|
-|**NW**|**Elective course (other than**<br>**physics) gemäß§ 47 Abs. 3**|**7)**|**W**|7)||||**5**|5||||Nach Maßgabe des<br>Faches7)|1|
+|**PW**|**Physics elective course gemäß §**<br>**47 Abs. 2**|**7)**|**W**|||||**20**|10|10|||vgl. § 47 Abs. 27)|1|
+||||||7)||||||||||
+||||||||||||||||
+|**NW**|**Elective course (other than**<br>**physics) gemäß§ 47 Abs. 3**|**7)**|**W**|||||**5**|5||||Nach Maßgabe des<br>Faches7)|1|
+||||||7)||||||||||
+||||||||||||||||
 |**EV-2**|**Advanced experimental physics**<br>**2 4)**|**EV-A, EV-B oder EV-C**<br>**(siehe § 46 Satz 4)**|**P**|(4)|(3)|||**(10)**||(10)|||Mündliche Prüfung<br>(30 Min.)|1|
 |**TV-2**|**Advanced theoretical physics 2 5)**|**TV-A oder TV-B**<br>**(siehe§ 46 Satz 5)**|**P**|4|3|||**10**||10|||Klausur (120 Min.)|1|
 |**PS**|**Physics Seminar**||**W**||||2|**5**||5|||Vortrag (45 Min.) mit<br>anschließender<br>Diskussiongemäß§19|1|
@@ -587,14 +718,27 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 
 21 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**Gesamt**<br>**ECTS3)**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**Workload 3) pro**|||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**||||<br>**Semester**||||||
+|||||||||**Gesamt**<br>**ECTS3)**|**in ECTS-Punkten**||||**Art und Umfang**<br>**d Püf**||
+||||||||||||||**er rung**||
+||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|||
 ||||||||||||||Forschungsprojekts<br>(ca. 450 Std., unbenotet)||
 |**FO-3**|**Master’s thesis**|**Master‘s thesis**|**P**|||||**30**||||25|vgl. § 43|2|
 |||**Master‘s colloquium**|||||2|||||5|||
-|**Summe der SWS8)und ECTS-Punkte**||||**10**|**16**|**38**|**12**|**120**|**30**|**30**|**30**|**30**|||
-|||||**76**|||||||||||
+||||||||||||||||
+||||||||||||||||
+|**Summe**||||**10**|**16**|**38**|**12**|**120**|**30**|**30**|**30**|**30**|||
+||**der SWS8)und ECTS-Punkte**||||||||||||||
+||||||**76**||||||||||
+||||||||||||||||
 
 
 
@@ -620,36 +764,74 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 
 22 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## c) Die Tabelle erhält samt Erläuterungen folgende neue Fassung: 
 
 ## „ 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**Gesamt**<br>**ECTS3)**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**Workload 3) pro**|||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**||||<br>**Semester**||||||
+|||||||||**Gesamt**<br>**ECTS3)**|**in ECTS-Punkten**||||**Art und Umfang**<br>**d Püf**||
+||||||||||||||**er rung**||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|||
-|**EV-1**|**Advanced experimental physics 1 4)**|**EV-A, EV-B oder EV-C**<br>**(siehe 46 Satz 4)**|**P**|4|3|||**10**|10||||Mündliche Prüfung<br>(30 Min.)|1|
-|**TV-1**|**Advanced theoretical physics 1 5)**|**TV-A oder TV-B**<br>**(siehe 46 Satz 5)**|**P**|(4)|(3)|(3)||**(10)**|(10)|(10)|||Klausur (120 Min.)|1|
-|**FP**|**Research-oriented project**||**P**|||20||**10**|5|5|||Pro Modul:<br>Abschlussbericht (ca. 20<br>Seiten) gemäß § 20|1|
-|**PW**|**Physics elective course gemäß § 47**<br>**Abs. 2**|**6)**|**W**|6)||||**15**|15||||vgl. § 47 Abs.26)|1|
-|**EV-2**|**Advanced experimental physics 2 4)**|**EV-A, EV-B oder EV-C**<br>**(siehe § 46 Satz 4)**|**P**|(4)|(3)|||**(10)**||(10)|||Mündliche Prüfung<br>(30 Min.)|1|
-|**TV-2**|**Advanced theoretical physics 2 5)**|**TV-A oder TV-B**<br>**(siehe § 46 Satz 5)**|**P**|4|3|||**10**||10|||Klausur (120 Min.)|1|
-|**FS**|**Research seminar**|**Seminar on topics of**<br>**current research**|**P**||||2|**5**||5|||Vortrag (45 Min.) mit<br>anschließender<br>Diskussion gemäß §19|1|
-|**NW**|**Elective course (other than physics)**<br>**gemäß § 47 Abs. 3**|**6)**|**W**|6)||||**5**||5|||Nach Maßgabe des<br>Faches6)|1|
+|**EV-1**|**Advanced experimental physics 1 4)**|**EV-A, EV-B oder EV-C**<br>**(siehe 46 Satz 4)**|**P**||3||||||||Mündliche Prüfung<br>(30 Min.)|1|
+|||||4||||**10**|10||||||
+|**TV-1**|**Advanced theoretical physics 1 5)**|**TV-A oder TV-B**<br>**(siehe 46 Satz 5)**|**P**|(4)|(3)|||||||||1|
+|||||||||**(10)**|(10)||||Klausur (120 Min.)||
+|**FP**|**Research-oriented project**||**P**|||20|||5|5|||Pro Modul:<br>Abschlussbericht (ca. 20<br>Seiten) gemäß § 20|1|
+|||||||||**10**|||||||
+|**PW**|**Physics elective course gemäß § 47**<br>**Abs. 2**|**6)**|||||||15|||||1|
+||||**W**|||||**15**|||||vgl. § 47 Abs.26)||
+|||||||6)|||||||||
+||||||||||||||||
+|**EV-2**|**Advanced experimental physics 2 4)**|**EV-A, EV-B oder EV-C**<br>**(siehe § 46 Satz 4)**||||||**(10)**||||||1|
+||||**P**|(4)|(3)|||||(10)|||Mündliche Prüfung<br>(30 Min.)||
+|**TV-2**||**TV-A oder TV-B**<br>**(siehe § 46 Satz 5)**||||||**10**||||||1|
+||**Advanced theoretical physics 2 5)**||**P**|4|3|||||10|||Klausur (120 Min.)||
+|**FS**||**Seminar on topics of**<br>**current research**||||||**5**||||||1|
+||**Research seminar**||**P**||||2|||5|||Vortrag (45 Min.) mit<br>anschließender<br>Diskussion gemäß §19||
+|**NW**||**6)**||||||**5**||||||1|
+||**Elective course (other than physics)**<br>**gemäß § 47 Abs. 3**||**W**|||||||5|||Nach Maßgabe des<br>Faches6)||
+|||||||6)|||||||||
+||||||||||||||||
 
 
 
 23 
 
-|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**|**SWS2)**|**SWS2)**|**SWS2)**|**SWS2)**|**Gesamt**<br>**ECTS3)**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload 3) pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Abschluss**<br>**note**|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Kürzel**|**Modulbezeichnung**|**Lehrveranstaltungen**|**Modul-**<br>**typ1)**||||||**Workload 3) pro**|||||**Faktor**<br>**Abschluss**<br>**note**|
+||||||**SWS2)**||||<br>**Semester**||||||
+|||||||||**Gesamt**<br>**ECTS3)**|**in ECTS-Punkten**||||**Art und Umfang**<br>**d Püf**||
+||||||||||||||**er rung**||
 |||||**V**|**Ü**|**P**|**S**||**1**|**2**|**3**|**4**|||
-|**ST-2**|**Study workshop 2**|**Workshop with**<br>**presentation**|**P**||||2|**5**||5|||Vortrag (30 Min.) über<br>ein Modul FP_oder_<br>über die Bachelorarbeit<br>gemäß § 19|1|
-|**FO-1**|**Specialisation phase gemäß § 43**||**P**|||12||**15**|||15||Einarbeitung in das<br>Thema der<br>Forschungsphase<br>(ca. 450 Std., unbenotet)|0|
-|**FFO-2**|**Project planning and preparation gemäß § 43 i.V.m.**<br>**§ 50 Abs. 1 Satz 4**||**P**|||12||**15**|||15||Vorarbeiten zur<br>Durchführung des<br>Forschungsprojektsund<br>Erarbeitung eines<br>Antragskonzepts<br>(ca. 450 Std., unbenotet)|0|
-|**FO-3**<br>~~2~~|**Master’s thesis**|**Master‘s thesis**<br>~~Sn~~|**P**<br>|~~OO~~|~~OO~~|~~OO~~|~~OO~~|**30**||||25|vgl. § 43|2|
-|||**Master‘s colloquium**<br>~~Sn~~||~~OO~~|~~OO~~|~~OO~~|2<br>~~OO~~|||||5|||
-|**Summe der SWS7)und ECTS-Punkte**<br>~~2~~<br>~~Sn ~~||||**10**<br> ~~OO~~|**14**<br>~~OO~~|**44**<br>~~OO~~|**12**<br>~~OO~~|**120**|**30**|**30**|**30**|**30**|||
-|||||**80**|||||||||||
+|**ST-2**|**Study workshop 2**|**Workshop with**<br>**presentation**|||||2|||5||||1|
+||||**P**|||||**5**|||||Vortrag (30 Min.) über<br>ein Modul FP_oder_<br>über die Bachelorarbeit<br>gemäß § 19||
+||||||||||||||||
+|**FO-1**|**Specialisation phase gemäß § 43**||**P**|||12||**15**|||||Einarbeitung in das<br>Thema der<br>Forschungsphase<br>(ca. 450 Std., unbenotet)||
+||||||||||||15|||0|
+|**FFO-2**|**Project planning and preparation gemäß § 43 i.V.m.**<br>**§ 50 Abs. 1 Satz 4**||**P**|||12||||||||0|
+|||||||||**15**|||15||Vorarbeiten zur<br>Durchführung des<br>Forschungsprojektsund<br>Erarbeitung eines<br>Antragskonzepts<br>(ca. 450 Std., unbenotet)||
+|**FO-3**|**Master’s thesis**|**Master‘s thesis**|**P**|||||**30**||||25|vgl. § 43|2|
+||||||||||||||||
+|||**Master‘s colloquium**|||||2|||||5|||
+||||||||||||||||
+||||||||||||||||
+|**Summe**||||**10**|**14**|**44**|**12**|**120**|**30**|**30**|**30**|**30**|||
+||**der SWS7)und ECTS-Punkte**||||||||||||||
+||||||||||||||||
+||||||**80**||||||||||
+||||||||||||||||
 
 
 
@@ -667,6 +849,10 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 
 24 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - 7) Für die SWS-Summen wurden für die PW-Module 2 S + 2 Ü und für die NW-Module 2 V + 2 Ü pro 5 ECTS-Punkten angenommen. „ 
 
 ## **§ 2** 
@@ -674,6 +860,10 @@ ee) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „4“ ersetzt.
 1Diese Änderungssatzung tritt am 1. April 2026 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen werden.[3] Studierende, die das Studium ab dem Wintersemester 2025/2026 aufgenommen haben und ab dem Sommersemester 2026 in die Forschungsstudienrichtung im Bachelorstudiengang aufgenommen werden, werden zum Zeitpunkt der Aufnahme in die Forschungsstudienrichtung von Amts wegen in die BMPO/Physik vom 31. Juli 2023 in der Fassung dieser zweiten Änderungssatzung überführt. 
 
 25 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026 Erlangen, den 5. März 2026 FAU gez. 
 

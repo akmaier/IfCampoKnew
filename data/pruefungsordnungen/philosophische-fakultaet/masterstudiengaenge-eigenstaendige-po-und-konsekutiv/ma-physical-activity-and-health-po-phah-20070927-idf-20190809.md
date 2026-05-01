@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Physical Activity and Health PO PhAH 20070927 i.d.F. 20190809.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Physical_Acitvity_and_Health/konsolidierte_Fassungen/MA_Physical_Activity_and_Health_PO_PhAH_20070927_idF_20190809.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:16:17+00:00
+scraped_at: 2026-05-01T08:15:29+00:00
 page_count_chars: 64676
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Evangelische Theologie StuPO EvTheol 20150811 i.d.F. 20200916.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Theologie/Evangelische_Theologie/konsolidierte_Fassungen/Evangelische_Theologie_StuPO_EvTheol_20150811_idF_20200916.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:32:17+00:00
+scraped_at: 2026-05-01T08:40:48+00:00
 page_count_chars: 120758
 ---
 

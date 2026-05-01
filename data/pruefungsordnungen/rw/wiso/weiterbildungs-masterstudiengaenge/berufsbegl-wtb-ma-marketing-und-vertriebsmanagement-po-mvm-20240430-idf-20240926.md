@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl WTB MA Marketing- und Vertriebsmanagement PO MVM 20240430 i.d.F. 20240926.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Marketing_Vertriebsmanagement/konsolidierte_Fassungen/berufsbegl_WTB_MA_Marketing-_und_Vertriebsmanagement_PO_MVM_20240430_idF_20240926.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:39:15+00:00
-page_count_chars: 86613
+scraped_at: 2026-05-01T09:48:50+00:00
+page_count_chars: 86513
 ---
 
 # berufsbegl WTB MA Marketing- und Vertriebsmanagement PO MVM 20240430 i.d.F. 20240926.pdf
@@ -515,9 +515,9 @@ a) Note Bachelorabschluss (max. 40 Punkte):
 
 
 
-|2,7<br>2,79<br>29<br>2,8<br>2,89<br>28<br>2,9<br>2,99<br>27<br>3,0<br>3,09<br>26<br>3,1<br>3,2<br>25|2,7<br>2,79<br>29<br>2,8<br>2,89<br>28<br>2,9<br>2,99<br>27<br>3,0<br>3,09<br>26<br>3,1<br>3,2<br>25|2,7<br>2,79<br>29<br>2,8<br>2,89<br>28<br>2,9<br>2,99<br>27<br>3,0<br>3,09<br>26<br>3,1<br>3,2<br>25|2,7<br>2,79<br>29<br>2,8<br>2,89<br>28<br>2,9<br>2,99<br>27<br>3,0<br>3,09<br>26<br>3,1<br>3,2<br>25|2,7<br>2,79<br>29<br>2,8<br>2,89<br>28<br>2,9<br>2,99<br>27<br>3,0<br>3,09<br>26<br>3,1<br>3,2<br>25|
+||2,7<br>2,79<br>29<br>2,8<br>2,89<br>28<br>2,9<br>2,99<br>27<br>3,0<br>3,09<br>26<br>3,1<br>3,2<br>25|2,7<br>2,79<br>29<br>2,8<br>2,89<br>28<br>2,9<br>2,99<br>27<br>3,0<br>3,09<br>26<br>3,1<br>3,2<br>25|2,7<br>2,79<br>29<br>2,8<br>2,89<br>28<br>2,9<br>2,99<br>27<br>3,0<br>3,09<br>26<br>3,1<br>3,2<br>25|2,7<br>2,79<br>29<br>2,8<br>2,89<br>28<br>2,9<br>2,99<br>27<br>3,0<br>3,09<br>26<br>3,1<br>3,2<br>25|
 |---|---|---|---|---|
-|b)Marketingkenntnisse (max. 10 Punkte):|||||
+|b)|Marketingkenntnisse (max. 10 Punkte):||||
 ||**Umfang Marketingkenntnisse**||||
 ||**Von (ECTS) **|**Bis (ECTS) **||**Punkte **|
 ||≥10,5|||10|
@@ -526,7 +526,7 @@ a) Note Bachelorabschluss (max. 40 Punkte):
 ||3|5||4|
 ||0,5|2,5||2|
 ||0|0||0|
-|c)Statistikkenntnisse (max. 5 Punkte):|||||
+|c)|Statistikkenntnisse (max. 5 Punkte):||||
 ||**Umfang Statistikkenntnisse **||||
 ||**Von (ECTS)**|**Bis (ECTS)**||**Punkte**|
 ||≥5,5|||5|

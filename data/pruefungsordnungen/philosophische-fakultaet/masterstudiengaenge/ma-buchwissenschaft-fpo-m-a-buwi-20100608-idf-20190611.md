@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Buchwissenschaft FPO M.A. BuWi 20100608 i.d.F. 20190611.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Buchwissenschaft/konsolidierte_Fassungen/MA_Buchwissenschaft_FPO_M.A._BuWi_20100608_idF_20190611.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:21:50+00:00
+scraped_at: 2026-05-01T08:24:53+00:00
 page_count_chars: 9733
 ---
 

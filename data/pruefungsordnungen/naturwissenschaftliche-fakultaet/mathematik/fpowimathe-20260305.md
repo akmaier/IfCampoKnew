@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOWiMathe 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:57:53+00:00
-page_count_chars: 40513
+scraped_at: 2026-05-01T07:52:02+00:00
+page_count_chars: 43102
 ---
 
 # FPOWiMathe 20260305.pdf
@@ -12,13 +12,19 @@ page_count_chars: 40513
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOWiMathe – Vom 5. März 2026** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) in der geltenden Fassung erlässt die FAU folgende Fachstudien- und Prüfungsordnung: 
 
 ## **Inhaltsverzeichnis:** 
 
-**I. Teil: Allgemeine Bestimmungen ......................................................................................1** § 41 Geltungsbereich .............................................................................................................1 § 42 Bachelorstudiengang, Regelstudienzeit, inhaltlich im Wesentlichen gleiche Studiengänge ................................................................................................................2 § 43 Masterstudiengang, Regelstudienzeit, Unterrichtssprache, inhaltlich im Wesentlichen gleiche Studiengänge ....................................................................................................2 § 44 Zusammensetzung des Prüfungsausschusses ...............................................................2 **II. Teil: Besondere Bestimmungen ......................................................................................2** 1. Bachelorprüfung .................................................................................................................2 § 45 Gliederung des Bachelorstudiums ..................................................................................2 § 46 Grundlagen- und Orientierungsprüfung ..........................................................................3 § 47 Mathematische Wahlpflichtmodule .................................................................................3 § 48 Wahlpflichtmodule im Nebenfach Informatik ...................................................................4 § 49 Wahlpflichtmodule im Nebenfach Wirtschaftswissenschaften .........................................4 § 50 Schlüsselqualifikationen .................................................................................................4 § 51 Bachelorarbeit ................................................................................................................5 2. Masterprüfung ....................................................................................................................5 § 52 Zugangskommission für die Masterstudiengänge ...........................................................5 § 53 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................6 § 54 Studienrichtung des Masterstudiums, Umfang und Gliederung .......................................6 § 55 Mentorat und individuelle Studienvereinbarung ..............................................................7 § 56 Wahlpflichtmodule der Studienrichtungen .......................................................................7 § 57 Nebenfachwahlpflichtmodule Wirtschaftswissenschaften ...............................................8 § 58 Mathematische Wahlpflichtmodule .................................................................................8 § 59 Masterarbeit ...................................................................................................................9 **III. Teil: Schlussbestimmungen ...........................................................................................9** § 60 Inkrafttreten ....................................................................................................................9 **Anlage 2: Studienverlaufsplan Masterstudiengang Wirtschaftsmathematik ................. 15** 
+**I. Teil: Allgemeine Bestimmungen ......................................................................................1** § 41 Geltungsbereich .............................................................................................................1 § 42 Bachelorstudiengang, Regelstudienzeit, inhaltlich im Wesentlichen gleiche Studiengänge ................................................................................................................2 § 43 Masterstudiengang, Regelstudienzeit, Unterrichtssprache, inhaltlich im Wesentlichen gleiche Studiengänge ....................................................................................................2 § 44 Zusammensetzung des Prüfungsausschusses ...............................................................2 **II. Teil: Besondere Bestimmungen ......................................................................................2** 1. Bachelorprüfung .................................................................................................................2 § 45 Gliederung des Bachelorstudiums ..................................................................................2 § 46 Grundlagen- und Orientierungsprüfung ..........................................................................3 § 47 Mathematische Wahlpflichtmodule .................................................................................3 § 48 Wahlpflichtmodule im Nebenfach Informatik ...................................................................4 § 49 Wahlpflichtmodule im Nebenfach Wirtschaftswissenschaften .........................................4 § 50 Schlüsselqualifikationen .................................................................................................4 § 51 Bachelorarbeit ................................................................................................................5 2. Masterprüfung ....................................................................................................................5 § 52 Zugangskommission für die Masterstudiengänge ...........................................................5 § 53 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................6 § 54 Studienrichtung des Masterstudiums, Umfang und Gliederung .......................................6 § 55 Mentorat und individuelle Studienvereinbarung ..............................................................7 § 56 Wahlpflichtmodule der Studienrichtungen .......................................................................7 § 57 Nebenfachwahlpflichtmodule Wirtschaftswissenschaften ...............................................8 § 58 Mathematische Wahlpflichtmodule .................................................................................8 § 59 Masterarbeit ...................................................................................................................9 **III. Teil: Schlussbestimmungen ...........................................................................................9** § 60 Inkrafttreten ....................................................................................................................9 
+
+**Anlage 2: Studienverlaufsplan Masterstudiengang Wirtschaftsmathematik ................. 15** 
 
 ## **I. Teil: Allgemeine Bestimmungen** 
 
@@ -27,6 +33,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 Die Fachstudien- und Prüfungsordnung für den Bachelor- und den konsekutiven Masterstudiengang Wirtschaftsmathematik ergänzt die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **ABMPO/NatFak** – in der jeweils geltenden Fassung. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 42 Bachelorstudiengang, Regelstudienzeit, inhaltlich im Wesentlichen gleiche Studiengänge** 
 
@@ -59,6 +69,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und den konsekutiven Ma
 2. Mathematischen Wahlpflichtmodulen (Nrn. 10 bis 11 der **Anlage 1** und § 47), 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 3. Pflicht- und Wahlpflichtmodulen im Nebenfach Informatik (Nrn. 12 bis 14 der **Anlage 1** und § 48), 
 
@@ -98,6 +112,10 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen mindestens 30 ECT
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (5)[1] Die Module im Umfang von 5 ECTS-Punkten setzen sich in der Regel aus Vorlesungen (2 SWS) mit Übungen (bis 2 SWS) oder Seminaren (2 SWS) zusammen.[2] Die Module im Umfang von 10 ECTS-Punkten setzen sich in der Regel aus Vorlesungen (4 SWS), Übungen (bis 3 SWS) zusammen.[3] Abweichende Verteilungen sind der jeweiligen Modulbeschreibung zu entnehmen. 
 
 ## **§ 48 Wahlpflichtmodule im Nebenfach Informatik** 
@@ -120,6 +138,10 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen mindestens 30 ECT
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2)[1] Die Wahl der Module aus dem Bereich der Schlüsselqualifikationen erfolgt durch die Anmeldung zur (ersten) Prüfung im jeweiligen Modul bzw. durch Anmeldung zur Schulung bzw. zum Praktikum.[2] Die Schlüsselqualifikationsmodule werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.[3] Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden. 
 
 (3)[1] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Umfang der Lehrveranstaltungen und Prüfungen der einzelnen Module sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. Modulbeschreibung zu entnehmen.[2] Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen des Departments Mathematik oder des Department of Data Science gelten § 47 Abs. 4 und 5 entsprechend. 
@@ -141,6 +163,10 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen mindestens 30 ECT
 (2)[1] Die Zugangskommission i. S. d. § 12 **ABMPO/NatFak** besteht aus der bzw. dem Vorsitzenden und zwei weiteren Professorinnen bzw. Professoren der Lehreinheit Mathematik und Data Science sowie einer wissenschaftlichen Mitarbeiterin bzw. einem wissenschaftlichen Mitarbeiter, die bzw. der hauptberuflich im Sinne des Art. 53 Abs. 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 4 **BayHIG** im Dienst der FAU steht.[2] Die Mitglieder werden vom Fakultätsrat der Naturwissenschaftlichen Fakultät auf Vorschlag der Lehreinheit Mathematik und Data Science für die Dauer von drei Jahren bestellt; Wiederbestellung ist möglich. 
 
@@ -178,6 +204,10 @@ durchgeführt; Näheres regelt § 56.[2] Die Studienrichtung wird von der Bewerb
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 5. in Abhängigkeit zur Wahl der Module gemäß Nr. 3 und Nr. 4 Wahlpflichtmodule des Departments Mathematik oder des Department Data Science im Umfang von 0 bis maximal 15 ECTS-Punkten (siehe § 58) 
 
 6. 30 ECTS-Punkte aus der Masterarbeit in der Hauptstudienrichtung (siehe § 59). 
@@ -202,6 +232,10 @@ durchgeführt; Näheres regelt § 56.[2] Die Studienrichtung wird von der Bewerb
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 2. In der Studienrichtung Stochastik und Risikomanagement werden Methodenkompetenzen erworben, die verschiedene Aspekte dieser Studienrichtung wie die Analyse konkreter Problemstellungen aus der Stochastik und der Risikobewertung, deren Modellierung, die Entwicklung geeigneter Prognoseverfahren und Entscheidungsmechanismen bis hin zu den zugehörigen theoretischen Grundlagen und Beweistechniken betreffen. 
 
 (3) Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen wählbaren Module sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweiligen Modulbeschreibung zu entnehmen. 
@@ -224,6 +258,10 @@ durchgeführt; Näheres regelt § 56.[2] Die Studienrichtung wird von der Bewerb
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 59 Masterarbeit** 
 
 (1)[1] Die Masterarbeit dient dazu, die Fähigkeit zur selbstständigen Bearbeitung von wissenschaftlichen Aufgabenstellungen aus dem Bereich der Wirtschaftsmathematik nachzuweisen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb von sechs Monaten abgeschlossen werden kann. 
@@ -242,12 +280,20 @@ durchgeführt; Näheres regelt § 56.[2] Die Studienrichtung wird von der Bewerb
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 1: Studienverlaufsplan Bachelor Wirtschaftsmathematik** 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
+||||||**SWS**|||||<br>|<br>**in ECTS-Punkten**||||||
+||||||||||**1.**<br>**Sem.**||||||||
 |||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|**der Prüfung**||
+|||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+||||||||||||||||||
 |**Grundlagenmodule  Mathematik (GM)**|**1**|Analysis I|Vorlesung Analysis I|4||||10|6||||||Klausur 120 Min.<br>(100%)und<br>Übungsleistung<br>(unbenotet, 0%)|0|
 ||||Übung Analysis I||2||||2||||||||
 ||||Tafelübung Analysis I||2||||2||||||||
@@ -267,30 +313,48 @@ durchgeführt; Näheres regelt § 56.[2] Die Studienrichtung wird von der Bewerb
 
 10 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
+||||||**SWS**|||||<br>|<br>**in ECTS-Punkten**||||||
+||||||||||**1.**<br>**Sem.**||||||||
 |||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|**der Prüfung**||
+|||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+||||||||||||||||||
 ||||Tafelübung Lineare Algebra II||2|||||2|||||||
-|||**Summe Grundlagenmodule Mathematik (GM)**||**20**|**19**||**0**|**50**|**20**|**20**|**10**|**0**|**0**|**0**|||
+|||**Summe Grundlagenmodule**|**Mathematik (GM)**|**20**|**19**||**0**|**50**|**20**|**20**|**10**|**0**|**0**|**0**|||
 |**Aufbaumodule**<br>**Stochastik u. Optimierung (ASO)**|**6**|Lineare und Kombinatori-<br>sche Optimierung|Vorlesung Lineare und<br>Kombinatorische Optimierung|4||||10|||(7)||(7)||Klausur 90 Min.|1|
 ||||Übung Lineare und<br>Kombinatorische Optimierung||2||||||(3)||(3)||||
 ||**7**|Projektseminar Optimierung<br>1, 2|Projektseminar Optimierung<br>(Bachelor)||||2|5||||(5)||(5)|Vortrag 45 Min.<br>und<br>schriftliche Ausar-<br>beitung<br>5-10 Seiten<br>(50 % + 50 %)<br>benotet als Pflicht-<br>modul.<br>.|(1)|
 ||**8**|Stochastische Modellbildung|Vorlesung Stochastische Mo-<br>dellbildung|4||||10|||(7)||(7)||Klausur 90 Min.<br>und<br>Übungsleistung<br>(unbenotet)|1|
 ||||Übung Stochastische Modell-<br>bildung||2||||||(2)||(2)||||
 ||||Tutorium Stochastische<br>Modellbildung||1||||||(1)||(1)||||
-||**9**|Introduction to Statistics and<br>Statistical Programming1, 3, 4|Vorlesung Introduction to Sta-<br>tistics and Statistical Program-<br>ming|2||||5||||(3)||(3)|Klausur 90 Min.<br>und<br>Übungsleistung<br>(unbenotet)|(1)|
-||||Übung Introduction to Statis-<br>tics and Statistical Program-<br>ming||1|||||||(1)||(1)|||
+||**9**|Introduction to Statistics and<br>Statistical Programming1, 3, 4|Vorlesung Introduction to Sta-<br>tistics and Statistical Program-<br>ming|2||||||||(3)||(3)|Klausur 90 Min.<br>und<br>Übungsleistung<br>(unbenotet)|(1)|
+||||Übung Introduction to Statis-|||||||||||(1)|||
+||||tics and Statistical Program-||1|||5||||(1)|||||
+||||ming||||||||||||||
 ||||Rechnerübung Introduction to<br>Statistics and Statistical||1|||||||(1)||(1)|||
 
 
 
 11 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
+||||||||||||||||<br>|<br>**in ECTS-Punkten**||||||
+|||||||||||||||**1.**<br>**Sem.**||||||||
 |||||**V**||**Ü**||**P**||**S**||||||||||||
+||||||||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|**der Prüfung**||
+||||||||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|||||||||||||||||||||||
 ||||Programming|||||||||||||||||||
 |||**Summe Aufbaumodule Stochastik u. Optimierung (ASO)**||**10**||**7**||**0**||**2**||**30**||**0**|**0**|**10-20**|**0-10**|**0-10**|**0-10**|||
 |**Mathematische**<br>**Wahlpflichtmodule (MW)**|**10**|Wahlpflichtmodule aus Kata-<br>log Mathematik für Wirt-<br>schaftsmathematiker gemäß<br>§ 47|vgl. § 47 Abs. 5|||||||||20-30|||||5<br>(10)|(5)|5<br>(10)|vgl. § 47 Abs. 4|1|
@@ -308,26 +372,50 @@ durchgeführt; Näheres regelt § 56.[2] Die Studienrichtung wird von der Bewerb
 
 12 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
+|||||||||||<br>|<br>**in ECTS-Punkten**||||||
+||||||||||**1.**<br>**Sem.**||||||||
 |||||**V**|**Ü**|**P**|**S**||||||||||
-||**16**|Mikroökonomie|vgl. FPO 2-Fach BA Ökonomie|||||5|||(5)||(5)||vgl. FPO 2-Fach<br>BA WiWi|0,5|
-||**17**|Makroökonomie|vgl. FPO 2-Fach BA Ökonomie|||||5||5|||||vgl. FPO 2-Fach<br>BA WiWi|1|
+|||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|**der Prüfung**||
+|||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+||||||||||||||||||
+||**16**|Mikroökonomie|vgl. FPO 2-Fach BA|||||5|||(5)||(5)||vgl. FPO 2-Fach<br>BA WiWi|0,5|
+|||||Ökonomie|||||||||||||
+||||||||||||||||||
+||**17**|Makroökonomie|vgl. FPO 2-Fach BA|||||5||5|||||vgl. FPO 2-Fach<br>BA WiWi|1|
+|||||Ökonomie|||||||||||||
+||||||||||||||||||
 ||**18**|Buchführung|vgl. FPO BA WIWI|||||5|||(5)||(5)||vgl. FPO BA WIWI|1|
+||||||||||||||||||
+||||||||||||||||||
 ||**19**|Data Science: Machine<br>Learning & Data<br>Driven Business|vgl. FPO BA WIWI|||||5|||||5||vgl. FPO BA WIWI|1|
+||||||||||||||||||
+||||||||||||||||||
 ||**20**|Wahlpflichtmodule aus Kata-<br>log für Nebenfach Wirt-<br>schaftswissenschaften<br>(WNF) gemäß § 49|vgl. § 49 Abs. 3|||||5|||||5||vgl. § 49 Abs. 3|1|
+||||||||||||||||||
+||||||||||||||||||
 |||**Summe Nebenfach Wirtschaftswissenschaften (WNF)**||||||**30**|**5**|**5**|**0-10**|**0**|**10-20**|**0**|||
 |**Schlüssel-**<br>**qualifikationen (SQ)**|**21**|Wahlpflichtmodule aus Kata-<br>log für Schlüsselqualifikatio-<br>nen<br>gemäß § 50|vgl. § 50 Abs. 3|||||10||||5||5|vgl. § 50 Abs. 3|0|
+||||||||||||||||||
+||||||||||||||||||
 |||**Summe Schlüsselqualifikationen (SQ)**||||||**10**|**0**|**0**|**0**|**5**|**0**|**5**|||
-|**Bachelorarbeit**<br>**(BA)**|**22**|Bachelorarbeit||||||10||||||10|Bachelorarbeit<br>(ca. 20-25 Seiten)|1,5|
-|||**Bachelorarbeit (BA)**||||||**10**||||||**10**|||
+|**elorarbeit**<br>**(BA)**|**22**|Bachelorarbeit||||||10||||||10|Bachelorarbeit<br>(ca. 20-25 Seiten)|1,5|
+|**Bach**||**Bachelorarbeit (BA)**||||||**10**||||||**10**|||
 
 
 
 13 
 
-**==> picture [745 x 126] intentionally omitted <==**
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+**==> picture [793 x 136] intentionally omitted <==**
 
 **----- Start of picture text -----**<br>
 Workload-Verteilung pro Semester<br>SWS  in ECTS-Punkten<br>Faktor<br>Gesamt  Art und Umfang  Mo-<br>Nr.  Modulbezeichnung  Lehrveranstaltung<br>ECTS  1.  2.  3.  4.  5.   6.  der Prüfung  dul-<br>V  Ü  P  S<br>Sem.  Sem.  Sem.  Sem.  Sem.  Sem.  note<br>Summe SWS (mind.) [5]  und ECTS-Punkte  34  28  0  6  180  30  30  30  30  30  30<br>68  [5]<br>**----- End of picture text -----**<br>
@@ -347,18 +435,31 @@ Workload-Verteilung pro Semester<br>SWS  in ECTS-Punkten<br>Faktor<br>Gesamt  Ar
 
 14 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2: Studienverlaufsplan Masterstudiengang Wirtschaftsmathematik** 
 
-||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**||**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
+|||||||||||||||
+|||||||||||||||
+||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|**rung**||
+||||||||||**Sem.**|**Sem.**|**Sem.**|||
 |**Hauptstudien-**<br>**richtung**|Wahlpflichtmodule aus Katalog für Hauptstudi-<br>enrichtung gemäß § 54 Abs. 2 Satz 2 Nr. 1 i. V.<br>m. § 56|vgl. § 56 Abs. 4||||||10|10|10||vgl. § 56 Abs. 4|1|
+|||||||||||||||
+|||||||||||||||
 ||**Summe Hauptstudienrichtung**||||||**30**|**10**|**10**|**10**|**0**|||
 |**Nebenstudien-**<br>**richtung**|Wahlpflichtmodule aus Katalog für Nebenstudi-<br>enrichtung gemäß § 54 Abs. 2 Satz 2 Nr. 2 i. V.<br>m. § 56|vgl. § 56 Abs. 4||||||5|5|5||vgl. § 56 Abs. 4|1|
 ||**Summe Nebenstudienrichtung**||||||**15**|**5**|**5**|**5**|**0**|||
 |**Nebenfach Wirt-**<br>**schaftswissen-**<br>**schaften**|Wahlpflichtmodule aus Katalog für Nebenfach<br>Wirtschaftswissenschaften gemäß § 54 Abs. 2<br>Satz 2<br>Nr. 3 i. V. m. § 57|vgl. § 57||||||||||vgl. § 57|1|
+|||||||||||||||
+|||||||||||||||
 ||**Summe Nebenfach Wirtschaftswissenschaften**||||||**30-40**|**10-15**|**10-15**|**10**|**0**|||
 |**Mathematische**<br>**Wahlpflicht-**<br>**module**|Mathematische Wahlpflichtmodule gemäß<br>§ 54 Abs. 2 Satz 2 Nr. 5 i. V. m. § 58|vgl. § 58 Abs. 2||||||||||vgl. § 58 Abs. 2|1|
+|||||||||||||||
+|||||||||||||||
 ||**Summe Mathematische Wahlpflichtmodule**||||||**0-15**|**0-5**|**0-5**|**0-5**|**0**|||
 |**Mas-**<br>**terse-**<br>**minar**|Masterseminar gemäß § 54 Abs. 3 Satz 2 Nr. 5|Masterseminar||||2||||5||Seminarleistung|1|
 
@@ -366,13 +467,22 @@ Workload-Verteilung pro Semester<br>SWS  in ECTS-Punkten<br>Faktor<br>Gesamt  Ar
 
 15 
 
-||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Se-**<br>**mester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
+|||||||||||||||
+|||||||||||||||
+||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|**rung**||
+||||||||||**Sem.**|**Sem.**|**Sem.**|||
 ||**Summe Masterseminar**||||||**5**|**0**|**0**|**5**|**0**|||
 |**Masterarbeit**|Masterarbeit gemäß § 54 Abs. 3 Satz 2 Nr. 6<br>i. V. m. § 59|Masterarbeit|||||30||||30|Masterarbeit<br>(ca. 60 Seiten)|1|
 ||**Summe Masterarbeit**||||||**30**|**0**|**0**|**0**|**30**|||
-||**Summen SWS (mind.)1 und ECTS-Punkte**||**01**|**01**|**01**|**21**|**120**|**30**|**30**|**30**|**30**|||
+||**Summen SWS (mind.)1 und ECTS-Punkte**||**01**|**01**|**01**|||||||||
+|||||||**21**|**120**|**30**|**30**|**30**|**30**|||
+|||||||||||||||
 ||||**21**|||||||||||
 
 
@@ -384,6 +494,10 @@ Workload-Verteilung pro Semester<br>SWS  in ECTS-Punkten<br>Faktor<br>Gesamt  Ar
 Seminarleistung: vgl. § 6 Abs. 4 und 5 **ABMPO/NatFak** . 
 
 16 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026 Erlangen, den 5. März 2026 
 

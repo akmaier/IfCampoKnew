@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO 2-Fach BA DGSW 20250411.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Digitale_Geistes-_-und_Sozialwisswenschaften/konsolidierte_Fassungen/FPO 2-Fach_BA DGSW_20250411.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:56:55+00:00
-page_count_chars: 27355
+scraped_at: 2026-05-01T09:01:17+00:00
+page_count_chars: 31441
 ---
 
 # FPO 2-Fach BA DGSW 20250411.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Digitale_Geistes-_-und_Sozialwisswenschaften/konsolidierte_Fassungen/FPO 2-Fach_BA DGSW_20250411.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **N E U F A S S U N G** 
 
@@ -35,6 +39,10 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 (2)[1] Im Fach Digitale Geistes- und Sozialwissenschaften erwerben die Studierenden grundlegende Fachkenntnisse auf dem Gebiet der Digitalen Geistes- und Sozialwissenschaften, einschließlich der entsprechenden Methoden und informationstechnologischen Grundlagen.[2] Durch die Verbindung von wesentlichen Grundkenntnissen der Digitalen Geistes- und Sozialwissenschaften werden in Kombination mit einem Erstbzw. Zweitfach die Voraussetzungen für ein weit gefächertes berufliches Tätigkeitsspektrum gelegt. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (3) Das Studium Digitale Geistes- und Sozialwissenschaften im Zwei-Fach-Bachelorstudiengang vermittelt fachübergreifende Methodenkompetenzen und befähigt zur eigenständigen anwendungsorientierten Lösung geistes-, sozial- und kulturwissenschaftlicher Fragestellungen mithilfe ausgewählter Technologien. 
 
@@ -64,48 +72,89 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Digitale Geistes-
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Fachstudien- und Prüfungsordnung für das Fach Digitale Geistes- und Sozialwissenschaften im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) vom 22. Juli 2008, zuletzt geändert am 29. August 2018, studieren, beenden ihr Studium nach der bisher für sie geltenden Fassung der genannten Fachstudien- und Prüfungsordnung. 
 
 (2)[1] Die Fachstudien- und Prüfungsordnung für das Fach Digitale Geistes- und Sozialwissenschaften im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) vom 22. Juli 2008, zuletzt geändert am 29. August 2018, tritt mit Wirkung zum 31. März 2030 außer Kraft.[2] Prüfungen nach der in Satz 1 genannten Fachstudienund Prüfungsordnungen werden letztmals im Wintersemester 2029/2030 angeboten. 
 
 3 
 
-**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach** 
+**==> picture [165 x 49] intentionally omitted <==**
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**||**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
-|**Erstfach: Digitale Geistes- und Sozialwissenschaften**<br>|||||||||||||||||
-|**DH Pflichtmodule**<br>~~Ce~~||||||||||||||||
-|Einführung in die Digitalen<br>Geistes- und Sozialwissen-<br>schaften|Einführung in das Studium der<br>Digitalen Geistes- und Sozialwis-<br>senschaften|||||2|**7,5**|2,5||||||Referat (15 Min.) mit Haus-<br>arbeit (ca. 10-15 S.) (0% +<br>100%)_oder_<br>Forschungstagebuch (ca.<br>15-20 S.)1<br>und<br>Klausur (120 Min.)2|0|
-||Informatische Werkzeuge in den<br>Geistes-und Sozialwissenschaften I|2||||||2,5||||||||
-||Informatische Werkzeuge in den<br>Geistes- und Sozialwissenschaften<br>II|2|||||||2,5|||||||
-|DH-Modul 1: Schwerpunkt<br>Sprache und Text|Seminar|||||2|**5**||2,5|||||Portfolio: Projekt inkl. Be-<br>richt in Form eines Kurz-<br>Papers (ca. 10 S.) mit<br>mündlicher Prüfung (ca. 15<br>Min.) (60%+40%)|1|
-||Übung||2||||||2,5|||||||
-|DH-Modul 2: Schwerpunkt<br>Gesellschaft und Daten<br>~~po~~|Seminar<br>~~po~~|||||2|**5**|~~ee~~|~~ee~~|2,5<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|Portfolio (ca. 15 S.)3|1|
-||Übung<br>~~po~~||2|||||~~ee~~|~~ee~~|2,5<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|||
-|DH-Modul 3: Schwerpunkt<br>Bild und Medien<br>~~po~~<br>~~po~~|Seminar<br>~~po~~<br>~~po~~|||||2|**5**|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~<br>~~ee~~<br>~~ee~~|2,5<br>~~ee~~<br>~~ee ee~~<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~<br>~~ee~~|Portfolio (ca. 15 S.)4|1|
-||Übung<br>~~po~~||2|||||~~ee~~|~~ee~~|~~ee~~<br>~~ee~~|2,5<br>~~ee~~<br>~~ee~~|~~ee~~|~~ee~~|||
-|Praxis-/Projektmodul<br>~~po~~|~~po~~|||||2|**10**|~~ee~~|~~ee~~|~~ee~~<br>~~ee ~~|~~ee~~<br> ~~ee~~|10<br>~~ee~~|~~ee~~|Praktische Arbeit mit<br>Dokumentation (ca. 20 S.)<br>_oder_<br>Praktikumsbericht<br>(ca. 20 S.) 1|1|
-|**Wahlpflichtbereich DH**||||||||||||||||
-|Wahlpflichtbereich:<br>Digitale Geistes- und Sozi-<br>alwissenschaften in Theo-<br>rie<br>und Praxis gemäß § 6||vgl. § 6 Abs. 3,<br>gesamt: 4-8|||||**10**||||5|(5)|(5)|vgl. § 6 Abs. 2|1|
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Faktor**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Modulbezeichnung**|**Lehrveranstaltung**|<br>**V**<br>**Ü**<br>**P**<br>**S**||||**samt**<br>**ECTS**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**||||||**Art und Umfang der**<br>**Prüfung**|**Modul-**<br>**note**|
+|**Erstfach: Digitale Geistes- und Sozialwissenschaften**|||||||||||||||
+|**DH Pflichtmodule**|||||||||||||||
+|Einführung in die Digitalen<br>Geistes- und Sozialwissen-<br>schaften|Einführung in das Studium der<br>Digitalen Geistes- und Sozialwis-<br>senschaften||||2|**7,5**|2,5||||||Referat (15 Min.) mit Haus-<br>arbeit (ca. 10-15 S.) (0% +<br>100%)_oder_<br>Forschungstagebuch (ca.<br>15-20 S.)1<br>und<br>Klausur (120 Min.)2|0|
+||Informatische Werkzeuge in den<br>Geistes-und Sozialwissenschaften I|2|||||2,5||||||||
+||Informatische Werkzeuge in den<br>Geistes- und Sozialwissenschaften<br>II|2||||||2,5|||||||
+|DH-Modul 1: Schwerpunkt<br>Sprache und Text|Seminar||||2|**5**||2,5|||||Portfolio: Projekt inkl. Be-<br>richt in Form eines Kurz-<br>Papers (ca. 10 S.) mit<br>mündlicher Prüfung (ca. 15<br>Min.) (60%+40%)|1|
+||Übung||2|||||2,5|||||||
+|DH-Modul 2: Schwerpunkt<br>Gesellschaft und Daten|Seminar||||2|**5**|||2,5||||Portfolio (ca. 15 S.)3|1|
+||Übung||2||||||2,5||||||
+|DH-Modul 3: Schwerpunkt<br>Bild und Medien|Seminar||||2|**5**||||2,5|||Portfolio (ca. 15 S.)4|1|
+||Übung||2|||||||2,5|||||
+|Praxis-/Projektmodul|||||2|**10**|||||10||Praktische Arbeit mit<br>Dokumentation (ca. 20 S.)<br>_oder_<br>Praktikumsbericht<br>(ca. 20 S.) 1|1|
+|**Wahlpflichtbereich DH**|||||||||||||||
+||||||||||||||||
+||||||||||||||||
+|Wahlpflichtbereich:<br>Digitale Geistes- und Sozi-<br>alwissenschaften in Theo-<br>rie<br>und Praxis gemäß § 6||vgl. § 6 Abs. 3,<br>gesamt: 4-8||||**10**||||5|(5)|(5)|vgl. § 6 Abs. 2|1|
 
 
 
 4 
 
-Friedrich-Alexander-Universitat Erlangen-Nirnberg ANLr //\\ ( | )| **SWS GeWorkload-Verteilung Faktor Modulbezeichnung Lehrveranstaltung samt pro Semester in ECTS-Punkten Art und Umfang der ModulPrüfung V Ü P S ECTS 1. 2. 3. 4. 5. 6. note Wahlpflichtbereich Einführung Informatik: Es ist ein Modul im Umfang von 7,5 ECTS-Punkten zu belegen.[5 ]** Grundlagen der Informatik vgl. FPOINF **(7,5)** (7,5) vgl. FPOINF 1 (GdI) Klausur (ca. 90 Min.) _oder_ Referat (ca. 15 Min.) mit Hausarbeit (ca. 15 S.) Einführung in die InformaVorlesung 2 **(7,5)** (7,5) (0%+100%) 1 tik für DH _oder_ mündliche Prüfung (30 Min.)[1 ] **Wahlpflichtbereich Angewandte Informatik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.[5]** Einführung in Datenbanken für Wirtschaftsinformavgl. FPOINF **(5)** (5) vgl. FPOINF 1 tik Sichere Systeme vgl. FPOINF **(5)** (5) vgl. FPOINF 1 Einführung in das Software Vgl. FPOINF **(5)** (5) Vgl. FPO INF 1 Engineering Klausur (ca. 90 Min.) _oder_ Referat (ca. 15 Min.) mit Hausarbeit (ca. 15 S.) Angewandte Informatik für Vorlesung 2 **(5)** (5) (0%+100%) 1 DH _oder_ mündliche Prüfung (30 Min.)[1 ] **Wahlpflichtbereich Mathematik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.[5]** Mathematik für Naturwisvgl. FPO BAMA Chemie **(5)** (5) vgl. FPO BAMA Chemie 1 senschaftler ~~—~~ Mathematik für DH Vorlesung 2 **(5)** (5) Klausur (ca. 90 Min.) _oder_ 1 ~~PO~~ 5 
+**==> picture [165 x 49] intentionally omitted <==**
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|**samt**<br>**ECTS**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**Art und Umfang der**<br>**Prüfung**|**Modul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Wahlpflichtbereich Einführung Informatik: Es ist ein Modul im Umfang von 7,5 ECTS-Punkten zu belegen.5 **|||||||||||||||
+||||||||||||||||
+||||||||||||||||
+|Grundlagen der Informatik<br>(GdI)|vgl. FPOINF|||||**(7,5)**||(7,5)|||||vgl. FPOINF|1|
+|Einführung in die Informa-<br>tik für DH|Vorlesung|2||||**(7,5)**||(7,5)|||||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.) 1|1|
+|**Wahlpflichtbereich Angewandte Informatik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu**|||||||||||||||
+||||||||**belegen.5**||||||||
+||||||||||||||||
+|Einführung in Datenban-<br>ken für Wirtschaftsinforma-<br>tik|vgl. FPOINF|||||**(5)**|||(5)||||vgl. FPOINF|1|
+|Sichere Systeme|vgl. FPOINF|||||**(5)**|||(5)||||vgl. FPOINF|1|
+|Einführung in das Software<br>Engineering|Vgl. FPOINF|||||**(5)**|||(5)||||Vgl. FPO INF|1|
+|Angewandte Informatik für<br>DH|Vorlesung|2||||**(5)**|||(5)||||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.)1|1|
+|**Wahlpflichtbereich Mathematik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.5**|||||||||||||||
+|Mathematik für Naturwis-<br>senschaftler|vgl. FPO BAMA Chemie|||||**(5)**|(5)||||||vgl. FPO BAMA Chemie|1|
+|Mathematik für DH|Vorlesung|2||||**(5)**|(5)||||||Klausur(ca. 90 Min.) _oder_|1|
+
+
+
+5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|**samt**<br>**ECTS**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**Art und Umfang der**<br>**Prüfung**|**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**||**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
 |||||||||||||||Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.)1||
-|**Wahlpflichtbereich Statistik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.5**||||||||||||||||
-|Mathematische Modellbil-<br>dung und Statistik für<br>Naturwissenschaftler|vgl. FPO BAMA Bio||||||**(5)**|||(5)||||vgl. FPO BAMA Bio|1|
+|**Wahlpflichtbereich Statistik: Es ist ein Modul im Umfang von 5**||||||||||||||||
+|||**ECTS-Punkten zu belegen.5**||||||||||||||
+|||||||||||||||||
+|Mathematische Modellbil-<br>dung und Statistik für<br>Naturwissenschaftler|vgl. FPO BAMA|Bio|||||**(5)**|||(5)||||vgl. FPO BAMA Bio|1|
 |Statistik für DH|Vorlesung|2|||||**(5)**|||(5)||||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.)1|1|
 |**Wahlpflichtbereich Theoretische Informatik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.5**||||||||||||||||
+|||||||||||||||||
+|||||||||||||||||
 |Theoretische Informatik für<br>Wirtschaftsinformatik und<br>Lehramtsstudierende|vgl. FPOINF||||||**(5)**||||(5)|||vgl. FPOINF|1|
 |Grundlagen der Logik in<br>der<br>Informatik|vgl. FPOINF||||||**(5)**|||||(5)||vgl. FPOINF|1|
+|||||||||||||||||
+|||||||||||||||||
 |Theoretische Informatik für<br>DH|Vorlesung|2|||||**(5)**||||(5)|(5)||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.) 1|1|
 |Summe SWS (Mindestumfang) und ECTS-Punkte im Erstfach|||||||**70**|10|15|15|10-<br>15|10-<br>20|0-5|||
 
@@ -113,17 +162,22 @@ Friedrich-Alexander-Universitat Erlangen-Nirnberg ANLr //\\ ( | )| **SWS GeWorkl
 
 6 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br>|**SWS**<br>|**SWS**<br>|**SWS**<br>|**Ge-**<br>**samt**<br>**ECTS**<br>|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**<br>|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**<br>|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**<br>|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**<br>|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**<br>|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**<br>|**Art und Umfang der**<br>**Prüfung**<br>~~a~~|**Faktor**<br>**Modul-**<br>**note**<br>~~a~~|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|**samt**<br>**ECTS**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**pro Semester in ECTS-Punkten**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**|**Art und Umfang der**<br>**Prüfung**|**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**<br>|**S**<br>||**1.**<br>~~a~~|**2.**<br>~~a~~|**3.**<br>~~a~~|**4.**<br>~~a~~|**5.**<br>~~a~~|**6.**<br>~~a~~|||
 |**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**|||||||||||||||
+||||||||||||||||
+||||||||||||||||
 |Module des Zweitfachs6|vgl. FPO des Zweitfachs|||||**70**|0-20|0-15|0-15|0-20|0-20|0-20|vgl. FPO des Zweitfachs||
-|**Schlüsselqualifikationen**<br>~~|~~|||||||||||||||
+|**Schlüsselqualifikationen**|||||||||||||||
 |Schlüsselqualifikationsmo-<br>dule|7|||||**30**|0-20|0-15|0-15|0-20|0-20|0-20|7|0|
 |**Bachelorarbeit im Erstfach (Digitale Geistes- und Sozialwissenschaften)**|||||||||||||||
-|Bachelorarbeit|Kolloquium<br>~~ee~~|~~ee~~|~~eee~~|~~eee~~|1<br>~~eee~~|**10**<br>|~~De~~|~~De~~|~~De~~|~~De~~|~~De~~|1<br>~~De~~|Bachelorarbeit<br>(30-40 S.)|2|
-||Bachelorarbeit<br>~~ee~~|~~ee~~|~~eee~~|~~eee~~|~~eee~~||~~De~~|~~De~~|~~De~~|~~De~~|~~De~~|9<br>~~De~~|||
-|**Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:**<br>~~ee ee eee ~~||||||**180**<br>|**30**<br> ~~De~~|**30**<br>~~De~~|**30**<br>~~De~~|**30**<br>~~De~~|**30**<br>~~De~~|**30**<br>~~De~~|||
+|Bachelorarbeit|Kolloquium||||1|**10**||||||1|Bachelorarbeit<br>(30-40 S.)|2|
+||Bachelorarbeit|||||||||||9|||
+||**Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:**|||||**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
 
 
 
@@ -143,53 +197,106 @@ Friedrich-Alexander-Universitat Erlangen-Nirnberg ANLr //\\ ( | )| **SWS GeWorkl
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2: Studienverlaufsplan Zwei-Fach-Bachelor Digitale Geistes- und Sozialwissenschaften als Zweitfach** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**||**S**||||**1.**|**2.**|**3.**|**4.**|**5.**||**6.**||||
-|**Erstfach (Kombinationsmöglichkeitengemäß Anlage 3 der ABMStPO/Phil)**<br>|<br>~~QODGIQOGQ~~||||||||||||||||||||
-|Module des Erstfachs**1**<br>~~es~~|vgl. FPO des Erstfachs<br>~~es~~|||||||**70-90**<br>~~es~~<br>~~QODGI~~||0-20<br>~~es~~<br>~~GI~~|0-15<br>~~es~~<br>~~QOGQ~~|0-15<br>~~es~~<br>~~GQ~~|0-20<br>~~es~~<br>~~GQ~~|0-20<br>~~es~~<br>~~GQ~~||0-20<br>~~es~~|vgl. FPO des Erstfachs<br>~~es~~|||
-|**Zweitfach: Digitale Geistes- und Sozialwissenschaften**<br>~~es~~<br>~~QODGI QO GQ~~<br>~~Cn~~||||||||||||||||||||
-|**DH Pflichtmodule**<br>~~Cn~~||||||||||||||||||||
-|Einführung in die Digitalen<br>Geistes- und Sozialwissen-<br>schaften<br>~~Cn~~|Einführung in das Studium der<br>Digitalen Geistes- und Sozialwissen-<br>schaften||||||2||**7,5**|2,5|||||||Referat (15 Min.) mit<br>Hausarbeit (ca. 10-15 S.)<br>(0%+100%)_oder_<br>Forschungstagebuch (ca.<br>15-20 S.)2<br>und<br>Klausur(120 Min.) 3||0|
-||Informatische Werkzeuge in den<br>Geistes-und Sozialwissenschaften I|2||||||||2,5||||||||||
-||Informatische Werkzeuge in den<br>Geistes-und Sozialwissenschaften II|2|||||||||2,5|||||||||
-|DH-Modul 1: Schwerpunkt<br>Sprache und Text|Seminar||||||2||**5**||2,5||||||Portfolio: Projekt inkl. Be-<br>richt in Form eines Kurz-<br>Papers (ca. 10 S.) mit<br>mündlicher Prüfung (ca.<br>15Min.) (60%+40%)||1|
-||Übung||2||||||||2,5|||||||||
-|DH-Modul 2: Schwerpunkt<br>Gesellschaft und Daten|Seminar<br>~~a~~||||||2||**5**|~~ee~~|~~ee~~|2,5<br>~~ee~~|~~ee~~||~~ee~~||Portfolio (ca. 15 S.)4||1|
-||Übung<br>~~a~~||2|||||||~~ee~~|~~ee~~|2,5<br>~~ee~~|~~ee~~||~~ee~~|||||
-|DH-Modul 3: Schwerpunkt<br>Bild und Medien|Seminar<br>~~a~~||||||2||**5**|~~ee~~|~~ee ~~|~~ee ~~|2,5<br> ~~ee ~~||~~ee~~||Portfolio (ca. 15 S.)5||1|
-||Übung||2||||||||||2,5|||||||
-|Praxis-/Projektmodul|||||||2||**10**||||||10||Praktische Arbeit mit<br>Dokumentation (ca. 20 S.)<br>_oder_<br>Praktikumsbericht<br>(ca. 20 S.)2||1|
-|**Wahlpflichtbereich DH**||||||||||||||||||||
-|Wahlpflichtbereich:<br>Digitale Geistes- und Sozial-<br>wissenschaften in Theorie<br>und Praxis gemäß § 6||vgl. § 6 Abs. 3,<br>gesamt: 4-8|||||||**10**||||5||(5)|(5)|vgl. § 6 Abs. 2||1|
+|<br>**Modulbezeichnung**|<br>**Lehrveranstaltung**|<br>**SWS**|<br>**SWS**|<br>**SWS**|<br>**SWS**|<br>**SWS**|<br>**SWS**|**Ge-**<br>**samt**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**V**||||||||||||||||
+||||**Ü**|**P**||**S**||**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**rung**|||
+|||||||||||||||||||
+|**Erstfach (Kombinationsmöglichkeitengemäß Anlage 3 der ABMStPO/Phil)**||||||||||||||||||
+|Module des Erstfachs**1**|vgl. FPO des Erstfachs|||||||**70-90**|0-20|0-15|0-15|0-20|0-20|0-20|vgl. FPO des Erstfachs|||
+|**Zweitfach: Digitale Geistes- und Sozialwissenschaften**||||||||||||||||||
+|**DH Pflichtmodule**||||||||||||||||||
+|Einführung in die Digitalen<br>Geistes- und Sozialwissen-<br>schaften|Einführung in das Studium der<br>Digitalen Geistes- und Sozialwissen-<br>schaften||||||2|**7,5**|2,5||||||Referat (15 Min.) mit<br>Hausarbeit (ca. 10-15 S.)<br>(0%+100%)_oder_<br>Forschungstagebuch (ca.<br>15-20 S.)2<br>und<br>Klausur(120 Min.) 3||0|
+||Informatische Werkzeuge in den<br>Geistes-und Sozialwissenschaften I|2|||||||2,5|||||||||
+||Informatische Werkzeuge in den<br>Geistes-und Sozialwissenschaften II|2||||||||2,5||||||||
+|DH-Modul 1: Schwerpunkt<br>Sprache und Text|Seminar||||||2|**5**||2,5|||||Portfolio: Projekt inkl. Be-<br>richt in Form eines Kurz-<br>Papers (ca. 10 S.) mit<br>mündlicher Prüfung (ca.<br>15Min.) (60%+40%)||1|
+||Übung||2|||||||2,5||||||||
+|DH-Modul 2: Schwerpunkt<br>Gesellschaft und Daten|Seminar||||||2|**5**|||2,5||||Portfolio (ca. 15 S.)4||1|
+||Übung||2||||||||2,5|||||||
+|DH-Modul 3: Schwerpunkt<br>Bild und Medien|Seminar||||||2|**5**||||2,5|||Portfolio (ca. 15 S.)5||1|
+||Übung||2|||||||||2,5||||||
+|Praxis-/Projektmodul|||||||2|**10**|||||10||Praktische Arbeit mit<br>Dokumentation (ca. 20 S.)<br>_oder_<br>Praktikumsbericht<br>(ca. 20 S.)2||1|
+|**Wahlpflichtbereich DH**||||||||||||||||||
+|||||||||||||||||||
+|||||||||||||||||||
+|Wahlpflichtbereich:<br>Digitale Geistes- und Sozial-<br>wissenschaften in Theorie<br>und Praxis gemäß § 6||vgl. § 6 Abs. 3,<br>gesamt: 4-8||||||**10**||||5|(5)|(5)|vgl. § 6 Abs. 2||1|
 
 
 
 8 
 
-Friedrich-Alexander-Universitat Erlangen-Nirnberg ANLr //\\ ( | )| **Workload-Verteilung FakSWS Gepro Semester in ECTS-Punkten tor Art und Umfang der Modulbezeichnung Lehrveranstaltung samt MoPrüfung V Ü P S ECTS 1. 2. 3. 4. 5. 6. dulnote Wahlpflichtbereich Einführung Informatik: Es ist ein Modul im Umfang von 7,5 ECTS-Punkten zu belegen.[6 ]** Grundlagen der Informatik vgl. FPOINF **(7,5)** (7,5) vgl. FPOINF 1 (GdI) Klausur (ca. 90 Min.) _oder_ Referat (ca. 15 Min.) mit Hausarbeit (ca. 15 S.) Einführung in die Informatik für Vorlesung 2 **(7,5)** (7,5) (0%+100%) 1 DH _oder_ mündliche Prüfung (30 Min.)[2 ] **Wahlpflichtbereich Angewandte Informatik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.[6]** Einführung in Datenbanken für vgl. FPOINF **(5)** (5) vgl. FPOINF 1 Wirtschaftsinformatik Sichere Systeme vgl. FPOINF **(5)** (5) vgl. FPOINF 1 Einführung in das Software EnVgl. FPOINF **(5)** (5) vgl. FPOINF 1 gineering Klausur (ca. 90 Min.) _oder_ Referat (ca. 15 Min.) mit Hausarbeit (ca. 15 S.) Angewandte Informatik für DH Vorlesung 2 **(5)** (5) (0%+100%) 1 _oder_ mündliche Prüfung (30 Min.)[2 ] **Wahlpflichtbereich Mathematik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.[6]** Mathematik für Naturwissenvgl. FPO BAMA Chemie **(5)** (5) vgl. FPO BAMA Chemie 1 schaftler ~~—~~ Mathematik für DH Vorlesung 2 **(5)** (5) Klausur (ca. 90 Min.) _oder_ 1 ~~Po~~ 9 
+**==> picture [165 x 49] intentionally omitted <==**
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**||**S**||||**1.**|**2.**|**3.**|**4.**|**5.**||**6.**||||
-||||||||||||||||||Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.)2|||
-|**Wahlpflichtbereich Statistik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.6**||||||||||||||||||||
-|Mathematische Modellbildung<br>und Statistik für<br>Naturwissenschaftler|vgl. FPO BAMA Bio||||||||**(5)**|||(5)|||||vgl. FPO BAMA Bio||1|
-|Statistik für DH|Vorlesung|2|||||||**(5)**|||(5)|||||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.)2||1|
-|**Wahlpflichtbereich Theoretische Informatik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.6**||||||||||||||||||||
-|Theoretische Informatik für<br>Wirtschaftsinformatik und<br>Lehramtsstudierende|vgl. FPOINF||||||||**(5)**||||(5)||||vgl. FPOINF||1|
-|Grundlagen der Logik in der<br>Informatik|vgl. FPOINF||||||||**(5)**||||||(5)||vgl. FPOINF||1|
-|Theoretische Informatik für DH|Vorlesung|2|||||||**(5)**||||(5)||(5)||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.) 2||1|
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Püf**||**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**V**|||||||||||||||
+||||**Ü**|**P**|**S**||**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**rung**|||
+||||||||||||||||||
+|**Wahlpflichtbereich Einführung Informatik: Es ist ein Modul im Umfang von 7,5 ECTS-Punkten zu belegen.6 **|||||||||||||||||
+||||||||||||||||||
+||||||||||||||||||
+|Grundlagen der Informatik<br>(GdI)|vgl. FPOINF||||||**(7,5)**||(7,5)|||||vgl. FPOINF||1|
+|Einführung in die Informatik für<br>DH|Vorlesung|2|||||**(7,5)**||(7,5)|||||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.) 2||1|
+|**Wahlpflichtbereich Angewandte Informatik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.6**|||||||||||||||||
+||||||||||||||||||
+||||||||||||||||||
+|Einführung in Datenbanken für<br>Wirtschaftsinformatik|vgl. FPOINF||||||**(5)**|||(5)||||vgl. FPOINF||1|
+|Sichere Systeme|vgl. FPOINF||||||**(5)**|||(5)||||vgl. FPOINF||1|
+|Einführung in das Software En-<br>gineering|Vgl. FPOINF||||||**(5)**|||(5)||||vgl. FPOINF||1|
+|Angewandte Informatik für DH|Vorlesung|2|||||**(5)**|||(5)||||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.)2||1|
+|**Wahlpflichtbereich Mathematik: Es ist ein Modul im Umfang von 5 ECTS-Punkten**||||**zu belegen.6**|||||||||||||
+|Mathematik für Naturwissen-<br>schaftler|vgl. FPO BAMA Chemie||||||**(5)**|(5)||||||vgl. FPO BAMA Chemie||1|
+|Mathematik für DH|Vorlesung|2|||||**(5)**|(5)||||||Klausur(ca. 90 Min.) _oder_||1|
+
+
+
+9 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Püf**||**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**V**|||||||||||||||
+||||**Ü**|**P**|**S**||**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**rung**|||
+||||||||||||||||||
+|||||||||||||||Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.)2|||
+|**Wahlpflichtbereich Statistik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.6**|||||||||||||||||
+||||||||||||||||||
+||||||||||||||||||
+|Mathematische Modellbildung<br>und Statistik für<br>Naturwissenschaftler|vgl. FPO BAMA Bio||||||**(5)**|||(5)||||vgl. FPO BAMA Bio||1|
+|Statistik für DH|Vorlesung|2|||||**(5)**|||(5)||||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.)2||1|
+|**Wahlpflichtbereich Theoretische Informatik: Es ist ein Modul im Umfang von 5 ECTS-Punkten zu belegen.6**|||||||||||||||||
+||||||||||||||||||
+||||||||||||||||||
+|Theoretische Informatik für<br>Wirtschaftsinformatik und<br>Lehramtsstudierende|vgl. FPOINF||||||**(5)**||||(5)|||vgl. FPOINF||1|
+|Grundlagen der Logik in der<br>Informatik|vgl. FPOINF||||||**(5)**|||||(5)||vgl. FPOINF||1|
+||||||||||||||||||
+||||||||||||||||||
+|Theoretische Informatik für DH|Vorlesung|2|||||**(5)**||||(5)|(5)||Klausur (ca. 90 Min.)_oder_<br>Referat (ca. 15 Min.) mit<br>Hausarbeit (ca. 15 S.)<br>(0%+100%)<br>_oder_<br>mündliche Prüfung (30<br>Min.) 2||1|
 
 
 
 10 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**|**Ge-**<br>**samt**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**||**P**|**S**||||**1.**|**2.**|**3.**|**4.**|**5.**||**6.**||||
+|||**V**||||||||||||||||||
+||||**Ü**||**P**|**S**||**ECTS**||**1.**|**2.**|**3.**|**4.**|**5.**||**6.**|**rung**|||
+|||||||||||||||||||||
 |Summe SWS (Mindestumfang) und ECTS-Punkte im Erstfach|||||||||70|10|15|15|10-15||10-<br>20|0-5||||
 |**Schlüsselqualifikationen**||||||||||||||||||||
 |Schlüsselqualifikationsmodule|**7**|||||||**10-30**||0-20|0-15|0-15|0-20|0-20||0-20|**7**|0||
@@ -212,6 +319,10 @@ Friedrich-Alexander-Universitat Erlangen-Nirnberg ANLr //\\ ( | )| **Workload-Ve
 - 6 Die jeweils angebotenen Module werden semesteraktuell im Modulhandbuch bekanntgegeben. 7 Art und Umfang der Lehrveranstaltungen und Prüfungen in den Schlüsselqualifikationsmodulen sind abhängig vom konkreten didaktischen Charakter der jeweils gewählten Module und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen. Bei der Wahl sind ggf. durch das Erstfach festgelegte Vorgaben zu berücksichtigen. 
 
 11 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 9. April 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 11. April 2025 Erlangen, den 11. April 2025 
 

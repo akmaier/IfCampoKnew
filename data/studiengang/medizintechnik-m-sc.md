@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät, Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "> 600"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:13:08+00:00
+scraped_at: 2026-05-01T06:49:02+00:00
 ---
 
 # Medizintechnik (M.Sc.)
@@ -213,7 +213,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Medizinische Fakultät](https://med.fau.de)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Hartfiel Iannicelli](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Medizintechnik_MA_Bilderserie_MeinStudium_2_Hartfiel_Iannicelli-1400x311-1.jpg)
+- [FAU/David Hartfiel](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Medizintechnik-MSc-Hartfiel.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

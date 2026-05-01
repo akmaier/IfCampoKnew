@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät, Rechts- und Wirtschaftswissenschaftliche Fak
 studienbeginn: "Wintersemester"
 größe: "> 600"
 besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-04-25T14:11:06+00:00
+scraped_at: 2026-05-01T06:46:07+00:00
 ---
 
 # Health Business Administration (MHBA)

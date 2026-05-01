@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Deutsch als Zweitsprache FPO LA DaZ 20220811 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/DaZ/Aenderungssatzungen/LA_Deutsch als Zweitsprache_FPO_LA_DaZ_20220811_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:23:22+00:00
+scraped_at: 2026-05-01T07:05:33+00:00
 page_count_chars: 12629
 ---
 

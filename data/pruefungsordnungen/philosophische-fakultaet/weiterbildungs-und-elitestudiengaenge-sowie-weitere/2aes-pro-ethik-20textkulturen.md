@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "27. April 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES-PrO-Ethik%20Textkulturen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:41:22+00:00
+scraped_at: 2026-05-01T08:49:29+00:00
 page_count_chars: 1425
 ---
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO Griechisch Zwei-Fach 20250131.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Griechische_Philologie/konsolidierte_Fassungen/FPO_Griechisch_Zwei-Fach_20250131.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:55:49+00:00
-page_count_chars: 17272
+scraped_at: 2026-05-01T08:59:25+00:00
+page_count_chars: 17428
 ---
 
 # FPO Griechisch Zwei-Fach 20250131.pdf
@@ -12,9 +12,11 @@ page_count_chars: 17272
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Griechische_Philologie/konsolidierte_Fassungen/FPO_Griechisch_Zwei-Fach_20250131.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-EF **r** iedrichlangen **-** Alexander-UniversitatNirnberg 
+**==> picture [163 x 30] intentionally omitted <==**
 
-# **Fachstudien- und Prüfungsordnung für das Fach Griechische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO Griechisch Zwei-Fach – Vom 31.01.2025** 
+**==> picture [108 x 41] intentionally omitted <==**
+
+## **Fachstudien- und Prüfungsordnung für das Fach Griechische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO Griechisch Zwei-Fach – Vom 31.01.2025** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art 84 Abs. 2 Satz 1, Art. 88 Abs. 9, und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Fachstudien- und Prüfungsordnung: 
 
@@ -209,6 +211,10 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Griechische Philo
 - 6 Art und Umfang der Lehrveranstaltungen und Prüfungen in den Schlüsselqualifikationsmodulen sind abhängig vom konkreten didaktischen Charakter der jeweils gewählten Module und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen. Bei der Wahl sind ggf. durch das Erstfach festgelegte Vorgaben zu berücksichtigen. 
 
 7 
+
+**==> picture [163 x 30] intentionally omitted <==**
+
+**==> picture [108 x 41] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 22. Januar 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 31. Januar 2025 Erlangen, den 31. Januar 2025 
 

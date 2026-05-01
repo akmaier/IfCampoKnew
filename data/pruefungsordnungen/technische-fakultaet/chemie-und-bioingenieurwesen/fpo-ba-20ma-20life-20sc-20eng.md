@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 24.09.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-BA%20MA%20Life%20Sc.%20Eng.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:52:26+00:00
-page_count_chars: 16972
+scraped_at: 2026-05-01T10:03:53+00:00
+page_count_chars: 15612
 ---
 
 # PDF vom 24.09.2007
@@ -230,20 +230,23 @@ Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 Anlage 1: Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer 
 
-|Spalte1<br>~~SP~~|Spalte 2<br>~~SP~~|Spalte 2<br>~~SP~~|Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 5<br>~~HERR~~|Spalte 5<br>~~HERR~~|Spalte 5<br>~~HERR~~|Spalte 5<br>~~HERR~~|Spalte 5<br>~~HERR~~|Spalte 5<br>~~HERR~~|Spalte 6<br>~~HERR~~|Spalte 6<br>~~HERR~~|
+|Spalte1|Spalte 2|Spalte 2|Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 6|Spalte 6|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.<br>~~SP~~|Modul<br>~~SP~~||SWS|||ECTS|1. Sem<br>~~HERR~~|2. Sem<br>~~HERR~~|3. Sem<br>~~HERR~~|4. Sem<br>~~HERR~~|5. Sem<br>~~HERR~~|6. Sem<br>~~HERR~~|Prüfungsdauer in<br>Minuten<br>~~HERR~~||
-||||V|Ü|P||ECTS<br>~~HERR~~|ECTS<br>~~HERR~~|ECTS<br>~~HERR~~|ECTS<br>~~HERR~~|ECTS<br>~~HERR~~|ECTS<br>~~HERR~~|schriftlich<br>~~HERR~~|mündlich<br>~~HERR~~|
-|B1<br>~~SP~~<br>~~a~~|Mathematik B 1<br>Übung<br>~~SP~~<br>~~a~~|GOP<br>~~a~~|4<br>~~a~~|2<br>~~a~~|~~a~~|7.5<br>~~a~~|7.5<br>~~HERR~~<br>~~a~~|~~HERR~~<br>~~a~~|~~HERR~~<br>~~a~~|~~HERR~~<br>~~a~~|~~HERR~~<br>~~a~~|~~HERR~~<br>~~a~~|90<br>unbenoteter Schein<br>~~HERR~~<br>~~a~~||
-|B2<br>~~ee~~|Mathematik B 2<br>Übung<br>~~ee~~|GOP<br>~~ee~~|4<br>~~ee~~|2<br>~~ee~~|~~ee~~|7.5<br>~~ee~~|~~ee~~|7.5<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|90<br>unbenoteter Schein<br>~~ee~~||
-|B3<br>~~ee~~|Mathematik B 3<br>~~ee~~|~~ee~~|4<br>~~ee~~|2<br>~~ee~~|~~ee~~|7.5<br>~~ee~~|~~ee~~|~~ee~~|7.5<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|90<br>~~ee~~|~~ee~~|
+|Nr.|Modul||SWS|||ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Prüfungsdauer in<br>Minuten||
+||||V|Ü|P||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|B1|Mathematik B 1<br>Übung|GOP|4|2||7.5|7.5||||||90<br>unbenoteter Schein||
+|B2|Mathematik B 2<br>Übung|GOP|4|2||7.5||7.5|||||90<br>unbenoteter Schein||
+|B3|Mathematik B 3||4|2||7.5|||7.5||||90||
 |B4|Mathematik B 4||2|2||5||||5|||60||
-|B5<br>~~Se~~|Informatik für Ing.<br>~~Se~~|~~Se~~|2<br>~~Se~~|2<br>~~Se~~|~~Se~~|5<br>~~Se~~|~~Se~~|~~Se~~|~~Se~~|~~Se~~|5<br>~~Se~~|~~Se~~|90<br>~~Se~~|~~Se~~|
-|B6<br>~~Se~~|Allgemeine und Anorganische Chemie<br>Anorganisch-chemisches Praktikum<br>~~Se~~|GOP<br>~~Se~~|4<br>~~Se~~|~~Se~~|3<br>~~Se~~|7.5<br>~~Se~~|7.5<br>~~Se~~|~~Se~~|~~Se~~|~~Se~~|~~Se~~|~~Se~~|180<br>unbenoteter Schein<br>~~Se~~||
-|B7<br>~~eS~~|Organische Chemie<br>Organisch - chemisches Praktikum<br>~~eS~~|~~eS~~|4<br>~~eS~~|1<br>~~eS~~|3<br>~~eS~~|7.5<br>~~eS~~|~~eS~~|~~eS~~|7.5<br>~~eS~~|~~eS~~|~~eS~~|~~eS~~|180<br>unbenoteter Schein (ZV)||
-|B8<br>~~eS~~<br>~~EERE~~|Physikalisches Chemie<br>Chemische Thermodynamik<br>Physikalisch - chemisches Praktikum<br>~~eS~~<br>~~EERE~~|~~eS~~<br>~~EERE~~|2<br>2<br>~~eS~~<br>~~EERE~~|2<br>2<br>~~eS~~<br>~~EERE~~|4<br>~~eS~~<br>~~EERE~~|12.5<br>~~eS~~<br>~~EERE~~|~~eS~~<br>~~EERE~~|5<br>~~eS~~<br>~~EERE~~|2.5<br>~~eS~~<br>~~EERE~~|5<br>~~eS~~<br>~~EERE~~|~~eS~~<br>~~EERE~~|~~eS~~<br>~~EERE~~|180<br>unbenoteter Schein (ZV)||
+|B5|Informatik für Ing.||2|2||5|||||5||90||
+|B6|Allgemeine und Anorganische Chemie<br>Anorganisch-chemisches Praktikum|GOP|4||3|7.5|7.5||||||180<br>unbenoteter Schein||
+|B7|Organische Chemie<br>Organisch - chemisches Praktikum||4|1|3|7.5|||7.5||||180<br>unbenoteter Schein (ZV)||
+|B8|Physikalisches Chemie<br>Chemische Thermodynamik||2<br>2|2<br>2||12.5||5||5|||180||
+||Physikalisch - chemisches Praktikum||||4||||2.5||||unbenoteter Schein (ZV)||
 
 
+
+6 
 
 |B9|Biochemie I und II||2|||5|||2.5|2.5|||90||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -285,7 +288,7 @@ Anlage 1: Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Vertei
 |B32|Ergänzungsmodul||2|2||5||||||5|*)||
 |B33|Bachelorarbeit<br>Referat||9 Wochen|||12||||||12<br>3|||
 |||||||3|||||||||
-|**Summe SWS**|||**74**|**39**|**25**||**30**|**30**|**30**|**30**|**30**|**30**|**Summe**<br>**ECTS**|**180**|
+||**Summe**|**SWS**|**74**|**39**|**25**||**30**|**30**|**30**|**30**|**30**|**30**|**Summe**<br>**ECTS**|**180**|
 ||||**138**||||**Umfang der Grundlagen und Orientierungsprüfung**||||||**Summe**<br>**ECTS**|**45**|
 
 

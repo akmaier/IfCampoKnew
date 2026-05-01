@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 18.09.2007 i.d.F. 30.07.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/AllgPO_TechFak_BA-MA_JULI2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:44:12+00:00
-page_count_chars: 65935
+scraped_at: 2026-05-01T09:54:58+00:00
+page_count_chars: 65996
 ---
 
 # PDF vom 18.09.2007 i.d.F. 30.07.2012
@@ -330,7 +330,17 @@ durch computergestützte bzw. digitale Medien erfolgen.[3] Die Authentizität un
 
 (1)[1] Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt: 
 
-sehr gut = (1,0 oder 1,3) eine hervorragende Leistung; eine Leistung, die erheblich über den durchschnittligut = (1,7 oder 2,0 oder 2,3) chen Anforderungen liegt; ee ee eine Leistung, die durchschnittlichen Anforderungen befriedigend = (2,7 oder 3,0 oder 3,3) entspricht; eine Leistung, die trotz ihrer Mängel noch den Anausreichend = (3,7 oder 4,0) forderungen entspricht; eine Leistung, die wegen erheblicher Mängel den nicht ausreichend = (4,3 oder 4,7 oder 5,0) a Anforderungen nicht mehr genügt. 2Eine Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.[3] Bei unbenoteten Prüfungen (§ 6 Abs. 3 Satz 4) lautet die Bewertung „mit Erfolg teilgenommen“ oder „nicht mit Erfolg teilgenommen“.[4] Eine Modulprüfung ist vorbehaltlich einer abweichenden Regelung in der **Fachprüfungsordnung** bestanden, wenn alle Teilleistungen (§ 6 Abs. 2) bestanden sind.[ 5] Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Prüfungsteilen, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten.[6] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
+|gedrückt:|||
+|---|---|---|
+|sehr gut|= (1,0 oder 1,3)|eine hervorragende Leistung;|
+|gut|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den durchschnittli-<br>chen Anforderungen liegt;|
+|befriedigend|= (2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen Anforderungen<br>entspricht;|
+|ausreichend|= (3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch den An-<br>forderungen entspricht;|
+|nicht ausreichend<br>|= (4,3 oder 4,7 oder 5,0)<br>|eine Leistung, die wegen erheblicher Mängel den<br>Anforderungen nicht mehr genügt.<br>|
+
+
+
+2Eine Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.[3] Bei unbenoteten Prüfungen (§ 6 Abs. 3 Satz 4) lautet die Bewertung „mit Erfolg teilgenommen“ oder „nicht mit Erfolg teilgenommen“.[4] Eine Modulprüfung ist vorbehaltlich einer abweichenden Regelung in der **Fachprüfungsordnung** bestanden, wenn alle Teilleistungen (§ 6 Abs. 2) bestanden sind.[ 5] Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Prüfungsteilen, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten.[6] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
 
 (2)[1] Prüfungen im Antwort-Wahl-Verfahren (Multiple-Choice-Prüfungen) sind wie folgt zu bewerten:[2] Wer die für das Bestehen der Prüfung nach § 16 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die Note 
 

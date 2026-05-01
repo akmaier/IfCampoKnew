@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BAMA Bio 20260331.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Biologie_und_Zell-_und_Molekularbiologie/konsolidierte_Fassungen/FPO_BAMA_Bio_20260331.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:40:04+00:00
-page_count_chars: 42381
+scraped_at: 2026-05-01T07:30:12+00:00
+page_count_chars: 37240
 ---
 
 # FPO BAMA Bio 20260331.pdf
@@ -12,44 +12,15 @@ page_count_chars: 42381
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Biologie_und_Zell-_und_Molekularbiologie/konsolidierte_Fassungen/FPO_BAMA_Bio_20260331.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/>
 
-Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf** 
+**Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Biologie (B.Sc. Biologie) und den Masterstudiengang Zell- und Molekularbiologie (M.Sc. ZMB) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) ‒ FPO BAMA Bio ‒ Vom 31. März 2026** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Fachstudien- und Prüfungsordnung: 
 
-**==> picture [455 x 300] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-|||
-|---|---|
-|Inhaltsverzeichnis:|
-|I. Teil: Allgemeine Bestimmungen|......................................................................................1|
-|§ 41 Geltungsbereich .............................................................................................................1|
-|§ 42 Bachelorstudiengang, inhaltlich im Wesentlichen gleiche Studiengänge ........................2|
-|§ 43 Masterstudiengang, Unterrichts- und Prüfungssprache ..................................................2|
-|§ 44 Zusammensetzung des Prüfungsausschusses ...............................................................2|
-|II. Teil: Besondere Bestimmungen|......................................................................................2|
-|1. Bachelorprüfung .................................................................................................................2|
-|§ 45 Gliederung des Bachelorstudiums ..................................................................................2|
-|§ 46 Grundlagen- und Orientierungsprüfung ..........................................................................2|
-|§ 47 Fachmodule ....................................................................................................................3|
-|§ 48 Bachelorarbeit ................................................................................................................3|
-|2. Masterprüfung ....................................................................................................................4|
-|§ 49 Zusammensetzung der Zugangskommission zum Masterstudium ..................................4|
-|§ 50 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................4|
-|§ 51 Umfang und Gliederung des Masterstudiums .................................................................5|
-|§ 52 Orientierungsmodule ......................................................................................................6|
-|§ 53 Forschungsmodul ...........................................................................................................6|
-|§ 54 Masterarbeit ...................................................................................................................7|
-|III. Teil: Schlussbestimmungen|...........................................................................................7|
-|§ 55 Inkrafttreten ....................................................................................................................7|
-|Anlage 1: Studienverlaufsplan Bachelorstudiengang Biologie|........................................8|
-|Anlage 2: Studienverlaufsplan Masterstudiengang Zell- und Molekularbiologie (M. Sc.)|
-|............................................................................................................................................. 13|
-
-**----- End of picture text -----**<br>
-
+**Inhaltsverzeichnis: I. Teil: Allgemeine Bestimmungen** ......................................................................................1 § 41 Geltungsbereich .............................................................................................................1 § 42 Bachelorstudiengang, inhaltlich im Wesentlichen gleiche Studiengänge ........................2 § 43 Masterstudiengang, Unterrichts- und Prüfungssprache ..................................................2 § 44 Zusammensetzung des Prüfungsausschusses ...............................................................2 **II. Teil: Besondere Bestimmungen** ......................................................................................2 1. Bachelorprüfung .................................................................................................................2 § 45 Gliederung des Bachelorstudiums ..................................................................................2 § 46 Grundlagen- und Orientierungsprüfung ..........................................................................2 § 47 Fachmodule ....................................................................................................................3 § 48 Bachelorarbeit ................................................................................................................3 2. Masterprüfung ....................................................................................................................4 § 49 Zusammensetzung der Zugangskommission zum Masterstudium ..................................4 § 50 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................4 § 51 Umfang und Gliederung des Masterstudiums .................................................................5 § 52 Orientierungsmodule ......................................................................................................6 § 53 Forschungsmodul ...........................................................................................................6 § 54 Masterarbeit ...................................................................................................................7 **III. Teil: Schlussbestimmungen** ...........................................................................................7 § 55 Inkrafttreten ....................................................................................................................7 **Anlage 1: Studienverlaufsplan Bachelorstudiengang Biologie** ........................................8 **Anlage 2: Studienverlaufsplan Masterstudiengang Zell- und Molekularbiologie (M. Sc.)** ............................................................................................................................................. 13 
 
 ## **I. Teil: Allgemeine Bestimmungen** 
 
@@ -59,7 +30,9 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Biologie (B.S
 
 1 
 
-Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf** 
+**Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **§ 42 Bachelorstudiengang, inhaltlich im Wesentlichen gleiche Studiengänge** (1)[1] Das Bachelorstudium der Biologie setzt sich aus Modulen im Umfang von 180 ECTS-Punkten verteilt auf sechs Semester zusammen.[2] Darin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten. 
 
@@ -91,7 +64,9 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen 15 ECTS-Punkte au
 
 2 
 
-Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf** 
+**Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 47 Fachmodule** 
 
@@ -147,7 +122,9 @@ Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf**
 
 3 
 
-Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf** 
+**Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] Das Modul Bachelorarbeit umfasst insgesamt 15 ECTS-Punkte, wobei zwölf ECTS-Punkte auf die schriftliche Bachelorarbeit entfallen und drei ECTS-Punkte auf die Verteidigung der Bachelorarbeit.[2] Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.[ 3] Das Modul Bachelorarbeit soll in seinen Anforderungen so gestaltet sein, dass es innerhalb von 12 Wochen abgeschlossen werden kann, wobei für die schriftliche Abfassung in der Regel 6 Wochen vorgesehen sind. 
 
@@ -169,7 +146,9 @@ Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf**
 
 4 
 
-Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf** 
+**Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 noch nicht abgeschlossenen Bachelorstudiums gemäß § 35 Abs. 3 **ABMPO/NatFak** beträgt 135 ECTS-Punkte. 
 
@@ -203,7 +182,9 @@ noch nicht abgeschlossenen Bachelorstudiums gemäß § 35 Abs. 3 **ABMPO/NatFak*
 
 5 
 
-Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf** 
+**Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 52 Orientierungsmodule** 
 
@@ -259,7 +240,9 @@ Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf**
 
 6 
 
-Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf** 
+**Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 bzw. Dozenten des Departments Biologie (Betreuerinnen bzw. Betreuer) sind berechtigt, ein Forschungsmodul anzubieten, sofern sie im Masterstudiengang Zell- und Molekularbiologie tätig sind.[7] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
 
@@ -283,30 +266,38 @@ bzw. Dozenten des Departments Biologie (Betreuerinnen bzw. Betreuer) sind berech
 
 7 
 
-## Erlangen-NirnbergFriedrich-Alexander-Universitat **Entwurf** 
+## **Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage 1: Studienverlaufsplan Bachelorstudiengang Biologie** 
 
 Pflichtmodule: grün; Wahlpflichtmodule rot (Wahlmodule) oder blau (Fachmodule). 
 
-|**Modulbezeichnung**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||**1.**<br>**Sem**<br>**.**||**2.**<br>**Sem.**||**Sem.**<br>**3.**<br>**Sem.**||**4.**<br>**Sem.**||**5.**<br>**Sem.**||**6.**<br>**Sem.**|||||||
-||||**V**|**Ü**|**P**||**S**|||||||||||||||||||||
-|**1**|**Basismodul 1**<br>**Moleküle, Grundlagen der**<br>**Zellbiologie und Genetik**|Vorlesung Moleküle,<br>Grundlagen der Zellbiologie<br>und Genetik|5|||||||**15**||7||||||||||||PL: Klausur 90 Min.<br>und<br>SL: Protokollheft ca.<br>50 Seiten (unbenotet)||1||
-|||Übungen Moleküle,<br>Grundlagen der Zellbiologie<br>und Genetik1)||4||||||||6||||||||||||||||
-|||Tutorium Moleküle,<br>Grundlagen der Zellbiologie<br>und Genetik||||||1||||2||||||||||||||||
-|**2**|**Basismodul 2a**<br>**Phylogenie des Lebens –**<br>**Stammbaum der Arten 1**|2a: Vorlesung zu Grundlagen<br>Evolution, Entstehung der Ar-<br>ten, Prokaryonten, Protisten<br>und Pflanzen|2,5|||||||**7,5**||||3,5||||||||||PL: Klausur 45 Min.<br>und<br>SL: Protokollheft ca.<br>25 Seiten (unbenotet)||1||
-|||2a: Übungen zur Mikrobiolo-<br>gie, Evolution, und Anatomie<br>der Pflanzen1)||2||||||||||3||||||||||||||
-|||2a: Tutorium zur Phylogenie<br>des Lebens||||||0,5||||||1||||||||||||||
-|**3**|**Basismodul 2b**<br>**Phylogenie des Lebens –**<br>**Stammbaum der Arten 2**|2b: Vorlesung zu Grundlagen<br>der Evolution der Animalia,<br>Evolutionsschritte und Ihre An-<br>passungen, Grundlagen der<br>Ökologie|2,5|||||||**7,5**||||3,5||||||||||PL: Klausur 45 Min.<br>und<br>SL: Protokollheft ca.<br>25 Seiten (unbenotet)||1||
-|||2b: Übungen zur Evolution der<br>Vielzelligkeit, Anatomie der<br>übergeordneten Tierstämme<br>und -klassen1)||2||||||||||3||||||||||||||
+|||||||||**Gesamt**<br>**ECTS-**<br>**Punkte**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||**SWS**||||||||**in ECTS-Punkten**|||||||
+||**Modulbezeichnung**|**Lehrveranstaltung**||||||||**1.**<br>**S**|||||||||
+||||||||||||**2.**|**3.**|**4.**|**5.**|**6.**|**Prüfung**<br>|||
+||||**V**||||||||||||||||
+|||||**Ü**|**P**||**S**|||**em**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**||||
+|||||||||||**.**|||||||||
+|**1**|**Basismodul 1**<br>**Moleküle, Grundlagen der**<br>**Zellbiologie und Genetik**|Vorlesung Moleküle,<br>Grundlagen der Zellbiologie<br>und Genetik|5||||||**15**|7||||||PL: Klausur 90 Min.<br>und<br>SL: Protokollheft ca.<br>50 Seiten (unbenotet)|1||
+|||Übungen Moleküle,<br>Grundlagen der Zellbiologie<br>und Genetik1)||4||||||6|||||||||
+|||Tutorium Moleküle,<br>Grundlagen der Zellbiologie<br>und Genetik|||||1|||2|||||||||
+|**2**|**Basismodul 2a**<br>**Phylogenie des Lebens –**<br>**Stammbaum der Arten 1**|2a: Vorlesung zu Grundlagen<br>Evolution, Entstehung der Ar-<br>ten, Prokaryonten, Protisten<br>und Pflanzen|2,5||||||**7,5**||3,5|||||PL: Klausur 45 Min.<br>und<br>SL: Protokollheft ca.<br>25 Seiten (unbenotet)|1||
+|||2a: Übungen zur Mikrobiolo-<br>gie, Evolution, und Anatomie<br>der Pflanzen1)||2|||||||3||||||||
+|||2a: Tutorium zur Phylogenie<br>des Lebens|||||0,5||||1||||||||
+|**3**|**Basismodul 2b**<br>**Phylogenie des Lebens –**<br>**Stammbaum der Arten 2**|2b: Vorlesung zu Grundlagen<br>der Evolution der Animalia,<br>Evolutionsschritte und Ihre An-<br>passungen, Grundlagen der<br>Ökologie|2,5||||||**7,5**||3,5|||||PL: Klausur 45 Min.<br>und<br>SL: Protokollheft ca.<br>25 Seiten (unbenotet)|1||
+|||2b: Übungen zur Evolution der<br>Vielzelligkeit, Anatomie der<br>übergeordneten Tierstämme<br>und -klassen1)||2|||||||3||||||||
 
 
 
 8 
 
-## Erlangen-NirnbergFriedrich-Alexander-Universitat **Entwurf** 
+## **Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |||2b: Tutorium zur Phylogenie<br>des Lebens||||0,5|||1|||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -330,41 +321,53 @@ Pflichtmodule: grün; Wahlpflichtmodule rot (Wahlmodule) oder blau (Fachmodule).
 
 9 
 
-## Erlangen-NirnbergFriedrich-Alexander-Universitat **Entwurf** 
+## **Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |||Rechenübungen zur Experi-<br>mentalphysik für Nebenfächler||2||||||1||||SL: mündliches Testat<br>ca. 30 Min.und<br>Protokollheft ca. 30<br>Seiten (unbenotet)||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Physikalisches Praktikum für<br>Biologen1)|||2,5|||||2,5||||||
-|**10**|**Physikalische Chemie**|Vorlesung zur Physikalischen<br>Chemie|3||||**7,5**||2,5|||||PL: Klausur 45 Min.<br>und<br>SL: Eingangskollo-<br>quium ca. 30 Min.<br>(Sicherheitsaspekte);<br>Kolloquium 40 Min.und<br>Protokollheft ca. 40<br>Seiten (unbenotet)|1|
-|||Rechenübungen zur Physikali-<br>schen Chemie||1|||||2,5|||||||
+|||Physikalisches Praktikum für<br>Biologen1)|||25|||||25||||||
+||||||,|||||,||||||
+|**10**|**Physikalische Chemie**|Vorlesung zur Physikalischen<br>Chemie|3||||||2,5|||||PL: Klausur 45 Min.<br>und<br>SL: Eingangskollo-<br>quium ca. 30 Min.<br>(Sicherheitsaspekte);<br>Kolloquium 40 Min.und<br>Protokollheft ca. 40<br>Seiten (unbenotet)|1|
+|||Rechenübungen zur Physikali-<br>schen Chemie||1|||||25|||||||
+||||||||**7,5**||,|||||||
 |||Physikalisch Chemisches<br>Praktikum für Biologen1)|||2,5|||||2,5||||||
 |**11**|**Experimentelle und Theoreti-**<br>**sche Ansätze der Biologie**|Vorlesung zu Experimentelle<br>und Theoretische Ansätze der<br>Biologie|2||||**5**|||5||||PL: Klausur 45 Min.|1|
 |**12**|**Wahlmodul 1**<br>**Organismische Biologie**|Vorlesung Organismische<br>Biologie|3||||**10**||||5|||PL: Klausur 90 Min.<br>_oder_<br>mündliche Prüfung<br>20 Min2) und<br>SL: Protokollheft ca.<br>100 Seiten (unbenotet)|1|
 |||Freilandübungen<br>Organismische Biologie1)||3|||||||3|||||
 |||Tutorium Organismische<br>Biologie||||1|||||2|||||
+|||||||||||||||||
 |**13**|**Wahlmodul 2**<br>**Molekularbiologie**|Vorlesung Molekularbiologie|3||||**10**|||||5||PL: Klausur 90 Min.<br>_oder_<br>mündliche Prüfung<br>20 Min2) und<br>SL: Protokollheft ca.<br>100 Seiten(unbenotet)|1|
 |||Übungen Molekularbiologie1)||3||||||||3||||
 |||Tutorium Molekularbiologie||||1||||||2||||
-|**14**|**Wahlmodul 3**<br>**Quantitative Biologie**|Vorlesung Quantitative Biolo-<br>gie|3||||**10**||||5|||PL: Klausur 90 Min.<br>_oder_<br>mündliche Prüfung<br>20 Min2) und<br>SL: Protokollheft ca.<br>100 Seiten(unbenotet)|1|
-|||Übungen Quantitative Biologie<br>1)||3|||||||3|||||
-|||Tutorium Quantitative Biologie||||1|||||2|||||
+|**14**|**Wahlmodul 3**<br>**Quantitative Biologie**|Vorlesung Quantitative Biolo-<br>gie|3||||||||5|||PL: Klausur 90 Min.<br>_oder_<br>üdlih Püf|1|
+|||Übungen Quantitative Biologie<br>1)||||||||||||||
+|||||3|||**10**||||3|||mnce rung<br>20 Min2) und||
+|||||||||||||||||
+|||Tutorium Quantitative Biologie||||1|||||2|||SL: Protokollheft ca.<br>100 Seiten(unbenotet)||
 |**15**|**Wahlmodul 4**<br>**Mensch-Mikroorganismen-**|Vorlesung Mensch - Mikroor-<br>ganismen - Interaktion|3||||**10**||||5|||PL: Klausur 90 Min.<br>_oder_|1|
 
 
 
 10 
 
-## Erlangen-NirnbergFriedrich-Alexander-Universitat **Entwurf** 
+## **Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ||**Interaktion**|Übungen Mensch - Mikroorga-<br>nismen - Interaktion1||3|||||||3|||mündliche Prüfung<br>20 Min2)und<br>SL: Protokollheft ca.<br>100 Seiten (unbenotet)||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||Tutorium Mensch - Mikroorga-<br>nismen - Interaktion||||1|||||2|||||
+|||||||||||||||||
 |**16**|**Wahlmodul 5**<br>**Vom Embryo zum Gehirn**|Vorlesung vom Embryo zum<br>Gehirn|3||||**10**||||5|||PL: Klausur 90 Min.<br>_oder_<br>mündliche Prüfung<br>20 Min2)und<br>SL: Protokollheft ca.<br>100 Seiten (unbenotet)|1|
 |||Übungen vom Embryo zum<br>Gehirn1)||3|||||||3|||||
 |||Tutorium vom Embryo zum<br>Gehirn||||1|||||2|||||
+|||||||||||||||||
 |**17**|**Wahlmodul 6**<br>**Zell- und Molekularbiologie**<br>**der Pflanzen**|Vorlesung Zell- und Molekular-<br>biologie der Pflanzen|3||||**10**|||||5||PL: Klausur 90 Min.<br>_oder_<br>mündliche Prüfung<br>20 Min2)und<br>SL: Protokollheft ca.<br>100 Seiten (unbenotet)|1|
 |||Übungen Zell- und Molekular-<br>biologie der Pflanzen1)||3||||||||3||||
 |||Tutorium Zell- und Molekular-<br>biologie der Pflanzen||||1||||||2||||
+|||||||||||||||||
 |**18**|**Fachmodul 1 gemäß § 47**|Übungen zu Fachmodul 11)||10|||**12,5**|||||10||vgl. § 47 Abs. 33)|1|
 |||Hauptseminar zu Fachmodul 1||||3||||||2,5||||
 |**19**|**Fachmodul 2 gemäß § 47**|Übungen zu Fachmodul 21)||10|||**12,5**||||||10|vgl. § 47 Abs. 33)|1|
@@ -378,14 +381,16 @@ Pflichtmodule: grün; Wahlpflichtmodule rot (Wahlmodule) oder blau (Fachmodule).
 
 11 
 
-## Erlangen-NirnbergFriedrich-Alexander-Universitat **Entwurf** 
+## **Entwurf** 
 
-|**24**|**Theoretische Projektarbeit**|Theoretische Projektarbeit||||4|4|**5**|**5**|||||||||2,5|2,5|2,5|2,5|PL: schriftliche Ausar-<br>beitung ca. 2000<br>Wörter|PL: schriftliche Ausar-<br>beitung ca. 2000<br>Wörter|1|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Anleitung zur Theoretischen<br>Projektarbeit||||1||||||||||||||||||||
-|**25**|**Bachelorarbeit**|Bachelor-Thesis mit Kurzvor-<br>trag||||||**15**||||||||||||15||PL: Schriftliche Arbeit<br>ca. 7000 Worteund<br>SL: Kurzvortrag von ca.<br>20 Min.||1||
-|**Summe SWS und ECTS-Punkte**|||**42**|**60,5**|**16**|**17**||**180**||**30**||**30**||**30**||**30**||**30**||**30**||||||
-||||**135,5**|||||||||||||||||||||||
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**24**|**Theoretische Projektarbeit**|Theoretische Projektarbeit||||4||**5**|||||||||2,5||2,5||PL: schriftliche Ausar-<br>beitung ca. 2000<br>Wörter||1|1|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||Anleitung zur Theoretischen<br>Projektarbeit||||1|||||||||||||||||||
+|**25**|**Bachelorarbeit**|Bachelor-Thesis mit Kurzvor-<br>trag||||||**15**|||||||||||15||PL: Schriftliche Arbeit<br>ca. 7000 Worteund<br>SL: Kurzvortrag von ca.<br>20 Min.||1||
+||||**42**|**60,5**|**16**|**17**||**180**|**30**||**30**||**30**||**30**||**30**||**30**||||||
+|**Summe SWS und ECTS-Punkte**|||**135,5**||||||||||||||||||||||
 
 
 
@@ -403,9 +408,7 @@ Pflichtmodule: grün; Wahlpflichtmodule rot (Wahlmodule) oder blau (Fachmodule).
 
 **Erläuterungen:** 
 
-V = Vorlesung 
-
-Ü = Übung 
+V = Vorlesung Ü = Übung 
 
 S = Seminar 
 
@@ -413,39 +416,43 @@ P = Praktikum SWS = Semesterwochenstunden ECTS = Punkte des European Credit Tran
 
 12 
 
-**Entwurf** Erangen Norberg 
+**Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage 2: Studienverlaufsplan Masterstudiengang Zell- und Molekularbiologie (M. Sc.)** 
 
 Pflichtmodule: grün; Wahlpflichtmodule und Wahlmodule: grau; Orientierungsmodule: blau. 
 
-|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|**Modulbezeichnung**<br>**Lehrveranstaltung**<br>**SWS**<br>**Gesamt**<br>**ECTS**<br>**Workload pro Semester in ECTS-**<br>**Punkten**<br>**Art und Umfang der Prüfung**<br>**Faktor**<br>**Modulnote**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>**1. Sem.**<br>**2. Sem.**<br>**3. Sem.**<br>**4. Sem.**|
+||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload pro Semester in ECTS-**<br>**Punkten**|**Workload pro Semester in ECTS-**<br>**Punkten**|**Workload pro Semester in ECTS-**<br>**Punkten**|**Workload pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modulnote**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|1<br>~~eo~~|**Grundlagenvorlesung I**<br>~~eo~~|Zell- und Molekularbiolo-<br>gie I<br>~~eo~~|3<br>~~eo~~|~~eo~~|~~eo~~|~~eo~~|**7,5**<br>~~eo~~|7,5<br>~~eo~~|~~eo~~|~~eo~~|~~eo~~|PL: Klausur 90 Minuten<br>~~eo~~|2<br>~~eo~~|
-|2<br>~~—~~<br>~~_~~|**Grundlagenvorlesung II**<br>~~—~~<br>~~_~~<br>~~a~~|Zell- und Molekularbiolo-<br>gie II<br>~~a~~|3||||**7,5**||7,5|||PL: Klausur 90 Minuten|2|
-|3<br>~~a~~|**Orientierungsmodul 1**<br>~~a~~|Übung mit Hauptseminar||7||1|**7,5**|7,5||||vgl. § 52 Abs. 3|1|
-|4<br>~~a~~|**Orientierungsmodul 2**<br>~~a~~|Übung mit Hauptseminar||7||1|**7,5**|7,5||||vgl. § 52 Abs. 3|1|
-|5<br>~~a~~|**Orientierungsmodul 3**<br>~~a~~|Übung mit Hauptseminar||7||1|**7,5**||7,5|||vgl. § 52 Abs. 3|1|
-|6<br>~~a~~|**Orientierungsmodul 4**<br>~~a~~|Übung mit Hauptseminar||7||1|**7,5**||7,5|||vgl. § 52 Abs. 3|1|
-|7<br>~~er~~|**Forschungsmodul gemäß § 53**<br>~~er~~|Übung mit Hauptseminar<br>~~er~~|~~er~~|16-<br>18<br>~~er~~|~~er~~|2-<br>4<br>~~er~~|**20**<br>~~er~~|~~er~~|~~er~~|20<br>~~er~~|~~er~~|PL: mündliche Prüfung, 45 Min.<br>~~er~~|1<br>~~er~~|
-|8<br>~~OO~~|**Wahlmodul Externes Praktikum1)**<br>~~OO~~|~~OO~~|~~OO~~|~~OO~~|10<br>~~OO~~|~~OO~~|**15**<br>~~OO~~|15<br>~~OO~~||~~OO~~|~~OO~~|SL: pÜL ca. 10 Seiten_oder_ 2)<br>SeL ca. 20 Min.<br>~~OO~~|0<br>~~OO~~|
-|9<br>~~a~~|**Wahlmodul Internes Praktikum1) 3) **<br>~~a~~|~~a~~|~~a~~|~~a~~|10<br>~~a~~|~~a~~|**15**<br>~~a~~|15<br>~~a~~||~~a~~|~~a~~|SL: pÜL ca. 10 Seiten_oder_ 2)<br>SeL ca. 20 Min.<br>~~a~~|0<br>~~a~~|
-|10<br>~~a~~|**Wahlmodul UNIcert ® III1)**<br>~~a~~|~~a~~|~~a~~|8<br>~~a~~|~~a~~|~~a~~|**15**<br>~~a~~|7,5<br>~~a~~|7,5<br>~~a~~|~~a~~|~~a~~|4)<br>~~a~~|0<br>~~a~~|
+||||**V**<br>**Ü**<br>**P**<br>**S**|||||**1. Sem.**<br>**2. Sem.**||**3. Sem.**|**4. Sem.**|||
+|1|**Grundlagenvorlesung I**|Zell- und Molekularbiolo-<br>gie I|3||||**7,5**|7,5||||PL: Klausur 90 Minuten|2|
+|2|**Grundlagenvorlesung II**|Zell- und Molekularbiolo-<br>gie II|3||||**7,5**||7,5|||PL: Klausur 90 Minuten|2|
+|3|**Orientierungsmodul 1**|Übung mit Hauptseminar||7||1|**7,5**|7,5||||vgl. § 52 Abs. 3|1|
+|4|**Orientierungsmodul 2**|Übung mit Hauptseminar||7||1|**7,5**|7,5||||vgl. § 52 Abs. 3|1|
+|5|**Orientierungsmodul 3**|Übung mit Hauptseminar||7||1|**7,5**||7,5|||vgl. § 52 Abs. 3|1|
+|6|**Orientierungsmodul 4**|Übung mit Hauptseminar||7||1|**7,5**||7,5|||vgl. § 52 Abs. 3|1|
+|7|**Forschungsmodul gemäß § 53**|Übung mit Hauptseminar||16-<br>18||2-<br>4|**20**|||20||PL: mündliche Prüfung, 45 Min.|1|
+|8|**Wahlmodul Externes Praktikum1)**||||10||**15**|15||||SL: pÜL ca. 10 Seiten_oder_ 2)<br>SeL ca. 20 Min.|0|
+|9|**Wahlmodul Internes Praktikum1) 3) **||||10||**15**|15||||SL: pÜL ca. 10 Seiten_oder_ 2)<br>SeL ca. 20 Min.|0|
+|10|**Wahlmodul UNIcert ® III1)**|||8|||**15**|7,5|7,5|||4)|0|
 |11|**Schlüsselqualifikation**|5)|||||**5**|||5||5)|0|
 |12|**Scientific Presentations**|Seminar||||2|**5**|||5||SL: schriftl. Hausarbeit ca.<br>4 Seiten (unbenotet)und<br>SL: mündl. Prüfung 20 Min.<br>(unbenotet)|0|
-|13|**Masterarbeit**<br>~~esse~~|schriftliche Masterarbeit<br>~~esse~~|~~esse~~|~~esse~~|~~esse~~|~~esse~~|**30**<br>|~~ee~~|~~ee~~|~~ee~~|27<br>~~ee~~|PL: schriftl. Arbeit ca. 20.000<br>Wörterund<br>SL: Seminarvortag ca. 30 Min.<br>(unbenotet)|1|
-|||Verteidigung der<br>Masterarbeit<br>~~esse~~<br>~~a~~|~~esse~~<br>~~a~~|~~esse~~<br>~~a~~|~~esse~~<br>~~a~~|~~esse ~~<br>~~a~~||~~ee~~|~~ee~~|~~ee~~|3<br>~~ee~~|||
+|||schriftliche Masterarbeit|||||**30**||||27|PL: schriftl. Arbeit ca. 20.000<br>Wörterund<br>SL: Seminarvortag ca. 30 Min.<br>(unbenotet)|1|
+|13|**Masterarbeit**|Verteidigung der<br>Masterarbeit|||||||||3|||
 
 
 
 13 
 
-Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf** 
+**Entwurf** 
 
-||**6**|**52-**<br>**54 **|**0**|**10**||||||
-|---|---|---|---|---|---|---|---|---|---|
-|**Summe SWS und ECTS-Punkte:**|||||**120**|**30**|**30**|**30**|**30**|
-|||**66-70**||||||||
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Summe SWS und ECTS-Punkte:**|**6**|**52-**<br>**54 **|**0**|**10**|**120**|**30**|**30**|**30**|**30**|||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||**66-70**|||||||||||
 
 
 
@@ -463,13 +470,13 @@ Friedrich-Alexander-UniversitatErlangen-Nirnberg **Entwurf**
 
 V = Vorlesung Ü = Übung 
 
-P = Praktikum 
-
-S = Seminar SWS = Semesterwochenstunden ECTS = Punkte des European Credit Transfer Systems SL = Studienleistung PL = Prüfungsleistung 
+P = Praktikum S = Seminar SWS = Semesterwochenstunden ECTS = Punkte des European Credit Transfer Systems SL = Studienleistung PL = Prüfungsleistung 
 
 14 
 
-Erlangen-NirnbergFriedrich-Alexander-Universitat **Entwurf** 
+**Entwurf** 
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 31. März 2026 Erlangen, den 31. März 2026 
 

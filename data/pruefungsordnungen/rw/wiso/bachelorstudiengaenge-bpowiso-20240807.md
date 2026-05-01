@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Bachelorstudiengänge BPOWISO 20240807.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Rahmenpruefungsordnung/konsolidierte_Fassungen/Bachelorstudiengänge_BPOWISO_20240807.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:10:36+00:00
+scraped_at: 2026-05-01T09:19:47+00:00
 page_count_chars: 68828
 ---
 

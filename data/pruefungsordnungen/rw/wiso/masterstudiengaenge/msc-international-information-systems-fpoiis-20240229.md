@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc International Information Systems FPOIIS 20240229.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/gueltig_ab_WS_2024-25/MSc_International_Information_Systems_FPOIIS_20240229.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:31:53+00:00
+scraped_at: 2026-05-01T09:38:23+00:00
 page_count_chars: 34015
 ---
 

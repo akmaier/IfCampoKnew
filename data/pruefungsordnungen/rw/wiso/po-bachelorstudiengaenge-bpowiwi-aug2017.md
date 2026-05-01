@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 01.08.2006 i.d.F. 10.08.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO_Bachelorstudiengaenge_BPOWiWi_AUG2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:10:55+00:00
+scraped_at: 2026-05-01T09:20:21+00:00
 page_count_chars: 75185
 ---
 

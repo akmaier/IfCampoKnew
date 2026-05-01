@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2011 i.d.F. 09.05.2016"
 pdf_source: https://www.archiv.fau.de/files/2023/07/StO-PO-BA-Logopaedie-MAI2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:32:33+00:00
+scraped_at: 2026-05-01T07:21:24+00:00
 page_count_chars: 58647
 ---
 

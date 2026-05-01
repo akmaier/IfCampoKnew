@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Neufassung POHebräisch 20200313.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachpruefungen/Hebraeisch/konsolidierte_Fassungen/Neufassung_POHebraeisch_20200313.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:42:15+00:00
+scraped_at: 2026-05-01T09:52:16+00:00
 page_count_chars: 27083
 ---
 

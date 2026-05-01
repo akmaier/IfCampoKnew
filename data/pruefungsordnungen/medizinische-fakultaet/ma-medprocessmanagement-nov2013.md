@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 07.11.2008 i.d.F. 13.11.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/MA-MedProcessManagement_NOV2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:33:19+00:00
-page_count_chars: 51703
+scraped_at: 2026-05-01T07:22:56+00:00
+page_count_chars: 51550
 ---
 
 # PDF vom 07.11.2008 i.d.F. 13.11.2013
@@ -247,23 +247,22 @@ Der Entzug des Akademischen Grades richtet sich nach Art. 69 BayHSchG.
 
 **§ 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote** (1)[1] Die Urteile über die einzelnen Prüfungen werden von der jeweiligen Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt: 
 
-|**sehr gut**|**=**<br>(1,0 oder 1,3)<br>eine hervorragende Leistung;|
-|---|---|
-|**gut**<br>**befriedigend**<br>**ausreichend**<br>**nicht ausreichend**<br>es|**=**<br>(1,7 oder 2,0 oder 2,3)<br>eine Leistung, die erheblich über den Anforderun-<br>gen liegt;<br>**=**<br>(2,7 oder 3,0 oder 3,3)<br>eine Leistung, die durchschnittlichen Anforderun-<br>gen entspricht;<br>**=**<br>(3,7 oder 4,0)<br>eine Leistung, die trotz ihrer Mängel noch den An-<br>forderungen entspricht;<br>**=**<br>(4,3 oder 4,7 oder 5,0)<br>eine Leistung, die wegen erheblicher Mängel den<br>Anforderungen nicht mehr genügt.<br>7<br>oo<br>ee|
-|2Eine Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausrei-|Eine Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausrei-|
-|chend“ bewertet ist.|chend“ bewertet ist.3Bei unbenoteten Prüfungen (§ 6 Abs. 3 Satz 4) lautet die Be-|
-|wertung „bestanden“ oder „nicht bestanden“.4Eine Modulprüfung ist bestanden,||
-|wenn sämtliche Teilleistungen bestanden sind.||
+|**sehr gut**|**=**|(1,0 oder 1,3)|eine hervorragende Leistung;|
+|---|---|---|---|
+|**gut**|**=**|(1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den Anforderun-<br>gen liegt;|
+|**befriedigend**|**=**|(2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen Anforderun-<br>gen entspricht;|
+|**ausreichend**|**=**|(3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch den An-<br>forderungen entspricht;|
+|**nicht ausreichend**<br>|**=**<br>|(4,3 oder 4,7 oder 5,0)<br>|eine Leistung, die wegen erheblicher Mängel den<br>Anforderungen nicht mehr genügt.<br>|
 
 
+
+2Eine Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.[3] Bei unbenoteten Prüfungen (§ 6 Abs. 3 Satz 4) lautet die Bewertung „bestanden“ oder „nicht bestanden“.[4] Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen bestanden sind. 
 
 (2)[1] Prüfungen im Antwort-Wahl-Verfahren sind wie folgt zu bewerten:[2] Wer die für das Bestehen der Prüfung nach § 16 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die Note 
 
 1,0 ("sehr gut"), wenn mindestens 75 Prozent, 
 
-2,0 ("gut"), wenn mindestens 50, aber weniger als 75 Prozent, 
-
-3,0 ("befriedigend"), wenn mindestens 25, aber weniger als 50 Prozent, 4,0 ("ausreichend"), wenn keine oder weniger als 25 Prozent der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet wurden.[3] Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Note 0,7 ist dabei ausgeschlossen.[4] Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0.[5] Abweichend von Satz 4 können in den Fällen, in denen die Prüfung gemäß § 16 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4, 3, 4, 7 und 5,0 vergeben werden. 
+2,0 ("gut"), wenn mindestens 50, aber weniger als 75 Prozent, 3,0 ("befriedigend"), wenn mindestens 25, aber weniger als 50 Prozent, 4,0 ("ausreichend"), wenn keine oder weniger als 25 Prozent der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet wurden.[3] Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Note 0,7 ist dabei ausgeschlossen.[4] Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0.[5] Abweichend von Satz 4 können in den Fällen, in denen die Prüfung gemäß § 16 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4, 3, 4, 7 und 5,0 vergeben werden. 
 
 (3)[1] Die Gesamtnote der Masterprüfung lautet: bei einem Durchschnitt bis 1,50 = sehr gut 
 

@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:11:29+00:00
+scraped_at: 2026-05-01T06:46:40+00:00
 ---
 
 # Integrated Life Sciences: Biologie, Biomathematik, Biophysik (B.Sc.)

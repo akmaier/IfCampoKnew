@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BA Sozialökonomik FPO BA SozÖk 20240807.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Sozialoekonomik/konsolidierte_Fassungen/BA_Sozialökonomik_FPO_BA_SozÖk_20240807.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:14:45+00:00
+scraped_at: 2026-05-01T09:26:23+00:00
 page_count_chars: 18254
 ---
 

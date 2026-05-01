@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakul
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "250-600"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:14:49+00:00
+scraped_at: 2026-05-01T06:51:24+00:00
 ---
 
 # Wirtschaftsingenieurwesen (M.Sc.)

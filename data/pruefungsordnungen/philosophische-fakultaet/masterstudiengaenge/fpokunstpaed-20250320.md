@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOKunstPäd 20250320.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Kunstpaedagogik_ab_01_Februar_2025/konsolidierte_Fassungen/FPOKunstPäd_20250320.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:26:14+00:00
-page_count_chars: 24141
+scraped_at: 2026-05-01T08:31:52+00:00
+page_count_chars: 20462
 ---
 
 # FPOKunstPäd 20250320.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Kunstpaedagogik_ab_01_Februar_2025/konsolidierte_Fassungen/FPOKunstPäd_20250320.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **Hinweis** : Für Studierende, die ihr Studium vor Inkrafttreten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
@@ -33,6 +37,10 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 (2)[1] Als fachverwandte Abschlüsse im Sinne des § 36 Abs. 1 Nr. 1 **ABMStPO/Phil** werden insbesondere Zwei-Fach-, Drei-Fach-Bachelorabschlüsse, Diplom- und Magisterabschlüsse aller Fachrichtungen anerkannt, soweit sie einen wesentlichen Umfang fachwissenschaftlicher Inhalte (Kunstpraxis und Kunstwissenschaft) von mindestens 60 ECTS aufweisen, wobei mindestens 20 ECTS-Punkte auf die Kunstpraxis 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 entfallen sollen.[2] Soweit die kunstpraktischen Kompetenzen im Umfang von 20 ECTS-Punkten nicht enthalten sind, kann die Zugangskommission aufgeben, die fehlenden Kompetenzen im Rahmen von Auflagen im Sinne des § 36 Abs. 2 Satz 3 **ABMStPO/Phil** innerhalb eines Jahres nachzuholen. 
 
@@ -68,6 +76,10 @@ Fähigkeit der Bewerberin bzw. des Bewerbers zu kunstpädagogischem Handeln, Fä
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 6. empirisch-sozialwissenschaftlicher Forschungsmethoden gemäß den nachfolgend dargestellten spezifischen Qualifikationszielen und Prüfungsgegenständen. 
 
 (3)[1] In einer individuellen Schwerpunktsetzung können die Studierenden die kunstpädagogische Tätigkeit auf kunstpraktische Vermittlungsarbeit auslegen, sich im kunsthistorischen oder museumspädagogischen Bereich verorten, mediendidaktische und medial gestützte Kunstvermittlung fokussieren oder sich im weiten Bereich der kulturellästhetischen Bildung vernetzen und verorten.[2] Auch ist es möglich, im Wahlpflichtbereich den forschenden Weg einzuschlagen und sich stärker mit Forschungsmethoden auseinanderzusetzten, was stärker für wissenschaftliche Berufswege in der Kunstpädagogik qualifiziert.[3] Durch die Wahlfreiheit wird den Studierenden ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
@@ -79,6 +91,10 @@ Fähigkeit der Bewerberin bzw. des Bewerbers zu kunstpädagogischem Handeln, Fä
 (5)[1] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Umfang der Prüfung und der Lehrveranstaltungen sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 3 und ergeben sich aus der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. der jeweils einschlägigen Modulbeschreibung.[2] Das Modulhandbuch wird vor Semesterbeginn ortsüblich 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 bekanntgemacht. 
 
@@ -94,45 +110,53 @@ bekanntgemacht.
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 1: Studienverlaufsplan M.A. Kunstpädagogik in Vollzeit** 
 
-|**Modulbezeichnung**<br>~~**C**C~~|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung**<br>**pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung**<br>**pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung**<br>**pro Semester**<br>**in ECTS-Punkten1)**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung**<br>**pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung**<br>**pro Semester**<br>**in ECTS-Punkten1)**|**Workload-Verteilung**<br>**pro Semester**<br>**in ECTS-Punkten1)**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||V|Ü|P|S||1.|2.|3.|4.|||
-|**Pflichtbereich**<br>~~**C**C~~|||||||||||||
-|**Pädagogik**<br>~~**C**C~~<br>~~e~~|||||||||||||
+|**Pflichtbereich**|||||||||||||
+|**Pädagogik**|||||||||||||
 |**Kulturpädagogische**<br>**Grundlagen und Dynamiken**|gemäß FPO M.A. Pädagogik|||||**10**|10||||gemäß FPO M.A. Pädagogik|1|
-|**Kunstgeschichte**<br>~~Ce~~|||||||||||||
+|**Kunstgeschichte**|||||||||||||
 |**Kunst(geschichte) + Mu-**<br>**seum I**|Seminar||||2|**5**|5||||Klausur (60 Min.) oder<br>Essay (5-7 S.) oder<br>Schriftliche Hausarbeit (ca. 10-20 S.) mit Präsen-<br>tation (ca. 20-30 Min.) (100%+0%)2|1|
 |**Kunst(geschichte) + Mu-**<br>**seum II**|Seminar||||2|**5**|||5||Klausur (60 Min.) oder<br>Essay (ca. 5-7 S.) oder<br>Schriftliche Hausarbeit (ca. 10-20 S.) mit Präsen-<br>tation (ca. 20-30 Min.) (100%+0%)2|1|
-|**Kunstpädagogik**<br>~~CT~~<br>~~a~~<br>~~|~~<br>~~|~~<br>~~**|**~~|||||||||||||
-|**Kunst & Bildung**|Kunstdidaktik 1<br>~~a~~<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|2|**10**<br>~~|~~<br>~~|~~<br>~~|~~|2<br>~~|~~<br>~~|~~<br>~~|~~<br>~~|~~|~~**|**~~<br>~~**|**~~|||Schriftliche Hausarbeit<br>(ca. 15-20 Seiten)|1|
-||Kunstdidaktik 2<br>~~a~~<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|2<br>~~ee~~||2<br>~~|~~<br>~~|~~<br>~~|~~<br>~~|~~<br>~~| ||~~|~~**|**~~<br>~~**|**~~<br>~~||~~|~~||~~|~~||~~|||
-||Kunstpädagogische Forschung<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|2<br>~~ee~~||~~|~~<br>~~|~~<br>~~| ||~~|6<br>~~**|**~~<br>~~||~~|~~||~~|~~||~~|||
-|**Künstlerische Praxis 1**|Seminar aus Kunstpraxis<br>(A+V)<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|2-3<br>~~ee~~|**10**<br>~~|~~|~~| ||~~|5<br>~~||~~|~~||~~|~~||~~|Künstlerisches Leistungsportfolio in Form einer<br>Dokumentationsmappe in Bild und Text (Umfang:<br>ca. 5-10 Seiten mit dazugehörigen Anlagen (ca.<br>20 Arbeiten))|1|
-||Seminar aus Kunstpraxis<br>(A+V)<br>~~ee ~~|~~ee~~|~~ee~~|~~ee~~|2-3<br>~~ee~~||~~| ||~~|5<br>~~||~~|~~||~~|~~||~~|||
+|**Kunstpädagogik**|||||||||||||
+|**Kunst & Bildung**|Kunstdidaktik 1||||2|**10**|2||||Schriftliche Hausarbeit<br>(ca. 15-20 Seiten)|1|
+||Kunstdidaktik 2||||2||2||||||
+||Kunstpädagogische Forschung||||2|||6|||||
+|**Künstlerische Praxis 1**|Seminar aus Kunstpraxis<br>(A+V)||||2-3|**10**||5|||Künstlerisches Leistungsportfolio in Form einer<br>Dokumentationsmappe in Bild und Text (Umfang:<br>ca. 5-10 Seiten mit dazugehörigen Anlagen (ca.<br>20 Arbeiten))|1|
+||Seminar aus Kunstpraxis<br>(A+V)||||2-3|||5|||||
 |**Künstlerische Praxis 2**|Seminar aus Kunstpraxis<br>(A+V)||||2-3|**10**|||5||Künstlerisches Leistungsportfolio in Form einer<br>Dokumentationsmappe in Bild und Text (Umfang:<br>ca. 5-10 Seiten mit dazugehörigen Anlagen (ca.<br>20 Arbeiten))|1|
-||Seminar aus Kunstpraxis<br>(A+V)<br>~~es~~||||2-3||~~a~~|~~a~~|5||||
-|**Vermittlungspraxis**<br>~~a~~|KuratorischePraxis<br>~~a~~<br>~~es~~|~~a~~|~~a~~|~~a~~|2<br>~~a~~|**10**<br>~~a~~|~~a~~<br>~~a~~<br>~~a~~|~~a~~<br>~~a~~<br>~~ee~~|2<br>~~a~~|~~a~~|Praktikumsbericht<br>(schriftlich,ca. 10 Seiten)<br>~~a~~|0<br>~~a~~|
-||Praktikum(3Wochen)<br>~~a~~<br>~~es~~|~~a~~|~~a~~|~~a~~|8<br>~~a~~||~~a~~<br>~~a~~<br>~~a~~|~~a~~<br>~~a~~<br>~~ee~~|8<br>~~a~~|~~a~~|||
-|**Forschungsmethoden**<br>~~a~~<br>~~es~~<br>~~a~~<br>~~ee~~<br>~~CT~~|||||||||||||
-|**Einführung in die soziologi-**<br>**sche**<br>**Methodenlehre (SozM-E)**|gemäß FPO B.A. Soziologie (Ein-Fach)<br>~~es~~|||||**5**|~~a~~|5<br>~~a~~|||gemäß FPO B.A. Soziologie (Ein-Fach)|1|
+||Seminar aus Kunstpraxis<br>(A+V)||||2-3||||5||||
+|**Vermittlungspraxis**|KuratorischePraxis||||2|**10**|||2||Praktikumsbericht<br>(schriftlich,ca. 10 Seiten)|0|
+||Praktikum(3Wochen)||||8||||8||||
+|**Forschungsmethoden**|||||||||||||
+|**Einführung in die soziologi-**<br>**sche**<br>**Methodenlehre (SozM-E)**|gemäß FPO B.A. Soziologie (Ein-Fach)|||||**5**||5|||gemäß FPO B.A. Soziologie (Ein-Fach)|1|
 |**Vertiefung Soziologische**<br>**Methodenlehre (SozM-V)**|gemäß FPO B.A. Soziologie (Ein-Fach)|||||**5**|||5||gemäß FPO B.A. Soziologie (Ein-Fach)|1|
-|**Wahlpflichtbereich (imUmfang von 20 ECTS)**<br>~~Ce~~|||||||||||||
-|**Wahlpflichtmodul I**<br>~~Cf~~|Vgl.§4 Abs.5<br>~~Cf~~|||||**5**<br>~~Cf~~|5<br>~~Cf~~|~~Cf~~<br>~~QQ~~|~~Cf~~<br>~~QQ GG~~|~~Cf~~<br>~~GG~~|Vgl.§4 Abs. 4<br>~~Cf~~<br>~~GG~~|0<br>~~Cf~~|
-|**Wahlpflichtmodul II**<br>~~GQ~~|Vgl.§4 Abs.5<br>~~GQ~~|||||**5**<br>~~GQ~~|5<br>~~GQ~~<br>~~DO~~|~~GQ~~<br>~~QQ~~<br>~~GO~~|~~GQ~~<br>~~QQ GG~~<br>~~GO GG~~|~~GQ~~<br>~~GG~~<br>~~GG~~|Vgl.§4 Abs. 4<br>~~GQ~~<br>~~GG~~<br>~~GG~~|0<br>~~GQ~~|
-|**Wahlpflichtmodul III**<br>~~GD~~|Vgl.§4 Abs.5<br>~~GD~~|||||**5**<br>~~GD~~|~~GD~~<br>~~DO~~|5<br>~~QQ~~<br>~~GD~~<br>~~GO~~|~~QQ GG~~<br>~~GD~~<br>~~GO GG~~|~~GG~~<br>~~GD~~<br>~~GG~~|Vgl.§4 Abs. 4<br>~~GG~~<br>~~GD~~<br>~~GG~~|0<br>~~GD~~|
+|**Wahlpflichtbereich (imUmfang von 20 ECTS)**|||||||||||||
+|**Wahlpflichtmodul I**|Vgl.§4 Abs.5|||||**5**|5||||Vgl.§4 Abs. 4|0|
+|**Wahlpflichtmodul II**|Vgl.§4 Abs.5|||||**5**|5||||Vgl.§4 Abs. 4|0|
+|**Wahlpflichtmodul III**|Vgl.§4 Abs.5|||||**5**||5|||Vgl.§4 Abs. 4|0|
 
 
 
 5 
 
-|**Wahlpflichtmodul IV**|Vgl.§4 Abs.5|Vgl.§4 Abs.5|Vgl.§4 Abs.5|Vgl.§4 Abs.5|Vgl.§4 Abs.5|Vgl.§4 Abs.5|**5**||5|||Vgl.§4 Abs.4|0|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Wahlpflichtmodul IV**|Vgl.§4 Abs.5|Vgl.§4 Abs.5|||||**5**||5|||Vgl.§4 Abs.4|0|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**Abschlussmodul**||||||||||||||
 |**Masterarbeit**|Begleitseminar|||||2|**30**||||5|Masterarbeit<br>(Umfang: ca. 80 Seiten)|2|
 ||Masterarbeit||||||||||25|||
-|**Summe SWS und ECTS:**||**0**|**0**||**0**|**0**<br>**27**|**120**|**29**|**31**|**30**|**30**|||
+||**Summe SWS und ECTS:**|**0**|**0**||**0**|<br>**27**|**120**|**29**|**31**|**30**|**30**|||
 
 
 
@@ -142,45 +166,62 @@ bekanntgemacht.
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2: Studienverlaufsplan M.A. Kunstpädagogik in Teilzeit** 
 
-|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**sa**<br>**mt**<br>**ECT**<br>**S**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1)**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1)**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1)**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1)**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1)**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1)**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1)**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1)**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|**Modulbezeichnung**||||||||**Ge-**<br>**sa**||||||||||**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**V**|**Ü**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
-|**Pflichtbereich**<br>~~Ce~~|||||||||||||||||||
-|**Pädagogik**<br>~~|~~|||||||||||||||||||
-|**Kulturpädagogische Grund-**<br>**lagen und Dynamiken**<br>~~Ce~~|gemäß FPO M.A. Pädagogik<br>~~Ce~~|||||||**10**<br>~~Ce~~|10<br>~~Ce~~||||||||gemäß FPO M.A. Pädagogik|1|
-|**Kunstgeschichte**<br>~~Ce~~|||||||||||||||||||
-|**Kunst(geschichte) + Mu-**<br>**seum I-II**<br>~~Ce~~|Seminar<br>~~Ce~~|||||||**5**<br>~~Ce~~|~~Ce~~||5||||||Klausur (60 Min.)_oder_Essay (ca. 5-7 S.)_oder_<br>Schriftliche Hausarbeit (ca. 10-20 S.) mit Präsen-<br>tation (ca. 20-30 Min.) (100%+0%)2|1|
+||||||||||**Workload-Verteilung pro Semester in**<br>**ECTSPkt1)**||||||||**Art und Umfang der Prüfung**||
+||**Lehrveranstal-**<br>**t**|**SWS**||||||**mt**|||**ECTSPkt1)**||||||||
+|||||||||**ECT**||||**-**|**un**|**en **|||||
+||**ung**||||||||||||||||||
+|||||||||**S**|||||||||||
+||||**V**||**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
+|**Pflichtbereich**|||||||||||||||||||
+|**Pädagogik**|||||||||||||||||||
+|**Kulturpädagogische Grund-**<br>**lagen und Dynamiken**|gemäß FPO M.A. Pädagogik|||||||**10**|10||||||||gemäß FPO M.A. Pädagogik|1|
+|**Kunstgeschichte**|||||||||||||||||||
+|**Kunst(geschichte) + Mu-**<br>**seum I-II**|Seminar|||||||**5**|||5||||||Klausur (60 Min.)_oder_Essay (ca. 5-7 S.)_oder_<br>Schriftliche Hausarbeit (ca. 10-20 S.) mit Präsen-<br>tation (ca. 20-30 Min.) (100%+0%)2|1|
 |**Kunst(geschichte) + Mu-**<br>**seum III**|Seminar|||||||**5**|||||5||||Klausur (60 Min.)_oder_Essay (ca. 5-7 S.)_oder_<br>Schriftliche Hausarbeit (ca. 10-20 S.) mit Präsen-<br>tation (ca. 20-30 Min.) (100%+0%)2|1|
-|**Kunstpädagogik**<br>~~Cn~~<br>~~edeeeeGeGO~~|||||||||||||||||||
-|**Kunst & Bildung**|Kunstdidaktik I<br>~~ee~~|~~ee~~<br>~~ed~~||~~ee~~<br>~~ee~~||~~ee~~<br>~~ee~~|2<br>~~ee~~<br>~~ee~~|**10**<br>~~ee~~<br>~~Eee~~|(2)<br>~~ee~~|(2)<br>~~Ge~~|~~GO~~|~~GO~~|~~GO~~|~~GO~~|~~GO~~|~~GO~~|schriftliche Hausarbeit<br>(ca. 30 Seiten)|1|
-||Kunstdidaktik II<br>~~Eee~~|~~ed ~~<br>~~Eee~~||~~ee~~<br>~~Eee~~||~~ee ~~<br>~~Eee~~|2<br> ~~ee~~<br>~~Eee~~||(2)<br>~~ee ~~<br>~~Eee~~|(2)<br> ~~Ge~~<br>~~Eee~~|~~GO~~<br>~~Eee~~|~~GO~~<br>~~Eee~~|~~GO~~<br>~~Eee~~|~~GO~~<br>~~Eee~~|~~GO~~<br>~~Eee~~|~~GO~~<br>~~Eee~~|||
-||Kunstpädagogi-<br>sche Forschung<br>~~Eee~~|~~Eee~~||~~Eee~~||~~Eee~~|2<br>~~Eee~~||~~Eee~~|6<br>~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|||
-|**Künstlerische Praxis 1**|Seminar aus<br>Kunstpraxis (A+V)||||||2-3|**10**|5||||||||Künstlerisches Leistungsportfolio in Form einer<br>Dokumentationsmappe in Bild und Text (Umfang:<br>ca. 5-10 Seiten mit dazugehörigen Anlagen (ca.<br>20 Arbeiten))|1|
-||Seminar aus<br>Kunstpraxis (A+V)||||||2-3|||5|||||||||
+|**Kunstpädagogik**|||||||||||||||||||
+|**Kunst & Bildung**|Kunstdidaktik I||||||2|**10**|(2)|(2)|||||||schriftliche Hausarbeit<br>(ca. 30 Seiten)|1|
+||Kunstdidaktik II||||||2||(2)|(2)|||||||||
+||Kunstpädagogi-<br>sche Forschung||||||2|||6|||||||||
+|**Künstlerische Praxis 1**|Seminar aus<br>Kunstpraxis (A+V)||||||2-3|**1**|5||||||||Künstlerisches Leistungsportfolio in Form einer<br>Dokumentationsmappe in Bild und Text (Umfang:<br>ca. 5-10 Seiten mit dazugehörigen Anlagen (ca.<br>20 Arbeiten))|1|
+||Seminar aus<br>Kunstpraxis (A+V)||||||2-3|**0**|||||||||||
+|||||||||||5|||||||||
 |**Künstlerische Praxis 2**|Seminar aus<br>Kunstpraxis (A+V)||||||2-3|**10**|||5||||||Künstlerisches Leistungsportfolio in Form einer<br>Dokumentationsmappe in Bild und Text (Umfang:<br>ca. 5-10 Seiten mit dazugehörigen Anlagen (ca.<br>20 Arbeiten))|1|
 ||Seminar aus<br>Kunstpraxis (A+V)||||||2-3|||||5|||||||
-|**Vermittlungspraxis**|Kuratorische Pra-<br>xis||||||2|**10**||||||2|||Praktikumsbericht<br>(schriftlich, ca. 10 Seiten)|0|
-||Praktikum (6 Wo-<br>chen)||||||8|||||||8|||||
+|**Vermittlungspraxis**|Kuratorische Pra-<br>xis||||||2|**1**||||||2|||Praktikumsbericht<br>(schriftlich, ca. 10 Seiten)|0|
+||Praktikum (6 Wo-<br>chen)|||||||**0**|||||||||||
+||||||||8|||||||8|||||
 
 
 
 7 
 
-|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|**Forschungsmethoden**<br>~~Ce~~|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Forschungsmethoden**||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Einführung in die soziologi-**<br>**sche Methodenlehre**<br>**(SozM-E)**<br>~~Ce~~|gemäß FPO B.A. Soziologie (Ein-<br>Fach)<br>~~Ce~~|||||**5**||||5|||||gemäß FPO B.A. Soziologie (Ein-Fach)||1|
+|**Einführung in die soziologi-**<br>**sche Methodenlehre**<br>**(SozM-E)**|gemäß FPO B.A. Soziologie (Ein-<br>Fach)|||||**5**||||5|||||gemäß FPO B.A. Soziologie (Ein-Fach)||1|
 |**Vertiefung Soziologische**<br>**Methodenlehre (SozM-V)**|gemäß FPO B.A. Soziologie (Ein-<br>Fach)|||||**5**|||||5||||gemäß FPO B.A. Soziologie (Ein-Fach)||1|
-|**Wahlpflichtbereich**<br>~~Ce~~||||||||||||||||||
-|**Wahlpflichtmodul I**<br>~~Pe~~|Vgl. § 4 Abs. 5<br>~~Pe~~|||||**5**<br>~~Pe~~<br>~~GD~~|~~Pe~~<br>~~(OG~~|~~Pe~~<br>~~(OG~~|(5)<br>~~Pe~~<br>~~DG~~|(5)<br>~~Pe~~<br>~~DG~~|~~Pe~~<br>~~DG~~|~~Pe~~<br>~~(OG~~|~~Pe~~<br>~~(OG~~|~~Pe~~<br>~~I~~|Vgl. § 4 Abs. 4<br>~~Pe~~<br>~~(~~||0<br>~~Pe~~|
-|**Wahlpflichtmodul II**<br>~~GD~~|Vgl. § 4 Abs. 5<br>~~GD~~|||||**5**<br>~~GD~~<br>~~GD~~|~~GD~~<br>~~(OG~~|~~GD~~<br>~~(OG~~|(5)<br>~~GD~~<br>~~DG~~|(5)<br>~~GD~~<br>~~DG~~|~~GD~~<br>~~DG~~|~~GD~~<br>~~(OG~~|~~GD~~<br>~~(OG~~|~~GD~~<br>~~I~~|Vgl. § 4 Abs. 4<br>~~GD~~<br>~~(~~||0<br>~~GD~~|
-|**Wahlpflichtmodul III**<br>~~Pe~~|Vgl.§4 Abs.5<br>~~Pe~~|||||**5**<br>~~GD~~<br>~~Pe~~|~~(OG~~<br>~~Pe~~<br>~~DG~~|~~(OG~~<br>~~Pe~~<br>~~DG~~|~~DG~~<br>~~Pe~~<br>~~ONGOOD~~|~~DG~~<br>~~Pe~~<br>~~ONGOOD~~|(5)<br>~~DG ~~<br>~~Pe~~<br>~~ONGOOD~~|(5)<br> ~~(OG~~<br>~~Pe~~<br>~~(GO~~|~~(OG~~<br>~~Pe~~<br>~~(GO~~|~~I~~<br>~~Pe~~<br>~~OOO~~|Vgl.§4 Abs. 4<br>~~(~~<br>~~Pe~~<br>~~OOO~~||0<br>~~Pe~~|
-|**Wahlmodul IV**<br>~~GG~~|Vgl. § 4 Abs. 5<br>~~GG~~|||||**5**<br>~~GG~~|~~GG~~<br>~~DG~~|~~GG~~<br>~~DG~~|~~GG~~<br>~~ONGOOD~~|~~GG~~<br>~~ONGOOD~~|(5)<br>~~GG~~<br>~~ONGOOD~~|(5)<br>~~GG~~<br>~~(GO~~|~~GG~~<br>~~(GO~~|~~GG~~<br>~~OOO~~|Vgl. § 4 Abs. 4<br>~~GG~~<br>~~OOO~~||0<br>~~GG~~|
-|**Abschlussmodul**<br>~~DG ONGOOD(GO OOO~~<br>~~Ce~~||||||||||||||||||
-|**Masterarbeit**<br>~~ee~~|Begleitseminar<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~|2<br>~~ee~~|**30**<br>~~ee~~|~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~<br>~~es~~|2,5<br>~~ee~~<br>~~PET~~<br>~~es~~|2,5<br>~~ee~~<br>~~PET~~|Masterarbeit<br>(Umfang: ca. 80 Seiten)<br>~~ee~~||2<br>~~ee~~|
-||Masterarbeit<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~|~~ee~~||~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~|~~ee~~<br>~~PET~~<br>~~es~~|12,5<br>~~ee~~<br>~~PET~~<br>~~es~~|12,5<br>~~ee~~<br>~~PET~~||||
-|**Summe SWS und ECTS**<br>~~ee ~~||**2**<br> ~~ee ~~|**1**<br> ~~ee~~|**13**|**10**|**120**|**15**<br>**-**<br>**19**<br>~~PET~~|**11**<br>**-**<br>**15**<br>~~PET~~|**10**<br>**-**<br>**20**<br>~~PET~~|**10**<br>**-**<br>**20**<br>~~PET~~|**10**<br>**-**<br>**20**<br>~~PET~~|**10**<br>**-**<br>**20**<br>~~PET~~<br>~~es~~|**15**<br>~~PET~~<br>~~es~~|**15**<br>~~PET~~||||
+|||||||||||||||||||
+|||||||||||||||||||
+|**Wahlpflichtbereich**||||||||||||||||||
+|**Wahlpflichtmodul I**|Vgl. § 4 Abs. 5|||||**5**|||(5)|(5)|||||Vgl. § 4 Abs. 4||0|
+|**Wahlpflichtmodul II**|Vgl. § 4 Abs. 5|||||**5**|||(5)|(5)|||||Vgl. § 4 Abs. 4||0|
+|**Wahlpflichtmodul III**|Vgl.§4 Abs.5|||||**5**|||||(5)|(5)|||Vgl.§4 Abs. 4||0|
+|**Wahlmodul IV**|Vgl. § 4 Abs. 5|||||**5**|||||(5)|(5)|||Vgl. § 4 Abs. 4||0|
+|**Abschlussmodul**||||||||||||||||||
+|**Masterarbeit**|Begleitseminar||||2|**30**|||||||2,5|2,5|Masterarbeit<br>(Umfang: ca. 80 Seiten)||2|
+||Masterarbeit||||||||||||12,5|12,5||||
+|**Summe SWS und ECTS**||**2**|**1**|**13**|**10**|**120**|**15**<br>**-**<br>**19**|**11**<br>**-**<br>**15**|**10**<br>**-**<br>**20**|**10**<br>**-**<br>**20**|**10**<br>**-**<br>**20**|**10**<br>**-**<br>**20**|**15**|**15**||||
 
 
 
@@ -189,6 +230,10 @@ bekanntgemacht.
 2)      Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der Lehrveranstaltung und werden am Beginn der Vorlesungszeit bekannt gegeben 
 
 8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 19. Februar 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 20. März 2025 Erlangen, den 20. März 2025 FAU Gez. 
 

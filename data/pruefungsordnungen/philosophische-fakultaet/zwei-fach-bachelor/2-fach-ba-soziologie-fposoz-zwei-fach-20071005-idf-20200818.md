@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach BA Soziologie FPOSoz Zwei-Fach 20071005 i.d.F. 20200818.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Soziologie/konsolidierte_Fassungen/2-Fach_BA_Soziologie_FPOSoz_Zwei-Fach_20071005_idF_20200818.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:04:42+00:00
+scraped_at: 2026-05-01T09:13:47+00:00
 page_count_chars: 19968
 ---
 

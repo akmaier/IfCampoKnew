@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "10. August 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/18AeSa_BPOWiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:10:52+00:00
+scraped_at: 2026-05-01T09:20:14+00:00
 page_count_chars: 24726
 ---
 

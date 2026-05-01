@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA North American Studies FPONoAmStud 20100608 i.d.F. 20170808 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/North-American-Studies_-_Culture_and_Liturature/englisch/MA_North_American_Studies_FPONoAmStud_20100608_idF_20170808_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:28:14+00:00
+scraped_at: 2026-05-01T08:34:55+00:00
 page_count_chars: 9479
 ---
 

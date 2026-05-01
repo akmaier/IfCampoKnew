@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Finance Auditing Controlling Taxation 20180829 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Finance,_Auditing,_Controlling,_Taxation/Aenderungssatzungen/MA_Finance_Auditing_Controlling_Taxation_20180829_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:30:06+00:00
+scraped_at: 2026-05-01T09:35:56+00:00
 page_count_chars: 6464
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Bildungsforschung 20121109 i.d.F. 20181207.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Erziehungswissenschaftlich-_Empirische_Bildungsforschung/konsolidierte_Fassungen/MA_Bildungsforschung_20121109_idF_20181207.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:24:31+00:00
+scraped_at: 2026-05-01T08:29:07+00:00
 page_count_chars: 11622
 ---
 

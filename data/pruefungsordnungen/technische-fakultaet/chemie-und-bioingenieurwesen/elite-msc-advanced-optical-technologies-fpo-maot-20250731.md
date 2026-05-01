@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Elite-MSc Advanced Optical Technologies FPO MAOT 20250731.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Advanced_Optical_Technologies/konsolidierte_Fassungen/Elite-MSc_Advanced_Optical_Technologies_FPO_MAOT_20250731.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:47:08+00:00
-page_count_chars: 23533
+scraped_at: 2026-05-01T09:56:12+00:00
+page_count_chars: 23728
 ---
 
 # Elite-MSc Advanced Optical Technologies FPO MAOT 20250731.pdf
@@ -14,7 +14,11 @@ page_count_chars: 23533
 
 **N E U F A S S U N G** 
 
-# **Fachstudien- und Prüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO MAOT– Vom 31. Juli 2025** 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+## **Fachstudien- und Prüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO MAOT– Vom 31. Juli 2025** 
 
 Aufgrund von Art.  9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, 84 Abs. 2 Satz 1, 88 Abs. 9 Satz 1, 90 Abs. 1 Satz 2 und 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz (BayHIG) vom 5. August 2022 in der jeweils geltenden Fassung erlässt die FAU folgende Fachstudien- und Prüfungsordnung: 
 
@@ -33,6 +37,10 @@ Im Rahmen des Elitenetzwerks Bayern bietet die FAU einen Elite-Masterstudiengang
 Die Fachstudien- und Prüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ ergänzt die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge und die sonstigen Studien i. S. d. Art. 77 Abs. 5 **BayHIG** an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) – **ABMPO/TF** – in der jeweils geltenden Fassung. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 40 Studienbeginn, inhaltlich im Wesentlichen gleiche Studiengänge** (1) Das Studium kann nur zum Wintersemester begonnen werden. 
 
@@ -58,6 +66,10 @@ Die Fachstudien- und Prüfungsordnung für den Elite-Masterstudiengang „Advanc
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 2. falls die Hochschulzugangsberechtigung bzw. der einschlägige erste berufsqualifizierende Abschluss nicht in englischer Sprache erworben wurde: Nachweis über englische Sprachkenntnisse auf dem Level von mindestens B2 des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen durch ausreichende Schuloder Hochschulkenntnisse oder geeignete Sprachzertifikate (insbesondere Nachweis des schulischen Englischunterrichts bis zur Niveaustufe B2 gemäß GER mit diesbezüglicher Zertifizierung im Zeugnis bzw. einer entsprechenden Bescheinigung der Schule oder Nachweis des erfolgreichen Test of English as a Foreign Language (TOEFL) mit mindestens 85 Punkten im iBT oder International English Language Testing System (IELTS) 5.0 oder höher. 
 
 (3)[1] Abweichend von Abs. 5 Sätzen 2 und 3 und Abs. 6 Sätzen 1 und 2 **Anlage ABMPO/TF** werden Bewerberinnen und Bewerber mit einem Abschluss im Sinne des Abs. 1 Nr. 1 bzw. im Falle des § 33 Abs. 3 **ABMPO/TF** einem Durchschnitt der bisherigen Leistungen von 2,0 (= gut) oder besser oder einem Mittelwert der Modulnoten in den Bereichen „Optik und optische Technologien“ von 2,5 (= gut) oder besser werden zu einem Interview mit einer Dauer von ca. 20-30 min eingeladen.[2] Im Übrigen bleiben Abs. 5 und 6 **Anlage ABMPO/TF** unberührt, eine Zugangsprüfung i. S. d. Abs. 7 **Anlage ABMPO/TF** findet nicht statt.[3] Im Interview müssen die Bewerberinnen bzw. Bewerber ihre vorliegende Qualifikation und ihre bisherigen Arbeiten in für den Studiengang relevanten Bereichen darstellen und auf Nachfragen vertreten sowie Fachfragen zu für den Elite-Studiengang relevanten Themengebieten angemessen beantworten. 4Die Qualifikation der Bewerberinnen bzw. Bewerber für den Elite-Masterstudiengang wird beurteilt anhand: 
@@ -75,6 +87,10 @@ Die Fachstudien- und Prüfungsordnung für den Elite-Masterstudiengang „Advanc
 (2)[1] Die Module M1 und M2 sind von allen Studierenden bis zum Ende des zweiten Semesters abzulegen, andernfalls gilt der Elite-Masterstudiengang als endgültig nicht bestanden, es sei denn, die bzw. der Studierende hat die Gründe für die Nicht-Ablegung nicht zu vertreten.[2] § 9 Abs. 3 **ABMPO/TF** gilt entsprechend. 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 45 Projektarbeit** 
 
@@ -104,6 +120,10 @@ Voraussetzung für die Zulassung zur Masterarbeit ist, dass Module im Umfang von
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Teil 2: Schlussbestimmungen** 
 
 ## **§ 50 Inkrafttreten und Übergangsvorschriften** 
@@ -113,6 +133,10 @@ Voraussetzung für die Zulassung zur Masterarbeit ist, dass Module im Umfang von
 (2)[1] Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPO MAOT** – vom 2. Oktober 2007, zuletzt geändert durch Satzung vom 26. September 2024, tritt mit Wirkung zum 30. September 2028 außer Kraft.[2] Prüfungen nach den bisher geltenden Fassungen der in Satz 1 genannten Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten. 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Teil 3: Anlagen** 
 
@@ -146,17 +170,31 @@ Voraussetzung für die Zulassung zur Masterarbeit ist, dass Module im Umfang von
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 40 Min.).[3] Näheres wird in den Modulbeschreibungen vor Semesterbeginn ortsüblich bekanntgemacht. 
 
 (8)[1] Die Module setzen sich in der Regel aus zwei Lehrveranstaltungen (Vorlesung und Übung) im Umfang von je 2 SWS zusammen.[2] Näheresregeln die Modulbeschreibungen. 
 
 7 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2: Studienverlaufsplan** 
 
-|**Modul/**<br>**Modulgruppe**|**Modul-**<br>**Nr.**|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Art und Umfang der Prüfung**|
+|||||||||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**||
+||||**SWS**||||||||||
+|**Modul/**|**Modul-**||||||**Gesamt**|<br>**Semester in ECTS-Punkten **|||||
+|||**Modulbezeichnung**||||||||||**Art und Umfang der Prüfung**|
+|**Modulgruppe**|**Nr.**||||||**ECTS**|**1.**|**2.**|**3.**|**4.**||
+||||**V**|**Ü**|**P**|**S**|||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**||
+||||||||||||||
 |**Grundlagenfächer**|1|Fundamentals of Optics|8|4|||**15**|15||||PL (Klausur 120 Min., 50%)und<br>PL (mündliche Prüfung 30 min, 50%)|
 ||2|Basics of Laser|2|1|1||**5**|5||||PL (Klausur 90 Min.), 80 %und<br>PL: PrL(Laborbericht, 5-7S.),20 %|
 ||3|Numerical Methods and Topics<br>inOptical Technologies|4||||**5**|**5**||||SL (SeL)|
@@ -169,17 +207,27 @@ Voraussetzung für die Zulassung zur Masterarbeit ist, dass Module im Umfang von
 |**Free Modules2)**|10|Free module 1|2|2|||**5**|||5||gemäß**Anlage 1**Abs. 7|
 ||11|Free module 2|2|2|||**5**||5|||gemäß**Anlage 1**Abs. 7|
 ||12|Free module 3|2|2|||**5**|||5||gemäß**Anlage 1**Abs. 7|
-|**Lab courses**<br>~~nn~~|13<br>~~nn~~|Lab course Major Topic 1<br>~~nn~~||~~GE~~|2<br>~~GE~~|~~GE~~|**2,5 **<br>~~GE~~|2,5<br>~~GE~~||~~Ge~~|~~Ge~~|SL(Laborberichtsheft,ca. 10-15 S.)|
-||14<br>~~nn~~<br>~~Po~~|Lab course Major Topic 2<br>~~nn~~<br>~~Po~~|~~Po~~|~~GE~~<br>~~Po~~|2<br>~~GE~~<br>~~Po~~|~~GE~~<br>~~Po~~|**2,5 **<br>~~GE~~<br>~~Po~~|~~GE~~<br>~~Po~~|2,5<br>~~Po~~|~~Ge~~<br>~~Po~~|~~Ge~~<br>~~Po~~|SL(Laborberichtsheft,ca. 10-15 S.)<br>~~Po~~|
+|**Lab courses**|13|Lab course Major Topic 1|||2||**2,5 **|2,5||||SL(Laborberichtsheft,ca. 10-15 S.)|
+||14|Lab course Major Topic 2|||2||**2,5 **||2,5|||SL(Laborberichtsheft,ca. 10-15 S.)|
 |**Project report**|15|Project report|||||**10**|||10||PL(Hausarbeit,ca. 15-25 S.)|
-|**Internship**<br>~~i~~|16<br>|Internship<br>|mind. 5 Wochen<br>||||**5**||5|||SL(Praktikumsbericht,ca. 3-5 Seiten)|
-|**Master’s Thesis**<br>~~ee~~|17<br>~~ee~~|Master’s Thesis<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|**30**||~~pp~~|~~pp~~|30<br>~~pp~~|Masterarbeit mit<br>Referat (ca. 30 Min.)<br>(90 % und 10 %)|
-|**Summe SWS und ECTS-Punkte**<br>~~ee~~|||**32**<br>~~ee~~|**23**<br>~~ee~~|**5**<br>~~ee~~|~~ee~~|**120**|**27,5**|**32,5**<br>~~pp~~|**30**<br>~~pp~~|**30**<br>~~pp~~||
-||||**60**<br>~~ee~~<br>~~PO~~||||||||||
+|**Internship**|16|Internship|mind. 5 Wochen||||**5**||5|||SL(Praktikumsbericht,ca. 3-5 Seiten)|
+|**Master’s Thesis**|17|Master’s Thesis|||||**30**||||30|Masterarbeit mit<br>Referat (ca. 30 Min.)<br>(90 % und 10 %)|
+||||**32**|**23**|**5**||||||||
+|**S SWS  ECTSPk**|||||||**120**|**27,5**|**32,5**|**30**|**30**||
+|**umme  und -unte**|||**60**||||||||||
+||||||||||||||
 
 
+
+**Erläuterungen** 
+
+SL = Studienleistung unbenotet, vgl. § 7 Abs. 2 Satz 11 **ABMPO/TF** . PL = Prüfungsleistung benotet, vgl. § 7 Abs. 2 Satz 10 **ABMPOT/TF** . 
 
 8 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 PrL = Praktikumsleistung, vgl. § 7 Abs. 3 Satz 4 u. 6 **ABMPO/TF** . SeL = Seminarleistung, vgl. § 7 Abs. 3 Satz 5 u. 6 **ABMPO/TF** . 
 
@@ -189,42 +237,53 @@ PrL = Praktikumsleistung, vgl. § 7 Abs. 3 Satz 4 u. 6 **ABMPO/TF** . SeL = Semi
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 3: Katalog der Fächer in den Schwerpunkten/Major Topics** 
 
-|**Schwerpunkt/Major Topic**|**Modul**|**ECTS-**<br>**Punkte**|**Semester**|**Prüfungsform**|
+|||**ECTS-**|||
 |---|---|---|---|---|
+|**Schwerpunkt/Major Topic**|**Modul**||**Semester**|**Prüfungsform**|
+|||**Punkte**|||
+||||||
 |**Photonics in Production and**<br>**Process Technology**|Modern Optics 1: Advanced Optics|**5**|SS|gemäß<br>**Anlage 1**<br>Abs. 7|
-|~~GC~~|Optical Technologies in Life Sciences<br>~~GC~~|**5**<br>~~GC~~|WS<br>~~GC~~||
-|~~a~~|Product Analysis|**5**|WS||
-|~~a~~|Laser Technology|**5**|WS||
-|~~a~~|Laser-Tissue-Interaction<br>|**5**<br>|SS<br>||
-||Optical Lithography: Technology,Physical Effects and Modeling<br>|**5**<br>|SS<br>||
-|**Biomedical and Image Data Pro-**<br>**cessing**<br>~~Ge~~|Computational Optics<br>~~Ge~~|**5**<br>~~Ge~~|SS<br>~~Ge~~||
-|~~Ge~~<br>~~Ce~~|Computer Vision<br>~~Ge~~<br>~~Ce~~|**5**<br>~~Ge~~<br>~~Ce~~|SS<br>~~Ge~~<br>~~Ce~~||
-|~~Ge~~|Pattern Recognition<br>~~Ge~~|**5**<br>~~Ge~~|WS<br>~~Ge~~||
-|~~a~~|Laser-Tissue-Interaction|**5**|SS||
-|~~a~~<br>~~GO~~|Photonics in Medical Technology<br>~~GO~~|**5**<br>~~GO~~|WS<br>~~GO~~||
-|~~GO~~<br>~~Ce~~|Fundamentals in Anatomyand Physiologyfor Engineers<br>~~GO~~<br>~~Ce~~|**5**<br>~~GO~~<br>~~Ce~~|SS<br>~~GO~~<br>~~Ce~~||
-|~~rs~~|Optical Technologies in Life Sciences|**5**|WS||
-|**Photonic Fibers, Materials and**<br>**Devices**<br>~~rs~~|Advanced Laser|**5**|SS||
-|~~rs~~<br>~~Ge~~|Optical Lithography: Technology,Physical Effects and Modeling<br>~~Ge~~|**5**<br>~~Ge~~|SS<br>~~Ge~~||
-|~~a~~|Modern Optics 2: Non-linear optics|**5**|SS||
-|~~Ge~~|Linear and non-linear fibre optics<br>~~Ge~~|**5**<br>~~Ge~~|SS<br>~~Ge~~||
-|~~Ge~~|Advanced Optical Communication Systems<br>~~Ge~~|**5**<br>~~Ge~~|WS<br>~~Ge~~||
-|**Physics of Light**<br>~~Ge~~|Advanced Laser<br>~~Ge~~|**5**<br>~~Ge~~|SS<br>~~Ge~~||
-|~~a~~|Modern Optics 2: Non-linear optics|**5**|SS||
-|~~a~~|Modern Optics 3:Quantum Optics|**5**|unregelmäßig||
-|**Related Fields1**<br>~~a~~|DeepLearning|**5**|WS||
-|~~Ge~~|Functional Analysis for Engineers<br>~~Ge~~|**5**<br>~~Ge~~|SS<br>~~Ge~~||
-|~~Ge~~|Advanced ProgrammingTechniques<br>~~Ge~~|**5**<br>~~Ge~~|SS<br>~~Ge~~||
-|~~Ge~~|Advanced Theoretical Physics<br>~~Ge~~|**10**<br>~~Ge~~|SS / WW<br>~~Ge~~||
-|~~a~~|Advanced Experimental Physics<br>~~a~~|**10**<br>~~a~~|SS / WS<br>~~a~~||
+||Optical Technologies in Life Sciences|**5**|WS||
+||Product Analysis|**5**|WS||
+||Laser Technology|**5**|WS||
+||Laser-Tissue-Interaction|**5**|SS||
+||Optical Lithography: Technology,Physical Effects and Modeling|**5**|SS||
+|**Biomedical and Image Data Pro-**<br>**cessing**|Computational Optics|**5**|SS||
+||Computer Vision|**5**|SS||
+||Pattern Recognition|**5**|WS||
+||Laser-Tissue-Interaction|**5**|SS||
+||Photonics in Medical Technology|**5**|WS||
+||Fundamentals in Anatomyand Physiologyfor Engineers|**5**|SS||
+||Optical Technologies in Life Sciences|**5**|WS||
+|**Photonic Fibers, Materials and**<br>**Devices**|Advanced Laser|**5**|SS||
+||Optical Lithography: Technology,Physical Effects and Modeling|**5**|SS||
+||Modern Optics 2: Non-linear optics|**5**|SS||
+||Linear and non-linear fibre optics|**5**|SS||
+||Advanced Optical Communication Systems|**5**|WS||
+|**Physics of Light**|Advanced Laser|**5**|SS||
+||Modern Optics 2: Non-linear optics|**5**|SS||
+||Modern Optics 3:Quantum Optics|**5**|unregelmäßig||
+|**Related Fields1**|DeepLearning|**5**|WS||
+||Functional Analysis for Engineers|**5**|SS||
+||Advanced ProgrammingTechniques|**5**|SS||
+||Advanced Theoretical Physics|**10**|SS / WW||
+||Advanced Experimental Physics|**10**|SS / WS||
 
 
 
 1 Das Major Topic „Related Fields” kann nicht als Schwerpunkt im Sinne des § 44 Abs. 1 Satz 2 gewählt werden. 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 16. Juli 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 31. Juli 2025 Erlangen, den 31. Juli 2025 
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Wiederholungspruefungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:39:11+00:00
+scraped_at: 2026-05-01T08:46:54+00:00
 page_count_chars: 104217
 ---
 

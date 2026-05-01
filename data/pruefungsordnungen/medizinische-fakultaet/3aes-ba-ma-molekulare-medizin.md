@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "8. Oktober 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/3AES-BA-MA Molekulare Medizin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:37:02+00:00
+scraped_at: 2026-05-01T07:27:05+00:00
 page_count_chars: 17342
 ---
 

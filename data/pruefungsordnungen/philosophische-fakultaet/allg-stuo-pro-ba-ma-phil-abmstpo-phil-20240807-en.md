@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "Allg StuO PrO BA-MA Phil ABMStPO Phil 20240807 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/APO_Bachelor_Master/englisch/Allg_StuO_PrO_BA-MA_Phil_ABMStPO_Phil_20240807_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-04-25T15:08:22+00:00
-page_count_chars: 106170
+scraped_at: 2026-05-01T08:02:33+00:00
+page_count_chars: 109974
 ---
 
 # Allg StuO PrO BA-MA Phil ABMStPO Phil 20240807 en.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/APO_Bachelor_Master/englisch/Allg_StuO_PrO_BA-MA_Phil_ABMStPO_Phil_20240807_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **General Degree Program and Examination Regulations for Bachelor’s and Master’s Degree Programs at the Faculty of Humanities, Social Sciences, and Theology at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMStPO/Phil –** 
 
@@ -20,82 +24,15 @@ Based on Section 9 (1) in conjunction with the currently valid versions of Secti
 
 ## **Contents:** 
 
-**==> picture [455 x 480] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-|||
-|---|---|
-|I. General Provisions|............................................................................................................ 2|
-|Section 1 Scope, Purpose of the Bachelor’s and Master’s Examination ................................. 2|
-|Section 2 Degrees .................................................................................................................. 2|
-|Section 3 Bachelor’s Degree Programs, Examinations, Standard Duration of Study, Start of|
-|Degree Program, Examination and Teaching Language...................................................... 3|
-|Section 4 Part-Time Study, Transfer, Exceeding Maximum Number of ECTS Credits ............ 3|
-|Section 5 Structure of the Bachelor’s Degree Program ........................................................... 4|
-|Section 6 Master’s Degree Programs, Examinations and Standard Duration, Start of Degree|
-|Program, Examination and Teaching Language .................................................................. 5|
-|Section 7 Part-Time Study, Transfer, Exceeding Maximum Number of ECTS Credits ............ 5|
-|Section 8 ECTS Credits .......................................................................................................... 6|
-|Section 9 Modules and Credits ............................................................................................... 6|
-|Section 10 Examination Formats, Electronic Examinations .................................................... 7|
-|Section 11 Examination Deadlines, Failure to Observe Deadlines ......................................... 8|
-|Section 12 Examinations Committee, Examination Officers.................................................... 8|
-|Section 13 Announcement of Examination Type, Examination Dates and Examiners,|
-|Registration, Withdrawal .................................................................................................... 10|
-|Section 14 Examiners, Exclusion Due to Personal Involvement, Obligation to Confidentiality|
-|10|
-|Section 15 Admissions Committee ....................................................................................... 11|
-|Section 16 Accreditation of Skills .......................................................................................... 11|
-|Section 17 Consequences of Delayed Withdrawal, Fraud, Breach of Regulations, Exclusion|
-|from Further Participation .................................................................................................. 12|
-|Section 18 Compulsory Attendance ...................................................................................... 13|
-|Section 19 Revocation of Degrees ....................................................................................... 14|
-|Section 20 Faults in the Examination Process ...................................................................... 14|
-|Section 21 Written Examination, Multiple Choice Examinations ........................................... 14|
-|Section 22 Oral Examination ................................................................................................ 15|
-|Section 23 Evaluation of Examinations, Grades, Final Grade ............................................... 16|
-|Section 24 Invalidity of Examinations ................................................................................... 17|
-|Section 25 Inspection of Examination Records ..................................................................... 18|
-|Section 26 Final Academic Record, Transcript of Records, Diploma Supplement, Grade|
-|Distribution Table, Degree Certificate ................................................................................ 18|
-|Section 27 Notification of Failed Examinations ..................................................................... 18|
-|Section 28 Adjustments to Examination Arrangements ........................................................ 19|
-|Section 29 Student Advice Center, Study Advisors .............................................................. 19|
-|Part II: Bachelor’s Examination|......................................................................................... 19|
-|Section 30 Admission Requirements for Examinations ......................................................... 19|
-
-**----- End of picture text -----**<br>
-
+**I. General Provisions** ............................................................................................................ 2 Section 1 Scope, Purpose of the Bachelor’s and Master’s Examination ................................. 2 Section 2 Degrees .................................................................................................................. 2 Section 3 Bachelor’s Degree Programs, Examinations, Standard Duration of Study, Start of Degree Program, Examination and Teaching Language...................................................... 3 Section 4 Part-Time Study, Transfer, Exceeding Maximum Number of ECTS Credits ............ 3 Section 5 Structure of the Bachelor’s Degree Program ........................................................... 4 Section 6 Master’s Degree Programs, Examinations and Standard Duration, Start of Degree Program, Examination and Teaching Language .................................................................. 5 Section 7 Part-Time Study, Transfer, Exceeding Maximum Number of ECTS Credits ............ 5 Section 8 ECTS Credits .......................................................................................................... 6 Section 9 Modules and Credits ............................................................................................... 6 Section 10 Examination Formats, Electronic Examinations .................................................... 7 Section 11 Examination Deadlines, Failure to Observe Deadlines ......................................... 8 Section 12 Examinations Committee, Examination Officers.................................................... 8 Section 13 Announcement of Examination Type, Examination Dates and Examiners, Registration, Withdrawal .................................................................................................... 10 Section 14 Examiners, Exclusion Due to Personal Involvement, Obligation to Confidentiality 10 Section 15 Admissions Committee ....................................................................................... 11 Section 16 Accreditation of Skills .......................................................................................... 11 Section 17 Consequences of Delayed Withdrawal, Fraud, Breach of Regulations, Exclusion from Further Participation .................................................................................................. 12 Section 18 Compulsory Attendance ...................................................................................... 13 Section 19 Revocation of Degrees ....................................................................................... 14 Section 20 Faults in the Examination Process ...................................................................... 14 Section 21 Written Examination, Multiple Choice Examinations ........................................... 14 Section 22 Oral Examination ................................................................................................ 15 Section 23 Evaluation of Examinations, Grades, Final Grade ............................................... 16 Section 24 Invalidity of Examinations ................................................................................... 17 Section 25 Inspection of Examination Records ..................................................................... 18 Section 26 Final Academic Record, Transcript of Records, Diploma Supplement, Grade Distribution Table, Degree Certificate ................................................................................ 18 Section 27 Notification of Failed Examinations ..................................................................... 18 Section 28 Adjustments to Examination Arrangements ........................................................ 19 Section 29 Student Advice Center, Study Advisors .............................................................. 19 **Part II: Bachelor’s Examination** ......................................................................................... 19 Section 30 Admission Requirements for Examinations ......................................................... 19 
 
 1 
 
-**==> picture [457 x 239] intentionally omitted <==**
+**==> picture [165 x 49] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-|||
-|---|---|
-|Section 31 Grundlagen- und Orientierungsprüfung (GOP) ................................................... 21|
-|Section 32 Bachelor’s Examination ...................................................................................... 21|
-|Section 33 Bachelor’s Thesis ............................................................................................... 22|
-|Section 34 Key Qualifications ............................................................................................... 24|
-|Section 35 Resitting Examinations, Changing Modules, Additional Modules ........................ 25|
-|Part III: Master’s Examination|............................................................................................ 26|
-|Section 36 Qualification for a Master’s Degree Program ...................................................... 26|
-|Section 37 Admission to Examinations ................................................................................. 27|
-|Section 38 Master’s Examination ......................................................................................... 27|
-|Section 39 Master’s Thesis................................................................................................... 27|
-|Section 40 Resitting Examinations, Changing Modules, Additional Modules ........................ 28|
-|Part IV: Final Provisions|.................................................................................................... 28|
-|Section 41 Legal Validity, Transitory Provisions ................................................................... 28|
-|Appendix 1: .......................................................................................................................... 29|
-|Qualification assessment process for Master's degree programs at the Faculty of Humanities,|
-|Social Sciences, and Theology at FAU .............................................................................. 29|
-|Appendix 2: .......................................................................................................................... 31|
-|Structure of the Part-Time Two-Subject Bachelor’s Degree Program ................................... 31|
-|Appendix 3: .......................................................................................................................... 32|
+**==> picture [114 x 46] intentionally omitted <==**
 
-**----- End of picture text -----**<br>
-
+Section 31 Grundlagen- und Orientierungsprüfung (GOP) ................................................... 21 Section 32 Bachelor’s Examination ...................................................................................... 21 Section 33 Bachelor’s Thesis ............................................................................................... 22 Section 34 Key Qualifications ............................................................................................... 24 Section 35 Resitting Examinations, Changing Modules, Additional Modules ........................ 25 **Part III: Master’s Examination** ............................................................................................ 26 Section 36 Qualification for a Master’s Degree Program ...................................................... 26 Section 37 Admission to Examinations ................................................................................. 27 Section 38 Master’s Examination ......................................................................................... 27 Section 39 Master’s Thesis................................................................................................... 27 Section 40 Resitting Examinations, Changing Modules, Additional Modules ........................ 28 **Part IV: Final Provisions** .................................................................................................... 28 Section 41 Legal Validity, Transitory Provisions ................................................................... 28 Appendix 1: .......................................................................................................................... 29 Qualification assessment process for Master's degree programs at the Faculty of Humanities, Social Sciences, and Theology at FAU .............................................................................. 29 Appendix 2: .......................................................................................................................... 31 Structure of the Part-Time Two-Subject Bachelor’s Degree Program ................................... 31 Appendix 3: .......................................................................................................................... 32 
 
 ## **I. General Provisions** 
 
@@ -123,6 +60,10 @@ Based on Section 9 (1) in conjunction with the currently valid versions of Secti
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 1. The degree of Bachelor of Arts (abbreviation: BA) for passing the Bachelor’s examination 
 
 2. The degree of Master of Arts (abbreviation: MA) for passing the Master’s examination 
@@ -149,6 +90,10 @@ Based on Section 9 (1) in conjunction with the currently valid versions of Secti
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 from the winter semester; students are advised to consult their study advisor before making a change.[2] A change to a part-time degree program after the fifth full-time semester shall only be permitted in justified exceptional cases; the decision rests with the Examinations Committee.[3] The semesters completed as part of the full-time or parttime degree program up until that point shall be accredited and the student is enrolled in the relevant subject semester, with the number of subject semesters being either doubled (change to part-time) or halved (change to full-time) as a result.[4] The examinations and/or modules the student has taken and any failed attempts are recognized pursuant to Section 16.[5] Any existing rights and obligations governed by the applicable examination regulations created during the part-time or full-time degree program shall not be affected by the change.[6] In the event of changing from full-time to part-time study, this shall apply in particular to the obligation to repeat failed examinations and pass the preliminary examination (GOP) within the set deadline.[7] In the event of changing from part-time to full-time study, the achievements needed for the GOP of the fulltime degree program which have not yet been met shall be submitted within one year of the change. 
 
 (4)[1] Part-time students in one-subject and two-subject Bachelor’s degree programs may obtain a maximum of 35 ECTS credits per academic year.[2] Notwithstanding sentence 1, modules worth a maximum of 45 ECTS credits may be obtained in the year in which the Bachelor’s thesis is submitted.[3] The maximum number of ECTS credits stated in sentences 1 and 2 may be exceeded by 5 ECTS credits once.[4] The Examinations Committee may grant exemptions from the provisions in sentence 3 on written request; the request shall be submitted before the start of the respective examination. 
@@ -172,6 +117,10 @@ from the winter semester; students are advised to consult their study advisor be
 (3)[1] In the two-subject Bachelor’s degree programs, 90, 80, or 70 ECTS credits must be achieved in the first subject and 70 ECTS credits in the second subject from the modules of the respective subject according to the provisions in the respective **degree program and examination regulations** .[2] In addition, students are required to complete the Bachelor's thesis module worth 10 ECTS credits in their first subject.[3] The Examinations Committee may allow the student to complete the Bachelor's thesis module in the second subject upon request.[4] If the Bachelor's thesis is written in the second 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 subject, the weighting of the Bachelor's thesis module in calculating the overall grade shall be based on the requirements of the **degree program and examination regulations** of the first subject.[5] The deadlines stipulated in Section 11 shall be observed when filing a request pursuant to sentence 3. As a rule, the request should be filed one semester before the end of the examination period for the first subject.[6] In the key qualifications area, students must provide proof of having completed modules worth 10, 20, or 30 ECTS credits, depending on the selected first subject.[7] The **degree program and examination regulations for Cultural Geography** may contain provisions deviating from sentences 2 and 4.[8] The examination periods set forth in Section 11 are determined separately for each partial degree program and have to be observed accordingly. 
 
@@ -206,6 +155,10 @@ subject, the weighting of the Bachelor's thesis module in calculating the overal
 8. History 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 9. Art History 
 
@@ -249,6 +202,10 @@ subject, the weighting of the Bachelor's thesis module in calculating the overal
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 3In exceptional cases, the module examination can also consist of several parts or partial examinations or a combination of examination and/or course achievements if the subject warrants it.[4] Ungraded course achievements consisting of several parts and/or course achievements which can be repeated an unlimited number of times shall not count as examinations consisting of several parts as defined in sentence 3.[5] ECTS credits are only awarded for the successful completion of modules determined on the basis of a module examination testing the student’s own achievements.[6] As a rule, examinations during the course of the degree program are held during the lecture period or after the last lectures and seminars of a module have been held.[7] With the exception of written assignments and oral examinations, the examinations are usually held during the eight-week examination period.[8] The examination period is divided into two weeks before and two weeks after the end of the lecture period of one semester, during which the examinations are sat for the first time, and a period of two weeks before and two weeks after the beginning of the following semester’s lecture period, during which the resit examinations for the first attempt of the examinations of the relevant semester take place.[9] Other examination periods may apply for examinations offered by another faculty. 
 
 (3)[1] Examinations (examination achievements and course achievements) measure the students’ performance.[2] They may be written, oral, electronic, or use electronic communication devices.[3] In the event of invigilated remote electronic examinations, the Bavarian regulation for testing remote examinations ( **BayFEV** ) and the FAU regulations on remote examinations on the basis of the Bavarian regulations for testing remote examinations (BayFEV) – **EFernPO** – shall be complied with.[4] Examination achievements and partial examinations are graded.[5] Course achievements are only graded pass or fail. 
@@ -281,6 +238,10 @@ subject, the weighting of the Bachelor's thesis module in calculating the overal
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3) Further information about examinations and in which modules examinations may be administered in electronic form on campus can be found in Sections 21, 22, 33 and 39 as well as in the **degree program and examination regulations** and the module descriptions. 
 
 ## **Section 11 Examination Deadlines, Failure to Observe Deadlines** 
@@ -307,6 +268,10 @@ subject, the weighting of the Bachelor's thesis module in calculating the overal
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 appointed by the Faculty Council for a period of three years.[4] All university lecturers in principal and secondary employment at the faculty within the meaning of Section 19 **BayHIG** are eligible for appointment; re-election is permitted.[5] The Examinations Committee shall select one of the members as the chairperson for three years and shall appoint a deputy to act in the event of the chairperson’s absence.[6] In addition, the Faculty Council shall appoint an examination officer and a deputy for each department; sentences 3 and 4 shall apply accordingly.[7] The chairperson of the Examinations Committee may transfer tasks within his or her responsibility to the relevant examination officer or a member of the Examinations Committee. 
 
 (2)[1] The Examinations Committee shall be tasked with carrying out the examination procedures, especially the planning and organization of the examinations.[2] Its duties include ensuring that the provisions of these degree program and examination regulations are observed.[3] With the exception of the examinations themselves and their assessment, which the examiners are responsible for, all decisions shall be taken by the Examinations Committee unless they have been delegated to the Examinations Office or the examination officers.[4] The Examinations Committee shall check delegated decisions if requested to do so and shall verify that examinations have been legitimately assessed.[5] It shall regularly report to the Faculty Council on the development of examinations and study periods and shall, where applicable, submit suggestions for amendments to the examination regulations; it shall be consulted before such amendments are made.[6] The members of the Examinations Committee shall have the right to be present during examinations.[7] The affairs of the committee shall be governed by the Constitution of Friedrich-Alexander-Universität Erlangen-Nürnberg ( **GrO** ). 
@@ -318,6 +283,10 @@ appointed by the Faculty Council for a period of three years.[4] All university 
 (5)[1] Official notifications in legal matters pertaining to examinations shall be made in writing; reasons shall be given and information on legal remedies available to the person shall be included.[2] Students shall be given the opportunity to make a statement before negative decisions are finalized.[3] The Examinations Committee shall have the right to rule that grade notifications may be sent out in electronic form to the individual students.[4] Any notification of objection in questions of examination legislation shall be issued on behalf of the President following consultation with the Examinations Committee and after hearing the examiners. 
 
 9 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Section 13 Announcement of Examination Type, Examination Dates and Examiners, Registration, Withdrawal** 
 
@@ -332,6 +301,10 @@ appointed by the Faculty Council for a period of three years.[4] All university 
 (1)[1] The Examinations Committee shall appoint examiners and reviewers.[2] All persons eligible to administer examinations according to the current version of **BayHIG** and the Bavarian Higher Education Examiners Act ( **BayHSchPrüferV** ) shall be eligible for appointment as examiners or reviewers.[3] A change of examiners shortly before the start of an examination shall be permissible on urgent grounds.[4] If a university member who is eligible to administer examinations leaves the University, they shall as a rule remain eligible to administer examinations subject to the provisions in Section 85 **BayHIG** and 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 the **Bavarian Higher Education Examiners Act** for up to one year.[5] Eligible examiners who only have a temporary contract shall only remain eligible to act as an examiner for the contractually agreed duration of employment.[6] The relevant Examinations Committee shall have the right to extend this period upon request following consultation with the place of employment. 
 
@@ -352,6 +325,10 @@ the **Bavarian Higher Education Examiners Act** for up to one year.[5] Eligible 
 (1)[1 ] Study periods and course and examination achievements achieved in degree programs or by successfully taking part in a distance learning unit as part of a degree program at FAU or at other public or state-approved universities in the Federal Republic of Germany, or in degree programs at public or state approved universities in countries other than Germany shall be recognized according to these examination regulations unless there are significant differences in the skills acquired and required.[2] The same shall apply to course and examination achievements obtained at a public or state approved university in Bavaria within the context of a module program or additional 
 
 11 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 studies, at the Virtual University of Bavaria (vhb), or within the context of an early entrance program or university studies started while still at school.[3] Recognition enables students to continue their studies, to take examinations, to start a further degree program or to be admitted to a doctoral degree. 
 
@@ -377,6 +354,10 @@ Nmax = best grade attainable Nmin = lowest grade for passing Nd = grade attained
 
 12 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 4 shall apply accordingly.[3] If the Examinations Committee accepts the reasons, a new date shall be set. 
 
 (2)[1] In case of plagiarism or an attempt to commit fraud or to influence the result of an examination through the use of unauthorized aids, the examination in question shall be graded “nicht ausreichend” (unsatisfactory, 5.0).[2] Unauthorized aids for completing examination or course achievements pursuant to sentence 1 include in particular the use of artificial intelligence systems that are capable of substituting the student's own performance that is being evaluated, unless this is expressly permitted by the examiner.[3] The possession of unauthorized materials during or after the handing out of examination papers shall constitute an attempt to commit fraud within the meaning of sentence 1.[3] The Examinations Committee keeps a record of candidates who have failed examinations due to fraud. 
@@ -394,6 +375,10 @@ Nmax = best grade attainable Nmin = lowest grade for passing Nd = grade attained
 (3)[1] Paragraph 2 notwithstanding, in the context of field trips, laboratory courses and block seminars, attendance is only considered to have been regular if all teaching units have been attended.[2] Appropriate substitute achievements fulfilling the requirement of regular attendance shall be offered in the case of credibly shown periods of absence 
 
 13 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 due to reasons beyond the student’s control of up to and including 15% of instruction time.[3] If more than 15% of instruction time is missed, the student must take the teaching unit again.[4] Any positions after the decimal point in the percentage of instruction time missed shall be rounded for the benefit of the student. 
 
@@ -419,6 +404,10 @@ The revocation of Bachelor’s and Master’s degrees shall be governed by Secti
 
 14 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3)[1] Written examinations may take the form of multiple-choice examinations (with one or more possible correct answers), either in full or in part.[2] Detailed information on the modules with multiple choice examinations is given in the module handbook.[3] The candidate must indicate which of the answers to the questions they consider to be correct. 4Examination questions must allow for reliable examination results. 5When setting the examination questions, the answers that shall be recognized as applicable must be defined.[6] Multiple answers shall not be permitted and shall not be evaluated in cases where questions do not allow multiple answers.[7] Before the evaluation of the examination results, at least two of the authors of the examination shall assess whether the examination questions meet the requirement set out in sentence 4 and allow for reliable examination results.[8] If the results of this assessment show that individual examination questions contain errors, these questions must not be considered when determining the examination result; a reduced number of examination questions must be assumed.[9] A reduction in the number of examination questions must not have any negative consequences for examinees.[10] No minus points may be awarded beyond the respective question. 
 
 (4)[1] The authors of the examination pursuant to (3)(7) shall determine when the examinations have been passed pursuant to (3)(1) and shall set a relative pass limit (sentence 2 (2)).[2] Unless stipulated otherwise in the relevant degree program and examination regulations, examinations pursuant to paragraph (3)(1) shall be deemed to have been passed if 
@@ -439,19 +428,23 @@ The revocation of Bachelor’s and Master’s degrees shall be governed by Secti
 
 15 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (2)[1] A record shall be kept of the oral examination; this shall include the following: place, date and duration of the examination; subjects covered and results of the examination; the names of the examiners, the observer and the student; and any special occurrences.[2] The record shall be signed by the examiner or examiners and the observer.[3] It is not usually necessary to record the questions asked in the examination or the answers given.[4] The record shall be stored for at least two years. 
 
 **Section 23 Evaluation of Examinations, Grades, Final Grade** 
 
 (1)[1] The evaluation of individual examinations shall be expressed by the examiners with the following grades: 
 
-|with the following grades:<br>**Grade (in words)**|with the following grades:<br>**Grade level**|**Remarks**|
+|**Grade (in words)**|**Grade level**|**Remarks**|
 |---|---|---|
 |sehr<br>gut<br>(very<br>good)|= 1.0 or 1.3|an outstanding achievement;|
-|good)<br>gut (good)|= 1.7 or 2.0 or 2.3|an achievement that exceeds the requirements<br>considerably|
-|befriedigend (sat-<br>isfactory)|= 2.7 or 3.0 or 3.3|considerably<br>an achievement that fulfills average requirements;|
-|isfactory)<br>ausreichend (suffi-<br>cient)|= 3.7 or 4.0|an achievement that fulfills the requirements de-<br>spite flaws;|
-|nicht ausreichend<br>(unsatisfactory)|= 4.3 or 4.7 or 5.0|spite flaws;<br>an achievement that no longer fulfills require-<br>ments due to considerable flaws|
+|<br>gut (good)|= 1.7 or 2.0 or 2.3|an achievement that exceeds the requirements<br>considerably|
+|befriedigend (sat-<br>isfactory)|= 2.7 or 3.0 or 3.3|<br>an achievement that fulfills average requirements;|
+|<br>ausreichend (suffi-<br>cient)|= 3.7 or 4.0|an achievement that fulfills the requirements de-<br>spite flaws;|
+|nicht ausreichend<br>(unsatisfactory)|= 4.3 or 4.7 or 5.0|<br>an achievement that no longer fulfills require-<br>ments due to considerable flaws|
 
 
 
@@ -468,6 +461,10 @@ The revocation of Bachelor’s and Master’s degrees shall be governed by Secti
 - satisfactory (befriedigend) if at least 25 percent but less than 50 percent of the remaining questions were answered correctly or remaining points were achieved, 
 
 16 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - sufficient (ausreichend) if 0 or less than 25 percent of the remaining questions were answered correctly or remaining points were achieved. 
 
@@ -490,6 +487,10 @@ The revocation of Bachelor’s and Master’s degrees shall be governed by Secti
 (1) If fraudulent methods were used during the examination and if this only becomes known after the certificate has been awarded, the Examinations Committee may correct the grade retrospectively and declare the examination as having been failed in part or in full. 
 
 17 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2) If the requirements for admission to the examination were not fulfilled while no fraudulent acts were committed willfully, these circumstances shall be considered remedied by the passing of the examination. 
 
@@ -517,6 +518,10 @@ The revocation of Bachelor’s and Master’s degrees shall be governed by Secti
 
 18 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Section 28 Adjustments to Examination Arrangements** 
 
 (1)[1] The examination procedure shall be adjusted to take into account the nature and extent of a student’s disability.[2] Students with a doctor’s certificate showing credibly that they are either partially or fully incapable of sitting the examination in the intended manner due to long-term or permanent disabilities which do not affect the performance which is being tested shall be entitled to be granted permission by the chairperson of the Examinations Committee to have this disadvantage offset by working time being extended accordingly or the examination process being structured differently. However, care must be taken to ensure that the examination is still suitable to provide evidence of skills which are being assessed by the examination.[3] Sentences 1 and 2 shall apply accordingly to students in special circumstances, the effects of which on the student’s ability to sit the examination are similar to a longer illness or disability as stated above in sentence 2. 
@@ -542,6 +547,10 @@ The revocation of Bachelor’s and Master’s degrees shall be governed by Secti
 1. The student fails to submit proof of meeting the requirements stipulated in the **degree program and examination regulations** at the final attempt or before the deadline. 
 
 19 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 2. The student fails to submit proof of sufficient proficiency in English by the end of the fourth semester (full-time study) or eighth semester (part-time study); students who acquired their university entrance qualification or an undergraduate degree in English shall not be required to provide proof of proficiency in English. 
 
@@ -575,6 +584,10 @@ The revocation of Bachelor’s and Master’s degrees shall be governed by Secti
 
 20 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 degree program.[2] Evidence of proficiency in the respective foreign languages shall be submitted to the Examinations Office. 
 
 ## **Section 31 Grundlagen- und Orientierungsprüfung (GOP)** 
@@ -601,6 +614,10 @@ degree program.[2] Evidence of proficiency in the respective foreign languages s
 
 21 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 convey key qualifications and the Bachelor’s thesis module have been passed achieving a total of 180 ECTS credits. 
 
 (2)[1] In two-subject Bachelor's degree programs, students are required to complete modules worth 90, 80 or 70 ECTS credits, depending on their chosen subject combination.[2] **Appendix 3** specifies which subjects may be chosen as the first subject. 
@@ -621,6 +638,10 @@ convey key qualifications and the Bachelor’s thesis module have been passed ac
 
 22 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (full-time study) or four weeks (part-time study).[4] If a student submits a doctor’s certificate proving that they are incapable of working on their thesis, the period for thesis work shall be suspended temporarily.[5] If the period for working on the thesis is suspended for a considerable period of time as defined in sentence 4 (3 months minimum), the Examinations Committee shall check whether the period for working on the thesis ought to be terminated due to ill health, in which case the Bachelor's thesis shall be registered with a new topic once the student is well again.[6] Sentences 4 and 5 shall apply accordingly in cases in which the student is prevented from working on the Bachelor's thesis due to serious reasons beyond their control and outside their sphere of risk. 
 
 (5)[1] On request, the subject of the Bachelor's thesis can be modified during the thesis work period with the approval of the person who allocated the subject of the thesis. 2The subject may only be returned once and within the first two weeks of the period for working on the thesis.[3] A new subject must be allocated without delay, at the latest within four weeks.[4] The period for working on the thesis restarts when a new subject is allocated. 
@@ -632,6 +653,10 @@ convey key qualifications and the Bachelor’s thesis module have been passed ac
 (8)[1 ] The Bachelor’s thesis is graded by the supervisor; the Examinations Committee may grant exceptions.[2] The Examinations Committee may stipulate that one further reviewer is required for certain degree programs.[3] Failed theses shall always be assessed by a second reviewer.[4] The chairperson of the Examinations Committee shall arrange for the thesis to be graded at the latest within six weeks.[5] The thesis shall be accepted if it receives at least the grade “ausreichend” (sufficient).[6] It shall be rejected if it receives the grade “nicht ausreichend” (unsatisfactory).[7] If the department has appointed a second reviewer, the thesis shall be accepted if it receives at least the grade “ausreichend” (sufficient) from both reviewers.[8] It shall be rejected if it receives the grade “nicht ausreichend” (unsatisfactory) from both reviewers. 
 
 23 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (9)[1] If there are two reviewers and their evaluations are no more than four grades apart, the grade of the thesis shall be the arithmetic average of the grades from the two reviewers.[2] If the grades of the two reviewers are more than four grades apart or if one reviewer gives the thesis the grade “nicht ausreichend” (unsatisfactory), the chair of the Examinations Committee shall appoint a third reviewer.[3] In cases covered by sentence 2, the grade of the thesis shall be the arithmetic average of the three evaluations. 4The grade scale set forth in Section 23 (1)(1) shall not apply to cases in sentences 1 and 3 and only one decimal place shall be shown in the final thesis grade. 
 
@@ -659,6 +684,10 @@ may be accredited if proof of key qualifications according to sentence 1 worth a
 
 24 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4) In the first subject, **degree program and examination regulations** may restrict the choice of modules available as key qualifications, but compulsory modules must not exceed 10 ECTS credits. 
 
 **Section 35** Resitting **Examinations, Changing Modules, Additional Modules** 
@@ -674,6 +703,10 @@ may be accredited if proof of key qualifications according to sentence 1 worth a
 (5)[1] Voluntarily resitting a passed examination of the same module shall not be permitted.[2] Alternative modules may be attended and completed in addition to successfully passed modules or failed modules within the examination deadlines according to Section 11; the failed attempts in the previous alternative module shall be counted unless stipulated otherwise by the **degree program and examination regulations** .[3] Sentence 2 (2) shall not apply to key qualification modules within the meaning of Section 34. 
 
 25 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (6)[1] If a student completes additional modules, they shall decide which of the achievements shall count towards the grade.[2] Students shall inform the Examinations Office of their decision at the latest four weeks before the final certificate is issued.[3] The choice is binding.[4] If students do not make a choice, the Examinations Office shall calculate the better achievement.[5] Achievements that do not count towards the grade shall be listed in the transcript of records up to a maximum total of 30 ECTS credits. 
 
@@ -694,6 +727,10 @@ may be accredited if proof of key qualifications according to sentence 1 worth a
 (3)[1] Applicants as defined by paragraph 1 shall belong to the best 50% of their class or shall have completed the degree program in question with a final grade of at least 2.50 (= good).[2] Section 16 (3) sentences 1 to 3 shall apply accordingly for qualifications with an alternative grading system. 
 
 26 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (4)[1] Notwithstanding paragraph 1(1), students enrolled in a Bachelor’s degree program may be admitted to a Master’s degree program if they have achieved at least 140 ECTS credits.[2] Proof of the successfully completed Bachelor’s degree shall be submitted at the latest within one year of taking up the Master’s degree program; completing the Bachelor’s degree program is a prerequisite for formally starting the Master’s degree program.[3] Admission to the Master’s degree program is granted provisionally; if proof is not submitted within the deadline, the student shall be de-registered. 
 
@@ -723,6 +760,10 @@ may be accredited if proof of key qualifications according to sentence 1 worth a
 
 27 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3)[1] The period between the allocation of the subject and the submission of the thesis (standard thesis work period) is six months; subjects shall be such that the thesis can be completed within this period.[2] Notwithstanding sentence 1, the standard thesis work period in a part-time degree program is twelve months.[3] The period for working on the thesis can be extended in justified exceptional cases by a maximum of two weeks (fulltime study) or four weeks (part-time study). 
 
 (4)[1] The Master's thesis is assessed by the supervisor and another reviewer suggested by the supervisor; the Examinations Committee may allow exceptions. 
@@ -742,6 +783,10 @@ may be accredited if proof of key qualifications according to sentence 1 worth a
 (2)[1] Once these regulations come into effect, the General Degree Program and Examination Regulations for Bachelor’s and Master’s Degree Programs at the Faculty of Humanities, Social Sciences, and Theology at FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – ABMStPO/Phil  – dated September 27, 2007, last amended by the statute dated August 22, 2023 shall become invalid. 2The degree program and examination regulations supplementing the regulations mentioned in sentence 1 are subject to these examination regulations as of the date of validity. 
 
 28 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Appendix 1: Qualification assessment process for Master's degree programs at the Faculty of Humanities, Social Sciences, and Theology at FAU** 
 
@@ -763,6 +808,10 @@ may be accredited if proof of key qualifications according to sentence 1 worth a
 
 29 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 or subject-related/equivalent degree pursuant to Section 36 (1)(1)(1) clauses 1 and 2 and paragraph 2(3), or in the case of Section 36 (4), if they have achieved an average of 2.50 (“gut”/good) or better in their previous achievements; for degrees graded on the basis of a different grading system, Section 16 (3) sentences 1 to 3 shall apply accordingly.[3] Depending on the provisions of the relevant **degree program and examination regulations** , applicants whose final grade or average of the previous achievements is not 2.50 (“gut”/good) or better shall receive a rejection notification including reasons or an invitation to a selection interview; the relevant **degree program and examination regulations** may specify a minimum grade for admission to a Master’s degree program or invitation to a selection interview.[4] The relevant degree program and examination regulations may stipulate that applicants with a subject-related qualification or a qualification with differences that can be compensated shall also be required to attend a selection interview before being accepted on to the Master's degree program.[5] The date of the selection interview shall be announced at least one week in advance.[6] If an applicant should be unable to attend the selection interview due to reasons beyond their control, a second date may be set upon justified request up until two weeks before the start of the lecture period.[7] The selection interview shall be held individually for each applicant and shall take approximately 15 minutes.[8] With the applicant’s consent, the qualification assessment interview may also be carried out via video call.[9] The interview shall be conducted by two examiners, at least one of whom shall be a member of the admissions committee.[10] If necessary, the examiners may invite observers to attend the interview.[11] The examiners pursuant to sentence 9 shall submit a recommendation to the admissions committee stating whether the applicant should pass or fail the selection interview.[12] The admission committee shall decide on the basis of the recommendation pursuant to sentence 11 whether the applicant should pass or fail the selection interview.[13] If the applicant passes the selection interview, the admissions committee shall decide whether admission is to be granted with conditions according to Section 36 (2)(3).[14] If the applicant fails the selection interview, they shall be considered not suitable and shall not be accepted on to the Master's degree program.[15] Records shall be kept of the first stage and of the selection interview; Section 22 (2) shall apply accordingly.[16] Applicants will be notified of the result of the qualification assessment process in writing.[17] A rejection notification must include reasons and information on the legal remedies available. 
 
 (6) Section 28 shall apply in respect of compensation for disadvantages. 
@@ -774,6 +823,10 @@ or subject-related/equivalent degree pursuant to Section 36 (1)(1)(1) clauses 1 
 (9) Confirmation of passing the qualification assessment process shall remain valid indefinitely, provided the Master’s degree program has not changed significantly. 
 
 30 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Appendix 2: Structure of the Part-Time Two-Subject Bachelor’s Degree Program** 
 
@@ -796,11 +849,51 @@ or subject-related/equivalent degree pursuant to Section 36 (1)(1)(1) clauses 1 
 
 31 
 
-**==> picture [719 x 431] intentionally omitted <==**
+**==> picture [165 x 49] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-First subject<br>Appendix 3:<br>Archaeological Sciences<br>| | | | | Ut CT Pott<br>Book Studies<br>|| ere eee | | TT | [|]<br>Computer Linguistics<br>Digital humanities and social sciences  = =<br>English and American Studies  NM eee<br>French Studies<br>| eee eee<br>German Language and Literature  Ta<br>| [|]  | BE Eee eee ee<br>History<br>| | |<br>Greek Philology  yl ts<br>| || er| Or?| | |eae| aO e s<br>Hispanic Studies<br>|| mee ee | | tC | [|] ea<br>Indo-European and Indo-Iranian Studies<br>|| | |dlr ie | | | OO<br>Islamic Religious Studies<br>| | | | | | | | | ey ey tT<br>Italian Studies<br>a<br>|| | | | v| [hv]] |hlhmlhlhUdlhlh ht<br>Japanese Studies<br>Cultural Geography<br>Cultural History of Christianity<br>Art History<br>| eee ee |e] TC} | | a |<br>Latin Philology  Eee Oe ee eee<br>| | [|] PE EEE EE eee eee lee<br>Medieval Latin and Neo-Latin<br>Public Law<br>|| mE ee ae 575) |S ||<br>Economics<br>| | | ||lU EEE eee<br>Oriental Studies<br>|| Pe ee | ft ee<br>Education<br>|| | | | | | Ot | |<br>Philosophy<br>| | | ||lU Ee eee<br>Political Science<br>| | | | hv] hv|l hc] Ud | | a es<br>Chinese Studies<br>|| eee<br>Scandinavian Studies<br>ll lhlUl| Plea<br>| | | | || hE| UT| | | fT | ee [The] | | | re ee<br>Sociology<br>|| | i lh |tlhrE eS ae a|e<br>Theater and Media Studies<br>Teaching in this combination is organized in such a way to ensure that subjects can as a rule be studied without overlap.<br>This combination can only be taken after consulting with a study advisor. However, we cannot guarantee that there will be no overlaps. Students are responsible for ensuring that it is possible to study their chosen combination and that they meet the deadlines<br>specified in Section 10. Proof of attending a consultation with a study advisor must be supplied when enrolling.<br>= This combination is not possible.  || | | | | [| | | oe ee tT | hE hm<br>Archaeological  Sciences  Book Studies  Computer Linguistics  Digital humanities and  social sciences  English and  American Studies  French Studies  German Language  and Literature  History  Greek Philology  Hispanic Studies  Indo-European and  Indo-Iranian Studies  Italian Studies  Japanese Studies  Cultural Geography  Cultural History of  Christianity  Art History  Latin  Philology  Medieval Latin and  Neo-Latin  Economics  Oriental Studies  Education  Philosophy  Political Science  Chinese Studies  Scandinavian Studies  Sociology  Theater and Media  Studies<br>Second subject<br>**----- End of picture text -----**<br>
+**==> picture [114 x 46] intentionally omitted <==**
 
+|**Appendix 3:**|**Appendix 3:**|||||||||||**First subject**|**First subject**|**First subject**|**First subject**|**First subject**|**First subject**||||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||Archaeological<br>Sciences|Book Studies|Computer Linguistics|Digital humanities and<br>social sciences|English and<br>American Studies|French Studies|German Language<br>and Literature|History|Greek Philology|Hispanic Studies|Indo-European and<br>Indo-Iranian Studies|Italian Studies|Japanese Studies|Cultural Geography|Cultural History of<br>Christianity|Art History|Latin<br>Philology|Medieval Latin and<br>Neo-Latin|Economics|Oriental Studies|Education|Philosophy|Political Science|Chinese Studies|Scandinavian Studies|Sociology|Theater and Media<br>Studies|
+||Archaeological Sciences||||||||||||||||||||||||||||
+|**Second subject**|Book Studies||||||||||||||||||||||||||||
+||Computer Linguistics||||||||||||||||||||||||||||
+||Digital humanities and social sciences||||||||||||||||||||||||||||
+||English and American Studies||||||||||||||||||||||||||||
+||French Studies||||||||||||||||||||||||||||
+||German Language and Literature||||||||||||||||||||||||||||
+||History||||||||||||||||||||||||||||
+||Greek Philology||||||||||||||||||||||||||||
+||Hispanic Studies||||||||||||||||||||||||||||
+||Indo-European and Indo-Iranian Studies||||||||||||||||||||||||||||
+||Islamic Religious Studies||||||||||||||||||||||||||||
+||Italian Studies||||||||||||||||||||||||||||
+||Japanese Studies||||||||||||||||||||||||||||
+||Cultural Geography||||||||||||||||||||||||||||
+||Cultural History of Christianity||||||||||||||||||||||||||||
+||Art History||||||||||||||||||||||||||||
+||Latin Philology||||||||||||||||||||||||||||
+||Medieval Latin and Neo-Latin||||||||||||||||||||||||||||
+||Public Law||||||||||||||||||||||||||||
+||Economics||||||||||||||||||||||||||||
+||Oriental Studies||||||||||||||||||||||||||||
+||Education||||||||||||||||||||||||||||
+||Philosophy||||||||||||||||||||||||||||
+||Political Science||||||||||||||||||||||||||||
+||Chinese Studies||||||||||||||||||||||||||||
+||Scandinavian Studies||||||||||||||||||||||||||||
+||Sociology||||||||||||||||||||||||||||
+||Theater and Media Studies||||||||||||||||||||||||||||
+||Teaching in this combination is organized in such a way to ensure that subjects can as a rule be studied without overlap.<br>This combination can only be taken after consulting with a study advisor. However, we cannot guarantee that there will be no overlaps. Students are responsible for ensuring that it is possible to study their chosen combination and that they meet the dea<br>specified in Section 10. Proof of attending a consultation with a study advisor must be supplied when enrolling.<br>This combination is not possible.||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||
+
+
+
+Teaching in this combination is organized in such a way to ensure that subjects can as a rule be studied without overlap. This combination can only be taken after consulting with a study advisor. However, we cannot guarantee that there will be no overlaps. Students are responsible for ensuring that it is possible to study their chosen combination and that they meet the deadlines specified in Section 10. Proof of attending a consultation with a study advisor must be supplied when enrolling. 
+
+This combination is not possible. 
 
 32 
 

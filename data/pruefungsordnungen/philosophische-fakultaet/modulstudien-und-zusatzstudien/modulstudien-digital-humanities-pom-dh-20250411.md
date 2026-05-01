@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Digital Humanities POM-DH 20250411.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/konsolidierte_Fassungen/Modulstudien_Digital_Humanities_POM-DH_20250411.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-04-25T15:30:57+00:00
-page_count_chars: 15039
+scraped_at: 2026-05-01T08:39:10+00:00
+page_count_chars: 15243
 ---
 
 # Modulstudien Digital Humanities POM-DH 20250411.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/konsolidierte_Fassungen/Modulstudien_Digital_Humanities_POM-DH_20250411.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **NEUFASSUNG Studien- und Prüfungsordnung für die Modulstudien „Digital Humanities“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POM/DH – Vom 11. April 2025** 
 
@@ -27,6 +31,10 @@ Aufgrund von Art.  9 in Verbindung mit Art. 77 Abs. 5 Satz 2, Art. 80 Abs. 1 Sat
 (2)[1] Die Modulstudien „Digital Humanities“ vermitteln Fachkompetenzen im Forschungsfeld der Digitalen Geistes- und Sozialwissenschaften und ermöglichen den Erwerb einer Teilqualifikation im Bereich der digitalen Verfahren und datengetriebenen Forschungsmethoden im Rahmen einer inter- und transdisziplinären Forschungslandschaft.[2] Studierende und Nachwuchswissenschaftlerinnen und Nachwuchswissenschaftler erfahren durch die Schwerpunktsetzung eine wissenschaftliche Profilbildung sowohl im Bereich Digital Literacy als auch im Bereich Data Literacy.[3] Durch die fakultätsübergreifende, transdisziplinäre Konzeption der Modulstudien erwerben die Studierenden und Nachwuchswissenschaftlerinnen und Nachwuchswissenschaftler grundlegende Kompetenzen in der Informatik sowie in den Geistes- und Sozialwissenschaften, die sie befähigen, digitale Verfahren und Methoden zur Erforschung geistesund sozialwissenschaftlicher Daten zu beherrschen und anzuwenden.[4] Die Modulstudien ermöglichen die Nachqualifikation in essentiellen IT-Kompetenzen zur Anwen- 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 dung im Bereich der Geistes- und Sozialwissenschaften und richten sich an Absolventinnen und Absolventen aus fachnahen Studiengängen sowie an Interessierte unabhängig von Vorkenntnissen und an Early Career Researchers. 
 
@@ -54,6 +62,10 @@ Für den Zugang zu den Modulstudien „Digital Humanities“ gelten dieselben Vo
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 5 Zulassung zu den Prüfungen** 
 
 1Mit der Immatrikulation in die Modulstudien „Digital Humanities“ gelten Studierende als zu den Prüfungen der von ihnen im Rahmen des § 2 Abs. 3 wählbaren Module der Modulstudien zugelassen.[2] Die Zulassung ist zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits in einem Studiengang oder im Rahmen sonstiger Studien erfolgt ist. 
@@ -78,53 +90,69 @@ Für den Zugang zu den Modulstudien „Digital Humanities“ gelten dieselben Vo
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage: Studienverlaufsplan Modulstudien „Digital Humanities“** 
 
-|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-**<br>**Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**||||||**Workload-Verteilung**<br>**pro Semester in ECTS-**<br>**Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|
-|||**V**<br>||**Ü**|**P**|**S**||**1.**|**2.**<br>||||
+|||**SWS**||||**Gesamt**|||||
+|||||||**ECTS**|||||
+|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|||
 |**Wahlpflichtbereich DH-Grundlagen (10-12,5 ECTS-Punkte)1, 2**|||||||||||
 |**Bereich Einführung (max. 7,5 ECTS-Punkte)**|||||||||||
+||||||||||||
+||||||||||||
 |Einführung in die Digitalen Geistes- und Sozial-<br>wissenschaften|vgl. FPO DGSW|||||**7,5**|5|2,5|vgl. FPO DGSW|0|
-|**Bereich Werkzeuge (max. 5 ECTS-Punkte)**<br>~~pT~~|||||||||||
+|**Bereich Werkzeuge (max. 5 ECTS-Punkte)**|||||||||||
 |Grundlagen der Informatik<br>(GdI-Kompakt)|vgl. FPO INF|||||**(5)**|(5)|(5)|vgl. FPO INF|0|
 |Einführung in die Informatik für DH|vgl. FPO DGSW|||||**(5)**||5|vgl. FPO DGSW|0|
-|**Bereich DH Schwerpunkt (max. 5 ECTS-Punkte)**<br>~~pT~~|||||||||||
+|**Bereich DH Schwerpunkt (max. 5 ECTS-Punkte)**|||||||||||
 |DH-Modul 1:<br>Schwerpunkt Sprache undText|vgl. FPO DGSW|||||**(5)**||5|vgl. FPO DGSW|0|
 |DH-Modul 2:<br>Schwerpunkt Gesellschaft und Daten|vgl. FPO DGSW|||||**(5)**|5||vgl. FPO DGSW|0|
 |DH-Modul 3:<br>Schwerpunkt Bild und Medien|vgl. FPO DGSW|||||**(5)**||5|vgl. FPO DGSW|0|
-|**Wahlpflichtbereich informatisch-mathematische Grundlagen (10-15 ECTS-Punkte)1, 3**<br>~~po~~|||||||||||
-|Mathematik für Naturwissenschaftler4<br>~~po~~|vgl. FPO BAMA Chemie|||||**5**|5||vgl. FPO BAMA Chemie|0|
-|Mathematik für DH4<br>~~po~~<br>~~es~~|vgl. FPO DGSW<br>~~eG~~|||||**5**<br>~~eG~~|5||vgl. FPO DGSW|0|
-|Mathematische Modellbildung und<br>Statistik für Naturwissenschaftler5<br>~~es~~|vgl. FPO BAMA Bio<br>~~eG~~|||||**5**<br>~~eG~~|5||vgl. FPO BAMA Bio|0|
-|Statistik für DH5<br>~~es~~|vgl. FPO DGSW<br>~~eG~~|||||**5**<br>~~eG~~|5||vgl. FPO DGSW|0|
-|Einführung in Datenbanken für Wirtschaftsinfor-<br>matik6<br>~~rs~~<br>~~**p**o~~|vgl. FPOINF<br>~~rs~~|||||**5**<br>~~rs~~|5<br>~~rs~~|~~rs~~|vgl. FPOINF<br>~~rs~~|0<br>~~rs~~|
-|Sichere Systeme6<br>~~**p**o~~|vgl. FPOINF|||||**5**|5||vgl. FPOINF|0|
-|Einführung in das Software Engineering6<br>~~**p**o~~|vgl. FPOINF<br>~~p~~|||||**5**<br>~~p~~|5<br>~~p~~|~~p~~|vgl. FPOINF<br>~~p~~|0<br>~~p~~|
+|**Wahlpflichtbereich informatisch-mathematische Grundlagen (10-15 ECTS-Punkte)1, 3**|||||||||||
+||||||||||||
+||||||||||||
+|Mathematik für Naturwissenschaftler4|vgl. FPO BAMA Chemie|||||**5**|5||vgl. FPO BAMA Chemie|0|
+|Mathematik für DH4|vgl. FPO DGSW|||||**5**|5||vgl. FPO DGSW|0|
+|Mathematische Modellbildung und<br>Statistik für Naturwissenschaftler5|vgl. FPO BAMA Bio|||||**5**|5||vgl. FPO BAMA Bio|0|
+|Statistik für DH5|vgl. FPO DGSW|||||**5**|5||vgl. FPO DGSW|0|
+|Einführung in Datenbanken für Wirtschaftsinfor-<br>matik6|vgl. FPOINF|||||**5**|5||vgl. FPOINF|0|
+|Sichere Systeme6|vgl. FPOINF|||||**5**|5||vgl. FPOINF|0|
+|Einführung in das Software Engineering6|vgl. FPOINF|||||**5**|5||vgl. FPOINF|0|
 |Angewandte Informatik für DH6|vgl. FPO DGSW|||||**5**|5||vgl. FPO DGSW|0|
-|Grundlagen der Informatik<br>(GdI-Kompakt) 7<br>~~es~~|vgl. FPO INF<br>~~es~~|||||**5**<br>~~es~~|(5)<br>~~es~~|(5)<br>~~es~~|vgl. FPO INF<br>~~es~~|0<br>~~es~~|
+|Grundlagen der Informatik<br>(GdI-Kompakt) 7|vgl. FPO INF|||||**5**|(5)|(5)|vgl. FPO INF|0|
 
 
 
 4 
 
-|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-**<br>**Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**||||||**Workload-Verteilung**<br>**pro Semester in ECTS-**<br>**Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-**<br>**Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|
-|||**V**<br>||**Ü**|**P**|**S**||**1.**|**2.**<br>||||
-|Theoretische Informatik für<br>Wirtschaftsinformatik und Lehramtsstudierende7|vgl. FPO INF|||||**5**||5|vgl. FPO INF|0|
+|||**SWS**||||**Gesamt**|||||
+|||||||**ECTS**|||||
+|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|||
+|Theoretische Informatik für<br>Wirtschaftsinformatik und Lehramtsstudierende7|vgl.|FPO INF||||**5**||5|vgl. FPO INF|0|
 |Theoretische Informatik für DH7|vgl. FPO DGSW|||||**5**|(5)|(5)|vgl. FPO DGSW|0|
 |Grundlagen der Computerlinguistik II (statistische<br>Verfahren)|vgl. FPO CompLing|||||**5**||5|vgl. FPO CompLing|0|
-|**Wahlpflichtbereich Spezialisierung (5-10 ECTS-Punkte) 1, 3**<br>~~rN~~|||||||||||
-|**Bereich Data Literacy 8**<br>~~|~~|||||||||||
-|Wahlpflichtbereich: Digitale Geistes- und Sozial-<br>wissenschaften in Theorie und Praxis gemäß**§ 6**<br>**FPO DGSW**<br>~~|~~|vgl. FPO DGSW<br>~~|~~|||||**10**<br>~~|~~|5<br>~~|~~|5<br>~~|~~|vgl. FPO DGSW<br>~~|~~|0<br>~~|~~|
-|**Bereich DH Schwerpunkt 8**<br>~~Ce~~|||||||||||
+|**Wahlpflichtbereich Spezialisierung (5-10 ECTS-Punkte) 1, 3**|||||||||||
+|**Bereich Data Literacy 8**|||||||||||
+|Wahlpflichtbereich: Digitale Geistes- und Sozial-<br>wissenschaften in Theorie und Praxis gemäß**§ 6**<br>**FPO DGSW**|vgl. FPO DGSW|||||**10**|5|5|vgl. FPO DGSW|0|
+|**Bereich DH Schwerpunkt 8**|||||||||||
 |DH-Modul 1:<br>Schwerpunkt Sprache und Text|vgl. FPO DGSW|||||**5**||5|vgl. FPO DGSW|0|
 |DH-Modul 2:<br>Schwerpunkt Gesellschaft und Daten|vgl. FPO DGSW|||||**5**|5||vgl. FPO DGSW|0|
 |DH-Modul 3:<br>Schwerpunkt Bild und Medien|vgl. FPO DGSW|||||**5**||5|vgl. FPO DGSW|0|
-|**Freier Wahlbereich**<br>~~Ce~~|||||||||||
+|**Freier Wahlbereich**|||||||||||
 |Wahlpflichtbereich: Digitale Geistes- und Sozial-<br>wissenschaften in Theorie und Praxis gemäß**§ 6**<br>**FPO DGSW**|vgl. FPO DGSW|||||**5 oder 10**||5 oder 10|vgl. FPO DGSW|0|
-|**Summe SWS und ECTS-Punkte**|||||||**30**|**15**|**15**<br>||||
-|||||||||||||
+|**Summe SWS und ECTS-Punkte**||||||**30**|**15**|**15**|||
+||||||||||||
 
 
 
@@ -147,6 +175,10 @@ Für den Zugang zu den Modulstudien „Digital Humanities“ gelten dieselben Vo
 - 8 Die Wahl der Bereiche Data Literacy bzw. alternativ DH Schwerpunkt erfolgt nach einem Vorgespräch mit der Studienberatung und ist von den Vorkenntnissen, Zielen und Voraussetzungen der Studierenden abhängig (fachfremd, fachnah oder bereits absolvierter BA, MA). 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 9. April 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 11. April 2025 Erlangen, den 11. April 2025 
 

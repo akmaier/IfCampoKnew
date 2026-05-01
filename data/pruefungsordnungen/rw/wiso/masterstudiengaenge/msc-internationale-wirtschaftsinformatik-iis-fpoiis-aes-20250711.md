@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Internationale Wirtschaftsinformatik IIS FPOIIS ÄS 20250711.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/Aenderungssatzungen/MSc_Internationale_Wirtschaftsinformatik_IIS_FPOIIS_AeS_20250711.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:32:17+00:00
-page_count_chars: 6852
+scraped_at: 2026-05-01T09:38:47+00:00
+page_count_chars: 7598
 ---
 
 # MSc Internationale Wirtschaftsinformatik IIS FPOIIS ÄS 20250711.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/Aenderungssatzungen/MSc_Internationale_Wirtschaftsinformatik_IIS_FPOIIS_AeS_20250711.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FriedrichAlexander-Universität (FAU) – FPOIIS – Vom 11. Juli 2025** 
 
@@ -44,6 +48,10 @@ bb) Satz 5 wird gestrichen.
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 4. In § 5 Abs. 1 Satz 4 werden nach den Worten „spezifische Qualifikationsziel“ die Worte „und die Prüfungsgegenstände“ eingefügt und nach den darauffolgenden Worten „der einzelnen wählbaren Module“ das Wort „ist“ durch das Wort „sind“ ersetzt. 
 
 5. In § 6 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
@@ -72,11 +80,19 @@ c) Abs. 5 (neu) wird wie folgt geändert:
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 8. In § 9 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
 „(3)[1] Die erste Änderungssatzung tritt am 1. Oktober 2025 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2025/2026 aufnehmen werden sowie diejenigen, die zum Zeitpunkt des Inkrafttretens bereits nach der FPOIIS vom 29. Februar 2024 studieren.[3] Soweit Studierende bereits Leistungen im bisherigen Modul IIS Research Seminar erbracht haben, werden diese von Amts wegen auf das Modul IIS Seminar anerkannt.[ 4] Abweichend von Satz 2 gelten die Änderungen in § 3 für alle Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen werden.“ 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 9. Die Tabelle in der Anlage wird wie folgt geändert: 
 
@@ -86,8 +102,12 @@ c) Abs. 5 (neu) wird wie folgt geändert:
 
 ## „ 
 
-|IIS Seminar gemäß § 8 Abs. 4||0-10|||0-10||Seminararbeit und Präsentation<br>(70% + 30%)|1|
+|„|||||||||
 |---|---|---|---|---|---|---|---|---|
+||||||||Seminararbeit und Präsentation||
+|IIS Seminar gemäß § 8 Abs. 4||0-10|||0-10|||1|
+||||||||(70% + 30%)||
+||||||||||
 
 
 
@@ -109,15 +129,27 @@ c) Abs. 5 (neu) wird wie folgt geändert:
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anhang: Bisheriger Studienverlaufsplan im Änderungsmodus** 
 
+**==> picture [455 x 413] intentionally omitted <==**
+
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 16. Juli 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 11. Juli 2025 Erlangen, den 11. Juli 2025 FAU gez. 
 
 Prof. Dr.-Ing. Joachim Hornegger, Präsident 
 
-Diese Satzung wurde am 11. Juli 2025 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 11. Juli 2025 in der im Referat L 1 der Zentralen Universitätsverwaltung, Wöhrmühle 2, Zimmer Nr. 00.009 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 11. Juli 2025 
+Diese Satzung wurde am 11. Juli 2025 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 11. Juli 2025 in der im Referat L 1 der Zentralen Universitätsverwaltung, Wöhrmühle 2, Zimmer Nr. 00.009 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. 
+
+Tag der Bekanntmachung ist daher der 11. Juli 2025 
 
 6 
 

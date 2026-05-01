@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 25.07.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/AllgPO_BA-MA_Chemie_MolecularScience.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:44:12+00:00
-page_count_chars: 61754
+scraped_at: 2026-05-01T07:34:44+00:00
+page_count_chars: 61595
 ---
 
 # PDF vom 25.07.2013
@@ -240,13 +240,13 @@ fungsaufgaben darf sich nicht zum Nachteil einer oder eines zu Prüfenden auswir
 
 |**§ 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote**|**§ 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote**|
 |---|---|
-|**§ 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote**<br>(1)1Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen Prüfe-||
-|rin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:|rin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:|
+|<br>(1)1Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen Prüfe-||
+|rin oder dem|jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:|
 |sehr gut|= (1,0 oder 1,3)<br>eine hervorragende Leistung;|
 |gut|= (1,7 oder 2,0 oder 2,3)<br>eine Leistung, die erheblich über den durchschnittlichen Anforderungen<br>liegt;|
 |befriedigend|= (2,7 oder 3,0 oder 3,3)<br>eine Leistung, die durchschnittlichen Anforderungen entspricht;|
 |ausreichend|= (3,7 oder 4,0)<br>eine Leistung, die trotz ihrer Mängel noch den Anforderungen entspricht;|
-|nicht ausreichend|nicht ausreichend<br>= (4,3 oder 4,7 oder 5,0)<br>eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht<br>mehr genügt.|
+|nicht ausreichend|<br>= (4,3 oder 4,7 oder 5,0)<br>eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht<br>mehr genügt.|
 
 
 

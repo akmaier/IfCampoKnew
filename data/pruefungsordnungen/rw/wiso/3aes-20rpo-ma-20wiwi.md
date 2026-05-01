@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES%20RPO-MA%20WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:13:48+00:00
+scraped_at: 2026-05-01T09:24:57+00:00
 page_count_chars: 2508
 ---
 

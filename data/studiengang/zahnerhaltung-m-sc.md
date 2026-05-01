@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "<25"
 besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-04-25T14:15:00+00:00
+scraped_at: 2026-05-01T06:51:39+00:00
 ---
 
 # Zahnerhaltung (M.Sc.)

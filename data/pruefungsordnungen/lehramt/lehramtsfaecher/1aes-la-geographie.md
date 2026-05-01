@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "14. Januar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES LA-Geographie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:25:13+00:00
+scraped_at: 2026-05-01T07:09:15+00:00
 page_count_chars: 18323
 ---
 

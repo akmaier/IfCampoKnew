@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/Pruefungsordnung Theol. Aufnahmepruefung (1) nach EKD-Rahmenordnung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:36:28+00:00
+scraped_at: 2026-05-01T08:44:14+00:00
 page_count_chars: 39810
 ---
 

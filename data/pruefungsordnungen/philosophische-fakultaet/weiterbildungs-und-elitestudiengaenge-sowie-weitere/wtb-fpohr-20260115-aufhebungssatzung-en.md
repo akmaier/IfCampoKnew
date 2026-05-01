@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "wtb FPOHR 20260115 Aufhebungssatzung en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20260115_Aufhebungssatzung_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:38:22+00:00
-page_count_chars: 2273
+scraped_at: 2026-05-01T08:45:46+00:00
+page_count_chars: 2381
 ---
 
 # wtb FPOHR 20260115 Aufhebungssatzung en.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20260115_Aufhebungssatzung_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Termination regulations for the Master’s Degree Program for Professional Development in Human Rights at the Faculty of Humanities, Social Sciences, and Theology of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) dated January 15, 2026** 
 

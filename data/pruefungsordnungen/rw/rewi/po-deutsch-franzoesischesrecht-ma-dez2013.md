@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 29.09.2010 i.d.F. 04.12.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/PO-Deutsch-FranzoesischesRecht-MA_DEZ2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:10:01+00:00
+scraped_at: 2026-05-01T09:18:53+00:00
 page_count_chars: 44367
 ---
 

@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
-scraped_at: 2026-04-25T14:14:53+00:00
+scraped_at: 2026-05-01T06:51:29+00:00
 ---
 
 # Wirtschaftsmathematik (M.Sc.)

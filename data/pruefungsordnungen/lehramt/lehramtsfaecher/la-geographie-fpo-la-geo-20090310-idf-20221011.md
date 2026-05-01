@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Geographie FPO LA Geo 20090310 i.d.F. 20221011.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Geographie/konsolidierte_Fassungen/LA_Geographie_FPO_LA_Geo_20090310_idF_20221011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:24:52+00:00
+scraped_at: 2026-05-01T07:08:25+00:00
 page_count_chars: 58258
 ---
 

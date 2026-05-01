@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:10:04+00:00
+scraped_at: 2026-05-01T06:44:21+00:00
 ---
 
 # Digitale Geistes- und Sozialwissenschaften (B.A.)

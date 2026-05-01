@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "18. August 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa_FPO-MA-Sozialoekonomik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:34:48+00:00
+scraped_at: 2026-05-01T09:42:07+00:00
 page_count_chars: 10204
 ---
 

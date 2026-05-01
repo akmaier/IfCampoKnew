@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Marketing FPOMarketing 20090902 i.d.F. 20210812.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Marketing/konsolidierte_Fassungen/MSc_Marketing_FPOMarketing_20090902_idF_20210812.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:33:40+00:00
+scraped_at: 2026-05-01T09:40:39+00:00
 page_count_chars: 16460
 ---
 

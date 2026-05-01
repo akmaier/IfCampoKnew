@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl WTB MBA Business Management PO MBA 20210311 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Global_Business_Management/Aenderungssatzungen/berufsbegl_WTB_MBA_Business_Management_PO_MBA_20210311_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:38:19+00:00
+scraped_at: 2026-05-01T09:47:18+00:00
 page_count_chars: 8553
 ---
 

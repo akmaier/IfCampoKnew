@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BAMA Chemie MolSci 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Chemie_und_Molecular_Science/konsolidierte_Fassungen/FPO_BAMA_Chemie_MolSci_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:44:44+00:00
-page_count_chars: 131680
+scraped_at: 2026-05-01T07:35:07+00:00
+page_count_chars: 131080
 ---
 
 # FPO BAMA Chemie MolSci 20260305.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Chemie_und_Molecular_Science/konsolidierte_Fassungen/FPO_BAMA_Chemie_MolSci_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Fachstudien- und Prüfungsordnung für die Bachelorstudiengänge Chemie und Molecular Science sowie die Masterstudiengänge Chemistry, Molecular Science und Computational Molecular and Materials Science an der Naturwissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) - FPO Chem MolSc CMMS - Vom 5. März 2026** 
 
@@ -20,6 +24,10 @@ Inhaltsverzeichnis **I. Teil: Allgemeine Bestimmungen: .........................
 
 1 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 c) Masterstudiengang Computational Molecular and Materials Science ...............................20 § 69 Zusammensetzung der Zugangskommission zum Masterstudium ................................20 § 70 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ..............21 § 71 Zugang zum Studiengang für internationale Bewerberinnen und Bewerber ..................22 § 72 Umfang und Gliederung des Masterstudiums ...............................................................22 § 73 Mentorat und individuelle Studienvereinbarung ............................................................23 § 74 Sychronisationsmodule .................................................................................................23 § 75 Wahlpflichtmodule ........................................................................................................23 § 76 Wahlmodul ...................................................................................................................24 § 77 Forschungsmodul .........................................................................................................25 § 78 Masterseminar ..............................................................................................................25 § 79 Masterarbeit .................................................................................................................25 **III. Teil: Schlussbestimmungen .........................................................................................26** § 80 Inkrafttreten, Übergangsbestimmungen ........................................................................26 **Anlage 1a: Studienverlaufsplan Bachelorstudiengang Chemie (Vollzeit) ......................27 Anlage 1b: Studienverlaufsplan Bachelorstudiengang Chemie (Teilzeit) ......................31 Anlage 2: Studienverlaufsplan Bachelorstudiengang Molecular Science (nur Vollzeit möglich) ..............................................................................................................................35 Anlage 3: Studienverlaufsplan Masterstudiengang Chemistry (nur Vollzeit möglich) ..39 Anlage 4: Studienverlaufsplan Masterstudiengang Molecular Science (nur Vollzeit möglich) ..............................................................................................................................40 Anlage 5a: Studienverlaufsplan Masterstudiengang Computational Molecular and Materials Science (Vollzeit) ................................................................................................41 Anlage 5b: Studienverlaufsplan Masterstudiengang Computational Molecular Materials Science (Teilzeit) ................................................................................................................44** 
 
 ## **I. Teil: Allgemeine Bestimmungen:** 
@@ -28,11 +36,17 @@ c) Masterstudiengang Computational Molecular and Materials Science .............
 
 Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **ABMPO/NatFak** – in der jeweils geltenden Fassung. 
 
-**§ 42 Bachelorstudiengänge, inhaltlich im Wesentlichen gleiche Studiengänge** (1)[1] Das Bachelorstudium Chemie ist in Vollzeit und in Teilzeit möglich; das Bachelorstudium Molecular Science nur in Vollzeit.[2] Die Bachelorstudiengänge Chemie und Molecular Science setzen sich jeweils aus Modulen im Umfang von 180 ECTS-Punkten verteilt auf sechs (Vollzeit) bzw. zwölf Semester (Chemie in Teilzeit) zusammen. 3Darin ist jeweils die Zeit für die Anfertigung der Bachelorarbeit enthalten. 
+## **§ 42 Bachelorstudiengänge, inhaltlich im Wesentlichen gleiche Studiengänge** 
+
+(1)[1] Das Bachelorstudium Chemie ist in Vollzeit und in Teilzeit möglich; das Bachelorstudium Molecular Science nur in Vollzeit.[2] Die Bachelorstudiengänge Chemie und Molecular Science setzen sich jeweils aus Modulen im Umfang von 180 ECTS-Punkten verteilt auf sechs (Vollzeit) bzw. zwölf Semester (Chemie in Teilzeit) zusammen. 3Darin ist jeweils die Zeit für die Anfertigung der Bachelorarbeit enthalten. 
 
 (2)[1] Die Bachelorstudiengänge Chemie und Molecular Science setzen sich jeweils aus einer Grundlagenphase (Semeseter 1 bis 4) und einer Orientierungsphase (Semester 5 und 6) zusammen; für das Teilzeitstudium Chemie gelten die Semesterangaben gemäß **Anlage 1b** .[2] In der Grundlagenphase sind alle Module jeweils verpflichtend.[3] Die Orientierungsphase besteht aus Pflichtmodulen, Wahlpflichtmodulen („Orientierungsmodule“) und einem Wahlmodul „Schlüsselqualifikationen“.[4] Näheres zum Bachelorstudiengang Chemie ist §§ 45 bis 47 und **Anlage 1a** (Bachelor Chemie Vollzeit) bzw. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **Anlage 1b** (Bachelor Chemie Teilzeit) zu entnehmen.[5] Näheres zum Bachelorstudiengang Molecular Science ist §§ 48 bis 50 und **Anlage 2** (Bachelor Molecular Science, nur Vollzeit) zu entnehmen. 
 
@@ -53,6 +67,10 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 2. für den Masterstudiengang Molecular Science Masterstudiengänge, die Inhalte aus den Kerndisziplinen der grundlagen-basierten, molekül-orientierten Naturwissenschaften (insbesondere Chemie mitsamt deren Kerndisziplinen Allgemeine 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 und Anorganische Chemie, Biochemie, Materialchemie, Organische Chemie, Physikalische Chemie und Theoretische Chemie/Computerchemie sowie Molekularbiologie) im Umfang von mindestens 80 % bezogen auf die Gesamt-ECTS-Punkte des Studienabschlusses enthalten 
 
@@ -80,6 +98,10 @@ und Anorganische Chemie, Biochemie, Materialchemie, Organische Chemie, Physikali
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 aus einem theoretischen Modul im Umfang von 5 ECTS-Punkten sowie einem darauf bezogenen Modul mit Laborpraktikum im Umfang von ebenfalls 5 ECTS-Punkten.[3] Die wählbaren Modulpakete werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.[4] Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht. 
 
 (2)[1] Das übergeordnete Qualifikationsziel der Orientierungsmodule besteht darin, es den Studierenden zu ermöglichen, sich in ausgewählten Disziplinen der grundlagenorientierten Chemie zu orientieren und die Kenntnisse aus dem Grundstudium auszubauen.[2] Darüber hinaus werden spezifische laborpraktische Kompetenzen erworben sowie die Studierenden in grundlegenden Forschungskompetenzen geschult; dabei wird insbesondere Wert auf eine fundierte präparativ-experimentelle Ausbildung gelegt.[3] Weiterhin wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen.[4] Die inhaltliche Ausrichtung der wählbaren Orientierungsmodule ist dabei abhängig von der Schwerpunktsetzung der Forschung im Department Chemie und Pharmazie.[5] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sind abhängig vom jeweils gewählten Modulpaket und den jeweils einschlägigen Modulbeschreibungen zu entnehmen. 
@@ -102,6 +124,10 @@ aus einem theoretischen Modul im Umfang von 5 ECTS-Punkten sowie einem darauf be
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3)[1] In der Regel soll die Bachelorarbeit im Department Chemie und Pharmazie angefertigt werden.[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
 
 (4)[1] Zur Vergabe des Themas der Bachelorarbeit sind die am Department Chemie und Pharmazie hauptberuflich i. S. d. Art. 53 Abs. 4 **BayHIG** tätigen hauptberuflichen Hochschullehrerinnen bzw. Hochschullehrer i. S. d. Art. 19 **BayHIG** sowie habilitierte Dozentinnen bzw. Dozenten berechtigt (Betreuerinnen bzw. Betreuer).[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
@@ -121,6 +147,10 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung im Bachelorstudiengang Mo
 (2)[1] Das übergeordnete Qualifikationsziel der zuvor genannten Modulpakete liegt darin, es den Studierenden zu ermöglichen, sich in ausgewählten Disziplinen der grundlagen-orientierten, molekül-basierten Chemie in den Lebens- oder Nanowissenschaften zu orientieren.[2] Das Modulpaket „Orientierungsmodule Molecular Life Science“ zielt auf die Wissensvermittlung auf dem Gebiet der medizinischen Chemie und der molekular arbeitenden Disziplinen der Biologie sowie der chemischen Modellierung ab.[3] Das Modulpaket „Orientierungsmodule Molecular Nanoscience“ ermöglicht Einblicke in den Bereich der chemischen Reaktionsmechanismen, der Molekül- und Partikelsynthese sowie in das Gebiet der mikroskopischen und spektroskopischen Analytik und der potenziellen Anwendungen nanoskaliger Systeme.[4] Neben der vertiefungsrichtungsspezifischen Vermittlung von Kompetenzen nach Sätzen 2 und 3 erfolgt eine intensivierende Ausbildung in der Anorganischen und Organischen Chemie.[5] Zusätzlich werden in beiden Modulpakten spezifische laborpraktische Kompetenzen erworben sowie die Studierenden in grundlegenden Forschungskompetenzen geschult.[6] Die konkrete inhaltliche Ausrichtung der wählbaren Modulpakete ist dabei auch abhängig 
 
 6 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 von der Schwerpunktsetzung der Forschung im Department Chemie und Pharmazie. 7Durch die Wahlfreiheit wird den Studierenden ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Betätigungsfeld zu schärfen.[8] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sind abhängig vom jeweils gewählten Modulpaket und den einschlägigen Modulbeschreibungen zu entnehmen. 
 
@@ -154,6 +184,10 @@ von der Schwerpunktsetzung der Forschung im Department Chemie und Pharmazie. 7Du
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 schlüsse im Sinne des § 35 Abs. 1 Satz 1 Nr. 1 **ABMPO/NatFak** kommen Bachelorabschlüsse in Betracht, die Inhalte aus den Kerndisziplinen der Chemie (Anorganische und Allgemeine Chemie, Materialchemie, Organische Chemie, Physikalische Chemie sowie Theoretische Chemie) im Umfang von mindestens 80 % bezogen auf die Gesamt-ECTS-Punkte des Curriculums enthalten, wovon wiederum mindestens 25 % auf fundierte, eigenständig erarbeitete Laborkenntnisse entfallen müssen.[3] Des Weiteren kann die Zugangskommission bei anderen natur- oder ingenieurwissenschaftlichen gleichwertigen in- oder ausländischen Abschlüssen die Einschlägigkeit im Einzelfall feststellen, wenn sich aus der Gesamtschau der Bewerbungsunterlagen ableiten lässt, dass die Bewerberin bzw. der Bewerber aufgrund der individuellen Schwerpunktsetzung im Studium ein Kompetenzprofil aufweist, das mit dem der Bewerberinnen und Bewerber nach Satz 2 vergleichbar ist.[ 4] Bewerberinnen und Bewerber mit einem fachverwandten Abschluss i. S. d. Satz 2 können nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung in den Masterstudiengang aufgenommen werden.[ 5] Der Mindestumfang der nachzuweisenden ECTS-Punkte im Falle des noch nicht abgeschlossenen Bachelorstudiums gemäß § 35 Abs. 3 **ABMPO/NatFak** beträgt 135 ECTS-Punkte. 
 
 (2) Die Zugangskommission stellt gemäß Abs. 5 Satz 3 **Anlage ABMPO/NatFak** ebenfalls die Qualifikation der Bewerberin bzw. des Bewerbers fest, wenn der nachgewiesene fachspezifische bzw. fachverwandte Abschluss nach Abs. 1 Satz 1 bzw. 2 zwar wesentliche Unterschiede i. S. d. § 34 Abs. 2 **ABMPO/NatFak** aufweist, die Bewerberin bzw. der Bewerber jedoch zum Ausgleich dieser Unterschiede die speziellen weiterbildenden Studien „Transition Studies Chemistry“ gemäß der **StuPO/STSC** in der jeweils geltenden Fassung an der Naturwissenschaftlichen Fakultät der FAU erfolgreich absolviert hat. 
@@ -174,9 +208,11 @@ beizufügen.
 
 8 
 
-Abs. 5 eingeladen.[2] Gemäß Abs. 5 Satz 5 **Anlage ABMPO/NatFak** i. V. m. Abs. 1 Satz 3 können Bewerberinnen und Bewerber mit einem fachverwandten Abschluss nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung gemäß Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i. V. m. Abs. 5 in das Masterstudium aufgenommen werden; die Note des Abschlusses nach Abs. 1 Satz 2 bzw. der Durchschnitt der bisherigen Leistungen darf schlechtestenfalls 2,9 betragen.[3] Im Übrigen gilt Abs. 4 Satz 3 **Anlage** 
+**==> picture [165 x 49] intentionally omitted <==**
 
-**ABMPO/NatFak** . 
+**==> picture [114 x 46] intentionally omitted <==**
+
+Abs. 5 eingeladen.[2] Gemäß Abs. 5 Satz 5 **Anlage ABMPO/NatFak** i. V. m. Abs. 1 Satz 3 können Bewerberinnen und Bewerber mit einem fachverwandten Abschluss nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung gemäß Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i. V. m. Abs. 5 in das Masterstudium aufgenommen werden; die Note des Abschlusses nach Abs. 1 Satz 2 bzw. der Durchschnitt der bisherigen Leistungen darf schlechtestenfalls 2,9 betragen.[3] Im Übrigen gilt Abs. 4 Satz 3 **Anlage ABMPO/NatFak** . 
 
 (5)[1] Die mündliche Zugangsprüfung gemäß Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i. V. m. Abs. 5 wird entweder von den Mitgliedern der Zugangskommission oder einem Mitglied der Zugangskommission in Anwesenheit einer Beisitzerin bzw. eines Beisitzers durchgeführt.[2] Hat die Bewerberin bzw. der Bewerber einen Abschluss nach Abs. 1 Satz 3 nachgewiesen, kann die Zugangskommission auch zusätzlich eine prüfungsberechtigte Person anderer Departments und Fakultäten der FAU zur Durchführung der mündlichen Zugangsprüfung bestimmen, soweit deren konkrete Fachexpertise erforderlich ist, um die Eignung der Bewerberin bzw. des Bewerbers abschließend beurteilen zu können.[3] Näheres zu den Prüfenden wird in der Einladung zur jeweiligen Zugangsprüfung bekannt gegeben.[ 4] Die Bewerberinnen bzw. Bewerber werden auf Basis ihrer fachlichen und methodischen Kenntnisse in den Grundlagen der Chemie (Anorganische und Allgemeine Chemie, Materialchemie, Organische Chemie, Physikalische Chemie sowie Theoretische Chemie, 80 %) sowie individueller gewählter fachlicher Schwerpunktsetzungen im Fachgebiet der Chemie/Molekülwissenschaften (20 %) beurteilt.[5] Wesentlicher Bestandteil der mündlichen Zugangsprüfung in Bezug auf die in Satz 2 genannten Grundlagenkenntnisse ist die Überprüfung der laborpraktischen Fähigkeiten der Bewerberin bzw. des Bewerbers und deren Kenntnis über die sicherheitsrelevanten Aspekte, die bei Laborarbeiten zu beachten sind.[6] Die Kompetenzen im Sinne des Satz 3 werden unter anderem anhand der gemäß Abs. 2 Satz 1 Nr. 2 eingereichten Unterlagen besprochen.[7] Werden diese Kompetenzen nicht nachgewiesen, gilt die mündliche Zugangsprüfung unabhängig von den in den anderen abgefragten Bereichen nachgewiesenen Kompetenzen als nicht bestanden und die Bewerberin bzw. der Bewerber gilt als ungeeignet. 
 
@@ -187,6 +223,10 @@ Abs. 5 eingeladen.[2] Gemäß Abs. 5 Satz 5 **Anlage ABMPO/NatFak** i. V. m. Abs
 2. einen oder mehrere Nachweise über Fachkenntnisse in Form eines „Graduate Record Examination (GRE)" mit der FAU als „designated recipient“, oder vergleichbarer standardisierter Testverfahren (insbesondere bspw. Nachweis des 
 
 9 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 „Graduate Aptitude Test in Engineering“ (GATE) im Falle von Bewerberinnen und Bewerbern aus Indien). 
 
@@ -209,6 +249,10 @@ Abs. 5 eingeladen.[2] Gemäß Abs. 5 Satz 5 **Anlage ABMPO/NatFak** i. V. m. Abs
 (1)[1] Bestandteil der Wahlpflichtmodule des Masterstudiengangs Chemistry im Umfang von insgesamt 60 ECTS-Punkten sind Fachliche Wahlpflichtmodule in Form von zwei Modulpaketen im Umfang von jeweils 20 ECTS-Punkten.[2] Ein Modulpaket besteht dabei jeweils aus einem theoretischen Modul (Fachliches Wahlpflichtmodul 1 bzw. 2) im Umfang von 10 ECTS-Punkten sowie einem darauf bezogenen laborpraktischen Modul (Fachliches Wahlpflichtmodul 1 bzw. 2 – Labor) im Umfang von ebenfalls 10 ECTSPunkten.[3] Im Rahmen der Fachlichen Wahlpflichtmodule werden wissenschaftliche Methodenkompetenzen zur Anwendung chemischer, forschungsorientierter Methoden und zu Problemlösestrategien chemischer Fragestellungen sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erworben.[4] Die fachlichen Wahlpflichtmodule dienen der gezielten Vertiefung und dem Kompetenzerwerb in Kernthemen der Chemie, wobei aktuelle und gegenwärtige Themen und Fragestellungen im Fokus stehen.[ 5] Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachspezifische Forschungsmethoden erworben und fachvertiefendes Wissen erlangt werden.[6] Weiterhin wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] Im Rahmen der Fachlichen Wahlpflichtmodule werden Modulpakete aus den folgenden vier Kompetenzfeldern mit folgenden fachspezifischen Qualifikationszielen angeboten, aus denen die Studierenden zwei Kompetenzfelder auswählen: 
 
@@ -242,6 +286,10 @@ Abs. 5 eingeladen.[2] Gemäß Abs. 5 Satz 5 **Anlage ABMPO/NatFak** i. V. m. Abs
 
 11 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Nuklear- und Nanomedizin. Zudem besteht die Option, die Kenntnisse in interdisziplinären Fragestellungen der Sensorik zu vertiefen. 
 
 2. Advances in Homogenous Catalysis 
@@ -270,6 +318,10 @@ Nuklear- und Nanomedizin. Zudem besteht die Option, die Kenntnisse in interdiszi
 
 12 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht.[4] Für Art und Umfang der Prüfungen gilt § 46 Abs. 3 entsprechend.[ 5] Im Übrigen können nicht gewählte Module aus dem Angebot der ergänzenden Wahlpflichtmodule gemäß § 56 als fachliche Wahlmodule i. S. d. Satz 1 gewählt werden. 
 
 (3)[1] Die nicht-fachlichen Wahlmodule sollen die Studierenden in dem Erwerb und der Erweiterung überfachlicher Kompetenzen unterstützen.[2] Als nicht-fachliche Wahlmodule i. S. d. Satz 1 wählbar sind alle Module aus dem Angebot an Schlüsselqualifikationen der FAU, sofern diese nicht bereits im Bachelorstudium eingebracht bzw. die entsprechende Kompetenz im Rahmen des Masterzugangs bereits nachgewiesen werden musste.[3] Nicht im Angebot der Schüsselqualifikationen der FAU enthaltene Module, insbesondere solche der Virtuellen Hochschule Bayern (vhb) können auf Antrag der bzw. des Studierenden vom Vorsitzenden Prüfungsausschuss zugelassen werden. 
@@ -285,6 +337,10 @@ jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden; er wir
 (1)[1] Das Modul Masterarbeit wird mit 30 ECTS-Punkten bewertet.[2] Voraussetzung für den Beginn der Masterarbeit ist der erfolgreiche Abschluss sämtlicher Wahlpflichtmodule und des Forschungsmoduls im Umfang von insgesamt 75 ECTS-Punkten. 
 
 13 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] Die Masterarbeit soll zeigen, dass die Studierenden im Stande sind, innerhalb einer vorgegebenen Frist ein Problem aus dem Fachgebiet des Masterstudiengangs Chemie selbstständig nach wissenschaftlichen Methoden zu bearbeiten, die Ergebnisse fachlich und sprachlich korrekt darzustellen und in die aktuelle Fachliteratur einzuordnen.[2] Der Umfang der Masterarbeit ist abhängig vom konkret vergebenen Thema und mit der Betreuerin bzw. dem Betreuer abzustimmen. 
 
@@ -312,6 +368,10 @@ beinhalten.
 
 14 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 3Bewerberinnen und Bewerber mit einem fachverwandten Abschluss i. S. d. Satz 2 können nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung in den Masterstudiengang aufgenommen werden.[4] Des Weiteren kann die Zugangskommission bei anderen natur- oder ingenieurwissenschaftlichen gleichwertigen in- oder ausländischen Abschlüssen die Einschlägigkeit im Einzelfall feststellen, wenn sich aus der Gesamtschau der Bewerbungsunterlagen ableiten lässt, dass die Bewerberin bzw. der Bewerber aufgrund der individuellen Schwerpunktsetzung im Studium ein Kompetenzprofil aufweist, das mit dem der Bewerberinnen und Bewerber nach Satz 2 vergleichbar ist.[ 5] Der Mindestumfang der nachzuweisenden ECTS-Punkte im Falle des noch nicht abgeschlossenen Bachelorstudiums gemäß § 35 Abs. 3 **ABMPO/NatFak** beträgt 135 ECTS-Punkte. 
 
 (2) Die Zugangskommission stellt gemäß Abs. 5 Satz 3 **Anlage ABMPO/NatFak** ebenfalls die Qualifikation der Bewerberin bzw. des Bewerbers fest, wenn der nachgewiesene fachspezifische bzw. fachverwandte Abschluss nach Abs. 1 Satz 1 bzw. 2 zwar wesentliche Unterschiede i. S. d. § 34 Abs. 2 **ABMPO/NatFak** aufweist, die Bewerberin bzw. der Bewerber jedoch zum Ausgleich dieser Unterschiede die speziellen weiterbildenden Studien „Transition Studies Chemistry“ gemäß der **StuPO/STSC** in der jeweils geltenden Fassung an der Naturwissenschaftlichen Fakultät der FAU erfolgreich absolviert hat. 
@@ -331,6 +391,10 @@ beizufügen.
 (4)[1] Für Bewerberinnen und Bewerber mit fachspezifischem Abschluss i. S. d. Abs. 1 Satz 1, denen nicht bereits im Rahmen der Vorprüfung der Unterlagen gemäß Abs. 5 Satz 3 **Anlage ABMPO/NatFak** der Zugang zum Studiengang gewährt werden konnte und deren Gesamtnote des Abschlusses nach Abs. 1 Satz 1 bzw. deren Durchschnitt der bisherigen entsprechenden Leistungen zwischen 2,6 und 2,9 liegt, werden zu einer mündlichen Zugangsprüfung nach Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i. V. m. Abs. 5 eingeladen.[2] Gemäß Abs. 5 Satz 5 **Anlage ABMPO/NatFak** i. V. m. Abs. 1 Satz 3 können Bewerberinnen und Bewerber mit einem fachverwandten Abschluss nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung gemäß Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i. V. m. Abs. 6 in das Masterstudium aufgenommen werden; die Note des Abschlusses nach Abs. 1 Satz 2 bzw. der Durchschnitt der bisherigen 
 
 15 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Leistungen darf schlechtestenfalls 2,9 betragen.[3] Im Übrigen gilt Abs. 4 Satz 3 **Anlage** 
 
@@ -356,6 +420,10 @@ durchgeführt; Näheres regelt § 64.[2] Die Studienrichtung wird von der Bewerb
 
 16 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4) Wahlpflichtmodule der Studienrichtungen gemäß § 64 sowie die ergänzenden Wahlpflichtmodule gemäß § 65 sind die Module der Nrn. 1 - 6 der **Anlage 4** im Gesamtumfang von 60 ECTS-Punkten. 
 
 (5) Der Wahlbereich besteht aus zu wählenden fachlichen oder nicht-fachlichen Wahlmodulen im Gesamtumfang von 15 ECTS gemäß **Anlage 4** (Nrn. 7 - 9). 
@@ -371,6 +439,10 @@ durchgeführt; Näheres regelt § 64.[2] Die Studienrichtung wird von der Bewerb
 2.[1] In der Studienrichtung Molecular Nanoscience werden bottom-up Konzepte verfolgt, um auf der Basis des Moleküldesigns spezifische Eigenschaften von nanoskaligen, teils molekularen oder niedrig-dimensionalen Systemen gezielt zu optimieren und potenziellen Anwendungen zuzuführen.[2] Es werden Kompetenzen im Bereich moderner Nanoanalytik, der Synthese anorganischer und organischer Molekülsynthese, Struktur-Eigenschaftsbeziehungen, gezielter Funktionalisierung und Nutzung nanoskaliger Objekte in modernen Anwendungen erworben.[3] Die Module 
 
 17 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 der Studienrichtung knüpfen an entsprechende Vorkenntnisse an, weshalb das Modulpaket „Molecular Nanoscience“ nur von Studierenden gewählt werden kann, die im Rahmen des Erstabschlusses Kompetenzen in Materialchemie und mikroskopischen Verfahren im Sinne des § 63 Abs. 1 Satz 2 Nr. 1 nachgewiesen haben oder entsprechende Kompetenzen zum Zeitpunkt der Wahl der Studienrichtung anderweitig nachweisen können. 
 
@@ -402,9 +474,15 @@ der Studienrichtung knüpfen an entsprechende Vorkenntnisse an, weshalb das Modu
 
 18 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Im Modulpaket Advances in Energy Materials erfolgt eine Vertiefung des Wissensstandes in Elektrochemie, Elektrokatalyse, Photochemie, Photovoltaik und Halbleiterchemie anhand von jüngsten wissenschaftlichen Durchbrüchen und modernen Entwicklungen auf diesen Gebieten. 
 
-e) Advances in Organic Chemistry gemäß Ziffer 1b) 4Die spezifischen Qualifikationsziele und Prüfungsgegenstände sind abhängig vom jeweils gewählten Modulpaket und den einschlägigen Modulbeschreibungen zu entnehmen. 
+e) Advances in Organic Chemistry gemäß Ziffer 1b) 
+
+4Die spezifischen Qualifikationsziele und Prüfungsgegenstände sind abhängig vom jeweils gewählten Modulpaket und den einschlägigen Modulbeschreibungen zu entnehmen. 
 
 (2) Für Art und Umfang der Prüfungen gilt § 49 Abs. 3 entsprechend. 
 
@@ -424,6 +502,10 @@ e) Advances in Organic Chemistry gemäß Ziffer 1b) 4Die spezifischen Qualifikat
 
 19 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Chemie), der medizinischen Chemie, Lebensmittelchemie oder der in der Lehre beteiligten Disziplinen der Biologie.[3] Der Durchführung des Forschungsmoduls in alternativen Forschungsgebieten (z.B. interdisziplinär angesiedelte Forschungsthemen) kann im Einzelfall zugestimmt werden – hierzu ist die Zustimmung des Prüfungsausschusses und einer bzw. eines potenziellen, prüfungsberechtigten Erstbetreuerin bzw. Erstbetreuers aus dem Department Chemie und Pharmazie oder dem Department Biologie notwendig.[4] Das Forschungsmodul kann insbesondere auch während eines Auslandsaufenthalts unter Aufsicht einer auswärtigen Betreuerin bzw. eines auswärtigen Betreuers und einer prüfungsberechtigten Person des Departments Chemie und Pharmazie oder aus dem Department Biologie, die bzw. der die Bewertung der Prüfung obliegt, durchgeführt werden.[5] Die Prüfung besteht aus einem benoteten Laborbericht zuzüglich einer Rohdatendokumentation; der Umfang des Laborberichts ist abhängig vom konkret vergebenen Thema und mit der Betreuerin bzw. dem Betreuer abzustimmen.[6] Der Laborbericht muss innerhalb von 8 Wochen nach Verfügbarkeit aller Rohdaten abgeliefert werden.[7] Erfolgt die Abgabe nicht fristgerecht, gilt der Laborbericht als nicht bestanden. 
 
 ## **§ 68 Masterarbeit** 
@@ -441,6 +523,10 @@ Chemie), der medizinischen Chemie, Lebensmittelchemie oder der in der Lehre bete
 **§ 69 Zusammensetzung der Zugangskommission zum Masterstudium** 1Die Zugangskommission für den Masterstudiengang Computational Molecular and Materials Science i. S. d. § 12 **ABMPO/NatFak** besteht aus der bzw. dem Vorsitzenden und zwei weiteren Professorinnen bzw. Professoren der Lehreinheit Chemie und 
 
 20 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Molecular Science sowie einer wissenschaftlichen Mitarbeiterin bzw. einem wissenschaftlichen Mitarbeiter, die bzw. der hauptberuflich i. S. d. Art. 53 Abs. 4 **BayHIG** im Dienst der FAU steht.[2] Die Mitglieder werden vom Fakultätsrat der Naturwissenschaftlichen Fakultät auf Vorschlag der Kollegialen Leitung des Departments Chemie und Pharmazie für die Dauer von drei Jahren bestellt; Wiederbestellung ist möglich. 
 
@@ -466,6 +552,10 @@ Molecular Science sowie einer wissenschaftlichen Mitarbeiterin bzw. einem wissen
 
 21 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 gewährt werden konnte und deren Gesamtnote des Abschlusses nach Abs. 1 Satz 1 bzw. deren Durchschnitt der bisherigen entsprechenden Leistungen zwischen 2,6 und 2,9 liegt sowie Bewerberinnen und Bewerber mit Abschlüssen nach Abs. 1 Sätzen 2 und 3 mit einer Abschlussnote zwischen 1,0 und 2,9, werden zu einer mündlichen Zugangsprüfung nach Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i. V. m. Abs. 5 eingeladen.[2] Im Übrigen gilt Abs. 4 Satz 3 **Anlage ABMPO/NatFak** . 
 
 (5)[1] Die mündliche Zugangsprüfung gemäß Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** wird von zwei von der Zugangskommission bestellten haupt- bzw. nebenberuflichen Hochschullehrerinnen bzw. Hochschullehrern i. S. d. Art. 19 **BayHIG** des Departments Chemie und Pharmazie durchgeführt.[2] Hat die Bewerberin bzw. der Bewerber einen Abschluss nach Abs. 1 Satz 2 oder 3 nachgewiesen, kann die Zugangskommission auch prüfungsberechtigte Personen anderer Departments und Fakultäten der FAU zur Durchführung der mündlichen Zugangsprüfung bestimmen, soweit deren konkrete Fachexpertise erforderlich ist, um die Eignung der Bewerberin bzw. des Bewerbers abschließend beurteilen zu können.[3] Näheres zu den Prüfenden wird in der Einladung zur jeweiligen Zugangsprüfung bekannt gegeben.[ 4] Die Bewerberinnen bzw. Bewerber werden auf Basis folgender Kriterien beurteilt: 
@@ -490,6 +580,10 @@ gewährt werden konnte und deren Gesamtnote des Abschlusses nach Abs. 1 Satz 1 b
 
 22 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4) Module des Wahlpflichtbereichs mit den Nrn. 11, 13 und 14 der **Anlage 5a** bzw. **5b** im Gesamtumfang von 40 ECTS-Punkten. 
 
 (5) Der Wahlbereich besteht aus zu wählenden fachlichen oder nicht-fachlichen Wahlmodulen im Gesamtumfang von 5 ECTS gemäß **Anlage 5a** bzw. **5b** . 
@@ -509,6 +603,10 @@ gewährt werden konnte und deren Gesamtnote des Abschlusses nach Abs. 1 Satz 1 b
 (1)[1] Die Wahlpflichtmodule gemäß § 72 Abs. 4 bestehen aus den vier Kompetenzfeldern des Wahlpflichtbereichs werden in semesteraktuellen Modulkatalogen geführt.[2] In den Kompetenzfeldern des Wahlpflichtbereichs werden wissenschaftliche Methodenkompetenzen zur Anwendung moderner Methoden des computergestützten Arbeitens in den Molekularwissenschaften und Materialchemie forschungsorientierter Methoden und zu Problemlösestrategien molekularwissenschaftlichen und materialchemischen Fragestellungen sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erworben.[3] Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachspezifische Forschungsmethoden erworben und fachvertiefendes Wissen erlangt werden.[4] Die Studierenden werden in die Lage versetzt, eigenständig wissenschaftliche Fragestellungen zu entwickeln, komplexe Problemstellungen systematisch zu analysieren, geeignete Forschungsmethoden auszuwählen und anzuwenden.[5] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sind abhängig vom jeweils gewählten Kompetenzfeld und den jeweils einschlägigen Modulbeschreibungen zu entnehmen. 
 
 23 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (2)[1] In den vier Kompetenzfeldern werden spezifische wissenschaftliche Methodenkompetenzen zur Anwendung molekular- und materialwissenschaftlicher, forschungsorientierter Methoden und Problemlösungsstrategien sowie die Befähigung zu einer eigenständigen analytischen und wissenschaftlichen Arbeitsweise erworben. 2Die einzelnen Kompetenzfelder haben dabei die folgenden fachspezifischen Qualifikationsziele: 
 
@@ -540,6 +638,10 @@ gewährt werden konnte und deren Gesamtnote des Abschlusses nach Abs. 1 Satz 1 b
 
 24 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 kompetenz.[4] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sind abhängig vom jeweils gewählten Modul und der jeweils einschlägigen **(Fach-)Studienund Prüfungsordnung** bzw. der jeweils einschlägigen Modulbeschreibung zu entnehmen. 
 
 ## **§ 77 Forschungsmodul** 
@@ -560,6 +662,10 @@ kompetenz.[4] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sin
 
 25 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3)[1] Die Masterarbeit kann forschungsbezogen entweder grundlagen- oder anwendungsorientiert ausgerichtet werden.[2] Sie ist in der Regel in englischer Sprache abzufassen; über Ausnahmen entscheidet der Prüfungsausschuss. 
 
 (4)[1] Die Masterarbeit darf auch in der Industrie oder in einer bzw. einem anderen Department/Fakultät/Universität oder während eines Auslandsaufenthalts unter Aufsicht einer auswärtigen Betreuerin bzw. eines auswärtigen Betreuers und einer prüfungsberechtigten Person des Departments Chemie und Pharmazie oder des Departments Werkstoffwissenschaften.[2] Die Bewertung der Prüfung obliegt einer prüfungsberechtigten Person des Departments Chemie und Pharmazie oder des Departments Werkstoffwissenschaften. 
@@ -574,73 +680,194 @@ kompetenz.[4] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sin
 
 26 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 **Anlage 1a: Studienverlaufsplan Bachelorstudiengang Chemie (Vollzeit)** Pflichtmodule: grün; Wahlpflichtmodule: rot; Wahlmodule: blau 
 
-|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note /**<br>**GOP**|
+|||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
-|1|Anorganische Chemie 1|Anorganische Chemie 1|4|1|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30Min.1)|PL: Klausur 60-90 Min.<br>1 /<br>GOP|
-|2|Physik 1|Experimentalphysik für Natur-<br>wissenschaftler I|4|1|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30Min.1)|PL: Klausur 60-90 Min.<br>1|
-|3|Mathematik für Naturwissenschaft-<br>ler|Mathematik für Naturwissen-<br>schaftler|2|2|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1|
-|4|Qualitative analytische Chemie|Qualitative analytische Chemie|2|1||1|**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1 /<br>GOP|
-|5|Praktikum Qualitative analytische<br>Chemie|Praktikum Qualitative<br>analytische Chemie|||7||**5**|5||||||PL: pÜL (benotet)|1 /<br>GOP|
-|6|Quantitative analytische Chemie|Quantitative analytische Chemie|2||||**5**|2,5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)und<br>SL: pÜL (benotet)|PL: Klausur 60-90 Min.<br>1 /<br>GOP|
-||||||5||||2,5|||||||
-|7|Anorganische Chemie 2|Anorganische Chemie 2|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1 /<br>GOP|
-|8|Organische Chemie 1|Organische Chemie 1|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1 /<br>GOP|
+||||||||||**Workload pro Semester**||||||**Faktor**|
+|||||**SWS**|||**Ge-**|||||||||
+||||||||||**in ECTS-Punkten**|||||**Art und Umfang**|**Modul-**|
+|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**samt**|||||||||
+|||||||||||||||**der Prüfung**|**note /**|
+||||||||**ECTS**|||||||||
+|||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||**GOP**|
+||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|||||||||||||||||
+||Anorganische Chemie 1|Anorganische Chemie 1|4|1|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30Min.1)|<br>1 /<br>GOP|
+|1||||||||||||||||
+|||||||||||||||||
+||Physik 1|Experimentalphysik für Natur-<br>wissenschaftler I|4|1|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30Min.1)|<br>1|
+|2||||||||||||||||
+|||||||||||||||||
+||Mathematik für Naturwissenschaft-<br>ler|Mathematik für Naturwissen-<br>schaftler|2|2|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1|
+|3||||||||||||||||
+|||||||||||||||||
+|||||||||||||||PL: Klausur 60-90 Min.||
+|||||||||||||||_oder_|1 /|
+|4|Qualitative analytische Chemie|Qualitative analytische Chemie|2|1||1|**5**|5||||||||
+|||||||||||||||mündliche Prüfung|GOP|
+|||||||||||||||||
+|||||||||||||||20-30 Min.1)||
+|||||||||||||||||
+||Praktikum Qualitative analytische|Praktikum Qualitative|||||||||||||1 /|
+|5|||||7||**5**|5||||||PL: pÜL (benotet)||
+||Chemie|analytische Chemie|||||||||||||GOP|
+|||||||||||||||||
+|||||||||||||||||
+|||||||||||||||PL: Klausur 60-90 Min.||
+||||2|||||2,5||||||||
+|||||||||||||||_oder_||
+||||||||||||||||1 /|
+|6|Quantitative analytische Chemie|Quantitative analytische Chemie|||||**5**|||||||mündliche Prüfung||
+||||||||||||||||GOP|
+||||||5||||2,5|||||20-30 Min.1)und||
+|||||||||||||||||
+|||||||||||||||SL: pÜL (benotet)||
+||Anorganische Chemie 2|Anorganische Chemie 2|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1 /<br>GOP|
+|7||||||||||||||||
+|||||||||||||||||
+||Organische Chemie 1|Organische Chemie 1|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1 /<br>GOP|
+|8||||||||||||||||
+|||||||||||||||||
 
 
 
 27 
 
-|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note /**<br>**GOP**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
-|9|Physikalische Chemie 1|Physikalische Chemie 1|3|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1 /<br>GOP|
-|10|Theoretische Chemie 1|Theoretische Chemie 1|2|2|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1 /<br>GOP|
-|11|Physik 2|Experimentalphysik für Natur-<br>wissenschaftler II|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1|
-|12|Anorganische Chemie 3|Präparative Anorganische Che-<br>mie|||7|1|**5**||5|||||PL: pÜL (benotet)|1|
-|13|Physikalische Chemie 2|Physikalische Chemie 2|3|1|||**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1|
-|14|Theoretische Chemie 2|Theoretische Chemie 2|2|2|||**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1|
-|15|Organische Chemie 2|Organische Chemie 2|3|||2|**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1|
-|16|Praktikum Physikalische Chemie|Praktikum Physikalische<br>Chemie|~~re~~|~~re~~|9<br>~~re~~|1<br>~~re~~|**10**<br>~~re~~|~~ee~~|~~ee~~|10<br>~~ee~~|~~ee~~|~~ee~~||SL: pÜLund<br>PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>(20-30 Min.)1)|PL: Klausur 60-90 Min.<br>1|
-|17<br>~~ee~~|Toxikologie und Rechtskunde<br>~~ee~~|Toxikologie und Rechtskunde<br>~~ee~~|2<br>~~ee~~<br>~~re~~<br>~~ft~~|~~ee~~<br>~~re~~<br>~~ft~~<br>~~|~~|~~ee~~<br>~~re~~|~~ee~~<br>~~re~~|**5**<br>~~ee~~<br>~~re~~<br>~~|~~|~~ee~~<br>~~ee~~<br>~~|~~<br>~~|~~|~~ee~~<br>~~ee~~<br>~~|~~|2,5<br>~~ee~~<br>~~ee~~<br>~~hE~~|~~ee~~<br>~~ee~~<br>~~hE~~|~~ee~~<br>~~ee~~|~~ee~~|PL: Klausur 120 Min.2)<br>~~ee~~|1<br>~~ee~~|
-||||2<br>~~ee~~<br>~~re~~<br>~~ft~~|~~ee~~<br>~~re~~<br>~~ft~~<br>~~|~~|~~ee~~<br>~~re~~|~~ee~~<br>~~re~~||~~ee~~<br>~~ee~~<br>~~|~~<br>~~|~~|~~ee~~<br>~~ee~~<br>~~|~~|~~ee~~<br>~~ee~~<br>~~hE~~|2,5<br>~~ee~~<br>~~ee~~<br>~~hE~~|~~ee~~<br>~~ee~~|~~ee~~|||
+||||||||||**Workload pro Semester**||||||**Faktor**|
+|||||**SWS**|||**Ge-**|||||||||
+||||||||||**in ECTS-Punkten**|||||**Art und Umfang**|**Modul-**|
+|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**samt**|||||||||
+|||||||||||||||**der Prüfung**|**note /**|
+||||||||**ECTS**|||||||||
+|||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||**GOP**|
+||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|||||||||||||||||
+||Physikalische Chemie 1|Physikalische Chemie 1|3|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1 /<br>GOP|
+|9||||||||||||||||
+|||||||||||||||||
+||Theoretische Chemie 1|Theoretische Chemie 1|2|2|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1 /<br>GOP|
+|10||||||||||||||||
+|||||||||||||||||
+||Physik 2|Experimentalphysik für Natur-<br>wissenschaftler II|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1|
+|11||||||||||||||||
+|||||||||||||||||
+|||||||||||||||||
+|||Präparative Anorganische Che-||||||||||||||
+|12|Anorganische Chemie 3||||7|1|**5**||5|||||PL: pÜL (benotet)|1|
+|||mie||||||||||||||
+|||||||||||||||||
+|||||||||||||||||
+||Physikalische Chemie 2|Physikalische Chemie 2|3|1|||**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1|
+|13||||||||||||||||
+|||||||||||||||||
+||Theoretische Chemie 2|Theoretische Chemie 2|2|2|||**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1|
+|14||||||||||||||||
+|||||||||||||||||
+||Organische Chemie 2|Organische Chemie 2|3|||2|**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1|
+|15||||||||||||||||
+|||||||||||||||||
+||Praktikum Physikalische Chemie|Praktikum Physikalische<br>Chemie|||9|1|**10**|||10||||SL: pÜLund<br>PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>(20-30 Min.)1)|<br>1|
+|16||||||||||||||||
+|||||||||||||||||
+||Toxikologie und Rechtskunde|Toxikologie und Rechtskunde|2||||**5**|||2,5||||PL: Klausur 120 Min.2)|1|
+|17||||||||||||||||
+||||2||||||||2,5|||||
+|||||||||||||||||
 
 
 
 28 
 
-|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note /**<br>**GOP**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
-|18<br>~~a~~|Biochemie<br>~~a~~|Biochemie(Teil 1)<br>~~ee~~|2<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|**5**<br>~~pot~~|~~pot~~|~~pot~~<br>~~|~~|2,5||||PL: Klausur 90 Min.3)|1|
-|||Biochemie(Teil 2)<br>~~ee~~|2<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~||~~pot~~|~~pot~~<br>~~|~~||2,5|||||
-|19<br>~~a~~|Organische Chemie 3<br>~~a ~~|Organische Chemie 3<br> ~~ee~~|2<br>~~ee~~|2<br>~~ee~~|~~ee~~|~~ee~~|**5**<br>~~pot~~|~~pot~~|~~pot~~<br>~~|~~||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30Min.1)|PL: Klausur 60-90 Min.<br>1|
-|20|Physikalische Chemie 3|Physikalische Chemie 3|3|1|||**5**||||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30Min.1)|PL: Klausur 60-90 Min.<br>1|
-|21|Theoretische Chemie 3|Theoretische Chemie 3|2|2|||**5**||||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1|
-|22|Praktikum Organische Chemie|Praktikum Organische Chemie|||13|1|**10**||||10|||PL: pÜL (benotet)|1|
-|23|Anorganische Chemie 4|Anorganische Chemie 4|2|2|||**5**|||||5||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1|
-|24|Organische Chemie 4|Organische Chemie 4|2<br>~~GG~~|2<br>~~GG~~|~~GG~~||**5**<br>~~GGG~~|~~GGG~~|~~GGG~~|~~GGG~~|~~QO~~|5<br>~~QO~~||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|PL: Klausur 60-90 Min.<br>1|
-|25a<br>~~**D**~~|Orientierungsmodul 1<br>~~DG~~<br>~~**D**a~~|~~DG~~<br>|2<br>~~DG~~<br>~~GG~~<br>~~GC~~<br>|~~DG~~<br>~~GG~~<br>~~GC~~<br>|~~DG~~<br>~~GG~~<br>~~GC~~<br>|2<br>~~DG~~<br>|**5**<br>~~DG~~<br>~~GGG~~<br>~~**OGG**~~<br>|~~DG~~<br>~~GGG~~<br>~~**OGG**~~<br>|~~DG~~<br>~~GGG~~<br>~~**OGG**~~|~~DG~~<br>~~GGG~~<br>~~**OGG**~~|~~DG~~<br>~~QO~~<br>~~**Q**~~|2,5<br>~~DG~~<br>~~QO~~<br>~~**Q**Q~~|2,5<br>~~DG~~|PL:gem.§46 Abs 3<br>~~DG~~|1<br>~~DG~~|
-|25b<br>~~**D**~~|Orientierungsmodul 1 Labor<br>~~DG~~<br>~~**D**a~~|~~DG~~<br>|~~GG~~<br>~~DG~~<br>~~GC~~<br>|~~GG~~<br>~~DG~~<br>~~GC~~<br>|8<br>~~GG~~<br>~~DG~~<br>~~GC~~<br>|1<br>~~DG~~<br>|**5**<br>~~GGG~~<br>~~DG~~<br>~~**OGG**~~<br>|~~GGG~~<br>~~DG~~<br>~~**OGG**~~<br>|~~GGG~~<br>~~DG~~<br>~~**OGG**~~|~~GGG ~~<br>~~DG~~<br>~~**OGG**~~|~~QO~~<br>~~DG~~<br>~~**Q**~~|2,5<br>~~QO~~<br>~~DG~~<br>~~**Q**Q~~<br>~~O~~|2,5<br>~~DG~~<br>~~O~~|PL:gem.§46 Abs 3<br>~~DG~~|1<br>~~DG~~|
-|26a<br>~~**D**~~|Orientierungsmodul 2<br>~~**D**a ~~|~~G~~|2<br>~~GC~~<br>~~G~~<br>~~GC~~|~~GC~~<br>~~G~~<br>~~GC~~|~~GC~~<br>~~G~~<br>~~GC~~|2<br>~~G~~|**5**<br>~~**OGG**~~<br>~~G~~<br>~~OGG~~|~~**OGG**~~<br>~~G~~<br>~~OGG~~|~~**OGG**~~<br>~~OGG~~|~~**OGG**~~<br>~~OGG~~|~~**Q**~~<br>~~QQ~~|54)<br>~~**Q**Q~~<br>~~O~~<br>~~QQ~~|04)<br>~~O~~|PL:gem.§46 Abs 3|1|
-|26b<br>~~**D**~~|Orientierungsmodul 2 Labor<br>~~**D**a ~~||~~GC~~<br><br>~~GC~~|~~GC~~<br><br>~~GC~~|8<br>~~GC~~<br><br>~~G~~<br>~~GC~~|1<br><br>~~G~~|**5**<br>~~**OGG**~~<br><br>~~G~~<br>~~OGG~~|~~**OGG**~~<br><br>~~G~~<br>~~OGG~~|~~**OGG**~~<br>~~G~~<br>~~OGG~~|~~**OGG** ~~<br>~~G~~<br>~~OGG~~|~~**Q**~~<br>~~G~~<br>~~QQ~~|04)<br>~~**Q**Q~~<br>~~O~~<br>~~G~~<br>~~QQ~~|54)<br>~~O~~<br>~~G~~|PL:gem.§46 Abs 3<br>~~G~~|1<br>~~G~~|
-|27a<br>~~Re~~|Orientierungsmodul 3<br>~~ee~~<br>~~Re~~|~~ee~~<br>~~Re~~|2<br>~~GC~~<br>~~ee~~<br>~~GG~~|~~GC~~<br>~~ee~~<br>~~GG~~|~~GC~~<br>~~ee~~<br>~~GG~~|2<br>~~ee~~|**5**<br>~~OGG~~<br>~~ee~~<br>~~OOO~~|~~OGG~~<br>~~ee~~<br>~~OOO~~|~~OGG~~<br>~~ee~~<br>~~OOO~~|~~OGG ~~<br>~~ee~~<br>~~OOO~~|~~QQ~~<br>~~ee~~<br>~~QO~~|54)<br>~~QQ~~<br>~~ee~~<br>~~QO~~|04)<br>~~ee~~<br>~~QO~~|PL:gem.§46 Abs 3<br>~~ee~~|1<br>~~ee~~|
-|27b Orientierun<br>~~Re~~|27b Orientierungsmodul 3 Labor<br>~~DG~~<br>~~Re~~|~~DG~~<br>~~Re~~|~~DG~~<br>~~GG~~|~~DG~~<br>~~GG~~|8<br>~~DG~~<br>~~GG~~|1<br>~~DG~~|**5**<br>~~DG~~<br>~~OOO~~|~~DG~~<br>~~OOO~~|~~DG~~<br>~~OOO~~|~~DG~~<br>~~OOO~~|~~DG~~<br>~~QO~~|04)<br>~~DG~~<br>~~QO~~|54)<br>~~DG~~<br>~~QO~~|PL:gem.§46 Abs 3<br>~~DG~~|1<br>~~DG~~|
-|28<br>~~Re~~|Datenmanagement<br>~~Re~~|Datenmanagement<br>~~Re~~|~~GG~~|~~GG~~|4<br>~~GG~~<br>~~POD~~|2<br>~~POD~~|**5**<br>~~OOO~~<br>~~POD~~|~~OOO~~<br>~~POD~~|~~OOO~~<br>~~POD~~|~~OOO ~~<br>~~POD~~|~~QO~~<br>~~POD~~|5<br>~~QO~~<br>~~POD~~|~~QO~~<br>~~POD~~|PL:pÜL(benotet)<br>~~POD~~|1|
+||||||||||**Workload pro Semester**||||||**Faktor**|
+|||||**SWS**|||**Ge-**|||||||||
+||||||||||**in ECTS-Punkten**|||||**Art und Umfang**|**Modul-**|
+|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**samt**|||||||||
+|||||||||||||||**der Prüfung**|**note /**|
+||||||||**ECTS**|||||||||
+|||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||**GOP**|
+||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|||||||||||||||||
+||Biochemie|Biochemie(Teil 1)|2||||**5**|||2,5|||||1|
+|18||||||||||||||PL: Klausur 90 Min.3)||
+|||Biochemie(Teil 2)|2||||||||2,5|||||
+|||||||||||||||||
+||Organische Chemie 3|Organische Chemie 3|2|2|||**5**||||5|||PL: Klausur 60-90 Min.|<br>1|
+|||||||||||||||_oder_||
+|19||||||||||||||||
+|||||||||||||||mündliche Prüfung||
+|||||||||||||||||
+|||||||||||||||20-30Min.1)||
+||Physikalische Chemie 3|Physikalische Chemie 3|3|1|||**5**||||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30Min.1)|<br>1|
+|20||||||||||||||||
+|||||||||||||||||
+||Theoretische Chemie 3|Theoretische Chemie 3|2|2|||**5**||||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1|
+|21||||||||||||||||
+|||||||||||||||||
+||Praktikum Organische Chemie|Praktikum Organische Chemie|||13|1|**10**||||10|||PL: pÜL (benotet)|1|
+|22||||||||||||||||
+|||||||||||||||||
+||Anorganische Chemie 4|Anorganische Chemie 4|2|2|||**5**|||||5||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1|
+|23||||||||||||||||
+|||||||||||||||||
+||Organische Chemie 4|Organische Chemie 4|2|2|||**5**|||||5||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung<br>20-30 Min.1)|<br>1|
+|24||||||||||||||||
+|||||||||||||||||
+|25a|Orientierungsmodul 1||2|||2|**5**|||||2,5|2,5|PL:gem.§46 Abs 3|1|
+|25b|Orientierungsmodul 1 Labor||||8|1|**5**|||||2,5|2,5|PL:gem.§46 Abs 3|1|
+|26a|Orientierungsmodul 2||2|||2|**5**|||||54)|04)|PL:gem.§46 Abs 3|1|
+|26b|Orientierungsmodul 2 Labor||||8|1|**5**|||||04)|54)|PL:gem.§46 Abs 3|1|
+|27a|Orientierungsmodul 3||2|||2|**5**|||||54)|04)|PL:gem.§46 Abs 3|1|
+|27b|Orientierungsmodul 3 Labor||||8|1|**5**|||||04)|54)|PL:gem.§46 Abs 3|1|
+|28|Datenmanagement|Datenmanagement|||4|2|**5**|||||5||PL:pÜL(benotet)|1|
 
 
 
 29 
 
-|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note /**<br>**GOP**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
+||||||||||**Workload pro Semester**||||||**Faktor**|
+||||**SWS**||||**Ge-**|||||||||
+||||||||||**in ECTS-Punkten**|||||**Art und Umfang**|**Modul-**|
+|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**samt**|||||||||
+|||||||||||||||**der Prüfung**|**note /**|
+||||||||**ECTS**|||||||||
+|||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||**GOP**|
+||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|||||||||||||||||
 |29|Schlüsselqualifikationen4)|Schlüsselqualifikationen|||||**5**||||||5|5)|0|
-|30|Bachelorarbeit|Bachelorarbeit|||13||**10**||||||10|Schriftliche Arbeit, vgl.<br>§ 47 Abs. 2 Satz 4|2|
-|**Summe SWS und ECTS-Punkte**|||**64**|**23**|**82**|**17**|**180**|**27,5**|**32,5**|**30**|**30**|**30**|**30**|||
+||Bachelorarbeit|Bachelorarbeit|||13||**10**||||||10|Schriftliche Arbeit, vgl.<br>§ 47 Abs. 2 Satz 4|2|
+|30||||||||||||||||
+|||||||||||||||||
+||||**64**|**23**|**82**|**17**||||||||||
+|**Summe SWS und ECTS-Punkte**|||||||**180**|**27,5**|**32,5**|**30**|**30**|**30**|**30**|||
 ||||**186**|||||||||||||
+|||||||||||||||||
 
 
 
@@ -676,13 +903,17 @@ SeL = Seminarleistung gemäß § 6 Abs. 4 **ABMPO/NatFak** ÜL = Übungsleistung
 
 30 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 1b: Studienverlaufsplan Bachelorstudiengang Chemie (Teilzeit)** 
 
 Pflichtmodule: grün; Wahlpflichtmodule: rot; Wahlmodule: blau 
 
-|**Nr.**|**Modulbe-**<br>**zeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note /**<br>**GOP**|
+|**Nr.**|**Modulbe-**<br>**zeichnung**|**Lehrveranstaltung**||**SWS**|**SWS**||**Gesamt**||**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|||<br>**Faktor**<br>**Modul-**<br>**note /**<br>**GOP**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|**10.**|**11.**|**12.**|||
+||||**V**|**Ü**|**P**|**S**|**ECTS-**<br>**Punkte**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**9.**|**10.**|**11.**|**12.**|**Art und Umfang**<br>**der Prüfung**||
 |1|Anorganische<br>Chemie 1|Anorganische Chemie<br>1|4|1|||**5**|5||||||||||||PL: Klausur 60-<br>90 Min._oder_<br>mündliche Prü-<br>fung 20-30 Min.<br>1)|1 /<br>GOP|
 |2|Physik 1|Experimentalphysik für<br>Naturwissenschaftler I|4|1|||**5**|5||||||||||||PL: Klausur 60-<br>90 Min._oder_<br>mündliche Prü-<br>fung 20-30 Min.<br>1)|1|
 |3|Mathematik für<br>Naturwissen-<br>schaftler|Mathematik für Natur-<br>wissenschaftler|2|2|||**5**|5||||||||||||PL: Klausur 60-<br>90 Min._oder_<br>mündliche Prü-<br>fung 20-30 Min.<br>1)|1|
@@ -694,6 +925,10 @@ Pflichtmodule: grün; Wahlpflichtmodule: rot; Wahlmodule: blau
 
 31 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |4|Qualitative ana-<br>lytische<br>Chemie|Qualitative analytische<br>Chemie|2|1||1|**5**|||5||||||||||PL: Klausur 60-<br>90 Min._oder_<br>mündliche Prü-<br>fung 20-30 Min.<br>1)|1 /<br>GOP|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |5|Praktikum<br>Qualitative ana-<br>lytische<br>Chemie|Praktikum Qualitative<br>analytische Chemie|||7||**5**|||5||||||||||PL: pÜL<br>(benotet)|1|
@@ -703,12 +938,16 @@ Pflichtmodule: grün; Wahlpflichtmodule: rot; Wahlmodule: blau
 |21|Theoretische<br>Chemie 3|Theoretische Chemie<br>3|2|2|||**5**||||5|||||||||PL: Klausur 60-<br>90 Min._oder_<br>mündliche Prü-<br>fung 20-30 Min.<br>1)|1|
 |9|Physikalische<br>Chemie 1|Physikalische Chemie<br>1|3|1|||**5**||||5|||||||||PL: Klausur 60-<br>90 Min._oder_<br>mündliche Prü-<br>fung 20-30 Min.<br>1)|1|
 |13|Physikalische<br>Chemie 2|Physikalische Chemie<br>2|3|1|||**5**|||||5||||||||PL: Klausur 60-<br>90 Min._oder_<br>mündliche Prü-<br>fung 20-30 Min.<br>1)|1|
-|17|Toxikologie<br>und Rechts-<br>kunde<br>~~Be~~|Toxikologie<br>~~Be~~|2<br>~~Be~~<br>~~Oe~~|~~Be~~|~~Be~~<br>~~bee~~|~~Be~~<br>~~bee~~|**5**<br>~~Be~~<br>~~bee~~|~~Be~~<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|2,5<br>~~pa~~<br>~~ee~~|~~pa~~<br>~~ee~~|~~pa~~<br>~~ee~~|~~pa~~<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|PL: Klausur 120<br>Min.2)<br>~~Cd~~|1<br>~~Cd~~|
-|||Rechtskunde<br>~~Be~~<br>~~Ss~~|2<br>~~Be~~<br>~~Ss~~<br>~~Oe~~|~~Be~~<br>~~Ss~~|~~Be~~<br>~~Ss~~<br>~~bee~~|~~Be~~<br>~~Ss~~<br>~~bee~~||~~Be~~<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~pa~~<br>~~ee~~|2,5<br>~~pa~~<br>~~ee~~|~~pa~~<br>~~ee~~|~~pa~~<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|||
+|17|Toxikologie<br>und Rechts-<br>kunde|Toxikologie|2||||**5**|||||2,5||||||||PL: Klausur 120<br>Min.2)|1|
+|||Rechtskunde|2||||||||||2,5|||||||||
 
 
 
 32 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |18|Biochemie|Biochemie (Teil 1)|2||||**5**|||||2,5||||||||PL: Klausur<br>90 Min.3)|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -727,18 +966,24 @@ Pflichtmodule: grün; Wahlpflichtmodule: rot; Wahlmodule: blau
 
 33 
 
-|~~Po~~|~~Po~~|~~Po~~||||||||||||||||||mündliche Prü-<br>fung 20-30 Min.<br>1)||
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|||||||||||||||||||||mündliche Prü-<br>fung 20-30 Min.<br>1)||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|25a<br>~~Po~~|Orientierungs-<br>modul 1<br>~~Po~~<br>~~a~~|~~Po~~<br>~~ee~~|2<br>~~ee~~|~~ee~~|~~ee~~|2<br>~~ee~~|**5**<br>|~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~Ge~~|~~Ge~~|~~Ge~~|5<br>~~Ge~~|~~Ge~~|~~Gs~~|PL:<br>gem.§46Abs 3|1|
-|25b<br>~~Po~~<br>~~Pp~~|Orientierungs-<br>modul 1 Labor<br>~~Po~~<br>~~a~~<br>~~Pp~~|~~Po~~<br>~~ee~~|~~ee~~|~~ee~~|8<br>~~ee~~|1<br>~~ee~~|**5**<br>|~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~ee~~|~~Ge~~|~~Ge~~|~~Ge~~|~~Ge~~|5<br>~~Ge~~|~~Gs~~|PL:<br>gem. § 46 Abs 3|1|
-|26a<br>~~Pp~~<br>~~Pp~~|Orientierungs-<br>modul 2<br>~~a~~<br>~~Pp~~<br>~~Pp~~|~~ee~~<br>|2<br>~~ee~~<br>|~~ee ~~<br>|~~ee~~<br>|2<br>~~ee ~~<br>|**5**<br> <br>|~~ee~~<br>|~~ee~~<br>|~~ee~~<br>|~~ee~~<br>|~~ee~~<br>|~~ee ~~<br>|~~Ge ~~<br>|~~Ge ~~<br>|~~Ge ~~<br>|5<br> ~~Ge ~~<br>|~~Ge ~~<br>|~~Gs~~<br>|PL:<br>gem. § 46 Abs 3<br>|1<br>|
-|26b<br>~~Pp~~<br>~~Pp~~|Orientierungs-<br>modul 2 Labor<br>~~Pp~~<br>~~Pp~~||||8<br>|1<br>|**5**<br>|||||||||5<br>||||PL:<br>gem. § 46 Abs 3<br>|1<br>|
-|27a<br>~~Pp~~<br>~~pO~~|Orientierungs-<br>modul 3<br>~~Pppd~~<br>~~pO~~|~~pd~~|2<br>~~pd~~|~~pd~~|~~pd~~|2<br>~~pd~~|**5**<br>~~pd~~|~~pd~~|~~pd~~|~~pd~~|~~pd~~|~~pd~~|~~pd~~|~~pd~~|~~pd~~|5<br>~~pd~~|~~pd~~|~~pd~~|~~pd~~|PL:<br>gem. § 46 Abs 3<br>~~pd~~|1<br>~~pd~~|
-|27b<br>~~pO~~<br>~~Pp~~|Orientierungs-<br>modul 3 Labor<br>~~pO~~<br>~~Pp~~||||8|1|**5**||||||||||5|||PL:<br>gem. § 46 Abs 3|1|
-|29<br>~~pO~~<br>~~Pp~~|Schlüsselquali-<br>fikationen4)<br>~~pO~~<br>~~Pp~~|Schlüsselqualifikatio-<br>nen|||||**5**||||||||||||5|4)|0|
-|30<br>~~Pp~~|Bachelorarbeit<br>~~Pp~~|Bachelorarbeit|||13||**10**||||||||||||10|Schriftliche Ar-<br>beit, vgl. § 47<br>Abs. 2 Satz 4|2|
-|**Summe SWS und ECTS-Punkte**|||**64 **|**23**|**82 **|**17**|**180**|**15**|**15**|**17,**<br>**5**|**17,**<br>**5**|**10**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|||
-||||**186**|||||||||||||||||||
+|25a|Orientierungs-<br>modul 1||2|||2|**5**||||||||||5|||PL:<br>gem.§46Abs 3|1|
+|25b|Orientierungs-<br>modul 1 Labor||||8|1|**5**|||||||||||5||PL:<br>gem. § 46 Abs 3|1|
+|26a|Orientierungs-<br>modul 2||2|||2|**5**||||||||||5|||PL:<br>gem. § 46 Abs 3|1|
+|26b|Orientierungs-<br>modul 2 Labor||||8|1|**5**|||||||||5||||PL:<br>gem. § 46 Abs 3|1|
+|27a|Orientierungs-<br>modul 3||2|||2|**5**|||||||||5||||PL:<br>gem. § 46 Abs 3|1|
+|27b|Orientierungs-<br>modul 3 Labor||||8|1|**5**||||||||||5|||PL:<br>gem. § 46 Abs 3|1|
+|29|||||||||||||||||||||0|
+||Schlüsselquali-<br>fikti4)|Schlüsselqualifikatio-<br>|||||**5**||||||||||||5|4)||
+||aonen|nen||||||||||||||||||||
+|30|Bachelorarbeit|Bachelorarbeit|||13||**10**||||||||||||10|Schriftliche Ar-<br>beit, vgl. § 47<br>Abs. 2 Satz 4|2|
+|**Summe SWS und ECTS-Punkte**|||**64 **|**23**|**82 **|**17**|**180**|**15**|**15**|**17,**<br>**5**|**17,**|**10**|**1**|**1**|**1**|**1**|**1**|**1**|**1**|||
+||||**186**||||||||**5**||**5**|**5**|**5**|**5**|**5**|**5**|**5**|||
 
 
 
@@ -758,67 +1003,177 @@ P = Praktikum SWS = Semesterwochenstunden ECTS = Punkte des European Credit Tran
 
 34 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2: Studienverlaufsplan Bachelorstudiengang Molecular Science (nur Vollzeit möglich)** 
 
 Pflichtmodule: grün; Wahlpflichtmodule: rot; Wahlmodule: blau 
 
-|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note /**<br>**GOP**|
+|||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
-|1|Anorganische Chemie 1|Anorganische Chemie 1|4|1|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30Min.1)|1 /<br>GOP|
-|2|Physik 1|Experimentalphysik für Naturwissen-<br>schaftler I|4|1|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1|
-|3|Mathematik|Mathematik für Naturwissenschaftler|2|2|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30 Min.1)|1|
-|4|Qualitative analytische Chemie|Qualitative analytische Chemie|2|1||1|**5**|5||||||PL: Klausur 60-90 Min.<br>oder<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1 /<br>GOP|
-|5|Praktikum Qualitative analytische<br>Chemie|Praktikum Qualitative analytische<br>Chemie|||7||**5**|5||||||PL: pÜL (benotet)|1 /<br>GOP|
-|6|Quantitative analytische Chemie|Quantitative analytische Chemie|2||||**5**|2,5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30 Min.1)+<br>SL: pÜL (benotet)|1 /<br>GOP|
-||||||5||||2,5|||||||
-|7|Anorganische Chemie 2|Anorganische Chemie 2|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30 Min.1)|1 /<br>GOP|
-|8|Organische Chemie 1|Organische Chemie 1|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1 /<br>GOP|
+||||||||||**Workload pro Semester in**||||||**Faktor**|
+|||||**SWS**|||**Ge-**|||||||||
+||||||||||**ECTS-Punkten**|||||**Art und Umfang**|**Modul-**|
+|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**samt**|||||||||
+|||||||||||||||**der Prüfung**|**note /**|
+||||||||**ECTS**|||||||||
+|||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||**GOP**|
+||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|||||||||||||||||
+||Anorganische Chemie 1|Anorganische Chemie 1|4|1|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30Min.1)|1 /<br>GOP|
+|1||||||||||||||||
+|||||||||||||||||
+||Physik 1|Experimentalphysik für Naturwissen-<br>schaftler I|4|1|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1|
+|2||||||||||||||||
+|||||||||||||||||
+||Mathematik|Mathematik für Naturwissenschaftler|2|2|||**5**|5||||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30 Min.1)|1|
+|3||||||||||||||||
+|||||||||||||||||
+|||||||||||||||PL: Klausur 60-90 Min.||
+|||||||||||||||oder|1 /|
+|4|Qualitative analytische Chemie|Qualitative analytische Chemie|2|1||1|**5**|5||||||||
+|||||||||||||||mündliche Prüfung 20-30|<br>GOP|
+|||||||||||||||||
+|||||||||||||||Min.1)||
+|||||||||||||||||
+||Praktikum Qualitative analytische|Praktikum Qualitative analytische|||||||||||||1 /|
+|5|||||7||**5**|5||||||PL: pÜL (benotet)||
+||Chemie|Chemie|||||||||||||GOP|
+|||||||||||||||||
+|||||||||||||||||
+|||||||||||||||PL: Klausur 60-90 Min.||
+||||2||||**5**|2,5||||||||
+|||||||||||||||_oder_||
+||||||||||||||||1 /|
+|6|Quantitative analytische Chemie|Quantitative analytische Chemie||||||||||||mündliche Prüfung 20-||
+||||||||||||||||GOP|
+||||||5||||2,5|||||30 Min.1)+||
+|||||||||||||||||
+|||||||||||||||SL: pÜL (benotet)||
+||Anorganische Chemie 2|Anorganische Chemie 2|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30 Min.1)|1 /<br>GOP|
+|7||||||||||||||||
+|||||||||||||||||
+||Organische Chemie 1|Organische Chemie 1|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1 /<br>GOP|
+|8||||||||||||||||
+|||||||||||||||||
 
 
 
 35 
 
-|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note /**<br>**GOP**|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
-|9|Physikalische Chemie 1|Physikalische Chemie 1|3|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1 /<br>GOP|
-|10|Theoretische Chemie 1|Theoretische Chemie 1|2|2|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30 Min.1)|1 /<br>GOP|
-|11|Physik 2|Experimentalphysik für Naturwissen-<br>schaftler II|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1|
+||||||||||**Workload pro Semester in**||||||**Faktor**|
+|||||**SWS**|||**Ge-**|||||||||
+||||||||||**ECTS-Punkten**|||||**Art und Umfang**|**Modul-**|
+|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**samt**|||||||||
+|||||||||||||||**der Prüfung**|**note /**|
+||||||||**ECTS**|||||||||
+|||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||**GOP**|
+||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|||||||||||||||||
+||Physikalische Chemie 1|Physikalische Chemie 1|3|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1 /<br>GOP|
+|9||||||||||||||||
+|||||||||||||||||
+||Theoretische Chemie 1|Theoretische Chemie 1|2|2|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30 Min.1)|1 /<br>GOP|
+|10||||||||||||||||
+|||||||||||||||||
+||Physik 2|Experimentalphysik für Naturwissen-<br>schaftler II|4|1|||**5**||5|||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1|
+|11||||||||||||||||
+|||||||||||||||||
 |12|Anorganische Chemie 3|Präparative Anorganische Chemie|||7|1|**5**||5|||||PL:pÜL(benotet)|1|
-|13|Physikalische Chemie 2|Physikalische Chemie 2|2|2|||**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1|
-|14|Theoretische Chemie 2|Theoretische Chemie 2|2|2|||**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30 Min.1)|1|
-|15|Organische Chemie 2|Organische Chemie 2|3|||2|**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1|
-|16|Praktikum Physikalische Chemie|Praktikum Physikalische Chemie|~~P|~~|~~ee~~<br>~~P|~~|9<br>~~ee ee~~|1<br>~~ee~~|**10**<br>~~ee~~|~~ee~~||10|||~~ee~~|SL: pÜL (benotet) +<br>PL: mündlich 20-30 Min.<br>_oder_<br>Klausur60-90Min.1)<br>~~ee~~|1<br>~~ee~~|
-|17<br>~~ee~~|Toxikologie und Rechtskunde<br>~~ee~~|Toxikologie und Rechtskunde<br>~~ee~~|2<br>~~ee~~<br>~~P|~~|~~ee~~<br>~~ee~~<br>~~P|~~<br>~~|~~|~~ee~~<br>~~ee ee~~|~~ee~~<br>~~ee~~|**5**<br>~~ee~~<br>~~ee~~<br>~~|~~|~~ee~~<br>~~ee~~<br>~~|~~<br>~~|~~|~~ee~~<br>~~|~~|2,5<br>~~ee~~<br>~~mT~~|~~ee~~<br>~~mT~~|~~ee~~|~~ee~~<br>~~ee~~|PL: Klausur 120 Min2)<br>~~ee~~<br>~~ee~~|1<br>~~ee~~<br>~~ee~~|
-||||2<br>~~ee~~<br>~~P|~~|~~ee~~<br>~~ee~~<br>~~P|~~<br>~~|~~|~~ee~~<br>~~ee ee~~|~~ee~~<br>~~ee~~||~~ee~~<br>~~ee~~<br>~~|~~<br>~~|~~|~~ee~~<br>~~|~~|~~ee~~<br>~~mT~~|2,5<br>~~ee~~<br>~~mT~~|~~ee~~|~~ee~~<br>~~ee~~|||
-|18|Biochemie|Biochemie(Teil 1)<br>~~es~~|~~P|~~<br>~~es~~|~~ee~~<br>~~P|~~<br>~~|~~|~~ee ee~~|~~ee~~|**5**<br>~~ee~~<br>~~|~~<br>~~|~~|~~ee~~<br>~~|~~<br>~~|~~<br>~~|~~<br>~~|~~|~~|~~<br>~~f~~|2,5<br>~~mT~~<br>~~f~~~~**t**~~|~~mT~~||~~ee~~|PL: Klausur 90 Min.3)<br>~~ee~~|1<br>~~ee~~|
-|||Biochemie(Teil 2)<br>~~es~~|~~es~~|||||~~|~~<br>~~|~~|~~f~~|~~f~~~~**t**~~|2,5<br>~~t~~|~~t~~|~~t~~|||
+||Physikalische Chemie 2|Physikalische Chemie 2|2|2|||**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1|
+|13||||||||||||||||
+|||||||||||||||||
+||Theoretische Chemie 2|Theoretische Chemie 2|2|2|||**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-<br>30 Min.1)|1|
+|14||||||||||||||||
+|||||||||||||||||
+||Organische Chemie 2|Organische Chemie 2|3|||2|**5**|||5||||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1|
+|15||||||||||||||||
+|||||||||||||||||
+||Praktikum Physikalische Chemie|Praktikum Physikalische Chemie|||9|1|**10**|||10||||SL: pÜL (benotet) +<br>PL: mündlich 20-30 Min.<br>_oder_<br>Klausur60-90Min.1)|1|
+|16||||||||||||||||
+|||||||||||||||||
+||Toxikologie und Rechtskunde|Toxikologie und Rechtskunde|2||||**5**|||2,5||||PL: Klausur 120 Min2)|1|
+|17||||||||||||||||
+||||2||||||||2,5|||||
+|||||||||||||||||
+||Biochemie|Biochemie(Teil 1)|||||**5**|||2,5|||||1|
+|18||||||||||||||PL: Klausur 90 Min.3)||
+|||Biochemie(Teil 2)|||||||||2,5|||||
+|||||||||||||||||
 
 
 
 36 
 
-|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note /**<br>**GOP**|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
-|19|Organische Chemie 3|Organische Chemie 3|2|2|||**5**||||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1|
-|20|Physikalische Chemie 3|Physikalische Chemie 3|2|1|||**5**||||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1|
-|21|Theoretische Chemie 3|Theoretische Chemie 3|2|2|||**5**||||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1|
+||||||||||**Workload pro Semester in**||||||**Faktor**|
+||||**SWS**||||**Ge-**|||||||||
+||||||||||**ECTS-Punkten**|||||**Art und Umfang**|**Modul-**|
+|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**samt**|||||||||
+|||||||||||||||**der Prüfung**|**note /**|
+||||||||**ECTS**|||||||||
+|||||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||**GOP**|
+||||**V**|**Ü**|**P**|**S**||||||||||
+|||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
+|||||||||||||||||
+||Organische Chemie 3|Organische Chemie 3|2|2|||**5**||||5|||PL: Klausur 60-90 Min.|<br>1|
+|||||||||||||||_oder_||
+|19||||||||||||||||
+|||||||||||||||mündliche Prüfung 20-30||
+|||||||||||||||||
+|||||||||||||||Min.1)||
+||Physikalische Chemie 3|Physikalische Chemie 3|2|1|||**5**||||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1|
+|20||||||||||||||||
+|||||||||||||||||
+||Theoretische Chemie 3|Theoretische Chemie 3|2|2|||**5**||||5|||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1|
+|21||||||||||||||||
+|||||||||||||||||
 |22|Praktikum Organische Chemie|Praktikum Organische Chemie|||13|1|**10**||||10|||PL:pÜL(benotet)|1|
-|23|Anorganische Chemie 4|Anorganische Chemie 4|2|2|||**5**||||||5|PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1|
-|24|Organische Chemie 4|Organische Chemie 4|2|2|||**5**|||||5||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|mündliche Prüfung 20-30<br>1|
-|25|Modulpaket „Orientierungsmodul<br>Molecular Life Science“4)||17|3|9|3|**30**|||||15|15|PL: gem. § 49 Abs. 3|1|
-|26<br>~~DR~~|Modulpaket „Orientierungsmodul<br>Molecular Nanoscience“4)<br>~~DR~~|~~GG~~|7<br>~~GG~~|3|16<br>~~eG~~|8<br>~~eG~~|**30**<br>~~Qs~~|~~OQ~~|~~OQ~~||~~OO~~|15<br>~~OO~~|15<br>~~OO~~|PL: gem. § 49 Abs. 3|1|
-|27<br>~~DR~~|Schlüsselqualifikationen5)<br>~~DR~~|Schlüsselqualifikationen<br>~~GG~~|2<br>~~GG~~||~~eG~~|2<br>~~eG~~|**5**<br>~~Qs~~|~~OQ~~|~~OQ~~||~~OO~~|5<br>~~OO~~|~~OO~~|5)|0|
-|28<br>~~DR~~|Synthesepraktikum<br>~~DR~~|Synthesepraktikum<br>~~GG~~|~~GG~~||8<br>~~eG~~|1<br>~~eG ~~|**5**<br> ~~Qs~~|~~OQ~~|~~OQ~~||~~OO~~|5<br>~~OO~~|~~OO~~|PL:pÜL(benotet)|1|
-|29<br>~~—~~|Bachelorarbeit<br>~~Eee~~|Bachelorarbeit<br>~~Eee~~|~~Eee~~|~~Eee~~|13<br>~~Eee~~|~~Eee~~|**10**<br>~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|~~Eee~~|10<br>~~Eee~~|Schriftliche Arbeit<br>(ca. 35 Seiten)<br>~~Eee~~|2<br>~~Eee~~|
-|**Summe SWS und ECTS-Punkte**|||**71/**<br>**616)**|**27**|**70/**<br>**776)**|**12/**<br>**176)**|**180**|**27,5**|**32,5**|**30**|**30**|**30**|**30**|||
+||Anorganische Chemie 4|Anorganische Chemie 4|2|2|||**5**||||||5|PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1|
+|23||||||||||||||||
+|||||||||||||||||
+||Organische Chemie 4|Organische Chemie 4|2|2|||**5**|||||5||PL: Klausur 60-90 Min.<br>_oder_<br>mündliche Prüfung 20-30<br>Min.1)|<br>1|
+|24||||||||||||||||
+|||||||||||||||||
+||Modulpaket „Orientierungsmodul<br>Molecular Life Science“4)||17|3|9|3|**30**|||||15|15|PL: gem. § 49 Abs. 3|1|
+|25||||||||||||||||
+|||||||||||||||||
+||Modulpaket „Orientierungsmodul<br>Molecular Nanoscience“4)||7|3|16|8|**30**|||||15|15|PL: gem. § 49 Abs. 3|1|
+|26||||||||||||||||
+|||||||||||||||||
+|27|Schlüsselqualifikationen5)|Schlüsselqualifikationen|2|||2|**5**|||||5||5)|0|
+|28|Synthesepraktikum|Synthesepraktikum|||8|1|**5**|||||5||PL:pÜL(benotet)|1|
+||Bachelorarbeit|Bachelorarbeit|||13||**10**||||||10|Schriftliche Arbeit<br>(ca. 35 Seiten)|2|
+|29||||||||||||||||
+|||||||||||||||||
+||||**71/**||**70/**|**12/**||||||||||
+|||||**27**||||||||||||
+|**Summe SWS und ECTS-Punkte**|||**616)**||**776)**|**176)**|**180**|**27,5**|**32,5**|**30**|**30**|**30**|**30**|||
 ||||**180-1826)**|||||||||||||
+|||||||||||||||||
 
 
 
 37 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **Erläuterungen:** 
 
@@ -842,25 +1197,31 @@ P = Praktikum SWS = Semesterwochenstunden ECTS = Punkte des European Credit Tran
 
 38 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 3: Studienverlaufsplan Masterstudiengang Chemistry (nur Vollzeit möglich)** 
 
 Pflichtmodule: grün; Wahlpflichtmodule: blau; und Wahlmodule: grau 
 
 |**Nr.**|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Workload pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||**n ECTS-Punkten**|||||
+||||||||||||||
 |||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
 |1|Fachliches Wahlpflichtmodul 1<br>gem. § 55|4|||2|**10**|5|5|||vgl. § 55 Abs. 3 i. V. m. § 46 Abs. 3|1|
 |2|Fachliches Wahlpflichtmodul 1 – Labor<br>gem.§ 55|||15||**10**|5|5|||vgl. § 55 Abs. 3 i. V. m. § 46 Abs. 3|1|
 |3|Fachliches Wahlpflichtmodul 2<br>gem. § 55|4|||2|**10**|5|5|||vgl. § 55 Abs. 3 i. V. m. § 46 Abs. 3|1|
 |4|Fachliches Wahlpflichtmodul 2 – Labor<br>gem. § 55|||15||**10**|5|5|||vgl. § 55 Abs. 3 i. V. m. § 46 Abs. 3|1|
-|5-8<br>~~I~~|Ergänzende Wahlpflichtmodule<br>gemäß § 56<br>~~es~~|6<br>~~es~~|~~Oe~~|7<br>~~Pe~~|3<br>~~Ge~~|**20**<br>~~Ge~~|10<br>~~GD~~|10<br>~~Qs~~|~~GO~~|~~GO~~|Vgl. § 56 Abs. Abs. 2 i. V. m.<br>§46Abs.3<br>~~GO~~|1|
-|9<br>~~I~~|Wahlmodul 1gemäß§571)<br>~~es~~|~~es~~|~~Oe~~|~~Pe~~|~~Ge~~|**5**<br>~~Ge~~|~~GD~~|~~Qs~~|5<br>~~GO~~|~~GO~~|vgl.§57<br>~~GO~~|0|
-|10<br>~~I~~<br>~~Pf~~<br>~~PO~~|Wahlmodul 2 gemäß§571)<br>~~es~~<br>~~Pf~~|~~es ~~<br>~~Pf~~|~~Oe~~<br>~~Pf~~|~~Pe~~<br>~~Pf~~|~~Ge~~<br>~~Pf~~|**5**<br>~~Ge~~<br>~~Pf~~|~~GD~~<br>~~Pf~~|~~Qs ~~<br>~~Pf~~|5<br> ~~GO~~<br>~~Pf~~|~~GO ~~<br>~~Pf~~|vgl.§57<br> ~~GO~~<br>~~Pf~~|0<br>~~Pf~~|
-|11<br>~~PO~~|Wahlmodul 3 gemäß§571)|||||**5**|||5||vgl.§57|0|
-|12<br>~~PO~~|Forschungsmodulgemäß§58|||21|2|**15**|||15||vgl.§58 Sätze 5und6|1|
+|5-8|Ergänzende Wahlpflichtmodule<br>gemäß § 56|6||7|3|**20**|10|10|||Vgl. § 56 Abs. Abs. 2 i. V. m.<br>§46Abs.3|1|
+|9|Wahlmodul 1gemäß§571)|||||**5**|||5||vgl.§57|0|
+|10|Wahlmodul 2 gemäß§571)|||||**5**|||5||vgl.§57|0|
+|11|Wahlmodul 3 gemäß§571)|||||**5**|||5||vgl.§57|0|
+|12|Forschungsmodulgemäß§58|||21|2|**15**|||15||vgl.§58 Sätze 5und6|1|
 |13|Masterarbeit gemäß § 59|||35||**30**||||30|PL: schriftl. Arbeit,<br>vgl.§ 59Abs. Abs. 2Satz 2|1|
-|**Summe SWS und ECTS-Punkte**||**14**||**93**|**9**|**120**|**30**|**30**|**30**|**30**|||
-|||**116**|||||||||||
+|||**14**||**93**|**9**||||||||
+|**Summe SWS und ECTS-Punkte**||**116**||||**120**|**30**|**30**|**30**|**30**|||
 
 
 
@@ -870,23 +1231,27 @@ Pflichtmodule: grün; Wahlpflichtmodule: blau; und Wahlmodule: grau
 
 39 
 
-## **Anlage 4: Studienverlaufsplan Masterstudiengang Molecular Science (nur Vollzeit möglich)** 
+**==> picture [164 x 49] intentionally omitted <==**
 
-Pflichtmodule: grün; Wahlpflichtmodule: blau; und Wahlmodule: grau 
+**==> picture [114 x 46] intentionally omitted <==**
+
+**Anlage 4: Studienverlaufsplan Masterstudiengang Molecular Science (nur Vollzeit möglich)** Pflichtmodule: grün; Wahlpflichtmodule: blau; und Wahlmodule: grau 
 
 ||**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Workload pro Semester in**<br>**ECTS-Punkten**|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||**ECTS-Punkten**|||||
+||||||||||||||
 |||**V**|**Ü**|**P**|**S**||**1.Sem.**|**2.Sem.**|**3.Sem.**|**4.Sem.**|||
 |1|Modulpaket „Molecular Life Science“1)|12||15|10|**40**|20|20|||vgl. § 64 Abs. 5<br>i. V. m. § 49 Abs. 3|1|
 |2|Modulpaket “Molecular Nanoscience“1)|12||15|10|**40**|20|20|||vgl. § 64 Abs. 5<br>i. V. m. § 49 Abs. 3|1|
 |3-6|Ergänzende Wahlpflichtmodule gemäß<br>§ 65|6||7|3|**20**|10|10|||Vgl. § 65 Abs. 2<br>i. V. m.§49Abs.3|1|
-|7|Wahlmodul 1 gemäß§662)<br>~~po~~|~~po~~|~~po~~|~~po~~|~~po~~|**5**<br>~~po~~|~~po~~|~~po~~|5<br>~~po~~|~~po~~|vgl.§66<br>~~po~~|0<br>~~po~~|
-|8|Wahlmodul 2 gemäß§662)<br>~~po~~|~~po~~|~~po~~<br>~~Oe~~|~~po~~<br>|~~po~~<br>~~GG~~|**5**<br>~~po~~<br>~~GG~~|~~po~~<br>~~GG~~|~~po~~<br>~~GG~~|5<br>~~po~~<br>~~GG~~|~~po~~|vgl.§66<br>~~po~~|0<br>~~po~~|
-|9|Wahlmodul 3 gemäß§662)<br>~~Oe~~|~~Oe~~|~~Oe~~<br>~~Oe~~|~~Oe~~<br>|~~Oe~~<br>~~GG~~|**5**<br>~~Oe~~<br>~~GG~~|~~Oe~~<br>~~GG~~|~~Oe~~<br>~~GG~~|5<br>~~Oe~~<br>~~GG~~|~~Oe~~|vgl.§66<br>~~Oe~~|0<br>~~Oe~~|
-|10|Forschungsmodulgemäß§67||~~Oe ~~|21<br>|2<br> ~~GG~~|**15**<br>~~GG~~|~~GG ~~|~~GG~~|15<br>~~GG~~||vgl.§67 Satz 5|1|
+|7|Wahlmodul 1 gemäß§662)|||||**5**|||5||vgl.§66|0|
+|8|Wahlmodul 2 gemäß§662)|||||**5**|||5||vgl.§66|0|
+|9|Wahlmodul 3 gemäß§662)|||||**5**|||5||vgl.§66|0|
+|10|Forschungsmodulgemäß§67|||21|2|**15**|||15||vgl.§67 Satz 5|1|
 |11|Masterarbeit gemäß § 68|||35||**30**||||30|PL: schriftliche Ar-<br>beit, vgl. § 68 Abs. 2<br>Satz 2|1|
-|**Summe SWS und ECTS-Punkte**||**18**||**85**|**15**|**120**|**30**|**30**|**30**|**30**|||
-|||**118**|||||||||||
+|**Summe SWS und ECTS-Punkte**||**18**||**85**|**15**||||||||
+|||**118**||||**120**|**30**|**30**|**30**|**30**|||
 
 
 
@@ -900,11 +1265,18 @@ V = Vorlesung Ü = Übung P = Praktikum S = Seminar SWS = Semesterwochenstunden 
 
 40 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 5a: Studienverlaufsplan Masterstudiengang Computational Molecular and Materials Science (Vollzeit)** 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punk-**<br>**ten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punk-**<br>**ten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punk-**<br>**ten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punk-**<br>**ten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**Note**|
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punk-**<br>**ten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punk-**<br>**ten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punk-**<br>**ten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punk-**<br>**ten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**Note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|||
+||||||**SWS**||||||||||
+|||||||||||**ten**|||||
+|||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|||
+|||||||||||**Sem.**|**Sem.**|**Sem.**|||
 |**Synchronisationsmodule ge-**<br>**mäß § 71**|**1**|Theoretical Chemistry|Theoretical Chemistry|2|2|||**5**|5||||Mündlich (20-30 Min.)_oder_<br>Klausur (60-90 Min.)1)und<br>Übungsleistung (ÜL)|1|
 ||**2**|Statistical Mechanics|Statistical Mechanics|2|2|||**5**|5||||Mündlich (20-30 Min.)_oder_<br>Klausur (60-90 Min.)1)|1|
 ||**3**|General Chemistry|General Chemistry|2|2|||**5**|5||||Mündlich (20-30 Min.)_oder_<br>Klausur (60-90 Min.)1)|1|
@@ -920,29 +1292,45 @@ V = Vorlesung Ü = Übung P = Praktikum S = Seminar SWS = Semesterwochenstunden 
 
 41 
 
-||**10**|Digital Chemistry and Materi-<br>als Informatics3)|Digital Chemistry and<br>Materials Informatics|2|2|2|2||||**5**||5|||Mündlich (20-30 Min.)_oder_<br>Klausur (60-90 Min.)1) 3)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**Summe Pflichtmodule**|||||||||**30**|**15**|**15**|**0**|0|||
-|**Wahlpflichtmo-**<br>**dule**|**11**|Wahlpflichtmodule gemäß<br>§ 75|Vgl. § 75||||||||||5-10|5-10||Vgl. § 75 Abs. 3|1|
-|||**Summe Wahlpflichtmodule**|||||||||**20**|**0**|**5-10**|**5-10**|**0**|||
-|**Wahlmo-**<br>**dul**|**12**|Freies Wahlmodul aus dem<br>gesamten Curriculum der FAU|Vgl. § 76||||||||||0-5|0-5||Vgl. § 76|1|
-||||||||||||**5**||**0-5**|**0-5**||||
-|**Praktika**|**13**|Praktika4)||||||4|||||0-10|0-10||pÜL_oder_Bericht1)|1|
-|||**Summe Praktika**|||||||||**10**|**0**|**0-10**|**0-10**|**0**|||
-|**Forschungs-**<br>**praktikum**|**14**|Forschungspraktikum5)|Vgl. § 77|||||||||0|0|10|0|Vgl. § 745)|1|
-|||**Summe Forschungspraktikum**|||||||||**10**|**0**|**0**|**10**|**0**|||
-|**Masterseminar**|**15**|Masterseminar gemäß § 78|Hauptseminar|||||||2||0|0|5|0|Seminarleistung (Vortrag),<br>vgl. § 78 Satz 2|1|
-|||**Summe Masterseminar**|||**0**||**0**|**0**||**2**|**5**|**0**|**0**|**5**|**0**|||
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**10**|Digital Chemistry and Materi-<br>als Informatics3)|Digital Chemistry and<br>Materials Informatics|2|2|2||||**5**||5|||Mündlich (20-30 Min.)_oder_<br>Klausur (60-90 Min.)1) 3)|1|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**Summe Pflichtmodule**||||||||**30**|**15**|**15**|**0**|0|||
+|**Wahlpflichtmo-**<br>**dule**|**11**|Wahlpflichtmodule gemäß<br>§ 75|Vgl. § 75|||||||||5-10|5-10||Vgl. § 75 Abs. 3|1|
+||||||||||||||||||
+||||||||||||||||||
+|||**Summe Wahlpflichtmodule**||||||||**20**|**0**|**5-10**|**5-10**|**0**|||
+|**Wahlmo-**<br>**dul**|**12**|Freies Wahlmodul aus dem<br>gesamten Curriculum der FAU|Vgl. § 76|||||||||0-5|0-5||Vgl. § 76|1|
+||||||||||||||||||
+||||||||||||||||||
+|||||||||||**5**||**0-5**|**0-5**||||
+|**Praktika**|**13**|Praktika4)|||||4|||||0-10|0-10||pÜL_oder_Bericht1)|1|
+|||**Summe Praktika**||||||||**10**|**0**|**0-10**|**0-10**|**0**|||
+|**Forschungs-**<br>**praktikum**|**14**|Forschungspraktikum5)|Vgl. § 77||||||||0|0|10|0|Vgl. § 745)|1|
+||||||||||||||||||
+||||||||||||||||||
+|||**Summe Forschungspraktikum**||||||||**10**|**0**|**0**|**10**|**0**|||
+|**erseminar**|**15**|Masterseminar gemäß § 78|Hauptseminar||||||2||0|0|5|0|Seminarleistung (Vortrag),<br>vgl. § 78 Satz 2|1|
+|**Mast**||**Summe Masterseminar**|||**0**|**0**|**0**||**2**|**5**|**0**|**0**|**5**|**0**|||
 
 
 
 42 
 
-|**Masterarbeit**|**16**|Masterarbeit gemäß § 79|Masterarbeit|||||30||||25|Masterarbeit (ca. 60 Seiten)und<br>Vortrag (ca. 20 Min.)<br>mit anschließender Aussprache|1|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Masterarbeit**|**16**|Masterarbeit gemäß § 79|Masterarbeit||||||||||Masterarbeit (ca. 60 Seiten)und<br>Vortrag (ca. 20 Min.)<br>mit anschließender Aussprache|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||25|||
+|||||||||30|||||||
 ||||Masterkolloquium||||2|||||5|||
 |||**Summe Masterarbeit**||||||**30**|**0**|**0**|**0**|**30**|||
-|**Summen SWS (mind.) und ECTS-Punkte**||||**20**|**20**|**4**|**4**|**120**|**30**|**30**|**30**|**30**|||
+|||||**20**|**20**|**4**|**4**|**120**|**30**|**30**|**30**|**30**|||
 |||||**48**|||||||||||
 
 
@@ -961,41 +1349,76 @@ V = Vorlesung Ü = Übung P = Praktikum S = Seminar SWS = Semesterwochenstunden 
 
 43 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 5b: Studienverlaufsplan Masterstudiengang Computational Molecular Materials Science (Teilzeit)** 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**Note**|
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Ge-**<br>**samt**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Püf**|**Faktor**<br>**Modul-**<br>**Note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.0**|**7.**<br>**Sem.**|**8.**<br>**Sem.**|||
+||||||**SWS**||||||||||||||
+||||||||||||||||||||
+|||||**V**|||||||||||||||
+||||||**Ü**|**P**|**S**|**ECTS**|**1.**<br>**S**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|**rung**||
+|||||||||||**S**|**S**|**S**|**S**|**S0**|**S**|**S**|||
+||||||||||**em.**|**em.**|**em.**|**em.**|**em.**|**em.**|**em.**|**em.**|||
 |**Synchronisationsmodule**|1|Theoretical Chemistry|Theoretical Chemistry|2|2|||**5**|5||||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1) und<br>Übungsleistung (ÜL)|1|
 ||2|Statistical Mechanics|Statistical Mechanics|2|2|||**5**|5||||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1|
 ||3|General Chemistry|General Chemistry|2|2|||**5**|5||||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1|
 ||4|Solid State Physics and<br>Surface Chemistry|Solid State Physics<br>and Surface Chemis-<br>try|2|2|||**5**|5||||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1|
 |||**Summe Synchronisationsmodule**||||||**10**|**10**||||||||||
-|**Pflichtmodule**|5|Quantum Chemistry I|Quantum Chemistry I|2|2|||**5**|||5||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1|
-||6|Multi-Scale Simulation<br>Methods|Multi-Scale Simulation<br>Methods|2|2|||**5**|||5||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1|
-||7|Programming and Nume-<br>rical Simulations|Programming and Nu-<br>merical Simulations|2|2|||**5**|5||||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1|
+|**lichtmodule**|5|Quantum Chemistry I|Quantum Chemistry I|2|2|||**5**|||5||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1|
+||6|Multi-Scale Simulation<br>Methods|||||||||||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1|
+||||Multi-Scale Simulation||||||||||||||||
+||||Methods|2|2|||**5**|||5||||||||
+||||||||||||||||||||
+|**Pf**|7|Programming and Nume-<br>rical Simulations|||||||||||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1|
+||||Programming and Nu-||||||||||||||||
+||||<br>merical Simulations|2|2|||**5**|5||||||||||
+||||||||||||||||||||
 
 
 
 44 
 
-||8|Introduction to Machine<br>Learning|Introduction to Ma-<br>chine Learning|2|2|2|2|||||**5**||||5|||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||9|Molecular Mechanics and<br>Data Analysis2)|Molecular Mechanics<br>and Data Analysis|2||2||||||**5**||5|||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1) 2)|1||
-||10|Digital Chemistry and<br>Materials Informatics3)|Digital Chemistry and<br>Materials Informatics|2||2||||||**5**||5|||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1) 3)|1||
-|||**Summe Pflichtmodule**||||||||||**30**|**5**|**10**|**10**|**5**||||||||
-|**Wahl-**<br>**pflicht-mo-**<br>**dule**|11|Wahlpflichtmodule ge-<br>mäß § 75|Vgl. § 75||||||||||0-5|0-5||0-<br>15|0-10|0-15|||Vgl. § 75 Abs. 3|1||
-|||**Summe Wahlpflichtmodule**||||||||||**20**|0-5|**0-5**||0-<br>15|0-10|0-15||||||
-|**Wahlmo-**<br>**dule**|12|Freies Wahlmodul aus<br>dem gesamten Curricu-<br>lum der FAU|Vgl. § 76|||||||||||0-5||0-5|0-5|0-5|||Vgl. § 76|1||
-|||||||||||||**5**||**0-5**||**0-5**|**0-5**|**0-5**||||||
-|**Praktika**|**13**|Praktika4)|||||||4|||||0-5||0-<br>10|0-10|0-10|||pÜL_oder_Bericht1)|1||
-|||**Summe Praktika**||||||||||**10**||**0-5**||**0-**<br>**10**|**0-10**|**0-10**||||||
-|**Forschungs-**<br>**praktikum**|14|Forschungspraktikum5)|Vgl. § 77||||||||||0|0|||0-10|0-10|||Vgl. § 77|1||
-|||**Summe Forschungspraktikum**||||||||||**10**|||||**0-10**|**0-10**||||||
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||8|Introduction to Machine<br>Learning||||||||||||||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1)|1||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||Introduction to Ma-||||||||||||||||||||
+||||chine Learning|2|||2||||**5**||||5||||||||
+||||||||||||||||||||||||
+||9|Molecular Mechanics and<br>Data Analysis2)|Molecular Mechanics<br>and Data Analysis|2|||2||||**5**||5|||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1) 2)|1||
+||10|Digital Chemistry and<br>Materials Informatics3)||||||||||||||||||Mündlich (20-30<br>Min.)_oder_<br>Klausur (60-90 Min.)<br>1) 3)|1||
+||||Digital Chemistry and||||||||||||||||||||
+||||<br>Materials Informatics|2|||2||||**5**||5||||||||||
+||||||||||||||||||||||||
+|||**Summe Pflichtmodule**|||||||||**30**|**5**|**10**|**10**|**5**||||||||
+|**Wahl-**<br>**pflicht-mo-**<br>**dule**|11|Wahlpflichtmodule ge-<br>mäß § 75|Vgl. § 75|||||||||0-5|0-5||0-<br>15|0-10|0-15|||Vgl. § 75 Abs. 3|1||
+||||||||||||||||||||||||
+||||||||||||||||||||||||
+|||**Summe Wahlpflichtmodule**|||||||||**20**|0-5|**0-5**||0-<br>15|0-10|0-15||||||
+|**Wahlmo-**<br>**dule**|12|Freies Wahlmodul aus<br>dem gesamten Curricu-<br>lum der FAU|Vgl. § 76||||||||||0-5||0-5|0-5|0-5|||Vgl. § 76|1||
+||||||||||||||||||||||||
+||||||||||||||||||||||||
+||||||||||||**5**||**0-5**||**0-5**|**0-5**|**0-5**||||||
+|**Praktika**|**13**|Praktika4)||||||4|||||0-5||0-<br>10|0-10|0-10|||pÜL_oder_Bericht1)|1||
+|||**Summe Praktika**|||||||||**10**||**0-5**||**0-**<br>**10**|**0-10**|**0-10**||||||
+|**ungs-**<br>**ikum**|14|Forschungspraktikum5)|Vgl. § 77|||||||||0|0|||0-10|0-10|||Vgl. § 77|1||
+||||||||||||||||||||||||
+||||||||||||||||||||||||
+|**Forsch**<br>**prakt**||**Summe Forschungspraktikum**|||||||||**10**|||||**0-10**|**0-10**||||||
 
 
 
 45 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**Masterseminar**|**15**|Masterseminar gemäß<br>§ 78|Hauptseminar||||2||||||0-5|0-5|||Seminarleistung<br>(Vortrag),<br>vgl. § 78 Satz 2|1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1029,6 +1452,10 @@ PL = Prüfungsleistung pÜL = praktische Übungsleistung gemäß § 6 Abs. 4 **A
 - 4) Es stehen drei verschiedene Praktika im Umfang von jeweils 5 ECTS-Punkten zur Auswahl, von denen die Studierenden zwei wählen müssen. Näheres regelt die Modulbeschreibung. 5) Voraussetzung für die Teilnahme am Forschungspraktikum ist der erfolgreiche Abschluss der Synchronisationsmodule. 
 
 46 
+
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026 Erlangen, den 5. März 2026 FAU 
 

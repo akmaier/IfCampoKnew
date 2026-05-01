@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Musik 20220601 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Musik/Aenderungssatzungen/LA_Musik_20220601_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:28:43+00:00
+scraped_at: 2026-05-01T07:15:06+00:00
 page_count_chars: 21777
 ---
 

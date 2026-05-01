@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-scraped_at: 2026-04-25T14:11:52+00:00
+scraped_at: 2026-05-01T06:47:16+00:00
 ---
 
 # KI - Materialtechnologie (B.Sc.)

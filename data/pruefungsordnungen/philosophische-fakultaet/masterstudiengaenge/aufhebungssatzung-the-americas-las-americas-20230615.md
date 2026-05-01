@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Aufhebungssatzung The Americas Las Américas 20230615.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/The_Americas_-_Las_Americas/konsolidierte_Fassungen/Aufhebungssatzung_The Americas_Las Américas_20230615.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:20:38+00:00
+scraped_at: 2026-05-01T08:22:41+00:00
 page_count_chars: 2315
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc MSc Chemical Engineering FPOCEN 20230426 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Chemical_Engineering/Aenderungssatzungen/BSc_MSc_Chemical_Engineering_FPOCEN_20230426_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:48:02+00:00
+scraped_at: 2026-05-01T09:57:47+00:00
 page_count_chars: 38984
 ---
 

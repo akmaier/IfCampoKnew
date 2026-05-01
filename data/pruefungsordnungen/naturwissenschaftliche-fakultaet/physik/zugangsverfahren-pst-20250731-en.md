@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "Zugangsverfahren PST 20250731 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/englisch/Zugangsverfahren PST_20250731_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-04-25T15:07:28+00:00
-page_count_chars: 25876
+scraped_at: 2026-05-01T08:01:14+00:00
+page_count_chars: 26097
 ---
 
 # Zugangsverfahren PST 20250731 en.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/englisch/Zugangsverfahren PST_20250731_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **NEW DRAFT** 
 
@@ -20,28 +24,17 @@ Based on the currently valid versions of Section 9 (1) in conjunction with Secti
 
 ## **Contents** 
 
-|**Section 1 Scope, Purpose of the Qualification Assessment Process**|**Section 1 Scope, Purpose of the Qualification Assessment Process**............................. 1|
-|---|---|
-|**Section 2 Required Qualifications**|**Section 2 Required Qualifications**...................................................................................... 2|
-|**Section 3 Admissions Committee**|**Section 3 Admissions Committee**...................................................................................... 2|
-|**Section 4 Application for Admission to the Degree Program**|**Section 4 Application for Admission to the Degree Program**.......................................... 3|
-|**Section 5 Details of the Qualification Assessment Process**|**Section 5 Details of the Qualification Assessment Process**............................................ 4|
-|**Section 6 First Stage of Qualification Assessment Process**|**Section 6 First Stage of Qualification Assessment Process**............................................ 4|
-|**Section 7 Second Stage of Qualification Assessment Process**|**Section 7 Second Stage of Qualification Assessment Process**....................................... 6|
-|**Section 8 Third Stage of Qualification Assessment Process**|**Section 8 Third Stage of Qualification Assessment Process**........................................... 6|
-|**Section 9 Record**|**Section 9 Record**................................................................................................................. 7|
-|**Section 10 Adjustments to Examination Arrangements**|**Section 10 Adjustments to Examination Arrangements**................................................... 7|
-|**Section 11 Resit Examinations**|**Section 11 Resit Examinations**........................................................................................... 7|
-|**Section 12 Enrollment**|**Section 12 Enrollment**......................................................................................................... 7|
-|**Section 13 Legal Validity**|**Section 13 Legal Validity**.................................................................................................... 8|
-
-
+**Section 1 Scope, Purpose of the Qualification Assessment Process** ............................. 1 **Section 2 Required Qualifications** ...................................................................................... 2 **Section 3 Admissions Committee** ...................................................................................... 2 **Section 4 Application for Admission to the Degree Program** .......................................... 3 **Section 5 Details of the Qualification Assessment Process** ............................................ 4 **Section 6 First Stage of Qualification Assessment Process** ............................................ 4 **Section 7 Second Stage of Qualification Assessment Process** ....................................... 6 **Section 8 Third Stage of Qualification Assessment Process** ........................................... 6 **Section 9 Record** ................................................................................................................. 7 **Section 10 Adjustments to Examination Arrangements** ................................................... 7 **Section 11 Resit Examinations** ........................................................................................... 7 **Section 12 Enrollment** ......................................................................................................... 7 **Section 13 Legal Validity** .................................................................................................... 8 
 
 ## **Section 1 Scope, Purpose of the Qualification Assessment Process** 
 
 (1)[1] In order to start studying the Master's degree program in Photon Science and Technology in the first semester or to join at a later semester, students must fulfill all qualification requirements and pass the qualification assessment process pursuant to these regulations.[2] During the qualification assessment process, applicants must prove that they meet the specific quality requirements of the degree program pursuant to Section 2, and that they have the prior subject knowledge required to qualify for entry to the Master's degree program and can therefore be expected to complete the degree program successfully. 
 
 (2)[1] The aim of the degree program is to provide an education focusing on the latest topics covered in global cutting-edge research into photonics based on the expertise of three leading universities and to prepare graduates in the best possible way for their 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 future careers and for conducting their own research in the academic sector.[2] Accordingly, applicants are required to meet high qualification standards if they are to be considered capable of completing the degree program successfully.[3] These include previous knowledge in relevant subjects, the ability to organize their studies independently when faced with a wide choice of options, a certain degree of maturity in academic thinking and working, and the ability to cooperate with others in an intercultural and diverse setting.[4] The qualification assessment process serves to check the extent to which applicants meet the individual requirements for completing the degree program successfully. 
 
@@ -71,6 +64,10 @@ future careers and for conducting their own research in the academic sector.[2] 
 
 1An admissions committee consisting of six members who are eligible to vote is responsible for organizing and conducting the qualification assessment process.[2] Each of the universities involved in the degree program shall provide two voting members. 2The chairperson and at least two other members shall be university lecturers as their main occupation pursuant to Section 19 **BayHIG** , and ideally also fellows of the Max 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Planck School of Photonics.[4] All members and their deputies shall be appointed for a term of office of three years by the relevant Faculty Councils at the universities involved in the degree program.[5] They may be reappointed. 
 
 ## **Section 4 Application for Admission to the Degree Program** 
@@ -99,6 +96,10 @@ Planck School of Photonics.[4] All members and their deputies shall be appointed
 
 (4)[1] Notwithstanding paragraph 3, applicants who are enrolled in a Bachelor's degree program may be admitted to the qualification assessment process if it is to be expected that they will have completed their Bachelor's degree program by the time the Master's degree program begins; in this case, applicants must have already achieved at least 100 ECTS credits. In this case, the qualification assessment process shall be based on the applicant’s achievements up until the deadline for applications; their application is not re-assessed after the successful completion of the Bachelor's degree program. 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (5)[1] Those applicants who fulfill the requirements according to the provisions in Section 5 et seq. shall be invited to participate in the qualification assessment process.[2] Applicants who fail to meet the prerequisites for participating in the qualification assessment process shall receive a notification of rejection including reasons and information on the legal remedies available. 
 
 ## **Section 5 Details of the Qualification Assessment Process** 
@@ -120,6 +121,10 @@ Planck School of Photonics.[4] All members and their deputies shall be appointed
 4. Other additional factors demonstrating the applicant’s suitability for the Master's degree program in Photon Science and Technology, for instance participation in research projects, publications, patents, conferences, workshops, internships, competitions and any awards or scholarships that the applicant has stated in their CV and cover letter and provided proof for pursuant to paragraph 5 (0 to 10 points pursuant to paragraph 5). 
 
 - (2)[1] The final grade of the applicant’s undergraduate degree pursuant to Section 1(2)(1) is assessed as follows.[2] In the case of international qualifications, a percentage 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 value is calculated, with 100% equivalent to the best possible and 0% the worst possible grade for a pass in the country of origin. 
 
@@ -170,6 +175,10 @@ value is calculated, with 100% equivalent to the best possible and 0% the worst 
 
 (6)[1] Applicants are invited to attend the second stage pursuant to Section 7 if they have attained a total of at least 26 points in the first stage (assessment pursuant to paragraphs 2 to 5).[2] All other applicants shall be considered unsuitable; Section 5 (2) shall apply accordingly. 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Section 7 Second Stage of Qualification Assessment Process** 
 
 (1)[1] In the second stage, applicants who have achieved at least 26 points in the first stage are invited to take a subject-related test in English, conducted online on a secure examination platform that conforms with data protection regulations.[2] The test lasts between 80 and 100 minutes.[3] It consists of solving tasks relating to physics, mathematics and engineering.[4] The content and number of tasks shall be designed in such a way that it is highly unlikely that applicants will be able to completely solve all tasks in the time available.[5] Instead, applicants should focus on solving those tasks that they can complete correctly on the basis of their prior knowledge, calling for a high degree of self-organization skills.[6] The date for the test will be communicated to applicants at least one week in advance in accordance with local practice and providing details on the subjects to be tested, the procedure, and permitted aids. 
@@ -193,6 +202,10 @@ value is calculated, with 100% equivalent to the best possible and 0% the worst 
 3. Applicant expresses themselves well during the discussion: 2 points, 
 
 4. Applicant demonstrates a positive and open attitude to a diverse, international setting: 2 points. 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (4)[ 1] Applicants who achieve 8 or more points during the third stage of the qualification assessment process shall be considered suitable and shall receive notification of admission to the degree program.[2] All other applicants shall be considered unsuitable; Section 5 (2) shall apply. 
 
@@ -229,6 +242,10 @@ value is calculated, with 100% equivalent to the best possible and 0% the worst 
    - f) Proof of payment of semester contribution 
 
    - g) Proof of admission to the degree program pursuant to Section 8 (4)(1). 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 2. FAU: 
 

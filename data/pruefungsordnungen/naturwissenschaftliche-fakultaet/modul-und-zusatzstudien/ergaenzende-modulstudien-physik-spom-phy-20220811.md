@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Ergänzende Modulstudien Physik SPOM-PHY 20220811.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Modulstudien/Modulstudien_Physik/Ergänzende_Modulstudien_Physik_SPOM-PHY_20220811.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/
-scraped_at: 2026-04-25T15:02:09+00:00
+scraped_at: 2026-05-01T07:55:25+00:00
 page_count_chars: 8233
 ---
 

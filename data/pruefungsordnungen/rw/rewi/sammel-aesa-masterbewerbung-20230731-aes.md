@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Recht_und_Informatik/Aenderungssatzungen/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:10:20+00:00
+scraped_at: 2026-05-01T09:19:25+00:00
 page_count_chars: 20808
 ---
 

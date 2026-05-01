@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-04-25T14:14:07+00:00
+scraped_at: 2026-05-01T06:50:24+00:00
 ---
 
 # Praxisorientiertes Basiswissen BWL (Zertifikat)

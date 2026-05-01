@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.09.2007 i.d.F. 17.01.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/EWF/PrO-MA-Gerontologie_Jan2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:15:12+00:00
+scraped_at: 2026-05-01T08:13:42+00:00
 page_count_chars: 47616
 ---
 

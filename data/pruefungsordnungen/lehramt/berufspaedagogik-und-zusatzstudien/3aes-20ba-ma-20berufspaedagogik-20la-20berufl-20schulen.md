@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "19. Januar 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/3AES%20BA-MA%20Berufspaedagogik%20LA%20berufl.%20Schulen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-04-25T14:19:03+00:00
+scraped_at: 2026-05-01T06:58:11+00:00
 page_count_chars: 4116
 ---
 

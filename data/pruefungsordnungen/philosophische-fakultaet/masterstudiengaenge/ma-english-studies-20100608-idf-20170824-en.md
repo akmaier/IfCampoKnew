@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 24th of August 2017"
 pdf_source: http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/MA_English_Studies_20100608_idF_20170824_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:23:59+00:00
+scraped_at: 2026-05-01T08:28:05+00:00
 page_count_chars: 68134
 ---
 

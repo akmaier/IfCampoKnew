@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/Aenderungssatzungen/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:22:15+00:00
+scraped_at: 2026-05-01T08:25:34+00:00
 page_count_chars: 20808
 ---
 

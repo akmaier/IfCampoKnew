@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LA-Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:26:06+00:00
-page_count_chars: 8596
+scraped_at: 2026-05-01T07:10:53+00:00
+page_count_chars: 8218
 ---
 
 # 28. März 2011
@@ -106,31 +106,31 @@ dd) Folgende Erläuterungen werden angefügt:
 
 2 
 
-   - c) Abs. 3 wird wie folgt geändert: 
+- c) Abs. 3 wird wie folgt geändert: 
 
-      - aa) In Zeile 1 der Tabelle Spalte 6 werden die Buchstaben "HA" eingefügt. 
+   - aa) In Zeile 1 der Tabelle Spalte 6 werden die Buchstaben "HA" eingefügt. 
 
-      - bb) In Zeile 2 der Tabelle Spalte 6 werden die Buchstaben "SV" eingefügt. 
+   - bb) In Zeile 2 der Tabelle Spalte 6 werden die Buchstaben "SV" eingefügt. 
 
-   - d) In der Tabelle von Abs. 4 werden in Spalte 6 die Buchstaben "bS" durch die Buchstaben "SL" ersetzt. 
+- d) In der Tabelle von Abs. 4 werden in Spalte 6 die Buchstaben "bS" durch die Buchstaben "SL" ersetzt. 
 
-3. § 7 wird wie folgt geändert: 
+## 3. § 7 wird wie folgt geändert: 
 
-   - a)  Abs. 1 wird wie folgt geändert: 
+- a)  Abs. 1 wird wie folgt geändert: 
 
-      - aa) Die Spalte 6 (Prüfung) erhält folgende Fassung: "Studienund Prüfungsleistung" 
+   - aa) Die Spalte 6 (Prüfung) erhält folgende Fassung: "Studienund Prüfungsleistung" 
 
-      - bb) In Zeile 2 (Modul Algorithmen und Datenstrukturen) Spalte 6 (Prüfung) wird nach dem Buchstaben "S" der Buchstabe "L" eingefügt. 
+   - bb) In Zeile 2 (Modul Algorithmen und Datenstrukturen) Spalte 6 (Prüfung) wird nach dem Buchstaben "S" der Buchstabe "L" eingefügt. 
 
-      - cc) In Zeile 5 (Modul Datenbanksysteme) Spalte 1 wird das Wort "Datenbanksysteme" durch die Worte "Implementierung von Datenbanksystemen" ersetzt. 
+   - cc) In Zeile 5 (Modul Datenbanksysteme) Spalte 1 wird das Wort "Datenbanksysteme" durch die Worte "Implementierung von Datenbanksystemen" ersetzt. 
 
-      - dd) In Zeile 7 (Modul Theoretische Informatik für Lehramtsstudierende) Spalte 6 (Studien- und Prüfungsleistung) wird nach dem Buchstaben "S" der Buchstabe "L" eingefügt. 
+   - dd) In Zeile 7 (Modul Theoretische Informatik für Lehramtsstudierende) Spalte 6 (Studien- und Prüfungsleistung) wird nach dem Buchstaben "S" der Buchstabe "L" eingefügt. 
 
-      - ee) In den Zeile 8 (Praktikum) und 9 (Wahlpflichtmodul) Spalte 6 (Studien- und Prüfungsleistung) werden jeweils die Buchstaben "bS" durch "PL lt. MB" ersetzt. 
+   - ee) In den Zeile 8 (Praktikum) und 9 (Wahlpflichtmodul) Spalte 6 (Studien- und Prüfungsleistung) werden jeweils die Buchstaben "bS" durch "PL lt. MB" ersetzt. 
 
-      - ff) Zeile 10 Spalte 1 erhält folgenden Wortlaut: 
+   - ff) Zeile 10 Spalte 1 erhält folgenden Wortlaut: 
 
-         - "Falls die gewählte Didaktik einer Fächergruppe nicht Mathematik enthält, 
+      - "Falls die gewählte Didaktik einer Fächergruppe nicht Mathematik enthält, 
 
 dann:" 
 
@@ -140,11 +140,13 @@ hh) Die Zeilen 13 bis 15 erhalten folgende Fassung:
 
 " 
 
-|Falls die schriftliche Hausarbeit gem. § 7 (3) im||
-|---|---|
-|Fach oder in der Fachdidaktik Informatik||
-|angefertigt wird, dann:<br>Begleitseminar zur schriftlichen Hausarbeit<br>SS<br>2<br>2S<br>2,5<br>SV<br>6<br>sonst: Wahlpflichtmodul(e) aus dem Fach<br>Informatik<br>2,5<br>PL lt.<br>MB<br>rt<br>rr<br>rrrrt<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>'<br>-~-------------------------------------------------------3----------3--<br>+--+ +<br>tee etee<br>etee<br>i<br>i<br>i<br>i<br>i<br>fl<br>i<br>i<br>i<br>i<br>i<br>fl<br>i<br>i<br>i<br>i<br>i<br>fl<br>i<br>i<br>i<br>i<br>i<br>fl<br>i]<br>i]<br>i]<br>i]<br>i]<br>i<br>i<br>i<br>i<br>i<br>i<br>f||
-||"|
+|Falls die schriftliche Hausarbeit gem. § 7 (3) im||||||||
+|---|---|---|---|---|---|---|---|
+|Fach oder in der Fachdidaktik Informatik||||||||
+|angefertigt wird, dann:||||||||
+|Begleitseminar zur schriftlichen Hausarbeit|SS|2|2S|2,5|SV|6||
+|sonst: Wahlpflichtmodul(e) aus dem Fach<br>Informatik||||2,5|PL lt.<br>MB|||
+||||||||"|
 
 
 
@@ -158,7 +160,7 @@ cc) In Zeile 3 Spalte 6 werden die Buchstaben "bS" durch die Buchstaben "HA+SV" 
 
 dd) Folgende Erläuterungen werden angefügt: 
 
-" **Erläuterungen:** HA: schriftliche Hausarbeit" 
+- " **Erläuterungen:** HA: schriftliche Hausarbeit" 
 
 3 
 

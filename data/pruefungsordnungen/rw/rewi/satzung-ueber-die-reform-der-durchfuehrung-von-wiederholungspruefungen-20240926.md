@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Recht_und_Informatik/Aenderungssatzungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:10:19+00:00
+scraped_at: 2026-05-01T09:19:23+00:00
 page_count_chars: 108532
 ---
 

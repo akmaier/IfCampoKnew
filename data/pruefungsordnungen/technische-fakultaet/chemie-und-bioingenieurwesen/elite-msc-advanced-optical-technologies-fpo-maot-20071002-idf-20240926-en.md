@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Elite-MSc Advanced Optical Technologies FPO MAOT 20071002 i.d.F. 20240926 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Advanced_Optical_Technologies/englisch/Elite-MSc_Advanced_Optical_Technologies_FPO_MAOT_20071002_idF_20240926_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:47:20+00:00
+scraped_at: 2026-05-01T09:56:33+00:00
 page_count_chars: 24016
 ---
 

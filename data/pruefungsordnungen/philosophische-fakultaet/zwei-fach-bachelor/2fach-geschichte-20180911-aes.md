@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2Fach Geschichte 20180911 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Geschichte/Aenderungssatzungen/2Fach_Geschichte_20180911_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:55:33+00:00
+scraped_at: 2026-05-01T08:58:56+00:00
 page_count_chars: 15597
 ---
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 23.09.1997 i.d.F. 18.02.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_Sprachprfg-DSH-Feb2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:41:26+00:00
-page_count_chars: 27367
+scraped_at: 2026-05-01T09:51:56+00:00
+page_count_chars: 27435
 ---
 
 # PDF vom 23.09.1997 i.d.F. 18.02.2013
@@ -320,7 +320,11 @@ Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 8 
 
-## Anlage 
+Anlage 
+
+**==> picture [59 x 61] intentionally omitted <==**
+
+**==> picture [208 x 41] intentionally omitted <==**
 
 ## **DSH-Zeugnis** 
 
@@ -342,7 +346,7 @@ hat am [Datum] die „Deutsche Sprachprüfung für den Hochschulzugang“ (DSH) 
 |Hörverstehen:|__|%|
 |Textproduktion:|__|%|
 |Leseverstehen:|__|%|
-|Wissenschaftssprachliche Strukturen:|Wissenschaftssprachliche Strukturen:<br>__|%|
+|Wissenschaftssprachliche Strukturen:|<br>__|%|
 |**Mündliche Prüfung:**|**__**|**%**|
 
 

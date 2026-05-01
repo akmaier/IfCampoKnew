@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:06:14+00:00
-page_count_chars: 91345
+scraped_at: 2026-05-01T09:15:48+00:00
+page_count_chars: 91558
 ---
 
 # StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260305.pdf
@@ -12,11 +12,15 @@ page_count_chars: 91345
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Studien- und Prüfungsordnung für den Studiengang Rechtswissenschaft an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – StuPO Jura – Vom 17. Juni 2024** 
 
 geändert durch Satzungen vom 26. September 2024 und 
 
-## 5. März 2026 
+5. März 2026 
 
 Aufgrund von Art. 9 Satz 1, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
@@ -567,6 +571,10 @@ Gegenstand der Übungen für Fortgeschrittene im Zivilrecht, im Strafrecht und i
 (5)[1] Die zweite Änderungssatzung tritt am 1. April 2026 in Kraft.[2] Sie findet Anwendung auf alle Prüfungen, die dem Prüfungszeitraum Sommersemester 2026 und später zugeordnet sind. 
 
 22 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage zu § 41 Abs. 3:** 
 
