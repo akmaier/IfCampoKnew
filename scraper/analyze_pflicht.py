@@ -38,6 +38,7 @@ ROOT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT_DIR))
 
 from render_markdown import slugify, node_basename, _parse_frontmatter  # noqa: E402
+from people_index import split_concatenated_names  # noqa: E402
 
 log = logging.getLogger("campo.analyze_pflicht")
 
@@ -433,11 +434,13 @@ def render_profs_ohne_pflichtlehre_md(
         uid = int(c["unit_id"])
         is_pflicht = uid in pflicht_unit_ids
         names: set[str] = set()
-        for n in (c.get("instructors_resp") or []) + (c.get("instructors_exec") or []):
-            names.add(n.strip())
-        for a in c.get("appointments") or []:
-            for n in a.get("instructors") or []:
+        for raw in (c.get("instructors_resp") or []) + (c.get("instructors_exec") or []):
+            for n in split_concatenated_names(raw):
                 names.add(n.strip())
+        for a in c.get("appointments") or []:
+            for raw in a.get("instructors") or []:
+                for n in split_concatenated_names(raw):
+                    names.add(n.strip())
         for full in names:
             if not full:
                 continue
@@ -585,11 +588,13 @@ def render_lehrende_ohne_pflicht_md(
         uid = int(c["unit_id"])
         is_pflicht = uid in pflicht_unit_ids
         names: set[str] = set()
-        for n in (c.get("instructors_resp") or []) + (c.get("instructors_exec") or []):
-            names.add(n.strip())
-        for a in c.get("appointments") or []:
-            for n in a.get("instructors") or []:
+        for raw in (c.get("instructors_resp") or []) + (c.get("instructors_exec") or []):
+            for n in split_concatenated_names(raw):
                 names.add(n.strip())
+        for a in c.get("appointments") or []:
+            for raw in a.get("instructors") or []:
+                for n in split_concatenated_names(raw):
+                    names.add(n.strip())
         for full in names:
             if not full:
                 continue

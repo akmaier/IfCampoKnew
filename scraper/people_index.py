@@ -66,6 +66,77 @@ def split_title(full: str) -> tuple[str, str]:
     return " ".join(title_parts), s
 
 
+# A title token *anywhere* in a string. When we see one mid-string, the
+# preceding word(s) belong to a previous person — Campo's renderer
+# concatenates several `<li>` instructors and the parser used to flatten
+# them into one big string. We split on each title-prefix start so the
+# names emerge as separate entries.
+_TITLE_TOKEN_ANY_RE = re.compile(
+    r"\b(?:"
+    r"Prof\.?(?:in)?|"
+    r"Univ\.?-Prof\.?(?:in)?|"
+    r"Hon\.?-?Prof\.?(?:in)?|"
+    r"PD|"
+    r"apl\.?-?Prof\.?(?:in)?|"
+    r"em\.?-?Prof\.?(?:in)?|"
+    r"Dr\.?(?:-Ing\.?|\s+habil\.?|\s+med\.?|\s+phil\.?|\s+rer\.?\s*nat\.?|\s+hc\.?)?|"
+    r"Dipl\.?(?:-Ing\.?)?"
+    r")\b\.?"
+)
+
+
+def split_concatenated_names(s: str) -> list[str]:
+    """Split a Campo instructor string that holds *multiple* persons.
+
+    The historical bug: the Termine instructor cell rendered each instructor
+    as one ``<li>``, but the parser flattened the cell to text — so
+    ``"Heinz Werner Höppel PD Dr. habil. Tobias Fey Dr.-Ing. Joachim Kaschta"``
+    came out as one string. The new parser (`parse_detail._instructors_from_cell`)
+    emits each ``<li>`` separately; this function is the post-processing
+    fallback that catches legacy JSON intermediates and any edge case the
+    parser might still miss.
+
+    Heuristic: a string is split BEFORE each occurrence of an academic
+    title token (Prof., PD, Dr., Dr.-Ing., …) when that token is *not*
+    at the very start. The first segment may therefore be a title-less
+    name (e.g. *Heinz Werner Höppel*). Adjacent title-less names cannot
+    be separated by this heuristic; they stay together (rare in practice
+    once the parser is fixed).
+    """
+    s = (s or "").strip()
+    if not s:
+        return []
+    starts: list[int] = []
+    for m in _TITLE_TOKEN_ANY_RE.finditer(s):
+        # Don't split at position 0 — the prefix at the very start belongs
+        # to the first name.
+        if m.start() == 0:
+            continue
+        # Don't split if the preceding char is a hyphen / dot / period or
+        # we're inside another title sequence (e.g. "Prof. Dr." stays one).
+        prev = s[m.start() - 1]
+        if prev in "-.":
+            continue
+        # Don't split if the previous non-space token is itself a title
+        # token (e.g. inside "Prof. Dr. h.c.").
+        before = s[: m.start()].rstrip()
+        prev_word = re.search(r"\S+$", before)
+        if prev_word and _TITLE_TOKEN_ANY_RE.fullmatch(prev_word.group(0).rstrip(".")):
+            continue
+        starts.append(m.start())
+    if not starts:
+        return [s]
+    parts: list[str] = []
+    last = 0
+    for pos in starts:
+        chunk = s[last:pos].strip()
+        if chunk:
+            parts.append(chunk)
+        last = pos
+    parts.append(s[last:].strip())
+    return [p for p in parts if p]
+
+
 def _short_filename_for_program_path(period_slug: str, program_seg_id: int, program_name: str) -> str:
     """Mirror the Campo renderer's filename for a program (``slug-id.md``)."""
     fake_node = {"name": program_name, "nodeId": program_seg_id}
@@ -102,12 +173,16 @@ def collect_people_for_period(
         program = unit_to_program.get(uid)
         if not program:
             continue
-        names = set()
-        for n in (c.get("instructors_resp") or []) + (c.get("instructors_exec") or []):
-            names.add(n.strip())
-        for a in c.get("appointments") or []:
-            for n in a.get("instructors") or []:
+        names: set[str] = set()
+        # Each raw instructor string may be a concatenation of several
+        # persons (parser-bug history) — split first.
+        for raw in (c.get("instructors_resp") or []) + (c.get("instructors_exec") or []):
+            for n in split_concatenated_names(raw):
                 names.add(n.strip())
+        for a in c.get("appointments") or []:
+            for raw in a.get("instructors") or []:
+                for n in split_concatenated_names(raw):
+                    names.add(n.strip())
         for n in names:
             if not n:
                 continue

@@ -79,3 +79,41 @@ def test_fallback_title_used_when_permalink_omits_it():
     )
     assert c.title == "Dummy"
     assert c.unit_id == 42
+
+
+def test_chor_appointment_has_one_instructor(chor_html):
+    """Regression for the multi-instructor concat bug: <li> structure must be
+    preserved even when the instructor cell wraps text in nested elements."""
+    c = parse_course_detail(chor_html, unit_id=92769, period_id=589)
+    assert len(c.appointments) == 1
+    insts = c.appointments[0].instructors
+    # Should be exactly one — Jan Dolezel
+    assert len(insts) == 1
+    assert "Jan Dolezel" in insts[0]
+
+
+def test_instructors_from_synthetic_two_li_cell():
+    """Two instructors in two <li> tags must come out as two distinct
+    entries — never one concatenated string."""
+    from parse_detail import _instructors_from_cell  # noqa: WPS433
+    cell_html = (
+        '<ul><li><button title="Profil von Heinz Werner Höppel anzeigen">x</button></li>'
+        '<li><button title="Profil von PD Dr. habil. Tobias Fey anzeigen">x</button></li>'
+        '<li><button title="Profil von Dr.-Ing. Joachim Kaschta anzeigen">x</button></li>'
+        '<li><button title="Profil von Michael Redel anzeigen">x</button></li></ul>'
+    )
+    out = _instructors_from_cell(cell_html)
+    assert out == [
+        "Heinz Werner Höppel",
+        "PD Dr. habil. Tobias Fey",
+        "Dr.-Ing. Joachim Kaschta",
+        "Michael Redel",
+    ]
+
+
+def test_instructors_fallback_when_no_li():
+    """Cells without <li> should fall back to the previous splitter
+    (rare, but a single-instructor row sometimes lacks the list wrap)."""
+    from parse_detail import _instructors_from_cell  # noqa: WPS433
+    out = _instructors_from_cell("<span>Jan Dolezel</span>")
+    assert out == ["Jan Dolezel"]

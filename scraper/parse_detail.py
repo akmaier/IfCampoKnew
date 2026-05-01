@@ -118,6 +118,43 @@ _TERMINE_TBODY_RE = re.compile(
 )
 _TR_RE = re.compile(r"<tr\b[^>]*>(?P<row>.*?)</tr>", re.DOTALL)
 _TD_RE = re.compile(r"<td\b[^>]*>(?P<cell>.*?)</td>", re.DOTALL)
+_LI_RE = re.compile(r"<li\b[^>]*>(?P<item>.*?)</li>", re.DOTALL)
+# Each instructor <li> wraps a button/span whose title attribute is
+# "Profil von {Name} anzeigen" — the cleanest source for the name.
+_INSTRUCTOR_TITLE_RE = re.compile(
+    r'\btitle="Profil von\s+([^"]+?)\s+anzeigen"', re.IGNORECASE
+)
+
+
+def _instructors_from_cell(cell_html: str) -> list[str]:
+    """Extract the list of instructor names from an instructor-column
+    ``<td>``. Each instructor lives in its own ``<li>`` — we parse those
+    structurally so two adjacent names never get concatenated into one
+    string. The cleanest signal is the ``title="Profil von … anzeigen"``
+    attribute on the inner button/span; if that's missing we fall back
+    to the visible text of the ``<li>``.
+    """
+    items = _LI_RE.findall(cell_html)
+    if not items:
+        # No <li> at all — fall back to the previous-style splitter so a
+        # single-instructor cell still works.
+        text = _text(cell_html)
+        return [p.strip() for p in re.split(r"[·•|]+|\n", text) if p.strip()]
+
+    out: list[str] = []
+    seen: set[str] = set()
+    for li in items:
+        # Prefer the explicit title="Profil von Name anzeigen"
+        m = _INSTRUCTOR_TITLE_RE.search(li)
+        if m:
+            name = _html.unescape(m.group(1)).strip()
+        else:
+            name = _text(li).strip()
+        if not name or name in seen:
+            continue
+        seen.add(name)
+        out.append(name)
+    return out
 
 
 def _parse_appointments(html: str) -> list[Appointment]:
@@ -128,9 +165,9 @@ def _parse_appointments(html: str) -> list[Appointment]:
     appts: list[Appointment] = []
     for row_m in _TR_RE.finditer(m.group("body")):
         cells_html = _TD_RE.findall(row_m.group("row"))
-        cells = [_text(c) for c in cells_html]
-        if not cells:
+        if not cells_html:
             continue
+        cells = [_text(c) for c in cells_html]
         appt = Appointment()
         # Column order observed on Campo (2026-04):
         #   0 rhythm, 1 weekday, 2 time, 3 cancelled-dates list,
@@ -153,10 +190,10 @@ def _parse_appointments(html: str) -> list[Appointment]:
             appt.note = cells[5] or None
         if len(cells) > 6 and cells[6]:
             appt.room = cells[6] or None
-        if len(cells) > 7 and cells[7]:
-            # instructors are typically separated by · or newlines
-            parts = [p.strip() for p in re.split(r"[·•|]+|\n", cells[7]) if p.strip()]
-            appt.instructors = parts
+        # instructors: parse the raw <li> structure of the cell HTML, not
+        # the flattened text — see _instructors_from_cell.
+        if len(cells_html) > 7:
+            appt.instructors = _instructors_from_cell(cells_html[7])
         appts.append(appt)
     return appts
 
