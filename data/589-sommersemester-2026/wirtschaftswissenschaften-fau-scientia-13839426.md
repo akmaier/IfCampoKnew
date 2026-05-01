@@ -270,13 +270,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Almut Schilling-Vacaflor del Carpio Prof. Dr. Johan Lilliestam
+- **Verantwortlich:** Prof. Dr. Almut Schilling-Vacaflor del Carpio, Prof. Dr. Johan Lilliestam
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | — | Prof. Dr. Almut Schilling-Vacaflor del Carpio Prof. Dr. Johan Lilliestam |
+| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | — | Prof. Dr. Almut Schilling-Vacaflor del Carpio, Prof. Dr. Johan Lilliestam |
 
 ### Betriebliche Aus- und Weiterbildung - Übung - Übung
 
@@ -371,7 +371,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Markus Beckmann John Alejandro Hernandez Mora
+- **Verantwortlich:** Prof. Dr. Markus Beckmann, John Alejandro Hernandez Mora
 
 #### Termine
 
@@ -433,7 +433,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 15:00–16:30 | 15.04.2026–15.07.2026 | — | Prof. Dr. Claus Schnabel |
+| — | wöchentlich | — | — | — | — |
 
 ### Ma-Vorl: International Trade & Labor - Vorlesung
 
@@ -484,7 +484,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Nicole Kimmelmann Alexandra Pfisterer
+- **Verantwortlich:** Prof. Dr. Nicole Kimmelmann, Alexandra Pfisterer
 
 #### Termine
 
@@ -505,7 +505,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Christoph Moser Prof. Dr. Christian Merkl Jonas Urbanik Paolo Bontempo
+- **Verantwortlich:** Prof. Dr. Christoph Moser, Prof. Dr. Christian Merkl, Jonas Urbanik, Paolo Bontempo
 
 #### Termine
 
@@ -517,9 +517,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Do | 13:15–14:45 | 23.04.2026 | — | Jonas Urbanik |
 | Einzeltermin | Di | 15:00–16:30 | 28.04.2026 | — | Paolo Bontempo |
 | Einzeltermin | Do | 13:15–14:45 | 30.04.2026 | — | Jonas Urbanik |
-| Einzeltermin | Do | 15:00–18:00 | 25.06.2026 | — | Prof. Dr. Christoph Moser Prof. Dr. Christian Merkl Jonas Urbanik Paolo Bontempo |
-| Einzeltermin | Fr | 09:00–18:00 | 26.06.2026 | — | Prof. Dr. Christoph Moser Prof. Dr. Christian Merkl Jonas Urbanik Paolo Bontempo |
-| Einzeltermin | Sa | 09:00–18:00 | 27.06.2026 | — | Prof. Dr. Christoph Moser Prof. Dr. Christian Merkl Jonas Urbanik Paolo Bontempo |
+| Einzeltermin | Do | 15:00–18:00 | 25.06.2026 | — | Prof. Dr. Christoph Moser, Prof. Dr. Christian Merkl, Jonas Urbanik, Paolo Bontempo |
+| Einzeltermin | Fr | 08:00–08:59 | 26.06.2026 | — | — |
+| Einzeltermin | Fr | 09:00–18:00 | 26.06.2026 | — | Prof. Dr. Christoph Moser, Prof. Dr. Christian Merkl, Jonas Urbanik, Paolo Bontempo |
+| Einzeltermin | Fr | 18:01–20:00 | 26.06.2026 | — | — |
+| Einzeltermin | Sa | 09:00–18:00 | 27.06.2026 | — | Prof. Dr. Christoph Moser, Prof. Dr. Christian Merkl, Jonas Urbanik, Paolo Bontempo |
 
 ### Seminar zur Gesundheitsökonomik / Seminar in Health Economics - Seminar
 
@@ -532,14 +534,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Harald Tauchmann Elena Yurkevich Michail Liatos
+- **Verantwortlich:** Prof. Dr. Harald Tauchmann, Elena Yurkevich, Michail Liatos
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| Einzeltermin | Fr | 08:00–18:00 | 03.07.2026 | — | Prof. Dr. Harald Tauchmann Elena Yurkevich Michail Liatos |
-| Einzeltermin | Fr | 08:00–18:00 | 10.07.2026 | — | Michail Liatos Prof. Dr. Harald Tauchmann Elena Yurkevich |
+| Einzeltermin | Fr | 08:00–18:00 | 03.07.2026 | — | Prof. Dr. Harald Tauchmann, Elena Yurkevich, Michail Liatos |
+| Einzeltermin | Fr | 08:00–18:00 | 10.07.2026 | — | Michail Liatos, Prof. Dr. Harald Tauchmann, Elena Yurkevich |
 
 ### VL: Gesundheitsverhalten und Gesundheitsmärkte - Vorlesung
 
@@ -632,7 +634,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Martin Matzner Dr. Willi Tang Martin Käppel
+- **Verantwortlich:** Prof. Dr. Martin Matzner, Dr. Willi Tang, Martin Käppel
 
 #### Termine
 
@@ -723,7 +725,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Martin Matzner Pepe Bellin
+- **Verantwortlich:** Prof. Dr. Martin Matzner, Pepe Bellin
 
 #### Termine
 
@@ -743,7 +745,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Tobias Wolbring Klara Frankenberger
+- **Verantwortlich:** Prof. Dr. Tobias Wolbring, Klara Frankenberger
 
 #### Termine
 
@@ -838,7 +840,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Matthias Wrede Elisa Poletto
+- **Verantwortlich:** Prof. Dr. Matthias Wrede, Elisa Poletto
 
 #### Termine
 

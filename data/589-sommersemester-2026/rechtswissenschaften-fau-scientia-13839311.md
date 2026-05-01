@@ -51,6 +51,7 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|---|
 | — | wöchentlich | — | — | — | — |
 | — | wöchentlich | — | 01.05.2026 15.05.2026 05.06.2026 | — | — |
+| — | Einzeltermin | — | — | — | — |
 
 ### Internationales Zivilverfahrensrecht - Vorlesung
 
@@ -68,7 +69,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | — | — |
+| — | wöchentlich | — | — | 20 | — |
 
 ### Islam und Recht in Europa (NOS 22 und 51/52) - Vorlesung
 
@@ -192,7 +193,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Johannes Ulbricht Romina Popova Zita Pfister
+- **Verantwortlich:** Dr. Johannes Ulbricht, Romina Popova, Zita Pfister
 
 #### Termine
 

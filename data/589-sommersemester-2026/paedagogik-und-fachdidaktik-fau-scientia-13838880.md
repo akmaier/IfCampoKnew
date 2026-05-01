@@ -174,7 +174,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Dr. Jasmin Kriesten apl. Prof. Dr. Jochen Nentel
+- **Verantwortlich:** Dr. Jasmin Kriesten, apl. Prof. Dr. Jochen Nentel
 
 #### Termine
 
@@ -248,7 +248,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Thomas Eberle Prof. Dr. Anatoli Rakhkochkine Prof. Dr. Michaela Gläser-Zikuda Prof. Dr. Rudolf Kammerl Prof. Dr. Stephan Kröner Prof. Dr. Sabine Martschinke
+- **Verantwortlich:** Prof. Dr. Thomas Eberle, Prof. Dr. Anatoli Rakhkochkine, Prof. Dr. Michaela Gläser-Zikuda, Prof. Dr. Rudolf Kammerl, Prof. Dr. Stephan Kröner, Prof. Dr. Sabine Martschinke
 
 ### Nürnberg V/UE Grundfragen der Religionspädagogik I - Vorlesung
 
@@ -278,7 +278,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Jan Rauch Florian Köhler
+- **Verantwortlich:** Jan Rauch, Florian Köhler
 
 ### Teaching Methods and Materials in the FLC - Proseminar (Mittelseminar, PO 2020)
 
@@ -374,7 +374,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Reettakaisa Sofia Salo Jonathan Böhm
+- **Verantwortlich:** Prof. Dr. Reettakaisa Sofia Salo, Jonathan Böhm
 
 #### Termine
 
@@ -650,7 +650,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — | — |
+| — | wöchentlich | — | 01.05.2026 05.06.2026 | — | — |
 
 ### VL PS_SU_SSE - Einführungsmodul GSD: Grundlagen der Grundschuldidaktik - Sachunterricht und Schriftspracherwerb  - Vorlesung
 

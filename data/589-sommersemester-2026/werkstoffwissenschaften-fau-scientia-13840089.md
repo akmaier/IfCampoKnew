@@ -76,7 +76,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Benjamin Apeleo Zubiri Prof. Dr. Erdmann Spiecker
+- **Verantwortlich:** Dr.-Ing. Benjamin Apeleo Zubiri, Prof. Dr. Erdmann Spiecker
 
 #### Termine
 
@@ -219,7 +219,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Erdmann Spiecker Dr. Johannes Will Dr.-Ing. Thomas Przybilla
+- **Verantwortlich:** Prof. Dr. Erdmann Spiecker, Dr. Johannes Will, Dr.-Ing. Thomas Przybilla
 
 #### Termine
 
@@ -342,7 +342,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| — | wöchentlich | — | 20.04.2026 25.05.2026 | 54 | — |
+| — | wöchentlich | — | 20.04.2026 27.04.2026 04.05.2026 25.05.2026 | 54 | — |
 
 ### FKDYN - Festkörperthermodynamik - Vorlesung
 
@@ -463,7 +463,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr.-Ing. Bernd Eckardt Prof. Dr. Martin März
+- **Verantwortlich:** Dr.-Ing. Bernd Eckardt, Prof. Dr. Martin März
 
 #### Termine
 
@@ -482,7 +482,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Andres Osvet PD Dr.-Ing. Miroslaw Batentschuk
+- **Verantwortlich:** Dr. Andres Osvet, PD Dr.-Ing. Miroslaw Batentschuk
 
 #### Termine
 
@@ -568,7 +568,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Benjamin Apeleo Zubiri Prof. Dr. Erdmann Spiecker
+- **Verantwortlich:** Dr.-Ing. Benjamin Apeleo Zubiri, Prof. Dr. Erdmann Spiecker
 
 #### Termine
 
@@ -587,7 +587,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Johannes Will Prof. Dr. Erdmann Spiecker
+- **Verantwortlich:** Dr. Johannes Will, Prof. Dr. Erdmann Spiecker
 
 #### Termine
 
@@ -667,7 +667,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Peter Weidinger apl. Prof. Dr. Heinz Werner Höppel
+- **Verantwortlich:** Prof. Dr. Peter Weidinger, apl. Prof. Dr. Heinz Werner Höppel
 
 ### Prakt-WW4 - Praktikum zur Korrosion und Oberflächenanalyse - Praktikum
 
@@ -767,7 +767,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Rainer Detsch Prof. Dr. Sannakaisa Virtanen
+- **Verantwortlich:** Dr.-Ing. Rainer Detsch, Prof. Dr. Sannakaisa Virtanen
 
 #### Termine
 
@@ -786,7 +786,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Patrik Schmuki Dr.-Ing. Michael Höhlinger Michael Strebl Prof. Dr. Sannakaisa Virtanen
+- **Verantwortlich:** Prof. Dr. Patrik Schmuki, Dr.-Ing. Michael Höhlinger, Michael Strebl, Prof. Dr. Sannakaisa Virtanen
 
 #### Termine
 
@@ -805,7 +805,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Erdmann Spiecker Dr.-Ing. Benjamin Apeleo Zubiri Dr. Mingjian Wu Dr. Johannes Will
+- **Verantwortlich:** Prof. Dr. Erdmann Spiecker, Dr.-Ing. Benjamin Apeleo Zubiri, Dr. Mingjian Wu, Dr. Johannes Will
 
 #### Termine
 
@@ -842,7 +842,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** apl. Prof. Dr. Heinz Werner Höppel PD Dr.-Ing. Steffen Neumeier
+- **Verantwortlich:** apl. Prof. Dr. Heinz Werner Höppel, PD Dr.-Ing. Steffen Neumeier
 
 ### VB_WW4 - Information event (Vorbesprechung) for the master courses offered by the Institute for Surface Science and Corrosion (WW4/LKO) in the summer semester 2023 - Sonstige Lehrveranstaltung
 
@@ -892,7 +892,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Benjamin Apeleo Zubiri Prof. Dr. Philipp Pelz Prof. Dr. Erdmann Spiecker Dr. Johannes Will
+- **Verantwortlich:** Dr.-Ing. Benjamin Apeleo Zubiri, Prof. Dr. Philipp Pelz, Prof. Dr. Erdmann Spiecker, Dr. Johannes Will
 
 #### Termine
 
@@ -940,7 +940,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** apl. Prof. Dr. Heinz Werner Höppel PD Dr. habil. Tobias Fey Dr.-Ing. Joachim Kaschta Michael Redel
+- **Verantwortlich:** apl. Prof. Dr. Heinz Werner Höppel, PD Dr. habil. Tobias Fey, Dr.-Ing. Joachim Kaschta, Michael Redel
 
 #### Termine
 
@@ -978,7 +978,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Michael Redel Prof. Dr. Dirk Schubert
+- **Verantwortlich:** Michael Redel, Prof. Dr. Dirk Schubert
 
 #### Termine
 

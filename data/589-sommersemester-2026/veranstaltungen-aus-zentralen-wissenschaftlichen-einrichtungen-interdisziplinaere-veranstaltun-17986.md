@@ -161,7 +161,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr. Anne-Christine Plank Mona Dietrich Dr. Marcus Walther
+- **Verantwortlich:** Dr. Anne-Christine Plank, Mona Dietrich, Dr. Marcus Walther
 
 #### Termine
 

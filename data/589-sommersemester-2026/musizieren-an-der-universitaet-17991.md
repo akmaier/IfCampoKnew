@@ -99,7 +99,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — | Jan Dolezel Tobias Hartlieb |
+| nach Vereinbarung | — | — | — | — | Jan Dolezel, Tobias Hartlieb |
 
 ### Einzelunterricht Violine (Buß) - Übung
 

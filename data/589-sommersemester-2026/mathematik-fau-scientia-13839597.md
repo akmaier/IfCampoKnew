@@ -573,7 +573,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Kevin-Martin Aigner Arthur Miehlich
+- **Verantwortlich:** Dr. Kevin-Martin Aigner, Arthur Miehlich
 
 #### Termine
 

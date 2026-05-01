@@ -196,7 +196,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Nicolas Joly Prof. Dr. Maria Chekhova
+- **Verantwortlich:** Prof. Dr. Nicolas Joly, Prof. Dr. Maria Chekhova
 
 #### Termine
 
@@ -253,7 +253,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Christoph Marquardt Prof. Dr. Daniel Burgarth
+- **Verantwortlich:** Prof. Dr. Christoph Marquardt, Prof. Dr. Daniel Burgarth
 
 #### Termine
 

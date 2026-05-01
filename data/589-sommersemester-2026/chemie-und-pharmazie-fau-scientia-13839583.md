@@ -65,7 +65,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** apl. Prof. Dr. Norbert Jux Prof. Dr. Andreas Hirsch Prof. Dr. Andriy Mokhir
+- **Verantwortlich:** apl. Prof. Dr. Norbert Jux, Prof. Dr. Andreas Hirsch, Prof. Dr. Andriy Mokhir
 
 #### Termine
 
@@ -102,7 +102,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Svetlana Tsogoeva Prof. Dr. Sjoerd Harder Prof. Dr. Romano Dorta Prof. Dr. Karsten Meyer Prof. Dr. Andriy Mokhir
+- **Verantwortlich:** Prof. Dr. Svetlana Tsogoeva, Prof. Dr. Sjoerd Harder, Prof. Dr. Romano Dorta, Prof. Dr. Karsten Meyer, Prof. Dr. Andriy Mokhir
 
 ### HomCatal-SS - Small Molecule Activation - Vorlesung mit Übung
 
@@ -114,7 +114,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Karsten Meyer Prof. Dr. Ingrid Span
+- **Verantwortlich:** Prof. Dr. Karsten Meyer, Prof. Dr. Ingrid Span
 
 #### Termine
 
@@ -133,7 +133,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Jürgen Schatz PD Dr. Ralph Puchta
+- **Verantwortlich:** Prof. Dr. Jürgen Schatz, PD Dr. Ralph Puchta
 
 #### Termine
 

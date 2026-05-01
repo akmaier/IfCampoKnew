@@ -3,7 +3,7 @@ kind: "campo-pflicht-analyse"
 period: "Sommersemester 2026"
 po_files_scanned: 91
 matched_courses_total: 279
-scraped_at: 2026-05-01T21:13:50+00:00
+scraped_at: 2026-05-01T21:45:34+00:00
 ---
 
 # Pflichtveranstaltungen — Heuristische Analyse
@@ -76,7 +76,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Physik (FAU Scientia)  -
 
-- [Integrierter Kurs LA: Quantenmechanik und Atomphysik — Vorlesung](../589-sommersemester-2026/physik-fau-scientia-13839673.md) — Prof. Dr. Christoph Marquardt Prof. Dr. Daniel Burgarth
+- [Integrierter Kurs LA: Quantenmechanik und Atomphysik — Vorlesung](../589-sommersemester-2026/physik-fau-scientia-13839673.md) — Prof. Dr. Christoph Marquardt, Prof. Dr. Daniel Burgarth
 
 #### Auszüge aus dem PO-Text
 
@@ -393,7 +393,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
-- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner Arthur Miehlich
+- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner, Arthur Miehlich
 
 #### Auszüge aus dem PO-Text
 
@@ -428,7 +428,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
-- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner Arthur Miehlich
+- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner, Arthur Miehlich
 
 #### Auszüge aus dem PO-Text
 
@@ -673,7 +673,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
-- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner Arthur Miehlich
+- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner, Arthur Miehlich
 
 #### Auszüge aus dem PO-Text
 
@@ -707,7 +707,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
-- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner Arthur Miehlich
+- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner, Arthur Miehlich
 
 #### Auszüge aus dem PO-Text
 
@@ -741,7 +741,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
-- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner Arthur Miehlich
+- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner, Arthur Miehlich
 
 #### Auszüge aus dem PO-Text
 
@@ -775,7 +775,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
-- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner Arthur Miehlich
+- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner, Arthur Miehlich
 
 #### Auszüge aus dem PO-Text
 
@@ -809,7 +809,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
-- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner Arthur Miehlich
+- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner, Arthur Miehlich
 
 #### Auszüge aus dem PO-Text
 
@@ -844,7 +844,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
-- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner Arthur Miehlich
+- [Projektseminar Optimierung (Bachelor) — Seminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Kevin-Martin Aigner, Arthur Miehlich
 
 #### Auszüge aus dem PO-Text
 
@@ -1085,7 +1085,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
 - [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
-- [Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne Prof. Dr. Abbas Poya
+- [Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne, Prof. Dr. Abbas Poya
 
 #### Auszüge aus dem PO-Text
 
@@ -1245,7 +1245,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
-- [Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne Prof. Dr. Abbas Poya
+- [Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne, Prof. Dr. Abbas Poya
 
 #### Auszüge aus dem PO-Text
 
@@ -1279,8 +1279,8 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 - [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
 - [MA 2.FS Islamische Ethik im Kontext von Geschichte und Gegenwart, Vorlesung — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
-- [Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne Prof. Dr. Abbas Poya
-- [Queere Theologie für (digitale) Medien und Schule — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne Prof. Dr. Peter Bubmann
+- [Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne, Prof. Dr. Abbas Poya
+- [Queere Theologie für (digitale) Medien und Schule — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne, Prof. Dr. Peter Bubmann
 
 #### Auszüge aus dem PO-Text
 
@@ -1318,9 +1318,9 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
-- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer Katrin Städtke
-- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
-- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
+- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer, Katrin Städtke
+- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
+- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
 - [Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 - [Übung Nachhaltige Chemische Technologien - 3 — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 
@@ -1367,9 +1367,9 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
-- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer Katrin Städtke
-- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
-- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
+- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer, Katrin Städtke
+- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
+- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
 - [Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 - [Übung Nachhaltige Chemische Technologien - 3 — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 
@@ -1413,7 +1413,7 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 - [Technische Thermodynamik (Vertiefung) für CBI und CEN — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 - [Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Andreas Paul Fröba
-- [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein Prof. Dr.-Ing. Andreas Paul Fröba
+- [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
 - [Übung zu Techn. Thermodynamik (Vertiefung) für CBI und CEN — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 
 #### Auszüge aus dem PO-Text
@@ -1448,9 +1448,9 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
-- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer Katrin Städtke
-- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
-- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
+- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer, Katrin Städtke
+- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
+- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
 - [Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 - [Übung Nachhaltige Chemische Technologien - 3 — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 
@@ -1495,9 +1495,9 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
-- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer Katrin Städtke
-- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
-- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
+- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer, Katrin Städtke
+- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
+- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
 - [Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 - [Übung Nachhaltige Chemische Technologien - 3 — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 
@@ -1541,9 +1541,9 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
-- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer Katrin Städtke
-- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
-- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
+- [Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer, Katrin Städtke
+- [Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
+- [Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
 - [Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 - [Übung Nachhaltige Chemische Technologien - 3 — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Friederike Agel
 
@@ -1589,7 +1589,7 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 - [Technische Thermodynamik (Vertiefung) für CBI und CEN — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 - [Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Andreas Paul Fröba
-- [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein Prof. Dr.-Ing. Andreas Paul Fröba
+- [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
 - [Übung zu Techn. Thermodynamik (Vertiefung) für CBI und CEN — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 
 #### Auszüge aus dem PO-Text
@@ -1685,8 +1685,8 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 
 #### Auszüge aus dem PO-Text
 
@@ -1718,8 +1718,8 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 
 #### Auszüge aus dem PO-Text
 
@@ -1755,10 +1755,10 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Multi-Core Architecture and Programming — Seminar](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig Batuhan Sesli Avinash Mahesh Nirmala
+- [Multi-Core Architecture and Programming — Seminar](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig, Batuhan Sesli, Avinash Mahesh Nirmala
 - [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
@@ -1796,10 +1796,10 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Multi-Core Architecture and Programming — Seminar](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig Batuhan Sesli Avinash Mahesh Nirmala
+- [Multi-Core Architecture and Programming — Seminar](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig, Batuhan Sesli, Avinash Mahesh Nirmala
 - [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
@@ -1837,8 +1837,8 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
@@ -1877,8 +1877,8 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
@@ -1917,8 +1917,8 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
 - [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
@@ -1959,8 +1959,8 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
 - [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
@@ -2008,9 +2008,9 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
-- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey Tobias Baumeister
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
 - [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
@@ -2058,10 +2058,10 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Multi-Core Architecture and Programming — Seminar](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig Batuhan Sesli Avinash Mahesh Nirmala
+- [Multi-Core Architecture and Programming — Seminar](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig, Batuhan Sesli, Avinash Mahesh Nirmala
 - [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
@@ -2110,9 +2110,9 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
-- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey Tobias Baumeister
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 - [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
 - [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
 - [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
@@ -2157,9 +2157,9 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
-- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey Tobias Baumeister
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
 - [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
@@ -2212,9 +2212,9 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
-- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey Tobias Baumeister
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 - [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
 - [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
 - [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
@@ -2308,8 +2308,8 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 
 #### Auszüge aus dem PO-Text
 
@@ -2346,7 +2346,7 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
 
 #### Auszüge aus dem PO-Text
 
@@ -2381,8 +2381,8 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 
 #### Auszüge aus dem PO-Text
 
@@ -2419,7 +2419,7 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
 
 #### Auszüge aus dem PO-Text
 
@@ -2455,7 +2455,7 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
 
 #### Auszüge aus dem PO-Text
 
@@ -2493,7 +2493,7 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy Thomas Reiß
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
 
 #### Auszüge aus dem PO-Text
 

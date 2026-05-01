@@ -1,12 +1,12 @@
 ---
 kind: "profs-ohne-pflichtlehre"
 period: "Sommersemester 2026"
-candidates_total: 471
+candidates_total: 476
 rank_distribution:
-  W3: 9
-  W?: 457
-  Junior: 5
-scraped_at: 2026-05-01T21:13:50+00:00
+  W3: 14
+  W?: 454
+  Junior: 8
+scraped_at: 2026-05-01T21:45:34+00:00
 ---
 
 # Profs ohne Pflichtlehre (FAUdir × Campo)
@@ -21,15 +21,22 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 * Diese Datei dient als **Vergleichsgrundlage (B)** für die RAG-Antwort (A) auf dieselbe Frage. Bei Inkonsistenz ist die RAG-Antwort meist belastbarer.
 
 **Periode:** Sommersemester 2026  
-**Kandidaten:** 471 FAUdir-bestätigte Profs ohne Pflichtlehre
+**Kandidaten:** 476 FAUdir-bestätigte Profs ohne Pflichtlehre
 
 ## Verteilung nach W-Rang
 
-- **W3**: 9
-- **W?**: 457
-- **Junior**: 5
+- **W3**: 14
+- **W?**: 454
+- **Junior**: 8
 
 ## Rang W3
+
+### Del Vecchio, Alessandro (Prof. Dr.)
+- **FAUdir:** [`643a491f35`](https://faudir.fau.de/public/person/643a491f35)
+- **Affiliation:** W3-Professur für Neuromuscular Physiology and Neural Interfacing
+- **Weitere Affiliationen:** W3-Professur für Neuromuscular Physiology and Neural Interfacing
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Interfacing the Neuromuscular System: Laboratory" — Praktikum
 
 ### Dienesch, Nils ()
 - **FAUdir:** [`f6060f0d16`](https://faudir.fau.de/public/person/f6060f0d16)
@@ -47,8 +54,15 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Gösche, Erik ()
 - **FAUdir:** [`ffbebfa0c6`](https://faudir.fau.de/public/person/ffbebfa0c6)
 - **Affiliation:** W3-Professur für Computational Imaging
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Machine Learning in MRI" — Hauptseminar
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Medizintechnik II Tafelübung" — Übung
+
+### Hansen, Swantje ()
+- **FAUdir:** [`135c7d08c5`](https://faudir.fau.de/public/person/135c7d08c5)
+- **Affiliation:** W3-Professur für Sensorische Neurotechnologie
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
 
 ### Kainz, Bernhard (Prof. Dr.)
 - **FAUdir:** [`4e219bbd33`](https://faudir.fau.de/public/person/4e219bbd33)
@@ -71,16 +85,39 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): "Aktuelle Forschungen und Diskurse" — Seminar
 
+### Ochoa de Eribe Delgado, Pablo ()
+- **FAUdir:** [`e1ed36cd8c`](https://faudir.fau.de/public/person/e1ed36cd8c)
+- **Affiliation:** W3-Professur für Sensorische Neurotechnologie
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Neurotechnology Project" — Praktikum
+
 ### Oßwald, Marius ()
 - **FAUdir:** [`bea3ad1eae`](https://faudir.fau.de/public/person/bea3ad1eae)
 - **Affiliation:** W3-Professur für Neuromuscular Physiology and Neural Interfacing
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Interfacing the Neuromuscular System: Laboratory" — Praktikum
 
+### Reichenbach, Tobias (Prof. Dr.)
+- **FAUdir:** [`62276c48f8`](https://faudir.fau.de/public/person/62276c48f8)
+- **Affiliation:** W3-Professur für Sensorische Neurotechnologie
+- **Weitere Affiliationen:** W3-Professur für Sensorische Neurotechnologie
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Neurotechnology Project" — Praktikum
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
+
 ### Riegel, Jasmin ()
 - **FAUdir:** [`f8b262626b`](https://faudir.fau.de/public/person/f8b262626b)
 - **Affiliation:** W3-Professur für Sensorische Neurotechnologie
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
+
+### Steinebach, Janna ()
+- **FAUdir:** [`c1278e34d7`](https://faudir.fau.de/public/person/c1278e34d7)
+- **Affiliation:** W3-Professur für Sensorische Neurotechnologie
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
 
 ### Thornton, Michael ()
@@ -197,6 +234,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Human-centered mechatronics and robotics" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Human-centered Mechatronics and Robotics (Exercise)" — Übung
 
+### Beckmann, Markus (Prof. Dr.)
+- **FAUdir:** [`2f393b61f7`](https://faudir.fau.de/public/person/2f393b61f7)
+- **Affiliation:** Lehrstuhl für Corporate Sustainability Management
+- **Weitere Affiliationen:** Lehrstuhl für Corporate Sustainability Management; Lehrstuhl für Technologiemanagement; FAU Profilzentrum Center for Human Rights Erlangen-Nürnberg (FAU CHREN); Exzellenzcluster „Transforming Human Rights”
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Einführung in das Nachhaltigkeitsmanagement" — Vorlesung
+
 ### Beckstein, Eva-Maria ()
 - **FAUdir:** [`fd05a5f5b1`](https://faudir.fau.de/public/person/fd05a5f5b1)
 - **Affiliation:** Lehrstuhl für Didaktik der Mathematik
@@ -264,24 +308,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
 
-### Bold, Franziska ()
-- **FAUdir:** [`97ce683c58`](https://faudir.fau.de/public/person/97ce683c58)
-- **Affiliation:** Lehrstuhl für Sustainability Transition Policy
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
-
 ### Boldt, Ramon (Dr.)
 - **FAUdir:** [`09cce6ab8b`](https://faudir.fau.de/public/person/09cce6ab8b)
 - **Affiliation:** Professur für Vergleichende Indogermanische Sprachwissenschaft
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "Das italische Verb" — Mittelseminar
-
-### Bontempo, Paolo ()
-- **FAUdir:** [`d3840c9a82`](https://faudir.fau.de/public/person/d3840c9a82)
-- **Affiliation:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Makroökonomik
-- **Weitere Affiliationen:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Makroökonomik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar Reflections in International Economics" — Seminar
 
 ### Bontempo, Paolo ()
 - **FAUdir:** [`d3840c9a82`](https://faudir.fau.de/public/person/d3840c9a82)
@@ -365,33 +396,24 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`76cae38b7b`](https://faudir.fau.de/public/person/76cae38b7b)
 - **Affiliation:** Professur für Computational Biology
 - **Weitere Affiliationen:** Graduiertenkolleg 1962/2 - Dynamische Wechselwirkungen an Biologischen Membranen - von Einzelmolekülen zum Gewebe; Professur für Computational Biology; FAU Forschungszentrum Neue Wirkstoffe (FAU NeW); Department Biologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
+  - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Python for Bioinformatics and Data Analysis" — Seminar und Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "ILS-MA-I2B: Interactions at Biological Macromolecules (Tutorial)" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "ILS-MA-I2B: Interactions at Biological Macromolecules (Lecture)" — Vorlesung
 
 ### Böhm, Jonathan ()
 - **FAUdir:** [`15e35e7195`](https://faudir.fau.de/public/person/15e35e7195)
 - **Affiliation:** Lehrstuhl für Altes Testament (Theologie)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Quellen zur Geschichte und Religionsgeschichte Israels" — Übung
-
-### Böhm, Pascal ()
-- **FAUdir:** [`5bf5b259b5`](https://faudir.fau.de/public/person/5bf5b259b5)
-- **Affiliation:** Lehrstuhl für Betriebswirtschaftslehre, insbesondere Gesundheitsmanagement
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Altes Testament im Überblick - Geschichte Israels" — Vorlesung mit Übung
 
 ### Bölling, Niklas ()
 - **FAUdir:** [`bc9ce72c13`](https://faudir.fau.de/public/person/bc9ce72c13)
 - **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme - Übung" — Übung
-
-### Bölling, Niklas ()
-- **FAUdir:** [`bc9ce72c13`](https://faudir.fau.de/public/person/bc9ce72c13)
-- **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme - Übung" — Übung
 
 ### Bönsch, Jonas ()
 - **FAUdir:** [`6fddaca7d3`](https://faudir.fau.de/public/person/6fddaca7d3)
@@ -399,24 +421,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Schaltungen und Systeme der Übertragungstechnik" — Übung
 
-### Büttner, Thiess (Prof. Dr.)
-- **FAUdir:** [`abaeacf557`](https://faudir.fau.de/public/person/abaeacf557)
-- **Affiliation:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Finanzwissenschaft
-- **Weitere Affiliationen:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Finanzwissenschaft
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
-
-### Büttner, Thiess (Prof. Dr.)
-- **FAUdir:** [`abaeacf557`](https://faudir.fau.de/public/person/abaeacf557)
-- **Affiliation:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Finanzwissenschaft
-- **Weitere Affiliationen:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Finanzwissenschaft
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Thermisches Management in der Leistungselektronik" — Vorlesung
-
 ### Büttner, Stefanie ()
 - **FAUdir:** [`0637ac2535`](https://faudir.fau.de/public/person/0637ac2535)
 - **Affiliation:** Lehrstuhl für Leistungselektronik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Thermisches Management in der Leistungselektronik" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Thermisches Management in der Leistungselektronik" — Übung
 
 ### Cebeci, Mehmet (Dr.)
@@ -463,9 +473,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`b830f68a2b`](https://faudir.fau.de/public/person/b830f68a2b)
 - **Affiliation:** Lehrstuhl für Sinologie mit dem Schwerpunkt Geistes- und Kulturgeschichte Chinas (Alexander von Humboldt-Professur)
 - **Weitere Affiliationen:** Lehrstuhl für Sinologie mit dem Schwerpunkt Geistes- und Kulturgeschichte Chinas (Alexander von Humboldt-Professur)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "BA-2 Modernes Chinesisch 2" — Seminar
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "BA-4 Modernes Chinesisch: Hören und Sprechen (Übung)" — Übung
+  - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "BA-4 Modernes Chinesisch 4" — Kurs
 
 ### Cvecek, Kristian (Dr.)
 - **FAUdir:** [`8dc005b5f9`](https://faudir.fau.de/public/person/8dc005b5f9)
@@ -513,16 +524,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Basisseminar spanische Literaturwissenschaft" — Einführungskurs
 
-### Delgado, Antonio (Prof. Dr.-Ing.)
-- **FAUdir:** [`ae7d6adbbe`](https://faudir.fau.de/public/person/ae7d6adbbe)
-- **Affiliation:** Technische Fakultät
-- **Weitere Affiliationen:** Lehrstuhl für Strömungsmechanik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Neurotechnology Project" — Praktikum
-
-### Dengler, Stefan (Dr.)
-- **FAUdir:** [`610067b3b7`](https://faudir.fau.de/public/person/610067b3b7)
-- **Affiliation:** Lehrstuhl für Konstruktionstechnik
+### Dengler, Eva ()
+- **FAUdir:** [`e3b790f652`](https://faudir.fau.de/public/person/e3b790f652)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
@@ -569,7 +573,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`84e35211fa`](https://faudir.fau.de/public/person/84e35211fa)
 - **Affiliation:** Professur für Kirchenmusik
 - **Weitere Affiliationen:** Erlanger Universitätsmusik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Einzelunterricht Orgel, Klavier" — Übung
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Akademischer Chor" — Übung
 
 ### Dorta, Romano (Prof. Dr.)
@@ -634,14 +639,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Ebrahimiazandaryani, Farhad ()
 - **FAUdir:** [`36f4a1df65`](https://faudir.fau.de/public/person/36f4a1df65)
 - **Affiliation:** Lehrstuhl für Informatik 3 (Rechnerarchitektur)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Computer Architectures for Medical Applications" — Übung
-
-### Ebrahimiazandaryani, Farhad ()
-- **FAUdir:** [`36f4a1df65`](https://faudir.fau.de/public/person/36f4a1df65)
-- **Affiliation:** Lehrstuhl für Informatik 3 (Rechnerarchitektur)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computer Architectures for Medical Applications" — Vorlesung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Computer Architectures for Medical Applications" — Übung
 
 ### Eckardt, Bernd (Dr.-Ing.)
 - **FAUdir:** [`83d574f51d`](https://faudir.fau.de/public/person/83d574f51d)
@@ -706,6 +706,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Seminar Neues Testament und Judentum" — Seminar
 
+### Eskofier, Anett ()
+- **FAUdir:** [`a814b707b8`](https://faudir.fau.de/public/person/a814b707b8)
+- **Affiliation:** Lehrstuhl für Psychologie, insbesondere Wirtschafts- und Sozialpsychologie
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übung zur Sozialpsychologie" — Übung
+
 ### Etzold, Bastian (Prof. Dr.-Ing.)
 - **FAUdir:** [`5f4c65a853`](https://faudir.fau.de/public/person/5f4c65a853)
 - **Affiliation:** Lehrstuhl für Power-to-X-Technologien
@@ -729,8 +735,16 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Feile, Klara ()
 - **FAUdir:** [`0bf48d22ee`](https://faudir.fau.de/public/person/0bf48d22ee)
 - **Affiliation:** Lehrstuhl für Konstruktionstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Technologie-Startup-Seminar" — Seminar
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Übungen zu Maschinenelemente II" — Übung
+
+### Feldmeier, Alina ()
+- **FAUdir:** [`a2a3575ed2`](https://faudir.fau.de/public/person/a2a3575ed2)
+- **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Betriebsverhalten elektrischer Energiesysteme" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übung zu Betriebsverhalten elektrischer Energiesysteme" — Übung
 
 ### Felfer, Peter (Prof. Dr.)
 - **FAUdir:** [`d6ae0fb4cc`](https://faudir.fau.de/public/person/d6ae0fb4cc)
@@ -762,14 +776,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Werkstoffkunde für Studierende des CBI und CEN" — Vorlesung mit Übung
 
-### Fey, Dietmar (Prof. Dr.-Ing.)
-- **FAUdir:** [`4184845fca`](https://faudir.fau.de/public/person/4184845fca)
-- **Affiliation:** Lehrstuhl für Informatik 3 (Rechnerarchitektur)
-- **Weitere Affiliationen:** Lehrstuhl für Informatik 3 (Rechnerarchitektur)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Engineering 2" — Vorlesung
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Computer Architectures for Medical Applications" — Übung
-
 ### Filgertshofer, David ()
 - **FAUdir:** [`858acf4f10`](https://faudir.fau.de/public/person/858acf4f10)
 - **Affiliation:** Lehrstuhl für Psychologie, insbesondere Wirtschafts- und Sozialpsychologie
@@ -782,9 +788,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): "Lektüreseminar Literature (Erlangen)" — Seminar
 
-### Fink, Monika ()
-- **FAUdir:** [`d263a6c582`](https://faudir.fau.de/public/person/d263a6c582)
-- **Affiliation:** Lehrstuhl für Experimentalphysik (Astroteilchenphysik)
+### Fink, Laura ()
+- **FAUdir:** [`7dbe39c0d9`](https://faudir.fau.de/public/person/7dbe39c0d9)
+- **Affiliation:** Lehrstuhl für Informatik 9 (Graphische Datenverarbeitung)
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Interactive Computer Graphics" — Übung
 
@@ -1055,20 +1061,17 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`71462ffb0d`](https://faudir.fau.de/public/person/71462ffb0d)
 - **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
 - **Weitere Affiliationen:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen; Department Maschinenbau; Departmentleitung und Geschäftsführung
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 4
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung" — Vorlesung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung - Übung" — Übung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik (PT II & PT 3 MB)" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme" — Vorlesung
 
 ### Hanitsch, Melanie (PD Dr.)
 - **FAUdir:** [`f3f3a4b2af`](https://faudir.fau.de/public/person/f3f3a4b2af)
 - **Affiliation:** Lehrstuhl für Arabistik und Semitistik
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "BA 6. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Vertiefung" — Seminar
-
-### Hansen, Markus (Dr.)
-- **FAUdir:** [`b192ccaa74`](https://faudir.fau.de/public/person/b192ccaa74)
-- **Affiliation:** Lehrstuhl für Angewandte Mathematik (Wissenschaftliches Rechnen)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
 
 ### Harder, Sjoerd (Prof. Dr.)
 - **FAUdir:** [`b49ee5e5fe`](https://faudir.fau.de/public/person/b49ee5e5fe)
@@ -1117,6 +1120,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Betriebswirtschaftliche Steuerlehre
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "DATEV-Führerschein" — Vorlesung
+
+### Heidorn, Christian ()
+- **FAUdir:** [`2e8265ba81`](https://faudir.fau.de/public/person/2e8265ba81)
+- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Praktische Übungen zu Grundlagen der Technischen Informatik" — Übung
 
 ### Heinrich, Philipp ()
 - **FAUdir:** [`120561c81c`](https://faudir.fau.de/public/person/120561c81c)
@@ -1172,6 +1181,18 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Basisseminar: Planung und Analyse von Lehr-Lernprozessen (Angebot am Standort Nürnberg; Lehrstuhl Prof. Dr. Gläser-Zikuda)" — Seminar
 
+### Hernandez Mora, John Alejandro ()
+- **FAUdir:** [`9838138d43`](https://faudir.fau.de/public/person/9838138d43)
+- **Affiliation:** Lehrstuhl für Corporate Sustainability Management
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Einführung in das Nachhaltigkeitsmanagement" — Vorlesung
+
+### Hernandez Morales, Jose Juan ()
+- **FAUdir:** [`8e2d106959`](https://faudir.fau.de/public/person/8e2d106959)
+- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to Approximate Computing" — Übung
+
 ### Herold, Patrick-Peter ()
 - **FAUdir:** [`990d065075`](https://faudir.fau.de/public/person/990d065075)
 - **Affiliation:** Lehrstuhl für Unternehmensführung
@@ -1186,24 +1207,18 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Forschungspraktikum an den AudioLabs" — Sonstige Lehrveranstaltung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Forschungspraktikum an den AudioLabs" — Sonstige Lehrveranstaltung
 
-### Herzog, Wiebke (Prof. Dr.)
-- **FAUdir:** [`1799f01e18`](https://faudir.fau.de/public/person/1799f01e18)
-- **Affiliation:** Lehrstuhl für Entwicklungsbiologie
-- **Weitere Affiliationen:** Lehrstuhl für Entwicklungsbiologie
+### Herzog, Christoph ()
+- **FAUdir:** [`11e03511be`](https://faudir.fau.de/public/person/11e03511be)
+- **Affiliation:** Lehrstuhl für Kunststofftechnik
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Hauptseminar Kunststofftechnik" — Hauptseminar
 
 ### Hierl, Lukas ()
 - **FAUdir:** [`7cc8906f03`](https://faudir.fau.de/public/person/7cc8906f03)
 - **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik - Tutorium (P) (PT II & PT 3 MB)" — Tutorium
-
-### Hierl, Lukas ()
-- **FAUdir:** [`7cc8906f03`](https://faudir.fau.de/public/person/7cc8906f03)
-- **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik (PT II & PT 3 MB)" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik - Tutorium (P) (PT II & PT 3 MB)" — Tutorium
 
 ### Hirsch, Andreas (Prof. Dr.)
 - **FAUdir:** [`61fd99cb2f`](https://faudir.fau.de/public/person/61fd99cb2f)
@@ -1213,11 +1228,23 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): "Organic Chemistry" — Vorlesung mit Übung
   - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): "Organische Chemie 1" — Vorlesung mit Übung
 
+### Hoffmann, Madlen ()
+- **FAUdir:** [`99be022387`](https://faudir.fau.de/public/person/99be022387)
+- **Affiliation:** Lehrstuhl für Leistungselektronik
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
+
 ### Hofmann, Maximilian (Dr.-Ing.)
 - **FAUdir:** [`bbb2ebbbd7`](https://faudir.fau.de/public/person/bbb2ebbbd7)
 - **Affiliation:** Lehrstuhl für Leistungselektronik
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Selected Topics in Vehicle Electrification" — Vorlesung
+
+### Hofmann, Stefan ()
+- **FAUdir:** [`cd343eab5d`](https://faudir.fau.de/public/person/cd343eab5d)
+- **Affiliation:** Lehrstuhl für Energieverfahrenstechnik
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Global Illumination" — Übung
 
 ### Hofmann, Franz (Prof. Dr.)
 - **FAUdir:** [`2f56a37ea2`](https://faudir.fau.de/public/person/2f56a37ea2)
@@ -1226,12 +1253,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Markenrecht (SPB 4)" — Vorlesung
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Urheberrecht (SPB 4)" — Vorlesung
-
-### Hofmann, Stefan ()
-- **FAUdir:** [`cd343eab5d`](https://faudir.fau.de/public/person/cd343eab5d)
-- **Affiliation:** Lehrstuhl für Energieverfahrenstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Global Illumination" — Übung
 
 ### Hohmann, Martin (Dr.-Ing.)
 - **FAUdir:** [`31e19bfdd6`](https://faudir.fau.de/public/person/31e19bfdd6)
@@ -1263,14 +1284,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Häberlein, Tobias ()
 - **FAUdir:** [`1c4b4a9fe3`](https://faudir.fau.de/public/person/1c4b4a9fe3)
 - **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
-
-### Häberlein, Tobias ()
-- **FAUdir:** [`1c4b4a9fe3`](https://faudir.fau.de/public/person/1c4b4a9fe3)
-- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
 
 ### Höckelmann, Michael (Dr.)
 - **FAUdir:** [`997c8e6eea`](https://faudir.fau.de/public/person/997c8e6eea)
@@ -1282,7 +1298,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Höhlinger, Michael (Dr.-Ing.)
 - **FAUdir:** [`e71302ead5`](https://faudir.fau.de/public/person/e71302ead5)
 - **Affiliation:** Lehrstuhl für Werkstoffwissenschaften (Korrosion und Oberflächentechnik)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Surface Modification techniques" — Vorlesung
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Information event (Vorbesprechung) for the master courses offered by the Institute for Surface Science and Corrosion (WW4/LKO) in the summer semester 2023" — Sonstige Lehrveranstaltung
 
 ### Höppel, Heinz Werner (apl. Prof. Dr.)
@@ -1339,8 +1356,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`205d06772f`](https://faudir.fau.de/public/person/205d06772f)
 - **Affiliation:** Professur für Experimentalphysik (Photonik)
 - **Weitere Affiliationen:** Professur für Experimentalphysik (Photonik); FAU Competence Center Engineering of Advanced Materials (FAU EAM); Nanostructured Films (IZNF); FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ); FAU Profile Center New Materials and Processes (FAU NMP)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Physik (FAU Scientia)  -](../589-sommersemester-2026/physik-fau-scientia-13839673.md): "Modern Optics 2: Nonlinear Optics (exercise class)" — Übung
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Advanced Laser" — Vorlesung mit Übung
 
 ### Jong, Moniek (Dr.)
 - **FAUdir:** [`27226adffa`](https://faudir.fau.de/public/person/27226adffa)
@@ -1379,14 +1397,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Kamalhosseini, Seyedehniloofar ()
 - **FAUdir:** [`78393a9693`](https://faudir.fau.de/public/person/78393a9693)
 - **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übung zu Betriebsverhalten elektrischer Energiesysteme" — Übung
-
-### Kamalhosseini, Seyedehniloofar ()
-- **FAUdir:** [`78393a9693`](https://faudir.fau.de/public/person/78393a9693)
-- **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Betriebsverhalten elektrischer Energiesysteme" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übung zu Betriebsverhalten elektrischer Energiesysteme" — Übung
 
 ### Kammer, Mona ()
 - **FAUdir:** [`230afc888a`](https://faudir.fau.de/public/person/230afc888a)
@@ -1404,7 +1417,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Kapitza, Rüdiger (Prof. Dr.-Ing.)
 - **FAUdir:** [`7f9a963f86`](https://faudir.fau.de/public/person/7f9a963f86)
 - **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
 
 ### Karl, Jürgen (Prof. Dr.-Ing.)
@@ -1414,6 +1428,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Process Control and Plant Safety" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Process Control and Plant Safety (Lab Course)" — Praktikum
+
+### Kaschta, Joachim (Dr.-Ing.)
+- **FAUdir:** [`8c145bbb2e`](https://faudir.fau.de/public/person/8c145bbb2e)
+- **Affiliation:** Lehrstuhl für Werkstoffwissenschaften (Polymerwerkstoffe)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Werkstoffkunde für Studierende des CBI und CEN" — Vorlesung mit Übung
 
 ### Kaspereit, Malte (Prof. Dr.-Ing. habil.)
 - **FAUdir:** [`c84366b848`](https://faudir.fau.de/public/person/c84366b848)
@@ -1462,8 +1482,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`2492cb989b`](https://faudir.fau.de/public/person/2492cb989b)
 - **Affiliation:** Professur für Wirtschaftspädagogik
 - **Weitere Affiliationen:** Professur für Wirtschaftspädagogik; Kollegiale Leitung; Professur für Personalmanagement und Arbeitsorganisation technologieorientierter Unternehmen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Betriebliche Aus- und Weiterbildung - Übung" — Übung
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Professional Orientation" — Seminar
 
 ### Klare, Sebastian ()
 - **FAUdir:** [`70f41e67be`](https://faudir.fau.de/public/person/70f41e67be)
@@ -1475,8 +1496,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`4857e491bb`](https://faudir.fau.de/public/person/4857e491bb)
 - **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
 - **Weitere Affiliationen:** Lehrstuhl für Informatik 4 (Systemsoftware); Chief Information Officer (CIO)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
 
 ### Klek, Konrad (Prof. Dr.)
 - **FAUdir:** [`1d066ac323`](https://faudir.fau.de/public/person/1d066ac323)
@@ -1495,6 +1517,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Measurement Systems" — Vorlesung mit Übung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Self-Organisation Processes" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Self-Organisation Processes (Exercise)" — Übung
+
+### Koch, Manuel ()
+- **FAUdir:** [`1211c95591`](https://faudir.fau.de/public/person/1211c95591)
+- **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übungen zu Schaltungstechnik" — Übung
 
 ### Koelewijn, Joël ()
 - **FAUdir:** [`1b2c09b699`](https://faudir.fau.de/public/person/1b2c09b699)
@@ -1583,10 +1611,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "EEBF Modul 3 - Mentorat" — Übung
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "EEBF Modul 9 - Projektdurchführung" — Seminar
 
-### Krüger, Torben (Prof. Dr.)
-- **FAUdir:** [`25d589b186`](https://faudir.fau.de/public/person/25d589b186)
-- **Affiliation:** Lehrstuhl für Mathematische Stochastik
-- **Weitere Affiliationen:** Lehrstuhl für Mathematische Stochastik; Department Mathematik; Department Mathematik
+### Krüger, Paul ()
+- **FAUdir:** [`f006977e84`](https://faudir.fau.de/public/person/f006977e84)
+- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
+- **Weitere Affiliationen:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Security in Embedded Hardware" — Übung
 
@@ -1597,16 +1625,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Examenskurs Strafrecht BT" — Vorlesung
 
-### Kulkarni, Tanmay ()
-- **FAUdir:** [`9a8ff8f8d9`](https://faudir.fau.de/public/person/9a8ff8f8d9)
-- **Affiliation:** Lehrstuhl für Angewandte Physik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+### Kulkarni, Kajol ()
+- **FAUdir:** [`a597ca3ea7`](https://faudir.fau.de/public/person/a597ca3ea7)
+- **Affiliation:** Lehrstuhl für Informatik 10 (Systemsimulation)
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to High End Simulation in Practice" — Übung
-
-### Kulkarni, Tanmay ()
-- **FAUdir:** [`9a8ff8f8d9`](https://faudir.fau.de/public/person/9a8ff8f8d9)
-- **Affiliation:** Lehrstuhl für Angewandte Physik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "High End Simulation in Practice" — Vorlesung
 
 ### Kutz, Agnes ()
@@ -1621,18 +1644,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "V: Business Analytics: Technologien, Methoden und Konzepte" — Vorlesung mit Übung
 
-### Köhler, Ben ()
-- **FAUdir:** [`4801bbac82`](https://faudir.fau.de/public/person/4801bbac82)
-- **Affiliation:** Lehrstuhl für Wirtschaftsinformatik, insbesondere Digitalisierung in Wirtschaft und Gesellschaft (Stiftungslehrstuhl)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "PuGDid 5: Examenskolloquium" — Seminar
-
 ### Köstler, Harald (Prof. Dr.)
 - **FAUdir:** [`2c3e191c8f`](https://faudir.fau.de/public/person/2c3e191c8f)
 - **Affiliation:** Lehrstuhl für Informatik 10 (Systemsimulation)
 - **Weitere Affiliationen:** Zentrum für Nationales Hochleistungsrechnen Erlangen (NHR@FAU); Lehrstuhl für Informatik 10 (Systemsimulation); Lehrstuhl für Informatik 10 (Systemsimulation); NHR@FAU KI
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to High End Simulation in Practice" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "High End Simulation in Practice" — Vorlesung
 
 ### Lang, Thomas ()
 - **FAUdir:** [`4d0e93a2c9`](https://faudir.fau.de/public/person/4d0e93a2c9)
@@ -1706,12 +1724,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar zur Gesundheitsökonomik / Seminar in Health Economics" — Seminar
 
-### Liatos, Michail ()
-- **FAUdir:** [`9e2137cf79`](https://faudir.fau.de/public/person/9e2137cf79)
-- **Affiliation:** Professur für Gesundheitsökonomie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar zur Gesundheitsökonomik / Seminar in Health Economics" — Seminar
-
 ### Liegl, Marion ()
 - **FAUdir:** [`06f8782952`](https://faudir.fau.de/public/person/06f8782952)
 - **Affiliation:** Lehrstuhl für Informatik 1 (IT-Sicherheitsinfrastrukturen)
@@ -1746,7 +1758,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`25f4fa7d28`](https://faudir.fau.de/public/person/25f4fa7d28)
 - **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
 - **Weitere Affiliationen:** Lehrstuhl für Elektrische Energiesysteme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 4
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Betriebsverhalten elektrischer Energiesysteme" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Grundlagen der Elektrischen Energieversorgung" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übung zu Betriebsverhalten elektrischer Energiesysteme" — Übung
 
 ### Lux, Anja (Prof. Dr.)
@@ -1759,20 +1774,16 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Lübke, Maximilian (Dr.-Ing.)
 - **FAUdir:** [`0d76db9b83`](https://faudir.fau.de/public/person/0d76db9b83)
 - **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Schaltungen und Systeme der Übertragungstechnik" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Schaltungen und Systeme der Übertragungstechnik" — Übung
 
 ### Lützenkirchen, Johanna ()
 - **FAUdir:** [`7fd087a2ee`](https://faudir.fau.de/public/person/7fd087a2ee)
 - **Affiliation:** Professur für Fluidsystemtechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik Übung" — Übung
-
-### Lützenkirchen, Johanna ()
-- **FAUdir:** [`7fd087a2ee`](https://faudir.fau.de/public/person/7fd087a2ee)
-- **Affiliation:** Professur für Fluidsystemtechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik" — Vorlesung
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik Übung" — Übung
 
 ### Magnabosco, Giulia (Dr.)
 - **FAUdir:** [`e9bdc5c989`](https://faudir.fau.de/public/person/e9bdc5c989)
@@ -1812,8 +1823,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`a6f624199c`](https://faudir.fau.de/public/person/a6f624199c)
 - **Affiliation:** Lehrstuhl für Digital Industrial Service Systems
 - **Weitere Affiliationen:** Lehrstuhl für Digital Industrial Service Systems
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "V: Business Analytics: Technologien, Methoden und Konzepte" — Vorlesung mit Übung
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "V: Service Management and Service Engineering" — Vorlesung
 
 ### Maultzsch, Janina (Prof. Dr.)
 - **FAUdir:** [`90e8829853`](https://faudir.fau.de/public/person/90e8829853)
@@ -1826,7 +1838,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Maurer, Hans-Christoph (Dr.)
 - **FAUdir:** [`9814942b35`](https://faudir.fau.de/public/person/9814942b35)
 - **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Markt und Netze - Systemlösungen für die Energiewende" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Markt und Netze - Systemlösungen für die Energiewende" — Übung
 
 ### Mayr, Paul ()
@@ -1871,13 +1884,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Meier, Trixi ()
 - **FAUdir:** [`c3a2023913`](https://faudir.fau.de/public/person/c3a2023913)
 - **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung" — Vorlesung
-
-### Meier, Trixi ()
-- **FAUdir:** [`c3a2023913`](https://faudir.fau.de/public/person/c3a2023913)
-- **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung - Übung" — Übung
 
 ### Meißner, Stefan ()
@@ -1905,6 +1913,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Technische Fakultät; Lehrstuhl für Technische Mechanik; FAU Competence Center Engineering of Advanced Materials (FAU EAM); Computational Advanced Materials and Processes (CAMP); FAU Profile Center New Materials and Processes (FAU NMP)
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Materialmodellierung und -simulation" — Vorlesung mit Übung
+
+### Merkl, Christian (Prof. Dr.)
+- **FAUdir:** [`07ec7fd37b`](https://faudir.fau.de/public/person/07ec7fd37b)
+- **Affiliation:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Makroökonomik
+- **Weitere Affiliationen:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Makroökonomik; Lehrstuhl für Volkswirtschaftslehre, insbesondere Makroökonomik
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar Reflections in International Economics" — Seminar
 
 ### Merklein, Marion (Prof. Dr.-Ing.)
 - **FAUdir:** [`2a5e5661fd`](https://faudir.fau.de/public/person/2a5e5661fd)
@@ -1990,9 +2005,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`dca4568b02`](https://faudir.fau.de/public/person/dca4568b02)
 - **Affiliation:** Lehrstuhl für Leistungselektronik
 - **Weitere Affiliationen:** Lehrstuhl für Leistungselektronik; Lehrstuhl für Leistungselektronik; Department Elektrotechnik-Elektronik-Informationstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
+- **Veranstaltungen ohne Pflicht-Markierung:** 7
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Elektrische Energiespeichersysteme" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Exercises on Power Electronics for Decentral Energy Systems" — Übung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Power Electronics for Decentral Energy Systems" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Thermisches Management in der Leistungselektronik" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Thermisches Management in der Leistungselektronik" — Übung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Selected Topics in Vehicle Electrification" — Vorlesung
 
@@ -2116,11 +2134,24 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): "Masterseminar "Theory of Discrete Optimization"" — Masterseminar
 
+### Oster, Norbert (Dr.-Ing.)
+- **FAUdir:** [`47bcd15f6d`](https://faudir.fau.de/public/person/47bcd15f6d)
+- **Affiliation:** Lehrstuhl für Informatik 2 (Programmiersysteme)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Testen von Softwaresystemen" — Vorlesung
+
 ### Osvet, Andres (Dr.)
 - **FAUdir:** [`593fb3783c`](https://faudir.fau.de/public/person/593fb3783c)
 - **Affiliation:** Lehrstuhl für Werkstoffwissenschaften (Materialien der Elektronik und der Energietechnologie)
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Lab Work Thin Film Semiconductors" — Praktikum
+
+### Ott, Maximilian ()
+- **FAUdir:** [`d10412a656`](https://faudir.fau.de/public/person/d10412a656)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Betriebssystemtechnik - Rechnerübungen" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Betriebssystemtechnik - Übungen" — Übung
 
 ### Panusch, David ()
 - **FAUdir:** [`51d4dde920`](https://faudir.fau.de/public/person/51d4dde920)
@@ -2166,25 +2197,20 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`6dea713019`](https://faudir.fau.de/public/person/6dea713019)
 - **Affiliation:** Professur für Numerische Simulation und Hochleistungsrechnen
 - **Weitere Affiliationen:** Professur für Numerische Simulation und Hochleistungsrechnen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics" — Vorlesung mit Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics CE" — Vorlesung mit Übung
 
 ### Platzer, Daniel ()
 - **FAUdir:** [`3e665747eb`](https://faudir.fau.de/public/person/3e665747eb)
 - **Affiliation:** Lehrstuhl für Interfaces und Partikeltechnologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Grenzflächen in der Verfahrenstechnik" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Übung zu Grenzflächen in der Verfahrenstechnik" — Übung
 
-### Platzer, Daniel ()
-- **FAUdir:** [`3e665747eb`](https://faudir.fau.de/public/person/3e665747eb)
-- **Affiliation:** Lehrstuhl für Interfaces und Partikeltechnologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Grenzflächen in der Verfahrenstechnik" — Vorlesung
-
-### Pohl, Sonja ()
-- **FAUdir:** [`a0b90db77e`](https://faudir.fau.de/public/person/a0b90db77e)
-- **Affiliation:** Lehrstuhl für Praktische Philosophie
-- **Weitere Affiliationen:** Lehrstuhl für Praktische Philosophie
+### Pohl, Marco ()
+- **FAUdir:** [`6a8d20223d`](https://faudir.fau.de/public/person/6a8d20223d)
+- **Affiliation:** Lehrstuhl für Gießereitechnik
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Gießereitechnik" — Vorlesung mit Übung
 
@@ -2200,12 +2226,19 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Tribologie und Oberflächentechnik" — Vorlesung
 
+### Popova, Romina ()
+- **FAUdir:** [`bddff1bd1f`](https://faudir.fau.de/public/person/bddff1bd1f)
+- **Affiliation:** Lehrstuhl für Bürgerliches Recht, Deutsche und Europäische Rechtsgeschichte
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Europäische Privatrechtsgeschichte der Neuzeit" — Vorlesung
+
 ### Preisner, Thomas ()
 - **FAUdir:** [`06ecaec711`](https://faudir.fau.de/public/person/06ecaec711)
 - **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Betriebssystemtechnik - Rechnerübungen" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Betriebssystemtechnik - Übungen" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
 
 ### Probst, Dominik ()
 - **FAUdir:** [`c8956e35d5`](https://faudir.fau.de/public/person/c8956e35d5)
@@ -2248,6 +2281,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Partikelbasierte Strömungsmechanik (PSTM-V)" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Simulation Techniques - MSS Seminar" — Seminar
 
+### Rachuj, Sebastian (Dipl.-Ing.)
+- **FAUdir:** [`c6fd0ddd35`](https://faudir.fau.de/public/person/c6fd0ddd35)
+- **Affiliation:** Lehrstuhl für Informatik 3 (Rechnerarchitektur)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computer Architectures for Medical Applications" — Vorlesung
+
 ### Rakhkochkine, Anatoli (Prof. Dr.)
 - **FAUdir:** [`932a65c1cb`](https://faudir.fau.de/public/person/932a65c1cb)
 - **Affiliation:** Lehrstuhl für Pädagogik mit dem Schwerpunkt Diversity Education und internationale Bildungsforschung
@@ -2270,22 +2309,18 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Redel, Michael ()
 - **FAUdir:** [`93195e13c7`](https://faudir.fau.de/public/person/93195e13c7)
 - **Affiliation:** Lehrstuhl für Werkstoffwissenschaften (Polymerwerkstoffe)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Werkstoffkunde für Studierende des CBI und CEN" — Vorlesung mit Übung
-
-### Redel, Michael ()
-- **FAUdir:** [`93195e13c7`](https://faudir.fau.de/public/person/93195e13c7)
-- **Affiliation:** Lehrstuhl für Werkstoffwissenschaften (Polymerwerkstoffe)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Applied Rheology" — Vorlesung
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Exercises Polymers - 2" — Übung
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Werkstoffkunde für Studierende des CBI und CEN" — Vorlesung mit Übung
 
 ### Regelous, Marcel (PD Dr.)
 - **FAUdir:** [`56e028bcbf`](https://faudir.fau.de/public/person/56e028bcbf)
 - **Affiliation:** Lehrstuhl für Endogene Geodynamik
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
   - in [- Geologie und Geografie (FAU Scientia)  -](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md): "Minerale und Gesteine für Studierende der Geographie (und Mod. Nat.)" — Seminar
   - in [- Geologie und Geografie (FAU Scientia)  -](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md): "Regionale Geologie - Seminar" — Seminar
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende)" — Seminar
 
 ### Renner, Esther (Dr.-Ing.)
 - **FAUdir:** [`86c538ab05`](https://faudir.fau.de/public/person/86c538ab05)
@@ -2302,14 +2337,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Riebesel, David ()
 - **FAUdir:** [`1ebc5b9bd6`](https://faudir.fau.de/public/person/1ebc5b9bd6)
 - **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Markt und Netze - Systemlösungen für die Energiewende" — Übung
-
-### Riebesel, David ()
-- **FAUdir:** [`1ebc5b9bd6`](https://faudir.fau.de/public/person/1ebc5b9bd6)
-- **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Markt und Netze - Systemlösungen für die Energiewende" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Markt und Netze - Systemlösungen für die Energiewende" — Übung
 
 ### Rieder, André ()
 - **FAUdir:** [`5a773447fc`](https://faudir.fau.de/public/person/5a773447fc)
@@ -2330,6 +2360,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik Übung" — Übung
+
+### Ritter von Onciul, Maxim ()
+- **FAUdir:** [`0bc3d5c627`](https://faudir.fau.de/public/person/0bc3d5c627)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
 
 ### Ritthaler, Marina ()
 - **FAUdir:** [`07f0a15520`](https://faudir.fau.de/public/person/07f0a15520)
@@ -2376,14 +2413,24 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Rothammer, Benedict (Dr.-Ing.)
 - **FAUdir:** [`89d1a6efdb`](https://faudir.fau.de/public/person/89d1a6efdb)
 - **Affiliation:** Lehrstuhl für Konstruktionstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 4
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Doktorandenseminar" — Anleitung zu wiss. Arbeiten
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Einführung in das Patentrecht und verwandte Schutzrechte" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Tribologie und Oberflächentechnik" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Übungen zu Maschinenelemente II" — Übung
 
 ### Rumpel, Tobias ()
 - **FAUdir:** [`a12a2bf370`](https://faudir.fau.de/public/person/a12a2bf370)
 - **Affiliation:** Lehrstuhl für Zuverlässige Schaltungen und Systeme
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Präsentation technischer Sachverhalte" — Seminar
+
+### Röckelein, Andreas ()
+- **FAUdir:** [`00c7fbe134`](https://faudir.fau.de/public/person/00c7fbe134)
+- **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik (PT II & PT 3 MB)" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik - Tutorium (P) (PT II & PT 3 MB)" — Tutorium
 
 ### Rösel, Sophia ()
 - **FAUdir:** [`da7549a2c8`](https://faudir.fau.de/public/person/da7549a2c8)
@@ -2396,6 +2443,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Professur für die Zeitgeschichte Chinas
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "MA-2 Transregional Entanglements" — Übung
+
+### Rüppel, Bastian ()
+- **FAUdir:** [`2f3e85987b`](https://faudir.fau.de/public/person/2f3e85987b)
+- **Affiliation:** Professur für Fluidsystemtechnik
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik" — Vorlesung
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik Übung" — Übung
 
 ### Rüster, Johannes (Prof. Dr.)
 - **FAUdir:** [`4a5b79a987`](https://faudir.fau.de/public/person/4a5b79a987)
@@ -2419,19 +2473,20 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Messtechnik 2 - Messmethoden und Analytik" — Übung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Messtechnik 2 - Messmethoden und Analytik" — Vorlesung
 
-### Saha, Abhirup ()
-- **FAUdir:** [`2000c3a4ab`](https://faudir.fau.de/public/person/2000c3a4ab)
-- **Affiliation:** Lehrstuhl für Semantische Audiosignalverarbeitung (AudioLabs)
-- **Weitere Affiliationen:** International Audio Laboratories Erlangen (AudioLabs)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics" — Vorlesung mit Übung
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics CE" — Vorlesung mit Übung
-
 ### Saha, Souryadeep ()
 - **FAUdir:** [`ba34a74e69`](https://faudir.fau.de/public/person/ba34a74e69)
 - **Affiliation:** Professur für Numerische Simulation und Hochleistungsrechnen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics" — Vorlesung mit Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics CE" — Vorlesung mit Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises in Computational Optics CE & MAOT" — Übung
+
+### Salo, Reettakaisa Sofia (Prof. Dr.)
+- **FAUdir:** [`7f45e62800`](https://faudir.fau.de/public/person/7f45e62800)
+- **Affiliation:** Lehrstuhl für Altes Testament (Theologie)
+- **Weitere Affiliationen:** Lehrstuhl für Altes Testament (Theologie)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Altes Testament im Überblick - Geschichte Israels" — Vorlesung mit Übung
 
 ### Sasaki, Manami (Prof. Dr.)
 - **FAUdir:** [`3b96ca3a87`](https://faudir.fau.de/public/person/3b96ca3a87)
@@ -2485,13 +2540,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Scheller, Kai ()
 - **FAUdir:** [`d5539746f2`](https://faudir.fau.de/public/person/d5539746f2)
 - **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Praktikum Analog-Digital-Umsetzer" — Praktikum
-
-### Scheller, Kai ()
-- **FAUdir:** [`d5539746f2`](https://faudir.fau.de/public/person/d5539746f2)
-- **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übungen zu Schaltungstechnik" — Übung
 
 ### Schilling-Vacaflor del Carpio, Almut (Prof. Dr.)
@@ -2521,6 +2571,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): "Sprachhistorisches Seminar" — Sprachhistorisches Seminar
 
+### Schmidt, Patrick ()
+- **FAUdir:** [`f964c99964`](https://faudir.fau.de/public/person/f964c99964)
+- **Affiliation:** Lehrstuhl für Advanced Optical Technologies - Thermophysical Properties
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Thermofluiddynamik der Biotechnologie" — Vorlesung mit Übung
+
 ### Schmidt, Jochen ()
 - **FAUdir:** [`20b9801ba3`](https://faudir.fau.de/public/person/20b9801ba3)
 - **Affiliation:** Lehrstuhl für Anorganische und Metallorganische Chemie
@@ -2528,12 +2584,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Tutorium zu Product Engineering" — Tutorium
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Übung Messtechnik 1 - Messtechnik und Analytik" — Übung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Übung zu Product Engineering für LSE (MVTII)" — Übung
-
-### Schmidt, Vincent ()
-- **FAUdir:** [`1e56f6c4c0`](https://faudir.fau.de/public/person/1e56f6c4c0)
-- **Affiliation:** Lehrstuhl für Christliche Archäologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Thermofluiddynamik der Biotechnologie" — Vorlesung mit Übung
 
 ### Schmuki, Patrik (Prof. Dr.)
 - **FAUdir:** [`3298e93dc2`](https://faudir.fau.de/public/person/3298e93dc2)
@@ -2643,22 +2693,19 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`0e258188f0`](https://faudir.fau.de/public/person/0e258188f0)
 - **Affiliation:** Lehrstuhl für Elektronische Bauelemente
 - **Weitere Affiliationen:** Lehrstuhl für Elektronische Bauelemente; FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ); FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 4
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Ausgewählte Kapitel der Quantenelektronik" — Seminar
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Halbleitertechnik I - Bipolartechnik" — Übung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik" — Übung
 
 ### Schwanninger, Raffael ()
 - **FAUdir:** [`e1417ef3e3`](https://faudir.fau.de/public/person/e1417ef3e3)
 - **Affiliation:** Lehrstuhl für Leistungselektronik
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Exercises on Power Electronics for Decentral Energy Systems" — Übung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Power Electronics for Decentral Energy Systems" — Vorlesung
-
-### Schwanninger, Raffael ()
-- **FAUdir:** [`e1417ef3e3`](https://faudir.fau.de/public/person/e1417ef3e3)
-- **Affiliation:** Lehrstuhl für Leistungselektronik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Exercises on Power Electronics for Decentral Energy Systems" — Übung
 
 ### Schwarberg, Jannik ()
 - **FAUdir:** [`e97310c40f`](https://faudir.fau.de/public/person/e97310c40f)
@@ -2666,9 +2713,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Halbleitertechnik I - Bipolartechnik" — Übung
 
-### Schwarz, Paul ()
-- **FAUdir:** [`d10fac740c`](https://faudir.fau.de/public/person/d10fac740c)
-- **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
+### Schwarz, Julian ()
+- **FAUdir:** [`04a1652ff5`](https://faudir.fau.de/public/person/04a1652ff5)
+- **Affiliation:** Lehrstuhl für Elektronische Bauelemente
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Ausgewählte Kapitel der Quantenelektronik" — Seminar
 
@@ -2717,8 +2764,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Sixdenier, Pierre-Louis ()
 - **FAUdir:** [`9e44a94247`](https://faudir.fau.de/public/person/9e44a94247)
 - **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to Approximate Computing" — Übung
 
 ### Slany, Robert (Prof.)
 - **FAUdir:** [`bb44f85b77`](https://faudir.fau.de/public/person/bb44f85b77)
@@ -2753,6 +2801,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Practical Course to 3D Characterization in Materials Science" — Praktikum
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Transmission Electron Microscopy in Material Science II" — Vorlesung mit Übung
 
+### Spielberger, Alexander ()
+- **FAUdir:** [`dc59834bfe`](https://faudir.fau.de/public/person/dc59834bfe)
+- **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Medizinelektronik - Medical Electronics" — Vorlesung
+
 ### Stadler, Ruth (PD Dr.)
 - **FAUdir:** [`f6ea1acb0b`](https://faudir.fau.de/public/person/f6ea1acb0b)
 - **Affiliation:** Lehrstuhl für Molekulare Pflanzenphysiologie
@@ -2763,9 +2817,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`b96b1f741b`](https://faudir.fau.de/public/person/b96b1f741b)
 - **Affiliation:** Lehrstuhl für Informatik 9 (Graphische Datenverarbeitung)
 - **Weitere Affiliationen:** Lehrstuhl für Informatik 9 (Graphische Datenverarbeitung); Bayerisch-Kalifornisches Hochschulzentrum (BaCaTec)
-- **Veranstaltungen ohne Pflicht-Markierung:** 3
+- **Veranstaltungen ohne Pflicht-Markierung:** 5
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Interactive Computer Graphics" — Vorlesung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Neural Graphics and Inverse Rendering" — Vorlesung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Global Illumination" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Interactive Computer Graphics" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Neural Graphics and Inverse Rendering" — Übung
 
 ### Steer, Thomas (apl. Prof. Dr.)
@@ -2832,11 +2888,18 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "Rückert-Vorlesung" — Vorlesung
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "Modernes arabisches Theater" — Kurs
 
+### Tang, Willi (Dr.)
+- **FAUdir:** [`c4ff3b8654`](https://faudir.fau.de/public/person/c4ff3b8654)
+- **Affiliation:** Lehrstuhl für Digital Industrial Service Systems
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "V: Business Analytics: Technologien, Methoden und Konzepte" — Vorlesung mit Übung
+
 ### Tauchmann, Harald (Prof. Dr.)
 - **FAUdir:** [`b04933e090`](https://faudir.fau.de/public/person/b04933e090)
 - **Affiliation:** Professur für Gesundheitsökonomie
 - **Weitere Affiliationen:** Professur für Gesundheitsökonomie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar zur Gesundheitsökonomik / Seminar in Health Economics" — Seminar
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "VL: Gesundheitsverhalten und Gesundheitsmärkte" — Vorlesung
 
 ### Teget-Welz, Manuel (apl. Prof. Dr.)
@@ -2867,6 +2930,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Islamwissenschaft kritisch denken: Konzepte und Theorien (Thinking about Islamic Studies: Concepts and Theories)" — Masterseminar
 
+### Tielemann, Michael (Prof. Dr.-Ing.)
+- **FAUdir:** [`06d96e3d66`](https://faudir.fau.de/public/person/06d96e3d66)
+- **Affiliation:** Lehrstuhl für Informatik 1 (IT-Sicherheitsinfrastrukturen)
+- **Weitere Affiliationen:** Chief Information Security Officer (CISO)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Datenschutz und Compliance" — Vorlesung
+
 ### Titz, Alexandra (PD Dr.)
 - **FAUdir:** [`75991a945e`](https://faudir.fau.de/public/person/75991a945e)
 - **Affiliation:** Institut für Geographie
@@ -2877,13 +2947,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Touijer, Ouadie ()
 - **FAUdir:** [`7763670447`](https://faudir.fau.de/public/person/7763670447)
 - **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Medizinelektronik - Medical Electronics" — Vorlesung
-
-### Touijer, Ouadie ()
-- **FAUdir:** [`7763670447`](https://faudir.fau.de/public/person/7763670447)
-- **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Praktikum zu High-Performance Analog- und Umsetzer-Design" — Praktikum
 
 ### Treiber, Peter (Dr.-Ing.)
@@ -2901,10 +2966,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "UE Examensvorbereitung Ethik" — Übung
 
-### Trollmann, Regina (Prof. Dr.)
-- **FAUdir:** [`f49f1cf19c`](https://faudir.fau.de/public/person/f49f1cf19c)
-- **Affiliation:** Professur für Kinder- u. Jugendmedizin Schwerpunkt Neuropädiatrie
-- **Weitere Affiliationen:** Professur für Kinder- u. Jugendmedizin Schwerpunkt Neuropädiatrie; Fakultätsverwaltung Medizinische Fakultät
+### Trollmann, Marius ()
+- **FAUdir:** [`825c1829b8`](https://faudir.fau.de/public/person/825c1829b8)
+- **Affiliation:** Professur für Computational Biology
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Python for Bioinformatics and Data Analysis" — Seminar und Übung
 
@@ -2914,6 +2978,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Integrative Gewebeimmunologie (Heisenberg-Professur); FAU Optical Imaging Competence Center (FAU OICE); Fakultätsverwaltung Medizinische Fakultät
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Clinical Immunology - Lecture" — Vorlesung
+
+### Ulbricht, Johannes (Dr.)
+- **FAUdir:** [`89df309244`](https://faudir.fau.de/public/person/89df309244)
+- **Affiliation:** Lehrstuhl für Bürgerliches Recht, Deutsche und Europäische Rechtsgeschichte
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Europäische Privatrechtsgeschichte der Neuzeit" — Vorlesung
 
 ### Unruh, Tobias (Prof. Dr.)
 - **FAUdir:** [`1d6bf22278`](https://faudir.fau.de/public/person/1d6bf22278)
@@ -2962,6 +3032,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Surfaces of Biomaterials / Oberflächen von Biomaterialien" — Vorlesung
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Exercise Basic electrochemistry II" — Übung
 
+### Vogel, Arne ()
+- **FAUdir:** [`7b8ff08a8a`](https://faudir.fau.de/public/person/7b8ff08a8a)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
+
 ### Vogel, Nicolas (Prof. Dr.)
 - **FAUdir:** [`3f3b453988`](https://faudir.fau.de/public/person/3f3b453988)
 - **Affiliation:** Lehrstuhl für Interfaces und Partikeltechnologie
@@ -3002,7 +3079,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Wagner, Timo ()
 - **FAUdir:** [`abd891264c`](https://faudir.fau.de/public/person/abd891264c)
 - **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Grundlagen der Elektrischen Energieversorgung" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
 
 ### Wahl, Markus (PD Dr.)
@@ -3025,6 +3103,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Geographie (Digitale Geographie / Kulturgeographie); Institut für Geographie; Ressort Computer & IT (EDV); Vorstand; Exzellenzcluster „Transforming Human Rights”
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Grundvorlesung Kulturgeographie 2: Siedlungs- und Bevölkerungsgeographie" — Vorlesung mit Übung
+
+### Walter, Dominik ()
+- **FAUdir:** [`378ceebba8`](https://faudir.fau.de/public/person/378ceebba8)
+- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Praktische Übungen zu Grundlagen der Technischen Informatik" — Übung
 
 ### Walther, Uta ()
 - **FAUdir:** [`94343ce507`](https://faudir.fau.de/public/person/94343ce507)
@@ -3053,9 +3137,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`c6f5c8ea23`](https://faudir.fau.de/public/person/c6f5c8ea23)
 - **Affiliation:** Lehrstuhl für Konstruktionstechnik
 - **Weitere Affiliationen:** Lehrstuhl für Konstruktionstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
+- **Veranstaltungen ohne Pflicht-Markierung:** 5
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Doktorandenseminar" — Anleitung zu wiss. Arbeiten
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Einführung in das Patentrecht und verwandte Schutzrechte" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Technologie-Startup-Seminar" — Seminar
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Übungen zu Maschinenelemente II" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Technische Darstellungslehre II - Kurs Mi" — Praktikum
 
@@ -3090,13 +3175,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Weidinger, Peter (Prof. Dr.)
 - **FAUdir:** [`7e1b37f2d5`](https://faudir.fau.de/public/person/7e1b37f2d5)
 - **Affiliation:** Lehrstuhl für Werkstoffwissenschaften (Allgemeine Werkstoffeigenschaften)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Fundamentals of Failure Analysis / Grundlagen der Schadensanalyse an Bauteilen" — Vorlesung mit Übung
-
-### Weidinger, Peter (Prof. Dr.)
-- **FAUdir:** [`7e1b37f2d5`](https://faudir.fau.de/public/person/7e1b37f2d5)
-- **Affiliation:** Lehrstuhl für Werkstoffwissenschaften (Allgemeine Werkstoffeigenschaften)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Labwork: Failure Analysis / Praktikum Schadensanalyse" — Praktikum
 
 ### Weikl, Jan ()
@@ -3105,10 +3185,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Übung Labor and Personnel Economics" — Übung
 
-### Weitz, Paul ()
-- **FAUdir:** [`986272d148`](https://faudir.fau.de/public/person/986272d148)
-- **Affiliation:** Lehrstuhl für Werkstoffwissenschaften (Materialien der Elektronik und der Energietechnologie)
-- **Weitere Affiliationen:** Organische Solarzellen - Optimierung und Degradation
+### Weitz, Nikolai ()
+- **FAUdir:** [`b693c27fd7`](https://faudir.fau.de/public/person/b693c27fd7)
+- **Affiliation:** Lehrstuhl für Leistungselektronik
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
 
@@ -3122,7 +3201,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`ff7f5b3a6e`](https://faudir.fau.de/public/person/ff7f5b3a6e)
 - **Affiliation:** Professur für Fluidsystemtechnik
 - **Weitere Affiliationen:** Professur für Fluidsystemtechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik Übung" — Übung
 
 ### Weyrich, Tim (Prof. Dr.)
@@ -3136,20 +3216,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Wiedemann, Ole ()
 - **FAUdir:** [`6ec4da90f6`](https://faudir.fau.de/public/person/6ec4da90f6)
 - **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
-
-### Wiedemann, Ole ()
-- **FAUdir:** [`6ec4da90f6`](https://faudir.fau.de/public/person/6ec4da90f6)
-- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
-
-### Wiesgickl, Simon (Dr.)
-- **FAUdir:** [`eae7a08078`](https://faudir.fau.de/public/person/eae7a08078)
-- **Affiliation:** Lehrstuhl für Religionswissenschaft und Interkulturelle Theologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Vorlesung Islam" — Vorlesung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
 
 ### Wiesmann, Carolin ()
 - **FAUdir:** [`b6587d4ad0`](https://faudir.fau.de/public/person/b6587d4ad0)
@@ -3168,8 +3237,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Wildermann, Stefan (Dr.-Ing.)
 - **FAUdir:** [`4a9e81f61b`](https://faudir.fau.de/public/person/4a9e81f61b)
 - **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Praktikum: Lego Mindstorms" — Praktikum
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Security in Embedded Hardware" — Übung
 
 ### Will, Johannes (Dr.)
 - **FAUdir:** [`860e20e347`](https://faudir.fau.de/public/person/860e20e347)
@@ -3196,9 +3266,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Visual Computing in Medicine 2" — Vorlesung
 
-### Wittmann, Sabine ()
-- **FAUdir:** [`59e0d447a6`](https://faudir.fau.de/public/person/59e0d447a6)
-- **Affiliation:** Lehrstuhl für Fertigungstechnologie
+### Wittmann, Jakob (M.Sc.)
+- **FAUdir:** [`fdab68668b`](https://faudir.fau.de/public/person/fdab68668b)
+- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Praktische Übungen zu Grundlagen der Technischen Informatik" — Übung
 
@@ -3213,7 +3283,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`4cf3bbb894`](https://faudir.fau.de/public/person/4cf3bbb894)
 - **Affiliation:** Lehrstuhl für Empirische Wirtschaftssoziologie
 - **Weitere Affiliationen:** Lehrstuhl für Empirische Wirtschaftssoziologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Soziologie II - Seminar" — Seminar
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Soziologie II Vorlesung" — Vorlesung
 
 ### Worthmann, Hannes (Dr.)
@@ -3227,8 +3298,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`9d179dd9a0`](https://faudir.fau.de/public/person/9d179dd9a0)
 - **Affiliation:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Sozialpolitik
 - **Weitere Affiliationen:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Sozialpolitik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA L Social Policy in an Interdependent World (V2: BA SPIW)" — Vorlesung
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA Üb Social Policy in an Interdependent World (Ü1: BA SPIW)" — Übung
 
 ### Wu, Mingjian (Dr.)
 - **FAUdir:** [`2bc96cd5f7`](https://faudir.fau.de/public/person/2bc96cd5f7)
@@ -3259,12 +3331,25 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Festkörperkinetik" — Vorlesung
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Generalized Continuum Models of  Materials Mechanics" — Vorlesung
 
+### Zaiß, Moritz (Prof. Dr.)
+- **FAUdir:** [`128273558c`](https://faudir.fau.de/public/person/128273558c)
+- **Affiliation:** Professur für Multimodale Bildgebung in der klinischen Forschung
+- **Weitere Affiliationen:** Professur für Multimodale Bildgebung in der klinischen Forschung
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Magnetic Resonance Imaging sequence programming [MRIpulseq]" — Seminar
+
 ### Zanin, Esther (Prof. Dr.)
 - **FAUdir:** [`c6765f1727`](https://faudir.fau.de/public/person/c6765f1727)
 - **Affiliation:** Professur für Experimentelle Molekulare Zelldynamik
 - **Weitere Affiliationen:** Professur für Experimentelle Molekulare Zelldynamik
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Orientierungsmodul Experimentelle Molekulare Zelldynamik: Molekulare Mechanismen der Zellteilung in tierischen Zellen" — Seminar und Übung
+
+### Ziegler, Michael (Dr.)
+- **FAUdir:** [`b50a1bd299`](https://faudir.fau.de/public/person/b50a1bd299)
+- **Affiliation:** Lehrstuhl für Psychologie, insbesondere Wirtschafts- und Sozialpsychologie
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übung zur Sozialpsychologie" — Übung
 
 ### Ziegler, Albert (Prof. Dr.)
 - **FAUdir:** [`d2af9520ae`](https://faudir.fau.de/public/person/d2af9520ae)
@@ -3276,14 +3361,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Zier, Florian ()
 - **FAUdir:** [`b25c687314`](https://faudir.fau.de/public/person/b25c687314)
 - **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
-
-### Zier, Florian ()
-- **FAUdir:** [`b25c687314`](https://faudir.fau.de/public/person/b25c687314)
-- **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Grundlagen der Elektrischen Energieversorgung" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
 
 ### Zimmermann, Anja (Prof. Dr.)
 - **FAUdir:** [`45bee4b26d`](https://faudir.fau.de/public/person/45bee4b26d)
@@ -3309,11 +3389,31 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Neural Graphics and Inverse Rendering" — Vorlesung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Neural Graphics and Inverse Rendering" — Übung
 
+### Kist, Andreas (Prof. Dr.)
+- **FAUdir:** [`718316578c`](https://faudir.fau.de/public/person/718316578c)
+- **Affiliation:** Juniorprofessur für Artificial Intelligence in Communication Disorders
+- **Weitere Affiliationen:** Juniorprofessur für Artificial Intelligence in Communication Disorders
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Fantastic datasets and where to find them" — Hauptseminar
+
+### Köhler, Florian ()
+- **FAUdir:** [`f839e0afd2`](https://faudir.fau.de/public/person/f839e0afd2)
+- **Affiliation:** Juniorprofessur für Didaktik der Sozialkunde / Politik und Gesellschaft
+- **Weitere Affiliationen:** Juniorprofessur für Didaktik der Sozialkunde / Politik und Gesellschaft
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "PuGDid 5: Examenskolloquium" — Seminar
+
 ### Neubig, Luisa ()
 - **FAUdir:** [`8c6eb6d28b`](https://faudir.fau.de/public/person/8c6eb6d28b)
 - **Affiliation:** Juniorprofessur für Artificial Intelligence in Communication Disorders
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Fantastic datasets and where to find them" — Hauptseminar
+
+### Rauch, Jan ()
+- **FAUdir:** [`7b0a938ae9`](https://faudir.fau.de/public/person/7b0a938ae9)
+- **Affiliation:** Juniorprofessur für Didaktik der Sozialkunde / Politik und Gesellschaft
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "PuGDid 5: Examenskolloquium" — Seminar
 
 ### Rösler, Paul (Prof. Dr.)
 - **FAUdir:** [`d4fa9254a2`](https://faudir.fau.de/public/person/d4fa9254a2)

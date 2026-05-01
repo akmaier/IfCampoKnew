@@ -190,7 +190,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.department.mb.tf.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Maschinenbau-BSc-FAU_Tech_FATHERSUN_612-scaled-1.jpg)
+- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Maschinenbau-BSc-FAU_Tech_FATHERSUN_612-scaled-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
@@ -363,7 +363,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr.-Ing. Maximilian Hofmann Prof. Dr. Martin März
+- **Verantwortlich:** Dr.-Ing. Maximilian Hofmann, Prof. Dr. Martin März
 
 #### Termine
 
@@ -382,7 +382,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Sandro Wartzack Klara Feile Madeleine Helmer
+- **Verantwortlich:** Prof. Dr.-Ing. Sandro Wartzack, Klara Feile, Madeleine Helmer
 
 #### Termine
 
@@ -459,7 +459,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Sandro Wartzack PD Dr.-Ing. Jörg Miehling Dr.-Ing. Stefan Götz Dr.-Ing. Benedict Rothammer Dr.-Ing. Christian Witzgall
+- **Verantwortlich:** Prof. Dr.-Ing. Sandro Wartzack, PD Dr.-Ing. Jörg Miehling, Dr.-Ing. Stefan Götz, Dr.-Ing. Benedict Rothammer, Dr.-Ing. Christian Witzgall
 
 #### Termine
 
@@ -545,7 +545,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Sebastian Müller Marco Pohl
+- **Verantwortlich:** Prof. Dr.-Ing. Sebastian Müller, Marco Pohl
 
 #### Termine
 
@@ -569,7 +569,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wird noch angekündigt | — | — | — | — | Prof. Dr.-Ing. Dietmar Drummer Christoph Herzog |
+| wird noch angekündigt | — | — | — | — | Prof. Dr.-Ing. Dietmar Drummer, Christoph Herzog |
 
 ### IFEM (UE) - Introduction to the Finite Element Method - Tutorial - Übung
 
@@ -637,7 +637,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr.-Ing. Bernd Eckardt Prof. Dr. Martin März
+- **Verantwortlich:** Dr.-Ing. Bernd Eckardt, Prof. Dr. Martin März
 
 #### Termine
 
@@ -675,7 +675,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Florian Klämpfl Dr.-Ing. Martin Hohmann
+- **Verantwortlich:** Dr.-Ing. Florian Klämpfl, Dr.-Ing. Martin Hohmann
 
 #### Termine
 
@@ -713,7 +713,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
-- **Verantwortlich:** Dr. Oliver Welzel Prof. Dr.-Ing. Sandro Wartzack Dr.-Ing. Benedict Rothammer Jan Kopatsch
+- **Verantwortlich:** Dr. Oliver Welzel, Prof. Dr.-Ing. Sandro Wartzack, Dr.-Ing. Benedict Rothammer, Jan Kopatsch
 
 ### ProdZ - Produktionsprozesse der Zerspanung - Vorlesung
 
@@ -726,7 +726,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Nico Hanenkamp Trixi Meier
+- **Verantwortlich:** Prof. Dr. Nico Hanenkamp, Trixi Meier
 
 #### Termine
 
@@ -745,7 +745,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Trixi Meier Prof. Dr. Nico Hanenkamp
+- **Verantwortlich:** Trixi Meier, Prof. Dr. Nico Hanenkamp
 
 #### Termine
 
@@ -763,7 +763,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Andreas Röckelein Lukas Hierl
+- **Verantwortlich:** Andreas Röckelein, Lukas Hierl
 
 #### Termine
 
@@ -783,7 +783,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Kristian Cvecek Prof. Dr.-Ing. Michael Schmidt Prof. Dr.-Ing. Marion Merklein Prof. Dr.-Ing. Dietmar Drummer
+- **Verantwortlich:** Dr. Kristian Cvecek, Prof. Dr.-Ing. Michael Schmidt, Prof. Dr.-Ing. Marion Merklein, Prof. Dr.-Ing. Dietmar Drummer
 
 #### Termine
 
@@ -802,7 +802,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Dietmar Drummer Prof. Dr.-Ing. Jörg Franke Prof. Dr. Nico Hanenkamp Andreas Röckelein Lukas Hierl
+- **Verantwortlich:** Prof. Dr.-Ing. Dietmar Drummer, Prof. Dr.-Ing. Jörg Franke, Prof. Dr. Nico Hanenkamp, Andreas Röckelein, Lukas Hierl
 
 #### Termine
 
@@ -835,7 +835,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Nico Hanenkamp Cosimo Di Cecca Pavan Kumar Savitha Manchegowda Niklas Bölling
+- **Verantwortlich:** Prof. Dr. Nico Hanenkamp, Cosimo Di Cecca, Pavan Kumar Savitha Manchegowda, Niklas Bölling
 
 #### Termine
 
@@ -854,7 +854,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Cosimo Di Cecca Pavan Kumar Savitha Manchegowda Niklas Bölling
+- **Verantwortlich:** Cosimo Di Cecca, Pavan Kumar Savitha Manchegowda, Niklas Bölling
 
 #### Termine
 
@@ -986,14 +986,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Tim Hosenfeldt Dr.-Ing. Benedict Rothammer Markus Polzer
+- **Verantwortlich:** Prof. Dr. Tim Hosenfeldt, Dr.-Ing. Benedict Rothammer, Markus Polzer
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
 | — | wöchentlich | — | 13.04.2026 25.05.2026 22.06.2026 29.06.2026 06.07.2026 13.07.2026 | 0 | — |
-| — | wöchentlich | — | 24.04.2026 01.05.2026 05.06.2026 19.06.2026 26.06.2026 03.07.2026 10.07.2026 17.07.2026 | 0 | — |
 
 ### UT3 - Maschinen und Werkzeuge der Umformtechnik - Vorlesung
 
@@ -1006,13 +1005,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Marion Merklein Prof. Dr. Kolja Andreas
+- **Verantwortlich:** Prof. Dr.-Ing. Marion Merklein, Prof. Dr. Kolja Andreas
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Di | 08:00–11:15 | 28.04.2026 | — | — |
+| wöchentlich | Di | 08:00–11:15 | 28.04.2026 | — | Prof. Dr.-Ing. Marion Merklein |
 | Einzeltermin | Di | 08:00–11:15 | 12.05.2026 | — | — |
 | Einzeltermin | Di | 08:00–11:15 | 26.05.2026 | — | — |
 | Einzeltermin | Di | 08:00–11:15 | 09.06.2026 | — | — |
@@ -1048,7 +1047,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Benedict Rothammer Klara Feile Prof. Dr.-Ing. Sandro Wartzack
+- **Verantwortlich:** Dr.-Ing. Benedict Rothammer, Klara Feile, Prof. Dr.-Ing. Sandro Wartzack
 
 #### Termine
 

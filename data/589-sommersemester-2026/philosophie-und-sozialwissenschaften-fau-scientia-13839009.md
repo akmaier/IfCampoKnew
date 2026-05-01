@@ -400,7 +400,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Prof. Dr. Erasmus Mayr Prof. Dr. Gerhard Ernst
+- **Verantwortlich:** Prof. Dr. Erasmus Mayr, Prof. Dr. Gerhard Ernst
 
 #### Termine
 
@@ -545,7 +545,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Michaela Mahlberg Dr. Marianna Grachova
+- **Verantwortlich:** Prof. Dr. Michaela Mahlberg, Dr. Marianna Grachova
 
 #### Termine
 

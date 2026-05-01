@@ -427,7 +427,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Thorsten Pöschel Prof. Dr. Michael Engel
+- **Verantwortlich:** Prof. Dr. Thorsten Pöschel, Prof. Dr. Michael Engel
 
 #### Termine
 
@@ -482,7 +482,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Cornelia Damm PD Dr. Jochen Schmidt
+- **Verantwortlich:** Dr. Cornelia Damm, PD Dr. Jochen Schmidt
 
 #### Termine
 
@@ -538,13 +538,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Robin Klupp Taylor Dr. Monica Distaso
+- **Verantwortlich:** Prof. Dr. Robin Klupp Taylor, Dr. Monica Distaso
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–11:30 | 15.04.2026–15.07.2026 | — | Prof. Dr. Robin Klupp Taylor Dr. Monica Distaso |
+| wöchentlich | Mi | 08:15–11:30 | 15.04.2026–15.07.2026 | — | Prof. Dr. Robin Klupp Taylor, Dr. Monica Distaso |
 
 ### AWA - Anleitung zur wissenschaftlichen Arbeit - Anleitung zu wiss. Arbeiten
 
@@ -556,7 +556,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Michael Engel Prof. Dr. Thorsten Pöschel
+- **Verantwortlich:** Prof. Dr. Michael Engel, Prof. Dr. Thorsten Pöschel
 
 ### BIA-Pr - Bioanalytik - Praktikum - Praktikum
 
@@ -587,7 +587,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** PD Dr. habil. Sebastian Schürmann Prof. Dr.-Ing. Sebastian Aljoscha Wahl
+- **Verantwortlich:** PD Dr. habil. Sebastian Schürmann, Prof. Dr.-Ing. Sebastian Aljoscha Wahl
 
 #### Termine
 
@@ -718,7 +718,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Michael Rausch Prof. Dr.-Ing. Andreas Paul Fröba
+- **Verantwortlich:** Dr.-Ing. Michael Rausch, Prof. Dr.-Ing. Andreas Paul Fröba
 
 #### Termine
 
@@ -739,7 +739,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr. Peter Schulz Prof. Dr. Peter Wasserscheid
+- **Verantwortlich:** Dr. Peter Schulz, Prof. Dr. Peter Wasserscheid
 
 ### ET-HS - Seminar Thermodynamik für Energietechniker - Seminar
 
@@ -752,13 +752,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Stefan Will Dr.-Ing. Florian Bauer
+- **Verantwortlich:** Prof. Dr.-Ing. Stefan Will, Dr.-Ing. Florian Bauer
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| Einzeltermin | Mi | 14:15–14:45 | 22.04.2026 | — | Prof. Dr.-Ing. Stefan Will Dr.-Ing. Florian Bauer |
+| Einzeltermin | Mi | 14:15–14:45 | 22.04.2026 | — | Prof. Dr.-Ing. Stefan Will, Dr.-Ing. Florian Bauer |
 
 ### ET-TTD 2 UE - Übung Technische Thermodynamik (Vertiefung) für ET und CE - Übung
 
@@ -771,7 +771,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Tobias Klein Prof. Dr.-Ing. Andreas Paul Fröba
+- **Verantwortlich:** Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
 
 #### Termine
 
@@ -833,7 +833,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | — | Prof. Dr. Nicolas Vogel Daniel Platzer |
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | — | Prof. Dr. Nicolas Vogel, Daniel Platzer |
 
 ### KI-ING-UE - Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen (Ü) - Übung
 
@@ -902,7 +902,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr.-Ing. Bernd Eckardt Prof. Dr. Martin März
+- **Verantwortlich:** Dr.-Ing. Bernd Eckardt, Prof. Dr. Martin März
 
 #### Termine
 
@@ -1008,13 +1008,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Thorsten Pöschel Prof. Dr. Michael Engel
+- **Verantwortlich:** Prof. Dr. Thorsten Pöschel, Prof. Dr. Michael Engel
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 15:30–17:00 | 15.04.2026–15.07.2026 | — | Prof. Dr. Michael Engel Prof. Dr. Thorsten Pöschel |
+| wöchentlich | Mi | 15:30–17:00 | 15.04.2026–15.07.2026 | — | Prof. Dr. Michael Engel, Prof. Dr. Thorsten Pöschel |
 
 ### MSS-ST - Simulation Techniques - MSS Seminar - Seminar
 
@@ -1082,7 +1082,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer Katrin Städtke
+- **Verantwortlich:** Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer, Katrin Städtke
 
 #### Termine
 
@@ -1101,7 +1101,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
+- **Verantwortlich:** Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
 
 ### NCT-VT-UE - Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) - Übung
 
@@ -1113,7 +1113,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Martin Hartmann Dr.-Ing. Marcus Fischer
+- **Verantwortlich:** Prof. Dr. Martin Hartmann, Dr.-Ing. Marcus Fischer
 
 #### Termine
 
@@ -1149,7 +1149,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Peter Treiber Prof. Dr.-Ing. Jürgen Karl
+- **Verantwortlich:** Dr.-Ing. Peter Treiber, Prof. Dr.-Ing. Jürgen Karl
 
 ### PCS - Process Control and Plant Safety - Vorlesung
 
@@ -1162,7 +1162,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Peter Treiber Prof. Dr.-Ing. Jürgen Karl
+- **Verantwortlich:** Dr.-Ing. Peter Treiber, Prof. Dr.-Ing. Jürgen Karl
 
 #### Termine
 
@@ -1180,7 +1180,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
-- **Verantwortlich:** Prof. Dr. Thorsten Pöschel PD Dr. Patric Müller
+- **Verantwortlich:** Prof. Dr. Thorsten Pöschel, PD Dr. Patric Müller
 
 #### Termine
 
@@ -1215,7 +1215,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Robin Klupp Taylor Dr. Giulia Magnabosco Prof. Dr. Michael Engel
+- **Verantwortlich:** Prof. Dr. Robin Klupp Taylor, Dr. Giulia Magnabosco, Prof. Dr. Michael Engel
 
 #### Termine
 
@@ -1234,7 +1234,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Michael Engel Prof. Dr. Robin Klupp Taylor Dr. Giulia Magnabosco
+- **Verantwortlich:** Prof. Dr. Michael Engel, Prof. Dr. Robin Klupp Taylor, Dr. Giulia Magnabosco
 
 #### Termine
 
@@ -1253,7 +1253,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Andreas Paul Fröba Patrick Schmidt
+- **Verantwortlich:** Prof. Dr.-Ing. Andreas Paul Fröba, Patrick Schmidt
 
 #### Termine
 
@@ -1274,7 +1274,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Tobias Klein Prof. Dr.-Ing. Andreas Paul Fröba
+- **Verantwortlich:** Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
 
 #### Termine
 
@@ -1294,7 +1294,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Tobias Klein Prof. Dr.-Ing. Andreas Paul Fröba
+- **Verantwortlich:** Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
 
 #### Termine
 
@@ -1312,7 +1312,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Sebastian Rieß Prof. Dr.-Ing. Michael Wensing Bastian Rüppel Johanna Lützenkirchen
+- **Verantwortlich:** Dr.-Ing. Sebastian Rieß, Prof. Dr.-Ing. Michael Wensing, Bastian Rüppel, Johanna Lützenkirchen
 
 #### Termine
 
@@ -1331,7 +1331,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Bastian Rüppel Johanna Lützenkirchen Dr.-Ing. Sebastian Rieß Prof. Dr.-Ing. Michael Wensing
+- **Verantwortlich:** Bastian Rüppel, Johanna Lützenkirchen, Dr.-Ing. Sebastian Rieß, Prof. Dr.-Ing. Michael Wensing
 
 #### Termine
 
@@ -1367,7 +1367,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Maximilian Bork PD Dr. Jochen Schmidt
+- **Verantwortlich:** Maximilian Bork, PD Dr. Jochen Schmidt
 
 #### Termine
 
@@ -1415,10 +1415,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Daniel Platzer Prof. Dr. Nicolas Vogel
+- **Verantwortlich:** Daniel Platzer, Prof. Dr. Nicolas Vogel
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | — | Daniel Platzer Prof. Dr. Nicolas Vogel |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | — | Daniel Platzer, Prof. Dr. Nicolas Vogel |

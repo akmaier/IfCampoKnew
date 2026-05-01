@@ -154,13 +154,13 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Almut Schilling-Vacaflor del Carpio Prof. Dr. Johan Lilliestam
+- **Verantwortlich:** Prof. Dr. Almut Schilling-Vacaflor del Carpio, Prof. Dr. Johan Lilliestam
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | — | Prof. Dr. Almut Schilling-Vacaflor del Carpio Prof. Dr. Johan Lilliestam |
+| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | — | Prof. Dr. Almut Schilling-Vacaflor del Carpio, Prof. Dr. Johan Lilliestam |
 
 ### BA/MA: Yin-Yang-Theorien - Proseminar / Mittelseminar
 
@@ -224,13 +224,13 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Kai-Ingo Voigt Dr. Lothar Czaja
+- **Verantwortlich:** Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | — | Prof. Dr. Kai-Ingo Voigt Dr. Lothar Czaja |
+| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | — | Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja |
 
 ### Chinesisch I  für Studierende aller Fachrichtungen - Übung
 
@@ -243,7 +243,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr. Antje Lenora Hyunsun Yoon
+- **Verantwortlich:** Dr. Antje Lenora, Hyunsun Yoon
 
 #### Termine
 
@@ -263,7 +263,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Französisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Corina Petersilka Julien Nairaince
+- **Verantwortlich:** Dr. Corina Petersilka, Julien Nairaince
 
 #### Termine
 
@@ -323,7 +323,7 @@ _Section: Frühstudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — | Jan Dolezel Tobias Hartlieb |
+| nach Vereinbarung | — | — | — | — | Jan Dolezel, Tobias Hartlieb |
 
 ### Einzelunterricht Violine (Buß) - Übung
 
@@ -352,7 +352,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr. Corina Petersilka Silvia Saenz Caballe José Juan Ventura Usó
+- **Verantwortlich:** Dr. Corina Petersilka, Silvia Saenz Caballe, José Juan Ventura Usó
 
 #### Termine
 
@@ -372,7 +372,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Javier Navarro González Dr. Corina Petersilka José Juan Ventura Usó
+- **Verantwortlich:** Javier Navarro González, Dr. Corina Petersilka, José Juan Ventura Usó
 
 #### Termine
 
@@ -391,15 +391,15 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Almut Schilling-Vacaflor del Carpio Prof. Dr. Johan Lilliestam Dr. Moniek de Jong Franziska Bold Júlia de Sousa e Berruezo
+- **Verantwortlich:** Prof. Dr. Almut Schilling-Vacaflor del Carpio, Prof. Dr. Johan Lilliestam, Dr. Moniek de Jong, Franziska Bold, Júlia de Sousa e Berruezo
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 13:15–14:45 | 15.04.2026–15.07.2026 | — | Prof. Dr. Johan Lilliestam Dr. Moniek de Jong Franziska Bold |
-| wöchentlich | Mi | 15:00–16:30 | 15.04.2026–15.07.2026 | — | Prof. Dr. Johan Lilliestam Dr. Moniek de Jong Franziska Bold |
-| wöchentlich | Mi | 16:45–18:15 | 15.04.2026–15.07.2026 | — | Prof. Dr. Johan Lilliestam Franziska Bold Dr. Moniek de Jong |
+| wöchentlich | Mi | 13:15–14:45 | 15.04.2026–15.07.2026 | — | Prof. Dr. Johan Lilliestam, Dr. Moniek de Jong, Franziska Bold |
+| wöchentlich | Mi | 15:00–16:30 | 15.04.2026–15.07.2026 | — | Prof. Dr. Johan Lilliestam, Dr. Moniek de Jong, Franziska Bold |
+| wöchentlich | Mi | 16:45–18:15 | 15.04.2026–15.07.2026 | — | Prof. Dr. Johan Lilliestam, Franziska Bold, Dr. Moniek de Jong |
 
 ### Finnisch: Elementarkurs II ONLINE - Übung
 
@@ -412,7 +412,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Antje Lenora Kristin Krapf
+- **Verantwortlich:** Dr. Antje Lenora, Kristin Krapf
 
 #### Termine
 
@@ -522,7 +522,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Rainer Böckmann Prof. Dr. Tobias Unruh
+- **Verantwortlich:** Prof. Dr. Rainer Böckmann, Prof. Dr. Tobias Unruh
 
 #### Termine
 
@@ -637,7 +637,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** PD Dr. Anette Regelous Prof. Dr. Harald Stollhofen
+- **Verantwortlich:** PD Dr. Anette Regelous, Prof. Dr. Harald Stollhofen
 
 #### Termine
 
@@ -674,7 +674,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Kristin Krapf Dr. Antje Lenora
+- **Verantwortlich:** Kristin Krapf, Dr. Antje Lenora
 
 #### Termine
 
@@ -694,7 +694,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Kristin Krapf Dr. Antje Lenora
+- **Verantwortlich:** Kristin Krapf, Dr. Antje Lenora
 
 #### Termine
 
@@ -772,7 +772,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr. Antje Lenora Dr. Julia Lazarus
+- **Verantwortlich:** Dr. Antje Lenora, Dr. Julia Lazarus
 
 #### Termine
 
@@ -792,7 +792,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr. Julia Lazarus Dr. Antje Lenora
+- **Verantwortlich:** Dr. Julia Lazarus, Dr. Antje Lenora
 
 #### Termine
 
@@ -812,7 +812,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr. Julia Lazarus Anastasia Nechaeva Dr. Antje Lenora
+- **Verantwortlich:** Dr. Julia Lazarus, Anastasia Nechaeva, Dr. Antje Lenora
 
 ### Römisches Privatrecht; zugleich auch Übung zum Römischen Privatrecht i.S.d. SPB-Prüfungsordnung, SPB  8 (NEU) - Vorlesung
 
@@ -841,7 +841,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Schwedisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Miriam Schlosser Dr. Antje Lenora
+- **Verantwortlich:** Miriam Schlosser, Dr. Antje Lenora
 
 #### Termine
 
@@ -1150,7 +1150,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Ruth Stadler Prof. Dr. Markus Albert Dr. Ulrike Daigl Dr. Regula Muheim-Lenz
+- **Verantwortlich:** Prof. Dr. Ruth Stadler, Prof. Dr. Markus Albert, Dr. Ulrike Daigl, Dr. Regula Muheim-Lenz
 
 #### Termine
 
@@ -1194,7 +1194,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Michael Ziegler Anett Eskofier David Filgertshofer
+- **Verantwortlich:** Dr. Michael Ziegler, Anett Eskofier, David Filgertshofer
 
 #### Termine
 
@@ -1213,7 +1213,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Tobias Reichenbach Janna Steinebach Pablo Ochoa de Eribe Delgado Michael Thornton
+- **Verantwortlich:** Prof. Dr. Tobias Reichenbach, Janna Steinebach, Pablo Ochoa de Eribe Delgado, Michael Thornton
 
 #### Termine
 
@@ -1232,7 +1232,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Janna Steinebach Swantje Hansen Prof. Dr. Tobias Reichenbach Jasmin Riegel
+- **Verantwortlich:** Janna Steinebach, Swantje Hansen, Prof. Dr. Tobias Reichenbach, Jasmin Riegel
 
 #### Termine
 
@@ -1308,7 +1308,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Ute Verstegen Dr. Arabella Cortese
+- **Verantwortlich:** Prof. Dr. Ute Verstegen, Dr. Arabella Cortese
 
 #### Termine
 
@@ -1345,7 +1345,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Andreas Grüner Prof. Dr. Thorsten Uthmeier
+- **Verantwortlich:** Prof. Dr. Andreas Grüner, Prof. Dr. Thorsten Uthmeier
 
 #### Termine
 
@@ -1402,7 +1402,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Sandra Jasper Prof. Dr. Blake Walker
+- **Verantwortlich:** Prof. Dr. Sandra Jasper, Prof. Dr. Blake Walker
 
 #### Termine
 
@@ -1423,7 +1423,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Achim Bräuning Prof. Dr. Thomas Mölg
+- **Verantwortlich:** Prof. Dr. Achim Bräuning, Prof. Dr. Thomas Mölg
 
 #### Termine
 
@@ -1474,7 +1474,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** PD Dr. Anette Regelous Maren Stoppel
+- **Verantwortlich:** PD Dr. Anette Regelous, Maren Stoppel
 
 #### Termine
 
@@ -1575,7 +1575,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Prof. Dr. Michele Ferrari Dr. Stefan Weber
+- **Verantwortlich:** Prof. Dr. Michele Ferrari, Dr. Stefan Weber
 
 #### Termine
 
@@ -1674,8 +1674,9 @@ _Section: Frühstudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — | Dr. Stefan Weber |
 | Einzeltermin | Mo | 15:00–15:45 | 13.04.2026 | — | Dr. Stefan Weber |
+| Einzeltermin | Mo | 16:00–18:00 | 04.05.2026 | — | Dr. Stefan Weber |
+| Einzeltermin | Di | 14:00–16:30 | 16.06.2026 | Ort: Handschriftenabteilung (Alte UB) | — |
 
 ### Modul 74411 Übung - Übung im Lesen und Beschreiben mittelalterlicher und frühneuzeitlicher Schriftformen (Paläographie II) [Übung] - Übung
 
@@ -1707,7 +1708,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Michele Ferrari Dr. Stefan Weber
+- **Verantwortlich:** Prof. Dr. Michele Ferrari, Dr. Stefan Weber
 
 #### Termine
 
@@ -1819,13 +1820,13 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Christian Heidorn Jakob Wittmann Stefan Meißner
+- **Verantwortlich:** Christian Heidorn, Jakob Wittmann, Stefan Meißner
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Do | 09:00–13:00 | 06.08.2026–13.08.2026 | — | Dominik Walter Jakob Wittmann |
+| wöchentlich | Do | 09:00–13:00 | 06.08.2026–13.08.2026 | — | Dominik Walter, Jakob Wittmann |
 
 ### PT -TUT (PT II & PT 3 MB) - Produktionstechnik - Tutorium (P) (PT II & PT 3 MB) - Tutorium
 
@@ -1837,7 +1838,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Andreas Röckelein Lukas Hierl
+- **Verantwortlich:** Andreas Röckelein, Lukas Hierl
 
 #### Termine
 
@@ -1856,7 +1857,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Dietmar Drummer Prof. Dr.-Ing. Jörg Franke Prof. Dr. Nico Hanenkamp Andreas Röckelein Lukas Hierl
+- **Verantwortlich:** Prof. Dr.-Ing. Dietmar Drummer, Prof. Dr.-Ing. Jörg Franke, Prof. Dr. Nico Hanenkamp, Andreas Röckelein, Lukas Hierl
 
 #### Termine
 
@@ -1894,7 +1895,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Martin Matzner Pepe Bellin
+- **Verantwortlich:** Prof. Dr. Martin Matzner, Pepe Bellin
 
 #### Termine
 
@@ -1938,7 +1939,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Thomas Preisner Tobias Häberlein Prof. Dr.-Ing. Rüdiger Kapitza Dr.-Ing. Jürgen Kleinöder Ole Wiedemann
+- **Verantwortlich:** Thomas Preisner, Tobias Häberlein, Prof. Dr.-Ing. Rüdiger Kapitza, Dr.-Ing. Jürgen Kleinöder, Ole Wiedemann
 
 #### Termine
 
@@ -2006,7 +2007,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Christian Witzgall Prof. Dr.-Ing. Sandro Wartzack
+- **Verantwortlich:** Dr.-Ing. Christian Witzgall, Prof. Dr.-Ing. Sandro Wartzack
 
 #### Termine
 
@@ -2047,7 +2048,7 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Manuel Koch Kai Scheller
+- **Verantwortlich:** Manuel Koch, Kai Scheller
 
 #### Termine
 

@@ -27,7 +27,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Stefan Rieger Thomas Bauernschmitt
+- **Verantwortlich:** Stefan Rieger, Thomas Bauernschmitt
 
 #### Termine
 

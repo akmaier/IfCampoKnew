@@ -197,7 +197,7 @@ _Section: FAU Scientia Gaststudium_
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Yang Cui Dehong Meng
+- **Verantwortlich:** Yang Cui, Dehong Meng
 
 #### Termine
 
@@ -404,7 +404,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr. Marcos Narten Albino Prof. Dr. Christoph Schubert
+- **Verantwortlich:** Dr. Marcos Narten Albino, Prof. Dr. Christoph Schubert
 
 #### Termine
 
@@ -663,7 +663,7 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90900&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 5.0
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -686,7 +686,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Prof. Dr. Michele Ferrari Dr. Stefan Weber
+- **Verantwortlich:** Prof. Dr. Michele Ferrari, Dr. Stefan Weber
 
 #### Termine
 
@@ -817,7 +817,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Michele Ferrari Dr. Stefan Weber
+- **Verantwortlich:** Prof. Dr. Michele Ferrari, Dr. Stefan Weber
 
 #### Termine
 

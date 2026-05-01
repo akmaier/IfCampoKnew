@@ -46,7 +46,7 @@ In der Politikwissenschaft beschäftigen Sie sich mit Politik in Theorie und Pra
 
 Sie erhalten Antworten auf Fragen wie: Welche Akteure bestimmen politische Entscheidungsprozesse? Welche Interessen verfolgen sie und welche Strategien? Warum ist das politische System des einen Landes stabiler als das eines anderen? Wie funktioniert die Europäische Union? Wie lassen sich Krieg und Frieden in den Beziehungen zwischen Staaten erklären? Welche politischen Ideen haben sich im Laufe der Zeit herausgebildet und wie beeinflussen sie die Politik?
 
-##### Bachelor of Arts (2 Fächer) Politikwissenschaft
+##### Fachanteile des Studiengangs Politikwissenschaft (B.A.)
 
 * Politische Theorie und Ideengeschichte (20%)
 * Politische Systeme (20%)
@@ -60,11 +60,11 @@ Sie erhalten Antworten auf Fragen wie: Welche Akteure bestimmen politische Entsc
 
 Im modularisierten Zwei-Fach-Bachelorstudiengang ist Politikwissenschaft entweder als Erstfach oder als Zweitfach wählbar.
 
-Das Erstfach unterscheidet sich vom Zweitfach durch die Abfassung einer Bachelorarbeit, das Mentorat und das Sie drei statt zwei Hauptseminare besuchen müssen.
+Das Erstfach unterscheidet sich vom Zweitfach durch die Abfassung einer Bachelorarbeit, das Mentorat und dass Sie drei statt zwei Hauptseminare besuchen müssen.
 
 ##### Aufbau
 
-* Im ersten und zweiten Semester findet das „Einführungsmodul“ statt, bestehend aus dem Seminar „Einführung in die Politikwissenschaft“, der Vorlesung „Grundlagen des politischen Denkens“ sowie der Veranstaltung „Einführung in die Methoden der Vorlesung“ (Vorlesung mit Übung).
+* Im ersten und zweiten Semester findet das „Einführungsmodul“ statt, bestehend aus dem Seminar „Einführung in die Politikwissenschaft“, der Vorlesung „Grundlagen des politischen Denkens“ sowie der Veranstaltung „Einführung in die Methoden der Politikwissenschaft“ (Vorlesung mit Übung).
 * Im ersten bis dritten Semester müssen drei weitere Basismodule in den Bereichen „Politische Theorie“, „Politische Systeme“ und „Internationale Beziehungen“ belegt werden.
 * Im dritten und vierten Semester sind die Aufbaumodule („Menschenrechtspolitik“ und „Regionenforschung“) zu absolvieren.
 * Das fünfte und sechste Semester besteht aus drei (Erstfach) bzw. zwei (Zweitfach) Vertiefungsmodulen, sowie einem Forschungskolloquium und der Bachelorarbeit im Erstfach.
@@ -116,7 +116,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 
 #### Mögliche Überschneidungen im Stundenplan
 
-* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
+* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 * [Lateinische Philologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/lateinische-philologie-ba/)
@@ -213,7 +213,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 - [Öffentliches Recht](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oeffentliches-recht-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
-- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
+- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 - [Lateinische Philologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/lateinische-philologie-ba/)

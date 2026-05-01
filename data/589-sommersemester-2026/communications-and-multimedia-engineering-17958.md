@@ -223,7 +223,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.tf.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [TYSAMPON - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/04/AdobeStock_944404563-scaled-1.jpeg)
+- [TYSAMPON - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/05/AdobeStock_944404563-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

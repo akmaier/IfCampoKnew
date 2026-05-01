@@ -1,8 +1,8 @@
 ---
 kind: "campo-personen-aggregate"
-unique_persons: 593
-teaching_assignments: 887
-scraped_at: 2026-05-01T21:13:45+00:00
+unique_persons: 602
+teaching_assignments: 993
+scraped_at: 2026-05-01T21:45:29+00:00
 sources:
   - Sommersemester 2026: "tmp/589.json"
 ---
@@ -19,8 +19,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ## Statistik
 
-- **Eindeutige Personen-Strings:** 593
-- **Gesamt-Lehrleistungen (Person × Kurs × Periode):** 887
+- **Eindeutige Personen-Strings:** 602
+- **Gesamt-Lehrleistungen (Person × Kurs × Periode):** 993
 
 ## Personen
 
@@ -54,6 +54,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien — Vorlesung, Übung Nachhaltige Chemische Technologien - 3 — Übung
 
+### Kevin-Martin Aigner (Dr.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): Projektseminar Optimierung (Bachelor) — Seminar
+
 ### Markus Albert (Prof. Dr.)
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
@@ -79,26 +84,6 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): Türkisch: Sprechen, Verstehen, Diskutieren (B1-B2) — Kurs
-
-### Jasmin Kriesten apl. (Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): Biblische Themen im Religionsunterricht — Seminar
-
-### Peter Weidinger apl. (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Labwork: Failure Analysis / Praktikum Schadensanalyse — Praktikum
-
-### Stefan Brück apl. (Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Next Generation Mobile Communication Systems: 5G-Advanced and 6G — Vorlesung
-
-### Thomas Wittenberg apl. (PD Dr.-Ing.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Visual Computing in Medicine 2 — Vorlesung
 
 ### Holger Arndt (Prof. Dr.)
 
@@ -145,12 +130,12 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Grundlagen der Informatik — Vorlesung, Sprechstunden zu Grundlagen der Informatik — Übung
 
-### Stefan Rieger Thomas Bauernschmitt
+### Thomas Bauernschmitt
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): "funklust" - Medienkompetenzen erwerben, Medienpraxis erlernen, Campusmedien gestalten — Übung
 
-### Dietmar Fey Tobias Baumeister (Prof. Dr.-Ing.)
+### Tobias Baumeister
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Grundlagen der Rechnerarchitektur und -organisation — Vorlesung
@@ -175,6 +160,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Human-centered Mechatronics and Robotics (Exercise) — Übung, Human-centered mechatronics and robotics — Vorlesung
 
+### Markus Beckmann (Prof. Dr.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Einführung in das Nachhaltigkeitsmanagement — Vorlesung
+
 ### Eva-Maria Beckstein
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
@@ -185,7 +175,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Maschinelles Lernen und Datenanalyse (FAU Scientia)  -](../589-sommersemester-2026/maschinelles-lernen-und-datenanalyse-fau-scientia-13840020.md): AI and Digitalization in Healthcare — Hauptseminar
 
-### Martin Matzner Pepe Bellin (Prof. Dr.)
+### Pepe Bellin
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): V: Service Management and Service Engineering — Vorlesung
@@ -195,7 +185,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Didaktik der Informatik I — Vorlesung mit Übung
 
-### Moniek de Jong Franziska Bold Júlia de Sousa e Berruezo (Dr.)
+### Júlia de Sousa e Berruezo
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Exercise to Ba-lecture: International Politics (only IBS/IES) — Übung
@@ -236,12 +226,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): Translational Immunology - Lecture — Vorlesung
 
-### Johan Lilliestam Franziska Bold (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Exercise to Ba-lecture: International Politics (only IBS/IES) — Übung
-
-### Moniek de Jong Franziska Bold (Dr.)
+### Franziska Bold
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Exercise to Ba-lecture: International Politics (only IBS/IES) — Übung
@@ -250,11 +235,6 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): Das italische Verb — Mittelseminar
-
-### Christian Merkl Jonas Urbanik Paolo Bontempo (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Seminar Reflections in International Economics — Seminar
 
 ### Paolo Bontempo
 
@@ -301,6 +281,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Grundvorlesung Physische Geographie 2: Klimatologie und Biogeographie — Vorlesung mit Übung
 
+### Stefan Brück (Dr.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Next Generation Mobile Communication Systems: 5G-Advanced and 6G — Vorlesung
+
 ### Peter Bubmann (Prof. Dr.)
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
@@ -316,7 +301,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): Biology-informed drug discovery — Vorlesung
 
-### Norbert Oster Jonas Butz (Dr.-Ing.)
+### Jonas Butz
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Testen von Softwaresystemen — Vorlesung
@@ -328,48 +313,40 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Rainer Böckmann (Prof. Dr.)
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): Python for Bioinformatics and Data Analysis — Seminar und Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): ILS-MA-I2B: Interactions at Biological Macromolecules (Lecture) — Vorlesung, ILS-MA-I2B: Interactions at Biological Macromolecules (Tutorial) — Übung
 
 ### Jonathan Böhm
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): Quellen zur Geschichte und Religionsgeschichte Israels — Übung
-
-### Reettakaisa Sofia Salo Jonathan Böhm (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): Altes Testament im Überblick - Geschichte Israels — Vorlesung mit Übung
 
-### Cosimo Di Cecca Pavan Kumar Savitha Manchegowda Niklas Bölling
+### Niklas Bölling
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Ressourceneffiziente Produktionssysteme - Übung — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Ressourceneffiziente Produktionssysteme - Übung — Übung, Ressourceneffiziente Produktionssysteme — Vorlesung
 
-### Nico Hanenkamp Cosimo Di Cecca Pavan Kumar Savitha Manchegowda Niklas Bölling (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Ressourceneffiziente Produktionssysteme — Vorlesung
-
-### Maximilian Lübke Jonas Bönsch
+### Jonas Bönsch
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Übungen zu Schaltungen und Systeme der Übertragungstechnik — Übung
 
-### Madlen Hoffmann Stefanie Büttner
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Laboratory Course on Power Electronics for Decentral Energy Systems — Praktikum
-
-### Martin März Stefanie Büttner (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Thermisches Management in der Leistungselektronik — Vorlesung
-
 ### Stefanie Büttner
 
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Laboratory Course on Power Electronics for Decentral Energy Systems — Praktikum, Thermisches Management in der Leistungselektronik — Vorlesung, Übungen zu Thermisches Management in der Leistungselektronik — Übung
+
+### Silvia Saenz Caballe
+
 - **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Übungen zu Thermisches Management in der Leistungselektronik — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Español intermedio I — Übung
+
+### Hakan Calim
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Seminar Road Scene Understanding for the Visually Impaired — Seminar
 
 ### Almut Schilling-Vacaflor del Carpio (Prof. Dr.)
 
@@ -380,6 +357,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): Türkisch: Sprechen, Verstehen, Diskutieren (B1-B2) — Kurs
+
+### Cosimo Di Cecca
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Ressourceneffiziente Produktionssysteme - Übung — Übung, Ressourceneffiziente Produktionssysteme — Vorlesung
 
 ### Vikrant Chauhan
 
@@ -423,8 +405,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Yang Cui
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): BA-2 Modernes Chinesisch 2 — Seminar, BA-4 Modernes Chinesisch: Hören und Sprechen (Übung) — Übung
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): BA-2 Modernes Chinesisch 2 — Seminar, BA-4 Modernes Chinesisch 4 — Kurs, BA-4 Modernes Chinesisch: Hören und Sprechen (Übung) — Übung
 
 ### Kristian Cvecek (Dr.)
 
@@ -466,12 +448,13 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): Grundkurs Theoretische Philosophie — Proseminar
 
-### Tobias Reichenbach Pablo Ochoa de Eribe Delgado (Prof. Dr.)
+### Pablo Ochoa de Eribe Delgado
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP) — Übung
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Neurotechnology Project — Praktikum
 
-### Arne Vogel Maxim Ritter von Onciul Eva Dengler
+### Eva Dengler
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Systemnahe Programmierung in C - Rechnerübungen — Übung, Systemnahe Programmierung in C - Tafelübung — Übung
@@ -491,12 +474,12 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Surfaces of Biomaterials / Oberflächen von Biomaterialien — Vorlesung
 
-### Erik Gösche Nils Dienesch
+### Nils Dienesch
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Machine Learning in MRI — Hauptseminar, Medizintechnik II Tafelübung — Übung
 
-### Anne-Christine Plank Mona Dietrich (Dr.)
+### Mona Dietrich
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [Veranstaltungen aus zentralen wissenschaftlichen Einrichtungen / interdisziplinäre Veranstaltungen](../589-sommersemester-2026/veranstaltungen-aus-zentralen-wissenschaftlichen-einrichtungen-interdisziplinaer-17986.md): Forschungsdatenmanagement, Einführung und Vertiefung — Seminar
@@ -518,8 +501,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Jan Dolezel
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Akademischer Chor — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Akademischer Chor — Übung, Einzelunterricht Orgel, Klavier — Übung
 
 ### Romano Dorta (Prof. Dr.)
 
@@ -547,6 +530,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Hauptseminar Kunststofftechnik — Hauptseminar, Kunststoffcharakterisierung und -analytik — Vorlesung, Production Technology I — Vorlesung, Werkstoffkunde II — Vorlesung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Produktionstechnik (PT II & PT 3 MB) — Vorlesung
 
+### Anamaria Dumitrescu
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Seminar Road Scene Understanding for the Visually Impaired — Seminar
+
 ### Melanie Döllwanger
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
@@ -562,15 +550,10 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): EEBF Modul 9 - Projektdurchführung — Seminar
 
-### Gerhard Wellein Farhad Ebrahimiazandaryani (Prof. Dr.)
+### Farhad Ebrahimiazandaryani
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Übung zu Computer Architectures for Medical Applications — Übung
-
-### Gerhard Wellein Sebastian Rachuj Farhad Ebrahimiazandaryani (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computer Architectures for Medical Applications — Vorlesung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computer Architectures for Medical Applications — Vorlesung, Übung zu Computer Architectures for Medical Applications — Übung
 
 ### Bernd Eckardt (Dr.-Ing.)
 
@@ -617,6 +600,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): Seminar Neues Testament und Judentum — Seminar
 
+### Anett Eskofier
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Übung zur Sozialpsychologie — Übung
+
 ### Bastian Etzold (Prof. Dr.-Ing.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
@@ -632,10 +620,15 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): SystemC — Praktikum
 
-### Benedict Rothammer Klara Feile (Dr.-Ing.)
+### Klara Feile
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Übungen zu Maschinenelemente II — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Technologie-Startup-Seminar — Seminar, Übungen zu Maschinenelemente II — Übung
+
+### Alina Feldmeier
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Betriebsverhalten elektrischer Energiesysteme — Vorlesung, Übung zu Betriebsverhalten elektrischer Energiesysteme — Übung
 
 ### Peter Felfer (Prof. Dr.)
 
@@ -654,8 +647,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Dietmar Fey (Prof. Dr.-Ing.)
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computational Engineering 2 — Vorlesung, Übung zu Computer Architectures for Medical Applications — Übung
+- **Sommersemester 2026** — 4 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computational Engineering 2 - Übung — Übung, Computational Engineering 2 — Vorlesung, Grundlagen der Rechnerarchitektur und -organisation — Vorlesung, Übung zu Computer Architectures for Medical Applications — Übung
 
 ### Tobias Fey (PD Dr. habil.)
 
@@ -667,7 +660,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 4 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Auftaktveranstaltung zur Mathematik — Vorlesung, Brückenkurs zur Mathematik — Vorlesung, Mathematik — Vorlesung, Übungen und Tutorium zur Mathematik — Vorlesung mit Übung
 
-### Michael Ziegler Anett Eskofier David Filgertshofer (Dr.)
+### David Filgertshofer
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Übung zur Sozialpsychologie — Übung
@@ -677,7 +670,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): Lektüreseminar Literature (Erlangen) — Seminar
 
-### Marc Stamminger Laura Fink (Prof. Dr.-Ing.)
+### Laura Fink
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Tutorials to Interactive Computer Graphics — Übung
@@ -690,8 +683,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Marcus Fischer (Dr.-Ing.)
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum, Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung, Praktikum Nachhaltige Chemische Technologien (Vertiefung CEN) — Praktikum, Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) — Übung
 
 ### Bernd Flessner (Dr.)
 
@@ -713,7 +706,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Produktionstechnik (PT II & PT 3 MB) — Vorlesung
 
-### Tobias Wolbring Klara Frankenberger (Prof. Dr.)
+### Klara Frankenberger
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Soziologie II - Seminar — Seminar
@@ -738,15 +731,15 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Software Exploitation Übung — Übung, Software Exploitation — Vorlesung
 
-### Moritz Zaiß Martin Freudensprung (Prof. Dr.)
+### Martin Freudensprung
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Magnetic Resonance Imaging sequence programming [MRIpulseq] — Seminar
 
 ### Andreas Paul Fröba (Prof. Dr.-Ing.)
 
-- **Sommersemester 2026** — 5 Veranstaltung(en):
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Efficient Heat Transfer — Vorlesung mit Übung, Praktikum in Thermophysikalische Eigenschaften von Arbeitsstoffen der Verfahrens- und Energietechnik — Praktikum, Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung, Thermophysikalische Eigenschaften von Arbeitsstoffen der Verfahrens- und Energietechnik — Vorlesung mit Übung, Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung
+- **Sommersemester 2026** — 6 Veranstaltung(en):
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Efficient Heat Transfer — Vorlesung mit Übung, Praktikum in Thermophysikalische Eigenschaften von Arbeitsstoffen der Verfahrens- und Energietechnik — Praktikum, Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung, Thermofluiddynamik der Biotechnologie — Vorlesung mit Übung, Thermophysikalische Eigenschaften von Arbeitsstoffen der Verfahrens- und Energietechnik — Vorlesung mit Übung, Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung
 
 ### Indravati Félicité-Hiltl (Prof. Dr.)
 
@@ -875,8 +868,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Erik Gösche
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Medizintechnik II Tafelübung — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Machine Learning in MRI — Hauptseminar, Medizintechnik II Tafelübung — Übung
 
 ### Cornelia Götz
 
@@ -937,15 +930,21 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Nico Hanenkamp (Prof. Dr.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Produktionsprozesse der Zerspanung - Übung — Übung
+- **Sommersemester 2026** — 4 Veranstaltung(en):
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Produktionsprozesse der Zerspanung - Übung — Übung, Produktionsprozesse der Zerspanung — Vorlesung, Ressourceneffiziente Produktionssysteme — Vorlesung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Produktionstechnik (PT II & PT 3 MB) — Vorlesung
 
 ### Melanie Hanitsch (PD Dr.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): BA 6. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Vertiefung — Seminar
 
-### Janna Steinebach Swantje Hansen
+### Frank Hannig (PD Dr.-Ing.)
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Parallele Systeme — Übung, Multi-Core Architecture and Programming — Seminar
+
+### Swantje Hansen
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP) — Übung
@@ -955,7 +954,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): Homogeneous Catalysis - Lab — Praktikum
 
-### Jan Dolezel Tobias Hartlieb
+### Tobias Hartlieb
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Einzelunterricht Orgel, Klavier — Übung
@@ -990,6 +989,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): DATEV-Führerschein — Vorlesung
 
+### Christian Heidorn
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Praktische Übungen zu Grundlagen der Technischen Informatik — Übung
+
 ### Philipp Heinrich
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
@@ -1010,7 +1014,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): BA 4. FS: [Modul Sprachen, Kulturen und Religionen des Orients] Religionswissenschaftliches Seminar — Seminar
 
-### Sandro Wartzack Klara Feile Madeleine Helmer (Prof. Dr.-Ing.)
+### Madeleine Helmer
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Technologie-Startup-Seminar — Seminar
@@ -1045,7 +1049,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Forschungspraktikum an den AudioLabs — Sonstige Lehrveranstaltung
 
-### Dietmar Drummer Christoph Herzog (Prof. Dr.-Ing.)
+### Christoph Herzog
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Hauptseminar Kunststofftechnik — Hauptseminar
@@ -1055,35 +1059,35 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Forschungspraktikum am LIKE — Sonstige Lehrveranstaltung
 
-### Andreas Röckelein Lukas Hierl
+### Lukas Hierl
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Produktionstechnik - Tutorium (P) (PT II & PT 3 MB) — Tutorium
-
-### Nico Hanenkamp Andreas Röckelein Lukas Hierl (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Produktionstechnik (PT II & PT 3 MB) — Vorlesung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Produktionstechnik (PT II & PT 3 MB) — Vorlesung, Produktionstechnik - Tutorium (P) (PT II & PT 3 MB) — Tutorium
 
 ### Andreas Hirsch (Prof. Dr.)
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): Organic Chemistry — Vorlesung mit Übung, Organische Chemie 1 — Vorlesung mit Übung
 
+### Madlen Hoffmann
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Laboratory Course on Power Electronics for Decentral Energy Systems — Praktikum
+
 ### Franz Hofmann (Prof. Dr.)
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): Markenrecht (SPB 4) — Vorlesung, Urheberrecht (SPB 4) — Vorlesung
 
-### Marc Stamminger Nikolai Hofmann (Prof. Dr.-Ing.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Tutorials to Global Illumination — Übung
-
 ### Maximilian Hofmann (Dr.-Ing.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Selected Topics in Vehicle Electrification — Vorlesung
+
+### Nikolai Hofmann
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Tutorials to Global Illumination — Übung
 
 ### Martin Hohmann (Dr.-Ing.)
 
@@ -1116,15 +1120,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): Internationales Steuerrecht (Einführung in die Besteuerung international tätiger Unternehmen) — Vorlesung
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung
 
-### Thomas Preisner Tobias Häberlein
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Systemprogrammierung - Rechnerübungen — Übung
-
 ### Tobias Häberlein
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Systemprogrammierung 1 - Übung — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Systemprogrammierung - Rechnerübungen — Übung
 
 ### Michael Höckelmann (Dr.)
 
@@ -1133,8 +1133,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Michael Höhlinger (Dr.-Ing.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Information event (Vorbesprechung) for the master courses offered by the Institute for Surface Science and Corrosion (WW4/LKO) in the summer semester 2023 — Sonstige Lehrveranstaltung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Information event (Vorbesprechung) for the master courses offered by the Institute for Surface Science and Corrosion (WW4/LKO) in the summer semester 2023 — Sonstige Lehrveranstaltung, Surface Modification techniques — Vorlesung
 
 ### Florian Höhne (Prof. Dr.)
 
@@ -1178,8 +1178,9 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Nicolas Joly (Prof. Dr.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Physik (FAU Scientia)  -](../589-sommersemester-2026/physik-fau-scientia-13839673.md): Modern Optics 2: Nonlinear Optics (exercise class) — Übung
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Advanced Laser — Vorlesung mit Übung
 
 ### Moniek de Jong (Dr.)
 
@@ -1216,15 +1217,10 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Medizintechnik II — Vorlesung
 
-### Alina Feldmeier Seyedehniloofar Kamalhosseini
+### Seyedehniloofar Kamalhosseini
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Übung zu Betriebsverhalten elektrischer Energiesysteme — Übung
-
-### Matthias Luther Alina Feldmeier Seyedehniloofar Kamalhosseini (Prof. Dr.-Ing.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Betriebsverhalten elektrischer Energiesysteme — Vorlesung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Betriebsverhalten elektrischer Energiesysteme — Vorlesung, Übung zu Betriebsverhalten elektrischer Energiesysteme — Übung
 
 ### Mona Kammer
 
@@ -1238,8 +1234,14 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Rüdiger Kapitza (Prof. Dr.-Ing.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Systemprogrammierung 1 - Übung — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Systemprogrammierung - Rechnerübungen — Übung
+
+### Abrarul Karim
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Hardware-Software-Co-Design — Übung
 
 ### Jürgen Karl (Prof. Dr.-Ing.)
 
@@ -1250,6 +1252,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): Hebräisch I: Einführung in die hebräische Grammatik - Sommerferienblockveranstaltung — Vorlesung mit Übung
+
+### Joachim Kaschta (Dr.-Ing.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Werkstoffkunde für Studierende des CBI und CEN — Vorlesung mit Übung
 
 ### Malte Kaspereit (Prof. Dr.-Ing.)
 
@@ -1288,8 +1295,13 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Nicole Kimmelmann (Prof. Dr.)
 
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Betriebliche Aus- und Weiterbildung - Übung — Übung, Professional Orientation — Seminar
+
+### Andreas Kist (Prof. Dr.)
+
 - **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Betriebliche Aus- und Weiterbildung - Übung — Übung
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Fantastic datasets and where to find them — Hauptseminar
 
 ### Sebastian Klare
 
@@ -1303,8 +1315,9 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Jürgen Kleinöder (Dr.-Ing.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Systemprogrammierung 1 - Übung — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Systemprogrammierung - Rechnerübungen — Übung
 
 ### Konrad Klek (Prof. Dr.)
 
@@ -1327,6 +1340,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Medizintechnik II — Vorlesung
 
+### Manuel Koch
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Übungen zu Schaltungstechnik — Übung
+
 ### Anne Koelewijn (Prof. Dr.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
@@ -1338,7 +1356,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): AI-2 Systems Project — Projekt, Artificial Intelligence II — Vorlesung
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Tutorium zu Informatische Werkzeuge in den Geistes- und Sozialwissenschaften — Tutorium
 
-### Benedict Rothammer Jan Kopatsch (Dr.-Ing.)
+### Jan Kopatsch
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Einführung in das Patentrecht und verwandte Schutzrechte — Vorlesung
@@ -1358,15 +1376,10 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Psychologie und Gerontologie (FAU Scientia)  -](../589-sommersemester-2026/psychologie-und-gerontologie-fau-scientia-13839268.md): Modul I: Vorlesung (vierstündig) Psychologie für Lehramt 1: Lernprozesse gestalten 95901 — Vorlesung
 
-### Antje Lenora Kristin Krapf (Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Finnisch: Elementarkurs II ONLINE — Übung
-
 ### Kristin Krapf
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Niederländisch: Elementarkurs I — Übung, Norwegisch: EK I — Übung
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Finnisch: Elementarkurs II ONLINE — Übung, Niederländisch: Elementarkurs I — Übung, Norwegisch: EK I — Übung
 
 ### Tabea Kretschmann (Dr.)
 
@@ -1377,6 +1390,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Forschungsseminar Kognitive Radarsysteme — Seminar, Radarfernerkundung mit Satelliten — Vorlesung mit Übung
+
+### Jasmin Kriesten (Dr.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): Biblische Themen im Religionsunterricht — Seminar
 
 ### Axel Krommer
 
@@ -1393,37 +1411,32 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): EEBF Modul 3 - Mentorat — Übung, EEBF Modul 9 - Projektdurchführung — Seminar
 
-### Stefan Wildermann Paul Krüger (Dr.-Ing.)
+### Paul Krüger
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Übung zu Security in Embedded Hardware — Übung
 
 ### Sebastian Kuckuk (Dr.-Ing.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): High End Simulation in Practice — Vorlesung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Exercises to High End Simulation in Practice — Übung, High End Simulation in Practice — Vorlesung
 
 ### Hans Kudlich (Prof. Dr.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): Examenskurs Strafrecht BT — Vorlesung
 
-### Harald Köstler Kajol Kulkarni (Prof. Dr.)
+### Kajol Kulkarni
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): High End Simulation in Practice — Vorlesung
-
-### Sebastian Kuckuk Kajol Kulkarni (Dr.-Ing.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Exercises to High End Simulation in Practice — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Exercises to High End Simulation in Practice — Übung, High End Simulation in Practice — Vorlesung
 
 ### Agnes Kutz
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Lehrstuhlseminar Energieverfahrenstechnik — Seminar
 
-### Willi Tang Martin Käppel (Dr.)
+### Martin Käppel
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): V: Business Analytics: Technologien, Methoden und Konzepte — Vorlesung mit Übung
@@ -1433,15 +1446,15 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): VL: Kirchen- und Theologiegeschichte im Überblick I: das Christentum in der Antike - neu — Vorlesung
 
-### Jan Rauch Florian Köhler
+### Florian Köhler
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): PuGDid 5: Examenskolloquium — Seminar
 
 ### Harald Köstler (Prof. Dr.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Exercises to High End Simulation in Practice — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Exercises to High End Simulation in Practice — Übung, High End Simulation in Practice — Vorlesung
 
 ### Rudolf Kötter (Dr.)
 
@@ -1475,8 +1488,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Julia Lazarus (Dr.)
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Russisch A1: Elementarkurs I — Übung, Russisch A2: Elementarkurs II — Übung
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Russisch A1: Elementarkurs I — Übung, Russisch A2: Elementarkurs II — Übung, Russisch online A1 — Übung
 
 ### Lecture
 
@@ -1495,8 +1508,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Antje Lenora (Dr.)
 
-- **Sommersemester 2026** — 10 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Niederländisch: Elementarkurs I — Übung, Norwegisch: EK I — Übung, Persisch II — Übung, Russisch A1: Elementarkurs I — Übung, Russisch A2: Elementarkurs II — Übung, Russisch online A1 — Übung, Schwedisch: EK IV — Übung, Türkisch: Elementarkurs I — Übung, Türkisch: Elementarkurs III — Übung, Türkisch: Elementarkus II — Übung
+- **Sommersemester 2026** — 12 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Chinesisch I  für Studierende aller Fachrichtungen — Übung, Finnisch: Elementarkurs II ONLINE — Übung, Niederländisch: Elementarkurs I — Übung, Norwegisch: EK I — Übung, Persisch II — Übung, Russisch A1: Elementarkurs I — Übung, Russisch A2: Elementarkurs II — Übung, Russisch online A1 — Übung, Schwedisch: EK IV — Übung, Türkisch: Elementarkurs I — Übung, Türkisch: Elementarkurs III — Übung, Türkisch: Elementarkus II — Übung
 
 ### Richard Lenz (Prof. Dr.-Ing.)
 
@@ -1513,17 +1526,12 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 3 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Statik und Festigkeitslehre — Vorlesung, Tutorium zur Statik und Festigkeitslehre — Tutorium, Übungen zur Statik und Festigkeitslehre — Übung
 
-### Harald Tauchmann Elena Yurkevich Michail Liatos (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Seminar zur Gesundheitsökonomik / Seminar in Health Economics — Seminar
-
 ### Michail Liatos
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Seminar zur Gesundheitsökonomik / Seminar in Health Economics — Seminar
 
-### Michael Tielemann Marion Liegl (Prof. Dr.-Ing.)
+### Marion Liegl
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Datenschutz und Compliance — Vorlesung
@@ -1550,8 +1558,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Matthias Luther (Prof. Dr.-Ing.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Übung zu Betriebsverhalten elektrischer Energiesysteme — Übung
+- **Sommersemester 2026** — 4 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Betriebsverhalten elektrischer Energiesysteme — Vorlesung, Grundlagen der Elektrischen Energieversorgung — Vorlesung, Übung zu Betriebsverhalten elektrischer Energiesysteme — Übung, Übungen zu Grundlagen der Elektrischen Energieversorgung — Übung
 
 ### Anja Lux (Prof. Dr.)
 
@@ -1560,18 +1568,13 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Maximilian Lübke
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Schaltungen und Systeme der Übertragungstechnik — Vorlesung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Schaltungen und Systeme der Übertragungstechnik — Vorlesung, Übungen zu Schaltungen und Systeme der Übertragungstechnik — Übung
 
-### Bastian Rüppel Johanna Lützenkirchen
+### Johanna Lützenkirchen
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Technische Thermodynamik Übung — Übung
-
-### Michael Wensing Bastian Rüppel Johanna Lützenkirchen (Prof. Dr.-Ing.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Technische Thermodynamik — Vorlesung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Technische Thermodynamik Übung — Übung, Technische Thermodynamik — Vorlesung
 
 ### Giulia Magnabosco (Dr.)
 
@@ -1587,6 +1590,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Deep Learning — Vorlesung, Projekt Mustererkennung — Praktikum/Projekt
+
+### Pavan Kumar Savitha Manchegowda
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Ressourceneffiziente Produktionssysteme - Übung — Übung, Ressourceneffiziente Produktionssysteme — Vorlesung
 
 ### Sarah Marak (Dr.)
 
@@ -1620,8 +1628,9 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Martin Matzner (Prof. Dr.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): V: Business Analytics: Technologien, Methoden und Konzepte — Vorlesung mit Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): V: Service Management and Service Engineering — Vorlesung
 
 ### Janina Maultzsch (Prof. Dr.)
 
@@ -1630,8 +1639,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Hans-Christoph Maurer (Dr.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Übungen zu Markt und Netze - Systemlösungen für die Energiewende — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Markt und Netze - Systemlösungen für die Energiewende — Vorlesung, Übungen zu Markt und Netze - Systemlösungen für die Energiewende — Übung
 
 ### Andreas Mayr
 
@@ -1658,17 +1667,12 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Produktionstechnik - Tutorium (P) (PT II & PT 3 MB) — Tutorium
 
-### Nico Hanenkamp Trixi Meier (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Produktionsprozesse der Zerspanung — Vorlesung
-
 ### Trixi Meier
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Produktionsprozesse der Zerspanung - Übung — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Produktionsprozesse der Zerspanung - Übung — Übung, Produktionsprozesse der Zerspanung — Vorlesung
 
-### Christian Heidorn Jakob Wittmann Stefan Meißner
+### Stefan Meißner
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Praktische Übungen zu Grundlagen der Technischen Informatik — Übung
@@ -1678,7 +1682,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): Elemente der Unterrichtsgestaltung MS — Seminar, Raum und Form II — Seminar
 
-### Yang Cui Dehong Meng
+### Dehong Meng
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): BA-4 Modernes Chinesisch 4 — Kurs
@@ -1687,6 +1691,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Materialmodellierung und -simulation — Vorlesung mit Übung
+
+### Christian Merkl (Prof. Dr.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Seminar Reflections in International Economics — Seminar
 
 ### Marion Merklein (Prof. Dr.-Ing.)
 
@@ -1723,11 +1732,6 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): Projektseminar Optimierung (Bachelor) — Seminar
 
-### Kevin-Martin Aigner Arthur Miehlich (Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): Projektseminar Optimierung (Bachelor) — Seminar
-
 ### Jörg Miehling (PD Dr.-Ing.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
@@ -1748,12 +1752,12 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): Homogeneous Catalysis - Lab — Praktikum, Organic Chemistry — Vorlesung mit Übung
 
-### Markus Beckmann John Alejandro Hernandez Mora (Prof. Dr.)
+### John Alejandro Hernandez Mora
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Einführung in das Nachhaltigkeitsmanagement — Vorlesung
 
-### Pierre-Louis Sixdenier Jose Juan Hernandez Morales
+### Jose Juan Hernandez Morales
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Exercises to Approximate Computing — Übung
@@ -1768,7 +1772,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Vorlesung "Grundlagen und Anwendungsfelder der Sozialpsychologie" — Vorlesung
 
-### Hakan Calim Anamaria Dumitrescu Daniel Mosig
+### Daniel Mosig
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Seminar Road Scene Understanding for the Visually Impaired — Seminar
@@ -1795,9 +1799,9 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Martin März (Prof. Dr.)
 
-- **Sommersemester 2026** — 4 Veranstaltung(en):
+- **Sommersemester 2026** — 7 Veranstaltung(en):
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Elektrische Energiespeichersysteme — Vorlesung
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Exercises on Power Electronics for Decentral Energy Systems — Übung, Übungen zu Thermisches Management in der Leistungselektronik — Übung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Exercises on Power Electronics for Decentral Energy Systems — Übung, Laboratory Course on Power Electronics for Decentral Energy Systems — Praktikum, Power Electronics for Decentral Energy Systems — Vorlesung, Thermisches Management in der Leistungselektronik — Vorlesung, Übungen zu Thermisches Management in der Leistungselektronik — Übung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Selected Topics in Vehicle Electrification — Vorlesung
 
 ### Thomas Mölg (Prof. Dr.)
@@ -1845,12 +1849,12 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Seminar Quantentechnologien 1 — Seminar
 
-### Corina Petersilka Julien Nairaince (Dr.)
+### Julien Nairaince
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Communication orale et civilisation — Übung
 
-### Julia Lazarus Anastasia Nechaeva (Dr.)
+### Anastasia Nechaeva
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Russisch online A1 — Übung
@@ -1860,7 +1864,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): Biblische Themen im Religionsunterricht — Seminar
 
-### Andreas Kist Luisa Neubig (Prof. Dr.)
+### Luisa Neubig
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Fantastic datasets and where to find them — Hauptseminar
@@ -1875,20 +1879,10 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): Forschungs-/Vertiefungsmodul Genetik: Seminar — Vorlesung
 
-### Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+### Avinash Mahesh Nirmala
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Hardware-Software-Co-Design — Übung
-
-### Batuhan Sesli Avinash Mahesh Nirmala
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Parallele Systeme — Übung
-
-### Frank Hannig Batuhan Sesli Avinash Mahesh Nirmala (PD Dr.-Ing.)
-
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Parallele Systeme — Übung, Multi-Core Architecture and Programming — Seminar
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Hardware-Software-Co-Design — Übung, Erweiterte Übungen zu Parallele Systeme — Übung, Multi-Core Architecture and Programming — Seminar
 
 ### Lars Nitschke (Prof. Dr.)
 
@@ -1915,17 +1909,32 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): Masterseminar "Theory of Discrete Optimization" — Masterseminar
 
+### Maxim Ritter von Onciul
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Systemnahe Programmierung in C - Rechnerübungen — Übung, Systemnahe Programmierung in C - Tafelübung — Übung
+
 ### Vorbesprechung -&nbsp; Online
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): Interkulturelle Kompetenz: Theoretische und praktische Grundlagen — Seminar
+
+### Norbert Oster (Dr.-Ing.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Testen von Softwaresystemen — Vorlesung
 
 ### Andres Osvet (Dr.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Lab Work Thin Film Semiconductors — Praktikum
 
-### Alessandro Del Vecchio Marius Oßwald (Prof. Dr.)
+### Maximilian Ott
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Betriebssystemtechnik - Rechnerübungen — Übung, Betriebssystemtechnik - Übungen — Übung
+
+### Marius Oßwald
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Interfacing the Neuromuscular System: Laboratory — Praktikum
@@ -1942,8 +1951,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Corina Petersilka (Dr.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Parcours grammatical et lexical II / Grammatik und Wortschatz II — Übung
+- **Sommersemester 2026** — 4 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Communication orale et civilisation — Übung, Español intermedio I — Übung, Español intermedio II — Übung, Parcours grammatical et lexical II / Grammatik und Wortschatz II — Übung
 
 ### Sebastian Pfaller (PD Dr.-Ing.)
 
@@ -1960,20 +1969,25 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Aufbauseminar Literature — Aufbauseminar
 
-### Johannes Ulbricht Romina Popova Zita Pfister (Dr.)
+### Zita Pfister
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): Europäische Privatrechtsgeschichte der Neuzeit — Vorlesung
 
-### Nicole Kimmelmann Alexandra Pfisterer (Prof. Dr.)
+### Alexandra Pfisterer
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Professional Orientation — Seminar
 
 ### Christoph Pflaum (Prof. Dr.)
 
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computational Optics CE — Vorlesung mit Übung, Computational Optics — Vorlesung mit Übung
+
+### Anne-Christine Plank (Dr.)
+
 - **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computational Optics CE — Vorlesung mit Übung
+  - in [Veranstaltungen aus zentralen wissenschaftlichen Einrichtungen / interdisziplinäre Veranstaltungen](../589-sommersemester-2026/veranstaltungen-aus-zentralen-wissenschaftlichen-einrichtungen-interdisziplinaer-17986.md): Forschungsdatenmanagement, Einführung und Vertiefung — Seminar
 
 ### Robert Plath (Prof. Dr.)
 
@@ -1982,28 +1996,28 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Daniel Platzer
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Übung zu Grenzflächen in der Verfahrenstechnik — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Grenzflächen in der Verfahrenstechnik — Vorlesung, Übung zu Grenzflächen in der Verfahrenstechnik — Übung
 
-### Nicolas Vogel Daniel Platzer (Prof. Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Grenzflächen in der Verfahrenstechnik — Vorlesung
-
-### Sebastian Müller Marco Pohl (Prof. Dr.-Ing.)
+### Marco Pohl
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Gießereitechnik — Vorlesung mit Übung
 
-### Matthias Wrede Elisa Poletto (Prof. Dr.)
+### Elisa Poletto
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): BA Üb Social Policy in an Interdependent World (Ü1: BA SPIW) — Übung
 
-### Benedict Rothammer Markus Polzer (Dr.-Ing.)
+### Markus Polzer
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Tribologie und Oberflächentechnik — Vorlesung
+
+### Romina Popova
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): Europäische Privatrechtsgeschichte der Neuzeit — Vorlesung
 
 ### Abbas Poya (Prof. Dr.)
 
@@ -2011,10 +2025,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): Einführung in den Islam — Vorlesung mit Übung
 
-### Maximilian Ott Thomas Preisner
+### Thomas Preisner
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
+- **Sommersemester 2026** — 3 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Betriebssystemtechnik - Rechnerübungen — Übung, Betriebssystemtechnik - Übungen — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Systemprogrammierung - Rechnerübungen — Übung
 
 ### Dominik Probst
 
@@ -2041,15 +2056,25 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 9 Veranstaltung(en):
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Anleitung zur wissenschaftlichen Arbeit — Anleitung zu wiss. Arbeiten, Computeranwendungen in der  Verfahrenstechnik 1 — Vorlesung, Granular Matter - MSS Seminar — Seminar, MAP Miniprojekt — Projektseminar, Multiphase Flows - MSS Seminar — Seminar, Multiscale Simulation - MSS Seminar — Seminar, Particulate Systems — Seminar, Partikelbasierte Strömungsmechanik (PSTM-V) — Vorlesung, Simulation Techniques - MSS Seminar — Seminar
 
-### Dietmar Fey Leonard Quednau (Prof. Dr.-Ing.)
+### Leonard Quednau
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computational Engineering 2 - Übung — Übung
+
+### Sebastian Rachuj
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computer Architectures for Medical Applications — Vorlesung
 
 ### Anatoli Rakhkochkine (Prof. Dr.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): EEBF Modul 9 - Projektdurchführung — Seminar
+
+### Jan Rauch
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): PuGDid 5: Examenskolloquium — Seminar
 
 ### Michael Rausch (Dr.-Ing.)
 
@@ -2061,15 +2086,10 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): Introduction to Philosophy of Technology — Proseminar / Mittelseminar
 
-### Joachim Kaschta Michael Redel (Dr.-Ing.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Werkstoffkunde für Studierende des CBI und CEN — Vorlesung mit Übung
-
 ### Michael Redel
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Applied Rheology — Vorlesung, Exercises Polymers - 2 — Übung
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Applied Rheology — Vorlesung, Exercises Polymers - 2 — Übung, Werkstoffkunde für Studierende des CBI und CEN — Vorlesung mit Übung
 
 ### 13.04., Themeneinführung/Formulierung des Arbeitsthemas 27.04., Hinweise zu den Anforderungen der Proseminararbeit, UB-Recherche 27.04., Themenvergabe 27.04. - 25.05., Schreibzeit (4 Woche) (Anfertigung einer Gliederung: bis 11.05.2026 Abgabe der schriftlichen Arbeit: bis 25.05.2026, 10 Uhr) 08.06., 22.06., 06.07. 2026. Referatstermine
 
@@ -2078,11 +2098,17 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Anette Regelous (PD Dr.)
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Minerale und Gesteine für Studierende der Geographie (und Mod. Nat.) — Seminar
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende) — Seminar, Minerale und Gesteine für Studierende der Geographie (und Mod. Nat.) — Seminar
   - in [- Geologie und Geografie (FAU Scientia)  -](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md): Regionale Geologie - Seminar — Seminar
 
-### Loui Al Sardy Thomas Reiß
+### Tobias Reichenbach (Prof. Dr.)
+
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP) — Übung, Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP) — Übung
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Neurotechnology Project — Praktikum
+
+### Thomas Reiß
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Automotive Systems & Software Engineering — Vorlesung mit Übung
@@ -2099,13 +2125,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### David Riebesel
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Übungen zu Markt und Netze - Systemlösungen für die Energiewende — Übung
-
-### Hans-Christoph Maurer David Riebesel (Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Markt und Netze - Systemlösungen für die Energiewende — Vorlesung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Markt und Netze - Systemlösungen für die Energiewende — Vorlesung, Übungen zu Markt und Netze - Systemlösungen für die Energiewende — Übung
 
 ### André Rieder
 
@@ -2117,15 +2138,15 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Politik geht alle an? Politiktheoretische und ideengeschichtliche Diskurse um politische Öffentlichkeit — Proseminar, Zwischen rätedemokratischer Utopie und nationalistischer Erweckung. Politisches Denken in der Zwischenkriegszeit — Hauptseminar
 
-### Tobias Reichenbach Jasmin Riegel (Prof. Dr.)
+### Jasmin Riegel
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP) — Übung
 
 ### Stefan Rieger
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): "Lampenfieber ade!": Überzeugend und sicher vor anderen auftreten — Kurs, Stimmbildung und Sprecherziehung — Kurs
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): "Lampenfieber ade!": Überzeugend und sicher vor anderen auftreten — Kurs, "funklust" - Medienkompetenzen erwerben, Medienpraxis erlernen, Campusmedien gestalten — Übung, Stimmbildung und Sprecherziehung — Kurs
 
 ### Dirk Riehle (Prof. Dr.)
 
@@ -2174,13 +2195,18 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Benedict Rothammer (Dr.-Ing.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Doktorandenseminar — Anleitung zu wiss. Arbeiten
+- **Sommersemester 2026** — 4 Veranstaltung(en):
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Doktorandenseminar — Anleitung zu wiss. Arbeiten, Einführung in das Patentrecht und verwandte Schutzrechte — Vorlesung, Tribologie und Oberflächentechnik — Vorlesung, Übungen zu Maschinenelemente II — Übung
 
 ### Tobias Rumpel
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Präsentation technischer Sachverhalte — Seminar
+
+### Andreas Röckelein
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Produktionstechnik (PT II & PT 3 MB) — Vorlesung, Produktionstechnik - Tutorium (P) (PT II & PT 3 MB) — Tutorium
 
 ### Sophia Rösel
 
@@ -2202,6 +2228,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): MA-2 Transregional Entanglements — Übung
 
+### Bastian Rüppel
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Technische Thermodynamik Übung — Übung, Technische Thermodynamik — Vorlesung
+
 ### Johannes Rüster (Prof. Dr.)
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
@@ -2217,15 +2248,20 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Messtechnik 2 - Messmethoden und Analytik — Vorlesung, Messtechnik 2 - Messmethoden und Analytik — Übung
 
-### Christoph Pflaum Souryadeep Saha (Prof. Dr.)
-
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computational Optics CE — Vorlesung mit Übung, Computational Optics — Vorlesung mit Übung
-
 ### Souryadeep Saha
 
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computational Optics CE — Vorlesung mit Übung, Computational Optics — Vorlesung mit Übung, Exercises in Computational Optics CE & MAOT — Übung
+
+### Reettakaisa Sofia Salo (Prof. Dr.)
+
 - **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Exercises in Computational Optics CE & MAOT — Übung
+  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): Altes Testament im Überblick - Geschichte Israels — Vorlesung mit Übung
+
+### Loui Al Sardy
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Automotive Systems & Software Engineering — Vorlesung mit Übung
 
 ### Manami Sasaki (Prof. Dr.)
 
@@ -2269,12 +2305,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Kai Scheller
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Praktikum Analog-Digital-Umsetzer — Praktikum
-
-### Manuel Koch Kai Scheller
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Übungen zu Schaltungstechnik — Übung
 
 ### Armin Scherb (Prof. Dr.)
@@ -2297,11 +2329,6 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): Sprachhistorisches Seminar — Sprachhistorisches Seminar
 
-### Andreas Paul Fröba Patrick Schmidt (Prof. Dr.-Ing.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Thermofluiddynamik der Biotechnologie — Vorlesung mit Übung
-
 ### Jochen Schmidt (PD Dr.)
 
 - **Sommersemester 2026** — 3 Veranstaltung(en):
@@ -2311,6 +2338,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Anleitung zu wissenschaftl. Arbeiten in der Lasertechnik und Photonik — Anleitung zu wiss. Arbeiten, Production Technology I — Vorlesung
+
+### Patrick Schmidt
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Thermofluiddynamik der Biotechnologie — Vorlesung mit Übung
 
 ### Patrik Schmuki (Prof. Dr.)
 
@@ -2390,25 +2422,20 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Jörg Schulze (Prof. Dr.-Ing.)
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik — Vorlesung, Übungen zu Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik — Übung
-
-### Martin März Raffael Schwanninger (Prof. Dr.)
-
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Laboratory Course on Power Electronics for Decentral Energy Systems — Praktikum, Power Electronics for Decentral Energy Systems — Vorlesung
+- **Sommersemester 2026** — 4 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Ausgewählte Kapitel der Quantenelektronik — Seminar, Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik — Vorlesung, Übungen zu Halbleitertechnik I - Bipolartechnik — Übung, Übungen zu Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik — Übung
 
 ### Raffael Schwanninger
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Exercises on Power Electronics for Decentral Energy Systems — Übung
+- **Sommersemester 2026** — 3 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Exercises on Power Electronics for Decentral Energy Systems — Übung, Laboratory Course on Power Electronics for Decentral Energy Systems — Praktikum, Power Electronics for Decentral Energy Systems — Vorlesung
 
-### Jörg Schulze Jannik Schwarberg (Prof. Dr.-Ing.)
+### Jannik Schwarberg
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Übungen zu Halbleitertechnik I - Bipolartechnik — Übung
 
-### Jörg Schulze Julian Schwarz (Prof. Dr.-Ing.)
+### Julian Schwarz
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Ausgewählte Kapitel der Quantenelektronik — Seminar
@@ -2433,10 +2460,10 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Transformationen in der Signalverarbeitung — Vorlesung
 
-### Frank Hannig Avinash Mahesh Nirmala Batuhan Sesli (PD Dr.-Ing.)
+### Batuhan Sesli
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Multi-Core Architecture and Programming — Seminar
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Parallele Systeme — Übung, Multi-Core Architecture and Programming — Seminar
 
 ### Jan-Reinard Sieckmann (Prof. Dr.)
 
@@ -2453,10 +2480,10 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Stimmbildung und Sprecherziehung (Simon) — Übung
 
-### Frank Hannig Pierre-Louis Sixdenier (PD Dr.-Ing.)
+### Pierre-Louis Sixdenier
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Parallele Systeme — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Parallele Systeme — Übung, Exercises to Approximate Computing — Übung
 
 ### Robert Slany (Prof. Dr.)
 
@@ -2478,6 +2505,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 6 Veranstaltung(en):
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): 3D Characterization in Materials Science — Vorlesung mit Übung, Basics in Nanomaterials and Nanotechnology 2 - Nano Characterization — Vorlesung mit Übung, Materials and Structure (CEP) — Vorlesung mit Übung, Practical Course Electron Microscopy II — Praktikum, Practical Course to 3D Characterization in Materials Science — Praktikum, Transmission Electron Microscopy in Material Science II — Vorlesung mit Übung
 
+### Alexander Spielberger
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Medizinelektronik - Medical Electronics — Vorlesung
+
 ### Ruth Stadler (Prof. Dr.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
@@ -2485,8 +2517,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Marc Stamminger (Prof. Dr.-Ing.)
 
-- **Sommersemester 2026** — 3 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Interactive Computer Graphics — Vorlesung, Neural Graphics and Inverse Rendering — Vorlesung, Tutorials to Neural Graphics and Inverse Rendering — Übung
+- **Sommersemester 2026** — 5 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Interactive Computer Graphics — Vorlesung, Neural Graphics and Inverse Rendering — Vorlesung, Tutorials to Global Illumination — Übung, Tutorials to Interactive Computer Graphics — Übung, Tutorials to Neural Graphics and Inverse Rendering — Übung
 
 ### findet online statt
 
@@ -2513,6 +2545,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Stimmbildung und Sprecherziehung (Steinbach) — Übung
 
+### Janna Steinebach
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP) — Übung, Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP) — Übung
+
 ### Anja Steinlen (PD Dr.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
@@ -2538,12 +2575,12 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Minerale und Gesteine für Studierende der Geographie (und Mod. Nat.) — Seminar
 
-### Anette Regelous Maren Stoppel (PD Dr.)
+### Maren Stoppel
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende) — Seminar
 
-### Michael Höhlinger Michael Strebl (Dr.-Ing.)
+### Michael Strebl
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Surface Modification techniques — Vorlesung
@@ -2553,7 +2590,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Übung zur Makroökonomie — Übung
 
-### Marcus Fischer Katrin Städtke (Dr.-Ing.)
+### Katrin Städtke
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Nachhaltige Chemische Technologien (Vertiefung CEN) — Vorlesung
@@ -2569,10 +2606,15 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Rückert-Vorlesung — Vorlesung, Von Alembik bis Zenith. Einblicke in die vormodernen Wissenschaften in den islamisch geprägten Gesellschaften. — Seminar
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): BA 6: Moderne Literatur (Arabische Literatur)    Seminar — Proseminar, BA: [Modul Geschichte der islamischen Welt] Historisches Seminar — Seminar, MA 2. FS: [Modul Klassische Arabische Literatur] Poesie — Masterseminar, MA 2. FS: [Modul Koran und Moderne] Seminar begleitend zur Vorlesung — Masterseminar, Modernes arabisches Theater — Kurs
 
-### Harald Tauchmann (Prof. Dr.)
+### Willi Tang (Dr.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): VL: Gesundheitsverhalten und Gesundheitsmärkte — Vorlesung
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): V: Business Analytics: Technologien, Methoden und Konzepte — Vorlesung mit Übung
+
+### Harald Tauchmann (Prof. Dr.)
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Seminar zur Gesundheitsökonomik / Seminar in Health Economics — Seminar, VL: Gesundheitsverhalten und Gesundheitsmärkte — Vorlesung
 
 ### Robin Klupp Taylor (Prof. Dr.)
 
@@ -2604,10 +2646,15 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Physik (FAU Scientia)  -](../589-sommersemester-2026/physik-fau-scientia-13839673.md): Cell Adhesion and Cytoskeleton: Cell Biological, Biophysical, and Medical Aspects — Vorlesung mit Übung
 
-### Tobias Reichenbach Janna Steinebach Pablo Ochoa de Eribe Delgado Michael Thornton (Prof. Dr.)
+### Michael Thornton
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP) — Übung
+
+### Michael Tielemann (Prof. Dr.-Ing.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Datenschutz und Compliance — Vorlesung
 
 ### Volker Titel (Dr.)
 
@@ -2629,15 +2676,10 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Seminar Automatic Analysis of Voice, Speech and Language Disorders in Speech Pathologies — Hauptseminar
 
-### Alexander Spielberger Ouadie Touijer
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Medizinelektronik - Medical Electronics — Vorlesung
-
 ### Ouadie Touijer
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Praktikum zu High-Performance Analog- und Umsetzer-Design — Praktikum
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Medizinelektronik - Medical Electronics — Vorlesung, Praktikum zu High-Performance Analog- und Umsetzer-Design — Praktikum
 
 ### Peter Treiber (Dr.-Ing.)
 
@@ -2649,7 +2691,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): UE Examensvorbereitung Ethik — Übung
 
-### Rainer Böckmann Marius Trollmann (Prof. Dr.)
+### Marius Trollmann
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): Python for Bioinformatics and Data Analysis — Seminar und Übung
@@ -2663,6 +2705,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): Clinical Immunology - Lecture — Vorlesung
+
+### Johannes Ulbricht (Dr.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): Europäische Privatrechtsgeschichte der Neuzeit — Vorlesung
 
 ### Tobias Unruh (Prof. Dr.)
 
@@ -2679,15 +2726,10 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung, Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung
 
-### Corina Petersilka José Juan Ventura Usó (Dr.)
+### José Juan Ventura Usó
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Español intermedio II — Übung
-
-### Corina Petersilka Silvia Saenz Caballe José Juan Ventura Usó (Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Español intermedio I — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Español intermedio I — Übung, Español intermedio II — Übung
 
 ### Thorsten Uthmeier (Prof. Dr.)
 
@@ -2699,6 +2741,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): Lebensmitteltechnologie — Vorlesung
+
+### Alessandro Del Vecchio (Prof. Dr.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Interfacing the Neuromuscular System: Laboratory — Praktikum
 
 ### Christoph Schubert (Zuständigkeit: Verantwortliche/-r) (Prof. Dr.)
 
@@ -2715,7 +2762,7 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Christliche Archäologie, Hauptvorlesung — Vorlesung, Einführung in die christliche Ikonographie — Einführungskurs
 
-### Abrarul Karim Thomas Vetter
+### Thomas Vetter
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Erweiterte Übungen zu Hardware-Software-Co-Design — Übung
@@ -2724,6 +2771,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 5 Veranstaltung(en):
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Corrosion and Corrosion Protection — Vorlesung, Exercise Basic electrochemistry II — Übung, Festkörperthermodynamik — Vorlesung, Surface Modification techniques — Vorlesung, Surfaces of Biomaterials / Oberflächen von Biomaterialien — Vorlesung
+
+### Arne Vogel
+
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Systemnahe Programmierung in C - Rechnerübungen — Übung, Systemnahe Programmierung in C - Tafelübung — Übung
 
 ### Nicolas Vogel (Prof. Dr.)
 
@@ -2758,8 +2810,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Timo Wagner
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Übungen zu Grundlagen der Elektrischen Energieversorgung — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Grundlagen der Elektrischen Energieversorgung — Vorlesung, Übungen zu Grundlagen der Elektrischen Energieversorgung — Übung
 
 ### Markus Wahl (PD Dr.)
 
@@ -2775,6 +2827,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Grundvorlesung Kulturgeographie 2: Siedlungs- und Bevölkerungsgeographie — Vorlesung mit Übung
+
+### Dominik Walter
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Praktische Übungen zu Grundlagen der Technischen Informatik — Übung
 
 ### Marcus Walther (Dr.)
 
@@ -2794,8 +2851,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Sandro Wartzack (Prof. Dr.-Ing.)
 
-- **Sommersemester 2026** — 4 Veranstaltung(en):
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Doktorandenseminar — Anleitung zu wiss. Arbeiten, Einführung in das Patentrecht und verwandte Schutzrechte — Vorlesung, Übungen zu Maschinenelemente II — Übung
+- **Sommersemester 2026** — 5 Veranstaltung(en):
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Doktorandenseminar — Anleitung zu wiss. Arbeiten, Einführung in das Patentrecht und verwandte Schutzrechte — Vorlesung, Technologie-Startup-Seminar — Seminar, Übungen zu Maschinenelemente II — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Technische Darstellungslehre II - Kurs Mi — Praktikum
 
 ### Peter Wasserscheid (Prof. Dr.)
@@ -2816,23 +2873,23 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Peter Weidinger (Prof. Dr.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Fundamentals of Failure Analysis / Grundlagen der Schadensanalyse an Bauteilen — Vorlesung mit Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Fundamentals of Failure Analysis / Grundlagen der Schadensanalyse an Bauteilen — Vorlesung mit Übung, Labwork: Failure Analysis / Praktikum Schadensanalyse — Praktikum
 
 ### Jan Weikl
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Übung Labor and Personnel Economics — Übung
 
-### Madlen Hoffmann Stefanie Büttner Raffael Schwanninger Nikolai Weitz
+### Nikolai Weitz
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Laboratory Course on Power Electronics for Decentral Energy Systems — Praktikum
 
 ### Gerhard Wellein (Prof. Dr.)
 
-- **Sommersemester 2026** — 2 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Effiziente numerische Simulation auf multicore-Prozessoren — Hauptseminar, Programming Techniques for Supercomputers - Exercises — Übung
+- **Sommersemester 2026** — 4 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Computer Architectures for Medical Applications — Vorlesung, Effiziente numerische Simulation auf multicore-Prozessoren — Hauptseminar, Programming Techniques for Supercomputers - Exercises — Übung, Übung zu Computer Architectures for Medical Applications — Übung
 
 ### Oliver Welzel (Dr.)
 
@@ -2852,28 +2909,19 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Michael Wensing (Prof. Dr.-Ing.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Technische Thermodynamik Übung — Übung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): Technische Thermodynamik Übung — Übung, Technische Thermodynamik — Vorlesung
 
 ### Tim Weyrich (Prof. Dr.)
 
 - **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Neural Graphics and Inverse Rendering — Vorlesung, Tutorials to Neural Graphics and Inverse Rendering — Übung
 
-### Jürgen Kleinöder Ole Wiedemann (Dr.-Ing.)
+### Ole Wiedemann
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Systemprogrammierung - Rechnerübungen — Übung
-
-### Rüdiger Kapitza Ole Wiedemann (Prof. Dr.-Ing.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Systemprogrammierung 1 - Übung — Übung
-
-### Simon Wiesgickl (Dr.)
-
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): Vorlesung Islam — Vorlesung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Systemprogrammierung - Rechnerübungen — Übung
 
 ### Carolin Wiesmann
 
@@ -2887,8 +2935,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Stefan Wildermann (Dr.-Ing.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Praktikum: Lego Mindstorms — Praktikum
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Praktikum: Lego Mindstorms — Praktikum, Übung zu Security in Embedded Hardware — Übung
 
 ### Johannes Will (Dr.)
 
@@ -2905,7 +2953,12 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 3 Veranstaltung(en):
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): BL8: Humanbiologische und Physiologische Übungen mit Vorlesung — Seminar und Übung, Biology-informed drug discovery — Vorlesung, Forschungs-/Vertiefungsmodul Genetik: Seminar — Vorlesung
 
-### Dominik Walter Jakob Wittmann
+### Thomas Wittenberg (PD Dr.-Ing.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Visual Computing in Medicine 2 — Vorlesung
+
+### Jakob Wittmann
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Praktische Übungen zu Grundlagen der Technischen Informatik — Übung
@@ -2918,7 +2971,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Tobias Wolbring (Prof. Dr.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Soziologie II - Seminar — Seminar
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Soziologie II Vorlesung — Vorlesung
 
 ### Hannes Worthmann (Dr.)
@@ -2928,8 +2982,8 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### Matthias Wrede (Prof. Dr.)
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): BA L Social Policy in an Interdependent World (V2: BA SPIW) — Vorlesung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): BA L Social Policy in an Interdependent World (V2: BA SPIW) — Vorlesung, BA Üb Social Policy in an Interdependent World (Ü1: BA SPIW) — Übung
 
 ### Mingjian Wu (Dr.)
 
@@ -2941,12 +2995,12 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Endokrinologische und metabolische Problemfälle in der Pädiatrie: Falldiskussion (digital) — Seminar
 
-### Antje Lenora Hyunsun Yoon (Dr.)
+### Hyunsun Yoon
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Chinesisch I  für Studierende aller Fachrichtungen — Übung
 
-### Harald Tauchmann Elena Yurkevich (Prof. Dr.)
+### Elena Yurkevich
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): Seminar zur Gesundheitsökonomik / Seminar in Health Economics — Seminar
@@ -2955,6 +3009,11 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 - **Sommersemester 2026** — 3 Veranstaltung(en):
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Festkörperkinetik — Vorlesung, Generalized Continuum Models of  Materials Mechanics — Vorlesung, Modelling Materials with Finite Element Simulations — Vorlesung
+
+### Moritz Zaiß (Prof. Dr.)
+
+- **Sommersemester 2026** — 1 Veranstaltung(en):
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Magnetic Resonance Imaging sequence programming [MRIpulseq] — Seminar
 
 ### Esther Zanin (Prof. Dr.)
 
@@ -2966,15 +3025,15 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 - **Sommersemester 2026** — 1 Veranstaltung(en):
   - in [- Psychologie und Gerontologie (FAU Scientia)  -](../589-sommersemester-2026/psychologie-und-gerontologie-fau-scientia-13839268.md): Modul III: Ausgewählte Forschungsbestände zur Bildungsgerechtigkeit der Pädagogischen Psychologie — Seminar
 
-### Matthias Luther Florian Zier (Prof. Dr.-Ing.)
+### Michael Ziegler (Dr.)
 
 - **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Übungen zu Grundlagen der Elektrischen Energieversorgung — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Übung zur Sozialpsychologie — Übung
 
-### Matthias Luther Timo Wagner Florian Zier (Prof. Dr.-Ing.)
+### Florian Zier
 
-- **Sommersemester 2026** — 1 Veranstaltung(en):
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Grundlagen der Elektrischen Energieversorgung — Vorlesung
+- **Sommersemester 2026** — 2 Veranstaltung(en):
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Grundlagen der Elektrischen Energieversorgung — Vorlesung, Übungen zu Grundlagen der Elektrischen Energieversorgung — Übung
 
 ### Anja Zimmermann (Prof. Dr.)
 
@@ -3008,18 +3067,19 @@ Diese Datei aggregiert jede Dozent/-in-Nennung aus den Campo-Veranstaltungs-Deta
 
 ### apl. (apl.)
 
-- **Sommersemester 2026** — 22 Veranstaltung(en):
+- **Sommersemester 2026** — 26 Veranstaltung(en):
   - in [Veranstaltungen aus zentralen wissenschaftlichen Einrichtungen / interdisziplinäre Veranstaltungen](../589-sommersemester-2026/veranstaltungen-aus-zentralen-wissenschaftlichen-einrichtungen-interdisziplinaer-17986.md): Schlüsselqualifikation: Erkenntnis aus Leichen(teilen): Forschen und Lehren mit menschlichen Überresten — Seminar
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): Chemical technologies for energy transition — Vorlesung, Die Kirche von Rom und der Orient — Seminar
   - in [Sprachkenntnisse Latein](../589-sommersemester-2026/sprachkenntnisse-latein-17992.md): Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
   - in [- Medien-, Theater- und Kulturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/medien-theater-und-kulturwissenschaft-fau-scientia-13838285.md): Geschichte der Bildenden Kunst des Mittelalters - Baustein I — Proseminar, Kunstgeschichte und Beruf — Sonstige Lehrveranstaltung
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): Freiwilliges Zusatzangebot: Online-Ringvorlesung "Systematische Aspekte der Literaturwissenschaft" — Vorlesung
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): Einführung in das Altpersische — Mittelseminar
-  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): PuGDid 2: VORLESUNG: Aktuelle Fragestellungen der Fachdidaktik Politik und Gesellschaft — Vorlesung
+  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): Biblische Themen im Religionsunterricht — Seminar, PuGDid 2: VORLESUNG: Aktuelle Fragestellungen der Fachdidaktik Politik und Gesellschaft — Vorlesung
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): Glück und Moral: Tugenden in der Philosophie als Lebenskunst — Proseminar / Mittelseminar
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): Forschungs-/Vertiefungsmodul Genetik: Seminar — Vorlesung
   - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): Organic Chemistry — Vorlesung mit Übung, Praktikum Organische Chemie — Praktikum
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung, Visual Computing in Medicine 2 — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): Next Generation Mobile Communication Systems: 5G-Advanced and 6G — Vorlesung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): Hauptseminar Fertigungstechnologie im Bachelorstudium — Hauptseminar, Materialmodellierung und -simulation — Vorlesung mit Übung, Strukturoptimierung in der virtuellen Produktentwicklung — Vorlesung
-  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Dental Biomaterials — Vorlesung, MSE I labwork Briefing for Masters & Safetyinstruction/Vorbesprechung Praktika in Mastermodulen WW 1 inkl. Sicherheitsbelehrung — Sonstige Lehrveranstaltung, Materials: Tribology and Surface Technology/ Tribologie und Oberflächentechnik — Vorlesung mit Übung, Werkstoffkunde für Studierende des CBI und CEN — Vorlesung mit Übung
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): Dental Biomaterials — Vorlesung, Labwork: Failure Analysis / Praktikum Schadensanalyse — Praktikum, MSE I labwork Briefing for Masters & Safetyinstruction/Vorbesprechung Praktika in Mastermodulen WW 1 inkl. Sicherheitsbelehrung — Sonstige Lehrveranstaltung, Materials: Tribology and Surface Technology/ Tribologie und Oberflächentechnik — Vorlesung mit Übung, Werkstoffkunde für Studierende des CBI und CEN — Vorlesung mit Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): Basisseminar französische Literaturwissenschaft A — Einführungskurs

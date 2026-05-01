@@ -27,7 +27,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Dr. Kerstin Jaunich Dr. Anja Beyer
+- **Verantwortlich:** Dr. Kerstin Jaunich, Dr. Anja Beyer
 
 #### Termine
 
@@ -50,6 +50,8 @@ _Section: FAU Scientia Gaststudium_
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+- **Verantwortlich:** Prof. Dr. Nicolas Joly
 
 #### Termine
 
@@ -158,7 +160,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Michaela Mahlberg Dr. Marianna Grachova
+- **Verantwortlich:** Prof. Dr. Michaela Mahlberg, Dr. Marianna Grachova
 
 #### Termine
 
@@ -196,7 +198,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Tobias Reichenbach Janna Steinebach Pablo Ochoa de Eribe Delgado Michael Thornton
+- **Verantwortlich:** Prof. Dr. Tobias Reichenbach, Janna Steinebach, Pablo Ochoa de Eribe Delgado, Michael Thornton
 
 #### Termine
 
@@ -215,7 +217,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Manuel Münsch PD Dr. Frank Wendler
+- **Verantwortlich:** Dr.-Ing. Manuel Münsch, PD Dr. Frank Wendler
 
 #### Termine
 
@@ -264,7 +266,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Andreas Kist Luisa Neubig
+- **Verantwortlich:** Prof. Dr. Andreas Kist, Luisa Neubig
 
 #### Termine
 
@@ -283,7 +285,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Alessandro Del Vecchio Marius Oßwald
+- **Verantwortlich:** Prof. Dr. Alessandro Del Vecchio, Marius Oßwald
 
 ### IWGS (TUT) - Tutorium zu Informatische Werkzeuge in den Geistes- und Sozialwissenschaften - Tutorium
 
@@ -314,7 +316,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Erik Gösche Nils Dienesch
+- **Verantwortlich:** Erik Gösche, Nils Dienesch
 
 #### Termine
 
@@ -333,7 +335,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Moritz Zaiß Martin Freudensprung
+- **Verantwortlich:** Prof. Dr. Moritz Zaiß, Martin Freudensprung
 
 #### Termine
 
@@ -352,7 +354,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Bernhard Kainz Prof. Dr. Florian Knoll
+- **Verantwortlich:** Prof. Dr. Bernhard Kainz, Prof. Dr. Florian Knoll
 
 #### Termine
 
@@ -379,6 +381,7 @@ _Section: FAU Scientia Gaststudium_
 | — | wöchentlich | — | 26.05.2026 | 20 | — |
 | — | wöchentlich | — | — | 20 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | 20 | — |
+| — | Einzeltermin | — | — | 20 | — |
 
 ### MT2-TUE - Medizintechnik II Tafelübung - Übung
 
@@ -391,7 +394,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Erik Gösche Nils Dienesch
+- **Verantwortlich:** Erik Gösche, Nils Dienesch
 
 #### Termine
 
@@ -409,7 +412,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Tobias Reichenbach Pablo Ochoa de Eribe Delgado
+- **Verantwortlich:** Prof. Dr. Tobias Reichenbach, Pablo Ochoa de Eribe Delgado
 
 #### Termine
 

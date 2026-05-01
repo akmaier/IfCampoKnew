@@ -1,8 +1,8 @@
 ---
 kind: "campo-lehrende-ohne-pflicht"
 period: "Sommersemester 2026"
-candidates: 547
-scraped_at: 2026-05-01T21:13:50+00:00
+candidates: 553
+scraped_at: 2026-05-01T21:45:34+00:00
 ---
 
 # Lehrende ohne Pflichtlehre (Vorschlag)
@@ -17,7 +17,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 **Periode:** Sommersemester 2026
 
-**Kandidaten gefunden:** 547 (davon 251 mit "Prof" im Namen)
+**Kandidaten gefunden:** 553 (davon 215 mit "Prof" im Namen)
 
 ## Liste
 
@@ -36,7 +36,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Psychologie und Gerontologie (FAU Scientia)  -](../589-sommersemester-2026/psychologie-und-gerontologie-fau-scientia-13839268.md): "Modul III: Ausgewählte Forschungsbestände zur Bildungsgerechtigkeit der Pädagogischen Psychologie" — Seminar
 
-### Alessandro Del Vecchio Marius Oßwald — **(Prof.)**
+### Alessandro Del Vecchio — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Interfacing the Neuromuscular System: Laboratory" — Praktikum
@@ -84,7 +84,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): "Organic Chemistry" — Vorlesung mit Übung
   - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): "Organische Chemie 1" — Vorlesung mit Übung
 
-### Andreas Kist Luisa Neubig — **(Prof.)**
+### Andreas Kist — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Fantastic datasets and where to find them" — Hauptseminar
@@ -167,7 +167,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Übung im Strafrecht für Fortgeschrittene" — Übung
 
-### Christian Merkl Jonas Urbanik Paolo Bontempo — **(Prof.)**
+### Christian Merkl — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar Reflections in International Economics" — Seminar
@@ -185,11 +185,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar Reflections in International Economics" — Seminar
 
 ### Christoph Pflaum — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics CE" — Vorlesung mit Übung
-
-### Christoph Pflaum Souryadeep Saha — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics" — Vorlesung mit Übung
@@ -366,16 +361,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): "Ringvorlesung Philosophie der Moderne" — Vorlesung
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): "Analytische Philosophie der Kunst" — Proseminar / Mittelseminar
 
-### Gerhard Wellein Farhad Ebrahimiazandaryani — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Computer Architectures for Medical Applications" — Übung
-
-### Gerhard Wellein Sebastian Rachuj Farhad Ebrahimiazandaryani — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computer Architectures for Medical Applications" — Vorlesung
-
 ### Hans Kudlich — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -383,12 +368,8 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Harald Köstler — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to High End Simulation in Practice" — Übung
-
-### Harald Köstler Kajol Kulkarni — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "High End Simulation in Practice" — Vorlesung
 
 ### Harald Stollhofen — **(Prof.)**
@@ -398,18 +379,9 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Harald Tauchmann — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar zur Gesundheitsökonomik / Seminar in Health Economics" — Seminar
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "VL: Gesundheitsverhalten und Gesundheitsmärkte" — Vorlesung
-
-### Harald Tauchmann Elena Yurkevich — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar zur Gesundheitsökonomik / Seminar in Health Economics" — Seminar
-
-### Harald Tauchmann Elena Yurkevich Michail Liatos — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar zur Gesundheitsökonomik / Seminar in Health Economics" — Seminar
 
 ### Heinz Werner Höppel — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -485,11 +457,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Ba-Vorl: International Politics (only IBS/IES, WiWi)" — Vorlesung
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
-
-### Johan Lilliestam Franziska Bold — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
 
 ### Johannes Rüster — **(Prof.)**
@@ -603,7 +570,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Biology-informed drug discovery" — Vorlesung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen" — Vorlesung mit Übung
 
-### Markus Beckmann John Alejandro Hernandez Mora — **(Prof.)**
+### Markus Beckmann — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Einführung in das Nachhaltigkeitsmanagement" — Vorlesung
@@ -626,32 +593,20 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Martin Matzner — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "V: Business Analytics: Technologien, Methoden und Konzepte" — Vorlesung mit Übung
-
-### Martin Matzner Pepe Bellin — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "V: Service Management and Service Engineering" — Vorlesung
 
 ### Martin März — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
+- Veranstaltungen ohne Pflicht-Markierung: **7**
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Elektrische Energiespeichersysteme" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Exercises on Power Electronics for Decentral Energy Systems" — Übung
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Thermisches Management in der Leistungselektronik" — Übung
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Selected Topics in Vehicle Electrification" — Vorlesung
-
-### Martin März Raffael Schwanninger — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Power Electronics for Decentral Energy Systems" — Vorlesung
-
-### Martin März Stefanie Büttner — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Thermisches Management in der Leistungselektronik" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Thermisches Management in der Leistungselektronik" — Übung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Selected Topics in Vehicle Electrification" — Vorlesung
 
 ### Mathias Rohe — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -666,12 +621,8 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Matthias Wrede — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA L Social Policy in an Interdependent World (V2: BA SPIW)" — Vorlesung
-
-### Matthias Wrede Elisa Poletto — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA Üb Social Policy in an Interdependent World (Ü1: BA SPIW)" — Übung
 
 ### Max-Emanuel Geis — **(Prof.)**
@@ -739,30 +690,18 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "Schiller, Shakespeare, Hans Sachs u.v.m. Die Gesta Romanorum, eine mittelalterliche Fundgrube berühmter Erzählstoffe [Hauptseminar Mittellateinische Philologie]" — Hauptseminar
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "Antike Helden und moderne Krieger. Das lateinische Epos ab dem 13. Jahrhundert [Hauptseminar Lateinische Literatur und Sprache I]" — Hauptseminar
 
-### Moritz Zaiß Martin Freudensprung — **(Prof.)**
+### Moritz Zaiß — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Magnetic Resonance Imaging sequence programming [MRIpulseq]" — Seminar
 
 ### Nico Hanenkamp — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung - Übung" — Übung
-
-### Nico Hanenkamp Andreas Röckelein Lukas Hierl — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik (PT II & PT 3 MB)" — Vorlesung
-
-### Nico Hanenkamp Cosimo Di Cecca Pavan Kumar Savitha Manchegowda Niklas Bölling — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme" — Vorlesung
-
-### Nico Hanenkamp Trixi Meier — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **4**
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung - Übung" — Übung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik (PT II & PT 3 MB)" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme" — Vorlesung
 
 ### Nico Scarano — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -771,8 +710,9 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Nicolas Joly — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Physik (FAU Scientia)  -](../589-sommersemester-2026/physik-fau-scientia-13839673.md): "Modern Optics 2: Nonlinear Optics (exercise class)" — Übung
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Advanced Laser" — Vorlesung mit Übung
 
 ### Nicolas Rohleder — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -785,11 +725,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Grenzflächen in der Verfahrenstechnik" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Übung zu Grenzflächen in der Verfahrenstechnik" — Übung
 
-### Nicolas Vogel Daniel Platzer — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Grenzflächen in der Verfahrenstechnik" — Vorlesung
-
 ### Nicole Janine Saam — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -797,12 +732,8 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Nicole Kimmelmann — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Betriebliche Aus- und Weiterbildung - Übung" — Übung
-
-### Nicole Kimmelmann Alexandra Pfisterer — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Professional Orientation" — Seminar
 
 ### Norbert Jux — **(Prof.)**
@@ -852,12 +783,8 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Peter Weidinger — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Fundamentals of Failure Analysis / Grundlagen der Schadensanalyse an Bauteilen" — Vorlesung mit Übung
-
-### Peter Weidinger apl. — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Labwork: Failure Analysis / Praktikum Schadensanalyse" — Praktikum
 
 ### Philipp Pelz — **(Prof.)**
@@ -867,21 +794,17 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Rainer Böckmann — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
+  - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Python for Bioinformatics and Data Analysis" — Seminar und Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "ILS-MA-I2B: Interactions at Biological Macromolecules (Tutorial)" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "ILS-MA-I2B: Interactions at Biological Macromolecules (Lecture)" — Vorlesung
-
-### Rainer Böckmann Marius Trollmann — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Python for Bioinformatics and Data Analysis" — Seminar und Übung
 
 ### Ralf Meske — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Strukturoptimierung in der virtuellen Produktentwicklung" — Vorlesung
 
-### Reettakaisa Sofia Salo Jonathan Böhm — **(Prof.)**
+### Reettakaisa Sofia Salo — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Altes Testament im Überblick - Geschichte Israels" — Vorlesung mit Übung
@@ -1065,20 +988,12 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): "Masterseminar "Theory of Discrete Optimization"" — Masterseminar
 
-### Tobias Reichenbach Janna Steinebach Pablo Ochoa de Eribe Delgado Michael Thornton — **(Prof.)**
+### Tobias Reichenbach — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
-
-### Tobias Reichenbach Jasmin Riegel — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
-
-### Tobias Reichenbach Pablo Ochoa de Eribe Delgado — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Neurotechnology Project" — Praktikum
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
 
 ### Tobias Unruh — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -1087,13 +1002,9 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Tobias Wolbring — **(Prof.)**
   *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Soziologie II Vorlesung" — Vorlesung
-
-### Tobias Wolbring Klara Frankenberger — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Soziologie II - Seminar" — Seminar
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Soziologie II Vorlesung" — Vorlesung
 
 ### Ulrich Lohbauer — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -1145,11 +1056,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Deep Learning" — Vorlesung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Projekt Mustererkennung" — Praktikum/Projekt
 
-### Andreas Paul Fröba Patrick Schmidt — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Thermofluiddynamik der Biotechnologie" — Vorlesung mit Übung
-
 ### Bastian Etzold — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -1174,22 +1080,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Production Technology I" — Vorlesung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik (PT II & PT 3 MB)" — Vorlesung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Werkstoffkunde II" — Vorlesung
-
-### Dietmar Drummer Christoph Herzog — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Hauptseminar Kunststofftechnik" — Hauptseminar
-
-### Dietmar Fey — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Engineering 2" — Vorlesung
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Computer Architectures for Medical Applications" — Übung
-
-### Dietmar Fey Leonard Quednau — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Engineering 2 - Übung" — Übung
 
 ### Felix Freiling — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
@@ -1227,19 +1117,11 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Jörg Schulze — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik" — Vorlesung
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik" — Übung
-
-### Jörg Schulze Jannik Schwarberg — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Halbleitertechnik I - Bipolartechnik" — Übung
-
-### Jörg Schulze Julian Schwarz — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **4**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Ausgewählte Kapitel der Quantenelektronik" — Seminar
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Halbleitertechnik I - Bipolartechnik" — Übung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Quantenelektronik Z - Ausgewählte Kapitel der höheren Physik" — Übung
 
 ### Jürgen Herre — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
@@ -1266,20 +1148,12 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Marc Stamminger — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **3**
+- Veranstaltungen ohne Pflicht-Markierung: **5**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Interactive Computer Graphics" — Vorlesung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Neural Graphics and Inverse Rendering" — Vorlesung
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Neural Graphics and Inverse Rendering" — Übung
-
-### Marc Stamminger Laura Fink — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Interactive Computer Graphics" — Übung
-
-### Marc Stamminger Nikolai Hofmann — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Global Illumination" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Interactive Computer Graphics" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Neural Graphics and Inverse Rendering" — Übung
 
 ### Marion Merklein — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
@@ -1295,38 +1169,22 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Matthias Luther — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **4**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Betriebsverhalten elektrischer Energiesysteme" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Grundlagen der Elektrischen Energieversorgung" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übung zu Betriebsverhalten elektrischer Energiesysteme" — Übung
 
-### Matthias Luther Alina Feldmeier Seyedehniloofar Kamalhosseini — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Betriebsverhalten elektrischer Energiesysteme" — Vorlesung
-
-### Matthias Luther Florian Zier — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
-
-### Matthias Luther Timo Wagner Florian Zier — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Grundlagen der Elektrischen Energieversorgung" — Vorlesung
-
-### Michael Tielemann Marion Liegl — **(Prof.)**
+### Michael Tielemann — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Datenschutz und Compliance" — Vorlesung
 
 ### Michael Wensing — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik Übung" — Übung
-
-### Michael Wensing Bastian Rüppel Johanna Lützenkirchen — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik" — Vorlesung
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik Übung" — Übung
 
 ### Norman Franchi — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
@@ -1359,26 +1217,18 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Rüdiger Kapitza — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
-
-### Rüdiger Kapitza Ole Wiedemann — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
 
 ### Sandro Wartzack — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
+- Veranstaltungen ohne Pflicht-Markierung: **5**
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Doktorandenseminar" — Anleitung zu wiss. Arbeiten
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Einführung in das Patentrecht und verwandte Schutzrechte" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Technologie-Startup-Seminar" — Seminar
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Übungen zu Maschinenelemente II" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Technische Darstellungslehre II - Kurs Mi" — Praktikum
-
-### Sandro Wartzack Klara Feile Madeleine Helmer — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Technologie-Startup-Seminar" — Seminar
 
 ### Sebastian Aljoscha Wahl — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
@@ -1386,11 +1236,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Bioanalytik - Übung" — Übung
 
 ### Sebastian Müller — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Gießereitechnik" — Vorlesung mit Übung
-
-### Sebastian Müller Marco Pohl — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Gießereitechnik" — Vorlesung mit Übung
@@ -1439,17 +1284,30 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Linear and non-linear fibre optics: Exercise" — Übung
 
-### Alexander Spielberger Ouadie Touijer
+### Alexander Spielberger
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Medizinelektronik - Medical Electronics" — Vorlesung
 
-### Alina Feldmeier Seyedehniloofar Kamalhosseini
+### Alexandra Pfisterer
 - Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Professional Orientation" — Seminar
+
+### Alina Feldmeier
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Betriebsverhalten elektrischer Energiesysteme" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übung zu Betriebsverhalten elektrischer Energiesysteme" — Übung
 
 ### am 11.06.2026 findet der Kurs online statt - bitte Hinweise auf StudOn beachten.
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Übung zur Makroökonomie" — Übung
+
+### Anamaria Dumitrescu
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Seminar Road Scene Understanding for the Visually Impaired" — Seminar
+
+### Anastasia Nechaeva
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Russisch online A1" — Übung
 
 ### Andreas Beulmann
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -1459,13 +1317,18 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Project on Applied AI in Factory Automation and Production Systems" — Projektseminar
 
-### Andreas Röckelein Lukas Hierl
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+### Andreas Röckelein
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik (PT II & PT 3 MB)" — Vorlesung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik - Tutorium (P) (PT II & PT 3 MB)" — Tutorium
 
 ### André Rieder
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Übung Arbeitsmarktökonomik" — Übung
+
+### Anett Eskofier
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übung zur Sozialpsychologie" — Übung
 
 ### Angelika Thalmayer
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -1475,7 +1338,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Psychologie und Gerontologie (FAU Scientia)  -](../589-sommersemester-2026/psychologie-und-gerontologie-fau-scientia-13839268.md): "1202 Kognition und Emotion im Alternsprozess" — Seminar
 
-### Arne Vogel Maxim Ritter von Onciul Eva Dengler
+### Arne Vogel
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
@@ -1492,13 +1355,10 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Kinder- und Jugendliteratur im Medienverbund (VHB)" — Online-Kurs
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (LA GS/MS): Ethische Bildung im Deutschunterricht" — Seminar
 
-### Bastian Rüppel Johanna Lützenkirchen
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+### Bastian Rüppel
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik Übung" — Übung
-
-### Batuhan Sesli Avinash Mahesh Nirmala
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
 
 ### Bernd Buß
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -1508,7 +1368,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Crosslinked Polymers" — Vorlesung
 
-### Christian Heidorn Jakob Wittmann Stefan Meißner
+### Christian Heidorn
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Praktische Übungen zu Grundlagen der Technischen Informatik" — Übung
 
@@ -1516,17 +1376,31 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Stimmbildung und Sprecherziehung (Lehner-Belkaied)" — Übung
 
+### Christoph Herzog
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Hauptseminar Kunststofftechnik" — Hauptseminar
+
 ### Cornelia Götz
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Stimmbildung und Sprecherziehung (Götz)" — Übung
 
-### Cosimo Di Cecca Pavan Kumar Savitha Manchegowda Niklas Bölling
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+### Cosimo Di Cecca
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme" — Vorlesung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme - Übung" — Übung
 
-### Daniel Platzer
+### Daniel Mosig
 - Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Seminar Road Scene Understanding for the Visually Impaired" — Seminar
+
+### Daniel Platzer
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Grenzflächen in der Verfahrenstechnik" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Übung zu Grenzflächen in der Verfahrenstechnik" — Übung
+
+### David Filgertshofer
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übung zur Sozialpsychologie" — Übung
 
 ### David Matheisl
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -1537,8 +1411,13 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Grundlagen der Elektrotechnik II Übung" — Übung
 
 ### David Riebesel
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Markt und Netze - Systemlösungen für die Energiewende" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Markt und Netze - Systemlösungen für die Energiewende" — Übung
+
+### Dehong Meng
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "BA-4 Modernes Chinesisch 4" — Kurs
 
 ### Dennis Schmechel
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -1564,7 +1443,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übungen zu KDD" — Übung
 
-### Dominik Walter Jakob Wittmann
+### Dominik Walter
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Praktische Übungen zu Grundlagen der Technischen Informatik" — Übung
 
@@ -1610,14 +1489,16 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Psychologie und Gerontologie (FAU Scientia)  -](../589-sommersemester-2026/psychologie-und-gerontologie-fau-scientia-13839268.md): "1301 Themen der Psychogerontologie" — Seminar
 
-### Anne-Christine Plank Mona Dietrich
+### Anne-Christine Plank
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Veranstaltungen aus zentralen wissenschaftlichen Einrichtungen / interdisziplinäre Veranstaltungen](../589-sommersemester-2026/veranstaltungen-aus-zentralen-wissenschaftlichen-einrichtungen-interdisziplinaer-17986.md): "Forschungsdatenmanagement, Einführung und Vertiefung" — Seminar
 
 ### Antje Lenora
   *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **10**
+- Veranstaltungen ohne Pflicht-Markierung: **12**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Chinesisch I  für Studierende aller Fachrichtungen" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Finnisch: Elementarkurs II ONLINE" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Niederländisch: Elementarkurs I" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Norwegisch: EK I" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Persisch II" — Übung
@@ -1628,16 +1509,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Türkisch: Elementarkurs I" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Türkisch: Elementarkurs III" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Türkisch: Elementarkus II" — Übung
-
-### Antje Lenora Hyunsun Yoon
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Chinesisch I  für Studierende aller Fachrichtungen" — Übung
-
-### Antje Lenora Kristin Krapf
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Finnisch: Elementarkurs II ONLINE" — Übung
 
 ### Arabella Cortese
   *Titel:* `Dr.`
@@ -1686,23 +1557,11 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Corina Petersilka
   *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Parcours grammatical et lexical II / Grammatik und Wortschatz II" — Übung
-
-### Corina Petersilka José Juan Ventura Usó
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Español intermedio II" — Übung
-
-### Corina Petersilka Julien Nairaince
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **4**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Communication orale et civilisation" — Übung
-
-### Corina Petersilka Silvia Saenz Caballe José Juan Ventura Usó
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Español intermedio I" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Español intermedio II" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Parcours grammatical et lexical II / Grammatik und Wortschatz II" — Übung
 
 ### Cornelia Damm
   *Titel:* `Dr.`
@@ -1729,13 +1588,9 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Hans-Christoph Maurer
   *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Markt und Netze - Systemlösungen für die Energiewende" — Übung
-
-### Hans-Christoph Maurer David Riebesel
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Markt und Netze - Systemlösungen für die Energiewende" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Markt und Netze - Systemlösungen für die Energiewende" — Übung
 
 ### Helene Brätz
   *Titel:* `Dr.`
@@ -1757,7 +1612,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "BL8: Humanbiologische und Physiologische Übungen mit Vorlesung" — Seminar und Übung
 
-### Jasmin Kriesten apl.
+### Jasmin Kriesten
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Biblische Themen im Religionsunterricht" — Seminar
@@ -1782,7 +1637,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Ü: Quellenübung zur Theologie- und Kirchengeschichte I" — Übung
 
-### Johannes Ulbricht Romina Popova Zita Pfister
+### Johannes Ulbricht
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Europäische Privatrechtsgeschichte der Neuzeit" — Vorlesung
@@ -1797,13 +1652,9 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Julia Lazarus
   *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Russisch A1: Elementarkurs I" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Russisch A2: Elementarkurs II" — Übung
-
-### Julia Lazarus Anastasia Nechaeva
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Russisch online A1" — Übung
 
 ### Jörn Thielmann
@@ -1892,7 +1743,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): "Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie" — Proseminar / Mittelseminar
 
-### Michael Ziegler Anett Eskofier David Filgertshofer
+### Michael Ziegler
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übung zur Sozialpsychologie" — Übung
@@ -1908,16 +1759,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Advanced Seminar" — Seminar
 
 ### Moniek de Jong
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
-
-### Moniek de Jong Franziska Bold
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
-
-### Moniek de Jong Franziska Bold Júlia de Sousa e Berruezo
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
@@ -2000,11 +1841,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Geologie und Geografie (FAU Scientia)  -](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md): "Paläobiologie I - Allgemeine Paläontologie" — Vorlesung
   - in [- Geologie und Geografie (FAU Scientia)  -](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md): "Paläobiologische Geländeübungen" — Seminar
 
-### Simon Wiesgickl
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Vorlesung Islam" — Vorlesung
-
 ### Skott Grunau
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2015,7 +1851,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): "Moralismus" — Proseminar / Mittelseminar
 
-### Stefan Brück apl.
+### Stefan Brück
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Next Generation Mobile Communication Systems: 5G-Advanced and 6G" — Vorlesung
@@ -2068,7 +1904,7 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Medien-, Theater- und Kulturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/medien-theater-und-kulturwissenschaft-fau-scientia-13838285.md): "BA SQ: Desktop Publishing (B)" — Übung
 
-### Willi Tang Martin Käppel
+### Willi Tang
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "V: Business Analytics: Technologien, Methoden und Konzepte" — Vorlesung mit Übung
@@ -2086,23 +1922,11 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Benedict Rothammer
   *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **4**
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Doktorandenseminar" — Anleitung zu wiss. Arbeiten
-
-### Benedict Rothammer Jan Kopatsch
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Einführung in das Patentrecht und verwandte Schutzrechte" — Vorlesung
-
-### Benedict Rothammer Klara Feile
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Übungen zu Maschinenelemente II" — Übung
-
-### Benedict Rothammer Markus Polzer
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Tribologie und Oberflächentechnik" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Übungen zu Maschinenelemente II" — Übung
 
 ### Benjamin Apeleo Zubiri
   *Titel:* `Dr.-Ing.`
@@ -2159,19 +1983,15 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Pulsumrichter für elektrische Antriebe" — Übung
 
-### Joachim Kaschta Michael Redel
+### Joachim Kaschta
   *Titel:* `Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Werkstoffkunde für Studierende des CBI und CEN" — Vorlesung mit Übung
 
 ### Jürgen Kleinöder
   *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
-
-### Jürgen Kleinöder Ole Wiedemann
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
 
 ### Manuel Münsch
@@ -2199,20 +2019,16 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Michael Höhlinger
   *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Information event (Vorbesprechung) for the master courses offered by the Institute for Surface Science and Corrosion (WW4/LKO) in the summer semester 2023" — Sonstige Lehrveranstaltung
-
-### Michael Höhlinger Michael Strebl
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Surface Modification techniques" — Vorlesung
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Information event (Vorbesprechung) for the master courses offered by the Institute for Surface Science and Corrosion (WW4/LKO) in the summer semester 2023" — Sonstige Lehrveranstaltung
 
 ### Michael Rausch
   *Titel:* `Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Efficient Heat Transfer" — Vorlesung mit Übung
 
-### Norbert Oster Jonas Butz
+### Norbert Oster
   *Titel:* `Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Testen von Softwaresystemen" — Vorlesung
@@ -2238,13 +2054,9 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Sebastian Kuckuk
   *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "High End Simulation in Practice" — Vorlesung
-
-### Sebastian Kuckuk Kajol Kulkarni
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to High End Simulation in Practice" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "High End Simulation in Practice" — Vorlesung
 
 ### Sebastian Rieß
   *Titel:* `Dr.-Ing.`
@@ -2264,12 +2076,8 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Stefan Wildermann
   *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Praktikum: Lego Mindstorms" — Praktikum
-
-### Stefan Wildermann Paul Krüger
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Security in Embedded Hardware" — Übung
 
 ### Thomas Przybilla
@@ -2297,16 +2105,20 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Stimmbildung und Sprecherziehung (Belakova)" — Übung
 
+### Elena Yurkevich
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar zur Gesundheitsökonomik / Seminar in Health Economics" — Seminar
+
 ### Elham Daniela Mazloum
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion" — Seminar
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "MA 5. und 6. FS: Orientierungsmodul" — Kurs
 
-### Erik Gösche
+### Elisa Poletto
 - Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Medizintechnik II Tafelübung" — Übung
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA Üb Social Policy in an Interdependent World (Ü1: BA SPIW)" — Übung
 
-### Erik Gösche Nils Dienesch
+### Erik Gösche
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Machine Learning in MRI" — Hauptseminar
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Medizintechnik II Tafelübung" — Übung
@@ -2314,6 +2126,11 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 ### Esther Renner
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Optische Übertragungstechnik Übung" — Übung
+
+### Eva Dengler
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
 
 ### Eva Henke
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2323,20 +2140,38 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Elemente der Schulgeometrie - Grundschule (ElGeo-GS)" — Seminar
 
+### Farhad Ebrahimiazandaryani
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computer Architectures for Medical Applications" — Vorlesung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Computer Architectures for Medical Applications" — Übung
+
 ### findet online statt
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Unternehmen, Märkte, Volkswirtschaften-Tutorium" — Tutorium
 
+### Florian Köhler
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "PuGDid 5: Examenskolloquium" — Seminar
+
+### Florian Zier
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Grundlagen der Elektrischen Energieversorgung" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
+
 ### Franziska Bobe
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Stimmbildung und Sprecherziehung (Bobe)" — Übung
+
+### Franziska Bold
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
 
 ### Gohar Grigoryan
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Data Science: Datenauswertung, Übung" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Data Science: Statistik, Übung" — Übung
 
-### Hakan Calim Anamaria Dumitrescu Daniel Mosig
+### Hakan Calim
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Seminar Road Scene Understanding for the Visually Impaired" — Seminar
 
@@ -2354,6 +2189,10 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "CBPT Projektkurs - CBIzz" — Projektseminar
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Praktikum Computeranwendungen in der Verfahrenstechnik 1" — Praktikum
 
+### Hyunsun Yoon
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Chinesisch I  für Studierende aller Fachrichtungen" — Übung
+
 ### Ilias Masmoudi
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Maschinelles Lernen und Datenanalyse (FAU Scientia)  -](../589-sommersemester-2026/maschinelles-lernen-und-datenanalyse-fau-scientia-13840020.md): "Bewegungsanalyse und biomechanische Grenzgebiete" — Vorlesung
@@ -2362,19 +2201,24 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA Üb Social Policy in an Interdependent World (Ü1: BA SPIW)" — Übung
 
-### Jan Dolezel
+### Jakob Wittmann
 - Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Akademischer Chor" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Praktische Übungen zu Grundlagen der Technischen Informatik" — Übung
 
-### Jan Dolezel Tobias Hartlieb
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+### Jan Dolezel
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Einzelunterricht Orgel, Klavier" — Übung
+  - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Akademischer Chor" — Übung
 
 ### Jan Frederik Schaefer
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "AI-2 Systems Project" — Projekt
 
-### Jan Rauch Florian Köhler
+### Jan Kopatsch
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Einführung in das Patentrecht und verwandte Schutzrechte" — Vorlesung
+
+### Jan Rauch
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "PuGDid 5: Examenskolloquium" — Seminar
 
@@ -2382,7 +2226,16 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Übung Labor and Personnel Economics" — Übung
 
-### Janna Steinebach Swantje Hansen
+### Janna Steinebach
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
+
+### Jannik Schwarberg
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Halbleitertechnik I - Bipolartechnik" — Übung
+
+### Jasmin Riegel
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
 
@@ -2399,32 +2252,87 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "SystemC" — Praktikum
 
+### Johanna Lützenkirchen
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik" — Vorlesung
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Technische Thermodynamik Übung" — Übung
+
+### John Alejandro Hernandez Mora
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Einführung in das Nachhaltigkeitsmanagement" — Vorlesung
+
+### Jonas Butz
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Testen von Softwaresystemen" — Vorlesung
+
+### Jonas Bönsch
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Schaltungen und Systeme der Übertragungstechnik" — Übung
+
 ### Jonas Urbanik
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar Reflections in International Economics" — Seminar
 
 ### Jonathan Böhm
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Quellen zur Geschichte und Religionsgeschichte Israels" — Übung
+  - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Altes Testament im Überblick - Geschichte Israels" — Vorlesung mit Übung
+
+### Jose Juan Hernandez Morales
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to Approximate Computing" — Übung
+
+### José Juan Ventura Usó
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Español intermedio I" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Español intermedio II" — Übung
 
 ### Julian Geus
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Software Exploitation Übung" — Übung
 
-### Kai Scheller
+### Julian Schwarz
 - Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Ausgewählte Kapitel der Quantenelektronik" — Seminar
+
+### Julien Nairaince
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Communication orale et civilisation" — Übung
+
+### Júlia de Sousa e Berruezo
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
+
+### Kai Scheller
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Praktikum Analog-Digital-Umsetzer" — Praktikum
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übungen zu Schaltungstechnik" — Übung
+
+### Kajol Kulkarni
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to High End Simulation in Practice" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "High End Simulation in Practice" — Vorlesung
 
 ### Katharina Gunkler-Frank
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Ling BM-2: Einführung in die historische Sprachwissenschaft (Erlangen, nur für BA, LA Gym, LA RS)" — Kurs
+
+### Klara Feile
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Technologie-Startup-Seminar" — Seminar
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Übungen zu Maschinenelemente II" — Übung
+
+### Klara Frankenberger
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Soziologie II - Seminar" — Seminar
 
 ### Konstantin Weber
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): "Wesen und Wert der Privatsphäre und die Ethik der Überwachung" — Proseminar / Mittelseminar
 
 ### Kristin Krapf
-- Veranstaltungen ohne Pflicht-Markierung: **2**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Finnisch: Elementarkurs II ONLINE" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Niederländisch: Elementarkurs I" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Norwegisch: EK I" — Übung
 
@@ -2437,9 +2345,17 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Stimmbildung und Sprecherziehung (Baxter)" — Übung
 
+### Laura Fink
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Interactive Computer Graphics" — Übung
+
 ### Lecture
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA L Social Policy in an Interdependent World (V2: BA SPIW)" — Vorlesung
+
+### Leonard Quednau
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Engineering 2 - Übung" — Übung
 
 ### Lorenz Nöth
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2449,25 +2365,42 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): "Aufbauseminar Literature" — Aufbauseminar
 
+### Luisa Neubig
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Fantastic datasets and where to find them" — Hauptseminar
+
+### Lukas Hierl
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik (PT II & PT 3 MB)" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionstechnik - Tutorium (P) (PT II & PT 3 MB)" — Tutorium
+
 ### Lukas Sulzer
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Dogmatik" — Vorlesung mit Übung
 
-### Madlen Hoffmann Stefanie Büttner
+### Madeleine Helmer
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Technologie-Startup-Seminar" — Seminar
+
+### Madlen Hoffmann
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
 
-### Madlen Hoffmann Stefanie Büttner Raffael Schwanninger Nikolai Weitz
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
-
-### Manuel Koch Kai Scheller
+### Manuel Koch
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übungen zu Schaltungstechnik" — Übung
 
 ### Marcel Nicolas Dreier
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Project Remote Sensing" — Praktikum/Projekt
+
+### Marco Pohl
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Gießereitechnik" — Vorlesung mit Übung
+
+### Maren Stoppel
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende)" — Seminar
 
 ### Marina Goldenstein
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2477,6 +2410,22 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Mädchen und Technik" — Sonstige Lehrveranstaltung
 
+### Marion Liegl
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Datenschutz und Compliance" — Vorlesung
+
+### Marius Oßwald
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Interfacing the Neuromuscular System: Laboratory" — Praktikum
+
+### Marius Trollmann
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Python for Bioinformatics and Data Analysis" — Seminar und Übung
+
+### Markus Polzer
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Tribologie und Oberflächentechnik" — Vorlesung
+
 ### Markus Simon
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Stimmbildung und Sprecherziehung (Simon)" — Übung
@@ -2485,6 +2434,14 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): "Lektüreseminar Literature (Nürnberg)" — Seminar
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Grundseminar Literature (Nürnberg)" — Grundseminar
+
+### Martin Freudensprung
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Magnetic Resonance Imaging sequence programming [MRIpulseq]" — Seminar
+
+### Martin Käppel
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "V: Business Analytics: Technologien, Methoden und Konzepte" — Vorlesung mit Übung
 
 ### Martin Melchner
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -2499,27 +2456,38 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "UE Examensvorbereitung Ethik" — Übung
 
+### Maxim Ritter von Onciul
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
+
 ### Maximilian Bork
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Tutorium zu Product Engineering" — Tutorium
 
 ### Maximilian Lübke
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Schaltungen und Systeme der Übertragungstechnik" — Vorlesung
-
-### Maximilian Lübke Jonas Bönsch
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Schaltungen und Systeme der Übertragungstechnik" — Übung
 
-### Maximilian Ott Thomas Preisner
+### Maximilian Ott
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Betriebssystemtechnik - Rechnerübungen" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Betriebssystemtechnik - Übungen" — Übung
 
 ### Michael Redel
-- Veranstaltungen ohne Pflicht-Markierung: **2**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Applied Rheology" — Vorlesung
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Exercises Polymers - 2" — Übung
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Werkstoffkunde für Studierende des CBI und CEN" — Vorlesung mit Übung
+
+### Michael Strebl
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Surface Modification techniques" — Vorlesung
+
+### Michael Thornton
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
 
 ### Michail Liatos
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2528,6 +2496,10 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 ### Miriam Schlosser
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Schwedisch: EK IV" — Übung
+
+### Mona Dietrich
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [Veranstaltungen aus zentralen wissenschaftlichen Einrichtungen / interdisziplinäre Veranstaltungen](../589-sommersemester-2026/veranstaltungen-aus-zentralen-wissenschaftlichen-einrichtungen-interdisziplinaer-17986.md): "Forschungsdatenmanagement, Einführung und Vertiefung" — Seminar
 
 ### Mona Kammer
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2539,25 +2511,67 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Didaktik im Bereich Raum und Form (Didaktik der Geometrie, Raum  und Form)" — Seminar
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Funktionaler Zusammenhang - Daten und Zufall" — Seminar
 
+### Niklas Bölling
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme - Übung" — Übung
+
+### Nikolai Hofmann
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Global Illumination" — Übung
+
+### Nikolai Weitz
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
+
+### Nils Dienesch
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Machine Learning in MRI" — Hauptseminar
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Medizintechnik II Tafelübung" — Übung
+
 ### nur für Studierende der Wirtschaftsinformatik (B. Sc.)
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Data Science: Datenmanagement und -analyse" — Vorlesung
 
+### Ole Wiedemann
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
+
 ### Ouadie Touijer
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Medizinelektronik - Medical Electronics" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Praktikum zu High-Performance Analog- und Umsetzer-Design" — Praktikum
+
+### Pablo Ochoa de Eribe Delgado
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
+  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Neurotechnology Project" — Praktikum
 
 ### Paolo Bontempo
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar Reflections in International Economics" — Seminar
 
+### Patrick Schmidt
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Thermofluiddynamik der Biotechnologie" — Vorlesung mit Übung
+
 ### Patrick-Peter Herold
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Unternehmer und Unternehmen - Übung" — Übung
 
+### Paul Krüger
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Security in Embedded Hardware" — Übung
+
 ### Paula Andrea Pérez Toro
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Seminar Automatic Analysis of Voice, Speech and Language Disorders in Speech Pathologies" — Hauptseminar
+
+### Pavan Kumar Savitha Manchegowda
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme" — Vorlesung
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Ressourceneffiziente Produktionssysteme - Übung" — Übung
 
 ### Alexandra Titz
   *Titel:* `PD Dr.`
@@ -2566,13 +2580,9 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 
 ### Anette Regelous
   *Titel:* `PD Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [- Geologie und Geografie (FAU Scientia)  -](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md): "Minerale und Gesteine für Studierende der Geographie (und Mod. Nat.)" — Seminar
   - in [- Geologie und Geografie (FAU Scientia)  -](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md): "Regionale Geologie - Seminar" — Seminar
-
-### Anette Regelous Maren Stoppel
-  *Titel:* `PD Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende)" — Seminar
 
 ### Anja Steinlen
@@ -2666,11 +2676,6 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md): "Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik" — Proseminar / Mittelseminar
 
-### Frank Hannig Pierre-Louis Sixdenier
-  *Titel:* `PD Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
-
 ### Jörg Miehling
   *Titel:* `PD Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2694,18 +2699,23 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Seminar Presentation of Master's Theses" — Seminar
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "MSE I labwork Briefing for Masters & Safetyinstruction/Vorbesprechung Praktika in Mastermodulen WW 1 inkl. Sicherheitsbelehrung" — Sonstige Lehrveranstaltung
 
-### Thomas Wittenberg apl.
+### Thomas Wittenberg
   *Titel:* `PD Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Visual Computing in Medicine 2" — Vorlesung
+
+### Pepe Bellin
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "V: Service Management and Service Engineering" — Vorlesung
 
 ### Philipp Heinrich
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): "Übung Grundlagen der Computerlinguistik 2" — Übung
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): "Vorlesung Grundlagen der Computerlinguistik 2" — Vorlesung
 
-### Pierre-Louis Sixdenier Jose Juan Hernandez Morales
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+### Pierre-Louis Sixdenier
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to Approximate Computing" — Übung
 
 ### Preliminary meeting, via Zoom. Register on StudOn for further details.
@@ -2713,8 +2723,14 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Generalized Continuum Models of  Materials Mechanics" — Vorlesung
 
 ### Raffael Schwanninger
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Exercises on Power Electronics for Decentral Energy Systems" — Übung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Power Electronics for Decentral Energy Systems" — Vorlesung
+
+### Romina Popova
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Europäische Privatrechtsgeschichte der Neuzeit" — Vorlesung
 
 ### room: 01.160, IZNF, Cauerstraße 3
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2732,6 +2748,19 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Betriebswirtschaftslehre II" — Vorlesung
 
+### Sebastian Rachuj
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computer Architectures for Medical Applications" — Vorlesung
+
+### Seyedehniloofar Kamalhosseini
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Betriebsverhalten elektrischer Energiesysteme" — Vorlesung
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übung zu Betriebsverhalten elektrischer Energiesysteme" — Übung
+
+### Silvia Saenz Caballe
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Español intermedio I" — Übung
+
 ### Simon Scharf
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Big Band" — Übung
@@ -2746,20 +2775,25 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Simulation und Regelung von Schaltnetzteilen" — Übung
 
 ### Souryadeep Saha
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics" — Vorlesung mit Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics CE" — Vorlesung mit Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises in Computational Optics CE & MAOT" — Übung
 
+### Stefan Meißner
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Praktische Übungen zu Grundlagen der Technischen Informatik" — Übung
+
 ### Stefan Rieger
-- Veranstaltungen ohne Pflicht-Markierung: **2**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): "Stimmbildung und Sprecherziehung" — Kurs
   - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): ""Lampenfieber ade!": Überzeugend und sicher vor anderen auftreten" — Kurs
-
-### Stefan Rieger Thomas Bauernschmitt
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): ""funklust" - Medienkompetenzen erwerben, Medienpraxis erlernen, Campusmedien gestalten" — Übung
 
 ### Stefanie Büttner
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Thermisches Management in der Leistungselektronik" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Thermisches Management in der Leistungselektronik" — Übung
 
 ### Sugam Aryal
@@ -2769,6 +2803,10 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 ### Susanne Frederking
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (LA GS/MS): Ethische Bildung im Deutschunterricht" — Seminar
+
+### Swantje Hansen
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
 
 ### Termin fällt aus.
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2782,24 +2820,37 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Stimmbildung und Sprecherziehung (Steinbach)" — Übung
 
-### Thomas Preisner Tobias Häberlein
+### Thomas Bauernschmitt
 - Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): ""funklust" - Medienkompetenzen erwerben, Medienpraxis erlernen, Campusmedien gestalten" — Übung
+
+### Thomas Preisner
+- Veranstaltungen ohne Pflicht-Markierung: **3**
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Betriebssystemtechnik - Rechnerübungen" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Betriebssystemtechnik - Übungen" — Übung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
 
 ### Timo Wagner
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Grundlagen der Elektrischen Energieversorgung" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
 
-### Tobias Häberlein
+### Tobias Hartlieb
 - Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [Musizieren an der Universität](../589-sommersemester-2026/musizieren-an-der-universitaet-17991.md): "Einzelunterricht Orgel, Klavier" — Übung
+
+### Tobias Häberlein
+- Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Systemprogrammierung - Rechnerübungen" — Übung
 
 ### Tobias Rumpel
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Präsentation technischer Sachverhalte" — Seminar
 
 ### Trixi Meier
-- Veranstaltungen ohne Pflicht-Markierung: **1**
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung" — Vorlesung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung - Übung" — Übung
 
 ### Tutorium Produktionstechnik 3 für Maschinenbau (Einheiten REP 1-4 und FAPS 1-4 zusammen mit PT II im H8)
@@ -2836,17 +2887,18 @@ Liste der Personen, die in der angegebenen Periode mindestens **eine** Veranstal
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Public Economics (E)" — Übung
 
 ### Yang Cui
-- Veranstaltungen ohne Pflicht-Markierung: **2**
+- Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "BA-2 Modernes Chinesisch 2" — Seminar
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "BA-4 Modernes Chinesisch: Hören und Sprechen (Übung)" — Übung
-
-### Yang Cui Dehong Meng
-- Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "BA-4 Modernes Chinesisch 4" — Kurs
 
 ### Yassine Iabdounane
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Grundseminar English Linguistics I (Erlangen)" — Grundseminar
+
+### Zita Pfister
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Europäische Privatrechtsgeschichte der Neuzeit" — Vorlesung
 
 ### Zuheir Elia
 - Veranstaltungen ohne Pflicht-Markierung: **1**

@@ -43,7 +43,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr.-Ing. Maximilian Hofmann Prof. Dr. Martin März
+- **Verantwortlich:** Dr.-Ing. Maximilian Hofmann, Prof. Dr. Martin März
 
 #### Termine
 
@@ -62,7 +62,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Stefan Brück apl. Prof. Dr. Wolfgang Gerstacker
+- **Verantwortlich:** Dr. Stefan Brück, apl. Prof. Dr. Wolfgang Gerstacker
 
 #### Termine
 
@@ -113,7 +113,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Matthias Luther Alina Feldmeier Seyedehniloofar Kamalhosseini
+- **Verantwortlich:** Prof. Dr.-Ing. Matthias Luther, Alina Feldmeier, Seyedehniloofar Kamalhosseini
 
 #### Termine
 
@@ -186,7 +186,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Jürgen Herre Prof. Dr.-Ing. Bernd Edler Prof. Dr. Emanuël Habets Prof. Dr. Meinard Müller
+- **Verantwortlich:** Prof. Dr.-Ing. Jürgen Herre, Prof. Dr.-Ing. Bernd Edler, Prof. Dr. Emanuël Habets, Prof. Dr. Meinard Müller
 
 ### FOR-ALABS - Forschungspraktikum an den AudioLabs - Sonstige Lehrveranstaltung
 
@@ -199,7 +199,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Jürgen Herre Prof. Dr. Meinard Müller Prof. Dr.-Ing. Bernd Edler Prof. Dr. Emanuël Habets
+- **Verantwortlich:** Prof. Dr.-Ing. Jürgen Herre, Prof. Dr. Meinard Müller, Prof. Dr.-Ing. Bernd Edler, Prof. Dr. Emanuël Habets
 
 ### FOR-LIKE - Forschungspraktikum am LIKE - Sonstige Lehrveranstaltung
 
@@ -212,7 +212,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Albert Heuberger Prof. Dr.-Ing. Jörg Robert
+- **Verantwortlich:** Prof. Dr.-Ing. Albert Heuberger, Prof. Dr.-Ing. Jörg Robert
 
 ### FoSem KogRad - Forschungsseminar Kognitive Radarsysteme - Seminar
 
@@ -261,7 +261,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Matthias Luther Timo Wagner Florian Zier
+- **Verantwortlich:** Prof. Dr.-Ing. Matthias Luther, Timo Wagner, Florian Zier
 
 #### Termine
 
@@ -317,7 +317,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Jörg Schulze Jannik Schwarberg
+- **Verantwortlich:** Prof. Dr.-Ing. Jörg Schulze, Jannik Schwarberg
 
 #### Termine
 
@@ -374,7 +374,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Norman Franchi Prof. Dr.-Ing. Robert Schober Prof. Dr.-Ing. Georg Fischer Prof. Dr.-Ing. Martin Vossiek
+- **Verantwortlich:** Prof. Dr.-Ing. Norman Franchi, Prof. Dr.-Ing. Robert Schober, Prof. Dr.-Ing. Georg Fischer, Prof. Dr.-Ing. Martin Vossiek
 
 #### Termine
 
@@ -395,7 +395,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Martin März Raffael Schwanninger
+- **Verantwortlich:** Prof. Dr. Martin März, Raffael Schwanninger
 
 #### Termine
 
@@ -413,7 +413,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Raffael Schwanninger Prof. Dr. Martin März
+- **Verantwortlich:** Raffael Schwanninger, Prof. Dr. Martin März
 
 #### Termine
 
@@ -432,7 +432,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr.-Ing. Bernd Eckardt Prof. Dr. Martin März
+- **Verantwortlich:** Dr.-Ing. Bernd Eckardt, Prof. Dr. Martin März
 
 #### Termine
 
@@ -451,13 +451,13 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Madlen Hoffmann Stefanie Büttner Prof. Dr. Martin März Raffael Schwanninger
+- **Verantwortlich:** Madlen Hoffmann, Stefanie Büttner, Prof. Dr. Martin März, Raffael Schwanninger
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–14:00 | 03.06.2026–08.07.2026 | — | Madlen Hoffmann Stefanie Büttner Raffael Schwanninger Nikolai Weitz |
+| wöchentlich | Mi | 08:00–14:00 | 03.06.2026–08.07.2026 | — | Madlen Hoffmann, Stefanie Büttner, Raffael Schwanninger, Nikolai Weitz |
 
 ### LEE-TM-V - Thermisches Management in der Leistungselektronik - Vorlesung
 
@@ -470,7 +470,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Martin März Stefanie Büttner
+- **Verantwortlich:** Prof. Dr. Martin März, Stefanie Büttner
 
 #### Termine
 
@@ -488,7 +488,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Stefanie Büttner Prof. Dr. Martin März
+- **Verantwortlich:** Stefanie Büttner, Prof. Dr. Martin März
 
 #### Termine
 
@@ -754,7 +754,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Jörg Schulze Julian Schwarz
+- **Verantwortlich:** Prof. Dr.-Ing. Jörg Schulze, Julian Schwarz
 
 #### Termine
 
@@ -849,7 +849,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Hans-Christoph Maurer David Riebesel
+- **Verantwortlich:** Dr. Hans-Christoph Maurer, David Riebesel
 
 #### Termine
 
@@ -959,7 +959,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Maximilian Lübke Jonas Bönsch
+- **Verantwortlich:** Maximilian Lübke, Jonas Bönsch
 
 #### Termine
 
@@ -996,7 +996,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Alexander Spielberger Ouadie Touijer
+- **Verantwortlich:** Alexander Spielberger, Ouadie Touijer
 
 #### Termine
 
@@ -1034,7 +1034,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Maximilian Lübke Prof. Dr.-Ing. Norman Franchi
+- **Verantwortlich:** Maximilian Lübke, Prof. Dr.-Ing. Norman Franchi
 
 #### Termine
 
@@ -1064,7 +1064,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Alina Feldmeier Seyedehniloofar Kamalhosseini Prof. Dr.-Ing. Matthias Luther
+- **Verantwortlich:** Alina Feldmeier, Seyedehniloofar Kamalhosseini, Prof. Dr.-Ing. Matthias Luther
 
 #### Termine
 
@@ -1082,7 +1082,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Timo Wagner Prof. Dr.-Ing. Matthias Luther Florian Zier
+- **Verantwortlich:** Timo Wagner, Prof. Dr.-Ing. Matthias Luther, Florian Zier
 
 #### Termine
 
@@ -1101,4 +1101,4 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** David Riebesel Dr. Hans-Christoph Maurer
+- **Verantwortlich:** David Riebesel, Dr. Hans-Christoph Maurer

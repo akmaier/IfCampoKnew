@@ -123,7 +123,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Dr. Kerstin Jaunich Dr. Anja Beyer
+- **Verantwortlich:** Dr. Kerstin Jaunich, Dr. Anja Beyer
 
 #### Termine
 

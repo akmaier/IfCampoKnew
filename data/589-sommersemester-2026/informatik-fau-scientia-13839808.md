@@ -455,7 +455,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://cs.fau.de)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Robert Kneschke - stock.adobe.co](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Informatik-MSc-AdobeStock-scaled-1.jpeg)
+- [Robert Kneschke - stock.adobe.co](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Informatik-MSc-AdobeStock-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
@@ -544,7 +544,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Jan Frederik Schaefer Prof. Dr. Michael Kohlhase
+- **Verantwortlich:** Jan Frederik Schaefer, Prof. Dr. Michael Kohlhase
 
 #### Termine
 
@@ -584,7 +584,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Pierre-Louis Sixdenier Jose Juan Hernandez Morales
+- **Verantwortlich:** Pierre-Louis Sixdenier, Jose Juan Hernandez Morales
 
 #### Termine
 
@@ -602,7 +602,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Loui Al Sardy Thomas Reiß
+- **Verantwortlich:** Loui Al Sardy, Thomas Reiß
 
 #### Termine
 
@@ -620,7 +620,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Maximilian Ott Thomas Preisner
+- **Verantwortlich:** Maximilian Ott, Thomas Preisner
 
 #### Termine
 
@@ -640,13 +640,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Maximilian Ott Thomas Preisner
+- **Verantwortlich:** Maximilian Ott, Thomas Preisner
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | — | Maximilian Ott Thomas Preisner |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | — | Maximilian Ott, Thomas Preisner |
 
 ### CAMA - Computer Architectures for Medical Applications - Vorlesung
 
@@ -659,7 +659,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Gerhard Wellein Sebastian Rachuj Farhad Ebrahimiazandaryani
+- **Verantwortlich:** Prof. Dr. Gerhard Wellein, Sebastian Rachuj, Farhad Ebrahimiazandaryani
 
 #### Termine
 
@@ -678,7 +678,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Dietmar Fey Leonard Quednau
+- **Verantwortlich:** Prof. Dr.-Ing. Dietmar Fey, Leonard Quednau
 
 #### Termine
 
@@ -716,7 +716,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Christoph Pflaum Souryadeep Saha
+- **Verantwortlich:** Prof. Dr. Christoph Pflaum, Souryadeep Saha
 
 #### Termine
 
@@ -735,7 +735,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Christoph Pflaum Souryadeep Saha
+- **Verantwortlich:** Prof. Dr. Christoph Pflaum, Souryadeep Saha
 
 #### Termine
 
@@ -809,7 +809,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Andreas Maier Dr.-Ing. Tomás Arias Vergara
+- **Verantwortlich:** Prof. Dr.-Ing. Andreas Maier, Dr.-Ing. Tomás Arias Vergara
 
 #### Termine
 
@@ -835,6 +835,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
 | — | 14-täglich | — | 26.05.2026 | 10 | — |
+| — | dreiwöchentlich | — | — | 10 | — |
 
 ### DPUI - Kolloquium Data Processing for Utility Infrastructure - Kolloquium
 
@@ -865,7 +866,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Michael Tielemann Marion Liegl
+- **Verantwortlich:** Prof. Dr.-Ing. Michael Tielemann, Marion Liegl
 
 #### Termine
 
@@ -884,13 +885,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Abrarul Karim Thomas Vetter Avinash Mahesh Nirmala
+- **Verantwortlich:** Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mo | 08:00–12:00 | 29.06.2026–13.07.2026 | — | Abrarul Karim Thomas Vetter |
+| wöchentlich | Mo | 08:00–12:00 | 29.06.2026–13.07.2026 | — | Abrarul Karim, Thomas Vetter |
 
 ### EU-PSys - Erweiterte Übungen zu Parallele Systeme - Übung
 
@@ -903,13 +904,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** PD Dr.-Ing. Frank Hannig Batuhan Sesli Avinash Mahesh Nirmala
+- **Verantwortlich:** PD Dr.-Ing. Frank Hannig, Batuhan Sesli, Avinash Mahesh Nirmala
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–18:00 | 10.06.2026–15.07.2026 | — | Batuhan Sesli Avinash Mahesh Nirmala PD Dr.-Ing. Frank Hannig Pierre-Louis Sixdenier |
+| wöchentlich | Mi | 14:00–18:00 | 10.06.2026–15.07.2026 | — | Batuhan Sesli, Avinash Mahesh Nirmala, PD Dr.-Ing. Frank Hannig, Pierre-Louis Sixdenier |
 
 ### ExHESP - Exercises to High End Simulation in Practice - Übung
 
@@ -922,7 +923,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Harald Köstler Dr.-Ing. Sebastian Kuckuk Kajol Kulkarni
+- **Verantwortlich:** Prof. Dr. Harald Köstler, Dr.-Ing. Sebastian Kuckuk, Kajol Kulkarni
 
 #### Termine
 
@@ -941,7 +942,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Julian Geus Prof. Dr.-Ing. Felix Freiling
+- **Verantwortlich:** Julian Geus, Prof. Dr.-Ing. Felix Freiling
 
 #### Termine
 
@@ -979,7 +980,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Dr. Marcus Walther Prof. Dr.-Ing. Richard Lenz
+- **Verantwortlich:** Dr. Marcus Walther, Prof. Dr.-Ing. Richard Lenz
 
 #### Termine
 
@@ -997,7 +998,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Dietmar Fey Tobias Baumeister
+- **Verantwortlich:** Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 
 #### Termine
 
@@ -1016,7 +1017,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Sebastian Kuckuk Prof. Dr. Harald Köstler Kajol Kulkarni
+- **Verantwortlich:** Dr.-Ing. Sebastian Kuckuk, Prof. Dr. Harald Köstler, Kajol Kulkarni
 
 #### Termine
 
@@ -1147,13 +1148,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** PD Dr.-Ing. Frank Hannig Batuhan Sesli Avinash Mahesh Nirmala
+- **Verantwortlich:** PD Dr.-Ing. Frank Hannig, Batuhan Sesli, Avinash Mahesh Nirmala
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–14:00 | 15.04.2026–15.07.2026 | — | PD Dr.-Ing. Frank Hannig Avinash Mahesh Nirmala Batuhan Sesli |
+| wöchentlich | Mi | 10:00–14:00 | 15.04.2026–15.07.2026 | — | PD Dr.-Ing. Frank Hannig, Avinash Mahesh Nirmala, Batuhan Sesli |
 
 ### MuCoSim - Effiziente numerische Simulation auf multicore-Prozessoren - Hauptseminar
 
@@ -1166,13 +1167,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Gerhard Wellein Dr.-Ing. Jan Eitzinger
+- **Verantwortlich:** Prof. Dr. Gerhard Wellein, Dr.-Ing. Jan Eitzinger
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | — | Prof. Dr. Gerhard Wellein Dr.-Ing. Jan Eitzinger |
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | — | Prof. Dr. Gerhard Wellein, Dr.-Ing. Jan Eitzinger |
 
 ### NeuGIeR - Neural Graphics and Inverse Rendering - Vorlesung
 
@@ -1185,7 +1186,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Marc Stamminger Prof. Dr.-Ing. Tobias Günther Prof. Dr. Bernhard Egger Prof. Dr. Tim Weyrich
+- **Verantwortlich:** Prof. Dr.-Ing. Marc Stamminger, Prof. Dr.-Ing. Tobias Günther, Prof. Dr. Bernhard Egger, Prof. Dr. Tim Weyrich
 
 #### Termine
 
@@ -1294,7 +1295,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Dr.-Ing. Vincent Christlein Prof. Dr.-Ing. Andreas Maier
+- **Verantwortlich:** Dr.-Ing. Vincent Christlein, Prof. Dr.-Ing. Andreas Maier
 
 ### ProjRS - Project Remote Sensing - Praktikum/Projekt
 
@@ -1404,7 +1405,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Hakan Calim Anamaria Dumitrescu Daniel Mosig
+- **Verantwortlich:** Hakan Calim, Anamaria Dumitrescu, Daniel Mosig
 
 #### Termine
 
@@ -1423,7 +1424,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Paula Andrea Pérez Toro Dr.-Ing. Tomás Arias Vergara
+- **Verantwortlich:** Paula Andrea Pérez Toro, Dr.-Ing. Tomás Arias Vergara
 
 #### Termine
 
@@ -1463,7 +1464,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Arne Vogel Maxim Ritter von Onciul Eva Dengler
+- **Verantwortlich:** Arne Vogel, Maxim Ritter von Onciul, Eva Dengler
 
 #### Termine
 
@@ -1540,7 +1541,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Norbert Oster Jonas Butz
+- **Verantwortlich:** Dr.-Ing. Norbert Oster, Jonas Butz
 
 #### Termine
 
@@ -1597,7 +1598,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Marc Stamminger Nikolai Hofmann
+- **Verantwortlich:** Prof. Dr.-Ing. Marc Stamminger, Nikolai Hofmann
 
 #### Termine
 
@@ -1636,7 +1637,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Marc Stamminger Laura Fink
+- **Verantwortlich:** Prof. Dr.-Ing. Marc Stamminger, Laura Fink
 
 #### Termine
 
@@ -1656,7 +1657,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr.-Ing. Marc Stamminger Prof. Dr. Tim Weyrich Prof. Dr.-Ing. Tobias Günther Prof. Dr. Bernhard Egger
+- **Verantwortlich:** Prof. Dr.-Ing. Marc Stamminger, Prof. Dr. Tim Weyrich, Prof. Dr.-Ing. Tobias Günther, Prof. Dr. Bernhard Egger
 
 #### Termine
 
@@ -1732,7 +1733,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Matthias Kergaßner Prof. Dr. Rolf Wanka
+- **Verantwortlich:** Matthias Kergaßner, Prof. Dr. Rolf Wanka
 
 #### Termine
 
@@ -1751,7 +1752,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr.-Ing. Stefan Wildermann Paul Krüger
+- **Verantwortlich:** Dr.-Ing. Stefan Wildermann, Paul Krüger
 
 #### Termine
 
@@ -1807,7 +1808,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** PD Dr.-Ing. Thomas Wittenberg apl. Prof. Dr. Peter Hastreiter
+- **Verantwortlich:** PD Dr.-Ing. Thomas Wittenberg, apl. Prof. Dr. Peter Hastreiter
 
 #### Termine
 
@@ -1826,7 +1827,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Tobias Häberlein Dr.-Ing. Jürgen Kleinöder Prof. Dr.-Ing. Rüdiger Kapitza Ole Wiedemann
+- **Verantwortlich:** Tobias Häberlein, Dr.-Ing. Jürgen Kleinöder, Prof. Dr.-Ing. Rüdiger Kapitza, Ole Wiedemann
 
 #### Termine
 
@@ -1844,7 +1845,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Arne Vogel Maxim Ritter von Onciul Eva Dengler
+- **Verantwortlich:** Arne Vogel, Maxim Ritter von Onciul, Eva Dengler
 
 #### Termine
 
@@ -1863,7 +1864,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Gerhard Wellein Farhad Ebrahimiazandaryani Prof. Dr.-Ing. Dietmar Fey
+- **Verantwortlich:** Prof. Dr. Gerhard Wellein, Farhad Ebrahimiazandaryani, Prof. Dr.-Ing. Dietmar Fey
 
 #### Termine
 

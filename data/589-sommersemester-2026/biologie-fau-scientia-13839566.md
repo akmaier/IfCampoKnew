@@ -194,7 +194,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** Prof. Dr. Markus Albert Prof. Dr. Steffen Backert Prof. Dr. Lars Nitschke Prof. Dr. Anja Lux Prof. Dr. Andreas Burkovski Prof. Dr. Thomas Winkler Prof. Dr. Yves Muller
+- **Verantwortlich:** Prof. Dr. Markus Albert, Prof. Dr. Steffen Backert, Prof. Dr. Lars Nitschke, Prof. Dr. Anja Lux, Prof. Dr. Andreas Burkovski, Prof. Dr. Thomas Winkler, Prof. Dr. Yves Muller
 
 #### Termine
 
@@ -213,7 +213,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** PD Dr. Michael Schoppmeier Dr. Ingrid Brehm Prof. Dr. Thomas Winkler
+- **Verantwortlich:** PD Dr. Michael Schoppmeier, Dr. Ingrid Brehm, Prof. Dr. Thomas Winkler
 
 #### Termine
 
@@ -283,7 +283,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-- **Verantwortlich:** apl. Prof. Dr. Robert Slany Prof. Dr. Falk Nimmerjahn Prof. Dr. Lars Nitschke Prof. Dr. Thomas Winkler
+- **Verantwortlich:** apl. Prof. Dr. Robert Slany, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke, Prof. Dr. Thomas Winkler
 
 ### iI-CLI Lec - Clinical Immunology - Lecture - Vorlesung
 
@@ -295,7 +295,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Aline Bozec Prof. Dr. Stefan Uderhardt Dr. Anja Glanz
+- **Verantwortlich:** Prof. Dr. Aline Bozec, Prof. Dr. Stefan Uderhardt, Dr. Anja Glanz
 
 #### Termine
 
@@ -314,7 +314,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Klaus Überla PD Dr. Brigitte Biesinger-Zwosta Prof. Dr. Christian Bogdan Prof. Dr. David Vöhringer Dr. Anja Glanz
+- **Verantwortlich:** Prof. Dr. Klaus Überla, PD Dr. Brigitte Biesinger-Zwosta, Prof. Dr. Christian Bogdan, Prof. Dr. David Vöhringer, Dr. Anja Glanz
 
 #### Termine
 
@@ -335,7 +335,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Rainer Böckmann Marius Trollmann
+- **Verantwortlich:** Prof. Dr. Rainer Böckmann, Marius Trollmann
 
 #### Termine
 

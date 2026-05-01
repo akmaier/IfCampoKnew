@@ -200,7 +200,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Prof. Dr. Florian Höhne Prof. Dr. Abbas Poya
+- **Verantwortlich:** Prof. Dr. Florian Höhne, Prof. Dr. Abbas Poya
 
 #### Termine
 
@@ -293,13 +293,13 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** Prof. Dr. Florian Höhne Prof. Dr. Peter Bubmann
+- **Verantwortlich:** Prof. Dr. Florian Höhne, Prof. Dr. Peter Bubmann
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | — | Prof. Dr. Florian Höhne Prof. Dr. Peter Bubmann |
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | — | Prof. Dr. Florian Höhne, Prof. Dr. Peter Bubmann |
 
 ### Quellen zur Geschichte und Religionsgeschichte Israels - Übung
 
@@ -459,7 +459,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-- **Verantwortlich:** PD Dr. Rüdiger Braun Dr. Simon Wiesgickl
+- **Verantwortlich:** PD Dr. Rüdiger Braun
 
 #### Termine
 
@@ -478,7 +478,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Ute Verstegen Dr. Arabella Cortese
+- **Verantwortlich:** Prof. Dr. Ute Verstegen, Dr. Arabella Cortese
 
 #### Termine
 

@@ -45,7 +45,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** PD Dr. Anette Regelous Prof. Dr. Harald Stollhofen
+- **Verantwortlich:** PD Dr. Anette Regelous, Prof. Dr. Harald Stollhofen
 
 #### Termine
 
@@ -65,13 +65,13 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Wolfgang Kießling Dr. Sebastian Teichert
+- **Verantwortlich:** Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | — | Dr. Sebastian Teichert Prof. Dr. Wolfgang Kießling |
+| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | — | Dr. Sebastian Teichert, Prof. Dr. Wolfgang Kießling |
 
 ### Paläobiologie I - Evolution des Lebens - Vorlesung
 
@@ -103,13 +103,13 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Wolfgang Kießling Dr. Sebastian Teichert
+- **Verantwortlich:** Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 08:00–18:00 | 26.03.2026–01.04.2026 | — | Prof. Dr. Wolfgang Kießling Dr. Sebastian Teichert |
+| Blockveranstaltung+SaundSo | — | 08:00–18:00 | 26.03.2026–01.04.2026 | — | Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert |
 
 ### [PG-F1] - [PG-F1] Praktikum Petrologische Methoden - Vorlesung
 
@@ -122,13 +122,13 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Dr. Jürgen Gose Prof. Dr. Esther Schmädicke Dr. Helene Brätz
+- **Verantwortlich:** Dr. Jürgen Gose, Prof. Dr. Esther Schmädicke, Dr. Helene Brätz
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — | Dr. Jürgen Gose Prof. Dr. Esther Schmädicke Dr. Helene Brätz |
+| nach Vereinbarung | — | — | — | — | Dr. Jürgen Gose, Prof. Dr. Esther Schmädicke, Dr. Helene Brätz |
 
 ### B-Sem - Basisseminar Geographie (Kurs A) - Seminar
 
@@ -164,7 +164,7 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Prof. Dr. Achim Bräuning Prof. Dr. Thomas Mölg
+- **Verantwortlich:** Prof. Dr. Achim Bräuning, Prof. Dr. Thomas Mölg
 
 #### Termine
 
@@ -224,15 +224,16 @@ _Section: FAU Scientia Gaststudium_
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-- **Verantwortlich:** Sugam Aryal Dr. Thorsten Seehaus
+- **Verantwortlich:** Sugam Aryal, Dr. Thorsten Seehaus
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |
 |---|---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 15.04.2026 | — | Sugam Aryal Dr. Thorsten Seehaus |
-| Einzeltermin | Di | 16:00–18:00 | 09.06.2026 | — | Sugam Aryal Dr. Thorsten Seehaus |
-| Blockveranstaltung | — | 10:00–16:00 | 16.06.2026–17.06.2026 | Field site close to Metropolitan Area N-ER-FÜ | Sugam Aryal Dr. Thorsten Seehaus |
+| Einzeltermin | Mi | 16:00–18:00 | 15.04.2026 | — | Sugam Aryal, Dr. Thorsten Seehaus |
+| Einzeltermin | Di | 16:00–17:30 | 12.05.2026 | — | — |
+| Einzeltermin | Di | 16:00–18:00 | 09.06.2026 | — | Sugam Aryal, Dr. Thorsten Seehaus |
+| Blockveranstaltung | — | 10:00–16:00 | 16.06.2026–17.06.2026 | Field site close to Metropolitan Area N-ER-FÜ | Sugam Aryal, Dr. Thorsten Seehaus |
 
 ### RegGeol - Regionale Geologie - Seminar - Seminar
 
