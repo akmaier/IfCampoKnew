@@ -93,7 +93,15 @@ jobs:
             --out data/personen \
             -v
 
-      - name: Heuristische Pflicht-Analyse
+      - name: Pull FAUdir Professor:innen-Index (für Pflicht-Cross-Ref)
+        run: |
+          python scraper/faudir_scrape.py \
+            --out data/personen/faudir-INDEX.md \
+            --interval 0.5 \
+            -v
+        continue-on-error: true  # if FAUdir is down, the analyze still runs without it
+
+      - name: Heuristische Pflicht-Analyse + W-Profs-Cross-Ref
         if: hashFiles(format('tmp/{0}-courses.json', steps.vars.outputs.period_id)) != ''
         run: |
           python scraper/analyze_pflicht.py \
