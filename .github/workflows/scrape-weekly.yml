@@ -99,7 +99,19 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Cut a Release with the JSON intermediates
+      - name: Build corpus zip
+        if: steps.commit.outputs.changed == 'true'
+        id: zip
+        run: |
+          cd data
+          ZIP_NAME="ifcampoknew-corpus-${{ steps.vars.outputs.iso_week }}.zip"
+          # archive the whole corpus so a downloader gets one self-contained file
+          zip -r -q "../$ZIP_NAME" .
+          cd ..
+          echo "name=$ZIP_NAME" >> "$GITHUB_OUTPUT"
+          echo "size=$(du -h "$ZIP_NAME" | cut -f1)" >> "$GITHUB_OUTPUT"
+
+      - name: Cut a Release with the corpus zip + JSON intermediates
         if: steps.commit.outputs.changed == 'true'
         uses: softprops/action-gh-release@v2
         with:
@@ -111,7 +123,12 @@ jobs:
             * periodId: ${{ steps.vars.outputs.period_id }}
             * tree max-depth: ${{ steps.vars.outputs.max_depth }}
             * with course details: ${{ steps.vars.outputs.with_courses }}
+            * corpus zip: ${{ steps.zip.outputs.name }} (${{ steps.zip.outputs.size }})
+
+            Download `${{ steps.zip.outputs.name }}` for a self-contained,
+            RAG-ready markdown corpus. Start with `README.md` inside the zip.
           files: |
+            ${{ steps.zip.outputs.name }}
             tmp/${{ steps.vars.outputs.period_id }}.json
             tmp/${{ steps.vars.outputs.period_id }}-courses.json
           fail_on_unmatched_files: false

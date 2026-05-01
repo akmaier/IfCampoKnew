@@ -2,36 +2,35 @@
 
 *If Campo knew what Campo knows.*
 
-An **AI-readable markdown corpus** built from the public parts of [FAU Campo](https://www.campo.fau.de/). The name riffs on the old Siemens saying "if Siemens knew what Siemens knows" — Campo already exposes a lot, but its JSF UI makes it hard to actually find anything. We turn that public surface into a hierarchical tree of markdown files an LLM agent can navigate.
+An **AI-readable markdown corpus** built from the public parts of [FAU Campo](https://www.campo.fau.de/), [fau.de's Studiengang pages](https://www.fau.de/studium/studienangebot/alle-studiengaenge/), and FAU's [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/) (PDFs converted to markdown). The name riffs on the old Siemens saying "if Siemens knew what Siemens knows" — Campo already exposes a lot, but its JSF UI makes it hard to actually find anything. We turn that public surface into a flat list of merged-per-program markdown files an LLM agent can navigate.
 
-**Status:** depth-4 catalogue skeleton committed for **Sommersemester 2026**. Course-level content (Termine, Inhalte, instructors) is the next milestone.
+**Status:** SoSe 2026 corpus complete. **One merged file per Campo study program** (FAU.de Studiengang content + every PO-version + every course inlined), plus the full PO regulation texts as separate large files. Weekly + monthly crons keep it fresh.
+
+## Download the corpus
+
+Each weekly run cuts a [GitHub Release](https://github.com/akmaier/IfCampoKnew/releases/latest) tagged `snapshot-YYYY-Www` with **`ifcampoknew-corpus-{period-slug}.zip`** as the asset — a single self-contained markdown corpus ready to drop into a RAG system. Start with `README.md` inside the zip; it explains the layout and stable-id conventions to the agent.
 
 ## What this repo is
 
-A self-contained markdown corpus + the Python tooling that builds it. Three sources, one corpus:
+A self-contained markdown corpus + the Python tooling that builds it. Three public sources, **one merged corpus**:
 
 ```
 data/
+├── README.md                                 # RAG usage guide (also at the zip root)
 ├── {period-slug}/                            # Campo course catalogue per semester
-│   ├── INDEX.md                              # root: links to all sections
-│   ├── {section-slug-id}/
-│   │   ├── INDEX.md                          # section: links to programs
-│   │   └── {program-slug-id}/
-│   │       ├── INDEX.md                      # program: links to PO-versions
-│   │       ├── {po-or-course-slug-id}.md     # PO-version OR full course content
-│   │       └── …
-│   └── …
-├── studiengang/                              # FAU.de program info pages (222 programs)
-│   ├── INDEX.md
-│   └── {slug}.md                             # ~3-5k tok per program
-└── pruefungsordnungen/                       # FAU.de Prüfungsordnungen + PDFs
-    ├── INDEX.md
-    └── {faculty}/{program}/
-        ├── INDEX.md                          # landing page (intro + PDF list)
-        └── {pdf-slug}.md                     # converted PDF (10-30k tok typical)
+│   ├── INDEX.md                              # programs grouped by section
+│   └── {program-slug-id}.md                  # ★ ONE merged file per program:
+│                                             #   • FAU.de Studiengang inline (Steckbrief, sections)
+│                                             #   • every PO-version with permalinks + dated PDFs
+│                                             #   • every course (Eckdaten + Termine + instructors)
+│                                             #   • Lehramts-Prüfungsordnungen (when applicable)
+├── studiengang/                              # FAU.de Studiengang pages (raw, also inlined above)
+│   └── {slug}.md
+└── pruefungsordnungen/                       # full PO regulation texts (10–30 k tok each)
+    └── {faculty}/{program}/{po-slug}.md
 ```
 
-Slugs are Campo/FAU-faithful German with ASCII-folded umlauts (`ä→ae`, `ß→ss`); every Campo basename ends in `-<segmentId>` so links survive renames.
+Slugs are Campo/FAU-faithful German with ASCII-folded umlauts (`ä→ae`, `ß→ss`); every Campo basename ends in `-<segmentId>` so links survive renames. Every file carries `campo_permalink` / `source_url` / `pdf_source` in its YAML front-matter so a RAG can cite the original source.
 
 ## Why a markdown corpus, not a website?
 
@@ -57,13 +56,19 @@ Original plan was a Web Components SPA on GitHub Pages. After analysis we realis
 python3 -m venv scraper/.venv
 scraper/.venv/bin/pip install -r scraper/requirements.txt
 
-# Campo (per-semester catalogue + course detail)
+# Campo (per-semester catalogue + course detail + merged-program render)
 scraper/.venv/bin/python scraper/scrape.py        --period 589 --out tmp/589.json --max-depth 4 -v
 scraper/.venv/bin/python scraper/fetch_courses.py --in tmp/589.json --out tmp/589-courses.json -v
 scraper/.venv/bin/python scraper/render_markdown.py --in tmp/589.json --courses tmp/589-courses.json --out data
 
 # FAU.de (programs + Prüfungsordnungen — single-script pipeline)
 scraper/.venv/bin/python scraper/fau_corpus.py --out data --tmp tmp/fau-pdfs -v
+
+# Re-render once you have FAU files on disk so they get inlined:
+scraper/.venv/bin/python scraper/render_markdown.py --in tmp/589.json --courses tmp/589-courses.json --out data
+
+# Build a corpus zip locally
+( cd data && zip -r -q ../ifcampoknew-corpus.zip . )
 ```
 
 Browse the result under `data/`.
@@ -74,15 +79,15 @@ Browse the result under `data/`.
 |------|:------:|----------------|
 | Public-surface analysis | ✅ | What Campo exposes anonymously; HTTP/JSF mechanics; deep-link patterns. |
 | Requirements (v1 → v2 pivot) | ✅ | v1 was a Web Components UI; v2 is the markdown corpus. |
-| Catalogue skeleton (depth 4) | ✅ | 1 895 nodes for SoSe 2026; folders + INDEX.md + leaf placeholders. |
-| Course content attachment | ✅ | Fetch each course's *Termine + Eckdaten + Lehrende*, embed in the corpus (683/683 ok for SoSe 2026). |
-| Weekly GitHub Action — Campo | ✅ | Mondays 03:00 UTC: scrape, render, commit, cut a Release. |
-| FAU.de Studiengang corpus | ✅ | 222 programs, one markdown per page, with Steckbrief + sections + external links. |
-| FAU.de Prüfungsordnungen corpus | ✅ | 36 landing pages + every linked PDF converted to markdown via PyMuPDF4LLM. |
-| Monthly GitHub Action — FAU.de | ✅ | First of each month, 04:00 UTC. |
-| Full-depth catalogue walk | ⏳ | `--max-depth 0` to bottom out every `exam:` chain; capture Tech/Nat/Med/RW Fak courses (deeper than 4). |
-| F-TOKEN bucket policy | ✅ | Thin program folders fold into one merged file; course-bearing folders fold up to ~30 k tok; per-leaf Eckdaten + Termine inlined. SoSe 2026 went 1 654 → 742 files. |
-| Cross-link Campo ↔ FAU.de | ✅ | Each Campo program-level INDEX.md links to matching `studiengang/{slug}.md` + PO landing folder; each PO-version leaf links to dated `pruefungsordnungen/.../{pdf}.md` files (year-matched). |
+| Catalogue scrape (Campo) | ✅ | depth-4 BFS: 1 895 nodes for SoSe 2026, with checkpoint/resume. |
+| Course-content attachment | ✅ | Fetch every Course's *Termine + Eckdaten + Lehrende*; 683/683 for SoSe 2026. |
+| FAU.de Studiengang corpus | ✅ | 222 programs scraped; content inlined into the matching Campo program file. |
+| FAU.de Prüfungsordnungen corpus | ✅ | 36 landing pages + ~2 800 PDFs converted to markdown via PyMuPDF4LLM. |
+| Cross-link Campo ↔ FAU.de | ✅ | Each program file inlines its FAU.de Studiengang page and references the matched dated PO-PDFs. |
+| Merge into one file per program | ✅ | Entry 0013 redesign: 1 654 → 236 files for SoSe 2026; flat `{period}/{program}.md` layout, max 2 levels deep. |
+| Weekly GitHub Action — Campo | ✅ | Mondays 03:00 UTC: scrape, render, commit, build zip, cut a Release with the zip + JSON intermediates. |
+| Monthly GitHub Action — FAU.de | ✅ | First of each month, 04:00 UTC; the next weekly run inlines the new content. |
+| Full-depth catalogue walk | ⏸ | `--max-depth 0` is technically supported but a single GH-Actions job hits the 6-h timeout. A daily-resume chain is the next available step if and when deeper data turns out to be needed. |
 | Archive prior years | later | `archive/{year-slug}/` per completed academic year. |
 
 See [`docs/requirements.md` §9](docs/requirements.md) for the full plan and open items (token-counting library, course-association strategy, next semester's `periodId`).

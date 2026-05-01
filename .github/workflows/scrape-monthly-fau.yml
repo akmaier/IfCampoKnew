@@ -84,3 +84,7 @@ jobs:
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+        # The downstream weekly Campo cron re-renders Campo program files
+        # against whatever's currently on disk, so the new FAU content is
+        # inlined automatically on the next Monday — and the Release zip
+        # produced there will be the canonical corpus snapshot for that week.
