@@ -107,3 +107,30 @@ def test_instructors_fallback_when_no_li():
     from parse_detail import _instructors_from_cell  # noqa: WPS433
     out = _instructors_from_cell("<span>Person C</span>")
     assert out == ["Person C"]
+
+def test_basic_data_instructors_handle_multi_li():
+    """Regression: the user reported "Fixture Person Alpha PD Dr. habil. Tobias
+    Fey Dr.-Ing. Fixture Gamma Fixture Delta" glued into one string. The
+    course's "Verantwortliche/-r" block holds a <ul><li>...</li></ul> that
+    the old `_parse_instructors` flattened to text. The new code must walk
+    the <li> structurally."""
+    from parse_detail import _parse_instructors  # noqa: WPS433
+    html = """
+    <fieldset>
+      <label for="x">Verantwortliche/-r</label>
+      <ul class="listStyleIconSimple">
+        <li><span title="Profil von apl. Prof. Dr. Fixture Person Alpha anzeigen">x</span></li>
+        <li><span title="Profil von PD Dr. habil. Fixture Beta anzeigen">x</span></li>
+        <li><span title="Profil von Dr.-Ing. Fixture Gamma anzeigen">x</span></li>
+        <li><span title="Profil von Fixture Delta anzeigen">x</span></li>
+      </ul>
+      <label for="y">Nächstes Feld</label>
+    </fieldset>
+    """
+    out = _parse_instructors(html, "Verantwortliche/-r")
+    assert out == [
+        "apl. Prof. Dr. Fixture Person Alpha",
+        "PD Dr. habil. Fixture Beta",
+        "Dr.-Ing. Fixture Gamma",
+        "Fixture Delta",
+    ]
