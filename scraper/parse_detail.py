@@ -36,6 +36,26 @@ def _text(html: str) -> str:
     return _WS_RE.sub(" ", _TAG_RE.sub(" ", html)).strip()
 
 
+_LABEL_BLOCK_RE_TPL = (
+    r"<label\b[^>]*>\s*{lbl}\b[^<]*</label>"
+    r"(?P<after>.*?)"
+    r'(?=<label\b|<h\d\b|<div\s+class="block_|<fieldset\b|<section\b)'
+)
+
+
+def _label_html_block(html: str, label: str) -> Optional[str]:
+    """Like ``_label_value`` but returns the *raw HTML* of the value cell.
+
+    Useful when we want to walk the inner structure (e.g. a ``<ul><li>``
+    instructor list) rather than just the flattened text."""
+    pat = re.compile(
+        _LABEL_BLOCK_RE_TPL.format(lbl=re.escape(label)),
+        re.DOTALL | re.IGNORECASE,
+    )
+    m = pat.search(html)
+    return m.group("after") if m else None
+
+
 def _label_value(html: str, label: str) -> Optional[str]:
     """Slurp the text immediately after ``<label>LABEL…</label>``.
 
@@ -44,16 +64,10 @@ def _label_value(html: str, label: str) -> Optional[str]:
     next ``<label>``, ``<h1>…</h6>``, or a ``<div class="block_…">`` —
     HISinOne uses these as section separators.
     """
-    pat = re.compile(
-        rf"<label\b[^>]*>\s*{re.escape(label)}\b[^<]*</label>"
-        r"(?P<after>.*?)"
-        r'(?=<label\b|<h\d\b|<div\s+class="block_|<fieldset\b|<section\b)',
-        re.DOTALL | re.IGNORECASE,
-    )
-    m = pat.search(html)
-    if not m:
+    block = _label_html_block(html, label)
+    if not block:
         return None
-    text = _text(m.group("after"))
+    text = _text(block)
     return text or None
 
 
@@ -88,19 +102,31 @@ def _parse_basic(html: str) -> dict:
 
 
 def _parse_instructors(html: str, label: str) -> list[str]:
-    """Names listed under e.g. ``Verantwortliche/-r`` or ``Dozent/-in (durchführend)``."""
-    block = _label_value(html, label)
-    if not block:
+    """Names listed under e.g. ``Verantwortliche/-r`` or ``Dozent/-in (durchführend)``.
+
+    Each instructor is rendered as one ``<li>`` inside a ``<ul>``; we parse
+    the list structurally so adjacent names never get glued into a single
+    string. The ``title="Profil von {Name} anzeigen"`` attribute on the
+    inner button/span is the cleanest source of the name. Falls back to a
+    text-based splitter when no ``<li>`` is present.
+    """
+    block_html = _label_html_block(html, label)
+    if not block_html:
         return []
-    # Names are typically newline- or comma-separated; split on common joiners.
-    parts = re.split(r"\s{2,}|,\s+|;\s+", block)
+    li_items = _LI_RE.findall(block_html)
+    if li_items:
+        return _instructors_from_cell(block_html)
+    # No <li> structure — fall back to flattened text + naive split.
+    text = _text(block_html)
+    if not text:
+        return []
+    parts = re.split(r"\s{2,}|,\s+|;\s+", text)
     seen: set[str] = set()
     out: list[str] = []
     for p in parts:
         p = p.strip()
         if not p or p in seen:
             continue
-        # filter junk like "Hilfe zu …", "anzeigen", etc.
         if re.search(r"(?i)\b(hilfe|anzeigen|zur\b|ein-?\s?ausklappen)", p):
             continue
         seen.add(p)
