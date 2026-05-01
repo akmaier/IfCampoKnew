@@ -3,7 +3,7 @@ kind: "fau-faudir-professoren-index"
 total_persons: 4897
 chunks: 21
 source: "https://faudir.fau.de/publicDir/persons"
-scraped_at: 2026-05-01T19:19:51+00:00
+scraped_at: 2026-05-01T19:22:19+00:00
 rank_distribution:
   W1: 11
   W3: 103

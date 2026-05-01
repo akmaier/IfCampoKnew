@@ -2,7 +2,7 @@
 kind: "campo-lehrende-ohne-pflicht"
 period: "Sommersemester 2026"
 candidates: 497
-scraped_at: 2026-05-01T19:06:03+00:00
+scraped_at: 2026-05-01T19:23:27+00:00
 ---
 
 # Lehrende ohne Pflichtlehre (Vorschlag)

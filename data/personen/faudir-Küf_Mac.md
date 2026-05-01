@@ -3,7 +3,7 @@ kind: "fau-faudir-professoren-chunk"
 total_persons: 4897
 chunk: "Küf_Mac"
 source: "https://faudir.fau.de/publicDir/persons"
-scraped_at: 2026-05-01T19:19:51+00:00
+scraped_at: 2026-05-01T19:22:19+00:00
 rank_distribution:
   W3: 4
   W?: 229

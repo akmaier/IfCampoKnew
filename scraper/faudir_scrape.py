@@ -431,6 +431,16 @@ def main(argv: Iterable[str] | None = None) -> int:
     out_dir = args.out.parent
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    # Also write a JSON intermediate for downstream tools (e.g. the
+    # Pflicht-Analyse cross-references FAUdir names with Campo instructor
+    # strings).
+    Path("tmp").mkdir(parents=True, exist_ok=True)
+    Path("tmp/faudir-persons.json").write_text(
+        json.dumps({"persons": persons, "scraped_at": _dt.datetime.now(_dt.timezone.utc).isoformat(timespec='seconds')}, ensure_ascii=False),
+        encoding="utf-8",
+    )
+    log.info("wrote tmp/faudir-persons.json (%d persons)", len(persons))
+
     # Wipe any previous chunk files so renames don't leave orphans behind.
     for old in out_dir.glob("faudir-*.md"):
         old.unlink()

@@ -331,6 +331,239 @@ def render_analyse_md(
 # ──────────────────────────────────────────────────────────────────────────
 
 
+def _norm_name(s: str) -> str:
+    """Normalize a name for fuzzy comparison: lowercase, strip titles."""
+    s = s.lower()
+    # Strip common title tokens
+    s = re.sub(
+        r"\b(prof\.?|dr\.?(-ing\.?| ?med\.?| ?phil\.?| ?rer\.?\s*nat\.?| ?habil\.?| ?hc\.?)?|"
+        r"univ\.?-prof\.?|hon\.?-?prof\.?|pd|apl\.?|em\.?|dipl\.?(-ing\.?)?|m\.?sc\.?|b\.?sc\.?|mba)"
+        r"\b",
+        "",
+        s,
+    )
+    s = re.sub(r"[^\w\säöüß]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def load_faudir_lookup(faudir_json_path: Path) -> dict[str, dict]:
+    """Read ``tmp/faudir-persons.json`` → ``{normalised_name: faudir_entry}``.
+
+    The same FAUdir entry is keyed under multiple normalised names so the
+    Campo instructor string can match either ``Vorname Nachname``,
+    ``Nachname, Vorname`` or just ``Nachname``.
+    """
+    if not faudir_json_path.exists():
+        return {}
+    try:
+        data = json.loads(faudir_json_path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    out: dict[str, dict] = {}
+    for p in data.get("persons", []):
+        last = (p.get("familyName") or "").strip()
+        first = (p.get("givenName") or "").strip()
+        if not last:
+            continue
+        # Build candidate keys
+        keys = {
+            _norm_name(f"{first} {last}"),
+            _norm_name(f"{last} {first}"),
+            _norm_name(f"{last}, {first}"),
+            _norm_name(last),
+        }
+        # Determine W-rank set across affiliations
+        ranks: list[str] = []
+        for c in p.get("contacts") or []:
+            from faudir_scrape import parse_w_rank  # noqa: WPS433
+            org = (c.get("organization") or {}).get("name") or ""
+            r = parse_w_rank(org)
+            if r and r not in ranks:
+                ranks.append(r)
+        entry = {
+            "identifier": p.get("identifier"),
+            "personalTitle": p.get("personalTitle") or "",
+            "givenName": first,
+            "familyName": last,
+            "ranks": ranks,
+            "affiliations": [
+                (c.get("organization") or {}).get("name") or ""
+                for c in (p.get("contacts") or [])
+            ],
+        }
+        for k in keys:
+            if k:
+                out[k] = entry  # last write wins; ambiguous names get any one
+    return out
+
+
+def fuzzy_lookup_faudir(campo_name: str, faudir_lookup: dict[str, dict]) -> dict | None:
+    """Try several normalisations of the Campo string against the FAUdir lookup."""
+    candidates = [campo_name]
+    # also try the part after the last comma / dot
+    candidates.append(re.sub(r"^.*?,\s*", "", campo_name))
+    candidates.append(re.sub(r"^[^,]+,\s*", "", campo_name))  # if "Last, First"
+    for cand in candidates:
+        norm = _norm_name(cand)
+        if norm in faudir_lookup:
+            return faudir_lookup[norm]
+        # also try just the surname (last token)
+        toks = norm.split()
+        if toks:
+            last_only = toks[-1]
+            if last_only in faudir_lookup:
+                return faudir_lookup[last_only]
+    return None
+
+
+def render_profs_ohne_pflichtlehre_md(
+    courses_with_meta: list[dict],
+    pflicht_unit_ids: set[int],
+    period_label: str,
+    faudir_lookup: dict[str, dict],
+) -> str:
+    """The "real" answer to the user's question — W1/W2/W3-Profs aus FAUdir,
+    die in der Periode keine Pflichtveranstaltung halten."""
+    # name-string → {pflicht: [course], other: [course], faudir: entry|None}
+    by_person: dict[str, dict] = defaultdict(
+        lambda: {"pflicht": [], "other": [], "faudir": None}
+    )
+    for c in courses_with_meta:
+        uid = int(c["unit_id"])
+        is_pflicht = uid in pflicht_unit_ids
+        names: set[str] = set()
+        for n in (c.get("instructors_resp") or []) + (c.get("instructors_exec") or []):
+            names.add(n.strip())
+        for a in c.get("appointments") or []:
+            for n in a.get("instructors") or []:
+                names.add(n.strip())
+        for full in names:
+            if not full:
+                continue
+            entry = by_person[full]
+            (entry["pflicht"] if is_pflicht else entry["other"]).append(c)
+            if entry["faudir"] is None:
+                entry["faudir"] = fuzzy_lookup_faudir(full, faudir_lookup)
+
+    # Filter to FAUdir-confirmed Profs with no Pflicht teaching
+    candidates: list[tuple[str, dict]] = []
+    for full, info in by_person.items():
+        if info["pflicht"]:
+            continue
+        if not info["other"]:
+            continue
+        fau = info["faudir"]
+        if not fau:
+            continue
+        # FAUdir-confirmed prof, no Pflicht-flagged courses
+        candidates.append((full, info))
+
+    # Group by primary rank
+    by_rank: dict[str, list[tuple[str, dict]]] = defaultdict(list)
+    for full, info in candidates:
+        ranks = info["faudir"]["ranks"] or ["W?"]
+        primary = ranks[0]
+        by_rank[primary].append((full, info))
+
+    rank_order = ["W3", "W2", "W1", "W?", "Junior", "apl.", "Hon."]
+    lines: list[str] = [
+        "---",
+        'kind: "profs-ohne-pflichtlehre"',
+        f'period: {json.dumps(period_label, ensure_ascii=False)}',
+        f"candidates_total: {len(candidates)}",
+        "rank_distribution:",
+    ]
+    for r in rank_order:
+        if by_rank.get(r):
+            lines.append(f"  {r}: {len(by_rank[r])}")
+    lines.append(
+        f"scraped_at: {_dt.datetime.now(_dt.timezone.utc).isoformat(timespec='seconds')}"
+    )
+    lines.append("---")
+    lines.append("")
+    lines.append("# Profs ohne Pflichtlehre (FAUdir × Campo)")
+    lines.append("")
+    lines.append(
+        "Liste der **FAUdir-bestätigten Professor:innen**, die in der "
+        "angegebenen Periode mindestens eine Veranstaltung in Campo halten, "
+        "aber **keine** der heuristisch als Pflichtveranstaltung markierten "
+        "Kurse (siehe `pflichtveranstaltungen.md`)."
+    )
+    lines.append("")
+    lines.append("## Vorbehalte")
+    lines.append("")
+    lines.append(
+        "* **W-Rang-Heuristik:** ergibt sich aus dem Organisationsnamen in "
+        "FAUdir. `W3`/`W2`/`W1` sind explizit aus *„W3-Professur“* etc. "
+        "abgeleitet; `W?` bezeichnet Lehrstühle/Professuren ohne expliziten "
+        "W-Code im Namen (de facto meistens W3)."
+    )
+    lines.append(
+        "* **Pflicht-Klassifikation** ist heuristisch (siehe "
+        "`pflichtveranstaltungen.md`). Falsch-Negative (verpasste Pflicht-"
+        "Module) → der/die Prof landet hier irrtümlich."
+    )
+    lines.append(
+        "* **Namens-Matching** Campo ↔ FAUdir geht über fuzzy-normalisierte "
+        "Strings (Titel-Präfix entfernt, Sonderzeichen normalisiert). "
+        "Mehrdeutige Namen (z. B. zwei Profs mit demselben Nachnamen) "
+        "werden hier zur ersten Treffer-Variante zugeordnet."
+    )
+    lines.append(
+        "* Diese Datei dient als **Vergleichsgrundlage (B)** für die "
+        "RAG-Antwort (A) auf dieselbe Frage. Bei Inkonsistenz ist die "
+        "RAG-Antwort meist belastbarer."
+    )
+    lines.append("")
+    lines.append(f"**Periode:** {period_label}  ")
+    lines.append(f"**Kandidaten:** {len(candidates)} FAUdir-bestätigte Profs ohne Pflichtlehre")
+    lines.append("")
+    lines.append("## Verteilung nach W-Rang")
+    lines.append("")
+    for r in rank_order:
+        if by_rank.get(r):
+            lines.append(f"- **{r}**: {len(by_rank[r])}")
+    lines.append("")
+    for r in rank_order:
+        if not by_rank.get(r):
+            continue
+        lines.append(f"## Rang {r}")
+        lines.append("")
+        for full, info in sorted(by_rank[r], key=lambda t: (t[1]["faudir"]["familyName"].lower(), t[0].lower())):
+            fau = info["faudir"]
+            name = f"{fau['familyName']}, {fau['givenName']}".strip(", ")
+            title = fau.get("personalTitle") or ""
+            ident = fau.get("identifier") or ""
+            lines.append(f"### {name} ({title})")
+            if ident:
+                lines.append(f"- **FAUdir:** [`{ident}`](https://faudir.fau.de/public/person/{ident})")
+            if fau["affiliations"]:
+                primary = fau["affiliations"][0]
+                lines.append(f"- **Affiliation:** {primary}")
+                if len(fau["affiliations"]) > 1:
+                    lines.append(
+                        f"- **Weitere Affiliationen:** "
+                        f"{'; '.join(fau['affiliations'][1:])}"
+                    )
+            lines.append(
+                f"- **Veranstaltungen ohne Pflicht-Markierung:** {len(info['other'])}"
+            )
+            for c in info["other"][:10]:
+                title_str = c.get("title", "?")
+                ctype = c.get("course_type") or ""
+                rel = c.get("program_rel_path", "")
+                pname = c.get("program_name", "?")
+                if rel:
+                    lines.append(f"  - in [{pname}]({rel}): \"{title_str}\" — {ctype}")
+                else:
+                    lines.append(f"  - in {pname}: \"{title_str}\" — {ctype}")
+            if len(info["other"]) > 10:
+                lines.append(f"  - … und {len(info['other'])-10} weitere")
+            lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
 def render_lehrende_ohne_pflicht_md(
     courses_with_meta: list[dict],
     pflicht_unit_ids: set[int],
@@ -560,23 +793,40 @@ def main(argv: Iterable[str] | None = None) -> int:
         encoding="utf-8",
     )
 
-    # ── Companion file: Lehrende ohne Pflichtlehre ───────────────────
+    # ── Companion file 1: every Lehrende, no FAUdir filter ──────────
     pflicht_unit_ids: set[int] = set()
     for d in by_po.values():
         for c in d["matched_courses"]:
             pflicht_unit_ids.add(int(c["unit_id"]))
-    out_persons = args.out.parent / "lehrende-ohne-pflicht.md"
-    out_persons.write_text(
+    out_lehrende = args.out.parent / "lehrende-ohne-pflicht.md"
+    out_lehrende.write_text(
         render_lehrende_ohne_pflicht_md(courses_with_meta, pflicht_unit_ids, period_name),
         encoding="utf-8",
     )
+
+    # ── Companion file 2: FAUdir-confirmed Profs ohne Pflichtlehre ──
+    faudir_json = Path("tmp/faudir-persons.json")
+    faudir_lookup = load_faudir_lookup(faudir_json)
+    if faudir_lookup:
+        out_profs = args.out.parent / "profs-ohne-pflichtlehre.md"
+        out_profs.write_text(
+            render_profs_ohne_pflichtlehre_md(
+                courses_with_meta, pflicht_unit_ids, period_name, faudir_lookup
+            ),
+            encoding="utf-8",
+        )
+        print(
+            f"wrote {out_profs} ({len(faudir_lookup)} FAUdir name-keys loaded)"
+        )
+    else:
+        log.info("tmp/faudir-persons.json not present — skipping profs-ohne-pflichtlehre.md")
 
     print(
         f"wrote {args.out}: po_files={len(by_po)} "
         f"matched_courses={sum(len(d['matched_courses']) for d in by_po.values())} "
         f"unique_pflicht_unit_ids={len(pflicht_unit_ids)}"
     )
-    print(f"wrote {out_persons}")
+    print(f"wrote {out_lehrende}")
     return 0
 
 
