@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "StuO-PO BSc Physik-MSc Physics 20200803 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Physik/Aenderungssatzungen/StuO-PO_BSc_Physik-MSc_Physics_20200803_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-04-25T15:05:51+00:00
+scraped_at: 2026-05-01T07:59:37+00:00
 page_count_chars: 46696
 ---
 

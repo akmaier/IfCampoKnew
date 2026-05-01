@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 25.11.1988 i.d.F. 03.02.2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/DPO_Sozialwissenschaft_NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-04-25T16:25:47+00:00
+scraped_at: 2026-05-01T09:32:44+00:00
 page_count_chars: 58226
 ---
 

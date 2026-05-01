@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-04-25T14:12:08+00:00
+scraped_at: 2026-05-01T06:47:36+00:00
 ---
 
 # Latein (Lehramt)

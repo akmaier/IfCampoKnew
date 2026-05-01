@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:12:06+00:00
+scraped_at: 2026-05-01T06:47:33+00:00
 ---
 
 # Kunstpädagogik (M.A.)
@@ -171,7 +171,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.kunst.phil.fau.de/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Kunstvermittlung-MA-AdobeStock_62771273-1.jpg)
+- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Kunstvermittlung-MA-AdobeStock_62771273.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

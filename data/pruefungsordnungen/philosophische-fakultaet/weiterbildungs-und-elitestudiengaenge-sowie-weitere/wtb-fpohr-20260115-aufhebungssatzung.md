@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "wtb FPOHR 20260115 Aufhebungssatzung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20260115_Aufhebungssatzung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:37:37+00:00
-page_count_chars: 2808
+scraped_at: 2026-05-01T08:44:50+00:00
+page_count_chars: 3024
 ---
 
 # wtb FPOHR 20260115 Aufhebungssatzung.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20260115_Aufhebungssatzung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Satzung zur Aufhebung des weiterbildenden Masterstudiengangs „Human Rights“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) Vom 15. Januar 2026** 
 
@@ -37,6 +41,10 @@ In § 29 wird nach Abs. 4 folgender neuer Abs. 5 angefügt:
 Diese Satzung tritt am 1. Februar 2026 in Kraft. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 12. November 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 15. Januar 2026 Erlangen, den 15. Januar 2026 FAU gez. 
 

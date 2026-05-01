@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Medizinische Fakultät"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:39:01+00:00
+scraped_at: 2026-05-01T07:28:48+00:00
 ---
 
 # Medizinische Fakultät

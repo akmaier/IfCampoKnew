@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOLitBuch 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Ein-Fach/Literatur_und_Buch/konsolidierte_Fassungen/FPOLitBuch_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:11:09+00:00
-page_count_chars: 40381
+scraped_at: 2026-05-01T08:07:13+00:00
+page_count_chars: 38620
 ---
 
 # FPOLitBuch 20260305.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Ein-Fach/Literatur_und_Buch/konsolidierte_Fassungen/FPOLitBuch_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Fachstudien- und Prüfungsordnung für das Fach Literatur und Buch im Ein-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LitBuch – Vom 5. März 2026** 
 
@@ -31,6 +35,10 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 (2) Im Fach Literatur und Buch erwerben die Studierenden grundlegende Fachkenntnisse in den Bereichen der germanistischen und franko-romanistischen Literatur- und Kulturwissenschaft sowie der Buchwissenschaft unter besonderer Berücksichtigung der deutsch-französischen Perspektive. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (3) Das Studium Literatur und Buch im Ein-Fach-Bachelorstudiengang gewährleistet eine fundierte fachwissenschaftliche sowie praxisbezogene Ausbildung, die den Studierenden grundlegende systematische Kenntnisse im Bereich der deutschen und französischen Literatur, ihrer Strukturen und ihrer jeweiligen kulturellen Gebundenheit sowie grundlegende fachliche und methodische Kenntnisse in der Analyse von Produktion, Verbreitung und Rezeption des Mediums Buch in historischer und moderner Perspektive vermittelt. 
 
@@ -62,6 +70,10 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen gem. § 31 Abs. 2
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ECTS-Punkten erfolgreich abgelegt werden, darunter die Module „Grundlagen der Neueren deutschen Literaturwissenschaft (NdL BM 1)“, „Schrift und Lesen in Kultur und Gesellschaft“ sowie „Basismodul Französische Literaturwissenschaft“. 
 
 ## **§ 6 Besondere Bestimmungen für die Bachelorarbeit** 
@@ -80,43 +92,55 @@ Gemäß § 26 Abs. 3 **ABMStPO/Phil** wird die Gestaltung der Abschlussdokumente
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 1: Studienverlaufsplan B.A. Literatur und Buch** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der**<br>**Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der**<br>**Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
-|**1. Studienjahr(Erlangen)**<br>|~~**p**o~~|||||||||||||||
-|Französische Sprachpraxis 1<br>~~**p**o~~|gem. FPO BA Frankoromanistik|||||**10**|8|2|||||gem. FPO BA<br>Frankoromanistik|1|
-|Grundlagen der Neueren deutschen<br>Literaturwissenschaft 1 (NdL BM 1)<br>~~**p**o~~|gem. FPO BA Germanistik<br>~~o~~|||||**5**<br>~~o~~|5<br>~~o~~|~~o~~|~~o~~|~~o~~|~~o~~|~~o~~|gem. FPO BA<br>Germanistik<br>~~o~~|1<br>~~o~~|
-|Schrift und Lesen in Kultur und Gesell-<br>schaft<br>~~po~~|gem. FPO BA Buchwissenschaft<br>~~po~~|||||**10**<br>~~po~~|10<br>~~po~~|~~po~~|~~po~~|~~po~~|~~po~~|~~po~~|gem. FPO BA<br>Buchwissenschaft<br>~~po~~|1<br>~~po~~|
-|Methoden<br>~~po~~|gem. FPO BA Buchwissenschaft<br>~~po~~|||||**5**<br>~~po~~|5<br>~~po~~|~~po~~|~~po~~|~~po~~|~~po~~|~~po~~|gem. FPO BA<br>Buchwissenschaft<br>~~po~~|0<br>~~po~~|
-|Französische Sprachpraxis 2<br>~~po~~<br>~~**p**o~~|gem. FPO BA Frankoromanistik<br>~~po~~<br>~~po~~|||||**5**<br>~~po~~<br>|~~po~~<br>|5<br>~~po~~<br>|~~po~~<br>|~~po~~<br>|~~po~~<br>|~~po~~<br>|gem. FPO BA<br>Frankoromanistik<br>~~po~~<br>|1<br>~~po~~<br>|
-|Aufbaumodul Französische Sprachpraxis<br>~~**p**o~~|Traduction version<br>~~po~~|||||**5**<br>||3<br>|||||Klausur<br>(Übersetzung Französisch –<br>Deutsch; 90Min.)<br>|1<br>|
-||Communication orale et civilisation<br>~~po~~|||||||2<br>|||||||
-|Basismodul Französische Literaturwis-<br>senschaft<br>~~**p**o ~~|gem. FPO BA Frankoromanistik<br> ~~poo~~|||||**5**<br>~~o~~|~~o~~|5<br>~~o~~|~~o~~|~~o~~|~~o~~|~~o~~|gem. FPO BA<br>Frankoromanistik<br>~~o~~|1<br>~~o~~|
-|Grundlagen der Neueren deutschen Lite-<br>raturwissenschaft 2 (NdL BM 2)<br>~~po~~<br>||gem. FPO BA Germanistik<br>~~po~~<br>|||||**5**<br>~~po~~<br>|~~po~~<br>~~OO~~<br>|5<br>~~po~~<br>~~OO~~<br>|~~po~~<br>~~OOO~~<br>|~~po~~<br>~~OOO~~<br>|~~po~~<br>~~OOO~~<br>|~~po~~<br>~~OOO~~<br>|gem. FPO BA<br>Germanistik<br>~~po~~<br>|1<br>~~po~~<br>|
-|Mediennutzung und Leseverhalten<br>~~OO~~<br>||gem. FPO BA Buchwissenschaft<br>~~OO~~<br>|||||**10**<br>~~OO~~<br>|4<br>~~OO~~<br>~~OO~~<br>|6<br>~~OO~~<br>~~OO~~<br>|~~OO~~<br>~~OOO~~<br>|~~OO~~<br>~~OOO~~<br>|~~OO~~<br>~~OOO~~<br>|~~OO~~<br>~~OOO~~<br>|gem. FPO BA<br>Buchwissenschaft<br>~~OO~~<br>|1<br>~~OO~~<br>|
-|**2. Studienjahr(Clermont-Ferrand)**<br>~~OO OOO~~<br>||||||||||||||||
-|Lehrveranstaltungen an der Partneruni-<br>versität2<br>~~po~~<br>||siehe Anlage 2<br>~~po~~<br>|||||**30**<br>~~po~~<br>~~OOO~~<br>|~~po~~<br>~~OOO~~<br>|~~po~~<br>~~OOO~~<br>|30<br>~~po~~<br>~~Oe~~<br>|~~po~~<br>~~Od~~<br>|~~po~~<br>~~Od~~<br>|~~po~~<br>~~Od~~<br>|vgl. § 4 Abs. 2 Satz 2 i. V. m.<br>Anlage 2<br>~~po~~<br>|1<br>~~po~~<br>|
-|Lehrveranstaltungen an der Partneruni-<br>versität2<br>~~ee~~<br>||siehe Anlage 2<br>~~ee~~<br>|||||**30**<br>~~ee~~<br>~~OOO~~<br>|~~ee~~<br>~~OOO~~<br>|~~ee~~<br>~~OOO~~<br>|~~ee~~<br>~~Oe~~<br>|30<br>~~ee~~<br>~~Od~~<br>|~~ee~~<br>~~Od~~<br>|~~ee~~<br>~~Od~~<br>|vgl. § 4 Abs. 2 Satz 2 i. V. m.<br>Anlage 2<br>~~ee~~<br>|1<br>~~ee~~<br>|
-|**3. Studienjahr(Erlangen) vgl.§ 4 Abs. 2 Satz 3**<br>~~OOO Oe Od~~<br>|<br>~~eeoe~~<br>~~ee~~|||||||||||||||
-|Vertiefungsmodul Französische Literatur-<br>und Kulturwissenschaft<br>~~ce~~|Mittelseminar<br>~~ce~~<br>~~ee~~|~~ce~~<br>~~ee~~|~~ce~~<br>~~ee~~<br>~~ee~~|~~ce~~<br>~~ee~~|2<br>~~ce~~<br>~~ee~~|**10**<br>~~ce~~<br>~~ee~~|~~ce~~<br>~~oe~~<br>~~{|~~|~~ce~~<br>~~oe~~<br>~~{|~~<br>~~|~~|~~ce~~<br>~~oe~~<br>~~|~~|~~ce~~<br>~~oe~~<br>~~ft~~|6<br>~~ce~~<br>~~oe~~<br>~~ftfo~~|~~ce~~<br>~~fo~~|Hausarbeit (15 S.)<br>~~ce~~|1<br>~~ce~~|
-||Vorlesungoder Seminar<br>~~ce~~<br>~~ee~~|2<br>~~ce~~<br>~~ee~~|~~ce~~<br>~~ee~~<br>~~ee~~|~~ce~~<br>~~ee~~|~~ce~~<br>~~ee~~||~~ce~~<br>~~oe~~<br>~~{|~~|~~ce~~<br>~~oe~~<br>~~{|~~<br>~~|~~|~~ce~~<br>~~oe~~<br>~~|~~|~~ce~~<br>~~oe~~<br>~~ft~~|~~ce~~<br>~~oe~~<br>~~ftfo~~|4<br>~~ce~~<br>~~fo~~|||
-|Aufbaumodul Literaturgeschichte (Lit AM-<br>G) <br>~~po~~|gem. FPO BA Germanistik<br>~~ee~~<br>~~ee ee~~<br>~~po~~|||||**5**<br>~~ee ~~<br>~~po~~|~~oe~~<br>~~{|~~<br>~~po~~|~~oe~~<br>~~{|~~<br>~~|~~<br>~~po~~|~~oe~~<br>~~|~~<br>~~po~~|~~oe~~<br>~~ft~~<br>~~po~~|5<br>~~oe~~<br>~~ft fo~~<br>~~po~~|~~fo~~<br>~~po~~|gem. FPO BA Germanistik<br>~~po~~|1<br>~~po~~|
-|Aufbaumodul Literatur Wissenschaftsre-<br>flexion (Lit AM-W)<br>~~po~~|gem. FPO BA Germanistik<br>~~po~~|||||**5**<br>~~po~~|~~po~~|~~po~~|~~po~~|~~po~~|5<br>~~po~~|~~po~~|gem. FPO BA Germanistik<br>~~po~~|1<br>~~po~~|
+|||**V**|||||||||||||
+||||**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**rung**||
+||||||||||||||||
+|**1. Studienjahr(Erlangen)**|||||||||||||||
+|Französische Sprachpraxis 1|gem. FPO BA Frankoromanistik|||||**10**|8|2|||||gem. FPO BA<br>Frankoromanistik|1|
+|Grundlagen der Neueren deutschen<br>Literaturwissenschaft 1 (NdL BM 1)|gem. FPO BA Germanistik|||||**5**|5||||||gem. FPO BA<br>Germanistik|1|
+|Schrift und Lesen in Kultur und Gesell-<br>schaft|gem. FPO BA Buchwissenschaft|||||**10**|10||||||gem. FPO BA<br>Buchwissenschaft|1|
+|Methoden|gem. FPO BA Buchwissenschaft|||||**5**|5||||||gem. FPO BA<br>Buchwissenschaft|0|
+|Französische Sprachpraxis 2|gem. FPO BA Frankoromanistik|||||**5**||5|||||gem. FPO BA<br>Frankoromanistik|1|
+|Aufbaumodul Französische Sprachpraxis|Traduction version|||||**5**||3|||||Klausur<br>(Übersetzung Französisch –<br>Deutsch; 90Min.)|1|
+||Communication orale et civilisation|||||||2|||||||
+|Basismodul Französische Literaturwis-<br>senschaft|gem. FPO BA Frankoromanistik|||||**5**||5|||||gem. FPO BA<br>Frankoromanistik|1|
+|Grundlagen der Neueren deutschen Lite-<br>raturwissenschaft 2 (NdL BM 2)|gem. FPO BA Germanistik|||||**5**||5|||||gem. FPO BA<br>Germanistik|1|
+|Mediennutzung und Leseverhalten|gem. FPO BA Buchwissenschaft|||||**10**|4|6|||||gem. FPO BA<br>Buchwissenschaft|1|
+|**2. Studienjahr(Clermont-Ferrand)**|||||||||||||||
+|Lehrveranstaltungen an der Partneruni-<br>versität2|siehe Anlage 2|||||**30**|||30||||vgl. § 4 Abs. 2 Satz 2 i. V. m.<br>Anlage 2|1|
+|Lehrveranstaltungen an der Partneruni-<br>versität2|siehe Anlage 2|||||**30**||||30|||vgl. § 4 Abs. 2 Satz 2 i. V. m.<br>Anlage 2|1|
+|**3. Studienjahr(Erlangen) vgl.§ 4 Abs. 2**|**Satz 3**||||||||||||||
+|Vertiefungsmodul Französische Literatur-<br>und Kulturwissenschaft|Mittelseminar||||2|**10**|||||6||Hausarbeit (15 S.)|1|
+||Vorlesungoder Seminar|2||||||||||4|||
+|Aufbaumodul Literaturgeschichte (Lit AM-<br>G)|gem. FPO BA Germanistik|||||**5**|||||5||gem. FPO BA Germanistik|1|
+|Aufbaumodul Literatur Wissenschaftsre-<br>flexion (Lit AM-W)|gem. FPO BA Germanistik|||||**5**|||||5||gem. FPO BA Germanistik|1|
 
 4 
 
-|**Modulbezeichnung**<br>~~ee~~|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der**<br>**Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der**<br>**Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
-|Akteure, Strukturen und Regulierung<br>~~ee~~<br>~~ee~~|gem. FPO BA Buchwissenschaft|||||**10**|||||10||gem. FPO BA<br>Buchwissenschaft|1|
-|Theoretische Grundlagen<br>~~ee~~<br>~~ee~~<br>~~es~~|gem. FPO BA Buchwissenschaft<br>~~PdOa nd~~|||||**5**<br>~~nd~~|||~~GO~~|~~GO~~|5<br>~~GO~~||gem. FPO BA<br>Buchwissenschaft|1|
-|Literatur und Buch D – F<br>~~ee~~<br>~~es~~|Oberseminar Literatur und Buch in<br>Deutschland undFrankreich<br>~~Pd~~|~~Pd~~|~~Oa nd~~|~~nd~~|2<br>~~nd~~|**5**<br>~~nd~~|||~~GO~~|~~GO~~|~~GO~~|5|Referat (30-45 Min.)|1|
-|Buchwirtschaftliches Praktikum<br>~~es~~<br>~~es~~|Buchwirtschaftliches Praktikum<br>(4 Wochen, in Deutschland oder Frank-<br>reich)<br>~~Pd~~<br>~~dG~~|~~Pd ~~<br>~~dG~~|~~Oa nd~~<br>~~dG~~|~~nd~~<br>~~dG~~|~~nd~~<br>~~dG~~|**5**<br>~~nd~~<br>~~dG~~|~~dG~~|~~dG~~|~~GO~~<br>~~dG~~|~~GO~~<br>~~dG~~|~~GO~~<br>~~dG~~|5<br>~~dG~~|Praktikumsbericht (ca. 5 S.)<br>~~dG~~|0<br>~~dG~~|
-|Schlüsselqualifikationen gemäß<br>§ 34**ABMStPO/Phil**<br>~~es~~<br>~~es~~|3<br>~~dG~~<br>~~Ge~~<br>~~Gdfnde~~|||||**5**<br>~~dG~~|~~dG~~<br>~~Oe~~|~~dG~~<br>|~~dG~~<br>~~Ge~~|~~dG~~<br>~~Ge~~|~~dG~~<br>~~Ge~~|5<br>~~dG~~<br>~~Ge~~|3<br>~~dG~~|0<br>~~dG~~|
-|Bachelorarbeit<br>~~es~~<br>~~es~~|Bachelorarbeit<br>~~dG~~<br>~~Ge~~|~~dG~~<br>~~Gd~~|~~dG~~<br>~~fn~~|~~dG~~<br>~~de~~|~~dG~~<br>~~de~~|**10**<br>~~dG~~|~~dG~~<br>~~Oe~~|~~dG~~<br>|~~dG~~<br>~~Ge~~|~~dG~~<br>~~Ge~~|~~dG~~<br>~~Ge~~|10<br>~~dG~~<br>~~Ge~~|Bachelorarbeit (ca. 40 S.)<br>~~dG~~|2<br>~~dG~~|
-|**Summe SWS (mind.) und ECTS-Punkte:**<br>~~esGe~~||**2**<br>~~Gd ~~|~~fn ~~|~~de~~|**4**<br>~~de~~|**180**|**32**<br>~~Oe ~~|**28**<br>|**30**<br> ~~Ge~~|**30**<br>~~Ge~~|**31**<br>~~Ge~~|**29**<br>~~Ge~~|||
+|||**V**|||||||||||||
+||||**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**rung**||
+||||||||||||||||
+|Akteure, Strukturen und Regulierung|gem. FPO BA Buchwissenschaft|||||**10**|||||10||gem. FPO BA<br>Buchwissenschaft|1|
+|Theoretische Grundlagen|gem. FPO BA Buchwissenschaft|||||**5**|||||5||gem. FPO BA<br>Buchwissenschaft|1|
+|Literatur und Buch D – F|Oberseminar Literatur und Buch in<br>Deutschland undFrankreich||||2|**5**||||||5|Referat (30-45 Min.)|1|
+|Buchwirtschaftliches Praktikum|Buchwirtschaftliches Praktikum<br>(4 Wochen, in Deutschland oder Frank-<br>reich)|||||**5**||||||5|Praktikumsbericht (ca. 5 S.)|0|
+|Schlüsselqualifikationen gemäß<br>§ 34**ABMStPO/Phil**|3|||||**5**||||||5|3|0|
+|Bachelorarbeit|Bachelorarbeit|||||**10**||||||10|Bachelorarbeit (ca. 40 S.)|2|
+|**Summe SWS (mind.) und ECTS-Punkte:**||**2**|||**4**|**180**|**32**|**28**|**30**|**30**|**31**|**29**|||
 |||**6**|||||||||||||
 
 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
@@ -126,6 +150,10 @@ Gemäß § 26 Abs. 3 **ABMStPO/Phil** wird die Gestaltung der Abschlussdokumente
 > 3 Art und Umfang der Lehrveranstaltungen und der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der einschlägigen **(Fach)Prüfungsordnung** dem Modulhandbuch zu entnehmen. 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage 2: Studienverlaufsplan B.A. Literatur und Buch (3. und 4. Semester für die Studierenden der FAU an der Université Clermont Auvergne (UCA))** 
 
@@ -143,6 +171,10 @@ Gemäß § 26 Abs. 3 **ABMStPO/Phil** wird die Gestaltung der Abschlussdokumente
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der**<br>**Prüfung**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
@@ -155,6 +187,10 @@ Gemäß § 26 Abs. 3 **ABMStPO/Phil** wird die Gestaltung der Abschlussdokumente
 |_Culture disciplinaire 4_<br>[Fachwissenschaft 3: dt. Literatur, Autoren]|Nach Maßgabe der an der UCA für den<br>Studiengang_Licence Études Européennes et_<br>_internationales –Parcours Métiers du Livre_<br>_franco-allemands_einschlägigen<br>Prüfungsordnung|||||**3**||||3|||Nach Maßgabe der an der UCA für den<br>Studiengang_Licence Études Européennes_<br>_et internationales –Parcours Métiers du_<br>_Livre franco-allemands_einschlägigen<br>Prüfungsordnung|
 
 7 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der**<br>**Prüfung**|**Art und Umfang der**<br>**Prüfung**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -172,6 +208,10 @@ Alle Angaben stehen unter dem Vorbehalt abweichender Regelungen der an der UCA f
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 3: Studienverlaufsplan B.A. Literatur und Buch (1. und 2. Semester für die französischen Studierenden, Université Clermont Auvergne (UCA))** 
 
 |**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der**<br>**Prüfung**|
@@ -187,6 +227,10 @@ Alle Angaben stehen unter dem Vorbehalt abweichender Regelungen der an der UCA f
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 |**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der**<br>**Prüfung**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
@@ -199,6 +243,10 @@ Alle Angaben stehen unter dem Vorbehalt abweichender Regelungen der an der UCA f
 |_Culture disciplinaire 2_<br>[Fachwissenschaft 2: dt. Literatur]|Nach Maßgabe der an der UCA für den<br>Studiengang_Licence Études Européennes et_<br>_internationales –Parcours Métiers du Livre_<br>_franco-allemands_einschlägigen<br>Prüfungsordnung|||||**3**||3|||||Nach Maßgabe der an der UCA für den<br>Studiengang_Licence Études Européennes et_<br>_internationales –Parcours Métiers du Livre_<br>_franco-allemands_einschlägigen<br>Prüfungsordnung|
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1**|**Art und Umfang der**<br>**Prüfung**|**Art und Umfang der**<br>**Prüfung**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -214,15 +262,21 @@ Alle Angaben stehen unter dem Vorbehalt abweichender Regelungen der an der UCA f
 
 11 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Erläuterungen:** 
 
 Alle Angaben stehen unter dem Vorbehalt abweichender Regelungen der an der UCA für den Studiengang Licence Etudes Européennes et internationales – Parcours Métiers du Livre franco-allemands einschlägigen Prüfungsordnung. Maßgeblich ist insoweit ausschließlich die Prüfungsordnung an der UCA. 
 
 12 
 
-Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026 Erlangen, den 5. März 2026 
+**==> picture [165 x 49] intentionally omitted <==**
 
-FAU 
+**==> picture [114 x 46] intentionally omitted <==**
+
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026 Erlangen, den 5. März 2026 FAU 
 
 gez. 
 

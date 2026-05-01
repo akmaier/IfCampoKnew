@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Christliche Medienkommunikation FPO C-M-K 20150611 i.d.F. 20180711.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Theologie/Christliche_Medienkommunikation/konsolidierte_Fassungen/MA_Christliche_Medienkommunikation_FPO_C-M-K_20150611_idF_20180711.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:35:11+00:00
+scraped_at: 2026-05-01T08:42:05+00:00
 page_count_chars: 64564
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 15.12.2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-BA%20MA-Energietechnik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:51:12+00:00
+scraped_at: 2026-05-01T10:02:09+00:00
 page_count_chars: 8093
 ---
 

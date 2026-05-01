@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Artificial Intelligence in Biomedical Engineering"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/
-scraped_at: 2026-04-25T16:46:47+00:00
+scraped_at: 2026-05-01T09:56:07+00:00
 ---
 
 # Artificial Intelligence in Biomedical Engineering

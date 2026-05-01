@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Medizinische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "> 600"
-scraped_at: 2026-04-25T14:13:04+00:00
+scraped_at: 2026-05-01T06:48:56+00:00
 ---
 
 # Medizin (Staatsexamen)

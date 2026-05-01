@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "28. November 2006"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AeSa-PrO-Intern-WiRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:08:23+00:00
+scraped_at: 2026-05-01T09:17:39+00:00
 page_count_chars: 3788
 ---
 

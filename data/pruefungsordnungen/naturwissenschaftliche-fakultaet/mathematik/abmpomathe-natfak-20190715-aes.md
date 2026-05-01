@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "ABMPOMathe-NatFak 20190715 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20190715_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:54:57+00:00
+scraped_at: 2026-05-01T07:47:42+00:00
 page_count_chars: 26623
 ---
 

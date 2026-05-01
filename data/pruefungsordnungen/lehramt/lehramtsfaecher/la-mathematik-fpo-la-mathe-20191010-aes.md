@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Mathematik  FPO LA Mathe 20191010 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Mathematik/Aenderungssatzungen/LA Mathematik_ FPO_LA_Mathe_20191010_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:28:05+00:00
+scraped_at: 2026-05-01T07:13:55+00:00
 page_count_chars: 17371
 ---
 

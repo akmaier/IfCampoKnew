@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-04-25T14:12:44+00:00
+scraped_at: 2026-05-01T06:48:27+00:00
 ---
 
 # Materials Science and Engineering (M.Sc.)

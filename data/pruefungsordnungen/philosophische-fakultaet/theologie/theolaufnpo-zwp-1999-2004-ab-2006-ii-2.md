@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/TheolAufnPO ZWP 1999-2004 ab 2006-II-(2).pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:36:29+00:00
+scraped_at: 2026-05-01T08:44:16+00:00
 page_count_chars: 33808
 ---
 

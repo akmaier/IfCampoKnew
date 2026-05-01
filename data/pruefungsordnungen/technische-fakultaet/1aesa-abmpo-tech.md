@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_ABMPO_Tech.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:44:24+00:00
+scraped_at: 2026-05-01T09:55:13+00:00
 page_count_chars: 2394
 ---
 

@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:13:19+00:00
+scraped_at: 2026-05-01T06:49:20+00:00
 ---
 
 # Molekulare Medizin (B.Sc.)

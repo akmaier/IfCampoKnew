@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BS MSc Psychologie BMStPO 20241219 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BS_MSc_Psychologie_BMStPO_20241219_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:19:52+00:00
+scraped_at: 2026-05-01T08:21:48+00:00
 page_count_chars: 20617
 ---
 

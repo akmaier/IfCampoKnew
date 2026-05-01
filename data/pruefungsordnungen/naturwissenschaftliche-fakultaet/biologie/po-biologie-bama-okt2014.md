@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.08.2008 i.d.F. 06.10.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/PO-Biologie-BAMa-OKT2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:40:23+00:00
+scraped_at: 2026-05-01T07:30:43+00:00
 page_count_chars: 73034
 ---
 

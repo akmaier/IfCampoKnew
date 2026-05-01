@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Philosophie FPOPhilo 20190520 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Philosophie/Aenderungssatzungen/MA_Philosophie_FPOPhilo_20190520_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:29:04+00:00
+scraped_at: 2026-05-01T08:36:19+00:00
 page_count_chars: 10133
 ---
 

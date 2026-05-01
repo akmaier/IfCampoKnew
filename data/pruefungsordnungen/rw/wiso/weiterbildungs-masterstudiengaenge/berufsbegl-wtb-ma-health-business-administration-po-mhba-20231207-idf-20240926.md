@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl. WTB MA Health Business Administration PO MHBA 20231207 i.d.F. 20240926.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Health_Business_Administration/konsolidierte_Fassungen/berufsbegl._WTB_MA_Health_Business_Administration_PO_MHBA_20231207_idF_20240926.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:38:31+00:00
+scraped_at: 2026-05-01T09:47:37+00:00
 page_count_chars: 69365
 ---
 

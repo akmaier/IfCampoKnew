@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Technische Fakultät"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:46:21+00:00
+scraped_at: 2026-05-01T09:55:49+00:00
 ---
 
 # Technische Fakultät

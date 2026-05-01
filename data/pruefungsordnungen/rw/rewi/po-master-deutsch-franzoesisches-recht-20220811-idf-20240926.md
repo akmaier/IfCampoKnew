@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PO Master Deutsch-Französisches-Recht 20220811 i.d.F. 20240926.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/konsolidierte_Fassungen/PO_Master_Deutsch-Französisches-Recht_20220811_idF_20240926.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:09:48+00:00
+scraped_at: 2026-05-01T09:18:30+00:00
 page_count_chars: 69276
 ---
 

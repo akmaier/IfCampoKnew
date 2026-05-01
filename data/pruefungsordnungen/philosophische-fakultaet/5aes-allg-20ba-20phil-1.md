@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "3. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-Allg%20BA%20Phil_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-04-25T15:10:01+00:00
+scraped_at: 2026-05-01T08:05:27+00:00
 page_count_chars: 2962
 ---
 

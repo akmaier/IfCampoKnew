@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Chemie und Pharmazie"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:47:17+00:00
+scraped_at: 2026-05-01T07:38:32+00:00
 ---
 
 # Chemie und Pharmazie

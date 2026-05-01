@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 07.06.2011 i.d.F. 18.02.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_ChemEngin-NachhaltigeChemTechn.18FEB2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:48:19+00:00
+scraped_at: 2026-05-01T09:58:21+00:00
 page_count_chars: 25993
 ---
 

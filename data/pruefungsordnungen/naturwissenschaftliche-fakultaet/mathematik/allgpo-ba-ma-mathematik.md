@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 11.03.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/AllgPO_BA-MA_Mathematik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:55:07+00:00
+scraped_at: 2026-05-01T07:47:57+00:00
 page_count_chars: 65231
 ---
 

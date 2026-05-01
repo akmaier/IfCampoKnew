@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Ökonomie FPO Ökon Zwei-Fach 20071005 i.d.F. 20200923.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Oekonomie/konsolidierte_Fassungen/2-Fach-BA_Oekonomie_FPO_Oekon_Zwei-Fach_20071005_idF_20200923.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:01:19+00:00
+scraped_at: 2026-05-01T09:08:42+00:00
 page_count_chars: 17683
 ---
 

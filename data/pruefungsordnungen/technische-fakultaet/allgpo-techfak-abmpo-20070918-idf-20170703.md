@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 18.09.2007 i.d.F. 03.07.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/AllgPO_TechFak_ABMPO_20070918_idF_20170703.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:43:46+00:00
+scraped_at: 2026-05-01T09:54:15+00:00
 page_count_chars: 76661
 ---
 

@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-04-25T14:13:54+00:00
+scraped_at: 2026-05-01T06:50:08+00:00
 ---
 
 # Physics (M.Sc.)

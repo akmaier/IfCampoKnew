@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach BA Philosophie FPO B.A. Philosophie Zwei-Fach 20071005 i.d.F. 20210122.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Philosophie/konsolidierte_Fassungen/2-Fach_BA_Philosophie_FPO_B.A._Philosophie_Zwei-Fach_20071005_idF_20210122.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:02:34+00:00
+scraped_at: 2026-05-01T09:10:33+00:00
 page_count_chars: 16189
 ---
 

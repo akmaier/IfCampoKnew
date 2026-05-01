@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Allg StuO PrO BA-MA Phil ABMStPO Phil 20220629 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/APO_Bachelor_Master/Aenderungssatzungen/Allg_StuO_PrO_BA-MA_Phil_ABMStPO_Phil_20220629_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-04-25T15:08:54+00:00
+scraped_at: 2026-05-01T08:03:27+00:00
 page_count_chars: 15421
 ---
 

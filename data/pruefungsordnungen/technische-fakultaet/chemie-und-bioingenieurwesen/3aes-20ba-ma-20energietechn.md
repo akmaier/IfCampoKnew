@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AES%20BA-MA%20Energietechn.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:51:01+00:00
+scraped_at: 2026-05-01T10:01:50+00:00
 page_count_chars: 16452
 ---
 

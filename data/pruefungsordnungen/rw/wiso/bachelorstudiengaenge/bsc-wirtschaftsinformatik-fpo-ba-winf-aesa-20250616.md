@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Wirtschaftsinformatik FPO BA WInf ÄSa 20250616.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftsinformatik/Aenderungssatzungen/BSc_Wirtschaftsinformatik_FPO_BA_WInf_AeSa_20250616.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:15:38+00:00
-page_count_chars: 11526
+scraped_at: 2026-05-01T09:27:34+00:00
+page_count_chars: 12771
 ---
 
 # BSc Wirtschaftsinformatik FPO BA WInf ÄSa 20250616.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftsinformatik/Aenderungssatzungen/BSc_Wirtschaftsinformatik_FPO_BA_WInf_AeSa_20250616.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsinformatik am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPO BA WInf – Vom 16. Juni 2025** 
 
@@ -35,6 +39,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsin
    - bb) In Satz 5 wird nach den Worten „wird im“ das Wort „Modulkatalog“ durch das Wort „Modulhandbuch“ ersetzt. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
    - c) Abs. 3 wird wie folgt geändert: 
 
@@ -66,6 +74,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsin
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 aa) Es werden folgende Sätze 1 und 2 neu angefügt: 
 
 „[1] Im Wahlpflichtbereich Informatik erwerben Studierende Kenntnisse aus verschiedenen Bereichen der Informatik. Diese Bereiche umfassen beispielsweise, Datenbanksysteme, ITSicherheit, künstliche Intelligenz oder die Softwareentwicklung. 2Das übergeordnete Qualifikationsziel ist dabei, es Studierenden zu ermöglichen, Einblicke in verschiedene Bereiche zu erlangen oder sich auf bestimmte Bereiche spezialisieren zu können.“ 
@@ -94,6 +106,10 @@ aa) Es werden folgende Sätze 1 und 2 neu angefügt:
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 des Wahlpflichtbereichs Methodische Grundlagen wird im Modulhandbuch vor Semesterbeginn ortsüblich bekanntgemacht.“ 
 
 - b) Abs. 2 wird wie folgt geändert: 
@@ -119,6 +135,10 @@ des Wahlpflichtbereichs Methodische Grundlagen wird im Modulhandbuch vor Semeste
 - e) In Zeile 12 (Modulbezeichnung „Algorithmen und Datenstrukturen für MT – Übung (GOP)“) Spalte 6 (Art und Umfang der Prüfung) wird die hochgestellte Zahl „[1)] “ durch die hochgestellte Zahl „[2)] “ ersetzt. 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - f) In Zeile 13 (Modulbezeichnung „Einführung in Datenbanken für Wirtschaftsinformatik“) Spalte 6 (Art und Umfang der Prüfung) wird die hochgestellte Zahl „[2)] “ durch die hochgestellte Zahl „[3)] “ ersetzt. 
 
@@ -150,17 +170,43 @@ des Wahlpflichtbereichs Methodische Grundlagen wird im Modulhandbuch vor Semeste
 
 5 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 bereits nach der Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsinformatik am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPO BA WInf – vom 22. August 2023 studieren. 
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anhang: Studienverlaufsplan der FPO BA WInf in der Fassung vom 22. August 2023 im Änderungsmodus:** 
+
+**==> picture [677 x 410] intentionally omitted <==**
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+**==> picture [681 x 417] intentionally omitted <==**
+
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+**==> picture [669 x 132] intentionally omitted <==**
+
 9 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 4. Juni 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 16. Juni 2025 Erlangen, den 16. Juni 2025 
 

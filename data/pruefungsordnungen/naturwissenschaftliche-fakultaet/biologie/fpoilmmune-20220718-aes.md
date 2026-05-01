@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOilmmune 20220718 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/Aenderungssatzungen/FPOilmmune_20220718_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:42:43+00:00
+scraped_at: 2026-05-01T07:32:50+00:00
 page_count_chars: 16543
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "ABMPO-TF 20220726 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Allgemeine_PO_Bachelor_Master/Aenderungssatzungen/ABMPO-TF_20220726_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:43:28+00:00
+scraped_at: 2026-05-01T09:53:47+00:00
 page_count_chars: 8299
 ---
 

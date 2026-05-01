@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Kunstgeschichte MFPOKunstGesch 20200214 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Kunstgeschichte/Aenderungssatzungen/MA_Kunstgeschichte_MFPOKunstGesch_20200214_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:25:47+00:00
+scraped_at: 2026-05-01T08:31:12+00:00
 page_count_chars: 18042
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BA-MA Life Science Engineering FPOLSE 20070924 i.d.F. 20191203.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Life_Science_Engineering_bis_01_Oktober_2030/konsolidierte_Fassungen/BA-MA_Life_Science_Engineering_FPOLSE_20070924_idF_20191203.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:51:20+00:00
+scraped_at: 2026-05-01T10:02:22+00:00
 page_count_chars: 34441
 ---
 

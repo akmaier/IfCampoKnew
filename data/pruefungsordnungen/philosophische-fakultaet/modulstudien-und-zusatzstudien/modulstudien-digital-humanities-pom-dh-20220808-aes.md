@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Digital Humanities POM-DH 20220808 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/Aenderungssatzungen/Modulstudien_Digital_Humanities_POM-DH_20220808_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-04-25T15:30:59+00:00
+scraped_at: 2026-05-01T08:39:15+00:00
 page_count_chars: 3296
 ---
 

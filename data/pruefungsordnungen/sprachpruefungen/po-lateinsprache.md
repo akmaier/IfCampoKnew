@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 11.06.1980 i.d.F. 04.10.1996)"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/PO_LateinSprache.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:42:28+00:00
+scraped_at: 2026-05-01T09:52:25+00:00
 page_count_chars: 11018
 ---
 

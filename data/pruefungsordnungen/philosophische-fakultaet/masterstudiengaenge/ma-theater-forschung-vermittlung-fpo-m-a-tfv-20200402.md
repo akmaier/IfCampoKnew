@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Theater - Forschung - Vermittlung FPO M.A. TFV 20200402.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Theater-Forschung-Vermittlung/konsolidierte_Fassungen/MA_Theater - Forschung - Vermittlung_FPO_M.A._TFV_20200402.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:30:20+00:00
+scraped_at: 2026-05-01T08:38:25+00:00
 page_count_chars: 13208
 ---
 

@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Bachelorstudiengänge"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:17:11+00:00
+scraped_at: 2026-05-01T09:29:56+00:00
 ---
 
 # Bachelorstudiengänge

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 01.12.2009 i.d.F. 18.08.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/FPO_MA-WiPaed_AUG2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:35:52+00:00
+scraped_at: 2026-05-01T09:43:32+00:00
 page_count_chars: 33233
 ---
 

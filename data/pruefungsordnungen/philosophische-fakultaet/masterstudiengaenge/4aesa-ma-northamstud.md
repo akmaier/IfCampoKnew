@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "8. August 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AeSa_MA_NorthAmStud.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:28:16+00:00
+scraped_at: 2026-05-01T08:34:58+00:00
 page_count_chars: 3149
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Biologie FPO LA Bio 20090309 i.d.F. 20220627.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Biologie/konsolidierte_Fassungen/LA_Biologie_FPO_LA_Bio_20090309_idF_20220627.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:20:25+00:00
+scraped_at: 2026-05-01T07:00:09+00:00
 page_count_chars: 69862
 ---
 

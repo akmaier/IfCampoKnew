@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "Verbundstudium/Duales Studium"
-scraped_at: 2026-04-25T14:14:25+00:00
+scraped_at: 2026-05-01T06:50:47+00:00
 ---
 
 # Sozialökonomik (B.A.)

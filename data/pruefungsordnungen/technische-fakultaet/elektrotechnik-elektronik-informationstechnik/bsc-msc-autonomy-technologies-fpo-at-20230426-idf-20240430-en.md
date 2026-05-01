@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20240430 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Autonomy_Technologies/englisch/BSc-MSc_Autonomy_Technologies_FPO AT_20230426_idF_20240430_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-04-25T16:53:27+00:00
+scraped_at: 2026-05-01T10:05:14+00:00
 page_count_chars: 43117
 ---
 

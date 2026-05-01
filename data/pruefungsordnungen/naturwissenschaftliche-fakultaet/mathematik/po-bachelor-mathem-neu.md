@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 15.02.1985 i.d.F. 04.11.2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/PO_Bachelor_Mathem_neu.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:59:27+00:00
+scraped_at: 2026-05-01T07:54:23+00:00
 page_count_chars: 49249
 ---
 

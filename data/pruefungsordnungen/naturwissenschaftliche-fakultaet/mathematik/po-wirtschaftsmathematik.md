@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 22.10.2002 i.d.F. 07.07.2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/PO_Wirtschaftsmathematik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T15:02:00+00:00
+scraped_at: 2026-05-01T07:55:08+00:00
 page_count_chars: 53041
 ---
 

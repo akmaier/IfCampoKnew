@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Ein-Fach-BA  Islamisch Religiöse Studien BA IRS Ein-Fach 20180709 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Ein-Fach/Islamisch_-_Religioese_Studien/Aenderungssatzungen/Ein-Fach-BA_ Islamisch_Religioese_Studien_BA_IRS_Ein-Fach_20180709_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:10:53+00:00
+scraped_at: 2026-05-01T08:06:53+00:00
 page_count_chars: 8145
 ---
 

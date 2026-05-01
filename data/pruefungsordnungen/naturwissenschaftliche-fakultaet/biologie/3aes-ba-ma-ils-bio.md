@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "11. Mai 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_BA_MA_ILS_Bio.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:43:29+00:00
+scraped_at: 2026-05-01T07:33:55+00:00
 page_count_chars: 13496
 ---
 

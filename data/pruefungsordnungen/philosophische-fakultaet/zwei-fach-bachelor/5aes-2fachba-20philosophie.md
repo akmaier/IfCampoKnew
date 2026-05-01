@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-2FachBA%20Philosophie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:02:43+00:00
+scraped_at: 2026-05-01T09:10:48+00:00
 page_count_chars: 3757
 ---
 

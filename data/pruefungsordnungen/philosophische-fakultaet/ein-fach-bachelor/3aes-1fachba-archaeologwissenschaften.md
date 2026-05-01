@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "21. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES-1FachBA ArchaeologWissenschaften.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:10:34+00:00
+scraped_at: 2026-05-01T08:06:19+00:00
 page_count_chars: 14647
 ---
 

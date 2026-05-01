@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl WTB Marketing Management PO MMM 20190815 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Marketing_Vertriebsmanagement/Marketing_Management/Aenderungssatzungen/berufsbegl_WTB_Marketing_Management_PO_MMM_20190815_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:39:49+00:00
+scraped_at: 2026-05-01T09:49:45+00:00
 page_count_chars: 28643
 ---
 

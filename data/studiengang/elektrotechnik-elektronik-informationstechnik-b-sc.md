@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-04-25T14:10:09+00:00
+scraped_at: 2026-05-01T06:44:33+00:00
 ---
 
 # Elektrotechnik – Elektronik – Informationstechnik (B.Sc.)

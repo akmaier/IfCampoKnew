@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Medical Process Management MPM 20081107 i.d.F. 20190806 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Medical_Process_Management/englisch/MA_Medical_Process_Management_MPM_20081107_idF_20190806_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:33:04+00:00
+scraped_at: 2026-05-01T07:22:25+00:00
 page_count_chars: 66104
 ---
 

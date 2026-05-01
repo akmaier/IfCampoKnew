@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 25.11.1988 i.d.F. 04.11.2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/DPO_Volkswirtschaft.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-04-25T16:20:30+00:00
+scraped_at: 2026-05-01T09:31:05+00:00
 page_count_chars: 52739
 ---
 

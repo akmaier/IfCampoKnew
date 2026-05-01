@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 24.09.2007 i.d.F. 07.07.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_LifeScEng-7JULI2010_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:52:00+00:00
+scraped_at: 2026-05-01T10:03:35+00:00
 page_count_chars: 21675
 ---
 

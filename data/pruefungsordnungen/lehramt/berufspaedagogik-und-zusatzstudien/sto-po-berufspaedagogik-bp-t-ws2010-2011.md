@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 19.02.2009 i.d.F. 09.09.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/StO-PO-Berufspaedagogik-BP-T-WS2010-2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-04-25T14:19:18+00:00
+scraped_at: 2026-05-01T06:58:34+00:00
 page_count_chars: 58590
 ---
 

@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "> 600"
 besondere_studienformen: "Studiengang mit Doppelabschluss, Verbundstudium/Duales Studium"
-scraped_at: 2026-04-25T14:14:57+00:00
+scraped_at: 2026-05-01T06:51:34+00:00
 ---
 
 # Wirtschaftswissenschaften (B.A.)

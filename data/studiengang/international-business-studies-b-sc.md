@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot, Verbundstudium/Duales Studium"
-scraped_at: 2026-04-25T14:11:32+00:00
+scraped_at: 2026-05-01T06:46:45+00:00
 ---
 
 # International Business Studies (B.Sc.)

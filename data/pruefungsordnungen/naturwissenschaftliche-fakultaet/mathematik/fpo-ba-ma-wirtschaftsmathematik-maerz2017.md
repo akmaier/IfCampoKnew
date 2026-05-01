@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 11.03.2015 i.d.F. 13.03.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/FPO_BA_MA_Wirtschaftsmathematik_Maerz2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:58:14+00:00
+scraped_at: 2026-05-01T07:52:39+00:00
 page_count_chars: 46302
 ---
 

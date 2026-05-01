@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: ")"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/StuO_PrO_Allg_ BA_ Phil JULI2014_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:39:34+00:00
+scraped_at: 2026-05-01T08:47:33+00:00
 page_count_chars: 88960
 ---
 

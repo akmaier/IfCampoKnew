@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BA-MA Energietechnik FPOET 20081215 i.d.F. 20180801.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Energietechnik/konsolidierte_Fassungen/BA-MA_Energietechnik_FPOET_20081215_idF_20180801.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:50:37+00:00
+scraped_at: 2026-05-01T10:01:03+00:00
 page_count_chars: 29448
 ---
 

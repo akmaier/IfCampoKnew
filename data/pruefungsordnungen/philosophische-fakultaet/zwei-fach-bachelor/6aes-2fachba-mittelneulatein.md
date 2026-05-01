@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Mai 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA_MittelNeuLatein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:00:27+00:00
+scraped_at: 2026-05-01T09:07:17+00:00
 page_count_chars: 4580
 ---
 

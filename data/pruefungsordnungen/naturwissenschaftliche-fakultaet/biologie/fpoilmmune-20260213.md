@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOilmmune 20260213.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/konsolidierte_Fassungen/FPOilmmune_20260213.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:42:15+00:00
-page_count_chars: 90512
+scraped_at: 2026-05-01T07:32:00+00:00
+page_count_chars: 92245
 ---
 
 # FPOilmmune 20260213.pdf
@@ -12,74 +12,25 @@ page_count_chars: 90512
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/konsolidierte_Fassungen/FPOilmmune_20260213.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/>
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Studien- und Prüfungsordnung für den Elite-Masterstudiengang Integrated Immunology (iImmune) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO iImmune – Vom 13. Februar 2026** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 86 Abs. 3 Satz 4, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2, Art. 96 Abs. 3 Bayerisches Hochschulinnovationsgesetz ( **BayHIG** ) vom 5. August 2022 in der geltenden Fassung erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
 ## **Inhaltsverzeichnis:** 
 
-**==> picture [455 x 492] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-|||
-|---|---|
-|I. Teil: Allgemeine Bestimmungen|..................................................................................... 2|
-|Präambel ............................................................................................................................... 2|
-|§ 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2|
-|§ 2 Personenbezogene Daten, Kommunikation ..................................................................... 2|
-|§ 3 Qualifikation zum Masterstudium, Zugangsvoraussetzungen .......................................... 3|
-|§ 4 Zugang zum Studiengang für ausländische Bewerberinnen und Bewerber ..................... 3|
-|§ 5 Akademischer Grad ......................................................................................................... 4|
-|§ 6 Struktur des Masterstudiengangs und der Prüfungen, Regelstudienzeit und|
-|Studienbeginn, Unterrichts- und Prüfungssprache ................................................................. 4|
-|§ 7 ECTS-Punkte .................................................................................................................. 5|
-|§ 8 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen|
-|.............................................................................................................................................. 5|
-|§ 9 Prüfungsfristen, Fristversäumnis ..................................................................................... 6|
-|§ 10 Prüfungsausschuss ....................................................................................................... 7|
-|§ 11 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung,|
-|Verschwiegenheitspflicht ....................................................................................................... 8|
-|§ 12 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung und Rücktritt.......... 9|
-|§ 13 Anerkennung und Anrechnung von Kompetenzen ........................................................10|
-|§ 14 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der|
-|weiteren Teilnahme ..............................................................................................................11|
-|§ 15 Entzug akademischer Grade ........................................................................................13|
-|§ 16 Mängel im Prüfungsverfahren .......................................................................................13|
-|§ 17 Anwesenheitspflicht ......................................................................................................13|
-|§ 18 Nachteilsausgleich ........................................................................................................14|
-|§ 19 Schriftliche Prüfung, Antwort-Wahl-Verfahren ...............................................................15|
-|§ 20 Mündliche Prüfung ........................................................................................................16|
-|§ 21 Elektronische Prüfung in Präsenz .................................................................................16|
-|§ 22 Bewertung der Prüfungen, Notenstufen, Gesamtnote ...................................................17|
-|§ 23 Wiederholung von Prüfungen; Modulwechsel ...............................................................18|
-|§ 24 Zusatzmodule ...............................................................................................................18|
-|§ 25 Ungültigkeit der Prüfung ...............................................................................................19|
-|§ 26 Einsicht in die Prüfungsakten........................................................................................19|
-|§ 27 Zeugnis, Transcript of Records, Diploma Supplement, Grade distribution table, Urkunde|
-|.............................................................................................................................................19|
-|§ 28 Bescheinigung über endgültig nicht bestandene Prüfung .............................................20|
-|II. Besondere Vorschriften:|................................................................................................20|
-|§ 29 Zulassungsvoraussetzungen für die Prüfungen ............................................................20|
-|§ 30 Masterprüfung ..............................................................................................................20|
-|§ 31 Master Thesis ...............................................................................................................21|
-
-**----- End of picture text -----**<br>
+**I. Teil: Allgemeine Bestimmungen** ..................................................................................... 2 Präambel ............................................................................................................................... 2 § 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Personenbezogene Daten, Kommunikation ..................................................................... 2 § 3 Qualifikation zum Masterstudium, Zugangsvoraussetzungen .......................................... 3 § 4 Zugang zum Studiengang für ausländische Bewerberinnen und Bewerber ..................... 3 § 5 Akademischer Grad ......................................................................................................... 4 § 6 Struktur des Masterstudiengangs und der Prüfungen, Regelstudienzeit und Studienbeginn, Unterrichts- und Prüfungssprache ................................................................. 4 § 7 ECTS-Punkte .................................................................................................................. 5 § 8 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen .............................................................................................................................................. 5 § 9 Prüfungsfristen, Fristversäumnis ..................................................................................... 6 § 10 Prüfungsausschuss ....................................................................................................... 7 § 11 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht ....................................................................................................... 8 § 12 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung und Rücktritt.......... 9 § 13 Anerkennung und Anrechnung von Kompetenzen ........................................................10 § 14 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme ..............................................................................................................11 § 15 Entzug akademischer Grade ........................................................................................13 § 16 Mängel im Prüfungsverfahren .......................................................................................13 § 17 Anwesenheitspflicht ......................................................................................................13 § 18 Nachteilsausgleich ........................................................................................................14 § 19 Schriftliche Prüfung, Antwort-Wahl-Verfahren ...............................................................15 § 20 Mündliche Prüfung ........................................................................................................16 § 21 Elektronische Prüfung in Präsenz .................................................................................16 § 22 Bewertung der Prüfungen, Notenstufen, Gesamtnote ...................................................17 § 23 Wiederholung von Prüfungen; Modulwechsel ...............................................................18 § 24 Zusatzmodule ...............................................................................................................18 § 25 Ungültigkeit der Prüfung ...............................................................................................19 § 26 Einsicht in die Prüfungsakten........................................................................................19 § 27 Zeugnis, Transcript of Records, Diploma Supplement, Grade distribution table, Urkunde .............................................................................................................................................19 § 28 Bescheinigung über endgültig nicht bestandene Prüfung .............................................20 **II. Besondere Vorschriften:** ................................................................................................20 § 29 Zulassungsvoraussetzungen für die Prüfungen ............................................................20 § 30 Masterprüfung ..............................................................................................................20 § 31 Master Thesis ...............................................................................................................21 
 
 1 
 
-**==> picture [455 x 77] intentionally omitted <==**
+**==> picture [165 x 49] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-|||
-|---|---|
-|III. Übergangs- und Schlussvorschriften|..........................................................................23|
-|§ 32 Inkrafttreten, Übergangsvorschriften .............................................................................23|
-|IV. Teil: Anlagen|.................................................................................................................24|
-|Anlage 1: Qualifikationsfeststellungsverfahren gemäß § 2|.............................................24|
-|Anlage 2: Studienverlaufsplan für den Masterstudiengang (MSc) “Integrated|
-|Immunology“|......................................................................................................................27|
+**==> picture [114 x 46] intentionally omitted <==**
 
-**----- End of picture text -----**<br>
+**III. Übergangs- und Schlussvorschriften** ..........................................................................23 § 32 Inkrafttreten, Übergangsvorschriften .............................................................................23 **IV. Teil: Anlagen** .................................................................................................................24 **Anlage 1: Qualifikationsfeststellungsverfahren gemäß § 2** .............................................24 **Anlage 2: Studienverlaufsplan für den Masterstudiengang (MSc) “Integrated Immunology“** ......................................................................................................................27 
 
 ## **I. Teil: Allgemeine Bestimmungen** 
 
@@ -101,6 +52,10 @@ Im Rahmen des Elitenetzwerks Bayern (ENB) bieten die Naturwissenschaftliche und 
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 3 Qualifikation zum Masterstudium, Zugangsvoraussetzungen** 
 
 (1)[1] Qualifikationsvoraussetzung zum Elitemasterstudium ist ein mit überdurchschnittlichem Erfolg abgeschlossenes einschlägiges Studium.[2] Diese Qualifikation zum Elitemasterstudium wird nachgewiesen durch ein Zeugnis über 
@@ -118,6 +73,10 @@ Im Rahmen des Elitenetzwerks Bayern (ENB) bieten die Naturwissenschaftliche und 
 **§ 4 Zugang zum Studiengang für ausländische Bewerberinnen und Bewerber** (1)[1] Zur Sicherstellung der hinreichenden Qualifikation aller Studierenden und Gewährleistung eines ordnungsgemäßen Qualifikationsfeststellungsverfahrens sowie eines sich daran anschließenden ordnungsgemäßen Studienbetriebs werden 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Bewerbungen von ausländischen Bewerberinnen und Bewerbern, deren Staatsangehörigkeit nicht einem Unterzeichnerstaat der Lissabon-Konvention unterfällt und für die auch kein Ausnahmetatbestand im Sinne des Art. 13 Abs. 3 Satz 2 **BayHIG** gilt, aufgrund von Art. 9 Satz 1 **BayHIG** nur in das Qualifikationsfeststellungsverfahren nach § 2 i. V. m. Anlage 1 einbezogen, wenn die Bewerbung die nachfolgenden Kriterien erfüllt bzw. Nachweise enthält: 
 
@@ -145,6 +104,10 @@ Bewerbungen von ausländischen Bewerberinnen und Bewerbern, deren Staatsangehör
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 7 ECTS-Punkte** 
 
 (1)[1] Die Organisation von Studium und Prüfungen beruht auf dem European Credit Transfer System (ECTS).[2] Das Studiensemester ist mit durchschnittlich 30 ECTSPunkten veranschlagt.[ 3] Ein ECTS-Punkt entspricht einer Arbeitszeit von 30 Stunden. 
@@ -162,6 +125,10 @@ Bewerbungen von ausländischen Bewerberinnen und Bewerbern, deren Staatsangehör
 (4)[1] Übungsleistungen (ÜL) umfassen in der Regel wöchentliches, selbstständiges Lösen von Übungsaufgaben (z. B. Tutorials mittels problemorientierten Lernens oder eLearning-Einheiten, die jeweils in Form eines Übungshefts bzw. einer Sammlung oder durch ein elektronisches Protokoll eingereicht und bewertet werden).[2] Praktische Übungsleistungen (pÜL), sehen in der Regel das Einüben von praktischen Aufgaben, deren Dokumentation in einem Protokollheft und mündliche oder schriftliche Testate zur jeweiligen praktischen Aufgabe vor.[3] Weiterhin können Seminarleistungen (SeL) (in der Regel Präsentation und schriftliche Ausarbeitung) und Exkursionsleistungen (ExL) (in der Regel Begutachtung oder Diskussionsbeitrag oder Berichte) gefordert 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 werden.[4] Die konkrete Form und der Umfang der in Sätzen 1 bis 3 genannten Prüfungen sind abhängig vom konkreten didaktischen Charakter des jeweiligen Moduls bzw. der jeweiligen Lehrveranstaltung und Abs. 5 bzw. der **Anlage 2** bzw. dem Modulhandbuch zu entnehmen. 
 
@@ -181,6 +148,10 @@ werden.[4] Die konkrete Form und der Umfang der in Sätzen 1 bis 3 genannten Pr�
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch ( **SGB XI** ) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist. 
 
 (3)[1] Die Gründe nach den Abs. 1 und 2 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Werden die Gründe anerkannt, so ist die Prüfung innerhalb der vom Prüfungsausschuss genehmigten Fristverlängerung abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden anerkannt.[3] Im Falle von Krankheit gilt § 12 Abs. 4. 
@@ -198,6 +169,10 @@ werden.[4] Die konkrete Form und der Umfang der in Sätzen 1 bis 3 genannten Pr�
 (5)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich oder elektronisch unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, 
 
 7 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag. 
 
@@ -231,6 +206,10 @@ geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stim
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 werden.[3] Im Falle von Importmodulen werden die jeweiligen Prüfenden von den für die jeweiligen Importmodule zuständigen Prüfungsausschüssen bestimmt. 
 
 (2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[3] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
@@ -251,6 +230,10 @@ werden.[3] Im Falle von Importmodulen werden die jeweiligen Prüfenden von den f
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3)[1] Unbeschadet der Fristen nach § 9 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt von nach Abs. 2 angemeldeten Prüfungen ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.[2] § 9 Abs. 3 gilt entsprechend.[3] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung für diesen Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[4] Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst zu einem späteren Termin möglich. 
 
 (4)[1] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der bzw. dem Prüfenden geltend gemacht werden.[2] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der jeweilige Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[3] Das (vertrauens-)ärztliche Attest muss eine Beschreibung der gesundheitlichen Beeinträchtigung und die Angabe der sich daraus ergebenden Verminderung des Leistungsvermögens in der Prüfung speziell durch die Störung bestimmter körperlicher oder geistiger Funktionen enthalten.[4] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit (= Prüfungsabbruch) ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.[5] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 14 Abs. 1. 
@@ -270,6 +253,10 @@ x = gesuchte Umrechnungsnote
 Nmax = beste erzielbare Note 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Nmin = unterste Bestehensnote Nd = erzielte Note umgerechnet. 
 
@@ -293,6 +280,10 @@ Nmin = unterste Bestehensnote Nd = erzielte Note umgerechnet.
 
 11 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 2Als Versuch i. S. d. Satz 1 gilt bereits das Beisichführen nicht zugelassener Hilfsmittel während oder nach Ausgabe der Prüfungsunterlagen.[3] Zu den nicht zugelassenen Hilfsmitteln in Satz 1 bei der Anfertigung von Prüfungs- bzw. Studienleistungen zählt insbesondere die Nutzung von Chatbots oder anderweitiger Systeme künstlicher Intelligenz, die die eigenständige Leistung der bzw. des Studierenden ersetzen kann, sofern diese nicht ausdrücklich von der bzw. dem Prüfenden als Hilfsmittel zugelassen wurden. 
 
 (3)[1] Besteht der begründete Verdacht für das Vorliegen eines Plagiats bzw. einer anderweitigen Täuschung, insbesondere durch den Einsatz von Systemen künstlicher Intelligenz im Sinne des Abs. 2 Satz 3, so sind die zuständigen Prüfenden im Rahmen der Sachverhaltsermittlung nach Art. 26 **BayVwVfG** insbesondere auch dazu berechtigt, im Rahmen eines Kontrollgesprächs mithilfe von Fragen zum ursprünglichen Prüfungsgegenstand abzuprüfen, ob die bzw. der betreffende Studierende den Prüfungsstoff beherrscht.[2] Die bzw. der Prüfende bestimmt Zeitpunkt, Ort und Dauer des Gesprächs und gibt diese rechtzeitig vorher bekannt.[ 3] Ein begründeter Verdacht im Sinne des Satzes 1 ist gegeben, wenn nach dem Erfahrungswissen der bzw. des Prüfenden ein für das Vorliegen eines Plagiats bzw. einer Täuschung typischer Sachverhalt gegeben ist, der aufgrund des allgemeinen Erfahrungswissens zu dem Schluss berechtigt, dass ein Plagiat bzw. eine Täuschung vorliegt.[4] Das Kontrollgespräch wird von den für die ursprüngliche Prüfung zuständigen Prüfenden durchgeführt; war für die ursprüngliche Prüfung nur eine Prüfende bzw. ein Prüfender eingesetzt, findet das Kontrollgespräch in Anwesenheit einer Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden bestimmt wird.[ 5] Bei der Beurteilung der Leistungen der bzw. des Studierenden im Kontrollgespräch ist der zeitliche Abstand zwischen der ursprünglichen Prüfung und dem Kontrollgespräch zu berücksichtigen.[6] Beherrscht die bzw. der Studierende den Prüfungsstoff in einem Umfang, der für das Bestehen der ursprünglichen Prüfung ausgereicht hätte, so gilt der begründete Verdacht für das Vorliegen des Plagiats bzw. der anderweitigen Täuschung als ausgeräumt und die ursprüngliche Prüfung wird regulär inhaltlich bewertet.[7] Kann die bzw. der Studierende im Rahmen des Kontrollgesprächs nach Satz 1 die abgeprüften Kompetenzen nicht in einem im Sinne des Satz 2 ausreichenden Umfang nachweisen und sind gleichzeitig keine tatsächlichen Umstände gegeben, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen und ist die ungenügende Leistung auch nicht mit dem Zeitablauf zwischen ursprünglicher Prüfung und Kontrollgespräch zu erklären, gilt die Täuschung in der Regel als bewiesen; es gilt Abs. 2 Satz 1.[8] Verweigert die bzw. der Studierende die Teilnahme an dem Kontrollgespräch, so stellt dies eine Verletzung ihrer bzw. seiner Obliegenheit zur Mitwirkung im Prüfungsverfahren im Sinne des Art. 26 Abs. 2 Satz 1 **BayVwVfG** dar.[9] Macht die bzw. der Studierende gleichzeitig keine tatsächlichen Umstände glaubhaft, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, so gilt der begründete Verdacht des Vorliegens eines Plagiats bzw. einer anderweitigen Täuschung als durch den Beweis des ersten Anscheins bewiesen.[10] Findet ein Kontrollgespräch statt, ist dieses zu dokumentieren und dem Prüfungsamt samt Ergebnis mitzuteilen; § 20 Abs. 3 gilt entsprechend. 
@@ -300,6 +291,10 @@ Nmin = unterste Bestehensnote Nd = erzielte Note umgerechnet.
 (4) Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der bzw. dem Aufsichtsführenden von der Fortsetzung der betreffenden Prüfung ausgeschlossen werden; in diesem Fall gilt Abs. 2 Satz 1 entsprechend. 
 
 12 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 15 Entzug akademischer Grade** 
 
@@ -321,6 +316,10 @@ Der Entzug des akademischen Grades richtet sich nach Art. 101 **BayHIG.**
 
 13 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3)[1] Im Rahmen von Exkursionen und Praktika ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.[2] Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.[3] Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 (4)[1] Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen, sofern diese in Präsenzform abgehalten werden, mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.[2] Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs.[3] In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.[4] Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen. 
@@ -334,6 +333,10 @@ Der Entzug des akademischen Grades richtet sich nach Art. 101 **BayHIG.**
 (3)[1] Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des jeweiligen Prüfungsausschusses nach Anhörung der bzw. des Beauftragten für behinderte und chronisch kranke Studierende getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes bzw. eines der jeweiligen besonderen Lebenslage entsprechenden anderen Nachweises verlangt werden.[3] Anträge auf Nachteilsausgleich 
 
 14 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 sind unverzüglich, möglichst zu Beginn des jeweiligen Semesters und spätestens vier Wochen vor der Prüfung an den jeweiligen Prüfungsausschuss zu richten. 
 
@@ -350,6 +353,10 @@ sind unverzüglich, möglichst zu Beginn des jeweiligen Semesters und spätesten
 1. die bzw. der zu Prüfende insgesamt mindestens 50 Prozent der gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet hat oder 
 
 15 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 2. die bzw. der zu Prüfende insgesamt mindestens 40 Prozent der gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet hat und die Zahl der von der bzw. dem zu Prüfenden zutreffend beantworteten Fragen bzw. der erzielten Punkte um nicht mehr als 17 Prozent die durchschnittlichen Prüfungsleistungen der insgesamt zu Prüfenden unterschreitet, die erstmals an der entsprechenden Prüfung teilgenommen haben. 
 
@@ -373,6 +380,10 @@ sind unverzüglich, möglichst zu Beginn des jeweiligen Semesters und spätesten
 
 16 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 erstellte Bewertung einer Prüfung ist immer von der bzw. dem Prüfenden, im Fall einer nichtbestandenen Prüfung von zwei Prüfenden, zu überprüfen. 
 
 ## **§ 22 Bewertung der Prüfungen, Notenstufen, Gesamtnote** 
@@ -392,6 +403,10 @@ erstellte Bewertung einer Prüfung ist immer von der bzw. dem Prüfenden, im Fal
 4Das Notenschema des Abs. 1 Satz 1 findet Anwendung; die Noten 0,7, 4,3 und 4,7 sind dabei ausgeschlossen.[5] Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0.[6] Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 19 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, neben der Note 5,0 auch die Noten 4,3 und 4,7 festgesetzt werden. 
 
 17 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (4)[1] Soweit in **Anlage 2** oder der jeweils einschlägigen Modulbeschreibung nichts anderes festgelegt ist, werden die Modulnoten aus dem Durchschnitt der einzelnen Noten der Prüfungen im Sinne von § 8 Abs. 2 Satz 3 errechnet; das Notenschema des Abs. 1 findet keine Anwendung.[2] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.[3] Wird in einem Modul nur eine benotete Prüfung abgehalten, bildet sie die Modulnote.[4] Wird keine benotete Prüfung abgehalten, lautet die Bewertung des Moduls „bestanden“ bzw. „nicht bestanden“. 
 
@@ -415,6 +430,10 @@ bei einem Durchschnitt bis 1,5 = sehr gut, bei einem Durchschnitt über 1,5 bis 
 
 18 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Wahl ist dem Prüfungsamt bis spätestens acht Wochen vor Erteilung des Abschlusszeugnisses mitzuteilen.[4] Die Wahl wird damit bindend.[5] Wird keine Wahl getroffen, rechnet das Prüfungsamt bei Wahlmöglichkeiten das besser bewertete Modul an. 
 
 (2)[1] Zusatzmodule sind ebenfalls Module anderer Studiengänge, die als Teilqualifikationen für diesen Studiengang angeboten werden.[2] Hinsichtlich der Prüfungsmodalitäten gelten die Regelungen der Prüfungsordnung des Studiengangs, aus dem das Zusatzmodul stammt.[3] Zusatzmodule nach Abs. 2 gehen nicht in die Abschlussnote ein; sie werden in einem gesonderten Abschnitt im Transcript of Records ausgewiesen. 4Auf Antrag der bzw. des Studierenden beim Prüfungsamt können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden. 
@@ -436,6 +455,10 @@ Wahl ist dem Prüfungsamt bis spätestens acht Wochen vor Erteilung des Abschlus
 (1)[1] Wer den Masterstudiengang erfolgreich abgeschlossen hat, hat Anspruch auf ein Zeugnis, ein Transcript of Records, ein Diploma Supplement, ein Grade distribution table und eine Urkunde über die Verleihung des akademischen Grades.[2] Die Urkunde wird von der bzw. dem Vorsitzenden des Prüfungsausschusses oder deren bzw. dessen Stellvertreterin bzw. Stellvertreter eigenhändig unterzeichnet.[3] Die bzw. der Studierende soll das Zeugnis innerhalb von zwei Wochen nach Bekanntgabe der Bewertung der letzten für den Abschluss nachzuweisenden Leistung beim Prüfungsamt 
 
 19 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 beantragen; im Falle der Absolvierung von Zusatzmodulen sind die entsprechenden Angaben dazu, welche Module in den Abschlussdokumenten berücksichtigt werden, zu machen. 
 
@@ -467,6 +490,10 @@ beantragen; im Falle der Absolvierung von Zusatzmodulen sind die entsprechenden 
 
 20 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Master Thesis einschließlich des wissenschaftlichen Vortrags bestanden sind. 
 
 (2)[1] Die **Anlage 2** regelt Gegenstände, Art und Umfang der Masterprüfung.[2] Sie wird ergänzt durch die Modulbeschreibungen der einzelnen Module. 
@@ -485,6 +512,10 @@ Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden 
 
 21 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (6)[1] Die Master Thesis wird in englischer Sprache abgefasst.[2] Die Master Thesis enthält am Ende eine Zusammenfassung der Ergebnisse.[3] Die Master Thesis muss mit einer Erklärung der bzw. des Studierenden versehen sein, dass die Arbeit selbst verfasst wurde und keine anderen als die darin angegebenen Quellen und Hilfsmittel benutzt wurden.[4] Je ein gebundenes sowie ein elektronisches, maschinenlesbares Exemplar der Arbeit (USB-Stick der CD als Speichermedium) ist bei der Betreuerin bzw. dem Betreuer sowie bei der Zweitgutachterin bzw. dem Zweitgutachter abzuliefern; die entsprechenden Bescheinigungen müssen das Datum der Abgabe dokumentieren.[5] Wird die Master Thesis nicht fristgerecht abgegeben, wird sie mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
 
 (7)[1] Die Arbeit muss von zwei Prüfenden innerhalb von sechs Wochen nach der Abgabe beurteilt werden.[2] Erstgutachterin bzw. Erstgutachter ist die Betreuerin bzw. der Betreuer nach Abs. 3, soweit nichts anderes bestimmt ist.[3] Beide Gutachterinnen bzw. Gutachter vergeben dabei jeweils zwei Noten nach § 22 Abs. 1; jeweils eine Note für das wissenschaftliche Arbeiten und eine für das wissenschaftliche Schreiben.[4] Aus den beiden Noten jeder Gutachterin bzw. jedes Gutachters nach Satz 3 wird eine Gesamtnote der jeweiligen Gutachterin bzw. des jeweiligen Gutachters anhand des arithmetischen Mittels beider Noten errechnet; es gelten § 22 Abs. 2 Satz 4 Halbsatz 2 und Satz 7. 
@@ -497,6 +528,10 @@ Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden 
 
 22 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **III. Übergangs- und Schlussvorschriften** 
 
 ## **§ 32 Inkrafttreten, Übergangsvorschriften** 
@@ -506,6 +541,10 @@ Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden 
 (2)[1] Die Studien- und Prüfungsordnung für den Elitemasterstudiengang Integrated Immunology (iImmune) an der Naturwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPO iImmune – vom 19. März 2018, zuletzt geändert durch Satzung vom 26. September 2024, tritt mit Wirkung zum 31. März 2028 außer Kraft.[2] Prüfungen nach der in Satz 1 genannten FPO iImmune werden letztmals im Wintersemester 2027/2028 angeboten. 
 
 23 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **IV. Teil: Anlagen** 
 
@@ -526,6 +565,10 @@ Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden 
 5. Nachweis einer laborpraktischen Bachelorarbeit oder einer mit einer solchen im Wesentlichen vergleichbaren wissenschaftlichen Arbeit über ein der Bewerberin bzw. dem Bewerber persönlich zugeteiltes und eigenständig durchgeführtes Projekt (selbstständige Durchführung der Laborarbeiten, Methodenauswahl, Recherche) im Umfang von 2-3 Monaten an einer Hochschule oder vergleichbaren Forschungseinrichtung. 
 
 24 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 6. Nachweis über Kenntnisse in den Fächern Zell- und Molekularbiologie und Mikrobiologie zur Beurteilung des Einschlägigkeit des Abschlusses nach Abs. 1, 
 
@@ -549,6 +592,10 @@ Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden 
 
 25 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 wissenschaftlichen Abbildungen oder Herstellen von folgerichtigen Schlussfolgerungen aus Einzelergebnissen) (25 %). 
 
 6Das Auswahlgespräch hat eine Dauer von ca. 15 Minuten. 7Das Auswahlgespräch kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden.[8] Der Termin des Auswahlgesprächs wird der Bewerberin bzw. dem Bewerber spätestens eine Woche vorher bekannt gegeben.[9] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.[10] Das Auswahlgespräch wird als Einzelprüfung von zwei Mitgliedern der Auswahlkommission nach § 9 Abs. 4 Satz 2 durchgeführt, die vom Prüfungsausschuss bestellt werden.[11] Für die Bewertung des Auswahlgesprächs gelten §§ 19 Abs. 2 und 20 Abs. 1 und 2 Sätze 1, 4 und 6.[12] Die Prüfenden des Auswahlgesprächs erstellen ein gemeinsames Protokoll über den Ablauf der Prüfung gemäß § 20 Abs. 3 und geben eine Empfehlung an den Prüfungsausschuss über die Gewährung oder Ablehnung des Zugangs zum Studium ab, aus der sich die tragenden Gründe für die Empfehlung ergeben.[13] Der Prüfungsausschuss entscheidet auf Basis der Bewertung des Auswahlgesprächs und der Empfehlung nach Satz 12 über das Bestehen bzw. Nichtbestehen des Qualifikationsfeststellungsverfahrens insgesamt. 14Im Falle des Bestehens entscheidet der Prüfungsausschuss darüber, ob der Zugang mit Auflagen gemäß § 3 Abs. 2 verbunden wird.[15] Im Falle des Nichtbestehens gilt die Bewerberin bzw. der Bewerber als nicht geeignet und wird nicht in den Masterstudiengang aufgenommen. 
@@ -561,29 +608,43 @@ wissenschaftlichen Abbildungen oder Herstellen von folgerichtigen Schlussfolgeru
 
 26 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2: Studienverlaufsplan für den Masterstudiengang (MSc) “Integrated Immunology“** 
 
-|**Code**|**Modul**|**Kurs**<br>~~ee~~|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt-**<br>**ECTS**|**Workload-Verteilung**<br>**in ECTS**|**Workload-Verteilung**<br>**in ECTS**|**Workload-Verteilung**<br>**in ECTS**|**Workload-Verteilung**<br>**in ECTS**|**Art/Umfang der**<br>**Prüfung**|**Fak-**<br>**tor**|
+|**Code**|**Modul**|**Kurs**|||||**Gesamt-**<br>**ECTS**|**Workload-Verteilung**<br>**in ECTS**|**Workload-Verteilung**<br>**in ECTS**|**Workload-Verteilung**<br>**in ECTS**|**Workload-Verteilung**<br>**in ECTS**|**Art/Umfang der**|**Fak-**<br>**tor**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**<br>~~ee~~|**Ü**<br>~~ee~~|**P**<br>~~ee~~|**S**||**1.**<br>**Sem.**<br>~~PTT~~|**2.**<br>**Sem.**<br>~~PTT~~|**3.**<br>**Sem.**<br>~~PTT~~|**4.**<br>**Sem.**<br>~~PTT~~|||
-|**II-MA-**<br>**M1**|**Basic Immunology1)**<br>~~ee~~|Lectures in Basic Immunology<br>~~ee~~<br>~~ee~~|3<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~||**10**|2,5<br>~~PTT~~<br>~~a~~|~~PTT~~<br>~~a~~|~~PTT~~<br>~~a~~|~~PTT~~<br>~~a~~|PL: Klausur 90 Minuten|1|
-|||Tutorials to Basic Immunology<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|5<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|||5<br>~~PTT~~<br>~~a~~|~~PTT~~<br>~~a~~|~~PTT~~<br>~~a~~|~~PTT~~<br>~~a~~|||
-|||Seminar to Basic Immunology<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|3||2,5<br>~~a~~|~~a~~|~~a~~|~~a~~|||
+|||||**SWS**||||||||||
+||||||||||<br>**in ECTS**|||||
+|||||||||||||||
+||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|**Prüfung**||
+||||||||||**Sem.**|**Sem.**|**Sem.**|||
+|**II-MA-**<br>**M1**|**Basic Immunology1)**|Lectures in Basic Immunology|3||||**10**|2,5||||PL: Klausur 90 Minuten|1|
+|||Tutorials to Basic Immunology||5||||5||||||
+|||Seminar to Basic Immunology||||3||2,5||||||
 |**II-MA-**<br>**M2**|**Basic Immunology Labora-**<br>**tory Course**|Basic Immunology Laboratory Course|||10||**10**|8||||SL: ca. 20-minütiges Referat<br>_oder_<br>5-10-seitiges Protokoll1)|0|
-|||Tutorials to Basic Immunology Laboratory<br>Course||2||||2||||||
-|**II-MA-**<br>**M3**<br>~~ee~~|**Cell- and Molecular Biology1)**<br>~~ee~~|Lectures in Cell- and Molecular Biology<br>~~ee~~<br>~~ee~~|3<br>~~ee~~|~~ee~~|~~ee~~|~~ee~~|**5**<br>~~ee~~|2,5<br>~~ee~~<br>~~of~~|~~ee~~<br>~~of|~~|~~ee~~<br>~~|~~|~~ee~~<br>~~|~~|PL: Klausur 60 Minuten<br>~~ee~~|1<br>~~ee~~|
-|||Tutorials to Cell- and Molecular Biology<br>~~ee~~<br>~~ee~~|~~ee~~|3<br>~~ee~~|~~ee~~|~~ee~~||2,5<br>~~ee~~<br>~~of~~|~~ee~~<br>~~of|~~|~~ee~~<br>~~|~~|~~ee~~<br>~~|~~|||
-|**II-MA-**<br>**M4**|**Infectious Disease Immunol-**<br>**ogy1)**|Lectures in Infectious Disease Immunol-<br>~~ee~~|3||||**10**|~~of~~|2,5<br>~~of |~~|~~|~~|~~|~~|PL: Klausur 90 Minuten|1|
+|||Tutorials to Basic Immunology Laboratory<br>Course||||||||||||
+|||||2||||2||||||
+|||||||||||||||
+|**II-MA-**<br>**M3**|**Cell- and Molecular Biology1)**|Lectures in Cell- and Molecular Biology|3||||**5**|2,5||||PL: Klausur 60 Minuten|1|
+|||Tutorials to Cell- and Molecular Biology||3||||2,5||||||
+|**II-MA-**<br>**M4**|**Infectious Disease Immunol-**<br>**ogy1)**|Lectures in Infectious Disease Immunol-|3||||**10**||2,5|||PL: Klausur 90 Minuten|1|
 |||Tutorials to Infectious disease Immunol-<br>ogy||5|||||5|||||
 |||Seminar to Infectious Disease Immunol-<br>ogy||||3|||2,5|||||
 |**II-MA-**<br>**M5**|**Infectious Disease Immunol-**<br>**ogy Laboratory Course**|Infectious Disease Immunology Labora-<br>tory Course|||10||**10**||8|||SL:<br>Referat, 20 Min.und<br>Protokoll, 5 Seiten sowie Re-<br>ferat, 20 Min.und<br>Protokoll, 5 Seiten|0|
-|||tory Course<br>Seminar to Infectious Disease Immunol-<br>ogy Laboratory Course||2|||||2|||||
-|**II-MA-**<br>**M6**<br>~~aCO~~|**Clinical Immunology2)**<br>~~aCO~~|Lectures in Clinical Immunology<br>|2<br>||||**5**<br>~~CO~~||2,5<br>|||PL: Klausur, 45 Minuten<br>~~CO~~|1<br>~~CO~~|
-|||Tutorials Clinical Immunology<br>~~CO~~|~~CO~~|~~CO~~|2<br>~~CO~~|~~CO~~||~~CO~~|2,5<br>~~CO~~|~~CO~~|~~CO~~|||
-|**II-MA-**<br>**M7**<br>~~CO~~|**Practical Project Work**<br>~~CO~~|Laboratory Rotations including<br>International Laboratories<br>~~CO~~|~~CO~~|~~CO~~|15<br>~~CO~~|~~CO~~|**15**<br>~~CO~~|~~CO~~|~~CO~~|15<br>~~CO~~|~~CO~~|SL: Bericht<br>(1 Seite)und<br>Referat (15 Min.)<br>~~CO~~|0<br>~~CO~~|
-|~~a~~|**Theoretical Project Work**<br>~~Oe~~|Theoretical Project Work<br>~~Oe~~|~~Oe~~|~~Oe~~|10<br>~~Oe~~|~~Oe~~|**10**<br>~~Oe~~|~~Oe~~|~~Oe~~|~~Oe~~|~~Oe~~|~~Oe~~|1<br>~~Oe~~|
+|||<br>Seminar to Infectious Disease Immunol-<br>ogy Laboratory Course||2|||||2|||||
+|**II-MA-**<br>**M6**|**Clinical Immunology2)**|Lectures in Clinical Immunology|2||||**5**||2,5|||PL: Klausur, 45 Minuten|1|
+|||Tutorials Clinical Immunology|||2||||2,5|||||
+|**II-MA-**<br>**M7**|**Practical Project Work**|Laboratory Rotations including<br>International Laboratories|||15||**15**|||15||SL: Bericht<br>(1 Seite)und<br>Referat (15 Min.)|0|
+||**Theoretical Project Work**|Theoretical Project Work|||10||**10**||||||1|
 
 27 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**II-MA-**<br>**M8**||Seminar to Project Work||||2||||||PL: schriftliche Ausarbeitung,<br>25 Seiten (100 %)||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -602,6 +663,10 @@ wissenschaftlichen Abbildungen oder Herstellen von folgerichtigen Schlussfolgeru
 - 4) Das Modul beinhaltet mehrere jeweils anwesenheitspflichtige Lehrveranstaltungen, u.a. einen aktiv gestalteten Workshop. Die Studierenden bauen im Rahmen der verschiedenen Veranstaltungen ihre kommunikativen, organisatorischen und sozialen Kompetenzen aus. Die Prüfung besteht aus einem 2 bis 5-seitigen Bericht zum Inhalt der wissenschaftlichen Tagung. 
 
 28 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 21. Januar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 13. Februar 2026 
 

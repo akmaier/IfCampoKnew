@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPODataScience 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:55:21+00:00
-page_count_chars: 69380
+scraped_at: 2026-05-01T07:48:06+00:00
+page_count_chars: 72111
 ---
 
 # FPODataScience 20260305.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Data Science an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODataScience – Vom 5. März 2026** 
 
@@ -27,6 +31,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
 Die Fachstudien- und Prüfungsordnung für den Bachelor- und den konsekutiven Masterstudiengang Data Science ergänzt die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät der 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **ABMPO/NatFak** – in der jeweils geltenden Fassung. 
 
@@ -49,6 +57,10 @@ Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **ABMPO/NatFak** �
 1Der Prüfungsausschuss für den Bachelor- und Masterstudiengang Data Science besteht aus zwei Mitgliedern des Departments Mathematik oder des Department of Data Science der Naturwissenschaftlichen Fakultät und einem Mitglied des Departments Informatik der Technischen Fakultät.[2] Mitglieder des Prüfungsausschusses sind hauptberufliche Hochschullehrerinnen bzw. Hochschullehrer i. S. d. Art. 19 Abs. 1 **BayHIG** . 2Die bzw. der Vorsitzende, des Prüfungsausschusses ist Mitglied des Departments Mathematik oder des Departments Data Science der Naturwissenschaftlichen Fakultät.[3] Die Mitglieder des Prüfungsausschusses werden auf Vorschlag der  Lehreinheit Mathematik und Data Science vom Fakultätsrat der Naturwissenschaftlichen Fakultät bestellt. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **II. Teil: Besondere Bestimmungen** 
 
@@ -92,6 +104,10 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen insgesamt mindest
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 in Modulkatalogen geführt, welche spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht werden.[3] Die Modulkataloge können mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden. 
 
 (4)[1] Mögliche Prüfungen von Modulen des Departments Mathematik oder des Departments of Data Science in den Wahlpflichtmodulen für die Kernmodule Data Science sind: 
@@ -124,6 +140,10 @@ sowie Kombinationen derselben.
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## (3)  § 47 Abs. 3 bis 5 gelten entsprechend. 
 
 ## **§ 49 Wahlpflichtmodule für den Wahlpflichtbereich Informatik** 
@@ -141,6 +161,10 @@ sowie Kombinationen derselben.
 (2)[1] In den Vertiefungsrichtungen sind insgesamt 30 ECTS-Punkte zu erwerben.[2] Dabei ist entweder eine Vertiefungsrichtung der Mathematik, eine Vertiefungsrichtung der Informatik oder eine interdisziplinäre Vertiefungsrichtung zu wählen.[3] Aus der gewählten Vertiefungsrichtung sind mindestens 15 ECTS-Punkte und maximal 20 ECTSPunkte zu erwerben.[4] Die verbleibenden 10 bis 15 ECTS-Punkte sind aus den nicht gewählten Vertiefungsrichtungen zu erbringen.[5] Es sind in den Vertiefungsrichtungen mindestens je 10 ECTS-Punkte aus dem Lehrangebot des Departments Mathematik oder des Department of Data Science und des Departments Informatik nachzuweisen. 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (3)[ 1] Die Vertiefungsrichtungen unterscheiden sich in ihrer Departments-Zugehörigkeit und setzten sich aus Modulpaketen zusammen.[2] Folgende Vertiefungsrichtungen der Mathematik und Data Science sind möglich: 
 
@@ -180,6 +204,10 @@ sowie Kombinationen derselben.
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 tisch zu vertiefen.[3] Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche sowie sozial- und gesellschaftswissenschaftliche Perspektiven auf weitere Gegenstandsfelder ausgeweitet oder Erfahrungen mit interdisziplinären Methoden gesammelt werden. 4Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein individuelles Profil auszubilden.[5] Modulpakete können für folgende Anwendungsfächer gewählt werden: 
 
 1. Chemie: 
@@ -192,11 +220,11 @@ tisch zu vertiefen.[3] Zweitens wird damit ein methodologisches Qualifikationszi
 
 3. Geographie: 
 
-1Qualifikationsziele umfassen die Vermittlung von Kenntnissen über geographische Prozesse und deren räumliche Zusammenhänge der Geographie mit berufsqualifizierenden Kompetenzen, mit Fokus auf die Schnittstelle zwischen Data Science und Geographie.[2] Studierende erwerben die Fähigkeit, geographische Fragestellungen mithilfe von Datenanalyse, qualitativer und quantitativer Methoden zu analysieren und kritisch zu bewerten.[3] Sie lernen, räumliche Daten auszuwerten und mithilfe geeigneter Darstellungsformen zu kommunizieren. 
+   - 1Qualifikationsziele umfassen die Vermittlung von Kenntnissen über geographische Prozesse und deren räumliche Zusammenhänge der Geographie mit berufsqualifizierenden Kompetenzen, mit Fokus auf die Schnittstelle zwischen Data Science und Geographie.[2] Studierende erwerben die Fähigkeit, geographische Fragestellungen mithilfe von Datenanalyse, qualitativer und quantitativer Methoden zu analysieren und kritisch zu bewerten.[3] Sie lernen, räumliche Daten auszuwerten und mithilfe geeigneter Darstellungsformen zu kommunizieren. 
 
 4. Geowissenschaften: 
 
-1Qualifikationsziele sind hier der Erwerb von geowissenschaftlichen Grundlagen mit berufsqualifizierenden Kompetenzen mit Fokus auf die Schnittstelle zwischen Data Science und Geowissenschaften.[2] Die Qualifikationsziele richten sich beispielsweise auf den Erwerb von fachlichen und methodischen Basiskompetenzen in den Geowissenschaften, der angewandten Geologie, im fächerübergreifenden Denken im Themenfeld des Systems Erde, dem Klimawandel, der Rohstoffe und der Nachhaltigkeit sowie auf den Erwerb von Sozial-, Diskussions- und Handlungskompetenzen. 
+   - 1Qualifikationsziele sind hier der Erwerb von geowissenschaftlichen Grundlagen mit berufsqualifizierenden Kompetenzen mit Fokus auf die Schnittstelle zwischen Data Science und Geowissenschaften.[2] Die Qualifikationsziele richten sich beispielsweise auf den Erwerb von fachlichen und methodischen Basiskompetenzen in den Geowissenschaften, der angewandten Geologie, im fächerübergreifenden Denken im Themenfeld des Systems Erde, dem Klimawandel, der Rohstoffe und der Nachhaltigkeit sowie auf den Erwerb von Sozial-, Diskussions- und Handlungskompetenzen. 
 
 5. Medical Data Science: 
 
@@ -205,6 +233,10 @@ tisch zu vertiefen.[3] Zweitens wird damit ein methodologisches Qualifikationszi
 6. Physik: 
 
 7 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 1Qualifikationsziele sind hier der Erwerb von Grundlagen in der Experimentalphysik mit berufsqualifizierenden Kompetenzen mit Fokus auf die Schnittstelle zwischen Data Science und Physikmodulen, bei denen Daten analysiert werden.[2] Die Qualifikationsziele richten sich insbesondere auf den Erwerb von fachlichen und methodischen Basiskompetenzen der Experimentalphysik, welche beispielsweise die Mechanik, die Wärmelehre und die Elektrodynamik umfassen können. 
 
@@ -232,6 +264,10 @@ tisch zu vertiefen.[3] Zweitens wird damit ein methodologisches Qualifikationszi
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.[3] Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden. 
 
 (3)[1] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Umfang der Lehrveranstaltungen und Prüfungen der einzelnen Module sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. Modulbeschreibung zu entnehmen.[2] Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen des Departments Mathematik oder des Department of Data Science gelten § 47 Abs. 4 und 5 entsprechend. 
@@ -256,6 +292,10 @@ Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüb
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Fakultät.[5] Die Mitglieder werden vom Fakultätsrat der Naturwissenschaftlichen Fakultät auf Vorschlag der Lehreinheit Mathematik und Data Science für die Dauer von drei Jahren bestellt; Wiederbestellung ist möglich. 
 
 ## **§ 55 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
@@ -273,6 +313,10 @@ Fakultät.[5] Die Mitglieder werden vom Fakultätsrat der Naturwissenschaftliche
 2. Qualität der Grundkenntnisse in zwei Fachgebieten innerhalb einer von der Bewerberin bzw. dem Bewerber vorgeschlagenen Vertiefungsrichtungen gemäß § 50 Abs. 3 (35 %), 
 
 10 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 3. wissenschaftliche Diskussionsfähigkeit auf Englisch über Inhalte der Mathematik und Informatik (30 %). 
 
@@ -320,6 +364,10 @@ Näheres regelt § 57 Abs. 2.
 
 11 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 57 Wahlpflichtmodule der Studienrichtungen** 
 
 (1)[1] In den Wahlpflichtmodulen der Studienrichtungen (Modulgruppe Nrn. 4 und 5 gemäß **Anlage 2a** bzw. **2b** ) werden wissenschaftliche Methodenkompetenzen zur Einordnung mathematischer Strukturen, zu Modellierung und zu Problemlösestrategien sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erworben.[2] Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden erworben und fachvertiefendes Wissen erlangt werden.[3] Es wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
@@ -348,6 +396,10 @@ Näheres regelt § 57 Abs. 2.
 
 12 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 2Das übergeordnete Qualifikationsziel der Anwendungsfächer liegt darin, es den Studierenden zu ermöglichen, sich erstens in einem weiteren Anwendungsbereich thematisch zu vertiefen.[3] Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche sowie sozial- und gesellschaftswissenschaftliche Perspektiven auf weitere Gegenstandsfelder ausgeweitet oder Erfahrungen mit interdisziplinären Methoden gesammelt werden. 4Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein individuelles Profil auszubilden.[5] Modulpakete können für folgende Anwendungsfächer gewählt werden: 
 
 1. Chemistry: 1Qualifikationsziele sind hier der Erwerb von fortgeschrittenen Kenntnissen in der anorganischen Chemie mit berufsqualifizierenden Kompetenzen mit Fokus auf die Schnittstelle zwischen Data Science und Chemie.[2] Die Qualifikationsziele richten sich beispielsweise auf den Erwerb von fachlichen und methodischen Basiskompetenzen in der Anorganischen Chemie, der Physikalischen Chemie und der Theoretischen Chemie.[3] Insbesondere in der Theoretischen Chemie erwerben die Studierenden mathematische Grundlagen und deren Anwendung in der Thermodynamik sowie in der Quantenmechanik. 
@@ -358,7 +410,7 @@ Näheres regelt § 57 Abs. 2.
 
 3. Geographie: 
 
-1Qualifikationsziele umfassen die Vermittlung von Kenntnissen über geographische Prozesse und deren räumliche Zusammenhänge der Geographie mit berufsqualifizierenden Kompetenzen, mit Fokus auf die Schnittstelle zwischen Data Science und Geographie.[2] Studierende erwerben die Fähigkeit, geographische Fragestellungen mithilfe von Datenanalyse, qualitativer und quantitativer Methoden zu analysieren und kritisch zu bewerten.[3] Daneben soll erlernt werden, räumliche Daten auszuwerten und mithilfe geeigneter Darstellungsformen zu kommunizieren. 
+   - 1Qualifikationsziele umfassen die Vermittlung von Kenntnissen über geographische Prozesse und deren räumliche Zusammenhänge der Geographie mit berufsqualifizierenden Kompetenzen, mit Fokus auf die Schnittstelle zwischen Data Science und Geographie.[2] Studierende erwerben die Fähigkeit, geographische Fragestellungen mithilfe von Datenanalyse, qualitativer und quantitativer Methoden zu analysieren und kritisch zu bewerten.[3] Daneben soll erlernt werden, räumliche Daten auszuwerten und mithilfe geeigneter Darstellungsformen zu kommunizieren. 
 
 4. Geoscience: 
 
@@ -366,9 +418,13 @@ Näheres regelt § 57 Abs. 2.
 
 5. International Information Systems 
 
-1Qualifikationsziele sind hier der Erwerb von fortgeschrittenen Kenntnissen in International Information Systems mit berufsqualifizierenden Kompetenzen, mit Fokus auf die Schnittstelle zwischen Data Science und International Information Systems.[2] Studierende erwerben die Fähigkeit, internationale Informationssysteme zu analysieren, zu gestalten und datenbasierte Entscheidungen in globalen Kontexten zu unterstützen.[3] Daneben soll erlernt werden, Methoden der Datenanalyse, 
+   - 1Qualifikationsziele sind hier der Erwerb von fortgeschrittenen Kenntnissen in International Information Systems mit berufsqualifizierenden Kompetenzen, mit Fokus auf die Schnittstelle zwischen Data Science und International Information Systems.[2] Studierende erwerben die Fähigkeit, internationale Informationssysteme zu analysieren, zu gestalten und datenbasierte Entscheidungen in globalen Kontexten zu unterstützen.[3] Daneben soll erlernt werden, Methoden der Datenanalyse, 
 
 13 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Informationsmodellierung und Systementwicklung auf internationale wirtschaftliche Fragestellungen anzuwenden. 
 
@@ -398,6 +454,10 @@ Informationsmodellierung und Systementwicklung auf internationale wirtschaftlich
 
 14 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 59 Wahlmodule für technische Schlüsselqualifikationen** 
 
 (1)[1] Das Modulpaket Nr. 7 gemäß **Anlage 2a** bzw. **2b** umfasst die Wahlmodule für 2 technische Schlüsselqualifikationen **.** Das übergeordnete Qualifikationsziel der Schlüsselqualifikationen liegt in dem Erwerb übergreifender Kompetenzen zur Berufsund Forschungstätigkeit, z.B. in den Bereichen Projektmanagement, Teamwork oder Präsentationstechniken.[3] Außerdem wird den Studierenden ermöglicht, sich außerhalb des eigenen Fachs in fachfremden oder praxisnahen Anwendungsfeldern breiter aufzustellen.[4] Technische Schlüsselqualifikationen können durch folgende Modulangebote belegt werden: 
@@ -424,6 +484,10 @@ Informationsmodellierung und Systementwicklung auf internationale wirtschaftlich
 
 15 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 nebenberuflichen Hochschullehrerinnen bzw. Hochschullehrer im Sinne des Art. 19 BayHIG zur Vergabe einer Bachelorarbeit berechtigt (Betreuerinnen bzw. Be-treuer). 
 
 (4) Die Masterarbeit wird abweichend von § 31 Abs. 7 **ABMPO/NatFak** nur von der Betreuerin bzw. dem Betreuer bewertet; § 17 Abs 4 Satz 2 **ABMPO/NatFak** bleibt unberührt. 
@@ -438,65 +502,153 @@ nebenberuflichen Hochschullehrerinnen bzw. Hochschullehrer im Sinne des Art. 19 
 
 16 
 
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 1: Studienverlaufsplan Bachelorstudiengang Data Science** 
 
-||**Nr.**|**Modulbezeichnung**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+||**Nr.**|**Modulbezeichnung**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**||**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||**V**|**Ü**|**P**|**S**|**T**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
+||||||||||||||<br>**in ECTS-Punkten**||||||
+||||||||||||||||||**Art und Umfang der**<br>**Prüfung**||
+||||||**V**|**Ü**|**P**|**S**|**T**|||||||**6.**<br>**Sem.**|||
+||||||||||||**1.**|**2.**|**3.**|**4.**|**5.**||||
+||||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**||||
 |**Kernmodule**<br>**Data Science**|**1**|Seminar Data Science in<br>Forschung und Industrie||Seminar Data Science<br>in Forschung und<br>Industrie||||2||**5**|5||||||Klausur<br>90 Min.|0|
 ||**2**|Methoden für die mathema-<br>tische Datenanalyse||Methoden für die<br>mathematische Daten-<br>analyse|2|1||||**5**|5||||||Klausur 60 Min.|1|
 ||**3**|Wahlpflichtmodule aus dem<br>Katalog für Machine Learn-<br>ing gem.§47||vgl. § 47 Abs. 5||||||**5**||5|||||vgl. § 47 Abs. 4|1|
 ||**4**|Wahlpflichtmodule aus dem<br>Katalog für Projekt Data Sci-<br>ence gem. § 47||vgl. § 47 Abs. 5||||||**5**||||0-5|0-5||vgl. § 47 Abs. 4|1|
 |||**Summe Kernmodule Data Science**|||**4**|**3**|**2**|**4**|**0**|**20**|**10**|**5**|**0**|**0-5**|**0-5**|**0**|||
-|**Grundlagenmodule der**<br>**Mathematik und Informatik**|**5**|Mathematik für Data<br>Science 1<br>GOP|Vorlesung<br>Data Science 1||4|||||**10**|10||||||Klausur 120 Min<br>(100%).und<br>Übungsleistung<br>(unbenotet, 0%)|0|
-||||Übung<br>Data Science 1|||2|||||||||||||
-||||Tafelübung<br>Data Science 1|||2|||||||||||||
-||**6**|Mathematik für Data<br>Science 2<br>GOP|Vorlesung<br>Data Science 2||4|||||**10**||10|||||Klausur 120 Min.<br>(100%)und<br>Übungsleistung<br>(unbenotet, 0%)|1|
-||||Übung<br>Data Science 2|||2|||||||||||||
-||||Tafelübung<br>Data Science 2|||2|||||||||||||
-||**7**|Grundlagen der<br>Programmierung GOP|vgl. FPOINF|||||||**5**|5||||||vgl. FPOINF|0|
-||**8**|Einführung in die Algorith-<br>mik GOP|vgl. FPOINF|||||||**7,5**||7,5|||||vgl. FPOINF|0|
-||**9**|Knowledge Discovery in<br>Databases mit Übung GOP|vgl. FPOINF|||||||**5**||5|||||vgl. FPOINF|1|
 ||||||||||||||||||||
+|**Grundlagenmodule der**<br>**Mathematik und Informatik**|**5**|Mathematik für Data<br>Science 1<br>GOP||Vorlesung<br>Data Science 1|4|||||**10**|10||||||Klausur 120 Min<br>(100%).und<br>Übungsleistung<br>(unbenotet, 0%)|0|
+|||||Übung<br>Data Science 1||2|||||||||||||
+|||||Tafelübung<br>Data Science 1||2|||||||||||||
+||**6**|Mathematik für Data<br>Science 2<br>GOP||Vorlesung<br>Data Science 2|4|||||**10**||10|||||Klausur 120 Min.<br>(100%)und<br>Übungsleistung<br>(unbenotet, 0%)|1|
+|||||Übung<br>Data Science 2||2|||||||||||||
+|||||Tafelübung<br>Data Science 2||2|||||||||||||
+||**7**|Grundlagen der<br>Programmierung GOP||||||||**5**|5||||||vgl. FPOINF|0|
+||**8**|Einführung in die Algorith-<br>mik GOP||vgl. FPOINF||||||**7,5**||7,5|||||vgl. FPOINF|0|
+||**9**|Knowledge Discovery in<br>Databases mit Übung GOP||vgl. FPOINF||||||**5**||5|||||vgl. FPOINF|1|
 
 17 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**||||||**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**||**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**|**T**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
+|||||||**SWS**||||||||||||
+|||||||||||||<br>**in ECTS-Punkten**||||||
+|||||||||||||||||||
+|||||||||||||||||**Art und Umfang der**<br>**Prüfung**||
+|||||**V**|**Ü**|**P**|**S**|**T**|||||||**6.**<br>**Sem.**|||
+|||||||||||<br>**1.**|**2.**|**3.**|**4.**|**5.**||||
+|||||||||||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**||||
 |||**Summe Grundlagenmodule der Mathematik und**<br>**Informatik**||**16**|**16**|**0**|**0**|**0**|**37.5**|**15**|**22,5**|**0**|**0**||**0**|||
 
 . 
 
 18 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**<br>**6. Sem.**|**Faktor**<br>**Modul-**<br>**note**||
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**|**T**||**ECTS**<br>**1. Sem.**|**1. Sem.**<br>**2. Sem.**|**2. Sem.**<br>**3. Sem.**|**3. Sem.**<br>**4. Sem.**|**4. Sem.**<br>**5. Sem.**|**5. Sem.**<br>**6. Sem.**||||
-|**Aufbaumodule der**<br>**Mathematik und Informatik**|**10**|Lineare und kombinatorische<br>Optimierung1|vgl. FPOWiMathe||||||**10**|||10||||vgl. FPOWiMathe|1||
-||**11**|Einführung in die<br>Numerik1|vgl. FPOTechnoMathe||||||**10**|||10||||vgl. FPOTechnoMathe|vgl. FPOTechnoMathe<br>1||
-||**12**|Stochastische<br>Modellbildung1|vgl. FPOWiMathe||||||**10**|||10||||vgl. FPOWiMathe|1||
-||**13**|Parallele und Funktionale<br>Programmierung2|vgl. FPOINF||||||**5**|||5||||vgl. FPOINF|1||
-||**14**|Einführung in das Software<br>Engineering2|vgl. FPOINF||||||**5**|||5||||vgl. FPOINF|1||
-||**15**|Sichere Systeme2|vgl. FPOINF||||||**5**||||5|||vgl. FPOINF|1||
-||**16**|Einführung in<br>Datenbanken2|vgl. § FPOINF||||||**7,5**||||7,5|||vgl. FPOINF|1||
-||**17**|Grundlagen der Logik in der<br>Informatik2|vgl. FPOINF||||||**5**|||5||||vgl. FPOINF|1||
+|||||||||||**Workload-Verteilung pro Semester**|||||||||
+|||||**SWS**|||||||||||||||
+||||||||||**Ge-**|<br>||<br>**in ECTS-Punkten**|||||**Faktor**||
+||||||||||||||||||||
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**||||||**samt**|||||||**Art und Umfang der**|**Modul-**||
+|||||**V**|**Ü**|**P**|**S**|**T**||||||||**Prüfung**|||
+||||||||||**ECTS**||||||||**note**||
+|||||||||||<br>**1. Sem.**|<br>**2. Sem.**|<br>**3. Sem.**|<br>**4. Sem.**|<br>**5. Sem.**|<br>**6. Sem.**|<br>|||
+||||||||||||||||||||
+||||||||||||||||||||
+|**Aufbaumodule der**<br>**Mathematik und Informatik**|||||||||||||||||||
+|||Lineare und kombinatorische|||||||||||||||||
+||**10**||vgl. FPOWiMathe||||||**10**|||10||||vgl. FPOWiMathe|1||
+|||Optimierung1|||||||||||||||||
+||||||||||||||||||||
+||||||||||||||||||||
+|||Einführung in die|||||||||||||||||
+||**11**||vgl. FPOTechnoMathe||||||**10**|||10||||vgl. FPOTechnoMathe|<br>1||
+|||Numerik1|||||||||||||||||
+||||||||||||||||||||
+|||Stochastische|||||||||||||||||
+||**12**||vgl. FPOWiMathe||||||**10**|||10||||vgl. FPOWiMathe|1||
+|||Modellbildung1|||||||||||||||||
+||||||||||||||||||||
+|||Parallele und Funktionale|||||||||||||||||
+||**13**||vgl. FPOINF||||||**5**|||5||||vgl. FPOINF|1||
+|||Programmierung2|||||||||||||||||
+||||||||||||||||||||
+|||||||||||||5|||||||
+|||Einführung in das Software|||||||||||||||||
+||**14**||vgl. FPOINF||||||**5**|||||||vgl. FPOINF|1||
+|||Engineering2|||||||||||||||||
+||||||||||||||||||||
+||||||||||||||||||||
+||||||||||||||5||||||
+||**15**|Sichere Systeme2|vgl. FPOINF||||||**5**|||||||vgl. FPOINF|1||
+||||||||||||||||||||
+|||Einführung in|||||||||||7,5||||||
+||**16**||vgl. § FPOINF||||||**7,5**|||||||vgl. FPOINF|1||
+|||Datenbanken2|||||||||||||||||
+||||||||||||||||||||
+||||||||||||||||||||
+|||Grundlagen der Logik in der|||||||||||||||||
+||**17**||vgl. FPOINF||||||**5**|||5||||vgl. FPOINF|1||
+|||Informatik2|||||||||||||||||
+||||||||||||||||||||
+||||||||||||||||||||
+||||||||||||||||||||
 ||**18**|Informationsvisualisierung2|vgl. FPOINF||||||**5**||||5|||vgl. FPOINF|1||
-|||**Summe Aufbaumodule**<br>**der Mathematik und Informatik**||**20**|**14**|**0**|**0**|**0**|**35**|**0**|**0**|**25-30**|**5-10**|**0**|**0**||||
+||||||||||||||||||||
+|||||**20**|**14**|**0**|**0**|**0**|||||||||||
+|||**Summe Aufbaumodule**|||||||||||||||||
+||||||||||**35**|**0**|**0**|**25-30**|**5-10**|**0**|**0**||||
+|||**der Mathematik und Informatik**|||||||||||||||||
+||||||||||||||||||||
+||||||||||||||||||||
 
 - 1 Zwei von drei Modulen sind zu wählen. Das dritte Modul kann im Wahlpflichtbereich Mathematik eingebracht werden. 2 Drei von sechs Modulen sind zu wählen. Die anderen Module können im Wahlpflichtbereich Informatik eingebracht werden. 
 
 19 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**<br>**6. Sem.**|**Faktor**<br>**Modul-**<br>**note**||
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Nr.**||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**|**T**||**1. Sem.**|**1. Sem.**<br>**2. Sem.**|**2. Sem.**<br>**3. Sem.**|**3. Sem.**<br>**4. Sem.**|**4. Sem.**<br>**5. Sem.**|**5. Sem.**<br>**6. Sem.**||||
+|||||||||||**Workload-Verteilung pro Semester**|||||||||
+|||||||**SWS**|||||||||||||
+|||||||||||<br>||<br>**in ECTS-Punkten**|||||**Faktor**||
+||||||||||**Gesamt**||||||||||
+|||**Modulbezeichnung**|**Lehrveranstaltung**|||||||||||||**Art und Umfang der**|**Modul-**||
+|||||**V**|**Ü**|**P**|**S**|**T**|**ECTS**|||||||**Prüfung**|||
+||||||||||||||||||**note**||
+|||||||||||**1. Sem.**|<br>**2. Sem.**|<br>**3. Sem.**|<br>**4. Sem.**|<br>**5. Sem.**|<br>**6. Sem.**|<br>|||
+||||||||||||||||||||
+||||||||||||||||||||
 |**Wahlpflicht-**<br>**bereich**<br>**Mathematik**|**19**|Wahlpflichtmodule aus dem<br>Katalog für Wahlpflichtbe-<br>reich Mathematik<br>gemäß § 48|vgl. § 48 Abs. 3||||||**5-20**||||5-15||0-5|vgl. 48 Abs. 3|1||
+||||||||||||||||||||
+||||||||||||||||||||
 |||**Summe Wahlpflichtbereich Mathematik3**||**6**|**5**|**0**|**2**|**1**|**5-20**|**0**|**0**|**0**|**5-15**|**0**|**0-5**||||
 |**Wahlpflicht-**<br>**bereich**<br>**Informatik**|**20**|Wahlpflichtmodule aus dem<br>Katalog für Wahlpflichtbe-<br>reich Informatik gemäß § 49|vgl. § 49 Abs. 3||||||**5-20**||||5-15||0-5|vgl. 49 Abs. 3|1||
+||||||||||||||||||||
+||||||||||||||||||||
 |||**Summe Wahlpflichtbereich Informatik3**||**4**|**3**|**0**|**2**|**0**|**5-20**|**0**|**0**|**0**|**5-15**|**0**|**0-5**||||
 |**Vertiefungsrichtungen**|**21**|Wahlpflichtmodule aus dem<br>Katalog der gewählten Ver-<br>tiefungsrichtung gemäß § 50|vgl. § 50 Abs. 5||||||**15-20**|||||10-20|0-10|vgl. § 50 Abs. 5|1||
+||||||||||||||||||||
+||||||||||||||||||||
 ||**22**|Wahlpflichtmodule aus den<br>Katalogen der nicht gewähl-<br>ten Vertiefungsrichtungen<br>gemäß § 50|vgl. § 50 Abs. 5||||||**10-15**|||||0-10|0-10|vgl. § 50 Abs. 5|1||
+||||||||||||||||||||
+||||||||||||||||||||
 |||**Summe Vertiefungsbereich Informatik4 **||**12**|**8**|**0**|**2**|**0**|**30**|**0**|**0**|**0**|**0**|**20**|**10**||||
 
 - 3 Aus den Wahlpflichtbereichen Mathematik und Informatik muss mindestens ein Modul im Umfang von 5 ECTS-Punkten und maximal Module im Umfang von 20 ECTS-Punkten abgeschlossen werden. In beiden Wahlpflichtbereichen zusammen müssen Module in einen Gesamtumfang von 20 ECTS-Punkten abgeschlossen werden. 
@@ -505,17 +657,30 @@ nebenberuflichen Hochschullehrerinnen bzw. Hochschullehrer im Sinne des Art. 19 
 
 20 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**t**<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**<br>**6. Sem.**|**Faktor**<br>**Modul-**<br>**note**||
+**==> picture [164 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Nr.**||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**V**|**Ü**|**P**|**S**|**T**||**1. Sem.**|**1. Sem.**<br>**2. Sem.**|**2. Sem.**<br>**3. Sem.**|**3. Sem.**<br>**4. Sem.**|**4. Sem.**<br>**5. Sem.**|**5. Sem.**<br>**6. Sem.**||||
+|||||||||||**Workload-Verteilung pro Semester**|||||||||
+|||||**SWS**|||||||||||||||
+|||||||||||<br>**in ECTS-Punkten**|||||||**Faktor**||
+||||||||||**Gesamt**||||||||||
+|||**Modulbezeichnung**|**Lehrveranstaltung**|||||||||||||**Art und Umfang der**|**Modul-**||
+|||||**V**|**Ü**|**P**|**S**|**T**|**ECTS**|||||||**Prüfung**|||
+||||||||||||||||||**note**||
+|||||||||||**1. Sem.**|<br>**2. Sem.**|<br>**3. Sem.**|<br>**4. Sem.**|<br>**5. Sem.**|<br>**6. Sem.**|<br>|||
+||||||||||||||||||||
+||||||||||||||||||||
 |**Anwendungs-**<br>**fächer**|**23**|Wahlpflichtmodule aus dem<br>Katalog zu den Anwen-<br>dungsfächern gemäß § 51|vgl. § 51 Abs. 3||||||**10**|||||5|5|vgl. § 51 Abs. 3|1||
 |||**Summe Anwendungsfach**||**2**|**4**|**8**|**0**|**0**|**10**|**0**|**0**|**0**|**0**|**5**|**5**||||
 |**Techn. und nicht-**<br>**technische SQ**|**24**|Wahlpflichtmodule aus dem<br>Katalog der technischen und<br>nicht-technischen Schlüssel-<br>qualifikationen gemäß § 52|vgl. § 52 Abs. 3||||||**12,5**|5|2,5|0-5|0-5|||vgl. § 52 Abs. 3|1||
 |||**Summe Technische und nicht-technische**<br>**Schlüsselqualifikationen**||**6**|**6**|**0**|**0**|**0**|**12,5**|**5**|**2,5**|**0-5**|**0-5**|**0**|**0**||||
 |**BA-Abschluss-**<br>**arbeit**|**25**|Bachelorarbeit|||||||**10**||||||10|Bachelorarbeit<br>(ca. 20-25 Seiten)|1||
 |||**Summe BA-Abschlussarbeit**||**0**|**0**|**0**|**2**|**0**|**10**|**0**|**0**|**0**|**0**|**0**|**15**||||
-|**Summe SWS (mind.) 2 und ECTS-Punkte**||||**70**|**59**|**10**|**8**|**1**|**180**|**30**|**30**|**30**|**30**|**30**|**30**||||
-||||||||||||||||||||
+||**2  **|||**70**|**59**|**10**|**8**|**1**|**180**|**30**|**30**|**30**|**30**|**30**|**30**||||
+||**Summe SWS (mind.)  und ECTS-Punkte**||||||||||||||||||
 
 ## **Erläuterungen:** 
 
@@ -523,10 +688,16 @@ nebenberuflichen Hochschullehrerinnen bzw. Hochschullehrer im Sinne des Art. 19 
 
 21 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2a: Studienverlaufsplan Masterstudiengang Data Science** 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**Note**|
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**Note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||<br>|<br>**Semester in ECTS-**|||||
+|||||||||**Gesamt**<br>**ECTS**||**Punkten **|||**Art und Umfang**<br>**der Prüfung**||
 |||||**V**|**Ü**|**P**|**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|||
 |**Kernmodule**<br>**Data Science**|1|Mathematics of Learning|Vorlesung<br>Mathematics of Learning|2||||**5**|3||||Klausur<br>(60 Min.)|1|
 ||||Übung<br>Mathematics of Learning||1||||2||||||
@@ -540,13 +711,19 @@ nebenberuflichen Hochschullehrerinnen bzw. Hochschullehrer im Sinne des Art. 19 
 
 22 
 
-|**Ne-**<br>**ben**<br>**stu-**<br>**die**|**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten **|**Art und Umfang**<br>**der Prüfung**|**Faktor**<br>**Modul-**<br>**Note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**Note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||<br>|<br>**Semester in ECTS-**|||||
+|||||||||**Gesamt**<br>**ECTS**||**Punkten **|||**Art und Umfang**<br>**der Prüfung**||
 |||||**V**|**Ü**|**P**|**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|||
-||**die**|**Summe Wahlpflichtbereich**<br>**Nebenstudienrichtung**||||||**20**|**5-15**|**5-15**|**0**|**0**|||
-|**Anwendungs-**<br>**fächer**|**6**|Wahlpflichtmodule aus dem Kata-<br>log der<br>Anwendungsfachmodule<br>gemäß § 58|vgl. § 58 Abs. 2||||||5|0-5|5-10|0|vgl. § 58 Abs. 2|1|
+|**Ne-**<br>**ben**<br>**stu-**<br>|**die**|**Summe Wahlpflichtbereich**<br>**Nebenstudienrichtung**||||||**20**|**5-15**|**5-15**|**0**|**0**|||
+|**Anwendungs-**<br>**fächer**|**6**|Wahlpflichtmodule aus dem Kata-<br>log der<br>Anwendungsfachmodule<br>gemäß § 58|vgl. § 58|Abs. 2|||||5|0-5|5-10|0|vgl. § 58 Abs. 2|1|
 |||**Summe Anwendungsfach**||||||**15**|**5**|**0-5**|**5-10**|**0**|||
-|**Technische**<br>**Schlüssel-**<br>**qualifikationen**|7|Wahlmodule der Technischen<br>Schlüsselqualifikation gemäß § 59|vgl. § 59 Abs. 3||||||0|0-5|0-5|0|vgl. § 59 Abs. 3|1|
+|**Technische**<br>**Schlüssel-**<br>**qualifikationen**|7|Wahlmodule der Technischen<br>Schlüsselqualifikation gemäß § 59|vgl. § 59|Abs. 3|||||0|0-5|0-5|0|vgl. § 59 Abs. 3|1|
 |||**Summe Technische**<br>**Schlüsselqualifikationen**||||||**5**|**0**|**0-5**|**0-5**|**0**|||
 |**Master-**<br>**seminar**|**8**|Masterseminar gemäß<br>§ 6 ABMPO/NatFak|Masterseminar||||2||0|0|5|0|Seminarleistung,<br>gem.<br>§ 6 ABMPO/Nat-<br>Fak|1|
 |||**Summe Masterseminar**||**0**|**0**|**0**|**2**|**5**|**0**|**0**|**5**|**0**|||
@@ -561,10 +738,16 @@ Seminarleistung: vgl. § 6 Abs. 4 und 5 **ABMPO/NatFak**
 
 23 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2b: Studienverlaufsplan Masterstudiengang Data Science, Teilzeit** 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**<br>**Sem.**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Art und Umfang**<br>**der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**<br>|||||||||**Art und Umfang**<br>**der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||**Workload-Verteilung pro Semester**|||||||||
+|||||||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**|**T**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|**7.**<br>**Sem.**|**8.**<br>**Sem.**|||
 |**Kernmodule**<br>**Data Science**|**1**|Mathematics of Learning|Vorlesung<br>Mathematics of<br>Learning|2|||||**5**|5||||||||Klausur (60 Min.)|1|
 ||||Übung<br>Mathematics of<br>Learning||1|||||||||||||||
@@ -574,13 +757,19 @@ Seminarleistung: vgl. § 6 Abs. 4 und 5 **ABMPO/NatFak**
 |||**Summe Kernmodule Data Science**||**4**|**2**||||**15**|**5**|**5**|**5**|**0**|||||||
 |**Hauptstudien-**<br>**richtung**|**4**|Wahlpflichtmodule aus dem<br>Katalog der gewählten<br>Hauptstudienrichtung<br>gemäß § 57|vgl. § 57 Abs. 4|||||||0-10|0-10|0-10|0-10|0-10||||vgl. § 57 Abs. 4|1|
 |||**Summe Wahlpflichtbereich Hauptstudienrichtung**|||||||**30**|**0-10**|**0-10**|**0-10**|**0-10**|**0-10**||||||
-|**Nebenstudien-**<br>**richtung**|**5**|Wahlpflichtmodule aus den<br>Katalogen der nicht gewähl-<br>ten Nebenstudienrichtungen<br>gemäß § 57|vgl. § 57 Abs. 4|||||||0-10|0-10|0-10|0-10|0-10||||vgl. § 57 Abs. 4|1|
-|||**Summe Wahlpflichtbereich Nebenstudienrich-**<br>**tung**|||||||**20**|**0-10**|**0-10**|**0-10**|**0-10**|**0-10**||||||
+|**enstudien-**<br>**chtung**|**5**|Wahlpflichtmodule aus den<br>Katalogen der nicht gewähl-<br>ten Nebenstudienrichtungen<br>gemäß § 57|vgl. § 57 Abs. 4|||||||0-10|0-10|0-10|0-10|0-10||||vgl. § 57 Abs. 4|1|
+|**Neb**<br>**ri**||**Summe Wahlpflichtbereich Nebenstudienrich-**<br>**tung**|||||||**20**|**0-10**|**0-10**|**0-10**|**0-10**|**0-10**||||||
 
 24 
 
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**<br>**Sem.**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Art und Umfang**<br>**der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**<br>**ECTS**<br>||**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Workload-Verteilung pro Semester**|**Art und Umfang**<br>**der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||||||||
+|||||||||||||||||||||
 |||||**V**|**Ü**|**P**|**S**|**T**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|**7.**<br>**Sem.**|**8.**<br>**Sem.**|||
 |**Anwendungs-**<br>**fächer**|**6**|Wahlpflichtmodule aus dem<br>Katalog der Anwendungs-<br>fachmodule gemäß<br>§ 58|vgl. § 58 Abs. 2||||||||||0-5|0-5|5-10|||vgl. § 58 Abs. 2|1|
 |||**Summe Anwendungsfach**|||||||**15**||||**0-5**|**0-5**|**5-10**|||||
@@ -597,6 +786,10 @@ Seminarleistung: vgl. § 6 Abs. 4 und 5 **ABMPO/NatFak**
 Seminarleistung: vgl. § 6 Abs. 4 und 5 **ABMPO/NatFak** 
 
 25 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026 Erlangen, den 5. März 2026 
 

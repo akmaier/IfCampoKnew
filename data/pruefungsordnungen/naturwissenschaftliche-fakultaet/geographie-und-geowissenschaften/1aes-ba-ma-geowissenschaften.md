@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "30. September 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/Änderungssatzungen/1AES_BA-MA_Geowissenschaften.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:50:34+00:00
+scraped_at: 2026-05-01T07:41:24+00:00
 page_count_chars: 20440
 ---
 

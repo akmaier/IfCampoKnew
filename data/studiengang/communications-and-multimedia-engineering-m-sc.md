@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:09:48+00:00
+scraped_at: 2026-05-01T06:43:39+00:00
 ---
 
 # Communications and Multimedia Engineering (M.Sc.)
@@ -214,7 +214,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.tf.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [TYSAMPON - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/04/AdobeStock_944404563-scaled-1.jpeg)
+- [TYSAMPON - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/05/AdobeStock_944404563-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

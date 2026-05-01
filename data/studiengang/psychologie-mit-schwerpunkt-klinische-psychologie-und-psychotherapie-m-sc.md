@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "150-250"
-scraped_at: 2026-04-25T14:14:13+00:00
+scraped_at: 2026-05-01T06:50:30+00:00
 ---
 
 # Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie (M.Sc.)

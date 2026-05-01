@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2. August 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/16AES_AllgPrO BA-MA Phil Fak.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-04-25T15:09:12+00:00
+scraped_at: 2026-05-01T08:04:00+00:00
 page_count_chars: 25965
 ---
 

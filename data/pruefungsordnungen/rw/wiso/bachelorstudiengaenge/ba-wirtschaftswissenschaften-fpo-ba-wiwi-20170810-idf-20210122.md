@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BA Wirtschaftswissenschaften FPO BA WiWi 20170810 i.d.F. 20210122.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftswissenschaften/konsolidierte_Fassungen/BA_Wirtschaftswissenschaften_FPO_BA_WiWi_20170810_idF_20210122.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:16:19+00:00
+scraped_at: 2026-05-01T09:28:35+00:00
 page_count_chars: 47367
 ---
 

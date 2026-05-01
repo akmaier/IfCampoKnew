@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 31.07.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/ZPO%20Evangelische%20Theologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:36:56+00:00
+scraped_at: 2026-05-01T08:44:31+00:00
 page_count_chars: 30072
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "11. August 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa-2FachBA%20Soziologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:05:05+00:00
+scraped_at: 2026-05-01T09:14:28+00:00
 page_count_chars: 2786
 ---
 

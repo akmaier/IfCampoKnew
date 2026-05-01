@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "5. Februar 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES_MA_Linguistik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:26:49+00:00
+scraped_at: 2026-05-01T08:32:43+00:00
 page_count_chars: 9058
 ---
 

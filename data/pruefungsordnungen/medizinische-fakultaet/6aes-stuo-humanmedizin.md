@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Dezember 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/6AES_StuO-Humanmedizin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:34:07+00:00
+scraped_at: 2026-05-01T07:23:36+00:00
 page_count_chars: 7063
 ---
 

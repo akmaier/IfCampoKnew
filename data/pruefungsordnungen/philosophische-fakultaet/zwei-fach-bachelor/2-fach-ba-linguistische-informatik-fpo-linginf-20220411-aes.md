@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Linguistische Informatik FPO LingInf 20220411 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Computerlinguistik/Aenderungssatzungen/2-Fach-BA_Linguistische_Informatik_FPO_LingInf_20220411_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:00:00+00:00
+scraped_at: 2026-05-01T09:06:29+00:00
 page_count_chars: 19198
 ---
 

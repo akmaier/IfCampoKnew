@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20220914.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Deutsch/konsolidierte_Fassungen/LA_Deutsch_FPO_LA_Deutsch_20090226_idF_20220914.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:21:46+00:00
+scraped_at: 2026-05-01T07:02:31+00:00
 page_count_chars: 47757
 ---
 

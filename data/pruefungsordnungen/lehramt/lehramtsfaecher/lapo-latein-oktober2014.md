@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 26.03.2009 i.d.F. 09.10.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Latein-Oktober2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:27:21+00:00
+scraped_at: 2026-05-01T07:12:55+00:00
 page_count_chars: 12753
 ---
 

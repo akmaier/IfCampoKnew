@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc International Business Studies FPO BSC IBS 20170810 i.d.F. 20200902 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/englisch/BSc_International_Business_Studies_FPO_BSC_IBS_20170810_idF_20200902_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:14:22+00:00
+scraped_at: 2026-05-01T09:25:46+00:00
 page_count_chars: 16472
 ---
 

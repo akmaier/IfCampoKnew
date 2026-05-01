@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2025-26 20250616 Aussetzung der Immatrikulation.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/Regelungen_zum_Studium/Begrenzungen_von_Ausbildungs-_und_Studienplaetzen/Erweiterungsfach_Darstellendes_Spiel/Ausbildungsplätze_im_Erweiterungsfach_Darstellendes_Spiel_2025-26_20250616_Aussetzung_der_Immatrikulation.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:21:30+00:00
-page_count_chars: 1717
+scraped_at: 2026-05-01T07:02:10+00:00
+page_count_chars: 1825
 ---
 
 # Ausbildungsplätze im Erweiterungsfach Darstellendes Spiel 2025-26 20250616 Aussetzung der Immatrikulation.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/Regelungen_zum_Studium/Begrenzungen_von_Ausbildungs-_und_Studienplaetzen/Erweiterungsfach_Darstellendes_Spiel/Ausbildungsplätze_im_Erweiterungsfach_Darstellendes_Spiel_2025-26_20250616_Aussetzung_der_Immatrikulation.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **Satzung zur Aussetzung der Immatrikulation im Fach Darstellendes Spiel/Theater gemäß § 4 LAPO i. V. m. §§ 35, 37, 39, 60, 111 und 116 Ordnung der Ersten Prüfung für ein Lehramt an öffentlichen Schulen (Lehramtsprüfungsordnung I – LPO I) an der Philosophien Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) Vom 16. Juni 2025** 
 

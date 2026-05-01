@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:12:02+00:00
+scraped_at: 2026-05-01T06:47:30+00:00
 ---
 
 # Kunstgeschichte (M.A.)

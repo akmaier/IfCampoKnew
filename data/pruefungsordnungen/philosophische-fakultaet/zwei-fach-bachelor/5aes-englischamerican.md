@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "11. August 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-EnglischAmerican.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:54:14+00:00
+scraped_at: 2026-05-01T08:56:35+00:00
 page_count_chars: 10546
 ---
 

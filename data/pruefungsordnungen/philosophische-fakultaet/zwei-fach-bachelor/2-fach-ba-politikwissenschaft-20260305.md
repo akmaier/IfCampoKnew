@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Politikwissenschaft 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Politikwissenschaft/konsolidierte_Fassungen/2-Fach-BA_Politikwissenschaft_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:02:59+00:00
-page_count_chars: 22846
+scraped_at: 2026-05-01T09:11:05+00:00
+page_count_chars: 21907
 ---
 
 # 2-Fach-BA Politikwissenschaft 20260305.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Politikwissenschaft/konsolidierte_Fassungen/2-Fach-BA_Politikwissenschaft_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO B.A. Politik Zwei-Fach – Vom 5. März 2026** 
 
@@ -35,6 +39,10 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 (4) Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 1. Sachkompetenz: Kenntnisse der systematischen Themenkomplexe der Politikwissenschaft in ihren verschiedenen Teilbereichen, insbesondere 
 
@@ -77,6 +85,10 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 (2)[1] Wird Politikwissenschaft als Erstfach studiert, müssen bezogen auf das gesamte Zwei-Fach-Bachelorstudium im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden.[2] Davon entfallen 10 ECTS-Punkte verpflichtend auf berufsfeldorientierte Schlüsselqualifikationen.[3] Diese müssen durch den erfolgreichen Abschluss von „Englisch Level 1 und 2“ (Englisch für alle Fakultäten (EASP)) erbracht werden.[4] Wer in dem entsprechenden Einstufungstest des Sprachenzentrums der FAU mindestens „Englisch Level 3“ erreicht, muss stattdessen 10 ECTS-Punkte im Bereich der berufsfeldorientierten Schlüsselqualifikationen über ein Praktikum von acht Wochen Dauer erwerben.[5] Für Studierende, die in einem entsprechenden Einstufungstest des Sprachenzentrums der FAU mindestens „Englisch Level 2“ erreichen, reduziert sich die Dauer des zu absolvierenden Praktikums nach 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Satz 4 auf 4 Wochen (5 ECTS-Punkte).[6] Falls Politikwissenschaft als Zweitfach studiert wird, sind der Umfang der Schlüsselqualifikationen sowie ggf. verpflichtende Vorschriften dazu vom Erstfach abhängig.[7] Die Regelungen der Sätze 3 bis 5 werden auch beim Studium der Politikwissenschaft als Zweitfach empfohlen. 
 
@@ -154,53 +166,74 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Politikwissenscha
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 2: Studienverlaufsplan B.A. Politikwissenschaft als Zweitfach** 
 
-|**Modulbezeichnung**|**Lehrveran-**<br>**staltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Art und Umfang**<br>**der Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveran-**<br>**staltung**|**SWS**|**SWS**|**SWS**||**Ge-**<br>**samt-**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **||**Art und Umfang**<br>**d Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||||
-|**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 ABMStPO/Phil)**<br>|~~rs nsnsGDQO~~<br>~~QO~~<br>~~DQ~~||||||||||||||||
-|Module des Erstfachs2<br>~~rs ns~~|vgl. FPO des Erstfachs<br>~~ns~~|||||**70-90**<br>~~ns~~|0-20<br>~~ns~~|0-10<br>~~GD~~|0-15<br>~~QO~~|0-15<br>~~QO~~|0-30<br>~~DQ~~|0-20<br>~~DQ~~||vgl. FPO des Erstfachs||
-|**Politikwissenschaft als Zweitfach**<br>~~rs ns nsGD QO~~<br>~~QO~~<br>~~DQ~~||||||||||||||||
-|Einführungsmodule<br>~~IIIT~~||||||||||||||||
-|Einführung in die Politikwissenschaft und<br>Grundlagen des politischen Denkens<br>~~SO~~|Seminar<br>~~SO~~|~~SO~~|~~SO~~|~~SO~~|2<br>~~SO~~|**5**<br>~~SO~~|2,5<br>~~SO~~|~~SO~~|~~SO~~|~~SO~~|~~SO~~|~~SO~~|Klausur (60 Min.)und<br>Hausarbeit (5-7 S.) mit<br>Referat (15 Min.)<br>~~SO~~||1<br>~~SO~~|
-||Vorlesung<br>~~SO~~|2<br>~~SO~~|~~SO~~|~~SO~~|~~SO~~||2,5<br>~~SO~~|~~SO~~|~~SO~~|~~SO~~|~~SO~~|~~SO~~||||
-|Einführung in die Methoden der Politik-<br>wissenschaft<br>~~pH~~|Vorlesung<br>~~fife~~<br>~~pH~~|2<br>~~fife~~<br>~~pH~~|~~fife~~<br>~~pH~~|~~fife~~<br>~~pH~~|~~fife~~<br>~~pH~~|**5**<br>~~fife~~|~~fife~~<br>~~|~~|5<br> <br>~~|{|~~|~~eet~~<br>~~{|[|~~|~~eet~~<br>~~[|ft~~|~~eet~~<br>~~ft~~|~~eet~~<br>|Klausur (90 Min.)<br>~~eet~~||1<br>~~eet~~|
-||Übung<br>~~fife~~<br>~~pH~~|~~fife~~<br>~~pH~~|1<br>~~fife~~<br>~~pH~~|~~fife~~<br>~~pH~~|~~fife~~<br>~~pH~~||~~fife ~~<br>~~|~~||~~eet~~<br>~~{|[|~~|~~eet~~<br>~~[|ft~~|~~eet~~<br>~~ftft~~|~~eet~~<br>~~ft~~||||
-|Basismodule<br>~~pH~~<br>~~| {| [| ft~~<br>~~III~~<br>~~re~~<br>~~iefeGeGe~~<br>~~eeGOee~~||||||||||||||||
-|Politische Systeme I<br>~~re~~|Vorlesung<br>~~ie~~|2<br>~~ie~~|~~fe~~|~~Ge~~|~~Ge~~|**5**<br>~~ee~~|5<br>~~ee~~|~~ee~~|~~GO~~|~~GO~~|~~ee~~|~~ee~~|Klausur (90 Min.)||2|
-|Politische Systeme II<br>~~re~~<br>~~ee~~|Proseminar<br>~~ie~~<br>~~rs~~|~~ie ~~<br>~~rs~~|~~fe ~~<br>~~fe~~|~~Ge ~~<br>~~fe~~|2<br> ~~Ge~~<br>~~ee~~|**5**<br>~~ee~~<br>~~re~~|~~ee~~<br>~~ee~~|5<br>~~ee~~<br>~~ee~~|~~GO~~<br>~~Gs~~|~~GO ~~|~~ee~~|~~ee~~|Hausarbeit (10-12 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3||1|
-|Internationale Beziehungen I<br>~~ee~~|Vorlesung<br>~~rs~~|2<br>~~rs~~|~~fe~~|~~fe~~|~~ee~~|**5**<br>~~re~~|~~ee~~|5<br>~~ee~~|~~Gs~~||||Klausur (90 Min.)||2|
-|Internationale Beziehungen II<br>~~ee~~|Proseminar<br>~~rs~~|~~rs ~~<br>~~Ges~~|~~fe ~~<br>~~Ges~~|~~fe ~~<br>~~ee~~|2<br> ~~ee ~~<br>~~ee~~|**5**<br> ~~re ~~<br>~~re~~|~~ee~~<br>~~ee~~|~~ee ~~<br>~~ee~~|5<br> ~~Gs~~<br>~~Ge~~|~~Od~~|~~ee~~|~~ee~~|Hausarbeit (10-12 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3||1|
-|Politische Theorie & Ideengeschichte I<br>~~ee~~|Vorlesung<br>~~ee~~|2<br>~~ee~~<br>~~Ges~~|~~ee~~<br>~~Ges~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|**5**<br>~~ee~~<br>~~re~~|~~ee~~<br>~~ee~~|5<br>~~ee~~<br>~~ee~~|~~ee~~<br>~~Ge~~|~~ee~~<br>~~Od~~|~~ee~~<br>~~ee~~|~~ee~~<br>~~ee~~|Klausur (90 Min.)<br>~~ee~~||2<br>~~ee~~|
-|Politische Theorie & Ideengeschichte II|Proseminar|~~Ges~~|~~Ges ~~|~~ee ~~|2<br> ~~ee ~~|**5**<br> ~~re ~~|~~ee~~|~~ee ~~|5<br> ~~Ge ~~|~~Od ~~|~~ee~~|~~ee~~|Hausarbeit (10-12 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20Min.) 3||1|
+|||||||||<br>|<br>**ECTS-Punkten1 **|||||||
+|||**V**||||||||||||||
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||**er rung**||
+|||||||||||||||||
+|**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 ABMStPO/Phil)**||||||||||||||||
+|Module des Erstfachs2|vgl. FPO des Erstfachs|||||**70-90**|0-20|0-10|0-15|0-15|0-30|0-20||vgl. FPO des Erstfachs||
+|**Politikwissenschaft als Zweitfach**||||||||||||||||
+|Einführungsmodule||||||||||||||||
+|Einführung in die Politikwissenschaft und<br>Grundlagen des politischen Denkens|Seminar||||2|**5**|2,5||||||Klausur (60 Min.)und<br>Hausarbeit (5-7 S.) mit<br>Referat (15 Min.)||1|
+||Vorlesung|2|||||2,5|||||||||
+|Einführung in die Methoden der Politik-<br>wissenschaft|Vorlesung|2||||**5**||5|||||Klausur (90 Min.)||1|
+||Übung||1|||||||||||||
+|Basismodule||||||||||||||||
+|Politische Systeme I|Vorlesung|2||||**5**|5||||||Klausur (90 Min.)||2|
+|Politische Systeme II|Proseminar||||2|**5**||5|||||Hausarbeit (10-12 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3||1|
+|Internationale Beziehungen I|Vorlesung|2||||**5**||5|||||Klausur (90 Min.)||2|
+|Internationale Beziehungen II|Proseminar||||2|**5**|||5||||Hausarbeit (10-12 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3||1|
+|Politische Theorie & Ideengeschichte I|Vorlesung|2||||**5**||5|||||Klausur (90 Min.)||2|
+|Politische Theorie & Ideengeschichte II|Proseminar||||2|**5**|||5||||Hausarbeit (10-12 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20Min.) 3||1|
 
 7 
 
-|**Modulbezeichnung**|**Lehrveran-**<br>**staltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Art und Umfang**<br>**der Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||||
-|Aufbaumodule||||||||||||||||
-|Menschenrechtspolitik|Vorlesung<br>oder Seminar|(2)|||(2)|**5**|||5||||Klausur (90 Min.)||2|
-|Regionenforschung|Vorlesung<br>oder Seminar|(2)|||(2)|**10**||||5|||Klausur (120 Min.)||2|
-||Vorlesung<br>oderSeminar|(2)|||(2)|||||5||||||
-|Aufbauseminar|Proseminar||||2|**5**||||5|||Hausarbeit (10-12 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20Min.) 3||2|
-|Vertiefungsmodule4||||||||||||||||
-|Vertiefungsmodul Politische Systeme|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20Min.) 3||2|
-|Vertiefungsmodul Internationale Bezie-<br>hungen|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3||2|
-|Vertiefungsmodul Politische Theorie &<br>Ideengeschichte|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3||2|
-|Vertiefungsmodul Regionenforschung|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3||2|
-|Vertiefungsmodul Menschenrechtspolitik|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3||2|
-|**Summe SWS und ECTS-Punkte Zweitfach:**||**10-**<br>**16**|||**14-**<br>**20**|**70**|**15**|**15**|**12,5**|**17,5**|**0-10**|**0-10**||||
-|||**30**||||||||||||||
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveran-**<br>**staltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Art und Umfang**<br>**d Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||<br>**ECTS-Punkten1 **|||||||
+|||**V**|||||||||||||
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**er rung**||
+||||||||||||||||
+|Aufbaumodule|||||||||||||||
+|Menschenrechtspolitik|Vorlesung<br>oder Seminar|(2)|||(2)|**5**|||5||||Klausur (90 Min.)|2|
+|Regionenforschung|Vorlesung<br>oder Seminar|(2)|||(2)|**10**||||5|||Klausur (120 Min.)|2|
+||Vorlesung<br>oderSeminar|(2)|||(2)|||||5|||||
+|Aufbauseminar|Proseminar||||2|**5**||||5|||Hausarbeit (10-12 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20Min.) 3|2|
+|Vertiefungsmodule4|||||||||||||||
+|Vertiefungsmodul Politische Systeme|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20Min.) 3|2|
+|Vertiefungsmodul Internationale Bezie-<br>hungen|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3|2|
+|Vertiefungsmodul Politische Theorie &<br>Ideengeschichte|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3|2|
+|Vertiefungsmodul Regionenforschung|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3|2|
+|Vertiefungsmodul Menschenrechtspolitik|Hauptseminar||||(2)|**(5)**|||||(5)|(5)|Hausarbeit (15-20 S.) mit<br>Referat (30 Min.)_oder_<br>mündliche Prüfung<br>(15-20 Min.)3|2|
+|**Summe SWS und ECTS-Punkte Zweitfach:**||**10-**<br>**16**|||**14-**<br>**20**|**70**|**15**|**15**|**12,5**|**17,5**|**0-10**|**0-10**|||
+|||**30**|||||||||||||
 
 8 
 
-|**Modulbezeichnung**|**Lehrveran-**<br>**staltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Art und Umfang**<br>**der Prüfung**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|**Modulbezeichnung**|**Lehrveran-**<br>**staltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1 **|**Art und Umfang**<br>**d Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|||
+|||||||||<br>**ECTS-Punkten1 **|||||||
+|||**V**|||||||||||||
+||||**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**er rung**||
+||||||||||||||||
 |**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikationsmodule|5|||||**10-30**|0-20|0-10|0-15|0-15|0-30|0-20|5|0|
+|Schlüsselqualifikationsmodule||5||||**10-30**|0-20|0-10|0-15|0-15|0-30|0-20|5|0|
 |**Bachelorarbeit im Erstfach**|||||||||||||||
 |Bachelorarbeit|vgl. FPO des Erstfachs|||||**10**||||||10|vgl. FPO des Erstfachs||
 |**Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium**||||||**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
@@ -217,11 +250,21 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Politikwissenscha
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 17. Dezember 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 15. Januar 2026 Erlangen, den 5. März 2026 
 
-FAU gez. 
+FAU 
 
-Prof. Dr.-Ing. Joachim Hornegger, Präsident Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Ein-sicht während der Dienststunden bereit. 
+gez. 
+
+Prof. Dr.-Ing. Joachim Hornegger, Präsident 
+
+Diese Satzung wurde am 5. März 2026 digital auf der Internetseite 
+
+https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Ein-sicht während der Dienststunden bereit. 
 
 Tag der Bekanntmachung ist daher der 5. März 2026 
 

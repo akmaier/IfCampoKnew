@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie, Rechts- und Wirt
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:13:32+00:00
+scraped_at: 2026-05-01T06:49:35+00:00
 ---
 
 # Öffentliches Recht (B.A.)

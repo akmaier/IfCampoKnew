@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 01.08.2006"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/ReWi-Urfassung/FB%20WiWi/PO%20-%20BA%20-%20WiWi/PrO-BPO%20WiSo%20mit%20Anlagen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:13:10+00:00
+scraped_at: 2026-05-01T09:23:57+00:00
 page_count_chars: 79961
 ---
 

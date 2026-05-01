@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "23. Februar 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES%20MA-Sozialoeko.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:34:58+00:00
+scraped_at: 2026-05-01T09:42:21+00:00
 page_count_chars: 3255
 ---
 

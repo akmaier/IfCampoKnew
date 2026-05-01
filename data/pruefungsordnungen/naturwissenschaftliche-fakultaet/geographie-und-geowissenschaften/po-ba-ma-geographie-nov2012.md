@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.09.2007 i.d.F. 09.11.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/PO-BA-MA_Geographie.NOV2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:53:16+00:00
-page_count_chars: 64661
+scraped_at: 2026-05-01T07:46:16+00:00
+page_count_chars: 64679
 ---
 
 # PDF vom 27.09.2007 i.d.F. 09.11.2012
@@ -269,14 +269,15 @@ umgerechnet.
 
 (1)[1] Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt: 
 
-|**sehr gut**|= (1,0 oder 1,3)|eine hervorragende Leistung;|
+|gedrückt:|||
 |---|---|---|
+|**sehr gut**|= (1,0 oder 1,3)|eine hervorragende Leistung;|
 |**gut**|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den<br>durchschnittlichen Anforderungen liegt;|
 |**befriedigend**|= (2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen An-<br>forderungen entspricht;|
 |**ausreichend**|= (3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch<br>den Anforderungen entspricht;|
 |||eine Leistung, die wegen erheblicher|
 |**nicht ausreichend**|= (4,3 oder 4,7 oder 5,0)|Mängel den Anforderungen nicht mehr|
-|||genügt.|
+|||genügt.<br>|
 
 2Eine Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.[3] Bei unbenoteten Prüfungen (§ 6 Abs. 3 Satz 4) lautet die Bewertung „mit Erfolg teilgenommen“ oder „nicht mit Erfolg teilgenommen“; eine Modulnote wird nicht gebildet.[ 4 ] Ein Modul ist bestanden, wenn sämtliche Teilleistungen bestanden sind.[5] Ist eine Prüfung von mehreren Prüfenden zu bewerten, so ergibt sich die Note aus dem Mittel der Einzelnoten.[6] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
 

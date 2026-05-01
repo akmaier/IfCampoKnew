@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Weiterbildungs-Masterstudiengänge"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:40:25+00:00
+scraped_at: 2026-05-01T09:50:46+00:00
 ---
 
 # Weiterbildungs-Masterstudiengänge

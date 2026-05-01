@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Dezember 2009"
 pdf_source: http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa-2FachBA-KultChrist.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:31:57+00:00
+scraped_at: 2026-05-01T08:40:16+00:00
 page_count_chars: 1527
 ---
 

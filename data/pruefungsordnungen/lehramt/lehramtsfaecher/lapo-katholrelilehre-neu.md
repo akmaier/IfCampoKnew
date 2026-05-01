@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 27.07.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO_KatholReliLehre_NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:26:44+00:00
+scraped_at: 2026-05-01T07:11:53+00:00
 page_count_chars: 4924
 ---
 

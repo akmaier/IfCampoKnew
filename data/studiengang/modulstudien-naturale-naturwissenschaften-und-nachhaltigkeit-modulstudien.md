@@ -8,7 +8,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Orientierungs-/Modulstudien"
-scraped_at: 2026-04-25T14:13:14+00:00
+scraped_at: 2026-05-01T06:49:10+00:00
 ---
 
 # Modulstudien Naturale: Naturwissenschaften und Nachhaltigkeit (Modulstudien)

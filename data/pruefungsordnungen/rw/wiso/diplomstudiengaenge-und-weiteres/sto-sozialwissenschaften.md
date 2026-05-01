@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.06.2006"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/StO_Sozialwissenschaften.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-04-25T16:27:41+00:00
+scraped_at: 2026-05-01T09:33:10+00:00
 page_count_chars: 29518
 ---
 

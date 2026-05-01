@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 26.02.2009 i.d.F. 15.09.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Ev.%20Religion-SEPT2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:24:06+00:00
+scraped_at: 2026-05-01T07:06:53+00:00
 page_count_chars: 22673
 ---
 

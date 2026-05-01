@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 07.03.2006 i.d.F. 11.08.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/EWF/FPO_Multimedia-Didaktik_WeiterbildungMaster.abWS2010-2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:40:45+00:00
+scraped_at: 2026-05-01T08:48:54+00:00
 page_count_chars: 35618
 ---
 

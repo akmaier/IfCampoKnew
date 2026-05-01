@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-04-25T14:14:59+00:00
+scraped_at: 2026-05-01T06:51:37+00:00
 ---
 
 # Wirtschaftswissenschaften (Lehramt)

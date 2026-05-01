@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES MA-Kunstgeschichte.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:26:02+00:00
+scraped_at: 2026-05-01T08:31:40+00:00
 page_count_chars: 1727
 ---
 

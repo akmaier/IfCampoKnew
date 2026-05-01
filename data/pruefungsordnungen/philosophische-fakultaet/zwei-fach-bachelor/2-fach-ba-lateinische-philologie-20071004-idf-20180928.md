@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Lateinische Philologie 20071004 i.d.F. 20180928.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Lateinische_Philologie/konsolidierte_Fassungen/2-Fach-BA_Lateinische Philologie_20071004_idF_20180928.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:59:38+00:00
+scraped_at: 2026-05-01T09:05:49+00:00
 page_count_chars: 12701
 ---
 

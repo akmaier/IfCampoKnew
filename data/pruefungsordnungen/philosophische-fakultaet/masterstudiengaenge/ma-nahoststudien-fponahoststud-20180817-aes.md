@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Nahoststudien FPONahOstStud 20180817 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Nahoststudien/Aenderungssatzungen/MA Nahoststudien_FPONahOstStud_20180817_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:28:00+00:00
+scraped_at: 2026-05-01T08:34:28+00:00
 page_count_chars: 17107
 ---
 

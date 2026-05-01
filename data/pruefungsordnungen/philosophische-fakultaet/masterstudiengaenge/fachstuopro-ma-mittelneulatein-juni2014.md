@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 13.06.2014 i.d.F. 13.06.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO_MA_MittelNeuLatein.JUNI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:27:50+00:00
+scraped_at: 2026-05-01T08:34:13+00:00
 page_count_chars: 6911
 ---
 

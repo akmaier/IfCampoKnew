@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc International Economic Studies FPO BSc IES 20240807 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/englisch/BSc_International_Economic_Studies_FPO_BSc_IES_20240807_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:14:37+00:00
+scraped_at: 2026-05-01T09:26:09+00:00
 page_count_chars: 13813
 ---
 

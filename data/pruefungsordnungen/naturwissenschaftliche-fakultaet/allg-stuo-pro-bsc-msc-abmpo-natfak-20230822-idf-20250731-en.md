@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "Allg StuO PrO BSc-MSc ABMPO-NatFak 20230822 i.d.F. 20250731 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_NatFak/englisch/Allg_StuO_PrO_BSc-MSc_ABMPO-NatFak_20230822_idF_20250731_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/
-scraped_at: 2026-04-25T14:39:28+00:00
-page_count_chars: 102579
+scraped_at: 2026-05-01T07:29:29+00:00
+page_count_chars: 102687
 ---
 
 # Allg StuO PrO BSc-MSc ABMPO-NatFak 20230822 i.d.F. 20250731 en.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_NatFak/englisch/Allg_StuO_PrO_BSc-MSc_ABMPO-NatFak_20230822_idF_20250731_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **General Degree Program and Examination Regulations for Bachelor’s and Master’s Degree Programs of the Faculty of Sciences at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPO/NatFak –** 
 

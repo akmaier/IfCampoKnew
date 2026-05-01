@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "28. August 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AeSa-BA_WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:12:58+00:00
+scraped_at: 2026-05-01T09:23:37+00:00
 page_count_chars: 9954
 ---
 

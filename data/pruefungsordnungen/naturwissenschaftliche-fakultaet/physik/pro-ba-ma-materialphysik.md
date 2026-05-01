@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.01.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/PrO-BA-MA-Materialphysik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-04-25T15:03:55+00:00
+scraped_at: 2026-05-01T07:56:56+00:00
 page_count_chars: 68460
 ---
 

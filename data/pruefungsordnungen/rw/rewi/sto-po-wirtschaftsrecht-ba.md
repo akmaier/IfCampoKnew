@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 29.09.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/StO-PO-Wirtschaftsrecht-BA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:09:41+00:00
+scraped_at: 2026-05-01T09:18:18+00:00
 page_count_chars: 43777
 ---
 

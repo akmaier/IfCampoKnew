@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA English and American Studies 20071004 i.d.F. 20200124.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/English_and_American_Studies/konsolidierte_Fassungen/2-Fach-BA_English_and_American_Studies_20071004_idF_20200124.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:53:58+00:00
+scraped_at: 2026-05-01T08:56:02+00:00
 page_count_chars: 29229
 ---
 

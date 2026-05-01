@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AES_2FachBA_Germanistik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:55:08+00:00
+scraped_at: 2026-05-01T08:58:05+00:00
 page_count_chars: 8109
 ---
 

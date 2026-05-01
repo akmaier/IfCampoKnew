@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PO MA OEPE 20240229 WS 24-25 Aussetzung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20240229_WS_24-25_Aussetzung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:39:53+00:00
+scraped_at: 2026-05-01T08:47:48+00:00
 page_count_chars: 628
 ---
 

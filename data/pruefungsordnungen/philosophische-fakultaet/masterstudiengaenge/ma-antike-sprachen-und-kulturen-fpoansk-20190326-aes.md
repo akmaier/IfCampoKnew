@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Antike Sprachen und Kulturen FPOAnSK 20190326 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Antike_Sprachen_und_Kulturen/Aenderungssatzungen/MA_Antike_Sprachen_und_Kulturen_FPOAnSK_20190326_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:21:18+00:00
+scraped_at: 2026-05-01T08:23:49+00:00
 page_count_chars: 11249
 ---
 

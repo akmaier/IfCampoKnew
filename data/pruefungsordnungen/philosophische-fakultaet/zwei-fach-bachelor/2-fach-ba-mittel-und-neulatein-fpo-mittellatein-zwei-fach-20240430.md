@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Mittel- und Neulatein FPO Mittellatein Zwei-Fach 20240430.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Mittel-_und_Neulatein/konsolidierte_Fassungen/2-Fach-BA_Mittel-_und_Neulatein_FPO_Mittellatein_Zwei-Fach_20240430.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:00:18+00:00
+scraped_at: 2026-05-01T09:07:00+00:00
 page_count_chars: 19977
 ---
 

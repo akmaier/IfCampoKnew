@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-04-25T14:11:31+00:00
+scraped_at: 2026-05-01T06:46:42+00:00
 ---
 
 # Integrated Life Sciences: Biology, Biomathematics and Biophysics (M.Sc.)

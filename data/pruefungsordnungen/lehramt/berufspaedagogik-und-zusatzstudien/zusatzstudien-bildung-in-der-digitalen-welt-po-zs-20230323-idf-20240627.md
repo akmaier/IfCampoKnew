@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Zusatzstudien Bildung in der digitalen Welt PO ZS 20230323 idf 20240627.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/konsolidierte_Fassungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230323_idf_20240627.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-04-25T14:19:24+00:00
+scraped_at: 2026-05-01T06:58:46+00:00
 page_count_chars: 8621
 ---
 

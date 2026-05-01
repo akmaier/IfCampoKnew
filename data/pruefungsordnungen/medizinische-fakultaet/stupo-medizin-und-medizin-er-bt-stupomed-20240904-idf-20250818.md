@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPO Medizin und Medizin ER-BT StuPOMed 20240904 i.d.F. 20250818.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Medizin/konsolidierte_Fassungen/StuPO_Medizin_und Medizin_ER-BT_StuPOMed_20240904_idF_20250818.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:33:46+00:00
-page_count_chars: 106575
+scraped_at: 2026-05-01T07:23:11+00:00
+page_count_chars: 101034
 ---
 
 # StuPO Medizin und Medizin ER-BT StuPOMed 20240904 i.d.F. 20250818.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Med/Medizin/konsolidierte_Fassungen/StuPO_Medizin_und Medizin_ER-BT_StuPOMed_20240904_idF_20250818.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 # **Studien- und Prüfungsordnung für das Studium der Medizin** 
 
@@ -26,54 +30,21 @@ geändert durch die Fassung vom 18. August 2025
 
 1 
 
-**==> picture [461 x 442] intentionally omitted <==**
+**==> picture [165 x 49] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-||||
-|---|---|---|
-|§ 27 Zeugnis ....................................................................................................................... 18|
-|§ 28 Bescheinigung über endgültig nicht bestandene Prüfung ............................................ 18|
-|II. Erster Studienabschnitt ................................................................................................ 18|
-|§ 29 Ausbildung im ersten Studienabschnitt ........................................................................ 18|
-|III. Zweiter Studienabschnitt ............................................................................................. 19|
-|§ 30 Generelle Regeln zur Ausbildung im zweiten Studienabschnitt .................................... 19|
-|§ 31 Ausbildung im zweiten Studienabschnitt des Studiengangs Medizin............................ 20|
-|§ 32 Ausbildung im zweiten Studienabschnitt des Studiengangs Medizin Erlangen/Bayreuth|
-|............................................................................................................................................ 20|
-|§ 33 Ausbildung im Praktischen Jahr ................................................................................... 21|
-|IV. Übergangs- und Schlussbestimmungen, Inkrafttreten ............................................. 21|
-|§ 34 Inkrafttreten ................................................................................................................. 21|
-|V. ANLAGEN: Ausbildungskataloge für die FAU-Studiengänge Medizin und Medizin|
-|Erlangen/Bayreuth ............................................................................................................ 23|
-|Anlage 1:|Ausbildungskatalog für die Studiengänge Medizin und Medizin Erlangen/Bayreuth|
-|1. Studienabschnitt/Vorklinik – Teil 1  (Seminare (S) und Praktika (PK) sowie|
-|Kurse (Ü), die im ersten Studienabschnitt regelmäßig und mit Erfolg zu besuchen|
-|sind) .................................................................................................................... 23|
-|Anlage 2:|Ausbildungskatalog 1. Studienabschnitt/Vorklinik für Studiengänge Medizin und|
-|Medizin Erlangen/Bayreuth – Teil 2 (Vorlesungen (VL) im ersten Studienabschnitt,|
-|die der Begleitung und Einführung in die Veranstaltungen nach der Anlage 1|
-|dienen) ................................................................................................................ 25|
-|Anlage 3:|Ausbildungskatalog 2. Studienabschnitt / Klinik für den Studiengang Medizin – Teil|
-|1 (Blockpraktika (BPK) und  Praktika / Kurse am Krankenbett (PK))|[ 1]|.................. 25|
-|Anlage 4:|Ausbildungskatalog 2. Studienabschnitt/Klinik für den Studiengang Medizin – Teil 2|
-|(Seminare (S) und Praktika / Kurse (Ü))|[ 1]|............................................................ 28|
-|Anlage 5:|Ausbildungskatalog 2. Studienabschnitt/Klinik für den Studiengang Medizin – Teil 3|
-|(Vorlesungen (VL), Ringvorlesungen (RVL))........................................................ 30|
-|Anlage 6:|Ausbildungskatalog im 2. Studienabschnitt/ Klinik für den Studiengang Medizin|
-|Erlangen/Bayreuth – Teil 1  (Blockpraktika (BPK) und Praktika / Kurse am|
-|Krankenbett (PK))|[ 1]|.............................................................................................. 33|
-|Anlage 7:|Ausbildungskatalog im 2. Studienabschnitt/ Klinik für den Studiengang Medizin|
-|Erlangen/Bayreuth – Teil 2  (Seminare (S) und Praktika / Kurse (Ü))|[1]|................. 34|
-|Anlage 8:|Ausbildungskatalog im 2. Studienabschnitt/ Klinik für den Studiengang Medizin|
-|Erlangen/Bayreuth – Teil 3  (Vorlesungen (VL), Ringvorlesungen (RVL)) ............ 36|
+**==> picture [114 x 46] intentionally omitted <==**
 
-**----- End of picture text -----**<br>
+§ 27 Zeugnis ....................................................................................................................... 18 § 28 Bescheinigung über endgültig nicht bestandene Prüfung ............................................ 18 **II. Erster Studienabschnitt ................................................................................................ 18** § 29 Ausbildung im ersten Studienabschnitt ........................................................................ 18 **III. Zweiter Studienabschnitt ............................................................................................. 19** § 30 Generelle Regeln zur Ausbildung im zweiten Studienabschnitt .................................... 19 § 31 Ausbildung im zweiten Studienabschnitt des Studiengangs Medizin............................ 20 § 32 Ausbildung im zweiten Studienabschnitt des Studiengangs Medizin Erlangen/Bayreuth ............................................................................................................................................ 20 § 33 Ausbildung im Praktischen Jahr ................................................................................... 21 **IV. Übergangs- und Schlussbestimmungen, Inkrafttreten ............................................. 21** § 34 Inkrafttreten ................................................................................................................. 21 **V. ANLAGEN: Ausbildungskataloge für die FAU-Studiengänge Medizin und Medizin Erlangen/Bayreuth ............................................................................................................ 23** Anlage 1: Ausbildungskatalog für die Studiengänge Medizin und Medizin Erlangen/Bayreuth 1. Studienabschnitt/Vorklinik – Teil 1  (Seminare (S) und Praktika (PK) sowie Kurse (Ü), die im ersten Studienabschnitt regelmäßig und mit Erfolg zu besuchen sind) .................................................................................................................... 23 Anlage 2: Ausbildungskatalog 1. Studienabschnitt/Vorklinik für Studiengänge Medizin und Medizin Erlangen/Bayreuth – Teil 2 (Vorlesungen (VL) im ersten Studienabschnitt, die der Begleitung und Einführung in die Veranstaltungen nach der Anlage 1 dienen) ................................................................................................................ 25 Anlage 3: Ausbildungskatalog 2. Studienabschnitt / Klinik für den Studiengang Medizin – Teil 1 (Blockpraktika (BPK) und  Praktika / Kurse am Krankenbett (PK))[ 1] .................. 25 Anlage 4: Ausbildungskatalog 2. Studienabschnitt/Klinik für den Studiengang Medizin – Teil 2 (Seminare (S) und Praktika / Kurse (Ü))[ 1] ............................................................ 28 Anlage 5: Ausbildungskatalog 2. Studienabschnitt/Klinik für den Studiengang Medizin – Teil 3 (Vorlesungen (VL), Ringvorlesungen (RVL))........................................................ 30 Anlage 6: Ausbildungskatalog im 2. Studienabschnitt/ Klinik für den Studiengang Medizin Erlangen/Bayreuth – Teil 1  (Blockpraktika (BPK) und Praktika / Kurse am Krankenbett (PK))[ 1] .............................................................................................. 33 Anlage 7: Ausbildungskatalog im 2. Studienabschnitt/ Klinik für den Studiengang Medizin Erlangen/Bayreuth – Teil 2  (Seminare (S) und Praktika / Kurse (Ü))[1] ................. 34 Anlage 8: Ausbildungskatalog im 2. Studienabschnitt/ Klinik für den Studiengang Medizin Erlangen/Bayreuth – Teil 3  (Vorlesungen (VL), Ringvorlesungen (RVL)) ............ 36 
 
 ## **Präambel** 
 
 1Seit dem Wintersemester 2019/2020 bietet die Medizinische Fakultät der FAU Erlangen-Nürnberg neben dem Studiengang Medizin den Studiengang Medizin Erlangen/Bayreuth als zweiten Medizinstudiengang an.[2] Kennzeichen des Studiengangs Medizin Erlangen/Bayreuth ist die klinische Ausbildung am Medizincampus Oberfranken unter Verantwortung der Medizinischen Fakultät der FAU in Kooperation mit dem Campusklinikum Bayreuth der FAU.[3] Die Ausbildung im ersten Studienabschnitt erfolgt für Studierende beider Medizinstudiengänge im Wesentlichen gemeinsam am Standort Erlangen.[4] Im Folgenden werden von der Bezeichnung „Studiengang Medizin“ beide Studiengänge umfasst, sofern sich keine gegenteiligen Ausführungen finden. 
 
 2 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **I. Allgemeiner Teil** 
 
@@ -98,6 +69,10 @@ geändert durch die Fassung vom 18. August 2025
 (3)[1] Die Regelstudienzeit für den zweiten Studienabschnitt beträgt einschließlich des Praktischen Jahres vier Jahre und drei Monate.[2] Die Höchststudiendauer für diesen Studienabschnitt beträgt sieben Jahre.[3] Wird das Praktische Jahr in Teilzeit absolviert, verlängert sich die Gesamtdauer der Ausbildung entsprechend. 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (4)[1] Die jeweilige Prüfung gilt als abgelegt und endgültig nicht bestanden, wenn sie nicht innerhalb der Höchststudiendauer nach Abs. 2 Satz 2, Abs. 3 Satz 2 erworben wurde, es sei denn, die bzw. der Studierende hat die Gründe hierfür nicht zu vertreten. 2Die Gründe nach Satz 1 müssen dem nach § 10 zuständigen Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] Werden die Gründe anerkannt, so ist die Prüfung zum nächstmöglichen Termin abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden anerkannt.[4] Es gelten § 12 Abs. 3 Sätze 3 bis 6. 
 
@@ -125,6 +100,10 @@ geändert durch die Fassung vom 18. August 2025
 
 4 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 8 Studienabschnitte** 
 
 1Das Studium gliedert sich in einen zweijährigen ersten Studienabschnitt (Vorklinik) und einen vierjährigen zweiten Studienabschnitt (Klinik), wobei das letzte Jahr des Studiums als Praktisches Jahr abgeleistet wird.[2] Voraussetzung für die Teilnahme am zweiten Studienabschnitt ist das Bestehen des Ersten Abschnitts der Ärztlichen Prüfung.[3] Voraussetzung für die Teilnahme am Praktischen Jahr ist das Bestehen des Zweiten Abschnitts der Ärztlichen Prüfung.[4] Die Verteilung der Studieninhalte auf die Studienabschnitte richtet sich nach der ÄApprO sowie den **Anlagen 1 bis 5** . 
@@ -138,6 +117,10 @@ geändert durch die Fassung vom 18. August 2025
 (3)[1] Die praktischen Übungen (Ü/PK/BPK) und Seminare (S) im Sinne von § 2 Abs. 3 und 4 ÄApprO sind in den Ausbildungskatalogen der **Anlagen 1, 3** und **4** , die vorbereitenden und begleitenden systematischen Vorlesungen (VL/RVL) im Sinne von § 2 Abs. 6 ÄApprO in den Ausbildungskatalogen der **Anlagen 2** und **5** zu dieser Studienund Prüfungsordnung aufgelistet.[2] Die erfolgreiche Teilnahme an einer praktischen Übung und an einem Seminar (vgl. § 2 Abs. 7 ÄApprO) darf nur bescheinigt werden, wenn die bzw. der Studierende die für die Ausbildung zur Ärztin bzw. zum Arzt beziehungsweise die Tätigkeit als Ärztin bzw. Arzt erforderlichen praktischen und theoretischen Kenntnisse, Fähigkeiten und Fertigkeiten über den der praktischen Übung (Ü) oder dem Seminar (S) zugehörigen Wissensstoff in Form einer Leistungskontrolle nachgewiesen hat. 
 
 5 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (4)[1] Bei praktischen Übungen (Ü) und Seminaren (S) findet die Leistungskontrolle kontinuierlich im Verlauf der Lehrveranstaltung oder in einer Prüfung gegen Ende der praktischen Übung bzw. des Seminars, spätestens aber vor dem Vorlesungsbeginn im folgenden Semester statt.[2] Bei den Übungen am Krankenbett erfolgt die Erfolgskontrolle durch fallbezogene mündlich-praktische Prüfung oder durch die Prüfungsform der "Objective Structured Clinical Examination“ (OSCE).[3] Die Prüfungsform OSCE besteht aus einem Parcours von mindestens drei verschiedenen Stationen, an denen praktische Fähigkeiten wie das Erheben einer Anamnese oder verschiedene Methoden der Körperlichen Untersuchung überprüft werden.[ 4] Bei Praktika am Krankenbett, die nicht länger als eine Woche dauern, kann die Leistungskontrolle anhand einer schriftlichen Ausarbeitung (z.B. der Krankengeschichte, des differenzialdiagnostischen Vorgehens, der therapeutischen Optionen) deren Art und Umfang zu Beginn der Veranstaltung festgelegt und ortsüblich bekannt gegeben wird erfolgen.[5] Die Leistung im Praktikum „Allgemeinmedizin" wird durch die betreuende Ärztin bzw. den betreuenden Arzt aufgrund der Mitarbeit der bzw. des Studierenden in deren bzw. dessen Praxis festgestellt. 
 
@@ -165,6 +148,10 @@ geändert durch die Fassung vom 18. August 2025
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ausschuss für den klinischen Studienabschnitt beider Studiengänge gemäß den nachfolgenden Bestimmungen eingesetzt.[ 2] Der Prüfungsausschuss für den vorklinischen Studienabschnitt hat sechs Mitglieder aus dem Kreis der Professorinnen bzw. Professoren, der Prüfungsausschuss für den klinischen Studienabschnitt umfasst sechs Professorinnen bzw. Professoren, wovon mindestens zwei der Gruppe der am Medizincampus Oberfranken lehrenden Professorinnen bzw. Professoren und mindestens zwei der am Standort Erlangen lehrenden Professorinnen bzw. Professoren angehören.[3] Die Mitglieder der Prüfungsausschüsse werden vom Fakultätsrat der Medizinischen Fakultät gewählt.[4] Der Fakultätsrat wählt jeweils ein Mitglied zu der bzw. dem Vorsitzenden und regelt die Vertretung.[5] Die Amtszeit der Mitglieder beträgt zwei Jahre.[6] Wiederwahl ist zulässig.[7] Der Prüfungsausschuss bestimmt Fachvertreterinnen bzw. Fachvertreter der FAU als Prüfungsbeauftragte sowie deren Stellvertreterinnen bzw. Stellvertreter; die Sätze 4 und 5 gelten entsprechend. 
 
 (3)[1] Den Prüfungsausschüssen obliegt die Gesamtplanung, Organisation und Durchführung der Prüfungsverfahren im Benehmen mit dem Prüfungsamt und dem Studiendekanat.[2] Mit der Planung und Organisation einzelner Prüfungen können sie das Studiendekanat oder die Prüfungsbeauftragten beauftragen.[3] Mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden treffen die Prüfungsausschüsse alle anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt bzw. Studiendekanat oder die Prüfungsbeauftragten delegiert sind.[4] Die Prüfungsausschüsse achten darauf, dass die Bestimmungen dieser Studien- und Prüfungsordnung eingehalten werden.[5] Die Prüfungsausschüsse überprüfen auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[6] Sie geben gegebenenfalls Anregungen zu Änderungen der Studien- und Prüfungsordnung. 7Die Mitglieder des jeweils zuständigen Prüfungsausschusses haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen.[8] Für den Geschäftsgang gilt § 30 der Grundordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg ( **GrO** ). 
@@ -176,6 +163,10 @@ ausschuss für den klinischen Studienabschnitt beider Studiengänge gemäß den 
 (6)[1] Die bzw. der Vorsitzende beruft die Sitzungen des jeweiligen Prüfungsausschusses ein.[2] Sie bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen.[4] Darüber hinaus können, soweit diese Studien- und Prüfungsordnung nichts anderes bestimmt, die Prüfungsausschüsse der bzw. dem jeweiligen Vorsitzenden die Erledigung einzelner Aufgaben der Prüfungsausschüsse widerruflich übertragen. 
 
 7 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (7)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der bzw. dem Studierenden ist vor einer ablehnenden Entscheidung Gelegenheit zur Äußerung zu geben.[3] Aufgrund Beschlusses des Prüfungsausschusses können Bescheide in Prüfungsangelegenheiten der bzw. dem jeweiligen Studierenden in elektronischer Form bekannt gegeben werden. 4Widerspruchsbescheide werden im Auftrag der Präsidentin bzw. des Präsidenten erlassen, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem zuständigen Prüfungsausschuss und nach Anhörung der zuständigen Prüfenden. 
 
@@ -199,6 +190,10 @@ ausschuss für den klinischen Studienabschnitt beider Studiengänge gemäß den 
 
 8 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 von Amts wegen zur zugehörigen Prüfung angemeldet.[2] Dies gilt nicht für die Wahlfächer im Ersten und Zweiten Studienabschnitt; Wahlfächer werden bezüglich der Prüfungsanmeldung und -abmeldung wie Vorlesungen nach Satz 3 behandelt.[3] Für Prüfungen, die einer Vorlesung (VL) zugehörig sind, müssen sich die Studierenden entsprechend den nach Satz 1 bekannt gemachten Formalitäten anmelden.[4] Für die Anmeldung zu Wiederholungsprüfungen ist § 21 Abs. 2 zu beachten. 
 
 (3)[1] Bis zum Ende des dritten Werktages vor dem Prüfungstag ist ein Rücktritt vom Erstversuch einer gemäß Abs. 2 angemeldeten Prüfung ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.[ 2] Abweichend von Satz 1 ist ein Rücktritt von Prüfungen, die Seminaren, Praktika und Übungen zugeordnet sind, nur möglich, wenn die bzw. der Studierende die Gründe für den Rücktritt nicht zu vertreten hat.[3] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der bzw. dem Prüfenden geltend gemacht werden; in Fällen krankheitsbedingter Prüfungsunfähigkeit ist gleichzeitig ein Attest vorzulegen.[4] Die bzw. der jeweils zuständige Lehrverantwortliche kann in begründeten Fällen die Vorlage eines vertrauensärztlichen Attestes verlangen.[5] Das (vertrauens-)ärztliche Attest muss eine Beschreibung der gesundheitlichen Beeinträchtigung und die Angabe der sich daraus ergebenden Verminderung des Leistungsvermögens in der Prüfung speziell durch die Störung bestimmter körperlicher oder geistiger Funktionen enthalten.[6] Begründete Fälle im Sinne des Satzes 3 liegen insbesondere vor, wenn einem vorgelegten Attest nicht zu entnehmen ist, ob die Krankheit einen zwingenden Grund für das Fernbleiben darstellt, oder wenn die bzw. der Studierende mehr als zweimal nicht zu vertretende Gründe geltend macht.[7] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[8] Für den Rücktritt von Wiederholungsprüfungen ist § 21 Abs. 3 zu beachten.[9] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 15 Abs. 1. 
@@ -206,6 +201,10 @@ von Amts wegen zur zugehörigen Prüfung angemeldet.[2] Dies gilt nicht für die
 (4)[1] Kann eine Studierende bzw. ein Studierender aus von ihr bzw. ihm nicht zu vertretenden Gründen ihren bzw. seinen Platz in einer Lehrveranstaltung gemäß Abs. 2 Satz 1, zu der sie bzw. er zugelassen ist, nicht in Anspruch nehmen, oder ist sie bzw. er nach Beginn der Lehrveranstaltung aus von ihr bzw. ihm nicht zu vertretenden Gründen an der weiteren Teilnahme über das in § 14 Abs. 1 genannte Maß hinaus gehindert, so hat sie bzw. er dies bei der Veranstaltungsleiterin bzw. dem Veranstaltungsleiter unverzüglich unter Angabe der Gründe schriftlich glaubhaft zu machen.[2] Die Veranstaltungsleiterin bzw. der Veranstaltungsleiter entscheidet über die Anerkennung sowie gegebenenfalls bei Versäumnis über den Umfang der nachzuholenden Stunden und Leistungen.[3] Bei Anerkennung der Gründe wird die bzw. der Studierende im nächstmöglichen Semester nach erneuter Anmeldung eingeteilt, soweit eine Nachholung im laufenden Kurs nicht möglich ist.[4] Bei Nichtanerkennung beziehungsweise unentschuldigtem Fernbleiben gilt die Leistungskontrolle als mit „nicht ausreichend (5)" bewertet.[5] Nimmt eine Studierende bzw. ein Studierender ohne rechtzeitige begründete Entschuldigung nicht an der ersten Unterrichtseinheit einer Lehrveranstaltung teil, so verliert sie bzw. er den Anspruch auf den zugeteilten Platz.[6] Sätze 2 bis 4 und Abs. 3 Sätze 3 bis 6 gelten entsprechend. 
 
 9 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 13 Anerkennung außerhalb der FAU erworbener Kompetenzen, erbrachter Studien- und Zusatzleistungen** 
 
@@ -223,6 +222,10 @@ von Amts wegen zur zugehörigen Prüfung angemeldet.[2] Dies gilt nicht für die
 
 10 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 15 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** 
 
 (1)[1] Eine Prüfung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende von einem Prüfungstermin nach dem Ablauf der Rücktrittsfrist (vgl. § 12 Abs. 3) ohne triftige Gründe zurücktritt.[2] Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen dem jeweils zuständigen Prüfungsausschuss oder dem Prüfungsamt unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt. 
@@ -232,6 +235,10 @@ von Amts wegen zur zugehörigen Prüfung angemeldet.[2] Dies gilt nicht für die
 (3)[1] Besteht der begründete Verdacht für das Vorliegen eines Plagiats bzw. einer anderweitigen Täuschung, insbesondere durch den Einsatz von Systemen künstlicher Intelligenz im Sinne des Abs. 2 Satz 2, so sind die zuständigen Prüfenden im Rahmen der Sachverhaltsermittlung nach Art. 26 **BayVwVfG** insbesondere auch dazu berechtigt, im Rahmen eines Kontrollgesprächs mithilfe von Fragen zum ursprünglichen Prüfungsgegenstand abzuprüfen, ob die bzw. der betreffende Studierende den Prüfungsstoff beherrscht.[2] Ein begründeter Verdacht im Sinne des Satzes 1 ist gegeben, wenn nach dem Erfahrungswissen der bzw. des Prüfenden ein für das Vorliegen eines Plagiats bzw. einer Täuschung typischer Sachverhalt gegeben ist, der aufgrund des allgemeinen Erfahrungswissens zu dem Schluss berechtigt, dass ein Plagiat bzw. eine Täuschung vorliegt.[3] Das Kontrollgespräch wird von den für die ursprüngliche Prüfung zuständigen Prüfenden durchgeführt; war für die ursprüngliche Prüfung nur eine Prüfende bzw. ein Prüfender eingesetzt, findet das Kontrollgespräch in Anwesenheit einer Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden bestimmt wird.[ 4] Bei der Bewertung des Kontrollgesprächs ist der zeitliche Abstand zwischen der ursprünglichen Prüfung und dem Kontrollgespräch zu berücksichtigen.[5] Beherrscht die bzw. der Studierende den Prüfungsstoff in einem Umfang, der für das Bestehen der ursprünglichen Prüfung ausgereicht hätte, so gilt der begründete Verdacht für das Vorliegen des Plagiats bzw. der anderweitigen Täuschung als ausgeräumt und die ursprüngliche Prüfung wird regulär inhaltlich bewertet.[6] Kann die bzw. der Studierende im Rahmen des Kontrollgesprächs nach Satz 1 die abgeprüften Kompetenzen nicht in einem im Sinne des Satz 2 ausreichenden Umfang nachweisen und sind gleichzeitig keine tatsächlichen Umstände gegeben, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, gilt die Täuschung als bewiesen; es gilt Abs. 2 Satz 1.[7] Verweigert die bzw. der Studierende die Teilnahme an dem Kontrollgespräch, so stellt dies eine Verletzung ihrer bzw. seiner Obliegenheit zur Mitwirkung im Prüfungsverfahren im Sinne des Art. 26 Abs. 2 Satz 1 **BayVwVfG** dar. 8Macht die bzw. der Studierende gleichzeitig keine tatsächlichen Umstände glaubhaft, 
 
 11 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, so gilt der begründete Verdacht des Vorliegens eines Plagiats bzw. einer anderweitigen Täuschung als durch den Beweis des ersten Anscheins bewiesen. 
 
@@ -255,6 +262,10 @@ die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen,
 
 12 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen. 
 
 (3)[1] Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single und / oder Multiple-Choice-Prüfungen).[2] Welche Prüfungen im Antwort-Wahl-Verfahren abgenommen werden, wird spätestens eine Woche vor Vorlesungsbeginn jedes Semesters zusammen mit den Anmeldeterminen und Anmeldeformalitäten zu den Lehrveranstaltungen und Prüfungen gemäß § 12 Abs. 1 ortsüblich bekannt gemacht.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.[5] Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden. 6Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.[7] Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satzes 4 fehlerhaft sind.[8] Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen; es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.[9] Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
@@ -270,6 +281,10 @@ Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum
 (5)[1] Bei schriftlichen Prüfungen, die nur teilweise im Antwort-Wahl-Verfahren abgenommen werden, gelten die Abs. 3 und 4 nur für diesen Teil.[2] Bei Prüfungen, in denen der Anteil des Antwort-Wahl-Verfahrens nur einen untergeordneten Anteil (in der Regel ca. 25%) einnimmt, findet Abs. 4 keine Anwendung. 
 
 13 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 18 Mündliche Prüfung, Praktische Leistungsnachweise** 
 
@@ -294,6 +309,10 @@ Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum
 (1)[1] Die Urteile über die benoteten Prüfungen werden von der bzw. dem jeweiligen Prüfenden durch folgende Prädikate und Noten ausgedrückt: 
 
 14 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |**sehr gut**|= (1,0)|eine hervorragende Leistung;|
 |---|---|---|
@@ -320,6 +339,10 @@ Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum
 
 15 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **§ 21 Wiederholung von Prüfungen, Rücktritt von Wiederholungsprüfungen und Wiederholungsfristen** 
 
 (1)[1] Prüfungen, die nicht bestanden und Lehrveranstaltungen, die nicht regelmäßig besucht wurden, können dreimal wiederholt werden. 
@@ -337,6 +360,10 @@ Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum
 (2) Entsprechende, ihrer Situation angemessene Maßnahmen sind hinsichtlich Schwangerer zu treffen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss bzw. der von diesem mit dieser Aufgabe beauftragten Stelle bzw. Person spätestens vier Wochen vor dem Prüfungstermin einen entsprechenden Antrag stellen und eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden. 
 
 16 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (3)[1] Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des jeweils zuständigen Prüfungsausschusses nach Anhörung der bzw. des Beauftragten für behinderte und chronisch kranke Studierende getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen oder fachärztlichen Attestes bzw. eines der jeweiligen besonderen Lebenslage entsprechenden anderen Nachweises verlangt werden. 3Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Prüfung, in jedem Fall jedoch vor Antritt der Prüfung, an den jeweils zuständigen Prüfungsausschuss zu richten. 
 
@@ -361,6 +388,10 @@ Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum
 1Die Studienfachberatung für beide Medizinstudiengänge wird von der Studiendekanin bzw. dem Studiendekan, deren bzw. dessen Referentin bzw. Referenten, der Studienberaterin bzw. dem Studienberater für den ersten Studienabschnitt und von den Professorinnen bzw. Professoren durchgeführt.[2] Für Studienanfängerinnen bzw. Studienanfänger beider Medizinstudiengänge werden spezielle Einführungsveranstaltungen abgehalten.[3] Insbesondere im Falle eines Hochschulwechsels und vor der Wahl von Ausbildungsschwerpunkten empfiehlt sich eine Studienfachberatung. 
 
 17 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **§ 26 Ausbildungskataloge und semesterbezogene Stundenpläne** 
 
@@ -392,6 +423,10 @@ Die Erteilung der Zeugnisse über das Bestehen der einzelnen Abschnitte der Ärz
 
 18 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (3)[1] Der Höchstumfang der zu einem planmäßigen Studium der Medizin erforderlichen Lehrveranstaltungen beträgt im ersten Studienabschnitt 1.407 Stunden.[2] Darin enthalten sind die in der **ÄApprO** vorgeschriebenen Stunden für scheinpflichtige praktische Übungen, Kurse und Seminare im Ersten Studienabschnitt mit mindestens 630 Stunden (45 SWS) und zusätzlich 154 Stunden (11 SWS) Seminare mit klinischem Bezug (§ 2 Abs. 2 Satz 5 **ÄApprO** ).[3] Dabei sollen die Mindestwerte für die scheinpflichtigen Lehrveranstaltungen um nicht mehr als 15 % überschritten werden.[4] Die Gesamtstundenzahl beziehungsweise die Semesterwochenstunden verteilen sich auf die Lehrveranstaltungen nach Maßgabe der Ausbildungskataloge in den **Anlagen 1** und **2** .[5] Eine Semesterwochenstunde ist mit 14 Veranstaltungsstunden veranschlagt. 
 
 (4) Soweit diese Studien- und Prüfungsordnung Voraussetzungen für die Teilnahme an einzelnen praktischen Übungen vorsieht, insbesondere die Teilnahme vom Nachweis ausreichender Vorkenntnisse in einem bestimmten Fachgebiet abhängig macht, ist dies in der **Anlage 1** festgelegt. 
@@ -409,6 +444,10 @@ Die Erteilung der Zeugnisse über das Bestehen der einzelnen Abschnitte der Ärz
 (3)[1] Die Fakultät sieht fachbezogene Unterrichtsveranstaltungen vor, die den Studierenden die Bildung von Schwerpunkten ermöglichen, insbesondere Seminarveranstaltungen, die als Wahlfach gewählt werden können.[2] Studierende haben im zweiten Studienabschnitt eine Wahlfachveranstaltung im Umfang von 2 SWS in Form eines Seminars mit maximal 20 teilnehmenden Studierenden gemäß § 2 Abs. 4 **ÄApprO** zu absolvieren.[3] Die Listen der von der Fakultät angebotenen Wahlfächer für den Studiengang Medizin und den Studiengang Medizin Erlangen/Bayreuth werden vom Fakultätsrat unter Berücksichtigung der insgesamt erforderlichen Plätze beschlossen und werden auf den Internetseiten der Medizinischen Fakultät der FAU ortsüblich bekannt gemacht.[4] Die Leistung im Wahlfach wird benotet. 
 
 19 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 (4)[1] Der Höchstumfang der zu einem planmäßigen Studium der Medizin erforderlichen Lehrveranstaltungen beträgt im zweiten Studienabschnitt 2.226 Stunden.[2] Darin enthalten sind die in der **ÄApprO** vorgeschriebenen Praktika am Krankenbett im Umfang von 518 Stunden.[3] Dabei sollen die Mindestwerte für die scheinpflichtigen Lehrveranstaltungen um nicht mehr als 15 % überschritten werden.[4] Die Gesamtstundenzahl beziehungsweise die Semesterwochenstunden verteilen sich auf die Lehrveranstaltungen nach Maßgabe der Ausbildungskataloge in den **Anlagen 3 bis 5** . 
 
@@ -440,6 +479,10 @@ Die Ausbildung im zweiten Studienabschnitt des Studiengangs Medizin am Studienor
 
 20 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 legt werden.[3] Die Lehrveranstaltungen im klinischen Studienabschnitt des Studiengangs Medizin Erlangen/Bayreuth werden in einem separaten Ausbildungskatalog abgebildet ( **Anlagen 6 bis 8** ). 
 
 (3) Bei der Zusammenstellung der Wahlfächer gemäß § 30 Abs. 3 sowie bei der Zuordnung von Dozentinnen bzw. Dozenten und Ausbildungseinrichtungen zu den Lehrveranstaltungen gemäß § 30 Abs. 6 für den Studiengang Medizin Erlangen/Bayreuth werden sowohl dem Versorgungsspektrum des Campusklinikums Bayreuth sowie dem Schwerpunkt „Ärztliche Tätigkeiten außerhalb von Ballungsräumen“ besondere Priorität eingeräumt. 
@@ -464,7 +507,7 @@ und folgt den Vorgaben der §§ 3 und 4 **ÄApprO** .[2] Das Wahlfach-Angebot f�
 
 - sowie den Lehrkrankenhäusern und Lehrpraxen der FAU. 
 
-- 2Darüber hinaus haben die Studierenden gemäß § 3 Abs. 2 Satz 5 **ÄApprO** die Wahl, Ausbildungsabschnitte des Praktischen Jahres in Universitätskrankenhäusern oder Lehrkrankenhäusern anderer Universitäten zu absolvieren, sofern dort genügend Plätze zur Verfügung stehen.[3] Den Zugang zur praktischen Ausbildung am Universitätsklinikum Erlangen, am Campusklinikum Bayreuth der FAU, an den Lehreinrichtungen des öffentlichen Gesundheitswesens der FAU und an ihren Lehrkrankenhäusern und Lehrpraxen sowie zu Universitätskliniken und Lehrkrankenhäusern anderer deutscher Universitäten regelt die FAU per Satzung, die ortsüblich bekannt gemacht wird. 
+> 2Darüber hinaus haben die Studierenden gemäß § 3 Abs. 2 Satz 5 **ÄApprO** die Wahl, Ausbildungsabschnitte des Praktischen Jahres in Universitätskrankenhäusern oder Lehrkrankenhäusern anderer Universitäten zu absolvieren, sofern dort genügend Plätze zur Verfügung stehen.[3] Den Zugang zur praktischen Ausbildung am Universitätsklinikum Erlangen, am Campusklinikum Bayreuth der FAU, an den Lehreinrichtungen des öffentlichen Gesundheitswesens der FAU und an ihren Lehrkrankenhäusern und Lehrpraxen sowie zu Universitätskliniken und Lehrkrankenhäusern anderer deutscher Universitäten regelt die FAU per Satzung, die ortsüblich bekannt gemacht wird. 
 
 ## **IV. Übergangs- und Schlussbestimmungen, Inkrafttreten** 
 
@@ -474,6 +517,10 @@ und folgt den Vorgaben der §§ 3 und 4 **ÄApprO** .[2] Das Wahlfach-Angebot f�
 
 21 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 21 finden Anwendung auf alle Prüfungen (Erst-, Zweit- und Drittversuch), die dem Prüfungszeitraum 2024/2025 und später zugeordnet sind.[5] Auf Prüfungen, die früheren Prüfungszeiträumen zugeordnet sind, finden die Regelungen in der StuPOMed – vom 9. Oktober 2019 Anwendung. 
 
 (2) Gleichzeitig tritt die Studien- und Prüfungsordnung für das Studium der Medizin an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) in den Studiengängen Medizin und Medizin Erlangen/Bayreuth – StuPOMed – vom 9. Oktober 2019 vorbehaltlich der Regelung in Abs. 1 Satz 4 außer Kraft. 
@@ -482,10 +529,9 @@ und folgt den Vorgaben der §§ 3 und 4 **ÄApprO** .[2] Das Wahlfach-Angebot f�
 
 22 
 
-**==> picture [67 x 22] intentionally omitted <==**
+**==> picture [165 x 49] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-r/o\\<br>**----- End of picture text -----**<br>
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **V. ANLAGEN:** Ausbildungskataloge für die FAU-Studiengänge Medizin und Medizin Erlangen/Bayreuth 
 
@@ -493,31 +539,35 @@ r/o\\<br>**----- End of picture text -----**<br>
 
 |**Kenncodes**<br>**der**<br>**Ausbildungs-**<br>**einheit**<br>**(Pflichtveran-**<br>**staltung)**|**Bezeichnung der**<br>**Veranstaltung**|**Vorklinisches**<br>**Semester, in**<br>**dem die Veran-**<br>**staltung frühes-**<br>**tens zu**<br>**besuchen ist**|**Akademische**<br>**Stunden**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung der**<br>**Veranstaltung**1|**Zugeordnet dem**<br>**Leistungsnachweis nach**<br>**ÄApprO**|
 |---|---|---|---|---|---|---|
-|V-PS1<br>~~a~~<br>~~po~~|Praktikum, Physik für Mediziner<br>~~a~~|1<br>~~GC~~|28<br>~~GC~~|Ü<br>~~GC~~|~~GC~~|Praktikum der Physik für Mediziner<br>~~GC~~|
-|V-PS2<br>~~a ~~<br>~~po~~|Praktikum, Chemie für Mediziner<br> ~~a ~~|1<br> ~~GC~~|28<br>~~GC~~|Ü<br>~~GC~~|~~GC~~|Praktikum der Chemie für Mediziner<br>~~GC~~|
-|V-PS3<br>~~po~~|Praktikum, Biologie für Mediziner|1|28|Ü||Praktikum der Biologie für Mediziner|
-|V-PS4A<br>~~a~~<br>~~po~~|Praktikum Vegetative Physiologie<br>~~eG~~<br>|3<br>~~eG~~<br>|49<br>~~eG~~<br>|Ü<br>~~eG~~<br>|Betriebsärztliche<br>Untersuchung<br>~~eG~~<br>|Praktikum der Physiologie<br>~~eG~~<br>|
-|V-PS4B<br>~~a~~<br>~~po~~<br>~~a~~|Praktikum Neurophysiologie<br>~~eG~~<br><br>|4<br>~~eG~~<br><br>|49<br>~~eG~~<br><br>|Ü<br>~~eG~~<br><br>~~GG~~<br>|Untersuchung<br>~~eG~~<br><br>~~GG~~<br>|Praktikum der Physiologie<br>~~eG~~<br><br>~~OO~~<br>|
-|V-PS5A<br>~~poGG~~<br>~~a~~|Seminar Vegetative Physiologie<br>~~GG~~<br>|3<br>~~GG~~<br>|39<br>~~GG~~<br>|S<br>~~GG~~<br>~~GG~~<br>|~~GG~~<br>~~GG~~<br>|Seminar Physiologie<br>~~GG~~<br>~~OO~~<br>|
-|V-PS5B<br>~~a GC~~|Seminar Neurophysiologie<br>~~GC~~|3 und 4<br>~~GC~~|39<br>~~GC~~|S<br>~~GG~~<br>~~GC~~|~~GG~~<br>~~GC~~|Seminar Physiologie<br>~~OO~~<br>~~GC~~|
+|V-PS1|Praktikum, Physik für Mediziner|1|28|Ü||Praktikum der Physik für Mediziner|
+|V-PS2|Praktikum, Chemie für Mediziner|1|28|Ü||Praktikum der Chemie für Mediziner|
+|V-PS3|Praktikum, Biologie für Mediziner|1|28|Ü||Praktikum der Biologie für Mediziner|
+|V-PS4A|Praktikum Vegetative Physiologie|3|49|Ü|Betriebsärztliche<br>Untersuchung|Praktikum der Physiologie|
+|V-PS4B|Praktikum Neurophysiologie|4|49|Ü||Praktikum der Physiologie|
+|V-PS5A|Seminar Vegetative Physiologie|3|39|S||Seminar Physiologie|
+|V-PS5B|Seminar Neurophysiologie|3 und 4|39|S||Seminar Physiologie|
 |V-PS5C|Seminar Zellphysiologie|2|6|S||Seminar Physiologie|
-|V-PS6A<br>~~a~~|Biochemisches Praktikum I2|3 bzw. 4|49|Ü|V-PS2,<br>Betriebsärztliche Untersuchung|Praktikum Biochemie / Molekularbiologie|
-|V-PS6B|Biochemisches Praktikum II3|3 bzw. 4|49|Ü|V-PS2,<br>Betriebsärztliche Untersuchung|V-PS2,<br>Praktikum Biochemie / Molekularbiologie|
+|V-PS6A|Biochemisches Praktikum I2|3 bzw. 4|49|Ü|V-PS2,<br>Betriebsärztliche Untersuchung|Praktikum Biochemie / Molekularbiologie|
+|V-PS6B|Biochemisches Praktikum II3|3 bzw. 4|49|Ü|V-PS2,<br>Betriebsärztliche Untersuchung|<br>Praktikum Biochemie / Molekularbiologie|
 |V-PS7A|Seminar zur biochemischen Propä-<br>deutik|2|14|S||Seminar Biochemie / Molekularbiologie|
 |V-PS7B|Seminar Biochemie mit klinischen<br>Bezügen I + II4|3 bzw. 4|28|S||Seminar Biochemie / Molekularbiologie|
 |V-PS7C|Vorseminar zum biochemischen<br>Praktikum I+II4|3 bzw. 4|14|S||Seminar Biochemie / Molekularbiologie|
 |V-PS7D|Kompaktseminar Biochemie|4|28|S||Seminar Biochemie/ Molekularbiologie|
-|V-PS8<br>~~a~~|Kursus der makroskopischen Anato-<br>mie/<br>Präparierkurs<br>~~ee~~|2<br>~~ee ~~|98<br> ~~ee~~|Ü<br>~~ee~~|V-PS9|Kursus der makroskopischen Anatomie|
-|V-PS9|Präparierkurs<br>Seminar: funktionelle Anatomie|1|28|S||Seminar Anatomie|
-|V-PS11<br>~~a es~~|Seminar: Neuroanatomie<br>~~es~~|3<br>~~es~~|14<br>~~es~~|S<br>~~es~~|||
+|V-PS8|Kursus der makroskopischen Anato-<br>mie/<br>Präparierkurs|2|98|Ü|V-PS9|Kursus der makroskopischen Anatomie|
+|V-PS9|<br>Seminar: funktionelle Anatomie|1|28|S||Seminar Anatomie|
+|V-PS11|Seminar: Neuroanatomie|3|14|S|||
 
 23 
 
-|V-PS12A|Kursus der mikroskopischen Anatomie<br>/Allgemeine Histologie|Kursus der mikroskopischen Anatomie<br>1|21<br>L|Ü<br>AX\\()|)|Kursus der mikroskopischen Anatomie|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|V-PS12A|Kursus der mikroskopischen Anatomie<br>/Allgemeine Histologie|<br>1|21|Ü||Kursus der mikroskopischen Anatomie|
 |---|---|---|---|---|---|---|
-|V-PS12B|/Allgemeine Histologie<br>Kursus der mikroskopischen Anatomie<br>/ Spezielle Histologie|Kursus der mikroskopischen Anatomie<br>2|28|Ü|V-PS12A|Kursus der mikroskopischen Anatomie|
+|V-PS12B|<br>Kursus der mikroskopischen Anatomie<br>/ Spezielle Histologie|<br>2|28|Ü|V-PS12A|Kursus der mikroskopischen Anatomie|
 |V-PS13|Kursus der Medizinischen<br>Psychologie und Medizinischen Sozio-<br>logie|3|14|Ü|V-V9|Kursus der Medizinischen<br>Psychologie und Medizinischen Soziologie|
-|V-PS14|logie<br>Seminar Medizinische Psychologie /<br>Soziologie|4|28|S||Seminar der Medizinischen<br>Psychologie und Medizinischen Soziologie|
+|V-PS14|<br>Seminar Medizinische Psychologie /<br>Soziologie|4|28|S||Seminar der Medizinischen<br>Psychologie und Medizinischen Soziologie|
 |V-PS15<br>V-PS15_BT|Praktikum Berufsfelderkundung|2|14|Ü|Masernimmunität und betriebsärzt-<br>liche Untersuchung|Praktikum der Berufsfelderkundung|
 |V-PS16|Kurs Medizinische Terminologie|1|21|Ü||Praktikum der Medizinischen Terminologie|
 |V-PS17<br>V-PS17_BT|Praktikum Einführung in die<br>klinische Medizin5|4|28|PK|Masernimmunität und betriebsärzt-<br>liche Untersuchung|Praktikum zur Einführung in die klinische Me-<br>dizin|
@@ -533,14 +583,18 @@ r/o\\<br>**----- End of picture text -----**<br>
 
 24 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 **Anlage 2:** Ausbildungskatalog 1. Studienabschnitt/Vorklinik für Studiengänge **Medizin** und **Medizin Erlangen/Bayreuth** – Teil 2 (Vorlesungen (VL) im ersten Studienabschnitt, die der Begleitung und Einführung in die Veranstaltungen nach der **Anlage 1** dienen) 
 
-|**Kenncodes der**<br>**Ausbildungs-**<br>**einheit (Pflicht-**<br>**veranstaltung)**|**Kenncodes der**<br>**Bezeichnung der**<br>**Veranstaltung**|**Vorklinisches**<br>**Semester, in dem**<br>**die Veranstaltung**<br>**frühestens zu**<br>**besuchen ist**|**Semester, in dem**<br>**die Veranstaltung**<br>**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung an**<br>**der Veranstaltung**|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
+|**Kenncodes der**<br>**Ausbildungs-**<br>**einheit (Pflicht-**<br>**veranstaltung)**|<br>**Bezeichnung der**<br>**Veranstaltung**|**Vorklinisches**<br>**Semester, in dem**<br>**die Veranstaltung**<br>**frühestens zu**<br>**besuchen ist**|<br> <br>**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung an**<br>**der Veranstaltung**|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
 |---|---|---|---|---|---|---|
-|V-V1|Experimentalphysik für Medizi-<br>ner|1|56|VL<br>~~O~~~~**O**~~||Praktikum der Physik für Mediziner|
-|V-V2<br>~~GG~~|Chemie für Mediziner<br>~~GG~~|1<br>~~GG~~|56<br>~~GG~~<br>~~OD~~|VL<br>~~GG~~<br>~~O~~~~**O**~~<br>~~OG~~|~~GG~~<br>~~OG~~|Praktikum der Chemie für Mediziner<br>~~GG~~<br>~~OO~~|
-|V-V3<br>~~GG~~<br>~~G~~|Biologie für Mediziner<br>~~GG~~<br>~~G~~|1<br>~~GG~~<br>~~G~~|28<br>~~GG~~<br>~~G~~<br>~~OD~~|VL<br>~~GG~~<br>~~O~~~~**O**~~<br>~~G~~<br>~~OG~~|~~GG~~<br>~~OG~~|Praktikum der Biologie für Mediziner<br>~~GG~~<br>~~OO~~|
-|V-V4|BiochemischePropädeutik|2|14<br>~~OD~~|VL<br>~~OG~~|~~OG~~|Praktikum der Biochemie / Molekularbiologie<br>~~OO~~|
+|V-V1|Experimentalphysik für Medizi-<br>ner|1|56|VL||Praktikum der Physik für Mediziner|
+|V-V2|Chemie für Mediziner|1|56|VL||Praktikum der Chemie für Mediziner|
+|V-V3|Biologie für Mediziner|1|28|VL||Praktikum der Biologie für Mediziner|
+|V-V4|BiochemischePropädeutik|2|14|VL||Praktikum der Biochemie / Molekularbiologie|
 |V-V5A|Biochemie und<br>Molekularbiologie I1|3 bzw. 4|56|VL|||
 |V-V5B|Biochemie und<br>Molekularbiologie II2|3 bzw. 4|56|VL||Praktikum Biochemie / Molekularbiologie|
 |V-V6|Funktionelle Anatomie|1|28|VL||Seminar Anatomie|
@@ -551,21 +605,27 @@ r/o\\<br>**----- End of picture text -----**<br>
 |V-V11|Vegetative Physiologie|3|56|VL||Praktikum Physiologie<br>Seminar Physiologie|
 |V-V12|Neurophysiologie|4|56|VL||Praktikum Physiologie<br>Seminar Physiologie|
 |V-V13|Allgemeine Histologie und<br>Embryologie|1|28|VL||Kursus der mikroskopischen Anatomie|
-|V-V14<br>~~a ~~|Neuroanatomie<br> ~~GGG~~|3<br>~~GGG~~|21<br>~~GGG~~|VL<br>~~GGG~~|~~GGG~~|Seminar Anatomie<br>~~GGG~~|
+|V-V14|Neuroanatomie|3|21|VL||Seminar Anatomie|
 |V-V15A|Einführung in das Biochemische<br>Praktikum I1|3 bzw. 4|14|VL||Praktikum Biochemie / Molekularbiologie|
 
 25 
 
-Praktikum Biochemie / Molekularbiologie 
+**==> picture [165 x 49] intentionally omitted <==**
 
-|V-V15B|Einführung in das Biochemische<br>Praktikum II2|3 bzw. 4|14|VL|
-|---|---|---|---|---|
+**==> picture [114 x 46] intentionally omitted <==**
+
+|V-V15B|Einführung in das Biochemische<br>Praktikum II2|<br>3 bzw. 4|14|VL||Praktikum Biochemie / Molekularbiologie|
+|---|---|---|---|---|---|---|
 
 1 Diese Lehrveranstaltung wird nur im Wintersemester angeboten. 
 
 - 2 Diese Lehrveranstaltung wird nur im Sommersemester angeboten. 
 
 26 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 **Anlage 3:** Ausbildungskatalog 2. Studienabschnitt / Klinik für den Studiengang **Medizin** – Teil 1 (Blockpraktika (BPK) und Praktika / Kurse am Krankenbett (PK)) **[ 1]** 
 
@@ -574,20 +634,20 @@ Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß 27 Ab
 |**Kenncodes der**<br>**Ausbildungs-ein-**<br>**heit (Pflichtveran-**<br>**staltung)**|**Bezeichnung der**<br>**Veranstaltung**|**Klinisches Se-**<br>**mester,**<br>**in dem die**<br>**Veranstaltung**<br>**frühestens zu**<br>**besuchen ist**|**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung an**<br>**der Veranstaltung**|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
 |---|---|---|---|---|---|---|
 |K-P1|Allgemeinmedizin 2|2 bis 5|56|BPK nach<br>**ÄApprO**|K-V1|Blockpraktikum Allgemeinmedizin|
-|K-P3|Notfallmedizin, Teil I,**Q8**|2|14|**ÄApprO**<br>PK||Notfallmedizin,**Q8**|
+|K-P3|Notfallmedizin, Teil I,**Q8**|2|14|PK||Notfallmedizin,**Q8**|
 |K-P4|HNO|4|14|PK||Hals-Nasen-Ohrenheilkunde|
 |K-P5|Augenheilkunde|4|14|PK||Augenheilkunde|
 |K-P6|Psychiatrie|4|35|PK||Psychiatrie und Psychotherapie|
 |K-P7|Psychosomatik|4|28|PK||Psychosomatische Medizin und<br>Psychotherapie|
-|K-P8|Chirurgie|5|56|BPK nach<br>**ÄApprO**||Psychotherapie<br>Blockpraktikum Chirurgie|
-|K-P9|Dermatologie 3|5 bis 6|28|**ÄApprO**<br>als BPK|K-V25|Dermatologie, Venerologie|
+|K-P8|Chirurgie|5|56|BPK nach<br>**ÄApprO**||<br>Blockpraktikum Chirurgie|
+|K-P9|Dermatologie 3|5 bis 6|28|als BPK|K-V25|Dermatologie, Venerologie|
 |K-P10|Innere, Teil I|5|56|BPK nach<br>**ÄApprO**|K-V12<br>K-V19|Blockpraktikum Innere Medizin|
-|K-P11|Orthopädie3|5 bis 6|28|**ÄApprO**<br>als BPK|K-V17|Orthopädie|
+|K-P11|Orthopädie3|5 bis 6|28|als BPK|K-V17|Orthopädie|
 |K-P12|Urologie3|5 bis 6|28|als BPK|K-V16|Urologie|
 |K-P13|Innere, Teil II|6|42|BPK nach<br>**ÄApprO**|K-V12<br>K-V19|Blockpraktikum Innere Medizin|
-|K-P14|Frauenheilkunde, Geburtshilfe<br>3|5 bis 6|28|**ÄApprO**<br>BPK nach<br>**ÄApprO**|K-V21|Blockpraktikum Frauenheilkunde|
-|K-P15|Kinderheilkunde, Jugendme-<br>dizin3,4|5 bis 6|42|**ÄApprO**<br>BPK nach<br>**ÄApprO**|K-V20 und<br>K-V35|Blockpraktikum Kinderheilkunde|
-|K-P16|Neurologie, Neurochirurgie|6|28|**ÄApprO**<br>als BPK|K-V31|Neurologie|
+|K-P14|Frauenheilkunde, Geburtshilfe<br>3|5 bis 6|28|BPK nach<br>**ÄApprO**|K-V21|Blockpraktikum Frauenheilkunde|
+|K-P15|Kinderheilkunde, Jugendme-<br>dizin3,4|5 bis 6|42|BPK nach<br>**ÄApprO**|K-V20 und<br>K-V35|Blockpraktikum Kinderheilkunde|
+|K-P16|Neurologie, Neurochirurgie|6|28|als BPK|K-V31|Neurologie|
 |K-P17|Notfallmedizin, Teil II,<br>Anästhesiologie,**Q8**4|6|28|als BPK|K-V3A<br>K-V3B<br>K-P3|Notfallmedizin,**Q8**|
 
 > 1 Die Voraussetzung für die Teilnahme an allen in Teil 1 genannten Veranstaltungen ist der Nachweis der Masernimmunität sowie eine erfolgte betriebsärztliche Untersuchung. 
@@ -600,6 +660,10 @@ Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß 27 Ab
 
 27 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 4:** Ausbildungskatalog 2. Studienabschnitt/Klinik für den Studiengang **Medizin** – Teil 2 (Seminare (S) und Praktika / Kurse (Ü)) **[ 1]** 
 
 Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27 Abs. 1 **ÄApprO** . 
@@ -611,27 +675,30 @@ Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27
 |K-PS3|Epidemiologie & Medizini-<br>sche Informatik /<br>Teil Epidemiologie, **Q1**|1|14|Ü||Epidemiologie, medizinische Biometrie und<br>medizinische Informatik,**Q1**|
 |K-PS4|Epidemiologie & Medizini-<br>sche Informatik /<br>Teil Informatik, **Q1**|2|14|Ü||Epidemiologie, medizinische Biometrie und<br>medizinische Informatik;**Q1**|
 |K-PS5|Geschichte und Ethik der Me-<br>dizin<br>(GTE),**Q2**|3|28|S||Geschichte, Theorie, Ethik der Medizin,**Q2**|
-|K-PS6<br>~~fn~~<br>~~Re~~|Humangenetik<br>~~fn~~<br>~~GG~~|3<br>~~GG~~<br>~~GG~~|28<br>~~GG~~<br>~~GG~~|Ü<br>~~GG~~<br>~~GG~~|~~GG~~<br>~~GG~~|Humangenetik|
-|K-PS7<br>~~Re~~|Innere, Pathophysiologie<br>~~GG~~|3<br>~~GG~~|14<br>~~GG~~|S<br>~~GG~~|~~GG~~<br>~~OO~~|Innere Medizin<br>~~OO~~|
-|K-PS8<br>~~Re~~|Klinische Chemie, Hämatolo-<br>gie,<br>Labormedizin, Transfusions-<br>medizin und Hämostaseolo-<br>gie<br>~~GG~~|2<br>~~GG~~|42<br>~~GG~~|Ü<br>~~GG~~|~~GG~~|Klinische Chemie, Laboratoriumsdiagnostik|
-|K-PS9<br>~~Qe~~|Klinisch-Pathologische Kon-<br>ferenz, **Q5**<br>~~Qe~~|5|28|Ü<br>~~**GO**~~|~~**GO**~~|Klinisch-pathologische Konferenz,**Q5**<br>~~OO~~|
-|K-PS10<br>~~GO~~<br>~~Qe~~|Klinische Pharmakologie,**Q9**<br>~~GO~~<br>~~Qe~~|5<br>~~GO~~|28<br>~~GO~~|S<br>~~GO~~<br>~~**GO**~~|~~GO~~<br>~~**GO**~~|Klinische Pharmakologie/Pharmakotherapie,**Q9**<br>~~GO~~<br>~~OO~~|
-|K-PS11<br>~~Qe~~|Mikrobiologie,Virologie<br>~~Qe~~|2<br>~~GG~~|42<br>~~GG~~|Ü<br>~~**GO**~~|K-V44<br>~~**GO**~~|Hygiene,Mikrobiologie,Virologie<br>~~OO~~|
+|K-PS6|Humangenetik|3|28|Ü||Humangenetik|
+|K-PS7|Innere, Pathophysiologie|3|14|S||Innere Medizin|
+|K-PS8|Klinische Chemie, Hämatolo-<br>gie,<br>Labormedizin, Transfusions-<br>medizin und Hämostaseolo-<br>gie|2|42|Ü||Klinische Chemie, Laboratoriumsdiagnostik|
+|K-PS9|Klinisch-Pathologische Kon-<br>ferenz, **Q5**|5|28|Ü||Klinisch-pathologische Konferenz,**Q5**|
+|K-PS10|Klinische Pharmakologie,**Q9**|5|28|S||Klinische Pharmakologie/Pharmakotherapie,**Q9**|
+|K-PS11|Mikrobiologie,Virologie|2|42|Ü|K-V44|Hygiene,Mikrobiologie,Virologie|
 |K-PS12|Fallbasiertes Lernen Psychi-<br>atrie|4|14|S||Psychiatrie und Psychotherapie|
-|K-PS14|Kinderheilkunde/Jugendme-<br>dizin2|5 bis 6<br>~~GG~~|28<br>~~GG~~|S<br>~~OO~~|~~OO~~|Kinderheilkunde|
-|K-PS15<br>~~Qe~~|Makro-undHistopathologie<br>~~Qe~~|1<br>~~Qe~~<br>~~GG~~|28<br>~~Qe~~<br>~~GG~~|Ü<br>~~Qe~~<br>~~OO~~|~~Qe~~<br>~~OO~~|Pathologie|
+|K-PS14|Kinderheilkunde/Jugendme-<br>dizin2|5 bis 6|28|S||Kinderheilkunde|
+|K-PS15|Makro-undHistopathologie|1|28|Ü||Pathologie|
 
 28 
 
-||||||K-V5<br>K-PS15|K-V5<br>K-PS15|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|K-PS16|Histopathologie|2|14|Ü|K-V5<br>K-PS15||
 |---|---|---|---|---|---|---|
 |K-PS18|Pharmakologie und Toxikolo-<br>gie|2|56|S|K-V6|Pharmakologie, Toxikologie|
 |K-PS19|Rechtsmedizin|5|14|Ü als Block|K-V22|Rechtsmedizin|
 |K-PS21|Palliativmedizin,**Q13**|5|14|S als Block||Palliativmedizin,**Q13**|
 |K-PS22|Schmerzmedizin,**Q14**|5|14|S als Block||Schmerzmedizin,**Q14**|
 |K-PS20|Wahlpflichtfach3|1 bis 6|28|S||Wahlfach|
-
-> 1 Die Voraussetzung für die Teilnahme an allen in Teil 2 genannten Veranstaltungen ist der Nachweis der Masernimmunität sowie die erfolgte betriebsärztliche Untersuchung. 
+|1<br> Die Voraussetzung f|ür die Teilnahme an allen in Teil 2 genannten Veranstaltungen ist der Nachweis der Masernimmunität sowie die erfolgte betriebsärztliche Untersuchung.||||||
 
 - 2 Teilnahme an Lehrveranstaltungen im 5. klinischen Semester nur möglich, wenn über die Anmeldungen aus dem 6. klinischen Semester (oder höher) hinaus zusätzliche Plätze zur Verfügung stehen. 
 
@@ -641,20 +708,24 @@ Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27
 
 29 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 5:** Ausbildungskatalog 2. Studienabschnitt/Klinik für den Studiengang **Medizin** – Teil 3 (Vorlesungen (VL), Ringvorlesungen (RVL)) 
 
 Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27 Abs. 1 **ÄApprO** . 
 
-|**Kenncodes der**<br>**Ausbildungs-**<br>**einheit (Pflichtver-**<br>**anstaltung)**<br>~~Re~~|**Bezeichnung der**<br>**Veranstaltung**<br>~~OG~~|**Klinisches**<br>**Semester,**<br>**in dem die**<br>**Veranstaltung**<br>**frühestens zu be-**<br>**suchen ist**<br>~~OG~~|**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**<br>~~OG~~|**Art der**<br>**Veranstaltung**<br>~~OG~~|**Teilnahmevoraussetzung an**<br>**der Lehrveranstaltung**<br>~~OG~~|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
+|**Kenncodes der**<br>**Ausbildungs-**<br>**einheit (Pflichtver-**<br>**anstaltung)**|**Bezeichnung der**<br>**Veranstaltung**|**Klinisches**<br>**Semester,**<br>**in dem die**<br>**Veranstaltung**<br>**frühestens zu be-**<br>**suchen ist**|**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung an**<br>**der Lehrveranstaltung**|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
 |---|---|---|---|---|---|---|
-|K-V1<br>~~Re~~|Allgemeinmedizin<br>~~OG~~|1<br>~~OG~~|28<br>~~OG~~|VL<br>~~OG~~|~~OG~~<br>~~OO~~|Allgemeinmedizin<br>~~OO~~|
-|K-V2<br>~~Re~~|Epidemiologie, medizinische<br>Biometrie<br>& Medizinische Informatik,<br>Teil Epidemiologie **Q1**<br>~~OG~~|1<br>~~OG~~|14<br>~~OG~~|RVL<br>~~OG~~|~~OG~~<br>~~OO~~|Epidemiologie, medizinische Biometrie<br>und medizinische Informatik,**Q1**<br>~~OO~~|
-|K-V3A|Allgemeine Notfallmedizin,<br>**Q8**|1|28|RVL<br>~~OG~~|~~OG~~|Notfallmedizin,**Q8**<br>~~CO~~|
-|K-V3B<br>~~GG~~|Spezielle Notfallmedizin,**Q8**<br>~~GG~~|3<br>~~GG~~|14<br>~~GG~~|RVL<br>~~GG~~<br>~~OG~~|~~GG~~<br>~~OG~~|Notfallmedizin,**Q8**<br>~~GG~~<br>~~CO~~|
-|K-V4|Hygiene, Mikrobiologie, Viro-<br>logie|1|70|VL<br>~~OG~~|~~OG~~|Hygiene, Mikrobiologie, Virologie<br>~~CO~~|
+|K-V1|Allgemeinmedizin|1|28|VL||Allgemeinmedizin|
+|K-V2|Epidemiologie, medizinische<br>Biometrie<br>& Medizinische Informatik,<br>Teil Epidemiologie **Q1**|1|14|RVL||Epidemiologie, medizinische Biometrie<br>und medizinische Informatik,**Q1**|
+|K-V3A|Allgemeine Notfallmedizin,<br>**Q8**|1|28|RVL||Notfallmedizin,**Q8**|
+|K-V3B|Spezielle Notfallmedizin,**Q8**|3|14|RVL||Notfallmedizin,**Q8**|
+|K-V4|Hygiene, Mikrobiologie, Viro-<br>logie|1|70|VL||Hygiene, Mikrobiologie, Virologie|
 |K-V5A|Pathologie|1|70|VL||Pathologie|
 |K-V5B|Spezielle Pathologie|2|28|VL||Pathologie|
-|K-V6<br>~~fn~~|Pharmakologie<br>~~fn~~|1<br>~~GG~~|56<br>~~GG~~|VL<br>~~GG~~|~~GG~~|Pharmakologie,Toxikologie|
+|K-V6|Pharmakologie|1|56|VL||Pharmakologie,Toxikologie|
 |K-V8|Begleitvorlesung Praktische<br>Strahlentherapie zu**Q11**|1|14|RVL||Bildgebende Verfahren,<br>Strahlenbehandlung, Strahlenschutz,**Q11**|
 |K-V9|Bildgebende Verfahren,<br>Strahlenbehandlung, Strah-<br>lenschutz**Q11**|2|28|RVL, Eingangs-<br>block||Bildgebende Verfahren,<br>Strahlenbehandlung, Strahlenschutz,**Q11**|
 |K-V10|Klinische Chemie, Hämatolo-<br>gie,<br>Labormedizin, Transfusions-<br>medizin und<br>Hämostaseologie|2|28|VL||Klinische Chemie, Laboratoriums-<br>diagnostik|
@@ -662,33 +733,41 @@ Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27
 
 30 
 
-|K-V12|Innere Medizin I|2|56|VL<br>~~GG~~|~~GG~~|Innere Medizin<br>~~OO~~|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|K-V12|Innere Medizin I|2|56|VL||Innere Medizin|
 |---|---|---|---|---|---|---|
-|K-V13<br>~~OO~~<br>~~RO~~|Humangenetik<br>~~OO~~<br>~~RO~~|2<br>~~OO~~<br>~~RO~~|28<br>~~OO~~<br>~~RO~~|VL<br>~~OO~~<br>~~GG~~<br>~~OG~~|~~OO~~<br>~~GG~~<br>~~OG~~|Humangenetik<br>~~OO~~<br>~~OO~~<br>~~OO~~|
-|K-V14<br>~~OO~~<br>~~RO~~|Anästhesiologie<br>~~OO~~<br>~~RO~~|3<br>~~OO~~<br>~~RO~~|14<br>~~OO~~<br>~~RO~~|VL<br>~~GG~~<br>~~OO~~<br>~~OG~~|~~GG~~<br>~~OO~~<br>~~OG~~|Anästhesiologie<br>~~OO~~<br>~~OO~~<br>~~OO~~|
-|K-V15<br>~~RO~~|Chirurgie<br>~~RO~~|3<br>~~RO~~|70<br>~~RO~~|VL<br>~~OG~~<br>~~OO~~<br>~~OG~~|K-V37<br>~~OG~~<br>~~OO~~<br>~~OG~~|Chirurgie<br>~~OO~~<br>~~OO~~<br>~~OO~~|
-|K-V16<br>~~GG~~|Urologie<br>~~GG~~|3<br>~~GG~~|14<br>~~GG~~|VL<br>~~GG~~<br>~~OG~~|~~GG~~<br>~~OG~~|Urologie<br>~~GG~~<br>~~OO~~|
-|K-V17|Orthopädie, Reha + physikali-<br>scheMedizin|3|28|VL<br>~~OG~~|~~OG~~|Orthopädie<br>~~OO~~|
-|K-V18|Infektiologie, Immunologie**,**<br>**Q4**|3|28<br>~~GG~~|RVL, Eingangs-<br>block<br>~~GG~~||Infektiologie, Immunologie,**Q4**|
-|K-V19<br>~~GG~~|Innere Medizin II<br>~~GG~~|3<br>~~GG~~|56<br>~~GG~~<br>~~GG~~|VL<br>~~GG~~<br>~~GG~~|Innere Medizin<br>~~GG~~||
-|K-V202|Kinderheilkunde/ Jugendme-<br>dizin  I|3|42<br>~~GG~~|VL<br>~~GG~~||Kinderheilkunde|
-|K-V21|Frauenheilkunde, Geburts-<br>hilfe|3|42|VL<br>~~OO~~|~~OO~~|Frauenheilkunde, Geburtshilfe<br>~~OO~~|
-|K-V22<br>~~OO~~|Rechtsmedizin<br>~~OO~~|3<br>~~OO~~|28<br>~~OO~~|VL<br>~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|Rechtsmedizin<br>~~OO~~<br>~~OO~~|
-|K-V23|Rehabilitation / Physikalische<br>Medizin / Naturheilverfahren,<br>**Q12**|Rehabilitation / Physikalische<br>5|14|RVL, Eingangs-<br>block<br>~~OO~~|~~OO~~|Rehabilitation, Physikalische Medizin,<br>Naturheilverfahren,**Q12**<br>~~OO~~|
-|K-V24<br>~~Rs~~|Prävention und Gesundheits-<br>förderung,**Q10**<br>~~Rs~~|1<br>~~GG~~|28<br>~~GG~~|RVL<br>~~GG~~|~~GG~~|Prävention, Gesundheitsförderung,**Q10**|
-|K-V25<br>~~Rs~~|Dermatologie<br>~~Rs~~|4<br>~~GG~~|42<br>~~GG~~|VL<br>~~GG~~|~~GG~~<br>~~OO~~|Dermatologie, Venerologie<br>~~OO~~|
-|K-V26<br>~~Rs~~<br>~~eG~~|Arbeits-Sozialmedizin<br>~~Rs~~<br>~~eG~~|4<br>~~GG~~<br>~~GG~~|28<br>~~GG~~<br>~~GG~~|VL<br>~~GG~~<br>~~GO~~|~~GG~~<br>~~GO~~|Arbeitsmedizin, Sozialmedizin|
+|K-V13|Humangenetik|2|28|VL||Humangenetik|
+|K-V14|Anästhesiologie|3|14|VL||Anästhesiologie|
+|K-V15|Chirurgie|3|70|VL|K-V37|Chirurgie|
+|K-V16|Urologie|3|14|VL||Urologie|
+|K-V17|Orthopädie, Reha + physikali-<br>scheMedizin|3|28|VL||Orthopädie|
+|K-V18|Infektiologie, Immunologie**,**<br>**Q4**|3|28|RVL, Eingangs-<br>block||Infektiologie, Immunologie,**Q4**|
+|K-V19|Innere Medizin II|3|56|VL||Innere Medizin|
+|K-V202|Kinderheilkunde/ Jugendme-<br>dizin  I|3|42|VL||Kinderheilkunde|
+|K-V21|Frauenheilkunde, Geburts-<br>hilfe|3|42|VL||Frauenheilkunde, Geburtshilfe|
+|K-V22|Rechtsmedizin|3|28|VL||Rechtsmedizin|
+|K-V23|Rehabilitation / Physikalische<br>Medizin / Naturheilverfahren,<br>**Q12**|<br>5|14|RVL, Eingangs-<br>block||Rehabilitation, Physikalische Medizin,<br>Naturheilverfahren,**Q12**|
+|K-V24|Prävention und Gesundheits-<br>förderung,**Q10**|1|28|RVL||Prävention, Gesundheitsförderung,**Q10**|
+|K-V25|Dermatologie|4|42|VL||Dermatologie, Venerologie|
+|K-V26|Arbeits-Sozialmedizin|4|28|VL||Arbeitsmedizin, Sozialmedizin|
 |K-V27|Klinische Umweltmedizin /<br>Schwerpunkt Onkologie, **Q6**|6|28|RVL, Eingangs-<br>block||Klinische Umweltmedizin,**Q6**|
 |K-V28|Medizin des Alterns und des<br>alten Menschen,**Q7**|4|28|RVL, Eingangs-<br>block||Medizin des Alterns und des alten<br>Menschen,**Q7**|
-|K-V29<br>~~fn~~<br>~~Re~~|HNO<br>~~fn~~<br>~~GG~~|4<br>~~GG~~<br>~~GG~~|28<br>~~GG~~<br>~~GG~~|VL<br>~~GG~~<br>~~GG~~|~~GG~~<br>~~GG~~|Hals-Nasen-Ohrenheilkunde|
-|K-V30<br>~~Re~~|Augenheilkunde<br>~~GG~~|4<br>~~GG~~|28<br>~~GG~~|VL<br>~~GG~~|~~GG~~<br>~~OO~~|Augenheilkunde<br>~~OO~~|
-|K-V31<br>~~Re~~|Neurologie (incl. Neurochirur-<br>gie)<br>~~GG~~|4<br>~~GG~~|42<br>~~GG~~|VL<br>~~GG~~|~~GG~~|Neurologie|
-|K-V32<br>~~fn~~|Psychiatrie<br>~~fn~~|4<br>~~GG~~|14<br>~~GG~~|VL<br>~~GG~~|~~GG~~|Psychiatrie undPsychotherapie|
+|K-V29|HNO|4|28|VL||Hals-Nasen-Ohrenheilkunde|
+|K-V30|Augenheilkunde|4|28|VL||Augenheilkunde|
+|K-V31|Neurologie (incl. Neurochirur-<br>gie)|4|42|VL||Neurologie|
+|K-V32|Psychiatrie|4|14|VL||Psychiatrie undPsychotherapie|
 |K-V33|Psychosomatik|4|28|VL||Psychosomatische Medizin<br>und Psychotherapie|
 |K-V34|Gesundheitsökonomie, Ge-<br>sundheitssystem,<br>öffentliches Gesundheitswe-<br>sen**Q3**|1|14|RVL||Gesundheitsökonomie, Gesundheitssystem, öf-<br>fentliche Gesundheitspflege,**Q3**|
 |K-V352|Kinderheilkunde/ Jugendme-<br>dizin II|4|42|VL||Kinderheilkunde|
 
 31 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |K-V36|Klinische Pharmakologie,**Q9**|5|14|RVL, Eingangs-<br>block||Klinische Pharmakologie/<br>Pharmakotherapie,**Q9**|
 |---|---|---|---|---|---|---|
@@ -700,28 +779,32 @@ Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27
 
 32 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 6:** Ausbildungskatalog im 2. Studienabschnitt/ Klinik für den Studiengang **Medizin Erlangen/Bayreuth** – Teil 1 (Blockpraktika (BPK) und Praktika / Kurse am Krankenbett (PK))[1] 
 
 Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27 Abs. 1 **ÄApprO** . 
 
-|**Kenncodes der**<br>**Ausbildungs-**<br>**einheit (Pflicht-ver-**<br>**anstaltung)**|**Bezeichnung der**<br>**Veranstaltung**|**Klinisches Se-**<br>**mester, in dem**<br>**die Veranstaltung**<br>**frühestens zu be-**<br>**suchen ist **4|**die Veranstaltung**<br>**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung an**<br>**der Lehrveranstaltung**|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
+|**Kenncodes der**<br>**Ausbildungs-**<br>**einheit (Pflicht-ver-**<br>**anstaltung)**|**Bezeichnung der**<br>**Veranstaltung**|**Klinisches Se-**<br>**mester, in dem**<br>**die Veranstaltung**<br>**frühestens zu be-**<br>**suchen ist **4|<br>**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung an**<br>**der Lehrveranstaltung**|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
 |---|---|---|---|---|---|---|
-|K-P1_BT|Allgemeinmedizin2|2-5|56|BPK nach<br>**ÄApprO**<br>~~OG~~|K-V1_BT<br>~~OG~~|Blockpraktikum Allgemeinmedizin<br>~~CO~~|
-|K-P3_BT<br>~~GG~~|Notfallmedizin, **Q8**<br>~~GG~~|2<br>~~GG~~|14<br>~~GG~~|PK<br>~~GG~~<br>~~OG~~<br>~~OO~~|~~GG~~<br>~~OG~~<br>~~OO~~|Notfallmedizin, **Q8**<br>~~GG~~<br>~~CO~~<br>~~OO~~|
-|K-P4 (MCO)<br>~~OO~~<br>~~Re~~|HNO<br>~~OO~~|4<br>~~OO~~|14<br>~~OO~~|PK<br>~~OG~~<br>~~OO~~<br>~~OO~~<br>~~G~~~~**G**~~|~~OG~~<br>~~OO~~<br>~~OO~~<br>~~**G**~~|Hals-Nasen-Ohrenheilkunde<br>~~CO~~<br>~~OO~~<br>~~OO~~|
-|K-P5_BT<br>~~GG~~<br>~~Re~~|Augenheilkunde<br>~~GG~~<br>~~OG~~|4<br>~~GG~~<br>~~OG~~|14<br>~~GG~~<br>~~OG~~|PK<br>~~OO~~<br>~~GG~~<br>~~G~~~~**G**~~<br>~~O~~|~~OO~~<br>~~GG~~<br>~~**G**~~<br>|Augenheilkunde<br>~~OO~~<br>~~GG~~<br>|
-|K-P6_BT<br>~~GG~~<br>~~Re~~|Psychiatrie<br>~~GG~~<br>~~OG~~|4<br>~~GG~~<br>~~OG~~|28<br>~~GG~~<br>~~OG~~|PK<br>~~GG~~<br>~~G~~~~**G**~~<br>~~O~~<br>~~OG~~|~~GG~~<br>~~**G**~~<br>~~OO~~<br>~~OG~~|Psychiatrie und Psychotherapie<br>~~GG~~<br>~~OO~~<br>~~CO~~|
-|K-P7_BT<br>~~Re~~<br>~~GG~~|Psychosomatik<br>~~OG~~<br>~~GG~~|4<br>~~OG~~<br>~~GG~~|28<br>~~OG~~<br>~~GG~~|PK<br>~~G~~~~**G**~~<br>~~O~~<br>~~GG~~<br>~~OG~~|~~**G**~~<br>~~OO~~<br>~~GG~~<br>~~OG~~|PsychosomatischeMedizinundPsychotherapie<br>~~OO~~<br>~~GG~~<br>~~CO~~|
-|K-P8_BT|Chirurgie|5|56|BPK nach<br>**ÄApprO**<br>~~OG~~|K-V37_BT und K-V15_BT<br>~~OG~~|Blockpraktikum Chirurgie<br>~~CO~~|
-|K-P9_BT<br>~~eG~~|Dermatologie<br>~~eG~~|5<br>~~GG~~|28<br>~~GG~~|als BPK<br>~~GO~~|K-V25_BT<br>~~GO~~|Dermatologie, Venerologie|
-|K-P10_BT<br>~~Rs~~|Innere, Teil I<br>~~Rs~~|5<br>~~GO~~|56<br>~~GO~~|BPK nach<br>**ÄApprO**<br>~~G~~~~**O**~~|K-V12_BT und K-V19_BT<br>~~**O**~~|Blockpraktikum Innere Medizin|
-|K-P11_BT<br>~~Rs~~|Orthopädie<br>~~Rs~~|5<br>~~GO~~|28<br>~~GO~~|als BPK<br>~~G~~~~**O**~~|K-V17_BT<br>~~**O**~~|Orthopädie<br>~~O~~|
-|K-P12_BT<br>~~Rs~~<br>~~fn~~|Urologie<br>~~Rs~~<br>~~fn~~|5<br>~~GO~~<br>~~GG~~|28<br>~~GO~~<br>~~GG~~|alsBPK<br>~~G~~~~**O**~~<br>~~GG~~|K-V16_BT<br>~~**O**~~<br>~~GG~~|Urologie|
+|K-P1_BT|Allgemeinmedizin2|2-5|56|BPK nach<br>**ÄApprO**|K-V1_BT|Blockpraktikum Allgemeinmedizin|
+|K-P3_BT|Notfallmedizin, **Q8**|2|14|PK||Notfallmedizin, **Q8**|
+|K-P4 (MCO)|HNO|4|14|PK||Hals-Nasen-Ohrenheilkunde|
+|K-P5_BT|Augenheilkunde|4|14|PK||Augenheilkunde|
+|K-P6_BT|Psychiatrie|4|28|PK||Psychiatrie und Psychotherapie|
+|K-P7_BT|Psychosomatik|4|28|PK||PsychosomatischeMedizinundPsychotherapie|
+|K-P8_BT|Chirurgie|5|56|BPK nach<br>**ÄApprO**|K-V37_BT und K-V15_BT|Blockpraktikum Chirurgie|
+|K-P9_BT|Dermatologie|5|28|als BPK|K-V25_BT|Dermatologie, Venerologie|
+|K-P10_BT|Innere, Teil I|5|56|BPK nach<br>**ÄApprO**|K-V12_BT und K-V19_BT|Blockpraktikum Innere Medizin|
+|K-P11_BT|Orthopädie|5|28|als BPK|K-V17_BT|Orthopädie|
+|K-P12_BT|Urologie|5|28|alsBPK|K-V16_BT|Urologie|
 |K-P13_BT|Innere, Teil II|63|42|BPK nach<br>**ÄApprO**|K-V12_BT und K-V19_BT|Blockpraktikum Innere Medizin|
 |K-P14_BT|Frauenheilkunde, Geburts-<br>hilfe|63|28|BPK nach<br>**ÄApprO**|K-V21_BT|Blockpraktikum Frauenheilkunde|
 |K-P15_BT|Kinderheilkunde, Jugendme-<br>dizin|63|42|BPK nach<br>**ÄApprO**|K-V20_BT und K-V35_BT, K-<br>PS14_BT|Blockpraktikum Kinderheilkunde|
-|K-P16_BT|Neurologie, Neurochirurgie|63|28|als BPK<br>~~OO~~|K-V31_BT<br>~~OO~~|Neurologie<br>~~OO~~|
-|K-P17_BT<br>~~GG~~|Anästhesiologie<br>~~GG~~|63<br>~~GG~~|28<br>~~GG~~|als BPK<br>~~GG~~<br>~~OO~~|K-V14_BT<br>~~GG~~<br>~~OO~~|Anästhesiologie<br>~~GG~~<br>~~OO~~|
+|K-P16_BT|Neurologie, Neurochirurgie|63|28|als BPK|K-V31_BT|Neurologie|
+|K-P17_BT|Anästhesiologie|63|28|als BPK|K-V14_BT|Anästhesiologie|
 
 > 1 Die Voraussetzung für die Teilnahme an allen in Teil 1 genannten Veranstaltungen ist der Nachweis der Masernimmunität sowie die erfolgte betriebsärztliche Untersuchung. 
 
@@ -733,30 +816,38 @@ Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27
 
 33 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 7:** Ausbildungskatalog im 2. Studienabschnitt/ Klinik für den Studiengang **Medizin Erlangen/Bayreuth** – Teil 2 (Seminare (S) und Praktika / Kurse (Ü))[1] 
 
 Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27 Abs. 1 **ÄApprO** . 
 
-|**Kenncodes der**<br>**Ausbildungs-**<br>**einheit (Pflicht-ver-**<br>**anstaltung)**|**Bezeichnung der**<br>**Veranstaltung**|**Klinisches Se-**<br>**mester, in dem**<br>**die Veranstaltung**<br>**frühestens zu be-**<br>**suchen ist**3|**die Veranstaltung**<br>**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung an**<br>**der Lehrveranstaltung**|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
+|**Kenncodes der**<br>**Ausbildungs-**<br>**einheit (Pflicht-ver-**<br>**anstaltung)**|**Bezeichnung der**<br>**Veranstaltung**|**Klinisches Se-**<br>**mester, in dem**<br>**die Veranstaltung**<br>**frühestens zu be-**<br>**suchen ist**3|<br>**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung an**<br>**der Lehrveranstaltung**|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
 |---|---|---|---|---|---|---|
 |K-PS1_BT|Arbeitsmedizin, Sozialmedi-<br>zin|62|28|Ü als Block|K-V26_BT|Arbeitsmedizin, Sozialmedizin|
 |K-PS2_BT|Bildgebende Verfahren,<br>Strahlentherapie,**Q11**|2|14|Ü||Bildgebende Verfahren, Strahlenbehandlung,<br>Strahlenschutz,**Q11**|
 |K-PS3 (MCO)|Epidemiologie & Medizini-<br>sche Informatik/ Teil Epidemi-<br>ologie,**Q1**|1|14|Ü||Epidemiologie, medizinische Biometrie und medi-<br>zinische Informatik,**Q1**|
 |K-PS4 (MCO)|Epidemiologie & Medizini-<br>sche Informatik/ Teil Informa-<br>tik,**Q1**|1|14|Ü||Epidemiologie, medizinische Biometrie und medi-<br>zinische Informatik,**Q1**|
-|K-PS5_BT<br>~~Rs~~|Geschichte und Ethik der Me-<br>dizin (GTE),**Q2**<br>~~Rs~~|3<br>~~GO~~|28<br>~~GO~~|S<br>~~G~~~~**O**~~|~~**O**~~|Geschichte, Theorie, Ethik der Medizin,**Q2**|
-|K-PS6 (MCO)<br>~~Rs~~|Humangenetik<br>~~Rs~~|1<br>~~GO~~|28<br>~~GO~~|Ü<br>~~G~~~~**O**~~|~~**O**~~|Humangenetik<br>~~O~~|
-|K-PS7_BT<br>~~Rs~~<br>~~fn~~|Innere, Pathophysiologie<br>~~Rs~~<br>~~fn~~|3<br>~~GO~~<br>~~GG~~|14<br>~~GO~~<br>~~GG~~|S<br>~~G~~~~**O**~~<br>~~GG~~|~~**O**~~<br>~~GG~~|Innere Medizin|
+|K-PS5_BT|Geschichte und Ethik der Me-<br>dizin (GTE),**Q2**|3|28|S||Geschichte, Theorie, Ethik der Medizin,**Q2**|
+|K-PS6 (MCO)|Humangenetik|1|28|Ü||Humangenetik|
+|K-PS7_BT|Innere, Pathophysiologie|3|14|S||Innere Medizin|
 |K-PS8 (MCO)|Klinische Chemie, Hämatolo-<br>gie, Labormedizin, Transfusi-<br>onsmedizin und Hämostase-<br>ologie|1|42|Ü||Klinische Chemie, Laboratoriumsdiagnostik|
-|K-PS9_BT<br>~~Re~~|Klinisch-Pathologische Kon-<br>ferenz,**Q5**<br>~~GG~~|62<br>~~GG~~|28<br>~~GG~~|Ü<br>~~GG~~|~~GG~~|Klinisch-pathologische Konferenz,**Q5**<br>|
-|K-PS10_BT<br>~~Re~~<br>~~Re~~|Klinische Pharmakologie,**Q9**<br>~~GG~~<br>~~Re~~|5<br>~~GG~~<br>~~OO~~|28<br>~~GG~~<br>~~OO~~|S<br>~~GG~~<br>~~OG~~|~~GG~~~~**OO**~~<br>~~OG~~|Klinische Pharmakologie/ Pharmakotherapie,**Q9**<br>~~**OO**~~|
-|K-PS11 (MCO)<br>~~Re~~<br>~~Re~~|Mikrobiologie, Virologie<br>~~GG~~<br>~~Re~~|1<br>~~GG~~<br>~~OO~~|42<br>~~GG~~<br>~~OO~~|Ü<br>~~GG~~<br>~~OG~~<br>~~GO~~|~~GG~~~~**OO**~~<br>~~OG~~<br>~~GO~~|Hygiene, Mikrobiologie, Virologie<br>~~**OO**~~<br>~~OO~~|
-|K-PS12_BT<br>~~Re~~<br>~~GO~~|Neurologie, Pathophysiologie<br>~~Re~~<br>~~GO~~|Neurologie, Pathophysiologie<br>4<br>~~OO~~<br>~~GO~~|14<br>~~OO~~<br>~~GO~~|S<br><br>~~OG~~<br>~~GO~~<br>~~GO~~|~~**OO**~~<br>~~OG~~<br>~~GO~~<br>~~GO~~|Neurologie<br>~~**OO**~~<br>~~GO~~<br>~~OO~~|
-|K-PS14_BT|Kinderheilkunde, Jugendme-<br>dizin|62|28<br>~~GO~~|S<br>~~GO~~<br>~~GO~~|~~GO~~<br>~~GC~~|Kinderheilkunde<br>~~OO~~<br>~~GC~~|
-|K-PS15_BT<br>~~sO~~|Pathologie<br>~~sO~~|2<br>~~sO~~|28<br>~~sO~~<br>~~GO~~|Ü<br>~~sO~~<br>~~GO~~|~~sO~~<br>~~GC~~|Pathologie<br>~~sO~~<br>~~GC~~|
-|K-PS16_BT|Pathologie|3|14<br>~~GO~~|Ü<br>~~GO ~~|K-PS15_BT und K-V5A_BT<br> ~~GC~~|Pathologie<br>~~GC~~|
-|K-PS18<br>~~Qe~~|Pharmakologie<br>~~Qe~~|1<br>~~GG~~|56<br>~~GG~~|S<br>~~GG~~|~~GG~~|Pharmakologie, Toxikologie|
+|K-PS9_BT|Klinisch-Pathologische Kon-<br>ferenz,**Q5**|62|28|Ü||Klinisch-pathologische Konferenz,**Q5**|
+|K-PS10_BT|Klinische Pharmakologie,**Q9**|5|28|S||Klinische Pharmakologie/ Pharmakotherapie,**Q9**|
+|K-PS11 (MCO)|Mikrobiologie, Virologie|1|42|Ü||Hygiene, Mikrobiologie, Virologie|
+|K-PS12_BT|Neurologie, Pathophysiologie|<br>4|14|S||Neurologie|
+|K-PS14_BT|Kinderheilkunde, Jugendme-<br>dizin|62|28|S||Kinderheilkunde|
+|K-PS15_BT|Pathologie|2|28|Ü||Pathologie|
+|K-PS16_BT|Pathologie|3|14|Ü|K-PS15_BT und K-V5A_BT|Pathologie|
+|K-PS18|Pharmakologie|1|56|S||Pharmakologie, Toxikologie|
 
 34 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 |K-PS19 (MCO)|Rechtsmedizin|5|14|Ü|K-V22_BT|Rechtsmedizin|
 |---|---|---|---|---|---|---|
@@ -772,56 +863,64 @@ Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27
 
 35 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anlage 8:** Ausbildungskatalog im 2. Studienabschnitt/ Klinik für den Studiengang **Medizin Erlangen/Bayreuth** – Teil 3 (Vorlesungen (VL), Ringvorlesungen (RVL)) 
 
-## Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27 Abs. 1 **ÄApprO** . 
+Die Bezeichnungen Q1-14 beziehen sich auf die Querschnittsbereiche gemäß § 27 Abs. 1 **ÄApprO** . 
 
-|**Kenncodes der**<br>**Ausbildungsein-**<br>**heit (Pflicht-veran-**<br>**staltung)**|**Bezeichnung der**<br>**Veranstaltung**|**Klinisches Se-**<br>**mester, in dem**<br>**die Veranstaltung**<br>**frühestens zu be-**<br>**suchen ist**2|**die Veranstaltung**<br>**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**<br>~~OG~~|**Teilnahmevoraussetzung an**<br>**der Lehrveranstaltung**<br>~~OG~~|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**<br>~~CO~~|
+|**Kenncodes der**<br>**Ausbildungsein-**<br>**heit (Pflicht-veran-**<br>**staltung)**|**Bezeichnung der**<br>**Veranstaltung**|**Klinisches Se-**<br>**mester, in dem**<br>**die Veranstaltung**<br>**frühestens zu be-**<br>**suchen ist**2|<br>**Akademische**<br>**Stunden**<br>**pro Veranstal-**<br>**tung**|**Art der**<br>**Veranstaltung**|**Teilnahmevoraussetzung an**<br>**der Lehrveranstaltung**|**Zugeordnet dem Leistungsnachweis nach**<br>**ÄApprO**|
 |---|---|---|---|---|---|---|
-|K-V1_BT<br>~~GG~~|Allgemeinmedizin<br>~~GG~~|2<br>~~GG~~|28<br>~~GG~~|VL<br>~~GG~~<br>~~OG~~|~~GG~~<br>~~OG~~|Allgemeinmedizin<br>~~GG~~<br>~~CO~~|
-|K-V2|Epidemiologie, medizinische<br>Biometrie & Medizinische In-<br>formatik, Teil Epidemiologie<br>**Q1**|1|14|RVL<br>~~OG~~|~~OG~~|Epidemiologie, medizinische Biometrie und medi-<br>zinische Informatik<br>~~CO~~|
-|K-V3A_BT|Allgemeine Notfallmedizin,<br>**Q8**|2|28|RVL<br>~~OO~~|~~OO~~|Notfallmedizin<br>~~OO~~|
-|K-V3B_BT<br>~~OO~~|Spezielle Notfallmedizin,**Q8**<br>~~OO~~|3<br>~~OO~~|14<br>~~OO~~|RVL<br>~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|Notfallmedizin<br>~~OO~~<br>~~OO~~|
-|K-V4|Hygiene, Mikrobiologie, Viro-<br>logie|1|70|VL<br>~~OO~~<br>~~GG~~|~~OO~~<br>~~GG~~|Hygiene, Mikrobiologie, Virologie<br>~~OO~~<br>~~OO~~|
-|K-V5A_BT<br>~~GO~~|Pathologie<br>~~GO~~|2<br>~~GO~~|70<br>~~GO~~|VL<br>~~GO~~<br>~~GG~~|~~GO~~<br>~~GG~~|Pathologie<br>~~GO~~<br>~~OO~~|
-|K-V5B_BT|Pathologie|3|28|VL<br>~~GG~~|K-PS15_BT und K-V5A_BT<br>~~GG~~|Pathologie<br>~~OO~~|
-|K-V6<br>~~fn~~|Pharmakologie<br>~~fn~~|1<br>~~GG~~|56<br>~~GG~~|VL<br>~~GG~~|~~GG~~|Pharmakologie,Toxikologie|
+|K-V1_BT|Allgemeinmedizin|2|28|VL||Allgemeinmedizin|
+|K-V2|Epidemiologie, medizinische<br>Biometrie & Medizinische In-<br>formatik, Teil Epidemiologie<br>**Q1**|1|14|RVL||Epidemiologie, medizinische Biometrie und medi-<br>zinische Informatik|
+|K-V3A_BT|Allgemeine Notfallmedizin,<br>**Q8**|2|28|RVL||Notfallmedizin|
+|K-V3B_BT|Spezielle Notfallmedizin,**Q8**|3|14|RVL||Notfallmedizin|
+|K-V4|Hygiene, Mikrobiologie, Viro-<br>logie|1|70|VL||Hygiene, Mikrobiologie, Virologie|
+|K-V5A_BT|Pathologie|2|70|VL||Pathologie|
+|K-V5B_BT|Pathologie|3|28|VL|K-PS15_BT und K-V5A_BT|Pathologie|
+|K-V6|Pharmakologie|1|56|VL||Pharmakologie,Toxikologie|
 |K-V8_BT|Begleitvorlesung Praktische<br>Strahlentherapie zu**Q11**|2|14|RVL||Bildgebende Verfahren, Strahlenbehandlung,<br>Strahlenschutz|
 |K-V9_BT|Bildgebende Verfahren,<br>Strahlenbehandlung, Strah-<br>lenschutz,**Q11**|3|28|RVL|K-PS2_BT und K-V8_BT|Bildgebende Verfahren, Strahlenbehandlung,<br>Strahlenschutz|
 |K-V10|Klinische Chemie, Hämatolo-<br>gie, Labormedizin, Transfusi-<br>onsmedizin und Hämostase-<br>ologie|1|28|VL||Klinische Chemie, Laboratoriumsdiagnostik|
-|K-V11<br>~~Rs~~|Epidemiologie, medizinische<br>Biometrie & Medizinische In-<br>formatik,Teil Informatik**Q1**<br>~~GG~~|1<br>~~GG~~|14<br>~~GG~~|RVL<br>~~OG~~|~~OG~~|Epidemiologie, medizinische Biometrie und medi-<br>zinische Informatik<br>|
-|K-V12_BT<br>~~Rs~~<br>~~**R**e~~|Innere Medizin I<br>~~GG~~<br>~~e~~|2<br>~~GG~~<br>~~OG~~|56<br>~~GG~~<br>~~OG~~|VL<br>~~OG~~<br>~~OG~~|~~OGC~~<br>~~OG~~|Innere Medizin<br>~~C~~~~**O**~~|
-|K-V13 (MCO)<br>~~Rs~~<br>~~**R**e~~|Humangenetik<br>~~GG~~<br>~~e~~|1<br>~~GG~~<br>~~OG~~|28<br>~~GG~~<br>~~OG~~<br>~~GO~~|VL<br>~~OG~~<br>~~OG~~<br>~~GO~~|~~OGC~~<br>~~OG~~<br>~~O~~<br>~~GG~~|Humangenetik<br>~~C~~~~**O**~~<br>~~O~~<br>~~GG~~|
-|K-V14_BT<br>~~**R**e~~|Anästhesiologie<br>~~e~~|3<br>~~OG~~|14<br>~~OG~~<br>~~GO~~|VL<br><br>~~OG~~<br>~~G~~<br>~~GO~~|~~C~~<br>~~OG~~<br>~~G~~<br>~~GG~~|Anästhesiologie<br>~~C~~~~**O**~~<br>~~G~~<br>~~GG~~|
+|K-V11|Epidemiologie, medizinische<br>Biometrie & Medizinische In-<br>formatik,Teil Informatik**Q1**|1|14|RVL||Epidemiologie, medizinische Biometrie und medi-<br>zinische Informatik|
+|K-V12_BT|Innere Medizin I|2|56|VL||Innere Medizin|
+|K-V13 (MCO)|Humangenetik|1|28|VL||Humangenetik|
+|K-V14_BT|Anästhesiologie|3|14|VL||Anästhesiologie|
 
 36 
 
-|K-V15_BT|Chirurgie|3|70|VL<br>~~GG~~|~~GG~~|Chirurgie<br>~~OO~~|
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+|K-V15_BT|Chirurgie|3|70|VL||Chirurgie|
 |---|---|---|---|---|---|---|
-|K-V16_BT<br>~~OO~~|Urologie<br>~~OO~~|3<br>~~OO~~|14<br>~~OO~~|VL<br>~~OO~~<br>~~GG~~|~~OO~~<br>~~GG~~|Urologie<br>~~OO~~<br>~~OO~~|
-|K-V17_BT|Orthopädie, Reha + physikali-<br>sche Medizin|3|28|VL<br>~~GG~~|~~GG~~|Orthopädie<br>~~OO~~|
-|K-V18_BT|Infektiologie, Immunologie,<br>**Q4**|3|28|RVL<br>~~GG~~|~~GG~~|Infektiologie, Immunologie<br>~~OO~~|
-|K-V19_BT<br>~~OO~~|Innere Medizin II<br>~~OO~~|3<br>~~OO~~|56<br>~~OO~~|VL<br>~~OO~~<br>~~GG~~|~~OO~~<br>~~GG~~|Innere Medizin<br>~~OO~~<br>~~OO~~|
-|K-V20_BT|Kinderheilkunde, Jugendme-<br>dizin I1|3|42|VL<br>~~GG~~|~~GG~~|Kinderheilkunde<br>~~OO~~|
-|K-V21_BT|Frauenheilkunde, Geburts-<br>hilfe|2|42|VL<br>~~OO~~|~~OO~~|Frauenheilkunde, Geburtshilfe<br>~~OO~~|
-|K-V22_BT<br>~~OO~~|Rechtsmedizin<br>~~OO~~|3<br>~~OO~~|28<br>~~OO~~|VL<br>~~OO~~<br>~~OO~~|~~OO~~<br>~~OO~~|Rechtsmedizin<br>~~OO~~<br>~~OO~~|
-|K-V23_BT|Rehabilitation/ Physikalische<br>Medizin/ Naturheilverfahren<br>**Q12**|5|14|RVL<br>~~OO~~|~~OO~~|Rehabilitation, Physikalische Medizin, Naturheil-<br>verfahren<br>~~OO~~|
-|K-V24_BT|Prävention und Gesundheits-<br>förderung,**Q10**|2|28|RVL<br>~~GG~~|~~GG~~|Prävention und Gesundheitsförderung|
-|K-V25_BT<br>~~GG~~|Dermatologie<br>~~GG~~|4<br>~~GG~~|42<br>~~GG~~|VL<br>~~GG~~<br>~~GG~~|~~GG~~<br>~~GG~~|Dermatologie,Venerologie<br>~~GG~~|
-|K-V26_BT<br>~~GG~~|Arbeitsmedizin, Sozialmedi-<br>zin<br>~~GG~~|4<br>~~GG~~|28<br>~~GG~~|VL<br>~~GG~~<br>~~GG~~|~~GG~~<br>~~GG~~|Arbeitsmedizin, Sozialmedizin<br>~~GG~~|
-|K-V27_BT|Klinische Umweltmedizin/<br>Schwerpunkt Onkologie,**Q6**|6|28|RVL, Eingangs-<br>block<br>~~CO~~||Klinische Umweltmedizin|
-|K-V28_BT<br>~~GG~~<br>~~Re~~|MedizindesAlterns, **Q7**<br>~~GG~~<br>~~Re~~|4<br>~~GG~~|28<br>~~GG~~<br>~~GG~~|VL<br>~~GG~~<br>~~CO~~<br>~~GG~~|~~GG~~|MedizindesAlterns und des alten Menschen<br>~~GG~~|
-|K-V29_BT<br>~~GR~~<br>~~Re~~|HNO<br>~~GR~~<br>~~Re~~|4<br>~~GR~~<br>~~OO~~|28<br>~~GR~~<br>~~GG~~<br>~~OO~~|VL<br>~~CO~~<br>~~GR~~<br>~~GG~~<br>~~OG~~|~~GR~~<br>~~OG~~|Hals-Nasen-Ohrenheilkunde<br>~~GR~~|
-|K-V30_BT<br>~~Re~~|Augenheilkunde<br>~~Re~~|4<br>~~OO~~|28<br>~~GG~~<br>~~OO~~|VL<br>~~GG~~<br>~~OG~~|~~OG~~<br>~~OO~~|Augenheilkunde<br>~~OO~~|
-|K-V31_BT<br>~~Re~~<br>~~Re~~|Neurologie (incl. Neurochirur-<br>gie)<br>~~Re~~<br>~~GG~~|4<br>~~OO~~<br>~~GG~~|42<br>~~GG~~<br>~~OO~~<br>~~GG~~|VL<br>~~GG~~<br>~~OG~~<br>~~GG~~|~~OG~~<br>~~GG~~|Neurologie<br>|
-|K-V32_BT<br>~~Re~~<br>~~Re~~|Psychiatrie<br>~~GG~~<br>~~Re~~|4<br>~~GG~~<br>~~OO~~|28<br>~~GG~~<br>~~OO~~|VL<br>~~GG~~<br>~~OG~~|~~GG~~~~**OO**~~<br>~~OG~~|Psychiatrie und Psychotherapie<br>~~**OO**~~|
-|K-V33_BT<br>~~Re~~<br>~~Re~~|Psychosomatik<br>~~GG~~<br>~~Re~~|4<br>~~GG~~<br>~~OO~~|28<br>~~GG~~<br>~~OO~~|VL<br>~~GG~~<br>~~OG~~|~~GG~~~~**OO**~~<br>~~OG~~|PsychosomatischeMedizinundPsychotherapie<br>~~**OO**~~|
-|K-V34_BT<br>~~Re~~|Gesundheitsökonomie, Ge-<br>sundheitssystem, öffentliches<br>Gesundheitswesen**Q3**<br>~~Re~~|sundheitssystem, öffentliches<br>2<br>~~OO~~|14<br>~~OO~~|VL<br><br>~~OG~~|~~**OO**~~<br>~~OG~~|Gesundheitsökonomie, Gesundheitssystem, öf-<br>fentliche Gesundheitspflege<br>~~**OO**~~|
+|K-V16_BT|Urologie|3|14|VL||Urologie|
+|K-V17_BT|Orthopädie, Reha + physikali-<br>sche Medizin|3|28|VL||Orthopädie|
+|K-V18_BT|Infektiologie, Immunologie,<br>**Q4**|3|28|RVL||Infektiologie, Immunologie|
+|K-V19_BT|Innere Medizin II|3|56|VL||Innere Medizin|
+|K-V20_BT|Kinderheilkunde, Jugendme-<br>dizin I1|3|42|VL||Kinderheilkunde|
+|K-V21_BT|Frauenheilkunde, Geburts-<br>hilfe|2|42|VL||Frauenheilkunde, Geburtshilfe|
+|K-V22_BT|Rechtsmedizin|3|28|VL||Rechtsmedizin|
+|K-V23_BT|Rehabilitation/ Physikalische<br>Medizin/ Naturheilverfahren<br>**Q12**|5|14|RVL||Rehabilitation, Physikalische Medizin, Naturheil-<br>verfahren|
+|K-V24_BT|Prävention und Gesundheits-<br>förderung,**Q10**|2|28|RVL||Prävention und Gesundheitsförderung|
+|K-V25_BT|Dermatologie|4|42|VL||Dermatologie,Venerologie|
+|K-V26_BT|Arbeitsmedizin, Sozialmedi-<br>zin|4|28|VL||Arbeitsmedizin, Sozialmedizin|
+|K-V27_BT|Klinische Umweltmedizin/<br>Schwerpunkt Onkologie,**Q6**|6|28|RVL, Eingangs-<br>block||Klinische Umweltmedizin|
+|K-V28_BT|MedizindesAlterns, **Q7**|4|28|VL||MedizindesAlterns und des alten Menschen|
+|K-V29_BT|HNO|4|28|VL||Hals-Nasen-Ohrenheilkunde|
+|K-V30_BT|Augenheilkunde|4|28|VL||Augenheilkunde|
+|K-V31_BT|Neurologie (incl. Neurochirur-<br>gie)|4|42|VL||Neurologie|
+|K-V32_BT|Psychiatrie|4|28|VL||Psychiatrie und Psychotherapie|
+|K-V33_BT|Psychosomatik|4|28|VL||PsychosomatischeMedizinundPsychotherapie|
+|K-V34_BT|Gesundheitsökonomie, Ge-<br>sundheitssystem, öffentliches<br>Gesundheitswesen**Q3**|<br>2|14|VL||Gesundheitsökonomie, Gesundheitssystem, öf-<br>fentliche Gesundheitspflege|
 |K-V35_BT|Kinderheilkunde/ Jugendme-<br>dizin II1|4|42|VL||Kinderheilkunde|
 |K-V36_BT|Klinische Pharmakologie,**Q9**|5|14|RVL, Eingangs-<br>block||Klinische Pharmakologie/ Pharmakotherapie|
 |K-V37_BT|Allgemeine Chirurgie/ Unfall-<br>chirurgie|2|28|VL||Chirurgie|
 
-> 1 Die in den Lehrveranstaltungen vermittelten Ausbildungsinhalte werden am Ende des 4. Klinischen Semesters in einer Prüfung abgeprüft. 
+- 1 Die in den Lehrveranstaltungen vermittelten Ausbildungsinhalte werden am Ende des 4. Klinischen Semesters in einer Prüfung abgeprüft. 
 
 > 2 Angegeben ist jeweils das Semester, in dem die Veranstaltung sowie die dazugehörige Prüfung frühestens besucht werden kann 
 

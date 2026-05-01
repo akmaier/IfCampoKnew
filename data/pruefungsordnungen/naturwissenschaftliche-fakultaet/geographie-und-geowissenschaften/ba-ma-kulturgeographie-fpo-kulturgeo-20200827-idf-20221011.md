@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BA-MA Kulturgeographie FPO Kulturgeo 20200827 i.d.F. 20221011.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Kulturgeographie/konsolidierte_Fassungen/BA-MA_Kulturgeographie_FPO_Kulturgeo_20200827_idF_20221011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:51:25+00:00
+scraped_at: 2026-05-01T07:42:57+00:00
 page_count_chars: 55522
 ---
 

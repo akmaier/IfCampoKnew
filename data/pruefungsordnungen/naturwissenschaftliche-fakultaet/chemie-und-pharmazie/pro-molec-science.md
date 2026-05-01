@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.05.2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Urfassung/Nat%20Fak/PrO-Molec-Science.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:47:02+00:00
+scraped_at: 2026-05-01T07:37:14+00:00
 page_count_chars: 24575
 ---
 

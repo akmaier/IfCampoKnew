@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BSc AI 1. ÄSa 20250616.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Artificial_Intelligence_Bachelor/Aenderungssatzungen/FPO BSc AI_1. AeSa_20250616.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/
-scraped_at: 2026-04-25T16:46:47+00:00
-page_count_chars: 10379
+scraped_at: 2026-05-01T09:56:07+00:00
+page_count_chars: 11727
 ---
 
 # FPO BSc AI 1. ÄSa 20250616.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Artificial_Intelligence_Bachelor/Aenderungssatzungen/FPO BSc AI_1. AeSa_20250616.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den für den Bachelorstudiengang Artificial Intelligence (Bachelor of Science) an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOBScAI – Vom 16. Juni 2025** 
 
@@ -33,6 +37,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Artificial In
 3.  § 5 wird wie folgt geändert: 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
    - a) In Abs. 2 Satz 4 werden nach den Worten „Die spezifischen Qualifikationsziele“ die Worte „und Prüfungsgegenstände“ eingefügt. 
 
@@ -66,6 +74,10 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Artificial In
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 einschlägigen **(Fach-)Studien- und Prüfungsordnung** bzw. der jeweils einschlägigen Modulbeschreibung zu entnehmen.“ 
 
 8.  In § 10 Abs. 4 Satz 2 wird nach den Worten und dem Zeichen „wird gemäß §“ die Zahl „18“ durch die Zahl „22“ ersetzt. 
@@ -98,6 +110,10 @@ einschlägigen **(Fach-)Studien- und Prüfungsordnung** bzw. der jeweils einschl
 
 3 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 - j) In Zeile 25 (Modulnummer B17) Spalte 2 (Modulbezeichnung) werden die hochgestellten Zahlen „[3)] “ und „[4)] “ durch die hochgestellte Zahl „[2)] “ ersetzt. 
 
 - k) In Zeile 27 (Modulnummer B18) Spalte 2 (Modulbezeichnung) wird die hochgestellte Zahl „[5)] “ durch die hochgestellte Zahl „[3)] “ ersetzt. 
@@ -127,6 +143,10 @@ einschlägigen **(Fach-)Studien- und Prüfungsordnung** bzw. der jeweils einschl
 - c) In Zeile 10 (Modulnummer B7) Spalte 3 (SWS) Unterspalte 2 (Ü) wird die Zahl „2“ durch die Zahl „4“ ersetzt. 
 
 4 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - d) In Zeile 13 (Modulnummer B9) Spalte 6 (Art und Umfang der Prüfung) wird die hochgestellte Zahl „[2)] “ durch die hochgestellte Zahl „[1)] “ ersetzt. 
 
@@ -160,25 +180,53 @@ einschlägigen **(Fach-)Studien- und Prüfungsordnung** bzw. der jeweils einschl
 
 5 
 
-## **§ 2** 
+**§ 2** 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Diese Änderungssatzung tritt am 1. Oktober 2025 in Kraft. 
 
 6 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 ## **Anhang: Studienverlaufspläne der FPOBScAI in der Fassung vom 28. März 2024 im Änderungsmodus:** 
+
+**==> picture [688 x 415] intentionally omitted <==**
 
 7 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+**==> picture [748 x 465] intentionally omitted <==**
 
 9 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+**==> picture [748 x 387] intentionally omitted <==**
+
 10 
 
-Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 4. Juni 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 16. Juni 2025 
+**==> picture [165 x 49] intentionally omitted <==**
 
-Erlangen, den 16. Juni 2025 FAU gez. 
+**==> picture [114 x 46] intentionally omitted <==**
+
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 4. Juni 2025, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 16. Juni 2025 Erlangen, den 16. Juni 2025 FAU gez. 
 
 Prof. Dr.-Ing. Joachim Hornegger, Präsident 
 

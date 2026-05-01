@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "MA DEIS FPODEIS 20260305 WS 26 27 Aussetzung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/konsolidierte_Fassungen/MA_DEIS_FPODEIS_20260305_WS 26_27_Aussetzung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:21:55+00:00
-page_count_chars: 1425
+scraped_at: 2026-05-01T08:25:02+00:00
+page_count_chars: 1533
 ---
 
 # MA DEIS FPODEIS 20260305 WS 26 27 Aussetzung.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/konsolidierte_Fassungen/MA_DEIS_FPODEIS_20260305_WS 26_27_Aussetzung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 # **Satzung zur Aussetzung der Immatrikulation im Masterstudiengang Development Economics and International Studies an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg – AussetzungDEIS – Vom 5. März 2026** 
 

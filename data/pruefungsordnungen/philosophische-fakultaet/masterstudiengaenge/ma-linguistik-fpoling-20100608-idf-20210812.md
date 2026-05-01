@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Linguistik FPOLing 20100608 i.d.F. 20210812.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Linguistik/konsolidierte_Fassungen/MA_Linguistik_FPOLing_20100608_idF_20210812.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:26:36+00:00
+scraped_at: 2026-05-01T08:32:18+00:00
 page_count_chars: 23665
 ---
 

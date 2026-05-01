@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "250-600"
-scraped_at: 2026-04-25T14:12:50+00:00
+scraped_at: 2026-05-01T06:48:35+00:00
 ---
 
 # Mathematik (Lehramt)

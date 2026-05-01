@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Mai 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES%20Allg%20PrO%20BA%20MA%20TechFak.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:44:22+00:00
+scraped_at: 2026-05-01T09:55:10+00:00
 page_count_chars: 7843
 ---
 

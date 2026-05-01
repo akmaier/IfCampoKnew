@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO PhysGeo CES 2023 20240118 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Physische_Geographie/Aenderungssatzungen/FPO_PhysGeo_CES_2023_20240118_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:52:38+00:00
+scraped_at: 2026-05-01T07:45:03+00:00
 page_count_chars: 6356
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Transition Studies Engineering FPOTSE 20210729 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Transition_Studies_Engineering/englisch/Transition_Studies_Engineering_FPOTSE_20210729_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:46:21+00:00
+scraped_at: 2026-05-01T09:55:49+00:00
 page_count_chars: 13242
 ---
 

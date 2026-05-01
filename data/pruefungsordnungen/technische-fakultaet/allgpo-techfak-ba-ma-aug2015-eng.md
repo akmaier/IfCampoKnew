@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 14th of August 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/pdf-englisch/allgpo_techfak_ba-ma_aug2015-eng.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:43:56+00:00
+scraped_at: 2026-05-01T09:54:35+00:00
 page_count_chars: 72982
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA Sinologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:03:53+00:00
+scraped_at: 2026-05-01T09:12:19+00:00
 page_count_chars: 7540
 ---
 

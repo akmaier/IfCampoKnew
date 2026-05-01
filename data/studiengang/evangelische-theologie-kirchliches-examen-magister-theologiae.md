@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
-scraped_at: 2026-04-25T14:10:20+00:00
+scraped_at: 2026-05-01T06:44:59+00:00
 ---
 
 # Evangelische Theologie (kirchliches Examen/Magister Theologiae)

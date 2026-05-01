@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 07.11.2008 i.d.F. 06.05.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO_OeffentlichesRecht_Mai2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:01:14+00:00
+scraped_at: 2026-05-01T09:08:35+00:00
 page_count_chars: 6342
 ---
 

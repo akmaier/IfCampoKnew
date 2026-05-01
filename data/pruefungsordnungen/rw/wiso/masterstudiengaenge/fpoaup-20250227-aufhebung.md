@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOAuP 20250227 Aufhebung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Arbeitsmarkt_und_Personal/konsolidierte_Fassungen/FPOAuP_20250227_Aufhebung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:28:38+00:00
+scraped_at: 2026-05-01T09:33:44+00:00
 page_count_chars: 3030
 ---
 

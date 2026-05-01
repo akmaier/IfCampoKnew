@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-04-25T14:12:35+00:00
+scraped_at: 2026-05-01T06:48:13+00:00
 ---
 
 # Management (M.Sc.)

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 29.02.2016 i.d.F. 20.06.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/ABMPO_BA-MA-Geowissenschaften_Juni2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:50:09+00:00
+scraped_at: 2026-05-01T07:40:36+00:00
 page_count_chars: 63227
 ---
 

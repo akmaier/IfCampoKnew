@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOECO 20220328 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Economics/Aenderungssatzungen/FPOECO_20220328_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:29:23+00:00
+scraped_at: 2026-05-01T09:34:48+00:00
 page_count_chars: 5566
 ---
 

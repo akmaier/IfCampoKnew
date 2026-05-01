@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 25th of July 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/pdf-englisch/AllgPO_BA-MA_Chemie_MolecularScience-en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:44:14+00:00
+scraped_at: 2026-05-01T07:34:48+00:00
 page_count_chars: 57180
 ---
 

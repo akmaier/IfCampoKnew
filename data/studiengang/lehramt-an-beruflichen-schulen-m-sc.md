@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakul
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:12:15+00:00
+scraped_at: 2026-05-01T06:47:47+00:00
 ---
 
 # Lehramt an Beruflichen Schulen (M.Sc.)

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Mai 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AES-BA%20MA-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-04-25T16:55:54+00:00
+scraped_at: 2026-05-01T10:08:02+00:00
 page_count_chars: 6705
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 23.12.2009 i.d.F. 11.05.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/StuOPrO-BA-Integrated-Life-ScienceMai2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:43:32+00:00
+scraped_at: 2026-05-01T07:34:02+00:00
 page_count_chars: 65551
 ---
 

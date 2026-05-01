@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Fachbereich Theologie"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:37:25+00:00
+scraped_at: 2026-05-01T08:44:40+00:00
 ---
 
 # Fachbereich Theologie

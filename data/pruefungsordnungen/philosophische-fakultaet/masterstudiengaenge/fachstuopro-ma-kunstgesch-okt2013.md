@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.06.2010 i.d.F. 02.10.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO-MA-Kunstgesch.OKT2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:25:59+00:00
+scraped_at: 2026-05-01T08:31:35+00:00
 page_count_chars: 14591
 ---
 

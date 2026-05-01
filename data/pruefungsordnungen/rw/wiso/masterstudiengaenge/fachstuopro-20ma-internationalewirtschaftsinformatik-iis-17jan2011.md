@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.07.2010 i.d.F. 17.01.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/FachStuOPrO%20MA-InternationaleWirtschaftsinformatik-IIS-17JAN2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:32:36+00:00
+scraped_at: 2026-05-01T09:39:18+00:00
 page_count_chars: 8520
 ---
 

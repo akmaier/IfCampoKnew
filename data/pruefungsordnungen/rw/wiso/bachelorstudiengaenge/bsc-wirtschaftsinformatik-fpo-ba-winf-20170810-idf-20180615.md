@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Wirtschaftsinformatik FPO BA WInf 20170810 i.d.F. 20180615.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftsinformatik/konsolidierte_Fassungen/BSc_Wirtschaftsinformatik_FPO_BA_WInf_20170810_idF_20180615.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:15:31+00:00
+scraped_at: 2026-05-01T09:27:32+00:00
 page_count_chars: 11492
 ---
 

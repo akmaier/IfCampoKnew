@@ -8,7 +8,7 @@ unterrichtssprache: "Deutsch und Englisch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-04-25T14:09:21+00:00
+scraped_at: 2026-05-01T06:42:31+00:00
 ---
 
 # Arbeitsmarkt und Personal (M.Sc.)

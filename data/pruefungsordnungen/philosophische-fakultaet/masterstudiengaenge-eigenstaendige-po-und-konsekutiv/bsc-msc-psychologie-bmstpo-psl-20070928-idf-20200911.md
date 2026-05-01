@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Psychologie BMStPO-PSL 20070928 i.d.F. 20200911.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20070928_idF_20200911.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:18:02+00:00
+scraped_at: 2026-05-01T08:18:37+00:00
 page_count_chars: 96589
 ---
 

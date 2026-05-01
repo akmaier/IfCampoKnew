@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:09:44+00:00
+scraped_at: 2026-05-01T06:43:29+00:00
 ---
 
 # Chinese Studies with an Optional Focus (M.A.)

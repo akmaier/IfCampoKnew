@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "11. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_Italoromanistik_2FachBA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:57:51+00:00
+scraped_at: 2026-05-01T09:02:52+00:00
 page_count_chars: 1822
 ---
 

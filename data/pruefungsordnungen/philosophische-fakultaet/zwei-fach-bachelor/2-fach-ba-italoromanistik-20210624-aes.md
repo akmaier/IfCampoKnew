@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Italoromanistik 20210624 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Italoromanistik/Aenderungssatzungen/2-Fach-BA_Italoromanistik_20210624_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:57:34+00:00
+scraped_at: 2026-05-01T09:02:18+00:00
 page_count_chars: 21221
 ---
 

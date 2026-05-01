@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "MA EdT 20260213 Aufhebungssatzung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20260213_Aufhebungssatzung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:40:55+00:00
-page_count_chars: 2754
+scraped_at: 2026-05-01T08:49:02+00:00
+page_count_chars: 2970
 ---
 
 # MA EdT 20260213 Aufhebungssatzung.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20260213_Aufhebungssatzung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Satzung der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) über die Aufhebung des Elite-Masterstudiengangs Ethik der Textkulturen im Elitenetzwerk Bayern an der Universität Augsburg und der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - Aufhebungssatzung EdT - Vom 13. Februar 2026** 
 
@@ -37,6 +41,10 @@ In § 30 wird nach Abs. 2 folgender neuer Abs. 3 angefügt:
 Diese Satzung tritt am 16. Februar 2026 in Kraft. 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 21. Januar 2026, und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 13. Februar 2026 Erlangen, den 13. Februar 2026 FAU gez. 
 

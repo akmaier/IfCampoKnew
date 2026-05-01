@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "5. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-DSH.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:41:26+00:00
+scraped_at: 2026-05-01T09:51:57+00:00
 page_count_chars: 1462
 ---
 

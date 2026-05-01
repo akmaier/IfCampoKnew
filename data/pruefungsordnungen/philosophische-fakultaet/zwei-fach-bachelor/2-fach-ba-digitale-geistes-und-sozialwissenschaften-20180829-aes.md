@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2 Fach BA Digitale Geistes- und Sozialwissenschaften 20180829 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Digitale_Geistes-_-und_Sozialwisswenschaften/Aenderungssatzungen/2_Fach_BA_Digitale_Geistes-_und_Sozialwissenschaften_20180829_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:56:57+00:00
+scraped_at: 2026-05-01T09:01:21+00:00
 page_count_chars: 9478
 ---
 

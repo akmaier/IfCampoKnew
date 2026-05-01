@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 07.09.2007 i.d.F. 02.10.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/PO-Bachelor-MA-Physik-WS_Okt2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-04-25T15:06:20+00:00
+scraped_at: 2026-05-01T08:00:37+00:00
 page_count_chars: 92636
 ---
 

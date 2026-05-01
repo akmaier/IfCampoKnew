@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AESDSH-PrO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:41:19+00:00
+scraped_at: 2026-05-01T09:51:47+00:00
 page_count_chars: 11234
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPO LAPO 20240918.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20240918.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/
-scraped_at: 2026-04-25T14:15:26+00:00
+scraped_at: 2026-05-01T06:52:17+00:00
 page_count_chars: 118842
 ---
 

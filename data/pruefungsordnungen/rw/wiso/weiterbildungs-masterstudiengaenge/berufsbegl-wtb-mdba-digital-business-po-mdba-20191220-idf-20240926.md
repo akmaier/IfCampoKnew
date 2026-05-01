@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl WTB MDBA Digital Business PO MDBA 20191220 i.d.F. 20240926.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Digital_Business/konsolidierte_Fassungen/berufsbegl_WTB_MDBA_Digital_Business_PO_MDBA_20191220_idF_20240926.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:37:25+00:00
+scraped_at: 2026-05-01T09:45:44+00:00
 page_count_chars: 70632
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Kulturgeschichte des Christentums FPO Zwei-Fach KdC 20071005 i.d.F. 20180709.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Theologie/Kulturgeschichte_des_Christentums/konsolidierte_Fassungen/2-Fach-BA_Kulturgeschichte_des_Christentums_FPO_Zwei-Fach_KdC_20071005_idF_20180709.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-04-25T15:31:42+00:00
+scraped_at: 2026-05-01T08:39:49+00:00
 page_count_chars: 11850
 ---
 

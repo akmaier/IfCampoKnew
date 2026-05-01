@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 09.10.2000 i.d.F. 07.07.2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/DPO_IntVWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-04-25T16:24:57+00:00
+scraped_at: 2026-05-01T09:32:27+00:00
 page_count_chars: 53418
 ---
 

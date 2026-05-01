@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Mittelalter und Frühe Neuzeit FPOMiFNZ 20240131.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Mittelalter_und_Fruehe_Neuzeit/konsolidierte_Fassungen/MA_Mittelalter_und_Fruehe_Neuzeit_FPOMiFNZ_20240131.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:27:12+00:00
+scraped_at: 2026-05-01T08:33:22+00:00
 page_count_chars: 44123
 ---
 

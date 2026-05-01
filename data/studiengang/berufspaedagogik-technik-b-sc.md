@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:09:29+00:00
+scraped_at: 2026-05-01T06:42:50+00:00
 ---
 
 # Berufspädagogik Technik (B.Sc.)

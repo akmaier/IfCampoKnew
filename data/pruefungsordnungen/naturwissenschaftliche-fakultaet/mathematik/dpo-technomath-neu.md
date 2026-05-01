@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 22.02.2000 i.d.F. 06.08.2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/DPO_Technomath_neu.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T15:01:32+00:00
+scraped_at: 2026-05-01T07:54:52+00:00
 page_count_chars: 40956
 ---
 

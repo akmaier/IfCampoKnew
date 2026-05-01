@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Mai 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/3AES%20LA-Mathematik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:28:22+00:00
+scraped_at: 2026-05-01T07:14:27+00:00
 page_count_chars: 2497
 ---
 

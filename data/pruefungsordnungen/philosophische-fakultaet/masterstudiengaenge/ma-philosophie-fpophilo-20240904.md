@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Philosophie FPOPhilo 20240904.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Philosophie/konsolidierte_Fassungen/MA_Philosophie_FPOPhilo_20240904.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:29:01+00:00
+scraped_at: 2026-05-01T08:36:13+00:00
 page_count_chars: 13817
 ---
 

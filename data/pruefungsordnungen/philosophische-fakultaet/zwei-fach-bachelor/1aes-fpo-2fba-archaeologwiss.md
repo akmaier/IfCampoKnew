@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "11. August 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES_FPO_2FBA_ArchaeologWiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:52:28+00:00
+scraped_at: 2026-05-01T08:53:53+00:00
 page_count_chars: 3416
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.05.2002 i.d.F. 20.08.2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/PO_Molecular-Science.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:47:00+00:00
+scraped_at: 2026-05-01T07:37:09+00:00
 page_count_chars: 37747
 ---
 

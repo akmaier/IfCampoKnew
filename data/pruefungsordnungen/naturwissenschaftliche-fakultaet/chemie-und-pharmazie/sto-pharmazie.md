@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 31.07.2002 i.d.F. 01.02.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/StO_Pharmazie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:47:11+00:00
+scraped_at: 2026-05-01T07:38:29+00:00
 page_count_chars: 18554
 ---
 

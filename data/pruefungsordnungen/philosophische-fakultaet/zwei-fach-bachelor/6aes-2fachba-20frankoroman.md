@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "8. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES-2FachBA%20Frankoroman.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:54:36+00:00
+scraped_at: 2026-05-01T08:57:15+00:00
 page_count_chars: 4371
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 01.04.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung-Tech%20Fak/LAPO%20-%20Sport_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:30:34+00:00
+scraped_at: 2026-05-01T07:18:22+00:00
 page_count_chars: 19655
 ---
 

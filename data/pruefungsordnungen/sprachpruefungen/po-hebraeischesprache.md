@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 17.03.1977"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/PO_hebraeischeSprache.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:42:17+00:00
+scraped_at: 2026-05-01T09:52:19+00:00
 page_count_chars: 9657
 ---
 

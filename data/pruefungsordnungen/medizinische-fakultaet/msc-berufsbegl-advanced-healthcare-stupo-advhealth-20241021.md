@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc berufsbegl. Advanced Healthcare StuPO AdvHealth 20241021.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Advanced_Healthcare/konsolidierte_Fassungen/MSc_berufsbegl._Advanced_Healthcare_StuPO_AdvHealth_20241021.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:31:17+00:00
+scraped_at: 2026-05-01T07:19:19+00:00
 page_count_chars: 80317
 ---
 

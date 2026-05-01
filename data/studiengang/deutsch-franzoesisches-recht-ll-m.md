@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-04-25T14:09:58+00:00
+scraped_at: 2026-05-01T06:44:05+00:00
 ---
 
 # Deutsch-Französisches Recht (LL.M.)

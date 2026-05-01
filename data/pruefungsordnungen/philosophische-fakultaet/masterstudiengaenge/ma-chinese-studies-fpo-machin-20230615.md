@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Chinese Studies FPO MAChin 20230615.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Chinese_Studies_with_an_optional_focus/konsolidierte_Fassungen/MA_Chinese Studies_FPO_MAChin_20230615.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:21:55+00:00
+scraped_at: 2026-05-01T08:25:01+00:00
 page_count_chars: 24253
 ---
 

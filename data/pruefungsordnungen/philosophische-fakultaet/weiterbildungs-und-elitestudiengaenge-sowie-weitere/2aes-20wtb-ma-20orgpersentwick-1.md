@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "11. August 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES%20WTB-MA%20OrgPersEntwick_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:40:27+00:00
+scraped_at: 2026-05-01T08:48:29+00:00
 page_count_chars: 11822
 ---
 

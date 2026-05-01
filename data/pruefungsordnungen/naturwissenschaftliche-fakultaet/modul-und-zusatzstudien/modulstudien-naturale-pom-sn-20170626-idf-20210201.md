@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Naturale POM-SN 20170626 i.d.F. 20210201.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Modulstudien/konsolidierte_Fassungen/Modulstudien_Naturale_POM-SN_20170626_idF_20210201.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/
-scraped_at: 2026-04-25T15:02:13+00:00
+scraped_at: 2026-05-01T07:55:33+00:00
 page_count_chars: 8933
 ---
 

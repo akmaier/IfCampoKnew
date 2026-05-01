@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Ein-Fach-BA Archäologische Wissenschaften FPO Archäol Wiss Ein-Fach 20240430.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Ein-Fach/Archaeologie/konsolidierte_Fassungen/Ein-Fach-BA_Archaeologische_Wissenschaften_FPO_Archaeol_Wiss_Ein-Fach_20240430.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:10:19+00:00
+scraped_at: 2026-05-01T08:05:51+00:00
 page_count_chars: 25683
 ---
 

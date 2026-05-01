@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Weiterbildungs- und Elitestudiengänge sowie weitere"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:52:14+00:00
+scraped_at: 2026-05-01T08:52:49+00:00
 ---
 
 # Weiterbildungs- und Elitestudiengänge sowie weitere

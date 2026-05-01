@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Logopädie StPO-Logo 20240926 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Logopaedie/Aenderungssatzungen/BSc_Logopaedie_StPO-Logo_20240926_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:32:24+00:00
+scraped_at: 2026-05-01T07:21:08+00:00
 page_count_chars: 11745
 ---
 

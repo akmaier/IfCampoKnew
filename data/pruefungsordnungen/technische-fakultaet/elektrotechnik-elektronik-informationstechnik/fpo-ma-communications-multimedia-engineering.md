@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.08.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-MA-Communications-Multimedia-Engineering.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-04-25T16:53:57+00:00
+scraped_at: 2026-05-01T10:05:58+00:00
 page_count_chars: 8686
 ---
 

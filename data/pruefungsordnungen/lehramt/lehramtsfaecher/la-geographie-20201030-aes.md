@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Geographie 20201030 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Geographie/Aenderungssatzungen/LA_Geographie_20201030_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:24:57+00:00
+scraped_at: 2026-05-01T07:08:42+00:00
 page_count_chars: 16459
 ---
 

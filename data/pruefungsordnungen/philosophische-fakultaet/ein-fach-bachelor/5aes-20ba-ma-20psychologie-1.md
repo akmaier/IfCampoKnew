@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "31. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES%20BA-MA%20Psychologie_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:12:59+00:00
+scraped_at: 2026-05-01T08:10:31+00:00
 page_count_chars: 11777
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl BA Sportwissenschaft BPOSport 20190503 ÄS zu 1ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Ein-Fach/Sportwissenschaft/Aenderungssatzungen/berufsbegl_BA_Sportwissenschaft_BPOSport_20190503_AeS_zu_1AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:13:46+00:00
+scraped_at: 2026-05-01T08:11:57+00:00
 page_count_chars: 3585
 ---
 

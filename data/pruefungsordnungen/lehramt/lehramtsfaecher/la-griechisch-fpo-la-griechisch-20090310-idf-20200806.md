@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Griechisch FPO LA Griechisch 20090310 i.d.F. 20200806.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Griechisch/konsolidierte_Fassungen/LA_Griechisch_FPO_LA_Griechisch_20090310_idF_20200806.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:25:41+00:00
+scraped_at: 2026-05-01T07:10:10+00:00
 page_count_chars: 9894
 ---
 

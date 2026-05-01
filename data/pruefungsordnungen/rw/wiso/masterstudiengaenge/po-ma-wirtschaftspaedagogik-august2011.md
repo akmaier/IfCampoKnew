@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 01.12.2009 i.d.F. 05.08.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-Wirtschaftspaedagogik-AUGUST2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:36:02+00:00
+scraped_at: 2026-05-01T09:43:49+00:00
 page_count_chars: 18323
 ---
 

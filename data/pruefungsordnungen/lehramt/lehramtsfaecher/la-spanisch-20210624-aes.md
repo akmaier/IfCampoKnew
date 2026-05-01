@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Spanisch 20210624 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Spanisch/Aenderungssatzungen/LA_Spanisch_20210624_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:30:00+00:00
+scraped_at: 2026-05-01T07:17:13+00:00
 page_count_chars: 15240
 ---
 

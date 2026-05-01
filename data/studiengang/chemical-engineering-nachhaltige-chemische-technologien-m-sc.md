@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "50-150"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:09:38+00:00
+scraped_at: 2026-05-01T06:43:13+00:00
 ---
 
 # Chemical Engineering - Nachhaltige Chemische Technologien (M.Sc.)

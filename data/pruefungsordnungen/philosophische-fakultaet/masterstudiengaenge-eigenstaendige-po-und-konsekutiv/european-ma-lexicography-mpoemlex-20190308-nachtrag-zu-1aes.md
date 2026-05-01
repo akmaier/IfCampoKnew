@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "European MA Lexicography  MPOEMLex 20190308 Nachtrag zu 1ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Lexicography/Aenderungssatzungen/European_MA_Lexicography _MPOEMLex_20190308_Nachtrag_zu_1AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-04-25T15:15:50+00:00
+scraped_at: 2026-05-01T08:14:43+00:00
 page_count_chars: 11888
 ---
 

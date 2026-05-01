@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Medical Process Management 20190806 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Medical_Process_Management/Aenderungssatzungen/MA_Medical_Process_Management_20190806_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:33:05+00:00
+scraped_at: 2026-05-01T07:22:28+00:00
 page_count_chars: 7845
 ---
 

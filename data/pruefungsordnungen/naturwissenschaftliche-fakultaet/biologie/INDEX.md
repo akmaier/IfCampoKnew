@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Biologie"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-04-25T14:43:56+00:00
+scraped_at: 2026-05-01T07:34:27+00:00
 ---
 
 # Biologie

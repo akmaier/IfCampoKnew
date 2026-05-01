@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 17.07.2009 i.d.F. 04.11.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-Arb.marktPersonal.November2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:28:56+00:00
+scraped_at: 2026-05-01T09:34:12+00:00
 page_count_chars: 7612
 ---
 

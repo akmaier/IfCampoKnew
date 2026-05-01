@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO LA DiDaZ 20200203.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/DaZ/konsolidierte_Fassungen/FPO_LA_DiDaZ_20200203.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:23:21+00:00
+scraped_at: 2026-05-01T07:05:30+00:00
 page_count_chars: 11816
 ---
 

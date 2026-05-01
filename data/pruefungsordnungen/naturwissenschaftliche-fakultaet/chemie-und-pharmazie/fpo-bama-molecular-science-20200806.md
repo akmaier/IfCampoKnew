@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BAMA Molecular Science 20200806.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Molecular_Science/konsolidierte_Fassungen/FPO_BAMA_Molecular_Science_20200806.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-04-25T14:44:55+00:00
+scraped_at: 2026-05-01T07:35:30+00:00
 page_count_chars: 33972
 ---
 

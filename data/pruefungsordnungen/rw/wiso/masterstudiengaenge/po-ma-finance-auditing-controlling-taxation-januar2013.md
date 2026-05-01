@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 20.07.2009 i.d.F. 09.01.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-Finance-Auditing-Controlling-Taxation-JANUAR2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:30:18+00:00
+scraped_at: 2026-05-01T09:36:15+00:00
 page_count_chars: 26247
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Archäologische Wissenschaften FPO Archäol Wiss Zwei-Fach 20140718 i.d.F. 20190220.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Archaeologie/konsolidierte_Fassungen/2-Fach-BA_Archaeologische_Wissenschaften_FPO_Archaeol_Wiss_Zwei-Fach_20140718_idF_20190220.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T15:52:21+00:00
+scraped_at: 2026-05-01T08:53:39+00:00
 page_count_chars: 19463
 ---
 

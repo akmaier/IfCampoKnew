@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Juni 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LAPO-EvangReligionslehre.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:24:07+00:00
+scraped_at: 2026-05-01T07:06:55+00:00
 page_count_chars: 7194
 ---
 

@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Logopädie StPO-Logo 20250930 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Logopaedie/Aenderungssatzungen/BSc_Logopaedie_StPO-Logo_20250930_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:32:24+00:00
-page_count_chars: 3354
+scraped_at: 2026-05-01T07:21:07+00:00
+page_count_chars: 3570
 ---
 
 # BSc Logopädie StPO-Logo 20250930 ÄS.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Med/Logopaedie/Aenderungssatzungen/BSc_Logopaedie_StPO-Logo_20250930_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Siebte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – StPO/Logo – Vom 30.September 2025** 
 
@@ -33,6 +37,10 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Me
    - a) In Zeile 11 (Modul 10; Aufbaumodul Praxis I) werden in Spalte 4 (SWS) Unterspalte 3 (P) Unterzeile 2 (Therapie + Ausbildungssupervision) die Zahl „6“ durch die Zahl „4“ und in Unterzeile 3 (Hospitationen) die Zahl „2“ durch die Zahl „1“ ersetzt. 
 
    - b) In Zeile 12 (Modul 11; Aufbaumodul Praxis II) wird in Spalte 4 (SWS) Unterspalte 3 (P) Unterzeile 1 (Therapie + Ausbildungssupervision) die Zahl „12“ durch die Zahl „4“ ersetzt. 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 - c) In Zeile 13 (Modul 12; Vertiefungsmodul Praxis I) werden in Spalte 4 (SWS) Unterspalte 3 (P) in Unterzeile 1 (Hospitationen) die Zahl „2“ durch die Zahl „1“ sowie in Unterzeile 2 (Therapie + Ausbildungssupervision) die Zahl „6“ durch die Zahl „4“ ersetzt. 
 

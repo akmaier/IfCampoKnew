@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Schriftmedienkultur und Digitale Transformation FPO M.A. SMK 20100608 i.d.F. 20230223.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Schriftmedienkultur_und_digitale_Transformation/konsolidierte_Fassungen/MA_Schriftmedienkultur und Digitale Transformation_FPO_M.A._SMK_20100608_idF_20230223.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:30:18+00:00
+scraped_at: 2026-05-01T08:38:22+00:00
 page_count_chars: 12031
 ---
 

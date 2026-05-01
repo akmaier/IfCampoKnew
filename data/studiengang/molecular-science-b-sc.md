@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:13:17+00:00
+scraped_at: 2026-05-01T06:49:15+00:00
 ---
 
 # Molecular Science (B.Sc.)
@@ -169,7 +169,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.chemie.nat.fau.de/)
 - [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/04/FAU_NATFAK_2025_FATHER-SUN_1047-scaled-1.jpg)
+- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/05/FAU_NATFAK_2025_FATHER-SUN_1047-scaled-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

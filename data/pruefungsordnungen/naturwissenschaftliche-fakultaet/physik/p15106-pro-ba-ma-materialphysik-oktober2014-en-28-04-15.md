@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 17th of October 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/pdf-englisch/P15106_PrO_BA_MA_Materialphysik_Oktober2014_en_28-04-15.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-04-25T15:04:06+00:00
+scraped_at: 2026-05-01T07:57:17+00:00
 page_count_chars: 84936
 ---
 

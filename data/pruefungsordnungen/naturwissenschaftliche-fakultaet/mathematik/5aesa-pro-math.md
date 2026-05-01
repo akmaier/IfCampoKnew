@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "4. November 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/5AeSa-PrO-Math.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:59:24+00:00
+scraped_at: 2026-05-01T07:54:19+00:00
 page_count_chars: 10471
 ---
 

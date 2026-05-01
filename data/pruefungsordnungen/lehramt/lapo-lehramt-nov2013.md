@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 23.02.2009 i.d.F. 22.11.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO_Lehramt.NOV2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/
-scraped_at: 2026-04-25T14:16:15+00:00
+scraped_at: 2026-05-01T06:53:48+00:00
 page_count_chars: 74251
 ---
 

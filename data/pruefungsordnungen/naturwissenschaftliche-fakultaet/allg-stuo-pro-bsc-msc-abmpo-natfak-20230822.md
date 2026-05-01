@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Allg StuO PrO BSc-MSc ABMPO-NatFak 20230822.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_NatFak/konsolidierte_Fassungen/Allg_StuO_PrO_BSc-MSc_ABMPO-NatFak_20230822.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/
-scraped_at: 2026-04-25T14:39:16+00:00
+scraped_at: 2026-05-01T07:29:11+00:00
 page_count_chars: 90748
 ---
 

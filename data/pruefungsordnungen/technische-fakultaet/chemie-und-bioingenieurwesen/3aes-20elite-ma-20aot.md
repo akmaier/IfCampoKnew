@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AES%20Elite-MA%20AOT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:47:46+00:00
+scraped_at: 2026-05-01T09:57:19+00:00
 page_count_chars: 1807
 ---
 

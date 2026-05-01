@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "> 600"
 besondere_studienformen: "1-Fach-Bachelor, Teilzeitstudium möglich, Verbundstudium/Duales Studium"
-scraped_at: 2026-04-25T14:11:18+00:00
+scraped_at: 2026-05-01T06:46:21+00:00
 ---
 
 # Informatik (B.Sc.)

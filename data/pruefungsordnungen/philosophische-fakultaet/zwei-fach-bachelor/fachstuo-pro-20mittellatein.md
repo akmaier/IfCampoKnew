@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Mittellatein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:00:37+00:00
+scraped_at: 2026-05-01T09:07:34+00:00
 page_count_chars: 6963
 ---
 

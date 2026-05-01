@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PO ZS Geow im LA 20180319.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20180319.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:51:16+00:00
+scraped_at: 2026-05-01T07:42:42+00:00
 page_count_chars: 8469
 ---
 

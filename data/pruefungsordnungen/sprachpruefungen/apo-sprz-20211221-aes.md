@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "APO SprZ 20211221 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachenzentrum/Aenderungssatzungen/APO_SprZ_20211221_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:41:02+00:00
+scraped_at: 2026-05-01T09:51:22+00:00
 page_count_chars: 6092
 ---
 

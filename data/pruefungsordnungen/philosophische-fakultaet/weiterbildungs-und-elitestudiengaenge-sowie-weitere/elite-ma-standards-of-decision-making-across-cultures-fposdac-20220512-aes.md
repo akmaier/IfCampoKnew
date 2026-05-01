@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Elite-MA Standards of Decision-Making Across Cultures FPOSDAC 20220512 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/Aenderungssatzungen/Elite-MA_Standards_of_Decision-Making_Across_Cultures_FPOSDAC_20220512_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:41:41+00:00
+scraped_at: 2026-05-01T08:49:58+00:00
 page_count_chars: 10832
 ---
 

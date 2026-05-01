@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot"
-scraped_at: 2026-04-25T14:09:26+00:00
+scraped_at: 2026-05-01T06:42:42+00:00
 ---
 
 # Autonomy Technologies (B.Sc.)

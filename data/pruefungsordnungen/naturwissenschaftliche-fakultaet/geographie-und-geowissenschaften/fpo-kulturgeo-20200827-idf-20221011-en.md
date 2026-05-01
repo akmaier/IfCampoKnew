@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO Kulturgeo 20200827 i.d.F. 20221011 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Kulturgeographie/englisch/FPO_Kulturgeo_20200827_idF_20221011_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:51:32+00:00
+scraped_at: 2026-05-01T07:43:10+00:00
 page_count_chars: 56384
 ---
 

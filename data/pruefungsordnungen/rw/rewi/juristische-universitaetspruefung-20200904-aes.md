@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Juristische Universitätsprüfung 20200904 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Juristische_Universitaetspruefung/Aenderungssatzungen/Juristische_Universitaetspruefung_20200904_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:07:44+00:00
+scraped_at: 2026-05-01T09:16:58+00:00
 page_count_chars: 4117
 ---
 

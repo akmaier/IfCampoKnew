@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "PO Zusatzstudien Inklusion 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Inklusion/konsolidierte_Fassungen/PO_Zusatzstudien_Inklusion_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-04-25T15:31:27+00:00
-page_count_chars: 10515
+scraped_at: 2026-05-01T08:39:44+00:00
+page_count_chars: 10947
 ---
 
 # PO Zusatzstudien Inklusion 20260305.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Inklusion/konsolidierte_Fassungen/PO_Zusatzstudien_Inklusion_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Studien- und Prüfungsordnung für die Zusatzstudien „Inklusion: Vielfalt und Teilhabe im schulischen Kontext gestalten“ an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – PO ZS Inklusion – Vom 5. März 2026** 
 
@@ -33,6 +37,10 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 77 Abs. 5, Art. 80 Abs. 1 Satz 1, Art. 
 (2)[1] Die Regelstudienzeit beträgt vier Semester und darf um maximal zwei Semester überschritten werden.[2] Die Aufnahme der Zusatzstudien wird frühestens ab dem dritten Fachsemester des Lehramtsstudiums nach § 3 empfohlen.[3] Der Umfang der im Rahmen der Zusatzstudien angebotenen Module richtet sich nach der **Anlage** .[4] Zum 
 
 1 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 erfolgreichen Bestehen der Zusatzstudien sind Module im Umfang von 15 ECTSPunkten nachzuweisen. 
 
@@ -64,6 +72,10 @@ erfolgreichen Bestehen der Zusatzstudien sind Module im Umfang von 15 ECTSPunkte
 
 2 
 
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
 (4) 1Bei der Hospitation im inklusiven Unterricht für das Modul „Inklusive Praxiserfahrungen“ erkennen die Studierenden verschiedene Herangehensweisen an die Aufgaben der Unterrichtsgestaltung und -durchführung unter Berücksichtigung der schulischen Rahmenbedingungen und entwickeln ein Konzept zur Kooperation mit anderen pädagogischen Fachkräften als Unterstützungssystem.[2] Die so erworbene Qualifikation sensibilisiert für die Bedeutung der Inklusion in Gesellschaft, Kultur und Wissenschaft. 
 
 (5)[ 1] Beteiligte Studienfächer in den Zusatzstudien sind jene des Departments Pädagogik und des Departments der Fachdidaktiken aller Lehramtsstudiengänge bzw. Module, die in der Verantwortung der Mitglieder des „Arbeitskreises Inklusion für Bildungskontexte“ liegen.[2] Die übergeordneten Qualifikationsziele der drei Module der Zusatzstudien ergeben sich aus den Abs. 2 bis 4.[3] Die spezifischen Qualifikationsziele und Prüfungsgegenstände sind abhängig von der innerhalb des jeweiligen Moduls jeweils gewählten Lehrveranstaltung und sind der jeweiligen Beschreibung zu entnehmen.[4] Näheres regelt das Modulhandbuch der Zusatzstudien „Inklusion: Vielfalt und Teilhabe im schulischen Kontext gestalten“. 
@@ -85,6 +97,10 @@ erfolgreichen Bestehen der Zusatzstudien sind Module im Umfang von 15 ECTSPunkte
 (2)[1] Diese Studien- und Prüfungsordnung tritt mit Ablauf des Sommersemesters 2030 außer Kraft.[2] Die Zusatzstudien nach dieser Studien- und Prüfungsordnung sind rechtzeitig vor Außerkrafttreten dieser Studien- und Prüfungsordnung im Hinblick auf deren Fortführung durch die Philosophische Fakultät und Fachbereich Theologie zu evaluieren. 
 
 3 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Anlage: Studienverlaufsplan Zusatzstudien „Inklusion: Vielfalt und Teilhabe im schulischen Kontext gestalten“** 
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "22. November 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AES_LAPO_Allgemein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/
-scraped_at: 2026-04-25T14:16:11+00:00
+scraped_at: 2026-05-01T06:53:40+00:00
 page_count_chars: 6409
 ---
 

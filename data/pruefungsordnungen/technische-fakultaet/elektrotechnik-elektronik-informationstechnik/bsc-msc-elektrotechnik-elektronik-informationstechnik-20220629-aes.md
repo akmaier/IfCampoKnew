@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Elektrotechnik-Elektronik-Informationstechnik 20220629 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Elektrotechnik_Elektronik_und_Informationstechnik/Aenderungssatzungen/BSc-MSc_Elektrotechnik-Elektronik-Informationstechnik_20220629_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-04-25T16:55:10+00:00
+scraped_at: 2026-05-01T10:06:44+00:00
 page_count_chars: 5190
 ---
 

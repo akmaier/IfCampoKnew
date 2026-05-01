@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES%20Allg%20PrO%20BA%20MA%20TechFak_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-04-25T16:44:08+00:00
+scraped_at: 2026-05-01T09:54:54+00:00
 page_count_chars: 6300
 ---
 

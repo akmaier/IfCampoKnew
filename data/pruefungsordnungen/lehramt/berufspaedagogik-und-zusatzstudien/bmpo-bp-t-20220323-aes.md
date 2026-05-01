@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BMPO BP-T 20220323 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20220323_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-04-25T14:18:16+00:00
+scraped_at: 2026-05-01T06:56:38+00:00
 page_count_chars: 14023
 ---
 

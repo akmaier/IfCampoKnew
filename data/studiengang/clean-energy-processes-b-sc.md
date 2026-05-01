@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot"
-scraped_at: 2026-04-25T14:09:46+00:00
+scraped_at: 2026-05-01T06:43:34+00:00
 ---
 
 # Clean Energy Processes (B.Sc.)

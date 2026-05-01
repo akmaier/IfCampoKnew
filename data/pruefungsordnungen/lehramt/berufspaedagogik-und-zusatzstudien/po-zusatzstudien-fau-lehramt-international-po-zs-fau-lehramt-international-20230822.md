@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PO Zusatzstudien FAU Lehramt International PO ZS FAU Lehramt International 20230822.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Lehramt_International/konsolidierte_Fassungen/PO_Zusatzstudien_FAU_Lehramt_International_PO_ZS_FAU_Lehramt_International_20230822.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-04-25T14:19:28+00:00
+scraped_at: 2026-05-01T06:58:49+00:00
 page_count_chars: 8836
 ---
 

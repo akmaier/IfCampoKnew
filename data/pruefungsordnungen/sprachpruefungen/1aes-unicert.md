@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Oktober 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES-UNIcert.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-04-25T16:41:07+00:00
+scraped_at: 2026-05-01T09:51:30+00:00
 page_count_chars: 1561
 ---
 

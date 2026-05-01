@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:12:53+00:00
+scraped_at: 2026-05-01T06:48:40+00:00
 ---
 
 # Mechatronik (B.Sc.)

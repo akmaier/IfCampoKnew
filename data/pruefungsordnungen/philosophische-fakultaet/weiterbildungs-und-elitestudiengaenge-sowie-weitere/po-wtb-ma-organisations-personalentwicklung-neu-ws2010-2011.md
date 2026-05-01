@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.07.2006 i.d.F. 11.08.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_WTB-MA-Organisations-Personalentwicklung-NEU-WS2010-2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:40:29+00:00
+scraped_at: 2026-05-01T08:48:33+00:00
 page_count_chars: 36914
 ---
 

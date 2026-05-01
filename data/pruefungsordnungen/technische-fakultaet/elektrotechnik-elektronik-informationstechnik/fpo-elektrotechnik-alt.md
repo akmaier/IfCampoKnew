@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 23.03.1987 i.d.F. 14.05.1996"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO_Elektrotechnik_ALT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-04-25T16:54:00+00:00
+scraped_at: 2026-05-01T10:06:00+00:00
 page_count_chars: 17803
 ---
 

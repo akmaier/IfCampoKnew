@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOSozialökonomik 20090902 i.d.F. 20191203.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/konsolidierte_Fassungen/FPOSozialoekonomik_20090902_idF_20191203.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-04-25T16:34:37+00:00
+scraped_at: 2026-05-01T09:41:55+00:00
 page_count_chars: 21960
 ---
 

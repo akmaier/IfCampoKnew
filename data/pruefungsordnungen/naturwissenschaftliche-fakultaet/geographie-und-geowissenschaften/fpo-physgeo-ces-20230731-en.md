@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO PhysGeo CES 20230731 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Physische_Geographie/englisch/FPO_PhysGeo_CES_20230731_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:52:34+00:00
+scraped_at: 2026-05-01T07:44:57+00:00
 page_count_chars: 40189
 ---
 

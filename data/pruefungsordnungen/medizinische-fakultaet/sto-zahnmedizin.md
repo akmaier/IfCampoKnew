@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 12.05.1998 i.d.F. 15.11.2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/StO_Zahnmedizin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:38:42+00:00
+scraped_at: 2026-05-01T07:28:45+00:00
 page_count_chars: 21998
 ---
 

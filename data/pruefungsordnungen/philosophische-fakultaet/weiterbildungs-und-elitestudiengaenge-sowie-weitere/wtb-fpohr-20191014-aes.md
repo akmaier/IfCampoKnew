@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "wtb FPOHR 20191014 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20191014_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-04-25T15:39:06+00:00
+scraped_at: 2026-05-01T08:46:45+00:00
 page_count_chars: 19198
 ---
 

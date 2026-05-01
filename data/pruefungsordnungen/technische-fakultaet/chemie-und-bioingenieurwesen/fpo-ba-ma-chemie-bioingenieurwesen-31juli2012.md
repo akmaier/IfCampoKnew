@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.12.2008 i.d.F. 31.07.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA-Chemie-Bioingenieurwesen-31JULI2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:48:50+00:00
+scraped_at: 2026-05-01T09:59:13+00:00
 page_count_chars: 20201
 ---
 

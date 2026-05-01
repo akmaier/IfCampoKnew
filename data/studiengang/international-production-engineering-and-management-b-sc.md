@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-04-25T14:11:39+00:00
+scraped_at: 2026-05-01T06:46:53+00:00
 ---
 
 # International Production Engineering and Management (B.Sc.)

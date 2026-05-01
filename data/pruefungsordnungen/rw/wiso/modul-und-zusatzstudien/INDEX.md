@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Modul- und Zusatzstudien"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/modul-und-zusatzstudien/
-scraped_at: 2026-04-25T16:36:13+00:00
+scraped_at: 2026-05-01T09:44:04+00:00
 ---
 
 # Modul- und Zusatzstudien

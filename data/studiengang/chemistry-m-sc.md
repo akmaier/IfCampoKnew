@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "50-150"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-04-25T14:09:43+00:00
+scraped_at: 2026-05-01T06:43:26+00:00
 ---
 
 # Chemistry (M.Sc.)

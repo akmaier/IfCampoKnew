@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Fachbereich Rechtswissenschaft"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-04-25T16:10:31+00:00
+scraped_at: 2026-05-01T09:19:36+00:00
 ---
 
 # Fachbereich Rechtswissenschaft

@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Mathematik"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T15:02:04+00:00
+scraped_at: 2026-05-01T07:55:17+00:00
 ---
 
 # Mathematik

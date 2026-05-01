@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Oktober 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/10AeSa-PrO-Wirtschinf.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-04-25T16:22:19+00:00
+scraped_at: 2026-05-01T09:31:34+00:00
 page_count_chars: 10970
 ---
 

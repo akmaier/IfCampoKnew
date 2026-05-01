@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Ein-Fach-BA Soziologie FPOSoz Ein-Fach 20190806 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Ein-Fach/Soziologie/Aenderungssatzungen/Ein-Fach-BA_Soziologie_FPOSoz_Ein-Fach_20190806_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:13:32+00:00
+scraped_at: 2026-05-01T08:11:34+00:00
 page_count_chars: 19417
 ---
 

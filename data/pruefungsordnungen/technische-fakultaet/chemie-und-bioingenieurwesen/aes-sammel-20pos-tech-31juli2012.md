@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "31. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/AES-Sammel%20POs-Tech-31JULI2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-04-25T16:51:48+00:00
+scraped_at: 2026-05-01T10:03:13+00:00
 page_count_chars: 22759
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Juli 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES_WTB_MarketingManagement.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:39:53+00:00
+scraped_at: 2026-05-01T09:49:52+00:00
 page_count_chars: 46009
 ---
 

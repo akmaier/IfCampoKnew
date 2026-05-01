@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 27th of February 2017"
 pdf_source: http://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/pdf-englisch/FPO_BA_MA_Technomathematik_FPOTechnoMathe_20150311_idF_20170227_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-04-25T14:57:37+00:00
+scraped_at: 2026-05-01T07:51:42+00:00
 page_count_chars: 57644
 ---
 

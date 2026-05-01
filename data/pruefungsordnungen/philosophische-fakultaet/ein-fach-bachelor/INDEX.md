@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Ein-Fach-Bachelor"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-04-25T15:13:54+00:00
+scraped_at: 2026-05-01T08:12:11+00:00
 ---
 
 # Ein-Fach-Bachelor

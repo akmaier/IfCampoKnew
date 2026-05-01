@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 30.06.2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/ReWi-Urfassung/FB%20WiWi/PrO-WTB-BusinessManag-2003.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-04-25T16:37:21+00:00
+scraped_at: 2026-05-01T09:45:38+00:00
 page_count_chars: 16444
 ---
 

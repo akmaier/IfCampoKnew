@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "23. Februar 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AeSa_MA_Geschichte.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:25:09+00:00
+scraped_at: 2026-05-01T08:30:05+00:00
 page_count_chars: 16286
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:36:11+00:00
+scraped_at: 2026-05-01T07:25:50+00:00
 page_count_chars: 102237
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 01.10.2007 i.d.F. 05.08.2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/PrO-BA-MA_Geowissenschaften.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-04-25T14:51:10+00:00
+scraped_at: 2026-05-01T07:42:32+00:00
 page_count_chars: 60310
 ---
 

@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "29. September 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/2AES%20BA-MA%20MolekMed.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-04-25T14:37:13+00:00
+scraped_at: 2026-05-01T07:27:26+00:00
 page_count_chars: 9379
 ---
 

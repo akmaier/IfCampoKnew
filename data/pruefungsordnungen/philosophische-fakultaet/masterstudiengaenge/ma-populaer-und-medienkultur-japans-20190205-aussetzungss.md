@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Populär- und Medienkultur Japans 20190205 AussetzungsS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Populaer-_und_Medienkultur_Japans/Aenderungssatzungen/MA_Populaer-_und_Medienkultur_Japans_20190205_AussetzungsS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:29:43+00:00
+scraped_at: 2026-05-01T08:37:21+00:00
 page_count_chars: 1233
 ---
 

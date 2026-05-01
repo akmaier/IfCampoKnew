@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "250-600"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:09:25+00:00
+scraped_at: 2026-05-01T06:42:39+00:00
 ---
 
 # Artificial Intelligence (M.Sc.)

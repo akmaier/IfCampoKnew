@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Imperien und Transkontinentale Räume Aufhebung FPOITR .pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Imperien_und_Transkontinentale_Raeume/konsolidierte_Fassungen/Imperien_und_Transkontinentale_Raeume_Aufhebung FPOITR_.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-04-25T15:25:14+00:00
+scraped_at: 2026-05-01T08:30:13+00:00
 page_count_chars: 2562
 ---
 

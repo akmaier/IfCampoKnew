@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Geschichte FPO LA Geschichte 20090310 i.d.F. 20180911.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Geschichte/konsolidierte_Fassungen/LA_Geschichte_FPO_LA_Geschichte_20090310_idF_20180911.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-04-25T14:25:26+00:00
+scraped_at: 2026-05-01T07:09:41+00:00
 page_count_chars: 35949
 ---
 

@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-04-25T14:13:57+00:00
+scraped_at: 2026-05-01T06:50:11+00:00
 ---
 
 # Physik (B.Sc.)

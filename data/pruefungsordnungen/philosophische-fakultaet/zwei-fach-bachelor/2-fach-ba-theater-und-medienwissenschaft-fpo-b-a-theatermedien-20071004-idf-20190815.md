@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Theater- und Medienwissenschaft FPO B.A. Theatermedien 20071004 i.d.F. 20190815.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Theater-_und_Medienwissenschaft/konsolidierte_Fassungen/2-Fach-BA_Theater-_und_Medienwissenschaft_FPO_B.A._Theatermedien_20071004_idF_20190815.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-04-25T16:05:14+00:00
+scraped_at: 2026-05-01T09:14:43+00:00
 page_count_chars: 16012
 ---
 

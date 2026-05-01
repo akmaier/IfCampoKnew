@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:10:14+00:00
+scraped_at: 2026-05-01T06:44:45+00:00
 ---
 
 # English and American Studies (B.A.)
@@ -92,7 +92,7 @@ Da sich Anglistinnen und Anglisten meist sicher im Ausland bewegen und gut kommu
 * [Archäologische Wissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/archaeologische-wissenschaften-ba/)
 * [Archäologische Wissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/archaeologische-wissenschaften-ma/)
 * [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
+* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Frankoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/frankoromanistik-ba/)
 * [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
@@ -190,7 +190,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Archäologische Wissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/archaeologische-wissenschaften-ba/)
 - [Archäologische Wissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/archaeologische-wissenschaften-ma/)
 - [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
+- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Frankoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/frankoromanistik-ba/)
 - [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)

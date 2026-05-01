@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 16.07.2009 i.d.F. 26.07.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-WiWi-JULI2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-04-25T16:13:33+00:00
+scraped_at: 2026-05-01T09:24:36+00:00
 page_count_chars: 57029
 ---
 

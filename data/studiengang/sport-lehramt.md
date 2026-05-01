@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-scraped_at: 2026-04-25T14:14:35+00:00
+scraped_at: 2026-05-01T06:51:00+00:00
 ---
 
 # Sport (Lehramt)

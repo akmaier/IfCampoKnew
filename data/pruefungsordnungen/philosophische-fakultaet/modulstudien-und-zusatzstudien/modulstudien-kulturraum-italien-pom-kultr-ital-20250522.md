@@ -3,14 +3,18 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Kulturraum Italien POM KultR-Ital 20250522.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM_KultR-Ital_20250522.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-04-25T15:31:08+00:00
-page_count_chars: 3828
+scraped_at: 2026-05-01T08:39:24+00:00
+page_count_chars: 4054
 ---
 
 # Modulstudien Kulturraum Italien POM KultR-Ital 20250522.pdf
 
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM_KultR-Ital_20250522.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/>
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 ## **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** Vom 22. Mai 2025 
 
@@ -28,7 +32,13 @@ Die Studien- und Prüfungsordnung für die Modulstudien „Kulturraum Italien �
 
 3. In § 2 Abs. 1 Satz 1 wird nach den Worten „zum Sommersemester“ das Wort „und“ durch die Worte „oder zum“ ersetzt. 
 
-`1` 
+```
+1
+```
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
 
 4. In § 8 Satz 1 werden nach den Worten „welches die erfolgreich“ die Worte „abgelegten Modulprüfungen“ durch die Worte „absolvierten Module“ ersetzt. 
 
@@ -56,5 +66,7 @@ Diese Satzung wurde am 22. Mai 2025 digital auf der Internetseite https://www.fa
 
 Tag der Bekanntmachung ist daher der 22. Mai 2025 
 
-`2` 
+```
+2
+```
 

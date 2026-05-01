@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Berufspädagogik POMBPäd 20240807.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Modul-Zusatzstudien/Berufspaedagogik/konsolidierte_Fassungen/Modulstudien_Berufspaedagogik_POMBPaed_20240807.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/modul-und-zusatzstudien/
-scraped_at: 2026-04-25T16:36:13+00:00
+scraped_at: 2026-05-01T09:44:04+00:00
 page_count_chars: 8312
 ---
 
