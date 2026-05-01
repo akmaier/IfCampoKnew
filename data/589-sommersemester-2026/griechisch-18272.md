@@ -31,6 +31,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - [26. Oktober 2012](../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-la-griechisch-1.md)
 - [27. September 2013](../pruefungsordnungen/lehramt/lehramtsfaecher/2aes-la-griechisch.md)
 - [23. Juli 2014](../pruefungsordnungen/lehramt/lehramtsfaecher/3aes-la-griechisch.md)
+- [2. April 2015](../pruefungsordnungen/lehramt/lehramtsfaecher/4aes-la-griechisch.md)
 - [LA Griechisch 20200806 ÄS.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-griechisch-20200806-aes.md)
 - [LA Griechisch FPO LA Griechisch 20090310 i.d.F. 20200806.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-griechisch-fpo-la-griechisch-20090310-idf-20200806.md)
 - [pdf vom 10.03.2009 i.d.F. 02.04.2015](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-griechisch-april2015.md)

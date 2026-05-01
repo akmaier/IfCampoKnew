@@ -211,6 +211,7 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mi | 16:00–18:00 | 15.04.2026 | — |
+| Einzeltermin | Di | 16:00–17:30 | 12.05.2026 | — |
 | Einzeltermin | Di | 16:00–18:00 | 09.06.2026 | — |
 | Blockveranstaltung | — | 10:00–16:00 | 16.06.2026–17.06.2026 | Field site close to Metropolitan Area N-ER-FÜ |
 

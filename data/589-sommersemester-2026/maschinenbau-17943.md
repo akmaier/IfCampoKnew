@@ -190,7 +190,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.department.mb.tf.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Maschinenbau-BSc-FAU_Tech_FATHERSUN_612-scaled-1.jpg)
+- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Maschinenbau-BSc-FAU_Tech_FATHERSUN_612-scaled-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
@@ -361,23 +361,53 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Campo-Segment:** `exam:14600408`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17943|exam:14600408>
+- **Passende PO-PDFs (FAU.de):**
+  - [BSc-MSc Elektromobilität ACES FPO ACES 20220406 en.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/bsc-msc-elektromobilitaet-aces-fpo-aces-20220406-en.md)
+  - [FPO ACES 20220406.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-aces-20220406.md)
+  - [FPO BMMB 20220726 i.d.F. 20250227.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-bmmb-20220726-idf-20250227.md)
+  - [FPO BMMB 20220726.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-bmmb-20220726.md)
+  - [FPOIP 20100714 i.d.F. 20220808.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpoip-20100714-idf-20220808.md)
+  - [FPOIP 20220323 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpoip-20220323-aes.md)
+  - [FPOIP 20220808 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpoip-20220808-aes.md)
 
 ### Master of Science Maschinenbau Hauptfach PO-Version 2007
 
 - **Campo-Segment:** `exam:14604143`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17943|exam:14604143>
+- **Passende PO-PDFs (FAU.de):**
+  - [BA-MA FPOWING 20070925 i.d.F. 20180515.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/ba-ma-fpowing-20070925-idf-20180515.md)
+  - [BA-MA FPOWING 20070925 i.d.F. 20190815.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/ba-ma-fpowing-20070925-idf-20190815.md)
 
 ### Master of Science Maschinenbau Hauptfach PO-Version 20222
 
 - **Campo-Segment:** `exam:14610978`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17943|exam:14610978>
+- **Passende PO-PDFs (FAU.de):**
+  - [BSc-MSc Elektromobilität ACES FPO ACES 20220406 en.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/bsc-msc-elektromobilitaet-aces-fpo-aces-20220406-en.md)
+  - [FPO ACES 20220406.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-aces-20220406.md)
+  - [FPO BMMB 20220726 i.d.F. 20250227.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-bmmb-20220726-idf-20250227.md)
+  - [FPO BMMB 20220726.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-bmmb-20220726.md)
+  - [FPOIP 20100714 i.d.F. 20220808.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpoip-20100714-idf-20220808.md)
+  - [FPOIP 20220323 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpoip-20220323-aes.md)
+  - [FPOIP 20220808 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpoip-20220808-aes.md)
 
 ### Master of Science Maschinenbau International Production Engineering and Management Hauptfach PO-Version 2013
 
 - **Campo-Segment:** `exam:14616949`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17943|exam:14616949>
+- **Passende PO-PDFs (FAU.de):**
+  - [PDF vom 24.09.2007 i.d.F. 07.10.2013](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-maschinenbau-okt2013.md)
+  - [PDF vom 25.09.2007 i.d.F. 07.10.2013](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-oktober2013.md)
 
 ### Master of Science Maschinenbau International Production Engineering and Management Hauptfach PO-Version 20222
 
 - **Campo-Segment:** `exam:14621963`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17943|exam:14621963>
+- **Passende PO-PDFs (FAU.de):**
+  - [BSc-MSc Elektromobilität ACES FPO ACES 20220406 en.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/bsc-msc-elektromobilitaet-aces-fpo-aces-20220406-en.md)
+  - [FPO ACES 20220406.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-aces-20220406.md)
+  - [FPO BMMB 20220726 i.d.F. 20250227.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-bmmb-20220726-idf-20250227.md)
+  - [FPO BMMB 20220726.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-bmmb-20220726.md)
+  - [FPOIP 20100714 i.d.F. 20220808.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpoip-20100714-idf-20220808.md)
+  - [FPOIP 20220323 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpoip-20220323-aes.md)
+  - [FPOIP 20220808 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpoip-20220808-aes.md)

@@ -312,7 +312,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 20.04.2026 25.05.2026 | 54 |
+| — | wöchentlich | — | 20.04.2026 27.04.2026 04.05.2026 25.05.2026 | 54 |
 
 ### FKDYN - Festkörperthermodynamik - Vorlesung
 

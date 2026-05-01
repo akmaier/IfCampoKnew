@@ -582,7 +582,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
+| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
 ### VL PS_SU_SSE - Einführungsmodul GSD: Grundlagen der Grundschuldidaktik - Sachunterricht und Schriftspracherwerb  - Vorlesung
 

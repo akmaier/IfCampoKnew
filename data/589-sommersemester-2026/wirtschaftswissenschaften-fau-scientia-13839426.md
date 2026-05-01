@@ -413,7 +413,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 15:00–16:30 | 15.04.2026–15.07.2026 | — |
+| — | wöchentlich | — | — | — |
 
 ### Ma-Vorl: International Trade & Labor - Vorlesung
 
@@ -490,7 +490,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 15:00–16:30 | 28.04.2026 | — |
 | Einzeltermin | Do | 13:15–14:45 | 30.04.2026 | — |
 | Einzeltermin | Do | 15:00–18:00 | 25.06.2026 | — |
+| Einzeltermin | Fr | 08:00–08:59 | 26.06.2026 | — |
 | Einzeltermin | Fr | 09:00–18:00 | 26.06.2026 | — |
+| Einzeltermin | Fr | 18:01–20:00 | 26.06.2026 | — |
 | Einzeltermin | Sa | 09:00–18:00 | 27.06.2026 | — |
 
 ### Seminar zur Gesundheitsökonomik / Seminar in Health Economics - Seminar

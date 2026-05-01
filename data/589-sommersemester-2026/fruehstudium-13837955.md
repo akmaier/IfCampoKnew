@@ -1530,8 +1530,9 @@ _Section: Frühstudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 | Einzeltermin | Mo | 15:00–15:45 | 13.04.2026 | — |
+| Einzeltermin | Mo | 16:00–18:00 | 04.05.2026 | — |
+| Einzeltermin | Di | 14:00–16:30 | 16.06.2026 | Ort: Handschriftenabteilung (Alte UB) |
 
 ### Modul 74411 Übung - Übung im Lesen und Beschreiben mittelalterlicher und frühneuzeitlicher Schriftformen (Paläographie II) [Übung] - Übung
 

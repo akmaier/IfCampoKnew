@@ -349,6 +349,7 @@ _Section: FAU Scientia Gaststudium_
 | — | wöchentlich | — | 26.05.2026 | 20 |
 | — | wöchentlich | — | — | 20 |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | 20 |
+| — | Einzeltermin | — | — | 20 |
 
 ### MT2-TUE - Medizintechnik II Tafelübung - Übung
 

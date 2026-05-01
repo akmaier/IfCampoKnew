@@ -455,7 +455,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://cs.fau.de)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Robert Kneschke - stock.adobe.co](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Informatik-MSc-AdobeStock-scaled-1.jpeg)
+- [Robert Kneschke - stock.adobe.co](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Informatik-MSc-AdobeStock-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
@@ -799,6 +799,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | 14-täglich | — | 26.05.2026 | 10 |
+| — | dreiwöchentlich | — | — | 10 |
 
 ### DPUI - Kolloquium Data Processing for Utility Infrastructure - Kolloquium
 

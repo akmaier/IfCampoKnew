@@ -467,28 +467,69 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Campo-Segment:** `exam:14682422`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17942|exam:14682422>
+- **Passende PO-PDFs (FAU.de):**
+  - [FPOME 20070925 i.d.F. 20200909.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpome-20070925-idf-20200909.md)
+  - [FPOME 20200909 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpome-20200909-aes.md)
 
 ### Bachelor of Science Elektrotechnik - Elektronik und Informationstechnik Hauptfach PO-Version 20172
 
 - **Campo-Segment:** `exam:14673259`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17942|exam:14673259>
+- **Passende PO-PDFs (FAU.de):**
+  - [PDF vom 20.09.2007 i.d.F. 03.07.2017](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-eei-juli2017.md)
 
 ### Bachelor of Science Elektrotechnik - Elektronik und Informationstechnik Hauptfach PO-Version 20192
 
 - **Campo-Segment:** `exam:14663326`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17942|exam:14663326>
+- **Passende PO-PDFs (FAU.de):**
+  - [BA-Informations-Kommunikationstechnik MA Information-Communication-Technology FPOIuK ICT 20190306 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-informations-kommunikationstechnik-ma-information-communication-technology-fpoiuk-ict-20190306-ae.md)
+  - [BA-MA Elektrotechnik-Elektronik-Informationstechnik 20190809 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-ma-elektrotechnik-elektronik-informationstechnik-20190809-aes.md)
+  - [BA-MA Elektrotechnik, Elektronik und Informationstechnik FPOEEI 20070920 i.d.F. 20190809.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-ma-elektrotechnik-elektronik-und-informationstechnik-fpoeei-20070920-idf-20190809.md)
+  - [Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20160229 i.d.F. 20190222 en.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20190222-en.md)
+  - [Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20160229 i.d.F. 20190222.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20190222.md)
+  - [Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20190222 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20190222-aes.md)
 
 ### Bachelor of Science Elektrotechnik - Elektronik und Informationstechnik Hauptfach PO-Version 20232
 
 - **Campo-Segment:** `exam:14653766`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17942|exam:14653766>
+- **Passende PO-PDFs (FAU.de):**
+  - [BA-Informations-Kommunikationstechnik MA Information-Communication Technology  FPOIuK ICT 20230426 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-informations-kommunikationstechnik-ma-information-communication-technology-fpoiuk-ict-20230426-ae.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 en.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-en.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20240430 en.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20240430-en.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20240430.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20240430.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20241219 en.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20241219-en.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20241219.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20241219.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426.md)
+  - [BSc-MSc Elektrotechnik, Elektronik und Informationstechnik FPOEEI i.d.F. 20230713.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-elektrotechnik-elektronik-und-informationstechnik-fpoeei-idf-20230713.md)
+  - [FPOCME 20230822 en.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20230822-en.md)
+  - [FPOCME 20230822.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20230822.md)
 
 ### Master of Science Elektrotechnik - Elektronik und Informationstechnik Hauptfach PO-Version 20151
 
 - **Campo-Segment:** `exam:14668397`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17942|exam:14668397>
+- **Passende PO-PDFs (FAU.de):**
+  - [PDF vom 20.09.2007 i.d.F. 01.12.2015](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-eei-dez2015.md)
+  - [PDF vom 20.09.2007 i.d.F. 04.02.2015](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-eei-feb2015.md)
+  - [PDF vom 21.09.2007 i.d.F. 01.12.2015](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-dezember2015.md)
+  - [PDF vom 21.09.2007 i.d.F. 20.02.2015](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-februar2015.md)
+  - [PDF 11th August 2015](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ma-communications-multimedia-engineering-aug2015-en.md)
+  - [PDF vom 05.08.2011 i.d.F. 11.08.2015](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ma-communications-multimedia-engineering-aug2015.md)
 
 ### Master of Science Elektrotechnik - Elektronik und Informationstechnik Hauptfach PO-Version 20232
 
 - **Campo-Segment:** `exam:14658653`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17942|exam:14658653>
+- **Passende PO-PDFs (FAU.de):**
+  - [BA-Informations-Kommunikationstechnik MA Information-Communication Technology  FPOIuK ICT 20230426 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-informations-kommunikationstechnik-ma-information-communication-technology-fpoiuk-ict-20230426-ae.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 en.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-en.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20240430 en.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20240430-en.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20240430.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20240430.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20241219 en.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20241219-en.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20241219.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20241219.md)
+  - [BSc-MSc Autonomy Technologies FPO AT 20230426.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426.md)
+  - [BSc-MSc Elektrotechnik, Elektronik und Informationstechnik FPOEEI i.d.F. 20230713.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-elektrotechnik-elektronik-und-informationstechnik-fpoeei-idf-20230713.md)
+  - [FPOCME 20230822 en.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20230822-en.md)
+  - [FPOCME 20230822.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20230822.md)
