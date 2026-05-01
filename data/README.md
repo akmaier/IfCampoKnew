@@ -65,13 +65,22 @@ Course events carry `unit_id` instead. They appear inside program files as
 ├── studiengang/                       ← FAU.de Studiengang pages (raw, also inlined above)
 │   ├── INDEX.md
 │   └── {slug}.md
-├── personen/                          ← aggregate of every Campo Lehrende
-│   └── INDEX.md                       ← {N} unique person-strings × their courses
+├── personen/                          ← Personen-Korpus (Lehrende + Professor:innen)
+│   ├── INDEX.md                       ← Campo Lehrende — {N} unique strings × courses
+│   ├── faudir-INDEX.md                ← FAUdir Professor:innen — Übersicht + Rang-Stat
+│   └── faudir-{Aaa_Bbb}.md            ← FAUdir Personen-Chunks (alphabetisch, ~25 k tok)
 └── analyse/                           ← heuristic pre-computed analyses
     ├── pflichtveranstaltungen.md      ← Pflicht sections per PO + matched Campo courses
     └── lehrende-ohne-pflicht.md       ← Lehrende whose courses don't appear in any
                                           Pflicht-flagged set (Vergleich für RAG)
 ```
+
+The FAUdir chunks (`faudir-{Aaa_Bbb}.md`) carry W-Rang information parsed
+from each Person's organization name (`W1-Professur` / `W2-Professur` /
+`W3-Professur` explicit, `W?` for plain *Lehrstuhl* / *Professur* without
+a W-number, `Junior` / `apl.` / `Hon.` for the special cases). Cross-
+reference with `personen/INDEX.md` (Campo names) is left to the RAG —
+names match nominally but FAUdir often has fuller titles + email anchors.
 
 The two files in `analyse/` are **heuristic**. They exist as ground-truth
 material for verifying RAG-driven answers to the same questions. If a RAG

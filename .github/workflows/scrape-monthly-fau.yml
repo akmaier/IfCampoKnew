@@ -70,12 +70,19 @@ jobs:
             --tmp tmp/fau-pdfs \
             -v ${{ steps.vars.outputs.extra }}
 
+      - name: Pull FAUdir Professor:innen-Index
+        run: |
+          python scraper/faudir_scrape.py \
+            --out data/personen/faudir-INDEX.md \
+            --interval 0.5 \
+            -v
+
       - name: Commit corpus changes
         id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/studiengang data/pruefungsordnungen
+          git add data/studiengang data/pruefungsordnungen data/personen
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No corpus changes — skipping commit."
