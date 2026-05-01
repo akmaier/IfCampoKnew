@@ -62,10 +62,22 @@ Course events carry `unit_id` instead. They appear inside program files as
 ├── pruefungsordnungen/                ← full PO regulation texts (one per PDF)
 │   ├── INDEX.md
 │   └── {faculty}/{program}/{po-slug}.md
-└── studiengang/                       ← FAU.de Studiengang pages (raw, also inlined above)
-    ├── INDEX.md
-    └── {slug}.md
+├── studiengang/                       ← FAU.de Studiengang pages (raw, also inlined above)
+│   ├── INDEX.md
+│   └── {slug}.md
+├── personen/                          ← aggregate of every Campo Lehrende
+│   └── INDEX.md                       ← {N} unique person-strings × their courses
+└── analyse/                           ← heuristic pre-computed analyses
+    ├── pflichtveranstaltungen.md      ← Pflicht sections per PO + matched Campo courses
+    └── lehrende-ohne-pflicht.md       ← Lehrende whose courses don't appear in any
+                                          Pflicht-flagged set (Vergleich für RAG)
 ```
+
+The two files in `analyse/` are **heuristic**. They exist as ground-truth
+material for verifying RAG-driven answers to the same questions. If a RAG
+agent and these files disagree, the agent is usually closer to truth
+(it can reconcile naming variations PO-text → course-title that the
+heuristic can't).
 
 ## Update cadence
 
