@@ -84,6 +84,26 @@ jobs:
               --out data
           fi
 
+      - name: Aggregate Lehrende-Index aus Campo (people)
+        if: hashFiles(format('tmp/{0}-courses.json', steps.vars.outputs.period_id)) != ''
+        run: |
+          python scraper/people_index.py \
+            --inputs tmp/${{ steps.vars.outputs.period_id }}.json \
+                    tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --out data/personen \
+            -v
+
+      - name: Heuristische Pflicht-Analyse
+        if: hashFiles(format('tmp/{0}-courses.json', steps.vars.outputs.period_id)) != ''
+        run: |
+          python scraper/analyze_pflicht.py \
+            --data data \
+            --period ${{ steps.vars.outputs.period_id }} \
+            --tree tmp/${{ steps.vars.outputs.period_id }}.json \
+            --courses tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --out data/analyse/pflichtveranstaltungen.md \
+            -v
+
       - name: Commit corpus changes
         id: commit
         run: |
