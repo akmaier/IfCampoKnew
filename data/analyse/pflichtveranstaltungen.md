@@ -1,9 +1,9 @@
 ---
 kind: "campo-pflicht-analyse"
 period: "Sommersemester 2026"
-po_files_scanned: 850
-matched_courses_total: 2353
-scraped_at: 2026-05-02T12:13:52+00:00
+po_files_scanned: 680
+matched_courses_total: 1822
+scraped_at: 2026-05-02T13:32:45+00:00
 ---
 
 # Pflichtveranstaltungen — Heuristische Analyse
@@ -3216,7 +3216,7 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md`](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **21**
+Vorgeschlagene Pflichtveranstaltungen: **18**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -3224,11 +3224,9 @@ Vorgeschlagene Pflichtveranstaltungen: **21**
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-P10_BT Innere Medizin, Teil I (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - MED  84701  Klinische Untersuchung Innere Medizin (I-Med. 353) — Vorlesung mit Übung — Axel Hueber, Dr. med. Melanie Hagen, Dr. med. Verena Schönau
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
@@ -3239,7 +3237,6 @@ Vorgeschlagene Pflichtveranstaltungen: **21**
 - MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Orthopädie, Reha + physikalische Medizin (VL) — 
 - Orthopädie, Reha + physikalische Medizin (VL) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Sonderpädagogische Förderung im Teilhabefeld Beruf und Arbeit — Seminar — Prof. Dr. Roland Alfred Stein
 
 #### Auszüge aus dem PO-Text
@@ -3275,14 +3272,12 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/4aes-ba-ma-molekularemedizin.md`](../pruefungsordnungen/medizinische-fakultaet/4aes-ba-ma-molekularemedizin.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - V-V8/1-V11 Vorlesung Spezielle Histologie und Organogenese — Vorlesung — Prof. Dr. Dieter Chichung Lie, Prof. Dr. Michael Scholz
 - Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
-- Organische Chemie 3 — Vorlesung — Prof. Dr. Henry Dube
-- Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
 
 #### Auszüge aus dem PO-Text
 
@@ -3292,403 +3287,16 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 ---
 
-### 18. Februar 2016
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/5aes-ba-ma-molekulare-medizin.md`](../pruefungsordnungen/medizinische-fakultaet/5aes-ba-ma-molekulare-medizin.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2 — Vorlesung — Prof. Dr. Andreas Winterpacht, Prof. Dr. rer. nat Felix Engel, Prof. Dr. André Wiesmann da Silva Reis, Prof. Dr. Julio Vera González
-- Advanced Biomolecular Simulations (2V/1UE) — Vorlesung mit Übung — Prof. Dr. Petra Imhof
-
-#### Auszüge aus dem PO-Text
-
-**„ § 30a Umfang und Gliederung des Masterstudiums** _(paragraph)_
-
-1. dem Pflichtbereich (35 ECTS-Punkte),
-
-**„ Anlage 3: Studienverlaufsplan Master Molecular Medicine Vollzeit** _(paragraph)_
-
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt|Workload-Verteilung pro|Workload-Verteilung pro|Semester in ECTS-Punkten|Semester in ECTS-Punkten|Art und Umfang der<br>Prüfung/Studienleistung|Faktor<br>Modul-<br>Note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|||||||||||
-||||Ü|P|S|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|||
-||||||||||||||
-|**Pflichtbereich (35 ECTS-Leistungspunkte)**|||||||||||||
-||||||||||||||
-||||||||||||||
-|Advanced Lectures<br>in Molecular<br>Medicine 1|Lectures|6||||10|10||||Klausur 180 min|1|
-|Advanced Lectures<br>in Molecular<br>Medicine 2|Lectures|6||||10||10|||Klausur 180 min|1|
-|Architecture of<br>Biopolymers|Seminar||||2|5|5||||Präsentation ca. 30 min,<br>unbenotet und Klausur 60 min,<br>benotet|1|
-||Computer-<br>based tutorial …
-
----
-
-### BSc Hebammenwissenschaft StuPOHeb 20210930 i.d.F. 20220908.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-hebammenwissenschaft-stupoheb-20210930-idf-20220908.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-hebammenwissenschaft-stupoheb-20210930-idf-20220908.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|**I.**|**Teil: Allgemeine Bestimmungen ..................................................................................... 2**|**Teil: Allgemeine Bestimmungen ..................................................................................... 2**|
-|---|---|---|
-|§|1|Geltungsbereich, Zweck der Bachelorprüfung .............................................................. 2|
-|§|2|Akademischer Grad ...................................................................................................... 2|
-|§|3|Gliederung des Bachelorstudiengangs, Regelstudienzeit, Unterrichts- und|
-|||Prüfungssprache, Studienbeginn .................................................................................. 2|
-|§|4|Zugang zum Studium, Nachweise, besondere Immatrikulationsvoraussetzungen ........ 3|
-|§ …
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. es zur Sicherheit der Teilnehmerinnen und Teilnehmer erfor …
-
-**§ 11 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulgesetz** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden, soweit diese Personen Mitglieder der FAU sind.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag 
-
-8 
-
-kann der jeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Die Bestellung externer Prüfender ist möglich, wenn diese Hochschullehrerinnen bzw. Hochschullehrer oder nach de …
-
-**§ 32 Wiederholung von Prüfungen** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Grundlagen- und Orientierungsprüfung und des Moduls Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung zweimal wiederholt werden.[2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt.[3] Hinsichtlich der Wiederholung der Bachelorarbeit gilt § 31 Abs. 11.[4] Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, der in der Regel im auf die Erstprüfung folgenden Semester stattfindet.[5] Die bzw. der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.[6] Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltungssystem regelmäßig zu überprüfen und etwaige Unstimmigkeiten unverzüglich dem Prüfungs-
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc Hebammenwissenschaft StuPOHeb 20210930.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-hebammenwissenschaft-stupoheb-20210930.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-hebammenwissenschaft-stupoheb-20210930.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I. Teil: Allgemeine Bestimmungen ..................................................................................... 2**||
-|§ 1|Geltungsbereich, Zweck der Bachelorprüfung .............................................................. 2|
-|§ 2|Akademischer Grad ...................................................................................................... 2|
-|§ 3|Gliederung des Bachelorstudiengangs, Regelstudienzeit, Unterrichts- und|
-||Prüfungssprache, Studienbeginn .................................................................................. 2|
-|§ 4|Zugang zum Studium, Nachweise, besondere Immatrikulationsvoraussetzungen ........ 3|
-|§ 5|ECTS-Punkte ................................................................. …
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. es zur Sicherheit der Teilnehmerinnen und Teilnehmer erfor …
-
-**§ 11 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulgesetz** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden, soweit diese Personen Mitglieder der FAU sind.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der jeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Die Bestellung externer Prüfender ist möglich, wenn diese Hochschullehrerinnen bzw. Hochschullehrer oder nach der **Ho …
-
-**§ 32 Wiederholung von Prüfungen** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Grundlagen- und Orientierungsprüfung und des Moduls Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung zweimal wiederholt werden.[ 2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt.[3] Hinsichtlich der Wiederholung der Bachelorarbeit gilt § 31 Abs. 11.[4] Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, der in der Regel im auf die Erstprüfung folgenden Semester stattfindet.[5] Die bzw. der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.[6] Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltungssystem regelmäßig zu überprüfen und etwaige Unstimmigkeiten unverzüglich dem Prüfungsamt mitzuteilen.[7] Die Frist zur Wiederholung wird d …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc Hebammenwissenschaft StuPOHeb 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-hebammenwissenschaft-stupoheb-20240926.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-hebammenwissenschaft-stupoheb-20240926.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I. Teil: Allgemeine Bestimmungen ..................................................................................... 2**||
-|§ 1|Geltungsbereich, Zweck der Bachelorprüfung .............................................................. 2|
-|§ 2|Akademischer Grad ...................................................................................................... 2|
-|§ 3|Gliederung des Bachelorstudiengangs, Regelstudienzeit, Unterrichts- und|
-||Prüfungssprache, Studienbeginn .................................................................................. 2|
-|§ 4|Zugang zum Studium, Nachweise, besondere Immatrikulationsvoraussetzungen ........ 3|
-|§ 5|ECTS-Punkte ................................................................. …
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. es zur Sicherheit der Teilnehmerinnen und Teilnehmer erfor …
-
-**§ 11 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulgesetz** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden, soweit diese Personen Mitglieder der FAU sind.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der jeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-8 
-
-(2) Die Bestellung externer P …
-
-**§ 32 Wiederholung von Prüfungen** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Prüfungen der Module der Grundlagen- und Orientierungsprüfung, der Modulprüfungen von Fertigkeitstrainings und des Moduls Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden.[2] Prüfungen der Module der Grundlagen- und Orientierungsprüfung sowie des Moduls Bachelorarbeit können einmal wiederholt werden.[3] Modulprüfungen von Fertigkeitstrainings können zweimal wiederholt werden, sofern im Falle der Wiederholung abweichend von Satz 5 im Falle der Wiederholung auch das Fertigkeitstraining wiederholt werden muss[4] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt.[5] Bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn d …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc Logopädie StPO-Logo 20111005 i.d.F. 20210924.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-logopaedie-stpo-logo-20111005-idf-20210924.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-logopaedie-stpo-logo-20111005-idf-20210924.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften .......................................................................................... 2 § 1 Geltungsbereich, Zugang, Zweck der Bachelorprüfung ........................................... 2 § 2 Akademischer Grad .................................................................................................... 2 § 3 Struktur des Bachelorstudiums, Regelstudienzeit, Unterrichts- und Prüfungssprache ................................................................................................... 2 § 4 ECTS-Punkte ............................................................................................................... 3 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .................................... 3 § 6 Prüfungsfristen, Fristvers …
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 **BayHSchG** . 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 2 Sätze 2 und 3 **BayHSchG** .
-
-**§ 10 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** _(paragraph)_
-
-(2) Die Studierenden melden sich für die Prüfungen der Pflichtmodule und der Wahlpflichtmodule gemäß der **Anlage** an.
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
----
-
-### BSc Logopädie StPO-Logo 20111005 i.d.F. 20230426.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-logopaedie-stpo-logo-20111005-idf-20230426.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-logopaedie-stpo-logo-20111005-idf-20230426.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften .......................................................................................... 2 § 1 Geltungsbereich, Zweck der Bachelorprüfung ......................................................... 2 § 2 Akademischer Grad .................................................................................................... 2 § 3 Struktur des Bachelorstudiums, Regelstudienzeit, Unterrichts- und Prüfungssprache ................................................................................................... 2 § 4 ECTS-Punkte ............................................................................................................... 3 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .................................... 3 § 6 Prüfungsfristen, Fri …
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 51 Abs. 2 **BayHIG** i. V. m. Art. 20, 21 **BayVwVfG** . 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfende und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 26 Abs. 2 Sätze 2 und 3 **BayHIG** .
-
-**§ 10 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** _(paragraph)_
-
-(2) Die Studierenden melden sich für die Prüfungen der Pflichtmodule und der Wahlpflichtmodule gemäß der **Anlage** an.
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
----
-
-### BSc Logopädie StPO-Logo 20111005 i.d.F. 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-logopaedie-stpo-logo-20111005-idf-20240926.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-logopaedie-stpo-logo-20111005-idf-20240926.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften ........................................................................................ 2** § 1 Geltungsbereich, Zweck der Bachelorprüfung **............................................................... 2** § 2 Akademischer Grad **....................................................................................................... 2** § 3 Struktur des Bachelorstudiums, Regelstudienzeit, Unterrichts- und Prüfungssprache **... 2** § 4 ECTS-Punkte **................................................................................................................ 3** § 5 Modularisierung, Studienbegleitende Leistungsnachweise **............................................ 3** § 6 Prüfungsfristen, Fristversäumnis **........................................... …
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 51 Abs. 2 **BayHIG** i. V. m. Art. 20, 21 **BayVwVfG** . 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfende und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 26 Abs. 2 Sätze 2 und 3 **BayHIG** .
-
-**§ 10 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** _(paragraph)_
-
-(2)[1] Die Studierenden melden sich für die Prüfungen der Pflichtmodule und der Wahlpflichtmodule gemäß der **Anlage** an.[2] Die Anmeldetermine und Anmeldeformalitäten werden rechtzeitig vorher ortsüblich bekannt gegeben.[3] Die Teilnahme an der jeweiligen Prüfung setzt die ordnungsgemäße Anmeldung auf der hierfür bereitgestellten Plattform voraus.[4] Abweichend von Sätzen 1 bis 3 werden Studierende bei entsprechender Ausweisung in der jeweiligem Modulbeschreibung im Falle von Praktika, Geländeseminaren und Exkursionen in Folge der eigenständigen Anmeldung zur Teilnahme am Praktikum, dem Geländeseminar bzw. der Exkursion von Amts wegen zur dazugehörigen Prüfung angemeldet; erfolgt keine entsprechende Ausweisung im Modulhandbuch, gelten Sätze 1 bis 3.[5] Für die Anmeldung zu Wiederholungsp …
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210113.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210113.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210113.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2 — Vorlesung — Prof. Dr. Andreas Winterpacht, Prof. Dr. rer. nat Felix Engel, Prof. Dr. André Wiesmann da Silva Reis, Prof. Dr. Julio Vera González
-- Advanced Biomolecular Simulations (2V/1UE) — Vorlesung mit Übung — Prof. Dr. Petra Imhof
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**Erster Abschnitt: Allgemeine Vorschriften ..........................................................................................2**||
-|§ 1|Geltungsbereich, Zweck der Bachelor- und Masterprüfung .....................................................2|
-|§ 2|Akademische Grade ..................................................................................................................2|
-|§ 3|Bachelorstudiengang, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ..3|
-|§ 4|Masterstudiengang, Prüfungen und Regelstudienzeiten ..........................................................3|
-|§ 5|ECTS-Punkte ............................................................................................................... …
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulgesetz** und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.[5] Beim Prüfungsausschuss wird eine Liste mit allen in diesem Studiengang Prüfungsberechtigten geführt. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechen …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-**§ 28 Wiederholung von Prüfungen, Zusatzmodule** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung zweimal wiederholt werden.[ 2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt. 3Die Prüfungen, die laut **Anlage 1** Teil der Grundlagen- und Orientierungsprüfung sind, können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 27 Abs. 9.[4] Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, der in der Regel spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses stattfindet.[5] Die bzw. der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.[6] Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltu …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210429.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210429.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210429.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2 — Vorlesung — Prof. Dr. Andreas Winterpacht, Prof. Dr. rer. nat Felix Engel, Prof. Dr. André Wiesmann da Silva Reis, Prof. Dr. Julio Vera González
-- Advanced Biomolecular Simulations (2V/1UE) — Vorlesung mit Übung — Prof. Dr. Petra Imhof
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|**Erster Abschnitt: Allgemeine Vorschriften ..........................................................................................2**|**Erster Abschnitt: Allgemeine Vorschriften ..........................................................................................2**|
-|---|---|
-|§ 1|Geltungsbereich, Zweck der Bachelor- und Masterprüfung .....................................................2|
-|§ 2|Akademische Grade ..................................................................................................................2|
-|§ 3|Bachelorstudiengang, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ..3|
-|§ 4|Masterstudiengang, Prüfungen und Regelstudienzeiten ..........................................................3|
-|§ 5|ECTS-Punkte ........................ …
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulgesetz** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.[5] Beim Prüfungsausschuss wird eine Liste mit allen in diesem Studiengang Prüfungsberechtigten geführt. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entspre …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-**§ 28 Wiederholung von Prüfungen, Zusatzmodule** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung zweimal wiederholt werden.[ 2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt. 3Die Prüfungen, die laut **Anlage 1** Teil der Grundlagen- und Orientierungsprüfung sind, können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 27 Abs. 9.[4] Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, der in der Regel spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses stattfindet.[5] Die bzw. der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.[6] Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltu …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20210113 ÄS.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20210113-aes.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20210113-aes.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2 — Vorlesung — Prof. Dr. Andreas Winterpacht, Prof. Dr. rer. nat Felix Engel, Prof. Dr. André Wiesmann da Silva Reis, Prof. Dr. Julio Vera González
-- Advanced Biomolecular Simulations (2V/1UE) — Vorlesung mit Übung — Prof. Dr. Petra Imhof
-
-#### Auszüge aus dem PO-Text
-
-**24. § 28 wird wie folgt geändert:** _(paragraph)_
-
-„[6] Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltungssystem regelmäßig zu überprüfen und etwaige Unstimmigkeiten unverzüglich dem Prüfungsamt mitzuteilen.“
-
-**„Anlage 3: Studienverlaufsplan Master Molecular Medicine** _(paragraph)_
-
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||<br>in ECTS-Punkten|||||
-||||||||||||||
-|||V|||||1|2||4|||
-||||Ü|P|S||.<br>S|.<br>S|3.<br>S|.<br>S|||
-||||||||em.|em.|em.|em.|||
-|**Pflichtbereich (35 ECTS-Leistungspunkte)**|||||||||||||
-||||||||||||||
-|Advanced Lectures in<br>Molecular Medicine 1|Lectures|6||||10|10||||Klausur 180 min. (benotet)|1|
-|Advanced Lectures in<br>Molecular Medicine 2|Lectures|6||||10||10|||Klausur 180 min. (benotet …
-
----
-
 ### BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926.pdf
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20240926.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20240926.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2 — Vorlesung — Prof. Dr. Andreas Winterpacht, Prof. Dr. rer. nat Felix Engel, Prof. Dr. André Wiesmann da Silva Reis, Prof. Dr. Julio Vera González
 - V-V8/1-V11 Vorlesung Spezielle Histologie und Organogenese — Vorlesung — Prof. Dr. Dieter Chichung Lie, Prof. Dr. Michael Scholz
 - Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
-- Organische Chemie 3 — Vorlesung — Prof. Dr. Henry Dube
-- Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
-- Advanced Biomolecular Simulations (2V/1UE) — Vorlesung mit Übung — Prof. Dr. Petra Imhof
 
 #### Auszüge aus dem PO-Text
 
@@ -3718,12 +3326,14 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711.md)  
 Pflicht-Stellen gefunden: **17**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2 — Vorlesung — Prof. Dr. Andreas Winterpacht, Prof. Dr. rer. nat Felix Engel, Prof. Dr. André Wiesmann da Silva Reis, Prof. Dr. Julio Vera González
-- Advanced Biomolecular Simulations (2V/1UE) — Vorlesung mit Übung — Prof. Dr. Petra Imhof
+- Empirical Research Methods in Medical Engineering — Vorlesung mit Übung — Prof. Dr. Franziska Mathis-Ullrich, Jasmin Arjomandi
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+- [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
 
 #### Auszüge aus dem PO-Text
 
@@ -3767,16 +3377,12 @@ _(+ 13 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2 — Vorlesung — Prof. Dr. Andreas Winterpacht, Prof. Dr. rer. nat Felix Engel, Prof. Dr. André Wiesmann da Silva Reis, Prof. Dr. Julio Vera González
 - V-V8/1-V11 Vorlesung Spezielle Histologie und Organogenese — Vorlesung — Prof. Dr. Dieter Chichung Lie, Prof. Dr. Michael Scholz
 - Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
-- Organische Chemie 3 — Vorlesung — Prof. Dr. Henry Dube
-- Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
-- Advanced Biomolecular Simulations (2V/1UE) — Vorlesung mit Übung — Prof. Dr. Petra Imhof
 
 #### Auszüge aus dem PO-Text
 
@@ -3806,185 +3412,22 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin) — Vorlesung — apl. Prof. Dr. Jürgen Wörl
 - V-V8/1-V11 Vorlesung Spezielle Histologie und Organogenese — Vorlesung — Prof. Dr. Dieter Chichung Lie, Prof. Dr. Michael Scholz
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Praktikum der Neuroanatomie für Studierende der Zahnmedizin — 
 - Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
-- Organische Chemie 3 — Vorlesung — Prof. Dr. Henry Dube
-- Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
-- Praktikum Biochemie/Molekularbiologie — 
-- Biochemie und Molekularbiologie II (Teilklausur 1) — 
-- Biochemie und Molekularbiologie II (Teilklausur 2) — 
 
 #### Auszüge aus dem PO-Text
 
 **OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
 
 _Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
----
-
-### PDF vom 07.11.2008 i.d.F. 15.07.2016
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement-juli2016.md`](../pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement-juli2016.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................... 2|
-|---|---|---|
-|§|2|Studienbeginn ............................................................................................................ 2|
-|§|3|Akademische Grade................................................................................................... 2|
-|§|4|Masterstudiengänge, Regelstudienzeiten, Unterrichtssprache, Prüfungen ................. 2|
-|§|5|ECTS-Punkte ............................................................................................................. 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise......................................... 3|
-|§|6a|Anwesenheitspflicht ............................................................. …
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-**§ 8 Prüfungsausschuss** _(paragraph)_
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** (1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.
-
-**§ 8 Prüfungsausschuss** _(paragraph)_
-
-(5) Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.
-
----
-
-### PDF vom 07.11.2008 i.d.F. 13.05.2014
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement-mai2014.md`](../pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement-mai2014.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................... 2|
-|---|---|---|
-|§|2|Studienbeginn ............................................................................................................ 2|
-|§|3|Akademische Grade................................................................................................... 2|
-|§|4|Masterstudiengänge, Prüfungen und Regelstudienzeiten .......................................... 2|
-|§|5|ECTS-Punkte ............................................................................................................. 2|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise......................................... 3|
-|§|6a|Anwesenheitspflicht ..................................................... …
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Bet …
-
----
-
-### PDF vom 07.11.2008 i.d.F. 13.11.2013
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement-nov2013.md`](../pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement-nov2013.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für den nicht-konsekutiven Masterstudiengang Medical Process Management der Medizinischen Fakultät der Universität ErlangenNürnberg - MPM Vom 7. November 2008** _(paragraph)_
-
-|§ 1|Geltungsbereich, Zweck der Masterprüfung .................................................................... 2|
-|---|---|
-|§ 2|Studienbeginn .................................................................................................................. 2|
-|§ 3|Akademische Grade ........................................................................................................ 2|
-|§ 4|Masterstudiengänge, Prüfungen und Regelstudienzeiten ............................................... 2|
-|§ 5|ECTS-Punkte ................................................................................................................... 2|
-|§ 6|Modularisierung, Studienbegleitende Leistungsnachweise ............................................. 3|
-|§ 7|Prüfungsfristen, Fristversäumnis ............ …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-4 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher …
-
-**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
----
-
-### PDF vom 07.11.2008
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement.md`](../pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für den nicht-konsekutiven Masterstudiengang Medical Process Management der Medizinischen Fakultät der Universität ErlangenNürnberg - MPM Vom 7. November 2008** _(paragraph)_
-
-|§ 1 Geltungsbereich, Zweck der Masterprüfung....................................................... 2|
-|---|
-|§ 2 Studienbeginn..................................................................................................... 2|
-|§ 3 Akademische Grade........................................................................................... 2|
-|§ 4 Masterstudiengänge, Prüfungen und Regelstudienzeiten .................................. 2|
-|§ 5 ECTS-Punkte...................................................................................................... 2|
-|§ 6 Modularisierung, Studienbegleitende Leistungsnachweise ................................ 3|
-|§ 7 Prüfungsfristen, Fristversäumnis ........................................................................ 3|
-|§ 8 Prüfungsausschuss …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin 
-
-4 
-
-oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlich …
 
 ---
 
@@ -4051,141 +3494,14 @@ Eine Semesterwochenstunde ist mit 12 Lehrveranstaltungsstunden veranschlagt
 
 ---
 
-### MSc Medical Process Management 20081107 i.d.F. 20180313.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/msc-medical-process-management-20081107-idf-20180313.md`](../pruefungsordnungen/medizinische-fakultaet/msc-medical-process-management-20081107-idf-20180313.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung .................................................... 2|
-|---|---|---|
-|§|3|Akademische Grade......................................................................................... 2|
-|§|4|Masterstudiengänge, Regelstudienzeiten, Unterrichts- und Prüfungssprache . 2|
-|§|5|ECTS-Punkte ................................................................................................... 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige|
-|||Zwischenprüfungen .......................................................................................... 3|
-|§|7|Prüfungsfristen, Fristversäumnis ...................................................................... 4|
-|§|8|Prüfungsausschuss .......................................... …
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Ein- 
-
-3 
-
-zelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erfo …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligu …
-
----
-
-### MSc Medical Process Management MPM 20081107 i.d.F. 20190806.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/msc-medical-process-management-mpm-20081107-idf-20190806.md`](../pruefungsordnungen/medizinische-fakultaet/msc-medical-process-management-mpm-20081107-idf-20190806.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................................... 2|
-|---|---|---|
-|§|3|Akademische Grade ................................................................................................................... 2|
-|§|4|Masterstudiengang, Regelstudienzeit, Unterrichts- und Prüfungssprache ................................ 2|
-|§|5|ECTS-Punkte .............................................................................................................................. 2|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise,  Freiwillige Zwischenprüfungen .... 3|
-|§|7|Prüfungsfristen, Fristversäumnis ................................................................................................ 4|
-|§|8|Prüfungsaussch …
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden (insbesondere längere Erkrankung, nachträglicher Verlust der Prüfungsberechtigung oder Befangenheit) ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratu …
-
----
-
-### MSc Medical Process Management MPM 20081107 i.d.F. 20230731.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/msc-medical-process-management-mpm-20081107-idf-20230731.md`](../pruefungsordnungen/medizinische-fakultaet/msc-medical-process-management-mpm-20081107-idf-20230731.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................................... 2|
-|---|---|---|
-|§|3|Akademische Grade ................................................................................................................... 2|
-|§|4|Masterstudiengang, Regelstudienzeit, Unterrichts- und Prüfungssprache ................................ 2|
-|§|5|ECTS-Punkte .............................................................................................................................. 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise,  Freiwillige Zwischenprüfungen .... 3|
-|§|7|Prüfungsfristen, Fristversäumnis ................................................................................................ 4|
-|§|8|Prüfungsaussch …
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzer- 
-
-3 
-
-werb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erfo …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden (insbesondere längere Erkrankung, nachträglicher Verlust der Prüfungsberechtigung oder Befangenheit) ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratu …
-
----
-
 ### MSc Medical Process Management MPM 20240807.pdf
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/msc-medical-process-management-mpm-20240807.md`](../pruefungsordnungen/medizinische-fakultaet/msc-medical-process-management-mpm-20240807.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -4216,11 +3532,10 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/po-mhmm-20190820-idf-20240926.md`](../pruefungsordnungen/medizinische-fakultaet/po-mhmm-20190820-idf-20240926.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -4253,47 +3568,14 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PO MHMM 20190820 i.d.F. 20250227.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/po-mhmm-20190820-idf-20250227.md`](../pruefungsordnungen/medizinische-fakultaet/po-mhmm-20190820-idf-20250227.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich ............................................................................................................... 2 § 2 Zweck der Prüfung, Mastergrad ........................................................................................ 2 § 3 Qualifikation zum Masterstudium ...................................................................................... 2 § 4 Masterstudiengang, Regelstudienzeit, Studienbeginn,  Unterrichts- und Prüfungssprache ............................................................................................................................................... 3 § 5 ECTS-Punkte ................................................................................................................... 3 § 6 Modularisierung, Studienbegleitende Leistu …
-
-**§ 8 Prüfende und Beisitzerinnen und Beisitzer** _(paragraph)_
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** (1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG.
-
-**§ 8 Prüfende und Beisitzerinnen und Beisitzer** _(paragraph)_
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfenden und Beisitzerinnen bzw. Beisitzer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 2 Sätze 2 und 3 BayHSchG.
-
-**§ 12 Anwesenheitspflicht, Präsenzphasen** _(section)_
-
-1Die bzw. der Studierende ist verpflichtet, in den ersten drei Semestern jeweils an einer Klausur teilzunehmen, welche während einer Präsenzveranstaltung gegen Ende des jeweiligen Semesters angeboten wird.[2] Im Übrigen bestehen während des Studiums keinerlei Anwesenheitspflichten.[3] Jedoch wird den Studierenden dringend empfohlen, auch an den übrigen Veranstaltungen der Präsenzphasen der ersten drei Semester teilzunehmen.
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### PO MHMM 20190820.pdf
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/po-mhmm-20190820.md`](../pruefungsordnungen/medizinische-fakultaet/po-mhmm-20190820.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -4322,57 +3604,16 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 28.09.2007
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/pro-ba-20ma-20molekmedizin.md`](../pruefungsordnungen/medizinische-fakultaet/pro-ba-20ma-20molekmedizin.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für die Bachelor- und Masterstudiengänge Molekulare Medizin an der Friedrich-Alexander-Universität Erlangen-Nürnberg** _(paragraph)_
-
-|**Erster**|**Abschnitt: Allgemeine Vorschriften**............................................................................ 1|
-|---|---|
-|**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung**............................. 2|
-|**§ 2**|**Akademische Grade**..................................................................................................... 2|
-|**§ 3**|**Bachelorstudiengang, Prüfungen und Regelstudienzeiten**............................... 2|
-|**§ 4**|**Masterstudiengang, Prüfungen und Regelstudienzeiten**................................... 2|
-|**§ 5**|**ECTS-Punkte**.................................................................................................................. 3|
-|**§ 6**|**Modularisierung, Studienbegleitende Leistungsnachweise**............ …
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-- (1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.[5] Beim Prüfungsausschuss wird eine Liste mit allen in diesem Studiengang Prüfungsberechtigten geführt. 
-
-- (2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-- (3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende od …
-
-**§ 11 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-- (1)[1] Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung wird bestimmt durch Art. 50 BayHSchG. 
-
-- (2)[1] Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer, der Prüfungsbeisitzer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit wird bestimmt durch Art. 18 Abs. 3 BayHSchG.
-
----
-
 ### PDF vom 28.09.2007 i.d.F. 18.02.2016
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/pro-ba-ma-molekmedizin-feb2016.md`](../pruefungsordnungen/medizinische-fakultaet/pro-ba-ma-molekmedizin-feb2016.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2 — Vorlesung — Prof. Dr. Andreas Winterpacht, Prof. Dr. rer. nat Felix Engel, Prof. Dr. André Wiesmann da Silva Reis, Prof. Dr. Julio Vera González
 - V-V8/1-V11 Vorlesung Spezielle Histologie und Organogenese — Vorlesung — Prof. Dr. Dieter Chichung Lie, Prof. Dr. Michael Scholz
 - Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
-- Advanced Biomolecular Simulations (2V/1UE) — Vorlesung mit Übung — Prof. Dr. Petra Imhof
 
 #### Auszüge aus dem PO-Text
 
@@ -4448,123 +3689,11 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 ---
 
-### PDF vom 28.09.2007 i.d.F. 08.10.2012
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/pro-ba-ma-molekmedizin-okt2012.md`](../pruefungsordnungen/medizinische-fakultaet/pro-ba-ma-molekmedizin-okt2012.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für die Bachelor- und Masterstudiengänge Molekulare Medizin an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 28. September 2007** _(paragraph)_
-
-**Erster Abschnitt: Allgemeine Vorschriften** ................................................................................. 2 **§ 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung** ....................................... 2 **§ 2 Akademische Grade** ........................................................................................................ 2 **§ 3 Bachelorstudiengang, Prüfungen und Regelstudienzeiten** ........................................ 2 **§ 4 Masterstudiengang, Prüfungen und Regelstudienzeiten** ............................................ 3 **§ 5 ECTS-Punkte** .................................................................................................................... 3 **§ 6 Modularisierung, Studienbegleitende Leistungsnachweise** .................. …
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.[5] Beim Prüfungsausschuss wird eine Liste mit allen in diesem Studiengang Prüfungsberechtigten geführt. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein …
-
-**§ 11 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung wird bestimmt durch Art. 50 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer, der Prüfungsbeisitzer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit wird bestimmt durch Art. 18 Abs. 3 BayHSchG.
-
----
-
-### PDF vom 28.09.2007 i.d.F. 29.09.2010
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/pro-ba-ma-molekmedizin-ws2010-2011.md`](../pruefungsordnungen/medizinische-fakultaet/pro-ba-ma-molekmedizin-ws2010-2011.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für die Bachelor- und Masterstudiengänge Molekulare Medizin an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 28. September 2007** _(paragraph)_
-
-|**Erster Abschnitt: Allgemeine Vorschriften**................................................................................. 2|**Erster Abschnitt: Allgemeine Vorschriften**................................................................................. 2|
-|---|---|
-|**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung**....................................... 2|
-|**§ 2**|**Akademische Grade**........................................................................................................ 2|
-|**§ 3**|**Bachelorstudiengang, Prüfungen und Regelstudienzeiten**........................................ 2|
-|**§ 4**|**Masterstudiengang, Prüfungen und Regelstudienzeiten**............................................ 3|
-|**§ 5**|**ECTS-Punkte**.................................... …
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.[5] Beim Prüfungsausschuss wird eine Liste mit allen in diesem Studiengang Prüfungsberechtigten geführt. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein …
-
-**§ 11 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung wird bestimmt durch Art. 50 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer, der Prüfungsbeisitzer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit wird bestimmt durch Art. 18 Abs. 3 BayHSchG.
-
----
-
-### PDF vom 28.09.2007 i.d.F. 29.09.2010
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/pro-ba-ma-molekmedizin.md`](../pruefungsordnungen/medizinische-fakultaet/pro-ba-ma-molekmedizin.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für die Bachelor- und Masterstudiengänge Molekulare Medizin an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 28. September 2007** _(paragraph)_
-
-|**Erster**|**Abschnitt: Allgemeine Vorschriften**....................................................................2|
-|---|---|
-|**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung**..........................2|
-|**§ 2**|**Akademische Grade**..........................................................................................2|
-|**§ 3**|**Bachelorstudiengang, Prüfungen und Regelstudienzeiten**...........................2|
-|**§ 4**|**Masterstudiengang, Prüfungen und Regelstudienzeiten**...............................3|
-|**§ 5**|**ECTS-Punkte**......................................................................................................3|
-|**§ 6**|**Modularisierung, Studienbegleitende Leistungsnachweise**..........................3|
-|**§ 7**|**Prüfungsfristen, Fri …
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.[5] Beim Prüfungsausschuss wird eine Liste mit allen in diesem Studiengang Prüfungsberechtigten geführt. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-5 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder …
-
-**§ 11 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung wird bestimmt durch Art. 50 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer, der Prüfungsbeisitzer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit wird bestimmt durch Art. 18 Abs. 3 BayHSchG.
-
----
-
 ### PDF vom 30.09.2003 i.d.F. 22.12.2015
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md`](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **23**
+Vorgeschlagene Pflichtveranstaltungen: **20**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4572,11 +3701,9 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-P10_BT Innere Medizin, Teil I (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Q3 Gesundheitsökonomie, Gesundheitssystem, öffentliches Gesundheitswesen (RVL) — 
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
@@ -4589,7 +3716,6 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Orthopädie, Reha + physikalische Medizin (VL) — 
 - Orthopädie, Reha + physikalische Medizin (VL) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Sonderpädagogische Förderung im Teilhabefeld Beruf und Arbeit — Seminar — Prof. Dr. Roland Alfred Stein
 
 #### Auszüge aus dem PO-Text
@@ -4618,7 +3744,7 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md`](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **23**
+Vorgeschlagene Pflichtveranstaltungen: **20**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4626,11 +3752,9 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-P10_BT Innere Medizin, Teil I (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Q3 Gesundheitsökonomie, Gesundheitssystem, öffentliches Gesundheitswesen (RVL) — 
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
@@ -4643,7 +3767,6 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Orthopädie, Reha + physikalische Medizin (VL) — 
 - Orthopädie, Reha + physikalische Medizin (VL) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Sonderpädagogische Förderung im Teilhabefeld Beruf und Arbeit — Seminar — Prof. Dr. Roland Alfred Stein
 
 #### Auszüge aus dem PO-Text
@@ -4672,7 +3795,7 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-medizin-juli2014.md`](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-juli2014.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **23**
+Vorgeschlagene Pflichtveranstaltungen: **20**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4680,11 +3803,9 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-P10_BT Innere Medizin, Teil I (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Q3 Gesundheitsökonomie, Gesundheitssystem, öffentliches Gesundheitswesen (RVL) — 
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
@@ -4697,7 +3818,6 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Orthopädie, Reha + physikalische Medizin (VL) — 
 - Orthopädie, Reha + physikalische Medizin (VL) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Sonderpädagogische Förderung im Teilhabefeld Beruf und Arbeit — Seminar — Prof. Dr. Roland Alfred Stein
 
 #### Auszüge aus dem PO-Text
@@ -4726,7 +3846,7 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-medizin-mai2013.md`](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-mai2013.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **23**
+Vorgeschlagene Pflichtveranstaltungen: **20**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4734,11 +3854,9 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-P10_BT Innere Medizin, Teil I (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Q3 Gesundheitsökonomie, Gesundheitssystem, öffentliches Gesundheitswesen (RVL) — 
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
@@ -4751,7 +3869,6 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Orthopädie, Reha + physikalische Medizin (VL) — 
 - Orthopädie, Reha + physikalische Medizin (VL) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Sonderpädagogische Förderung im Teilhabefeld Beruf und Arbeit — Seminar — Prof. Dr. Roland Alfred Stein
 
 #### Auszüge aus dem PO-Text
@@ -4780,7 +3897,7 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-medizin-neu.md`](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-neu.md)  
 Pflicht-Stellen gefunden: **11**  
-Vorgeschlagene Pflichtveranstaltungen: **21**
+Vorgeschlagene Pflichtveranstaltungen: **18**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4788,11 +3905,9 @@ Vorgeschlagene Pflichtveranstaltungen: **21**
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-P10_BT Innere Medizin, Teil I (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - MED  84701  Klinische Untersuchung Innere Medizin (I-Med. 353) — Vorlesung mit Übung — Axel Hueber, Dr. med. Melanie Hagen, Dr. med. Verena Schönau
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
@@ -4803,7 +3918,6 @@ Vorgeschlagene Pflichtveranstaltungen: **21**
 - MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Orthopädie, Reha + physikalische Medizin (VL) — 
 - Orthopädie, Reha + physikalische Medizin (VL) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Sonderpädagogische Förderung im Teilhabefeld Beruf und Arbeit — Seminar — Prof. Dr. Roland Alfred Stein
 
 #### Auszüge aus dem PO-Text
@@ -4832,7 +3946,7 @@ _(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-medizin-okt2012.md`](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-okt2012.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **23**
+Vorgeschlagene Pflichtveranstaltungen: **20**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4840,11 +3954,9 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-P10_BT Innere Medizin, Teil I (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
@@ -4857,7 +3969,6 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - Orthopädie, Reha + physikalische Medizin (VL) — 
 - Orthopädie, Reha + physikalische Medizin (VL) — 
 - Q3 Gesundheitsökonomie, Gesundheitssystem, öffentliches Gesundheitswesen (RVL) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Sonderpädagogische Förderung im Teilhabefeld Beruf und Arbeit — Seminar — Prof. Dr. Roland Alfred Stein
 
 #### Auszüge aus dem PO-Text
@@ -4882,143 +3993,14 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 05.10.2011 i.d.F. 04.05.2012
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-po-ba-logopaedie-4mai2012.md`](../pruefungsordnungen/medizinische-fakultaet/sto-po-ba-logopaedie-4mai2012.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der  Universität Erlangen-Nürnberg (StPO/Logo) Vom 5. Oktober 2011** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften** .......................................................................................... 2 **§ 1 Geltungsbereich, Zugang, Zweck der Bachelorprüfung** ......................................... 2 **§ 2 Akademischer Grad** ................................................................................................... 2 **§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** .................................................. 2 **§ 4 ECTS-Punkte** .............................................................................................................. 2 **§ 5 Modularisierung, Studienbegleitende Leistungsnachweise** ................................... 3 **§ 6 Prüfungsfristen, Fristversäumnis** ....................................................... …
-
-**§ 8 Prüfende** _(paragraph)_
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** (1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG.
-
-**§ 8 Prüfende** _(paragraph)_
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.
-
-**§ 10 Bekanntgabe der Prüfungstermine und der Prüfenden; Anmeldung, Rücktritt** _(paragraph)_
-
-(2)[1] Die Studierenden sind zu den Prüfungen der Pflichtmodule in dem Semester, in dem das Angebot gemäß der **Anlage** vorgesehen ist, automatisch angemeldet.[2] Für die Prüfungen der Wahlpflichtmodule und Wahlmodule melden sich die Studierenden eigenständig an.
-
----
-
-### PDF vom 05.10.2011 i.d.F. 09.05.2014
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-po-ba-logopaedie-9mai2014.md`](../pruefungsordnungen/medizinische-fakultaet/sto-po-ba-logopaedie-9mai2014.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**an der  Universität Erlangen-Nürnberg (StPO/Logo) Vom 5. Oktober 2011** _(paragraph)_
-
-**I. Teil:  Allgemeine Vorschriften** ............................................................................... 2 **§ 1  Geltungsbereich, Zugang, Zweck der Bachelorprüfung** ................................. 2 **§ 2  Akademischer Grad** ............................................................................................. 2 **§ 3  Struktur des Bachelorstudiums, Regelstudienzeit** .......................................... 2 **§ 4  ECTS-Punkte** ......................................................................................................... 3 **§ 5  Modularisierung, Studienbegleitende Leistungsnachweise** .......................... 3 **§ 6  Prüfungsfristen, Fristversäumnis** ...................................................................... 3 **§ 7  Prüfungsausschu …
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.
-
-**§ 10 Bekanntgabe der Prüfungstermine und der Prüfenden; Anmeldung, Rücktritt** _(paragraph)_
-
-(2) Die Studierenden melden sich für die Prüfungen der Pflichtmodule, der Wahlpflichtmodule und der Wahlmodule gemäß der Anlage an.
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
----
-
-### PDF vom 05.10.2011 i.d.F. 09.05.2016
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-po-ba-logopaedie-mai2016.md`](../pruefungsordnungen/medizinische-fakultaet/sto-po-ba-logopaedie-mai2016.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Universität Erlangen-Nürnberg (StPO/Logo) Vom 5. Oktober 2011** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften .......................................................................................... 2 § 1 Geltungsbereich, Zugang, Zweck der Bachelorprüfung ........................................... 2 § 2 Akademischer Grad .................................................................................................... 2 § 3 Struktur des Bachelorstudiums, Regelstudienzeit, Unterrichts- ............................. 2 und Prüfungssprache ....................................................................................................... 2 § 4 ECTS-Punkte ............................................................................................................... 3 § 5 Modularisierung, Studienbegleitende Leistungsnachweise ................................. …
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG. 
-
-5
-
-**§ 10 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** _(paragraph)_
-
-(2) Die Studierenden melden sich für die Prüfungen der Pflichtmodule und der Wahlpflichtmodule gemäß der **Anlage** an.
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
----
-
-### PDF vom 05.10.2011
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/sto-po-ba-logopaedie.md`](../pruefungsordnungen/medizinische-fakultaet/sto-po-ba-logopaedie.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der  Universität Erlangen-Nürnberg (StPO/Logo) Vom 5. Oktober 2011** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften** .............................................................................................2 **§ 1 Geltungsbereich, Zugang, Zweck der Bachelorprüfung** ...........................................2 **§ 2 Akademischer Grad** .....................................................................................................2 **§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** ...................................................2 **§ 4 ECTS-Punkte** .................................................................................................................2 **§ 5 Modularisierung, Studienbegleitende Leistungsnachweise** ....................................3 **§ 6 Prüfungsfristen, Fristversäumnis** ................................................. …
-
-**§ 8 Prüfende** _(paragraph)_
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** (1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG.
-
-**§ 8 Prüfende** _(paragraph)_
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.
-
-**§ 10 Bekanntgabe der Prüfungstermine und der Prüfenden; Anmeldung, Rücktritt** _(paragraph)_
-
-(2)[1] Die Studierenden sind zu den Prüfungen der Pflichtmodule in dem Semester, in dem das Angebot gemäß der **Anlage** vorgesehen ist, automatisch angemeldet.[2] Für die Prüfungen der Wahlpflichtmodule und Wahlmodule melden sich die Studierenden eigenständig an.
-
----
-
 ### StPO-Logo 20111005 i.d.F. 20250930.pdf
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stpo-logo-20111005-idf-20250930.md`](../pruefungsordnungen/medizinische-fakultaet/stpo-logo-20111005-idf-20250930.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
-- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -5047,7 +4029,7 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupo-medizin-und-medizin-er-bt-stupomed-20191009.md`](../pruefungsordnungen/medizinische-fakultaet/stupo-medizin-und-medizin-er-bt-stupomed-20191009.md)  
 Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **23**
+Vorgeschlagene Pflichtveranstaltungen: **20**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -5055,14 +4037,11 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-P10_BT Innere Medizin, Teil I (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum — Prof. Dr. med. Alexander Kiani
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Q3 Gesundheitsökonomie, Gesundheitssystem, öffentliches Gesundheitswesen (RVL) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
 - Allgemeine Chirurgie und Unfallchirurgie (VL) — 
 - K-P16 Blockpraktikum Neurologie (incl. Neurochirurgie) — Praktikum
@@ -5105,23 +4084,19 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupo-medizin-und-medizin-er-bt-stupomed-20240904-idf-20250818.md`](../pruefungsordnungen/medizinische-fakultaet/stupo-medizin-und-medizin-er-bt-stupomed-20240904-idf-20250818.md)  
 Pflicht-Stellen gefunden: **31**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **15**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - FÜL A: Chirurgie, Geburtshilfe/Frauenheilkunde, Anästhesiologie/Notfallmedizin — 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - MED  84701  Klinische Untersuchung Innere Medizin (I-Med. 353) — Vorlesung mit Übung — Axel Hueber, Dr. med. Melanie Hagen, Dr. med. Verena Schönau
 - MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-- Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) — Seminar — apl. Prof. Dr. Leopold Klepacki
 - Ausreichende Kenntnisse der altgriechischen Sprache — 
 - K-P16 Blockpraktikum Neurologie (incl. Neurochirurgie) — Praktikum
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Kursus der makroskopischen Anatomie - Zusätzliches Präparieren — Kurs — apl. Prof. Dr. Axel Brehmer
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - MED 76541 Herzerkrankungen im Bild: Kardiale Anatomie, Funktion und Pathologie in CT und MR — Seminar — Susanne Jung
@@ -5159,19 +4134,16 @@ _(+ 27 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupo-medizin-und-medizin-er-bt-stupomed-20240904.md`](../pruefungsordnungen/medizinische-fakultaet/stupo-medizin-und-medizin-er-bt-stupomed-20240904.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **13**
+Vorgeschlagene Pflichtveranstaltungen: **10**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - FÜL A: Chirurgie, Geburtshilfe/Frauenheilkunde, Anästhesiologie/Notfallmedizin — 
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
-- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - MED  84701  Klinische Untersuchung Innere Medizin (I-Med. 353) — Vorlesung mit Übung — Axel Hueber, Dr. med. Melanie Hagen, Dr. med. Verena Schönau
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - K-P16 Blockpraktikum Neurologie (incl. Neurochirurgie) — Praktikum
-- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Kursus der makroskopischen Anatomie - Zusätzliches Präparieren — Kurs — apl. Prof. Dr. Axel Brehmer
 - MED 76541 Herzerkrankungen im Bild: Kardiale Anatomie, Funktion und Pathologie in CT und MR — Seminar — Susanne Jung
 - MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
@@ -5258,124 +4230,6 @@ Prüfer statt. ?im
 3.
 In 8 34 wird nach Abs. 2 folgender Abs. 3 neu angefügt:
 „(3) 'Die erste Änderungssatzung tritt zum 1. Oktober 2025 in Kraft. 2Si …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### StuPOZahnMed 20210924.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20210924.md`](../pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20210924.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|**haltsverzeichnis:**|**haltsverzeichnis:**|
-|---|---|
-|**PRÄAMBEL ....................................................................................................................................... 3**||
-|**I.**|**ALLGEMEINER TEIL ............................................................................................................ 3**|
-|§ 1|GELTUNGSBEREICH.............................................................................................................3|
-|§ 2|GLIEDERUNG UNDREGELSTUDIENZEIT..................................................................................3|
-|§ 3|STUDIENBEGINN, UNTERRICHTS-UNDPRÜFUNGSSPRACHE....................................................4|
-|§ 4|AUSBILDUNG IN ERSTERHILFE,PFLEGEDIENST, FAMULATUR...................................... …
-
-**§ 11 Universitäre Prüfungen, Praktika, Übungen und Seminare, Unterricht am Phantom, Unterricht am Patienten** _(paragraph)_
-
-(3)[1] Prüfende der studienbegleitenden Prüfungen sind die verantwortlichen Lehrkräfte. 2Ihnen obliegt die Verantwortung für die Durchführung und Bewertung der Prüfungen. 3Einzelheiten zu Art, Umfang und Inhalt der zu erbringenden Leistungsnachweise sowie die Grundsätze für deren Bewertung, die Kriterien des Bestehens und das Verfahren bei Nichtbestehen bestimmt die bzw. der für die jeweilige Unterrichtsveranstaltung mit Leistungsnachweis Verantwortliche.[4] Eine erfolgreiche Teilnahme liegt vor, wenn sich die Kursleiterin bzw. der Kursleiter der scheinpflichtigen Unterrichtsveranstaltung bzw. das von ihr bzw. ihm zur Durchführung beauftragte prüfungsberechtigte Lehrpersonal vom ausreichenden Kenntnis- und Fähigkeitsstand der bzw. des Studierenden überzeugt hat.
-
-**§ 12 Prüfungsausschuss** _(paragraph)_
-
-(3)[1] Die Sitzungen des Prüfungsausschusses der Lehreinheit Zahnmedizin für hochschulinterne Prüfungen sind nicht öffentlich.[2] Die Dekanin bzw. der Dekan bzw. die Studiendekanin bzw. der Studiendekan können den Sitzungen des Ausschusses beratend beiwohnen.[3] Die Mitglieder des Prüfungsausschusses unterliegen der Amtsverschwiegenheit.[4] Die Pflicht der mit Prüfungsangelegenheiten befassten Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 2 Sätze 2 und 3 **BayHSchG** .[5] Sofern sie nicht im öffentlichen Dienst stehen, sind sie durch die bzw. den Vorsitzenden zur Verschwiegenheit zu verpflichten.
-
-**§ 12 Prüfungsausschuss** _(paragraph)_
-
-(4)[1] Der Prüfungsausschuss der Lehreinheit Zahnmedizin achtet auf die ordnungsgemäße Durchführung der hochschulinternen Prüfungen.[2] Er trifft insbesondere die rechtsverbindlichen Entscheidungen bei Fragen des endgültigen Nichtbestehens von Pflichtveranstaltungen.[3] Er gibt Anregungen zur Steigerung der Qualität hochschulinterner Prüfungen im Fach Zahnmedizin.[4] Der Prüfungsausschuss achtet darauf, dass die Bestimmungen dieser Studien- und Prüfungsordnung eingehalten werden.[5] Er überprüft auf Antrag Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[6] Er gibt gegebenenfalls Anregungen zu Änderungen dieser Studienund Prüfungsordnung.[7] Die Mitglieder des Prüfungsausschusses der Lehreinheit Zahnmedizin haben das Recht auf Anwesenheit bei der Abnahme der hoch …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### StuPOZahnMed 20240904 i.d.F. 20250930.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20240904-idf-20250930.md`](../pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20240904-idf-20250930.md)  
-Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|I**.**|**ALLGEMEINER TEIL**............................................................................................ 2|
-|---|---|
-|§ 1|Geltungsbereich ................................................................................................. 2|
-|§ 2|Gliederung und Regelstudienzeit, Studienhöchstdauer ...................................... 3|
-|§ 3|Studienbeginn, Unterrichts- und Prüfungssprache ............................................. 3|
-|§ 4|Ausbildung in erster Hilfe, Pflegedienst, Famulatur ............................................ 4|
-|§ 5|Ziele des Studiengangs...................................................................................... 4|
-|§ 6|Studieninhalte ....................................................................................................  …
-
-**§ 11 Universitäre Prüfungen, Praktika, Übungen und Seminare, Unterricht am Phantom, Unterricht am Patienten** _(paragraph)_
-
-(3)[1] Prüfende der studienbegleitenden Prüfungen sind die verantwortlichen Lehrkräfte. 2Ihnen obliegt die Verantwortung für die Durchführung und Bewertung der Prüfungen. 3Einzelheiten zu Art, Umfang und Inhalt der zu erbringenden Leistungsnachweise sowie die Grundsätze für deren Bewertung, die Kriterien des Bestehens und das Verfahren bei Nichtbestehen bestimmt die bzw. der für die jeweilige Unterrichtsveranstaltung mit Leistungsnachweis Verantwortliche.[4] Eine erfolgreiche Teilnahme liegt vor, wenn sich die Kursleiterin bzw. der Kursleiter der scheinpflichtigen Unterrichtsveranstaltung
-
-**§ 12 Prüfungsausschuss** _(paragraph)_
-
-(3)[1] Die Sitzungen des Prüfungsausschusses der Lehreinheit Zahnmedizin für hochschulinterne Prüfungen sind nicht öffentlich.[2] Die Dekanin bzw. der Dekan bzw. die Studiendekanin bzw. der Studiendekan können den Sitzungen des Ausschusses beratend beiwohnen.[3] Die Mitglieder des Prüfungsausschusses unterliegen der Amtsverschwiegenheit.[4] Die Pflicht der mit Prüfungsangelegenheiten befassten Personen zur Verschwiegenheit bestimmt sich nach Art. 26 Abs. 2 Sätzen 2 und 3 **BayHIG** .[5] Sofern sie nicht im öffentlichen Dienst stehen, sind sie durch die bzw. den Vorsitzenden zur Verschwiegenheit zu verpflichten.
-
-**§ 12 Prüfungsausschuss** _(paragraph)_
-
-(4)[1] Der Prüfungsausschuss der Lehreinheit Zahnmedizin achtet auf die ordnungsgemäße Durchführung der hochschulinternen Prüfungen.[2] Er trifft insbesondere die rechtsverbindlichen Entscheidungen bei Fragen des endgültigen Nichtbestehens von Pflichtveranstaltungen.[3] Er gibt Anregungen zur Steigerung der Qualität hochschulinterner Prüfungen im Fach Zahnmedizin.[4] Der Prüfungsausschuss achtet darauf, dass die Bestimmungen dieser Studien- und Prüfungsordnung eingehalten werden.[5] Er überprüft auf Antrag Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[6] Er gibt gegebenenfalls Anregungen zu Änderungen dieser Studienund Prüfungsordnung.[7] Die Mitglieder des Prüfungsausschusses der Lehreinheit Zahnmedizin haben das Recht auf Anwesenheit bei der Abnahme der hoch …
-
-_(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### StuPOZahnMed 20240904.pdf
-
-PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20240904.md`](../pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20240904.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Vom 4. September 2024** _(paragraph)_
-
-|**Inhaltsverzeichnis: **|**Inhaltsverzeichnis: **|
-|---|---|
-|**PRÄAMBEL**..................................................................................................................... 2||
-|**I.**|**ALLGEMEINER TEIL**............................................................................................ 2|
-|§ 1|Geltungsbereich ................................................................................................. 2|
-|§ 2|Gliederung und Regelstudienzeit, Studienhöchstdauer ...................................... 3|
-|§ 3|Studienbeginn, Unterrichts- und Prüfungssprache ............................................. 3|
-|§ 4|Ausbildung in erster Hilfe, Pflegedienst, Famulatur ............................................ 4|
-|§ 5|Ziele des Studiengangs ....................... …
-
-**§ 11 Universitäre Prüfungen, Praktika, Übungen und Seminare, Unterricht am Phantom, Unterricht am Patienten** _(paragraph)_
-
-(3)[1] Prüfende der studienbegleitenden Prüfungen sind die verantwortlichen Lehrkräfte. 2Ihnen obliegt die Verantwortung für die Durchführung und Bewertung der Prüfungen. 3Einzelheiten zu Art, Umfang und Inhalt der zu erbringenden Leistungsnachweise sowie die Grundsätze für deren Bewertung, die Kriterien des Bestehens und das Verfahren bei Nichtbestehen bestimmt die bzw. der für die jeweilige Unterrichtsveranstaltung mit Leistungsnachweis Verantwortliche.[4] Eine erfolgreiche Teilnahme liegt vor, wenn sich die Kursleiterin bzw. der Kursleiter der scheinpflichtigen Unterrichtsveranstaltung bzw. das von ihr bzw. ihm zur Durchführung beauftragte prüfungsberechtigte Lehrpersonal vom ausreichenden Kenntnis- und Fähigkeitsstand der bzw. des Studierenden überzeugt hat.
-
-**§ 12 Prüfungsausschuss** _(paragraph)_
-
-(3)[1] Die Sitzungen des Prüfungsausschusses der Lehreinheit Zahnmedizin für hochschulinterne Prüfungen sind nicht öffentlich.[2] Die Dekanin bzw. der Dekan bzw. die Studiendekanin bzw. der Studiendekan können den Sitzungen des Ausschusses beratend beiwohnen.[3] Die Mitglieder des Prüfungsausschusses unterliegen der Amtsverschwiegenheit.[4] Die Pflicht der mit Prüfungsangelegenheiten befassten Personen zur Verschwiegenheit bestimmt sich nach Art. 26 Abs. 2 Sätzen 2 und 3 **BayHIG** .[5] Sofern sie nicht im öffentlichen Dienst stehen, sind sie durch die bzw. den Vorsitzenden zur Verschwiegenheit zu verpflichten.
-
-**§ 12 Prüfungsausschuss** _(paragraph)_
-
-(4)[1] Der Prüfungsausschuss der Lehreinheit Zahnmedizin achtet auf die ordnungsgemäße Durchführung der hochschulinternen Prüfungen.[2] Er trifft insbesondere die rechtsverbindlichen Entscheidungen bei Fragen des endgültigen Nichtbestehens von Pflichtveranstaltungen.[3] Er gibt Anregungen zur Steigerung der Qualität hochschulinterner Prüfungen im Fach Zahnmedizin.[4] Der Prüfungsausschuss achtet darauf, dass die Bestimmungen dieser Studien- und Prüfungsordnung eingehalten werden.[5] Er überprüft auf Antrag Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[6] Er gibt gegebenenfalls Anregungen zu Änderungen dieser Studienund Prüfungsordnung.[7] Die Mitglieder des Prüfungsausschusses der Lehreinheit Zahnmedizin haben das Recht auf Anwesenheit bei der Abnahme der hoch …
 
 _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
@@ -5744,7 +4598,7 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **10**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -5752,7 +4606,6 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 - Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Benedikt Kost, Prof. Dr. Sabine Müller, Dr. Peter Richter
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Andreas Feigenspan, Dr. Ingrid Brehm, PD Dr. Renato Frischknecht, Dr. Kaspar Gierke, PD Dr. Andreas Gießl, Prof. Dr. Johann Helmut Brandstätter
 - K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
@@ -5789,12 +4642,11 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20191028.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20191028.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-- Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
 
 #### Auszüge aus dem PO-Text
 
@@ -5822,7 +4674,7 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822-idf-20260331.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822-idf-20260331.md)  
 Pflicht-Stellen gefunden: **22**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -5830,7 +4682,6 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 - Advanced experimental physics: Solid state physics — Vorlesung — Prof. Dr. Heiko Weber
 - Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - Experimentalphysik II für Materialwissenschaftler, Nanotechnologen und Integrated Life Sciences — Vorlesung — Prof. Dr. Vojislav Krstic
-- Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 
 #### Auszüge aus dem PO-Text
@@ -5859,11 +4710,10 @@ _(+ 18 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
@@ -6120,13 +4970,11 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20260213.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20260213.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Kommunikation im ärztlichen Beruf — 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED47251 Kommunikation im ärztlichen Beruf — Seminar — Prof. Dr. Christoph Ostgathe, Dr. med. Tobias Steigleder
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
@@ -6643,12 +5491,11 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science-ws2010-2011.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science-ws2010-2011.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-- Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester) — Praktikum — Dr. Jürgen Einsiedel, Prof. Dr. Peter Gmeiner, Dr. Dorothée Weikert
 
 #### Auszüge aus dem PO-Text
 
@@ -6676,12 +5523,11 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-- Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester) — Praktikum — Dr. Jürgen Einsiedel, Prof. Dr. Peter Gmeiner, Dr. Dorothée Weikert
 
 #### Auszüge aus dem PO-Text
 
@@ -6758,18 +5604,15 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Biogene Arzneimittel, Phytopharmaka, Antibiotika, gentechnisch hergestellte Arzneimittel — Hauptseminar — Prof. Dr. Gregor Fuhrmann
 - Praktikum Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen — Praktikum — Dr. Jürgen Einsiedel, Prof. Dr. Peter Gmeiner, Dr. Harald Hübner
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-- Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester) — Praktikum — Dr. Jürgen Einsiedel, Prof. Dr. Peter Gmeiner, Dr. Dorothée Weikert
 - Pharmazeutische Biologie II (Pflanzliche Drogen) — Praktikum — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
 - Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
-- Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
-- MED  84701  Klinische Untersuchung Innere Medizin (I-Med. 353) — Vorlesung mit Übung — Axel Hueber, Dr. med. Melanie Hagen, Dr. med. Verena Schönau
 - Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
 
 **Studiengang:** - Chemie und Pharmazie (FAU Scientia)  -
@@ -6802,13 +5645,11 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-august2013.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-august2013.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Biogene Arzneimittel, Phytopharmaka, Antibiotika, gentechnisch hergestellte Arzneimittel — Hauptseminar — Prof. Dr. Gregor Fuhrmann
-- Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
-- Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester) — Praktikum — Dr. Jürgen Einsiedel, Prof. Dr. Peter Gmeiner, Dr. Dorothée Weikert
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
@@ -6837,13 +5678,11 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Biogene Arzneimittel, Phytopharmaka, Antibiotika, gentechnisch hergestellte Arzneimittel — Hauptseminar — Prof. Dr. Gregor Fuhrmann
-- Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
-- Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester) — Praktikum — Dr. Jürgen Einsiedel, Prof. Dr. Peter Gmeiner, Dr. Dorothée Weikert
 
 #### Auszüge aus dem PO-Text
 
@@ -7975,12 +6814,11 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/sto-geographie.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/sto-geographie.md)  
 Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
-- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
 - Hauptseminar Physische Geographie — Hauptseminar — Prof. Dr. Rupert Bäumler
 
 #### Auszüge aus dem PO-Text
@@ -8473,12 +7311,11 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Mathematisches Seminar in elementarer Stochastik — Seminar — Dr. Bart van Steirteghem
-- Rechtstheorie und juristische Methodenlehre — Vorlesung — Prof. Dr. Jan-Reinard Sieckmann
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
 - Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
@@ -9137,11 +7974,10 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Lineare und Kombinatorische Optimierung — 
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
@@ -9345,32 +8181,6 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 Mit der Immatrikulation in die Transition Studies Chemistry ab dem zweiten Semester gelten die Teilnehmenden zu den Modulprüfungen des zweiten Semesters Transition Studies Chemistry als zugelassen, sofern die verpflichtenden Module des ersten Semesters gem. § 5 Abs. 2 Satz 7 absolviert worden sind.
 
 _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 25.09.1980 i.d.F. 28.12.2004
-
-PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/zwischenpruefungso.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/zwischenpruefungso.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Vertiefungsseminar französische Sprachwissenschaft — Examensseminar — Prof. Dr. Ludwig Fesenmeier
-- Vorlesung Romanistik Sprachwissenschaft — Vorlesung — Prof. Dr. Ludwig Fesenmeier
-- Proseminar französische Literaturwissenschaft — Proseminar — Dr. Simon Matthias Bürgel
-- Proseminar spanische Literaturwissenschaft — Proseminar — Tanja Bollow
-- Mittelseminar italienische Literaturwissenschaft — Mittelseminar — Prof. Dr. Christian Rivoletti
-
-#### Auszüge aus dem PO-Text
-
-**§ 28 ) Philosophie**** _(paragraph)_
-
-(3) Die Pflichtscheine für Textseminare aus Modul II und III müssen in Veranstaltungen erworben werden, die verschiedenen Epochen der Philosophiegeschichte (Antike, Mittelalter, Neuzeit/Gegenwart) zugerechnet werden können.
-
-**§ 28 ) Philosophie**** _(paragraph)_
-
-(4)[1] Leistungsnachweise für Modul IV können auch in einschlägigen Veranstaltungen, die von anderen Fächern angeboten werden (allerdings nicht in Pflichtveranstaltungen des Zweit- beziehungsweise Nebenfaches!) erworben werden, außerdem in Kursen, die dem empfohlenen Erwerb von Latein- oder Griechischkenntnissen dienen.[2] Das Modul IV kann schließlich auch durch ein Praktikum (mit qualifiziertem Nachweis) von mindestens vier Wochen ersetzt werden.
 
 ---
 
@@ -10044,17 +8854,15 @@ _(+ 13 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20230731-idf-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20230731-idf-20260305.md)  
 Pflicht-Stellen gefunden: **31**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Advanced experimental physics: Solid state physics — Vorlesung — Prof. Dr. Heiko Weber
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - MA Päd M X (Forschungsseminar) / Kolloquium "Aktuelle Probleme auf dem Gebiet von Diversity Education und in der internationalen Bildungsforschung" — Sonstige Lehrveranstaltung — Prof. Dr. Anatoli Rakhkochkine
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - B. Sc.-Seminar über aktuelle Probleme der Technischen Chemie — Seminar — Dr. Andreas Bösmann, Dr. Peter Schulz, apl. Prof. Dr. Marco Haumann, Dr. Friederike Agel
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Staatsexamenskurs Mathematik (nicht vertieft) — Sonstige Lehrveranstaltung — Karin Pott
 - Theoretische Physik 1: Mechanik — Vorlesung — PD Dr. Michael Schmiedeberg
@@ -10164,358 +8972,6 @@ _(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### Allg StuO PrO  BA-MA  Phil ABMStPO Phil 20070927 i.d.F. 20180801.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20180801.md`](../pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20180801.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMStPO/Phil – Vom 27. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|
-|---|
-|I. Allgemeiner Teil .......................................................................................................................... 3|
-|§ 1<br>Geltungsbereich, Zweck der Bachelor- und Masterprüfung .................................................. 3|
-|§ 2<br>Akademische Grade ............................................................................................................. 3|
-|§ 3<br>Bachelorstudiengänge, Prüfungen und Regelstudienzeiten, Unterrichts- und|
-|Prüfungssprache .................................................................................................................. 3|
-|§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ................................................... 3|
-|§ 4<br>Inhaltliche Gliederung de …
-
-**§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(3)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Ein-Fach- und Zwei-Fach-Bachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.[2] Ein Wechsel nach dem fünften Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet.[4] Im Teil- bzw. Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[5] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestand …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter. 2Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaft …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### Allg StuO PrO  BA-MA  Phil ABMStPO Phil 20070927 i.d.F. 20190828.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20190828.md`](../pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20190828.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMStPO/Phil – Vom 27. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|
-|---|
-|**I. Allgemeiner Teil ........................................................................................................................ 3**|
-|§ 1<br>Geltungsbereich, Zweck der Bachelor- und Masterprüfung .................................................. 3|
-|§ 2<br>Akademische Grade ............................................................................................................. 3|
-|§ 3<br>Bachelorstudiengänge, Prüfungen und Regelstudienzeiten, Studienbeginn, Unterrichts-|
-|und Prüfungssprache ........................................................................................................... 3|
-|§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ................................................... 4|
-|§ 4<br>Inhaltliche Gli …
-
-**§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(3)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Ein-Fach- und Zwei-Fach-Bachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.[2] Ein Wechsel nach dem fünften Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet.[4] Im Teil- bzw. Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[5] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestand …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter. 2Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaft …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den 
-
-12 
-
-fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist  …
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### Allg StuO PrO  BA-MA  Phil ABMStPO Phil 20070927 i.d.F. 20200806.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20200806.md`](../pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20200806.md)  
-Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMStPO/Phil – Vom 27. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|
-|---|
-|**I. Allgemeiner Teil ........................................................................................................................ 3**|
-|§ 1<br>Geltungsbereich, Zweck der Bachelor- und Masterprüfung**.................................................. 3**|
-|§ 2<br>Akademische Grade**............................................................................................................. 3**|
-|§ 3<br>Bachelorstudiengänge, Prüfungen und Regelstudienzeiten, Studienbeginn, Unterrichts-|
-|und Prüfungssprache**........................................................................................................... 3**|
-|§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen**................................................... 4**|
-|§ 4<br>Inh …
-
-**§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(3)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Ein-Fach- und Zwei-Fach-Bachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.[2] Ein Wechsel nach dem fünften Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet.[4] Im Teil- bzw. Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[5] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestand …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter. 2Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-10 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissens …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßi- 
-
-12 
-
-ge Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme is …
-
-_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### Allg StuO PrO  BA-MA  Phil ABMStPO Phil 20070927 i.d.F. 20210806.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20210806.md`](../pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20210806.md)  
-Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMStPO/Phil – Vom 27. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|
-|---|
-|**I. Allgemeiner Teil ................................................................................................................. 3**|
-|§ 1<br>Geltungsbereich, Zweck der Bachelor- und Masterprüfung ........................................... 3|
-|§ 2<br>Akademische Grade ...................................................................................................... 3|
-|§ 3<br>Bachelorstudiengänge, Prüfungen und Regelstudienzeiten, Studienbeginn, Unterrichts-|
-|und Prüfungssprache .................................................................................................... 3|
-|§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ............................................ 4|
-|§ 4<br>Inhaltliche Gliederung des Bachelorstudiums ...... …
-
-**§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(3)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Ein-Fach- und Zwei-Fach-Bachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.[2] Ein Wechsel nach dem fünften Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet.[4] Im Teil- bzw. Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[5] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestand …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter. 2Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem **BayHSchG** , dem **BayHSchPG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu ei- 
-
-10 
-
-nem Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung. 6Auf Antrag kann der jeweilige Prüfungsausschuss  …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### Allg StuO PrO  BA-MA  Phil ABMStPO Phil 20070927 i.d.F. 20220629.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20220629.md`](../pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20220629.md)  
-Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMStPO/Phil – Vom 27. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|
-|---|
-|**I. Allgemeiner Teil ................................................................................................................. 3**|
-|§ 1<br>Geltungsbereich, Zweck der Bachelor- und Masterprüfung ........................................... 3|
-|§ 2<br>Akademische Grade ...................................................................................................... 3|
-|§ 3<br>Bachelorstudiengänge, Prüfungen und Regelstudienzeiten, Studienbeginn, Unterrichts-|
-|und Prüfungssprache .................................................................................................... 3|
-|§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ............................................ 4|
-|§ 4<br>Inhaltliche Gliederung des Bachelorstudiums ...... …
-
-**§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(3)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Ein-Fach- und Zwei-Fach-Bachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.[2] Ein Wechsel nach dem fünften Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet.[4] Im Teil- bzw. Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[5] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestand …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem **BayHSchG** , dem **BayHSchPG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem 
-
-10 
-
-Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[6] Auf Antrag kann der jeweilige Prüfungsausschus …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### Allg StuO PrO  BA-MA  Phil ABMStPO Phil 20070927 i.d.F. 20230822.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20230822.md`](../pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20070927-idf-20230822.md)  
-Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMStPO/Phil – Vom 27. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|
-|---|
-|**I. Allgemeiner Teil ................................................................................................................. 3**|
-|§ 1<br>Geltungsbereich, Zweck der Bachelor- und Masterprüfung ........................................... 3|
-|§ 2<br>Akademische Grade ...................................................................................................... 3|
-|§ 3<br>Bachelorstudiengänge, Prüfungen und Regelstudienzeiten, Studienbeginn, Unterrichts-|
-|und Prüfungssprache .................................................................................................... 3|
-|§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ............................................ 4|
-|§ 4<br>Inhaltliche Gliederung des Bachelorstudiums ...... …
-
-**§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(3)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Ein-Fach- und Zwei-Fach-Bachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.[2] Ein Wechsel nach dem fünften Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet.[4] Im Teil- bzw. Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[5] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestand …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem **BayHSchG** , dem **BayHSchPG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem 
-
-10 
-
-Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[6] Auf Antrag kann der Prüfungsausschuss im Einve …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### Allg StuO PrO BA-MA Phil ABMStPO Phil 20240807 i.d.F. 20241219.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20240807-idf-20241219.md`](../pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20240807-idf-20241219.md)  
-Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-**I. Allgemeiner Teil** ................................................................................................................. 2 § 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung .............................................. 2 § 2 Akademische Grade ......................................................................................................... 2 § 3 Bachelorstudiengänge, Prüfungen und Regelstudienzeiten, Studienbeginn, Unterrichtsund Prüfungssprache .......................................................................................................... 3 § 4 Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ............................................... 3 § 5 Inhaltliche Gliederung des Bachelorstudiums ................................................... …
-
-**§ 4 Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-werden von Amts wegen gemäß § 16 anerkannt.[5] Im Teil- bzw. Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[6] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen und die Pflicht, die Grundlagenund Orientierungsprüfung fristgemäß abzuschließen.[7] Im Falle des Wechsels von Teilzeit auf Vollzeit sind die noch fehlenden Leistungen der Grundlagen- und Orientierungsprüfung des Vollzeitstudiums binnen eines Jahres nach dem Wechsel nachzuholen.
-
-**§ 14 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem **BayHIG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Besc …
-
-**§ 18 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der 
-
-13 
-
-anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist  …
-
-_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### Allg StuO PrO BA-MA Phil ABMStPO Phil 20240807.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20240807.md`](../pruefungsordnungen/philosophische-fakultaet/allg-stuo-pro-ba-ma-phil-abmstpo-phil-20240807.md)  
-Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-**I. Allgemeiner Teil** ................................................................................................................. 2 § 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung .............................................. 2 § 2 Akademische Grade ......................................................................................................... 2 § 3 Bachelorstudiengänge, Prüfungen und Regelstudienzeiten, Studienbeginn, Unterrichtsund Prüfungssprache .......................................................................................................... 3 § 4 Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ............................................... 3 § 5 Inhaltliche Gliederung des Bachelorstudiums ................................................... …
-
-**§ 4 Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen und die Pflicht, die Grundlagenund Orientierungsprüfung fristgemäß abzuschließen.[7] Im Falle des Wechsels von Teilzeit auf Vollzeit sind die noch fehlenden Leistungen der Grundlagen- und Orientierungsprüfung des Vollzeitstudiums binnen eines Jahres nach dem Wechsel nachzuholen.
-
-**§ 14 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem **BayHIG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Besc …
-
-**§ 18 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### 24. August 2017
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1aesa-ba-1fach-ba-literatur-buch.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1aesa-ba-1fach-ba-literatur-buch.md)  
@@ -10544,7 +9000,7 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1fachba-literatur-und-buch.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1fachba-literatur-und-buch.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **14**
+Vorgeschlagene Pflichtveranstaltungen: **13**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -10556,7 +9012,6 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 - Proseminar französische Literaturwissenschaft — Proseminar — Dr. Simon Matthias Bürgel
 - Einführung in Sportwissenschaft — Vorlesung — Franziska Beck
-- Einführung in die Biochemie für Naturwissenschaftler Teil2 — Vorlesung — Prof. Dr. Henri Girao Franquelim
 - Ü Einführung in die Historischen Hilfswissenschaften — Übung — Dr. Matthias Maser
 - Proseminar spanische Literaturwissenschaft — Proseminar — Tanja Bollow
 - Mittelseminar italienische Literaturwissenschaft — Mittelseminar — Prof. Dr. Christian Rivoletti
@@ -10571,112 +9026,17 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 
 ---
 
-### 4. Juni 2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/3aes-20ba-ma-20psychologie.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/3aes-20ba-ma-20psychologie.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsleistungen (benotet) und Studienleistungen** _(paragraph)_
-
-|**Module**|**Lehrveranstaltungen**|**Lehrveranstaltungen**|**ECTS**|**Leistungs-**<br>**nachweis**|**Modul-**<br>**noten-**<br>**faktor**|**Gewich-**<br>**tung**<br>**MSc-Note**|
-|---|---|---|---|---|---|---|
-|�<br>**Methodenmodule (Pflichtmodule): M 1 und M 2**|||||||
-|**M1**Forschungsmethoden|VL Multivariate Verfahren<br>||4,5|PL|0,50||
-||VL Evaluationsforschung||4,0|PL|0,50||
-||Sem. Metaanalyse oder<br>Umfrageforschung||3,5|SL|||
-||Sem. Computergestützte<br>Datenauswertung mit multivariaten<br>Verfahren||3,0|SL|||
-||||15,0|||15/105|
-|**M2**Psychologische<br>Diagnostik|VL Psychologische Diagnostik||4,5|PL|1,0||
-||Sem. Gutachtenerstellung||4,0|SL|||
-||Sem. Spezielle Diagnostik||4,0|SL|||
-||||12,5|||12,5/105|
-|�<br>**Grundlagenmodule:**|**M 3 **|**oder**<br> **M 4 (siehe unten**)**|||||
-| …
-
-**Prüfungsleistungen (benotet) und Studienleistungen** _(paragraph)_
-
-� **Sonstige Module (Pflichtmodule)**
-
-**Prüfungsleistungen (benotet) und Studienleistungen** _(paragraph)_
-
-|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|
-|---|---|---|---|---|---|
-|**M11**Projektarbeit und<br>Kolloquium|Projektseminar|6,0|SL|||
-||Kolloquium|1,5|SL|||
-|||7,5||||
-|**M12**Nebenfach|Vorlesungen/Seminare||PL|1,0||
-|||10|||10/105|
-|**M13**Masterarbeit||30|MA|1,0||
-|||30|||30/105|
-|**M14**Externes Praktikum||7,5|SL|||
-|||7,5||||
-
----
-
-### 11. August 2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/4aes-20ba-ma-20psychologie.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/4aes-20ba-ma-20psychologie.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-
-#### Auszüge aus dem PO-Text
-
-**§ 1** _(paragraph)_
-
-|**Module**|**Lehrveranstaltungen**|**Lehrveranstaltungen**|**ECTS **|**Leistungs-**<br>**nachweis**|**Modul-**<br>**noten-**<br>**faktor**|**Gewich-**<br>**tung**<br>**MSc-**<br>**Note**|
-|---|---|---|---|---|---|---|
-|�<br>**Methodenmodule (Pflichtmodule): M 1 und M 2**|||||||
-|**M1**Forschungsmetho-<br>den|VL Multivariate Verfahren||4,5|PL|0,50||
-||VL Evaluationsforschung||4,0|PL|0,50||
-||Sem. Metaanalyse oder<br>Umfrageforschung||3,5|SL|||
-||Sem. Computergestützte<br>Datenauswertung mit<br>multivariaten Verfahren||3,0|SL|||
-||||15,0|||15/105|
-|**M2**Psychologische<br>Diagnostik|VL Psychologische Diagnostik||4,5|PL|1,0||
-||Sem.|Gutachtenerstellung|4,0|SL|||
-||Sem.|Spezielle Diagnostik|4,0|SL|||
-||||12,5|||12,5/105|
-|�<br>**Grundlagenmodule: M 3**||**oder**<br> **M 4 (siehe unten**)**||| …
-
-**Anmerkung:** _(paragraph)_
-
-|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|||||
-|---|---|---|---|---|---|
-|**M11**Projektarbeit und<br>Kolloquium|Projektseminar|6,0|SL|||
-||Kolloquium|1,5|SL|||
-|||7,5||||
-|**M12**Nebenfach|Vorlesungen/Seminare||PL|1,0||
-|||10|||10/105|
-|**M13**Masterarbeit||30|MA|1,0||
-|||30|||30/105|
-|**M14**Externes||7,5|SL|||
-|Praktikum||7,5||||
-
----
-
 ### 24. August 2017
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/6aesa-ba-ma-psychologie.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/6aesa-ba-ma-psychologie.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -10708,85 +9068,19 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### berufsbegl BA Sportwissenschaft BPOSport 20160509 i.d.F. 20190115.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/berufsbegl-ba-sportwissenschaft-bposport-20160509-idf-20190115.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/berufsbegl-ba-sportwissenschaft-bposport-20160509-idf-20190115.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1    Geltungsbereich, Zweck der Bachelorprüfung .............................................................. 2 § 2    Akademischer Grad ...................................................................................................... 2 § 3    Zulassungsvoraussetzungen, Studienprofil und Ziel des Studiums ............................... 2 § 4    Prüfungen, Regelstudienzeit, Studienbeginn,  Prüfungs- und Unterrichtssprache ......... 2 § 5    ECTS-Punkte ............................................................................................................... 3 § 6    Modularisierung, Studienbegleitende Leistungsnachweise ........................................... 3 § 7    Anwesenheitspflicht ...................................................................................... …
-
-**§ 4 Prüfungen, Regelstudienzeit, Studienbeginn, Prüfungs- und Unterrichtssprache** _(paragraph)_
-
-(4)[1] Die Unterrichts- und Prüfungssprache ist Deutsch.[2] Einzelne Lehrveranstaltungen und Prüfungen im Wahl(pflicht)bereich können in Englisch abgehalten werden.[3] Näheres regeln die **Anlage** und das Modulhandbuch.[4] Soweit nichts anderes bestimmt ist, folgt die Prüfungssprache der Unterrichtssprache.
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Gleiches gilt in Fällen des § 10 Abs. 2 Satz 3 für die Wertung einer bereits verbindlich angemeldeten bzw. im Falle des § 10 Abs. 3 Satz 2 bereits erbrachten Prüfungs- bzw. Studienleistung; wird die Teilnahmeverpflichtung nicht erfüllt, so gilt die entsprechende Leistung als „nicht bestanden“.[3] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und  …
-
-**§ 9 Prüfungsausschuss, Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der Prüfungsausschuss nach § 11 der Allgemeinen Studien- und Prüfungsordnung für Bachelorund Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie vom 27. September 2007 – **ABMStPO/Phil** – in der jeweils geltenden Fassung zuständig.
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### berufsbegl BA Sportwissenschaft BPOSport 20160509 i.d.F. 20190503.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/berufsbegl-ba-sportwissenschaft-bposport-20160509-idf-20190503.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/berufsbegl-ba-sportwissenschaft-bposport-20160509-idf-20190503.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1    Geltungsbereich, Zweck der Bachelorprüfung .............................................................. 2 § 2    Akademischer Grad ...................................................................................................... 2 § 3    Zulassungsvoraussetzungen, Studienprofil und Ziel des Studiums ............................... 2 § 4    Prüfungen, Regelstudienzeit, Studienbeginn,  Prüfungs- und Unterrichtssprache ......... 3 § 5    ECTS-Punkte ............................................................................................................... 3 § 6    Modularisierung, Studienbegleitende Leistungsnachweise ........................................... 3 § 7    Anwesenheitspflicht ...................................................................................... …
-
-**(2) Die Regelstudienzeit beträgt neun Semester.** _(paragraph)_
-
-(4)[1] Die Unterrichts- und Prüfungssprache ist Deutsch.[2] Einzelne Lehrveranstaltungen und Prüfungen im Wahl(pflicht)bereich können in Englisch abgehalten werden.[3] Näheres regeln die **Anlage** und das Modulhandbuch.[4] Soweit nichts anderes bestimmt ist, folgt die Prüfungssprache der Unterrichtssprache.
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-**§ 9 Prüfungsausschuss, Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der Prüfungsausschuss nach § 11 der Allgemeinen Studien- und Prüfungsordnung für Bachelorund Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie vom 27. September 2007 – **ABMStPO/Phil** – in der jeweils geltenden Fassung zuständig.
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### BSc-MSc Psychologie BMStPO-PSL 20070928 i.d.F. 20200911.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20200911.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20200911.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche — Hauptseminar
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -10822,17 +9116,15 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20210806.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20210806.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche — Hauptseminar
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -10870,18 +9162,15 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20220328.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20220328.md)  
 Pflicht-Stellen gefunden: **11**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar — Dr. Christian Albrecht
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -10916,14 +9205,12 @@ _(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20220328-aes.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20220328-aes.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -10951,21 +9238,17 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20240229.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20240229.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche — Hauptseminar
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -10993,18 +9276,14 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20240926.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20240926.md)  
 Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11032,18 +9311,14 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20241219.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20241219.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11071,17 +9346,14 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20230822.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/bsc-msc-psychologie-bmstpo-psl-20230822.md)  
 Pflicht-Stellen gefunden: **11**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11187,185 +9459,19 @@ _Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zug
 
 ---
 
-### PDF vom 28.09.2007
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/pro-stuo-20ba-20ma-20psycho.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/pro-stuo-20ba-20ma-20psycho.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Vom 28. September 2007** _(paragraph)_
-
-|**I.**|**Allgemeiner Teil................................................................................................ 2**|**Allgemeiner Teil................................................................................................ 2**|
-|---|---|---|
-||**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung.............. 2**|
-||**§ 2**|**Akademischer Grad............................................................................... 2**|
-||**§ 3**|**Bachelorstudiengang, Prüfungen und Regelstudienzeiten ............... 2**|
-||**§ 4**|**Masterstudiengang, Prüfungen und Regelstudienzeiten................... 3**|
-||**§ 5**|**ECTS-Punkte.......................................................................................... 3**|
-||**§ 6**|**Modularisierung.................. …
-
-**§ 4 Masterstudiengang, Prüfungen und Regelstudienzeiten** _(paragraph)_
-
-- (1)[1] Das konsekutive Masterstudium baut inhaltlich auf dem Bachelorstudium nach § 3 auf; es ist stärker forschungsorientiert.[2] Es wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus allen dem Masterstudium zugeordneten Modulen einschließlich des Moduls Masterarbeit, die sich in einen Pflichtbereich und einen Schwerpunktbereich untergliedern.[4] Die Zahl der zum erfolgreichen Abschluss erforderlichen ECTS-Punkte beträgt 120 ECTS-Punkte.
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-- (1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Für die Bestellung der Prüferinnen oder Prüfer hat die Studierende oder der Studierende ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüferinnen oder Prüfer besteht nicht.[ 4] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig.[5] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-- (2)[1] Zur Beisitzerin oder zu …
-
-**§ 34 Masterprüfung** _(paragraph)_
-
-|Nr.|Module|Art|ECTS-Punkte|
-|---|---|---|---|
-|1.|Forschungsmethoden|Pflichtmodul|15|
-|2.|Psychologische Diagnostik|Pflichtmodul|12,5|
-|3.|Grundlagenvertiefung: Kognitive, mo-<br>tivationale und affektive Prozesse|Wahlpflichtmodul|12,5|
-|4.|Grundlagenvertiefung: Entwicklungs-<br>psychopathologie|Wahlpflichtmodul|12,5|
-|5.|Arbeits-und Personalpsychologie|Wahlpflichtmodul|12,5|
-|6.|Ressourcen, Gesundheit, Wohlbefin-<br>den|Wahlpflichtmodul|12,5|
-|7.|KlinischePsychologie|Wahlpflichtmodul|12,5|
-|8.|Rechtspsychologie|Wahlpflichtmodul|12,5|
-|9.|Alternspsychologie|Wahlpflichtmodul|12,5|
-|10.|PsychogerontologischeIntervention|Wahlpflichtmodul|12,5|
-|11.|Projektarbeit und Kolloquium|Pflichtmodul|7,5|
-|12.|Nebenfach|Pflichtmodul|10|
-|13.|Masterarbeit|Pflichtmodul|30|
-|14.<br>|ExternesPraktikum<br>| …
-
----
-
-### PDF vom 28.09.2007 i.d.F. 11.08.2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/prostuo-20ba-ma-psycho.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/prostuo-20ba-ma-psycho.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL - Vom 28. September 2007** _(paragraph)_
-
-**I. Allgemeiner Teil .................................................................................................... 2 § 1   Geltungsbereich, Zweck der Bachelor- und Masterprüfung ..................... 2 § 2   Akademischer Grad ...................................................................................... 2 § 3   Bachelorstudiengang, Prüfungen und Regelstudienzeiten ...................... 3 § 4   Masterstudiengang, Prüfungen und Regelstudienzeiten .......................... 3 § 5   ECTS-Punkte ................................................................................................. 3 § 6   Modularisierung ............................................................................................ 3 § 7   Prüfungsfristen, Folgen der Fristversäumnis .................... …
-
-**§ 4 Masterstudiengang, Prüfungen und Regelstudienzeiten** _(paragraph)_
-
-(1)[1] Das konsekutive Masterstudium baut inhaltlich auf dem Bachelorstudium nach § 3 auf; es ist stärker forschungsorientiert.[2] Es wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus allen dem Masterstudium zugeordneten Modulen einschließlich des Moduls Masterarbeit, die sich in einen Pflichtbereich und einen Schwerpunktbereich untergliedern.[4] Die Zahl der zum erfolgreichen Abschluss erforderlichen ECTS-Punkte beträgt 120 ECTS-Punkte.
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Für die Bestellung der Prüferinnen oder Prüfer hat die Studierende oder der Studierende ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüferinnen oder Prüfer besteht nicht.[ 4] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig.[5] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Be …
-
-**§ 35 Masterprüfung** _(paragraph)_
-
-|Nr.|Module|Art|ECTS-Punkte|
-|---|---|---|---|
-|1.|Forschungsmethoden|Pflichtmodul|15|
-|2.|Psychologische Diagnostik|Pflichtmodul|12,5|
-|3.|Grundlagenvertiefung: Kognitive,<br>motivationale und affektive Prozesse|Wahlpflichtmodul|12,5|
-|4.|Grundlagenvertiefung: Entwicklungs-<br>psychopathologie|Wahlpflichtmodul|12,5|
-|5.|Arbeits-und Personalpsychologie|Wahlpflichtmodul|12,5|
-|6.|Ressourcen, Gesundheit, Wohlbefin-<br>den|Wahlpflichtmodul|12,5|
-|7.|KlinischePsychologie|Wahlpflichtmodul|12,5|
-|8.|Rechtspsychologie|Wahlpflichtmodul|12,5|
-|9.|Alternspsychologie|Wahlpflichtmodul|12,5|
-|10.|PsychogerontologischeIntervention|Wahlpflichtmodul|12,5|
-|11.|Projektarbeit und Kolloquium|Pflichtmodul|7,5|
-|12.|Nebenfach|Pflichtmodul|10|
-|13.|Masterarbeit|Pflichtmodul|30|
-|14.|ExternesPraktikum|Pflichtmod …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 28.09.2007 i.d.F. 04.06.2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/prostuo-20ba-ma-psychojuni2010.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/prostuo-20ba-ma-psychojuni2010.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL - Vom 28. September 2007** _(paragraph)_
-
-|**I.**|**Allgemeiner Teil ................................................................................................ 2**|**Allgemeiner Teil ................................................................................................ 2**|
-|---|---|---|
-||**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung ................. 2**|
-||**§ 2**|**Akademischer Grad .................................................................................. 2**|
-||**§ 3**|**Bachelorstudiengang, Prüfungen und Regelstudienzeiten .................. 3**|
-||**§ 4**|**Masterstudiengang, Prüfungen und Regelstudienzeiten ...................... 3**|
-||**§ 5**|**ECTS-Punkte ............................................................................................. 3**|
-||**§ 6**|**Modularisier …
-
-**§ 4 Masterstudiengang, Prüfungen und Regelstudienzeiten** _(paragraph)_
-
-(1)[1] Das konsekutive Masterstudium baut inhaltlich auf dem Bachelorstudium nach § 3 auf; es ist stärker forschungsorientiert.[2] Es wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus allen dem Masterstudium zugeordneten Modulen einschließlich des Moduls Masterarbeit, die sich in einen Pflichtbereich und einen Schwerpunktbereich untergliedern.[4] Die Zahl der zum erfolgreichen Abschluss erforderlichen ECTS-Punkte beträgt 120 ECTS-Punkte.
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Für die Bestellung der Prüferinnen oder Prüfer hat die Studierende oder der Studierende ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüferinnen oder Prüfer besteht nicht.[ 4] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig.[5] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Be …
-
-**§ 35 Masterprüfung** _(paragraph)_
-
-|Nr.|Module|Art|ECTS-Punkte|
-|---|---|---|---|
-|1.|Forschungsmethoden|Pflichtmodul|15|
-|2.|Psychologische Diagnostik|Pflichtmodul|12,5|
-|3.|Grundlagenvertiefung: Kognitive,<br>motivationale und affektive Prozesse|Wahlpflichtmodul|12,5|
-|4.|Grundlagenvertiefung: Entwicklungs-<br>psychopathologie|Wahlpflichtmodul|12,5|
-|5.|Arbeits-und Personalpsychologie|Wahlpflichtmodul|12,5|
-|6.|Ressourcen, Gesundheit, Wohlbefin-<br>den|Wahlpflichtmodul|12,5|
-|7.|Klinische Psychologie|Wahlpflichtmodul|12,5|
-|8.|Rechtspsychologie|Wahlpflichtmodul|12,5|
-|9.|Alternspsychologie|Wahlpflichtmodul|12,5|
-|10.|Psychogerontologische Intervention|Wahlpflichtmodul|12,5|
-|11.|Projektarbeit und Kolloquium|Pflichtmodul|7,5|
-|12.|Nebenfach|Pflichtmodul|10|
-|13.|Masterarbeit|Pflichtmodul|30|
-|14.|Externes Praktikum|Pflicht …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### PDF vom 28.09.2007 i.d.F. 24.08.2017
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/prostuo-ba-ma-psycho-bmstpo-psl-aug2017.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/prostuo-ba-ma-psycho-bmstpo-psl-aug2017.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche — Hauptseminar
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11391,188 +9497,17 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 28.09.2007 i.d.F. 31.07.2012
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/prostuo-ba-ma-psycho-juli2012.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/prostuo-ba-ma-psycho-juli2012.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL - Vom 28. September 2007** _(paragraph)_
-
-**I. Allgemeiner Teil .................................................................................................... 2 § 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung ....................... 2 § 2 Akademischer Grad ........................................................................................ 2 § 3 Bachelorstudiengang, Prüfungen und Regelstudienzeiten ........................ 3 § 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ....................... 3 § 4 Masterstudiengang, Prüfungen und Regelstudienzeiten ............................ 3 § 5 ECTS-Punkte ................................................................................................... 3 § 6 Modularisierung .................................................................................. …
-
-**§ 4 Masterstudiengang, Prüfungen und Regelstudienzeiten** _(paragraph)_
-
-(1)[1] Das konsekutive Masterstudium baut inhaltlich auf dem Bachelorstudium nach § 3 auf; es ist stärker forschungsorientiert.[2] Es wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus allen dem Masterstudium zugeordneten Modulen einschließlich des Moduls Masterarbeit, die sich in einen Pflichtbereich und einen Schwerpunktbereich untergliedern.[4] Die Zahl der zum erfolgreichen Abschluss erforderlichen ECTS-Punkte beträgt 120 ECTS-Punkte.
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Für die Bestellung der Prüferinnen oder Prüfer hat die Studierende oder der Studierende ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüferinnen oder Prüfer besteht nicht.[ 4] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig.[5] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Be …
-
-**(2) Der Studiengang umfasst folgende Module:** _(paragraph)_
-
-|Nr.|Module|Art|ECTS-Punkte|
-|---|---|---|---|
-|1.|Forschungsmethoden|Pflichtmodul|15|
-|2.|Psychologische Diagnostik|Pflichtmodul|12,5|
-|3.|Grundlagenvertiefung: Kognitive,<br>motivationale und affektive Prozesse|Wahlpflichtmodul|12,5|
-|4.|Grundlagenvertiefung: Entwicklungs-<br>psychopathologie|Wahlpflichtmodul|12,5|
-|5.|Arbeits-und Personalpsychologie|Wahlpflichtmodul|12,5|
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 09.05.2016
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/stuopro-ba-sportwissenschaft.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/stuopro-ba-sportwissenschaft.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Bachelorprüfung ........................................................... 2 § 2 Akademischer Grad ................................................................................................... 2 § 3 Zulassungsvoraussetzungen, Studienprofil und Ziel des Studiums ............................ 2 § 4 Prüfungen, Regelstudienzeit, Prüfungs- und Unterrichtssprache ............................... 2 § 5 ECTS-Punkte ............................................................................................................. 3 § 6 Modularisierung, Studienbegleitende Leistungsnachweise ........................................ 3 § 7 Anwesenheitspflicht ................................................................................................... 3 § 8 Prüfungsf …
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur 
-
-3 
-
-Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erford …
-
-**§ 9 Prüfungsausschuss, Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der Prüfungsausschuss zuständig; die Bestimmungen der §§ 11 und 13 **ABMStPO/Phil** gelten entsprechend.
-
-**§ 28 Wiederholung von Prüfungen** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung zweimal wiederholt werden; Studienleistungen können beliebig oft wiederholt werden.[ 2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studien- bzw. Teilleistung beschränkt.[3] Diejenigen Prüfungen, die Teil der Grundlagen- und Orientierungsprüfung sind, können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 27 Abs. 9 Satz 1.[4] Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, welcher in der Regel spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses stattfindet.[5] Bei Wechsel des Moduls besteht keine Wiederholungspflicht für bereits begonnen …
-
----
-
-### 4. Juni 2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/3aes-20ba-ma-20psychologie.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/3aes-20ba-ma-20psychologie.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsleistungen (benotet) und Studienleistungen** _(paragraph)_
-
-|**Module**|**Lehrveranstaltungen**|**Lehrveranstaltungen**|**ECTS**|**Leistungs-**<br>**nachweis**|**Modul-**<br>**noten-**<br>**faktor**|**Gewich-**<br>**tung**<br>**MSc-Note**|
-|---|---|---|---|---|---|---|
-|�<br>**Methodenmodule (Pflichtmodule): M 1 und M 2**|||||||
-|**M1**Forschungsmethoden|VL Multivariate Verfahren<br>||4,5|PL|0,50||
-||VL Evaluationsforschung||4,0|PL|0,50||
-||Sem. Metaanalyse oder<br>Umfrageforschung||3,5|SL|||
-||Sem. Computergestützte<br>Datenauswertung mit multivariaten<br>Verfahren||3,0|SL|||
-||||15,0|||15/105|
-|**M2**Psychologische<br>Diagnostik|VL Psychologische Diagnostik||4,5|PL|1,0||
-||Sem. Gutachtenerstellung||4,0|SL|||
-||Sem. Spezielle Diagnostik||4,0|SL|||
-||||12,5|||12,5/105|
-|�<br>**Grundlagenmodule:**|**M 3 **|**oder**<br> **M 4 (siehe unten**)**|||||
-| …
-
-**Prüfungsleistungen (benotet) und Studienleistungen** _(paragraph)_
-
-� **Sonstige Module (Pflichtmodule)**
-
-**Prüfungsleistungen (benotet) und Studienleistungen** _(paragraph)_
-
-|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|
-|---|---|---|---|---|---|
-|**M11**Projektarbeit und<br>Kolloquium|Projektseminar|6,0|SL|||
-||Kolloquium|1,5|SL|||
-|||7,5||||
-|**M12**Nebenfach|Vorlesungen/Seminare||PL|1,0||
-|||10|||10/105|
-|**M13**Masterarbeit||30|MA|1,0||
-|||30|||30/105|
-|**M14**Externes Praktikum||7,5|SL|||
-|||7,5||||
-
----
-
-### 11. August 2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/4aes-20ba-ma-20psychologie.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/4aes-20ba-ma-20psychologie.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-
-#### Auszüge aus dem PO-Text
-
-**§ 1** _(paragraph)_
-
-|**Module**|**Lehrveranstaltungen**|**Lehrveranstaltungen**|**ECTS **|**Leistungs-**<br>**nachweis**|**Modul-**<br>**noten-**<br>**faktor**|**Gewich-**<br>**tung**<br>**MSc-**<br>**Note**|
-|---|---|---|---|---|---|---|
-|�<br>**Methodenmodule (Pflichtmodule): M 1 und M 2**|||||||
-|**M1**Forschungsmetho-<br>den|VL Multivariate Verfahren||4,5|PL|0,50||
-||VL Evaluationsforschung||4,0|PL|0,50||
-||Sem. Metaanalyse oder<br>Umfrageforschung||3,5|SL|||
-||Sem. Computergestützte<br>Datenauswertung mit<br>multivariaten Verfahren||3,0|SL|||
-||||15,0|||15/105|
-|**M2**Psychologische<br>Diagnostik|VL Psychologische Diagnostik||4,5|PL|1,0||
-||Sem.|Gutachtenerstellung|4,0|SL|||
-||Sem.|Spezielle Diagnostik|4,0|SL|||
-||||12,5|||12,5/105|
-|�<br>**Grundlagenmodule: M 3**||**oder**<br> **M 4 (siehe unten**)**||| …
-
-**Anmerkung:** _(paragraph)_
-
-|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|||||
-|---|---|---|---|---|---|
-|**M11**Projektarbeit und<br>Kolloquium|Projektseminar|6,0|SL|||
-||Kolloquium|1,5|SL|||
-|||7,5||||
-|**M12**Nebenfach|Vorlesungen/Seminare||PL|1,0||
-|||10|||10/105|
-|**M13**Masterarbeit||30|MA|1,0||
-|||30|||30/105|
-|**M14**Externes||7,5|SL|||
-|Praktikum||7,5||||
-
----
-
 ### 24. August 2017
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/6aesa-ba-ma-psychologie.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/6aesa-ba-ma-psychologie.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11608,17 +9543,15 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20200911.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20200911.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche — Hauptseminar
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11654,17 +9587,15 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20210806.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20210806.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche — Hauptseminar
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11702,18 +9633,15 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20220328.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20070928-idf-20220328.md)  
 Pflicht-Stellen gefunden: **11**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar — Dr. Christian Albrecht
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11748,14 +9676,12 @@ _(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20220328-aes.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20220328-aes.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11783,21 +9709,17 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20240229.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20240229.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche — Hauptseminar
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11825,18 +9747,14 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20240926.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20240926.md)  
 Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11864,18 +9782,14 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20241219.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20230822-idf-20241219.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11903,17 +9817,14 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20230822.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/bsc-msc-psychologie-bmstpo-psl-20230822.md)  
 Pflicht-Stellen gefunden: **11**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -11941,471 +9852,19 @@ _(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### European MA Lexicography  MPOEMLex 20090904 i.d.F. 20190308.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/european-ma-lexicography-mpoemlex-20090904-idf-20190308.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/european-ma-lexicography-mpoemlex-20090904-idf-20190308.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ....................................................................... 2|
-|---|---|---|
-|§|2|Akademischer Grad ............................................................................................................. 2|
-|§|3|Studienbeginn ...................................................................................................................... 2|
-|§|4|Struktur des Masterstudiengangs, Sprache, Prüfungen und Regelstudienzeit .................. 2|
-|§|5|ECTS-Punkte ....................................................................................................................... 2|
-|§|6|Modularisierung ................................................................................................................... 3|
-|§|6a|An …
-
-**§ 6 a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-**§ 12 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachtern.[2] Zu Prüfenden, Gutachterinnen und Gutachter können alle nach BayHSchG, BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche  …
-
----
-
-### European MA Lexicography  MPOEMLex 20090904 i.d.F. 20190723.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/european-ma-lexicography-mpoemlex-20090904-idf-20190723.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/european-ma-lexicography-mpoemlex-20090904-idf-20190723.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ....................................................................... 2|
-|---|---|---|
-|§|2|Akademischer Grad ............................................................................................................. 2|
-|§|3|Studienbeginn ...................................................................................................................... 2|
-|§|4|Struktur des Masterstudiengangs, Prüfungen und Regelstudienzeit, Unterrichts- und|
-|||Prüfungssache  .................................................................................................................... 2|
-|§|5|ECTS-Punkte ....................................................................................................................... 2|
-|§|6|Leistungsnachweis …
-
-**§ 6 a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-**§ 12 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen bzw. Gutachtern können alle nach BayHSchG, BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche …
-
----
-
-### European MA Lexicography  MPOEMLex 20090904 i.d.F. 20230223.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/european-ma-lexicography-mpoemlex-20090904-idf-20230223.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/european-ma-lexicography-mpoemlex-20090904-idf-20230223.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ................................................................2|
-|---|---|---|
-|§|2|Akademischer Grad ....................................................................................................2|
-|§|3|Studienbeginn .............................................................................................................2|
-|§|4|Struktur des Masterstudiengangs, Prüfungen und Regelstudienzeit, Unterrichts- und|
-|||Prüfungssprache  ........................................................................................................2|
-|§|5|ECTS-Punkte ..............................................................................................................2|
-|§|6|Leistungsnachweise ............................................... …
-
-**§ 6 a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-3 
-
-(2)[1] Die Teilnahme ist dan …
-
-**§ 12 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen bzw. Gutachtern können alle nach **BayHIG** und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[6] Auf Antrag kann der jeweilige Prüfungsausschuss im Einvernehmen mit der jeweiligen …
-
----
-
-### European MA Lexicography  MPOEMLex 20090904 i.d.F. 20230731.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/european-ma-lexicography-mpoemlex-20090904-idf-20230731.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/european-ma-lexicography-mpoemlex-20090904-idf-20230731.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§ 1|Geltungsbereich, Zweck der Masterprüfung .................................................... 2|
-|---|---|
-|§ 2|Akademischer Grad ......................................................................................... 2|
-|§ 3|Studienbeginn .................................................................................................. 2|
-|§ 4|Struktur des Masterstudiengangs, Prüfungen und Regelstudienzeit,|
-|Unterrichts- und Prüfungssprache .............................................................................. 2||
-|§ 5|ECTS-Punkte ................................................................................................... 4|
-|§ 6|Modularisierung, studienbegleitende Leistungsnachweise .............................. 4|
-|§ 6 a|Anwesenheitspflicht ...................... …
-
-**§ 6 a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an 
-
-4 
-
-einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist d …
-
-**§ 12 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen bzw. Gutachtern können alle nach **BayHIG** und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[6] Auf Antrag kann der jeweilige Prüfungsausschuss im Einvernehmen mit der jeweiligen …
-
----
-
-### MA Physical Activity and Health PO PhAH 20070927 i.d.F. 20190809.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20070927-idf-20190809.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20070927-idf-20190809.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§ 1|Geltungsbereich, Zweck der Masterprüfung .......................................................................... 2|
-|---|---|
-|§ 2|Akademischer Grad ................................................................................................................ 2|
-|§ 3|Regelstudienzeit, Prüfungen, Studienbeginn, Unterrichts- und Prüfungssprache ................ 2|
-|§ 4|ECTS-Punkte .......................................................................................................................... 3|
-|§ 5|Modularisierung, Studienbegleitende Leistungsnachweise ................................................... 3|
-|§ 5a|Anwesenheitspflicht ................................................................................................................ 3|
-|§ 6|Prüfungsfristen, Fri …
-
-**§ 5a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht 
-
-3 
-
-werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erford …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wiss …
-
----
-
-### MA Physical Activity and Health PO PhAH 20070927 i.d.F. 20220721.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20070927-idf-20220721.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20070927-idf-20220721.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§ 1|Geltungsbereich, Zweck der Masterprüfung .......................................................................... 2|
-|---|---|
-|§ 2|Akademischer Grad ................................................................................................................ 2|
-|§ 3|Regelstudienzeit, Prüfungen, Studienbeginn, Unterrichts- und Prüfungssprache ................ 2|
-|§ 4|ECTS-Punkte .......................................................................................................................... 3|
-|§ 5|Modularisierung, Studienbegleitende Leistungsnachweise ................................................... 3|
-|§ 5a|Anwesenheitspflicht ................................................................................................................ 3|
-|§ 6|Prüfungsfristen, Fri …
-
-**§ 5a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Mo- 
-
-3 
-
-dulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erfo …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Es können alle nach dem **BayHSchG** , dem **BayHSchPG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zu …
-
----
-
-### MA Physical Activity and Health PO PhAH 20070927 i.d.F. 20230731.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20070927-idf-20230731.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20070927-idf-20230731.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§ 1|Geltungsbereich, Zweck der Masterprüfung .......................................................................... 2|
-|---|---|
-|§ 2|Akademischer Grad ................................................................................................................ 2|
-|§ 3|Regelstudienzeit, Prüfungen, Studienbeginn, Unterrichts- und Prüfungssprache ................ 2|
-|§ 4|ECTS-Punkte .......................................................................................................................... 3|
-|§ 5|Modularisierung, Studienbegleitende Leistungsnachweise ................................................... 3|
-|§ 5a|Anwesenheitspflicht ................................................................................................................ 3|
-|§ 6|Prüfungsfristen, Fri …
-
-**§ 5a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Mo- 
-
-3 
-
-dulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erfo …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Es können alle nach dem **BayHSchG** , dem **BayHSchPG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zu …
-
----
-
-### MA Physical Activity and Health PO PhAH 20070927 i.d.F. 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20070927-idf-20240926.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20070927-idf-20240926.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§ 1|Geltungsbereich, Zweck der Masterprüfung .......................................................................... 2|
-|---|---|
-|§ 2|Akademischer Grad ................................................................................................................ 2|
-|§ 3|Regelstudienzeit, Prüfungen, Studienbeginn, Unterrichts- und Prüfungssprache ................ 2|
-|§ 4|ECTS-Punkte .......................................................................................................................... 3|
-|§ 5|Modularisierung, Studienbegleitende Leistungsnachweise ................................................... 3|
-|§ 5a|Anwesenheitspflicht ................................................................................................................ 3|
-|§ 6|Prüfungsfristen, Fri …
-
-**§ 5a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige 
-
-3 
-
-Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erford …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Es können alle nach dem **BayHSchG** , dem **BayHSchPG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zu …
-
-**§ 23 Wiederholung von Prüfungen, Zusatzmodule** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Masterarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden.[2] Hinsichtlich der Wiederholung der Masterarbeit gilt § 27 Abs 9.[3] Prüfungen von Praktika, Geländeseminaren und Exkursionen können zweimal wiederholt werden, sofern im Falle der Wiederholung abweichend von Satz 5 auch das Praktikum, das Geländeseminar oder die Exkursion wiederholt werden muss.[4] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt,[5] Bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden  …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### MA Physical Activity and Health PO PhAH 20241219.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20241219.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/ma-physical-activity-and-health-po-phah-20241219.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Akademischer Grad ......................................................................................................... 2 § 3 Regelstudienzeit, Prüfungen, Studienbeginn, Unterrichts- und  Prüfungssprache............ 2 § 4 ECTS-Punkte .................................................................................................................. 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .............................................. 2 § 6 Anwesenheitspflicht ......................................................................................................... 3 § 7 Prüfungsfristen, Fristversäumnis ................................................ …
-
-**§ 6 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Es können alle nach dem **BayHIG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigte bestellt werden, soweit diese Personen Mitglieder der FAU sind.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der Hochschulprüferverordnung bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gr …
-
-**§ 26 Wiederholung von Prüfungen, Zusatzmodule** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Masterarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden.[2] Hinsichtlich der Wiederholung der Masterarbeit gilt § 30 Abs. 10.[3] Prüfungen von Praktika, Geländeseminaren und Exkursionen können zweimal wiederholt werden, sofern im Falle der Wiederholung nach Satz 5 auch das Praktikum, das Geländeseminar oder die Exkursion wiederholt werden muss. 4Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt,[5] Bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderli …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### MSc Gerontologie PO M.Sc. Gero 20070927 i.d.F. 20211221.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/msc-gerontologie-po-m-sc-gero-20070927-idf-20211221.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/msc-gerontologie-po-m-sc-gero-20070927-idf-20211221.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich ......................................................................................................... 2|
-|---|---|---|
-|§|2|Abschlussgrad ........................................................................................................... 2|
-|§|3|Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ......................................... 2|
-|§|4|Struktur des Masterstudiengangs und der Prüfungen, Regelstudienzeit,|
-|||Studienbeginn, Unterrichts- und Prüfungssprache ..................................................... 3|
-|§|5|ECTS-Punkte ............................................................................................................. 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise......................................... 3|
-|§|6a …
-
-**§ 3 Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist auf schriftlichen Antrag nach dem 2. Fachsemester möglich.[2] Ein späterer Wechsel ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet.[4] Im Teil- bzw. Vollzeitstudium begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt; dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen.
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **BayHSchG** , dem **BayHSchPG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen berechtigten Personen bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der jeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-6 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zur Beisitze …
-
----
-
-### MSc Gerontologie PO M.Sc. Gero 20070927 i.d.F. 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/msc-gerontologie-po-m-sc-gero-20070927-idf-20240926.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/msc-gerontologie-po-m-sc-gero-20070927-idf-20240926.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für das Masterstudium Gerontologie an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO M.Sc. Gero – Vom 27. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|§ 1|Geltungsbereich ......................................................................................................... 2|
-|§ 2|Abschlussgrad ........................................................................................................... 2|
-|§ 3|Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ......................................... 2|
-|§ 4|Struktur des Masterstudiengangs und der Prüfungen, Regelstudienzeit,|
-|Studienbeginn, Unterrichts- und Prüfungssprache ................................................................. 3||
-|§ 5|ECTS-Punkte ............................................................................................................. 3|
-|§ 6|Modularisierung, Studienbegleitende Leistungsna …
-
-**§ 3 Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist auf schriftlichen Antrag nach dem 2. Fachsemester möglich.[2] Ein späterer Wechsel ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet.[4] Im Teil- bzw. Vollzeitstudium begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt; dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen.
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **BayHSchG** , dem **BayHSchPG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen berechtigten Personen bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der jeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-6 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zur Beisitze …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### POMAHR 20260115.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pomahr-20260115.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pomahr-20260115.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar — Anita Seguna
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Kommunikation im ärztlichen Beruf — 
-- MED47251 Kommunikation im ärztlichen Beruf — Seminar — Prof. Dr. Christoph Ostgathe, Dr. med. Tobias Steigleder
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -12437,299 +9896,19 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 27.09.2007 i.d.F. 17.01.2017
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-ma-gerontologie-jan2017.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-ma-gerontologie-jan2017.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für das Masterstudium Gerontologie an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) Vom 27. September 2007** _(paragraph)_
-
-|§|1|Geltungsbereich ............................................................................................... 2|
-|---|---|---|
-|§|2|Abschlussgrad ................................................................................................. 2|
-|§|3|Teilzeitstudium ................................................................................................. 2|
-|§|4|Struktur des Masterstudiengangs und der Prüfungen; Regelstudienzeit ......... 2|
-|§|5|ECTS-Punkte ................................................................................................... 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise .............................. 3|
-|§|7|Prüfungsfristen, Folgen der Fristversäumnis ................................................... 3|
-|§|8|Prüfungsausschu …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der HSchPrüfV berechtigten Personen bestellt werden. 3Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3) Zur Beisitzerin oder zum Beisitzer in mündlichen Prüfungen (§ 17) kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. …
-
----
-
-### PDF vom 27.09.2007 i.d.F. 01.08.2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-ma-gerontologie-neu-ws2010-2011.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-ma-gerontologie-neu-ws2010-2011.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für das Masterstudium Gerontologie an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 27. September 2007** _(paragraph)_
-
-|§|1|Geltungsbereich............................................................................................... 2|
-|---|---|---|
-|§|2|Abschlussgrad ................................................................................................. 2|
-|§|3|Teilzeitstudium................................................................................................. 2|
-|§|4|Struktur des Masterstudiengangs und der Prüfungen; Regelstudienzeit ......... 2|
-|§|5|ECTS-Punkte................................................................................................... 2|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise.............................. 3|
-|§|7|Prüfungsfristen, Folgen der Fristversäumnis ................................................... 3|
-|§|8|Prüfungsausschuss.. …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der HSchPrüfV berechtigten Personen bestellt werden. 3Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-4 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3) Zur Beisitzerin oder zum Beisitzer in mündlichen Prüfungen (§ 17) kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHS …
-
-**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
----
-
-### PDF vom 27.09.2007
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-ma-gerontologie.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-ma-gerontologie.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Vom 27. September 2007** _(paragraph)_
-
-|§|1|Geltungsbereich........................................................................................ 1|
-|---|---|---|
-|§|2|Abschlussgrad .......................................................................................... 2|
-|§|3|Teilzeitstudium.......................................................................................... 2|
-|§|4|Struktur des Masterstudiengangs und der Prüfungen; Regelstudienzeit .. 2|
-|§|5|ECTS-Punkte............................................................................................ 2|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise ...................... 2|
-|§|7|Prüfungsfristen, Folgen der Fristversäumnis ............................................ 3|
-|§|8|Prüfungsausschuss .................................................. …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-- (1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der HSchPrüfV berechtigten Personen bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-- (2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-- (3) Zur Beisitzerin oder zum Beisitzer in mündlichen Prüfungen (§16) kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat. 
-
-- (4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2  …
-
----
-
-### PDF vom 28.09.2007
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-stuo-20ba-20ma-20psycho.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-stuo-20ba-20ma-20psycho.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Vom 28. September 2007** _(paragraph)_
-
-|**I.**|**Allgemeiner Teil................................................................................................ 2**|**Allgemeiner Teil................................................................................................ 2**|
-|---|---|---|
-||**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung.............. 2**|
-||**§ 2**|**Akademischer Grad............................................................................... 2**|
-||**§ 3**|**Bachelorstudiengang, Prüfungen und Regelstudienzeiten ............... 2**|
-||**§ 4**|**Masterstudiengang, Prüfungen und Regelstudienzeiten................... 3**|
-||**§ 5**|**ECTS-Punkte.......................................................................................... 3**|
-||**§ 6**|**Modularisierung.................. …
-
-**§ 4 Masterstudiengang, Prüfungen und Regelstudienzeiten** _(paragraph)_
-
-- (1)[1] Das konsekutive Masterstudium baut inhaltlich auf dem Bachelorstudium nach § 3 auf; es ist stärker forschungsorientiert.[2] Es wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus allen dem Masterstudium zugeordneten Modulen einschließlich des Moduls Masterarbeit, die sich in einen Pflichtbereich und einen Schwerpunktbereich untergliedern.[4] Die Zahl der zum erfolgreichen Abschluss erforderlichen ECTS-Punkte beträgt 120 ECTS-Punkte.
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-- (1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Für die Bestellung der Prüferinnen oder Prüfer hat die Studierende oder der Studierende ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüferinnen oder Prüfer besteht nicht.[ 4] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig.[5] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-- (2)[1] Zur Beisitzerin oder zu …
-
-**§ 34 Masterprüfung** _(paragraph)_
-
-|Nr.|Module|Art|ECTS-Punkte|
-|---|---|---|---|
-|1.|Forschungsmethoden|Pflichtmodul|15|
-|2.|Psychologische Diagnostik|Pflichtmodul|12,5|
-|3.|Grundlagenvertiefung: Kognitive, mo-<br>tivationale und affektive Prozesse|Wahlpflichtmodul|12,5|
-|4.|Grundlagenvertiefung: Entwicklungs-<br>psychopathologie|Wahlpflichtmodul|12,5|
-|5.|Arbeits-und Personalpsychologie|Wahlpflichtmodul|12,5|
-|6.|Ressourcen, Gesundheit, Wohlbefin-<br>den|Wahlpflichtmodul|12,5|
-|7.|KlinischePsychologie|Wahlpflichtmodul|12,5|
-|8.|Rechtspsychologie|Wahlpflichtmodul|12,5|
-|9.|Alternspsychologie|Wahlpflichtmodul|12,5|
-|10.|PsychogerontologischeIntervention|Wahlpflichtmodul|12,5|
-|11.|Projektarbeit und Kolloquium|Pflichtmodul|7,5|
-|12.|Nebenfach|Pflichtmodul|10|
-|13.|Masterarbeit|Pflichtmodul|30|
-|14.<br>|ExternesPraktikum<br>| …
-
----
-
-### PDF vom 28.09.2007 i.d.F. 11.08.2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/prostuo-20ba-ma-psycho.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/prostuo-20ba-ma-psycho.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL - Vom 28. September 2007** _(paragraph)_
-
-**I. Allgemeiner Teil .................................................................................................... 2 § 1   Geltungsbereich, Zweck der Bachelor- und Masterprüfung ..................... 2 § 2   Akademischer Grad ...................................................................................... 2 § 3   Bachelorstudiengang, Prüfungen und Regelstudienzeiten ...................... 3 § 4   Masterstudiengang, Prüfungen und Regelstudienzeiten .......................... 3 § 5   ECTS-Punkte ................................................................................................. 3 § 6   Modularisierung ............................................................................................ 3 § 7   Prüfungsfristen, Folgen der Fristversäumnis .................... …
-
-**§ 4 Masterstudiengang, Prüfungen und Regelstudienzeiten** _(paragraph)_
-
-(1)[1] Das konsekutive Masterstudium baut inhaltlich auf dem Bachelorstudium nach § 3 auf; es ist stärker forschungsorientiert.[2] Es wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus allen dem Masterstudium zugeordneten Modulen einschließlich des Moduls Masterarbeit, die sich in einen Pflichtbereich und einen Schwerpunktbereich untergliedern.[4] Die Zahl der zum erfolgreichen Abschluss erforderlichen ECTS-Punkte beträgt 120 ECTS-Punkte.
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Für die Bestellung der Prüferinnen oder Prüfer hat die Studierende oder der Studierende ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüferinnen oder Prüfer besteht nicht.[ 4] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig.[5] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Be …
-
-**§ 35 Masterprüfung** _(paragraph)_
-
-|Nr.|Module|Art|ECTS-Punkte|
-|---|---|---|---|
-|1.|Forschungsmethoden|Pflichtmodul|15|
-|2.|Psychologische Diagnostik|Pflichtmodul|12,5|
-|3.|Grundlagenvertiefung: Kognitive,<br>motivationale und affektive Prozesse|Wahlpflichtmodul|12,5|
-|4.|Grundlagenvertiefung: Entwicklungs-<br>psychopathologie|Wahlpflichtmodul|12,5|
-|5.|Arbeits-und Personalpsychologie|Wahlpflichtmodul|12,5|
-|6.|Ressourcen, Gesundheit, Wohlbefin-<br>den|Wahlpflichtmodul|12,5|
-|7.|KlinischePsychologie|Wahlpflichtmodul|12,5|
-|8.|Rechtspsychologie|Wahlpflichtmodul|12,5|
-|9.|Alternspsychologie|Wahlpflichtmodul|12,5|
-|10.|PsychogerontologischeIntervention|Wahlpflichtmodul|12,5|
-|11.|Projektarbeit und Kolloquium|Pflichtmodul|7,5|
-|12.|Nebenfach|Pflichtmodul|10|
-|13.|Masterarbeit|Pflichtmodul|30|
-|14.|ExternesPraktikum|Pflichtmod …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 28.09.2007 i.d.F. 04.06.2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/prostuo-20ba-ma-psychojuni2010.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/prostuo-20ba-ma-psychojuni2010.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL - Vom 28. September 2007** _(paragraph)_
-
-|**I.**|**Allgemeiner Teil ................................................................................................ 2**|**Allgemeiner Teil ................................................................................................ 2**|
-|---|---|---|
-||**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung ................. 2**|
-||**§ 2**|**Akademischer Grad .................................................................................. 2**|
-||**§ 3**|**Bachelorstudiengang, Prüfungen und Regelstudienzeiten .................. 3**|
-||**§ 4**|**Masterstudiengang, Prüfungen und Regelstudienzeiten ...................... 3**|
-||**§ 5**|**ECTS-Punkte ............................................................................................. 3**|
-||**§ 6**|**Modularisier …
-
-**§ 4 Masterstudiengang, Prüfungen und Regelstudienzeiten** _(paragraph)_
-
-(1)[1] Das konsekutive Masterstudium baut inhaltlich auf dem Bachelorstudium nach § 3 auf; es ist stärker forschungsorientiert.[2] Es wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus allen dem Masterstudium zugeordneten Modulen einschließlich des Moduls Masterarbeit, die sich in einen Pflichtbereich und einen Schwerpunktbereich untergliedern.[4] Die Zahl der zum erfolgreichen Abschluss erforderlichen ECTS-Punkte beträgt 120 ECTS-Punkte.
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Für die Bestellung der Prüferinnen oder Prüfer hat die Studierende oder der Studierende ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüferinnen oder Prüfer besteht nicht.[ 4] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig.[5] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Be …
-
-**§ 35 Masterprüfung** _(paragraph)_
-
-|Nr.|Module|Art|ECTS-Punkte|
-|---|---|---|---|
-|1.|Forschungsmethoden|Pflichtmodul|15|
-|2.|Psychologische Diagnostik|Pflichtmodul|12,5|
-|3.|Grundlagenvertiefung: Kognitive,<br>motivationale und affektive Prozesse|Wahlpflichtmodul|12,5|
-|4.|Grundlagenvertiefung: Entwicklungs-<br>psychopathologie|Wahlpflichtmodul|12,5|
-|5.|Arbeits-und Personalpsychologie|Wahlpflichtmodul|12,5|
-|6.|Ressourcen, Gesundheit, Wohlbefin-<br>den|Wahlpflichtmodul|12,5|
-|7.|Klinische Psychologie|Wahlpflichtmodul|12,5|
-|8.|Rechtspsychologie|Wahlpflichtmodul|12,5|
-|9.|Alternspsychologie|Wahlpflichtmodul|12,5|
-|10.|Psychogerontologische Intervention|Wahlpflichtmodul|12,5|
-|11.|Projektarbeit und Kolloquium|Pflichtmodul|7,5|
-|12.|Nebenfach|Pflichtmodul|10|
-|13.|Masterarbeit|Pflichtmodul|30|
-|14.|Externes Praktikum|Pflicht …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### PDF vom 28.09.2007 i.d.F. 24.08.2017
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/prostuo-ba-ma-psycho-bmstpo-psl-aug2017.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/prostuo-ba-ma-psycho-bmstpo-psl-aug2017.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche — Hauptseminar
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -12755,227 +9934,15 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 28.09.2007 i.d.F. 31.07.2012
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/prostuo-ba-ma-psycho-juli2012.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/prostuo-ba-ma-psycho-juli2012.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion — Praktikum — Marlies Haffki
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL - Vom 28. September 2007** _(paragraph)_
-
-**I. Allgemeiner Teil .................................................................................................... 2 § 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung ....................... 2 § 2 Akademischer Grad ........................................................................................ 2 § 3 Bachelorstudiengang, Prüfungen und Regelstudienzeiten ........................ 3 § 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ....................... 3 § 4 Masterstudiengang, Prüfungen und Regelstudienzeiten ............................ 3 § 5 ECTS-Punkte ................................................................................................... 3 § 6 Modularisierung .................................................................................. …
-
-**§ 4 Masterstudiengang, Prüfungen und Regelstudienzeiten** _(paragraph)_
-
-(1)[1] Das konsekutive Masterstudium baut inhaltlich auf dem Bachelorstudium nach § 3 auf; es ist stärker forschungsorientiert.[2] Es wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus allen dem Masterstudium zugeordneten Modulen einschließlich des Moduls Masterarbeit, die sich in einen Pflichtbereich und einen Schwerpunktbereich untergliedern.[4] Die Zahl der zum erfolgreichen Abschluss erforderlichen ECTS-Punkte beträgt 120 ECTS-Punkte.
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Für die Bestellung der Prüferinnen oder Prüfer hat die Studierende oder der Studierende ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüferinnen oder Prüfer besteht nicht.[ 4] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig.[5] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Be …
-
-**(2) Der Studiengang umfasst folgende Module:** _(paragraph)_
-
-|Nr.|Module|Art|ECTS-Punkte|
-|---|---|---|---|
-|1.|Forschungsmethoden|Pflichtmodul|15|
-|2.|Psychologische Diagnostik|Pflichtmodul|12,5|
-|3.|Grundlagenvertiefung: Kognitive,<br>motivationale und affektive Prozesse|Wahlpflichtmodul|12,5|
-|4.|Grundlagenvertiefung: Entwicklungs-<br>psychopathologie|Wahlpflichtmodul|12,5|
-|5.|Arbeits-und Personalpsychologie|Wahlpflichtmodul|12,5|
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 04.09.2009
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-20ma-lexicography.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-20ma-lexicography.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für den internationalen Masterstudiengang European Master in Lexicography/ Europäischer Master für Lexikographie der Philosophischen Fakultät und Fachbereich Theologie der Alexander-Universität Erlangen-Nürnberg - MPOEMLex Vom 4. September 2009** _(paragraph)_
-
-|**§**|**1**|**Geltungsbereich, Zweck der Masterprüfung**............................................... 2|
-|---|---|---|
-|**§**|**2**|**Akademischer Grad**....................................................................................... 2|
-|**§**|**3**|**Studienbeginn**................................................................................................ 2|
-|**§**|**4**|**Struktur des Masterstudiengangs, Prüfungen und Regelstudienzeit**....... 2|
-|**§**|**5**|**ECTS-Punkte**.................................................................................................. 2|
-|**§**|**6**|**Modularisierung**............................................................................................. 2|
-|**§**|**7**|**Lehr- und Lernformen**.................................... …
-
-**§ 12 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachter können alle nach BayHSchG, BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptbe …
-
----
-
-### PDF vom 04.09.2009 i.d.F. 29.08.2016
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-lexicography-aug2016.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-lexicography-aug2016.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für den internationalen Masterstudiengang European Master in Lexicography/ Europäischer Master für Lexikographie der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - MPOEMLex - Vom 4. September 2009** _(paragraph)_
-
-|**§**|**1**|**Geltungsbereich, Zweck der Masterprüfung**.................................................................. 2|
-|---|---|---|
-|**§**|**2**|**Akademischer Grad**........................................................................................................... 2|
-|**§**|**3**|**Studienbeginn**.................................................................................................................... 2|
-|**§**|**4**|**Struktur des Masterstudiengangs, Sprache, Prüfungen und Regelstudienzeit**......... 2|
-|**§**|**5**|**ECTS-Punkte**...................................................................................................................... 2|
-|**§**|**6**|**Modularisierung**................................................................................ …
-
-**§ 6 a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-**§ 12 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachtern.[2] Zu Prüfenden, Gutachterinnen und Gutachter können alle nach BayHSchG, BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche  …
-
----
-
-### PDF vom 27.09.2007 i.d.F. 31.01.2011
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth-31jan2011.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth-31jan2011.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung....................................................... 2 § 2 Akademische Grade........................................................................................... 2 § 3 Masterstudiengänge, Prüfungen und Regelstudienzeiten .................................. 2 § 4 ECTS-Punkte...................................................................................................... 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise ................................ 2 § 6 Prüfungsfristen, Fristversäumnis ........................................................................ 3 § 7 Prüfungsausschuss ............................................................................................ 3 § 8 Prüfende, Ausschluss wegen persönlicher Be …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Es können alle nach dem BayHSchG, dem BayHSchLG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin 
-
-4 
-
-oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätig …
-
-**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
----
-
-### PDF vom 27.09.2007 i.d.F. 30.03.2017
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth-maerz2017.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth-maerz2017.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung ....................................................... 2 § 2 Akademische Grade ........................................................................................... 2 § 3 Regelstudienzeit, Prüfungen, Studienbeginn, Unterrichts- und Prüfungssprache ................................................................................................ 2 § 4 ECTS-Punkte ...................................................................................................... 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise ................................ 3 § 5a Anwesenheitspflicht ............................................................................................ 3 § 6 Prüfungsfristen, Fristversäumnis ............................. …
-
-**§ 5a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter. 2Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissen …
-
----
-
-### PDF vom 27.09.2007
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung....................................................... 2 § 2 Akademische Grade........................................................................................... 2 § 3 Masterstudiengänge, Prüfungen und Regelstudienzeiten .................................. 2 § 4 ECTS-Punkte...................................................................................................... 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise ................................ 2 § 6 Prüfungsfristen, Fristversäumnis ........................................................................ 3 § 7 Prüfungsausschuss ............................................................................................ 3 § 8 Prüfende, Ausschluss wegen persönlicher Be …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Es können alle nach dem BayHSchG, dem BayHSchLG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin 
-
-4 
-
-oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätig …
-
-**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
----
-
 ### 28. Mai 2013
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/2aes-ma-linguistik.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/2aes-ma-linguistik.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -13085,13 +10052,12 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/2as-ma-englishstudies.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/2as-ma-englishstudies.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Englisch Master: English for Business Purposes — Übung — Rachel Gracey
 - English: Level 4 - Writing Research Papers — Übung — Peter Montgomery
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Workshop: Academic Writing — Workshop — Pamela Bromley
 
 #### Auszüge aus dem PO-Text
@@ -13123,13 +10089,11 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/3aes-ma-developeconominternstudies.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/3aes-ma-developeconominternstudies.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
-- Empirical Research Methods in Medical Engineering — Vorlesung mit Übung — Prof. Dr. Franziska Mathis-Ullrich, Jasmin Arjomandi
-- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
 
 #### Auszüge aus dem PO-Text
 
@@ -13281,13 +10245,12 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuo-pro-20ma-20nahoststudien.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuo-pro-20ma-20nahoststudien.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 
@@ -13331,13 +10294,11 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-developmenteconomicsinternstudies-juli2014.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-developmenteconomicsinternstudies-juli2014.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
-- Empirical Research Methods in Medical Engineering — Vorlesung mit Übung — Prof. Dr. Franziska Mathis-Ullrich, Jasmin Arjomandi
-- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
 
 #### Auszüge aus dem PO-Text
 
@@ -13363,13 +10324,12 @@ Abweichend von § 32 Abs. 6 ABMStPO/Phil wird die Masterarbeit verpflichtend in 
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-englstudies-november2012.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-englstudies-november2012.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Englisch Master: English for Business Purposes — Übung — Rachel Gracey
 - English: Level 4 - Writing Research Papers — Übung — Peter Montgomery
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Workshop: Academic Writing — Workshop — Pamela Bromley
 
 #### Auszüge aus dem PO-Text
@@ -13480,12 +10440,11 @@ _**Abkürzungen bei den Modulbezeichnungen:** A = Bereich Angewandte und deskrip
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-linguistik-mai2013.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-linguistik-mai2013.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -13687,13 +10646,12 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-nahoststudien.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-nahoststudien.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 
@@ -13887,7 +10845,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpokunstpaed-20250320.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpokunstpaed-20250320.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -13895,13 +10853,9 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 - Literatur, Kunst und Kulturgeschichte Italiens — Seminar — Prof. Dr. Christian Rivoletti
 - Überblick Kunstgeschichte — Vorlesung — Dr. Marina Beck
 - Praktikum Grundlagen der Elektrischen Antriebstechnik — Praktikum — Shan Jiang, Prof. Dr.-Ing. Susanne Lehner
-- Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
-- Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
 - ITG Informationstechnische Grundlagen — Seminar — Karsten Golze
-- Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
 - Psychologische Grundlagen des Verhandelns — Workshop
 - Grundlagen der Arzneiformenlehre (2. Stj.) — Vorlesung — Dr. Stefan Seyferth, Prof. Dr. Dagmar Fischer
-- Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM) — Einführungskurs — PD Dr. Aura Heydenreich
 
 #### Auszüge aus dem PO-Text
@@ -14214,70 +11168,15 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 ---
 
-### MA Chinese Studies FPO MAChin 20230615.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-chinese-studies-fpo-machin-20230615.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-chinese-studies-fpo-machin-20230615.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Anlage 1: Studienverlaufsplan Masterstudiengang Chinese Studies with an Optional Focus - Vollzeit** _(paragraph)_
-
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ET|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S|CS|1.|2.|3.|4.|||
-|Pflichtcurriculum|||||||||||||
-||||||||||||||
-||||||||||||||
-|State & Society|Seminar||||2|5|5||||Hausarbeit (6000–8000 Worte) und<br>Referat(30 min) (70%+30%)|1|
-|Language Class 1|Übung||4|||5|5||||Klausur (90 min, 60%) und<br>mündlichePrüfung (30min,40%)|1|
-|Transcultural History|Übung||2|||5|5||||mündliche Prüfung (30 min)|1|
-|Intellectual History|Übung||2|||5|5||||schriftliche Üb …
-
-**Anlage 1: Studienverlaufsplan Masterstudiengang Chinese Studies with an Optional Focus - Vollzeit** _(paragraph)_
-
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|||||1.|2.|3.|4.|5.|6.|7.|8.|||
-||||Ü|P|S||||||||||||
-||||||||||||||||||
-|Pflichtcurriculum|||||||||||||||||
-||||||||||||||||||
-|State & Society|Seminar||||2|5|5||||||||Hausarbeit (6000–8000 Worte) und<br>R …
-
-**Anlage 1: Studienverlaufsplan Masterstudiengang Chinese Studies with an Optional Focus - Vollzeit** _(paragraph)_
-
-|Language & Sources|Seminar||||2|(10)|(5)||||||||schriftliche Übersetzung (1.000-<br>3.000 Zeichen)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Übung||2||||(5)||||||||||
-|Literature|Seminar||||2|(10)||(5)|||||||Hausarbeit (6000–8000 Worte) und<br>mündliche Prüfung (30 min)<br>(70%+30%)|1|
-||Übung||2|||||(5)|||||||||
-|Advanced Readings|Seminar||||2|(10)||||(5)|(5)|(5)|||Klausur (120 min.)|1|
-||Übung||2|||||||(5)|(5)|(5)|||||
-|Fachspezifische<br>Schwerpunktsetzung-<br>en|Gem. § 3 Abs. 4 bis 11|||||(30)|(10)|(10)||(0-10)|(0-10)|(0-10)|||Gem. § 3 Abs. 4 bis 113|1|
-|Masterarbeit|||||||||||||||||
-||||||||||||||||||
-|Master Thesis|Masterarbeit|||||30|||||||12,5|15|Masterarbeit (80-100 Seiten) und<br>Präsentation(45min) (90%+10%)|1|
-||Forschungskolloquium||||2||||||| …
-
----
-
 ### MA DEIS FPODEIS 20100608 i.d.F. 20180221.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20180221.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20180221.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
-- Empirical Research Methods in Medical Engineering — Vorlesung mit Übung — Prof. Dr. Franziska Mathis-Ullrich, Jasmin Arjomandi
-- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
 
 #### Auszüge aus dem PO-Text
 
@@ -14305,13 +11204,11 @@ Abweichend von § 32 Abs. 6 **ABMStPO/Phil** wird die Masterarbeit verpflichtend
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20190731.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20190731.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
-- Empirical Research Methods in Medical Engineering — Vorlesung mit Übung — Prof. Dr. Franziska Mathis-Ullrich, Jasmin Arjomandi
-- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
 
 #### Auszüge aus dem PO-Text
 
@@ -14338,13 +11235,11 @@ Abweichend von § 32 Abs. 6 **ABMStPO/Phil** wird die Masterarbeit verpflichtend
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20200408.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20200408.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
-- Empirical Research Methods in Medical Engineering — Vorlesung mit Übung — Prof. Dr. Franziska Mathis-Ullrich, Jasmin Arjomandi
-- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
 
 #### Auszüge aus dem PO-Text
 
@@ -14371,13 +11266,11 @@ Abweichend von § 32 Abs. 6 **ABMStPO/Phil** wird die Masterarbeit verpflichtend
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20230731.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20230731.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
-- Empirical Research Methods in Medical Engineering — Vorlesung mit Übung — Prof. Dr. Franziska Mathis-Ullrich, Jasmin Arjomandi
-- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
 
 #### Auszüge aus dem PO-Text
 
@@ -14404,13 +11297,11 @@ Abweichend von § 32 Abs. 6 **ABMStPO/Phil** wird die Masterarbeit verpflichtend
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20180221-aes.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20180221-aes.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
-- Empirical Research Methods in Medical Engineering — Vorlesung mit Übung — Prof. Dr. Franziska Mathis-Ullrich, Jasmin Arjomandi
-- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
 
 #### Auszüge aus dem PO-Text
 
@@ -14433,13 +11324,11 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20240807.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20240807.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
-- Empirical Research Methods in Medical Engineering — Vorlesung mit Übung — Prof. Dr. Franziska Mathis-Ullrich, Jasmin Arjomandi
-- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
 
 #### Auszüge aus dem PO-Text
 
@@ -14832,12 +11721,10 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/modulstudien-digital-humanities-pom-dh-20250411.md`](../pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/modulstudien-digital-humanities-pom-dh-20250411.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Verteidigung Schwerpunktbereich Internationales Privatrecht — 
 - Verteidigung Schwerpunktbereich Kriminalwissenschaften — 
 
 #### Auszüge aus dem PO-Text
@@ -14852,12 +11739,11 @@ _Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zug
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-20ba-20phil-august2011.md`](../pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-20ba-20phil-august2011.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -14889,12 +11775,11 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-20ba-20phil-januar2012.md`](../pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-20ba-20phil-januar2012.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -14919,298 +11804,6 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 **§ 32 Bereich Schlüsselqualifikationen** _(paragraph)_
 
 (4) Die Fachprüfungsordnungen können die Auswahl im Bereich Schlüsselqualifikationen einschränken oder bestimmte Module verpflichtend vorschreiben, wobei der Umfang der verpflichtend vorgeschriebenen Module 10 ECTS-Punkte pro Fach nicht überschreiten darf.
-
----
-
-### PDF vom 27.09.2007 i.d.F. 08.03.2011
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-20ba-20phil-maerz2011.md`](../pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-20ba-20phil-maerz2011.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelorund Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - Vom 27. September 2007** _(paragraph)_
-
-|**I. Allgemeiner Teil.........................................................................................................................2**|**I. Allgemeiner Teil.........................................................................................................................2**|
-|---|---|
-|**§ 1**|**Geltungsbereich, Zweck der Bachelorprüfung..............................................................2**|
-|**§ 2**|**Akademischer Grad .........................................................................................................2**|
-|**§ 3**|**Bachelorstudiengänge, Prüfungen und Regelstudienzeiten........................................3**|
-|**§ 4**|**Inhaltliche Gliederung des Bachelorstudiums ..............................................................3**|
-|**§  …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG, BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig. 4Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptber …
-
-**§ 30 Bachelorprüfung** _(paragraph)_
-
-(5)[1] Das Lehrangebot ist so aufeinander abgestimmt, dass die in den Fachprüfungsordnungen empfohlenen Kombinationen im Pflichtbereich grundsätzlich überschneidungsfrei studiert werden können.[2] Andere Kombinationen können nach einer diesbezüglichen Studienberatung auf Antrag studiert werden.[3] Die Überschneidungsfreiheit kann in diesem Fall jedoch nicht garantiert werden, die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 10.[4] Der Antrag einschließlich des Nachweises einer Studienberatung ist beim Prüfungsamt einzureichen.
-
-**§ 32 Bereich Schlüsselqualifikationen** _(paragraph)_
-
-(4) Die Fachprüfungsordnungen können die Auswahl im Bereich Schlüsselqualifikationen einschränken oder bestimmte Module verpflichtend vorschreiben, wobei der Um-
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 27.09.2007 i.d.F. 05.11.2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-20ba-20phil.md`](../pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-20ba-20phil.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelorund Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - Vom 27. September 2007** _(paragraph)_
-
-|**I. Allgemeiner Teil.........................................................................................................................2**|**I. Allgemeiner Teil.........................................................................................................................2**|
-|---|---|
-|**§ 1**|**Geltungsbereich, Zweck der Bachelorprüfung..............................................................2**|
-|**§ 2**|**Akademischer Grad .........................................................................................................2**|
-|**§ 3**|**Bachelorstudiengänge, Prüfungen und Regelstudienzeiten........................................3**|
-|**§ 4**|**Inhaltliche Gliederung des Bachelorstudiums ..............................................................3**|
-|**§  …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG, BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig. 4Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptber …
-
-**§ 30 Bachelorprüfung** _(paragraph)_
-
-(5)[1] Das Lehrangebot ist so aufeinander abgestimmt, dass die in den Fachprüfungsordnungen empfohlenen Kombinationen im Pflichtbereich grundsätzlich überschneidungsfrei studiert werden können.[2] Andere Kombinationen können nach einer diesbezüglichen Studienberatung auf Antrag studiert werden.[3] Die Überschneidungsfreiheit kann in diesem Fall jedoch nicht garantiert werden, die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 10.[4] Der Antrag einschließlich des Nachweises einer Studienberatung ist beim Prüfungsamt einzureichen.
-
-**§ 32 Bereich Schlüsselqualifikationen** _(paragraph)_
-
-(4) Die Fachprüfungsordnungen können die Auswahl im Bereich Schlüsselqualifikationen einschränken oder bestimmte Module verpflichtend vorschreiben, wobei der Umfang der verpflichtend vorgeschriebenen Module 10 ECTS-Punkte pro Fach nicht ü- berschreiten darf.
-
----
-
-### PDF vom 27.09.2007 i.d.F. 24.08.2017
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-abmstpo-phil-aug2017.md`](../pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-abmstpo-phil-aug2017.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMStPO/Phil – Vom 27. September 2007** _(paragraph)_
-
-|§ 8|Lehr- und Lernformen [aufgehoben] ....................................................................................... 7|
-|---|---|
-|§ 9|Prüfungsformen ...................................................................................................................... 7|
-|§ 10|Prüfungsfristen, Fristversäumnis ............................................................................................. 7|
-|§ 11|Prüfungsausschuss, Prüfungsbeauftragte .............................................................................. 8|
-|§ 12|Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, Anmeldung,|
-||Rücktritt ................................................................................................................................... 9|
-|§ 13|Prüfende, Aussch …
-
-**§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(3)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudium ist in den Zwei-FachBachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.[2] Ein Wechsel nach dem fünften Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet.[4] Im Teil- bzw. Vollzeitstudium begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt. 5Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen und die Pf …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenscha …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 27.09.2007 i.d.F. 06.08.2015
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-aug2015.md`](../pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-aug2015.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - Vom 27. September 2007** _(paragraph)_
-
-**§ 12 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt............................................................................................................ 9 § 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht ...... 9 § 14 Zugangskommission ............................................................................................................ 9 § 15 Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen .............................. 10 § 16 Ordnungsverstoß, Täuschung ........................................................................................... 11 § 17 Anwesenheitspflicht ........................................................................................................... 11 § 18 …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenscha …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforder- 
-
-11 
-
-lich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme is …
-
-**§ 31 Bachelorprüfung** _(paragraph)_
-
-(5)[1] Das Lehrangebot ist so aufeinander abgestimmt, dass die in **Anlage 3** empfohlenen Kombinationen im Pflichtbereich grundsätzlich überschneidungsfrei studiert werden können.[2] Andere Kombinationen können nach einer diesbezüglichen Studienberatung auf Antrag studiert werden.[3] Die Überschneidungsfreiheit kann in diesem Fall jedoch nicht garantiert werden, die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 10. 4Der Antrag einschließlich des Nachweises einer Studienberatung ist bei der Immatrikulation vorzulegen.
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 27.09.2007 i.d.F. 02.08.2016
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-aug2016.md`](../pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-aug2016.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - Vom 27. September 2007** _(paragraph)_
-
-**§ 11 Prüfungsausschuss, Prüfungsbeauftragte ........................................................................ 8 § 12 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt............................................................................................................ 9 § 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht ...... 9 § 14 Zugangskommission ............................................................................................................ 9 § 15 Anerkennung von Kompetenzen ....................................................................................... 10 § 16 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme ................. …
-
-**Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(3)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudium ist in den Zwei-FachBachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig.[2] Ein Wechsel zwischen Vollzeit- und Teilzeitstudium in den Ein-Fach-Bachelorstudiengängen ist zu jedem Semester zulässig.[3] Ein Wechsel ab dem fünften Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[4] Die bisherigen im Teil- bzw. Vollzeitstudium studierten Semester werden entsprechend angerechnet.[5] Im Teil- bzw. Vollzeitstudium begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[6] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht, die Grundlagen- und Orient …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenscha …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 27.09.2007 i.d.F. 19.02.2014
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-februar2014.md`](../pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-februar2014.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - Vom 27. September 2007** _(paragraph)_
-
-|**I. **|**Allgemeiner Teil ........................................................................................................................ 2**|**Allgemeiner Teil ........................................................................................................................ 2**|
-|---|---|---|
-|**§**|**1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung ........................................... 2**|
-|**§**|**2**|**Akademischer Grad ........................................................................................................... 3**|
-|**§**|**3**|**Bachelorstudiengänge, Prüfungen und Regelstudienzeiten ........................................... 3**|
-|**§**|**3a**|**Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen .................................. …
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - Vom 27. September 2007** _(paragraph)_
-
-|**§ 14 Zugangskommission ......................................................................................................... 9**|
-|---|
-|**§ 15 Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen ............................... 9**|
-|**§ 16 Ordnungsverstoß, Täuschung ........................................................................................ 11**|
-|**§ 17 Anwesenheitspflicht ........................................................................................................ 11**|
-|**§ 18 Entzug akademischer Grade ........................................................................................... 12**|
-|**§ 19 Mängel im Prüfungsverfahren ......................................................................................... 12**|
-|**§ 20 Schriftli …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der Prüferin oder des Prüfers ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wis …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 27.09.2007 i.d.F. 21.07.2014
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-juli2014.md`](../pruefungsordnungen/philosophische-fakultaet/stuo-pro-allg-ba-phil-juli2014.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - Vom 27. September 2007** _(paragraph)_
-
-|**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht ..... 9**|
-|---|
-|**§ 14 Zugangskommission ......................................................................................................... 9**|
-|**§ 15 Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen ............................... 9**|
-|**§ 16 Ordnungsverstoß, Täuschung ........................................................................................ 11**|
-|**§ 17 Anwesenheitspflicht ........................................................................................................ 11**|
-|**§ 18 Entzug akademischer Grade ........................................................................................... 12**|
-|**§ 19 Mängel im Prüfungsverfahren ................ …
-
-**§ 13 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenscha …
-
-**§ 17 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der An- 
-
-11 
-
-wesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme is …
-
-**§ 30 Grundlagen- und Orientierungsprüfung** _(paragraph)_
-
-(5)[1] Das Lehrangebot ist so aufeinander abgestimmt, dass die in **Anlage 3** empfohlenen Kombinationen im Pflichtbereich grundsätzlich überschneidungsfrei studiert
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -15247,47 +11840,6 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 **§ 32 Bereich Schlüsselqualifikationen** _(paragraph)_
 
 (4) Die Fachprüfungsordnungen können die Auswahl im Bereich Schlüsselqualifikationen einschränken oder bestimmte Module verpflichtend vorschreiben, wobei der Umfang der verpflichtend vorgeschriebenen Module 10 ECTS-Punkte pro Fach nicht überschreiten darf.
-
----
-
-### PDF vom 27.09.2007
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/stuoproallgbaphil.md`](../pruefungsordnungen/philosophische-fakultaet/stuoproallgbaphil.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Vom 27. September 2007** _(paragraph)_
-
-|**I.**|**Allgemeiner Teil................................................................................................ 2**|**Allgemeiner Teil................................................................................................ 2**|
-|---|---|---|
-||**§ 1**|**Geltungsbereich, Zweck der Bachelorprüfung ................................... 2**|
-||**§ 2**|**Akademischer Grad............................................................................... 2**|
-||**§ 3**|**Bachelorstudiengänge, Prüfungen und Regelstudienzeiten ............. 2**|
-||**§ 4**|**Inhaltliche Gliederung des Bachelorstudiums.................................... 2**|
-||**§ 5**|**ECTS-Punkte.......................................................................................... 3**|
-||**§ 6**|**Modularisierung …
-
-**§ 12 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-- (1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachtern können alle nach BayHSchG, BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-- (2)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder ha …
-
-**§ 28 Bachelorprüfung** _(paragraph)_
-
-- (5)[1] Das Lehrangebot ist so aufeinander abgestimmt, dass die in den Fachprüfungsordnungen empfohlenen Kombinationen im Pflichtbereich grundsätzlich überschneidungsfrei studiert werden können.[2] Andere Kombinationen können nach einer diesbezüglichen Studienberatung auf Antrag studiert werden.[3] Die Überschneidungsfreiheit kann jedoch nicht garantiert werden, die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 9.[4] Der Antrag einschließlich des Nachweises einer Studienberatung ist beim Prüfungsamt einzureichen.
-
-**§ 31 Bereich Schlüsselqualifikationen** _(paragraph)_
-
-- soweit sie für das Fachstudium verpflichtend sind (z.B. besondere Sprachkenntnisse), aber nicht integrierter Bestandteil des Studiengangs selbst sind (fachnahe Schlüsselqualifikationen), eingebracht werden, wenn Schlüsselqualifikationen nach Satz 1 im Umfang von mindestens 10 ECTS-Punkten nachgewiesen werden.[3] Nach Rücksprache mit dem zuständigen Koordinator des gewählten Studiengangs können auch entsprechende, frei gewählte Module anerkannt werden.
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -15509,7 +12061,7 @@ Praktikumsmodul: Es ist jenes der beiden Module zu wählen, das nicht bereits im
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/fachstuo-pro-religion.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/fachstuo-pro-religion.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -15517,7 +12069,6 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
@@ -15561,12 +12112,11 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-christliche-medienkommunikation-fpo-c-m-k-20150611-idf-20180711.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-christliche-medienkommunikation-fpo-c-m-k-20150611-idf-20180711.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -15596,12 +12146,11 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-christliche-medienkommunikation-fpo-c-m-k-20150611-idf-20191212.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-christliche-medienkommunikation-fpo-c-m-k-20150611-idf-20191212.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -15661,12 +12210,11 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20180711.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20180711.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
@@ -15700,14 +12248,13 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20191212.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20191212.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
@@ -15939,12 +12486,11 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/magister-theol-1984.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/magister-theol-1984.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Anleitung zum selbständigen wissenschaftlichen Arbeiten (Arbeitskreisseminar) — Seminar
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
@@ -16029,11 +12575,10 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ordnung-magister-theologie.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ordnung-magister-theologie.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -16088,45 +12633,6 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 - (2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
 
 - (3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarb …
-
----
-
-### PDF vom 11.06.2015
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-christliche-medienkommunikation.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-christliche-medienkommunikation.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für das Masterstudium “Christliche Medienkommunikation“ an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg Vom 11. Juni 2015** _(paragraph)_
-
-|**§ 1**|**Geltungsbereich, Ziele des Studiums .................................................................................... 1**|
-|---|---|
-|**§ 2**|**Abschlussgrad .......................................................................................................................... 2**|
-|**§ 3**|**Struktur des Masterstudiengangs und der Prüfungen; Regelstudienzeit .......................... 2**|
-|**§ 3a**|**Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen**........................................ 2|
-|**§ 4**|**ECTS-Punkte ............................................................................................................................. 2**|
-|**§ 5**|**Modularisierung, Studienbegleitende Leistungsnachweise ................................................ 3**|
-|**§ …
-
-**§ 5a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeite …
 
 ---
 
@@ -16259,39 +12765,6 @@ oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hau
 
 ---
 
-### PDF vom 09.12.2008 i.d.F. 13.11.2013
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-medien-ethik-relig-nov2013.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-medien-ethik-relig-nov2013.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für das Masterstudium Medien - Ethik - Religion an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg Vom 9. Dezember 2008** _(paragraph)_
-
-|§|1|Geltungsbereich ......................................................................................................... 2|
-|---|---|---|
-|§|2|Abschlussgrad ........................................................................................................... 2|
-|§|3|Struktur des Masterstudiengangs und der Prüfungen; Regelstudienzeit .................... 2|
-|§|4|ECTS-Punkte ............................................................................................................. 2|
-|§|5|Modularisierung, Studienbegleitende Leistungsnachweise ........................................ 3|
-|§|6|Prüfungsfristen, Folgen der Fristversäumnis .............................................................. 3|
-|§|7|Prüfungsausschuss ......................................................... …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeite …
-
----
-
 ### PDF vom 09.12.2008 i.d.F. 24.11.2009
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/proma-medienethikrelig.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/proma-medienethikrelig.md)  
@@ -16415,49 +12888,6 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 31.07.2012
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/zpo-20evangelische-20theologie.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/zpo-20evangelische-20theologie.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Ordnung für die akademische Zwischenprüfung im Studiengang Evangelische Theologie an der Universität ErlangenNürnberg (ZPO EvTheol) Vom 31. Juli 2012** _(paragraph)_
-
-|§|1 Anwendungsbereich, Ziel der Zwischenprüfung|1|
-|---|---|---|
-|§|2 Prüfungsausschuss und Organisation der Prüfung|2|
-|§|3 Prüfer|3|
-|§|4 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht|3|
-|§|5 Prüfungsfristen, Termine|3|
-|§|6 Zulassungsvoraussetzungen|4|
-|§|7 Zulassungsverfahren|5|
-|§|8 Anrechnung von Studienzeiten, Studienleistungen und Prüfungen|5|
-|§|9 Aufbau, Umfang und Art der Zwischenprüfung|6|
-|§|10 Nachteilsausgleich|7|
-|§|11 Rücktritt, Versäumnis, Täuschung, Ordnungsverstoß, Mängel im Prüfungsverfahren|7|
-|§|12 Schriftliche Prüfung|8|
-|§|13 Mündliche Prüfung|8|
-|§|14 Bewertung der Prüfungsleistungen|9|
-|§|15 Wiederholung der Zwischenprüfung|9|
-|§|16 Beratungsgespräch|10|
-|§|17 Zeugnis|10|
-|§|18 Einsicht in die Prüfungsakte|10|
-|§|19 Inkrafttreten|10|
-
-**§ 4 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüferinnen oder Prüfer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 4 BayHSchG.
-
----
-
 ### PDF vom 25.09.1980 i.d.F. 28.12.2004
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/zwischenpruefungso.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/zwischenpruefungso.md)  
@@ -16481,30 +12911,6 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 **§ 28 ) Philosophie**** _(paragraph)_
 
 (4)[1] Leistungsnachweise für Modul IV können auch in einschlägigen Veranstaltungen, die von anderen Fächern angeboten werden (allerdings nicht in Pflichtveranstaltungen des Zweit- beziehungsweise Nebenfaches!) erworben werden, außerdem in Kursen, die dem empfohlenen Erwerb von Latein- oder Griechischkenntnissen dienen.[2] Das Modul IV kann schließlich auch durch ein Praktikum (mit qualifiziertem Nachweis) von mindestens vier Wochen ersetzt werden.
-
----
-
-### 11. August 2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/2aes-20wtb-ma-20multimediadidaktik.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/2aes-20wtb-ma-20multimediadidaktik.md)  
-Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**„ Anlage 2** _(paragraph)_
-
-|**M 6.2: Wahl- Pflichtmodule**<br>Aus den Angeboten  zu M 6.2<br>des Modulhandbuchs_(Wahl-_<br>_Pflichtmodule)_sind 2 Module<br>im Umfang von je 2,5 ECTS-<br>Punkten zu wählen|**1 u. 4**|Hausarbeit<br>oder<br>Referat mit Präsentation||**5**|
-|---|---|---|---|---|
-|**Modulgruppe 7: Projekt und**<br>**Projektmanagement**||||**17,5**|
-|**M 7.1: Projektmanagement**<br>Organisation und Durchführung<br>von Projekten|**2**|Referat (einschl.<br>Präsentation)|5 (2)|**5**|
-|**M 7.2: Projekt**<br>Konzeption und Realisierung<br>eines Multimediaprojekts|**2 u. 3**|Erfolgreiche Teilnahme<br>und Hausarbeit|2,5 (2)<br>10 (3)|**12,5**|
-|**Modulgruppe 8: Berufspraxis**||||**30**|
-|<br>**M 8: Berufspraxis**|**1 bis 4**|Nachweis einer 6-<br>monatigen Berufspraxis|7,5 (1)<br>7,5 (2)<br>7,5 (3)<br>7,5 (4)|**30 …
 
 ---
 
@@ -16535,36 +12941,6 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 **§ 14 Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß** _(paragraph)_
 
 (3)[1] Versucht der Kandidat bzw. die Kandidatin, das Ergebnis einer einzelnen Prüfung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ bewertet.[2] Der Besitz nicht zugelassener Hilfsmittel nach Ausgabe der Prüfungsaufgaben stellt eine Täuschung dar, sofern der Prüfungsteilnehmer oder die Prüfungsteilnehmerin nicht nachweist, dass der Besitz weder auf Vorsatz noch auf Fahrlässigkeit beruht.[3] Der oder die Studierende ist verpflichtet, Gegenstände auf Verlangen von Prüfern oder Prüferinnen oder Aufsichtsführenden herauszugeben zur Sicherstellung oder zur Überprüfung, ob es sich um nicht zugelassene Hilfsmittel handelt.[4] Bei Verhinderung einer Sicherstellung oder der Verweigerung der Herausgab …
-
----
-
-### PDF vom 21.02.2017
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/fpo-multimedia-didaktik.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/fpo-multimedia-didaktik.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für den berufsbegleitenden Masterstudiengang MultimediaDidaktik an der Universität Erlangen-Nürnberg Vom 21. Februar 2017** _(paragraph)_
-
-**Inhalt § 1 Zweck der Prüfung, Mastergrad ....................................................................................... 2 § 2 Qualifikation ....................................................................................................................... 2 § 3 Masterstudiengang, Regelstudienzeit, ‚Studienbeginn, Unterrichts- und Prüfungssprache ..................................................................................................................... 2 § 4 ECTS-Punkte ...................................................................................................................... 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .......................................... 3 § 6 Prüfungsausschuss ...................................................... …
-
-**§ 8 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfenden und Beisitzenden und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.
-
-**§ 11 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
 
 ---
 
@@ -16610,14 +12986,13 @@ Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Mo
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/ma-edt-20240926-idf-20260213.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/ma-edt-20240926-idf-20260213.md)  
 Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -16653,14 +13028,13 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/ma-edt-20240926.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/ma-edt-20240926.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -16820,50 +13194,17 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 ---
 
-### PDF vom 07.03.2017 i.d.F. 12.06.2017
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/po-organisationpersonalentw-weiterbld-ma-juni2017.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/po-organisationpersonalentw-weiterbld-ma-juni2017.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organisations- und Personalentwicklung an der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) (PO M. A. OEPE) Vom 7. März 2017** _(paragraph)_
-
-**Inhalt § 1 Zweck der Prüfung, Ziel des Studiengangs, Mastergrad ......................................................2 § 2 Qualifikation zum Masterstudium ..........................................................................................2 § 3 Masterstudiengang, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ...........................................................................................................................2 § 4 ECTS-Punkte ............................................................................................................................3 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .................................................3 § 6 Prüfungsausschuss .............................................................. …
-
-**§ 8 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfenden und Beisitzerinnen bzw. Beisitzer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.
-
-**§ 11 Anwesenheitspflicht** _(section)_
-
-(1) 1Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann rege …
-
----
-
 ### POMAOTG 20260130.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/pomaotg-20260130.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/pomaotg-20260130.md)  
 Pflicht-Stellen gefunden: **11**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) — Seminar — apl. Prof. Dr. Leopold Klepacki
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
-- Kommunikation im ärztlichen Beruf — 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- MED47251 Kommunikation im ärztlichen Beruf — Seminar — Prof. Dr. Christoph Ostgathe, Dr. med. Tobias Steigleder
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -16887,190 +13228,16 @@ _(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### wtb FPOHR 20140718 i.d.F. 20180706.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20140718-idf-20180706.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20140718-idf-20180706.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-§ 1   Geltungsbereich, Zweck der Masterprüfung .................................................................. 2 § 2   Studienprofil und Ziel des Studiums............................................................................... 2 § 3   Regelstudienzeit, Unterrichts- und Prüfungssprache und Studienorganisation .............. 2 § 4   ECTS-Punkte ................................................................................................................ 2 § 5   Modularisierung, Studienbegleitende Leistungsnachweise ............................................ 3 § 6   Qualifikation zum Masterstudium ................................................................................... 3 § 7   Prüfungsfristen, Fristversäumnis ........................................................... …
-
-**§ 10 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissen …
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
----
-
-### wtb FPOHR 20140718 i.d.F. 20191014.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20140718-idf-20191014.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20140718-idf-20191014.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................... 2|
-|---|---|---|
-|§|2|Studienprofil und Ziel des Studiums ........................................................................... 2|
-|§|3|Regelstudienzeit, Unterrichts- und Prüfungssprache und  Studienorganisation .......... 2|
-|§|4|ECTS-Punkte ............................................................................................................. 3|
-|§|5|Modularisierung, Studienbegleitende Leistungsnachweise......................................... 3|
-|§|6|Qualifikation zum Masterstudium ............................................................................... 3|
-|§|7|Prüfungsfristen, Fristversäumnis .................................................................. …
-
-**§ 10 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissen …
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
----
-
-### wtb FPOHR 20140718 i.d.F. 20230223.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20140718-idf-20230223.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20140718-idf-20230223.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Studienprofil und Ziel des Studiums ................................................................................ 2 § 3 Regelstudienzeit, Unterrichts- und Prüfungssprache und  Studienorganisation ............... 2 § 4 ECTS-Punkte .................................................................................................................. 3 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .............................................. 3 § 6 Qualifikation zum Masterstudium ..................................................................................... 3 § 7 Prüfungsfristen, Fristversäumnis ............................................................. …
-
-**§ 10 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem 
-
-6 
-
-Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[6] Auf Antrag kann der Prüfungsausschuss die Prüfungsberech …
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der 
-
-8 
-
-anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist d …
-
----
-
-### wtb FPOHR 20230928 i.d.F. 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928-idf-20240926.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928-idf-20240926.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Studienprofil und Ziel des Studiums ................................................................................ 2 § 3 Regelstudienzeit, Unterrichts- und Prüfungssprache,   Studienorganisation, Studienbeginn .................................................................................................................................. 2 § 4 ECTS-Punkte .................................................................................................................. 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .............................................. 3 § 6 Qualifikation zum Masterstudium .......................................................... …
-
-**§ 10 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem **BayHIG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 5Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[6] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hi …
-
-**§ 13 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-9 
-
-(2)[1] Die Teilnahme ist dan …
-
-**§ 28 Wiederholung von Prüfungen, Modulwechsel** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Masterarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden.[2] Prüfungen von Praktika, Geländeseminaren und Exkursionen können zweimal wiederholt werden, sofern im Falle der Wiederholung abweichend von Satz 5 auch das Praktikum, das Geländeseminar oder die Exkursion wiederholt werden muss.[3] Hinsichtlich der Wiederholung der Masterarbeit gilt § 27 Abs. 9.[4] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt,[5] Bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### wtb FPOHR 20230928 i.d.F. 20241219.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928-idf-20241219.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928-idf-20241219.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .....................................................................2 § 2 Studienprofil und Ziel des Studiums .................................................................................2 § 3 Regelstudienzeit, Unterrichts- und Prüfungssprache,   Studienorganisation, Studienbeginn ...................................................................................................................................2 § 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitung .................................................2 § 4 ECTS-Punkte ...................................................................................................................3 § 5 Modularisierung, Studienbegleitende Leistungsnachweise ................................... …
-
-**§ 10 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem **BayHIG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der  …
-
-**§ 13 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-**§ 28 Wiederholung von Prüfungen, Modulwechsel** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Masterarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden.[2] Prüfungen von Praktika, Geländeseminaren und Exkursionen können zweimal wiederholt werden, sofern im Falle der Wiederholung nach Satz 5 auch das Praktikum, das Geländeseminar oder die Exkursion wiederholt werden muss.[3] Hinsichtlich der Wiederholung der Masterarbeit gilt § 27 Abs. 9.[4] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt,[5] Bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderl …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### wtb FPOHR 20230928 i.d.F. 20260115.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928-idf-20260115.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928-idf-20260115.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -17093,136 +13260,6 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 (1)[1] Mit Ausnahme der Masterarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden.[2] Prüfungen von Praktika, Geländeseminaren und Exkursionen können zweimal wiederholt werden, sofern im Falle der Wiederholung nach Satz 5 auch das Praktikum, das Geländeseminar oder die Exkursion wiederholt werden muss.[3] Hinsichtlich der Wiederholung der Masterarbeit gilt § 27 Abs. 9.[4] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt,[5] Bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderl …
 
 _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### wtb FPOHR 20230928.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Studienprofil und Ziel des Studiums ................................................................................ 2 § 3 Regelstudienzeit, Unterrichts- und Prüfungssprache,   Studienorganisation, Studienbeginn .................................................................................................................................. 2 § 4 ECTS-Punkte .................................................................................................................. 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .............................................. 3 § 6 Qualifikation zum Masterstudium .......................................................... …
-
-**§ 10 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem **BayHIG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 5Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[6] Auf Antrag kann der 
-
-6 
-
-Prüfungsausschuss die Prüfungsberechtigung darü …
-
-**§ 13 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
----
-
-### PDF vom 18.07.2014 i.d.F. 04.02.2015
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-ma-human-rights-feb2015.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-ma-human-rights-feb2015.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung ......................................................... 2 § 2 Studienprofil und Ziel des Studiums ..................................................................... 2 § 3 Regelstudienzeit, Sprache und Studienorganisation ............................................ 2 § 4 ECTS-Punkte ........................................................................................................ 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .................................. 3 § 6 Qualifikation zum Masterstudium .......................................................................... 3 § 7 Prüfungsfristen, Fristversäumnis .......................................................................... 4 § 8 Prüfungsausschuss .............. …
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissen …
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
----
-
-### PDF vom 18.07.2014 i.d.F. 07.06.2016
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-ma-human-rights-juni2016.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-ma-human-rights-juni2016.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung ......................................................... 2 § 2 Studienprofil und Ziel des Studiums ..................................................................... 2 § 3 Regelstudienzeit, Sprache und Studienorganisation ............................................ 2 § 4 ECTS-Punkte ........................................................................................................ 3 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .................................. 3 § 6 Qualifikation zum Masterstudium .......................................................................... 3 § 7 Prüfungsfristen, Fristversäumnis .......................................................................... 4 § 8 Prüfungsausschuss .............. …
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissen …
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
----
-
-### PDF vom 18.07.2014
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-ma-human-rights.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-ma-human-rights.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung ......................................................... 2 § 2 Studienprofil und Ziel des Studiums ..................................................................... 2 § 3 Regelstudienzeit und Studienorganisation ............................................................ 2 § 4 ECTS-Punkte ........................................................................................................ 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .................................. 3 § 6 Qualifikation zum Masterstudium .......................................................................... 3 § 7 Prüfungsfristen, Fristversäumnis .......................................................................... 3 § 8 Prüfungsausschuss ....... …
-
-**§ 10 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Zu Prüfenden und Gutachterinnen bzw. Gutachtern können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre bzw. seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin 
-
-5 
-
-bzw. der Beisitzer soll hauptberufliche  …
-
-**§ 14 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwe- 
-
-7 
-
-senheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist …
 
 ---
 
@@ -17249,30 +13286,6 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 **§ 28 ) Philosophie**** _(paragraph)_
 
 (4)[1] Leistungsnachweise für Modul IV können auch in einschlägigen Veranstaltungen, die von anderen Fächern angeboten werden (allerdings nicht in Pflichtveranstaltungen des Zweit- beziehungsweise Nebenfaches!) erworben werden, außerdem in Kursen, die dem empfohlenen Erwerb von Latein- oder Griechischkenntnissen dienen.[2] Das Modul IV kann schließlich auch durch ein Praktikum (mit qualifiziertem Nachweis) von mindestens vier Wochen ersetzt werden.
-
----
-
-### 2 Fach BA Digitale Geistes- und Sozialwissenschaften 20180829 ÄS.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-digitale-geistes-und-sozialwissenschaften-20180829-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-digitale-geistes-und-sozialwissenschaften-20180829-aes.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Einführung in die Biochemie für Naturwissenschaftler Teil2 — Vorlesung — Prof. Dr. Henri Girao Franquelim
-- Experimentalphysik für Naturwissenschaftler II — Vorlesung — apl. Prof. Dr. Norbert Lindlein
-- Projektseminar Wirtschaftsinformatik (Projektbericht+Präsentation) — 
-
-#### Auszüge aus dem PO-Text
-
-**§ 1** _(paragraph)_
-
-„Für die Grundlagen- und Orientierungsprüfung müssen im Fach Digitale Geistes- und Sozialwissenschaften das Modul „Einführung in die Digitalen Geistes- und Sozialwissenschaften“ (7,5 ECTS-Punkte) oder das Modul „Grundlagen der Informatik“ (7,5 ECTS-Punkte) sowie weitere Module aus dem Pflichtcurriculum im Umfang von 12,5 ECTS-Punkten nachgewiesen werden.“
-
-**„** _(paragraph)_
-
-- 3 Die Pflicht zum erfolgreichen Abschluss dieses Moduls entfällt beim Studium der Digitalen Geistes- und Sozialwissenschaften als Zweitfach.
 
 ---
 
@@ -17473,18 +13486,16 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20071004-idf-20220914.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20071004-idf-20220914.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM) — Einführungskurs — PD Dr. Aura Heydenreich
 - Anleitung zum selbständigen wissenschaftlichen Arbeiten (Arbeitskreisseminar) — Seminar
 - Proseminar französische Literaturwissenschaft — Proseminar — Dr. Simon Matthias Bürgel
-- Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 - Anleitung zu wissenschaftlichen Arbeiten — Anleitung zu wiss. Arbeiten — Prof. Dr.-Ing. Thomas Dürbaum
 - Proseminar spanische Literaturwissenschaft — Proseminar — Tanja Bollow
 - Mittelseminar italienische Literaturwissenschaft — Mittelseminar — Prof. Dr. Christian Rivoletti
-- Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 
 #### Auszüge aus dem PO-Text
 
@@ -17502,18 +13513,16 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20260115.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20260115.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **10**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM) — Einführungskurs — PD Dr. Aura Heydenreich
 - Anleitung zum selbständigen wissenschaftlichen Arbeiten (Arbeitskreisseminar) — Seminar
 - Proseminar französische Literaturwissenschaft — Proseminar — Dr. Simon Matthias Bürgel
-- Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 - Anleitung zu wissenschaftlichen Arbeiten — Anleitung zu wiss. Arbeiten — Prof. Dr.-Ing. Thomas Dürbaum
 - Proseminar spanische Literaturwissenschaft — Proseminar — Tanja Bollow
 - Mittelseminar italienische Literaturwissenschaft — Mittelseminar — Prof. Dr. Christian Rivoletti
-- Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Wissenschaftliches Arbeiten von BA/MA, auch Praktikum — Anleitung zu wiss. Arbeiten — PD Dr. habil. Tobias Fey
 - Geowissenschaftliche Geländeübungen I für Biologen — Übung — Dr. Sebastian Teichert
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
@@ -17973,11 +13982,10 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-lateinische-philologie-20260305.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-lateinische-philologie-20260305.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -18195,16 +14203,14 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20190806.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20190806.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
-- Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Einführung in die Verhandlungslehre — Seminar — Jan Alexander Hoeppel
-- Rechtstheorie und juristische Methodenlehre — Vorlesung — Prof. Dr. Jan-Reinard Sieckmann
 
 #### Auszüge aus dem PO-Text
 
@@ -18247,16 +14253,14 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20200818.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20200818.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
-- Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Einführung in die Verhandlungslehre — Seminar — Jan Alexander Hoeppel
-- Rechtstheorie und juristische Methodenlehre — Vorlesung — Prof. Dr. Jan-Reinard Sieckmann
 
 #### Auszüge aus dem PO-Text
 
@@ -18298,14 +14302,13 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20190806-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20190806-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
-- Rechtstheorie und juristische Methodenlehre — Vorlesung — Prof. Dr. Jan-Reinard Sieckmann
 
 #### Auszüge aus dem PO-Text
 
@@ -18348,16 +14351,14 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20200818-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20200818-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
-- Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Einführung in die Verhandlungslehre — Seminar — Jan Alexander Hoeppel
-- Rechtstheorie und juristische Methodenlehre — Vorlesung — Prof. Dr. Jan-Reinard Sieckmann
 
 #### Auszüge aus dem PO-Text
 
@@ -18399,16 +14400,14 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20230822.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20230822.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
-- Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Einführung in die Verhandlungslehre — Seminar — Jan Alexander Hoeppel
-- Rechtstheorie und juristische Methodenlehre — Vorlesung — Prof. Dr. Jan-Reinard Sieckmann
 
 #### Auszüge aus dem PO-Text
 
@@ -18569,12 +14568,11 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/9aes-2fachba-kunstgeschichte.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/9aes-2fachba-kunstgeschichte.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Geschichte der Bildenden Kunst des Mittelalters - Baustein II — Proseminar — Simon Scheidle
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -18586,47 +14584,6 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 |**Vertiefung im Bereich der**<br>**Bildenden Kunst und der**<br>**Architektur**|Hauptseminar||||2|5||||5|||Mündliche Prüfungsleistung (15<br>Minuten, 100%)|2|
 |**Spezialisierung im**<br>**Bereich der**<br>**Bildenden Kunst**<br>**und der**<br>**Architektur**|Hauptseminar||||2|5|||||5||Referat (ca. 30‐45 Minuten,<br>0%) mit schriftlicher<br>Hausarbeit (ca. 20 Textseiten,<br>100%)|2|
 |**Praxisbezogenes Studium**<br>**vor Originalen**|Hauptseminar||||2|5||||5|||Portfolio:<br>Teilnahm …
-
----
-
-### 22. Juli 2014
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/9aes-2fachba-soziologie.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/9aes-2fachba-soziologie.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**„ Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Soziologie** _(paragraph)_
-
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>|Workload-Verteilung pro Semester in<br>Punkten*|Workload-Verteilung pro Semester in<br>Punkten*|Workload-Verteilung pro Semester in<br>Punkten*|Workload-Verteilung pro Semester in<br>Punkten*|Workload-Verteilung pro Semester in<br>Punkten*|ECTS-|Art und Umfang der Prüfung<br>/dili|Faktor<br>Modulnot<br>e|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||Punkten*||||||
-||||||||||||||||
-|||V|S|Ü|P|ECTS|1.|2.|3.|4.|5.|6.|Stuenestung||
-|Pflichtbereich|||||||||||||||
-|**Einführung**<br>**(SozE)**|V Einführung in die<br>Soziologie|2||||5|5||||||Klausur (60min)|0,5|
-|**Sozialstrukturanalyse**<br>**(SozStruk)**|V Sozialstrukturanalyse|2||||5|5||||||Klausur (60min)|0,5|
-|**Einführung**<br>**Soziologische** …
-
-**„ Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Soziologie** _(paragraph)_
-
-||PS||2|||||||5|||Umfang von 10-20 Minuten<br>und schriftliche Leistung<br>(Essays oder Hausarbeit) im<br>Umfang von 10-15 Seiten||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Wahlbereich**||2|2|||10||5|5||||Nach Maßgabe des Faches|0|
-|Wahlbereich:Esisteines der folgendendrei Modulezu belegen|||||||||||||||
-|**Soziologische Theorie II**<br>**(SozT-II)**|HS||2||||||||7,5||Referat (20-30min) und<br>schriftliche Leistung (Essays<br>oder Hausarbeit) im Umfang<br>von 20-25 Seiten|1|
-||HS||||||||||||||
-||||2|||15||||||7,5|||
-||||||||||||||||
-|**Soziologische**<br>**Methodenlehre II**<br>**(SozM-II)**|HS||2|||15|||||7,5||Referat (20-30min) und<br>schriftliche Leistung (Essays<br>oder Hausarbeit) im Umfang<br>von 20-25 Seiten|1|
-||HS||2|||||||||7,5|||
-|**Vertiefungsprofil I**< …
 
 ---
 
@@ -18784,21 +14741,16 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-geschichte-august2011.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-geschichte-august2011.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Praktikum Grundlagen der Elektrischen Antriebstechnik — Praktikum — Shan Jiang, Prof. Dr.-Ing. Susanne Lehner
-- Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
-- Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
 - ITG Informationstechnische Grundlagen — Seminar — Karsten Golze
-- Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
 - Psychologische Grundlagen des Verhandelns — Workshop
 - Grundlagen der Arzneiformenlehre (2. Stj.) — Vorlesung — Dr. Stefan Seyferth, Prof. Dr. Dagmar Fischer
-- Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM) — Einführungskurs — PD Dr. Aura Heydenreich
 - Praxisübung I: Inschriften und Münzen als Quellen für die mittlere und späte römische Republik — Übungsseminar — Dr. Bernhard Kremer
-- Rechtstheorie und juristische Methodenlehre — Vorlesung — Prof. Dr. Jan-Reinard Sieckmann
 
 #### Auszüge aus dem PO-Text
 
@@ -18812,21 +14764,16 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-geschichte-februar2014.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-geschichte-februar2014.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Praktikum Grundlagen der Elektrischen Antriebstechnik — Praktikum — Shan Jiang, Prof. Dr.-Ing. Susanne Lehner
-- Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
-- Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
 - ITG Informationstechnische Grundlagen — Seminar — Karsten Golze
-- Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
 - Psychologische Grundlagen des Verhandelns — Workshop
 - Grundlagen der Arzneiformenlehre (2. Stj.) — Vorlesung — Dr. Stefan Seyferth, Prof. Dr. Dagmar Fischer
-- Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM) — Einführungskurs — PD Dr. Aura Heydenreich
 - Praxisübung I: Inschriften und Münzen als Quellen für die mittlere und späte römische Republik — Übungsseminar — Dr. Bernhard Kremer
-- Rechtstheorie und juristische Methodenlehre — Vorlesung — Prof. Dr. Jan-Reinard Sieckmann
 
 #### Auszüge aus dem PO-Text
 
@@ -18884,12 +14831,11 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-kunstgesch-februar2014.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-kunstgesch-februar2014.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Geschichte der Bildenden Kunst des Mittelalters - Baustein II — Proseminar — Simon Scheidle
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -18914,12 +14860,11 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-kunstgesch-okt2013.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-kunstgesch-okt2013.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Geschichte der Bildenden Kunst des Mittelalters - Baustein II — Proseminar — Simon Scheidle
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -18931,76 +14876,6 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 |**Vertiefung im Bereich der**<br>**Bildenden Kunst und der**<br>**Architektur**|Hauptseminar||||2|5||||5|||Mündliche Prüfungsleistung<br>(15 Minuten, 100 %)|2|
 |**Spezialisierung im**<br>**Bereich der**<br>**Bildenden Kunst**<br>**und der Architektur**|Hauptseminar||||2|5|||||5||Referat (ca. 30‐45 Minuten,<br>0 %) mit schriftlicher Hausar‐<br>beit (ca. 20 Textseiten, 100 %)|2|
 |**Praxisbezogenes Studium**<br>**vor Originalen**|Hauptseminar||||2|5||||5|||Portfolio:<br>Teilnahm …
-
----
-
-### PDF vom 05.10.2007 i.d.F. 09.03.2011
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-mittellatein-maerz2011.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-mittellatein-maerz2011.md)  
-Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**§ 3 Fächerkombinationen** _(paragraph)_
-
-||**Modul**|**ECTS**|**Prüfungsleistung**|
-|---|---|---|---|
-||Basismodul 1: Einführung in die Sprache und|||
-|MLat 1||10||
-||<br>Literatur des lateinischen Europas|||
-|||||
-||Proseminar Einführung in das lateinische Europa<br>(2 SWS)|6|Referat;<br>mündliche Prüfung (15 Min.)|
-||Übersetzung ausgewählter Texte (2 SWS)|2|Studienleistung:<br>mündliche Prüfung (15 Min.)|
-||Tutorium (2 SWS)|2|Studienleistung:<br>mündlichePrüfung (15Min.)|
-||Basismodul 2: Einführung in die lateinische|||
-|MLat 2||10||
-||<br>Schrift (Paläographie)|||
-|||||
-||Proseminar Schrift und Kultur (2 SWS)|6|Referat; Klausur<br>(benotet, 90 Min.)|
-||Bibliotheksexkursion mit einer Selbststudiums-<br>einheit|4|Studienleistung: Referat,<br>mündlich und schriftlich|
-||Basismodul 3: Das Klassische Erbe (Wahl-|10||
-|MLat 3A||||
-| …
-
----
-
-### PDF vom 05.10.2007 i.d.F. 05.11.2010
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-mittellatein.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-mittellatein.md)  
-Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**§ 3 Fächerkombinationen** _(paragraph)_
-
-||**Modul**|**ECTS**|**Prüfungsleistung**|
-|---|---|---|---|
-||Basismodul 1: Einführung in die Sprache und|||
-|MLat 1||10||
-||<br>Literatur des lateinischen Europas|||
-|||||
-||Proseminar Einführung in das lateinische Europa<br>(2 SWS)|6|Referat;<br>mündliche Prüfung (15 Min.)|
-||Übersetzung ausgewählter Texte (2 SWS)|2|Studienleistung:<br>mündliche Prüfung (15 Min.)|
-||Tutorium (2 SWS)|2|Studienleistung:<br>mündlichePrüfung (15Min.)|
-||Basismodul 2: Einführung in die lateinische|||
-|MLat 2||10||
-||<br>Schrift (Paläographie)|||
-|||||
-||Proseminar Schrift und Kultur (2 SWS)|6|Referat; Klausur<br>(benotet, 90 Min.)|
-||Bibliotheksexkursion mit einer Selbststudiums-<br>einheit|4|Studienleistung: Referat,<br>mündlich und schriftlich|
-||Basismodul 3: Das Klassische Erbe (Wahl-|10||
-|MLat 3A||||
-| …
 
 ---
 
@@ -19211,141 +15086,6 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 |Nordistische Literaturwissenschaf …
 
 _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 05.10.2007 i.d.F. 22.07.2014
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-soziol-juli2014.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-soziol-juli2014.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Soziologie** _(paragraph)_
-
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Art und Umfang der Prü-<br>f/Sili|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-|||||||||in ECTS-Punkten*|||||||
-||||||||||||||||
-|||V|S|Ü|P||1.|2.|3.|4.|5.|6.|ungtudenestung||
-|Pflichtbereich|||||||||||||||
-|**Einführung**<br>**(SozE)**|V Einführung in die<br>Soziologie|2||||5|5||||||Klausur (60min)|0,5|
-|**Sozialstrukturanalyse**<br>**(SozStruk)**|V Sozialstruk …
-
-**Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Soziologie** _(paragraph)_
-
-|**Wahlbereich**||2|2|||10||5|5||||Nach Maßgabe des Faches|0|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Wahlbereich: Es ist eines der folgenden drei Module zu belegen|||||||||||||||
-|**Soziologische Theorie II**<br>**(SozT-II)**|HS||2|||15|||||7,5||Referat (20-30min) und schrift-<br>liche Leistung (Essays oder<br>Hausarbeit) im Umfang von 20-<br>25 Seiten|1|
-||HS||2|||||||||7,5|||
-|**Soziologische**<br>**Methodenlehre II**<br>**(SozM-II)**|HS||2|||15|||||7,5||Referat (20-30min) und schrift-<br>liche Leistung (Essays oder<br>Hausarbeit) im Umfang von 20-<br>25 Seiten|1|
-||HS||2|||||||||7,5|||
-|**Vertiefungsprofil I**<br>**(SozV-I)**|HS||2|||15|||||7,5||Referat (20-30 min) und schrift-<br>liche Leistung (Essays oder<br>Hausarbeit) im Umfang von 20-<br>25 Seiten|1|
-||HS|| …
-
----
-
-### PDF vom 05.10.2007 i.d.F. 02.07.2015
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-soziol-juli2015.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-soziol-juli2015.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Soziologie** _(paragraph)_
-
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prü-<br>f/Sili|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||in ECTS-Punkten1||||||
-||||||||||||||||
-|||V|S|Ü|P||1.|2.|3.|4.|5.|6.|ungtudenestung||
-|Pflichtbereich|||||||||||||||
-|**Einführung**<br>**(SozE)**|V Einführung in die<br>Soziologie|2||||5|5||||||Klausur (60 min.)|0,5|
-|**Sozialstrukturanalyse**<br>**(SozStruk)**|V Sozialstr …
-
-**Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Soziologie** _(paragraph)_
-
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prü-<br>f/Sili|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||in ECTS-Punkten1||||||
-||||||||||||||||
-|||V|S|Ü|P||1.|2.|3.|4.|5.|6.|ungtudenestung||
-|**Wahlbereich intern**||2|2|||10||||5|5||Nach Maßgabe der gewählten<br>Lehrveranstaltung2|0|
-|Vertiefungsfach: Es ist eines der folgenden drei Module zu belegen|||||||||||||||
-|**Soziolog …
-
----
-
-### FPO 2-Fach BA DGSW 20080722 i.d.F. 20180829.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-2-fach-ba-dgsw-20080722-idf-20180829.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-2-fach-ba-dgsw-20080722-idf-20180829.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Einführung in die Biochemie für Naturwissenschaftler Teil2 — Vorlesung — Prof. Dr. Henri Girao Franquelim
-- Experimentalphysik für Naturwissenschaftler II — Vorlesung — apl. Prof. Dr. Norbert Lindlein
-- Projektseminar Wirtschaftsinformatik (Projektbericht+Präsentation) — 
-
-#### Auszüge aus dem PO-Text
-
-**§ 5 Grundlagen- und Orientierungsprüfung** _(paragraph)_
-
-Für die Grundlagen- und Orientierungsprüfung müssen im Fach Digitale Geistes- und Sozialwissenschaften das Modul „Einführung in die Digitalen Geistes- und Sozialwissenschaften“ (7,5 ECTS-Punkte) oder das Modul „Grundlagen der Informatik“ (7,5 ECTS-Punkte) sowie weitere Module aus dem Pflichtcurriculum im Umfang von 12,5 ECTS-Punkten nachgewiesen werden.
-
-**Anlage: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“** _(paragraph)_
-
-- 3 Die Pflicht zum erfolgreichen Abschluss dieses Moduls entfällt beim Studium der Digitalen Geistes- und Sozialwissenschaften als Zweitfach.
-
----
-
-### FPO 2-Fach BA DGSW 20250411.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-2-fach-ba-dgsw-20250411.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-2-fach-ba-dgsw-20250411.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**§ 5 Grundlagen- und Orientierungsprüfung** _(paragraph)_
-
-Für die Grundlagen- und Orientierungsprüfung müssen im Fach Digitale Geistes- und Sozialwissenschaften das Modul „Einführung in die Digitalen Geistes- und Sozialwissenschaften“ (7,5 ECTS-Punkte) oder das Modul „Grundlagen der Informatik“ (7,5 ECTS-Punkte) sowie weitere Module aus dem Pflichtcurriculum im Umfang von 12,5 ECTS-Punkten nachgewiesen werden.
-
-**§ 7 Schluss- und Übergangsvorschriften** _(paragraph)_
-
-|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workl …
-
-**Anlage 2: Studienverlaufsplan Zwei-Fach-Bachelor Digitale Geistes- und Sozialwissenschaften als Zweitfach** _(paragraph)_
-
-|<br>**Modulbezeichnung**|<br>**Lehrveranstaltung**|<br>**SWS**|<br>**SWS**|<br>**SWS**|<br>**SWS**|<br>**SWS**|<br>**SWS**|**Ge-**<br>**samt**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**||||||||||||||||
-||||**Ü**|**P**||**S**||**ECTS**|**1.**|**2.**|**3.* …
-
-**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -19614,12 +15354,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/dpo-intwirtschaftsrecht.md`](../pruefungsordnungen/rw/rewi/dpo-intwirtschaftsrecht.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM) — Einführungskurs — PD Dr. Aura Heydenreich
 - Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
@@ -19648,56 +15386,15 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 29.09.2010 i.d.F. 04.12.2013
-
-PO-Quelle: [`pruefungsordnungen/rw/rewi/po-deutsch-franzoesischesrecht-ma-dez2013.md`](../pruefungsordnungen/rw/rewi/po-deutsch-franzoesischesrecht-ma-dez2013.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Prüfungsordnung für das Masterstudium DeutschFranzösisches Recht im Fachbereich Rechtswissenschaft der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg Vom 29. September 2010** _(paragraph)_
-
-|§|1|Geltungsbereich ............................................................................................... 2|
-|---|---|---|
-|§|2|Abschlussgrad ................................................................................................. 2|
-|§|3|Struktur des Masterstudiengangs und der Prüfungen; Regelstudienzeit ......... 2|
-|§|4|ECTS-Punkte ................................................................................................... 2|
-|§|5|Modularisierung, Studienbegleitende Leistungsnachweise .............................. 3|
-|§|6|Prüfungsfristen, Folgen der Fristversäumnis .................................................... 3|
-|§|7|Prüfungsausschuss .......................................................................................... 3|
-|§|8|Prüfende, Ausschlus …
-
-**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach Art. 62 BayHSchG berechtigten Personen bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(2) Ein vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-4 
-
-(3) Zur Beisitzerin oder zum Beisitzer in mündlichen Prüfungen (§ 16) kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
-
-(5) Die Pflicht der Mitglieder des P …
-
----
-
 ### PDF vom 29.09.2010
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/po-deutsch-franzoesischesrecht-ma.md`](../pruefungsordnungen/rw/rewi/po-deutsch-franzoesischesrecht-ma.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -19744,12 +15441,11 @@ _Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zug
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/po-llm-recht-und-informatik-po-rinf-20230502-idf-20230731.md`](../pruefungsordnungen/rw/rewi/po-llm-recht-und-informatik-po-rinf-20230502-idf-20230731.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -19777,12 +15473,11 @@ I. Teil: Allgemeine Bestimmungen................................................
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/po-llm-recht-und-informatik-po-rinf-20230502-idf-20240328.md`](../pruefungsordnungen/rw/rewi/po-llm-recht-und-informatik-po-rinf-20230502-idf-20240328.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -19814,12 +15509,11 @@ werden kann bzw. es zur Sicherheit der Teilnehmerinnen und  …
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/po-llm-recht-und-informatik-po-rinf-20230502-idf-20240926.md`](../pruefungsordnungen/rw/rewi/po-llm-recht-und-informatik-po-rinf-20230502-idf-20240926.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -19853,12 +15547,11 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/po-llm-recht-und-informatik-po-rinf-20230502.md`](../pruefungsordnungen/rw/rewi/po-llm-recht-und-informatik-po-rinf-20230502.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -19879,257 +15572,6 @@ I. Teil: Allgemeine Bestimmungen................................................
 (1)[1] Zur Abnahme von Prüfungen sind sämtliche Personen bestellt, die gemäß § 14 der Studien- und Prüfungsordnung für den Studiengang Rechtswissenschaft an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – **StuPO Jura** – zu Prüfenden bestellt worden sind.[2] In der Regel ist die bzw. der Lehrende der jeweiligen Veranstaltung auch die bzw. der Prüfende. 
 
 (2)[1] Im Übrigen bestellt die bzw. der Vorsitzende des Prüfungsausschusses die Prüfenden.[2] Es können alle nach dem **BayHIG** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden, soweit diese Personen Mitglieder der FAU sind; die Bestellung auswärtiger Prüfender, die hauptberufliche oder nebenber …
-
----
-
-### PO Master Deutsch-Französisches-Recht 20220811 i.d.F. 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/rewi/po-master-deutsch-franzoesisches-recht-20220811-idf-20240926.md`](../pruefungsordnungen/rw/rewi/po-master-deutsch-franzoesisches-recht-20220811-idf-20240926.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I. Teil: Allgemeine Bestimmungen ..................................................................................... 2**||
-|§ 1|Geltungsbereich, Zweck der Masterprüfung ................................................................. 2|
-|§ 2|Akademischer Grad ...................................................................................................... 2|
-|§ 3|Qualifikation zum Masterstudium, Zugangsvoraussetzungen ....................................... 2|
-|§ 4|Gliederung des Masterstudiengangs, Regelstudienzeit, Studienbeginn, Unterrichts-|
-||und Prüfungssprache ................................................................................................... 2|
-|§ 5|ECTS-Punkte ................................... …
-
-**§ 2 Akademischer Grad** _(paragraph)_
-
-1Aufgrund der bestandenen Prüfungen wird der akademische Grad Master of Laws (abgekürzt: LL.M.) verliehen, der auch mit dem Zusatz „(FAU Erlangen-Nürnberg)“ geführt werden kann.[2] Von der FAU wird eine Urkunde ausgestellt, aus der sich ergibt, dass der Masterabschluss einen verpflichtenden Auslandsaufenthalt an der Université de Rennes 1 beinhaltet.
-
-**§ 4 Gliederung des Masterstudiengangs, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache** _(paragraph)_
-
-(1)[1] Der Masterstudiengang wird in Kooperation mit der Université de Rennes 1 angeboten und beinhaltet im ersten Semester einen verpflichtenden Auslandsaufenthalt an der Partneruniversität.[2] Das Masterstudium wird mit der Masterprüfung abgeschlos-
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. es zur Sicherheit der Teilnehmerinnen und Teilnehmer erfor …
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PO Master Deutsch-Französisches-Recht 20220811.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/rewi/po-master-deutsch-franzoesisches-recht-20220811.md`](../pruefungsordnungen/rw/rewi/po-master-deutsch-franzoesisches-recht-20220811.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|**I. Teil: Allgemeine Bestimmungen ..................................................................................... 2**|
-|---|
-|§ 1<br>Geltungsbereich, Zweck der Masterprüfung ................................................................. 2|
-|§ 2<br>Akademischer Grad ...................................................................................................... 2|
-|§ 3<br>Qualifikation zum Masterstudium, Zugangsvoraussetzungen ....................................... 2|
-|§ 4<br>Gliederung des Masterstudiengangs, Regelstudienzeit, Studienbeginn, Unterrichts-|
-|und Prüfungssprache ................................................................................................... 2|
-|§ 5<br>ECTS-Punkte ............................................................................ …
-
-**§ 2 Akademischer Grad** _(paragraph)_
-
-1Aufgrund der bestandenen Prüfungen wird der akademische Grad Master of Laws (abgekürzt: LL.M.) verliehen, der auch mit dem Zusatz „(FAU Erlangen-Nürnberg)“ geführt werden kann.[2] Von der FAU wird eine Urkunde ausgestellt, aus der sich ergibt, dass der Masterabschluss einen verpflichtenden Auslandsaufenthalt an der Université de Rennes 1 beinhaltet.
-
-**§ 4 Gliederung des Masterstudiengangs, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache** _(paragraph)_
-
-(1)[1] Der Masterstudiengang wird in Kooperation mit der Université de Rennes 1 angeboten und beinhaltet im ersten Semester einen verpflichtenden Auslandsaufenthalt an der Partneruniversität.[2] Das Masterstudium wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus sämtlichen dem Masterstudium zugeordneten Modulen im Umfang von 120 ECTS-Punkten, wie sie in **Anlage 2** beschrieben sind.[4] Im Hinblick auf das Studium im ersten Semester findet ausschließlich die Studien- und Prüfungsordnung der Université de Rennes 1 für den Studiengang Master 1 – Mention Droit européen, Parcours Juriste franco-allemand in der jeweils geltenden Fassung Anwendung.
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. es zur Sicherheit der Teilnehmerinnen und Teilnehmer erfor …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PO Master Deutsch-Französisches-Recht 20230731.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/rewi/po-master-deutsch-franzoesisches-recht-20230731.md`](../pruefungsordnungen/rw/rewi/po-master-deutsch-franzoesisches-recht-20230731.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I. Teil: Allgemeine Bestimmungen ..................................................................................... 2**||
-|§ 1|Geltungsbereich, Zweck der Masterprüfung ................................................................. 2|
-|§ 2|Akademischer Grad ...................................................................................................... 2|
-|§ 3|Qualifikation zum Masterstudium, Zugangsvoraussetzungen ....................................... 2|
-|§ 4|Gliederung des Masterstudiengangs, Regelstudienzeit, Studienbeginn, Unterrichts-|
-||und Prüfungssprache ................................................................................................... 2|
-|§ 5|ECTS-Punkte ................................... …
-
-**§ 2 Akademischer Grad** _(paragraph)_
-
-1Aufgrund der bestandenen Prüfungen wird der akademische Grad Master of Laws (abgekürzt: LL.M.) verliehen, der auch mit dem Zusatz „(FAU Erlangen-Nürnberg)“ geführt werden kann.[2] Von der FAU wird eine Urkunde ausgestellt, aus der sich ergibt, dass der Masterabschluss einen verpflichtenden Auslandsaufenthalt an der Université de Rennes 1 beinhaltet.
-
-**§ 4 Gliederung des Masterstudiengangs, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache** _(paragraph)_
-
-(1)[1] Der Masterstudiengang wird in Kooperation mit der Université de Rennes 1 angeboten und beinhaltet im ersten Semester einen verpflichtenden Auslandsaufenthalt an der Partneruniversität.[2] Das Masterstudium wird mit der Masterprüfung abgeschlossen.[3] Sie besteht aus sämtlichen dem Masterstudium zugeordneten Modulen im Umfang von 120 ECTS-Punkten, wie sie in **Anlage 2** beschrieben sind.[4] Im Hinblick auf
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. es zur Sicherheit der Teilnehmerinnen und Teilnehmer erfor …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 29.09.2010 i.d.F. 18.02.2013
-
-PO-Quelle: [`pruefungsordnungen/rw/rewi/sto-po-wirtschaftsrecht-ba-feb2013.md`](../pruefungsordnungen/rw/rewi/sto-po-wirtschaftsrecht-ba-feb2013.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**geändert durch Satzung vom 18. Februar 2013** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften** ............................................................................................. 2 **§ 1 Geltungsbereich, Zweck der Bachelorprüfung** ........................................................... 2 **§ 2 Akademischer Grad** ...................................................................................................... 2 **§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** ..................................................... 2 **§ 4 ECTS-Punkte** ................................................................................................................. 3 **§ 5 Modularisierung, Studienbegleitende Leistungsnachweise** ...................................... 3 **§ 6 Prüfungsfristen, Fristversäumnis** .............................. …
-
-**§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** _(paragraph)_
-
-(3)[1] Die Prüfungen erstrecken sich auf die Module des **Pflichtbereichs** und des **Vertiefungsbereichs** .[2] Die Prüfungen schließen im entsprechenden Modul die Anfertigung einer Bachelorarbeit ein.
-
-**§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** _(paragraph)_
-
-(4)[1] Das Studium umfasst im Pflichtbereich 145 ECTS-Punkte.[2] Dieser besteht aus den Modulen zu dem Bereich Grundlagen (30 ECTS-Punkte), dem Bereich Betriebswirtschaftslehre (BWL 25 ECTS-Punkte), dem Bereich Volkswirtschaftslehre (VWL15 ECTS-Punkte), dem Bereich Öffentliches Recht (5 ECTS-Punkte), dem Bereich Zivilrecht (35 ECTS-Punkte) und dem Bereich Wirtschaftsrecht (35 ECTS-Punkte).[3] Der Vertiefungsbereich (insgesamt 35 ECTS-Punkte) setzt sich aus dem Bereich Wirtschaftswissenschaften und Recht (jeweils 5 ECTS-Punkte), Modulen frei wählbar aus
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 29.09.2010 i.d.F. 20.02.2015
-
-PO-Quelle: [`pruefungsordnungen/rw/rewi/sto-po-wirtschaftsrecht-ba-februar2015.md`](../pruefungsordnungen/rw/rewi/sto-po-wirtschaftsrecht-ba-februar2015.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/WR) Vom 29. September 2010** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften** ............................................................................................. 2 **§ 1 Geltungsbereich, Zweck der Bachelorprüfung** ........................................................... 2 **§ 2 Akademischer Grad** ...................................................................................................... 2 **§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** ..................................................... 2 **§ 4 ECTS-Punkte** ................................................................................................................. 3 **§ 5 Modularisierung, Studienbegleitende Leistungsnachweise** ...................................... 3 **§ 6 Anwesenheitspflicht** ........................................... …
-
-**§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** _(paragraph)_
-
-(3)[1] Die Prüfungen erstrecken sich auf die Module des **Pflichtbereichs** und des **Vertiefungsbereichs** .[2] Die Prüfungen schließen im entsprechenden Modul die Anfertigung einer Bachelorarbeit ein.
-
-**§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** _(paragraph)_
-
-(4)[1] Das Studium umfasst im Pflichtbereich 145 ECTS-Punkte.[2] Dieser besteht aus den Modulen zu dem Bereich Grundlagen (30 ECTS-Punkte), dem Bereich Betriebswirt-
-
-**§ 6 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 29.09.2010 i.d.F. 23.07.2014
-
-PO-Quelle: [`pruefungsordnungen/rw/rewi/sto-po-wirtschaftsrecht-ba-juli2014.md`](../pruefungsordnungen/rw/rewi/sto-po-wirtschaftsrecht-ba-juli2014.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/WR) Vom 29. September 2010** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften** ............................................................................................. 2 **§ 1 Geltungsbereich, Zweck der Bachelorprüfung** ........................................................... 2 **§ 2 Akademischer Grad** ...................................................................................................... 2 **§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** ..................................................... 2 **§ 4 ECTS-Punkte** ................................................................................................................. 3 **§ 5 Modularisierung, Studienbegleitende Leistungsnachweise** ...................................... 3 **§ 6 Anwesenheitspflicht** ........................................... …
-
-**§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** _(paragraph)_
-
-(3)[1] Die Prüfungen erstrecken sich auf die Module des **Pflichtbereichs** und des **Vertiefungsbereichs** .[2] Die Prüfungen schließen im entsprechenden Modul die Anfertigung einer Bachelorarbeit ein.
-
-**§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** _(paragraph)_
-
-(4)[1] Das Studium umfasst im Pflichtbereich 145 ECTS-Punkte.[2] Dieser besteht aus den Modulen zu dem Bereich Grundlagen (30 ECTS-Punkte), dem Bereich Betriebswirt-
-
-**§ 6 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 29.09.2010
-
-PO-Quelle: [`pruefungsordnungen/rw/rewi/sto-po-wirtschaftsrecht-ba.md`](../pruefungsordnungen/rw/rewi/sto-po-wirtschaftsrecht-ba.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/WR) Vom 29. September 2010** _(paragraph)_
-
-**I. Teil: Allgemeine Vorschriften** .......................................................................................... 2 **§ 1 Geltungsbereich, Zweck der Bachelorprüfung** ........................................................ 2 **§ 2 Akademischer Grad** ................................................................................................... 2 **§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** .................................................. 2 **§ 4 ECTS-Punkte** .............................................................................................................. 3 **§ 5 Modularisierung, Studienbegleitende Leistungsnachweise** ................................... 3 **§ 6 Prüfungsfristen, Fristversäumnis** ................................................ …
-
-**§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** _(paragraph)_
-
-(3)[1] Die Prüfungen erstrecken sich auf die Module des **Pflichtbereichs** und des **Vertiefungsbereichs** .[2] Die Prüfungen schließen im entsprechenden Modul die Anfertigung einer Bachelorarbeit ein.
-
-**§ 3 Struktur des Bachelorstudiums, Regelstudienzeit** _(paragraph)_
-
-(4)[1] Das Studium umfasst im Pflichtbereich 145 ECTS-Punkte.[2] Dieser besteht aus den Modulen zu dem Bereich Grundlagen (30 ECTS-Punkte), dem Bereich Betriebswirtschaftslehre (BWL 25 ECTS-Punkte), dem Bereich Volkswirtschaftslehre (VWL15 ECTS-Punkte), dem Bereich Öffentliches Recht, Europarecht, Strafrecht (20 ECTSPunkte), dem Bereich Zivilrecht (30 ECTS-Punkte) und dem Bereich Wirtschaftsrecht (25 ECTS-Punkte).[3] Der Vertiefungsbereich (insgesamt 35 ECTS-Punkte) setzt sich aus dem Bereich BWL und Recht (jeweils 5 ECTS-Punkte), Modulen frei wählbar aus den Bereichen Recht und BWL (insgesamt 10 ECTS-Punkte) und der Bachelorarbeit zuzüglich eines Seminars zur Bachelorarbeit (insgesamt 15 ECTS-Punkte) zusammen.[4] Die Vertiefungsbereiche Recht und BWL werden näher im Modulhandbuch definier …
-
-**§ 9 Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -20306,50 +15748,6 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### StuPO Jura 20260305 ÄSa.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/rewi/stupo-jura-20260305-aesa.md`](../pruefungsordnungen/rw/rewi/stupo-jura-20260305-aesa.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**2. Die Regelung in § 21 erhält folgende neue Fassung:** _(paragraph)_
-
-(3)[1] Werden E-Prüfungen nicht mit von der Universität gestellten Mitteln durchgeführt, sind die Prüfungsteilnehmerinnen und Prüfungsteilnehmer selbst für die Funktionsfähigkeit der von ihnen eingesetzten technischen Ausstattung verantwortlich.[2] Sie tragen insbesondere das Risiko, dass die Ausstattung in der Prüfung nicht ordnungsgemäß funktioniert.[3] Die Prüfungsteilnehmerinnen und Prüfungsteilnehmer sind bei der Verwendung eigener Endgeräte verpflichtet, erforderliche Software zu installieren und während der Prüfung zu nutzen.
-
-**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
-**OCR Seite 2** _(paragraph)_
-
-```
-Friedrich-Alexander-Universität
-FE
-Erlangen-Nürnberg
-DUN
-(3) "Werden E-Prüfungen nicht mit von der Universität gestellten Mitteln durchge-
-führt, sind die Prüfungsteilnehmerinnen und Prüfungsteilnehmer selbst für die
-Funktionsfähigkeit der von ihnen eingesetzten technischen Ausstattung verant-
-wortlich. ?Sie tragen insbesondere das Risiko, dass die Ausstattung in der Prüfung
-nicht ordnungsgemäß funktioniert. *Die Prüfungsteilnehmerinnen und Prüfungs-
-teilnehmer sind bei der Verwendung eigener Endgeräte verpflichtet, erforderliche
-Software zu installieren und während der Prüfung zu nutzen.
-(4) Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustel-
-len.“
-3.
-8 22 wird wie folgt geändert:
-a)
-In Abs. 1 wird folgender neuer Satz 3 angefügt:
-„Dies gilt nicht für die En …
-
----
-
 ### StuPO Rechtswissenschaft StuPO Jura 20220301.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/stupo-rechtswissenschaft-stupo-jura-20220301.md`](../pruefungsordnungen/rw/rewi/stupo-rechtswissenschaft-stupo-jura-20220301.md)  
@@ -20492,12 +15890,11 @@ _(+ 21 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/14aes-ba-wiwi.md`](../pruefungsordnungen/rw/wiso/14aes-ba-wiwi.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
 - Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
@@ -20563,11 +15960,10 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/1aesa-ba-wiwi.md`](../pruefungsordnungen/rw/wiso/1aesa-ba-wiwi.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
@@ -20644,11 +16040,10 @@ Im Pflichtbereich (Methodenkompetenz) sind Prüfungen in folgenden Modulen zu er
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/6aes-ba-20wiwi.md`](../pruefungsordnungen/rw/wiso/6aes-ba-20wiwi.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 
 #### Auszüge aus dem PO-Text
@@ -20685,11 +16080,10 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge-bpowiso-20060801-idf-20190614.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge-bpowiso-20060801-idf-20190614.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
@@ -20719,145 +16113,15 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### Bachelorstudiengänge BPOWISO 20060801 i.d.F. 20200902.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge-bpowiso-20060801-idf-20200902.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge-bpowiso-20060801-idf-20200902.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Bachelorstudiengänge BPOWISO 20060801 i.d.F. 20200902.pdf** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I.**|**Allgemeiner Teil .................................................................................................................... 2**|
-|§ 1|Geltungsbereich, Zweck der Bachelorprüfung ....................................................................... 2|
-|§ 2|Akademische Grade................................................................................................................ 3|
-|§ 3|Struktur des Bachelorstudiengangs und der Prüfungen, Regelstudienzeit, Studienbeginn,|
-||Unterrichts- und Prüfungssprache .......................................................................................... 3|
-|§ 4|Pflichtbereich, Kernbereich, Vertiefungsbereich, Schlüsselqualifikationen bzw. Studium|
-||Integrale .... …
-
-**§ 4 Pflichtbereich, Kernbereich, Vertiefungsbereich, Schlüsselqualifikationen** _(section)_
-
-
-
-**bzw. Studium Integrale** _(paragraph)_
-
-> 1Die Prüfungen erstrecken sich auf die Module des Pflichtbereichs, des Kernbereichs, des Vertiefungsbereichs und des Bereichs Schlüsselqualifikationen bzw. Studium Integrale.[2] Die Prüfungen sämtlicher Bachelorstudiengänge schließen im entsprechenden Modul die Anfertigung einer Bachelorarbeit ein.[ 3] Näheres regeln die **Fachprüfungsordnungen** .
-
-**§ 10 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Es können alle nach dem Bayerischen Hochschulgesetz, dem Bayerischen Hochschulpersonalgesetz und der Bayerischen Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hau …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### Bachelorstudiengänge BPOWISO 20060801 i.d.F. 20230323.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge-bpowiso-20060801-idf-20230323.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge-bpowiso-20060801-idf-20230323.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Referat L 1 einsehbare Text.** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**||
-|---|---|---|
-|**I.**|**Allgemeiner Teil .................................................................................................................... 2**||
-|§ 1|Geltungsbereich, Zweck der Bachelorprüfung ....................................................................... 2||
-|§ 2|Akademische Grade................................................................................................................ 3||
-|§ 3|Struktur des Bachelorstudiengangs und der Prüfungen, Regelstudienzeit, Studienbeginn,||
-||Unterrichts- und Prüfungssprache .......................................................................................... 3||
-|§ 4|Pflichtbereich, Kernbereich, Vertiefungsbereich, Schlüsselqualifikationen bzw. Studium||
-||Int …
-
-**§ 4 Pflichtbereich, Kernbereich, Vertiefungsbereich, Schlüsselqualifikationen bzw. Studium Integrale** _(section)_
-
-[aufgehoben]
-
-**§ 10 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Es können alle nach dem **Bayerischen Hochschulinnovationsgesetz** und der Bayerischen Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[3] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darübe …
-
-**§ 16 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehr …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### Bachelorstudiengänge BPOWISO 20240807.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge-bpowiso-20240807.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge-bpowiso-20240807.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Rahmenprüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – BPOWISO – Vom 7. August 2024** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I.**|**Allgemeiner Teil**........................................................................................................... 2|
-|§|1 Geltungsbereich, Zweck der Bachelorprüfung .................................................................. 2|
-|§|2 Akademische Grade ......................................................................................................... 2|
-|§|3 Struktur des Bachelorstudiengangs und der Prüfungen, Regelstudienzeit, Studienbeginn,|
-|Unterrichts- und Prüfungssprache .......................................................................................... 2||
-|§|4 ECTS-Punkte ................................................................................................................. …
-
-**§ 7 Zusatzmodule** _(paragraph)_
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** (1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen bzw. Gutachter.[2] Es können alle nach dem **Bayerischen Hochschulinnovationsgesetz** und der **Bayerischen Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.
-
-**§ 7 Zusatzmodule** _(paragraph)_
-
-(5) Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 26 Abs. 2 Sätze 2 und 3 **BayHIG** .
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehr …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### BA International Business Studies FPO BA IBS 20170810 i.d.F. 20180730.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-international-business-studies-fpo-ba-ibs-20170810-idf-20180730.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-international-business-studies-fpo-ba-ibs-20170810-idf-20180730.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Internationales Privatrecht — 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
 - Verteidigung Schwerpunktbereich Internationales Privatrecht — 
@@ -20913,12 +16177,11 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20180801.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20180801.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Introduction to international politics II — 
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 - Internationales Privatrecht — 
@@ -20960,12 +16223,11 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20190220.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20190220.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Introduction to international politics II — 
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 - Internationales Privatrecht — 
@@ -21006,12 +16268,11 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20190806.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20190806.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Introduction to international politics II — 
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 - Internationales Privatrecht — 
@@ -21052,12 +16313,11 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20200902.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20200902.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Introduction to international politics II — 
 - Internationales Privatrecht — 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
@@ -21100,12 +16360,11 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20220301.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20220301.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Introduction to international politics II — 
 - Internationales Privatrecht — 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
@@ -21149,12 +16408,11 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20230822.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20230822.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **9**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Introduction to international politics II — 
 - Internationales Privatrecht — 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
@@ -21202,12 +16460,11 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20240807.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20240807.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Introduction to international politics II — 
 
 #### Auszüge aus dem PO-Text
@@ -21346,7 +16603,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20200902.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20200902.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21356,8 +16613,6 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-- Data Science: Ökonometrie-Übung — Übung
 - Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 #### Auszüge aus dem PO-Text
@@ -21403,7 +16658,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20210122.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20210122.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21413,8 +16668,6 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-- Data Science: Ökonometrie-Übung — Übung
 - Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 #### Auszüge aus dem PO-Text
@@ -21462,7 +16715,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20210806.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20210806.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21472,8 +16725,6 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-- Data Science: Ökonometrie-Übung — Übung
 - Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 #### Auszüge aus dem PO-Text
@@ -21521,7 +16772,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20220727.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20220727.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21529,8 +16780,6 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-- Data Science: Ökonometrie-Übung — Übung
 
 #### Auszüge aus dem PO-Text
 
@@ -21567,7 +16816,7 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20230323.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20230323.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21575,8 +16824,6 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-- Data Science: Ökonometrie-Übung — Übung
 
 #### Auszüge aus dem PO-Text
 
@@ -21616,7 +16863,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20200902-aes.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20200902-aes.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21626,8 +16873,6 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-- Data Science: Ökonometrie-Übung — Übung
 - Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 #### Auszüge aus dem PO-Text
@@ -21677,7 +16922,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20220727-aes.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20220727-aes.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21685,8 +16930,6 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-- Data Science: Ökonometrie-Übung — Übung
 
 #### Auszüge aus dem PO-Text
 
@@ -21722,7 +16965,7 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807-idf-20250616.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807-idf-20250616.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21730,8 +16973,6 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-- Data Science: Ökonometrie-Übung — Übung
 
 #### Auszüge aus dem PO-Text
 
@@ -21771,7 +17012,7 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21779,8 +17020,6 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-- Data Science: Ökonometrie-Übung — Übung
 
 #### Auszüge aus dem PO-Text
 
@@ -21981,7 +17220,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20210806-aes.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20210806-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21989,7 +17228,6 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - Projektseminar Wirtschaftsinformatik (Projektbericht+Präsentation) — 
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
 
 #### Auszüge aus dem PO-Text
 
@@ -22254,12 +17492,11 @@ ass
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-ibs-aug2017.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-ibs-aug2017.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Introduction to international politics II — 
 - Internationales Privatrecht — 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
@@ -22286,12 +17523,11 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-sozoek-aug2017.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-sozoek-aug2017.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Introduction to international politics II — 
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 
@@ -22405,14 +17641,11 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/10aesa-pro-wirtschinf.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/10aesa-pro-wirtschinf.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
-- Wissensbasierte Systeme in der Medizin 1 — Vorlesung mit Übung — Philipp Unberath, Dr. med. Lorenz Kapsner, Prof. Dr. med. Thomas Ganslandt
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
 #### Auszüge aus dem PO-Text
@@ -22479,16 +17712,13 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/2aesa-pro-wimathe.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/2aesa-pro-wimathe.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Büttner / Digitale Medien im Sachunterricht der Grundschule sinnvoll einsetzen(Kurs A) — Mittelseminar — Eva Büttner
 - Hauptseminar Bildung für nachhaltige Entwicklung — Seminar — Prof. Dr. Jan Christoph Schubert
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
-- Staatsexamenskurs Mathematik (nicht vertieft) — Sonstige Lehrveranstaltung — Karin Pott
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -22580,81 +17810,6 @@ mathematisches Wahlfach verteilt werden, das dann Gegenstand einer weiteren
 mündlichen Prüfung wird. *Die …
 
 _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### 18. Januar 1996
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/5aesa-pro-wirtschinf.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/5aesa-pro-wirtschinf.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-
-#### Auszüge aus dem PO-Text
-
-**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
-**OCR Seite 5** _(paragraph)_
-
-```
-sichtigt."
-16.
-In$ 35 Abs. 3 werden die Worte "und von allen Prüfern" gestrichen.
-17.
-Der Katalog der zugelassenen Pflichtwahlfächer in der Anlage erhält folgende Fassung:
-"1.
-Bank- und Börsenwesen
-2.
-Betriebswirtschaftslehre der Banken
-3.
-Betriebswirtschaftslehre der Industrie
-4.
-Betriebswirtschaftsiehre des Prüfungswesens
-5.
- Betriebswirtschaftliche Steuerlehre
-6.
-Internationales Management
-7.
-Logistik
-8.
-Marketing
-9.
-Operations Research
-10.
-Rechnungswesen
-11.
-Unternehmensführung
-12.
-Wirtschafts- und Betriebspädagogik
-13.
-Internationale Wirtschaft
-j
-14.
-Entwicklungspolitik
-15.
-Finanzwissenschaft
-16.
-Statistik
-17.
-Genossenschaftswesen
-18.
-Quantitative Wirtschaftsforschung
-19.
-Arbeitsrecht
-20.
-Öffentliches Recht
-21.
-Steuerrecht
-22.
-Unternehmens- und Gesellschaftsrecht
-23.
-Soziologie
-24 …
 
 ---
 
@@ -22941,52 +18096,15 @@ a) Buchst. B erhält bis zu den Erläuterungen folgende Fassung:
 
 ---
 
-### PDF vom 25.11.1988 i.d.F. 04.11.2003
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/dpo-volkswirtschaft.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/dpo-volkswirtschaft.md)  
-Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
-
-#### Auszüge aus dem PO-Text
-
-**Studiendauer und Gliederung des Studiums** _(paragraph)_
-
-(1)[1] Die Regelstudienzeit einschließlich der Zeit für die Anfertigung der Diplomarbeit und die Ablegung der Prüfungen beträgt acht Semester.[2] Das Studium gliedert sich in ein viersemestriges Grundstudium und ein viersemestriges Hauptstudium.[3] Das Studium der Volkswirtschaftslehre umfasst Lehrveranstaltungen des Pflicht- und Pflichtwahlfachbereichs sowie Lehrveranstaltungen nach freier Wahl der Studenten. 4Der Höchstumfang der zum planmäßigen Studium erforderlichen Lehrveranstaltungen im Pflicht- und Pflichtwahlfachbereich beträgt 146 SWS; davon entfallen 80 SWS auf das Grundstudium.[5] Hinzu kommen bis zu 14 SWS im Pflicht- und Pflichtwahlfachbereich für Lehrveranstaltungen nach freier Wahl des Studenten.
-
-**Prüfungsausschuss** _(paragraph)_
-
-c) je ein Professor der Studiengänge Betriebswirtschaftslehre, Volkswirtschaftslehre, Wirtschaftspädagogik, Sozialwissenschaften und Wirtschaftsinformatik; d) ein weiteres prüfungsberechtigtes Mitglied der Fakultät aus dem Kreis der entpflichteten Professoren und Professoren im Ruhestand.
-
-**Prüfungsausschuss** _(paragraph)_
-
-a) Professoren im Sinne des Art. 2 Abs. 1 Nr. 1 Bayer. Hochschullehrergesetz b) entpflichtete Professoren und Professoren im Ruhestand
-
-**Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 50 BayHSchG. 
-
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer, der Prüfungsbeisitzer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 4 BayHSchG.
-
-_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### PDF vom 05.09.1991 i.d.F. 17.02.2004
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/dpo-wirtschaftsinformatik.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/dpo-wirtschaftsinformatik.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
-- Wissensbasierte Systeme in der Medizin 1 — Vorlesung mit Übung — Philipp Unberath, Dr. med. Lorenz Kapsner, Prof. Dr. med. Thomas Ganslandt
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
 #### Auszüge aus dem PO-Text
@@ -23017,17 +18135,14 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/dpo-wirtschaftspaedagogik.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/dpo-wirtschaftspaedagogik.md)  
 Pflicht-Stellen gefunden: **22**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
-- K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -23193,14 +18308,13 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-1998.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-1998.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar — Anita Seguna
 - Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -23265,15 +18379,13 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-alt.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-alt.md)  
 Pflicht-Stellen gefunden: **17**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar — Anita Seguna
 - Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
 - Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar — Dr. Christian Albrecht
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
 - Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
@@ -23306,15 +18418,13 @@ _(+ 13 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-neu.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-neu.md)  
 Pflicht-Stellen gefunden: **17**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar — Anita Seguna
 - Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
 - Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar — Dr. Christian Albrecht
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
 - Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
@@ -23347,11 +18457,10 @@ _(+ 13 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-sozialwiss-1988.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-sozialwiss-1988.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -23633,12 +18742,11 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-wirtschaftsmathematik.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-wirtschaftsmathematik.md)  
 Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Büttner / Digitale Medien im Sachunterricht der Grundschule sinnvoll einsetzen(Kurs A) — Mittelseminar — Eva Büttner
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 
 #### Auszüge aus dem PO-Text
 
@@ -23733,17 +18841,14 @@ Prüfungstät …
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/pro-wirtschpaed-1999.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/pro-wirtschpaed-1999.md)  
 Pflicht-Stellen gefunden: **21**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
-- K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -23927,11 +19032,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/1aes-20ma-sozialoeko.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/1aes-20ma-sozialoeko.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - MA S Ökonomie der Sozialpolitik (Economics of Social Policy) — Seminar — Prof. Dr. Matthias Wrede
 - Methoden der Wirtschafts- und Organisationspsychologie — Vorlesung — George Gunnesch-Luca
 
@@ -25021,14 +20125,13 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpo-ma-management-aug2017.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpo-ma-management-aug2017.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Global Logistics and Supply Chain Management - Übung — Übung — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Vorlesung — Vorlesung — Prof. Dr.-Ing. Eva Maria Hartmann, Wolf-Alexander Frenkler
 - Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
-- European critical materials supply chains — Seminar — Dr. Moniek de Jong
 
 #### Auszüge aus dem PO-Text
 
@@ -25461,14 +20564,13 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20190205.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20190205.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Global Logistics and Supply Chain Management - Übung — Übung — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Vorlesung — Vorlesung — Prof. Dr.-Ing. Eva Maria Hartmann, Wolf-Alexander Frenkler
 - Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
-- European critical materials supply chains — Seminar — Dr. Moniek de Jong
 
 #### Auszüge aus dem PO-Text
 
@@ -25494,14 +20596,13 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20191203.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20191203.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Global Logistics and Supply Chain Management - Übung — Übung — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Vorlesung — Vorlesung — Prof. Dr.-Ing. Eva Maria Hartmann, Wolf-Alexander Frenkler
 - Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
-- European critical materials supply chains — Seminar — Dr. Moniek de Jong
 
 #### Auszüge aus dem PO-Text
 
@@ -25527,14 +20628,13 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20210812.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20210812.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Global Logistics and Supply Chain Management - Übung — Übung — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Vorlesung — Vorlesung — Prof. Dr.-Ing. Eva Maria Hartmann, Wolf-Alexander Frenkler
 - Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
-- European critical materials supply chains — Seminar — Dr. Moniek de Jong
 
 #### Auszüge aus dem PO-Text
 
@@ -25796,7 +20896,7 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/ma-fpowipaed-20230615-idf-20260213.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/ma-fpowipaed-20230615-idf-20260213.md)  
 Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -25804,12 +20904,9 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
 - Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar — Dr. Christian Albrecht
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Berufs- und Wirtschaftspädagogische Didaktik II - Präsenztermine — Seminar
 - Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
 - Examenskurs Didaktik für Wirtschaftswissenschaften Lehramt an Gym und RS — Seminar — Emel Löffelholz
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- Staatsexamenskurs Mathematik (nicht vertieft) — Sonstige Lehrveranstaltung — Karin Pott
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -26673,12 +21770,11 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-finance-auditing-controlling-taxation.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-finance-auditing-controlling-taxation.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 
 #### Auszüge aus dem PO-Text
 
@@ -27361,13 +22457,11 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-sozialoekonomik-januar2012.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-sozialoekonomik-januar2012.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - MA S Ökonomie der Sozialpolitik (Economics of Social Policy) — Seminar — Prof. Dr. Matthias Wrede
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Methoden der Wirtschafts- und Organisationspsychologie — Vorlesung — George Gunnesch-Luca
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
@@ -27405,13 +22499,11 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-sozialoekonomik-juni2012.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-sozialoekonomik-juni2012.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - MA S Ökonomie der Sozialpolitik (Economics of Social Policy) — Seminar — Prof. Dr. Matthias Wrede
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Methoden der Wirtschafts- und Organisationspsychologie — Vorlesung — George Gunnesch-Luca
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
@@ -27449,13 +22541,11 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-sozialoekonomik-maerz2011.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-sozialoekonomik-maerz2011.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - MA S Ökonomie der Sozialpolitik (Economics of Social Policy) — Seminar — Prof. Dr. Matthias Wrede
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Methoden der Wirtschafts- und Organisationspsychologie — Vorlesung — George Gunnesch-Luca
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
@@ -27493,12 +22583,10 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-sozialoekonomik.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-sozialoekonomik.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - MA S Ökonomie der Sozialpolitik (Economics of Social Policy) — Seminar — Prof. Dr. Matthias Wrede
 - Methoden der Wirtschafts- und Organisationspsychologie — Vorlesung — George Gunnesch-Luca
 
@@ -27713,47 +22801,14 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 17.09.2007
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/st-po-master-intern-wirtschaftsinformatik.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/st-po-master-intern-wirtschaftsinformatik.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Studien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg – MPO/IIS Vom 17. September 2007** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung....................................................... 2 § 2 Akademische Grade........................................................................................... 2 § 3 Struktur des Masterstudiengangs, Regelstudienzeiten....................................... 2 § 4 ECTS-Punkte...................................................................................................... 3 § 5 Modularisierung, Studienbegleitende Leistungsnachweise ................................ 3 § 6 Prüfungsfristen, Fristversäumnis ........................................................................ 3 § 7 Prüfungsausschuss ............................................................................................ 4 § 8 Prüferinnen und Prüfer, Ausschluss wege …
-
-**§ 8 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchLG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Bet …
-
-**§ 26 Prüfungsgegenstände der Masterprüfung** _(paragraph)_
-
-(2)[1] Art und Umfang der Prüfungen bestimmen sich nach **Anlage 3** und werden im Modulhandbuch bekannt gegeben.[2] Module, die bereits Gegenstand einer Bachelorprüfung waren, können in der Regel nicht mehr in die Masterprüfung eingebracht werden; der Prüfungsausschuss kann Ausnahmen zulassen.[3] Im Studiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) ist ein Auslandsaufenthalt von einem Semester verpflichtend vorgeschrieben.
-
----
-
 ### PDF vom 01.08.2006 i.d.F. 24.02.2011
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-24feb2011.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-24feb2011.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
@@ -27804,11 +22859,10 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-24feb2012.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-24feb2012.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
@@ -27859,11 +22913,10 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-aug2012.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-aug2012.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
@@ -27914,11 +22967,10 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-bpowiwi-aug2017.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-bpowiwi-aug2017.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
@@ -27959,11 +23011,10 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-feb2013.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-feb2013.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
@@ -28014,13 +23065,11 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-feb2016.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-feb2016.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
@@ -28123,11 +23172,10 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2013.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2013.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
@@ -28178,12 +23226,11 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2014.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2014.md)  
 Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
 - Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
@@ -28225,14 +23272,12 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2015.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2015.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
 - Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
@@ -28277,12 +23322,11 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2016.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2016.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
@@ -28331,11 +23375,10 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-neu-ws2010-2011.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-neu-ws2010-2011.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 
@@ -28386,12 +23429,10 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-neu.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-neu.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
@@ -28441,13 +23482,12 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-ma-wiwi-aug2017.md`](../pruefungsordnungen/rw/wiso/po-ma-wiwi-aug2017.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -28481,261 +23521,14 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 ---
 
-### PDF vom 16.07.2009 i.d.F. 01.08.2012
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/po-ma-wiwi-august2012.md`](../pruefungsordnungen/rw/wiso/po-ma-wiwi-august2012.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................................. 2|
-|---|---|---|
-|§|2|Akademische Grade.................................................................................................................. 2|
-|§|3|Teilzeitstudium........................................................................................................................... 2|
-|§|4|Masterstudiengänge, Prüfungen und Regelstudienzeiten ........................................................ 2|
-|§|5|ECTS-Punkte............................................................................................................................. 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise ................................................. …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Bet …
-
----
-
-### PDF vom 16.07.2009 i.d.F. 13.02.2013
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/po-ma-wiwi-feb2013.md`](../pruefungsordnungen/rw/wiso/po-ma-wiwi-feb2013.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................................. 2|
-|---|---|---|
-|§|2|Akademische Grade .................................................................................................................. 2|
-|§|3|Teilzeitstudium ........................................................................................................................... 2|
-|§|4|Masterstudiengänge, Prüfungen und Regelstudienzeiten ........................................................ 2|
-|§|5|ECTS-Punkte ............................................................................................................................. 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise .............................................. …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Bet …
-
----
-
-### PDF vom 16.07.2009 i.d.F. 19.01.2012
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/po-ma-wiwi-januar2012.md`](../pruefungsordnungen/rw/wiso/po-ma-wiwi-januar2012.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................................. 2|
-|---|---|---|
-|§|2|Akademische Grade.................................................................................................................. 2|
-|§|3|Teilzeitstudium........................................................................................................................... 2|
-|§|4|Masterstudiengänge, Prüfungen und Regelstudienzeiten ........................................................ 2|
-|§|5|ECTS-Punkte............................................................................................................................. 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise ................................................. …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Bet …
-
----
-
-### PDF vom 16.07.2009 i.d.F. 26.07.2013
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/po-ma-wiwi-juli2013.md`](../pruefungsordnungen/rw/wiso/po-ma-wiwi-juli2013.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................................. 2|
-|---|---|---|
-|§|2|Akademische Grade .................................................................................................................. 2|
-|§|3|Teilzeitstudium ........................................................................................................................... 2|
-|§|4|Masterstudiengänge, Prüfungen und Regelstudienzeiten ........................................................ 2|
-|§|5|ECTS-Punkte ............................................................................................................................. 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise .............................................. …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Bet …
-
----
-
-### PDF vom 16.07.2009 i.d.F. 25.07.2014
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/po-ma-wiwi-juli2014.md`](../pruefungsordnungen/rw/wiso/po-ma-wiwi-juli2014.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ............................................................................. 2|
-|---|---|---|
-|§|2|Akademische Grade .................................................................................................................. 2|
-|§|3|Teilzeitstudium ........................................................................................................................... 2|
-|§|4|Masterstudiengänge, Prüfungen und Regelstudienzeiten ........................................................ 2|
-|§|5|ECTS-Punkte ............................................................................................................................. 3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise .............................................. …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt si …
-
-**§ 15 a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Leh …
-
----
-
-### PDF vom 16.07.2009 i.d.F. 03.03.2011
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/po-ma-wiwi-maerz2011.md`](../pruefungsordnungen/rw/wiso/po-ma-wiwi-maerz2011.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung............................................................................................. 2|
-|---|---|---|
-|§|2|Akademische Grade................................................................................................................................. 2|
-|§|3|Teilzeitstudium ......................................................................................................................................... 2|
-|§|4|Masterstudiengänge, Prüfungen und Regelstudienzeiten........................................................................ 2|
-|§|5|ECTS-Punkte ........................................................................................................................................... 3|
-|§|6|Modularisierung, Studienbegle …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Bet …
-
----
-
-### PDF vom 16.07.2009 i.d.F. 30.07.2010
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/po-ma-wiwi.md`](../pruefungsordnungen/rw/wiso/po-ma-wiwi.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung......................................................................2|
-|---|---|---|
-|§|2|Akademische Grade..........................................................................................................2|
-|§|3|Teilzeitstudium ..................................................................................................................2|
-|§|4|Masterstudiengänge, Prüfungen und Regelstudienzeiten.................................................2|
-|§|5|ECTS-Punkte ....................................................................................................................3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise...............................................3|
-|§|7|Prüfungsfristen, Fristversäumnis........ …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Bet …
-
----
-
 ### PDF vom 01.08.2006
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/pro-bpo-20wiso-20mit-20anlagen.md`](../pruefungsordnungen/rw/wiso/pro-bpo-20wiso-20mit-20anlagen.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 - Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
@@ -28779,192 +23572,14 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### Rahmenprüfungsordnung MPOWISO 20090716 i.d.F. 20191120.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/rahmenpruefungsordnung-mpowiso-20090716-idf-20191120.md`](../pruefungsordnungen/rw/wiso/rahmenpruefungsordnung-mpowiso-20090716-idf-20191120.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ................................................................2|
-|---|---|---|
-|§|2|Akademische Grade ...................................................................................................2|
-|§|3|Teilzeitstudium ............................................................................................................2|
-|§|4|Masterstudiengänge, Regelstudienzeiten, Prüfungen, Studienbeginn, Unterrichts- und|
-|||Prüfungssprache................................................................................................. 3|
-|§|5|ECTS-Punkte ..............................................................................................................3|
-|§|6|Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwisc …
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§ 14|Entzug akademischer Grade .......................................................................................8|
-|---|---|
-|§ 15|Mängel im Prüfungsverfahren .....................................................................................8|
-|§ 15a|Anwesenheitspflicht ....................................................................................................8|
-|§ 16|Prüfungsarten .............................................................................................................9|
-|§ 17|Schriftliche Prüfung, Antwort-Wahl-Verfahren ........................................................... 10|
-|§ 18|Mündliche Prüfung .................................................................................................... 11|
-|§ 18a|Elektronische Prüfung ........... …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Au …
-
-**§ 15a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur 
-
-8 
-
-Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in eine …
-
----
-
-### Rahmenprüfungsordnung MPOWISO 20090716 i.d.F. 20230731.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/rahmenpruefungsordnung-mpowiso-20090716-idf-20230731.md`](../pruefungsordnungen/rw/wiso/rahmenpruefungsordnung-mpowiso-20090716-idf-20230731.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Rahmenprüfungsordnung für die Masterstudiengänge im Fachbereich Wirtschafts- und Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MPOWISO – Vom 16. Juli 2009** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|§ 1|Geltungsbereich, Zweck der Masterprüfung ................................................................2|
-|§ 2|Akademische Grade ...................................................................................................2|
-|§ 3|Teilzeitstudium ............................................................................................................2|
-|§ 4|Masterstudiengänge, Regelstudienzeiten, Prüfungen, Studienbeginn, Unterrichts- und|
-||Prüfungssprache................................................................................................. 3|
-|§ 5|ECTS-Punkte ..............................................................................................................3|
-|§ 6|Modularisierung, Studienbegl …
-
-**Rahmenprüfungsordnung für die Masterstudiengänge im Fachbereich Wirtschafts- und Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MPOWISO – Vom 16. Juli 2009** _(paragraph)_
-
-|§ 13|Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme.....................8|
-|---|---|
-|§ 14|Entzug akademischer Grade .......................................................................................8|
-|§ 15|Mängel im Prüfungsverfahren .....................................................................................8|
-|§ 15a|Anwesenheitspflicht ....................................................................................................8|
-|§ 16|Prüfungsarten .............................................................................................................9|
-|§ 17|Schriftliche Prüfung, Antwort-Wahl-Verfahren ........................................................... 10|
-|§ 18|Mündliche Prüfung .................................................. …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(4) Der Au …
-
-**§ 15a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur 
-
-8 
-
-Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in eine …
-
----
-
-### Rahmenprüfungsordnung MPOWISO 2024807.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/rahmenpruefungsordnung-mpowiso-2024807.md`](../pruefungsordnungen/rw/wiso/rahmenpruefungsordnung-mpowiso-2024807.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .....................................................................2 § 2 Akademische Grade .........................................................................................................2 § 3 Teilzeitstudium .................................................................................................................2 § 4 Masterstudiengänge, Regelstudienzeiten, Prüfungen, Studienbeginn, Unterrichtsund Prüfungssprache ........................................................................................ 3 § 5 ECTS-Punkte ...................................................................................................................3 § 6 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen ..... …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **BayHIG** und der **BayHSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **BayHSchPrüferV** in der Regel bis zu einem Jahr erhalten.[3] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[4] Auf Antrag kann der jeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus ve …
-
-**§ 16 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehr …
-
-**§ 31 Wiederholung von Prüfungen, Modulwechsel, Wechsel des Wahlbereichs** _(paragraph)_
-
-(1)[1] Jede nicht bestandene Prüfung mit Ausnahme der Masterarbeit kann dreimal wiederholt werden.[2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt; bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist.[3] Die nächste Wiederholungsprüfung muss in der Regel spätestens innerhalb von sechs Monaten angeboten werden.[4] Die Pflicht zur Wiederholung bleibt auch im Falle von Exmatrikulation und Beurlaubung bestehen.[5] Die Studierenden melden sich zu den Wiederholungsprüfungen eigenständig an; es gelten § 10 Abs. 2 …
-
----
-
-### PDF vom 16.07.2009
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/rpo-ma-20wiwi.md`](../pruefungsordnungen/rw/wiso/rpo-ma-20wiwi.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg – MPOWIWI –** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung....................................................... 1 § 2 Akademische Grade........................................................................................... 2 § 3 Teilzeitstudium.................................................................................................... 2 § 4 Masterstudiengänge, Prüfungen und Regelstudienzeiten .................................. 2 § 5 ECTS-Punkte...................................................................................................... 2 § 6 Modularisierung, Studienbegleitende Leistungsnachweise ................................ 3 § 7 Prüfungsfristen, Fristversäumnis ........................................................................ 3 § 8 Prüfungsausschuss ................... …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüferinnen und Prüfer.[2] Es können alle nach dem BayHSchG, dem BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-4 
-
-(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher …
-
----
-
 ### berufsbegl. WTB MA Health Business Administration PO MHBA 20180706.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-health-business-administration-po-mhba-20180706.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-health-business-administration-po-mhba-20180706.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -28997,11 +23612,10 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-health-business-administration-po-mhba-20231207-idf-20240926.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-health-business-administration-po-mhba-20231207-idf-20240926.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -29032,11 +23646,10 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-health-business-administration-po-mhba-20231207.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-health-business-administration-po-mhba-20231207.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -29071,275 +23684,15 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### berufsbegl WTB MA Marketing Management PO MMM 20140218 i.d.F. 20190815.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-management-po-mmm-20140218-idf-20190815.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-management-po-mmm-20140218-idf-20190815.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung ..................................................................................... 2 § 2 Akademische Grade .......................................................................................................................... 2 § 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Studienorganisation ............. 2 § 4 ECTS-Punkte ..................................................................................................................................... 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .............................................................. 3 § 6 Qualifikation zum Masterstudium ..................................................................................................... …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind. 2Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 62 Abs. 1 BayHSchG in Verbindung mit der Hochschulprüferverordnung in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der  …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Leh …
-
-**§ 16 Zulassung zu den Prüfungen, Art, Zeitpunkt und Durchführung der Prüfungen, Anmeldung, Rücktritt, Versäumnis, Wiederholung** _(paragraph)_
-
-(2)[1] Den Termin der Prüfungen legt die bzw. der jeweilige Prüfende spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.[2] Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.
-
----
-
-### berufsbegl WTB MA Marketing- und Vertriebsmanagement PO MVM 20140218 i.d.F. 20200203.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20140218-idf-20200203.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20140218-idf-20200203.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ................................................................................. 2|
-|---|---|---|
-|§|2|Akademische Grade ...................................................................................................................... 2|
-|§|3|Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Studienorganisation ........ 2|
-|§|4|ECTS-Punkte ................................................................................................................................ 2|
-|§|5|Modularisierung, Studienbegleitende Leistungsnachweise .......................................................... 3|
-|§|6|Qualifikation zum Masterstudium .................................................................................................. …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind. 2Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 62 Abs. 1 BayHSchG in Verbindung mit der Hochschulprüferverordnung in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der  …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Leh …
-
-**§ 16 Zulassung zu den Prüfungen, Art, Zeitpunkt und Durchführung der Prüfungen, Anmeldung, Rücktritt, Versäumnis, Wiederholung** _(paragraph)_
-
-(2)[1] Den Termin der Prüfungen legt die bzw. der jeweilige Prüfende spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.[2] Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.
-
----
-
-### berufsbegl WTB MA Marketing- und Vertriebsmanagement PO MVM 20140218 i.d.F. 20210810.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20140218-idf-20210810.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20140218-idf-20210810.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§|1|Geltungsbereich, Zweck der Masterprüfung ................................................................................. 2|
-|---|---|---|
-|§|2|Akademische Grade ...................................................................................................................... 2|
-|§|3|Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Studienorganisation ........ 2|
-|§|4|ECTS-Punkte ................................................................................................................................ 3|
-|§|5|Modularisierung, Studienbegleitende Leistungsnachweise .......................................................... 3|
-|§|6|Qualifikation zum Masterstudium .................................................................................................. …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind. 2Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 62 Abs. 1 **BayHSchG** in Verbindung mit der **Hochschulprüferverordnung** in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Per …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Leh …
-
-**§ 16 Zulassung zu den Prüfungen, Art, Zeitpunkt und Durchführung der Prüfungen, Anmeldung, Rücktritt, Versäumnis, Wiederholung** _(paragraph)_
-
-(2)[1] Den Termin der Prüfungen legt die bzw. der jeweilige Prüfende spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.[2] Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.
-
----
-
-### berufsbegl WTB MA Marketing- und Vertriebsmanagement PO MVM 20240430 i.d.F. 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20240430-idf-20240926.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20240430-idf-20240926.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Akademische Grade ........................................................................................................ 2 § 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Studienorganisation ..................................................................................................................................... 2 § 4 ECTS-Punkte .................................................................................................................. 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .............................................. 3 § 6 Qualifikation zum Masterstudium ................................................... …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind. 2Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 85 Abs. 1 **BayHIG** in Verbindung mit der **Hochschulprüferverordnung** in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium auf der gleichen Qualifikationsebene erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll wissenschaftliche Mitarbeiterin bzw. wissenschaftlicher Mitarbeiter und hauptberuflich im Sinne des Art. 53 Abs. 4 **BayHIG** tätig sein. 
-
-(2) Ein kurzfristig vor Beginn der Prü …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Leh …
-
----
-
-### berufsbegl WTB MA Marketing- und Vertriebsmanagement PO MVM 20240430 i.d.F. 20241219.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20240430-idf-20241219.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20240430-idf-20241219.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Akademische Grade ........................................................................................................ 2 § 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Studienorganisation ..................................................................................................................................... 2 § 4 ECTS-Punkte .................................................................................................................. 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .............................................. 3 § 6 Qualifikation zum Masterstudium ................................................... …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind. 2Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 85 
-
-6 
-
-Abs. 1 **BayHIG** in Verbindung mit der **Hochschulprüferverordnung** in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium auf der gleichen Qualifikationsebene erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll wissenschaftliche Mitarbeiterin bzw. wissenschaftlicher Mitarbeiter und hauptberuflich im Sinne des Art. 53 Abs. 4 **BayHIG** tätig sein. 
-
-(2) Ein kurzfristig vor Beginn d …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-9 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer …
-
-**§ 16 Zulassung zu den Prüfungen, Art, Zeitpunkt und Durchführung der Prüfungen, Anmeldung, Rücktritt, Versäumnis, Wiederholung** _(paragraph)_
-
-(2)[1] Den Termin der Prüfungen legt die bzw. der jeweilige Prüfende spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.[2] Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### berufsbegl WTB MA Marketing- und Vertriebsmanagement PO MVM 20240430.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20240430.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-ma-marketing-und-vertriebsmanagement-po-mvm-20240430.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Akademische Grade ........................................................................................................ 2 § 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Studienorganisation ..................................................................................................................................... 2 § 4 ECTS-Punkte .................................................................................................................. 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise .............................................. 3 § 6 Qualifikation zum Masterstudium ................................................... …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 85 Abs. 1 **BayHIG** in Verbindung mit der **Hochschulprüferverordnung** in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium auf der gleichen Qualifikationsebene erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll wissenschaftliche Mitarbeiterin bzw. wissenschaftlicher Mitarbeiter und hauptberuflich im Sinne des Art. 53 Abs. 4 **BayHIG** tätig sein. 
-
-(2) Ein kurzfristig vor Beginn der P …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1) 1Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-8 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer L …
-
-**§ 16 Zulassung zu den Prüfungen, Art, Zeitpunkt und Durchführung der Prüfungen, Anmeldung, Rücktritt, Versäumnis, Wiederholung** _(paragraph)_
-
-(2)[1] Den Termin der Prüfungen legt die bzw. der jeweilige Prüfende spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.[2] Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### berufsbegl WTB MBA Business Management PO MBA 20200902.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mba-business-management-po-mba-20200902.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mba-business-management-po-mba-20200902.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§ 1|Geltungsbereich, Zweck der Masterprüfung ..................................................................2|
-|---|---|
-|§ 2|Akademische Grade ......................................................................................................2|
-|§ 3|Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Gliederung des|
-||Studiengangs ................................................................................................................2|
-|§ 4|ECTS-Punkte ................................................................................................................2|
-|§ 5|Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischen-|
-||prüfungen ..................................................................................................... …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen und Gutachter sowie die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 62 Abs. 1 **BayHSchG** in Verbindung mit der **Hochschulprüferverordnung** in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat. 4Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen  …
-
-**§ 10 Anwesenheitspflicht, Präsenzphasen** _(section)_
-
-1Die bzw. der Studierende ist verpflichtet, in den ersten drei Semestern jeweils an einer Klausur teilzunehmen, welche während einer Präsenzveranstaltung gegen Ende des jeweiligen Semesters angeboten wird.[2] Im Übrigen bestehen während des Studiums keinerlei Anwesenheitspflichten.[3] Jedoch wird den Studierenden dringend empfohlen, auch an den übrigen Veranstaltungen der Präsenzphasen der ersten drei Semester teilzunehmen.
-
----
-
 ### berufsbegl WTB MBA Business Management und MBA Global Business Management PO MBA BM-GBM 20230615 i.d.F. 20240926.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mba-business-management-und-mba-global-business-management-po-mba-bm-gbm-20230615-idf.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mba-business-management-und-mba-global-business-management-po-mba-bm-gbm-20230615-idf.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -29367,84 +23720,15 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### berufsbegl WTB MBA Business Management und MBA Global Business Management PO MBA BM-GBM 20230615.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mba-business-management-und-mba-global-business-management-po-mba-bm-gbm-20230615.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mba-business-management-und-mba-global-business-management-po-mba-bm-gbm-20230615.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung ............................................................................ 2 § 2 Akademische Grade ............................................................................................................... 2 § 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Gliederung des Studiengangs ............................................................................................................................... 2 § 4 ECTS-Punkte ......................................................................................................................... 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise, .................................................... 3 Freiwillige Zwischenprüfungen .......................... …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen und Gutachter sowie die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 85 **BayHIG** in Verbindung mit der **Hochschulprüferverordnung** in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-5 
-
-(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen not …
-
-**§ 10 Anwesenheitspflicht, Präsenzphasen** _(section)_
-
-1Die bzw. der Studierende ist verpflichtet, in den ersten drei Semestern jeweils an einer Klausur teilzunehmen, welche während einer Präsenzveranstaltung gegen Ende des jeweiligen Semesters angeboten wird.[2] Im Übrigen bestehen während des Studiums keinerlei Anwesenheitspflichten.[3] Jedoch wird den Studierenden dringend empfohlen, auch an den übrigen Veranstaltungen der Präsenzphasen der ersten drei Semester teilzunehmen.
-
----
-
-### berufsbegl WTB MBA Digital Business und AI PO MBA DB+AI 20240229.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mba-digital-business-und-ai-po-mba-db-ai-20240229.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mba-digital-business-und-ai-po-mba-db-ai-20240229.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .......................................................................... 2 § 2 Akademische Grade .............................................................................................................. 2 § 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, .................................... 2 Gliederung des Studiengangs ..................................................................................................... 2 § 4 ECTS-Punkte ........................................................................................................................ 2 § 6 Qualifikationsvoraussetzungen .............................................................................................. 3 § 7 Prüfungsfristen, Fristversä …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen und Gutachter sowie die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 85 Abs. 1 **BayHIG** in Verbindung mit der **Hochschulprüferverordnung** in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll wissenschaftliche Mitarbeiterin bzw. wissenschaftlicher Mitarbeiter und hauptberuflich im Sinne des Art. 53 Abs. 4 **BayHIG** 
-
-5 
-
-an der FAU beschäftigt sein. 
-
-(2)[1] Ein kurz …
-
-**§ 11 Anwesenheitspflicht** _(section)_
-
-(1) 1Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann rege …
-
-**Nachkommastellen sind zu Gunsten der Studierenden zu runden.** _(paragraph)_
-
-(4)[1] Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen, sofern diese in Präsenzform abgehalten werden, mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.[2] Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs.[3] In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.[4] Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranst …
-
----
-
 ### berufsbegl WTB MDBA Digital Business PO MDBA 20191220 i.d.F. 20240926.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mdba-digital-business-po-mdba-20191220-idf-20240926.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mdba-digital-business-po-mdba-20191220-idf-20240926.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -29476,225 +23760,6 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 (3)[1] Unbeschadet der Fristen gemäß § 7 ist ein Rücktritt von einer nach Abs. 2 angemeldeten Prüfung ohne Angabe von Gründen durch Nichterscheinen zulässig.[2] In anderen als in den in Satz 1 genannten Fällen sind für einen Rücktritt oder das Versäumnis von der bzw. dem Studierenden nicht zu vertretende Gründe anzugeben, die dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden müssen.[3] Bei Krankheit der bzw. des Studierenden ist ein ärztliches Attest vorzulegen; der Prüfungsausschuss kann die Vorlage einer bzw. eines von der FAU benannten Ärztin bzw. Arztes verlangen.[4] Das (vertrauens-)ärztliche Attest muss eine Beschreibung der gesundheitlichen Beeinträchtigung und die Angabe der sich daraus ergebenden Verminderung des Leistungsvermögens in der Prüfun …
 
 _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### berufsbegl WTB MDBA Digital Business PO MDBA 20191220.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mdba-digital-business-po-mdba-20191220.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsbegl-wtb-mdba-digital-business-po-mdba-20191220.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-|§ 1|Geltungsbereich, Zweck der Masterprüfung ................................................................. 2|
-|---|---|
-|§ 2|Akademische Grade ..................................................................................................... 2|
-|§ 3|Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Gliederung des|
-||Studiengangs ............................................................................................................... 2|
-|§ 4|ECTS-Punkte ............................................................................................................... 2|
-|§ 5|Modularisierung, Studienbegleitende Leistungsnachweise,Freiwillige|
-||Zwischenprüfungen ...................................................................................................... 3 …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen und Gutachter sowie die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 62 Abs. 1 BayHSchG in Verbindung mit der Hochschulprüferverordnung in der jeweils geltenden Fassung prüfungsberechtigte Personen be- 
-
-5 
-
-stellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründe …
-
-**§ 11 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
----
-
-### berufsgel WTB MBA Digital Business und AI PO MBA DB+AI 20240229 i.d.F. 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsgel-wtb-mba-digital-business-und-ai-po-mba-db-ai-20240229-idf-20240926.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/berufsgel-wtb-mba-digital-business-und-ai-po-mba-db-ai-20240229-idf-20240926.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .......................................................................... 2 § 2 Akademische Grade .............................................................................................................. 2 § 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, .................................... 2 Gliederung des Studiengangs ..................................................................................................... 2 § 4 ECTS-Punkte ........................................................................................................................ 2 § 6 Qualifikationsvoraussetzungen .............................................................................................. 3 § 7 Prüfungsfristen, Fristversä …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen und Gutachter sowie die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 85 Abs. 1 **BayHIG** in Verbindung mit der **Hochschulprüferverordnung** in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll wissenschaftliche Mitarbeiterin bzw. wissenschaftlicher Mitarbeiter und hauptberuflich im Sinne des Art. 53 Abs. 4 **BayHIG** 
-
-5 
-
-an der FAU beschäftigt sein. 
-
-(2)[1] Ein kurz …
-
-**§ 11 Anwesenheitspflicht** _(section)_
-
-(1) 1Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann rege …
-
-**Nachkommastellen sind zu Gunsten der Studierenden zu runden.** _(paragraph)_
-
-(4)[1] Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen, sofern diese in Präsenzform abgehalten werden, mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.[2] Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs.[3] In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.[4] Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranst …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PO Sustainability Management MBA SM 20230323 i.d.F. 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/po-sustainability-management-mba-sm-20230323-idf-20240926.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/po-sustainability-management-mba-sm-20230323-idf-20240926.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung .....................................................................2 § 2 Akademischer Grad ..........................................................................................................2 § 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache,  Gliederung des Studiengangs .........................................................................................................................2 § 4 ECTS-Punkte ...................................................................................................................2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise,  Freiwillige Zwischenprüfungen ........................................................................................................... …
-
-**§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen und Gutachter sowie die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 85 Abs. 1 **BayHIG** in Verbindung mit der Hochschulprüferverordnung in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll wissenschaftliche Mitarbeiterin bzw. wissenschaftlicher Mitarbeiter und hauptberuflich im Sinne des Art. 53 Abs. 4 **BayHIG** an der FAU beschäftigt sein. 
-
-(2)[1] Ein kurzfristig vo …
-
-**§ 11 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
-
-(2)[1] Die Teilnahme ist dann re …
-
-**§ 12 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt, Folgen eines verspäteten Rücktritts** _(paragraph)_
-
-des Rücktritts ist unwiderruflich.[6] Mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[7] Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich.[8] Werden die Gründe anerkannt, so wird ein neuer Termin anberaumt.[9] Bereits vorliegende Prüfungsergebnisse werden angerechnet; bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist.[10] Die Folgen eines verspäteten oder unwirksamen Rücktritts richt …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 13.11.2013
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/pro-wtb-mba-neu.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/pro-wtb-mba-neu.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-**§ 1 Geltungsbereich, Zweck der Masterprüfung** ........................................................................ 2 **§ 2 Akademische Grade** .................................................................................................................... 2 **§ 3 Regelstudienzeit und Studienorganisation** .......................................................................... 2 **§ 4 ECTS-Punkte** ................................................................................................................................. 2 **§ 5 Modularisierung, Studienbegleitende Leistungsnachweise** ............................................ 2 **§ 6 Qualifikationsvoraussetzungen** ............................................................................................... 3 **§ 7 P …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und die Beisitzenden, welche in der Regel die Dozentinnen oder Dozenten der jeweiligen Fächer sind.[2] Zum Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 62 Abs. 1 BayHSchG in Verbindung mit der Hochschulprüferverordnung in der jeweils gelten- 
-
-4 
-
-den Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des P …
-
-**§ 15 Zeitpunkt, Art und Durchführung der Prüfungen, Rücktritt, Wiederholung** _(paragraph)_
-
-(2)[1] Den Termin der Prüfungsleistungen legt die jeweilige Prüferin bzw. der jeweilige Prüfer spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.[2] Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.
-
----
-
-### PDF vom 18.02.2014 i.d.F. 22.07.2015
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/wtb-pro-marketing-management-juli2015.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/wtb-pro-marketing-management-juli2015.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung ............................................................... 2 § 2 Akademische Grade ................................................................................................... 2 § 3 Regelstudienzeit und Studienorganisation ................................................................. 2 § 4 ECTS-Punkte ............................................................................................................. 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise ........................................ 2 § 6 Qualifikation zum Masterstudium ............................................................................... 3 § 7 Prüfungsfristen, Fristversäumnis ................................................................... …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und die Beisitzenden, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 62 Abs. 1 BayHSchG in Verbindung mit der Hochschulprüferverordnung in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur bzw. zum Beisitzenden kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die bzw. der Beisitzende soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.  …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Leh …
-
-**§ 16 Zulassung zu den Prüfungen, Art, Zeitpunkt und Durchführung der Prüfungen, Rücktritt, Versäumnis, Wiederholung** _(paragraph)_
-
-(2)[1] Den Termin der Prüfungsleistungen legt die bzw. der jeweilige Prüfende spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.[2] Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.
-
----
-
-### PDF vom 18.02.2014
-
-PO-Quelle: [`pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/wtb-pro-marketing-management.md`](../pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/wtb-pro-marketing-management.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung ............................................................... 2 § 2 Akademische Grade ................................................................................................... 2 § 3 Regelstudienzeit und Studienorganisation ................................................................. 2 § 4 ECTS-Punkte ............................................................................................................. 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise ........................................ 2 § 6 Qualifikation zum Masterstudium ............................................................................... 3 § 7 Prüfungsfristen, Fristversäumnis ................................................................... …
-
-**§ 9 Prüferinnen und Prüfer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und die Beisitzenden, welche in der Regel die Dozentinnen oder Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 62 Abs. 1 BayHSchG in Verbindung mit der Hochschulprüferverordnung in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der Prüferin oder  …
-
-**§ 15 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
-
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Leh …
-
-**§ 16 Zeitpunkt, Art und Durchführung der Prüfungen, Rücktritt, Wiederholung** _(paragraph)_
-
-(2)[1] Den Termin der Prüfungsleistungen legt die jeweilige Prüferin bzw. der jeweilige Prüfer spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.[2] Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -30078,418 +24143,6 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### ABMPO-TF 20070918 i.d.F. 20190220.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20190220.md`](../pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20190220.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-**I. Teil: Allgemeine Bestimmungen ........................................................................................ 3** § 1  Geltungsbereich, Zweck der Bachelor- und Masterprüfung ............................................. 3 § 2  Akademische Grade ........................................................................................................ 3 § 3  Gliederung des Bachelorstudiums, Prüfungen und Regelstudienzeiten, Studienbeginn, Praktische Tätigkeit vor Studienbeginn, Unterrichts- und Prüfungssprache ..................... 3 § 4  Gliederung des Masterstudiums, Prüfungen und Regelstudienzeiten, Studienbeginn, Unterrichts- und Prüfungssprache ................................................................................... 4 § 4a Teilzeitstudium, Wechsel, ECTS-Punkteüber …
-
-**§ 4a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudium ist in den Masterstudiengängen während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig.[2] Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die im Voll- bzw. Teilzeitstudium begründeten Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt; dies gilt insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen.
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. zur Sicherheit der Teilnehmerinnen und Teilnehmer erforder …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden (insbesondere längere Erkrankung, nachträglicher Verlust der Prüfungsberechtigung oder Befangenheit) ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgrei …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### ABMPO-TF 20070918 i.d.F. 20210304.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20210304.md`](../pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20210304.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge und die sonstigen Studien i. S. d. Art. 56 Abs. 6 BayHSchG an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPO/TechFak – Vom 18. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I. Teil:**|**Allgemeine Bestimmungen ...................................................................................... 3**|
-|§ 1|Geltungsbereich, Zweck der Bachelor- und Masterprüfung ......................................... 3|
-|§ 2|Akademische Grade.................................................................................................... 3|
-|§ 3|Gliederung des Bachelorstudiums, Prüfungen und Regelstudienzeiten,|
-||Studienbeginn, Praktische Tätigkeit vor Studienbeginn, Unterrichts- und|
-||Prüfungssprache ......................................................................................................... 3|
-|§ 4|Gliederung des Masterstudiums, Prüfungen und Regelstudienzeiten, Studienbeginn,|
-||Unterrichts- u …
-
-**§ 4a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudium ist in den Masterstudiengängen während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig.[2] Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die im Voll- bzw. Teilzeitstudium begründeten Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt; dies gilt insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen.
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. zur Sicherheit der Teilnehmerinnen und Teilnehmer erforder …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulgesetz** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-9 
-
-(2) Ein kurzfristig aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden (insbesondere längere Erkrankung, nachträglicher Verlust der Prüfungsberechtigung oder Befangenheit) ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudi …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### ABMPO-TF 20070918 i.d.F. 20210701.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20210701.md`](../pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20210701.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge und die sonstigen Studien i. S. d. Art. 56 Abs. 6 BayHSchG an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPO/TechFak – Vom 18. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I. Teil:**|**Allgemeine Bestimmungen ...................................................................................... 3**|
-|§ 1|Geltungsbereich, Zweck der Bachelor- und Masterprüfung ......................................... 3|
-|§ 2|Akademische Grade.................................................................................................... 3|
-|§ 3|Gliederung des Bachelorstudiums, Prüfungen und Regelstudienzeiten,|
-||Studienbeginn, Praktische Tätigkeit vor Studienbeginn, Unterrichts- und|
-||Prüfungssprache ......................................................................................................... 3|
-|§ 4|Gliederung des Masterstudiums, Prüfungen und Regelstudienzeiten, Studienbeginn,|
-||Unterrichts- u …
-
-**§ 4a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudium ist in den Masterstudiengängen während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig.[2] Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die im Voll- bzw. Teilzeitstudium begründeten Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt; dies gilt insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen.
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. zur Sicherheit der Teilnehmerinnen und Teilnehmer erforder …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulgesetz** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden (insbesondere längere Erkrankung, nachträglicher Verlust der Prüfungsberechtigung oder Befangenheit) ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium e …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### ABMPO-TF 20070918 i.d.F. 20220726.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20220726.md`](../pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20220726.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge und die sonstigen Studien i. S. d. Art. 56 Abs. 6 BayHSchG an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPO/TechFak – Vom 18. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I. Teil:**|**Allgemeine Bestimmungen ...................................................................................... 3**|
-|§ 1|Geltungsbereich, Zweck der Bachelor- und Masterprüfung ......................................... 3|
-|§ 2|Akademische Grade.................................................................................................... 3|
-|§ 3|Gliederung des Bachelorstudiums, Prüfungen und Regelstudienzeit, Studienbeginn,|
-||Praktische Tätigkeit vor Studienbeginn, Unterrichts- und Prüfungssprache ................. 3|
-|§ 4|Gliederung des Masterstudiums, Prüfungen und Regelstudienzeit, Studienbeginn,|
-||Unterrichts- und Prüfungssprache ............................................................................ …
-
-**§ 4a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudium ist in den Masterstudiengängen während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig.[2] Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die im Voll- bzw. Teilzeitstudium begründeten Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt; dies gilt insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen.
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. zur Sicherheit der Teilnehmerinnen und Teilnehmer erforder …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulgesetz** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden (insbesondere längere Erkrankung, nachträglicher Verlust der Prüfungsberechtigung ode …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### ABMPO-TF 20070918 i.d.F. 20230731.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20230731.md`](../pruefungsordnungen/technische-fakultaet/abmpo-tf-20070918-idf-20230731.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge und die sonstigen Studien i. S. d. Art. 56 Abs. 6 BayHSchG an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPO/TechFak – Vom 18. September 2007** _(paragraph)_
-
-|**Inhaltsverzeichnis:**|**Inhaltsverzeichnis:**|
-|---|---|
-|**I. Teil:**|**Allgemeine Bestimmungen ...................................................................................... 3**|
-|§ 1|Geltungsbereich, Zweck der Bachelor- und Masterprüfung ......................................... 3|
-|§ 2|Akademische Grade.................................................................................................... 3|
-|§ 3|Gliederung des Bachelorstudiums, Prüfungen und Regelstudienzeit, Studienbeginn,|
-||Praktische Tätigkeit vor Studienbeginn, Unterrichts- und Prüfungssprache ................. 3|
-|§ 4|Gliederung des Masterstudiums, Prüfungen und Regelstudienzeit, Studienbeginn,|
-||Unterrichts- und Prüfungssprache ............................................................................ …
-
-**§ 4a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudium ist in den Masterstudiengängen während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig.[2] Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die im Voll- bzw. Teilzeitstudium begründeten Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt; dies gilt insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen.
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. zur Sicherheit der Teilnehmerinnen und Teilnehmer erforder …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulgesetz** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden (insbesondere längere Erkrankung, nachträglicher Verlust der Prüfungsberechtigung ode …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### ABMPO-TF 20240328 i.d.F. 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/abmpo-tf-20240328-idf-20240926.md`](../pruefungsordnungen/technische-fakultaet/abmpo-tf-20240328-idf-20240926.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-I. Teil: Allgemeine Bestimmungen .......................................................................................... 3 § 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung .............................................. 3 § 2 Akademische Grade ......................................................................................................... 3 § 3 Gliederung des Bachelorstudiums, Prüfungen und Regelstudienzeit, Teilzeitstudium, Studienbeginn, Praktische Tätigkeit vor Studienbeginn, ......................................................... 3 Unterrichts- und Prüfungssprache .......................................................................................... 3 § 4 Gliederung des Masterstudiums, Prüfungen und Regelstudienzeit, Teilzeitstudium, Studienbeginn, Unterricht …
-
-**§ 8 Anwesenheitspflicht** _(section)_
-
-(1) 1Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderli …
-
-**§ 12 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **BayHIG** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der 
-
-10 
-
-Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden (insbesond …
-
-**§ 32 Wiederholung von Prüfungen, Modulwechsel, zusätzliche Module** _(paragraph)_
-
-(1) 1Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden; Studienleistungen können beliebig oft wiederholt werden. 2Die Prüfungen der Grundlagen- und Orientierungsprüfung können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 31 Abs. 9. 3Für die Wiederholung von Prüfungen im Wahl(pflicht)bereich sind die Regelungen in Abs. 2 i. V. m. der jeweils einschlägigen Fachstudien- und Prüfungsordnung zu beachten. 4Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt; bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. de …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### ABMPO-TF 20240328.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/abmpo-tf-20240328.md`](../pruefungsordnungen/technische-fakultaet/abmpo-tf-20240328.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-I. Teil: Allgemeine Bestimmungen .......................................................................................... 3 § 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung ............................................ 3 § 2 Akademische Grade ....................................................................................................... 3 § 3 Gliederung des Bachelorstudiums, Prüfungen und Regelstudienzeit, Teilzeitstudium, Studienbeginn, Praktische Tätigkeit vor Studienbeginn, ....................................................... 3 Unterrichts- und Prüfungssprache ........................................................................................ 3 § 4 Gliederung des Masterstudiums, Prüfungen und Regelstudienzeit, Teilzeitstudium, Studienbeginn, Unterrichts- und P …
-
-**§ 8 Anwesenheitspflicht** _(section)_
-
-(1) 1Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderli …
-
-**§ 12 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem **BayHIG** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der 
-
-10 
-
-Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden (insbesond …
-
-**§ 31 Bachelorarbeit** _(paragraph)_
-
-(1) 1Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung zweimal wiederholt werden; Studienleistungen können beliebig oft wiederholt werden. 2Die Prüfungen der Grundlagen- und Orientierungsprüfung können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 31 Abs. 9. 3Für die Wiederholung von Prüfungen im Wahl(pflicht)bereich sind die Regelungen in Abs. 2 i. V. m. der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** zu beachten. 4Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt; bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 18.09.2007
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/allg-20pro-ba-20ma-20tech.md`](../pruefungsordnungen/technische-fakultaet/allg-20pro-ba-20ma-20tech.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**PDF vom 18.09.2007** _(paragraph)_
-
-|**I.**|**Teil:**|**Allgemeine Bestimmungen ..................................................................... 2**|
-|---|---|---|
-||**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung.............. 2**|
-||**§ 2**|**Akademische Grade .............................................................................. 2**|
-||**§ 3**|**Bachelorstudiengänge, Prüfungen und Regelstudienzeiten ............. 2**|
-||**§ 4**|**Masterstudiengänge, Prüfungen und Regelstudienzeiten................. 3**|
-||**§ 5**|**ECTS-Punkte.......................................................................................... 3**|
-||**§ 6**|**Modularisierung, Studienbegleitende Leistungsnachweise.............. 3**|
-||**§ 7**|**Prüfungsfristen, Fristversäumnis............................................. …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-- (1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden. 3Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-- (2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
-
-- (3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll ha …
-
----
-
-### PDF vom 18.09.2007 i.d.F. 03.07.2017
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/allgpo-techfak-abmpo-20070918-idf-20170703.md`](../pruefungsordnungen/technische-fakultaet/allgpo-techfak-abmpo-20070918-idf-20170703.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPO/TechFak – Vom 18. September 2007** _(paragraph)_
-
-|**I.**|**Teil:**|**Allgemeine Bestimmungen ........................................................................ 3**|
-|---|---|---|
-||**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung ................. 3**|
-||**§ 2**|**Akademische Grade ................................................................................. 3**|
-||**§ 3**|**Gliederung des Bachelorstudiums, Prüfungen und**|
-|||**Regelstudienzeiten, Studienbeginn ........................................................ 3**|
-||**§ 4**|**Gliederung des Masterstudiums, Prüfungen und Regelstudienzeiten 3**|
-||**§ 4a**|**Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen  ................. 4**|
-||**§ 5**|**ECTS-Punkte ............................................................................................. 5**| …
-
-**§ 4a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** _(paragraph)_
-
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudium ist in den Masterstudiengängen während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig.[2] Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss.[3] Die im Voll- bzw. Teilzeitstudium begründeten Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt; dies gilt insbesondere für die Pflicht zur fristgemäßen Wiederholung nicht bestandener Prüfungen.
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. zur Sicherheit der Teilnehmerinnen und Teilnehmer erforder …
-
-**§ 9 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden (insbesondere längere Erkrankung, nachträglicher Verlust der Prüfungsberechtigung oder Befangenheit) ist zulässig. 
-
-8 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfol …
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 18.09.2007 i.d.F. 14.08.2015
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/allgpo-techfak-ba-ma-aug2015.md`](../pruefungsordnungen/technische-fakultaet/allgpo-techfak-ba-ma-aug2015.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – ABMPO/TechFak – Vom 18. September 2007** _(paragraph)_
-
-|**I.**|**Teil:**|**Allgemeine Bestimmungen ........................................................................ 3**|
-|---|---|---|
-||**§ 1**|**Geltungsbereich, Zweck der Bachelor- und Masterprüfung ................. 3**|
-||**§ 2**|**Akademische Grade ................................................................................. 3**|
-||**§ 3**|**Gliederung des Bachelorstudiums, Prüfungen und**|
-|||**Regelstudienzeiten ................................................................................... 3**|
-||**§ 4**|**Gliederung des Masterstudiums, Prüfungen und Regelstudienzeiten 3**|
-||**§ 4a**|**Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen  ................. 4**|
-||**§ 5**|**ECTS-Punkte ...................................................................................... …
-
-**§ 6a Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann bzw. zur Sicherheit der Teilnehmerinnen und Teilnehmer erforder …
-
-**§ 9 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
-
-(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig. 
-
-(3)[1] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin bzw. der Beisitzer soll hauptberuflic …
-
-**§ 28 Wiederholung von Prüfungen** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung zweimal wiederholt werden; Studienleistungen können beliebig oft wiederholt werden.[ 2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt.[3] Die Prüfungen der Grundlagen- und Orientierungsprüfung können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 27 Abs. 9. Satz 1.[4] Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, der in der Regel spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses stattfindet.[5] Die **Fachprüfungsordnungen** können die Wiederholungspflicht für Prüfungen bereits begonnener Wahlmodule bei Wechs …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### BSc Artificial Intelligence FPOBScAI 20240328 i.d.F. 20250616.pdf
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/bsc-artificial-intelligence-fpobscai-20240328-idf-20250616.md`](../pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/bsc-artificial-intelligence-fpobscai-20240328-idf-20250616.md)  
@@ -30724,21 +24377,14 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md`](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **17**
+Vorgeschlagene Pflichtveranstaltungen: **10**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
 - Hauptseminar M13-MWT/NT WTM — Seminar — Peter Randelzhofer
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Hauptseminar Physische Geographie — Hauptseminar — Prof. Dr. Rupert Bäumler
-- Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Andreas Feigenspan, Dr. Ingrid Brehm, PD Dr. Renato Frischknecht, Dr. Kaspar Gierke, PD Dr. Andreas Gießl, Prof. Dr. Johann Helmut Brandstätter
-- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
-- Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Benedikt Kost, Prof. Dr. Sabine Müller, Dr. Peter Richter
 - Hauptseminar Gutachtenerstellung — Hauptseminar — Dr. Martin Schmucker
 - Hauptseminar Karteninterpretation — Hauptseminar — Dr. Birgit Schwabe, PD Dr. Kim Vanselow
-- BWL-Hauptseminar: Strategisches Management — Seminar — Prof. Dr. Matthias Fifka
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Was hat das mit mir zu tun? Holocaust und NS-Verbrechen als Thema im Deutschunterricht (VHB) — Hauptseminar — Axel Krommer
 - Seminar über Masterarbeiten und Forschungspraktika — Seminar — Prof. Dr.-Ing. Norman Franchi, Maximilian Lübke, Torsten Reißland
 - Hauptseminar — Hauptseminar — apl. Prof. Dr. Ruth Neubauer-Petzoldt
@@ -31076,24 +24722,6 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 ---
 
-### 3. Februar 2012
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/5aes-ba-ma-20iuk.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/5aes-ba-ma-20iuk.md)  
-Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**„ Anlage 4 : Studienbeginn Sommersemester 2012** _(paragraph)_
-
-PL: Prüfungsleistung m/s: mündliche/schriftliche Prüfung r: Referatsleistung sem: Seminarleistung SL: Studienleistung Pm: GOP Pflicht-Modul
-
----
-
 ### BA-Informations-Kommunikationstechnik MA Information and Communication-Technology FPOIuK-ICT 20070921 i.d.F. 20190306.pdf
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-informations-kommunikationstechnik-ma-information-and-communication-technology-fpoiuk-ict-2007092.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-informations-kommunikationstechnik-ma-information-and-communication-technology-fpoiuk-ict-2007092.md)  
@@ -31322,14 +24950,13 @@ _(+ 21 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20240430.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20240430.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Begleitseminar für Algorithms, Programming and Data Representation — Seminar — Felix Nützel, Prof. Dr. Bernhard Kainz
 - Dynamical Systems and Control — Vorlesung mit Übung — Dr.-Ing. Andreas Völz
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
 
 #### Auszüge aus dem PO-Text
 
@@ -31357,14 +24984,13 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20241219.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20241219.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Begleitseminar für Algorithms, Programming and Data Representation — Seminar — Felix Nützel, Prof. Dr. Bernhard Kainz
 - Dynamical Systems and Control — Vorlesung mit Übung — Dr.-Ing. Andreas Völz
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
 
 #### Auszüge aus dem PO-Text
 
@@ -31392,13 +25018,12 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Dynamical Systems and Control — Vorlesung mit Übung — Dr.-Ing. Andreas Völz
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
 
 #### Auszüge aus dem PO-Text
 
@@ -31426,12 +25051,11 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20190222.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20190222.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
 
 #### Auszüge aus dem PO-Text
 
@@ -31463,12 +25087,11 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20200828.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20200828.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
 
 #### Auszüge aus dem PO-Text
 
@@ -31500,12 +25123,11 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20210701.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20210701.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
 
 #### Auszüge aus dem PO-Text
 
@@ -31533,52 +25155,15 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 ---
 
-### Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20160229 i.d.F. 20240807.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20240807.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20160229-idf-20240807.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-
-#### Auszüge aus dem PO-Text
-
-**§ 40 Gliederung des Elite-Masterstudiums** _(paragraph)_
-
-(2)[1] Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergibt, können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden.[2] Für den Fall, dass Pflichtmodule bereits im Bachelorstudiengang erfolgreich absolviert wurden, sind ersatzweise Module aus dem Katalog der "Technical Mandatory Electives" zu wählen.
-
-**Anlage 1a: Studienverlaufsplan Master ASC** _(paragraph)_
-
-|Modulgruppe|Modulgruppe|Modulgruppe|Module|Semesteraufteilung der ECTS|Semesteraufteilung der ECTS|Semesteraufteilung der ECTS|Semesteraufteilung der ECTS||
-|---|---|---|---|---|---|---|---|---|
-|||||||||Art und Umfang der Studien- und|
-|||ECTS-|||||||
-|Nr.|Name||Name|1|2|3|4|Prüfungsleistung|
-|||Punkte|||||||
-||||||||||
-||**Pflichtmodule**|**47,5**||**22,5**|**10**|**15**|||
-|1||5|Mathematical Optimization in Communications and Signal<br>Processing|<br>5||||PL: K90 min|
-|2||5|Information Theoryand Coding|5||||PL: K120 min|
-|3||5|Statistical Signal Processing|5||||PL: K90 min|
-|4||5|Machine Learning in Signal Processing|5||||PL: K90 min|
-|5||5|Deep Learning||5|||PL: K90 min|
-|6||2,5|Selected Topics in ASC||2,5|||PL: K90 min1|
-|7||5|Kick-off Seminar,Winter &  Summer School|2,5|2,5|||SL: Se …
-
----
-
 ### Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20190222 ÄS.pdf
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20190222-aes.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/elite-ma-advanced-signal-processing-communications-engineering-fpoasc-20190222-aes.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
 
 #### Auszüge aus dem PO-Text
 
@@ -31606,13 +25191,12 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-31juli2012.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-31juli2012.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Algorithmik kontinuierlicher Systeme — Vorlesung — Prof. Dr. Harald Köstler, Frederik Hennig
 - Digitale Übertragung - Übungen — Übung
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -31648,12 +25232,11 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-dezember2015.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-dezember2015.md)  
 Pflicht-Stellen gefunden: **21**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Hardware-Software-Co-Design — Vorlesung — Prof. Dr.-Ing. Jürgen Teich
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -31685,13 +25268,12 @@ _(+ 17 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-februar2012.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-februar2012.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Algorithmik kontinuierlicher Systeme — Vorlesung — Prof. Dr. Harald Köstler, Frederik Hennig
 - Digitale Übertragung - Übungen — Übung
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -31715,49 +25297,16 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 21.09.2007 i.d.F. 20.02.2015
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-februar2015.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-februar2015.md)  
-Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**1. Bachelorprüfung** _(paragraph)_
-
-**§ 38 Gliederung des Bachelorstudiums** (1)[1] Das Studium setzt sich aus Pflichtmodulen, Wahlpflichtmodulen und Wahlmodulen zusammen.[2] Deren Verteilung über die Studiensemester, die Art und Dauer der Prüfungen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen.
-
-**1. Bachelorprüfung** _(paragraph)_
-
-(2) Pflichtmodule sind die Module Nr. 1 bis 21 der **Anlage 1** .
-
-**§ 44 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** _(paragraph)_
-
-(2) Die Qualifikation zum Masterstudium Informations- und Kommunikationstechnik wird i. S. d. Anlage Abs. 5 Satz 2 Nr. 2 **ABMPO/TechFak** festgestellt, wenn von den folgenden fachwissenschaftlichen bzw. studiengangsbezogenen Pflichtmodulen des Bachelorstudiengangs Informations- und Kommunikationstechnik bei mindestens zwei die Modulnote 2,7 oder besser beträgt:
-
-**§ 45 Umfang und Gliederung des Masterstudiums** _(paragraph)_
-
-(1)[1] Das Studium setzt sich aus Pflichtmodulen, Wahlpflichtmodulen und Wahlmodulen gemäß Anlage **2a** bzw. **2b** zusammen.[2] Hinzu kommt in der Regel ein Forschungsprojekt im Umfang von 5 ECTS-Punkten an einem IuK-Lehrstuhl oder in einem Betrieb, mit welchem eine Kooperation mit einem IuK-Lehrstuhl besteht. 3Anstelle des Forschungsprojektes i. S. d. Satz 2 können durch die bzw. den Studienkommissionsvorsitzenden auch andere unbenotete Wahlmodule aus dem Angebot der Technischen Fakultät im Umfang von 5 ECTS-Punkten zugelassen werden.[4] Die Verteilung der Module nach den Sätzen 1 bis 3 über die Studiensemester, die Art und Dauer der Prüfungen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 2a** bzw. **2b** zu entnehmen.
-
-_(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### PDF vom 21.09.2007 i.d.F. 07.10.2013
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-oktober2013.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-iuk-oktober2013.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Algorithmik kontinuierlicher Systeme — Vorlesung — Prof. Dr. Harald Köstler, Frederik Hennig
 - Digitale Übertragung - Übungen — Übung
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
 
@@ -31883,41 +25432,6 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 1. den Pflichtfächern, die in der **Anlage 2** Nr. I  Buchstabe F Nrn. 1 bis 4 vorgeschrieben sind, und
 
 _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### PDF vom 29.02.2016
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-elite-ma-advancedsignalprocessingcommuniceng.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-elite-ma-advancedsignalprocessingcommuniceng.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Mathematical Foundations of Control and Machine Learning — Vorlesung mit Übung — Prof. Dr. Enrique Zuazua Iriondo, Zhengping Ji
-
-#### Auszüge aus dem PO-Text
-
-**§ 40 Gliederung des Elite-Masterstudiums** _(paragraph)_
-
-(2)[1] Wegen des sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergebenden erforderlichen fachspezifischen Kompetenzgewinns können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden.[2] Für den Fall, dass Pflichtmodule bereits im Bachelorstudiengang erfolgreich absolviert wurden, sind ersatzweise Module aus dem Katalog der "Technical Mandatory Electives" zu wählen.
-
-**Anlage 1a: Studienverlaufsplan Master ASC** _(paragraph)_
-
-|Modulgruppe|Modulgruppe|Modulgruppe|Module|Semesteraufteilungder ECTS|Semesteraufteilungder ECTS|Semesteraufteilungder ECTS|Semesteraufteilungder ECTS||
-|---|---|---|---|---|---|---|---|---|
-|||||||||Art und Umfang der Studien-und|
-||||||||||
-|Nr.|Name|ECTS|Name|1|2|3|4|Prüfungsleistung|
-||||||||||
-||**Pflichtmodule**|**60**||**22,5**|**12,5**|**25**|||
-|1||5|Mathematical Optimization in Communications and<br>Signal Processing|5||||PL: K90 min|
-|2||5|Information Theoryand Coding|5||||PL: K90 min|
-|3||5|Statistical Signal Processing|5||||PL: K90 min|
-|4||5|Game theory with Applications to Information  Engi-<br>neering|5||||PL: K90 min|
-|5||5|Machine Learning in Signal Processing||5|||PL: K90 min1|
-|6||5|Selected Topics in ASC||5|||PL: K90 min1|
-|7||5|Kick-off Seminar,Winter &  Summer Schoo …
 
 ---
 
@@ -32151,47 +25665,14 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 ---
 
-### PDF vom 17.09.2001
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-mechatronik-neu.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-mechatronik-neu.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**§ 12 Umfang und Durchführung der Diplomhauptprüfung** _(paragraph)_
-
-1. eine Prüfung in jedem Pflichtfach gemäß Absatz 2,
-
-**§ 12 Umfang und Durchführung der Diplomhauptprüfung** _(paragraph)_
-
-(2)[1] Pflichtfächer sind
-
-**§ 12 Umfang und Durchführung der Diplomhauptprüfung** _(paragraph)_
-
-- 2Jedes Pflichtfach umfasst vier SWS.
-
-**§ 12 Umfang und Durchführung der Diplomhauptprüfung** _(paragraph)_
-
-(5)[1] Die Prüfungen sind in den Pflicht- und Einzelfächern der Vertiefungsrichtungen schriftlich, in den Wahlfächern schriftlich oder mündlich.[2] Die Dauer der Prüfungen sowie die Zahl der Leistungspunkte und Maluspunkte ergeben sich aus **Anlage 2** .[3] Jede Prüfung in einem Wahlfach bezieht sich auf Lehrveranstaltungen von jeweils wenigstens 2 SWS.[4] Der Umfang der Prüfung im Wahlfach ergibt sich aus der Zahl der zugrunde liegenden SWS.[5] Für eine SWS sind bei schriftlichen Prüfungen 15 min Prüfungszeit zu veranschlagen; sie umfaßt mindestens 60 min. Eine mündliche Prüfung dauert etwa 30 min.[6] Je SWS wird ein Leistungspunkt bzw. bei Nichtbestehen der ersten Wiederholungsprüfung ein Maluspunkt vergeben.
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### FPOCME 20110805 i.d.F. 20180903 ÄS.pdf
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20110805-idf-20180903-aes.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20110805-idf-20180903-aes.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
 
 #### Auszüge aus dem PO-Text
@@ -32232,11 +25713,10 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20131014-idf-20180903.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20131014-idf-20180903.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
 
 #### Auszüge aus dem PO-Text
@@ -32309,7 +25789,7 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20250320.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20250320.md)  
 Pflicht-Stellen gefunden: **18**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -32319,7 +25799,6 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 - Anleitung zum selbständigen wissenschaftlichen Arbeiten (Arbeitskreisseminar) — Seminar
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
-- Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM) — Einführungskurs — PD Dr. Aura Heydenreich
 
 #### Auszüge aus dem PO-Text
 
@@ -32611,146 +26090,15 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### berufsbegl BSc Informatik-IT-Sicherheit BPOITS 20150116 i.d.F. 20190815.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20150116-idf-20190815.md`](../pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20150116-idf-20190815.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Bachelorprüfung ................................................................. 2 § 2 Akademischer Grad ......................................................................................................... 2 § 3 Studienprofil und Ziel des Studiums ................................................................................ 2 § 4 Prüfungen, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ............ 2 § 5 ECTS-Punkte .................................................................................................................. 3 § 6 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen ................................................................................................................. …
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich …
-
-**§ 9 Prüfungsausschuss, Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der Prüfungsausschuss der Technischen Fakultät zuständig; die Bestimmungen der §§ 8, 8a und 9 **ABMPO/TechFak** gelten entsprechend.
-
-**§ 15 Schriftliche Prüfung, Antwort-Wahl-Verfahren** _(paragraph)_
-
-mesterbeginn noch möglich, falls die **Anlage** bzw. bei Modulen des Wahl(pflicht)bereichs § 26 Abs. 2 bzw. das Modulhandbuch bereits beide Prüfungsformen vorsieht und das didaktische Konzept eines Moduls kurzfristig entsprechend verändert wurde. 3Die Entscheidung darüber tritt die bzw. der Modulverantwortliche. 4Sie bzw. er informiert die Studierenden spätestens zwei Wochen nach Vorlesungsbeginn, falls statt einer (elektronischen) Klausur eine mündliche Prüfung stattfindet.[5] Die Form der Wiederholungsprüfung in Semestern, in denen keine Lehrveranstaltung stattfindet, folgt der Prüfungsform des Semesters, in dem zuletzt die Lehrveranstaltung abgehalten wurde.[6] Wiederholungsprüfungen in Semestern, in denen die Lehrveranstaltung abgehalten wird, folgen der Prüfungsform der für das betref …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### berufsbegl BSc Informatik-IT-Sicherheit BPOITS 20240926.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20240926.md`](../pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20240926.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Bachelorprüfung ........................................................... 2 § 2 Akademischer Grad ................................................................................................... 2 § 3 Studienprofil und Ziel des Studiums ........................................................................... 2 § 4 Prüfungen, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ...... 2 § 5 ECTS-Punkte ............................................................................................................. 3 § 6 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen .......................................................................................................... 3 § 7 Anwesenheitspflicht ........ …
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1) 1Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich i …
-
-**§ 9 Prüfungsausschuss, Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der Prüfungsausschuss der Technischen Fakultät zuständig; die Bestimmungen der §§ 10 bis 12 **ABMPO/TF** gelten entsprechend. 
-
-5
-
-**§ 15 Schriftliche Prüfung, Antwort-Wahl-Verfahren** _(paragraph)_
-
-(2)[1] Ein Wechsel der Prüfungsform von einer (elektronischen) Klausur zu einer mündlichen Prüfung ist in Ausnahmefällen auch nach Semesterbeginn noch möglich, falls die **Anlage** bzw. bei Modulen des Wahl(pflicht)bereichs § 26 Abs. 2 bzw. das Modulhandbuch bereits beide Prüfungsformen vorsieht und das didaktische Konzept eines Moduls kurzfristig entsprechend verändert wurde.[2] Die Entscheidung darüber tritt die bzw. der Modulverantwortliche.[3] Sie bzw. er informiert die Studierenden spätestens zwei Wochen nach Vorlesungsbeginn, falls statt einer (elektronischen) Klausur eine mündliche Prüfung stattfindet.[4] Die Form der Wiederholungsprüfung in Semestern, in denen keine Lehrveranstaltung stattfindet, folgt der Prüfungsform des Semesters, in dem zuletzt die Lehrveranstaltung abgehalten  …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc-MSc Computational Engineering 20070919 i.d.F. 20180116.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180116.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180116.md)  
-Pflicht-Stellen gefunden: **18**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis:** _(paragraph)_
-
-**II. Teil Besondere Bestimmungen für das Bachelorstudium ............................................ 4** § 41 Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der Schlüsselqualifikationen ............................................................................................... 4 § 41a Technische Anwendungsfächer im Bachelorstudium ................................................... 5 § 41b Technische Wahlmodule ............................................................................................. 5 § 42 Umfang der Grundlagen- und Orientierungsprüfung ...................................................... 6 § 43 Umfang des Bachelorstudiums ...................................................................................... 6 § 44 Prüfungen des Bachelors …
-
-**§ 41 Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der Schlüsselqualifikationen** _(paragraph)_
-
-(1)[1] Die Wahl des Technischen Anwendungsfaches erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Pflichtmodule des zu wählenden Technischen Anwendungsfaches.[2] Die Pflichtmodule des Technischen Anwendungsfaches ergeben sich aus **Anlage 2** .[3] Der Modulkatalog der gemäß § 43 Abs. 4 zu wählenden Wahlmodulen des Technischen Anwendungsfaches kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht.
-
-**§ 41 Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der Schlüsselqualifikationen** _(paragraph)_
-
-(2) Durch Wahl des Technischen Anwendungsfaches sind alle Pflichtmodule in den Bereichen Informatik, Mathematik und dem Technischen Anwendungsfach festgelegt.
-
-**(1) Das Bachelorstudium besteht aus** _(paragraph)_
-
-1. den Pflichtmodulen der Informatik,
-
-_(+ 14 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc-MSc Computational Engineering 20180116 ÄS.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20180116-aes.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20180116-aes.md)  
-Pflicht-Stellen gefunden: **16**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**„ § 41 Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der Schlüsselqualifikationen** _(paragraph)_
-
-(1)[1] Die Wahl des Technischen Anwendungsfaches erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Pflichtmodule des zu wählenden Technischen Anwendungsfaches. 2Die Pflichtmodule des Technischen Anwendungs-faches ergeben sich aus **Anlage 2** .[3] Der Modulkatalog der gemäß § 43 Abs. 4 zu wählenden Wahlmodulen des Technischen Anwendungsfaches kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht.
-
-**„ § 41 Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der Schlüsselqualifikationen** _(paragraph)_
-
-(2) Durch Wahl des Technischen Anwendungsfaches sind alle Pflichtmodule in den Bereichen Informatik, Mathematik und dem Technischen Anwendungsfach festgelegt.
-
-**§ 41b Technische Wahlmodule** _(paragraph)_
-
-1. den Pflichtmodulen der Informatik,
-
-**§ 41b Technische Wahlmodule** _(paragraph)_
-
-2. den Pflichtmodulen der Mathematik,
-
-_(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md)  
 Pflicht-Stellen gefunden: **18**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Tutorium zu Simulation und Wissenschaftliches Rechnen 2 — Tutorium — Prof. Dr. Christoph Pflaum, Niklas Heidenreich
-- Experimentalphysik für Naturwissenschaftler II — Vorlesung — apl. Prof. Dr. Norbert Lindlein
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -32834,12 +26182,11 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20250604.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20250604.md)  
 Pflicht-Stellen gefunden: **16**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Tutorium zu Simulation und Wissenschaftliches Rechnen 2 — Tutorium — Prof. Dr. Christoph Pflaum, Niklas Heidenreich
-- Experimentalphysik für Naturwissenschaftler II — Vorlesung — apl. Prof. Dr. Norbert Lindlein
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -33304,17 +26651,15 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20260115.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20260115.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - Advanced machine learning for anomaly detection — 
 - Algorithmik kontinuierlicher Systeme — Vorlesung — Prof. Dr. Harald Köstler, Frederik Hennig
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Englisch Master: English for Business Purposes — Übung — Rachel Gracey
 - Hardware-Software-Co-Design — Vorlesung — Prof. Dr.-Ing. Jürgen Teich
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -34028,40 +27373,6 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 ---
 
-### PDF vom 16.01.2015
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/sto-po-ba-it-sicherheit.md`](../pruefungsordnungen/technische-fakultaet/informatik/sto-po-ba-it-sicherheit.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**Inhaltsverzeichnis** _(paragraph)_
-
-§ 1 Geltungsbereich, Zweck der Bachelorprüfung ........................................................... 2 § 2 Akademischer Grad ................................................................................................... 2 § 3 Studienprofil und Ziel des Studiums ........................................................................... 2 § 4 Prüfungen, Regelstudienzeit, Prüfungs- und Unterrichtssprache ............................... 2 § 5 ECTS-Punkte ............................................................................................................. 3 § 6 Modularisierung, Studienbegleitende Leistungsnachweise ........................................ 3 § 7 Anwesenheitspflicht ............................................................................................... …
-
-**§ 7 Anwesenheitspflicht** _(section)_
-
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßi- 
-
-3 
-
-ge Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erfo …
-
-**§ 9 Prüfungsausschuss, Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
-
-Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der Prüfungsausschuss der Technischen Fakultät zuständig; die Bestimmungen der §§ 8 und 9 **ABMPO/TechFak** gelten entsprechend.
-
-**§ 28 Wiederholung von Prüfungen** _(paragraph)_
-
-(1)[1] Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung zweimal wiederholt werden; Studienleistungen können beliebig oft wiederholt werden.[ 2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studien- bzw. Teilleistung beschränkt.[3] Diejenigen Prüfungen, die Teil der Grundlagen- und Orientierungsprüfung sind, können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 27 Abs. 9 Satz 1.[4] Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, welcher in der Regel spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses stattfindet.[5] Bei Wechsel des Moduls besteht keine Wiederholungspflicht für bereits begonnen …
-
----
-
 ### 24. Juli 2014
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/10aes-ba-ma-wing.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/10aes-ba-ma-wing.md)  
@@ -34174,11 +27485,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/2aesa-fpo-bm-wing.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/2aesa-fpo-bm-wing.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- BWL-Hauptseminar: Strategisches Management — Seminar — Prof. Dr. Matthias Fifka
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 
 #### Auszüge aus dem PO-Text
@@ -34658,12 +27968,10 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-maerz2011-neu.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-maerz2011-neu.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- BWL-Hauptseminar: Strategisches Management — Seminar — Prof. Dr. Matthias Fifka
-- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 
 #### Auszüge aus dem PO-Text
@@ -34757,11 +28065,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-ws2010-2011.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-ws2010-2011.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- BWL-Hauptseminar: Strategisches Management — Seminar — Prof. Dr. Matthias Fifka
 - Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
 
 #### Auszüge aus dem PO-Text
@@ -35034,39 +28341,6 @@ _(+ 21 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### PDF vom 02.01.2001 i.d.F. 09.10.2007
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-wirtschaftsingwesen.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-wirtschaftsingwesen.md)  
-Pflicht-Stellen gefunden: **11**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**§ 11 Umfang und Durchführung der Diplomhauptprüfung** _(paragraph)_
-
-1. je eine Prüfung in den ingenieurwissenschaftlichen Pflichtfächern gemäß Abs. 2,
-
-**§ 11 Umfang und Durchführung der Diplomhauptprüfung** _(paragraph)_
-
-2. Prüfungen beziehungsweise entsprechende Teilprüfungen in drei ausgewählten Pflichtfächern der Allgemeinen Betriebswirtschaftslehre gemäß Abs. 3, jeweils in einem Umfang, der vier Leistungspunkten entspricht,
-
-**§ 11 Umfang und Durchführung der Diplomhauptprüfung** _(paragraph)_
-
-3. eine Prüfung beziehungsweise entsprechende Teilprüfungen in einem ausgewählten Pflichtfach der Speziellen Betriebswirtschaftslehre gemäß Abs. 4, in dem auch die betriebswirtschaftliche Vertiefung gemäß Nr. 6 erfolgt, in einem Umfang, der sechs Leistungspunkten entspricht, sowie in einem weiteren ausgewählten Pflichtfach gemäß Abs. 4 in einem Umfang von sechs Leistungspunkten,
-
-**§ 11 Umfang und Durchführung der Diplomhauptprüfung** _(paragraph)_
-
-4. eine Prüfung beziehungsweise entsprechende Teilprüfungen in einem aus dem Fächerangebot der Absätze 4 und 5 ausgewählten Wahlpflichtfach in einem Umfang, der sechs Leistungspunkten entspricht, wobei die bereits unter Nr. 3 gewählten Pflichtfächer nicht nochmals gewählt werden können,
-
-_(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### PDF vom 07.02.2005
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/sto-maschinenbau-bachelor-master.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/sto-maschinenbau-bachelor-master.md)  
@@ -35139,102 +28413,6 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 |||||||||||||||||
 |**M7 Naturwissenschaftlich-**<br>**technisches Wahlmodul (CBI, EEI,**<br>**MWT, Ph, Ch)**||||||||8|10|||**10**||**PL**|mündliche Prüfung 20 min (oder übli-<br>cher Prüfungsmodus im Department,<br>auch PfP)|
 | …
-
----
-
-### BSc MSc FPOMWT 20070925 i.d.F. 20210929.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/bsc-msc-fpomwt-20070925-idf-20210929.md`](../pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/bsc-msc-fpomwt-20070925-idf-20210929.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-
-#### Auszüge aus dem PO-Text
-
-**§ 37 Masterstudiengang, Studienbeginn, inhaltlich verwandte Studiengänge, Unterrichts- und Prüfungssprache** _(paragraph)_
-
-(1)[1] Das konsekutive viersemestrige Masterstudium der Materials Science and Engineering setzt sich aus Modulen im Umfang von 120 ECTS-Punkten zusammen.[2] Darin enthalten sind Module der Kernfächer, Wahlfächer und neben dem Modul Masterarbeit einschließlich Vortrag mit Diskussion weitere Pflichtmodule.
-
-**§ 37 Masterstudiengang, Studienbeginn, inhaltlich verwandte Studiengänge, Unterrichts- und Prüfungssprache** _(paragraph)_
-
-(4)[1] Abweichend von § 4 Abs. 5 **ABMPO/TechFak** ist die Unterrichts- und Prüfungssprache im Masterstudiengang Englisch.[2] Einzelne Lehrveranstaltungen und Prüfungen im Wahl(pflicht)bereich können in deutscher Sprache abgehalten werden.[3] Im Übrigen bleibt § 4 Abs. 5 **ABMPO/TechFak** unberührt.
-
-**§ 39 Gliederung des Bachelorstudiums, Umfang und Gliederung der Bachelorprüfung** _(paragraph)_
-
-(1)[1] Alle Module des Bachelorstudiums sind Pflichtmodule.[2] Die Verteilung über die Studiensemester und die Anzahl der in den Modulen zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen.
-
-**§ 39 Gliederung des Bachelorstudiums, Umfang und Gliederung der Bachelorprüfung** _(paragraph)_
-
-(4)[1] In den Modulen B15 und B16 (Werkstoffe 1 und 2) wählen die Studierenden jeweils vier Vorlesungen aus dem Wahlpflichtangebot aus, die sodann den Prüfungsstoff der Klausur bilden.[2] Die Praktika Werkstoffe 1 und Werkstoffe 2 stehen nicht zur Wahl, sondern sind verpflichtend zu absolvieren.[3] Soweit in **Anlage 1** keine konkreten Wahlmöglichkeiten angegeben sind, so sind diese dem Modulhandbuch zu entnehmen.
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc MSc FPOMWT 20230713.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/bsc-msc-fpomwt-20230713.md`](../pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/bsc-msc-fpomwt-20230713.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-
-#### Auszüge aus dem PO-Text
-
-**§ 37 Masterstudiengang, Studienbeginn, inhaltlich im Wesentlichen gleiche Studiengänge, Unterrichts- und Prüfungssprache** _(paragraph)_
-
-(1)[1] Das konsekutive viersemestrige Masterstudium Materials Science and Engineering setzt sich aus Modulen im Umfang von 120 ECTS-Punkten zusammen.[2] Darin enthalten sind Module der Kernfächer, Wahlfächer und neben dem Modul Masterarbeit einschließlich Vortrag mit Diskussion weitere Pflichtmodule.
-
-**§ 37 Masterstudiengang, Studienbeginn, inhaltlich im Wesentlichen gleiche Studiengänge, Unterrichts- und Prüfungssprache** _(paragraph)_
-
-(4)[1] Abweichend von § 4 Abs. 5 **ABMPO/TechFak** ist die Unterrichts- und Prüfungssprache im Masterstudiengang Englisch.[2] Einzelne Lehrveranstaltungen und Prüfungen im Wahl(pflicht)bereich können in deutscher Sprache abgehalten werden.[3] Im Übrigen bleibt § 4 Abs. 5 **ABMPO/TechFak** unberührt.
-
-**§ 39 Gliederung des Bachelorstudiums, Umfang und Gliederung der Bachelorprüfung** _(paragraph)_
-
-(1)[1] Alle Module des Bachelorstudiums sind Pflichtmodule.[2] Die Verteilung über die Studiensemester und die Anzahl der in den Modulen zu erwerbenden ECTS-Punkte sowie Art und Umfang der Prüfungen sind der **Anlage 1** zu entnehmen.
-
-**§ 44 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** _(paragraph)_
-
-(3) Die Qualifikation zum Masterstudium Materials Science and Engineering wird i. S. d. Abs. 5 Satz 2 Nr. 2 **Anlage ABMPO/TechFak** festgestellt, wenn in den fachwissenschaftlichen bzw. studiengangsbezogenen Pflichtmodulen B6, B7, B8 des Bachelorstudiengangs Materialwissenschaft und Werkstofftechnik nach dieser Prüfungsordnung der Mittelwert der Modulnoten 3,0 oder besser beträgt.
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
-### BSc-MSc FPOWW 20240807.pdf
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/bsc-msc-fpoww-20240807.md`](../pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/bsc-msc-fpoww-20240807.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
-
-#### Auszüge aus dem PO-Text
-
-**§ 41 Masterstudiengänge, Studienbeginn, inhaltlich im Wesentlichen gleiche Studiengänge, Unterrichts- und Prüfungssprache** _(paragraph)_
-
-(1)[1] Die konsekutiven Masterstudiengänge Materials Science and Engineering und Nanotechnology setzen sich jeweils aus Modulen im Umfang von 120 ECTS-Punkten zusammen.[2] Darin enthalten sind jeweils Module der Kernfächer, Wahlfächer und neben dem Modul Masterarbeit einschließlich Vortrag mit Diskussion weitere Pflichtmodule.
-
-**§ 41 Masterstudiengänge, Studienbeginn, inhaltlich im Wesentlichen gleiche Studiengänge, Unterrichts- und Prüfungssprache** _(paragraph)_
-
-(4)[1] Abweichend von § 4 Abs. 5 **ABMPO/TF** ist die Unterrichts- und Prüfungssprache in den Masterstudiengängen Englisch.[2] Einzelne Lehrveranstaltungen und Prüfungen im Wahl(pflicht)bereich können in deutscher Sprache abgehalten werden.[3] Im Übrigen bleibt § 4 Abs. 5 **ABMPO/TF** unberührt.
-
-**§ 44 Umfang und Gliederung der Bachelorstudiengänge** _(paragraph)_
-
-1Alle Module des Bachelorstudiums sind Pflichtmodule. 2Das Bachelorstudium ist bestanden, wenn die in den **Anlagen 1** bis **3** jeweils aufgeführten Module im Umfang von 180 ECTS-Punkten bestanden sind.[3] Die Verteilung über die Studiensemester und die Anzahl der in den Modulen zu erwerbenden ECTS-Punkte sowie Art und Umfang der Prüfungen sind den **Anlage 1** bis **3** zu entnehmen.
-
-**§ 47 Qualifikation zum Masterstudium Materials Science and Engineering, Nachweise, Zugangsvoraussetzung** _(paragraph)_
-
-(3) Die Qualifikation zum Masterstudium Materials Science and Engineering wird i. S. d. Abs. 5 Satz 2 Nr. 2 **Anlage ABMPO/TF** festgestellt, wenn in den fachwissenschaftlichen bzw. studiengangsbezogenen Pflichtmodulen B6, B7, B8 des Bachelorstudiengangs Materialwissenschaft und Werkstofftechnik nach dieser Prüfungsordnung der Mittelwert der Modulnoten 3,0 oder besser beträgt.
-
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -35399,33 +28577,5 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ||Kernfach-Pflichtvorlesungen und Übungen|6|2||4|**6**|4|**6**||||||m/40|**30**|
 ||Kernfachpraktikum|||6|||6|**6**|||||U*|||
 ||Kernfach-Wahlpflichtvorlesungen***|5|2***|2***|5|**6**|4|**6 …
-
----
-
-### PDF vom 15.12.2008 i.d.F. 02.07.2015
-
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/fpo-nanotechnologie-ba-ma-juli2015.md`](../pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/fpo-nanotechnologie-ba-ma-juli2015.md)  
-Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
-
-#### Auszüge aus dem PO-Text
-
-**§ 37 Masterstudiengang, Regelstudienzeit, Studienbeginn** _(paragraph)_
-
-(1)[1] Das konsekutive Masterstudium Nanotechnologie umfasst Pflichtmodule, Wahlpflichtmodule aus technischen und naturwissenschaftlichen Bereichen sowie das
-
-**Anlage 2: Studienverlaufsplan Masterstudium** _(paragraph)_
-
-**----- Start of picture text -----**<br>
-Modul- Art und Umfang der Studien- und<br>SEMESTERAUFTEILUNG<br>UMFANG in SWS (Workload) größe Prüfungsleistung [1)]<br>MODULE<br>1. WS 2. SS 3. WS 4. SS Prüfungsart [1)]<br>Prüfungsform<br>Vorlesung Übung Praktikum SWS ECTS SWS ECTS SWS ECTS SWS ECTS PfP PL/SL<br>Pflichtmodule<br>M1 Nanocharakterisierung (Pflicht) mündliche Prüfung 30 min.<br>Elektronenmikroskopie  2 2 3 PL<br>NanoSpektroskopie  2 2 3<br>Rastersondenmikroskopie/ Nanoindentierung 2 1 3 4 10<br>M2 Praktikum Synthese/Charakterisierung<br>(Pflicht) 5 5 5 Praktikumsleistung<br>SL  (4 Versuche inklusive  Vor-<br>4 Versuche 5 und Nachprotokollen)<br>M3 Computational Nanoscience (Pflicht) PL mündliche Prüfung 20 min.<br>Computational Nanoscience 2 2 2 3 2 2 5<br>-<br>M4 Top Down Nanostruk …
-
-**Anlage 2: Studienverlaufsplan Masterstudium** _(paragraph)_
-
-**----- Start of picture text -----**<br>
-Modul- Art und Umfang der Studien- und<br>SEMESTERAUFTEILUNG<br>UMFANG in SWS (Workload) größe Prüfungsleistung [1)]<br>MODULE<br>1. WS 2. SS 3. WS 4. SS Prüfungsart [1)]<br>Prüfungsform<br>Vorlesung Übung Praktikum SWS ECTS SWS ECTS SWS ECTS SWS ECTS PfP PL/SL<br>Wahlmodule<br>Pflichtvor- mündliche Prüfung 40 min.<br>M6 Kernfachmodul aus MWT, EEI, CBI, Ph,  (oder üblicher Prüfungsmodus<br>lesungen<br>Ch  [2)] 4 6 4 6 PL im Department, auch PfP)<br>Praktikumsleistung (5 Versuche<br>Praktikum  inklusive Vor- und Nachproto-<br>6 6 PfP +SL koll)<br>Wahlpflicht-<br>vorlesungen  4 6 4 6 30<br>M7 Naturwissenschaftlich-technisches  mündliche Prüfung 20 min<br>(oder üblicher Prüfungsmodus<br>Wahlmodul (CBI, EEI, MWT, Ph, Ch)<br>8 10 10 PL im Department, au …
 
 ---

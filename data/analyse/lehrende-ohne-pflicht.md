@@ -1,9 +1,9 @@
 ---
 kind: "campo-lehrende-ohne-pflicht"
 period: "Sommersemester 2026"
-candidates: 195
-excluded_because_in_faudir: 666
-scraped_at: 2026-05-02T12:13:53+00:00
+candidates: 200
+excluded_because_in_faudir: 679
+scraped_at: 2026-05-02T13:32:46+00:00
 ---
 
 # Lehrende ohne Pflichtlehre — *ohne FAUdir-Match*
@@ -21,8 +21,8 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 
 **Periode:** Sommersemester 2026
 
-**Kandidaten:** 195 (davon 34 mit "Prof" im Namen)  
-**Ausgeschlossen, weil bereits in FAUdir-Liste:** 666
+**Kandidaten:** 200 (davon 34 mit "Prof" im Namen)  
+**Ausgeschlossen, weil bereits in FAUdir-Liste:** 679
 
 ## Liste
 
@@ -317,6 +317,10 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Mechanische Eigenschaften für MWT, NT, KIM und Energietechnik" — Vorlesung
 
+### Dieser Termin ist ein Tutorium!
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in : "Data Science: Ökonometrie-Übung" — Übung
+
 ### Donna Liersch
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "English: Level 1 - Focus on Academic Speaking" — Übung
@@ -479,6 +483,11 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "MED42851: Ohne Sorgen in die Niederlassung - Planspiel Praxisgründung" — Seminar
 
+### Lorenz Kapsner
+  *Titel:* `Dr. med.`
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in : "Wissensbasierte Systeme in der Medizin 1" — Vorlesung mit Übung
+
 ### Marcel Hoh
   *Titel:* `Dr. med.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -537,6 +546,12 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in : "K-P8 Blockpraktikum nach AO Chirurgie  (Chir-065)" — Praktikum
   - in : "K-V15_BT Chirurgie" — Vorlesung
+
+### Tobias Steigleder
+  *Titel:* `Dr. med.`
+- Veranstaltungen ohne Pflicht-Markierung: **2**
+  - in : "MED 87651 Multiprofessionelles Palliativseminar in Plankstetten" — Seminar
+  - in : "MED47251 Kommunikation im ärztlichen Beruf" — Seminar
 
 ### Ulrich Pötzl
   *Titel:* `Dr. med.`
@@ -893,6 +908,10 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Ackerlauer / Blockseminar: Medienpädagogik in der Grundschule" — Mittelseminar
 
+### Philipp Unberath
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in : "Wissensbasierte Systeme in der Medizin 1" — Vorlesung mit Übung
+
 ### Preliminary meeting, via Zoom. Register on StudOn for further details.
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Generalized Continuum Models of  Materials Mechanics" — Vorlesung
@@ -954,6 +973,10 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### The exercise sessions will mostly be held online.
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Modern Natural Language Processing" — Vorlesung mit Übung
+
+### The lecture takes place in the seminar room U1.013 in the CESAR building, Kussmaulallee 4
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in : "Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2" — Vorlesung
 
 ### The written Exam will take place on Tues. July 14, 2026, at 5:00 pm (1 hour).
 - Veranstaltungen ohne Pflicht-Markierung: **1**

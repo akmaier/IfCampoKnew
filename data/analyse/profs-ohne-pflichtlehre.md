@@ -1,13 +1,13 @@
 ---
 kind: "profs-ohne-pflichtlehre"
 period: "Sommersemester 2026"
-candidates_total: 666
+candidates_total: 679
 rank_distribution:
   W3: 27
   W1: 4
-  W?: 627
+  W?: 640
   Junior: 8
-scraped_at: 2026-05-02T12:13:53+00:00
+scraped_at: 2026-05-02T13:32:46+00:00
 ---
 
 # Profs ohne Pflichtlehre (FAUdir × Campo)
@@ -22,13 +22,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 * Diese Datei dient als **Vergleichsgrundlage (B)** für die RAG-Antwort (A) auf dieselbe Frage. Bei Inkonsistenz ist die RAG-Antwort meist belastbarer.
 
 **Periode:** Sommersemester 2026  
-**Kandidaten:** 666 FAUdir-bestätigte Profs ohne Pflichtlehre
+**Kandidaten:** 679 FAUdir-bestätigte Profs ohne Pflichtlehre
 
 ## Verteilung nach W-Rang
 
 - **W3**: 27
 - **W1**: 4
-- **W?**: 627
+- **W?**: 640
 - **Junior**: 8
 
 ## Rang W3
@@ -1011,6 +1011,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Einführung in das Neue Testament" — Vorlesung
 
+### Dube, Henry (Prof. Dr.)
+- **FAUdir:** [`96fc9c01e8`](https://faudir.fau.de/public/person/96fc9c01e8)
+- **Affiliation:** Lehrstuhl für Organische Chemie I
+- **Weitere Affiliationen:** Lehrstuhl für Organische Chemie I; Advanced Materials and Processes (ZMP); FAU Competence Center Engineering of Advanced Materials (FAU EAM); Computational Advanced Materials and Processes (CAMP); Molecular Materials (ICMM); Interface Research and Catalysis (ECRC); FAU Profile Center New Materials and Processes (FAU NMP)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Organische Chemie 3" — Vorlesung
+
 ### Döring, Markus ()
 - **FAUdir:** [`3beeb9c42e`](https://faudir.fau.de/public/person/3beeb9c42e)
 - **Affiliation:** Lehrstuhl für Photonische Technologien
@@ -1099,6 +1106,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Self-Organisation Processes" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Self-Organisation Processes (Exercise)" — Übung
   - in : "Photon & Neutron Scattering for Structure Determination" — Vorlesung
+
+### Engel, Felix (Prof. Dr. rer. nat)
+- **FAUdir:** [`d9f4d45ffd`](https://faudir.fau.de/public/person/d9f4d45ffd)
+- **Affiliation:** Professur für Experimentelle Nieren- und Kreislaufforschung
+- **Weitere Affiliationen:** Professur für Experimentelle Nieren- und Kreislaufforschung; Fakultätsverwaltung Medizinische Fakultät
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2" — Vorlesung
 
 ### Ernst, Gerhard (Prof. Dr.)
 - **FAUdir:** [`b5881e89e6`](https://faudir.fau.de/public/person/b5881e89e6)
@@ -1304,6 +1318,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in : "Einführung zum Phantomkurs der Zahnerhaltung" — Vorlesung
   - in : "3-V1&3-V2&3-V5 Zahnerhaltungskunde I incl. Poliklinik und Parodontologische Demonstrationen" — Vorlesung
 
+### Ganslandt, Thomas (Prof. Dr. med.)
+- **FAUdir:** [`729e8ebec9`](https://faudir.fau.de/public/person/729e8ebec9)
+- **Affiliation:** Professur für Medical Data Science
+- **Weitere Affiliationen:** Professur für Medical Data Science; Fakultätsverwaltung Medizinische Fakultät
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Wissensbasierte Systeme in der Medizin 1" — Vorlesung mit Übung
+
 ### Ganslmayer, Christine (Dr.)
 - **FAUdir:** [`619a82640c`](https://faudir.fau.de/public/person/619a82640c)
 - **Affiliation:** Lehrstuhl für Germanistische Linguistik mit Schwerpunkt Variation und Wandel des Deutschen
@@ -1381,6 +1402,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Theoretische Physik
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "Übung TPL-4" — Übung
+
+### Girao Franquelim, Henri (Prof. Dr.)
+- **FAUdir:** [`5eedd86028`](https://faudir.fau.de/public/person/5eedd86028)
+- **Affiliation:** Professur für Biochemie
+- **Weitere Affiliationen:** Professur für Biochemie
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Einführung in die Biochemie für Naturwissenschaftler Teil2" — Vorlesung
 
 ### Glanz, Anja (Dr.)
 - **FAUdir:** [`9eac357b3f`](https://faudir.fau.de/public/person/9eac357b3f)
@@ -1557,6 +1585,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Didaktik der Chemie; Lehrstuhl für Didaktik der Chemie; Department Fachdidaktiken
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "Übungen im Schülerlabor EAM-Lab Erlangen (DIDCHEM LAG II)" — Praxisseminar
+
+### Haffki, Marlies ()
+- **FAUdir:** [`35014fe5d4`](https://faudir.fau.de/public/person/35014fe5d4)
+- **Affiliation:** Lehrstuhl für Allgemeine Psychologie (Motivation, Emotion und Lernen)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion" — Praktikum
 
 ### Hagenah, Hinnerk (Prof. Dr.-Ing. habil. Dipl.-Inf.)
 - **FAUdir:** [`acd8748347`](https://faudir.fau.de/public/person/acd8748347)
@@ -1955,6 +1989,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Pulsumrichter für elektrische Antriebe" — Übung
 
+### Imhof, Petra (Prof. Dr.)
+- **FAUdir:** [`dd5573dcc9`](https://faudir.fau.de/public/person/dd5573dcc9)
+- **Affiliation:** Professur für Computational Chemistry
+- **Weitere Affiliationen:** Professur für Computational Chemistry; Computer-Chemie-Centrum; Computer-Chemie-Centrum; FAU Competence Center Engineering of Advanced Materials (FAU EAM); Computational Advanced Materials and Processes (CAMP); FAU Profile Center New Materials and Processes (FAU NMP)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Advanced Biomolecular Simulations (2V/1UE)" — Vorlesung mit Übung
+
 ### Irebor, Jermaine Lamar ()
 - **FAUdir:** [`dab94f5b7c`](https://faudir.fau.de/public/person/dab94f5b7c)
 - **Affiliation:** Lehrstuhl für Religionspädagogik und Didaktik des Evangelischen Religionsunterrichts
@@ -1996,6 +2037,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Physik (FAU Scientia)  -](../589-sommersemester-2026/physik-fau-scientia-13839673.md): "Modern Optics 2: Nonlinear Optics (exercise class)" — Übung
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Advanced Laser" — Vorlesung mit Übung
+
+### Jong, Moniek (Dr.)
+- **FAUdir:** [`27226adffa`](https://faudir.fau.de/public/person/27226adffa)
+- **Affiliation:** Lehrstuhl für Sustainability Transition Policy
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
+  - in : "European critical materials supply chains" — Seminar
 
 ### Jung, Martin (Dr.)
 - **FAUdir:** [`7a59ebbc0c`](https://faudir.fau.de/public/person/7a59ebbc0c)
@@ -2512,6 +2560,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Ba-Vorl: International Politics (only IBS/IES, WiWi)" — Vorlesung
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Exercise to Ba-lecture: International Politics (only IBS/IES)" — Übung
+
+### Lindlein, Norbert (apl. Prof. Dr.)
+- **FAUdir:** [`f99bb03e8c`](https://faudir.fau.de/public/person/f99bb03e8c)
+- **Affiliation:** Naturwissenschaftliche Fakultät
+- **Weitere Affiliationen:** Lehrstuhl für Experimentalphysik; FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ)
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Experimentalphysik für Naturwissenschaftler II" — Vorlesung
 
 ### Lindmeier, Anke (Prof. Dr.)
 - **FAUdir:** [`3181c10c23`](https://faudir.fau.de/public/person/3181c10c23)
@@ -3080,6 +3135,14 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Informatik 2 (Programmiersysteme)
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Testen von Softwaresystemen" — Vorlesung
+
+### Ostgathe, Christoph (Prof. Dr.)
+- **FAUdir:** [`06801bafe6`](https://faudir.fau.de/public/person/06801bafe6)
+- **Affiliation:** Professur für Palliativmedizin
+- **Weitere Affiliationen:** Professur für Palliativmedizin; Fakultätsverwaltung Medizinische Fakultät; Abteilung für Palliativmedizin
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
+  - in : "MED 87651 Multiprofessionelles Palliativseminar in Plankstetten" — Seminar
+  - in : "MED47251 Kommunikation im ärztlichen Beruf" — Seminar
 
 ### Osvet, Andres (Dr.)
 - **FAUdir:** [`593fb3783c`](https://faudir.fau.de/public/person/593fb3783c)
@@ -4233,6 +4296,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "Human-centered mechatronics and robotics (Tutorium)" — Tutorium
 
+### Vera González, Julio (Prof. Dr.)
+- **FAUdir:** [`3f1e17b2c8`](https://faudir.fau.de/public/person/3f1e17b2c8)
+- **Affiliation:** Professur für Tumorimmunologie (Schwerpunkt Systembiologie)
+- **Weitere Affiliationen:** Professur für Tumorimmunologie (Schwerpunkt Systembiologie); Fakultätsverwaltung Medizinische Fakultät
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2" — Vorlesung
+
 ### Verstegen, Ute (Prof. Dr.)
 - **FAUdir:** [`dac27b995f`](https://faudir.fau.de/public/person/dac27b995f)
 - **Affiliation:** Lehrstuhl für Christliche Archäologie
@@ -4426,6 +4496,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Fundamentals of Failure Analysis / Grundlagen der Schadensanalyse an Bauteilen" — Vorlesung mit Übung
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Labwork: Failure Analysis / Praktikum Schadensanalyse" — Praktikum
 
+### Weikert, Dorothée (Dr.)
+- **FAUdir:** [`6cdff740ed`](https://faudir.fau.de/public/person/6cdff740ed)
+- **Affiliation:** Lehrstuhl für Pharmazeutische Chemie
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester)" — Praktikum
+
 ### Weikl, Jan ()
 - **FAUdir:** [`b280f7d492`](https://faudir.fau.de/public/person/b280f7d492)
 - **Affiliation:** Lehrstuhl für Volkswirtschaftslehre, insbesondere Arbeitsmarkt- und Regionalpolitik
@@ -4504,6 +4580,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Crosslinked Polymers" — Vorlesung
 
+### Wiesmann da Silva Reis, André (Prof. Dr.)
+- **FAUdir:** [`d33bc58ba3`](https://faudir.fau.de/public/person/d33bc58ba3)
+- **Affiliation:** Lehrstuhl für Humangenetik
+- **Weitere Affiliationen:** Lehrstuhl für Humangenetik; Fakultätsverwaltung Medizinische Fakultät; Humangenetisches Institut
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2" — Vorlesung
+
 ### Wildermann, Stefan (Dr.-Ing.)
 - **FAUdir:** [`4a9e81f61b`](https://faudir.fau.de/public/person/4a9e81f61b)
 - **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
@@ -4528,6 +4611,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "BL8: Humanbiologische und Physiologische Übungen mit Vorlesung" — Seminar und Übung
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Biology-informed drug discovery" — Vorlesung
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Forschungs-/Vertiefungsmodul Genetik: Seminar" — Vorlesung
+
+### Winterpacht, Andreas (Prof. Dr.)
+- **FAUdir:** [`dc283c4dfa`](https://faudir.fau.de/public/person/dc283c4dfa)
+- **Affiliation:** Professur für Humangenetik
+- **Weitere Affiliationen:** Professur für Humangenetik; Professur für Humangenetik; Professur für Humangenetik; Lehrstuhl für Humangenetik; Fakultätsverwaltung Medizinische Fakultät
+- **Veranstaltungen ohne Pflicht-Markierung:** 1
+  - in : "Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2" — Vorlesung
 
 ### Wirth, Wolfgang (Dr.-Ing.)
 - **FAUdir:** [`101b462d81`](https://faudir.fau.de/public/person/101b462d81)

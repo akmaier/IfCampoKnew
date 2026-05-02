@@ -141,6 +141,84 @@ def _course_tokens(title: str) -> set[str]:
     return {t.lower() for t in _TOKEN_RE.findall(title)} - _NOISE_TOKENS
 
 
+_COURSE_FAC_HINTS: dict[str, set[str]] = {
+    "tech": {
+        "engineering", "technology", "informatik", "informatics", "programming",
+        "robotik", "robotics", "elektrotechnik", "mechanik", "mechanical",
+        "computational", "kommunikation", "communications", "signal",
+        "energietechnik", "werkstoff", "materials", "fertigung",
+        "mechatronik", "mechatronics", "automation", "computer",
+        "software", "data", "ai", "artificial",
+    },
+    "nat": {
+        "physik", "physics", "chemie", "chemistry", "mathematik", "mathematics",
+        "mathematical", "biologie", "biology", "biological", "molecular",
+        "geologie", "geology", "meteor", "klima", "climate",
+        "geographie", "geography", "biophysics", "biochemistry",
+    },
+    "med": {
+        "medizin", "medical", "klinisch", "clinical", "anatomie", "physiologie",
+        "chirurgie", "surgery", "pharmazie", "pharmaceutical", "krebs", "cancer",
+        "immunology", "epidemiologie", "neurolog", "kardiolog", "onkolog",
+        "psychiatrie", "psychiatry", "diagnostik",
+    },
+    "phil": {
+        "philosophie", "philosophy", "theologie", "theology", "geschichte",
+        "history", "kultur", "culture", "ethno", "judaistik", "religion",
+        "sprachwissenschaft", "linguistik", "linguistics", "literatur",
+        "literature", "soziolog", "sociology", "ethik",
+        "anglistik", "germanistik", "romanistik", "slavistik",
+        "klassische archäolog", "alte geschichte", "mittelalter",
+    },
+    "rw": {
+        "wirtschaft", "economics", "recht", "law", "rechtswissenschaft",
+        "management", "betriebswirtschaft", "volkswirtschaft", "finance",
+        "finanzen", "marketing", "controlling", "accounting",
+    },
+}
+
+
+def _course_faculty_hints(title: str) -> set[str]:
+    """Best-effort faculty tagging from a course title's keywords."""
+    t = title.lower()
+    out: set[str] = set()
+    for fac, kws in _COURSE_FAC_HINTS.items():
+        for kw in kws:
+            if kw in t:
+                out.add(fac)
+                break
+    return out
+
+
+def _po_faculty(po_rel: str) -> str | None:
+    """Faculty implied by the PO file's path; ``None`` for cross-faculty bins
+    (Lehramt, Sprachpruefungen) where any course faculty is plausible."""
+    parts = po_rel.split("/")
+    if "technische-fakultaet" in parts:
+        return "tech"
+    if "naturwissenschaftliche-fakultaet" in parts:
+        return "nat"
+    if "medizinische-fakultaet" in parts:
+        return "med"
+    if "philosophische-fakultaet" in parts:
+        return "phil"
+    if "rw" in parts:
+        return "rw"
+    return None
+
+
+def _faculty_compatible(course_title: str, po_rel: str) -> bool:
+    """Return True if the course's title-implied faculty/-ies overlap with
+    the PO's path-implied faculty (or either side is ambiguous)."""
+    po_fac = _po_faculty(po_rel)
+    if po_fac is None:
+        return True  # cross-faculty PO bin → don't filter
+    course_facs = _course_faculty_hints(course_title)
+    if not course_facs:
+        return True  # course title has no faculty signal → don't filter
+    return po_fac in course_facs
+
+
 def _path_program_slug(po_md_path: Path) -> str | None:
     """Best-guess Campo program slug from the PO file's path.
 
@@ -172,6 +250,7 @@ def match_courses_to_pflicht_text(
     *,
     min_overlap: int = 3,
     program_slug_hint: str | None = None,
+    po_rel: str | None = None,
 ) -> list[dict]:
     """Courses whose title shares ≥ ``min_overlap`` ≥5-char non-noise tokens
     with the captured Pflicht text **and** at least covers half the title.
@@ -198,6 +277,9 @@ def match_courses_to_pflicht_text(
         if overlap < min_overlap:
             continue
         if overlap < max(2, len(tokens) // 2):
+            continue
+        # Same faculty cross-check as in match_courses_to_module_names.
+        if po_rel and not _faculty_compatible(c.get("title", ""), po_rel):
             continue
         matched.append((overlap, c))
     matched.sort(key=lambda p: (-p[0], p[1].get("title", "")))
@@ -229,6 +311,7 @@ def match_courses_to_module_names(
     *,
     program_slug_hint: str | None = None,
     min_overlap: int = 2,
+    po_rel: str | None = None,
 ) -> list[dict]:
     """Match Campo courses to *structured* Pflichtmodul-Bezeichnungen.
 
@@ -258,6 +341,12 @@ def match_courses_to_module_names(
             if overlap < min_overlap:
                 continue
             if overlap < max(2, len(mod_tokens) // 2):
+                continue
+            # Faculty cross-check: drop matches where the course's title
+            # implies a different faculty than the PO's path
+            # (e.g. Phil Fak PO ↔ Med-Tech course is almost surely a
+            # false positive from generic-keyword overlap).
+            if po_rel and not _faculty_compatible(c.get("title", ""), po_rel):
                 continue
             matched.append((overlap, c))
     # Dedupe by unit_id
@@ -1087,6 +1176,8 @@ def main(argv: Iterable[str] | None = None) -> int:
         pos_with_pflicht += 1
         slug_hint = _path_program_slug(po_md_path)
 
+        rel = str(po_md_path.relative_to(args.data))
+
         # Primary path: match Campo courses against structured Pflichtmodul-
         # Bezeichnungen from this PO's Anlage tables.
         primary_matches: list[dict] = []
@@ -1098,6 +1189,7 @@ def main(argv: Iterable[str] | None = None) -> int:
                 courses_with_meta,
                 primary_module_names,
                 program_slug_hint=slug_hint,
+                po_rel=rel,
             )
 
         # Fallback path: free-text Pflicht-paragraph token overlap (the
@@ -1106,7 +1198,8 @@ def main(argv: Iterable[str] | None = None) -> int:
         if not primary_matches:
             pflicht_text = "\n\n".join(b["body"] for b in blocks)
             fallback_matches = match_courses_to_pflicht_text(
-                courses_with_meta, pflicht_text, program_slug_hint=slug_hint
+                courses_with_meta, pflicht_text,
+                program_slug_hint=slug_hint, po_rel=rel,
             )
 
         # Union — dedupe by unit_id, keep primary first
@@ -1121,7 +1214,6 @@ def main(argv: Iterable[str] | None = None) -> int:
 
         if not all_matched:
             continue
-        rel = str(po_md_path.relative_to(args.data))
         by_po[rel] = {
             "title": title,
             "blocks": blocks,
