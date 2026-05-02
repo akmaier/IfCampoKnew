@@ -525,5 +525,96 @@ der Teilnahme verhindert, so kann auf begründeten Antrag ein Nachtermin bis sp�
 
 (6) Die Bewerberin/der Bewerber trägt die eigenen Kosten des Qualifikationsfeststellungsverfahrens selbst. 
 
-19 
+19
+
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 9
+
+```
+Prüfenden oder des Prüfenden festlegen, dass in diesem Prüfungsabschnitt die Prü-
+fung ausschließlich mündlich stattfindet. ?Die Entscheidung des Prüfungsausschus-
+ses soll spätestens drei Wochen nach Ablauf der Anmeldefrist bekannt geben wer-
+den.
+(2) "Die Fachprüfungsordnung regelt die Dauer der schriftlichen Prüfung. ’Sie legt
+auch fest, welche Prüfungen in einer Fremdsprache abgenommen werden.
+(3) "Schriftliche Prüfungen werden in der Regel von der Erstellerin oder dem Ersteller
+der Aufgabe bewertet. *Eine mit „nicht ausreichend“ bewertete schriftliche Prüfungs-
+leistung ist von zwei Prüfenden zu bewerten.
+8 17 Mündliche Prüfung
+(1) 'In den mündlichen Prüfungen sollen die Studierenden nachweisen, dass sie die
+Zusammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen
+in
+diese Zusammenhänge einzuordnen vermögen. ”Mündliche Prüfungen finden, soweit
+nichts anderes vorgeschrieben ist, in Anwesenheit einer Beisitzerin oder eines Bei-
+sitzers statt, die oder der von der Prüferin oder dem Prüfer bestellt wird.
+(2) Die Dauer der mündlichen Prüfungen beträgt in der Regel mindestens 30 Minu-
+ten; die Fachprüfungsordnungen können hiervon abweichende Regelungen treffen.
+’g 16 Abs. 2 Satz 2 gilt entsprechend.
+(3) In der mündlichen Prüfung vor mehreren prüfungsberechtigten Personen setzt
+jeder Prüfende die Note nach 8 18 fest.
+(4) "Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen
+ist: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung,
+die Namen der Prüfenden, der Beisitzerin oder des Beisitzers und der Studierenden
+oder des Studierenden sowie besondere Vorkommnisse. ”Das Protokoll wird von den
+prüfungsberechtigten Personen und der Beisitzerin oder dem Beisitzer unterzeichnet.
+°Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.
+& 17a Elektronische Prüfung
+Prüfungen können in elektronischer Form abgenommen werden. ?Elektronische Prü-
+fungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung
+durch computergestützte bzw. digitale Medien erfolgen. *Die Authentizität und die
+Integrität der Prüfungsergebnisse sind sicherzustellen. *Eine automatisiert erstellte
+Bewertung einer Prüfungsleistung soll auf Antrag der/des betroffenen Studierenden
+von einer oder einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei
+Prüfenden, überprüft werden.
+& 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote
+(1) "Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen
+Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen aus-
+gedrückt:
+|sehrgut | =(1,0.0der 1,3)
+| eine hervorragende Leistung;
+|
+eine
+Leistung,
+die
+erheblich
+über
+den
+durch-
+| gut
+BE
+= (1,7 oder 2,0 oder 2,3)
+schnittlichen Anforderungen liegt,
+|
+| befriedigend
+| = (2,7 oder 3,0 oder 3,3)
+| eine Leistung, die durchschnittlichen Anforde-
+|
+|
+IL
+rungen entspricht
+77
+|
+ausreichend
+= (3,7 oder 4,0)
+ane Leistung, die trotz ihrer Mängel noch den
+I
+|
+‚
+Anforderungen entspricht,
+f
+.
+.
+_
+: eine Leistung, die wegen erheblicher Mängel den
+:
+| nicht ausreichend
+= (4,3 oder 4,7 oder 5,0)
+: Anforderungen nicht mehr
+aenüat.
+|
+9
+```
 

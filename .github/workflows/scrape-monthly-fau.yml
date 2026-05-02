@@ -43,6 +43,11 @@ jobs:
           cache: pip
           cache-dependency-path: scraper/requirements.txt
 
+      - name: Install Tesseract (for OCR pass on image-rendered PO Anlagen)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-deu
+
       - name: Install scraper dependencies
         run: pip install -r scraper/requirements.txt
 
@@ -70,6 +75,14 @@ jobs:
             --tmp tmp/fau-pdfs \
             -v ${{ steps.vars.outputs.extra }}
 
+      - name: OCR image-rendered PO Anlagen
+        env:
+          TESSDATA_PREFIX: /usr/share/tesseract-ocr/4.00/tessdata
+        run: |
+          # Idempotent: skips POs that already carry the OCR appendix.
+          python scraper/ocr_po_anlagen.py --pdfs tmp/fau-pdfs --data data -v
+        continue-on-error: true
+
       - name: Pull FAUdir Professor:innen-Index
         run: |
           python scraper/faudir_scrape.py \
@@ -82,7 +95,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/studiengang data/pruefungsordnungen data/personen
+          git add data/studiengang data/pruefungsordnungen data/personen data/analyse 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No corpus changes — skipping commit."
