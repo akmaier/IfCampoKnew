@@ -571,14 +571,20 @@ def render_lehrende_ohne_pflicht_md(
     courses_with_meta: list[dict],
     pflicht_unit_ids: set[int],
     period_label: str,
+    *,
+    faudir_lookup: dict[str, dict] | None = None,
 ) -> str:
     """Produce a list of Lehrende whose courses (in the matched period) are
-    *not* among the courses heuristically flagged as Pflicht.
+    *not* among the courses heuristically flagged as Pflicht — **excluding**
+    every person already cross-referenced into FAUdir (those live in
+    ``profs-ohne-pflichtlehre.md``).
 
-    This is the user's "Profs ohne Pflichtlehre"-style cross-check — minus
-    the W-status filter (which depends on FAUdir, not yet integrated).
     Intended as Verifikations-Vergleichsmaterial against the RAG-driven
-    answer to the same question.
+    answer to the same question — focused on the *remaining* Lehrende
+    that are *not* W-Profs in FAUdir (Lehrbeauftragte, externe Dozent:innen,
+    Professor:innen ohne FAUdir-Match …). Together with
+    ``profs-ohne-pflichtlehre.md`` the union is exhaustive without
+    duplicates.
     """
     # name → {pflicht_courses, other_courses}
     by_person: dict[str, dict] = defaultdict(
@@ -602,16 +608,21 @@ def render_lehrende_ohne_pflicht_md(
             target = entry["pflicht"] if is_pflicht else entry["other"]
             target.append(c)
 
+    faudir_lookup = faudir_lookup or {}
+
     # Filter: only Lehrende with **at least one** matching course but **none**
-    # marked Pflicht.
-    candidates: list[tuple[str, list[dict]]] = []
+    # marked Pflicht **and** no FAUdir match (so they don't double-appear in
+    # profs-ohne-pflichtlehre.md).
+    candidates: list[tuple[str, list[dict], bool]] = []
+    skipped_due_to_faudir = 0
     for full, info in by_person.items():
         if info["pflicht"]:
             continue
         if not info["other"]:
             continue
-        # Heuristic priority: focus on plausible "Profs". The user wants W1/W2/W3
-        # eventually — we approximate by looking for "Prof" in the name string.
+        if faudir_lookup and fuzzy_lookup_faudir(full, faudir_lookup) is not None:
+            skipped_due_to_faudir += 1
+            continue
         is_prof = "prof" in full.lower()
         candidates.append((full, info["other"], is_prof))
 
@@ -622,38 +633,47 @@ def render_lehrende_ohne_pflicht_md(
         'kind: "campo-lehrende-ohne-pflicht"',
         f'period: {json.dumps(period_label, ensure_ascii=False)}',
         f"candidates: {len(candidates)}",
+        f"excluded_because_in_faudir: {skipped_due_to_faudir}",
         f"scraped_at: {_dt.datetime.now(_dt.timezone.utc).isoformat(timespec='seconds')}",
         "---",
         "",
-        "# Lehrende ohne Pflichtlehre (Vorschlag)",
+        "# Lehrende ohne Pflichtlehre — *ohne FAUdir-Match*",
         "",
         "Liste der Personen, die in der angegebenen Periode mindestens **eine** "
         "Veranstaltung in Campo halten, aber **keine** der heuristisch als "
         "Pflichtveranstaltung markierten Kurse (siehe `pflichtveranstaltungen.md` "
-        "im selben Verzeichnis).",
+        "im selben Verzeichnis) — und die **nicht** in FAUdir gefunden wurden.",
+        "",
+        "Die FAUdir-bestätigten Personen sind in der Schwester-Datei "
+        "[`profs-ohne-pflichtlehre.md`](profs-ohne-pflichtlehre.md) "
+        "aufgeführt; jede Person erscheint **genau in einer** der beiden "
+        "Dateien (Partition statt Duplikation).",
         "",
         "## Vorbehalte",
         "",
-        "* Akademischer Rang (W1/W2/W3) ist hier **nicht** ausgewiesen — Campo "
-        "  liefert nur den Namens-String. Die *is_prof*-Markierung erkennt "
-        "  lediglich die Zeichenkette \"Prof\" im Namen und ist deshalb "
-        "  bestenfalls eine Heuristik. Für die genaue W1/W2/W3-Zuordnung wird "
-        "  eine FAUdir-Integration benötigt (siehe `personen/INDEX.md`).",
+        "* Diese Liste enthält typischerweise: Lehrbeauftragte, externe "
+        "  Dozent:innen, wissenschaftliche Mitarbeiter:innen ohne eigenen "
+        "  FAUdir-Eintrag, sowie Personen, deren Campo-Namens-String so "
+        "  stark von ihrem FAUdir-Namen abweicht, dass das Fuzzy-Matching "
+        "  scheitert.",
         "* **Falsch-Positive sind sehr wahrscheinlich.** Die Pflicht-"
         "  Klassifikation in `pflichtveranstaltungen.md` ist heuristisch und "
         "  unvollständig (PO-Texte sind unstandardisiert; viele Pflichtmodule "
         "  stehen nur in Anlagen). Eine Person ohne markierte Pflichtlehre "
         "  kann in Wirklichkeit eine Pflichtveranstaltung halten, deren "
         "  PO-Match die Heuristik nicht hergegeben hat.",
+        "* Die `is_prof`-Markierung (\"Prof.\" in der Namens-Zeichenkette) "
+        "  ist nur ein grober Indikator — der genaue Rang fehlt für diese "
+        "  Personen, weil sie in FAUdir nicht aufgefunden wurden.",
         "* Diese Datei dient als **Vergleichsgrundlage** zur RAG-Antwort auf "
         "  dieselbe Frage. Bei Inkonsistenz ist die RAG-Antwort meist "
-        "  belastbarer, weil ein Sprachmodell die Modul-zu-Veranstaltungs-"
-        "  Zuordnung mit mehr Kontext lösen kann.",
+        "  belastbarer.",
         "",
         f"**Periode:** {period_label}",
         "",
-        f"**Kandidaten gefunden:** {len(candidates)} "
-        f"(davon {sum(1 for _, _, p in candidates if p)} mit \"Prof\" im Namen)",
+        f"**Kandidaten:** {len(candidates)} "
+        f"(davon {sum(1 for _, _, p in candidates if p)} mit \"Prof\" im Namen)  ",
+        f"**Ausgeschlossen, weil bereits in FAUdir-Liste:** {skipped_due_to_faudir}",
         "",
         "## Liste",
         "",
@@ -803,15 +823,12 @@ def main(argv: Iterable[str] | None = None) -> int:
     for d in by_po.values():
         for c in d["matched_courses"]:
             pflicht_unit_ids.add(int(c["unit_id"]))
-    out_lehrende = args.out.parent / "lehrende-ohne-pflicht.md"
-    out_lehrende.write_text(
-        render_lehrende_ohne_pflicht_md(courses_with_meta, pflicht_unit_ids, period_name),
-        encoding="utf-8",
-    )
-
-    # ── Companion file 2: FAUdir-confirmed Profs ohne Pflichtlehre ──
+    # ── Load FAUdir lookup first so the partition between the two files
+    # is computed consistently. ────────────────────────────────────────
     faudir_json = Path("tmp/faudir-persons.json")
     faudir_lookup = load_faudir_lookup(faudir_json)
+
+    # Companion file 2: FAUdir-confirmed Profs ohne Pflichtlehre
     if faudir_lookup:
         out_profs = args.out.parent / "profs-ohne-pflichtlehre.md"
         out_profs.write_text(
@@ -824,7 +841,19 @@ def main(argv: Iterable[str] | None = None) -> int:
             f"wrote {out_profs} ({len(faudir_lookup)} FAUdir name-keys loaded)"
         )
     else:
-        log.info("tmp/faudir-persons.json not present — skipping profs-ohne-pflichtlehre.md")
+        log.info("tmp/faudir-persons.json not present — profs-ohne-pflichtlehre.md skipped")
+
+    # Companion file 1: every Lehrende ohne FAUdir-Match — excludes the
+    # persons that are already in the FAUdir-confirmed file so each person
+    # appears in exactly one of the two analyse/-files.
+    out_lehrende = args.out.parent / "lehrende-ohne-pflicht.md"
+    out_lehrende.write_text(
+        render_lehrende_ohne_pflicht_md(
+            courses_with_meta, pflicht_unit_ids, period_name,
+            faudir_lookup=faudir_lookup,
+        ),
+        encoding="utf-8",
+    )
 
     print(
         f"wrote {args.out}: po_files={len(by_po)} "
