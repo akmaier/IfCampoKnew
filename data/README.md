@@ -71,9 +71,15 @@ Course events carry `unit_id` instead. They appear inside program files as
 │   └── faudir-{Aaa_Bbb}.md            ← FAUdir Personen-Chunks (alphabetisch, ~25 k tok)
 └── analyse/                           ← heuristic pre-computed analyses
     ├── pflichtveranstaltungen.md      ← Pflicht sections per PO + matched Campo courses
-    ├── lehrende-ohne-pflicht.md       ← every Campo Lehrende with no Pflicht-flagged course
-    └── profs-ohne-pflichtlehre.md     ← FAUdir-confirmed Profs (with W-Rang) without Pflicht
-                                          teaching — Vergleichsgrundlage (B) für RAG (A)
+    ├── profs-ohne-pflichtlehre.md     ← FAUdir-confirmed Profs (with W-Rang) without
+    │                                    Pflicht teaching — primary file for the user's
+    │                                    "Profs ohne Pflichtlehre" question
+    └── lehrende-ohne-pflicht.md       ← Lehrende without Pflicht teaching whose
+                                          name does NOT match any FAUdir entry
+                                          (Lehrbeauftragte, externe Dozent:innen,
+                                          Mitarbeitende ohne FAUdir-Eintrag …).
+                                          The two files partition the population —
+                                          each person appears in exactly one.
 ```
 
 The FAUdir chunks (`faudir-{Aaa_Bbb}.md`) carry W-Rang information parsed
