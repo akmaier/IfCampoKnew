@@ -3,7 +3,7 @@ kind: "campo-lehrende-ohne-pflicht"
 period: "Sommersemester 2026"
 candidates: 195
 excluded_because_in_faudir: 666
-scraped_at: 2026-05-02T04:33:29+00:00
+scraped_at: 2026-05-02T12:13:53+00:00
 ---
 
 # Lehrende ohne Pflichtlehre — *ohne FAUdir-Match*

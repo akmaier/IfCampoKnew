@@ -636,11 +636,18 @@ def render_profs_mit_pflichtlehre_md(
     pflicht_unit_ids: set[int],
     period_label: str,
     faudir_lookup: dict[str, dict],
+    *,
+    pflicht_sources: dict[int, list[dict]] | None = None,
 ) -> str:
     """The companion of ``profs-ohne-pflichtlehre.md`` — FAUdir-confirmed
     Professor:innen, die in der Periode mindestens eine Pflichtveranstaltung
     halten. Same FAUdir matching + W-Rang grouping; opposite Pflicht filter.
+
+    If ``pflicht_sources`` is given (a ``unit_id → [{po_rel, po_title,
+    program_slug}]`` map), each Pflichtveranstaltung is annotated with the
+    PO(s) it appears in and the implied study-program.
     """
+    pflicht_sources = pflicht_sources or {}
     by_person: dict[str, dict] = defaultdict(
         lambda: {"pflicht": [], "other": [], "faudir": None}
     )
@@ -771,11 +778,50 @@ def render_profs_mit_pflichtlehre_md(
                 title_str = c.get("title", "?")
                 ctype = c.get("course_type") or ""
                 rel = c.get("program_rel_path", "")
-                pname = c.get("program_name", "?")
+                pname = c.get("program_name", "?") or "(nicht im Katalog)"
                 if rel:
-                    lines.append(f"  - in [{pname}]({rel}): \"{title_str}\" — {ctype}")
+                    lines.append(f"  - **\"{title_str}\"** — {ctype} (Campo-Studiengang: [{pname}]({rel}))")
                 else:
-                    lines.append(f"  - in {pname}: \"{title_str}\" — {ctype}")
+                    lines.append(f"  - **\"{title_str}\"** — {ctype} (Campo-Studiengang: {pname})")
+                # Show PO sources for this course (where it's flagged Pflicht).
+                sources = pflicht_sources.get(int(c["unit_id"]), [])
+                if sources:
+                    # group identical (program_slug, po_title) entries
+                    seen = set()
+                    deduped = []
+                    for s in sources:
+                        key = (s.get("po_rel"), s.get("po_title"))
+                        if key in seen:
+                            continue
+                        seen.add(key)
+                        deduped.append(s)
+                    if len(deduped) <= 5:
+                        for s in deduped:
+                            prog = s.get("program_slug") or "?"
+                            po_link = f"../{s['po_rel']}" if s.get("po_rel") else ""
+                            po_title = s.get("po_title") or s.get("po_rel", "?")
+                            if po_link:
+                                lines.append(
+                                    f"    - Pflicht laut: [{po_title}]({po_link}) "
+                                    f"(Studiengang: `{prog}`)"
+                                )
+                            else:
+                                lines.append(
+                                    f"    - Pflicht laut: {po_title} (Studiengang: `{prog}`)"
+                                )
+                    else:
+                        # many POs — collapse to a count + the first 3
+                        progs = sorted({s.get("program_slug") or "?" for s in deduped})
+                        lines.append(
+                            f"    - Pflicht in **{len(deduped)} POs** "
+                            f"(Studiengänge: {', '.join(f'`{p}`' for p in progs[:8])}"
+                            f"{'…' if len(progs) > 8 else ''})"
+                        )
+                        for s in deduped[:3]:
+                            po_link = f"../{s['po_rel']}" if s.get("po_rel") else ""
+                            po_title = s.get("po_title") or s.get("po_rel", "?")
+                            if po_link:
+                                lines.append(f"      - [{po_title}]({po_link})")
             if len(info["pflicht"]) > 10:
                 lines.append(f"  - … und {len(info['pflicht'])-10} weitere")
             if info["other"]:
@@ -1108,6 +1154,18 @@ def main(argv: Iterable[str] | None = None) -> int:
     faudir_json = Path("tmp/faudir-persons.json")
     faudir_lookup = load_faudir_lookup(faudir_json)
 
+    # Build inverse map: unit_id → list of POs that flag it as Pflicht
+    # (with the PO title + path-derived program slug). Used by
+    # render_profs_mit_pflichtlehre_md so each course shows where it's
+    # mandatory.
+    pflicht_sources: dict[int, list[dict]] = defaultdict(list)
+    for po_rel, d in by_po.items():
+        slug = _path_program_slug(Path(po_rel))
+        for c in d["matched_courses"]:
+            pflicht_sources[int(c["unit_id"])].append(
+                {"po_rel": po_rel, "po_title": d["title"], "program_slug": slug}
+            )
+
     # Companion files 2a + 2b: FAUdir-confirmed Profs *ohne* / *mit*
     # Pflichtlehre — together a partition of the FAUdir-matched cohort.
     if faudir_lookup:
@@ -1121,7 +1179,8 @@ def main(argv: Iterable[str] | None = None) -> int:
         out_mit = args.out.parent / "profs-mit-pflichtlehre.md"
         out_mit.write_text(
             render_profs_mit_pflichtlehre_md(
-                courses_with_meta, pflicht_unit_ids, period_name, faudir_lookup
+                courses_with_meta, pflicht_unit_ids, period_name, faudir_lookup,
+                pflicht_sources=dict(pflicht_sources),
             ),
             encoding="utf-8",
         )
