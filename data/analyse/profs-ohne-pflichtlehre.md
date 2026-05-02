@@ -6,7 +6,7 @@ rank_distribution:
   W3: 14
   W?: 454
   Junior: 8
-scraped_at: 2026-05-02T02:19:02+00:00
+scraped_at: 2026-05-02T02:22:00+00:00
 ---
 
 # Profs ohne Pflichtlehre (FAUdir × Campo)
