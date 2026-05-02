@@ -1,12 +1,12 @@
 ---
 kind: "profs-mit-pflichtlehre"
 period: "Sommersemester 2026"
-candidates_total: 233
+candidates_total: 220
 rank_distribution:
   W3: 6
-  W?: 225
+  W?: 212
   Junior: 2
-scraped_at: 2026-05-02T12:13:53+00:00
+scraped_at: 2026-05-02T13:32:46+00:00
 ---
 
 # Profs mit Pflichtlehre (FAUdir × Campo)
@@ -21,12 +21,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 * Vergleichsgrundlage (B) für die RAG-Antwort (A); bei Inkonsistenz ist die RAG-Antwort meist belastbarer.
 
 **Periode:** Sommersemester 2026  
-**Kandidaten:** 233 FAUdir-bestätigte Profs mit Pflichtlehre
+**Kandidaten:** 220 FAUdir-bestätigte Profs mit Pflichtlehre
 
 ## Verteilung nach W-Rang
 
 - **W3**: 6
-- **W?**: 225
+- **W?**: 212
 - **Junior**: 2
 
 ## Rang W3
@@ -36,17 +36,14 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** W3-Professur für Robotische Planung und Kognition in der Chirurgie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Empirical Research Methods in Medical Engineering"** — Vorlesung mit Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **8 POs** (Studiengänge: `masterstudiengaenge`)
-      - [28. Juli 2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/3aes-ma-developeconominternstudies.md)
-      - [PDF vom 08.06.2010 i.d.F. 28.07.2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-developmenteconomicsinternstudies-juli2014.md)
-      - [MA DEIS FPODEIS 20100608 i.d.F. 20180221.pdf](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20180221.md)
+    - Pflicht laut: [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711.md) (Studiengang: `medizinische-fakultaet`)
 
 ### Hagen, Luca ()
 - **FAUdir:** [`ee49ee24c3`](https://faudir.fau.de/public/person/ee49ee24c3)
 - **Affiliation:** W3-Professur für Image Data Exploration and Analysis
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"MED  84701  Klinische Untersuchung Innere Medizin (I-Med. 353)"** — Vorlesung mit Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `chemie-und-pharmazie`, `medizinische-fakultaet`)
+    - Pflicht in **12 POs** (Studiengänge: `medizinische-fakultaet`)
       - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
       - [PDF vom 23.03.1993](../pruefungsordnungen/medizinische-fakultaet/medizin-20-2023-03-1993.md)
       - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
@@ -67,10 +64,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** W3-Professur für Robotische Planung und Kognition in der Chirurgie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Empirical Research Methods in Medical Engineering"** — Vorlesung mit Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **8 POs** (Studiengänge: `masterstudiengaenge`)
-      - [28. Juli 2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/3aes-ma-developeconominternstudies.md)
-      - [PDF vom 08.06.2010 i.d.F. 28.07.2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-developmenteconomicsinternstudies-juli2014.md)
-      - [MA DEIS FPODEIS 20100608 i.d.F. 20180221.pdf](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20180221.md)
+    - Pflicht laut: [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711.md) (Studiengang: `medizinische-fakultaet`)
 
 ### Miehlich, Arthur ()
 - **FAUdir:** [`3e33806803`](https://faudir.fau.de/public/person/3e33806803)
@@ -142,10 +136,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Mikrobiologie
 - **Pflichtveranstaltungen (heuristisch):** 2
   - **"Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **14 POs** (Studiengänge: `biologie`, `chemie-und-pharmazie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
-      - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BSc-MSc ILS FPO BAMA ILS 20230822 i.d.F. 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822-idf-20260331.md) (Studiengang: `biologie`)
+    - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
   - **"Orientierungsmodul Mikrobiologie I: Identifizierung von Bakterien anhand von 16S rRNA"** — Seminar und Übung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
 - *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
@@ -259,10 +253,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Klinische und Molekulare Virologie; Lehrstuhl für Klinische und Molekulare Virologie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `biologie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Bollow, Tanja ()
@@ -271,10 +263,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Sprachenzentrum; Sprachenzentrum, Abteilung Französisch; Sprachenzentrum, Abteilung Italienisch und Rumänisch; Institut für Romanistik
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Proseminar spanische Literaturwissenschaft"** — Proseminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **12 POs** (Studiengänge: `ein-fach-bachelor`, `modul-und-zusatzstudien`, `theologie`, `weiterbildungs-und-elitestudiengaenge-sowie-weitere`, `zwei-fach-bachelor`)
-      - [PDF vom 25.09.1980 i.d.F. 28.12.2004](../pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/zwischenpruefungso.md)
+    - Pflicht in **11 POs** (Studiengänge: `ein-fach-bachelor`, `theologie`, `weiterbildungs-und-elitestudiengaenge-sowie-weitere`, `zwei-fach-bachelor`)
       - [PDF vom 03.08.2015](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1fachba-literatur-und-buch.md)
       - [FPOLitBuch 20150803 i.d.F. 20190906.pdf](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20150803-idf-20190906.md)
+      - [FPOLitBuch 20260305.pdf](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Boßmann, Lea (Prof. Dr.)
@@ -294,7 +286,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1)"** — Übung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
 - *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Brehm, Ingrid (Dr.)
@@ -303,7 +294,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1)"** — Übung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
 - *(zusätzlich 3 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Brehmer, Axel (apl. Prof. Dr.)
@@ -345,7 +335,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Hauptseminar Physische Geographie"** — Hauptseminar (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [PDF vom 21.08.1990](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/sto-geographie.md) (Studiengang: `geographie-und-geowissenschaften`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Bösmann, Andreas (Dr.)
@@ -361,10 +350,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Romanistik, insbesondere italienische Literatur- und Kulturwissenschaft im europäischen Kontext
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Proseminar französische Literaturwissenschaft"** — Proseminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **14 POs** (Studiengänge: `ein-fach-bachelor`, `modul-und-zusatzstudien`, `theologie`, `weiterbildungs-und-elitestudiengaenge-sowie-weitere`, `zwei-fach-bachelor`)
-      - [PDF vom 25.09.1980 i.d.F. 28.12.2004](../pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/zwischenpruefungso.md)
+    - Pflicht in **13 POs** (Studiengänge: `ein-fach-bachelor`, `theologie`, `weiterbildungs-und-elitestudiengaenge-sowie-weitere`, `zwei-fach-bachelor`)
       - [24. August 2017](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1aesa-ba-1fach-ba-literatur-buch.md)
       - [PDF vom 03.08.2015](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1fachba-literatur-und-buch.md)
+      - [PDF vom 03.08.2015 i.d.F. 24.08.2017](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/ein-fachba-literatur-und-buch-aug2017.md)
 
 ### Büttner, Eva ()
 - **FAUdir:** [`e7084708b8`](https://faudir.fau.de/public/person/e7084708b8)
@@ -437,10 +426,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Wirtschaftsprivatrecht
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"International Business Law (FACT-Master SQ)"** — Vorlesung mit Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **44 POs** (Studiengänge: `bachelorstudiengaenge`, `maschinenbau`, `masterstudiengaenge`)
-      - [28. Juli 2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/3aes-ma-developeconominternstudies.md)
-      - [PDF vom 08.06.2010 i.d.F. 28.07.2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-developmenteconomicsinternstudies-juli2014.md)
-      - [MA DEIS FPODEIS 20100608 i.d.F. 20180221.pdf](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20180221.md)
+    - Pflicht in **35 POs** (Studiengänge: `bachelorstudiengaenge`, `masterstudiengaenge`)
+      - [BA Sozialökonomik FPO BA SozÖk 20170810 i.d.F. 20180801.pdf](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20180801.md)
+      - [BA Sozialökonomik FPO BA SozÖk 20170810 i.d.F. 20190220.pdf](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20190220.md)
+      - [BA Sozialökonomik FPO BA SozÖk 20170810 i.d.F. 20190806.pdf](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20190806.md)
 
 ### Distel, Lukas ()
 - **FAUdir:** [`56c39fa4a5`](https://faudir.fau.de/public/person/56c39fa4a5)
@@ -451,17 +440,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
       - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
       - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
-
-### Dube, Henry (Prof. Dr.)
-- **FAUdir:** [`96fc9c01e8`](https://faudir.fau.de/public/person/96fc9c01e8)
-- **Affiliation:** Lehrstuhl für Organische Chemie I
-- **Weitere Affiliationen:** Lehrstuhl für Organische Chemie I; Advanced Materials and Processes (ZMP); FAU Competence Center Engineering of Advanced Materials (FAU EAM); Computational Advanced Materials and Processes (CAMP); Molecular Materials (ICMM); Interface Research and Catalysis (ECRC); FAU Profile Center New Materials and Processes (FAU NMP)
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Organische Chemie 3"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [22. Juli 2014](../pruefungsordnungen/medizinische-fakultaet/4aes-ba-ma-molekularemedizin.md) (Studiengang: `medizinische-fakultaet`)
-    - Pflicht laut: [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20240926.md) (Studiengang: `medizinische-fakultaet`)
-    - Pflicht laut: [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822.md) (Studiengang: `medizinische-fakultaet`)
-    - Pflicht laut: [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md) (Studiengang: `medizinische-fakultaet`)
 
 ### Döllwanger, Melanie ()
 - **FAUdir:** [`ac943de8cc`](https://faudir.fau.de/public/person/ac943de8cc)
@@ -499,15 +477,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Einsiedel, Jürgen (Dr.)
 - **FAUdir:** [`53a8490d86`](https://faudir.fau.de/public/person/53a8490d86)
 - **Affiliation:** Lehrstuhl für Pharmazeutische Chemie
-- **Pflichtveranstaltungen (heuristisch):** 2
+- **Pflichtveranstaltungen (heuristisch):** 1
   - **"Praktikum Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
-  - **"Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester)"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [PDF vom 28.11.2006 i.d.F. 29.09.2010](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science-ws2010-2011.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [PDF vom 28.11.2006 i.d.F. 15.09.2009](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [PDF vom 31.07.2002 i.d.F. 23.08.2013](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-august2013.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [PDF vom 31.07.2002 i.d.F. 01.02.2010](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie.md) (Studiengang: `chemie-und-pharmazie`)
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Ellner, Ralf ()
 - **FAUdir:** [`bf030d059c`](https://faudir.fau.de/public/person/bf030d059c)
@@ -527,17 +500,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
       - [PDF vom 30.09.2003 i.d.F. 07.07.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-juli2014.md)
 
-### Engel, Felix (Prof. Dr. rer. nat)
-- **FAUdir:** [`d9f4d45ffd`](https://faudir.fau.de/public/person/d9f4d45ffd)
-- **Affiliation:** Professur für Experimentelle Nieren- und Kreislaufforschung
-- **Weitere Affiliationen:** Professur für Experimentelle Nieren- und Kreislaufforschung; Fakultätsverwaltung Medizinische Fakultät
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **8 POs** (Studiengänge: `medizinische-fakultaet`)
-      - [18. Februar 2016](../pruefungsordnungen/medizinische-fakultaet/5aes-ba-ma-molekulare-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210113.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210113.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210429.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210429.md)
-
 ### Engelking, Liza ()
 - **FAUdir:** [`9b79c9c9aa`](https://faudir.fau.de/public/person/9b79c9c9aa)
 - **Affiliation:** Professur für Klinische Psychologie und Psychotherapie des Kindes- und Jugendalters
@@ -554,10 +516,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Klinische und Molekulare Virologie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `biologie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
 
 ### Eschner, Christina (Prof. Dr.)
 - **FAUdir:** [`e522b9e6e6`](https://faudir.fau.de/public/person/e522b9e6e6)
@@ -577,10 +537,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** FAU Competence Center Engineering of Advanced Materials (FAU EAM); Lehrstuhl für Power-to-X-Technologien; FAU Profile Center New Materials and Processes (FAU NMP); FAU Profile Center New Materials and Processes (FAU NMP); Lehrstuhl für Power-to-X-Technologien
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Laboratory course process engineering"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **17 POs** (Studiengänge: `biologie`, `elektrotechnik-elektronik-informationstechnik`)
-      - [FPO BSc-MSc ILS FPO BAMA ILS 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20191028.md)
-      - [FPO BSc-MSc ILS FPO BAMA ILS 20230822 i.d.F. 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822-idf-20260331.md)
-      - [FPO BSc-MSc ILS FPO BAMA ILS 20230822.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822.md)
+    - Pflicht in **14 POs** (Studiengänge: `elektrotechnik-elektronik-informationstechnik`)
+      - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20240430.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20240430.md)
+      - [BSc-MSc Autonomy Technologies FPO AT 20230426 i.d.F. 20241219.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20241219.md)
+      - [BSc-MSc Autonomy Technologies FPO AT 20230426.pdf](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426.md)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Feick, Sebastian (Dr.)
@@ -589,10 +549,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Ressort Computer & IT (EDV); Professur für Geographie (Fernerkundung und GIS)
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Hauptseminar Spezielle Methoden Physische Geographie"** — Hauptseminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **29 POs** (Studiengänge: `chemie-und-bioingenieurwesen`, `diplomstudiengaenge-und-weiteres`, `ein-fach-bachelor`, `geographie-und-geowissenschaften`, `maschinenbau`, `masterstudiengaenge`, `masterstudiengaenge-eigenstaendige-po-und-konsekutiv`, `mathematik`)
-      - [16. Juni 1994](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/2aesa-pro-geologie.md)
-      - [BA-MA Kulturgeographie FPO Kulturgeo 20200827.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/ba-ma-kulturgeographie-fpo-kulturgeo-20200827.md)
-      - [PDF vom 21.08.1990](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/sto-geographie.md)
+    - Pflicht laut: [16. Juni 1994](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/2aesa-pro-geologie.md) (Studiengang: `geographie-und-geowissenschaften`)
+    - Pflicht laut: [BA-MA Kulturgeographie FPO Kulturgeo 20200827.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/ba-ma-kulturgeographie-fpo-kulturgeo-20200827.md) (Studiengang: `geographie-und-geowissenschaften`)
+    - Pflicht laut: [PDF vom 21.08.1990](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/sto-geographie.md) (Studiengang: `geographie-und-geowissenschaften`)
+    - Pflicht laut: [3. Februar 2005](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/2aesa-pro-wirtmath.md) (Studiengang: `mathematik`)
+    - Pflicht laut: [PDF vom 22.10.2002 i.d.F. 07.07.2005](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/po-wirtschaftsmathematik.md) (Studiengang: `mathematik`)
 
 ### Feigenspan, Andreas (Prof. Dr.)
 - **FAUdir:** [`ea1c69ce3f`](https://faudir.fau.de/public/person/ea1c69ce3f)
@@ -601,7 +562,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1)"** — Übung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
 - *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Fesenmeier, Ludwig (Prof. Dr.)
@@ -610,12 +570,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Romanistik, insbesondere Sprachwissenschaft
 - **Pflichtveranstaltungen (heuristisch):** 2
   - **"Vertiefungsseminar französische Sprachwissenschaft"** — Examensseminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **9 POs** (Studiengänge: `ein-fach-bachelor`, `modul-und-zusatzstudien`, `theologie`, `weiterbildungs-und-elitestudiengaenge-sowie-weitere`, `zwei-fach-bachelor`)
-      - [PDF vom 25.09.1980 i.d.F. 28.12.2004](../pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/zwischenpruefungso.md)
+    - Pflicht in **8 POs** (Studiengänge: `ein-fach-bachelor`, `theologie`, `weiterbildungs-und-elitestudiengaenge-sowie-weitere`, `zwei-fach-bachelor`)
       - [PDF vom 03.08.2015](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1fachba-literatur-und-buch.md)
       - [FPOLitBuch 20150803 i.d.F. 20190906.pdf](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20150803-idf-20190906.md)
+      - [FPOLitBuch 20260305.pdf](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md)
   - **"Vorlesung Romanistik Sprachwissenschaft"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [PDF vom 25.09.1980 i.d.F. 28.12.2004](../pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/zwischenpruefungso.md) (Studiengang: `modul-und-zusatzstudien`)
     - Pflicht laut: [PDF vom 25.09.1980 i.d.F. 28.12.2004](../pruefungsordnungen/philosophische-fakultaet/theologie/zwischenpruefungso.md) (Studiengang: `theologie`)
     - Pflicht laut: [PDF vom 25.09.1980 i.d.F. 28.12.2004](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/zwischenpruefungso.md) (Studiengang: `weiterbildungs-und-elitestudiengaenge-sowie-weitere`)
 
@@ -656,10 +615,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"BWL-Hauptseminar: Strategisches Management"** — Seminar (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [PDF vom 02.09.2009](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fachstuo-pro-20ma-marketing.md) (Studiengang: `masterstudiengaenge`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
-    - Pflicht laut: [26. November 2009](../pruefungsordnungen/technische-fakultaet/maschinenbau/2aesa-fpo-bm-wing.md) (Studiengang: `maschinenbau`)
-    - Pflicht laut: [PDF vom 25.09.2007 i.d.F. 09.03.2011](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-maerz2011-neu.md) (Studiengang: `maschinenbau`)
-    - Pflicht laut: [PDF vom 25.09.2007 i.d.F. 07.07.2010](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-ws2010-2011.md) (Studiengang: `maschinenbau`)
 
 ### Fischer, Marcus (Dr.-Ing.)
 - **FAUdir:** [`e0a261db5d`](https://faudir.fau.de/public/person/e0a261db5d)
@@ -711,10 +666,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Betriebswirtschaftslehre, insbesondere Supply Chain Management
 - **Pflichtveranstaltungen (heuristisch):** 4
   - **"Hauptseminar / Fortgeschrittene Methoden der Managementforschung"** — Seminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **15 POs** (Studiengänge: `chemie-und-bioingenieurwesen`, `geographie-und-geowissenschaften`, `masterstudiengaenge`)
-      - [PDF vom 21.08.1990](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/sto-geographie.md)
+    - Pflicht in **13 POs** (Studiengänge: `masterstudiengaenge`)
       - [23. Februar 2010](../pruefungsordnungen/rw/wiso/masterstudiengaenge/1aes-20ma-management.md)
       - [5. August 2011](../pruefungsordnungen/rw/wiso/masterstudiengaenge/3aes-20ma-management.md)
+      - [25. Juli 2014](../pruefungsordnungen/rw/wiso/masterstudiengaenge/5aes-ma-management.md)
   - **"Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil)"** — Tutorium (Campo-Studiengang: (nicht im Katalog))
     - Pflicht in **51 POs** (Studiengänge: `bachelorstudiengaenge`, `maschinenbau`, `wiso`)
       - [25. Juli 2014](../pruefungsordnungen/rw/wiso/14aes-ba-wiwi.md)
@@ -737,7 +692,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1)"** — Übung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Fröba, Andreas Paul (Prof. Dr.-Ing. habil.)
@@ -765,25 +719,14 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - **"Pharmazeutische Biologie II (Pflanzliche Drogen)"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
 
-### Ganslandt, Thomas (Prof. Dr. med.)
-- **FAUdir:** [`729e8ebec9`](https://faudir.fau.de/public/person/729e8ebec9)
-- **Affiliation:** Professur für Medical Data Science
-- **Weitere Affiliationen:** Professur für Medical Data Science; Fakultätsverwaltung Medizinische Fakultät
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Wissensbasierte Systeme in der Medizin 1"** — Vorlesung mit Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [24. Oktober 2002](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/10aesa-pro-wirtschinf.md) (Studiengang: `diplomstudiengaenge-und-weiteres`)
-    - Pflicht laut: [PDF vom 05.09.1991 i.d.F. 17.02.2004](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/dpo-wirtschaftsinformatik.md) (Studiengang: `diplomstudiengaenge-und-weiteres`)
-
 ### Gerlach, Roman (PD Dr.)
 - **FAUdir:** [`f9a1e44090`](https://faudir.fau.de/public/person/f9a1e44090)
 - **Affiliation:** Medizinische Fakultät
 - **Weitere Affiliationen:** Mikrobiologisches Institut - Klinische Mikrobiologie, Immunologie und Hygiene; Lehrstuhl für Mikrobiologie und Infektionsimmunologie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `biologie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
 
 ### Gierke, Kaspar (Dr.)
 - **FAUdir:** [`1bc292bb79`](https://faudir.fau.de/public/person/1bc292bb79)
@@ -791,31 +734,15 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1)"** — Übung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
-
-### Girao Franquelim, Henri (Prof. Dr.)
-- **FAUdir:** [`5eedd86028`](https://faudir.fau.de/public/person/5eedd86028)
-- **Affiliation:** Professur für Biochemie
-- **Weitere Affiliationen:** Professur für Biochemie
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Einführung in die Biochemie für Naturwissenschaftler Teil2"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [PDF vom 03.08.2015](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1fachba-literatur-und-buch.md) (Studiengang: `ein-fach-bachelor`)
-    - Pflicht laut: [2 Fach BA Digitale Geistes- und Sozialwissenschaften 20180829 ÄS.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-digitale-geistes-und-sozialwissenschaften-20180829-aes.md) (Studiengang: `zwei-fach-bachelor`)
-    - Pflicht laut: [FPO 2-Fach BA DGSW 20080722 i.d.F. 20180829.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-2-fach-ba-dgsw-20080722-idf-20180829.md) (Studiengang: `zwei-fach-bachelor`)
 
 ### Gmeiner, Peter (Prof. Dr.)
 - **FAUdir:** [`a0c2ccc0a8`](https://faudir.fau.de/public/person/a0c2ccc0a8)
 - **Affiliation:** Lehrstuhl für Pharmazeutische Chemie
 - **Weitere Affiliationen:** Lehrstuhl für Pharmazeutische Chemie; Lehrstuhl für Pharmazeutische Chemie
-- **Pflichtveranstaltungen (heuristisch):** 2
+- **Pflichtveranstaltungen (heuristisch):** 1
   - **"Praktikum Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
-  - **"Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester)"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [PDF vom 28.11.2006 i.d.F. 29.09.2010](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science-ws2010-2011.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [PDF vom 28.11.2006 i.d.F. 15.09.2009](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [PDF vom 31.07.2002 i.d.F. 23.08.2013](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-august2013.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [PDF vom 31.07.2002 i.d.F. 01.02.2010](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie.md) (Studiengang: `chemie-und-pharmazie`)
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Golze, Karsten ()
 - **FAUdir:** [`9c4eb73cd0`](https://faudir.fau.de/public/person/9c4eb73cd0)
@@ -891,16 +818,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [23. Februar 2010](../pruefungsordnungen/rw/wiso/masterstudiengaenge/1aes-20ma-sozialoeko.md)
       - [31. Januar 2011](../pruefungsordnungen/rw/wiso/masterstudiengaenge/2aes-20ma-economics.md)
       - [24. Mai 2013](../pruefungsordnungen/rw/wiso/masterstudiengaenge/4aes-ma-economics.md)
-
-### Haffki, Marlies ()
-- **FAUdir:** [`35014fe5d4`](https://faudir.fau.de/public/person/35014fe5d4)
-- **Affiliation:** Lehrstuhl für Allgemeine Psychologie (Motivation, Emotion und Lernen)
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **24 POs** (Studiengänge: `ein-fach-bachelor`, `masterstudiengaenge-eigenstaendige-po-und-konsekutiv`)
-      - [4. Juni 2010](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/3aes-20ba-ma-20psychologie.md)
-      - [11. August 2010](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/4aes-20ba-ma-20psychologie.md)
-      - [24. August 2017](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/6aesa-ba-ma-psychologie.md)
 
 ### Hannig, Frank (PD Dr.-Ing.)
 - **FAUdir:** [`db83a1cc67`](https://faudir.fau.de/public/person/db83a1cc67)
@@ -1004,10 +921,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Orientalische Philologie und Islamwissenschaft
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `biologie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
 
 ### Hennig, Frederik ()
 - **FAUdir:** [`6250833d3a`](https://faudir.fau.de/public/person/6250833d3a)
@@ -1035,17 +950,17 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Entwicklungsbiologie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **14 POs** (Studiengänge: `biologie`, `chemie-und-pharmazie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
-      - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BSc-MSc ILS FPO BAMA ILS 20230822 i.d.F. 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822-idf-20260331.md) (Studiengang: `biologie`)
+    - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
 
 ### Heydenreich, Aura (PD Dr.)
 - **FAUdir:** [`523e46b168`](https://faudir.fau.de/public/person/523e46b168)
 - **Affiliation:** Lehrstuhl für Neuere deutsche Literatur mit komparatistischem Schwerpunkt
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM)"** — Einführungskurs (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **24 POs** (Studiengänge: `deutsch`, `ein-fach-bachelor`, `elektrotechnik-elektronik-informationstechnik`, `masterstudiengaenge`, `rewi`, `theologie`, `zwei-fach-bachelor`)
+    - Pflicht in **22 POs** (Studiengänge: `deutsch`, `ein-fach-bachelor`, `masterstudiengaenge`, `theologie`, `zwei-fach-bachelor`)
       - [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20200203.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200203.md)
       - [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20200923.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200923.md)
       - [pdf vom 26.02.2009 i.d.F. 10.11.2016](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-nov2016.md)
@@ -1056,10 +971,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Wirtschaftsprivatrecht
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"International Business Law (FACT-Master SQ)"** — Vorlesung mit Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **44 POs** (Studiengänge: `bachelorstudiengaenge`, `maschinenbau`, `masterstudiengaenge`)
-      - [28. Juli 2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/3aes-ma-developeconominternstudies.md)
-      - [PDF vom 08.06.2010 i.d.F. 28.07.2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-developmenteconomicsinternstudies-juli2014.md)
-      - [MA DEIS FPODEIS 20100608 i.d.F. 20180221.pdf](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20180221.md)
+    - Pflicht in **35 POs** (Studiengänge: `bachelorstudiengaenge`, `masterstudiengaenge`)
+      - [BA Sozialökonomik FPO BA SozÖk 20170810 i.d.F. 20180801.pdf](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20180801.md)
+      - [BA Sozialökonomik FPO BA SozÖk 20170810 i.d.F. 20190220.pdf](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20190220.md)
+      - [BA Sozialökonomik FPO BA SozÖk 20170810 i.d.F. 20190806.pdf](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20190806.md)
 
 ### Hofmann, Florian (Dr.)
 - **FAUdir:** [`11c8753146`](https://faudir.fau.de/public/person/11c8753146)
@@ -1073,7 +988,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Physiologie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Grundlagen der Physiologie für Pharmazeuten"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **12 POs** (Studiengänge: `chemie-und-pharmazie`, `masterstudiengaenge`, `medizinische-fakultaet`, `zwei-fach-bachelor`)
+    - Pflicht in **6 POs** (Studiengänge: `medizinische-fakultaet`)
       - [22. Juli 2014](../pruefungsordnungen/medizinische-fakultaet/4aes-ba-ma-molekularemedizin.md)
       - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20240926.md)
       - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822.md)
@@ -1108,27 +1023,17 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - **"Praktikum Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
 
-### Imhof, Petra (Prof. Dr.)
-- **FAUdir:** [`dd5573dcc9`](https://faudir.fau.de/public/person/dd5573dcc9)
-- **Affiliation:** Professur für Computational Chemistry
-- **Weitere Affiliationen:** Professur für Computational Chemistry; Computer-Chemie-Centrum; Computer-Chemie-Centrum; FAU Competence Center Engineering of Advanced Materials (FAU EAM); Computational Advanced Materials and Processes (CAMP); FAU Profile Center New Materials and Processes (FAU NMP)
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Advanced Biomolecular Simulations (2V/1UE)"** — Vorlesung mit Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **8 POs** (Studiengänge: `medizinische-fakultaet`)
-      - [18. Februar 2016](../pruefungsordnungen/medizinische-fakultaet/5aes-ba-ma-molekulare-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210113.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210113.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210429.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210429.md)
-
 ### Ji, Zhengping ()
 - **FAUdir:** [`ba3baa4892`](https://faudir.fau.de/public/person/ba3baa4892)
 - **Affiliation:** Lehrstuhl für Dynamics, Control, Machine Learning and Numerics (Alexander von Humboldt-Professur)
 - **Weitere Affiliationen:** Sonderforschungsbereich/Transregio 154 Mathematische Modellierung, Simulation und Optimierung am Beispiel von Gasnetzwerken
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Mathematical Foundations of Control and Machine Learning"** — Vorlesung mit Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **24 POs** (Studiengänge: `bachelorstudiengaenge`, `elektrotechnik-elektronik-informationstechnik`, `mathematik`)
-      - [FPODataScience 20200820 i.d.F. 20210311.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210311.md)
-      - [FPODataScience 20200820 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210805.md)
-      - [FPODataScience 20200820 i.d.F. 20220328.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20220328.md)
+    - Pflicht laut: [FPODataScience 20200820 i.d.F. 20210311.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210311.md) (Studiengang: `mathematik`)
+    - Pflicht laut: [FPODataScience 20200820 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210805.md) (Studiengang: `mathematik`)
+    - Pflicht laut: [FPODataScience 20200820 i.d.F. 20220328.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20220328.md) (Studiengang: `mathematik`)
+    - Pflicht laut: [FPODataScience 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820.md) (Studiengang: `mathematik`)
+    - Pflicht laut: [FPODataScience 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md) (Studiengang: `mathematik`)
 
 ### Jiang, Shan ()
 - **FAUdir:** [`ebe5f57896`](https://faudir.fau.de/public/person/ebe5f57896)
@@ -1139,17 +1044,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [pdf vom 19.02.2009](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-eei.md)
       - [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20200203.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200203.md)
       - [pdf vom 26.02.2009 i.d.F. 16.01.2015](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-feb2015.md)
-
-### Jong, Moniek (Dr.)
-- **FAUdir:** [`27226adffa`](https://faudir.fau.de/public/person/27226adffa)
-- **Affiliation:** Lehrstuhl für Sustainability Transition Policy
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"European critical materials supply chains"** — Seminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [PDF vom 24.07.2009 i.d.F. 18.08.2017](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpo-ma-management-aug2017.md) (Studiengang: `masterstudiengaenge`)
-    - Pflicht laut: [FPOManagement 20090724 i.d.F. 20190205.pdf](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20190205.md) (Studiengang: `masterstudiengaenge`)
-    - Pflicht laut: [FPOManagement 20090724 i.d.F. 20191203.pdf](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20191203.md) (Studiengang: `masterstudiengaenge`)
-    - Pflicht laut: [FPOManagement 20090724 i.d.F. 20210812.pdf](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20210812.md) (Studiengang: `masterstudiengaenge`)
-- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Jung, Tobias ()
 - **FAUdir:** [`bc863bb1ff`](https://faudir.fau.de/public/person/bc863bb1ff)
@@ -1226,7 +1120,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - **"Traditionen und Transformationen von Erziehung und Bildung - kulturgeschichtliche Reflexionen"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [2-Fach-BA Pädagogik FPO Päd-Zwei-Fach 20250522.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-paedagogik-fpo-paed-zwei-fach-20250522.md) (Studiengang: `zwei-fach-bachelor`)
   - **"Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen)"** — Seminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [StuPO Medizin und Medizin ER-BT StuPOMed 20240904 i.d.F. 20250818.pdf](../pruefungsordnungen/medizinische-fakultaet/stupo-medizin-und-medizin-er-bt-stupomed-20240904-idf-20250818.md) (Studiengang: `medizinische-fakultaet`)
     - Pflicht laut: [FPOLitBuch 20260305.pdf](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md) (Studiengang: `ein-fach-bachelor`)
     - Pflicht laut: [POMAOTG 20260130.pdf](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/pomaotg-20260130.md) (Studiengang: `weiterbildungs-und-elitestudiengaenge-sowie-weitere`)
     - Pflicht laut: [2-Fach-BA Pädagogik FPO Päd-Zwei-Fach 20250522.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-paedagogik-fpo-paed-zwei-fach-20250522.md) (Studiengang: `zwei-fach-bachelor`)
@@ -1247,10 +1140,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Paläoumwelt
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"[CE-V3] Laboratory Methods in Paleoenvironmental research"** — Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **8 POs** (Studiengänge: `masterstudiengaenge`)
+    - Pflicht in **9 POs** (Studiengänge: `masterstudiengaenge`, `medizinische-fakultaet`)
+      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711.md)
       - [28. Juli 2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/3aes-ma-developeconominternstudies.md)
       - [PDF vom 08.06.2010 i.d.F. 28.07.2014](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-developmenteconomicsinternstudies-juli2014.md)
-      - [MA DEIS FPODEIS 20100608 i.d.F. 20180221.pdf](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20180221.md)
 
 ### Kopp, Sebastian-Paul (Dr.-Ing.)
 - **FAUdir:** [`a9c6952bbe`](https://faudir.fau.de/public/person/a9c6952bbe)
@@ -1267,10 +1160,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Professur für Lokalisierungssysteme
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `biologie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
 
 ### Kost, Benedikt (Prof. Dr.)
 - **FAUdir:** [`22924e288d`](https://faudir.fau.de/public/person/22924e288d)
@@ -1280,7 +1171,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - **"Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1)"** — Übung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Krappmann, Sven (Prof. Dr.)
@@ -1358,7 +1248,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Allgemeinmedizin; Lehrstuhl für Allgemeinmedizin; Fakultätsverwaltung Medizinische Fakultät; Allgemeinmedizinisches Institut
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"MED89471: Doc and Order - Recht im klinischen Alltag"** — Seminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **21 POs** (Studiengänge: `ein-fach-bachelor`, `masterstudiengaenge-eigenstaendige-po-und-konsekutiv`, `medizinische-fakultaet`, `physik`)
+    - Pflicht in **10 POs** (Studiengänge: `medizinische-fakultaet`)
       - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
       - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
       - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
@@ -1370,10 +1260,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Angeborene Immunität und Pathogenerkennung; Fakultätsverwaltung Medizinische Fakultät
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `biologie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
 
 ### Lehner, Susanne (Prof. Dr.-Ing.)
 - **FAUdir:** [`1d8ad74bc8`](https://faudir.fau.de/public/person/1d8ad74bc8)
@@ -1393,7 +1281,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Didaktik der deutschen Sprache und Literatur
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien"** — Seminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **43 POs** (Studiengänge: `20deutsch`, `berufspaedagogik-und-zusatzstudien`, `biologie`, `chemie-und-bioingenieurwesen`, `deutsch`, `diplomstudiengaenge-und-weiteres`, `elektrotechnik-elektronik-informationstechnik`, `informatik`…)
+    - Pflicht in **27 POs** (Studiengänge: `20deutsch`, `berufspaedagogik-und-zusatzstudien`, `deutsch`, `theologie`, `zwei-fach-bachelor`)
       - [BMPO BP-T 20240411 i.d.F. 20250325.pdf](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/bmpo-bp-t-20240411-idf-20250325.md)
       - [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20200203.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200203.md)
       - [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20200923.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200923.md)
@@ -1404,7 +1292,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Geschichte der Medizin; Institut für Geschichte und Ethik der Medizin; Fakultätsverwaltung Medizinische Fakultät
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2"** — Seminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **21 POs** (Studiengänge: `diplomstudiengaenge-und-weiteres`, `ein-fach-bachelor`, `masterstudiengaenge`, `masterstudiengaenge-eigenstaendige-po-und-konsekutiv`, `medizinische-fakultaet`, `theologie`)
+    - Pflicht in **15 POs** (Studiengänge: `ein-fach-bachelor`, `masterstudiengaenge`, `masterstudiengaenge-eigenstaendige-po-und-konsekutiv`, `medizinische-fakultaet`, `theologie`)
       - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
       - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
       - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
@@ -1420,17 +1308,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [22. Juli 2014](../pruefungsordnungen/medizinische-fakultaet/4aes-ba-ma-molekularemedizin.md)
       - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20240926.md)
       - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822.md)
-
-### Lindlein, Norbert (apl. Prof. Dr.)
-- **FAUdir:** [`f99bb03e8c`](https://faudir.fau.de/public/person/f99bb03e8c)
-- **Affiliation:** Naturwissenschaftliche Fakultät
-- **Weitere Affiliationen:** Lehrstuhl für Experimentalphysik; FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ)
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Experimentalphysik für Naturwissenschaftler II"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [2 Fach BA Digitale Geistes- und Sozialwissenschaften 20180829 ÄS.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-digitale-geistes-und-sozialwissenschaften-20180829-aes.md) (Studiengang: `zwei-fach-bachelor`)
-    - Pflicht laut: [FPO 2-Fach BA DGSW 20080722 i.d.F. 20180829.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-2-fach-ba-dgsw-20080722-idf-20180829.md) (Studiengang: `zwei-fach-bachelor`)
-    - Pflicht laut: [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md) (Studiengang: `informatik`)
-    - Pflicht laut: [BSc-MSc Computational Engineering FPOCE 20250604.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20250604.md) (Studiengang: `informatik`)
 
 ### Linz, Bodo (Dr.)
 - **FAUdir:** [`1a67673e1e`](https://faudir.fau.de/public/person/1a67673e1e)
@@ -1512,10 +1389,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Medizinische Mikrobiologie und Infektionsimmunologie; Fakultätsverwaltung Medizinische Fakultät
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `biologie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
 
 ### May, Isabelle (Dr.)
 - **FAUdir:** [`32e70aad65`](https://faudir.fau.de/public/person/32e70aad65)
@@ -1555,7 +1430,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Didaktik des Deutschen als Zweitsprache
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache"** — Seminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **57 POs** (Studiengänge: `5aesa`, `artificial-intelligence-in-biomedical-engineering`, `berufspaedagogik-und-zusatzstudien`, `biologie`, `diplomstudiengaenge-und-weiteres`, `ein-fach-bachelor`, `elektrotechnik-elektronik-informationstechnik`, `ev`…)
+    - Pflicht in **58 POs** (Studiengänge: `5aesa`, `artificial-intelligence-in-biomedical-engineering`, `berufspaedagogik-und-zusatzstudien`, `biologie`, `diplomstudiengaenge-und-weiteres`, `ein-fach-bachelor`, `elektrotechnik-elektronik-informationstechnik`, `ev`…)
       - [BMPO BP-T 20240411 i.d.F. 20250325.pdf](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/bmpo-bp-t-20240411-idf-20250325.md)
       - [14. Dezember 2017](../pruefungsordnungen/lehramt/lehramtsfaecher/5aesa-la-ev-religion.md)
       - [LA Biologie FPO LA Bio 20230822 i.d.F. 20250702.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-biologie-fpo-la-bio-20230822-idf-20250702.md)
@@ -1594,7 +1469,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Physiologie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Grundlagen der Physiologie für Pharmazeuten"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **12 POs** (Studiengänge: `chemie-und-pharmazie`, `masterstudiengaenge`, `medizinische-fakultaet`, `zwei-fach-bachelor`)
+    - Pflicht in **6 POs** (Studiengänge: `medizinische-fakultaet`)
       - [22. Juli 2014](../pruefungsordnungen/medizinische-fakultaet/4aes-ba-ma-molekularemedizin.md)
       - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20240926.md)
       - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822.md)
@@ -1608,7 +1483,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - **"Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1)"** — Übung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
 
 ### Müller, Ramona ()
 - **FAUdir:** [`8e3d1a72d2`](https://faudir.fau.de/public/person/8e3d1a72d2)
@@ -1633,7 +1507,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Politik und Gesellschaft des Nahen Ostens
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum"** — Hauptseminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **35 POs** (Studiengänge: `bachelorstudiengaenge`, `diplomstudiengaenge-und-weiteres`, `ein-fach-bachelor`, `masterstudiengaenge`, `rewi`, `theologie`, `wiso`, `zwei-fach-bachelor`)
+    - Pflicht in **6 POs** (Studiengänge: `ein-fach-bachelor`, `masterstudiengaenge`, `theologie`, `zwei-fach-bachelor`)
       - [FPOLitBuch 20260305.pdf](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md)
       - [PDF vom 08.06.2010](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuo-pro-20ma-20nahoststudien.md)
       - [PDF vom 08.06.2010 i.d.F. 05.11.2010](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-nahoststudien.md)
@@ -1644,10 +1518,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Genetik
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **14 POs** (Studiengänge: `biologie`, `chemie-und-pharmazie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
-      - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BSc-MSc ILS FPO BAMA ILS 20230822 i.d.F. 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822-idf-20260331.md) (Studiengang: `biologie`)
+    - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Nitschke, Lars (Prof. Dr.)
@@ -1656,22 +1530,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Genetik; Department Biologie, Serviceeinrichtungen; Naturwissenschaftliche Fakultät, Fakultätsvorstand
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **14 POs** (Studiengänge: `biologie`, `chemie-und-pharmazie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
-      - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BSc-MSc ILS FPO BAMA ILS 20230822 i.d.F. 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822-idf-20260331.md) (Studiengang: `biologie`)
+    - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
 - *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
-
-### Ostgathe, Christoph (Prof. Dr.)
-- **FAUdir:** [`06801bafe6`](https://faudir.fau.de/public/person/06801bafe6)
-- **Affiliation:** Professur für Palliativmedizin
-- **Weitere Affiliationen:** Professur für Palliativmedizin; Fakultätsverwaltung Medizinische Fakultät; Abteilung für Palliativmedizin
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"MED47251 Kommunikation im ärztlichen Beruf"** — Seminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [FPOilmmune 20260213.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20260213.md) (Studiengang: `biologie`)
-    - Pflicht laut: [POMAHR 20260115.pdf](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pomahr-20260115.md) (Studiengang: `masterstudiengaenge-eigenstaendige-po-und-konsekutiv`)
-    - Pflicht laut: [POMAOTG 20260130.pdf](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/pomaotg-20260130.md) (Studiengang: `weiterbildungs-und-elitestudiengaenge-sowie-weitere`)
-- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Ott, Tabea (Ass.-Prof. Dr.)
 - **FAUdir:** [`bdf233ecf4`](https://faudir.fau.de/public/person/bdf233ecf4)
@@ -1688,7 +1551,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Germanistische Sprachwissenschaft
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen)"** — Hauptseminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **59 POs** (Studiengänge: `berufspaedagogik-und-zusatzstudien`, `biologie`, `chemie-und-bioingenieurwesen`, `diplomstudiengaenge-und-weiteres`, `ein-fach-bachelor`, `elektrotechnik-elektronik-informationstechnik`, `informatik`, `lehramt`…)
+    - Pflicht in **60 POs** (Studiengänge: `berufspaedagogik-und-zusatzstudien`, `biologie`, `chemie-und-bioingenieurwesen`, `diplomstudiengaenge-und-weiteres`, `ein-fach-bachelor`, `elektrotechnik-elektronik-informationstechnik`, `informatik`, `lehramt`…)
       - [BMPO BP-T 20240411 i.d.F. 20250325.pdf](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/bmpo-bp-t-20240411-idf-20250325.md)
       - [pdf vom 23.02.2009 i.d.F. 13.05.2014](../pruefungsordnungen/lehramt/lapo-lehramt-mai2014.md)
       - [21. Oktober 2010](../pruefungsordnungen/lehramt/lehramtsfaecher/2aes-20la-mathematik.md)
@@ -1824,7 +1687,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - **"Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1)"** — Übung (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
-    - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
 
 ### Riehle, Dirk (Prof. Dr.)
 - **FAUdir:** [`04de664204`](https://faudir.fau.de/public/person/04de664204)
@@ -1875,10 +1737,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Romanistik, insbesondere italienische Literatur- und Kulturwissenschaft im europäischen Kontext
 - **Pflichtveranstaltungen (heuristisch):** 3
   - **"Mittelseminar italienische Literaturwissenschaft"** — Mittelseminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **12 POs** (Studiengänge: `ein-fach-bachelor`, `modul-und-zusatzstudien`, `theologie`, `weiterbildungs-und-elitestudiengaenge-sowie-weitere`, `zwei-fach-bachelor`)
-      - [PDF vom 25.09.1980 i.d.F. 28.12.2004](../pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/zwischenpruefungso.md)
+    - Pflicht in **11 POs** (Studiengänge: `ein-fach-bachelor`, `theologie`, `weiterbildungs-und-elitestudiengaenge-sowie-weitere`, `zwei-fach-bachelor`)
       - [PDF vom 03.08.2015](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1fachba-literatur-und-buch.md)
       - [FPOLitBuch 20150803 i.d.F. 20190906.pdf](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20150803-idf-20190906.md)
+      - [FPOLitBuch 20260305.pdf](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md)
   - **"Literatur, Kunst und Kulturgeschichte Italiens"** — Seminar (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPOKunstPäd 20250320.pdf](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpokunstpaed-20250320.md) (Studiengang: `masterstudiengaenge`)
     - Pflicht laut: [2-Fach-BA Kunstgeschichte FPO BA KuGe 20071005 i.d.F. 20200813.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-kunstgeschichte-fpo-ba-kuge-20071005-idf-20200813.md) (Studiengang: `zwei-fach-bachelor`)
@@ -1895,10 +1757,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Bürgerliches Recht, Internationales Privatrecht und Rechtsvergleichung; FAU Forschungszentrum für Islam und Recht in Europa (FAU EZIRE); Forschungsstelle für religiöse Vielfalt
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre"** — Seminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **11 POs** (Studiengänge: `diplomstudiengaenge-und-weiteres`, `rewi`, `wiso`, `zwei-fach-bachelor`)
-      - [2-Fach BA Soziologie FPOSoz Zwei-Fach 20071005 i.d.F. 20190806.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20190806.md)
-      - [2-Fach BA Soziologie FPOSoz Zwei-Fach 20071005 i.d.F. 20200818.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20200818.md)
-      - [2-Fach BA Soziologie FPOSoz Zwei-Fach 20200818 ÄS.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20200818-aes.md)
+    - Pflicht in **7 POs** (Studiengänge: `diplomstudiengaenge-und-weiteres`, `rewi`, `wiso`)
+      - [PDF vom 13.02.2001 i.d.F. 03.09.2009](../pruefungsordnungen/rw/rewi/dpo-intwirtschaftsrecht.md)
+      - [StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260305.pdf](../pruefungsordnungen/rw/rewi/stupo-rechtswissenschaft-stupo-jura-20240617-idf-20260305.md)
+      - [25. Juli 2014](../pruefungsordnungen/rw/wiso/14aes-ba-wiwi.md)
 - *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Sauer, Susanne (apl. Prof. Dr.)
@@ -1907,7 +1769,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Systemische Neurophysiologie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Grundlagen der Physiologie für Pharmazeuten"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **12 POs** (Studiengänge: `chemie-und-pharmazie`, `masterstudiengaenge`, `medizinische-fakultaet`, `zwei-fach-bachelor`)
+    - Pflicht in **6 POs** (Studiengänge: `medizinische-fakultaet`)
       - [22. Juli 2014](../pruefungsordnungen/medizinische-fakultaet/4aes-ba-ma-molekularemedizin.md)
       - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20240926.md)
       - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822.md)
@@ -2064,10 +1926,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Rechtstheorie und Rechtsphilosophie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Rechtstheorie und juristische Methodenlehre"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `lehramt`, `mathematik`, `zwei-fach-bachelor`)
-      - [pdf vom 23.02.2009 i.d.F. 28.03.2011](../pruefungsordnungen/lehramt/lapo-lehramt-maerz2011.md)
-      - [pdf vom 23.02.2009 i.d.F. 14.03.2012](../pruefungsordnungen/lehramt/lapo-lehramt-maerz2012.md)
-      - [pdf vom 23.02.2009 i.d.F. 22.11.2013](../pruefungsordnungen/lehramt/lapo-lehramt-nov2013.md)
+    - Pflicht laut: [pdf vom 23.02.2009 i.d.F. 28.03.2011](../pruefungsordnungen/lehramt/lapo-lehramt-maerz2011.md) (Studiengang: `lehramt`)
+    - Pflicht laut: [pdf vom 23.02.2009 i.d.F. 14.03.2012](../pruefungsordnungen/lehramt/lapo-lehramt-maerz2012.md) (Studiengang: `lehramt`)
+    - Pflicht laut: [pdf vom 23.02.2009 i.d.F. 22.11.2013](../pruefungsordnungen/lehramt/lapo-lehramt-nov2013.md) (Studiengang: `lehramt`)
+    - Pflicht laut: [pdf vom 23.02.2009 i.d.F. 15.09.2011](../pruefungsordnungen/lehramt/lapo-lehramt-sept2011.md) (Studiengang: `lehramt`)
+    - Pflicht laut: [pdf vom 23.02.2009 i.d.F. 01.12.2009](../pruefungsordnungen/lehramt/lapo-lehramt.md) (Studiengang: `lehramt`)
 - *(zusätzlich 3 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Sieh, Volkmar (Dr.-Ing.)
@@ -2158,10 +2021,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
     - Pflicht laut: [(PDF vom 28.11.2006](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/pro-bama-chemmolsc.md) (Studiengang: `chemie-und-pharmazie`)
     - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
   - **"Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I"** — Hauptseminar (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **12 POs** (Studiengänge: `berufspaedagogik-und-zusatzstudien`, `chemie-und-pharmazie`, `masterstudiengaenge`, `medizinische-fakultaet`, `zwei-fach-bachelor`)
-      - [BMPO BP-T 20240411 i.d.F. 20250325.pdf](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/bmpo-bp-t-20240411-idf-20250325.md)
-      - [22. Juli 2014](../pruefungsordnungen/medizinische-fakultaet/4aes-ba-ma-molekularemedizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20240926.md)
+    - Pflicht laut: [BMPO BP-T 20240411 i.d.F. 20250325.pdf](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/bmpo-bp-t-20240411-idf-20250325.md) (Studiengang: `berufspaedagogik-und-zusatzstudien`)
+    - Pflicht laut: [FPO BAMA Chemie 20200806.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-chemie-20200806.md) (Studiengang: `chemie-und-pharmazie`)
+    - Pflicht laut: [FPO BAMA Molecular Science 20200806.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-molecular-science-20200806.md) (Studiengang: `chemie-und-pharmazie`)
+    - Pflicht laut: [(PDF vom 28.11.2006](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/pro-bama-chemmolsc.md) (Studiengang: `chemie-und-pharmazie`)
+    - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Uder, Michael (Prof. Dr.)
@@ -2207,10 +2071,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Mikrobiologie und Infektionsimmunologie
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **13 POs** (Studiengänge: `biologie`, `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+    - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
+    - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
 
 ### Vanselow, Kim (PD Dr.)
 - **FAUdir:** [`90cf7e4e7a`](https://faudir.fau.de/public/person/90cf7e4e7a)
@@ -2219,17 +2081,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Hauptseminar Karteninterpretation"** — Hauptseminar (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md) (Studiengang: `chemie-und-bioingenieurwesen`)
-
-### Vera González, Julio (Prof. Dr.)
-- **FAUdir:** [`3f1e17b2c8`](https://faudir.fau.de/public/person/3f1e17b2c8)
-- **Affiliation:** Professur für Tumorimmunologie (Schwerpunkt Systembiologie)
-- **Weitere Affiliationen:** Professur für Tumorimmunologie (Schwerpunkt Systembiologie); Fakultätsverwaltung Medizinische Fakultät
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **8 POs** (Studiengänge: `medizinische-fakultaet`)
-      - [18. Februar 2016](../pruefungsordnungen/medizinische-fakultaet/5aes-ba-ma-molekulare-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210113.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210113.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210429.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210429.md)
 
 ### Vetter, Thomas ()
 - **FAUdir:** [`eb6fc6883c`](https://faudir.fau.de/public/person/eb6fc6883c)
@@ -2308,17 +2159,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [PDF vom 07.09.2007 i.d.F. 08.03.2016](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/po-bachelor-ma-physik-ws-maerz2016.md)
       - [StuO-PO BSc Physik-MSc Physics 20230731 i.d.F. 20240807.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20230731-idf-20240807.md)
 
-### Weikert, Dorothée (Dr.)
-- **FAUdir:** [`6cdff740ed`](https://faudir.fau.de/public/person/6cdff740ed)
-- **Affiliation:** Lehrstuhl für Pharmazeutische Chemie
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester)"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht laut: [PDF vom 28.11.2006 i.d.F. 29.09.2010](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science-ws2010-2011.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [PDF vom 28.11.2006 i.d.F. 15.09.2009](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [PDF vom 31.07.2002 i.d.F. 23.08.2013](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-august2013.md) (Studiengang: `chemie-und-pharmazie`)
-    - Pflicht laut: [PDF vom 31.07.2002 i.d.F. 01.02.2010](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie.md) (Studiengang: `chemie-und-pharmazie`)
-
 ### Weise, Cornelia (Prof. Dr.)
 - **FAUdir:** [`9cdb2c382a`](https://faudir.fau.de/public/person/9cdb2c382a)
 - **Affiliation:** Lehrstuhl für Klinische Psychologie und Behavioral Health Technology
@@ -2376,27 +2216,16 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
     - Pflicht laut: [PDF vom 27. Juli 2012](../pruefungsordnungen/philosophische-fakultaet/theologie/stuo-magister-20theologiae.md) (Studiengang: `theologie`)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
-### Wiesmann da Silva Reis, André (Prof. Dr.)
-- **FAUdir:** [`d33bc58ba3`](https://faudir.fau.de/public/person/d33bc58ba3)
-- **Affiliation:** Lehrstuhl für Humangenetik
-- **Weitere Affiliationen:** Lehrstuhl für Humangenetik; Fakultätsverwaltung Medizinische Fakultät; Humangenetisches Institut
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **8 POs** (Studiengänge: `medizinische-fakultaet`)
-      - [18. Februar 2016](../pruefungsordnungen/medizinische-fakultaet/5aes-ba-ma-molekulare-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210113.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210113.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210429.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210429.md)
-
 ### Wilbers, Karl (Prof. Dr.)
 - **FAUdir:** [`94f9099243`](https://faudir.fau.de/public/person/94f9099243)
 - **Affiliation:** Lehrstuhl für Wirtschaftspädagogik und Personalentwicklung
 - **Weitere Affiliationen:** Lehrstuhl für Wirtschaftspädagogik und Personalentwicklung; Lehrstuhl für Wirtschaftspädagogik und Personalentwicklung; Fachbereich Wirtschafts- und Sozialwissenschaften, Studiendekanat
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **33 POs** (Studiengänge: `bachelorstudiengaenge`, `diplomstudiengaenge-und-weiteres`, `masterstudiengaenge`, `wiso`, `zwei-fach-bachelor`)
-      - [FPOKunstPäd 20250320.pdf](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpokunstpaed-20250320.md)
-      - [2-Fach-BA Germanistik FPO BA Germ 20071004 i.d.F. 20220914.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20071004-idf-20220914.md)
-      - [2-Fach-BA Germanistik FPO BA Germ 20260115.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20260115.md)
+    - Pflicht in **28 POs** (Studiengänge: `bachelorstudiengaenge`, `diplomstudiengaenge-und-weiteres`, `wiso`)
+      - [25. Juli 2014](../pruefungsordnungen/rw/wiso/14aes-ba-wiwi.md)
+      - [26. Juni 2007](../pruefungsordnungen/rw/wiso/1aesa-ba-wiwi.md)
+      - [BA Wirtschaftswissenschaften FPO BA WiWi 20170810 i.d.F. 20190222.pdf](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20190222.md)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Wild, Paul (Dr.-Ing.)
@@ -2443,17 +2272,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [PDF vom 20.07.2009 i.d.F. 10.01.2014](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fachstuopro-ma-economicsjanuar2014.md)
       - [PDF vom 20.07.2009 i.d.F. 24.05.2013](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fachstuopro-ma-economicsmai2013.md)
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
-
-### Winterpacht, Andreas (Prof. Dr.)
-- **FAUdir:** [`dc283c4dfa`](https://faudir.fau.de/public/person/dc283c4dfa)
-- **Affiliation:** Professur für Humangenetik
-- **Weitere Affiliationen:** Professur für Humangenetik; Professur für Humangenetik; Professur für Humangenetik; Lehrstuhl für Humangenetik; Fakultätsverwaltung Medizinische Fakultät
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **8 POs** (Studiengänge: `medizinische-fakultaet`)
-      - [18. Februar 2016](../pruefungsordnungen/medizinische-fakultaet/5aes-ba-ma-molekulare-medizin.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210113.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210113.md)
-      - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210429.pdf](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210429.md)
 
 ### Wrede, Matthias (Prof. Dr.)
 - **FAUdir:** [`9d179dd9a0`](https://faudir.fau.de/public/person/9d179dd9a0)
@@ -2533,10 +2351,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Dynamics, Control, Machine Learning and Numerics (Alexander von Humboldt-Professur); FAU Research Center for Mathematics of Data (FAU MoD)
 - **Pflichtveranstaltungen (heuristisch):** 1
   - **"Mathematical Foundations of Control and Machine Learning"** — Vorlesung mit Übung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **24 POs** (Studiengänge: `bachelorstudiengaenge`, `elektrotechnik-elektronik-informationstechnik`, `mathematik`)
-      - [FPODataScience 20200820 i.d.F. 20210311.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210311.md)
-      - [FPODataScience 20200820 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210805.md)
-      - [FPODataScience 20200820 i.d.F. 20220328.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20220328.md)
+    - Pflicht laut: [FPODataScience 20200820 i.d.F. 20210311.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210311.md) (Studiengang: `mathematik`)
+    - Pflicht laut: [FPODataScience 20200820 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210805.md) (Studiengang: `mathematik`)
+    - Pflicht laut: [FPODataScience 20200820 i.d.F. 20220328.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20220328.md) (Studiengang: `mathematik`)
+    - Pflicht laut: [FPODataScience 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820.md) (Studiengang: `mathematik`)
+    - Pflicht laut: [FPODataScience 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md) (Studiengang: `mathematik`)
 
 ## Rang Junior
 
