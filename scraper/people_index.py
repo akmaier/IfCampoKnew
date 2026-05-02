@@ -171,8 +171,17 @@ def collect_people_for_period(
     for c in courses.get("courses", []):
         uid = int(c["unit_id"])
         program = unit_to_program.get(uid)
-        if not program:
-            continue
+        # Sweep-only courses (Tagesaktuelle-Veranstaltungen) lack a catalogue
+        # parent — keep them with synthetic program info so their instructors
+        # don't get dropped from the people-index.
+        if program is None:
+            program_name = "(nicht im Katalog auf Tiefe 4)"
+            program_segment = ""
+            program_node_id = 0
+        else:
+            program_name = program["name"]
+            program_segment = program["segment"]
+            program_node_id = int(program["segment"].split(":", 1)[1])
         names: set[str] = set()
         # Each raw instructor string may be a concatenation of several
         # persons (parser-bug history) — split first.
@@ -197,9 +206,9 @@ def collect_people_for_period(
                     "course_title": c.get("title", ""),
                     "course_type": c.get("course_type") or "",
                     "course_unit_id": uid,
-                    "program_name": program["name"],
-                    "program_segment": program["segment"],
-                    "program_node_id": int(program["segment"].split(":", 1)[1]),
+                    "program_name": program_name,
+                    "program_segment": program_segment,
+                    "program_node_id": program_node_id,
                 }
             )
     return out, period_slug, period_name

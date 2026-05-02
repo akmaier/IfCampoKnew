@@ -176,10 +176,10 @@ def match_courses_to_pflicht_text(
     """Courses whose title shares ≥ ``min_overlap`` ≥5-char non-noise tokens
     with the captured Pflicht text **and** at least covers half the title.
 
-    If ``program_slug_hint`` is given, only courses whose Campo program
-    matches that hint (substring on the slugified program name) are
-    considered — this stops a Lehramt-Mathe PO from matching every random
-    course at FAU.
+    If ``program_slug_hint`` is given, courses whose program *is* known and
+    doesn't match the hint are dropped; courses **without** known program
+    info (sweep-only) stay in the candidate pool — token-overlap is the
+    only gate for them.
     """
     pf_lower = pflicht_text.lower()
     matched: list[tuple[int, dict]] = []
@@ -190,9 +190,10 @@ def match_courses_to_pflicht_text(
             continue
         if program_slug_hint:
             prog_name = c.get("program_name", "").lower()
-            prog_slug = re.sub(r"[^a-z0-9]+", "-", prog_name)
-            if program_slug_hint not in prog_slug:
-                continue
+            if prog_name:
+                prog_slug = re.sub(r"[^a-z0-9]+", "-", prog_name)
+                if program_slug_hint not in prog_slug:
+                    continue
         overlap = sum(1 for t in tokens if t in pf_lower)
         if overlap < min_overlap:
             continue
@@ -238,15 +239,15 @@ def match_courses_to_module_names(
     precision tight.
     """
     matched: list[tuple[int, dict]] = []
-    course_pool = courses
     if program_slug_hint:
-        program_slug_hint = program_slug_hint.lower()
+        h = program_slug_hint.lower()
         course_pool = [
             c for c in courses
-            if program_slug_hint in re.sub(
-                r"[^a-z0-9]+", "-", c.get("program_name", "").lower()
-            )
+            if not c.get("program_name")
+            or h in re.sub(r"[^a-z0-9]+", "-", c["program_name"].lower())
         ]
+    else:
+        course_pool = courses
     for module_name in module_names:
         mod_tokens = _course_tokens(module_name)
         if len(mod_tokens) < 2:
@@ -967,29 +968,48 @@ def main(argv: Iterable[str] | None = None) -> int:
     period_name = snapshot.get("periodName", f"period-{args.period}")
     period_slug = f"{args.period}-{slugify(period_name)}"
 
-    # Build per-course metadata (title + program info)
+    # Build per-course metadata (title + program info if available).
+    # Courses NOT in the catalogue tree (e.g. those collected only by the
+    # Tagesaktuelle-sweep) keep empty program info; the matchers below
+    # have a special case to include them when no program scope filter
+    # would otherwise let them in.
     by_segment = {n["segment"]: n for n in snapshot["nodes"]}
+    uid_to_program: dict[int, dict] = {}
+    for n in snapshot["nodes"]:
+        uid = n.get("unitId")
+        if uid and len(n["path"]) >= 3:
+            program = by_segment.get(n["path"][2])
+            if program:
+                uid_to_program[int(uid)] = program
+
     courses_with_meta: list[dict] = []
+    courses_without_program = 0
     for c in courses_data.get("courses", []):
         uid = int(c["unit_id"])
-        # find the catalog node matching this unit_id (look it up via path)
-        program: dict | None = None
-        for n in snapshot["nodes"]:
-            if n.get("unitId") == uid and len(n["path"]) >= 3:
-                program = by_segment.get(n["path"][2])
-                break
-        if program is None:
-            continue
-        program_node_id = int(program["segment"].split(":", 1)[1])
-        rel = (
-            f"../{period_slug}/{slugify(program['name'])[:88]}-{program_node_id}.md"
-        )
-        courses_with_meta.append({**c,
-                                  "program_name": program["name"],
-                                  "program_segment": program["segment"],
-                                  "program_rel_path": rel})
+        program = uid_to_program.get(uid)
+        if program is not None:
+            program_node_id = int(program["segment"].split(":", 1)[1])
+            rel = (
+                f"../{period_slug}/{slugify(program['name'])[:88]}-{program_node_id}.md"
+            )
+            courses_with_meta.append(
+                {**c,
+                 "program_name": program["name"],
+                 "program_segment": program["segment"],
+                 "program_rel_path": rel}
+            )
+        else:
+            courses_without_program += 1
+            courses_with_meta.append(
+                {**c, "program_name": "", "program_segment": "", "program_rel_path": ""}
+            )
 
-    log.info("ingested %d courses with program info", len(courses_with_meta))
+    log.info(
+        "ingested %d courses (%d with catalogue program, %d sweep-only)",
+        len(courses_with_meta),
+        len(courses_with_meta) - courses_without_program,
+        courses_without_program,
+    )
 
     po_root = args.data / "pruefungsordnungen"
     if not po_root.is_dir():

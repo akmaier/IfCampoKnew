@@ -74,12 +74,73 @@ def _daterange(start: _dt.date, end_inclusive: _dt.date) -> Iterable[_dt.date]:
         cur += one
 
 
+_RESULT_COUNT_RE = re.compile(r"(\d+)\s+(?:Ergebnisse|Treffer|Eintr[äa]ge)", re.IGNORECASE)
+_HIDDEN_INPUT_RE = re.compile(
+    r'<input[^>]*\btype="hidden"[^>]*\bname="(?P<name>[^"]+)"[^>]*\bvalue="(?P<value>[^"]*)"',
+    re.IGNORECASE,
+)
+_NUMROWS_INPUT_RE = re.compile(
+    r'\bname="(?P<name>[^"]*Navi2NumRowsInput[^"]*)"', re.IGNORECASE
+)
+_NUMROWS_REFRESH_RE = re.compile(
+    r'\bname="(?P<name>[^"]*Navi2NumRowsRefresh[^"]*)"', re.IGNORECASE
+)
+_FORM_ACTION_RE = re.compile(
+    r'<form\b[^>]*\bid="showEventsAndExaminationsOnDateForm"[^>]*\baction="(?P<action>[^"]+)"',
+    re.IGNORECASE,
+)
+
+
+def _post_with_rows(client: CampoClient, day_url: str, day_html: str, *, rows: int = 300) -> str:
+    """POST the day form with the rows-per-page set to ``rows`` and return
+    the new HTML. Returns the original HTML if the form can't be located."""
+    import html as _html
+    import urllib.parse
+
+    action_m = _FORM_ACTION_RE.search(day_html)
+    rows_m = _NUMROWS_INPUT_RE.search(day_html)
+    refresh_m = _NUMROWS_REFRESH_RE.search(day_html)
+    if not (action_m and rows_m and refresh_m):
+        log.debug("rows-per-page form fields not found — skip POST")
+        return day_html
+
+    action = _html.unescape(action_m.group("action"))
+    if not action.startswith("http"):
+        action = "https://www.campo.fau.de" + action
+
+    fields: list[tuple[str, str]] = []
+    for m in _HIDDEN_INPUT_RE.finditer(day_html):
+        fields.append((m.group("name"), _html.unescape(m.group("value"))))
+    fields.append((rows_m.group("name"), str(rows)))
+    fields.append((refresh_m.group("name"), refresh_m.group("name")))
+
+    body = urllib.parse.urlencode(fields, encoding="utf-8")
+    # CampoClient is GET-only; reach through to its session for POST.
+    sess = client.session
+    sess.headers.update(
+        {"Content-Type": "application/x-www-form-urlencoded", "Referer": day_url}
+    )
+    r = sess.post(action, data=body, timeout=client.timeout)
+    r.raise_for_status()
+    sess.headers.pop("Content-Type", None)
+    return r.text
+
+
 def fetch_one_day(
-    client: CampoClient, day: _dt.date, *, expected_period: int | None = None
+    client: CampoClient, day: _dt.date, *, expected_period: int | None = None,
+    rows_per_page: int = 300,
 ) -> dict[int, str]:
-    """Fetch one day, return ``{unit_id: first-seen-title}``."""
-    url = DAY_URL_TPL.format(date=day.isoformat())
-    r = client.get(url)
+    """Fetch one day, return ``{unit_id: first-seen-title}``.
+
+    Note: a JSF rows-per-page POST was tried — it actually *reduced* the
+    visible row count (Campo's flow appears to lose state on the POST).
+    Default GET returns ~250 raw appointment-rows per typical day, which
+    dedupe to ~75-80 unique unitIds. Block seminars and courses without
+    semesterwide appointments don't appear in this view at all — so the
+    sweep is a *complement* to the catalogue walk, not a replacement.
+    """
+    day_url = DAY_URL_TPL.format(date=day.isoformat())
+    r = client.get(day_url)
     r.raise_for_status()
     text = r.text
     out: dict[int, str] = {}
