@@ -72,14 +72,15 @@ Course events carry `unit_id` instead. They appear inside program files as
 └── analyse/                           ← heuristic pre-computed analyses
     ├── pflichtveranstaltungen.md      ← Pflicht sections per PO + matched Campo courses
     ├── profs-ohne-pflichtlehre.md     ← FAUdir-confirmed Profs (with W-Rang) without
-    │                                    Pflicht teaching — primary file for the user's
-    │                                    "Profs ohne Pflichtlehre" question
+    │                                    Pflicht teaching
+    ├── profs-mit-pflichtlehre.md      ← FAUdir-confirmed Profs WITH Pflicht teaching
+    │                                    (with their Pflicht-courses listed). Together
+    │                                    with profs-ohne-* this partitions the FAUdir-
+    │                                    matched cohort.
     └── lehrende-ohne-pflicht.md       ← Lehrende without Pflicht teaching whose
                                           name does NOT match any FAUdir entry
                                           (Lehrbeauftragte, externe Dozent:innen,
                                           Mitarbeitende ohne FAUdir-Eintrag …).
-                                          The two files partition the population —
-                                          each person appears in exactly one.
 ```
 
 The FAUdir chunks (`faudir-{Aaa_Bbb}.md`) carry W-Rang information parsed

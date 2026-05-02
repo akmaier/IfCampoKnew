@@ -3,7 +3,7 @@ kind: "campo-pflicht-analyse"
 period: "Sommersemester 2026"
 po_files_scanned: 91
 matched_courses_total: 279
-scraped_at: 2026-05-02T02:19:02+00:00
+scraped_at: 2026-05-02T02:22:00+00:00
 ---
 
 # Pflichtveranstaltungen — Heuristische Analyse
