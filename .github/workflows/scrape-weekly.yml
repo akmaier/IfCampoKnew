@@ -112,6 +112,13 @@ jobs:
             --out data/analyse/pflichtveranstaltungen.md \
             -v
 
+      - name: Strukturierte Pflichtmodul-Extraktion aus PO-Anlagen
+        run: |
+          python scraper/extract_pflicht_module.py \
+            --data data \
+            --out data/analyse/pflichtmodule.md \
+            -v
+
       - name: Commit corpus changes
         id: commit
         run: |

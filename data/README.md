@@ -70,7 +70,11 @@ Course events carry `unit_id` instead. They appear inside program files as
 │   ├── faudir-INDEX.md                ← FAUdir Professor:innen — Übersicht + Rang-Stat
 │   └── faudir-{Aaa_Bbb}.md            ← FAUdir Personen-Chunks (alphabetisch, ~25 k tok)
 └── analyse/                           ← heuristic pre-computed analyses
-    ├── pflichtveranstaltungen.md      ← Pflicht sections per PO + matched Campo courses
+    ├── pflichtmodule.md               ← STRUCTURED Pflichtmodule per PO, parsed
+    │                                    from the Anlage-Tables of every PO PDF
+    │                                    (~5 200 modules across 679 POs).
+    ├── pflichtveranstaltungen.md      ← Pflicht sections per PO + matched Campo
+    │                                    courses (token-overlap heuristic).
     ├── profs-ohne-pflichtlehre.md     ← FAUdir-confirmed Profs (with W-Rang) without
     │                                    Pflicht teaching
     ├── profs-mit-pflichtlehre.md      ← FAUdir-confirmed Profs WITH Pflicht teaching
