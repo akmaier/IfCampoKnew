@@ -644,6 +644,81 @@ Masterstudium besitzt.[3] Die Zugangskommission stellt anhand der schriftlichen 
 
 (8) Die Bestätigung über das bestandene Qualifikationsfeststellungsverfahren hat unbeschränkte Gültigkeit, sofern sich der jeweilige Masterstudiengang nicht wesentlich geändert hat. 
 
-30 
+30
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+Allgemeine Studien- und Prüfungsordnung für die
+Bachelor- und Masterstudiengänge an der
+Naturwissenschaftlichen Fakultät der
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+— ABMPO/NatFak -
+Vom 22. August 2023
+geändert durch Satzungen vom
+7. August 2024,
+31. Juli 2025
+Aufgrund von Art. 9 Satz 1, Art. 80 Abs. 1 Satz 2, Art. 84 Abs. 2 Satz 1, Art. 86 Abs. 3
+Satz 4, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches
+Hochschulinnovationsgesetz vom 5. August 2022 (BayHIG) in der jeweils geltenden
+Fassung erlässt die FAU folgende Studien- und Prüfungsordnung:
+Inhaltsverzeichnis:
+l. Teil: Allgemeine Bestimmungen. .........uunnnsnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung ......................22224442
+nn 2
+8 2 Akademische Grade.................444444sssnnnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnDO
+8 3 Gliederung des Bachelorstudiengangs, Regelstudienzeit, ........................4444444snnnennnnnnn D
+Unterrichts- und Prüfungssprache, Studienbeginn..........................4uusssnnsnsnnnnnnnnnnnennnnnnnn
+ern O
+8 4 Gliederung des Masterstudiengangs, Regelstudienzeit, ......................44444444nsnnnenennnnnnn D
+Unterrichts- und Prüfungssprache, Studienbeginn, Studienvereinbarung ....................... 9
+8 4a Teilzeitstudium, Wechsel, ECTS-Punkte pro Semester ..............uusssssssssssssnnnnnnnnnnnnnnnnnnnn 4
+8 5 ECTS-Punkte ...........uuuusesssssssssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnpnnnnnnnnnnnnnnnnnrrnnnnnnnnnnnnnn
+8 6 Modularisierung, Studienbegleitende Leistungsnachweise, ....................22222222444444422RR
+nenn D
+Freiwillige Zwischenprüfungen, Sicherheitsunterweisung ...................ssssssssssnnnnnnnnennnnnnnnnnnnn
+DO)
+8 7 Anwesenheitspflicht.................-....444uussnsnnnnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnÖ
+8 8 Prüfungsfristen, Fristversäumnis ..............--444444444Hnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nennen 1
+8 9 Prüfungsausschuss..............2444424444snnnennennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOÖ
+8 10 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen ............usu2222
+2 nnnnnnneenenn 9
+persönlicher Beteiligung, Verschwiegenheitspflicht ......................44444444444444444RRRRR
+RBB RR RR RR RR RR RR
+8 11 Bekanntgabe der Prüfungstermine und der Prüfenden, ........................sssssss
+sn
+TO
+Anmeldung, Rücktritt .......................ossssssssensnnnnnnneesnnnnnnennnnnnnennnnnennnnnnnennnennnnessnnnrernnnnennnnnn TO
+8 12 Zugangskommission zum Masterstudium ....................44444440ssnnnnsnnnnnnnnnnnennnnnnnnnnnnnnnnn 1 1
+8 13 Anerkennung und Anrechnung von Kompetenzen...........uuussssssssssnnnnnnnennnnnnnnnnnnnnn
+nenn 1 1
+8 14 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, ........................... 12
+Ausschluss von der weiteren Teilnahme.................
+m
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 12
+8 15 Entzug akademischer Grade ..................--44444444Hnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+1 D
+8 16 Mängel im Prüfungsverfahren.................--..4444444snnnsnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnrnnnnnnn 1
+8 17 Schriftliche Prüfung, Antwort-Wahl-Verfahren.........................44444444444nnnnnnnnnnnnnnnnnnnnnnnn 19
+8 18 Mündliche Prüfung.......................uusssnsssssnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn ID)
+8 19 Vorträge und Referate..........................44444444444444400000RRRRRRRnn
+nn non nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 10
+8 20 Praktikumsleistungen ..........................44444444444444440000000RRRRRRR
+Rn nn nn nn non nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 1O
+8 21 Elektronische Prüfung in Präsenz.........................44444444444404RRRRnRRnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 10
+8 22 Bewertung der Prüfungen, Notenstufen, Gesamtnote....................44sssnnsennnnnnnnneenennnn 17
+8 23 Ungültigkeit der Prüfung ...........................4444444444444400000000RRRRRRnnnnnn
+nn onen nenn nnnnnnnnnnnnnnnnnnnnnnn 1O
+8 24 Einsicht in die Prüfungsakten.....................444ussssnnnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn TO
+8 25 Zeugnis, Transcript of Records, Diploma Supplement, ............................2222222242442422000 19
+1
+```
 

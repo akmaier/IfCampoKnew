@@ -655,6 +655,2091 @@ Im Rahmen des Teilstudiengangs Biologie des an der Otto-Friedrich-Universität 
 
 > 1) Auswahl von vier (LA Realschule) bzw. drei (LA Grund- und Mittelschule) der sechs Module gemäß § 5 Abs. 1 Satz 2. 
 
-20 
+20
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+Erlangen-Nürnberg
+EA |
+|
+DUFN | )
+Fachstudien- und Prüfungsordnung für das Fach Biologie
+im Lehramtsstudiengang an der Friedrich-Alexander-
+Universität Erlangen-Nürnberg (FAU) und
+für die Teilstudiengänge Biologie des an der Otto-Friedrich-
+Universität Bamberg verorteten Studiengangs
+Bachelor Ed. / Master Ed. „Berufliche Bildung /
+Fachrichtung Sozialpädagogik - Vocational Education /
+Social Pedagogy and Social Services“
+-FPOLA Bio 2023 -
+Vom 22. August 2023
+geändert durch Satzung vom
+2. Juli 2025
+Aufgrund von Art. 9 Satz
+1
+i.V.m. Art. 80 Abs.
+1 Satz 1 und Art. 84 Abs. 2 Satz 1
+Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 (BayHIG) in der jeweils
+geltenden Fassung erlässt die FAU folgende Fachstudien- und Prüfungsordnung:
+Inhaltsverzeichnis:
+1. Allgemeines ............uuussuunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnn
+8 1 Geltungsbereich .................-.44444444HHnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn D
+$ 2 Fächerkombinationen...................susssnssssnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+2
+8 3 Gliederung des Studiums, Erwerb des Bachelorgrades,
+Bachelorarbeit ......................... 2
+$ 4 Grundlagen- und Orientierungsprüfung .................--44444444HHnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+$ 5 Studienbegleitende Leistungen, freiwillige Zwischenprüfungen ..................-444444HHnn
+nn 3
+2. Lehramt an Gymnasien..........uursssssnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnn
+$ 6 Inhalt, Aufbau und Gliederung des Studiums.................ususssnssssennnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnn 4
+3. Lehramt an Grund-, Mittel- und Realschulen..........................22a22000000000nnnnnnnnnnnnnnunnnnn 7
+$ 7 Inhalt, Aufbau und Gliederung des Studiums.................ususssssssssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+4. Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg verorteten
+Studiengangs Bachelor Ed. „Berufliche Bildung / Fachrichtung Sozialpädagogik -
+Vocational Education / Social Pedagogy and Social Services“ ......uunnnnnnnnnnnnnennnnnnnnnnnnnnn TA
+8 8 Inhalt, Aufbau und Gliederung des Studiums......................2224222040444400000RRRRRn
+nn nn nn nn ernennen 14
+5. Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg verorteten
+Studiengangs Master Ed. „Berufliche Bildung / Fachrichtung Sozialpädagogik -
+Vocational Education / Social Pedagogy and Social Services“ ......uunnssnnnnnnnnnnnnnnnnnnnnnnnn 16
+$ 9 Inhalt, Aufbau und Gliederung des Studiums.........uesseeseenseeenensennennnennnnennnnennnennnnn 16
+6. Schluss- und Übergangsvorschriften .............uuussu4420000000nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnen TO
+$ 10 Inkrafttreten ...........uusssunnsssssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn TO
+Anlage: .....................4444444444nnnnnnnnnnnnennnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnsnnnnnnnnrnnnnnnnnnen
+1 Q
+Zuordnung der Inhalte der Module im Lehramtsstudiengang Biologie an der FAU zu
+den Zulassungsvoraussetzungen nach der LPO I:.........uunsssssnnnnnunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 19
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+Erlangen-Nürnberg
+EA |
+|
+DTUN | )
+1. Allgemeines
+8 1 Geltungsbereich
+Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnung
+für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramts-
+bezogenen Masterstudiengang Gymnasium an der Friedrich-Alexander-Universität Er-
+langen-Nürnberg (FAU) - LAPO - und für die Teilstudiengänge des an der Otto-Fried-
+rich-Universität Bamberg verorteten Studiengangs Bachelor Ed. / Master Ed. „Berufli-
+che Bildung / Fachrichtung Sozialpädagogik — Vocational Education / Social Pedagogy
+and Social Services“ in der jeweils geltenden Fassung für das Fach Biologie.
+8 2 Fächerkombinationen
+!Im Lehramt an Realschulen kann mit dem Fach Biologie von den in der LPOI vorge-
+sehenen Fächern nur das Fach Chemie kombiniert werden. ?lm Lehramt an Gymna-
+sien ist darüber hinaus eine Kombination mit dem Fach Informatik möglich.
+8 3 Gliederung des Studiums, Erwerb des Bachelorgrades,
+Bachelorarbeit
+(1) Das Studium setzt sich aus Pflichtmodulen zusammen, die den $$ 4 bis 7 zu ent-
+nehmen sind.
+(2) 'Für den Erwerb des Bachelorgrades im Studium des Lehramts an Gymnasien sind
+gemäß $ 35 Abs. 2 und 4 LAPO die Module BL1 bis BL7 erfolgreich abzuschließen.
+®Für den Erwerb des Bachelorgrades im Studium des Lehramts an Grund-, Mittel- und
+Realschulen sind gemäß $ 35 Abs. 3 und 4 LAPO die Module B1 bis B7 erfolgreich
+abzuschließen.
+(3) 'Im Rahmen der Wertung einer Schriftlichen Hausarbeit nach
+$ 29 LPO | als Ba-
+chelorarbeit
+i. S. d.
+$ 35 Abs. 4 Satz 2 LAPO wird diese von zwei am Department
+Biologie hauptberuflich i.S.d. Art. 53 Abs. 4 BayHIG tätigen hauptberuflichen Hoch-
+schullehrerinnen bzw. Hochschullehrern i.S.d. Art. 19 Abs.
+1 BayHIG oder habilitierten
+Dozentinnen bzw. Dozenten bewertet.“”Der Prüfungsausschuss kann Ausnahmen ge-
+statten und regeln.
+$ 4 Grundlagen- und Orientierungsprüfung
+(1) Im Studium des Lehramts an Gymnasien müssen in der Fachwissenschaft zum
+Bestehen der Grundlagen- und Orientierungsprüfung in den Modulen der ersten zwei
+Semester mindestens 17,5 ECTS-Punkte aus den Modulen BL1, BL2, BL5 oder BL6
+erbracht werden, die Regelung in $ 27 Abs. 3 Satz 1 LAPO bleibt unberührt.
+(2) 'Im Lehramt an Grund-, Mittel- und Realschulen sind in der Fachwissenschaft zum
+Bestehen der Grundlagen- und Orientierungsprüfung mindestens 12,5 ECTS Punkte
+aus den Modulen B1 oder B2 nachzuweisen. ?Im Übrigen gelten $ 27 Abs. 4 und 5
+LAPO.
+(3) Im Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg veror-
+teten Studiengangs Bachelor Ed. „Berufliche Bildung / Fachrichtung Sozialpädago-
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|=\U
+DT UFN
+gik — Vocational Education / Social Pedagogy and Social Services“ sind in der Fach-
+wissenschaft oder Fachdidaktik zum Bestehen der Grundlagen- und Orientierungsprü-
+fung mindestens 20 ECTS-Punkte nachzuweisen.
+..85 Studienbegleitende Leistungen, freiwillige Zwischenprüfungen
+(1) "Über die in
+$
+8 LAPO genannten Prüfungsformen hinaus sind im Fach Biologie im
+Lehramtsstudiengang
+insbesondere
+Prüfungen
+in
+fachspezifischer
+Form
+(z.
+B.
+Ubungsleistungen und Seminarleistungen) gemäß den nachfolgenden Bestimmungen
+möglich. ?Übungsleistungen (UL) umfassen in der Regel wöchentliches, selbstständi-
+ges Lösen von Übungsaufgaben
+(z. B. Programmier- oder Rechenübungen oder
+eLearning-Einheiten, die jeweils in Form eines Ubungshefts bzw. einer Sammlung
+oder durch ein elektronisches Protokoll bewertet werden). ®Praktische Übungsleistun-
+gen (pUL), sehen in der Regel das Einüben von praktischen Aufgaben, deren Doku-
+mentation in einem Protokollheft, und mündliche oder schriftliche Testate zur jeweili-
+gen praktischen Aufgabe vor. *Weiterhin können Seminarleistungen (SeL) (in der Re-
+gel Präsentation und schriftliche Ausarbeitungen) gefordert werden. ®Die konkrete
+Form und der Umfang der in Sätzen 2 bis 4 genannten Prüfungen sind abhängig vom
+konkreten didaktischen Charakter des jeweiligen Moduls bzw. der jeweiligen Lehrver-
+anstaltung und Abs. 2 bzw. dem Modulhandbuch zu entnehmen.
+(2) "Der Umfang einer benoteten Seminarleistung nach Abs. 1 Satz 4 ist abhängig vom
+konkret vergebenen Thema und mit der bzw. dem Modulverantwortlichen abzustim-
+men. ?Soweit in der jeweils einschlägigen Tabelle der 88 6 bis 9 nichts anderes fest-
+gelegt ist, beträgt der Umfang der Präsentation in der Regel ca. 20-60 Minuten, derje-
+nige der schriftlichen Ausarbeitung ca. 5-25 Seiten.
+(3) 'Neben den studienbegleitenden Modulprüfungen können im Laufe der Lehrveran-
+staltungen
+freiwillige Zwischenprüfungen
+(z.
+B. Ubungsleistungen,
+Kurztests oder
+Hausaufgaben) als Leistungsstandmessung angeboten werden. ?Näheres dazu, ins-
+besondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch.
+®Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder
+Modulteilprüfung um maximal 0,7 Notenpunkte verbessern. *Macht die bzw. der Stu-
+dierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leis-
+tungen zur Berechnung der Modulnote herangezogen.
+3
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+2. Lehramt an Gymnasien
+8 6 Inhalt, Aufbau und Gliederung des Studiums
+(1) Für das Lehramt Biologie an Gymnasien sind folgende Module abzulegen:
+|
+EINE)
+Ge-
+Workload pro Semester in ECTS-Punkten
+Faktor
+Ken-
+.
+samt
+Art und Umfang der
+Modulbezeichnung
+Lehrveranstaltung
+.
+1.
+2,
+3.
+4.
+5,
+6.
+7.
+8.
+9.
+.
+Modul-
+nung
+vüÜ
+p
+s
+ECT
+Prüfung
+s
+Sem Sem Sem Sem Sem
+|Sem Sem Sem Sem
+note
+Grundlagen der Biochemie,
+Biologie |
+Zellbiologie, Genetik und
+5
+7,5
+SL: Klausur 90 Min.
+Zellbiologische Grundla- | Entwicklungsbiologie
+12,5
+(unbenotet) +
+0
+iD)
+.
+.
+EIN
+vn irn una EHEN
+HEHBHEEBEEE
+Evolution
+von Tieren und
+5
+7,5
+.
+.
+Biologie Il:
+Pflanzen
+PL: Klausur 90 Min.
+A
+un
+12,5
+(100 %) +
+1
+Baupläne und Evolution!) |Übungen zur Morphologie
+SL:
+pÜL (unbenotet)
+und Anatomie der Pflanzen
+5
+5
+‚pP
+und Tiere?
+Biologie Ill:
+der Organismen
+’
+PL: Klausur 90 Min.
+Biochemie und Physiolo- | Übungen zur Biochemie und
+15
+(100 %) +
+1
+gie
+Physiologie der Organis-
+5
+7,5
+SL: pUL (unbenotet)
+men?)
+Molekularbiologie der
+Molekularbiologische Übun-
+15
+(100 %) +
+1
+Soon una pnerann
+|Entnng?
+2III,
+BL EEE
+Dnologie und Diversität
+PL: Klausur 45 Min.
+4
+FI
+-
+F
+u...
+.
+2)
+Ökologie und Diversität
+übungen B
+_
+_
+PL: Klausur 45 Min.
+4
+B?
+.
+Vorlesung Ökologie mit prak-
+PL: Klausur 45 Min.
+Ökologie
+tischen Übungen und Semi- | 2
+[0,5
+0,5
+3
+(100 %) +
+1
+nar
+SL: SeL 30 Min.
+4
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+|
+sws
+Ge-
+Workload pro Semester in ECTS-Punkten
+Faktor
+Ken-
+Modulbezeichnung
+Lehrveranstaltung
+n
+samt
+1.
+2.
+3.
+4.
+5,
+6.
+7.
+8.
+9.
+Art und Umfang der yoqul-
+nung
+vÜü
+p
+s|ECT
+Prüfung
+s
+Sem Sem Sem Sem Sem Sem Sem Sem Sem
+note
+Ökologische Lehrwande-
+R
+0
+2
+rung?)
+Vorlesung mit Seminar Hum-
+aniologie, (mit Evolution
+2
+2
+PL: Klausur 90 Min.
+.
+.
+(100 %) +
+Humanbiologie
+Menschen
+10
+.
+1
+-
+-
+SL: SeL +
+Humanbiologische und Phy-
+SL:
+pÜL
+siologische Übungen mit
+7
+1
+‚pP
+Vorlesung?)
+Zoologischer Teil, Praktikum
+PL: Klausur 120 Min.
+kumi
+.
+.
+(inkl. Verhalten und Evolu-
+1
+1
+8,5
+oder
+Organismische Biologie
+tion der Tiere) ?
+je eine Teilklausur?)
+für LAG: Forschungsori-
+.
+:
+.
+.
+f
+15
+Zoologie 60 Min.
+1
+entiertes Praktikum mit
+(56,6 %) und
+f
+.
+.
+.
+2)
+‚D
+70
+Seminaren
+Botanischer Teil, Praktikum
+1
+4
+1
+6,5
+Botanik 60 Min.
+43,3 %
+28 475
+0
+35
+Summe SWS und ECTS-Punkte
+79
+95
+175
+175
+15
+15
+3
+2
+15
+10
+09
+")
+Für die Grundlagen- und Orientierungsprüfung gilt
+$ 3 Abs. 1.
+2)
+Anwesenheitspflichtig nach $ 7 LAPO.
+9
+Die Prüfung kann nach Wahl der Studierenden entweder in der Form einer 120-minütigen Klausur oder in Form von zwei Teilklausuren a 60 Minuten (Zoologie) (56,6 %) und
+60 Minuten (Botanik) (43,3 %) erbracht werden; es gelten $ 30 Abs. 1 Sätze 4 und 5 LAPO.
+*
+Im 9. Fachsemester sind Module des zweiten Fachs sowie der Erziehungswissenschaften zu absolvieren.
+(2) In der Fachdidaktik sind von den Studierenden für das Lehramt an Gymnasien folgende Module abzulegen:
+|
+SWS
+Ge-
+Workload pro Semester in ECTS-Punkten
+Art und Umfang der
+Fanor
+Modulbezeichnung
+Lehrveranstaltung
+samt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Prüf
+9
+dul
+vüöüP
+Ss
+eers
+.
+.
+5
+b
+b
+b
+.
+.
+.
+rüfung
+ul-
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem. | Sem.
+note
+Biologiedidaktische Grundla-
+PL: Klausur 90 Min. oder
+BIODID I LAGY/LARS
+gen für das Gymnasium und
+2
+2
+(5)
+(5)
+(5)
+(5)
+Open Book Prüfung mit
+1
+die Realschule
+Zeitdruck 90 Min. 2
+5
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+.
+.
+PL: Seminararbeit
+Erkenntnisse gewinnen und
+8-12 Seiten oder
+3)
+ar
+In
+Dina.
+N
+BIODID
+II
+Knmunzieren im Biologie
+3
+2
+5
+(5)
+(5)
+(5)
+(5)
+mündliche Prüfung
+1
+25 Min.?
+|
+2 30
+| 4
+Summe
+SWS und ECTS-Punkte
+|
+10
+05
+05
+05
+05
+05
+05
+05
+05
+0
+9
+1)
+Semesterempfehlung für den Lehrplan LAGY
+2)
+Die Art der Prüfungsleistung wird entsprechend dem konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung semesteraktuell von der bzw. dem Modulverantwortlichen
+festgelegt und im Modulhandbuch bekannt gegeben.
+3)
+Voraussetzung für das Modul BIODID Il ist das erfolgreiche Absolvieren von BIODID
+| LAGY/LARS.
+(3) Falls das studienbegleitende fachdidaktische Praktikum in der Biologie belegt wird, ist folgendes Modul erfolgreich abzulegen:
+SWS
+| Ge-
+Workload pro Semester in ECTS-Punkten
+|
+Faktor
+Modulbezeichnung
+| Lehrveranstaltung
+.
+samt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+anrs
+Modul-
+| vu
+| 28
+| ECTS Sem. Sem. Sem. Sem. Sem. Sem. Sem. Sem. Sem.
+|
+Nas
+Seminar zum studienbeglei-
+.
+.
+.
+tenden fachdidaktischen
+2
+BIODID
+IV: Studienbegleiten- | 5,2Ktikum Biologie
+n
+SL: pÜL
+des
+fachdidaktisches Prakti-
+Studienbealeitendes
+fachdi
+(5)
+(5)
+benotet
+kum LAGY/LARS?)
+tu lienbeg eiten es fachdi-
+(unbenotet)
+daktisches Praktikum Biolo-
+4
+gie
+00
+42
+Summe SWS und ECTS-Punkte
+5
+0
+0
+0
+0
+0-5
+0
+0-5
+0
+0
+6
+1)
+ Semesterempfehlung für den Lehrplan LAGY
+2)
+Voraussetzung für das Modul BIODID IV ist das erfolgreiche Absolvieren von BIODID
+I LAGY/LARS.
+(4) Im freien Bereich der Fachdidaktik für das Lehramt an Gymnasien werden folgende Module angeboten:
+Modulbezeich-
+Lehrveranstaltun
+SWS
+Gesamt
+|
+|
+Workload pro Semester in ECTS-Punkten
+Art und Umfang
+Kaklor
+nung
+9
+vürs
+ECTS
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+der Prüfung
+Bes
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+6
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Aufgabenkultur im und Ge-
+SL:Unterrichts-
+BIODID Ill
+staltung von Biologieunter-
+2
+(2)
+(2)
+(2)
+(2)
+(2)
+(2)
+(2)
+| entwurf
+richt
+unbenotet
+Prüfungsvorbereitung für die
+SL: SeL (unbe-
+BIODID V
+Didaktik der Biologie
+?
+(2)
+(2) | notet
+0004
+Summe SWS und ECTS-Punkte
+4
+0
+0
+0-2
+0-2
+0-2
+0-2
+0-4
+0-2
+0-4
+4
+3. Lehramt an Grund-, Mittel- und Realschulen
+$ 7 Inhalt, Aufbau und Gliederung des Studiums
+(1) "Für das Studium der Biologie im Lehramt an Grund-, Mittel- und Realschulen sind im Bereich Fachwissenschaft folgende Module
+abzulegen:
+SWws
+R
+| Workload pro Semester in ECTS-Punkten
+Faktor
+.
+esamt
+Art und Umfang
+Mo-
+Kennung
+Modulbezeichnung
+Lehrveranstaltung
+vVüÜP
+s
+Eeıs
+1.
+2.
+3.
+4.
+5,
+6.
+7.
+der Prüfung
+dul-
+Sem
+Sem
+Sem
+Sem
+Sem
+Sem
+Sem
+note
+Vorlesung Einführung in die Biolo-
+gie
+4
+mit Schwerpunkt Zoologie
+Tutorium zur Vorlesung Einführung
+in die Biologie mit Schwerpunkt Zo-
+1
+1,5
+PL: Klausur
+.
+.
+arat)
+ologie
+90 Min. (100 %) +
+Biologie der Tiere
+Übungen zur Zytologie und Anato-
+3
+12,5
+3
+SL: pUL
+1
+mie der Tiere?)
+(unbenotet)
+Übungen zur Formenkenntnis und
+Systematik der Tiere?)
+2
+2
+(Zoologische Bestimmungsübun-
+gen
+Vorlesung Allgemeine Botanik und
+4
+Einführung in die Evolution
+Tutorium zur Vorlesung Allgemeine
+Botanik und Einführung in die Evo-
+1
+1,5
+PL: Klausur
+.
+.
+lution
+90 Min. (100 %) +
+I)
+x
+\
+Biologie der Pflanzen
+Übungen zur Cytologie und Anato-
+3
+12,5
+3
+SL: pUL
+'
+mie der Pflanzen?)
+(unbenotet)
+Übungen zur Formenkenntnis ein-
+2
+2
+heimischer Pflanzen?
+7
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+SWws
+R
+| Workload pro Semester in ECTS-Punkten
+Umf
+Faktor
+.
+esamt
+Art und
+Umfang
+o-
+Kennung
+Modulbezeichnung
+Lehrveranstaltung
+vVÜP
+s
+Ecıs
+1.
+2.
+3.
+4.
+5,
+6.
+7.
+der Prüfung
+dul-
+Sem |Sem
+Sem
+Sem
+Sem
+Sem
+Sem
+note
+(Botanische Bestimmungsübun-
+gen)
+er
+EAN
+.
+.
+PL: Klausur 90
+Genetik und Gentechnik | Vorlesung Grundlagen der Genetik
+’
+(100 %)
+und ihre Anwendung in der Gen-
+2
+0
++
+.
+technik, Landwirtschaft und Diag-
+SL: pUL
+nostik
+unbenotet
+Vorlesung: Einführung in die Physi-
+2
+2
+PL: Klausur 90
+ologie
+Min. oder
+Übungen und Seminar Humanbio-
+fs] || zwei Teilklausuren
+logie und Physiologie? ®
+’
+je 45 Min.?
+Humanbiologie
+(100 %)
+F
+-
+12,5
+1
+und Physiologie
++
+Vorlesung: Humanbiologie (mit
+2
+2
+SL: pUL
+Evolution des Menschen)
+(unbenotet) +
+SL: SeL
+_
+unbenotet
+Vorlesung: Einführung in die Oko-
+2
+3
+2
+.
+logie
+PL: Klausur
+Okologie
+-
+45 Min
+1
+Physiologie der Pflanzen
+Pflanzenph siologie
+ur
+4
+1924
+0.4
+Summe SWS und ECTS-Punkte
+47
+55
+125
+12,5
+75
+4
+135
+5
+09
+")
+Für die Grundlagen und Orientierungsprüfung kann entweder das Modul B1 oder B2 eingebracht werden.
+2)
+Anwesenheitspflichtig nach $ 7 LAPO.
+3)
+Die Prüfung kann nach Wahl der Studierenden entweder in der Form einer 90-minütigen Klausur oder in Form von zwei Teilklausuren & 45 Minuten erbracht werden; es gelten $ 30
+Abs. 1 Sätze 4 und 5 LAPO.
+.
+*
+Vorlesung „Einführung in die Physiologie“ ist Voraussetzung für die Teilnahme an den Übungen.
+8
+```
+
+### OCR Seite 9
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+9)
+Im 7. Fachsemester sind die Module des zweiten Fachs sowie der Erziehungswissenschaften zu absolvieren.
+2Im Bereich der Fachwissenschaft im Lehramtsstudium für Realschulen ist darüber hinaus noch folgendes Modul nachzuweisen:
+SWS
+Ge-
+Workload pro Semester in ECTS-Punkten
+Faktor
+nung
+Modulbezeichnung
+Lehrveranstaltung
+||»
+|a
+samt
+1.
+2,
+3,
+4.
+5,
+6.
+7.
+Fia
+Modul-
+ECTS Sem. Sem. Sem. Sem. Sem. Sem. |Sem.
+note
+Seminar zu Schwerpunktthemen
+.
+FIRFEBRR"
+.
+der
+SL: SeL
+Biologie im Überblick
+Biologie, insbesondere Zoologie
+5
+5
+(unbenotet)
+und Botanik
+19
+24
+0
+10
+Summe SWS und ECTS-Punkte
+58
+60
+125
+125
+7,5
+4
+16
+7,5
+0
+3Das Modul Biologie im Überblick wird den Studierenden für das Lehramt an Grund- und Mittelschulen als freiwillige Zusatzveranstaltung
+angeboten.
+(2) In der Fachdidaktik des Unterrichtsfachs für das Lehramt an Realschulen sind folgende Module abzulegen:
+.
+SWS
+|
+Workload pro Semester in ECTS-Punkten
+Faktor
+selllsresin
+Lehrveranstaltung
+eseaım
+Art und Umfang der Prüfung
+Modul-
+nung
+vür
+| g
+Eers
+|
+1.
+|
+2.
+|
+3.
+|
+4.
+|
+5.
+|
+6.
+|
+7.
+rot
+Sem.
+| Sem.
+| Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Biologiedidaktische
+.
+f
+BIODID I
+Grundlagen für
+2
+2
+(5)
+(5)
+(5)
+Oben Buak Prüfung BongZeitdruck 90
+1
+LAGY/LARS
+das Gymnasium und
+Min.)
+die Realschule
+°
+Erkenntnisse gewin-
+2)
+nen und kommunizie-
+PL: Seminararbeit 8-12 Seiten oder
+BIODID II
+ren im Biologieunter-
+3
+?
+6)
+)
+)
+mündliche Prüfung 25 Min.
+1
+richt
+Aufgabenkultur im
+.
+.
+BIODID III ?
+und Gestaltung von
+2
+(2)
+(2)
+(2)
+(2)
+(2)
+SL: Unterrichtsentwurf
+.
+.
+h
+(unbenotet)
+Biologieunterricht
+2 3/0
+| 6
+Summe SWS und ECTS-punkte
+12
+0-5
+0-7
+0-7
+0-7
+0-7
+0-7
+11
+9
+```
+
+### OCR Seite 10
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+")
+Die Art der Prüfungsleistung wird entsprechend dem konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung semesteraktuell von der bzw. dem Modulverantwortlichen
+festgelegt und im Modulhandbuch bekannt gegeben.
+2)
+Voraussetzung für die Module BIODID Il und BIODID Ill ist das erfolgreiche Absolvieren von BIODID
+I LAGY/LARS.
+(3) Falls das studienbegleitende fachdidaktische Praktikum in der Biologie belegt wird, ist folgendes Modul erfolgreich abzulegen:
+SWS
+Ge-
+|
+Workload pro Semester in ECTS-Punkten
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+.
+samt
+|
+2
+3
+4
+5
+6
+7 a
+der
+Modul-
+|
+Y
+| UPS
+ECTS
+| Sem.
+| Sem.
+| Sem.
+| Sem.
+| Sem.
+| Sem.
+| Sem.
+|
+nei
+Seminar zum studienbegleitenden
+BIODID IV: Studienbegleiten- | fachdidaktischen Praktikum Biolo-
+2
+des fachdidaktisches Prakti-
+| I!
+(5)
+(5)
+SL: pÜL (unbenotet)
+kum LAGY/LARS?
+Studienbegleitendes fachdidakti-
+4
+sches Praktikum Biologie
+0
+| 0.42
+Summe SWS und ECTS-Punkte
+5
+0
+0
+0-5
+0
+0-5
+0
+0
+6
+1)
+Semesterempfehlung für den Lehrplan LARS
+2)
+Voraussetzung für das Modul BIODID IV ist das erfolgreiche Absolvieren von BIODID
+I LAGY/LARS.
+(4) In der Fachdidaktik des Unterrichtsfachs für das Lehramt an Grund- und Mittelschulen sind folgende Module abzulegen:
+SWS
+Ge-
+Workload pro Semester in ECTS-Punkten
+Panor
+Modulbezeichnung
+Lehrveranstaltung
+.
+samt
+1
+2
+3
+4
+5
+6
+7
+Art und Umfang der Prüfung
+dul-
+"|.
+| "IE | 2er
+Sem.
+Sem.
+| Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+note
+Go
+sche
+PL: Klausur 90 Min. oder
+BIODID I LAGS/LAMS |
+Undlagen
+furdie | 5
+2
+5
+(5)
+(5)
+(5)
+Open Book Prüfung mit Zeitdruck 90
+1
+Grund- und Mittel-
+Min
+schule
+.
+Erkenntnisse ge-
+2)
+winnen und kom-
+PL: Seminararbeit (8-12 Seiten) oder
+BIODID
+II
+munizieren im Bio-
+3
+2
+5
+(8)
+6)
+(9)
+mündliche Prüfung 25 Min. ")
+1
+logieunterricht
+Aufgabenkultur im
+BIODID Ill ?
+und Gestaltung von
+2
+2
+(2)
+(2)
+(2)
+(2)
+(2)
+SL: Unterrichtsentwurf (unbenotet)
+0
+Biologieunterricht
+10
+```
+
+### OCR Seite 11
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+Studienbegleiten-
+BIODID IV
+des Praktikum Bio-
+zn
+LAGS/LAMS
+logie mit Seminar
+#12|
+5
+8)
+(8)
+SL: pUL (unbenotet)
+GS/MS
+23
+| 4
+8
+Summe SWS und ECTS-Punkte
+17
+0-5
+0-7
+0-12
+0-7
+0-12
+0-7
+0
+ir
+")
+Die Art der Prüfungsleistung wird entsprechend dem konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung semesteraktuell von der bzw. dem Modulverantwortlichen
+festgelegt und im Modulhandbuch hinterlegt.
+2)
+Voraussetzung für die Module BIODID II und BIODID Ill ist das erfolgreiche Absolvieren von BIODID
+I LAGS/LAMS.
+(5) Im freien Bereich der Fachdidaktik des Unterrichtsfachs für das Lehramt an Grund-, Mittel- und Realschulen wird folgendes Modul
+angeboten:
+Modulbezeich-
+Nayzaarerafn
+EN
+Gesamt
+(rsrldlexe] 519 Eanmeeisr [m HeUShEnien
+Art und Umfang der Prü-
+ar.
+nung
+9
+volplis|
+ers |
+2.
+3.
+4.
+5.
+6.
+7.
+fung
+note
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Prüfungsvorbereitung für die Di-
+BIODID V
+daktik
+2
+(2)
+(2)
+SL: SeL (unbenotet)
+der Biologie
+0002
+Summe SWS und ECTS-Punkte
+2
+0
+0
+0
+0
+0-2
+0
+0-2
+2
+(6) In der Fachdidaktik der Fächergruppe für das Lehramt an Grundschulen sind folgende Module abzulegen:
+SWS
+Workload pro Semester in ECTS-Punkten
+.
+Gesamt
+1
+2
+3
+5
+6
+7.
+Artund Umfang der
+Faktor
+Modulbezeichnun
+Lehrveranstaltun
+.n
+.
+.
+i
+i
+5
+5
+.
+2
+2
+vüDP
+s
+ECTS
+sem Sem Sem
+son
+Sem Sem Sem Prüfung
+Modulnote
+11
+```
+
+### OCR Seite 12
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+.
+u
+.
+R
+PL: Klausur 90 Min. oder
+BIODID I LAGS/LAMS
+Biologiedidaktische Grundlagen für | ,
+2
+5
+(5)
+(5)
+(5)
+Open Book Prüfung mit
+1
+die Grund- und Mittelschule
+Zeitdruck 90 Min.
+Experimentelles Arbeiten im Biolo-
+für Grundschule Fächer- | Außerschulische Lernorte im Biolo-
+notet)
+gruppe
+gieunterricht
+2
+(2)
+(2)
+(2)
+2
+4240904
+Summe SWS und ECTS-Punkte
+m
+11
+0-11
+0
+0-1
+0
+0-11
+0
+0
+N)
+Die Art der Prüfungsleistung wird entsprechend dem konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung semesteraktuell von der bzw. dem Modulverantwortlichen
+festgelegt und im Modulhandbuch bekannt gegeben.
+2)
+Anwesenheitspflichtig nach $ 7 LAPO.“
+(7) In der Fachdidaktik der Fächergruppe für das Lehramt an Mittelschulen sind folgende Module abzulegen:
+SWS
+Gesamt
+Workload pro Semester in ECTS-Punkten
+Art und Umfang der
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+.
+ECTS
+1
+2
+3
+4
+5
+6
+7.
+Prüfung
+Modulnote
+ve
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+:
+ht
+1)
+Grundkonzepte Biologie
+aieunterrie hel
+te im Biolo-
+PL: Klausur 90 Min. +
+gruppe
+gieunterfic
+notet)
+PL: Klausur 90 Min. oder
+Biologiedidaktische Grundlagen für
+Open Book Prüfung mit
+BIODID
+| LAGS/LAMS
+die Grund- und Mittelschule
+?
+?
+(9)
+6)
+6)
+Zeitdruck
+1
+90 Min. 2
+.
+,
+PL: Seminararbeit (8-12
+BIODID II ®
+Erkenntnisse gewinnen und kom-
+3
+2
+(5)
+(5)
+(5)
+Seiten) oder mündliche
+1
+munizieren im Biologieunterricht
+Prüfung 25 Min. 2)
+12
+```
+
+### OCR Seite 13
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+6
+70%
+Summe SWS und ECTS-Punkte
+20
+0-55
+05
+0-15
+05
+0-5
+0-5
+19
+1)
+Anwesenheitspflichtig nach $ 7 LAPO.
+2)
+Die Art der Prüfungsleistung wird entsprechend dem konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung semesteraktuell von der bzw. dem Modulverantwortlichen
+festgelegt und im Modulhandbuch bekannt gegeben.
+3)
+Voraussetzung für das Modul BIODID Il ist das erfolgreiche Absolvieren von BIODID
+| LAGS/LAMS.“
+(8) Im freien Bereich der Fachdidaktik der Fächergruppe für das Lehramt an Mittelschulen wird folgendes Modul angeboten:
+SWS
+Ge-
+Workload pro Semester in ECTS-Punkten
+Art und Umfang der
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+.
+samt
+1
+2
+3
+4
+5
+6
+7
+Prüfung/Studienleis-
+Modul-
+vU
+PP
+_S
+ECTS
+"
+"
+"
+"
+"
+"
+-
+tung
+note
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Prüfungsvorbereitung für die Di-
+BIODID V
+daktik
+2
+(2)
+(2)
+| SL: SeL (unbenotet)
+der Biologie
+00
+02
+Summe SWS und ECTS-Punkte
+2
+0
+0
+0
+0
+(2)
+0
+(2)
+2
+13
+```
+
+### OCR Seite 14
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+4. Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. „Berufliche
+Bildung / Fachrichtung Sozialpädagogik — Vocational Education / Social Pedagogy and Social Services“
+$ 8 Inhalt, Aufbau und Gliederung des Studiums
+(1) Im Rahmen des Teilstudiengangs Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. „Be-
+rufliche Bildung / Fachrichtung Sozialpädagogik — Vocational Education / Social Pedagogy and Social Services“ sind folgende Module
+abzulegen.
+sws
+Ge-
+Workload pro Semester in ECTS-
+Faktor
+Kennung
+Modulbezeichnung
+Lehrveranstaltung
+samt
+1
+2
+„unkten
+5
+6
+2 und En «Bi u
+vüep
+s
+eers
+.
+.
+j
+b
+b
+.
+rüfung
+ul-
+Sem
+Sem
+Sem
+Sem
+Sem
+Sem
+note
+Vorlesung Einführung in die Biolo-
+gie
+4
+mit Schwerpunkt Zoologie
+Tutorium zur Vorlesung Einführung
+in die Biologie mit Schwerpunkt Zo-
+1
+1,5
+PL: Klausur 90 Min.
+:
+:
+un
+ologie
+Biologie der Tiere’)
+Üb
+Zutologie
+und
+Anat
+12,5
+4
+1
+ge];
+JENSEN
+ENEN
+mie
+der Tiere?
+Ubungen zur Formenkenntnis und
+Systematik der Tiere?)
+2
+2
+(Zoologische Bestimmungsübun-
+genEr
+EEEa ICH
+ER
+Einführung
+in die Evolution
+Tutorium zur Vorlesung Allgemeine
+Botanik und Einführung in die Evo-
+1
+1,5
+lution
+PL: Klausur 90 Min.
+Biologie der Pflanzen’)
+Übungen zur Cytologie und Anato-
+3 | 12,5 sl
+I I +
+5
+1
+mie der Pflanzen?
+SL: pUL (unbenotet)
+Übungen zur Formenkenntnis ein-
+heimischer Pflanzen?
+2
+2
+(Botanische Bestimmungsübun-
+gen
+PL: Klausur 90 Min.
+Biologiedidaktische Grundlagen für
+oder
+BIODID I LAGY/LARS
+das Gymnasium und die Real-
+2
+2
+5
+5
+Open Book Prüfung
+1
+schule
+mit Zeitdruck 90 Min.
+3)
+14
+```
+
+### OCR Seite 15
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+ologie
++ oder
+.
+.
+Ubungen und Seminar Humanbio-
+ss]
+zwei Teilklausuren je
+HumanDiologie
+logie und Physiologie? ®
+12,5
+’
+45 Mind +
+1
+und
+Physiologie
+j
+N
+SL: pÜL (unbenotet)
+Vorlesung: Humanbiologie (mit
+2
+2
++
+Evolution des Menschen)
+SL: SeL (unbenotet)
+14180
+4
+Summe SWS und ECTS-Punkte
+422,5
+|12,5
+12,5
+5
+2
+105
+0
+36
+")
+Für die Grundlagen und Orientierungsprüfung kann entweder das Modul B1 oder B2 eingebracht werden.
+2)
+Anwesenheitspflichtig nach $
+7 LAPO.
+%
+Die Art der Prüfungsleistung wird entsprechend dem konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung semesteraktuell von der bzw. dem Modulverantwortlichen
+festgelegt und im Modulhandbuch hinterlegt.
+i
+#
+Vorlesung „Einführung in die Physiologie“ ist Voraussetzung für die Teilnahme an den Übungen.
+3)
+Die Prüfung kann nach Wahl der Studierenden entweder in der Form einer 90-minütigen Klausur oder in Form von zwei Teilklausuren a 45 Minuten erbracht werden; es gelten &
+30 Abs. 1 Sätze 4 und 5 LAPO.
+(2) Für das fachdidaktische Schulpraktikum im Unterrichtsfach Biologie ist das folgende Modul erfolgreich abzulegen:
+SWS
+Ge-
+Workload pro Semester in ECTS-Punkten
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+samt
+nu ulelit ar
+Modul-
+vüPpr
+Ss
+ect
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Prüfung
+note
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Sem.
+Seminar zum studienbegleitenden
+BIODID IV: Studienbegleiten- | fachdidaktischen Praktikum Biolo-
+2
+des fachdidaktisches Prakti-
+|[9!®
+(5)
+(5)"
+SL: pÜL (unbenotet)
+kum LAGY/LARS
+Studienbegleitendes fachdidakti-
+4
+sches Praktikum Biologie
+00
+4
+2
+Summe SWS und ECTS-Punkte
+5
+0
+0
+0-5
+0
+0-5
+0
+0
+6
+)
+Semesterempfehlung für den Lehrplan des Teilstudiengangs Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. „Berufliche Bildung /
+Fachrichtung Sozialpädagogik — Vocational Education / Social Pedagogy and Social Services“
+15
+```
+
+### OCR Seite 16
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+5. Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Master Ed. „Berufliche
+Bildung / Fachrichtung Sozialpädagogik — Vocational Education / Social Pedagogy and Social Services“
+$ 9 Inhalt, Aufbau und Gliederung des Studiums
+Im Rahmen des Teilstudiengangs Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Master Ed. „Berufliche
+Bildung / Fachrichtung Sozialpädagogik — Vocational Education / Social Pedagogy and Social Services“ sind folgende Module abzulegen:
+Workload pro Semester
+SE
+Ge-
+n
+Faktor
+Kennung
+Modulbezeichnung
+Lehrveranstaltung
+samt
+1 n GTS-Funkten 4
+a und lei ea
+Modul-
+vöDp
+Ss
+ECTS
+"
+"
+"
+"
+rutung
+note
+Sem.
+Sem.
+Sem.
+Sem.
+ee alogie.
+technik
+Vorlesung Grundlagen der Genetik
+7,5
+zei, elKlausuren je 45
+1
+enelik
+und
+entechni
+und ihre Anwendung in der Gen-
+2
+2
+Se ÖL
+benotet
+technik, Landwirtschaft und Diag-
+: pUL
+(unbenotet)
+nostik
+Vorlesung: Einführung in die Okolo-
+,
+f
+.
+h
+2
+3 | PL: Klausur 45 Min.+
+Ökologie
+1<
+SL: SeL (unbenotet)
+1
+PL: Seminararbeit
+Erkenntnisse gewinnen und kommu-
+8-12 Seiten oder
+BIODID
+II
+nizieren im Biologieunterricht
+3
+?
+>
+mündliche Prüfung 25 Min.
+1
+3)
+Aufgabenkultur im und Gestaltung
+.
+.
+.
+|
+BIODID Ill LABS
+von Biologieunterricht für berufliche
+2
+2,5
+SL: erweiterter Unterrichts
+entwurf (unbenotet)
+Schulen
+Physiologie der Pflanzen
+Pflanzenphysiologie
+PL: Klausur 45 Min.
+1
+.
+Seminar zu Schwerpunktthemen der
+Biologie im Überblick
+Biologie, insbesondere Zoologie und
+5
+5
+SL: SeL (unbenotet)
+Botanik
+9022
+Summe SWS und ECTS-Punkte
+28
+ei
+145
+7
+3
+145
+1)
+Anwesenheitspflichtig nach $ 7 LAPO.
+16
+```
+
+### OCR Seite 17
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+2)
+Die Prüfung kann nach Wahl der Studierenden entweder in der Form einer 90-minütigen Klausur oder in Form von zwei Teilklausuren a 45 Minuten erbracht werden; es gelten
+& 30 Abs. 1 Sätze 4 und 5 LAPO.
+3
+Die Art der Prüfungsleistung wird entsprechend dem konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung semesteraktuell von der bzw. dem Modulverantwortli-
+chen festgelegt und im Modulhandbuch bekannt gegeben.
+17
+```
+
+### OCR Seite 18
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|=\U
+DT UFN
+6. Schluss- und Übergangsvorschriften
+8 10 Inkrafttreten
+(1) "Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2023 in Kraft. °Sie
+gilt für alle Studierenden, die das Lehramtsstudium im Fach Biologie ab dem Winter-
+semester 2023/2024 aufnehmen werden. ®Abweichend von Satz 2 gilt sie auch für alle
+Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der bisher gültigen
+Fachstudien- und Prüfungsordnung für das Fach Biologie im Lehramtsstudiengang an
+der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) und für die Teilstudien-
+gänge Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Studien-
+gangs Bachelor Ed. / Master Ed. „Berufliche Bildung / Fachrichtung Sozialpädagogik
+— Vocational Education / Social Pedagogy and Social Services“ vom 9. März 2009 in
+der Fassung vom 27. Juni 2022 studieren.
+(2) "Gleichzeitig tritt die in Abs. 1 Satz 3 genannte Fachstudien- und Prüfungsordnung
+außer Kraft. Studierende, die zum Zeitpunkt des Inkrafttretens dieser Fachstudien-
+und Prüfungsordnung nach einer der bisher gültigen Fassungen der in Abs. 1 Satz 3
+genannten Fachstudien- und Prüfungsordnung studieren, beenden ihr Studium nach
+der bisher für sie jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung.
+“Abs. 1 Satz 3 und $ 8 Abs. 2 Satz 4 der FPO LA Bio i. d. F. vom 27. Juni 2022 bleiben
+unberührt.
+„(3) "Die erste Änderungssatzung tritt am 1. Oktober 2025 in Kraft. 2Sie gilt für alle
+Studierenden, die das Lehramtsstudium Biologie ab dem Wintersemester 2025/2026
+aufnehmen werden. ®Mit Ausnahme der Änderungen in & 7 Abs. 6 und 7 gilt sie auch
+für Studierende, die zum Zeitpunkt des Inkrafttretens bereits nach der FPOLA Bio vom
+22. August 2023 studieren.“
+18
+```
+
+### OCR Seite 19
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+Anlage:
+Zuordnung der Inhalte der Module im Lehramtsstudiengang Biologie an der
+FAU zu den Zulassungsvoraussetzungen nach der LPO I:
+1. Lehramt an Gymnasien:
+S 61 Abs.
+1 LPOI
+Modul an der FAU
+ECTS-Punkte
+mindestens 16 Leistungspunkten
+=
+-
+-
+—
+5
+aus den Gebieten „Zytologie,
+Ökologie und Diversität A |
+Anatomie, Formenkenntnis und
+Ökologie und Diversität B
+Systematik von Pflanzen und
+Seminare)
+Nr. 2:
+Biologie Ill
+mindestens 10 Leistungs punkten III|
+aus dem Gebiet „Physiologie er [LI
+Praktika, Seminare)
+Nr. 3:
+Biologie IV
+aus den Gebieten „Genetik und
+Mikrobiologie“ (Vorlesungen, |
+Laborpraktika, Seminare)
+Summe
+0
+Nr. 4:
+Biologie II (anteilig
+mindestens 12 Leistungspunkten
+aus den Gebieten „Ökologie“ (mit
+| Organismische Biologie für
+2
+Exkursion), „Evolutionsbiologie“
+LAG: Forschungsorientier-
+und „Verhaltensbiologie“ (mit
+tes Praktikum mit
+praktischen Übungen)
+Seminaren
+(anteilig
+Summe
+|
+1865|
+Humanbiologie
+mindestens 8 Leistungspunkten
+9
+„Humanbiologie“ (mit praktischen
+Übungen)
+Nr. 6:
+Biologie II (anteilig)
+6
+aus dem Schwerpunkt „Botanik
+oder Zoologie“ (mit praktischen
+Summe
+Anteilen; nicht identisch mit Nr. 7
+Nr. 7
+Organismische Biologie für
+13
+mindestens 8 Leistungspunkten
+LAG: Forschungsorientier-
+für ein „Forschungsorientiertes
+tes Praktikum mit
+Praktikum“
+(mit Seminar
+Seminaren
+(anteilig
+Nr. 8
+BIODID
+| LAGY/LARS
+mindestens 8 Leistungspunkten
+BIODID I
+aus der Fachdidaktik
+EEE
+BEE
+Summe
+|
+19
+```
+
+### OCR Seite 20
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+2. Lehramt an Grund-, Mittel- und Realschulen:
+S 41 Abs.
+1 LPOI
+Modul an der FAU
+ECTS-Punkte
+Nr. 1:
+.
+B1: Biologie der Tiere (anteilig)
+mindestens
+16 Leistungspunkten
+-
+-
+125
+aus den Gebieten „Zytologie, Ana- | B2: Biologie der Pflanzen
+matik von Pflanzen und Tieren“
+20
+(Vorlesungen, Praktika, Seminare)
+Nr. 2:
+B6: Physiologie der Pflanzen
+mindestens 10 Leistungspunkten
+B1: Biologie der Tiere
+(anteilig
+aus dem Gebiet „Physio er ——
+Pflanzen und Tiere“ (Vorlesungen,
+S
+10
+Praktika, Seminare
+Summe
+Nr. 3:
+B3: Mikrobiologie, Genetik und
+mindestens 5 Leistungspunkten
+Gentechnik
+aus „Genetik oder Mikobiooge tk|
+(Vorlesungen, Laborpraktika, Semiz|”mm
+nare)
+Nr. 4:
+BIODID
+I LAGY/LARS bzw.
+Mind. 10 LP in Fachdidaktik
+BIODID
+| LAGS/LAMS
+BIODIDII
+BIODID Il
+Summe|
+1)
+Auswahl von vier (LA Realschule) bzw. drei (LA Grund- und Mittelschule) der sechs
+Module gemäß $ 5 Abs. 1 Satz 2.
+20
+```
 

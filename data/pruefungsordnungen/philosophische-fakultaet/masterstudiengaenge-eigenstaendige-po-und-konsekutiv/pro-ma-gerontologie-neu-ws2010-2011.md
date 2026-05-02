@@ -405,6 +405,75 @@ beurteilt, wer die Qualifikation für ein Masterstudium gemäß § 24 der Prüfu
 
 (5)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die Bewerberinnen oder Bewerber, die zum Auswahlgespräch zugelassen sind, zu einem Gespräch vor zwei von der Zulassungskommission bestellten Hochschullehrerinnen oder Hochschullehrern geladen; die Bewerberinnen oder Bewerber tragen ihre diesbezüglichen Kosten selbst.[2] Der Termin wird den Bewerberinnen oder Bewerbern spätestens eine Woche vorher bekannt gegeben.[3] Das Auswahlgespräch von ca. 20 Minuten Dauer soll zeigen, ob zu erwarten ist, dass die Bewerberinnen oder Bewerber das Ziel des Masterstudiums auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst erreichen werden; sie erstreckt sich auf Grundkenntnisse und Zusammenhänge, die Voraussetzung für ein erfolgreiches Masterstudium sind.[4] Die Bewertung lautet „geeignet“ oder „nicht geeignet“.[5] Die Feststellung der Eignung kann mit Auflagen gemäß § 24 Abs. 2 Satz 2 verbunden werden.[6] Die Entscheidungen im Qualifikationsfeststellungsverfahren ergehen schriftlich. 
 
-15 
+15
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 8
+
+```
+8 17 Mündliche Prüfung
+(1) "In der mündlichen Prüfung sollen die Studierenden nachweisen, dass sie die Zu-
+sammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen in diese
+Zusammenhänge einzuordnen vermögen. Mündliche Prüfungen finden,
+soweit
+nichts anderes vorgeschrieben ist, in Anwesenheit einer Beisitzerin oder eines Bei-
+sitzers statt, die oder der von der Prüferin oder dem Prüfer bestellt wird.
+(2) 'Die Dauer einer mündlichen Prüfung beträgt ca. 30 Minuten. °8 15 Abs.1, zweiter
+Halbsatz und Absatz 2 gelten entsprechend.
+(3) In der mündlichen Prüfung vor mehreren prüfungsberechtigten Personen setzt
+jeder Prüfende die Note nach 8 18 fest.
+(4) "Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen
+ist: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung,
+die Namen der Prüfenden, der Beisitzerin oder des Beisitzers und der Studierenden
+oder des Studierenden sowie besondere Vorkommnisse. ”Das Protokoll wird von den
+prüfungsberechtigten Personen und der Beisitzerin oder dem Beisitzer unterzeichnet.
+Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.
+(5) "Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung
+unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen oder
+Zuhörer zugelassen; auf Verlangen einer Prüfungskandidatin oder eines Prüfungs-
+kandidaten werden Zuhörerinnen oder Zuhörer ausgeschlossen. ?Die Zulassung er-
+streckt sich nicht auf die Beratung und die Bekanntgabe des Prüfungsergebnisses.
+& 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote
+(1) Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen Prü-
+ferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausge-
+drückt:
+_
+eine Leistung,
+die erheblich über den
+gut
+„(17 oder 2,0. oder 2,3)
+qurchschnittlichen Anforderungen liegt;
+befriedigend
+= (2,7 oder 3,0 oder 3,3)
+eine Leistung, die ‚durchschnittlichen An-
+.
+_
+eine Leistung, die trotz ihrer Mängel noch
+ausreichend
+= (8,7 oder 4,0)
+den Anforderungen entspricht;
+eine
+Leistung,
+die
+wegen
+erheblicher
+nicht ausreichend
+= (4,3 oder 4,7 oder 5,0)
+Mängel
+den Anforderungen
+nicht mehr
+(2) "Eine Prüfung ($ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „aus-
+reichend“ bewertet ist. "Bei unbenoteten Prüfungen (8 6 Abs. 3 Satz 4) lautet die Be-
+wertung „mit Erfolg teilgenommen“ oder „nicht mit Erfolg teilgenommen“. °Ist eine
+Prüfung von mehreren Prüfenden zu bewerten, so ergibt sich die Note aus dem Miit-
+tel der Einzelnoten. *Eine Prüfung ist bestanden, wenn alle Teilleistungen (8 6 Abs.
+2) bestanden sind. ”In der Anlage kann geregelt werden, in welchen Prüfungen ab-
+weichend von Satz 4 eine Kompensation dergestalt stattfindet, dass der Durchschnitt
+aller Teilprüfungen mindestens die Note „ausreichend“ ergeben muss. Bei der Er-
+mittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen
+8
+```
 

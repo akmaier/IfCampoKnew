@@ -648,6 +648,84 @@ Section 35 (1)(1), sentence 2 or in the case of Section 35 (3) if the student ha
 
 (8) Confirmation of passing the qualification assessment process shall remain valid indefinitely, provided the Master’s degree program has not changed significantly. 
 
-29 
+29
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+General Degree Program and Examination Regulations for
+Bachelor’s and Master’s Degree Programs of the
+Faculty of Sciences at
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+— ABMPO/NatFak -
+dated August 22, 2023
+last amended by the statutes of
+August 7, 2024
+July 31, 2025
+Based on Section 9 (1), Section 80 (1)(2), Section 84 (2)(1), Section 86 (3)(4), Section
+88 (9), Section 90 (1)(2) and Section 96 (3)(1) Bavarian Higher Education Innovation
+Act dated August 5, 2022 (BayHIG) in the currently valid version, Friedrich-Alexander-
+Universität Erlangen-Nürnberg enacts the following degree program and examination
+regulations:
+Contents:
+Part I: General Provisions...................2.440uu444444n4000nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+2
+Section 1 Scope, Purpose of the Bachelor’s and Master’s Examination .........................4
+ss
+2
+Section 2 Degrees............uuussssnenenssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnpnnnnnnnnnnnnnnnnnnnnnnnpnnsnnnnnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+2
+Section 3 Structure of the Bachelor’s Degree Program, Standard Duration of Study,............................ 3
+Teaching and Examination Language, Start of Degree Program ................u444244ssnnennnnennennnnennennnnennnnnnn D
+Section 4 Structure of the Master’s Degree Program, Standard Duration of Study,................u
+ee 3
+Teaching and Examination Language, Start of Degree Program, Study Agreement .............. 3
+Section 4a Part-Time Study, Transfer, ECTS Credits per Semester ...................444ssssnsnneennnnnnnnnnnnnnnn A
+Section 5 ECTS Credits........................4444444444440nnnnnnnnnnnnennnnnennnnnnnnnnnnnnennnnnnnannnnnnnennnnnnnnnnnnnnrrnnnnsnnnnnnnrrrnnne
+OD)
+Section 6 Modules and Credits,.....................220000000000000nseeeneennnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnsnnnnnnnnnneeeennne D
+Voluntary Intermediate Examinations, Safety Briefing ................-..uu4s444snnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+OD
+Section
+7 Compulsory Attendance.............u..-244444444enennnnnenennnnnnnennnnnnnennnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+OÖ
+Section 8 Examination Deadlines, Failure t0o Observe Deadlines........................222222000000ennnnnnnenneeeeeeennn
+Section
+9 Examinations Committee ...................444444444440nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnneennnnnnennnnnnrnnnnnsnnnnnnnrrrnnn Ö
+Section 10 Examiners, Observers, Exclusion Due t0..................2200000220000snnenenesennnnnnnnnnnnnnnnennnnnnnnnnneee
+nenn
+Personal Involvement, Obligation to Confidentiality.....................-.44444444004n
+sn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 9
+Section 11 Announcement of Examination Dates and Examiners, .................uusss22002220eneeeennnnnnnnnnneeneeen TO
+Registration, Withdrawal........................4440000s0sn44ennnnnnnnennnnssnnnnnnnnnnnnnnennnnnnnnnnnnnnnennnnnnnnnnnnnnnrennnsnsnnnnnnnnnnn 1
+Section 12 Admissions Committee for the Master’s Degree Program ................u..-444ensnnnnnnnennnnnnnnnnnn
+1 1
+Section 13 Recognition and Accreditation of Skills ....................u...4444nsnnnnnnennnnennennnnnnnnnnennnnnnnnnnnnnnen 1 1
+Section 14 Consequences of Delayed Withdrawal, Breach of Regulations, Fraud, ............................. 12
+Exclusion from Further Participation ............................os4444444444nnsnnnnnnennnnnnnnnnnnnennnnnnnennnnnnnnennnnnnnnnnnnnnnnn
+12
+Section 15 Revocation of Degrees.................-.44u44sn40nensnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnnnnnnnn IQ
+Section 16 Faults in the Examination Process.....................-4444444snnnnneennnnnnennnnnnnnnnnnnnnnnnrennnnnnnnnnnnnnnnnnn 19
+Section 17 Written Examination, Multiple Choice Examinations.........................00000000000000000nnnnnnnnnnnnnnnnn 10
+Section 18 Oral Examination....................444444sssnnsseennnnnnennnnnennnnnnnnnnnnnennnnnnnnnnnnnnnennnnnsnnnnnnreennnnsnnnnnnnnnnnn 1D
+Section 19 Talks and Presentations....................---.-444usss44snnnnnnnnnnnneennnnnnnnnnnnnnennnnnnnonnnnneennnnnnnnnnnnnnnnnn 10
+Section 20 Practical Achievements......................-44444440ssnn4snnnnnnnnnnnnnnennnnnnnnnnnnnennnnnnnnnnnnnrennnnnnnnnnnnnnnnnnn 1O
+Section 21 On-Campus Electronic Examinations.................-...4444sssnnnseennnnnnnnnnnnnnennnnnnnnnnnnennnnnnnnnnnnnnnnnnn 1O
+Section 22 Evaluation of Examinations, Grades, Final Grade ........................0usss222222200seeeeennnnnnnnnnneeneen TO
+Section 23 Invalidity of Examinations.................u..--4440nssnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+TO
+Section 24 Inspection of Examination Records....................-..-..usssssseennnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnn 1O
+Section 25 Final Academic Record, Transcript of Records, Diploma Supplement, .............................. 18
+Grade Distribution Table and Degree Certificate ...................-.4444444440n
+sn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnannn TO
+Section 26 Notification of Failed Examinations ....................-......ssss444nnnennnnnnnnnennnnnnnennnnennnnnnnnnnnnnnnnnnn 19
+1
+```
 

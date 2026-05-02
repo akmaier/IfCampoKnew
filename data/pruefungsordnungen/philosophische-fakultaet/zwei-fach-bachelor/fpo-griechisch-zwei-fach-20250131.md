@@ -224,6 +224,109 @@ Gez.
 
 Prof. Dr.-Ing. Joachim Hornegger, Präsident 
 
-Diese Satzung wurde am 31. Januar 2025 digital auf der Internetseite - https://www.fau.de/fau/rechtsgrundlagen/amtliche bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 31. Januar 2025 in der im Referat L 1 der Zentralen Universitätsverwaltung, Wöhrmühle 2, Zimmer Nr. 00.009 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 31. Januar 2025. 
+Diese Satzung wurde am 31. Januar 2025 digital auf der Internetseite - https://www.fau.de/fau/rechtsgrundlagen/amtliche bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 31. Januar 2025 in der im Referat L 1 der Zentralen Universitätsverwaltung, Wöhrmühle 2, Zimmer Nr. 00.009 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 31. Januar 2025.
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+uk
+/u\
+Fachstudien- und Prüfungsordnung für das
+Fach Griechische Philologie im
+Zwei-Fach-Bachelorstudiengang an der
+Philosophischen Fakultät und Fachbereich Theologie der
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- FPO Griechisch Zwei-Fach -
+Vom 31.01.2025
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, Art 84 Abs. 2 Satz 1, Art. 88
+Abs. 9, und Art. 96 Abs. 3 Satz
+1 Bayerisches Hochschulinnovationsgesetz vom 5.
+August 2022 (BayHIG) in der jeweils geltenden Fassung erlässt die FAU folgende
+Fachstudien- und Prüfungsordnung:
+8 1 Geltungsbereich
+Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prü-
+fungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakul-
+tät und Fachbereich Theologie der FAU in der jeweils geltenden Fassung im Folgen-
+den: ABMStPO/Phil - für das Fach Griechische Philologie.
+$ 2 Umfang und Ziele des Studiums
+(1) Das Fach Griechische Philologie kann im Zwei-Fach-Bachelorstudiengang ent-
+weder als Erstfach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelor-
+arbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von
+70 ECTS-Punkten studiert werden.
+(2)
+'Im
+Bachelorstudiengang
+Griechische
+Philologie erwerben
+die Studierenden
+grundlegende Fachkenntnisse der Griechischen Philologie sowie in den Neben- und
+Nachbardisziplinen. ?Außerdem soll die Basis zur Befähigung zum eigenständigen
+wissenschaftlichen Arbeiten und zum selbstständigen Bearbeiten komplexer Proble-
+me gelegt werden. *Diese Kompetenzen stellen die Grundlage für die Ausübung ei-
+nes breit gefächerten Spektrums beruflicher Tätigkeiten dar.
+(3) 'Im Zwei-Fach-Bachelorstudiengang Griechische Philologie wird eine fundierte
+fachwissenschaftliche Grundausbildung gewährleistet. *Die Studierenden erwerben
+überdies die Kompetenz zum Umgang mit sprachlichen Phänomenen und Texten,
+zudem Fertigkeiten in der Gewinnung großer Mengen von Informationen sowie eine
+hohe generelle analytische Befähigung. *Zur Erreichung dieses Qualifikationsprofils
+zielt der Studiengang auf die Entwicklung folgender Kompetenzen:
+1.
+Sprachbeherrschung und Sprachreflexion
+2.
+Erfassen schwieriger Texte
+3.
+methodische Bewältigung komplexer Probleme
+4.
+Abstraktionsvermögen
+5.
+Strukturieren eigener Texte und
+6.
+die Fähigkeit zu eigenständigem wissenschaftlichem Arbeiten, einschließlich
+der entsprechenden Methoden.
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+EAU
+Erlangen-Nürnberg
+R//u\
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 22. Januar 2025, und der Genehmigung
+durch den Präsidenten oder seiner Stellvertretung vom 31. Januar 2025
+Erlangen, den 31. Januar 2025
+FAU
+Gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese
+Satzung
+wurde
+am
+31.
+Januar
+2025
+digital
+auf
+der
+Internetseite
+https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/
+amtlich
+veröffentlicht.
+Eine
+mit
+Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 31.
+Januar 2025
+in der im Referat L
+1 der Zentralen Universitätsverwaltung, Wöhrmühle 2, Zimmer Nr.
+00.009 niedergelegt und liegt zur Einsicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 31. Januar 2025.
+```
 

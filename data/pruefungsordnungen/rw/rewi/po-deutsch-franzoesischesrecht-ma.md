@@ -403,6 +403,81 @@ Prof. Johanna Haberer Vizepräsidentin
 
 Die Satzung wurde am 29. September 2010 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 29. September 2010 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 29. September 2010. 
 
-15 
+15
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 7
+
+```
+(3) In der mündlichen Prüfung vor mehreren prüfungsberechtigten Personen setzt
+jeder Prüfende die Note nach 8 16 fest.
+(4) "Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen
+ist: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung,
+die Namen der Prüfenden, der Beisitzerin oder des Beisitzers und der Studierenden
+oder des Studierenden sowie besondere Vorkommnisse. ”Das Protokoll wird von den
+prüfungsberechtigten Personen und der Beisitzerin oder dem Beisitzer unterzeichnet.
+Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.
+(5) "Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung
+unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen oder
+Zuhörer zugelassen; auf Verlangen einer Prüfungskandidatin oder eines Prüfungs-
+kandidaten werden Zuhörerinnen oder Zuhörer ausgeschlossen. ?Die Zulassung er-
+streckt sich nicht auf die Beratung und die Bekanntgabe des Prüfungsergebnisses.
+8& 17_
+Bewertung der Prüfungen, Notenstufen, Gesamtnote
+(1) Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen Prü-
+ferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausge-
+drückt:
+„sehrgut:
+___. eine besonders hervorragende Leistung
+‚= 16 bis 18Punkte
+| gut:
+| eine erheblich über den durchschnittlichen Anfor-
+| = 13 bis 15 Punkte
+In
+‚ derungen liegende Leistung
+n
+|
+op
+.
+„eine über den
+durchschnittlichen Anforderungen  _
+.
+befriedigend:
+eine Leistung, die in jeder Hinsicht durchschnittli-
+_ 7 bis 9 Punkte
+EEE
+chen Anforderungen entspricht
+|
+|
+.
+eine Leistung, die trotz ihrer Mängel durchschnittli- | _ ,
+„:
+.
+eine an erheblichen Mängeln leidende, im ganzen
+_,,.:
+‚ungenügend:___ eine völlig unbrauchbare Leistung
+=0 Punkte
+(2) "Eine Prüfung (8 5 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „aus-
+reichend“ bewertet ist. "Bei unbenoteten Prüfungen (8 5 Abs. 3 Satz 4) lautet die Be-
+wertung im Bestehensfalle „mit Erfolg teilgenommen“. *Ist eine Prüfung von mehreren
+Prüfenden zu bewerten, so ergibt sich die Note aus dem Mittel der Einzelnoten. *Eine
+Prüfung ist bestanden, wenn alle Teilleistungen (8 5 Abs. 2) bestanden sind. °Bei der
+Ermittlung der Note werden zwei Stellen nach dem Komma berücksichtigt.
+(3) "In die Modulnote gehen die Prüfungen mit dem ihnen im Anhang zugewiesenen
+Gewicht der ECTS-Punkte ein. ?Abs. 2 Satz 6 gilt entsprechend.
+(4) "In die Gesamtnote der Masterprüfung gehen die Modulnoten mit dem Gewicht
+der ECTS-Punkte ihres Moduls ein.’Bei der Berechnung der Gesamtnote werden
+zwei Stellen nach dem Komma berücksichtigt.
+(5) Die Gesamtnote der Masterprüfung und der Module lautet:
+14,00 — 18,00
+sehr gut
+11,50— 13,99
+gut
+9,00 - 11,49
+vollbefriedigend
+7
+```
 

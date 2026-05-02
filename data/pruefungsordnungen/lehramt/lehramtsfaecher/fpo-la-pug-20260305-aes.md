@@ -354,6 +354,742 @@ Prof. Dr.-Ing. Joachim Hornegger, Präsident
 
 Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 5. März 2026 
 
-14 
+14
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+| NU
+ze
+Erste Satzung zur Änderung der Fachstudien- und
+Prüfungsordnung für das Fach Politik und Gesellschaft im
+Lehramtsstudiengang an der Friedrich-Alexander-Universität
+Erlangen-Nürnberg (FAU)
+-FPOLA PuG -
+Vom 5. März 2025
+Aufgrund von Art. Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1
+Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 (BayHIG) in der jeweils
+geltenden Fassung erlässt die FAU folgende Änderungssatzung:
+81
+Die Fachstudien- und Prüfungsordnung für das Fach
+Politik und Gesellschaft im
+Lehramtsstudiengang
+an
+der
+Friedrich-Alexander-Universität
+Erlangen-Nürnberg
+(FAU) - FPO LA PuG - vom 4. September 2024 wird wie folgt geändert:
+1.
+In der Präambel wird nach den Worten „erlässt die FAU folgende“ das Wort
+„Studien“ durch das Wort „Fachstudien“ ersetzt.
+2.
+8 2 wird wie folgt geändert:
+a) Die bisher einzige Regelung wird zu Abs. 1.
+b) Der neue Abs. 1 wird wie folgt geändert:
+aa)
+Nach dem Zeichen und den Worten „Einführung in die Politikwissenschaft“
+werden die Worte „und Grundlagen des politischen Denkens“ eingefügt.
+bb)
+Nach den Worten „erfolgreich abgelegt werden“ werden die Zeichen,
+Worte, Zahlen und Buchstaben „; die Regelung in 8 27 Abs. 3 Satz
+1 LAPO
+bleibt unberührt.“ angefügt.
+c) Nach Abs. 1 (neu) wird folgender Abs. 2 neu angefügt:
+„(2) Zum Bestehen der Grundlagen- und Orientierungsprüfung im Lehramt an
+Grund-, Mittel und Realschulen gelten die Regelungen in $ 27 Abs. 4 und 5
+LAPO“
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+3.
+Nach 8 2 wird folgender 8 3 neu eingefügt:
+„8 3 Prüfungen
+Als
+Prüfungsformen
+werden
+über
+die
+in
+der
+LAPO
+genannten
+Formen
+hinaus
+Portfolio,
+Praktikumsbericht
+sowie
+Abschlusspräsentation mit Handout anerkannt.“
+4. Der bisherige $ 3 wird zum neuen$ 4.
+5.
+Der bisherige $ 4 wird zum neuen 85.
+6. 85 (neu) wird wie folgt geändert:
+a) Die Tabelle in Abs. 1 wird samt Erläuterungen wie folgt neu gefasst:
+Lehrveransta
+SwsS
+Gesa
+Workload-Verteilung pro SEINEEIGT in ECTS-
+Faktor
+Modulbezeichnung
+Km
+mt-
+Punkten
+Art und Umfang der Prüfung
+Modul-
+9
+vöür
+s
+eEersı
+23
+4a.5:6
+7.89.
+note
+|
+Einführung in die
+.
+Klausur (60 Min.)
+Grundlagen des
+Vorl
+2
+2
+Referat (10-15 Min.) und
+Politischen Denkens
+oriesung
+ö
+Hausarbeit (5-7 S.
+Ideengeschichte
+I
+9
+i
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Workload-Verteilung pro Semester in ECTS-
+SWS
+Gesa
+Faktor
+Modulbezeichnung
+Lehrveransta
+|
+mt-
+Punkten '
+Art und Umfang der Prüfung
+Modul-
+9
+vür
+s
+eEesı
+23
+4a5:6
+7.8.9,
+note
+u
+.
+Referat (30 Min.) und Hausarbeit
+9
+mündliche Prüfung
+(15-20 Min.)
+?
+Referat (30 Min.) und Hausarbeit
+Politische Systeme Il
+Proseminar
+2
+5
+(10-12 S.) oder
+1
+mündliche Prüfung
+(15-20 Min.)
+?
+.
+.
+Referat (30 Min.) und Hausarbeit
+mündliche Prüfung
+(15-20 Min.)
+?
+.
+Referat (30 Min.) und Hausarbeit
+Seh 113
+Hauptseminar
+2|
+6
+(5) | (5)
+(10-12 S.) oder
+2
+y
+mündliche Prüfung
+(15-20 Min.)
+?
+Einführung in die
+.
+ES
+DEE
+DE ED
+ER HR LET
+2]
+1175|
+Referat (20-30 Min.) und
+Vertiefungsmodul
+Hauptseminar HEN ?
+MER 78 11 schriftliche Leistung (Essays oder
+4
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Lehrveransta
+|
+sws
+Gesa
+Workload-Verteilung pro ZuEel in ECTS-
+Faktor
+Modulbezeichnung
+Km
+mt-
+Punkten
+Art und Umfang der Prüfung
+Modul-
+ı
+ voPpseEeRBıA
+2
+34.560.089
+note
+Überblicksvorl
+Zeitgeschichte
+| ®
+sung
+2
+5
+Klausur (90 Min.)
+1
+Neueste
+Geschichte
+Proseminar
+Zeitgeschichte II ®
+Neueste
+2
+5
+Klausur (90 Min.)
+1
+Geschichte
+Hauptseminar
+.
+Zeitgeschichte III ®
+Neueste
+2
+5
+Referat (80 ln) une
+1
+.
+Hausarbeit (15-20 S.)
+Geschichte
+180
+22
+0.
+Summe SWS und ECTS-Punkte:
+|
+40
+95
+15
+20
+15
+15
+15
+10
+17,
+75
+0
+5
+!
+Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.
+?2
+Die konkrete Prüfungsform wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt; Näheres
+ist
+in der
+Modulbeschreibung geregelt.
+3
+Es müssen zwei der drei Module belegt werden. Die konkrete Prüfungsform wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem
+Lehrenden festgelegt und ist abhängig von der Wahl der konkreten Lehrveranstaltung durch die Studierende bzw. den Studierenden; Näheres ist in der Modulbeschreibung
+geregelt.
+*
+Die beiden Hauptseminare müssen aus zwei der folgenden Schwerpunkte gewählt werden: „Vergleichende Gesellschaftsanalyse“, „Bildung und Lebenslauf“, „Arbeit und
+Organisation“.
+5
+Abhängig von der Wahl der konkreten Lehrveranstaltung durch die Studierende bzw. den Studierenden; Näheres ist im Modulhandbuch geregelt.
+6
+Es sind Lehrveranstaltungen mit einem thematischen Bezug zur Zeitgeschichte ab 1917 zu belegen (vgl. 8 81 Abs.1 Ziff.
+3 LPO I).“
+b) Abs. 2 wird wie folgt geändert:
+aa) In Zeile 3 (PuGDid 2: Weiterführung der Fachdidaktik Politik und Gesellschaft) Spalte 6 (Art und Umfang der Prüfung) wird
+nach der hochgestellten Zahl „2“ die hochgestellte Zahl „9“ angefügt.
+bb) Unter der Tabelle werden in Fußnote 2 die Worte „im Modulhandbuch“ durch die Worte „in der Modulbeschreibung” ersetzt.
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+cc) Nach der Fußnote 2 wird folgende Fußnote 3 neu angefügt:
+„> Das Portfolio dient der an den lehramtsspezifischen, mehrdimensionalen Kompetenzzielen orientierten Leistungserhebung. Es umfasst mindestens zwei und
+höchstens vier Leistungsbestandteile und kann sich aus den folgenden Leistungen zusammensetzen: mündliche Leistungen (Diskussion, mündliche Prüfung, Referat
+bis 15 Minuten) und schriftliche Leistungen (Exzerpt, Kurzessay, Lerntagebuch, Protokoll bis 10 Seiten). Die konkrete Zusammensetzung des Portfolios wird abhängig
+vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt; Näheres ist in der Modulbeschreibung geregelt.“
+c)
+Abs. 4 wird wie folgt geändert:
+aa) In Zeile 3 (Examenskolloquium Soziologie) Spalte 6 (Art und Umfang der Prüfung) werden die Worte, Zeichen und Zahlen
+„Referat (20-30 Min.)“ durch das Wort, die Zeichen, Zahlen und Buchstaben „Portfolio (ca. 15 S.)“ ersetzt.
+bb) In Zeile 4 (Examenskolloquium Politikwissenschaft) Spalte 6 (Art und Umfang der Prüfung) wird nach dem Wort, den
+Zeichen, Zahlen und Buchstaben „Portfolio (ca. 15 S.)“ die hochgestellte Zahl „2° angefügt.
+cc) Nach der Fußnote 1 wird folgende Fußnote 2 neu angefügt:
+„ Das Portfolio dient der an den lehramtsspezifischen, mehrdimensionalen Kompetenzzielen orientierten Leistungserhebung. Es umfasst mindestens zwei und
+höchstens vier Leistungsbestandteile und kann sich aus den folgenden Leistungen zusammensetzen: mündliche Leistungen (Diskussion, mündliche Prüfung, Referat
+bis 15 Minuten) und schriftliche Leistungen (Exzerpt, Kurzessay, Lerntagebuch, Protokoll bis 10 Seiten). Die konkrete Zusammensetzung des Portfolios wird abhängig
+vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt; Näheres ist in der Modulbeschreibung geregelt.“
+7.
+Der bisherige $ 5 wird zum neuen 8 6.
+8. 8 6 (neu) wird wie folgt geändert:
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+a) Die Tabelle in Abs. 1 wird samt Erläuterungen wie folgt neu gefasst:
+Gesa
+Workload-Verteilung pro Semester in
+Faktor
+{|
+1
+Modulbezeichnung
+Lehrveranstaltung
+Sun
+mt-
+EuiSBunkten
+Art und Umfang der Prüfung
+Modul
+vorprs
+ECTS
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Note
+|
+Referat (30 Min.) und
+Politische Theorie &
+.
+Hausarbeit (10-12 S.) oder
+Ideengeschichte II
+Proseminar
+2
+5
+mündliche Prüfung (15-20 Min.) |
+"
+2
+Referat (30 Min.) und
+Be
+.
+Hausarbeit (10-12 S.) oder
+Politische Systeme Il
+Proseminar
+2
+5
+mündliche Prüfung (15-20 Min.)
+1
+2
+Referat (30 Min.) und
+.
+.
+.
+Hausarbeit (10-12 S.) oder
+Internationale Beziehungen II | Proseminar
+2
+5
+mündliche Prüfung (15-20 Min.)
+1
+2
+|
+Klausur (60 Min.) oder
+Soziologische Theorie
+Seminar
+2
+5
+Referat (20-30 Min.) und
+1
+Hausarbeit
+(12-15 S.)?
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Gesa
+Workload-Verteilung pro Semester in
+Faktor
+u
+1
+Modulbezeichnung
+Lehrveranstaltung
+Sun
+mt-
+Eon Bunkten
+Art und Umfang der Prüfung
+Modul
+voüoris
+ECTS
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Note
+Hauptseminar
+| | | 12), |
+|
+|
+151||| Klausur (80 Min.) oder
+Sozialstruktur
+.
+Referat (20-30 Min.) und
+1
+Haupiseminat
+| | | 121 | |
+|
+| 15 | || Hausarbeit(18.208)°
+Zeitgsshihte
+m
+m m =; m
+m =
+7777
+mn
+Überblicksvorlesun
+Zeitgeschichte
+I *
+g Neueste
+2
+5
+Klausur (90 Min.)
+1
+Geschichte
+Proseminar
+Zeitgeschichte II *
+Neueste
+2
+Klausur (90 Min.)
+1
+Geschichte
+1
+14
+10
+Summe SWS und ECTS-Punkte:
+0
+(J0)
+10
+15
+5
+15
+5
+24
+!
+Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.
+2
+Die konkrete Prüfungsform wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt; Näheres ist in der Modulbeschreibung
+geregelt.
+3
+Abhängig von der Wahl der konkreten Lehrveranstaltung durch die Studierende bzw. den Studierenden; Näheres ist im Modulhandbuch geregelt.
+*
+Es sind Lehrveranstaltungen mit einem thematischen Bezug zur Zeitgeschichte ab 1917 zu belegen (vgl. 8 56 Abs.1 Ziff.
+3 LPO I).“
+b) Abs. 2 wird wie folgt geändert:
+aa) In Zeile 3 (PuGDid 2: Weiterführung der Fachdidaktik Politik und Gesellschaft (RS-GS-MS)) Spalte 6 (Art und Umfang der
+Prüfung) wird nach der hochgestellten Zahl „2“ die hochgestellte Zahl „?“ angefügt.
+bb) Unter der Tabelle werden in Fußnote 2 die Worte „im Modulhandbuch“ durch die Worte „in der Modulbeschreibung” ersetzt.
+cc) Nach der Fußnote 2 wird folgende Fußnote 3 neu angefügt:
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+„> Das Portfolio dient der an den lehramtsspezifischen, mehrdimensionalen Kompetenzzielen orientierten Leistungserhebung. Es umfasst mindestens
+zwei und höchstens vier Leistungsbestandteile und kann sich aus den folgenden Leistungen zusammensetzen: mündliche Leistungen (Diskussion,
+mündliche Prüfung, Referat bis 15 Minuten) und schriftliche Leistungen (Exzerpt, Kurzessay, Lerntagebuch, Protokoll bis 10 Seiten). Die konkrete
+Zusammensetzung des Portfolios wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt;
+Näheres ist in der Modulbeschreibung geregelt.“
+c)
+Abs. 4 wird wie folgt geändert:
+aa) In Zeile 3 (Examenskolloquium Soziologie) Spalte 6 (Art und Umfang der Prüfung) werden die Worte, Zeichen und Zahlen
+„Referat (20-30 Min.)“ durch das Wort, die Zeichen, Zahlen und Buchstaben „Portfolio (ca. 15 S.)“ ersetzt.
+bb) In Zeile 4 (Examenskolloquium Politikwissenschaft) Spalte 6 (Art und Umfang der Prüfung) wird nach dem Wort, den
+Zeichen, Zahlen und Buchstaben „Portfolio (ca. 15 S.)“ die hochgestellte Zahl „2° angefügt.
+cc) Nach der Fußnote 1 wird folgende Fußnote 2 neu angefügt:
+„- Das Portfolio dient der an den lehramtsspezifischen, mehrdimensionalen Kompetenzzielen orientierten Leistungserhebung. Es umfasst mindestens
+zwei und höchstens vier Leistungsbestandteile und kann sich aus den folgenden Leistungen zusammensetzen: mündliche Leistungen (Diskussion,
+mündliche Prüfung, Referat bis 15 Minuten) und schriftliche Leistungen (Exzerpt, Kurzessay, Lerntagebuch, Protokoll bis 10 Seiten). Die konkrete
+Zusammensetzung des Portfolios wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt;
+Näheres ist in der Modulbeschreibung geregelt.“
+9.
+Der bisherige 8 6 wird zum neuen &8 7.
+10. 8 7 (neu) wird wie folgt geändert:
+a) Die Tabelle in Abs. 1 wird samt Erläuterungen wie folgt neu gefasst:
+```
+
+### OCR Seite 9
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Workload-Verteilung pro Semester in
+Fakto
+SWS
+ECTS-Punkten'
+r
+Modulbezeichnung
+Lehrveranstaltung
+ECTS
+Art und Umfang der Prüfung
+Modu
+n
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+I-
+vV‚U
+PS
+Note
+|
+Einführung in die
+.
+Be
+..
+Klausur (60 Min.) oder
+Poifische Dsieme für
+Proseminar
+2
+5
+Referat (30 Min.) und
+1
+Hausarbeit
+(10-12 S.)
+?
+Examenskolloquium
+.
+.
+3
+|
+Klausur (60 Min.) oder
+Soziologische Theorie
+Seminar
+2
+5
+Referat (20-30 Min.) und
+1
+Hausarbeit
+(12-15 S.)
+?
+|
+|
+Überblicksvorlesun
+Zeitgeschichte I?
+g Neueste
+2
+5
+Klausur (90 Min.)
+1
+Geschichte
+Summe SWS und ECTS-Punkte:
+6|2
+16
+54
+10
+10
+10
+10
+5
+4
+0
+```
+
+### OCR Seite 10
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+!
+Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.
+2
+Abhängig von der Wahl der konkreten Lehrveranstaltung durch die Studierende bzw. den Studierenden; Näheres ist in der Modulbeschreibung geregelt.
+3
+Das Portfolio dient der an den lehramtsspezifischen, mehrdimensionalen Kompetenzzielen orientierten Leistungserhebung. Es umfasst mindestens zwei und höchstens vier
+Leistungsbestandteile und kann sich aus den folgenden Leistungen zusammensetzen: mündliche Leistungen (Diskussion, mündliche Prüfung, Referat bis 15 Minuten) und
+schriftliche Leistungen (Exzerpt, Kurzessay, Lerntagebuch, Protokoll bis 10 Seiten). Die konkrete Zusammensetzung des Portfolios wird abhängig vom didaktischen Konzept
+der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt; Näheres ist in der Modulbeschreibung geregelt.
+*
+Es sind Lehrveranstaltungen mit einem thematischen Bezug zur Zeitgeschichte ab 1917 zu belegen (vgl. $ 56 Abs.1 Ziff.
+3 LPO I).“
+b) Abs. 2 wird wie folgt geändert:
+aa) In Zeile 3 (PuGDid 2: Weiterführung der Fachdidaktik Politik und Gesellschaft (RS-GS-MS)) Spalte 6 (Art und Umfang der
+Prüfung) wird nach der hochgestellten Zahl „2“ die hochgestellte Zahl „®“ angefügt.
+bb) Unter der Tabelle werden in Fußnote 2 die Worte „im Modulhandbuch“ durch die Worte „in der Modulbeschreibung” ersetzt.
+cc) Nach der Fußnote 2 wird folgende Fußnote 3 neu angefügt:
+„> Das Portfolio dient der an den lehramtsspezifischen, mehrdimensionalen Kompetenzzielen orientierten Leistungserhebung. Es umfasst mindestens
+zwei und höchstens vier Leistungsbestandteile und kann sich aus den folgenden Leistungen zusammensetzen: mündliche Leistungen (Diskussion,
+mündliche Prüfung, Referat bis 15 Minuten) und schriftliche Leistungen (Exzerpt, Kurzessay, Lerntagebuch, Protokoll bis 10 Seiten). Die konkrete
+Zusammensetzung des Portfolios wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt;
+Näheres ist in der Modulbeschreibung geregelt.“
+c) Abs. 4 wird wie folgt geändert:
+aa) In Zeile 3 (PuGDid 2: Weiterführung der Fachdidaktik Politik und Gesellschaft (RS-GS-MS)) Spalte 6 (Art und Umfang der
+Prüfung) wird nach der hochgestellten Zahl „2“ die hochgestellte Zahl „®“ angefügt.
+```
+
+### OCR Seite 11
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+bb) Unter der Tabelle werden in Fußnote 2 die Worte „im Modulhandbuch“ durch die Worte „in der Modulbeschreibung” ersetzt.
+cc) Nach der Fußnote 2 wird folgende Fußnote 3 neu angefügt:
+„. Das Portfolio dient der an den lehramtsspezifischen, mehrdimensionalen Kompetenzzielen orientierten Leistungserhebung. Es umfasst mindestens
+zwei und höchstens vier Leistungsbestandteile und kann sich aus den folgenden Leistungen zusammensetzen: mündliche Leistungen (Diskussion,
+mündliche Prüfung, Referat bis 15 Minuten) und schriftliche Leistungen (Exzerpt, Kurzessay, Lerntagebuch, Protokoll bis 10 Seiten). Die konkrete
+Zusammensetzung des Portfolios wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt;
+Näheres ist in der Modulbeschreibung geregelt.“
+d) Abs. 5 wird wie folgt geändert:
+aa) In Zeile 5 (PuGDid 2: Weiterführung der Fachdidaktik Politik und Gesellschaft (RS-GS-MS)) Spalte 6 (Art und Umfang der
+Prüfung) wird nach der hochgestellten Zahl „2“ die hochgestellte Zahl „?)“ angefügt.
+bb) Unter der Tabelle werden in Fußnote 2 die Worte „im Modulhandbuch“ durch die Worte „in der Modulbeschreibung” ersetzt.
+cc) Nach der Fußnote 2 wird folgende Fußnote 3 neu angefügt:
+„> Das Portfolio dient der an den lehramtsspezifischen, mehrdimensionalen Kompetenzzielen orientierten Leistungserhebung. Es umfasst mindestens
+zwei und höchstens vier Leistungsbestandteile und kann sich aus den folgenden Leistungen zusammensetzen: mündliche Leistungen (Diskussion,
+mündliche Prüfung, Referat bis 15 Minuten) und schriftliche Leistungen (Exzerpt, Kurzessay, Lerntagebuch, Protokoll bis 10 Seiten). Die konkrete
+Zusammensetzung des Portfolios wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt;
+Näheres ist in der Modulbeschreibung geregelt.“
+e)
+Abs. 6 wird wie folgt geändert:
+```
+
+### OCR Seite 12
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+aa) In Zeile 3 (Examenskolloquium Soziologie) Spalte 6 (Art und Umfang der Prüfung) werden die Worte, Zeichen und Zahlen
+„Referat (20-30 Min.)“ durch das Wort, die Zeichen, Zahlen und Buchstaben „Portfolio (ca. 15 S.)“ ersetzt.
+bb) In Zeile 3 (Examenskolloquium Politikwissenschaft) Spalte 6 (Art und Umfang der Prüfung) wird nach dem Wort, den
+Zeichen, Zahlen und Buchstaben „Portfolio (ca. 15 S.)“ die hochgestellte Zahl „2“ angefügt.
+cc) Nach der Fußnote 1 wird folgende Fußnote 2 neu angefügt:
+„- Das Portfolio dient der an den lehramtsspezifischen, mehrdimensionalen Kompetenzzielen orientierten Leistungserhebung. Es umfasst mindestens
+zwei und höchstens vier Leistungsbe-standteile und kann sich aus den folgenden Leistungen zusammensetzen: mündliche Leistungen (Diskussion,
+mündliche Prüfung, Referat bis 15 Minuten) und schriftliche Leistungen (Exzerpt, Kurzessay, Lerntagebuch, Protokoll bis 10 Seiten). Die konkrete
+Zusammensetzung des Portfolios wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt;
+Näheres ist in der Modulbeschreibung geregelt.“
+```
+
+### OCR Seite 13
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N
+11.
+Der bisherige $ 7 wird zum neuen 8 8.
+12.
+In8 8 (neu) wird folgender Abs. 3 neu angefügt:
+„(3) 'Die erste Änderungssatzung tritt am 1. Oktober 2026 in Kraft. ?Sie gilt für
+alle
+Studierenden,
+die
+das
+Studium
+ab dem
+Wintersemester
+2026/2027
+aufnehmen werden. ®Die Fachstudien- und Prüfungsordnung für das Fach
+Politik und Gesellschaft im Lehramtsstudiengang an der Friedrich-Alexander-
+Universität Erlangen-Nürnberg (FAU) -— FPO LA PuG - vom 4. September 2024
+tritt mit Wirkung zum 31. März 2032 außer Kraft. *Prüfungen nach der in Satz 1
+genannten Satzung werden bezogen auf das Lehramt an Gymnasien letztmals
+im Wintersemester 2031/2032 und bezogen auf das Lehramt an Real-, Grund-
+und Mittelschulen letztmals im Wintersemester 2030/2031 angeboten.
+82
+!Diese Änderungssatzung tritt zum 1. Oktober 2026 in Kraft. ?Sie gilt für alle
+Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen
+werden. ®Die Fachstudien- und Prüfungsordnung für das Fach Politik und
+Gesellschaft im Lehramtsstudiengang an der Friedrich-Alexander-Universität
+Erlangen-Nürnberg (FAU) -— FPO LA PuG - vom 4. September 2024 tritt mit
+Wirkung zum 31. März 2032 außer Kraft. *Prüfungen nach der in Satz
+1
+genannten Satzung werden bezogen auf das Lehramt an Gymnasien letztmals
+im Wintersemester 2031/2032 und bezogen auf das Lehramt an Real-, Grund-
+und Mittelschulen letztmals im Wintersemester 2030/2031 angeboten.
+13
+```
+
+### OCR Seite 14
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh \U)
+zu
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 17. Dezember 2025,
+und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5.
+März 2026
+Erlangen, den 5. März 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 5. März 2026 digital auf der Internetseite
+https://www .fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene
+Ausfertigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen
+Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und
+liegt zur Einsicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 5. März 2026
+14
+```
 

@@ -453,6 +453,49 @@ Prof. Dr.-Ing. Joachim Hornegger Präsident
 
 Die Satzung wurde am 15. Juli 2019 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 15. Juli 2019 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 15. Juli 2019. 
 
-15 
+15
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 8
+
+```
+17. Die Anlagen erhalten folgende neue Fassung:
+Anlage 1: Bachelorstudiengang Mathematik
+1a: Curricular-Übersicht
+e
+Querschnittsmodul und Seminar
+e
+15 ECTS
+2
+& 7)
+Mathematische
+SQ
+Wahlpflichtmodule
+3 =
+Theoretische
+Angewandte
+:5
+Mathematik
+Mathematik
+5
+20-40 ECTS
+20-40 ECTS
+!Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der
+folgenden Darstellung des (Muster-)Studienverlaufs (vgl. Anlage 1b). ?Zum Bestehen der
+GOP müssen mindestens 30 ECTS-Punkte aus den Modulen des Blocks „Grundlagen“
+erworben werden (8 41). ?im mathematischen Wahlpflichtbereich können Module der The-
+oretischen Mathematik und der Angewandten Mathematik aus dem entsprechenden Mo-
+dulkatalog (vgl.
+8 42 Abs. 2) frei gewählt werden wobei aus jedem dieser beiden Blöcke
+mindestens 20 ECTS-Punkte und aus beiden Blöcken zusammen in der Summe 60 ECTS-
+Punkte erworben werden müssen. *im Nebenfach (vgl.
+8 43) sollen Module im Gesamt-
+umfang von 30 ECTS-Punkten belegt werden. ®Für Art und Umfang der Lehrveranstaltun-
+gen und der Prüfungen im Wahlpflichtbereich und im Nebenfach gelten 8 42 Abs. 3 bzw.
+8 43 Abs. 3.
+8
+```
 

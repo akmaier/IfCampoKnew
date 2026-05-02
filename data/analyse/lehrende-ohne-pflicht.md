@@ -1,9 +1,9 @@
 ---
 kind: "campo-lehrende-ohne-pflicht"
 period: "Sommersemester 2026"
-candidates: 205
-excluded_because_in_faudir: 680
-scraped_at: 2026-05-02T03:32:08+00:00
+candidates: 195
+excluded_because_in_faudir: 666
+scraped_at: 2026-05-02T04:33:29+00:00
 ---
 
 # Lehrende ohne Pflichtlehre — *ohne FAUdir-Match*
@@ -21,8 +21,8 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 
 **Periode:** Sommersemester 2026
 
-**Kandidaten:** 205 (davon 34 mit "Prof" im Namen)  
-**Ausgeschlossen, weil bereits in FAUdir-Liste:** 680
+**Kandidaten:** 195 (davon 34 mit "Prof" im Namen)  
+**Ausgeschlossen, weil bereits in FAUdir-Liste:** 666
 
 ## Liste
 
@@ -256,11 +256,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Mikroökonomie Tutorium" — Tutorium
 
-### Balbiro Dhuga
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in : "Englisch: Professionalise your English C (for students taking their Staatsexamen only ) B2 level" — Übung
-  - in : "Englisch: Practical Business English" — Übung
-
 ### Christian Benker
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "K-V17_BT Orthopädie" — Vorlesung
@@ -389,11 +384,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Geologie und Geografie (FAU Scientia)  -](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md): "[PG-F1] Praktikum Petrologische Methoden" — Vorlesung
-
-### Ines Zwanger
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in : "General Language Course I  (GLC I & GLC I Plus)" — Übung
 
 ### Ingo Thievessen
   *Titel:* `Dr.`
@@ -662,14 +652,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "International vergleichende Sozialstrukturanalyse" — Vorlesung
 
-### In dieser Stunde (Teil 1) werden die Klausurfragen ausführlich besprochen.
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in : "Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin)" — Vorlesung
-
-### In dieser Stunde (Teil 2) werden die Klausurfragen ausführlich besprochen.
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in : "Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin)" — Vorlesung
-
 ### In Erlangen
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Interdisziplinäre und standortübergreifende Übung" — Übung
@@ -681,15 +663,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### In Summer Semester 2026 all exercises will be held at Lange Gasse 20.&nbsp;
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA Üb Social Policy in an Interdependent World (Ü1: BA SPIW)" — Übung
-
-### Ingrid Mina Fandrych
-- Veranstaltungen ohne Pflicht-Markierung: **6**
-  - in : "General Language Course I  (GLC I & GLC I Plus)" — Übung
-  - in : "Übersetzung E-D" — Übung
-  - in : "Practical Phonetics" — Übung
-  - in : "Exam Prep Übersetzung & Sprachmittlung" — Übung
-  - in : "Presentation Skills (UfE: Elementarmodul LK)" — Übung
-  - in : "General Language Course II (GLC II & GLC II Plus)" — Übung
 
 ### Ivan Lorente Burgos
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -709,10 +682,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Jule Taubmann
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "MED 82501 Einführung muskuloskelettale Bildgebung - Ultraschall" — Seminar
-
-### Julie Porlein
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in : "Englisch: Practical Business English" — Übung
 
 ### Julien Nairaince
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -796,10 +765,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Paola Cesaroni-Meinzolt
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Tecniche di lettura" — Übung
-
-### Paul Gahman
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in : "General Language Course II (GLC II & GLC II Plus)" — Übung
 
 ### Paula Andrea Pérez Toro
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -1028,10 +993,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): "Interkulturelle Kompetenz: Theoretische und praktische Grundlagen" — Seminar
 
-### Vorbesprechung der Lehrveranstaltung "Neuroanatomie" für Studierende der Human- und Zahnmedizin. Zu diesem Termin besteht Anwesenheitspflicht.
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in : "Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin)" — Vorlesung
-
 ### Vorlesung wird in Form von Screencasts bereitgestellt, dazu Diskussion im Rahmen der Übungen.
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): "Vorlesung Grundlagen der Computerlinguistik 2" — Vorlesung
@@ -1043,14 +1004,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Würzburg, Audio-Aufnahmen online verfügbar
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Einführung in die Pädagogik bei Verhaltensstörungen" — Vorlesung
-
-### Zur Vorbereitung auf die Klausur werden in dieser Stunde MC-Fragen geübt.
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in : "Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin)" — Vorlesung
-
-### Zur Vorbereitung auf die Klausur werden in dieser Stunde wichtige Inhalte der Vorlesung wiederholt.
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in : "Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin)" — Vorlesung
 
 ### Zweitraum für Kleingruppenarbeiten&nbsp;
 - Veranstaltungen ohne Pflicht-Markierung: **1**

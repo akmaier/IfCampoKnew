@@ -75,6 +75,91 @@ Nach Abs. 2 wird folgender neuer Abs. 3 angefügt:
 
 ## **§ 2** 
 
-1Die erste Änderungssatzung tritt rückwirkend zum 1. Oktober 2024 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden. 
+1Die erste Änderungssatzung tritt rückwirkend zum 1. Oktober 2024 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden.
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+Erlangen-Nürnberg
+EA |
+|
+DTUN | )
+Erste Satzung zur Änderung der Fachstudien- und
+Prüfungsordnung für den Masterstudiengang
+Sozialökonomik der Rechts- und Wirtschaftswissenschaft-
+lichen Fakultät der Friedrich-Alexander-Universität
+Erlangen-Nürnberg (FAU)
+- FPOSozialökonomik -
+Vom 22. November 2024
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88
+Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnova-
+tionsgesetz (BayHIG) vom 5. August 2022 erlässt die FAU folgende Änderungssat-
+zung:
+81
+Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik
+der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Uni-
+versität Erlangen-Nürnberg (FAU) -— FPOSozialökonomik — vom 7. August 2024 wird
+wie folgt geändert:
+1.
+8 7 wird wie folgt geändert:
+Nach Abs. 2 wird folgender neuer Abs. 3 angefügt:
+„(3) 'Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft. 2Sie gilt
+für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025
+aufnehmen werden.“
+```
+
+### OCR Seite 2
+
+```
+DUFN
+2.
+Die Tabelle in der Anlage wird wie folgt geändert:
+a)
+In Zeile 1 wird in Spalte 3 (SWS) eine neue Unterspalte 5 (VP) angefügt.
+b) Zeile 5 (Modul Personalpsychologie) wird gestrichen und durch folgende neue Zeile 5 ersetzt:
+|
+rerrssoeniuge
+21T 1]
+||
+| le
+sonalpsychologie'
+c)
+In Zeile 17 wird nach dem Klammerzusatz „(4 Module sind zu wählen)“ die hochgestellte Zahl „'“ durch die hochgestellte Zahl „°“ ersetzt.
+d)
+In Zeile 22 wird nach dem Klammerzusatz „(2 Module sind zu wählen)“ die hochgestellte Zahl „*“ durch die hochgestellte Zahl „°“ ersetzt.
+e)
+In den Zeilen 23 und 24 wird in Spalte 2 und in Spalte 8 jeweils die hochgestellte Zahl „°“ durch die hochgestellte Zahl „°“ ersetzt.
+f)
+In Zeile 27 Spalte 3 (SWS) Unterspalte 5 (VP) wird die Zahl „0,5“ ergänzt.
+9)
+In Zeile 27 Spalte 3 (SWS) wird die Zahl „34“ durch die Zahl „34,5“ ersetzt.
+h)
+Unter der Tabelle in der Anlage wird folgende neue Fußnote 1 eingefügt:
+„' Bei der Versuchspersonenstunde (VP) und der Übung (Ü) besteht Anwesenheitspflicht. Die Teilnahme an der VP und der Ü ist Voraussetzung zum Bestehen des Moduls. Näheres
+regelt das Modulhandbuch.“
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+Erlangen-Nürnberg
+EA |
+|
+U
+//u \( )
+I)
+Die bisherige Fußnote 1 wird zur neuen Fußnote 2, die bisherige Fußnote 2
+wird zur neuen Fußnote 3.
+82
+!Die erste Änderungssatzung tritt rückwirkend zum 1. Oktober 2024 in Kraft. ?Sie gilt
+für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen
+werden.
+```
 

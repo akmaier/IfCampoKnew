@@ -452,6 +452,78 @@ das beste Ergebnis ist.[2] Die Bewertung der Bewerberin oder des Bewerbers in de
 
 
 
-18 
+18
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 8
+
+```
+diese Zusammenhänge einzuordnen vermögen. ”?Mündliche Prüfungen finden, soweit
+nichts anderes vorgeschrieben ist, in Anwesenheit einer Beisitzerin oder eines Bei-
+sitzers statt, die oder der von der Prüferin oder dem Prüfer bestellt wird. Die Dauer
+der mündlichen Prüfung wird in der Anlage geregelt; 8 15 Abs. 2 Satz 1, 2. Halbsatz
+gilt entsprechend. *Die mündlichen Prüfungen werden in englischer Sprache abge-
+nommen.
+(2) "In der mündlichen Prüfung vor mehreren prüfungsberechtigten Personen setzt
+jeder Prüfende die Note nach & 17 fest. Bei unterschiedlicher Bewertung werden die
+Noten gemittelt;
+$ 17 Abs. 4 Satz 2 gilt entsprechend.
+(3) "Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen
+ist: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung,
+die Namen der Prüfenden, der Beisitzerin oder des Beisitzers und der Studierenden
+oder des Studierenden sowie besondere Vorkommnisse. ”Das Protokoll wird von den
+prüfungsberechtigten Personen und der Beisitzerin oder dem Beisitzer unterzeichnet.
+Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich. *Das Pro-
+tokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzubewahren.
+(4) "Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung
+unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen oder
+Zuhörer zugelassen; auf Verlangen der Prüfungskandidaten werden Zuhörerinnen
+oder Zuhörer ausgeschlossen. ?Die Zulassung erstreckt sich nicht auf die Beratung
+und die Bekanntgabe des Prüfungsergebnisses.
+817
+Bewertung der Prüfungen, Notenstufen, Gesamtnote
+(1) "Die Urteile über die einzelnen Prüfungen werden von derjeweiligen Prüferin oder
+_ dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:
+sehr gut _
+_=(1,0 oder 1,3)
+_eine
+hervorragende
+esuing 727°
+befriedigend
+= (2,7 oder 3,0 oder 3,3)
+eine Leistung, die durchschnittlichen Anforderun-
+0. genentspicht;
+ausreichend
+= (3,7 oder 4,0)
+are Leistung, die trotz ihrer Mängel noch den
+I
+‚ Anforderungen enspcht,h—
+.
+.
+_
+eine Leistung, die wegen erheblicher Mängel den
+nicht ausreichend
+= (4,3 oder 4,7 oder 5,0)
+Anforderungen nicht mehr
+genüat.
+?Eine Prüfung (8 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausrei-
+chend“ bewertet ist. Bei unbenoteten Prüfungen (8 6 Abs. 3 Satz 4) lautet die Be-
+wertung „bestanden“ oder „nicht bestanden“. *Eine Modulprüfung
+ist bestanden,
+wenn sämtliche Teilleistungen bestanden sind.
+(2) "Die Gesamtnote der Masterprüfung lautet:
+bei einem Durchschnitt bis 1,5 = sehr gut
+bei einem Durchschnitt über 1,5 bis 2,5 = gut
+bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend
+bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend.
+?Wer die Masterprüfung mit einer Gesamtnote von 1,0 bis 1,2 abschließt, erhält das
+Gesamturteil "mit Auszeichnung bestanden".
+(3) 'In die Gesamtnote der Masterprüfung gehen die Modulnoten mit dem Gewicht
+der ECTS-Punkte ein, die dem entsprechenden Modul nach dem Besonderen Teil
+dieser Prüfungsordnung zugewiesen ist. Bei der Berechnung der Gesamtnote der
+8
+```
 

@@ -354,6 +354,1290 @@ Wirtschaftsinformatik /International Information Systems (IIS) der Rechts- und W
 
 - 2) Auswahl von Modulen im Umfang von 15 ECTS-Punkten gemäß § 8 und Modulhandbuch. Art und Umfang der Lehrveranstaltung(en) und der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen. Bei der Modulwahl ist § 4 Abs. 3 Satz 3 **MPOWISO** zu beachten. 
 
-11 
+11
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+Erlangen-Nürnberg
+EA |
+|
+DUFN | )
+Fachstudien- und Prüfungsordnung für den
+Masterstudiengang International Information Systems (IIS)
+der Rechts- und Wirtschaftswissenschaftlichen Fakultät
+der Friedrich-Alexander-Universität
+Erlangen-Nürnberg (FAU)
+- FPOIIS —
+Vom 29. Februar 2024
+geändert durch Satzung vom
+11. Juli 2025
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88
+Abs.
+9,
+Art.
+90
+Abs.
+1
+Satz
+2
+und
+Art.
+96
+Abs.
+3
+Satz
+1
+Bayerisches
+Hochschulinnovationsgesetz vom 5. August 2022 (BayHIG) erlässt die FAU folgende
+Fachstudien- und Prüfungsordnung:
+Inhaltsverzeichnis:
+8 1 Geltungsbereich .................-.44444444Hnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+1
+$ 2 Zugangskommission zum Masterstudiengang ...................rsr4444Hnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+1
+$ 3 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................ 2
+8 4 Umfang und Gliederung des Masterstudiums, Prüfungen, Schwerpunktbereiche,
+Auslandsaufenthalt, Unterrichts- und Prüfungssprache ..................2444400ssnnsssnnnnnnnnennnnnnn 4
+$ 5 Wahlpflichtbereich Information Systems..................-.4444444nnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ö
+8 6 Wahlpflichtbereich Informatics...................4444444snnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ö
+8 7 Study Abroad Courses ............244sssssnnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ST
+$ 8 Interdisciplinary Qualifications gemäß $ 4 Abs. 3 Satz3... 8
+$ 9 Inkrafttreten und Übergangsvorschriften..........uuuu.s24422nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+OÖ
+Anlage: Studienverlaufsplan Master IIS.................uusssunnn4sssnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnn1
+8 1 Geltungsbereich
+Die
+Fachstudien-
+und
+Prüfungsordnung
+für
+den
+forschungsorientierten
+Masterstudiengang „International Information Systems (IIS)“ mit dem Abschlussziel
+des
+„Master
+of
+Science“
+ergänzt
+die
+Rahmenprüfungsordnung
+für
+die
+Masterstudiengänge
+im
+Fachbereich
+Wirtschafts-
+und
+Sozialwissenschaften
+der
+Rechts- und Wirtschaftswissenschaftlichen
+Fakultät der FAU — MPOWISO -in der
+jeweils geltenden Fassung.
+8 2 Zugangskommission zum Masterstudiengang
+!Die Zugangskommission zum Masterstudiengang International Information Systems
+setzt sich aus den hauptberuflichen Hochschullehrerinnen bzw. Hochschullehrern des
+Instituts
+für
+Wirtschaftsinformatik
+am
+Fachbereich
+Wirtschafts-
+und
+Sozialwissenschaften im Sinne des Art. 19 Abs.
+1 BayHIG sowie fünf Vertreterinnen
+bzw.
+Vertretern
+der
+wissenschaftlichen
+und
+künstlerischen
+Mitarbeiterinnen
+und
+Mitarbeiter im Sinne des Art. 19 Abs. 1 BayHIG zusammen, die jeweils hauptberuflich
+im Sinne des Art. 53 Abs. 4 BayHIG im Studiengang tätig sind. ?Unterschreitet die
+Anzahl der hauptberuflichen Hochschullehrerinnen und Hochschullehrer nach Satz 1
+die
+Zahl
+5,
+so
+reduziert
+sich
+die Anzahl
+der
+Vertreterinnen
+und
+Vertreter der
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| =g \U
+ul /zu\
+wissenschaftlichen und künstlerischen Mitarbeiterinnen und Mitarbeiter nach Satz
+1
+jeweils
+dergestalt,
+dass
+stets
+gewährleistet
+ist,
+dass
+die
+hauptberuflichen
+Hochschullehrerinnen und Hochschullehrer im Sinne des Art. 19 Abs. 1 BayHIG über
+mindestens die Hälfte der Stimmen verfügen.
+8 3 Qualifikation zum Masterstudium, Nachweise und
+Zugangsvoraussetzungen
+(1) Einschlägige Abschlüsse im Sinne des $ 32 Abs. 1 Satz 1 Nr.
+1 MPOWISO sind
+insbesondere
+Bachelorabschlüsse aus den
+Bereichen
+Wirtschaftswissenschaften,
+Wirtschaftsinformatik, Technik oder Informatik (insbesondere Bachelorstudiengänge in
+Wirtschaftswissenschaften,
+Wirtschaftsinformatik,
+International
+Business
+Studies,
+Informatik, Informations- und Kommunikationstechnik und Wirtschaftsingenieurwesen
+an
+der
+FAU
+sowie
+vergleichbare
+Studiengänge
+anderer
+Hochschulen,
+z.
+B.
+Betriebswirtschaftsiehre,
+Business
+Administration,
+Information
+Systems,
+oder
+Computer Science).
+(2) Folgende weitere Unterlagen im Sinne der Nr. 2.3.3 Anlage zur MPOWISO sind
+vorzulegen:
+1.
+Nachweis über adäquate Kenntnisse der englischen Sprache auf mindestens dem
+Niveau Ci
+des Gemeinsamen Europäischen Referenzrahmens für Sprachen
+(GER);
+hierzu
+ist
+von
+den
+Bewerberinnen
+und
+Bewerbern,
+deren
+Hochschulzugangsberechtigung
+nicht
+in
+den
+USA,
+Kanada,
+Australien,
+Neuseeland,
+Irland
+oder dem
+Vereinigten
+Königreich
+erworben
+wurde,
+der
+Nachweis durch einen der folgenden anerkannten Sprachtests zu erbringen:
+a)
+„Test of English as a Foreign Language“ (TOEFL) (mindestens 100 Punkte im
+Einzeltest, „MyBest“-Score wird nicht akzeptiert),
+b)
+das „International English Language Testing System“ (IELTS) (mindestens 7,0
+Punkte),
+c)
+UNICERT II,
+d)
+die
+„Cambridge
+Main
+Suite
+of
+English
+Examinations,
+insbesondere
+„Cambridge Advanced English“ (CAE) oder
+e)
+„Cambridge English Proficiency“ (CPE).
+2.
+Nachweise über den Umfang und die Qualität sonstiger Fähigkeiten, Kenntnisse
+und Softskills der folgenden Bereiche, soweit vorhanden:
+a)
+fachlich einschlägige Auslandsaufenthalte, insbesondere Auslandssemester
+oder Auslandspraktika; der Nachweis kann z. B. durch ein ausländisches
+Transcript of Records oder einen sonstigen Leistungsnachweis der jeweiligen
+Hochschule
+bzw.
+ein
+Arbeits-
+oder
+Praktikumszeugnis
+des
+jeweiligen
+Arbeitgebers erbracht werden, und/oder
+b)
+fachlich einschlägige berufspraktische Tätigkeiten, insbesondere
+Praktika,
+Berufsausbildung,
+Tätigkeiten
+als
+wissenschaftliche
+Hilfskraft
+oder
+Werkstudententätigkeiten;
+der
+Nachweis
+kann
+z.
+B.
+durch
+einen
+Arbeitsvertrag,
+ein
+Arbeits-
+oder
+Praktikumszeugnis
+oder
+sonstigen
+Tätigkeitsnachweis des jeweiligen Arbeitgebers erfolgen, und/oder
+c)
+adäquate
+Kenntnisse
+einer
+weiteren
+Fremdsprache
+(Englisch
+und
+Erstsprache(n) der Bewerberin bzw. des Bewerbers sind ausgeschlossen); der
+Nachweis ist durch ein Sprachzertifikat zu führen, aus dem das Niveau des
+Gemeinsamen
+Europäischen
+Referenzranmens
+für
+Sprachen
+(GER)
+hervorgeht.
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| =g \U
+ul /zu\
+(3) 'In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach
+Nr. 2.3 Anlage zur MPOWISO und Abs. 2 einzureichenden Unterlagen nach folgenden
+Kriterien mit insgesamt maximal 100 zu vergebenden Punkten gemäß Nr. 5.1 Anlage
+zur MPOWISO wie folgt bewertet:
+1.
+Qualität der im einschlägigen Erstabschluss nach Abs.
+1
+erzielten Leistungen
+anhand des Notendurchschnitts (max. 40 Punkte),
+2.
+Einschlägigkeit der für das Studienziel relevanten Kenntnisse aus (auch vom
+einschlägigen
+Erstabschluss
+unabhängigen)
+Vorstudien
+in
+den
+Bereichen
+Wirtschaftswissenschaften,
+Informatik
+und
+Wirtschaftsinformatik,
+Bewertung
+anhand der vorgelegten Nachweise (max. 45 Punkte),
+3.
+Umfang
+und
+Dauer
+fachlich
+einschlägiger
+berufspraktischer
+Tätigkeiten,
+insbesondere Praktika, Berufsausbildung, oder qualifizierte Auslandsaufenthalte;
+Bewertung anhand der nach Abs. 2 Nr. 2 a) und b) eingereichten Nachweise (max.
+10 Punkte),
+4.
+Qualität
+der
+Fremdsprachenkenntnisse
+anhand
+der nach
+Abs.
+2
+Nr.
+2
+c)
+eingereichten Nachweise (max. 5 Punkte).
+Für die Kriterien nach Satz 1 werden jeweils Punkte wie folgt vergeben:
+1.
+"Die Qualität der im ersten berufsqualifizierenden Abschluss erzielten Leistungen
+gemäß Satz 1 Nr. 1 fließt mit maximal 40 Punkten in die Bewertung mit ein. ?Die
+Punktevergabe richtet sich nach Tabelle 1.
+Tabelle 1: Notenumrechnung gem. Satz 1 Nr. 1
+| _ Note
+| Punkte |
+Note
+|
+Punkte
+|
+a
+19
+|
+175
+|
+|
+2
+760
+|
+780]
+|
+|
+|
+|
+0
+700
+|
+|
+|
+70
+a
+55
+|
+| A
+|
+|
+25
+|
+a
+|
+|
+mas
+Bar
+0]
+2.
+"Die für das Studienziel relevanten Kenntnisse
+in Wirtschaftswissenschaften,
+Informatik und Wirtschaftsinformatik gemäß Satz
+1
+Nr. 2 fließen mit maximal
+45 Punkten in die Bewertung ein, wobei maximal
+a)
+30
+Punkte
+für
+besondere
+Fachkenntnisse
+in
+den
+Grundlagen
+der
+Wirtschaftswissenschaften,
+b)
+40 Punkte für Fachkenntnisse in den Grundlagen der Informatik sowie
+c)
+20
+Punkte
+für
+besondere
+Fachkenntnisse
+in
+den
+Grundlagen
+der
+Wirtschaftsinformatik vergeben werden; dabei entspricht die Höhe der zu
+vergebenden Punkte jeweils der halben Anzahl der im jeweiligen Bereich
+erzielten ECTS-Punkte.
+3.
+"Einschlägige/studiengangsspezifische Berufserfahrung und Auslandsaufenthalte,
+insbesondere Praktika, Berufsausbildung oder qualifizierte Auslandsaufenthalte
+gemäß Satz 1
+Nr. 3 fließen mit maximal 10 Punkten in die Bewertung mit ein.
+®Dabei werden pro Monat der Beschäftigung in einschlägigen Vollzeitpraktika /
+3
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| =g \U
+ul /zu\
+Berufstätigkeiten oder Auslandsaufenthalten
+1,7 Punkte vergeben sowie 0,85
+Punkte pro Monat der Beschäftigung in einschlägigen Nebentätigkeiten.
+4.
+"Die Qualität der Fremdsprachenkenntnisse gemäß Satz 1 Nr. 4 fließt mit maximal
+5 Punkten in die Bewertung ein. ®Die Punktevergabe richtet sich nach Tabelle 2:
+Tabelle 2: Bewertung der Fremdsprachenkenntnisse gem. Satz 1 Nr. 4
+ILevel
+|
+Punkte |
+BO
+a
+Po
+BEEVE
+ES \ DE
+ken
+|
+0
+®Die Gesamtpunktzahl der erreichten Punkte ergibt sich aus der Addition der in den
+einzelnen gewichteten Kriterien vergebenen Punkte. *Bewerberinnen bzw. Bewerber,
+die mindestens 65
+Punkte
+erreicht haben,
+erhalten
+eine
+Bestätigung
+über die
+bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit
+weniger als 65 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung
+versehenen ablehnenden Bescheid.
+8 4 Umfang und Gliederung des Masterstudiums, Prüfungen,
+Schwerpunktbereiche, Auslandsaufenthalt, Unterrichts- und Prüfungssprache
+(1) 'Umfang und Gliederung des Masterstudiums ergeben sich aus den folgenden
+Absätzen sowie der Anlage. ?Art und Umfang der Prüfungen bestimmen sich nach
+88 5 bis 8 sowie der Anlage und 88 17 bis 24 MPOWISO. ?Module, die im Rahmen
+des
+Bachelorstudiums
+oder
+in
+anderen
+Bereichen
+des
+Masterstudiums
+bereits
+absolviert
+wurden,
+können
+wegen
+des
+erforderlichen
+fachspezifischen
+Kompetenzgewinns,
+welcher
+sich
+aus
+der
+Modulbeschreibung
+im
+Kontext des
+Qualifikationsziels des jeweiligen Masterstudiengangs ergibt, in der Regel nicht mehr
+in die Masterprüfung bzw. in einen anderen Bereich des Masterstudiums eingebracht
+werden; der Prüfungsausschuss kann Ausnahmen zulassen.
+(2) 'Im ersten Semester werden interdisziplinäre Kenntnisse und Grundlagenwissen
+vermittelt. ?Vorhandenes Vorwissen aus Management und Informatik wird jeweils
+komplementär
+durch
+Veranstaltungen
+des
+jeweils
+anderen
+Bereichs
+ergänzt.
+°Studierende
+mit
+einem
+Abschluss
+in
+Wirtschaftswissenschaften
+oder
+einem
+verwandten Fach gemäß $ 3 Abs.
+1 erhalten im ersten Semester eine Einführung in
+ausgewählte Grundlagen der Informatik aus dem Bereich Customized Introduction to
+International
+Information
+Systems.
+*Studierende
+mit
+einem
+technischen
+oder
+informatikbezogenen Abschluss erhalten im ersten Semester eine Einführung
+in
+ausgewählte
+Grundlagen
+der
+Betriebswirtschaft
+aus dem
+Bereich
+Customized
+Introduction to International Information Systems.
+(3)
+'Im
+weiteren
+Verlauf
+des
+Studiums
+werden
+den
+Studierenden
+in
+zwei
+Wahlpflichtbereichen
+mit
+jeweils
+unterschiediichem
+Fokus
+(vgl.
+$$
+5
+und
+6)
+Kompetenzen vor allem in folgenden drei Bereichen vermittelt:
+1.
+"Im Modulbereich ‚Data and Knowledge‘ haben die Studierenden die Möglichkeit,
+wichtige Methoden und Instrumente der Datenanalyse, -auswertung und -nutzung
+kennenzulernen.
+?Des
+Weiteren
+befasst
+sich
+dieser
+Modulbereich
+mit
+der
+4
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| =g \U
+ul /zu\
+datengestützten Generierung von neuen Informationen und Wissen sowie dem
+Wissensmanagement.
+2.
+"Im Modulbereich ‚Digital Business‘ werden den Studierenden Module angeboten,
+um Kompetenzen des Prozess-, Innovations- und Geschäftsmodellmanagements
+zu erlernen. Dabei wird insbesondere auf die Möglichkeiten des Einsatzes von
+Informations- und Anwendungssystemen eingegangen.
+3.
+'Im
+Modulbereich
+‚Architectures
+and
+Development‘
+erlernen
+Studierende
+Techniken und Methoden für die Konzeption und Entwicklung von Software. ?Dies
+beinhaltet
+sämtliche
+Phasen
+des
+Software-Engineering-Prozesses
+von
+Anforderungsmanagement
+über
+Software-Projektmanagement
+bis
+zum
+systematischen Testen von Software und Software-Systemen.
+*Die Wahlpflichtbereiche nach 8$
+5 und 6
+beinhalten
+darüber hinaus jeweils
+‚Extension Courses‘ ($ 5 Abs. 3 bzw. $ 6 Abs. 3) und ‚Study Abroad Courses‘ ($ 7).
+°Das Studium wird abgerundet durch die ‚Interdisciplinary Qualifications‘ ($ 8) und
+schließt mit der Masterarbeit ab.
+(4) Aufbauend auf den
+in Abs. 3 Satz
+1 genannten Modulbereichen können die
+Studierenden
+einen
+Schwerpunktbereich
+studieren.
+?”Schwerpunktbereiche
+sind
+inhaltlich zusammenhängende Module,
+in denen mindestens 25 ECTS-Punkte zu
+erwerben sind. ?Als Schwerpunktbereiche gelten die in Abs. 3 genannten Bereiche.
+“im Modulhandbuch wird angegeben, welches Modul welchem Schwerpunktbereich
+zugeordnet ist. Bei Zuordnung eines Moduls zu mehreren Schwerpunktbereichen
+können die Studierenden selbst festlegen, welchem Schwerpunktbereich ein Modul
+zugeordnet wird. In jedem Schwerpunktbereich muss mindestens ein Modul (5 ECTS-
+Punkte) aus dem Wahlpflichtbereich Information Systems und mindestens ein Modul
+(5 ECTS-Punkte) aus dem Wahlpflichtbereich
+Informatics gewählt werden. ’Die
+Anerkennung von mehr als einem studierten Schwerpunktbereich ist nicht zulässig.
+Wenn
+Studierende
+jeweils
+mindestens
+25
+ECTS-Punkte
+in
+mehr
+als
+einem
+Schwerpunkbereich erworben haben, wird der Schwerpunktbereich mit der besten
+Durchschnittsnote
+berücksichtigt. Auf Antrag
+der bzw. des Studierenden
+beim
+Prüfungsausschuss
+kann
+auch
+ein
+anderer
+Schwerpunktbereich,
+bei dem
+die
+vorgenannten Voraussetzungen erfüllt sind, anerkannt werden.
+(5) 'Im Verlauf des Studiums müssen die Studierenden mindestens ein Semester im
+Ausland verbringen. ®Hierfür kommen ein Studiensemester an einer ausländischen
+Hochschule
+sowie
+die
+Ausarbeitung
+der
+Masterarbeit
+an
+einer
+ausländischen
+Hochschule
+oder
+bei
+einem
+Unternehmen
+im
+Ausland
+in
+Betracht.
+*Um
+das
+Qualifikationsziel des Auslandsaufenthalts zu erreichen, kann dieser nicht in dem Land
+absolviert werden,
+in dem
+die
+Hochschulzugangsberechtigung
+oder
+der
+erste
+berufsqualifizierende Hochschulabschluss erworben wurde. *Studierende, die sowohl
+die
+Hochschulzugangsberechtigung
+als
+auch
+den
+ersten
+berufsqualifizierenden
+Studienabschluss in einem Land erworben haben, in dem Deutsch keine Amtssprache
+ist, sind auf Antrag von der Verpflichtung zum Erbringen eines Auslandsaufenthalts
+nach Satz 1 zu befreien.
+(6)
+'$ 4 Abs. 5 MPOWISO
+gilt
+mit der Maßgabe, dass die
+Unterrichts-
+und
+Prüfungssprache in den Modulen des Pflichtbereichs Englisch ist. ?Im Wahlbereich
+können
+auch
+Module
+angeboten
+werden,
+in
+denen
+die
+Uhnterrichts-
+und
+Prüfungssprache Deutsch ist. ®Des Weiteren können nach Wahl der Studierenden in
+5
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| =g \U
+lu
+den
+Foreign Language
+Skills Modulen weitere Fremdsprachen
+zur Anwendung
+kommen.
+8 5 Wahlpflichtbereich Information Systems
+(1)
+'Das
+übergeordnete
+Qualifikationsziel
+des
+Wahlpflichtbereichs
+Information
+Systems
+liegt darin, den Studierenden
+zu den
+einzelnen
+Modulbereichen
+nach
+8$4Abs.3
+aus
+der
+fachlichen
+Perspektie
+der
+Wirtschaftsinformatik
+anwendungsbezogenes Wissen zu vermitteln. Dabei werden die einzelnen Themen
+aus einer soziotechnischen Perspektive betrachtet, die das Zusammenspiel zwischen
+betriebswirtschaftlichen
+Aufgabenstellungen,
+menschlichen
+Akteurinnen
+bzw.
+Akteuren und IT-basierten Anwendungssystemen im jeweiligen Kontext untersucht.
+°Die Wahlfreiheit innerhalb der Bereiche ermöglicht es den Studierenden,
+sich
+thematisch
+zu
+fokussieren.
+*Das
+spezifische
+Qualifikationsziel
+und
+die
+Prüfungsgegenstände der einzelnen wählbaren Module sind abhängig vom jeweils
+gewählten Modul und dem Modulhandbuch zu entnehmen.
+(2) 'Im Wahlpflichtbereich Information Systems im Umfang von insgesamt 30 ECTS-
+Punkten müssen
+die Studierenden aus jedem
+Modulbereich
+nach
+$& 4 Abs.
+3
+mindestens 5 ECTS-Punkte nachweisen. ?Im Rahmen der weiteren zu erbringenden
+ECTS-Punkte können die Studierenden bis zu 15 weitere ECTS-Punkte aus den drei
+in $ 4 Abs. 3 genannten Modulbereichen, bis zu 10 ECTS-Punkte aus dem Bereich
+‚Extension Courses‘ (vgl. Abs. 3) sowie bis zu 10 ECTS-Punkte aus dem Bereich
+‚Study Abroad Courses‘ (vgl. $ 7) einbringen.
+(3)
+'Im
+Rahmen
+des
+Wahlpflichtbereichs
+Information
+Systems
+stehen
+den
+Studierenden
+optional
+Module
+aus dem
+Bereich
+der
+‚Extension
+Courses‘
+zur
+Verfügung.
+?Das
+spezifische
+Qualifikationsziel
+dieser
+Module
+liegt
+darin,
+den
+Studierenden
+ergänzendes
+domänenspezifisches
+Wissen
+zu
+den
+Anwendungsgebieten der Wirtschaftsinformatik zu vermitteln.
+(4) "Art und Umfang der Prüfung der einzelnen Module sind abhängig von den jeweils
+vermittelten Kompetenzen nach Abs.
+1
+und dem Modulhandbuch zu entnehmen.
+®Mögliche
+Prüfungsarten
+sind:
+Klausur,
+Präsentation,
+Fallstudie,
+oder Seminar-
+/Projektarbeit sowie Kombinationen derselben; $ 6 Abs. 2 Satz
+3 MPOWISO bleibt
+unberührt. *Für Importmodule oder im Ausland absolvierte Module gilt bezüglich Art
+und Umfang der Prüfung die (Fach-)Studien- und Prüfungsordnung des jeweiligen
+Faches bzw. der Hochschule im Ausland.
+(5) 'Die Module im Wahlpflichtbereich Information Systems setzen sich in der Regel
+entweder aus einer Vorlesung (4 SWS) oder einer Vorlesung (2 SWS) und einer Ubung
+(2 SWS) oder einer Vorlesung (2 SWS) und einem Seminar (2 SWS) oder zwei
+Seminaren (2 SWS + 2 SWS) zusammen. ?Näheres wird im Modulhandbuch geregelt.
+®Im Falle von Importmodulen oder im Ausland absolvierten Modulen können die
+Angaben abweichen; es gelten in diesem Fall die Angaben der jeweils einschlägigen
+(Fach-)Studien-
+und
+Prüfungsordnung
+bzw.
+der
+jeweils
+einschlägigen
+Modulbeschreibung bzw. der Hochschule im Ausland.
+8 6 Wahlpflichtbereich Informatics
+(1) 'Das übergeordnete Qualifikationsziel des Wahlpflichtbereichs Informatics liegt
+darin, den Studierenden zu den einzelnen Modulbereichen nach $ 4 Abs. 3 aus der
+6
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| =g \U
+ul /zu\
+fachlichen Perspektive der Informatik anwendungsbezogenes Wissen zu vermitteln.
+*Dabei werden die einzelnen Themen aus einer operativ-technischen Perspektive
+betrachtet, die die Konzeption, Gestaltung und Implementierung von IT-basierten
+Anwendungssystemen aus technischer Sicht im jeweiligen Kontext untersucht. 3Die
+Wahlfreiheit innerhalb der Bereiche ermöglicht es den Studierenden, sich thematisch
+zu fokussieren. *Das spezifische Qualifikationsziel der einzelnen wählbaren Module ist
+abhängig vom jeweils gewählten Modul und dem Modulhandbuch zu entnehmen.
+(2) 'Im Wahlpflichtbereich Informatics im Umfang von insgesamt 30 ECTS-Punkten
+müssen die Studierenden aus jedem
+Modulbereich mindestens 5 ECTS-Punkte
+nachweisen. ?Im Rahmen der weiteren zu erbringenden ECTS-Punkte können die
+Studierenden bis zu 15 weitere ECTS-Punkte aus den drei in $ 4 Abs. 3 Satz
+1
+genannten Modulbereichen, bis zu 10 ECTS-Punkte aus dem Bereich ‚Extension
+Courses‘ (vgl. Abs. 3) sowie bis zu 10 ECTS-Punkte aus dem Bereich ‚Study Abroad
+Courses‘ (vgl. $ 7) einbringen.
+(3) 'Im Rahmen des Wahlpflichtbereichs Informatics stehen den Studierenden optional
+Module aus dem Bereich der ‚Extension Courses‘ zur Verfügung. Das spezifische
+Qualifikationsziel
+dieser
+Module
+liegt
+darin,
+den
+Studierenden
+ergänzendes
+domänenspezifisches
+Wissen
+zu
+den
+Anwendungsgebieten
+der
+Informatik
+zu
+vermitteln.
+(4) "Art und Umfang der Lehrveranstaltungen und Prüfungen sind abhängig von den
+jeweils vermittelten Kompetenzen nach Abs. 1 und richten sich nach der Fachstudien-
+und Prüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der
+Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- FPOINF - in der jeweils geltenden Fassung.
+(5) 'Für den Wahlpflichtbereich Informatics wird eine Zwischennote gebildet, in welche
+die jeweiligen einzelnen dem Wahlpflichtbereich zugeordneten Modulbereiche mit dem
+Gewicht der dort jeweils erreichten ECTS-Punkte eingehen. ?Die Zwischennote des
+Wahlpflichtbereichs Informatics geht dann mit dem Gewicht in die Abschlussnote ein,
+welches ihm im Curriculum zugeordnet ist.
+8 7 Study Abroad Courses
+(1) 'Im Rahmen der Wahlpflichtbereiche Information Systems (vgl. 8 5) und Informatics
+(vgl. 8 6) stehen den Studierenden optional Module aus dem Bereich ‚Study Abroad
+Courses‘ zur Verfügung. ?Das übergeordnete Qualifikationsziel des Bereichs ‚Study
+Abroad Courses‘ liegt darin, den Studierenden sonstiges einschlägiges Wissen zu den
+Anwendungsgebieten der im jeweiligen Wahlpflichtbereich erworbenen Kenntnisse zu
+vermitteln, welches von den übrigen Modulen im entsprechenden Wahlpflichtbereich
+nicht abgedeckt wird. ®Durch den Erwerb dieser Kenntnisse an einer ausländischen
+Hochschule
+wird
+dies
+durch
+den
+Erwerb
+interkultureller
+Kompetenzen
+bzw.
+Perspektiven auf die behandelten Themen ergänzt. *Das spezifische Qualifikationsziel
+und die Prüfungsgegenstände der einzelnen wählbaren Module sind abhängig vom
+jeweils
+gewählten
+Modul
+und dem
+Modulangebot der jeweiligen
+ausländischen
+Hochschule zu entnehmen.
+7
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| =g \U
+ul /zu\
+(2) "Art und Umfang der Lehrveranstaltungen und Prüfungen sind abhängig von den
+jeweils
+vermittelten
+Kompetenzen
+nach
+Abs.
+1
+und
+richten
+sich
+nach
+der
+(Fach-)Studien- und Prüfungsordnung der jeweiligen Hochschule im Ausland.
+$ 8 Interdisciplinary Qualifications gemäß $ 4 Abs. 3 Satz 3
+(1) 'Das übergeordnete Qualifikationsziel der ‚Interdisciplinary Qualifications‘
+liegt
+erstens darin, es den Studierenden zu ermöglichen, sich in den Schwerpunktbereichen
+des Studiengangs, welche sowohl
+in der Wirtschaftsinformatik
+als auch
+in der
+Informatik
+verortet
+sind,
+sowie
+interdisziplinär gemäß
+der
+nachfolgenden
+Abs.
+thematisch
+zu
+vertiefen.
+?Zweitens
+werden
+Perspektiven
+auf
+weitere
+Gegenstandsfelder angeboten, um den Beobachtungshorizont zu erweitern und eine
+interdisziplinäre Sichtweise auf Thematiken rund um die Wirtschaftsinformatik zu
+fördern. ®Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im
+Hinblick auf das zukünftige Berufsfeld ein besonderes, individuelles Profil auszubilden.
+(2) "Das spezifische Qualifikationsziel der ‚Foreign Language Skills‘ liegt darin, den
+Studierenden
+die
+Fähigkeit
+zu
+vermitteln,
+sich
+im
+internationalen
+Umfeld
+auf
+verschiedenen
+Sprachen
+verständigen
+zu
+können.
+?Studierende
+können
+dementsprechend alle vom Sprachenzentrum angebotenen Sprachmodule belegen;
+ausgenommen sind Sprachmodule in Englisch bis zur Niveaustufe Ci des GER sowie
+der
+im
+Rahmen
+des
+Zugangs
+zum
+Studiengang
+nachgewiesenen
+zweiten
+Fremdsprache und der Erstsprache der bzw. des Studierenden.
+(3) "Das spezifische Qualifikationsziel des Studium Generale liegt darin, es den
+Studierenden zu ermöglichen, den Beobachtungshorizont zu erweitern und das eigene
+Profil zu schärfen. ?Wählbar sind dabei Module aus dem gesamten Angebot der FAU.
+(4) 'Das spezifische Qualifikationsziel des IIS Seminars liegt darin, den Studierenden
+die
+Fähigkeit zu
+vermitteln,
+sich
+systematisch
+mit einem
+aktuellen Thema aus
+Forschung bzw. Praxis der Wirtschaftsinformatik auseinanderzusetzen und die eigene
+Auffassung dazu in einer Diskussion zu vertreten. Dabei vertiefen die Studierenden
+durch wissenschaftliche Arbeit im Projektkontext ihre Fachkenntnisse und schärfen
+ihre analytischen sowie argumentativen Fähigkeiten.“
+(5)'Die Prüfungsgegenstände sowie Art und Umfang der Prüfungen
+im Bereich
+Interdisciplinary Qualifications sind abhängig von den im jeweils gewählten Modul
+vermittelten Kompetenzen nach Abs. 1 und der Anlage bzw. dem Modulhandbuch zu
+entnehmen. Im Übrigen
+gilt für die ‚Foreign Language
+Skills‘ und das Studium
+Generale, dass für Importmodule oder im Ausland absolvierte Module bezüglich der
+Prüfungsgegenstände
+sowie
+Art
+und
+Umfang
+der
+Prüfungen
+die
+(Fach-)Studien- und Prüfungsordnung des jeweiligen Faches bzw. der Hochschule
+im Ausland bzw. die jeweilige Modulbeschreibung gelten. *Der Modulkatalog wird vor
+Semesterbeginn ortsüblich bekanntgemacht.
+$ 9 Inkrafttreten und Übergangsvorschriften
+(1) 'Diese Fachstudien- und Prüfungsordnung tritt am 1. April 2024 in Kraft. ?Sie gilt
+für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen
+werden. ®Alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der -
+Fachstudien-
+und
+Prüfungsordnung
+für
+den
+Masterstudiengang
+Internationale
+8
+```
+
+### OCR Seite 9
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| =g \U
+ul zum\
+Wirtschaftsinformatik
+/International
+Information
+Systems
+(IIS)
+der
+Rechts-
+und
+Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-
+Nürnberg (FAU) -— FPOIIS — vom 8. Juli 2010, zuletzt geändert durch Satzung vom
+22. September 2021, studieren, beenden ihr Studium nach der bisher für sie geltenden
+Fassung der Fachstudien- und Prüfungsordnung.
+(2) "Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale
+Wirtschaftsinformatik
+/International
+Information
+Systems
+(lIS)
+der
+Rechts-
+und
+Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-
+Nürnberg (FAU) — FPOIIS — vom 8. Juli 2010, zuletzt geändert durch Satzung vom
+22. September 2021,
+tritt
+mit Wirkung zum
+30.
+September 2028
+außer
+Kraft.
+*Prüfungen nach der in Satz 1 genannten Fachstudien- und Prüfungsordnung werden
+letztmals im Sommersemester 2028 angeboten. ®Abweichend von Satz 2 wird das
+Modul
+„Konzeptionelle
+Modellierung“
+letztmalig
+im
+Wintersemester
+2023/2024
+angeboten; Studierende, die das Modul bis zu diesem Zeitpunkt noch nicht absolviert
+haben, müssen stattdessen das Modul „Data Engineering“ absolvieren.
+(3) 'Die erste Änderungssatzung tritt am 1. Oktober 2025 in Kraft. Sie gilt für alle
+Studierenden, die das Studium ab dem Wintersemester 2025/2026 aufnehmen werden
+sowie diejenigen, die zum Zeitpunkt des Inkrafttretens bereits nach der FPOIIS vom
+29. Februar 2024 studieren. *Soweit Studierende bereits Leistungen im bisherigen
+Modul IIS Research Seminar erbracht haben, werden diese von Amts wegen auf das
+Modul IIS Seminar anerkannt. *Abweichend von Satz 2 gelten die Änderungen in $ 3
+für alle Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen
+werden.“
+9
+```
+
+### OCR Seite 10
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Anlage: Studienverlaufsplan Master IIS
+Workload-
+a
+Verteilung pro
+Gesamt Susi
+Art und Umfang der
+rsj
+Modulbezeichnung
+Lehrveranstaltung
+ECTS-Punkten
+.
+9
+ECTS
+1.12
+3
+4
+Prüfung
+schluss
+vIü|lp|s
+Se|Sem|Sem!|Sem
+note
+Customized Introduction to International Information Systems (ManagementI und Il oder Informatics
+I und Il) (15 ECTS)
+Management
+I (5 ECTS)
+Foundations of international management
+|
+vgl. FPO MSc IBS
+5 Is|
+I
+||
+vgl. FPO MSc IBS
+Management Il (10 ECTS)
+Foundations of international managemert Il
+vgl. FPO MSc IBS
+os El
+I I
+vgl. FPO MSc IBS
+Global operations strategy
+vgl. FPO MSc IBS
+05 8
+I ||
+vgl. FPO MSc IBS
+Managing intercultural relations
+vgl. FPO MSc IBS
+05 | Jos|
+|
+|
+vgl. FPO MSc IBS
+Informatics
+| (10 ECTS)
+Introduction to Computer Science
+Introduction to Computer Science
+al2l2]|
+|
+to fol
+I I
+Klausur (120 Minuten)
+Informatics II (5 ECTS)
+Data Engineering
+vgl. FPO BSc Al
+5 I IsI
+|
+|
+vgl. FPO BSc Al
+Modulbereich: Data & Knowledge - Information systems
+00.520 [5lo15|
+|
+|
+vgl. 8 5 Abs. 4
+Modulbereich: Digital Business — Information systems
+005520 [5lo-15|
+|
+|
+vgl. 8 5 Abs. 4
+Modulbereich: Architectures & Development — Information systems
+005520 |
+I 5 Jo1sl |
+vgl. 8 5 Abs. 4
+10
+```
+
+### OCR Seite 11
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Workload-
+Verteilung pro
+Gesamt Sue
+Art und Umfang der
+rsj
+Modulbezeichnung
+Lehrveranstaltung
+ECTS
+EeTSRunken
+Prüfung
+schluss
+vIiülp|s
+Se|Sem|Sem!|Sem
+note
+Modulbereich: Data & Knowledge - Informatics
+005520 [5115|
+|
+|
+vgl.8 6 Abs. 4
+Modulbereich: Digital Business — Informatics
+005520 [5lo-15|
+|
+|
+vgl.8 6 Abs. 4
+Modulbereich: Architectures & Development - Informatics
+005520 | 15 Jo-1sl |
+vgl.8 6 Abs. 4
+Interdisciplinary Qualifications (15 ECTS) ®
+|
+Foreign Language Skills gemäß $ 8 Abs. 2
+00105 | Josl
+|
+|
+Vgl. $ 8 Abs. 6
+Studium Generale gemäß $ 8 Abs. 3
+0505 | los]
+|
+Vgl. 88 Abs. 6
+0 |
+.
+A
+Seminararbeit und Präsentation
+Master thesis (30 ECTS)
+2410|
+4
+|10
+Summe SWS (mind.) und ECTS:
+ME
+120
+[30| 30 | 30 | 30
+"
+Innerhalb des Wahlpflichtbereichs müssen pro Modulbereich verpflichtend Module im Umfang von 5 ECTS-Punkten absolviert werden. Art und Umfang der Lehrveranstaltung(en) und der Prüfung sind
+abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen. Bei der Modulwahl ist $ 4 Abs. 3 Satz
+3 MPOWISO zu beachten.
+®)
+Auswahl von Modulen im Umfang von 15 ECTS-Punkten gemäß $ 8 und Modulhandbuch. Art und Umfang der Lehrveranstaltung(en) und der Prüfung sind abhängig vom konkreten didaktischen Charakter
+des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen. Bei der Modulwahl ist $ 4 Abs. 3 Satz
+3 MPOWISO zu beachten.
+11
+```
 

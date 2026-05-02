@@ -355,6 +355,487 @@ Prof. Dr. Karl-Dieter Grüske Präsident
 
 Die Satzung wurde am 30. Juli 2012 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 30. Juli 2012 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 30. Juli 2012. 
 
-12 
+12
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 9
+
+```
+Zugangskommission
+in
+Anwesenheit
+einer
+Beisitzerin
+oder
+eines
+Beisitzers
+durchgeführt; $ 17 Abs. 3 gilt entsprechend.
+(6) "Die mündliche Zugangsprüfung soll insbesondere zeigen, ob die Bewerber
+die
+nötigen
+fachlichen
+und
+methodischen
+Kenntnisse
+in
+den
+Bereichen
+Mathematik und Physik oder Molekularbiologie besitzen und zu erwarten ist, dass
+sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich
+zu arbeiten verstehen. ?In der mündlichen Zugangsprüfung wird die Eignung der
+Bewerberinnen/Bewerber zum Masterstudium anhand
+1.
+ihres Bildungsganges, insbesondere der Leistungen im bisherigen Studium
+(Gewichtung 1/3),
+2.
+ihrer fachlichen und methodischen Kenntnisse
+in den Bereichen Mathematik
+und Physik oder Molekularbiologie (Gewichtung 1/3),
+3.
+ihrer Fähigkeit die Fächer Biologie, Physik und Mathematik interdisziplinär
+verknüpfen zu können (Gewichtung 1/3) beurteilt.
+°Das
+Ergebnis
+lautet bestanden
+bzw.
+nicht bestanden.
+*Das
+Ergebnis der
+mündlichen
+Zugangsprüfung
+wird
+der
+Bewerberin/dem
+Bewerber
+schriftlich
+mitgeteilt.
+°Ein
+Ablehnungsbescheid
+ist
+mit
+Begründung
+und
+einer
+Rechtsbehelfsbelehrung zu versehen.
+(7)
+Die
+Bewerberin/der
+Bewerber
+trägt
+die
+eigenen
+Kosten
+des
+Qualifikationsfeststellungsverfahrens selbst.
+21. Nach Anlage 2 wird folgende neue Anlage 3 eingefügt:
+„Anlage 3
+Inhalt, Aufbau und Gliederung des Masterstudiums Integrated Life Sciences
+ECTS-Punkte,
+0:
+Möglich
+ECTS- | Verteilung auf die
+Module verteilt in
+auch
+Punkte
+Bemasten
+Art und Umfang
+die Modulgruppen
+|. MG:
+.
+der Prüfung
+in
+MG:
+|yorLı]
+ue/
+insg.)
+SEM | SEM
+MG1: Mathematische Modellierung und Systembiologie:
+Einführung in die
+Statistik mit
+2
+J1+1
+5
+5
+Klausur ca. 90 Min
+Rechnerübungen
+(Pflicht für alle MG)
+mündliche Prüfung
+Vertiefungsmodul
+Insg. 600h
+20
+20
+ca. 30 Min
+Masterthesis
+Insg. 900h
+30
+30 | schriftliche Arbeit
+Biomathematik
+mündliche Prüfung
+(Pflicht für MG1)
+4
+?
+10
+10
+ca. 30 Min
+Systembiologie
+.
+(Pflicht für MG1)
+3
+2
+1
+5
+5
+Klausur 60 Min
+„ Metabolische
+3
+3
+|ı
+5
+5
+Klausur 60 Min
+Netzwerke Il
+*** Räumliche
+Modelle der
+)
+4
+2
+2
+10
+10
+Klausur 60 Min
+Stoffwechsel-
+9
+```
+
+### OCR Seite 10
+
+```
+regulation
+Stochastische
+Modelle für
+mündliche Prüfung
+Lebens-
+2
+?
+2
+2
+ca. 30 Min
+wissenschaftler
+Einführung in die
+Klausur ca. 90 Min
+Mathematische
+3
+2
+2
+5
+5
+oder mündliche
+Modellierung
+Prüfung ca. 15 Min
+Numerische
+.
+..
+Klausur ca. 90 Min
+Methoden
+für
+2 | 2
+5
+5
+oder mündliche
+Natur-
+..
+.
+.
+Prüfung ca. 15 Min
+wissenschaftler
+Differantialgleichun
+Klausur ca. 90 Min
+..
+)
+2
+2
+5
+5
+oder mündliche
+gen für Lebens-
+..
+-
+Prüfung ca. 15 Min
+wissenschaftler
+Bioinformatik von
+2
+2
+5
+5
+mündliche Prüfung
+Hochdurchsatzdaten
+ca. 30 Min
+Komplexe Systeme
+2 |
+2
+5
+|5
+Klausur ca. 60 Min
+Komplexe Systeme
+2 \
+2
+5
+5
+Klausur ca. 60 Min
+Teil
+Il
+Computersimulatio-
+nen embryonaler
+1
+7
+75
+|7,5*
+7,5*
+Klausur 60 Min
+Musterbildungs-
+Prozesse
+mündliche Prüfung
+Bioanalytik
+1
+7
+7,5
+7,5
+ca. 30 Min
+Klausur 60 Min
+Zyoies, Foles and
+3
+1
+|1+3
+5
+5
+oder mündliche
+Prüfung 30 Min
+MG2: Bioimaging und Biophysik:
+Einführung in die
+Stalislik il
+2
+1+1
+5
+5
+Klausur ca. 90 Min
+Rechnerübungen
+(Pflicht für alle MG)
+.
+mündliche Prüfung
+Vertiefungsmodul
+Insg. 600h
+20
+20
+ca. 30 Min
+Masterthesis
+Insg. 900h
+30
+30 | schriftliche Arbeit
+”** Bioimaging &
+Biophysik (Pflicht
+3
+2+214+4
+15
+7,5|
+7,5
+Klausur 120 Min
+für MG2)
+Grundkurs Optik I:
+on
+u.
+Geometrische und
+2
+2
+5
+5*
+5*
+ne Arie
+technische Optik
+:
+Grundkurs Optik Il:
+2
+2
+5
+5
+mündliche Prüfung
+Wellenoptik
+ca. 30 Min
+Mathematische
+2
+2
+5
+5
+Klausur ca. 60 Min
+Bildverarbeitung
+oder mündliche
+```
+
+### OCR Seite 11
+
+```
+Prüfung ca. 20 Min
+Experimentalphysik
+3: Optik und
+4
+2
+17,5
+17,5
+Klausur 90 Min
+Quantenphänomene
+Mi elaı
+Klausur ca. 30 Min
+3
+1
+5
+5
+5*
+5*
+oder mündliche
+\enislelen-,
+Prüfung ca. 20 Min
+Lichtmikroskopie
+"
+Molekulare
+Mündliche Prüfung
+Neurophysiologie
+i
+Y
+zZ
+dB
+30 Min
+MG3: Biologische Strukturen und Prozesse
+Einführung in die
+Statistik mit
+2
+I1#1
+5
+5
+Klausur ca. 90 Min
+Rechnerübungen
+(Pflicht für alle MG)
+mündliche Prüfung
+Vertiefungsmodul
+Insg. 600h
+20
+20
+ca. 30 Min
+Masterthesis
+Insg. 900h
+30
+30 | schriftliche Arbeit
+neraslions of
+Klausur 120 Min
+9
+2+2|2+2
+10
+5
+5
+oder mündliche
+Macromolecules
+Prüfung
+60 Min
+(Pflicht für MG3)
+9
+Einführung in
+Klausur 60 Min
+Röntgen- und
+2
+2
+5
+5*
+5*
+oder mündliche
+Neutronenstreuung
+|
+Prüfung 30 Min
+Einführung in
+Klausur 60 Min
+Röntgen- und
+2
+2
+5
+5
+oder mündliche
+Neutronenstreuung II
+Prüfung 30 Min
+Soft matter and
+2 |
+3
+s
+Is
+||
+Klausur 180 Min
+biological physics
+Strukturbiologie 1.
+Proteindesign und
+1,2
+1
+7
+7,5
+1,5*
+1,5*
+Klausur 30 Min
+Designerproteine
+Structural Biology 2:
+Structure and
+fundtion
+12
+1
+7
+7,5
+7,5
+Klausur 30 Min
+relationships in
+biological
+macromolecules
+Entwicklungs-
+biologisches
+*
+*
+*
+mündliche Prüfung
+Wahlpflichtmodul
+'
+L
+7,5
+7,5°
+17,57)
+7,5
+30 Min
+(B3, B4, B6)
+Spezielle Themen
+Klausur 90 Min.
+der Biophysik und
+1
+2
+2
+5
+5
+oder mündliche
+Strukturphysik
+Prüfung 30 Min
+lonentransport und
+*
+*
+mündliche Prüfung
+Signaltransduktion
+?
+!
+z
+z
+z
+z
+30 Min
+EcTSPunkte
+|
+|
+|
+|
+| 120 [soon
+— |
+11
+```
 

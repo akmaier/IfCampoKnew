@@ -1,13 +1,13 @@
 ---
 kind: "profs-ohne-pflichtlehre"
 period: "Sommersemester 2026"
-candidates_total: 680
+candidates_total: 666
 rank_distribution:
   W3: 27
   W1: 4
-  W?: 641
+  W?: 627
   Junior: 8
-scraped_at: 2026-05-02T03:32:08+00:00
+scraped_at: 2026-05-02T04:33:29+00:00
 ---
 
 # Profs ohne Pflichtlehre (FAUdir × Campo)
@@ -22,13 +22,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 * Diese Datei dient als **Vergleichsgrundlage (B)** für die RAG-Antwort (A) auf dieselbe Frage. Bei Inkonsistenz ist die RAG-Antwort meist belastbarer.
 
 **Periode:** Sommersemester 2026  
-**Kandidaten:** 680 FAUdir-bestätigte Profs ohne Pflichtlehre
+**Kandidaten:** 666 FAUdir-bestätigte Profs ohne Pflichtlehre
 
 ## Verteilung nach W-Rang
 
 - **W3**: 27
 - **W1**: 4
-- **W?**: 641
+- **W?**: 627
 - **Junior**: 8
 
 ## Rang W3
@@ -521,15 +521,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Rechtswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/rechtswissenschaften-fau-scientia-13839311.md): "Grundlagen des öffentlichen Rechts und des Zivilrechts - Tutorium" — Tutorium
   - in : "Wirtschaftsprivatrecht - Übung/Tutorium" — Übung
 
-### Beyer, Andrea (PD Dr.)
-- **FAUdir:** [`6df8c8f4ff`](https://faudir.fau.de/public/person/6df8c8f4ff)
-- **Affiliation:** Fachbereich Theologie
-- **Weitere Affiliationen:** Lehrstuhl für Altes Testament (Theologie)
-- **Veranstaltungen ohne Pflicht-Markierung:** 3
-  - in [- Psychologie und Gerontologie (FAU Scientia)  -](../589-sommersemester-2026/psychologie-und-gerontologie-fau-scientia-13839268.md): "901 - Altern, Recht und Gesellschaft:" — Seminar
-  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "1702 Wahlpflichtseminar II Kurs A" — Seminar
-  - in : "1002 Spezielle Fragestellungen der Sozialpolitik und Gesundheitsversorgung" — Seminar
-
 ### Bhatti, Roshen ()
 - **FAUdir:** [`206094a57d`](https://faudir.fau.de/public/person/206094a57d)
 - **Affiliation:** Lehrstuhl für Strafrecht, Strafprozessrecht und Rechtsphilosophie
@@ -740,12 +731,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Schaltungen und Systeme der Übertragungstechnik" — Übung
-
-### Bösmann, Andreas (Dr.)
-- **FAUdir:** [`b361b6bf4f`](https://faudir.fau.de/public/person/b361b6bf4f)
-- **Affiliation:** Lehrstuhl für Chemische Reaktionstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "B. Sc.-Seminar über aktuelle Probleme der Technischen Chemie" — Seminar
 
 ### Bühl-Gramer, Charlotte (Prof. Dr.)
 - **FAUdir:** [`f86041873d`](https://faudir.fau.de/public/person/f86041873d)
@@ -1642,13 +1627,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md): "BA 6. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Vertiefung" — Seminar
 
-### Hannig, Frank (PD Dr.-Ing.)
-- **FAUdir:** [`db83a1cc67`](https://faudir.fau.de/public/person/db83a1cc67)
-- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Multi-Core Architecture and Programming" — Seminar
-
 ### Harder, Bettina (Dr.)
 - **FAUdir:** [`064616a3cc`](https://faudir.fau.de/public/person/064616a3cc)
 - **Affiliation:** Lehrstuhl für Pädagogische Psychologie und Exzellenzforschung
@@ -1731,12 +1709,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Praktische Übungen zu Grundlagen der Technischen Informatik" — Übung
-
-### Heil, Günther ()
-- **FAUdir:** [`95d015c649`](https://faudir.fau.de/public/person/95d015c649)
-- **Affiliation:** Lehrstuhl für Psychogerontologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "1002 Spezielle Fragestellungen der Sozialpolitik und Gesundheitsversorgung" — Seminar
 
 ### Heim, Constantin ()
 - **FAUdir:** [`18d06e94db`](https://faudir.fau.de/public/person/18d06e94db)
@@ -1877,12 +1849,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Leistungselektronik
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Laboratory Course on Power Electronics for Decentral Energy Systems" — Praktikum
-
-### Hofmann, Florian (Dr.)
-- **FAUdir:** [`11c8753146`](https://faudir.fau.de/public/person/11c8753146)
-- **Affiliation:** Lehrstuhl für Schulpädagogik mit dem Schwerpunkt empirische Unterrichtsforschung
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "Vertiefungsseminare (Standort Nürnberg, Lehrstuhl Prof. Dr. Gläser-Zikuda)" — Seminar
 
 ### Hofmann, Maximilian (Dr.-Ing.)
 - **FAUdir:** [`bbb2ebbbd7`](https://faudir.fau.de/public/person/bbb2ebbbd7)
@@ -2350,13 +2316,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Biblische Themen im Religionsunterricht" — Seminar
   - in : "Blockseminar" — Projektseminar
 
-### Krstic, Vojislav (Prof. Dr.)
-- **FAUdir:** [`2d52bae9d5`](https://faudir.fau.de/public/person/2d52bae9d5)
-- **Affiliation:** Professur für Angewandte Physik
-- **Weitere Affiliationen:** Professur für Angewandte Physik; FAU Competence Center Engineering of Advanced Materials (FAU EAM); FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ); FAU Profile Center New Materials and Processes (FAU NMP)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "Experimentalphysik II für Materialwissenschaftler, Nanotechnologen und Integrated Life Sciences" — Vorlesung
-
 ### Krug, Christian (Dr.)
 - **FAUdir:** [`1a07391d05`](https://faudir.fau.de/public/person/1a07391d05)
 - **Affiliation:** Lehrstuhl für Anglistische Literatur- und Kulturwissenschaft
@@ -2575,12 +2534,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "V-PS5B Seminar Neurophysiologie" — Seminar
 
-### Linz, Bodo (Dr.)
-- **FAUdir:** [`1a67673e1e`](https://faudir.fau.de/public/person/1a67673e1e)
-- **Affiliation:** Lehrstuhl für Mikrobiologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "Orientierungsmodul Mikrobiologie I: Identifizierung von Bakterien anhand von 16S rRNA" — Seminar und Übung
-
 ### Luther, Matthias (Prof. Dr.-Ing.)
 - **FAUdir:** [`25f4fa7d28`](https://faudir.fau.de/public/person/25f4fa7d28)
 - **Affiliation:** Lehrstuhl für Elektrische Energiesysteme
@@ -2599,14 +2552,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Biology-informed drug discovery" — Vorlesung
   - in : "BL8: Vorlesung mit Seminar Humanbiologie" — Vorlesung
-
-### Lyer, Stefan (Prof. Dr.)
-- **FAUdir:** [`94e3934e57`](https://faudir.fau.de/public/person/94e3934e57)
-- **Affiliation:** Professur für KI-gesteuerte Nanomaterialien
-- **Weitere Affiliationen:** Professur für KI-gesteuerte Nanomaterialien; Fakultätsverwaltung Medizinische Fakultät
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in : "Quantitative und Qualitative Bestimmung von SPIONs" — Vorlesung mit Übung
-  - in : "Nanotoxikologie" — Vorlesung
 
 ### Löwen, Ulrich (Prof. Dr.)
 - **FAUdir:** [`b7dbd1b7a2`](https://faudir.fau.de/public/person/b7dbd1b7a2)
@@ -2662,13 +2607,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** FAU Competence Center Engineering of Advanced Materials (FAU EAM); Functional Particle Systems (FPS); Nanostructured Films (IZNF); Interface Research and Catalysis (ECRC); FAU Profile Center New Materials and Processes (FAU NMP)
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "Orientierungsmodul AC" — Vorlesung
-
-### Marak, Sarah (Dr.)
-- **FAUdir:** [`ac307c425e`](https://faudir.fau.de/public/person/ac307c425e)
-- **Affiliation:** Lehrstuhl für Amerikanistik, insbesondere nordamerikanische Literatur- und Kulturwissenschaft
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Aufbauseminar Culture" — Aufbauseminar
-  - in : "Readings in North American Cultural Studies" — Masterseminar
 
 ### Marx, Valentin ()
 - **FAUdir:** [`ca2351a142`](https://faudir.fau.de/public/person/ca2351a142)
@@ -3925,13 +3863,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "K-V31_BT Neurologie (incl. Neurochirurgie)" — Vorlesung
 
-### Sesli, Batuhan ()
-- **FAUdir:** [`c6a7e8aed8`](https://faudir.fau.de/public/person/c6a7e8aed8)
-- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Multi-Core Architecture and Programming" — Seminar
-
 ### Siah, Kok Siong ()
 - **FAUdir:** [`5d06c56d3a`](https://faudir.fau.de/public/person/5d06c56d3a)
 - **Affiliation:** Lehrstuhl für Fertigungsautomatisierung und Produktionssystematik
@@ -3958,13 +3889,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in : "K-P8 Blockpraktikum nach AO Chirurgie  (Chir-065)" — Praktikum
   - in : "K-V15 Vorlesung Chirurgie" — Vorlesung
-
-### Sixdenier, Pierre-Louis ()
-- **FAUdir:** [`9e44a94247`](https://faudir.fau.de/public/person/9e44a94247)
-- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to Approximate Computing" — Übung
 
 ### Slany, Robert (Prof.)
 - **FAUdir:** [`bb44f85b77`](https://faudir.fau.de/public/person/bb44f85b77)
@@ -4533,13 +4457,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "Konstruktionslehre" — Vorlesung
 
-### Weninger, Dieter (Dr.)
-- **FAUdir:** [`c43d19498a`](https://faudir.fau.de/public/person/c43d19498a)
-- **Affiliation:** Lehrstuhl für Angewandte Mathematik (Kontinuierliche Optimierung)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): "Tafelübung zu Lineare und nichtlineare Systeme" — Übung
-  - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): "Übungen zu Lineare und nichtlineare Systeme (Querschnittmodul)" — Übung
-
 ### Wensing, Michael (Prof. Dr.-Ing.)
 - **FAUdir:** [`ff7f5b3a6e`](https://faudir.fau.de/public/person/ff7f5b3a6e)
 - **Affiliation:** Professur für Fluidsystemtechnik
@@ -4708,13 +4625,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Endokrinologische und metabolische Problemfälle in der Pädiatrie: Falldiskussion (digital)" — Seminar
 
-### Wörl, Jürgen (apl. Prof. Dr.)
-- **FAUdir:** [`21ab854a59`](https://faudir.fau.de/public/person/21ab854a59)
-- **Affiliation:** Medizinische Fakultät
-- **Weitere Affiliationen:** Lehrstuhl für Mikroskopische Anatomie und Molekulare Bildgebung
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin)" — Vorlesung
-
 ### Yildirim, Funda ()
 - **FAUdir:** [`0d4a9d11b0`](https://faudir.fau.de/public/person/0d4a9d11b0)
 - **Affiliation:** Lehrstuhl für Pädagogische Psychologie und Exzellenzforschung
@@ -4742,13 +4652,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Multimodale Bildgebung in der klinischen Forschung
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Magnetic Resonance Imaging sequence programming [MRIpulseq]" — Seminar
-
-### Zanin, Esther (Prof. Dr.)
-- **FAUdir:** [`c6765f1727`](https://faudir.fau.de/public/person/c6765f1727)
-- **Affiliation:** Professur für Experimentelle Molekulare Zelldynamik
-- **Weitere Affiliationen:** Professur für Experimentelle Molekulare Zelldynamik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Orientierungsmodul Experimentelle Molekulare Zelldynamik: Molekulare Mechanismen der Zellteilung in tierischen Zellen" — Seminar und Übung
 
 ### Zanthier, Joachim (Prof. Dr.)
 - **FAUdir:** [`8a2c44875c`](https://faudir.fau.de/public/person/8a2c44875c)

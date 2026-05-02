@@ -508,6 +508,82 @@ Prof. Dr. Karl-Dieter Grüske Präsident
 
 Die Satzung wurde am 25. Juli 2013 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 25. Juli 2013 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 25. Juli 2013. 
 
-18 
+18
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 8
+
+```
+fungsaufgaben darf sich nicht zum Nachteil einer oder eines zu Prüfenden auswirken.
+"Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden.
+(5) "Prüfungen nach Abs. 4 Satz 1 gelten als bestanden, wenn
+1.
+der Prüfling insgesamt mindestens 50 Prozent der gestellten Prüfungsfragen bzw.
+der zu erzielenden Punkte zutreffend beantwortet hat oder
+2.
+der Prüfling insgesamt mindestens 40 Prozent der gestellten Prüfungsfragen bzw.
+der zu erzielenden Punkte zutreffend beantwortet hat und die Zahl der vom Prüfling
+zutreffend beantworteten Fragen bzw. der zu erzielenden Punkte um nicht mehr als
+17 Prozent die durchschnittlichen Prüfungsleistungen der Prüflinge unterschreitet,
+die erstmals an der entsprechenden Prüfung teilgenommen haben.
+?Wird Satz 1 Nr.
+2 angewendet, ist die Studiendekanin oder der Studiendekan zu unter-
+richten.
+(6) Bei schriftlichen Prüfungen, die nur teilweise im Antwort-Wahl-Verfahren abgenom-
+men werden, gelten die Abs. 4 und 5 nur für diesen Teil.
+(7) Für die Benotung gilt & 18 Abs. 2.
+8 17 Mündliche Prüfung
+(1) 'In den mündlichen Prüfungen sollen die Studierenden nachweisen, dass sie die Zu-
+sammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen
+in diese
+Zusammenhänge einzuordnen vermögen. ”Mündliche Prüfungen finden in Anwesenheit
+einer Beisitzerin oder eines Beisitzers statt, die oder der von der Prüferin oder dem Prü-
+fer bzw. den Prüfenden bestellt wird.
+(2) "Die Dauer der mündlichen Prüfungen ist in der jeweiligen Fachprüfungsordnung ge-
+regelt.
+(3) In der mündlichen Prüfung vor mehreren prüfungsberechtigten Personen setzt jeder
+Prüfende die Note nach 8 18 fest.
+(4) "Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen ist:
+Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die
+Namen der Prüfenden, der Beisitzerin oder des Beisitzers und der Studierenden oder
+des Studierenden sowie besondere Vorkommnisse. ”Das Protokoll wird von den prü-
+fungsberechtigten Personen und der Beisitzerin oder dem Beisitzer unterzeichnet.
+“Die
+Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.
+8 17a Elektronische Prüfung
+"Prüfungen können in elektronischer Form abgenommen werden. *Elektronische Prüfun-
+gen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch
+computergestützte bzw. digitale Medien erfolgen. *Die Authentizität und die Integrität der
+Prüfungsergebnisse sind sicherzustellen. *Eine automatisiert erstellte Bewertung einer
+Prüfungsleistung soll auf Antrag der/des betroffenen Studierenden von einer oder einem
+Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft wer-
+den.
+& 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote
+(1) "Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen Prüfe-
+rin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:
+„sehrgut... Z.(1,0.o0der.1,3),,......... eine hervorragende Leistung;
+| gut
+| = (1,7 oder 2,0 oder 2,3)
+| one Leistung, die erheblich über den durchschnittlichen Anforderungen
+|
+seat:
+- befriedigend
+- = (2,7 oder 3,0 oder 3,3)
+eine Leistung, die durchschnittlichen Anforderungen entspricht;
+|
+ausreichend
+.........:.
+= (3,7.oder 4,0)
+eine Leistung, die trotz ihrer Mängel noch den Anforderungen entspricht;
+nicht ausreichend
+= (4,3 oder 4,7 oder 5,0)
+eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht
+Ä
+IT
+. mehr genügt.
+8
+```
 

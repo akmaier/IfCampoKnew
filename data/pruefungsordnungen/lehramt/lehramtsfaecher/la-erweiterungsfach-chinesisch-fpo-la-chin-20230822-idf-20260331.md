@@ -152,6 +152,141 @@ Für das Studium des Erweiterungsfaches Chinesisch im Rahmen des Lehramtsstudien
 |**Summe SWS und ECTS-Punkte:**|||**4**||**4**|**10**||||**5**|||**5**|||||
 |||**8**||||||||||||||||
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
 
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ul
+/zu \
+Fachstudien- und Prüfungsordnung für das Erweiterungs-
+fach Chinesisch im Lehramtsstudiengang an Gymnasien an
+der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- FPOLA Chin —
+Vom 22. August 2023
+geändert durch Satzung vom
+31. März 2026
+Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1 und Art.
+88 Abs. 9 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 (BayHIG) in
+der jeweils geltenden Fassung erlässt die FAU folgende Fachstudien- und Prüfungs-
+ordnung:
+Inhaltsverzeichnis:
+8 1 Geltungsbereich ...................--444444444Hnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnrnnnnnnnnnnnnnnn
+1
+8 2 Unterrichts- und Prüfungssprache .................uuusssssssssnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+1
+8 3 Inhalt, Aufbau und Gliederung des Studiums....................ssssssssssnnnnnnnnennnnnnnnnnnnnnnnnnennnnnnnn 2
+8 4 Aufschlüsselung des Sprachunterrichts .................-..444444444snnnnsnnnnnnnnnnnnnnnnnnnnennnnnnnnennnnnnnn 2
+8 5 In-Kraft-Treten.................22444444444444HRRRRRRRRRRR
+RR RR RR RR Ron non nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+Anlage: Studienverlaufsplan Lehramtserweiterungsfach Chinesisch im Lehramtsstudiengang
+8 1 Geltungsbereich
+!Diese Fachstudien- und Prüfungsordnung regelt das Studium des Erweiterungsfa-
+ches Chinesisch im Rahmen des Lehramtsstudiengangs an Gymnasien. ?Sie ergänzt
+die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten
+Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium an
+der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) — LAPO - und für die
+Teilstudiengänge des an der Otto-Friedrich-Universität Bamberg verorteten Bachelor-
+studiengangs Bachelor Ed. / Master Ed. „Berufliche Bildung / Fachrichtung Sozialpä-
+dagogik — Vocational Education / Social Pedaggoy and Social Services“ in der jeweils
+geltenden Fassung für das Erweiterungsfach Chinesisch.
+8 2 Unterrichts- und Prüfungssprache
+!Die Unterrichts- und Prüfungssprache im Erweiterungsfach Chinesisch ist Deutsch.
+Einzelne Lehrveranstaltungen und Prüfungen können in chinesischer oder englischer
+Sprache abgehalten werden; Näheres regeln die Anlage und das Modulhandbuch.
+®Ergänzend wird darauf hingewiesen, dass in einzelnen Lehrveranstaltungen und Prü-
+fungen chinesische Texte bearbeitet werden und Gegenstand von Übersetzungsleis-
+tungen sind. *Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+ul
+/zu \
+& 3 Inhalt, Aufbau und Gliederung des Studiums
+Für das Studium des Erweiterungsfaches Chinesisch im Rahmen des Lehramtsstudi-
+engangs an Gymnasien wird empfohlen die Module gemäß Anlage erfolgreich abzu-
+legen.
+8 4 Aufschlüsselung des Sprachunterrichts
+!Der Sprachunterricht im Erweiterungsfach Chinesisch im Rahmen des Lehramtsstu-
+diengangs Chinesisch an der FAU ist wie folgt aufgeschlüsselt:
+| Semester |
+2  Mdulnm — |
+ Wrkboadd 2
+|
+a
+Hören und Sprechen
+Hören und Sprechen
+I
+_ ______ | ModernesChinssscca
+|4sws
+|
+SECTS-Punkte |
+150 Stunden |
+I _
+| ModernesChinessccöo  |4swSs
+|
+SECTS-Punkte |
+150 Stunden |
+I
+|CGsam: 0
+|a7sws | 70ECTS-Punkte | 2100 Stunden |
+2Der Sprachunterricht ist dabei so konstruiert, dass im Verlauf des Studiums von einer
+bzw. einem durchschnittlichen Studierenden die folgenden HSK-Stufen erreicht wer-
+den:
+-
+HSK Stufe 1: 1. Semester
+-
+HSK Stufe 2: 1. Semester
+-
+HSK Stufe 3 (entspricht dem Niveau A1 des Gemeinsamen Europäischen Re-
+ferenzrahmens (GER) für Sprachen): im Verlauf des 2. Semesters
+-
+HSK Stufe 4 (entspricht dem Niveau A2 des GER): im Verlauf des 3. Semesters
+(laut Fachverband Chinesisch e.V. erreicht nach 30 ECTS-Punkten bzw. 400-
+500 Stunden Unterricht)
+-
+HSK Stufe 5 (entspricht dem Niveau B1 des GER): im Verlauf des 5. Semesters
+-
+HSK Stufe 6 (entspricht dem Niveau B2 der GER): bei Abschluss im 8. Semes-
+ter.
+8 5 In-Kraft-Treten
+(1) 'Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2023 in Kraft. ?Sie
+gilt für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 auf-
+nehmen werden.
+(2) "Die Fachstudien- und Prüfungsordnung für das Erweiterungsfach Chinesisch im
+Lehramtsstudiengang an Gymnasien an der Friedrich-Alexander-Universität Erlangen-
+Nürnberg (FAU) - FPOLA Chin. — vom 11. November 2016 in der Fassung vom 28.
+August 2019 tritt am 30. September 2028 außer Kraft. ?Prüfungen nach der bis zum
+30. September 2023 gültigen FPO LA Chin. werden letztmals im Sommersemester
+2028 angeboten. ®Ab dem in Satz 2 genannten Zeitpunkt legen die vom Auslaufen der
+Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeit-
+punkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab.
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+|ul
+/zu \
+(3) "Die erste Änderungssatzung tritt am 1. Oktober 2026 in Kraft. ?Sie gilt für alle
+Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen wer-
+den. ®Abweichend von Satz 2 gilt sie auch für alle Studierenden die das Studium ab
+dem Wintersemester 2023/2024 aufgenommen haben.
+3
+```
 

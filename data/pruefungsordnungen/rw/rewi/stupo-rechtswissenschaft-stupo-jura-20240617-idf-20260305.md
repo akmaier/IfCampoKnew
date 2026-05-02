@@ -982,6 +982,158 @@ Die bzw. der Studierende muss zusätzlich zu den unter 1. genannten Lehrveransta
 
 **3.** Die Lehrveranstaltungen des Schwerpunktbereichs können – sofern nichts anderes angegeben ist – als Vorlesungen, Übungen, Kolloquien oder Seminare angeboten und gewählt werden. 
 
-32 
+32
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+IE \ U
+Erlangen-Nürnberg
+Studien- und Prüfungsordnung für den Studiengang
+Rechtswissenschaft an der Rechts- und
+Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-
+Universität Erlangen-Nürnberg (FAU)
+- StuPO Jura —
+Vom 17. Juni 2024
+geändert durch Satzungen vom
+26. September 2024 und
+5. März 2026
+Aufgrund von Art. 9 Satz 1, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 96 Abs. 3
+Satz 1 Bayerisches Hochschulinnovationsgesetz (BayHIG) in der jeweils geltenden
+Fassung erlässt die FAU folgende Studien- und Prüfungsordnung:
+Inhaltsverzeichnis:
+l. Teil: Allgemeine Bestimmungen. ...........uuusssssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 1 Geltungsbereich ...................-.-44444444HHnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnn
+2
+8 2 Studienziele.................ussenssssnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn2
+8 3 Aufbau des Studiums und der Prüfungen ...................4444444ssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 4 Akademischer Grad.....................444sssnnnssnnnnnnnnnennnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 5 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache............................... 3
+8 6 Inhalt des Studiums......................4ussssnnsssnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnn D
+8 7 Praktische Studienzeit.....................uu444444444nnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ü
+8 8 Nachweis der Fremdsprachenkompetenz.......................22244444444444000000000RRnnnn
+nn nnnnnnnnnnnnnnnnnn D
+8 9 Lehrveranstaltungen.................44444ussnsnnnesnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnO
+8 10 Anwesenheitspflicht..........................44244444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 11 Studienplan ....................2224444444nnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnpnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 12 Prüfungsfristen der Zwischenprüfung, Zeitpunkt der Abschlussprüfung, Freiversuch,
+Schutzfristen, Fristversäumnis...........uasuusssssnsnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnne D
+8 13 Prüfungsorgane.........uuuuussssssnnnnnnnennnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ö
+8 14 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung,
+Verschwiegenheitspflicht ..........................--44444444HHnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+& 15 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt ............... 8
+8 16 Anerkennung von Kompetenzen..............uuussssnnssssennnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Q
+8 17 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der
+weiteren Teilnahme ................444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn1
+8 18 Entzug akademischer Grade ...............-.4444444snnnssnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnn1
+8 19 Mängel im Prüfungsverfahren...................444444ss44444nnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn1
+8 20 Schriftliche Prüfung ......................ssun4s44snnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnen
+1 1
+8 21 Elektronische Prüfung ..................ssus444444nnnnnnnnennnnnnnnnnnnnnnnnennnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnen1 1
+8 22 Bestehen und Nichtbestehen, Bewertung der Prüfungen, Remonstration, Gesamtnote
+der Juristischen Universitätsprüfung..................--4444444nnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn12
+8 23 Ungültigkeit der Prüfung .................u22242444444nnnenennnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn12
+8 24 Einsicht in die Prüfungsakten. ..............-....4444s4ssnnnnsnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnn19
+8 25 Wiederholung von Prüfungen, Freiversuch.................u.sssssssssnnnnnnnnnennnnnnnnnnnnnnnnennennnnnOD
+8 26 Bescheinigung über die bestandene Juristische Universitätsprüfung............................
+13
+8 27 Bescheinigung über (endgültig) nicht bestandene Prüfung........................
+nn 14
+8 28 Nachteilsausgleich......................uuusssnnsssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnen1
+Il. Teil: Grundstudium und Zwischenprüfung ..................surs4224002000000nnnnnnnnnnnnnnnnnnnnnnnnnnnnnDA
+8 29 Pflichtveranstaltungen im Grundstudium ...............-.4444444444ssnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnn14
+8 30 Hausarbeiten im Grundstudium ...................4ssssssssssnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn10
+1
+```
+
+### OCR Seite 23
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+DUN
+Anlage zu 8 41 Abs. 3:
+(1) 'Der Fachbereich Rechtswissenschaft bietet folgende 12 Schwerpunktbereiche
+an, unter denen die bzw. der Studierende einen auszuwählen hat:
+1.
+Kapitalgesellschaftsrecht
+2.
+Bank- und Kapitalmarktrecht
+3.
+Steuerrecht
+4. Geistiges Eigentum und Wettbewerbsrecht
+5.
+Internationales und Europäisches Öffentliches Recht
+6.
+Internationales Privatrecht
+7.
+Arbeits- und Sozialversicherungsrecht
+8.
+Grundlagen des Rechts
+9.
+Staat und Verwaltung
+10.Kriminalwissenschaften
+11.Grund- und Menschenrechte
+12.1T-Recht.
+?Diese Schwerpunktbereiche umfassen folgende Inhalte und Lehrveranstaltungen:
+(2) SCHWERPUNKTBEREICH 1: KAPITALGESELLSCHAFTSRECHT
+1. Pflichtbereich
+Die bzw der Studierende hat teilzunehmen an:
+-
+einer Lehrveranstaltung zum Aktienrecht
+2 SWS
+-
+einer Lehrveranstaltung zum GmbH-Recht
+2 SWS
+-
+einer Lehrveranstaltung zum Kapitalmarktrecht
+3 SWS
+-
+einer Lehrveranstaltung zum Insolvenzrecht
+2 SWS
+-
+einer Lehrveranstaltung zum Konzern- & Umwandlungsrecht
+1 SWS
+-
+einer Lehrveranstaltung Bilanzrecht
+2 SWS
+2. Seminar
+Die
+bzw.
+der
+Studierende
+muss
+zusätzlich
+in
+einem
+der
+unter
+1
+genannten
+Rechtsgebiete erfolgreich an einem Seminar teilnehmen,
+in dessen Rahmen die
+studienbegleitende wissenschaftliche Arbeit gemäß $ 47 angefertigt wird.
+3. Die Lehrveranstaltungen des Schwerpunktbereichs können - sofern nichts anderes
+angegeben ist - als Vorlesungen, Übungen, Kolloquien oder Seminare angeboten und
+gewählt werden.
+(3) SCHWERPUNKTBEREICH 2: BANK- UND KAPITALMARKTRECHT
+1. Pflichtbereich
+Die bzw. der Studierende hat teilzunehmen an:
+-
+einer Lehrveranstaltung zum Bankrecht
+3 SWS
+-
+einer Lehrveranstaltung zum Kapitalmarktrecht
+3 SWS
+-
+einer Lehrveranstaltung zum Insolvenzrecht
+2 SWS
+23
+```
 

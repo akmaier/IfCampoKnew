@@ -26,6 +26,43 @@ Enrollment in the Master’s degree program in Development Economics and Interna
 
 ## **Section 2** 
 
-These regulations shall come into effect on March 6, 2026. 
+These regulations shall come into effect on March 6, 2026.
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+DUFN
+Regulations governing the Suspension of Enrollment for the
+Master’s Degree Program
+in Development Economics and International Studies at the Faculty
+of Humanities, Social Sciences, and Theology of Friedrich-
+Alexander-Universität Erlangen-Nürnberg (FAU) -Aussetzung
+FPODEIS -
+dated March 5, 2026
+Based on the currently valid version of Section 9 (1) in conjunction with Section 95 of
+the Bavarian Higher Education Innovation Act dated August 5, 2022 (BayHIG), FAU
+enacts the following regulations:
+Section 1
+Enrollment
+in
+the
+Masters
+degree
+program
+in
+Development
+Economics
+and
+International Studies at FAU shall be suspended for all subject semesters in winter
+semester 2026/2027.
+Section 2
+These regulations shall come into effect on March 6, 2026.
+```
 

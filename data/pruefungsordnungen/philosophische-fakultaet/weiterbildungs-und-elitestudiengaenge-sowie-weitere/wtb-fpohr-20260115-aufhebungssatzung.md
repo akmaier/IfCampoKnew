@@ -52,6 +52,78 @@ Prof. Dr.-Ing. Joachim Hornegger, Präsident
 
 Diese Satzung wurde am 15. Januar 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 15. Januar 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 15. Januar 2026 
 
-2 
+2
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ul//zu\
+Satzung zur Aufhebung des weiterbildenden Masterstudiengangs
+„Human Rights“ an der Philosophischen Fakultät und Fachbereich
+Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg
+(FAU)
+Vom 15. Januar 2026
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 und Art. 84 Abs. 2 des Bayerischen
+Hochschulinnovationsgesetzes (BayHIG) in der jeweils geltenden Fassung erlässt die
+FAU folgende Satzung:
+& 1 Aufhebung des Studiengangs
+'Der weiterbildende Masterstudiengang „Human Rights“ an der Philosophischen Fa-
+kultät und Fachbereich Theologie der FAU wird zum Wintersemester 2026/2027 auf-
+gehoben. ?Spätestens mit Beginn des Wintersemesters 2026/2027 (1. Oktober 2026)
+werden für diesen Studiengang weder für das erste noch für höhere Fachsemester
+Studierende zugelassen bzw. eingeschrieben. *Eine Rückmeldung Studierender im
+Sinne des $ 2 Satz 1, die ihr aktives Studium an der FAU beenden, ist davon nicht
+betroffen.
+$ 2 Übergangsregelung
+"Studierenden, die im Wintersemester 2026/2027 bereits im weiterbildenden Master-
+studiengang Human Rights an der Philosophischen Fakultät und Fachbereich Theolo-
+gie der FAU immatrikuliert sind, wird die Möglichkeit gegeben, ihr Studium regulär zu
+beenden. ?Prüfungen in dem in Satz 1 genannten Studiengang werden spätestens im
+Sommersemester 2028 letztmals angeboten.
+8 3 Außerkrafttreten der Fachstudien- und Prüfungsordnung
+!Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „Hu-
+man Rights“ an der Philosophischen Fakultät und Fachbereich Theologie der FAU —
+FPOHR - vom 28. September 2023, zuletzt geändert durch Satzung vom 19. Dezem-
+ber 2024, wird wie folgt geändert:
+In 8 29 wird nach Abs. 4 folgender neuer Abs. 5 angefügt:
+„Diese Fachstudien- und Prüfungsordnung tritt mit Wirkung zum 30. September 2028
+außer Kraft. ?Prüfungen nach dieser Fachstudien- und Prüfungsordnung werden spä-
+testens im Sommersemester 2028 letztmals angeboten.“
+8 4 Inkrafttreten
+Diese Satzung tritt am 1. Februar 2026 in Kraft.
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ul
+/zu \
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 12. November 2025,
+und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom
+15. Januar 2026
+Erlangen, den 15. Januar 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 15. Januar 2026 digital auf der Internetseite
+https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfer-
+tigung der Satzung wurde am 15. Januar 2026 in der im Referat L 1 der Zentralen
+Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und
+liegt zur Einsicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 15. Januar 2026
+2
+```
 

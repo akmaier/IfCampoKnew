@@ -184,6 +184,129 @@ Prof. Dr. Karl-Dieter Grüske Präsident
 
 Die Satzung wurde am 28. März 2011 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 28. März 2011 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 28. März 2011. 
 
-4 
+4
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 3
+
+```
+c)
+Abs. 3 wird wie folgt geändert:
+aa) In Zeile 1 der Tabelle Spalte 6 werden die Buchstaben "HA" eingefügt.
+bb) In Zeile 2 der Tabelle Spalte 6 werden die Buchstaben "SV" eingefügt.
+d)
+In der Tabelle von Abs. 4 werden
+in Spalte 6 die Buchstaben "bS" durch die
+Buchstaben "SL" ersetzt.
+3.
+8 7 wird wie folgt geändert:
+a) Abs. 1 wird wie folgt geändert:
+aa)Die
+Spalte
+6
+(Prüfung)
+erhält
+folgende
+Fassung:
+"Studien-
+und
+Prüfungsleistung"
+bb)In Zeile 2 (Modul Algorithmen und Datenstrukturen) Spalte 6 (Prüfung) wird
+nach dem Buchstaben "S" der Buchstabe "L" eingefügt.
+cc)In
+Zeile
+5
+(Modul
+Datenbanksysteme)
+Spalte
+1
+wird
+das
+Wort
+"Datenbanksysteme"
+durch
+die
+Worte
+"Implementierung
+von
+Datenbanksystemen" ersetzt.
+dd)In Zeile 7 (Modul Theoretische Informatik für Lehramtsstudierende) Spalte 6
+(Studien-
+und
+Prüfungsleistung)
+wird
+nach
+dem
+Buchstaben
+"S"
+der
+Buchstabe "L" eingefügt.
+ee)In den Zeile 8 (Praktikum) und 9 (Wahlpflichtmodul) Spalte 6 (Studien- und
+Prüfungsleistung) werden jeweils die Buchstaben
+"bS" durch "PL
+It. MB"
+ersetzt.
+ff)
+Zeile 10 Spalte 1 erhält folgenden Wortlaut:
+"Falls die gewählte Didaktik einer Fächergruppe nicht Mathematik enthält,
+dann:"
+gg)
+In
+Zeile
+12
+(sonst:
+Wahlpflichtmodule(e))
+Spalte
+6
+(Studien-
+und
+Prüfungsleistung) werden die Buchstaben "PL It. MB" eingefügt.
+hh) Die Zeilen 13 bis 15 erhalten folgende Fassung:
+Falls die schriftliche Hausarbeit gem. $ 7 (3) im
+:
+20:
+:
+:
+:
+Fach oder in der Fachdidaktik Informatik
+:
+Ze:
+:
+:
+:
+angefertigt wird, dann:uud
+unnnn bannen.
+Begleitseminar zur schriftlichen Hausarbeit ____:__SS__i 2:____28.__123.._SV
+6.
+Informatik
+'
+'
+'
+ı
+07a
+MB
+b) Abs. 2 wird wie folgt geändert:
+aa)
+In Zeile
+1
+der Tabelle Spalte 6 werden
+die Buchstaben "bS" durch die
+Buchstaben "HMA" ersetzt.
+bb)
+In
+Zeile 2 Spalte 6 wird nach dem Buchstaben
+"S" der Buchstabe
+"L"
+eingefügt.
+cc)
+In Zeile 3 Spalte 6 werden die Buchstaben "bS" durch
+die Buchstaben
+"HA+SV" ersetzt.
+dd)Folgende Erläuterungen werden angefügt:
+"Erläuterungen: HA: schriftliche Hausarbeit"
+3
+```
 

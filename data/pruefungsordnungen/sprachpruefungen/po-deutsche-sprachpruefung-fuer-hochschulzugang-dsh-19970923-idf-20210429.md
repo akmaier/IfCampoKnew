@@ -402,6 +402,70 @@ Mit der DSH-Prüfung wird die sprachliche Studierfähigkeit in einer schriftlich
 
 
 
-11 
+11
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 10
+
+```
+Anlage
+m —==
+= FRIEDRICH-ALEXANDER
+m u m m UNIVERSITÄT
+u
+—
+ —”
+ERLANGEN-NÜRNBERG
+|
+DSH-Zeugnis
+Herr/Frau
+BEE
+geboren am
+aus
+hat am [Datum] die „Deutsche Sprachprüfung für den Hochschulzugang“ (DSH) mit folgendem
+Ergebnis abgelegt:
+Gesamtergebnis: DSH - ...
+In den Teilprüfungen wurden erreicht:
+Schriftliche Prüfung:
+_
+%
+Hörverstehen:
+oo
+%
+Textproduktion:
+ze
+%
+Leseverstehen:
+oo
+%
+Wissenschaftssprachliche Strukturen:
+BE
+%
+Mündliche Prüfung:
+_
+%
+Ein Gesamtergebnis DSH-2 weist die sprachliche Studierfähigkeit für die uneingeschränkte Zulassung oder
+Einschreibung zu allen Studiengängen und Studienabschlüssen an allen Hochschulen aus.
+Mit Erreichen der Ebene DSH-3 werden besonders hohe Deutschkenntnisse nachgewiesen. Die DSH-3 liegt über
+dem
+für die Zulassung
+oder Einschreibung
+erforderlichen
+Niveau.
+Ein Gesamtergebnis DSH-1
+weist eine
+eingeschränkte sprachliche Studierfähigkeit aus. Nach Entscheidung der Hochschule ist damit die Zulassung oder
+Einschreibung für bestimmte Studiengänge oder Studienabschlüsse möglich.
+Beschreibung der mit dem Prüfungsergebnis nachgewiesenen sprachlichen Fähigkeiten siehe Rückseite.
+Erlangen, den [Datum]
+(Siegel)
+(TITEL, NAME)
+(TITEL, NAME)
+Prüfungsvorsitzende/r
+Mitglied der Prüfungskommission
+10
+```
 

@@ -34,6 +34,52 @@ Prof. Dr.-Ing. Joachim Hornegger, Präsident
 
 Diese Satzung wurde am 16. Juni 2025 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 16. Juni 2025 in der im Referat L 1 der Zentralen Universitätsverwaltung, Wöhrmühle 2, Zimmer Nr. 00.009 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. 
 
-Tag der Bekanntmachung ist daher der 16. Juni 2025 
+Tag der Bekanntmachung ist daher der 16. Juni 2025
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+Erlangen-Nürnberg
+EA |
+|
+DTUN | )
+Satzung zur Aussetzung der Immatrikulation im Fach Dar-
+stellendes Spiel/Theater gemäß 8 4 LAPO i. V. m. 88 35, 37,
+39, 60, 111 und 116 Ordnung der Ersten Prüfung für ein
+Lehramt an öffentlichen Schulen (Lehramtsprüfungsord-
+nung I-LPO |) an der Philosophien Fakultät und Fachbe-
+reich Theologie der Friedrich-Alexander-Universität Erlan-
+gen-Nürnberg (FAU)
+Vom 16. Juni 2025
+Aufgrund von Art. 9 Abs. 1 Satz 1 und Art. 95 des Bayerischen Hochschulinnovations-
+gesetzes (BayHIG) in der geltenden Fassung erlässt die FAU folgende Satzung:
+81
+Für das Wintersemester 2025/2026 wird die Immatrikulation im Fach Darstellendes
+Spiel/Theater gemäß $ 4 LAPO i. V. m. 88 35, 37, 39, 60, 111 und 116 Ordnung der
+Ersten Prüfung für ein Lehramt an öffentlichen Schulen (Lehramtsprüfungsordnung
+| —
+LPO I) an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Ale-
+xander-Universität Erlangen-Nürnberg ausgesetzt.
+82
+Die Satzung tritt am 16. Juni 2025 in Kraft.
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 4. Juni 2025, und
+der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 16. Juni
+2025
+Erlangen, den 16. Juni 2025
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 16. Juni 2025 digital auf der Internetseite
+https://wwwfau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfer-
+tigung der Satzung wurde am 16. Juni 2025 in der im Referat L 1 der Zentralen Uni-
+versitätsverwaltung, Wöhrmühle 2, Zimmer Nr. 00.009 niedergelegt und liegt zur Ein-
+sicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 16. Juni 2025
+```
 

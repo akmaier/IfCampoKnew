@@ -1362,6 +1362,2480 @@ nannten Studien- und Prüfungsordnung werden für den Bachelorstudiengang letztm
 
 - 7) Für die SWS-Summen wurden für die PW-Module 2 S + 2 Ü und für die NW-Module 2 V + 2 Ü pro 5 ECTS-Punkten angenommen. 
 
-49 
+49
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+Studien- und Prüfungsordnung für den Bachelorstudiengang Phy-
+sik und den Masterstudiengang Physics an der Naturwissenschaftli-
+chen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürn-
+berg (FAU) - BMPO/Physik —
+vom 31. Juli 2023
+geändert durch Satzungen vom
+7. August 2024
+6. März 2026
+Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 86
+Abs. 3 Satz 4, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayeri-
+sches Hochschulinnovationsgesetz vom 5. August 2022 (BayHIG) in der jeweils gel-
+tenden Fassung erlässt die FAU folgende Studien- und Prüfungsordnung:
+Inhaltsverzeichnis
+l. Teil: Allgemeine Bestimmungen. .....................44444444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung,
+Forschungsstudienrichtungen .....uuzsssssuunnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnennnennnennennennnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 2 Akademische Grade .......uuuuuuununnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+OD
+8 3 Struktur des Bachelorstudiengangs und der Prüfungen, Regelstudienzeit,
+Studienbeginn, Unterrichts- und Prüfungssprache .....uuussuussnnunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn D
+8 4 Struktur des Masterstudiengangs und der Prüfungen, Studienschwerpunkt,
+Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ............uu.4ursremnnnnneennn A
+8 5 ECTS-Punkte...uueessussnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 6 Modularisierung, studienbegleitende Leistungsnachweise, freiwillige
+Zwischenprüfungen....uuessssssnunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 7 Anwesenheitspflicht ........uuuunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 8 Prüfungsfristen, FristversäumniS.....uusssssnnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 9 Prüfungsausschuss.....unnesssnnnnnnnnnnnnnnnnnnnnnunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 1
+8 10 Zugangskommission zum Masterstudium ....uunuennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ö
+8 11 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung,
+Verschwiegenheitspflicht .....uuuuussnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 12 Bekanntgabe der Prüfungsart, Prüfungstermine und der Prüfenden, ........uuu.............10
+Anmeldung, Rücktritt, Folgen eines verspäteten bzw. nicht ordnungsgemäßen Rücktritts 10
+8 13 Anerkennung von Kompetenzen ...unnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnnnnnnnnnnnnnnnnnnnDO
+8 14 Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme...................12
+8 15 Entzug akademischer Grade.......uunnsssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn12
+8 16 Mängel im Prüfungsverfahren ...uunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn12
+8 17 Schriftliche Prüfung, Antwort-Wahl-Verfahren ........uuuussssuunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn12
+8 18 Mündliche Prüfung..........2zuuuuus440nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnDZ
+8 19 Vorträge znnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsnsnnnnnnnnnnnnnnnnnnnnnnnnDZ
+8 20 Praktikumsleistungen und Forschungsprojekte ...uuususuenennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn DD
+8 21 Elektronische Prüfung in Präsenz..uuenennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnDD
+8 22 Bewertung der Prüfungen, Gesamtnote....uuusseennnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnDD
+8 23 Ungültigkeit der Prüfung...uueessnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnDT
+8 24 Einsicht in die Prüfungsakten ........nsssnunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnDO
+8 25 Urkunde, Zeugnis, Transcript of Records, Diploma Supplement, Grade distribution
+table.........uuuunuuennennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnenenennnnnnnnnnnnennnennnnnnnnnneenennnnnssnnnnneenennnnsnnnnnnennTO
+8 26 Bescheinigung über endgültig nicht bestandene Prüfung.......uuunnnunnnnnnnnnnnnnnnnnnnnnnnnnnTO
+SW
+ANE-Telsitzl
+Ex TURTe1[-1Te: a WARRRRRRRRRRRRRRRRRRFRRFRRFRRRFRRFRRRRRFFRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRFL”:
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+uul/zu\ ( )
+Il. Teil: Besondere Vorschriften..........................44444444444444444400RRRRRRRRRR
+RR RR RR RR Rn nn nn nn nnnnnnnnnnnnnnnnn 1
+Erster Abschnitt: Grundlagen- und Orientierungsprüfung und Bachelorprüfung.........19
+1. Allgemeine Regelungen für den Bachelorstudiengang ..............................444
+4444000019
+8 28 Zulassungsvoraussetzungen für die Prüfungen....uuussssunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn19)
+8 29 Orientierungsphase, Grundlagen- und Orientierungsprüfung ..........uu0444RRRR
+Rnnnnennen
+20
+Sigel =7-Te: aT-1Te/ge] ar: KI-PRRRRRRRRRRRRRRRRRRRFFFERFFRFRRFRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRY| 1
+Sec Bi =7: [ei aT-1le/r= 14 0]-]|BRRRRRRRRRRRFRRRRRRRRRRRFRFRRFRRFRRRFRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRY| 1
+8 32 Wiederholung von Prüfungen, Modulwechsel .....uuuuunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn22
+2. Prüfungsgegenstände im Bachelorstudiengang........................-.......smnn
+sen
+29
+8 33 Gliederung des BachelorstudiengangS.......uuurrrrerennnnnnnnnnnnnn
+nennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn nn 2D
+8 34 Pflichtbereich des Bachelorstudiengangs............uuuuuss4nunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn2
+8 35 Grundlagen- und Orientierungsprüfung ..uunueuunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 36 Wahlbereich (Physikalische und Nichtphysikalische Wahlfächer) .............r44H444224
+8 37 Schlüsselqualifikationen ....uuuuueuuuunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 38 Freier Bereich .....uuununnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn2
+8 39 Forschungsstudienrichtung ......uuruururnnenn nennen nennen nn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnDD
+Zweiter Abschnitt: Masterprüfung .....................--.......ssnnnsssnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnn
+nn 2O
+1. Allgemeine Regelungen für den Masterstudiengang.......................-.......
+28
+8 40 Qualifikation zum Masterstudium .....uuuesuussnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn2
+SEE
+4 EN EC Og0]g8110] 11PRRRRRRRRRRRRRRRRRRRRRRRRRFRRFRRRRFRFRRRRRRRRRRRRRRRRRRRRRRRRRRRRRERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRY
+T:
+8 42 Zulassungsvoraussetzungen für die Prüfungen....uuuusssunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn20)
+8 43 Forschungsphase und Master’s thesis......uuununnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+20)
+8 44 Wiederholung von Prüfungen, Modulwechsel ......uuuuuuuseeenennennnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnn1
+2. Prüfungsgegenstände im Masterstudiengang ...........................44444mnnnnnen
+nennen
+9 1
+8 45 Gliederung des MasterstudiengangsS .............urrrnennnennnnnn nenn nen nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nn 1
+8 46 Pflichtbereich des Masterstudiengangs .........2222444000044Hnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn DT
+8 47 Wahlbereich (Physikalische Wahlfächer und Nichtphysikalische Wahlfächer)..........32
+SE 103
+ui(1121
+=1=7 0-11) 1 IORRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR.7’
+8 49 Studienschwerpunkte....uuuuessssnunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnDL
+8 50 Forschungsstudienrichtung ...........444444RRRRn nennen nennen nennen nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+DD
+Il. Teil: Übergangs- und Schlussvorschriften........................00000020neeenneeennnnnnnnnnnnn3
+8 51 Inkrafttreten.........unnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nennen
+DO)
+IV. Teil: Anlagen. .....................44444444444444444HRRRRRRRRR
+RR nn RR RR Rn RR nn nn n nn nn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn nn OT
+Anlage 1: Qualifikationsfeststellungsverfahren gemäß 8 40.........................
+01
+Anlage 2: Bachelorstudiengang Studienverlaufsplan Physik B.Sc. ...........uuusssrnunnnnnnnnnn
+AO
+Anlage 3: Bachelorstudiengang Physik B.Sc. — Forschungsstudienrichtung ...............43
+Anlage 4: Studienverlaufsplan Masterstudiengang Physics M.Sc. .............usnnnn000.46
+Anlage 5: Studienverlaufsplan Masterstudiengang Physics M.Sc. —
+Forschungsstudienrichtung
+...................4444444440000RRRRRnnnnnnnnnnnnnnnnnnnn nn nn nenne nn nnnnnnnnnnnnnnnnnnnnnnnnn AD
+l. Teil: Allgemeine Bestimmungen
+& 1 Geltungsbereich, Zweck der Bachelor- und Masterprüfung,
+Forschungsstudienrichtungen
+(1) Diese Studien- und Prüfungsordnung regelt die Prüfungen im Bachelorstudiengang
+Physik und im Masterstudiengang Physics an der Naturwissenschaftlichen Fakultät
+der FAU mit den Abschlusszielen des Bachelor of Science und des Master of Science.
+(2) "Der Bachelor of Science ist ein erster berufsqualifizierender Abschluss des wis-
+senschaftlichen Studiums. ?Durch die Bachelorprüfung wird festgestellt, ob die Studie-
+renden die grundlegenden Zusammenhänge des Fachs überblicken und die für ein
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+anschließendes Masterstudium oder einen frühen Übergang in die Berufspraxis not-
+wendigen Fachkenntnisse und Fertigkeiten erworben haben.
+(3) "Der Master of Science ist ein weiterer berufs- und forschungsqualifizierender Ab-
+schluss des Studiums; der Masterstudiengang
+ist forschungsorientiert. ?Durch die
+Masterprüfung wird festgestellt, ob die Studierenden selbstständig nach wissenschaft-
+lichen Methoden arbeiten sowie diese weiterentwickeln können und die für eine Pro-
+motion oder einen Übergang in die sonstige Berufspraxis notwendigen Fachkenntnisse
+und Fertigkeiten erworben haben.
+(4) 'Im Rahmen des Bachelorstudiengangs Physik und des Masterstudiengangs Phy-
+sics bietet die FAU jeweils besondere Lehrveranstaltungen im Rahmen einer For-
+schungsstudienrichtung an. ?Die Forschungsstudienrichtung stellt im jeweiligen Studi-
+engang ein Angebot an besonders leistungsfähige und motivierte Studierende dar, die
+eine berufliche Tätigkeit im Bereich der Forschung anstreben. ®Die jeweilige For-
+schungsstudienrichtung hat zum Ziel, die Studierenden bereits im frühen Stadium ihrer
+Ausbildung vertieft an die Forschung heranzuführen. *Die Forschungsstudienrichtung
+kann nach dem dritten Fachsemester des Bachelorstudiums oder zum Beginn des
+Masterstudiums gewählt werden und erfordert die Erfüllung besonderer Teilnahmevo-
+raussetzungen; Näheres regeln 8 39 bzw. 8 50.
+8 2 Akademische Grade
+(1) Aufgrund der bestandenen Prüfungen werden je nach Abschlussart folgende aka-
+demische Grade verliehen:
+1.
+bei bestandener Bachelorprüfung der akademische Grad „Bachelor of Science“,
+abgekürzt „B.Sc.“,
+2.
+beibestandener Masterprüfung der akademische Grad „Master of Science“, abge-
+kürzt „M.Sc.“.
+(2) Die akademischen Grade können auch mit dem Zusatz „(FAU Erlangen-Nürnberg)“
+geführt werden.
+& 3 Struktur des Bachelorstudiengangs und der Prüfungen, Regelstudienzeit,
+Studienbeginn, Unterrichts- und Prüfungssprache
+(1) "Bis zum Ende des zweiten Semesters (Orientierungsphase) ist eine Grundlagen-
+und Orientierungsprüfung aus den Grundlagen des Bachelorstudiengangs zu absol-
+vieren. ?Das weitere Bachelorstudium (Bachelorphase) umfasst die studienbegleitend
+abzulegenden Prüfungen der weiteren vier Semester einschließlich des Moduls Ba-
+chelorarbeit (inkl. Bachelorkolloguium). *In der Bachelorphase können dafür geeignete
+Studierende die in der Präambel genannte Forschungsstudienrichtung wählen; Nähe-
+res regelt 8 39 i. V. m. Anlage 3. *Der Abschluss des Bachelorstudiengangs setzt den
+Erwerb von insgesamt 180 ECTS-Punkten voraus.
+(2) "Die Regelstudienzeit beträgt im Bachelorstudiengang einschließlich der Prüfungen
+und der Zeit zur Anfertigung der Bachelorarbeit sechs Semester; für die Studien- und
+Prüfungsfristen gilt & 8. ?Die konkreten Studieninhalte und Prüfungsgegenstände er-
+geben sich der Anlage 2 bzw. 3 und werden in den Beschreibungen der Module des
+Studiengangs im Modulhandbuch konkretisiert.
+6)
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N
+(3) Das Bachelorstudium kann nur zum Wintersemester begonnen werden.
+(4) "Die Unterrichts- und Prüfungssprache im Bachelorstudiengang Physik ist Deutsch.
+Einzelne Lehrveranstaltungen und Prüfungen im Wahl- und Schlüsselqualifikations-
+bereich sowie in der Forschungsstudienrichtung können in englischer Sprache abge-
+halten werden; Näheres regelt das Modulhandbuch. *Im Zweifel folgt die Prüfungs-
+sprache der Unterrichtssprache.
+& 4 Struktur des Masterstudiengangs und der Prüfungen, Studienschwerpunkt,
+Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache
+(1) 'Der Masterstudiengang baut inhaltlich auf dem Bachelorstudiengang auf; er ist
+stärker forschungsorientiert. ?Durch die Wahl der in 8 1 Abs. 4 genannten Forschungs-
+studienrichtung kann die Forschungsorientierung vertieft werden.
+(2) "Der Masterstudiengang gliedert sich in eine auf dem Bachelorstudiengang aufbau-
+ende Vertiefungsphase in den ersten zwei Semestern und eine Forschungsphase im
+dritten und vierten Semester. ?In der Forschungsphase wird ein Forschungsprojekt be-
+arbeitet, das neben der weiteren fachlichen Spezialisierung das Modul Masterarbeit
+(Master’s thesis) inkl. Masterkolloquium (Master’s colloquium) beinhaltet. ®Der Ab-
+schluss des Masterstudiengangs setzt den Erwerb von insgesamt 120 ECTS-Punkten
+voraus, die sämtliche studienbegleitend zu erbringenden Modulprüfungen einschließ-
+lich der Module der Forschungsphase einschließlich dem Modul Master's thesis (inkl.
+Master’s colloquium) enthalten.
+(3) Der Masterstudiengang kann nach Wahl der Studierenden sowohl in der regulären
+Variante als auch in der Forschungsstudienrichtung mit einem Studienschwerpunkt
+entsprechend der Regelung gemäß 8 49 durchgeführt werden.
+(4) "Die Regelstudienzeit beträgt im Masterstudiengang einschließlich der Prüfungen
+und der Zeit zur Anfertigung der Master’s thesis vier Semester; für die Studien- und
+Prüfungsfristen gilt & 8. Die konkreten Studieninhalte und Prüfungsgegenstände er-
+geben sich aus der Anlage 4 bzw. 5 und werden in den Beschreibungen der Module
+des Studiengangs im Modulhandbuch konkretisiert.
+(5) Das Masterstudium kann zum Winter- oder Sommersemester begonnen werden.
+(6) "Die Unterrichts- und Prüfungssprache im Masterstudiengang Physics ist Englisch.
+Einzelne Lehrveranstaltungen und Prüfungen im Wahlbereich können in deutscher
+Sprache absolviert und in die Masterprüfung eingebracht werden; Näheres regelt das
+Modulhandbuch. ®Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.
+8 5 ECTS-Punkte
+(1) 'Die Organisation von Studium und Prüfungen beruht auf dem European Credit
+Transfer System (ECTS). ?Das Studiensemester ist mit durchschnittlich 30 ECTS-
+Punkten veranschlagt. Einem ECTS-Punkt liegt eine Gesamtarbeitsleistung von 30 Stunden
+zugrunde.
+4
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+(2) '"ECTS-Punkte dienen als System zur Gliederung, Berechnung und Bescheinigung
+des Studienaufwandes. ?Sie sind ein quantitatives Maß für die Arbeitsbelastung der
+Studierenden.
+8 6 Modularisierung, studienbegleitende Leistungsnachweise,
+freiwillige Zwischenprüfungen
+(1) 'Das Studium besteht aus Modulen, die mit ECTS-Punkten bewertet sind. ?Ein Mo-
+dul ist eine zeitlich zusammenhängende und in sich geschlossene abprüfbare Lehr-
+und Lerneinheit.
+(2) "Die Module schließen mit einer studienbegleitenden Modulprüfung ab. ?Diese Prü-
+fung soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen. *In
+nach Einschätzung der bzw. des jeweiligen Modulverantwortlichen fachlich und didak-
+tisch sinnvollen Fällen kann diese Prüfung auch aus Prüfungsteilen oder Teilprüfungen
+bzw. einer Kombination aus Prüfungs- und/oder Studienleistungen bestehen, sofern
+und soweit im Studiengang insgesamt eine angemessene Prüfungsdichte und -orga-
+nisation gewährleistet ist. *ECTS-Punkte werden nur für die erfolgreiche Teilnahme an
+Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in
+einer Modulprüfung festgestellt wird. ®Studienbegleitende Modulprüfungen sind sol-
+che, die während der Vorlesungszeit oder im Anschluss an die letzte Lehrveranstal-
+tung eines Moduls vor Beginn der Vorlesungszeit des folgenden Semesters angeboten
+werden.
+(3) "Prüfungen (Prüfungs- und Studienleistungen) messen den Erfolg der Studieren-
+den. ?Sie können schriftlich, mündlich, elektronisch, über elektronische Kommunikati-
+onsmittel oder in anderer Form erfolgen. ®Bei elektronischen Fernprüfungen unter Auf-
+sicht sind die Bayerische Fernprüfungserprobungsverordnung (BayFEV) sowie die
+Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage
+der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) - EFernPO - zu be-
+achten. *Prüfungsleistungen und Teilprüfungen werden benotet. ®Bei Studienleistun-
+gen beschränkt sich die Feststellung auf das Bestehen oder Nichtbestehen.
+(4) 'Neben den studienbegleitenden Modulprüfungen können während der Lehrveran-
+staltungen freiwillige Zwischenprüfungen (z. B. Übungsleistungen oder Kurztests) als
+Leistungsstandmessung angeboten werden. Näheres dazu, insbesondere Anzahl, Art
+und Umfang dieser Nachweise, regelt das Modulhandbuch. Macht die bzw. der Stu-
+dierende von der Möglichkeit nach Satz
+1 Gebrauch, werden die dort erbrachten Leis-
+tungen zur Bewertung des Moduls und bei benoteten Modulen insbesondere zur Be-
+rechnung der Modulnote herangezogen. *Zwischenprüfungsleistungen können die
+Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbes-
+sern; eine Verschlechterung der Note ist ausgeschlossen.
+(5) Die Teilnahme an Modulprüfungen (Abs. 2 Satz 1) setzt die Immatrikulation an der
+FAU voraus.
+8 7 Anwesenheitspflicht
+(1) 'Für entsprechend in derjeweiligen Modulbeschreibung gekennzeichnete Lehrver-
+anstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige
+5
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Mo-
+dulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorge-
+sehen werden. ?Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit
+der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehme-
+rinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw.
+des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer ab-
+hängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder
+zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist.
+(2) 'Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr
+als 15 v. H. der Unterrichtszeit versäumt werden, wobei die Gründe für das Versäumnis
+unerheblich sind. ?Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Un-
+terrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbie-
+ten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzori-
+entiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatz-
+leistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studieren-
+den nicht erfüllt, so ist die Teilnahme nicht regelmäßig. Werden insgesamt mehr als
+30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen. *Bei
+der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind
+zu Gunsten der Studierenden zu runden.
+(3) Im Rahmen von Praktika ist abweichend von Abs. 2 die Teilnahme nur dann re-
+gelmäßig, wenn alle Unterrichtseinheiten besucht wurden. ?Für glaubhaft gemachte,
+nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu
+15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfor-
+dernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestal-
+tete Ersatzleistungen anzubieten. Werden mehr als 15 v. H. der Unterrichtszeit ver-
+säumt, so ist die Veranstaltung erneut zu belegen. *Bei der Ermittlung des Umfangs
+der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden
+zu runden.
+(4) 'Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen, sofern diese in Prä-
+senzform abgehalten werden, mittels einer Teilnahmeliste, in die die Studierenden ih-
+ren eigenen Namen eintragen und durch Unterschrift bestätigen, oder auf vergleich-
+bare Weise festgestellt. Werden Lehrveranstaltungen im Online-Format abgehalten,
+erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Na-
+mensabgleichs. *In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der
+Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen
+Studierende an der Lehrveranstaltung teilnehmen. *Nehmen Studierende unter einem
+Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw.
+dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren
+Klarnamen zu nennen, um den Abgleich zu ermöglichen.
+(5) Im Fall des Rücktritts von der Prüfung (Erst- oder Wiederholungsversuch) eines
+anwesenheitspflichtigen Moduls besteht eine Pflicht zum erneuten Besuch der Lehr-
+veranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden
+aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den
+Kompetenzerwerb der Studierenden erforderlich ist; Näheres regelt das Modulhand-
+buch.
+6
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+uul/zu\ ( )
+& 8 Prüfungsfristen, Fristversäumnis
+(1) 'Die Prüfungen sind ordnungsgemäß so rechtzeitig abzulegen, dass bis zum Ende
+des Regeltermins in der Grundlagen- und Orientierungsprüfung 30 ECTS-Punkte, in
+der Bachelorprüfung 180 ECTS-Punkte und in der Masterprüfung 120 ECTS-Punkte
+entsprechend der jeweiligen Vorgaben erworben sind. ?Regeltermine sind
+in der
+Grundlagen- und Orientierungsprüfung das zweite Semester und in der Bachelor- bzw.
+Masterprüfung das letzte Semester derjeweiligen Regelstudienzeit. *Die Regeltermine
+nach Satz 2 dürfen überschritten werden (Überschreitungsfrist):
+1. in der Grundlagen- und Orientierungsprüfung um ein Semester,
+2. in der Bachelorprüfung um zwei Semester und
+3. in der Masterprüfung um zwei Semester.
+“Die jeweilige Prüfung gilt als abgelegt und endgültig nicht bestanden, wenn die in
+Satz 1 festgelegte Zahl von ECTS-Punkten nicht ordnungsgemäß bzw. nicht innerhalb
+der Überschreitungsfrist nach Satz 3 erworben wurde, es sei denn, die bzw. der Stu-
+dierende hat die Gründe hierfür nicht zu vertreten.
+(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen
+entsprechend den Regelungen des Gesetzes zum Schutz von Müttern bei der Arbeit,
+in der Ausbildung und im Studium (Mutterschutzgesetz -— MuSchG) in der Fassung der
+Bekanntmachung vom 23. Mai 2017 (BGBl.
+| S. 1228) in der jeweils geltenden Fas-
+sung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld-
+und Elternzeitgesetz — BEEG) vom 5. Dezember 2006 (BGBl.
+| S. 2748) in der jeweils
+geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne
+von & 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz — PflegeZG) vom
+28. Mai 2008 (BGBl.
+| S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürf-
+tig im Sinne der 88 14, 15 des Elften Buches Sozialgesetzbuch (SGB XI) vom
+26. Mai 1994 (BGBl.
+| S. 1014, 1015) in der jeweils geltenden Fassung ist.
+(3) 'Die Gründe nach den Abs. 1 Satz 4 und Abs. 2 müssen dem Prüfungsausschuss
+unverzüglich schriftlich angezeigt und glaubhaft gemacht werden. ?Werden die Gründe
+anerkannt, so ist die Prüfung zum nächstmöglichen Termin abzulegen; bereits vorlie-
+gende Prüfungs- oder Studienleistungen werden anerkannt. ®Es gelten & 12 Abs. 4
+Sätze 2 und 3.
+8& 9 Prüfungsausschuss
+(1) "Für die Organisation und Durchführung der Prüfungen des Bachelor- und Master-
+studiengangs wird ein Prüfungsausschuss eingesetzt. Der Prüfungsausschuss hat
+fünf Mitglieder aus dem Kreis der Professorinnen und Professoren des Departments
+Physik der Naturwissenschaftlichen Fakultät; sie werden vom Fakultätsrat gewählt.
+®Der Fakultätsrat wählt ein Mitglied zu der bzw. dem Vorsitzenden und regelt die Ver-
+tretung. *Die Amtszeit der Mitglieder beträgt drei Jahre. ?Wiederwahl ist zulässig.
+(2) Die bzw. der Vorsitzende kann ihr bzw. ihm obliegende Aufgaben einem Mitglied
+des Prüfungsausschusses zur Erledigung übertragen.
+(3) "Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbe-
+sondere die Planung und Organisation der Prüfungen. ?Er achtet darauf, dass die Best-
+immungen dieser Studien- und Prüfungsordnung eingehalten werden. ®Mit Ausnahme
+7
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden trifft er alle
+anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt delegiert sind. *Auf
+Antrag überprüft er delegierte Entscheidungen sowie die Bewertungen von Prüfungen
+auf ihre Rechtmäßigkeit. 5Er berichtet regelmäßig den zuständigen Gremien des De-
+partments über die Entwicklung der Prüfungen und Studienzeiten und gibt gegebenen-
+falls Anregungen zu Änderungen der Studien- und Prüfungsordnung. ®Die Mitglieder
+des Prüfungsausschusses haben das Recht auf Anwesenheit bei der Abnahme der
+Prüfungen. ’Für den Geschäftsgang gilt 8 30 der Grundordnung der Friedrich-Alexan-
+der-Universität Erlangen-Nürnberg (GrO).
+(4) 'Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich
+oder elektronisch unter Einhaltung einer mindestens einwöchigen Ladunggsfrist gela-
+den sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist. ?Er be-
+schließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen. °Stimmenthaltung,
+geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig. *Bei Stimmen-
+gleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag.
+(5) "Die bzw. der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein. ?Sie
+bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidun-
+gen allein zu treffen. ?Satz 2 gilt entsprechend für die Entscheidung über unzulässige
+Widersprüche sowie in Sachen, die keiner weiteren Erörterung bedürfen oder die von
+geringer Bedeutung sind. *Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis
+zu setzen. °Darüber hinaus kann, soweit diese Studien- und Prüfungsordnung nichts
+anderes bestimmt, der Prüfungsausschuss der bzw. dem Vorsitzenden die Erledigung
+einzelner Aufgaben widerruflich übertragen.
+(6) 'Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten be-
+einträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit ei-
+ner Rechtsbehelfsbelehrung zu versehen. ?Der bzw. dem Studierenden ist vor ableh-
+nenden Entscheidungen Gelegenheit zur Äußerung zu geben. ®Bescheide in Prüfungs-
+angelegenheiten können jeder bzw. jedem Einzelnen in elektronischer Form bekannt
+gegeben werden. *In diesem Fall wird derjeweilige Bescheid in das Benutzerkonto der
+bzw. des Studierenden im Prüfungsverwaltungssystem der FAU elektronisch übermit-
+telt (Bereitstellung zum Abruf). Die bzw. der Studierende erhält über die Bereitstellung
+zum Abruf des Bescheids eine Benachrichtigung durch E-Mail an die studentische E-
+Mail-Adresse gemäß 8 3 Abs. 2 Satzung der Friedrich-Alexander-Universität Erlangen-
+Nürnberg (FAU) über die Bewerbung, Immatrikulation, Rückmeldung, Beurlaubung
+und Exmatrikulation (ImmaS). $Ein gemäß Satz 4 zum Abruf bereitgestellter Bescheid
+gilt am vierten Tag nach Absendung der E-Mail über die Bereitstellung des Bescheids
+gemäß Satz 5 als bekanntgegeben.’Widerspruchsbescheide werden im Auftrag der
+Präsidentin bzw. des Präsidenten erlassen, in fachlich-prüfungsrechtlichen Fragen im
+Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prü-
+fenden.
+8 10 Zugangskommission zum Masterstudium
+(1) Die Prüfung der Qualifikations- und Zugangsvoraussetzungen zum Masterstudien-
+gang obliegt der Zugangskommission.
+8
+```
+
+### OCR Seite 9
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+(2) 'Die Zugangskommission besteht aus neun Mitgliedern des hauptberuflich i. S. d.
+Art. 53 Abs. 4 BayHIG beschäftigten wissenschaftlichen Personals des Departments
+Physik, die nach dem BayHIG und der HSchPrüferV in der jeweils geltenden Fassung
+prüfungsberechtigt sind. ?Mindestens sechs Mitglieder einschließlich der bzw. dem
+Vorsitzenden müssen Professorinnen bzw. Professoren sein. ®Die Mitglieder werden
+auf Vorschlag des Departments Physik vom Fakultätsrat der Naturwissenschaftlichen
+Fakultät für eine Amtszeit von drei Jahren bestellt; Wiederbestellung ist möglich. *Der
+Fakultätsrat bestimmt ein Mitglied zu der bzw. dem Vorsitzenden. °8 9 Abs. 4 und
+Abs. 5 Satz 1 gelten entsprechend.
+& 11 Prüfende, Beisitzerinnen und Beisitzer, Ausschluss wegen
+persönlicher Beteiligung, Verschwiegenheitspflicht
+(1) "Der Prüfungsausschuss bestimmt die Prüfenden und Gutachterinnen bzw. Gut-
+achter. ?Es können
+alle nach dem BayHIG und der Hochschulprüferverordnung
+(HSchPrüferV) in der jeweils geltenden Fassung zur Abnahme von Prüfungen Be-
+rechtigten bestellt werden. ®Für die Bestellung der Prüfenden von Seminarvorträgen
+sowie Kolloquiumsvorträgen zu Bachelorarbeit oder Master’s thesis sind zusätzlich die
+Regelungen in 88 19, 31 und 41 zu beachten. *Im Falle von Importmodulen werden
+die jeweiligen Prüfenden von den für die jeweiligen Importmodule zuständigen Prü-
+fungsausschüssen bestimmt.
+(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig wer-
+dender Wechsel der bzw. des Prüfenden ist zulässig. ”?Scheidet ein prüfungsberech-
+tigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung vorbehaltlich der Re-
+gelungen in Art. 85 BayHIG und der HSchPrüferV in der Regel bis zu einem Jahr
+erhalten. *Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechti-
+gung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung. *Auf Antrag
+kann derjeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus ver-
+längern.
+(3) "Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende
+oder ein verwandtes Fachstudium auf der gleichen Qualifikationsebene erfolgreich ab-
+geschlossen hat. ?Die Beisitzerin bzw. der Beisitzer soll hauptberuflich im Sinne des
+Art. 53 Abs. 4 BayHIG tätige wissenschaftliche Mitarbeiterin bzw. hauptberuflich im
+Sinne des Art. 53 Abs. 4 BayHIG tätiger wissenschaftlicher Mitarbeiter sein.
+(4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie
+von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 51
+Abs 2 BayHIG i.V.m. Art. 20, 21 BayVwVfG.
+(5) Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsan-
+gelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 26
+Abs 2 Sätze 2 und 3 BayHIG.
+9
+```
+
+### OCR Seite 10
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+8 12 Bekanntgabe der Prüfungsart, Prüfungstermine und der Prüfenden,
+Anmeldung, Rücktritt, Folgen eines verspäteten bzw. nicht ordnungsgemäßen
+Rücktritts
+(1) "Art und Umfang der Prüfungen ergeben sich aus den Anlagen 2 bis 5. ?Die Ter-
+mine der Prüfungen und die Prüfenden werden rechtzeitig ortsüblich bekannt gemacht.
+(2) "Die Studierenden melden sich zu den einzelnen Modulprüfungen nach Beginn der
+Vorlesungszeit an. ?Die Anmeldetermine und Anmeldeformalitäten werden rechtzeitig
+vorher ortsüblich bekannt gegeben. ®Die Teilnahme an derjeweiligen Prüfung setzt in
+der Regel die ordnungsgemäße Anmeldung auf der hierfür bereitgestellten Plattform
+voraus. *Abweichend von Sätzen 1 bis 3 werden Studierende bei entsprechender Aus-
+weisung in der jeweillgem Modulbeschreibung im Falle von Praktika in Folge der ei-
+genständigen Anmeldung zur Teilnahme am Praktikum von Amts wegen zur dazuge-
+hörigen Prüfung angemeldet; erfolgt keine entsprechende Ausweisung im Modulhand-
+buch, gelten Sätze 1 bis 3. ®Für die Anmeldung zu Wiederholungsprüfungen ist 8 32
+Abs. 2 zu beachten.
+(3) '!Unbeschadet der Fristen nach 8
+8
+ist ein Rücktritt von einzelnen Prüfungen ohne
+nachteilige Folgen möglich. Der Rücktritt kann spätestens unmittelbar vor dem Beginn
+der Prüfungszeit einer Prüfung durch Fernbleiben von der Prüfung erfolgen. ?Er bedarf
+keiner Begründung. *Nach diesem Zeitpunkt ist der Rücktritt nur möglich, wenn von
+der bzw. dem Studierenden nicht zu vertretende Gründe entsprechend & 8 Abs.
+1
+Satz 4 vorliegen. ®Abweichend von Sätzen 1 bis 3 ist in Fällen des Abs. 2 Satz 4 ein
+Rücktritt von der Prüfung stets nur aus von der bzw. dem Studierenden nicht zu ver-
+tretenden Gründen, insbesondere im Falle der Krankheit, zulässig. ®Die Gründe sind
+gegenüber dem Prüfungsausschuss unverzüglich gemäß Abs. 4 schriftlich geltend zu
+machen. ’Die Erklärung des Rücktritts bzw. der Rücktritt durch Fernbleiben von der
+Prüfung nach Satz 2 ist unwiderruflich; mit der Erklärung des Rücktritts bzw. dem Fern-
+bleiben von der Prüfung i. S. d. Satz 2 erlischt die Anmeldung zur Prüfung für diesen
+Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht
+mehr berechtigt. ®Für den Rücktritt von Wiederholungsprüfungen ist
+&$ 32 Abs. 3 zu
+beachten. ®Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich
+nach Abs. 4.
+(4) "Eine Prüfung gilt als mit „nicht ausreichend“ (5,0) bzw. „nicht bestanden“ bewertet,
+wenn die bzw. der Studierende nach dem Ende der Rücktrittsfrist (Abs. 3) ohne triftige
+Gründe zurücktritt. ?In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest
+vorzulegen; derjeweilige Prüfungsausschuss kann die Vorlage eines vertrauensärztli-
+chen Attestes verlangen. ®Das (vertrauens-Järztliche Attest muss eine Beschreibung
+der Symptome und die Angabe der sich daraus ergebenden Verminderung des Leis-
+tungsvermögens in der Prüfung speziell durch die Störung bestimmter körperlicher
+oder geistiger Funktionen enthalten.
+8 13 Anerkennung von Kompetenzen
+(1) "Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen oder durch
+die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines anderen Stu-
+diengangs an der FAU oder an anderen staatlichen oder staatlich anerkannten Hoch-
+schulen in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen
+10
+```
+
+### OCR Seite 11
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+staatlichen oder staatlich anerkannten Hochschulen erbracht worden sind, sowie auf-
+grund solcher Studiengänge erworbene Abschlüsse sind anzuerkennen, sofern hin-
+sichtlich der erworbenen und der nachzuweisenden Kompetenzen keine wesentlichen
+Unterschiede bestehen. ?Gleiches gilt für Studien- und Prüfungsleistungen, die an ei-
+ner staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Mo-
+dul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines
+Früh- oder Jungstudiums erbracht worden sind. ®Die Anerkennung dient der Fortset-
+zung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Stu-
+diums oder der Zulassung zur Promotion.
+(2) 'Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien
+oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet wer-
+den, wenn sie gleichwertig sind. ?Außerhalb des Hochschulbereichs erworbene Kom-
+petenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen.
+(3) "Die Noten anerkannter Studien- und Prüfungsleistungen werden übernommen,
+wenn sie entsprechend 8 22 gebildet wurden. Stimmt das Notensystem an der Uni-
+versität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter
+Prüfungen mit dem Notensystem des 8 22 nicht überein, werden die Noten der ande-
+ren Hochschulen in der Regel nach der Formel
+x=1+3 (Nmax — Na)/(Nmax — Nmin) mit
+x= gesuchte Umrechnungsnote
+Nmax= beste erzielbare Note
+Nmin= unterste Bestehensnote
+Na= erzielte Note
+umgerechnet. ®Bei den so berechneten Noten werden zwei Stellen hinter dem Komma
+berücksichtigt; alle anderen Stellen entfallen ohne Rundung. *lst die Umrechnung nach
+Satz 2 nicht möglich oder nachweislich nicht sinnvoll, so legt der Prüfungsausschuss
+einen entsprechenden Schlüssel für die Notenberechnung fest.
+(4) !Im Falle der Anerkennung bzw. Anrechnung von 30 oder mehr ECTS-Punkten
+erfolgt eine Hochstufung der bzw. des Studierenden in höhere Fachsemester. ?Dabei
+wird in der Regel pro anerkannter 30 ECTS-Punkte ein Semester hochgestuft. ®Dies
+gilt nicht, wenn die bzw. der Studierende während eines Auslandssemesters ohne Be-
+urlaubung ununterbrochen an der FAU immatrikuliert war. *Dies gilt nicht, wenn die
+bzw. der Studierende während eines Auslandssemesters ohne Beurlaubung ununter-
+brochen an der FAU immatrikuliert war.
+(5) "Anerkennung und Anrechnung erfolgen auf Antrag. ?Die für die Anerkennung bzw.
+Anrechnung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungs-
+ausschusses vorzulegen. ®Vorbehaltlich der Regelung in Satz 3 besteht bei Vorliegen
+der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung bzw.
+Anrechnung. *Eine Anerkennung bzw. Anrechnung ist nur möglich, soweit das ent-
+sprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder
+endgültige Nichtbestehen der Prüfung beendet ist. ®Die Entscheidung trifft die bzw. der
+Vorsitzende des Prüfungsausschusses; erforderlichenfalls werden Fachvertreterinnen
+bzw. Fachvertreter des zuständigen Fachs vorab angehört. Die Entscheidung ergeht
+schriftlich.
+11
+```
+
+### OCR Seite 12
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+& 14 Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme
+(1) 'Im Falle des Plagiats sowie bei einem Täuschungsversuch oder dem Versuch, das
+Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflus-
+sen, gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet. Zu den
+nicht zugelassenen Hilfsmitteln in Satz 1 bei der Anfertigung von Prüfungs- bzw. Stu-
+dienleistungen zählt insbesondere die Nutzung von Anwendungen Künstlicher Intelli-
+genz, die die eigenständige Leistung der bzw. des Studierenden ersetzen kann, sofern
+diese nicht ausdrücklich von der bzw. dem Prüfenden als Hilfsmittel zugelassen wur-
+den. ®Fälle nach Satz 1 werden von der bzw. dem Prüfenden der bzw. dem Vorsitzen-
+den des Prüfungsausschusses mitgeteilt und von dieser bzw. diesem schriftlich an das
+Prüfungsamt gemeldet.
+(2) Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen
+prüfungsberechtigten oder aufsichtführenden Person von der Fortsetzung der Prü-
+fungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfung als
+mit „nicht ausreichend“ (5,0) bzw. „nicht bestanden“ bewertet.
+(3) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs.
+1 oder
+Abs. 2 kann der Prüfungsausschuss die Studierende bzw. den Studierenden von der
+weiteren Teilnahme an Prüfungen im Rahmen des jeweiligen Studiengangs nach die-
+ser Studien- und Prüfungsordnung ausschließen mit der Folge, dass die bzw. der Stu-
+dierende den Prüfungsanspruch im entsprechenden Studiengang verliert (endgültiges
+Nichtbestehen).
+& 15 Entzug akademischer Grade
+Der Entzug des akademischen Grades richtet sich nach Art. 101 BayHIG.
+& 16 Mängel im Prüfungsverfahren
+(1) Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prü-
+fungsergebnis beeinflusst haben, kann auf Antrag einer bzw. eines Studierenden an-
+geordnet werden, dass von einer bzw. einem bestimmten oder von allen Studierenden
+die Prüfung oder einzelne Teile derselben wiederholt wird bzw. werden.
+(2) Mängel des Prüfungsverfahrens müssen unverzüglich bei der bzw. dem Vorsitzen-
+den des Prüfungsausschusses oder bei der bzw. dem Prüfenden geltend gemacht
+werden.
+(3) Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen
+nach Abs. 1 nicht mehr getroffen werden.
+8 17 Schriftliche Prüfung, Antwort-Wahl-Verfahren
+(1) !In der schriftlichen Prüfung (Ausprägungen siehe Anlagen 2 bis 5) sollen die Stu-
+dierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln ein
+Problem mit den geläufigen Methoden des Faches erkennen und Wege zur Lösung
+finden können. ?Dies gilt insbesondere für Klausuren, die unter Aufsicht angefertigt
+werden. *Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als Open-
+Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb
+eines bestimmten Zeitranmens eine oder mehrere Aufgaben unter Zuhilfenahme eines
+12
+```
+
+### OCR Seite 13
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+nach entsprechender Festlegung der bzw. des Prüfenden erweiterten Kreises an Hilfs-
+mitteln bzw. sämtlicher Hilfsmittel — jedoch ohne die Hilfe dritter Personen — bearbei-
+ten; Näheres regelt die Modulbeschreibung. *Bei Prüfungen
+i. S. d. Satz 3 sind die
+Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Ver-
+ständnis, Analysieren, Transfer und Anwendung auszurichten.
+(2) "Klausuren dauern mindestens 60 und höchstens 180 Minuten. ?Die Prüfungsdauer
+ergibt sich im Einzelnen aus den Anlagen 2 bis 5.
+(3) "Schriftliche Prüfungen werden von der Aufgabenstellerin bzw. dem Aufgabenstel-
+ler der Aufgabe bewertet, sofern nichts anderes bestimmt ist. ?Eine mit „nicht ausrei-
+chend“ beurteilte schriftliche Prüfung ist von einer bzw. einem zweiten Prüfenden zu
+beurteilen. Die Bewertung jeder bzw. jedes Prüfenden muss schriftlich dokumentiert
+werden und die das abschließende Votum tragenden Gründe erkennen lassen.
+(4) 1Soweit die Teilnahme an einer Klausur wegen Krankheit oder eines Auslandsse-
+mesters nicht möglich ist und die Teilnahme am nächstmöglichen Prüfungstermin zu
+Konflikten mit der Einhaltung von Prüfungsfristen oder der ordnungsgemäßen Durch-
+führung des Studiums führt, denen von der bzw. dem Studierenden nicht vorab hätte
+begegnet werden können, kann der Prüfungsausschuss in Absprache mit der bzw.
+dem Prüfenden in besonders begründeten Ausnahmefällen den Wechsel der Prü-
+fungsform hin zu einer mündlichen Prüfung gestatten, wenn das konkrete didaktische
+Konzept des jeweiligen Moduls dem nicht entgegensteht. ?In Fällen des Satz 1 wird
+die Dauer der mündlichen Prüfung vom Prüfungsausschuss in Absprache mit der bzw.
+dem Prüfenden festgelegt.
+(5) "Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abge-
+nommen werden (Single- und/oder Multiple-Choice-Prüfungen). ?Näheres dazu,
+in
+welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt
+das Modulhandbuch. ®Die bzw. der zu Prüfende hat anzugeben, welche der mit den
+Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält. *Prüfungsaufgaben
+müssen zuverlässige Prüfungsergebnisse ermöglichen. °Bei der Aufstellung der Prü-
+fungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.
+öWenn die Prüfungsaufgabe Mehrfachantworten verbietet, sind Mehrfachantworten
+unzulässig und werden nicht gewertet. ’Die Prüfungsaufgaben sind durch mindestens
+zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungser-
+gebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satz 4
+zuverlässige Prüfungsergebnisse ermöglichen. ®Ergibt diese Überprüfung, dass ein-
+zelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungs-
+ergebnisses nicht zu berücksichtigen, es ist von der verminderten Zahl der Prüfungs-
+aufgaben auszugehen. °Die Verminderung der Zahl der Prüfungsaufgaben darf sich
+nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken. !PÜber die jeweilige Auf-
+gabe hinaus dürfen keine Minuspunkte vergeben werden.
+(6) "Die Aufgabenstellerinnen bzw. Aufgabensteller nach Abs. 5 Satz 7 legen fest,
+wann die Prüfungen nach Abs. 5 Satz 1 als bestanden gelten und legen auch eine
+relative Bestehensgrenze (Satz 2 Nr. 2) fest. ?Sofern die Aufgabenstellerinnen bzw.
+Aufgabensteller keine Festlegung getroffen haben, gelten Prüfungen nach Abs. 3
+Satz 1 als bestanden, wenn
+13
+```
+
+### OCR Seite 14
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+1.
+die bzw. der zu Prüfende insgesamt mindestens 50 Prozent der gestellten Prü-
+fungsfragen zutreffend beantwortet bzw. der zu erzielenden Punkte erreicht hat
+oder
+2.
+die bzw. der zu Prüfende insgesamt mindestens 40 Prozent der gestellten Prü-
+fungsfragen zutreffend beantwortet bzw. der zu erzielenden Punkte erreicht hat
+und die Zahl der von der bzw. dem zu Prüfenden zutreffend beantworteten Fragen
+bzw. der zu erzielenden Punkte um nicht mehr als 17 Prozent die durchschnittli-
+chen Prüfungsleistungen der insgesamt zu Prüfenden unterschreitet, die erstmals
+an der entsprechenden Prüfung teilgenommen haben.
+®Die Referenzgruppe der Erstteilnehmenden nach Satz 2 Nr.
+2 muss aus mindestens
+50 Personen bestehen; anderenfalls ist die relative Bestehensgrenze nicht anwendbar.
+*Wird Satz 2 Nr.
+2 angewendet, ist die Studiendekanin bzw. der Studiendekan zu un-
+terrichten.
+(7) Bei schriftlichen Prüfungen, die nur teilweise im Antwort-Wahl-Verfahren abgenom-
+men werden, gelten die Abs. 5 und 6 nur für diesen Teil.
+& 18 Mündliche Prüfung
+(1) 'In den mündlichen Prüfungen sollen die Studierenden nachweisen, dass sie die
+Zusammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen
+in
+diese Zusammenhänge einzuordnen vermögen. ?Mündliche Prüfungen, die von nur
+einer prüfungsberechtigten Person abgenommen werden, finden in Anwesenheit einer
+Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden be-
+stimmt wird. Sie sind Einzelprüfungen und dauern ca. 15, 30 oder 45 Minuten. *Die
+Prüfungsdauer im Einzelnen ergibt sich aus den Anlagen 2 bis 5.
+(2) In der mündlichen Prüfung vor mehreren prüfungsberechtigten Personensetzt jede
+bzw. jeder Prüfende die Note nach 8 22 Abs. 1 fest.
+(3) "Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen
+sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstände und Ergebnis der Prü-
+fung, die Namen der Prüfenden, der Beisitzerin bzw. des Beisitzers und der bzw. des
+Studierenden sowie besondere Vorkommnisse. ?Das Protokoll wird von den prüfungs-
+berechtigten Personen und ggf. der Beisitzerin bzw. dem Beisitzer unterzeichnet. ®Die
+Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich. *Das Protokoll ist
+mindestens zwei Jahre aufzubewahren.
+(4) "Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung in
+einem der nachfolgenden Prüfungszeiträume unterziehen wollen, im Rahmen der
+räumlichen Möglichkeiten als Zuhörerinnen bzw. Zuhörer zugelassen; auf Verlangen
+der Prüfungskandidatin bzw. des Prüfungskandidaten werden Zuhörerinnen oder Zu-
+hörer ausgeschlossen. ?Die Zulassung erstreckt sich in keinem Fall auf die Beratung
+und die Bekanntgabe des Prüfungsergebnisses.
+8 19 Vorträge
+(1) In Vorträgen sollen die Studierenden nachweisen, dass sie in der Lage sind, ein
+wissenschaftliches Thema selbstständig zu erarbeiten, es für einen Zuhörerkreis klar
+darzustellen sowie sich der fachlichen Diskussion zu stellen. ?In die Bewertung von
+Vorträgen gehen Inhalt, Qualität der Präsentationsmaterialien, sprachliche Darstellung
+14
+```
+
+### OCR Seite 15
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+DUN
+und Verhalten in der Diskussion sowie ggf. die Leistung während der Vortragsvorbe-
+reitung ein. ®Die Betreuerin bzw. der Betreuer des Vortrags soll in der Regel zu der
+bzw. dem Prüfenden bestellt werden. *Sind bei einem Vortrag mehrere nach 8& 11
+Abs. 1 Satz 2 grundsätzlich Prüfungsberechtigte anwesend, entfällt die Notwendigkeit
+der Hinzuziehung einer Beisitzerin bzw. eines Beisitzers.
+(2)8 18 Abs. 2 und 3 gelten entsprechend.
+(3) Vorträge können in dieser Studien- und Prüfungsordnung, ihren Anlagen oder im
+Modulhandbuch als öffentlich ausgewiesen werden; in diesem Fall werden Zuhörerin-
+nen und Zuhörer ohne die Beschränkung in 8 18 Abs. 4 Satz 1 Halbsatz 2 zugelassen.
+8 20 Praktikumsleistungen und Forschungsprojekte
+!Art und Umfang der Prüfung in den Praktika bzw. Forschungsprojekten sind abhängig
+vom konkreten didaktischen Charakter des jeweiligen Moduls und dem Modulhand-
+buch zu entnehmen. ?In der Regel besteht die Prüfung aus der Durchführung (unbe-
+notet) und abschließenden Dokumentation verschiedener Versuche bzw. des For-
+schungsprojekts in Form einer Protokollsammlung bzw. eines Abschlussberichts (be-
+notet oder unbenotet). Bei Praktika besteht die Möglichkeit, die Dokumentation ein-
+zelner Versuche vorab zur Zwischenevaluation einzureichen.
+8 21 Elektronische Prüfung in Präsenz
+!Prüfungen können in elektronischer Form in Präsenz abgenommen werden. ?Näheres
+dazu, in welchen Modulen Prüfungen in elektronischer Form in Präsenz abgenommen
+werden und welche Anforderungen im Hinblick auf die zulässigen Endgeräte ein-
+schließlich etwaigen Zubehörs und die übrige technische Ausstattung (insbesondere
+einzusetzende elektronische Systeme, Anwendungen, Software) gelten, regelt die je-
+weilige Modulbeschreibung bzw. werden diese rechtzeitig im Vorfeld der Prüfung be-
+kannt gemacht. ®Die Authentizität und die Integrität der Prüfungsergebnisse sind si-
+cherzustellen. *Die Durchführung und die Auswertung von E-Prüfungen können durch
+computergestützte bzw. digitale Medien unterstützt werden. Eine automatisiert er-
+stellte Bewertung einer Prüfung ist immer von der bzw. dem Prüfenden, im Fall einer
+nichtbestandenen Prüfung von zwei Prüfenden, zu überprüfen.
+& 22 Bewertung der Prüfungen, Gesamtnote
+(1) Die Urteile über die einzelnen Prüfungen werden von der bzw. dem jeweiligen Prü-
+fenden durch folgende Prädikate und Noten ausgedrückt:
+_
+eine Leistung, die erheblich über den durchschnittli-
+.
+_
+eine Leistung, die trotz ihrer Mängel noch den Anfor-
+15
+```
+
+### OCR Seite 16
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+(2) "Eine Prüfung (8 6 Abs. 2) ist bestanden, wenn sie mindestens mit dem Prädikat
+„ausreichend“ bewertet ist. ?Bei unbenoteten Studienleistungen (8 6 Abs. 3 Satz 4)
+lautet die Bewertung „bestanden“ bzw. „nicht bestanden“. ?Eine Modulprüfung ist vor-
+behaltlich der Regelung in Abs. 5 Satz 5 bestanden, wenn sämtliche Teilleistungen ($
+6 Abs. 2 Satz 3) bestanden sind. *Ist eine Prüfung von mehreren Prüfenden zu bewer-
+ten so ergibt sich die Note aus dem arithmetischen Mittel der Einzelnoten. °Bei der
+Ermittlung der Note werden zwei Stellen nach dem Komma berücksichtigt; alle ande-
+ren Stellen entfallen ohne Rundung. ®Besteht die Prüfung aus mehreren Teilleistun-
+gen, so gilt Abs. 5.
+(3) 'Der Bewertungsmaßstab von im Antwort-Wahl-Verfahren zu erbringenden Prü-
+fungsleistungen ist von den Aufgabenstellerinnen bzw. Aufgabenstellern nach 8 17
+Abs. 5 Satz 7 festzulegen. ?Erfolgt keine Festlegung, sind die erbrachten Prüfungsleis-
+tungen wie folgt zu bewerten: ®Wer die für das Bestehen der Prüfung nach 8 17 Abs. 6
+Satz 1 bzw. 2 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen bzw.
+die Mindestzahl der zu erzielenden Punkte erreicht, erhält die Note
+1,0 („sehr gut"), wenn mindestens 75 Prozent,
+2,0 („gut"), wenn mindestens 50, aber weniger als 75 Prozent,
+3,0 („befriedigend"), wenn mindestens 25, aber weniger als 50 Prozent,
+4,0 („ausreichend"), wenn keine oder weniger als 25 Prozent der darüber hinaus ge-
+stellten Prüfungsfragen zutreffend beantwortet bzw. die Mindestzahl der zu erzielen-
+den Punkte erreicht wurden.
+*Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder ernied-
+rigt werden; die Noten 0,7 und 4,3 sind dabei ausgeschlossen. ®Wer nicht die erforder-
+liche Mindestzahl erreicht, erhält die Note 5,0. &Abweichend von Satz 3 können in den
+Fällen, in denen die Prüfung gemäß S 17 Abs. 7 teilweise im Antwort-Wahl-Verfahren
+durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.
+(4) Die Korrektur und Bewertung einer Prüfung hat mit Ausnahme von Bachelorarbei-
+ten und der Master's thesis innerhalb von sechs Wochen und mindestens zwei Wo-
+chen vor dem Termin der Wiederholungsprüfung zu erfolgen; über Ausnahmen ent-
+scheidet der Prüfungsausschuss.
+(5) "Soweit in 88 31 und 43 sowie der jeweiligen Anlage bzw. im Modulhandbuch
+nichts anderes festgelegt ist, werden die Modulnoten aus dem Durchschnitt der ein-
+zelnen Noten der Prüfungen im Sinne von 8 6 Abs. 2 Satz 3 errechnet; das Noten-
+schema des Abs.
+1 Satz 1 findet keine Anwendung. ?Änderungen an den Gewich-
+tungsfaktoren im Sinne des Satz 1 sind nur zu Semesterbeginn möglich und gelten
+jeweils nur für Studierende, die sich bezogen auf das jeweilige Module noch nicht in
+einem laufenden Prüfungsverfahren befinden (Erstversuch). ®Abweichend von Satz 2
+sind Änderungen an den Gewichtungsfaktoren von Prüfungen, die Bestandteil der
+Grundlagen- und Orientierungsprüfung sind, sowie in den Modulen Bachelor- und
+Masterarbeit jeweils nur mit Wirkung für Studierende möglich, die das Studium ab dem
+jeweiligen Semester neu aufnehmen. *Näheres zur Bewertung von Prüfungen mit
+mehreren
+Prüfungsteilen
+bzw.
+Teilleistungen
+regelt die jeweilige
+Modulbeschrei-
+16
+```
+
+### OCR Seite 17
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ul
+/zu \
+bung.’Bei der Ermittlung der Note werden zwei Stellen nach dem Komma berücksich-
+tigt; alle anderen Stellen entfallen ohne Rundung. $Wird in einem Modul nur eine be-
+notete Prüfung abgehalten, bildet sie die Modulnote. "Wird keine benotete Prüfung
+abgehalten, lautet die Bewertung des Moduls “bestanden“ bzw. „nicht bestanden“. ®In
+den Anlagen können Kompensationsmöglichkeiten für nicht bestandene Teilprüfun-
+gen vorgesehen werden.
+(6) "Die Grundlagen- und Orientierungsprüfung bemisst sich nach 8 35. ?Die Grundla-
+gen- und Orientierungsprüfung ist unbenotet.
+(7) "Die Gesamtnote der Bachelorprüfung, der Masterprüfung bzw. der Module lautet:
+bei einem Durchschnitt bis 1,50 = sehr gut
+bei einem Durchschnitt über 1,50 bis 2,50 = gut
+bei einem Durchschnitt über 2,50 bis 3,50 = befriedigend
+bei einem Durchschnitt über 3,50 bis 4,00 = ausreichend.
+Bei einer Gesamtnote des Bachelor- bzw. Masterabschlusses bis einschließlich 1,20
+wird das Prädikat „mit Auszeichnung“ vergeben und auf dem Zeugnis ausgewiesen.
+(8) "In die Gesamtnote der Bachelor- bzw. Masterprüfung gehen alle Modulnoten des
+jeweiligen Studiums mit dem Gewicht der ECTS-Punkte ihres Moduls ein, wenn in An-
+lage 2 bzw. 5 nichts anderes geregelt ist. Abs. 2 Satz 5 gilt entsprechend.
+(9) "Wurden mehr Module erfolgreich abgeschlossen als zum Bestehen der Bachelor-
+bzw. Masterprüfung erforderlich sind, kommen davon nur jene zur Anrechnung, die
+notwendig sind, um die Bestimmungen gemäß $ 33 bzw. 8 45 zu erfüllen. ?Ist mehr als
+eine Kombination von anzurechnenden Modulen möglich, so kommt diejenige zur An-
+wendung, die die beste Gesamtnote ergibt. *?Auf Antrag der bzw. des Studierenden
+können auch andere Kombinationen zur Anrechnung kommen.
+8 23 Ungültigkeit der Prüfung
+(1) Wurde bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushän-
+digung der Urkunden bekannt, so kann der Prüfungsausschuss nachträglich die be-
+troffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht
+bestanden erklären.
+(2) Waren die Voraussetzungen für die Zulassung zu einer (Teil-)Prüfung bzw. einem
+Prüfungsteil nicht erfüllt, ohne dass die Täuschung vorsätzlich erfolgte, so wird dieser
+Mangel durch das Bestehen der (Teil-)Prüfung bzw. des Prüfungsteils geheilt.
+(3) Vor einer Entscheidung ist der bzw. dem Studierenden Gelegenheit zur Stellung-
+nahme zu geben.
+(4) "Die unrichtigen Urkunden werden eingezogen; es werden gegebenenfalls neue
+Urkunden ausgestellt. ?Eine Entscheidung nach Abs. 1 und 2 ist nach einer Frist von
+fünf Jahren ab dem Ausstellungsdatum der Urkunden ausgeschlossen.
+17
+```
+
+### OCR Seite 18
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+8 24 Einsicht in die Prüfungsakten
+(1) Nach Abschluss der einzelnen Prüfungsverfahren erhält die bzw. der Studierende
+auf Antrag Einsicht in ihre bzw. seine schriftlichen Prüfungsarbeiten, die darauf bezo-
+genen Gutachten der Prüfenden und die Prüfungsprotokolle.
+(2) "Der Antrag ist binnen eines Monats nach Notenbekanntgabe bei dem für die Ein-
+sicht zuständigen Prüfungsorgan zu stellen. Die Einsicht wird durch die bzw. den Prü-
+fenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prü-
+fungsausschuss. ?Wer ohne eigenes Verschulden verhindert war, die Frist nach Satz 1
+einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 BayVwVfG in
+der jeweils geltenden Fassung beantragen.
+& 25 Urkunde, Zeugnis, Transcript of Records, Diploma Supplement,
+Grade distribution table
+(1) 'Wer den Bachelor- bzw. Masterstudiengang erfolgreich absolviert hat, erhält mög-
+lichst innerhalb von vier Wochen nach dem Vorliegen aller Prüfungsergebnisse beim
+Prüfungsamt eine Urkunde über die Verleihung des akademischen Grades, ein Zeug-
+nis, ein Transcript of Records, ein Diploma Supplement und ein Grade distribution
+table. ?Die Urkunden werden von der bzw. dem Vorsitzenden des Prüfungsausschus-
+ses oder deren bzw. dessen Stellvertreterin bzw. Stellvertreter unterzeichnet.
+(2) 'Das Zeugnis enthält die in die Bachelor- bzw. Masterprüfung eingehenden Module
+und Modulnoten sowie die Gesamtnote der Bachelor- bzw. Masterprüfung. Das
+Transcript of Records führt alle bestandenen Module auf; das Zeugnis und das
+Transcript of Records können
+in einer Urkunde zusammengefasst werden. ®Das
+Transcript of Records und das Diploma Supplement werden in englischer und deut-
+scher Sprache ausgestellt. “Informationen, die dem Prüfungsamt noch nicht vorliegen,
+müssen dort spätestens bis zum Zeitpunkt des Abschlusses des jeweiligen Studiums
+einschließlich entsprechender Nachweise vorgelegt werden; andernfalls können sie in
+den Dokumenten nach Abs. 1 nicht mehr berücksichtigt werden.
+& 26 Bescheinigung über endgültig nicht bestandene Prüfung
+'Wer die Bachelor- bzw. Masterprüfung endgültig nicht bestanden hat, erhält einen mit
+Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbe-
+stehen der Prüfung ergibt. ?Die bzw. der Studierende kann sich darüber hinaus im
+Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen er-
+zielten Noten generieren.
+8 27 Nachteilsausgleich
+(1) 'Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu
+nehmen. ?Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauern-
+der oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht
+in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzu-
+legen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses
+gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine
+andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis
+von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören,
+nicht verzichtet werden darf. ®Sätze 1 und 2 gelten entsprechend für Studierende in
+18
+```
+
+### OCR Seite 19
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer län-
+ger andauernden Krankheit oder Behinderung im Sinne des Satz 2 vergleichbar sind.
+(2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu
+eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss
+spätestens vier Wochen vor dem Prüfungstermin einen entsprechenden Antrag stellen
+und eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin
+mindestens in der 30. Schwangerschaftswoche befinden werden oder dass beson-
+dere, schwangerschaftsbedingte gesundheitliche Einschränkungen vorliegen.
+(3) !Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der
+bzw. dem Vorsitzenden des Prüfungsausschusses nach Anhörung der bzw. des Be-
+auftragten für behinderte und chronisch kranke Studierende getroffen. ?Zum Nachweis
+des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauens-
+ärztlichen Attestes bzw. eines derjeweiligen besonderen Lebenslage entsprechenden
+anderen Nachweises verlangt werden. ®Anträge auf Nachteilsausgleich sind möglichst
+spätestens vier Wochen vor der Prüfung, in jedem Fall jedoch vor Antritt der Prüfung,
+an die bzw. den Vorsitzenden des Prüfungsausschusses zu richten.
+Il. Teil: Besondere Vorschriften
+Erster Abschnitt: Grundlagen- und Orientierungsprüfung und Bachelorprüfung
+1. Allgemeine Regelungen für den Bachelorstudiengang
+& 28 Zulassungsvoraussetzungen für die Prüfungen
+(1) 'Wer im Bachelorstudiengang immatrikuliert ist, gilt als zugelassen zur Bachelor-
+prüfung und den Modulprüfungen, aus denen die Bachelorprüfung besteht, es sei
+denn, die Zulassung ist zu versagen. ?Bestehen Wahlmöglichkeiten zwischen den für
+die Bachelorprüfung nachzuweisenden Modulen, gelten die Studierenden zu den Mo-
+dulen zugelassen, die sie durch Anmeldung zur Prüfung bindend wählen; es können
+auch mehrere alternativ angebotene Module gewählt werden. ®Die Zulassung ist zu
+versagen, wenn
+1.
+in den Besonderen Vorschriften und der Anlage 2 bzw. 3 vorgeschriebene Vo-
+raussetzungen und Nachweise endgültig nicht oder nicht fristgemäß
+erfüllt werden,
+2.
+die Grundlagen- und Orientierungsprüfung endgültig nicht bestanden ist,
+3.
+die Bachelorprüfung, die Diplomvorprüfung oder die Diplomprüfung im Studien-
+gang Physik endgültig nicht bestanden ist oder
+4.
+die Exmatrikulation unter Verlust des Prüfungsanspruchs verfügt wurde.
+“in den Fällen des Satz 3 besteht gleichzeitig ein Zulassungs- und Immatrikulations-
+hindernis.
+(2) Ist die Zulassung zu den Prüfungen des Studiengangs zu versagen, so ist unver-
+züglich die Entscheidung zu treffen, mit Gründen und Rechtsbehelfsbelehrung zu ver-
+sehen und der bzw. dem Studierenden bekannt zu geben.
+(3) Unbeschadet der Empfehlungen der Anlage 2 bzw. 3 können die Studierenden
+selbst wählen, in welcher Reihenfolge sie die Module absolvieren.
+19
+```
+
+### OCR Seite 20
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+& 29 Orientierungsphase, Grundlagen- und Orientierungsprüfung
+(1) 'Die ersten beiden Fachsemester des Bachelorstudiengangs Physik dienen als Ori-
+entierungsphase, in der wichtige inhaltliche und methodische Grundlagen des Fachs
+erworben werden. ?In der Grundlagen- und Orientierungsprüfung, die dieser Orientie-
+rungsphase zugeordnet ist, sollen die Studierenden zeigen, dass sie
+-
+den Anforderungen an ein wissenschaftliches Studium im Bachelorstudiengang
+Physik gewachsen sind und
+-
+die methodischen Fertigkeiten erworben haben, die erforderlich sind, um das Stu-
+dium mit Erfolg fortsetzen zu können.
+(2) Die Grundlagen- und Orientierungsprüfung bemisst sich nach 8 34.
+& 30 Bachelorphase
+(1) 'Die Bachelorphase dient als Abschnitt zur Erweiterung und Vertiefung, in dem
+über die Orientierungsphase hinausgehende Kenntnisse vermittelt werden, die für ei-
+nen frühen Berufseinstieg erforderlich sind. ?Sie besteht aus den Modulprüfungen des
+Bachelorabschnitts und dem Modul Bachelorarbeit einschließlich Bachelorkolloquium.
+(2) 'Das 5. Fachsemester ist als Fenster für Auslandssemester vorgesehen. ?lm Aus-
+land erworbene Kompetenzen werden gemäß 8 13 anerkannt.
+8 31 Bachelorarbeit
+(1) 'Mit der Bachelorarbeit sollen die Studierenden nachweisen, dass sie im Stande
+sind, innerhalb einer vorgegebenen Frist eine physikalische Fragestellung selbststän-
+dig nach wissenschaftlichen Methoden zu bearbeiten und die Ergebnisse sachgerecht
+darzustellen. ?Das Modul Bachelorarbeit ist mit insgesamt 15 ECTS-Punkten bewertet,
+wobei 12,5 ECTS-Punkte auf die Bachelorarbeit und 2,5 ECTS-Punkte auf das Ba-
+chelorkollogquium (Hauptseminar) entfallen. ®Das Bachelorkolloguium besteht aus ei-
+nem etwa 30-minütigen, in der Regel öffentlichen, Vortrag über die Bachelorarbeit mit
+anschließender Diskussion. *Im Falle der Wahl der Forschungsstudienrichtung entfällt
+das Bachelorkolloguium; der Umfang des Moduls verringert sich auf 12,5 ECTS-
+Punkte und die Note der Bachelorarbeit bildet die Modulnote.
+(2) "Zur Vergabe einer Bachelorarbeit sind alle hauptberuflich
+i. S. d. Art. 53 Abs. 4
+BayHIG an der FAU beschäftigten hauptberuflichen und nebenberuflichen Hochschul-
+lehrerinnen und Hochschullehrer i. S. d. Art. 19 BayHIG berechtigt, die in die Lehre in
+einem Studiengang nach dieser Studien- und Prüfungsordnung eingebunden sind.
+2Der Prüfungsausschuss kann Ausnahmen gestatten und regeln.
+(3) "Die Studierenden sorgen dafür, dass sie rechtzeitig zur Wahrung der Fristen nach
+8 8, in der Regel spätestens zu Beginn der Vorlesungszeit des sechsten Fachsemes-
+ters, ein Thema für die Bachelorarbeit erhalten. Thema und Tag der Ausgabe sind
+von der Betreuerin bzw. dem Betreuer zu bestätigen und beim Prüfungsausschuss
+aktenkundig zu machen. °Gelingt es der bzw. dem Studierenden trotz ernstlicher Be-
+mühungen nicht, ein Thema zu erhalten, weist ihr bzw. ihm die bzw. der Vorsitzende
+des Prüfungsausschusses auf Antrag ein Thema und eine Betreuerin bzw. einen Be-
+treuer Zu.
+20
+```
+
+### OCR Seite 21
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+(4) "Die Zeit von der Themenstellung bis zur Abgabe der Bachelorarbeit darf drei Mo-
+nate nicht überschreiten (Regelbearbeitungszeit); sie kann nur in begründeten Aus-
+nahmefällen um maximal einen Monat verlängert werden. ?Das Thema muss so be-
+grenzt sein, dass der Arbeitsaufwand für das Modul Bachelorarbeit inkl. Bachelorkol-
+loquium insgesamt 450 Stunden (375 Stunden für die Bachelorarbeit in der For-
+schungsstudienrichtung) nicht überschreitet und dass die Bachelorarbeit innerhalb der
+Regelbearbeitungszeit erstellt werden kann.
+(5) 'Weist die bzw. der Studierende durch ärztliches Attest nach, dass sie bzw. er in-
+folge einer Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungszeit. ?Ruht
+die Bearbeitungszeit für einen längeren Zeitraum (mind. 6 Monate) i. S. d. Satz 1, so
+kann der Prüfungsausschuss in Rücksprache mit der Betreuerin bzw. dem Betreuer
+einen krankheitsbedingten Abbruch der Bearbeitung verfügen mit der Folge, dass die
+Bachelorarbeit nach Wegfall der Krankheit mit einem neuen Thema neu anzumelden
+ist. *Sätze 1 und 2 gelten entsprechend in Fällen, in denen die bzw. der Studierende
+aus schwerwiegenden, nicht in die Risikosphäre der bzw. des Studierenden liegenden
+und nicht von ihr bzw. ihm zu vertretenden Gründen an der Bearbeitung der Bachelo-
+rarbeit gehindert ist.
+(6) 'Das Thema der Bachelorarbeit kann nur einmal und mit Einwilligung der bzw. des
+Vorsitzenden des Prüfungsausschusses und nur innerhalb der ersten sechs Wochen
+der Bearbeitungszeit zurückgegeben werden. ?Andernfalls wird die Bachelorarbeit bei
+Rückgabe des Themas mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt.
+Satz 2 gilt entsprechend im Falle der nicht fristgerechten Abgabe der Bachelorarbeit.
+(7) Die Arbeit kann auf Antrag der bzw. des Studierenden mit Zustimmung der Be-
+treuerin bzw. des Betreuers in englischer Sprache abgefasst werden. ?Über den An-
+trag entscheidet die bzw. der Vorsitzende des Prüfungsausschusses. ®Die Bachelor-
+arbeit enthält am Ende eine Zusammenfassung der Ergebnisse. *Die Titelseite ist nach
+dem vom Prüfungsausschuss beschlossenen Muster zu gestalten.
+(8) ‘Je ein gebundenes sowie ein elektronisches, maschinenlesbares Exemplar der
+Arbeit ist bei der Betreuerin bzw. dem Betreuer sowie bei der Gruppenbibliothek Physik
+abzuliefern; die entsprechenden Bescheinigungen müssen das Datum der Abgabe do-
+kumentieren und sind zusammen mit Kopie der Titelseite dem Prüfungsamt vorzule-
+gen. ?Zur Terminwahrung kann die Abgabe erfolgen, indem die finale Version der Ba-
+chelorarbeit in elektronischer Form (in der Regel als PDF-Datei) der bzw. dem Vorsit-
+zenden des Prüfungsausschusses zugänglich gemacht wird; die Abgabe bei Betreue-
+rin bzw. Betreuer und in der Bibliothek entsprechend Satz 1 muss dann baldmöglichst
+nachgeholt werden. ®Die Arbeit muss mit einer Erklärung der bzw. des Studierenden
+versehen sein, dass die Arbeit selbst verfasst wurde, keine anderen als die darin an-
+gegebenen Quellen und Hilfsmittel benutzt wurden und dass sie nicht in wesentlichen
+Teilen mit einer Arbeit übereinstimmt, die bereits einer anderen Prüfungsbehörde vor-
+gelegt wurde (Plagiatsschutz); es gilt
+8 14 Abs. 1 Satz 2.
+(9) "Die Arbeit muss von zwei Prüfenden innerhalb von vier Wochen nach der Abgabe
+beurteilt werden. ?Erstgutachterin bzw. Erstgutachter ist in der Regel diejenige Person,
+21
+```
+
+### OCR Seite 22
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+die das Thema der Arbeit gestellt hat. ?{Über Ausnahmen entscheidet der Prüfungs-
+ausschuss.
+(10) "Die Arbeit ist angenommen, wenn sie von beiden Gutachterinnen bzw. Gutach-
+tern mit wenigstens „ausreichend“ beurteilt ist. Sie ist abgelehnt, wenn sie von beiden
+Gutachterinnen bzw. Gutachtern mit „nicht ausreichend“ bewertet ist. ®?Bewertet eine
+Gutachterin bzw. ein Gutachter die Arbeit mit „nicht ausreichend“, die bzw. der andere
+mit wenigstens „ausreichend“, so wird vom Prüfungsausschuss eine dritte Bewertung
+und Notenvergabe durch eine bzw. einen Prüfenden gemäß 8 11 veranlasst. *In die-
+sem Fall ist die Bewertung der Arbeit „nicht ausreichend“, wenn auch die dritte Note
+so lautet, andernfalls ist sie der arithmetische Mittelwert der beiden mindestens „aus-
+reichend“ lautenden Noten. °8 22 Abs. 2 Satz 5 gilt entsprechend.
+(11) !Ist die Arbeit abgelehnt oder gilt sie als abgelehnt, so kann sie einmal wiederholt
+werden; eine zweite Wiederholung oder eine Überarbeitung ist ausgeschlossen. ?Die
+bzw. der Studierende sorgt dafür, dass sie bzw. er in der Regel innerhalb von zwei
+Monaten nach der Bekanntgabe der Ablehnung ein neues Thema für die Wiederholung
+der Arbeit erhält, anderenfalls gilt die Arbeit als endgültig nicht bestanden. ®Für die
+Wiederholung gelten die Abs. 1 und 2, Abs. 3 Sätze 2 und 3 sowie Abs. 4 bis 9 ent-
+sprechend.
+(12) Im Rahmen von Doppelabschlussabkommen bzw. Studiengangskooperationen
+können Regelungen getroffen werden, die von denen in Abs. 1 bis 11 abweichen.
+& 32 Wiederholung von Prüfungen, Modulwechsel
+(1) 'Mit Ausnahme der Modulprüfungen der Grundlagen- und Orientierungsprüfung,
+der Prüfungen von Praktika sowie des Moduls Bachelorarbeit kann jede nicht bestan-
+dene Modulprüfung dreimal wiederholt werden. ?Prüfungen von Modulen, die in die
+Grundlagen- und Orientierungsprüfung eingebracht werden sollen, können einmal wie-
+derholt werden, für die Wiederholung des Moduls Bachelorarbeit gilt
+8 31 Abs 11. ?Prü-
+fungen von Praktika können zweimal wiederholt werden, sofern im Falle der Wieder-
+holung entsprechend Satz 5 auch das Praktikum wiederholt werden muss. *Die Wie-
+derholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt.
+SEine Wiederholungsprüfung muss in der Regel spätestens innerhalb von sechs Mo-
+naten vom Fach angeboten werden.
+(2) "Die bzw. der Studierende meldet sich vorbehaltlich der Regelung in Satz 2 eigen-
+ständig zur Wiederholungsprüfung an. ?Abweichend von Satz 1 melden sich die Stu-
+dierenden im Falle von Praktika, bei denen nach Abs. 1 Satz 5 eine Wiederholung des
+Praktikums erforderlich ist, eigenständig in einem von ihnen gewählten Semester für
+die Wiederholung des Praktikums an; es gilt
+$ 12 Abs. 2 Satz 4.
+(3) Ein Rücktritt von Wiederholungsprüfungen ist nach Maßgabe des $ 12 Abs. 3 mög-
+lich, wobei die Einschränkung des $ 12 Abs. 3 Satz 2 nur für Module im Sinne des
+Abs. 2 Satz 2 gilt.
+(4) "Die bzw. der Studierende ist verpflichtet, ihren bzw. seinen Prüfungsstatus im Prü-
+fungsverwaltungssystem regelmäßig zu überprüfen. ?Etwaige Unstimmigkeiten sind
+unverzüglich dem Prüfungsamt mitzuteilen. ®Die Pflicht zur Wiederholung bleibt auch
+22
+```
+
+### OCR Seite 23
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+im Falle von Exmatrikulation und Beurlaubung bestehen. *Die Regeln über Mutter-
+schutz, Eltern- und Pflegezeit (8 8 Abs. 2) finden Anwendung.
+(5) "Die freiwillige Wiederholung einer bestandenen Prüfung desselben Moduls ist
+nicht zulässig. ?Im Rahmen der Prüfungsfristen nach & 8 können jedoch statt nicht
+bestandener Module andere, alternativ angebotene Module absolviert werden; Nähe-
+res regelt
+8 33 Abs. 2.
+2. Prüfungsgegenstände im Bachelorstudiengang
+& 33 Gliederung des Bachelorstudiengangs
+(1) "Zum Bestehen der Bachelorprüfung müssen Module im Umfang von insgesamt
+180 ECTS-Punkten erfolgreich abgeschlossen sein. ?Das Studium gliedert sich dabei
+in einen Pflichtbereich, einen Wahlbereich, den Bereich Schlüsselqualifikationen sowie
+einen freien Bereich gemäß den nachfolgenden Regelungen und Anlage 2 sowie den
+Bestimmungenderfolgenden Absätze. ®Besonders begabte und leistungsfähige sowie
+leistungswillige Studierende haben die Möglichkeit, die Bachelorphase des Studien-
+gangs ab dem vierten Semester in der Forschungsstudienrichtung gemäß 8 39 i. V. m.
+Anlage 3 zu absolvieren. *Wegen des erforderlichen fachspezifischen Kompetenzge-
+winns, welcher sich aus derjeweiligen Modulbeschreibung im Kontext mit dem Quali-
+fikationsziel des Bachelorstudiengangs ergibt, dürfen Module nicht doppelt absolviert
+und in unterschiedliche Bereiche des Studiengangs eingebracht werden.
+(2) "Soweit in den einzelnen Bereichen des Bachelorstudiengangs Wahlmöglichkeiten
+bei den zu absolvierenden Modulen bestehen, können die jeweils angebotenen Mo-
+dule parallel gewählt werden. ?Werden einzelne Prüfungen nicht bestanden, werden
+die Fehlversuche nicht auf die Anzahl der zur Verfügung stehenden Prüfungsversuche
+der übrigen Module angerechnet. ®Dies gilt auch für den Fall, dass einzelne Module
+endgültig nicht bestanden sind oder als endgültig nicht bestanden gelten. *Der jewei-
+lige Bereich sowie der Bachelorstudiengang insgesamt gilt erst dann als endgültig
+nicht bestanden
+i. S. d. $ 8, wenn die im jeweiligen Bereich nachzuweisende Anzahl
+an ECTS-Punkten nicht mehr durch das Bestehen alternativ angebotener Module er-
+reicht werden kann.
+8& 34 Pflichtbereich des Bachelorstudiengangs
+'Zum Bestehen der Bachelorprüfung müssen im Pflichtbereich des regulären Ba-
+chelorstudiengangs Module im Umfang von mindestens 142,5 ECTS-Punkten erfolg-
+reich abgeschlossen sein. ?Diese Module sind:
+1.
+die Module Experimentalphysik 1+2 und Experimentalphysik 3+4;
+2.
+mindestens eines der zwei Module Experimentalphysik 5 und 6;
+3.
+das Grundpraktikum;
+4.
+die Praktika Physikalisches Experimentieren A bis C;
+5.
+das Modul Theoretische Physik1 (Mechanik);
+6.
+mindestens zwei der drei Module Theoretische Physik 2 bis 4 (Elektrodynamik,
+Quantenmechanik, Statistische Physik);
+7.
+das Kolloquium Theoretische Physik;
+8.
+mindestens zwei der drei Module Mathematik für Physikstudierende A bis C;
+9.
+das Modul Datenverarbeitung in der Physik;
+23
+```
+
+### OCR Seite 24
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+10.das Modul Bachelorarbeit (inkl. Bachelorkollogquium).
+®Für Studierende, die das Studium in der Forschungsstudienrichtung gemäß $ 39 ab-
+solvieren, umfasst der Pflichtbereich mindestens 147,5 ECTS-Punkte aus folgenden
+Modulen:
+1.
+die Module Experimentalphysik 1+2 und Experimentalphysik 3+4;
+2.
+mindestens eines der beiden Module Experimentalphysik 5 und 6;
+3.
+das Grundpraktikum und die Praktika Physikalisches Experimentieren A und
+Physikalisches Experimentieren B
+(in der Variante Projektpraktikum);
+4.
+die Module Theoretische Physik 1 bis 4 (Mechanik, Elektrodynamik, Quanten-
+mechanik, Statistische Mechanik);
+5.
+das Modul Forschungsnahe Projektarbeit;
+6.
+das Modul Studientage;
+7.
+mindestens zwei der drei Module Mathematik für Physikstudierende A bis C
+8.
+das Modul Datenverarbeitung in der Physik;
+9.
+das Modul Forschungsseminar;
+10.das Modul Bachelorarbeit (ohne Bachelorkolloguium).
+& 35 Grundlagen- und Orientierungsprüfung
+Zum Bestehen der Grundlagen- und Orientierungsprüfung sind bis zum Ende des
+zweiten Semesters mindestens 30 ECTS-Punkte aus den in Anlage 2 bzw. 3 für die
+ersten beiden Fachsemester vorgesehenen Modulen zu erwerben; es gilt 8 8.
+& 36 Wahlbereich (Physikalische und Nichtphysikalische Wahlfächer)
+(1) "Der Wahlbereich untergliedert sich in die Physikalischen Wahlfächer und die Nicht-
+physikalischen Wahlfächer. ?Im Wahlbereich müssen Module im Umfang von insge-
+samt mindestens 25 ECTS-Punkten bzw. im Falle des Studiums in der Forschungs-
+studienrichtung nach $ 39 im Umfang von mindestens 20 ECTS-Punkten erfolgreich
+abgeschlossen werden. ®Die Module des Wahlbereichs ermöglichen es den Studie-
+renden, individuelle Schwerpunktsetzungen in der Physik bzw. damit interdisziplinär
+verbundenen anderen Fächern vorzunehmen und sich so insbesondere für bestimmte
+Berufsfelder oder die Studienschwerpunkte im konsekutiven Masterstudium Physics
+zu profilieren. *Die jeweiligen Qualifikationsziele und Prüfungsgegenstände sind ab-
+hängig vom jeweils gewählten Modul und der einschlägigen Modulbeschreibung zu
+entnehmen.
+(2) "Die Studierenden erwerben in den Physikalischen Wahlfächern vertiefte und über-
+greifende Kenntnisse in physikalischen Themenkreisen ihrer Wahl. ?Im regulären Ba-
+chelorstudiengang sind Module im Umfang von mindestens 10 ECTS-Punkten erfolg-
+reich abzuschließen, darunter das Modul Physikalisches Seminar; in der Forschungs-
+studienrichtung sind mindestens 5 ECTS-Punkte aus Physikalischen Wahlfächern zu
+erwerben, wobei nur Module eingebracht werden können, die besonders forschungs-
+nah und im Modulhandbuch entsprechend gekennzeichnet sind. ®Mit dem Seminar
+wird neben der Fach- auch die Selbst- und Sozialkompetenz gefördert, indem ein
+Fachthema für ein Fachpublikum auf Bachelorniveau aufbereitet und zielgruppenadä-
+quat präsentiert sowie die wissenschaftliche Diskussion geübt wird. *In der Regel be-
+stehen die Module der Physikalischen Wahlfächer aus einem Hauptseminar (2 SWS),
+ggf. mit Übung (2 SWS). 5Sie sind in der Regel mit 5 ECTS-Punkten bewertet. $Prü-
+fungsleistung kann eine 90-minütige Klausur, eine 30-minütige mündliche Prüfung ein
+30- oder 45-minütiger Vortrag oder eine Hausarbeit sein. ’Die für die physikalischen
+24
+```
+
+### OCR Seite 25
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+Wahlfächer zugelassenen Module und die jeweiligen Prüfungsmodalitäten sind dem
+Modulkatalog zu entnehmen. ®Von Sätzen 4 und 5 abweichende Modulgrößen und
+Lehrveranstaltungs-Zusammensetzungen sind möglich. ®Die im Falle einer Abwei-
+chung jeweils einschlägigen Bedingungen sind dem Modulhandbuch zu entnehmen.
+(3) !In den Nichtphysikalischen Wahlfächern werden fachverwandte Forschungsme-
+thoden vermittelt und fachvertiefendes Wissen erlangt. ?Es müssen Module im Umfang
+von mindestens 10 ECTS-Punkten erfolgreich abgeschlossen sein. *In diesem Bereich
+erwerben die Studierenden in der Orientierungsphase des Bachelorstudiums Grund-
+kenntnisse
+in einem der Physik nahestehenden Fach (Nichtphysikalisches Wahl-
+fach 1). *Gegenwärtig sind Astronomie, Chemie, Informatik, Physikalische Chemie und
+Werkstoffwissenschaften zugelassen. °Die Auswahl an zugelassenen Wahlfächern
+kann erweitert werden; Näheres regelt das Modulhandbuch. ®In der Bachelorphase
+können vertiefte Kenntnisse in demselben oder Grundkenntnisse in weiteren nichtphy-
+sikalischen Wahlfächern erworben werden, solange diese in einem sinnvollen Zusam-
+menhang mit dem Studium der Physik stehen. Dies trifft insbesondere für alle Fächer
+der Naturwissenschaftlichen
+Fakultät, der Technischen Fakultät und der Medizini-
+schen Fakultät im nichtklinischen Bereich zu; in anderen Fällen entscheidet der Prü-
+fungsausschuss auf Antrag der bzw. des Studierenden. ®Art und Umfang der Lehrver-
+anstaltungen und der Prüfung sowie die jeweiligen Qualifikationsziele und Prüfungs-
+gegenstände sind abhängig vom konkreten didaktischen Charakter des jeweils ge-
+wählten Moduls und der jeweils einschlägigen (Fach-)Prüfungsordnung bzw. dem
+entsprechenden Modulhandbuch zu entnehmen.
+8 37 Schlüsselqualifikationen
+!Im Bereich Schlüsselqualifikationen werden fachübergreifende Kompetenzen vermit-
+telt, die nicht in einem unmittelbaren fachlichen Zusammenhang mit dem Studium der
+Physik stehen. ?Es sind Module im Umfang von mindestens 2,5 ECTS-Punkten aus
+dem Angebot der Universität erfolgreich abzuschließen, die nicht dem Physikstudium
+zugeordnet sind. ®Der Prüfungsausschuss kann auf begründeten Antrag auch Kurse
+als Schlüsselqualifikationen anerkennen, die nicht aus dem Angebot der FAU stam-
+men. “Module aus dem Bereich Schlüsselqualifikationen sind unbenotet; im Übrigen
+gilt $ 36 Abs. 3 Satz 8 entsprechend.
+& 38 Freier Bereich
+'Die für den erfolgreichen Abschluss des Studiengangs nach dem Absolvieren der Mo-
+dule des Pflicht- und Wahlbereichs sowie der Schlüsselqualifikationen nach 88 34, 36
+und 37 noch fehlenden ECTS-Punkte werden durch weitere Module in freier Wahl aus
+dem Pflicht- oder Wahlbereich bzw. den Schlüsselqualifikationen ergänzt (freier Be-
+reich). Studierende der Forschungsstudienrichtung können im freien Bereich auch
+Module des Physikalischen Wahlbereichs einbringen, die nicht als besonders for-
+schungsnah gekennzeichnet sind.
+8& 39 Forschungsstudienrichtung
+(1) Der Studienverlauf im Rahmen der Forschungsstudienrichtung ergibt sich aus An-
+lage 3.
+25
+```
+
+### OCR Seite 26
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+(2) 'Die Auswahl von geeigneten Studierenden für die Forschungsstudienrichtung des
+Bachelorstudiengangs obliegt einer Auswahlkommission, der drei Professorinnen bzw.
+Professoren des Departments Physik der FAU angehören. ?Die Mitglieder werden vom
+Fakultätsrat der Naturwissenschaftlichen Fakultät für drei Jahre bestellt. *Wiederbe-
+stellung ist möglich. *Die Mitglieder der Auswahlkommission wählen aus ihrer Mitte
+eine Vorsitzende bzw. einen Vorsitzenden und deren bzw. dessen Stellvertreterin bzw.
+Stellvertreter.
+(3) 'Für die Wahl der Forschungsstudienrichtung zum Beginn des vierten Fachsemes-
+ters des Bachelorstudiums müssen folgende Voraussetzungen erfüllt sein:
+1.
+"Studierende der FAU müssen die Module der ersten zwei Fachsemester in An-
+lage 2 und zusätzlich das Modul TP-2 erfolgreich absolviert haben. ?Studierende
+anderer Hochschulen müssen äquivalente Leistungen nachweisen. Fehlen Leis-
+tungen im ausgleichsfähigen Umfang, kann die Auswahlkommission die Wahl der
+Forschungsstudienrichtung unter der auflösenden Bedingung gestatten, dass zu-
+sätzliche von der Auswahlkommission festzulegende Leistungen im Umfang von
+bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Wahl
+der Forschungsstudienrichtung nachzuweisen sind. *Werden die in Satz 3 genann-
+ten Leistungen nicht (rechtzeitig) erbracht, kann die bzw. der Studierende das Stu-
+dium im regulären Bachelorstudiengang Physik fortsetzen, wobei
+in der For-
+schungsstudienrichtung erbrachte Leistungen von Amts wegen anerkannt werden.
+2.
+Die Noten in den Modulen EP-12, TP-1 und TP-2 sowie die Durchschnittsnote in
+den Modulen MP-A bis MP-C müssen jeweils mindestens „gut“ (Note 2,5 oder bes-
+ser) sein und mindestens eine dieser Noten muss „sehr gut“ (Note 1,5 oder besser)
+lauten. ?Für Studierende anderer Hochschulen gilt dies für die zu den genannten
+Modulen jeweils äquivalenten Leistungen; 8 13 Abs. 3 gilt entsprechend. *Die Aus-
+wahlkommission kann Ausnahmen gestatten und regeln, solange sich die beson-
+dere Qualifikation in den durch die Modulauswahl nach Satz 1 definierten Kompe-
+tenzbereichen aus Sicht der Auswahlkommission aus den übrigen Nachweisen
+und Umständen ergibt. *Falls die Note zum Modul TP-2 bzw. den dazu äquivalen-
+ten Leistungen zum Zeitpunkt des Auswahlgesprächs noch nicht feststehen, so
+werden diese Noten nicht für die Aufnahmeentscheidung herangezogen.
+3.
+Die bzw. der Studierende muss glaubhaft machen, dass sie bzw. er für einen stark
+forschungsorientierten Studiengang geeignet und
+hinsichtlich der
+in der For-
+schungsstudienrichtung zu erbringenden
+Leistungen besonders leistungsfähig
+und leistungswillig ist.
+4.
+Die bzw. der Studierende muss Sprachkenntnisse mindestens auf dem Niveau von
+„Englisch Level B 2 (Common European Framework of Reference for Languages
+- CEFR) Vantage oder Upper intermediate“ nachweisen.
+2Die Feststellung der Voraussetzungen nach Satz 1 Nrn. 1 und 2 erfolgt auf Basis der
+eingereichten Bewerbungsunterlagen nach Abs. 4, die Glaubhaftmachung nach Satz 1
+Nr. 3 wird zusätzlich anhand des Auswahlgesprächs nach Abs. 5 Sätzen 3 ff. überprüft;
+der Nachweis der Sprachkenntnisse nach Satz 1 Nr. 4 erfolgt entsprechend der Rege-
+lung in Anlage 1 Absatz 2 Satz 5 Nr. 4.
+(4) 'Die Bewerbung zur Gewährung des Zugangs zur Forschungsstudienrichtung im
+vierten Fachsemester des Bachelorstudiums ist nur zum Sommersemester möglich
+und kann jeweils bis zum 15. Februar eines jeden Jahres bei der Auswahlkommission
+26
+```
+
+### OCR Seite 27
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+nach Abs. 2 erfolgen (Ausschlussfrist). Der Bewerbung sind folgende Unterlagen bei-
+zufügen:
+1.
+ein Lebenslauf,
+2.
+eine Darstellung des bisherigen Studienverlaufs sowie Unterlagen, die die bishe-
+rigen Leistungen der bzw. des Studierenden belegen (zZ. B. Transcript of Records)
+und
+3.
+ein Bewerbungsschreiben, in welchem die bzw. der Studierende ihre bzw. seine
+Qualifikation im Kontext der Forschungsstudienrichtung und deren Zielsetzung so-
+wie ihr bzw. sein besonderes Interesse und ihre bzw. seine besondere Einsatzbe-
+reitschaft für ein entsprechendes Studium darstellt.
+(5) 'Die Auswahlkommission überprüft anhand der eingereichten Bewerbungsunterla-
+gen, ob die Kriterien nach Abs. 3 Satz 1 Nr. 1 und 2 erfüllt sind; ist dies der Fall, wird
+die bzw. der Studierende in die Vorauswahl aufgenommen. ?Für jede bzw. jeden in die
+Vorauswahl aufgenommene Studierende bzw. aufgenommenen Studierenden bestellt
+die Auswahlkommission einen Auswahlausschuss, der aus zwei Professorinnen bzw.
+Professoren des Departments Physik besteht. ?Der Auswahlausschuss führt ein in der
+Regel etwa 30-minütiges Gespräch mit der bzw. dem Studierenden, in dem die Eig-
+nung entsprechend Abs. 3 Satz 2 Nr. 3 überprüft wird (Auswahlgespräch). *im Aus-
+wahlgespräch wird u. a. anhand von Fragen zum bisherigen Studieninhalt und ggf. zu
+eigenen Forschungsaktivitäten der bzw. des Studierenden das Vorliegen der fachli-
+chen Voraussetzungen und die Eignung für eine stark forschungsorientierte Studien-
+richtung überprüft. °Zudem wird ihr bzw. ihm erläutert, welche Anforderungen und Be-
+lastungen mit der Wahl der Forschungsstudienrichtung verbunden sind und welches
+Engagement erwartet wird; sie bzw. er wird nach Strategien und ggf. bereits vorhan-
+denen Erfahrungen befragt, diesen Anforderungen gerecht zu werden.
+(6) "Der Auswahlausschuss stellt die Qualifikation der bzw. des Studierenden für die
+Forschungsstudienrichtung nach Beurteilung der vorgelegten Unterlagen und des
+Auswahlgesprächs durch ein einstimmiges, auf „geeignet" oder „nicht geeignet" lau-
+tendes Urteil fest. ?Kann keine einstimmige Entscheidung getroffen werden, so berich-
+tet der Auswahlausschuss der Auswahlkommission, die dann mehrheitlich über die
+Eignung der bzw. des Studierenden entscheidet; das Urteil lautet „geeignet" oder „nicht
+geeignet“. ?Anlage 1 Abs. 7 gilt entsprechend.
+(7) "Entscheidet sich die bzw. der Studierende, das Studium nicht in der Forschungs-
+studienrichtung fortzusetzen, so kann sie bzw. er ohne Nachteile in den regulären Ba-
+chelorstudiengang Physik zurückwechseln. ?Dabei gelten im Bachelorstudiengang fol-
+gende Äquivalenzen:
+1.
+Das Modul Physikalisches Seminar wird durch das Modul Forschungsseminar ab-
+gedeckt.
+2.
+Das Modul Kolloquium Theoretische Physik (TP-K) wird durch das vierte Modul aus
+Theoretische Physik 1 bis 4 abgedeckt, das im regulären Bachelorstudium nicht
+absolviert werden muss
+3.
+Das Modul Forschungsorientierte Projektarbeit deckt das Modul Physikalisches Ex-
+perimentieren C ab.
+4.
+Das Modul Studientage wird im Physikalischen Wahlbereich angerechnet.
+®Im Zweifelsfall entscheidet der Prüfungsausschuss.
+27
+```
+
+### OCR Seite 28
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+Zweiter Abschnitt: Masterprüfung
+1. Allgemeine Regelungen für den Masterstudiengang
+8 40 Qualifikation zum Masterstudium
+(1) "Qualifikationsvoraussetzung zum Masterstudium
+ist ein mit überdurchschnittli-
+chem Erfolg abgeschlossenes einschlägiges Studium. ?Diese Qualifikation wird nach-
+gewiesen durch
+1.
+ein Zeugnis über
+a) die Bachelorprüfung nach dieser Studien- und Prüfungsordnung oder
+b) einen zu dem Abschluss nach lit. a) im Hinblick auf die Qualifikation nicht we-
+sentlich unterschiedlichen sonstigen gleichwertigen
+in- oder ausländischen
+Abschluss, sowie
+2.
+das Bestehen des Qualifikationsfeststellungsverfahrens gemäß Anlage 1.
+(2) "Bewerberinnen bzw. Bewerber sollen zu den 50 v. H. Besten ihres Jahrgangs
+zählen oder den entsprechenden Studiengang mit der Gesamtnote von mindestens
+2,5 (= „gut“) abgeschlossen haben. ?Abschlüsse, die nach einem anderen Notensys-
+tem bewertet wurden, sollen mindestens ein dem Prädikat „gut“ vergleichbares Prädi-
+kat aufweisen; $ 13 Abs. 3 gilt entsprechend.
+(3) "Abschlüsse im Bachelorstudiengang Physik sind in der Regel als wesentlich gleich
+bzw. einschlägig
+i. S. d. Abs. 1 Satz 2 Nr. 1 b) anzusehen. ?Sind ausgleichsfähige
+Unterschiede gegeben, kann die Zugangskommission den Zugang unter der Auflage
+aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistun-
+gen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jah-
+res nach Aufnahme des Masterstudiums nachzuweisen sind. ®Der Zugang wird unter
+der auflösenden Bedingung gewährt, dass der Nachweis rechtzeitig erbracht wird.
+(4) "Abweichend von Abs. 1 Satz 2 Nr. 1 können Bewerberinnen und Bewerber zum
+Masterstudium zugelassen werden, wenn sie in einem einschlägigen Bachelorstudi-
+engang immatrikuliert sind und glaubhaft machen, dass sie im laufenden Prüfungster-
+min zu den das Bachelorstudium abschließenden Prüfungen gemeldet sind und den
+Studiengang bis zur Aufnahme des Masterstudiums abgeschlossen haben werden.
+2Der Nachweis über den bestandenen Abschluss ist spätestens innerhalb eines Jahres
+nach Aufnahme des Masterstudiums nachzureichen;
+die förmliche Aufnahme des
+Masterstudiums setzt den Abschluss des ersten berufsqualifizierenden Studiums vo-
+raus. Abs. 3 Satz 4 gilt entsprechend.
+& 41 Masterprüfung
+(1) 'Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Prüfungen
+und den Modulen der Forschungsphase, darunter insbesondere dem Modul Master’s
+thesis einschließlich Master’s colloquium (Hauptseminar). ?Das Master’s colloquium
+ist eine mündliche Prüfung, die aus einem etwa 45-minütigen, in der Regel öffentli-
+chen, Vortrag über die Master’s thesis mit anschließender Diskussion besteht, wobei
+auch die Einordnung der Arbeit in einen breiteren physikalischen Kontext Gegenstand
+der Prüfung ist. ?Die Masterprüfung ist bestanden, wenn sämtliche studienbegleitend
+28
+```
+
+### OCR Seite 29
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+zu erbringenden Modulprüfungen und die Module der Forschungsphase bestanden
+sind.
+(2) "Die Anlage 4 in Verbindung mit & 45 regelt Gegenstände, Art und Umfang der
+Masterprüfung. ?Soll die Masterprüfung mit einem Schwerpunkt absolviert werden, gel-
+ten zusätzlich die Regelungen gemäß 849. ®Abweichend von Sätzen 1 und 2 sind Ge-
+genstände, Art und Umfang der Masterprüfung in der Forschungsstudienrichtung in
+Anlage 5 in Verbindung mit $ 50 geregelt. *Module, die bereits Gegenstand der für
+den Masterstudiengang qualifizierenden Bachelorprüfung waren, können wegen des
+fachspezifischen Kompetenzerwerbs, welcher sich aus derjeweiligen Modulbeschrei-
+bung im Kontext mit dem Qualifikationsziel des Masterstudiengangs ergibt, nicht mehr
+in die Masterprüfung eingebracht werden; Gleiches gilt für die Mehrfachbelegung von
+Modulen innerhalb des Masterstudiums. ®Der Prüfungsausschuss kann Ausnahmen
+von der Regelung in Satz 4 Halbsatz 1 zulassen.
+8 42 Zulassungsvoraussetzungen für die Prüfungen
+'Wer im Masterstudium immatrikuliert ist, gilt als zugelassen zur Masterprüfung und
+den Modulprüfungen, aus denen die Masterprüfung besteht, es sei denn, die Zulas-
+sung ist zu versagen. ?Bestehen Wahlmöglichkeiten zwischen den für die Masterprü-
+fung nachzuweisenden Modulen, gelten die Studierenden zu den Modulen als zuge-
+lassen, die sie durch Anmeldung zur Prüfung bindend wählen; es können auch meh-
+rere alternativ angebotene Module gewählt werden. ®Die Zulassung ist zu versagen,
+wenn
+1.
+in den Besonderen Vorschriften und der Anlage 4 bzw. 5 vorgeschriebene
+Voraussetzungen und Nachweise endgültig nicht oder nicht fristgemäß erfüllt
+werden,
+2.
+die Masterprüfung oder die Diplomprüfung in einem Studiengang Physik oder Phy-
+sics endgültig nicht bestanden ist oder
+3.
+die Exmatrikulation unter Verlust des Prüfungsanspruchs verfügt wurde.
+*8 28 Abs. 1 Satz 4 sowie Abs. 2 und 3 gelten entsprechend.
+8& 43 Forschungsphase und Master’s thesis
+(1) 'Die Master’s thesis ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung
+abschließt. ?Sie soll zeigen, dass die bzw. der Studierende in der Lage ist, innerhalb
+einer vorgegebenen Frist ein Problem aus dem Bereich der Physik selbstständig und
+nach wissenschaftlichen Methoden zu bearbeiten. ®Die Master’s thesis darf nicht mit
+einer früher vorgelegten Diplomarbeit, Bachelor- oder Masterarbeit oder Dissertation
+in wesentlichen Teilen übereinstimmen (Plagiatsschutz). *Das Modul Master’s thesis
+ist mit insgesamt 30 ECTS-Punkten bewertet, wobei 25 ECTS-Punkte auf die Master’s
+thesis und 5 ECTS-Punkte auf das Master’s colloquium entfallen. Der Anfertigung der
+Master’s thesis gehen eine dreimonatige fachliche Spezialisierung (Specialisation
+phase) und eine dreimonatige Projektplanung (Project planning and preparation) vo-
+raus, die thematisch auf die Master’s thesis hinführen. $Fachliche Spezialisierung, Pro-
+jektplanung, Master’s thesis und Master’s colloquium bilden zusammen die einjährige
+Forschungsphase.
+29
+```
+
+### OCR Seite 30
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+(2) "Die Studierenden sorgen dafür, dass sie rechtzeitig zur Wahrung der Fristen nach
+8 8 ein Projekt für die Forschungsphase erhalten. ?Gelingt dies trotz ernsthafter Be-
+mühungen nicht, weist die bzw. der Vorsitzende des Prüfungsausschusses der bzw.
+dem Studierenden auf Antrag ein Projekt und eine Betreuerin bzw. einen Betreuer zu.
+(3) !Nach erfolgreichem Absolvieren von fachlicher Spezialisierung und Projektpla-
+nung erfolgt die Themenstellung für die Master’s thesis. ?Thema und Tag der Ausgabe
+der Master’s thesis sind von der Betreuerin bzw. vom Betreuer zu bestätigen und beim
+Prüfungsausschuss aktenkundig zu machen. °Die Zeit von der Themenstellung bis zur
+Ablieferung der Master’s thesis darf sechs Monate nicht überschreiten; das Thema
+muss so begrenzt sein, dass innerhalb dieser Frist die Master’s thesis erstellt werden
+kann. *Auf begründeten Antrag kann die Bearbeitungsfrist ausnahmsweise um höchs-
+tens drei Monate verlängert werden.
+(4) "Das Thema der Master’s thesis kann nur einmal und nur aus triftigen Gründen und
+mit Einwilligung der bzw. des Vorsitzenden des Prüfungsausschusses zurückgegeben
+werden. ?Andernfalls wird die Master’s thesis bei Rückgabe des Themas mit „nicht
+ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. Satz 2 gilt entsprechend im Falle
+der nicht fristgerechten Abgabe der Master’s thesis.
+(5) "Die Master’s thesis wird in der Regel in englischer Sprache abgefasst; sie kann in
+Ausnahmefällen auf begründeten, schriftlichen Antrag der bzw. des Studierenden mit
+Zustimmung der Betreuerin bzw. des Betreuers in deutscher Sprache abgefasst wer-
+den. ?Über den Antrag entscheidet die bzw. der Vorsitzende des Prüfungsausschus-
+ses. ®Die Master’s thesis enthält am Ende eine Zusammenfassung der Ergebnisse.
+“Die Titelseite ist nach dem vom Prüfungsausschuss beschlossenen Muster zu gestal-
+ten. ®Die Master’s thesis muss mit einer Erklärung der bzw. des Studierenden verse-
+hen sein, dass die Arbeit selbst verfasst wurde und keine anderen als die darin ange-
+gebenen Quellen und Hilfsmittel benutzt wurden. $Je ein gebundenes sowie ein elekt-
+ronisches, maschinenlesbares Exemplar der Arbeit ist bei der Betreuerin bzw. dem
+Betreuer sowie bei der Gruppenbibliothek Physik abzuliefern; die entsprechenden Be-
+scheinigungen müssen das Datum der Abgabe dokumentieren und sind zusammen
+mit einer Kopie der Titelseite dem Prüfungsamt vorzulegen. ”Zur Terminwahrung kann
+die Abgabe erfolgen, indem die finale Version der Master’s thesis in elektronischer
+Form (in der Regel als PDF-Datei) der bzw. dem Vorsitzenden des Prüfungsausschus-
+ses zugänglich gemacht wird; die Abgabe bei Betreuerin bzw. Betreuer und in der Bib-
+liothek entsprechend Satz 6 muss dann baldmöglichst nachgeholt werden. ®Wird die
+Master’s thesis nicht fristgerecht abgegeben, wird sie mit „nicht ausreichend“ (5,0) be-
+wertet; sie gilt als abgelehnt.
+(6) "Ist die Arbeit abgelehnt oder gilt sie als abgelehnt, so kann sie einmal wiederholt
+werden; eine zweite Wiederholung ist ausgeschlossen. ?Die bzw. der Studierende
+sorgt dafür, dass sie bzw. er innerhalb von zwei Monaten nach der Bekanntgabe der
+Ablehnung ein neues Thema für die Master’s thesis erhält, für das die bereits absol-
+vierten Module Specialisation phase und Project planning and preparation inhaltlich
+nutzbar sind; anderenfalls gilt die Arbeit als endgültig nicht bestanden. ®Für die Wie-
+derholung gelten die Abs. 1, Abs. 2 Satz 2 sowie Abs. 3 bis 6 entsprechend.
+30
+```
+
+### OCR Seite 31
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+(7) "Auf Vorschlag der beiden Gutachterinnen bzw. Gutachter kann der Prüfungsaus-
+schuss mit dem Einverständnis der bzw. des Studierenden gestatten, eine überarbei-
+tete Fassung der Master’s thesis innerhalb einer vom Prüfungsausschuss festzuset-
+zenden Frist von maximal zwei Monaten nach Rückgabe zur Überarbeitung außerhalb
+der Wiederholungsregelung nach Abs. 7 vorzulegen. ?Im Falle der Ablehnung der Mas-
+ter’s thesis wegen Täuschung oder Plagiats ist eine Überarbeitung ausgeschlossen.
+®Die Begutachtung der überarbeiteten Fassung obliegt in der Regel den Gutachterin-
+nen bzw. Gutachtern der Erstversion; der Prüfungsausschuss kann Ausnahmen ge-
+nehmigen und regeln.
+(8) 8 31 Abs. 2, 5, 9, 10 und 12 gelten entsprechend.
+& 44 Wiederholung von Prüfungen, Modulwechsel
+Für die Wiederholung von Prüfungen und den Wechsel von Modulen gilt 8 32 entspre-
+chend.
+2. Prüfungsgegenstände im Masterstudiengang
+8 45 Gliederung des Masterstudiengangs
+(1) "Zum Bestehen der Masterprüfung müssen Module im Umfang von insgesamt 120
+ECTS-Punkten erfolgreich abgeschlossen sein. ?Das Studium gliedert sich dabei in
+einen Pflichtbereich (90 ECTS-Punkte), einen Wahlbereich (20 ECTS-Punkte) und ei-
+nen freien Bereich (10 ECTS-Punkte) gemäß Anlage 4 sowie den Bestimmungen der
+folgenden Absätze. ?Abweichende Regelungen für die Masterprüfung
+in der For-
+schungsstudienrichtung gehen aus Anlage 5 und $ 50 hervor. ®Die ersten zwei Se-
+mester („Vertiefungsphase“) des Masterstudiums dienen insbesondere dem Erwerb
+vertiefter Kenntnisse in ausgewählten Bereichen der Physik. *in den Semestern 3 und
+4 („Forschungsphase“) soll ein Forschungsprojekt eigenständig durchgeführt werden;
+dessen Ergebnisse werden in der Master’s thesis aufbereitet und im Master’s collo-
+quium präsentiert, diskutiert und in einen breiteren physikalischen Kontext gestellt.
+5Die Module Specialisation phase und Project planning and preparation dienen der
+Vorbereitung auf die Master’s thesis und sind inhaltlich auf diese abgestimmt.
+(2)8 33 Abs. 2 gilt entsprechend.
+8 46 Pflichtbereich des Masterstudiengangs
+'Zum Bestehen der Masterprüfung müssen im Pflichtbereich des regulären Masterstu-
+diengangs Module im Umfang von mindestens 90 ECTS-Punkten erfolgreich abge-
+schlossen sein. ?Diese Module sind:
+1. mindestens eines der Module Advanced experimental physics;
+2. mindestens eines der Module Advanced theoretical physics;
+3. 10 ECTS-Punkte aus den Modulen Advanced lab courses and projects;
+4. das Modul Specialisation phase;
+5. das Modul Project planning and preparation;
+6. das Modul Master’s thesis einschließlich dem Master’s colloquium.
+®In der Forschungstudienrichtung müssen im Pflichtbereich mindestens 95 ECTS-
+Punkte absolviert werden, wobei die Module Advanced lab courses and projects
+31
+```
+
+### OCR Seite 32
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+(Satz 2 Ziffer
+3 durch zwei Module Research-oriented projects ersetzt werden und zu-
+sätzlich das Modul Research seminar zum Pflichtbereich gehört. *Für die Module Ad-
+vanced experimental physics nach Satz 2 Ziffer
+1 bestehen die Auswahlmöglichkeiten
+1. Lasers, atomic physics and quantum optics (EV-A),
+2. Particle and astroparticle physics (EV-B) oder
+3. Solid state physics (EV-C).
+5Für die Module Advanced theoretical physics bestehen die Auswahlmöglichkeiten
+1. Advanced quantum mechanics (TV-A) oder
+2. Advanced solid state physics (TV-B).
+6Der Prüfungsausschuss kann weitere Auswahlmöglichkeiten für die EV- und TV-Mo-
+dule zulassen.
+8 47 Wahlbereich (Physikalische Wahlfächer und Nichtphysikalische
+Wahlfächer)
+(1) 'Der Wahlbereich untergliedert sich in die Physikalischen Wahlfächer und die Nicht-
+physikalischen Wahlfächer. ?Im Wahlbereich müssen Module im Umfang von mindes-
+tens 20 ECTS-Punkten für den regulären Masterstudiengang bzw. die Forschungsstu-
+dienrichtung erfolgreich abgeschlossen werden.
+(2) !In den Physikalischen Wahlfächern erwerben die Studierenden vertiefte und über-
+greifende Kenntnisse in physikalischen Themenkreisen ihrer Wahl; es müssen Module
+im Umfang von mindestens 10 ECTS-Punkten erfolgreich abgeschlossen werden, da-
+runter im regulären Masterstudiengang ein Physikalisches Seminar. ?8 36 Abs. 2 Sätze
+3 bis 6 gelten entsprechend. ?Umfang und ECTS-Punkte einzelner Module können von
+den in Anlage 4 bzw. 5 aufgeführten Werten abweichen. *Die für die physikalischen
+Wahlfächer zugelassenen Module sind dem Modulhandbuch zu entnehmen. °Studie-
+rende der Forschungsstudienrichtung können im Physikalischen Wahlbereich nur Mo-
+dule einbringen, die im Modulhandbuch als besonders forschungsnah gekennzeichnet
+sind.
+(3) !In den Nichtphysikalischen Wahlfächern können die Studierenden vertiefte Kennt-
+nisse in einem der Physik nahe stehenden Fach, in dem sie bereits Grundkenntnisse
+aufweisen, oder Grundkenntnisse in einem weiteren Fach erwerben. ?Im Einzelfall
+können auch unbenotete Module eingebracht werden. °8 36 Abs. 3 Sätze 7 und 8
+gelten entsprechend.
+8 48 Freier Bereich
+!Die nach 8$ 46 und 47 mindestens erforderlichen 110 ECTS-Punkte werden durch
+weitere, frei wählbare Module aus den Pflicht- oder Wahlbereichen zu den für den
+Masterabschluss notwendigen 120 ECTS-Punkten ergänzt. ?Studierende der For-
+schungsstudienrichtung können im freien Bereich auch Module des Physikalischen
+Wahlbereichs einbringen, die nicht als besonders forschungsnah gekennzeichnet sind.
+8 49 Studienschwerpunkte
+(1) "Das Masterstudium in Physics kann mit Studienschwerpunkten durchgeführt wer-
+den, die den aktuellen Forschungsschwerpunkten des Departments für Physik ent-
+sprechen. ?Gegenwärtig angebotene Schwerpunkte sind:
+1.
+Astrophysics and astroparticle physics
+32
+```
+
+### OCR Seite 33
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+2. Condensed matter physics
+3.
+Optical sciences
+4.
+Physics in life sciences
+5. Quantum technologies
+6.
+Theoretical physics.
+®Der Prüfungsausschuss kann weitere Schwerpunkte zulassen. *In den Studien-
+schwerpunkten erlangen die Studierenden durch eine entsprechende Spezialisierung
+in der Vertiefungsphase und Themenwahl in der Forschungsphase umfangreiche
+Kenntnisse und Kompetenzen auf dem jeweiligen Teilgebiet der Physik, die sie für eine
+Promotion in den jeweiligen Bereichen oder für anspruchsvolle Tätigkeiten
+in For-
+schung und Entwicklung besonders qualifizieren. ?Für den Schwerpunkt Astrophysics
+and astroparticle physics sind dies Tätigkeiten in Bereichen wie z.B. der Messtechnik
+für schnelle Prozesse, der künstlichen Intelligenz und der Informationstechnologie für
+verteilte Systeme. lm Schwerpunkt Condensed matter physics handelt es sich um
+Tätigkeiten in Bereichen wie z.B. der Halbleiterindustrie, Materialentwicklung sowie
+Maschinen- und Fahrzeugbau. ”In den Optical sciences sind Tätigkeiten in Bereichen
+wie z.B. der Optik, Informationstechnologie und Photonik betroffen. ®Der Schwerpunkt
+Physics in life sciences qualifiziert für Tätigkeiten im Bereich der Medizintechnik und
+Grenzgebieten zwischen Physik und Lebenswissenschaften. ?Der Schwerpunkt Quan-
+tum technologies legt die Grundlagen für berufliche Tätigkeiten, die Anwendungen von
+quantenmechanischen Prozessen zum Inhalt haben, z.B. in Informations- und Kom-
+munikationstechnologie, Datenverarbeitung und Sensorik. '%Im Schwerpunkt Theore-
+tical physics werden Tätigkeiten in Bereichen wie z.B. der Systemanalyse, dem Risi-
+komanagement und der Datenverarbeitung in den Blick genommen.
+(2) !Um das Masterstudium mit einem dieser Schwerpunkte abzuschließen, müssen
+mindestens 30 ECTS-Punkte aus Modulen erworben werden, die im Modulhandbuch
+diesem Schwerpunkt zugeordnet sind; Module aus dem Nichtphysikalischen Wahlbe-
+reich oder aus Auslandssemestern können auf Antrag durch den Prüfungsausschuss
+bestimmten Studienschwerpunkten zugeordnet werden. ?Weiterhin muss das Thema
+der Forschungsphase dem Schwerpunkt zugeordnet sein.
+(3) Bei erfolgreichem Abschluss des Masterstudiums gemäß den Abs. 1 und 2 kann
+auf Antrag der bzw. des Studierenden im Abschlusszeugnis sowie in der Urkunde der
+Zusatz „Focus on <Schwerpunktname>“ aufgenommen werden, wobei <Schwerpunkt-
+name> durch den Schwerpunkt entsprechend Abs. 1 zu ersetzen ist.
+8 50 Forschungsstudienrichtung
+(1) Im Rahmen der Forschungsstudienrichtung müssen im Masterstudium im Pflicht-
+bereich die Module entsprechend 8 46 Satz 3 und im Wahlbereich Module entspre-
+chend 8 47 absolviert werden. ?Von den zwei Modulen Forschungsorientierte Projekt-
+arbeit (Research-oriented project) muss eines aus dem Bereich der Experimentalphy-
+sik und eines aus dem Bereich der Theoretischen Physik kommen; die beiden Projekte
+müssen verschiedenen Themenbereichen der Physik zugeordnet sein. ®Der Prüfungs-
+ausschuss kann Ausnahmen von der Regelung in Satz 2 zulassen und regeln. *An-
+stelle des Moduls Physikalisches Seminar (Physics seminar) wird ein weiteres Modul
+Studientage (Study workshop) absolviert. Im Rahmen des Moduls Project planning
+and preparation (FFO-2) wird zusätzlich zum Inhalt des Moduls FO-2 im regulären
+33
+```
+
+### OCR Seite 34
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+Masterstudium das Konzept eines Forschungsantrags zur Themenstellung der For-
+schungsphase erarbeitet. $Zum Studienverlauf im Übrigen siehe Anlage 5. 78 39 Abs.
+1 Satz 6 gilt entsprechend. ®Ein Leistungsnachweis kann wegen des erforderlichen
+fachspezifischen Kompetenzgewinns, welcher sich aus derjeweiligen Modulbeschrei-
+bung im Kontext mit dem Qualifikationsziel des konsekutiven Studiums ergibt, nur ein-
+mal verwendet werden.
+(2) "Für die Aufnahme in die Forschungsstudienrichtung zum Beginn des Masterstudi-
+ums müssen zusätzlich zum erfolgreichen Durchlaufen des Qualifikationsfeststel-
+lungsverfahrens nach Anlage 1 folgende Voraussetzungen erfüllt sein:
+1.
+Die bzw. der Studierende muss entweder einen
+Bachelorabschluss
+inkl.
+For-
+schungsstudienrichtung nach dieser Studien- und Prüfungsordnung vorweisen
+oder in dem für den Zugang zum Masterstudium maßgeblichen Studienabschluss
+die Note „sehr gut“ (Note 1,5 oder besser) oder ein damit vergleichbares Prädikat
+erreicht haben.
+2.
+"Studierende ohne Bachelorabschluss inkl. Forschungsstudienrichtung nach die-
+ser Studien- und Prüfungsordnung müssen mindestens folgende Nachweise er-
+bringen:
+a) Die Leistungen nach 8 39 Abs. 3 Satz 1 Nr. 2 Satz 1,
+b)
+In der Experimentalphysik vertiefte Kenntnisse in der Atom- und Molekülphy-
+sik, Kern- und Teilchenphysik und Festkörperphysik,
+c)
+In der theoretischen Physik vertiefte Kenntnisse in der Quantenmechanik so-
+wie
+in einem der Gebiete Elektrodynamik und Statistische Physik, sowie
+Grundkenntnisse in dem anderen dieser beiden Gebiete,
+d) selbständige Durchführung von Praktikumsversuchen oder Projekten zur mo-
+dernen Physik,
+e) ein Forschungsprojekt im Umfang und mit dem Anspruch der Bachelorarbeit
+nach dieser Studien- und Prüfungsordnung.
+Fehlen hinsichtlich Satz 1
+lit. a) bis d) Leistungen im ausgleichsfähigen Umfang,
+kann die Auswahlkommission den Zugang zur Forschungsstudienrichtung unter
+der Auflage aussprechen, dass zusätzliche von der Auswahlkommission festzule-
+gende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens
+innerhalb eines Jahres nach Aufnahme des Studiums in der Forschungsstudien-
+richtung nachzuweisen sind. Der Zugang wird unter der auflösenden Bedingung
+gewährt, dass der Nachweis rechtzeitig erbracht wird. *Werden die Auflagen nicht
+erfüllt, kann die bzw. der Studierende das Studium im regulären Masterstudien-
+gang Physics fortsetzen, wobei
+in der Forschungsstudienrichtung
+bereits er-
+brachte Leistungen von Amts wegen anerkannt werden.
+3.
+!Bewerberinnen bzw. Bewerber, die nicht bereits den Bachelorstudiengang in der
+Forschungsstudienrichtung absolviert haben und einen Notendurchschnitt von
+schlechter als 1,5 aufweisen, müssen glaubhaft machen, dass sie für ein Master-
+studium mit besonders starker Forschungsausrichtung geeignet und hinsichtlich
+der in der Forschungsstudienrichtung des Masterstudiums zu erbringenden Leis-
+tungen besonders leistungsfähig und leistungswillig sind. ?Insbesondere soll ihnen
+im Auswahlgespräch Gelegenheit gegeben werden, ihre forschungsnahen Aktivi-
+täten und Leistungen darzustellen, auch wenn diese außerhalb des Studiums er-
+bracht wurden.
+Die Feststellung der Voraussetzungen nach Satz 1 Nr. 1 erfolgt auf Basis der für die
+Masterbewerbung eingereichten
+Unterlagen; das Vorliegen der Voraussetzungen
+34
+```
+
+### OCR Seite 35
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+nach Satz 1 Nrn. 2 und 3 wird unter Berücksichtigung dieser Unterlagen und in einem
+Auswahlgespräch festgestellt, für dessen Durchführung 8 39 Abs. 5 entsprechend gilt.
+(3) 'Die Bewerbung zum Zugang zur Forschungsstudienrichtung ist mit der Bewerbung
+zum Zugang zum regulären Masterstudiengang Physics einzureichen. ?8 39 Abs. 2, 4
+Satz 2 und Abs. 6 gelten entsprechend.
+(4) 'Entscheidet sich die bzw. der Studierende, das Studium nicht in der Forschungs-
+studienrichtung fortzusetzen, so kann sie bzw. er ohne Nachteile das Studium im re-
+gulären Masterstudiengang Physics fortführen. ?Dabei gelten im Masterstudiengang
+gelten folgende Äquivalenzen:
+1.
+das Modul Forschungsseminar (research seminar) (FS) oder ein Modul Studien-
+tage (study workshop) (ST) ersetzt das Modul Physikalisches Seminar (Physics
+seminar) (PS);
+2.
+ansonsten werden die Module Physikalisches Wahlfach (Physics elective course)
+(PW) und weitere Module Studientage (study workshop) (ST) im Physikalischen
+Wahlbereich voll angerechnet;
+3.
+je ein Modul Forschungsorientierte Projektarbeit (Research-oriented project) er-
+setzt je ein Modul Weiterführende Praktika und Projekte (Advanced lab courses
+and projects);
+4.
+erfolgt der Wechsel in den regulären Masterstudiengang Physics nach Beginn der
+Forschungsphase, ersetzt das Modul Project planning and preparation (FFO-2)
+das entsprechende Modul FO-2.
+®Im Zweifelsfall entscheidet der Prüfungsausschuss.
+Il. Teil: Übergangs- und Schlussvorschriften
+8& 51 Inkrafttreten
+(1) "Diese Studien- und Prüfungsordnung tritt am Tag 1. August 2023 in Kraft. ?Sie
+findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2023/2024
+das Bachelorstudium Physik bzw. das Masterstudium Physics aufnehmen werden.
+®Abweichend von Satz 2 ist eine Wahl der Forschungsstudienrichtung im Masterstudi-
+engang erst ab dem Sommersemester 2024 möglich. *Abweichend von Sätzen 2 bis
+4 gelten die Fristen für die Bewerbung zum Masterstudiengang in Anlage 1 für die
+Bewerbung zum Masterstudium ab dem Sommersemester 2024; bis dahin finden die
+Regelungen der in Abs 2 Satz 1 genannten Satzung weiter Anwendung.
+(2) "Studierende, die bereits nach der bisher gültigen Studien- und Prüfungsordnung
+für den Bachelorstudiengang Physik und den Masterstudiengang Physics sowie den
+Elitestudiengang
+Physik mit integriertem Doktorandenkolleg an der Naturwissen-
+schaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- BMPO/Physik — vom 7. September 2007, zuletzt geändert durch Änderungssatzung
+vom 3. August 2020, studieren, legen ihre Prüfungen nach der bisher gültigen Studien-
+und Prüfungsordnung ab. ?Die in Satz 1 genannte Studien- und Prüfungsordnung tritt
+mit Wirkung zum 30. September 2027 außer Kraft. ?Prüfungen nach der in Satz 1 ge-
+35
+```
+
+### OCR Seite 36
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+N Al )
+nannten Studien- und Prüfungsordnung werden für den Bachelorstudiengang letzt-
+mals im Sommersemester 2027 und für die Masterstudiengang letztmals im Sommer-
+semester 2026 angeboten.
+(3) 'Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft. ?Sie findet Anwen-
+dung auf alle Prüfungen (Erst-, Zweit- und Drittversuch), die dem Prüfungszeitraum
+Wintersemester 2024/2025 und später zugeordnet sind. Für Prüfungen, die früheren
+Prüfungszeiträumen zugeordnet sind, finden die Regelungen in der BMPO/Physik in
+der Fassung vom 31. Juli 2023 Anwendung.
+(4) "Die zweite Änderungssatzung tritt am 1. April 2026 in Kraft. ?Sie gilt für alle Stu-
+dierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen werden.
+°Studierende, die das Studium ab dem Wintersemester 2025/2026 aufgenommen ha-
+ben und ab dem Sommersemester 2026 in die Forschungsstudienrichtung im Ba-
+chelorstudiengang aufgenommen werden, werden zum Zeitpunkt der Aufnahme in die
+Forschungsstudienrichtung von Amts wegen in die BMPO/Physik vom 31. Juli 2023 in
+der Fassung dieser zweiten ÄAnderungssatzung überführt.
+36
+```
+
+### OCR Seite 37
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+IV. Teil: Anlagen
+Anlage 1: Qualifikationsfeststellungsverfahren gemäß 8 40
+(1) 'Das Qualifikationsfeststellungsverfahren wird bei Bedarf, mindestens jedoch ein-
+mal pro Semester durchgeführt. ?An diesem Qualifikationsfeststellungsverfahren dür-
+fen zur Gewährleistung eines zügigen weiteren Studiums auch Bewerberinnen und
+Bewerber teilnehmen, die unmittelbar vor Abschluss ihres Bachelorstudiums stehen
+(vgl.
+8 40 Abs. 4).
+(2) "Der Antrag auf Zugang zum Qualifikationsfeststellungsverfahren ist in einem auf
+der Homepage im Rahmen von Informationen zur Bewerbung für den jeweiligen Stu-
+diengang bekannt gegebenen Zeitraum gemäß Satz 2 bzw. 3 über das Bewerbungs-
+portal der FAU zu stellen. ?Eine Bewerbung zum Sommersemester ist vom 15. Oktober
+eines jeden Jahres bis zum 15. Januar des darauffolgenden Jahres möglich. *Bewer-
+bungen zum Wintersemester sind oder vom 15. April bis zum 15. Juli eines jeden Jah-
+res möglich. *Dem Antrag sind beizufügen:
+1.
+das Zeugnis über den Abschluss gemäß 8 40 Abs.
+1 Satz 2 Nr.
+1 (Zeugnis,
+Transcript of Records, Diploma Supplement oder vergleichbare Dokumente) bzw.,
+2.
+im Falle des 8 40 Abs. 4 ein Transcript of Records oder eine Notenbescheinigung
+über die bisher erbrachten Leistungen sowie eine Bestätigung, dass die Bewerbe-
+rin bzw. der Bewerber im laufenden Prüfungstermin zu den das Bachelorstudium
+abschließenden Prüfungen gemeldet ist; für Bachelorstudierende nach dieser Prü-
+fungsordnung genügt die Vorlage der Anmeldung zur Bachelorarbeit,
+3.
+ein tabellarischer Lebenslauf in englischer Sprache sowie
+4.
+ein Nachweis über Sprachkenntnisse mindestens auf dem Niveau von „Englisch
+Level B 2 (Common European Framework of Reference for Languages — CEFR)
+Vantage oder Upper intermediate“, insbesondere
+—
+Nachweis des schulischen Englischunterrichts bis zur Niveaustufe B2 gemäß
+Gemeinsamem Europäischen Referenzrahmen für Sprachen (GER) mit dies-
+bezüglicher Zertifizierung im Zeugnis bzw. einer entsprechenden Bescheini-
+gung der Schule, oder
+—
+Nachweis des erfolgreichen Test of English as a Foreign Language (TOEFL)
+mit mindestens 85 Punkten im iBT, oder
+-
+International English Language Testing System (IELTS) 5.0 oder höher);
+—
+für Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung
+bzw. ihren ersten berufsqualifizierenden Abschluss in englischer Sprache er-
+worben haben, ist kein Nachweis der englischen Sprachkenntnisse erforder-
+lich.
+Für die Unterlagen nach Satz 4 kann eine Frist zur Nachreichung festgesetzt werden.
+(3) Nicht form- und fristgerechte Anträge führen zum Ausschluss vom Qualifikations-
+feststellungsverfahren.
+(4) "Das Qualifikationsfeststellungsverfahren besteht aus einer Vorauswahl und einem
+Auswahlgespräch mit den dazu zugelassenen Bewerberinnen und Bewerbern. ?Die
+Zugangskommission kann die Vorauswahl einzelnen von ihr beauftragten Mitgliedern
+übertragen.
+37
+```
+
+### OCR Seite 38
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+(5) "Besonders qualifizierte Bewerberinnen bzw. Bewerber werden allein aufgrund der
+Vorauswahl in das Masterstudium aufgenommen. ?Als besonders qualifiziert gilt ins-
+besondere, wer einen nach 8 40 Abs.
+1 Satz 2 Nr.
+1
+i. V. m. Abs. 3 einschlägigen
+Abschluss mit mindestens der Note 2,5 (= „gut“) vorweisen kann; bei Abschlüssen, die
+ein abweichendes Notensystem ausweisen, gelten $ 13 Abs. 3 Sätze 1 bis 3 entspre-
+chend.
+(6) "Bewerberinnen bzw. Bewerber, denen nicht bereits im Rahmen der Vorauswahl
+der Zugang zum Masterstudium gewährt werden kann und deren bisherige Leistungen
+im Bereich von 2,51 bis 3,00 liegen, werden zu einem Auswahlgespräch eingeladen;
+die übrigen Bewerberinnen und Bewerber werden nicht zum Auswahlgespräch zuge-
+lassen; sie gelten als abgelehnt im Sinne von Abs. 7. ?Das Auswahlgespräch soll zei-
+gen, ob die Bewerberin bzw. der Bewerber den Anforderungen eines stärker for-
+schungsorientierten Masterstudiums genügt und insbesondere, ob zu erwarten
+ist,
+dass sie bzw. er in einem solchen Studium selbstständig wissenschaftlich zu arbeiten
+versteht. *Das Auswahlgespräch erstreckt sich auf folgende gleichgewichtete Kriterien:
+1.
+Sichere Kenntnis der Erhaltungssätze physikalischer Größen, von Bewegungs-
+gleichungen und ihren Lösungen, von elektromagnetischen
+Feldern und ihren
+Phänomenen und der mathematischen Grundlagen der Physik,
+2.
+Gute Kenntnisse der physikalischen Eigenschaften von Elementarteilchen, Atom-
+kernen, Atomen sowie von Vielteilchensystemen und kondensierter Materie inklu-
+sive der zur Charakterisierung erforderlichen grundlegenden experimentellen Me-
+thoden sowie
+3.
+Kenntnis der Grundlagen und Methoden der Theoretischen Physik, insbesondere
+in der Mechanik, klassischen
+Feldtheorie, Quantenmechanik und statistischen
+Physik.
+*Das Auswahlgespräch hat eine Dauer von ca. 30 Minuten. ®Das Auswahlgespräch
+kann
+mit Einverständnis der Bewerberin bzw. des Bewerbers auch
+bildtelefonisch
+stattfinden. $Der Termin des Auswahlgesprächs wird der Bewerberin bzw. dem Bewer-
+ber spätestens eine Woche vorher bekannt gegeben. ’Ist die Bewerberin bzw. der Be-
+werber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhin-
+dert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor
+Vorlesungsbeginn anberaumt werden. 8$Das Auswahlgespräch wird von zwei der im
+Studiengang Physik tätigen hauptberuflichen oder nebenberuflichen Hochschullehre-
+rinnen bzw. Hochschullehrern i. S. d. Art. 19 BayHIG, die hauptberuflich i. S. d. Art. 53
+Abs. 4 BayHIG an der FAU beschäftigt sind, durchgeführt (Auswahlkommission), die
+von der Zugangskommission bestellt werden. ®Die Bewertung des Auswahlgesprächs
+lautet „bestanden“ oder „nicht bestanden“. '%Hat die Bewerberin bzw. der Bewerber
+das Auswahlgespräch bestanden, entscheidet die Zugangskommission auf Vorschlag
+der Auswahlkommission, ob der Zugang mit Auflagen gemäß $ 40 Abs. 3 verbunden
+wird. 1'Über das Auswahlgespräch ist eine Niederschrift zu fertigen.
+(7) 'Wer nach dem Ergebnis des Qualifikationsfeststellungsverfahrens nicht ins Mas-
+terstudium aufgenommen ist, erhält einen mit Gründen und Rechtsbehelfsbelehrung
+versehenen Ablehnungsbescheid. ?Eine erneute Teilnahme am Qualifikationsfeststel-
+lungsverfahren auf Basis der bereits eingereichten Unterlagen ist nicht möglich.
+(8) Die eigenen Kosten, die den Bewerberinnen bzw. Bewerbern aufgrund der Teil-
+nahme am Auswahlgespräch entstehen, tragen diese selbst.
+38
+```
+
+### OCR Seite 39
+
+```
+Friedrich-Alexander-Universität
+Erlangen-Nürnberg
+EA
+(9) Die Bestätigung über das bestandene Qualifikationsfeststellungsverfahren hat un-
+beschränkte Gültigkeit, sofern sich der Masterstudiengang nicht wesentlich geändert
+hat.
+39
+```
+
+### OCR Seite 40
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Anlage 2: Bachelorstudiengang Studienverlaufsplan Physik B.Sc.
+!In der Regel umfasst das Bachelorstudium der Physik die in der nachfolgenden Tabelle aufgeführten Module. ?Davon ist eine Auswahl entspre-
+chend der Vorgaben in 88 33, 34, 36-38 erfolgreich abzuschließen. ®Das Modul Rechenmethoden der Physik kann durch ein Modul aus dem
+Wahlbereich ersetzt werden. *Die Module des Wahl- und Schlüsselqualifikationsbereichs können in ECTS-Punkten, Semesterwochenstunden,
+Zuordnungen zu den Fachsemestern und Zuordnung zu den Physikalischen und Nichtphysikalischen Wahlbereichen von den Angaben in der
+nachfolgenden Tabelle abweichen; Näheres regelt das Modulhandbuch. ®Der Prüfungsausschuss kann zudem weitere unbenotete Module für
+den Wahlbereich zulassen.
+Workload ?) pro Semester in ECTS-
+sws 2
+ECTS
+Faktor
+Kürzel Modulbezeichnung
+Lehrveranstaltungen
+Modul-
+Gesamt
+Punkten
+Zu! UImMErE
+Abschluss
+typ
+3)
+Io
+|
+der Prüfung
+note
+vüpr
+Ss
+1
+2
+34
+5/6
+.
+.
+Mechanik
+Klausur (120 Min.) und
+Experimentalphysik
+benotete
+Praktik
+lei
+0
+1+2
+Experimentalphysik 2:
+unbenolele
+Fraklikumsleis-
+Wärmelehre und
+5|I2|1
+7,5
+tung gemäß $ 20
+Elektrodynamik
+Rechenmethoden der | Physik, Teil 1
+Unbenotete Klausur
+0
+Physik
+Rechenmethoden d.
+(2)
+(2,5)
+(90 Min.)
+Physik, Teil 2
+’
+.
+..
+.
+.
+Klausur (120 Min.) und
+4)
+u
+„mu
+Unbenotete Praktikumsleis-
+DV | Datenverarbeitung in der Physik
+2
+2
+5
+tung
+0
+gemäß $ 20
+ichtphysikalisches
+Teil 1
+’
+Wahlfach 1 gemäß
+5), 6)
+Nach Mafgabe des Fachs
+0
+Teil 2
+40
+```
+
+### OCR Seite 41
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Workload ? pro Semester in ECTS-
+SWws 2
+ECTS
+Faktor
+Kürzel Modulbezeichnung
+Lehrveranstaltungen
+on
+Gesamt
+Punkten
+er
+Abschluss
+.
+3)
+a
+note
+vuPp
+Ss
+1
+2
+3
+4
+5
+6
+Experimentalphysik 3:
+Optik und Quanten-
+4
+2
+7,5
+ep.34 | Experimentalphysik
+phänomene
+Mündliche Prüfung
+4
+3+4
+Experimentalphysik 4:
+(30 Min.)
+Atom- und Molekül-
+3
+2
+7,5
+physik
+Unbenbotete Praktikumsleis-
+Grundpraktikum
+5
+tung
+0
+gemäß $ 20
+..
+rg
+Unbenotete Studienleistung
+Schlüsselqualifikation
+5)
+Nichtphysikalisches
+Wahlfach gemäß $ 36
+5)
+5
+Nach Mafgabe des Fachs
+4
+Abs. 3
+Präsentation einer Ver-
+ikali
+suchsauswertung
+Physikalisches
+.
+.
+.
+.
+Elektronikpraktikum
+1
+7
+10
+(50 %) und
+1
+Experimentieren A
+Praktikumsleistung gemäß
+8 20 (50 %)
+Experimentalphysik 5: Kern- und Teilchenphy-
+.
+ers sik ®)
+3|ı2
+7,5
+7,5
+Klausur (90 Min.)
+1
+|EP-6| Experimentalphysik 6: Festkörperphysik 9
+ r Jelja|
+I
+Les I1.1.) les]
+Klausur (90 Min.)
+1
+Theoretische Physik 4: Statistische Physik”
+| P |a|I@|
+|
+|
+wo |1.12... [eo |__|
+Klausur (120 Min.)
+1
+41
+```
+
+### OCR Seite 42
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ort
+sws 2
+ECTS
+Workload °) pro Semester in ECTS-
+Art und Umfan
+Faktor
+Kürzel Modulbezeichnung
+Lehrveranstaltungen
+1)
+Gesamt
+unkten
+..
+9
+Abschluss
+typ
+3)
+I...
+|
+der Prüfung
+note
+voÜücer
+Ss
+1
+2
+3
+4
+5
+6
+Physikalisches
+Projekt- oder
+5
+Praktikumsleistung gemäß
+0
+Experimentieren B
+Aufbaupraktikum
+gemäß 82
+_
+Kolloquium Theoreti- | Synopsis d.
+Mündliche Prüfung
+TP-K
+sche Physik
+Theoretischen Physik
+1
+1
+7,5
+7,5
+(30 Min.)
+1
+Physikalisches Wahl-
+fach gemäß $ 36 Abs.
+5)
+5
+7,5
+vgl.
+& 36 Abs. 2 ®)
+1
+2
+Vortrag (45 Min.) mit
+Physikalisches Seminar
+2
+5
+anschließender Diskussion
+1
+gemäß $ 19
+PE-C
+Physikalisches
+Fortgeschrittenen-
+10
+75
+75
+Praktikumsleistung gemäß
+4
+Experimentieren C
+praktikum
+’
+’
+& 20 (7 Versuche)
+SEETa BZ Bu BB BEE a EEE
+EEE
+Bachelorarbeit
+vgl. 8 31
+2
+54
+37
+36
+10
+Summe der SWS ® und ECTS-Punkte
+180
+30
+30
+30
+30
+30
+30
+137
+N)
+P = Pflichtbereich; W = Wahlbereich; S = Schlüsselqualifikationen.
+2)
+SWS = Semesterwochenstunden; V = Vorlesung; Ü = Übung; P = Praktikum; S = Seminar. Für die Berechnung der Summen wurden die Werte in Klammern nicht berücksichtigt.
+9
+Für die Workload-Berechnung wurden die ECTS-Punkte in Klammern nicht berücksichtigt.
+4
+Mindestens zwei der drei Module MP-A bis MP-C müssen erfolgreich absolviert werden
+9
+ vgl.$ 36 Abs. 3 und 8 37. Art und Umfang der Prüfung und der Lehrveranstaltungen sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils
+einschlägigen (Fach-)Prüfungsordnung bzw. dem Modulhandbuch zu entnehmen.
+6)
+Die ECTS-Punkte und die SWS des Moduls NW-1 werden hier für die Variante „Informatik“ angegeben. Bei den anderen Varianten können die Angaben abweichen.
+)
+Mindestens zwei der drei Module TP-2 bis TP-4 müssen erfolgreich absolviert werden.
+8)
+Mindestens eines der zwei Module EP-5 und EP-6 muss erfolgreich absolviert werden.
+.
+i
+9
+Für die SWS-Summen wurden für das Modul NW-1 5V+2Ü+1P (Informatik), für die SQ-Module insgesamt 4V sowie für die PW-Module 2S+2Ü und für die NW-Module 2V+2Ü pro 5
+ECTS angenommen.
+42
+```
 

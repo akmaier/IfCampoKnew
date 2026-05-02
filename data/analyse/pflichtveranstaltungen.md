@@ -1,9 +1,9 @@
 ---
 kind: "campo-pflicht-analyse"
 period: "Sommersemester 2026"
-po_files_scanned: 810
-matched_courses_total: 2167
-scraped_at: 2026-05-02T03:32:07+00:00
+po_files_scanned: 850
+matched_courses_total: 2353
+scraped_at: 2026-05-02T04:33:29+00:00
 ---
 
 # Pflichtveranstaltungen — Heuristische Analyse
@@ -282,13 +282,20 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### BMPO BP-T 20240411 i.d.F. 20250325.pdf
 
 PO-Quelle: [`pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/bmpo-bp-t-20240411-idf-20250325.md`](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/bmpo-bp-t-20240411-idf-20250325.md)  
-Pflicht-Stellen gefunden: **15**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Pflicht-Stellen gefunden: **29**  
+Vorgeschlagene Pflichtveranstaltungen: **9**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
+- Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar — Dr. Christian Albrecht
+- Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Was hat das mit mir zu tun? Holocaust und NS-Verbrechen als Thema im Deutschunterricht (VHB) — Hauptseminar — Axel Krommer
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+- Hauptseminar Bildung für nachhaltige Entwicklung — Seminar — Prof. Dr. Jan Christoph Schubert
+- Quantitative und Qualitative Bestimmung von SPIONs — Vorlesung mit Übung — Prof. Dr. Stefan Lyer
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
 
 #### Auszüge aus dem PO-Text
 
@@ -314,7 +321,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der Prüfungsausschuss der Technischen Fakultät zuständig; die Bestimmungen der §§ 10 bis 12 **ABMPO/TF** gelten entsprechend.
 
-_(+ 11 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 25 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -357,7 +364,7 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### pdf vom 19.02.2009 i.d.F. 01.03.2011
 
 PO-Quelle: [`pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-1maerz2011.md`](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-1maerz2011.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **4**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -386,12 +393,16 @@ Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der P
 
 (5)[1] In der Vorauswahl wird anhand der eingereichten Unterlagen geprüft, ob zu erwarten ist, dass die Bewerberin oder der Bewerber in der mündlichen Prüfung die Eignung zum Masterstudium nachweisen kann.[2] Besonders qualifizierte Bewerberinnen oder Bewerber können allein aufgrund der Vorauswahl in das Masterstudium aufgenommen werden.[3] Als besonders qualifiziert gilt insbesondere, wer einen Abschluss nach § 27 Abs. 1 Satz 2 mit mindestens der Note 2,5 (=gut) vorweisen kann, der dem Abschluss nach § 27 Abs. 1 Satz 2 Nr. 1 vergleichbar ist oder im Fall des § 27 Abs. 4 in den nachgewiesenen Modulen einen Notendurchschnitt von besser als 2,5 erreicht hat oder in den aufgeführten fachwissenschaftlichen Pflichtmodulen des Bachelorstudienganges Berufspädagogik Technik Module im Umfang von 20 …
 
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
 ---
 
 ### pdf vom 19.02.2009 i.d.F. 31.07.2012
 
 PO-Quelle: [`pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-31juli2012.md`](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-31juli2012.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **4**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -419,6 +430,10 @@ Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der P
 **Anlage 1: Qualifikationsfeststellungsverfahren** _(paragraph)_
 
 (5)[1] In der Vorauswahl wird anhand der eingereichten Unterlagen geprüft, ob zu erwarten ist, dass die Bewerberin oder der Bewerber in der mündlichen Prüfung die Eignung zum Masterstudium nachweisen kann.[2] Besonders qualifizierte Bewerberinnen oder Bewerber können allein aufgrund der Vorauswahl in das Masterstudium aufgenommen werden.[3] Als besonders qualifiziert gilt insbesondere, wer einen Abschluss nach § 27 Abs. 1 Satz 2 mit mindestens der Note 2,5 (= gut) vorweisen kann, der dem Abschluss nach § 27 Abs. 1 Satz 2 Nr. 1 vergleichbar ist oder im Fall des § 27 Abs. 4 in den nachgewiesenen Modulen einen Notendurchschnitt von besser als 2,5 erreicht hat oder in den aufgeführten fachwissenschaftlichen Pflichtmodulen des Bachelorstudienganges Berufspädagogik Technik Module im Umfang von 2 …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -465,7 +480,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### pdf vom 19.02.2009 i.d.F. 19.01.2012
 
 PO-Quelle: [`pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-jan2012.md`](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-jan2012.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **4**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -493,6 +508,10 @@ Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der P
 **Anlage 1: Qualifikationsfeststellungsverfahren** _(paragraph)_
 
 (5)[1] In der Vorauswahl wird anhand der eingereichten Unterlagen geprüft, ob zu erwarten ist, dass die Bewerberin oder der Bewerber in der mündlichen Prüfung die Eignung zum Masterstudium nachweisen kann.[2] Besonders qualifizierte Bewerberinnen oder Bewerber können allein aufgrund der Vorauswahl in das Masterstudium aufgenommen werden.[3] Als besonders qualifiziert gilt insbesondere, wer einen Abschluss nach § 27 Abs. 1 Satz 2 mit mindestens der Note 2,5 (=gut) vorweisen kann, der dem Abschluss nach § 27 Abs. 1 Satz 2 Nr. 1 vergleichbar ist oder im Fall des § 27 Abs. 4 in den nachgewiesenen Modulen einen Notendurchschnitt von besser als 2,5 erreicht hat oder in den aufgeführten fachwissenschaftlichen Pflichtmodulen des Bachelorstudienganges Berufspädagogik Technik Module im Umfang von 20 …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -539,7 +558,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### pdf vom 19.02.2009 i.d.F. 26.09.2012
 
 PO-Quelle: [`pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-september2012.md`](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-september2012.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **4**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -567,13 +586,17 @@ Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der P
 **Anlage 1: Qualifikationsfeststellungsverfahren** _(paragraph)_
 
 (5)[1] In der Vorauswahl wird anhand der eingereichten Unterlagen geprüft, ob zu erwarten ist, dass die Bewerberin oder der Bewerber in der mündlichen Prüfung die Eignung zum Masterstudium nachweisen kann.[2] Besonders qualifizierte Bewerberinnen oder Bewerber können allein aufgrund der Vorauswahl in das Masterstudium aufgenommen werden.[3] Als besonders qualifiziert gilt insbesondere, wer einen Abschluss nach § 27 Abs. 1 Satz 2 mit mindestens der Note 2,5 (= gut) vorweisen kann, der dem Abschluss nach § 27 Abs. 1 Satz 2 Nr. 1 vergleichbar ist oder im Fall des § 27 Abs. 4 in den nachgewiesenen Modulen einen Notendurchschnitt von besser als 2,5 erreicht hat oder in den aufgeführten fachwissenschaftlichen Pflichtmodulen des Bachelorstudienganges Berufspädagogik Technik Module im Umfang von 2 …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
 ### pdf vom 19.02.2009 i.d.F. 09.09.2013
 
 PO-Quelle: [`pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-september2013.md`](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-bp-t-september2013.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **4**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -601,6 +624,10 @@ Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der P
 **Anlage 1: Qualifikationsfeststellungsverfahren** _(paragraph)_
 
 (5)[1] In der Vorauswahl wird anhand der eingereichten Unterlagen geprüft, ob zu erwarten ist, dass die Bewerberin oder der Bewerber in der mündlichen Prüfung die Eignung zum Masterstudium nachweisen kann.[2] Besonders qualifizierte Bewerberinnen oder Bewerber können allein aufgrund der Vorauswahl in das Masterstudium aufgenommen werden.[3] Als besonders qualifiziert gilt insbesondere, wer einen Abschluss nach § 27 Abs. 1 Satz 2 mit mindestens der Note 2,5 (= gut) vorweisen kann, der dem Abschluss nach § 27 Abs. 1 Satz 2 Nr. 1 vergleichbar ist oder im Fall des § 27 Abs. 4 in den nachgewiesenen Modulen einen Notendurchschnitt von besser als 2,5 erreicht hat oder in den aufgeführten fachwissenschaftlichen Pflichtmodulen des Bachelorstudienganges Berufspädagogik Technik Module im Umfang von 2 …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -1241,7 +1268,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### FPO LA Mathe 20260331.pdf
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/fpo-la-mathe-20260331.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/fpo-la-mathe-20260331.md)  
-Pflicht-Stellen gefunden: **9**  
+Pflicht-Stellen gefunden: **12**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -1268,7 +1295,150 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 - 1) Die Pflichtmodule entstammen dem Pflichtbereich des Bachelorstudiengangs Mathematik. Alle Angaben stehen unter dem Vorbehalt abweichender Regelung in der **FPOMathe** bzw. dem diese konkretisierenden Modulkatalog.
 
-_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### LA Biologie 20250702 ÄS.pdf
+
+PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-biologie-20250702-aes.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-biologie-20250702-aes.md)  
+Pflicht-Stellen gefunden: **5**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+
+#### Auszüge aus dem PO-Text
+
+**„** _(paragraph)_
+
+- 2)  Anwesenheitspflichtig nach § 7 **LAPO.“**
+
+**1) Anwesenheitspflichtig nach § 7 LAPO .** _(section)_
+
+- 2) Die Art der Prüfungsleistung wird entsprechend dem konkreten didaktischen Charakter der jeweiligen Lehrveranstaltung semesteraktuell von der bzw. dem Modulverantwortlichen festgelegt und im Modulhandbuch bekannt gegeben. 
+
+- 3)  Voraussetzung für das Modul BIODID II ist das erfolgreiche Absolvieren von BIODID I LAGS/LAMS.“
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 3** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+b)
+Die Tabelle in Abs. 6 erhält samt Erläuterungen folgende neue Fassung:
+SWS
+Workload pro Semester in ECTS-Punkten
+.
+Gesamt
+1
+2
+3
+[5
+6
+7.
+Artund Umfang der
+Faktor
+Modulbezeichnun
+Lehrveranstaltun
+-
+®
+®
+°
+°
+.
+.
+-
+9
+9
+voüöDP
+s
+ECTS
+sem Sem Sem
+son
+Sem Sem Sem Prüfung
+Modulnote
+.
+u
+.
+..
+PL: Klausur 90 Min. oder
+BIODID | LAGS/LAMS
+Biologiedidaktische Grundlagen für | „
+2
+(5)
+(5)
+(5)
+Open Book Prüfung mit
+1
+die Grund- und Mittelschule
+Zeitdruck 90 Min.
+Experimentelles Arbeiten im
+für Grundschule
+Außerschulische Lernorte im
+(unbenotet)
+Fächergruppe ?
+Biologieunterricht
+2
+(2)
+(2)
+(2)
+2
+4240904
+Summe SWS und ECTS-Punkte
+En
+11
+0-11
+0
+0-41
+0
+0-11
+0
+0
+!)
+Die Art der Prüfungsleistung wird entsprechend dem konkreten didaktischen Charakter der je …
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### LA Biologie FPO LA Bio 20230822 i.d.F. 20250702.pdf
+
+PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-biologie-fpo-la-bio-20230822-idf-20250702.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-biologie-fpo-la-bio-20230822-idf-20250702.md)  
+Pflicht-Stellen gefunden: **15**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**§ 3 Gliederung des Studiums, Erwerb des Bachelorgrades, Bachelorarbeit** _(paragraph)_
+
+(1) Das Studium setzt sich aus Pflichtmodulen zusammen, die den §§ 4 bis 7 zu entnehmen sind.
+
+**§ 6 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+- 2) Anwesenheitspflichtig nach § 7 **LAPO** .
+
+**§ 7 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+- 2) Anwesenheitspflichtig nach § 7 **LAPO** .
+
+**§ 7 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+- 2)  Anwesenheitspflichtig nach § 7 **LAPO.“**
+
+_(+ 11 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -2329,6 +2499,55 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 |6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**||
 ||Kolloquium zur Besprechung der schriftlichen<br>Hausarbeit|1|1||
 ||Schriftliche Hausarbeit||9||
+
+---
+
+### pdf vom 25.03.2009 i.d.F. 22.11.2013
+
+PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-informatik-neu-nov2013.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-informatik-neu-nov2013.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Informatik (FAU Scientia)  -
+
+- [Erweiterte Übungen zu Parallele Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig, Batuhan Sesli, Avinash Mahesh Nirmala
+- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
+- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+
+#### Auszüge aus dem PO-Text
+
+**§ 1 Geltungsbereich** _(paragraph)_
+
+**§ 4 Wahlpflichtmodule** 1Das Lehramtsstudium Informatik besteht im Bereich der Fachwissenschaft Informatik aus Pflicht- und Wahlpflichtmodulen im Umfang gemäß der Regelungen in § 5 Abs. 1, § 6 Abs. 1 und § 7 Abs. 1.[2] Wahlpflichtmodule können gewählt werden aus den Modulen des Pflicht- und Wahlpflichtbereiches des Bachelorstudiengangs Informatik (ohne die Module der Mathematik, Präsentationstechnik und des Nebenfachs), für die die jeweiligen fachlichen und formalen Voraussetzungen gegeben sind, sofern diese nicht bereits als Pflichtmodule in das Lehramtsstudium integriert wurden.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 2** _(paragraph)_
+
+```
+8&3
+Besondere Bestimmungen für die Schriftliche Hausarbeit
+Die Schriftliche Hausarbeit kann
+in der Fachwissenschaft oder in der Fachdidaktik
+angefertigt werden.
+8&4
+Wahlpflichtmodule
+Das Lehramtsstudium Informatik besteht im Bereich der Fachwissenschaft Informa-
+tik aus Pflicht- und Wahlpflichtmodulen im Umfang gemäß der Regelungen in 8 5
+Abs. 1, 8 6 Abs. 1 und & 7 Abs. 1. ?Wahlpflichtmodule können gewählt werden aus
+den Modulen des Pflicht- und Wahlpflichtbereiches des Bachelorstudiengangs Infor-
+matik (ohne die Module der Mathematik, Präsentationstechnik und des Nebenfachs),
+für die die jeweiligen fachlichen und formalen Voraussetzungen gegeben sind, sofern
+diese nicht bereits als Pflichtmodule in das Lehramtsstudium integriert wurden.
+2.
+Lehramt an Gymnasien
+8&5
+Inhalt, Aufbau und G …
 
 ---
 
@@ -3498,7 +3717,7 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711.pdf
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711.md)  
-Pflicht-Stellen gefunden: **7**  
+Pflicht-Stellen gefunden: **17**  
 Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -3540,7 +3759,7 @@ dulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vo
 
 (1)[1] Mit Ausnahme der Prüfungen der Module der Grundlagen- und Orientierungsprüfung, der Prüfungen von Praktika, Geländeseminaren und Exkursionen sowie des Moduls Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden.[2] Prüfungen der Module der Grundlagen- und Orientierungsprüfung sowie des Moduls Bachelorarbeit können einmal wiederholt werden. 3Prüfungen von Praktika, Geländeseminaren und Exkursionen können zweimal wiederholt werden, sofern im Falle der Wiederholung abweichend von Satz 5 auch das Praktikum, das Geländeseminar oder die Exkursion wiederholt werden muss.[ 4] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt. 5Bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch d …
 
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 13 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -3580,6 +3799,35 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 (1)[1] Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung zweimal wiederholt werden.[ 2] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt. 3Die Prüfungen, die laut **Anlage 1** Teil der Grundlagen- und Orientierungsprüfung sind, können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 28 Abs. 9.[4] Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, der in der Regel spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses stattfindet.[5] Die bzw. der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.[6] Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltu …
 
 _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed ÄS 20250711.pdf
+
+PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-aes-20250711.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **12**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin) — Vorlesung — apl. Prof. Dr. Jürgen Wörl
+- V-V8/1-V11 Vorlesung Spezielle Histologie und Organogenese — Vorlesung — Prof. Dr. Dieter Chichung Lie, Prof. Dr. Michael Scholz
+- Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
+- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
+- 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
+- Praktikum der Neuroanatomie für Studierende der Zahnmedizin — 
+- Grundlagen der Physiologie für Pharmazeuten — Vorlesung — apl. Prof. Dr. Susanne Sauer, PD Dr. Dr. Tobias Huth, Alexander Möhwald
+- Organische Chemie 3 — Vorlesung — Prof. Dr. Henry Dube
+- Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar — Prof. Dr. Svetlana Tsogoeva
+- Praktikum Biochemie/Molekularbiologie — 
+- Biochemie und Molekularbiologie II (Teilklausur 1) — 
+- Biochemie und Molekularbiologie II (Teilklausur 2) — 
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -3662,7 +3910,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### PDF vom 07.11.2008 i.d.F. 13.11.2013
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement-nov2013.md`](../pruefungsordnungen/medizinische-fakultaet/ma-medprocessmanagement-nov2013.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **3**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -3693,6 +3941,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 (3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
 
 (4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -3733,6 +3985,69 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
 
 (4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlich …
+
+---
+
+### PDF vom 23.03.1993
+
+PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/medizin-20-2023-03-1993.md`](../pruefungsordnungen/medizinische-fakultaet/medizin-20-2023-03-1993.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- FÜL A: Chirurgie, Geburtshilfe/Frauenheilkunde, Anästhesiologie/Notfallmedizin — 
+- MED  84701  Klinische Untersuchung Innere Medizin (I-Med. 353) — Vorlesung mit Übung — Axel Hueber, Dr. med. Melanie Hagen, Dr. med. Verena Schönau
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 3** _(paragraph)_
+
+```
+3
+vorgeschriebenen Stunden für scheinpflichtige praktische Übungen, Kurse und
+Seminare im vorklinischen Studienabschnitt mit mindestens 624, im ersten klinischen
+,
+Studienabschnitt mit mindestens 300 und im zweiten klinischen Studienabschnitt m ı?
+mindestens 516. Dabei sollen die Mindestwerte für die scheinpflichtigen
+Lehrveranstaltungen in der Vorklinik und in den klinischen Studienabschnitten um
+nicht mehr als 15% überschritten werden.
+Die Semesterwochenstunden verteilen
+sich auf die Lehrveranstaltungen
+in den
+Studienabschnitten nach Maßgabe der in der Anlage beigefügten Übersichten, die ein
+Bestandteil dieser Studienordnung sind.
+@)
+Es wird empfohlen, die praktischen Übungen (Ü) in der zeitlichen Reihenfolge zu
+absolvieren, wie sie in der Anlage festgelegt ist. Soweit diese Studieno …
+
+**OCR Seite 6** _(paragraph)_
+
+```
+ANLAGE
+zur Studienordnung der Universität Erlangen Nürnberg für den Studiengang Medizin
+Erläuterungen:
+Ü:
+Übung, Praktische Übung, Praktikum, Kursus nach Anlagen 1 - 3 zur ÄAppO’
+(Bescheinigungspflicht)
+S:
+Seminar nach ÄAppO (Bescheinigungspflicht)
+v®:
+Unterrichtsveranstaltungen, die praktische Übungen (Ü) im Sinne des 5 2 ÄAppO
+vorbereiten oder begleiten
+V:
+Vorlesungen oder Kolloauien, deren Besuch besonders empfohlen wird
+d#:
+Zulassung nur mit Nachweis der Teilnahme an der jeweiligen Unterrichtsveran-
+.
+staltung V* im jeweils vorausgshenden Semester
+SWS:
+Eine Semesterwochenstunde ist mit 12 Lehrveranstaltungsstunden veranschlagt
+```
 
 ---
 
@@ -4696,14 +5011,15 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### StPO-Logo 20111005 i.d.F. 20250930.pdf
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stpo-logo-20111005-idf-20250930.md`](../pruefungsordnungen/medizinische-fakultaet/stpo-logo-20111005-idf-20250930.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Pflicht-Stellen gefunden: **14**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
 
@@ -4723,7 +5039,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 (2)[1] Die Studierenden melden sich für die Prüfungen der Pflichtmodule und der Wahlpflichtmodule gemäß der **Anlage** an.[2] Die Anmeldetermine und Anmeldeformalitäten werden rechtzeitig vorher ortsüblich bekannt gegeben.[3] Die Teilnahme an der jeweiligen Prüfung setzt die ordnungsgemäße Anmeldung auf der hierfür bereitgestellten Plattform voraus.[4] Abweichend von Sätzen 1 bis 3 werden Studierende bei entsprechender Ausweisung in der jeweiligem Modulbeschreibung im Falle von Praktika, Geländeseminaren und Exkursionen in Folge der eigenständigen Anmeldung zur Teilnahme am Praktikum, dem Geländeseminar bzw. der Exkursion von Amts wegen zur dazugehörigen Prüfung angemeldet; erfolgt keine entsprechende Ausweisung im Modulhandbuch, gelten Sätze 1 bis 3.[5] Für die Anmeldung zu Wiederholungsp …
 
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -4788,25 +5104,30 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### StuPO Medizin und Medizin ER-BT StuPOMed 20240904 i.d.F. 20250818.pdf
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupo-medizin-und-medizin-er-bt-stupomed-20240904-idf-20250818.md`](../pruefungsordnungen/medizinische-fakultaet/stupo-medizin-und-medizin-er-bt-stupomed-20240904-idf-20250818.md)  
-Pflicht-Stellen gefunden: **15**  
-Vorgeschlagene Pflichtveranstaltungen: **14**
+Pflicht-Stellen gefunden: **31**  
+Vorgeschlagene Pflichtveranstaltungen: **19**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - FÜL A: Chirurgie, Geburtshilfe/Frauenheilkunde, Anästhesiologie/Notfallmedizin — 
+- Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen — Seminar
 - 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I — Praktikum — Prof. Dr. Lina Gölz
 - Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 — Seminar — Prof. Dr. Karl-Heinz Leven
 - K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11 — Vorlesung — Prof. Dr. Michael Uder, Prof. Dr. Rainer Fietkau, Prof. Dr. Torsten Kuwert, apl. Prof. Dr. Rolf Matthias Janka, apl. Prof. Dr. Matthias May, apl. Prof. Dr. Luitpold Distel, PD Dr. Florian Putz, PD Dr. Michael Beck, PD Dr. Martin Zeilinger, Dr. med. Rafael Heiß, Prof. Dr. Arnd Dörfler, apl. Prof. Dr. Oliver Rompel, PD Dr. Axel Schmid, apl. Prof. Dr. Oliver Ott, apl. Prof. Dr. Ralf Adamus, apl. Prof. Dr. Michael Küfner, Dr. med. Markus Kopp, apl. Prof. Dr. Evelyn Wenkel, PD Dr. Peter Dankerl, apl. Prof. Dr. Tobias Martin Engelhorn, PD Dr. Antje Fahrig, Dr. med. Nadine Bayerl
 - MED  84701  Klinische Untersuchung Innere Medizin (I-Med. 353) — Vorlesung mit Übung — Axel Hueber, Dr. med. Melanie Hagen, Dr. med. Verena Schönau
+- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) — Seminar — apl. Prof. Dr. Leopold Klepacki
+- Ausreichende Kenntnisse der altgriechischen Sprache — 
 - K-P16 Blockpraktikum Neurologie (incl. Neurochirurgie) — Praktikum
 - K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
 - Kursus der makroskopischen Anatomie - Zusätzliches Präparieren — Kurs — apl. Prof. Dr. Axel Brehmer
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - MED 76541 Herzerkrankungen im Bild: Kardiale Anatomie, Funktion und Pathologie in CT und MR — Seminar — Susanne Jung
-- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - V-V8/1-V11 Vorlesung Spezielle Histologie und Organogenese — Vorlesung — Prof. Dr. Dieter Chichung Lie, Prof. Dr. Michael Scholz
+- Vertiefungsseminare (Standort Nürnberg, Lehrstuhl Prof. Dr. Gläser-Zikuda) — Seminar — Dr. Florian Hofmann
 
 #### Auszüge aus dem PO-Text
 
@@ -4830,7 +5151,7 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 
 (3)[1] Abweichend von Abs. 2 melden sich die Studierenden im Falle von praktischen Kursen (u. a. Praktika, Blockpraktika, Seminare und Übungen) bei denen im Falle der Wiederholung auch eine Wiederholung des praktischen Kurses erforderlich ist, eigenständig für die Wiederholung des praktischen Kurses an; es gelten § 12 Abs. 1 und Abs. 2 Satz 1.[2] Die erste Wiederholung hat zum nächsten, in der Regel innerhalb von sechs Monaten angebotenen Prüfungstermin zu erfolgen.[3] Unterbleibt sie aus von der bzw. dem Studierenden zu vertretenden Gründen, so gilt die Prüfung als erneut mit „nicht ausreichend“ (5,0) bewertet.[4] Sofern eine erste Wiederholungsprüfung noch vor dem Vorlesungsbeginn des nächsten Semesters angeboten wird, ist eine Teilnahme daran nicht verpflichtend; nimmt die bzw. der Stud …
 
-_(+ 11 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 27 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -4882,6 +5203,66 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### StuPOMed 1. ÄSa 20250818.pdf
+
+PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupomed-1-aesa-20250818.md`](../pruefungsordnungen/medizinische-fakultaet/stupomed-1-aesa-20250818.md)  
+Pflicht-Stellen gefunden: **6**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Kursus der makroskopischen Anatomie - Zusätzliches Präparieren — Kurs — apl. Prof. Dr. Axel Brehmer
+- MED  84701  Klinische Untersuchung Innere Medizin (I-Med. 353) — Vorlesung mit Übung — Axel Hueber, Dr. med. Melanie Hagen, Dr. med. Verena Schönau
+
+#### Auszüge aus dem PO-Text
+
+**3.  In § 34 wird nach Abs. 2 folgender Abs. 3 neu angefügt:** _(paragraph)_
+
+„(3)[1] Die erste Änderungssatzung tritt zum 1. Oktober 2025 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2025/2026 aufnehmen sowie alle Studierenden, die sich in keiner der Pflichtveranstaltungen „Biochemische Propädeutik, Tutorium“ (ehemals V-PS7) und „Kursus der mikroskopischen Anatomie“ (ehemals V-PS12) in einem laufenden Prüfungsverfahren befinden.[3] Studierende, die mit mindestens einer der beiden Pflichtveranstaltungen noch nicht begonnen haben, belegen diese Pflichtveranstaltung nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung.“
+
+**§ 2** _(paragraph)_
+
+1Diese Änderungssatzung tritt zum 1. Oktober 2025 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2025/2026 aufnehmen sowie alle Studierenden, die sich in keiner der Pflichtveranstaltungen „Biochemische Propädeutik, Tutorium“ (ehemals V-PS7) und „Kursus der mikroskopischen Anatomie“ (ehemals V-PS12) in einem laufenden Prüfungsverfahren befinden.[3] Studierende, die mit mindestens einer der beiden Pflichtveranstaltungen noch nicht begonnen haben, belegen diese Pflichtveranstaltung nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 2** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| = N
+b)
+In Satz 2 werden nach dem Wort „Kandidat“ die Worte und die Zahlen
+„mindestens 10 Minuten und höchstens 25“ durch die Buchstaben, das
+Zeichen, die Zahlen und das Wort „ca. 10 bis 20“ ersetzt.
+c)
+In Satz 3 werden nach den Worten „die einzelnen Stationen“ die Worte
+und Zahlen „zwischen 5 und 30“ durch die Buchstaben, das Zeichen, die
+Zahlen und das Wort „ca. 7 bis 14“ ersetzt.
+d)
+Nach Abs. 5 wird folgender neuer Abs. 6 neu angefügt:
+„(6)
+"Praktische
+Leistungsnachweise
+finden,
+soweit
+nichts Anderes
+vorgeschrieben
+ist, vor einer Prüferin bzw. einem
+Prüfer statt. ?im
+Übrigen gilt Abs. 4 entsprechend.“
+3.
+In 8 34 wird nach Abs. 2 folgender Abs. 3 neu angefügt:
+„(3) 'Die erste Änderungssatzung tritt zum 1. Oktober 2025 in Kraft. 2Si …
+
+_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
 ### StuPOZahnMed 20210924.pdf
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20210924.md`](../pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20210924.md)  
@@ -4924,7 +5305,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### StuPOZahnMed 20240904 i.d.F. 20250930.pdf
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20240904-idf-20250930.md`](../pruefungsordnungen/medizinische-fakultaet/stupozahnmed-20240904-idf-20250930.md)  
-Pflicht-Stellen gefunden: **6**  
+Pflicht-Stellen gefunden: **12**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -4956,7 +5337,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 (4)[1] Der Prüfungsausschuss der Lehreinheit Zahnmedizin achtet auf die ordnungsgemäße Durchführung der hochschulinternen Prüfungen.[2] Er trifft insbesondere die rechtsverbindlichen Entscheidungen bei Fragen des endgültigen Nichtbestehens von Pflichtveranstaltungen.[3] Er gibt Anregungen zur Steigerung der Qualität hochschulinterner Prüfungen im Fach Zahnmedizin.[4] Der Prüfungsausschuss achtet darauf, dass die Bestimmungen dieser Studien- und Prüfungsordnung eingehalten werden.[5] Er überprüft auf Antrag Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[6] Er gibt gegebenenfalls Anregungen zu Änderungen dieser Studienund Prüfungsordnung.[7] Die Mitglieder des Prüfungsausschusses der Lehreinheit Zahnmedizin haben das Recht auf Anwesenheit bei der Abnahme der hoch …
 
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -5104,11 +5485,12 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### Allg StuO PrO BSc-MSc ABMPO-NatFak 20230822 i.d.F. 20250731.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/allg-stuo-pro-bsc-msc-abmpo-natfak-20230822-idf-20250731.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/allg-stuo-pro-bsc-msc-abmpo-natfak-20230822-idf-20250731.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **8**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
@@ -5131,7 +5513,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 (1)[1] Mit Ausnahme der Prüfungen der Module der Grundlagen- und Orientierungsprüfung, der Prüfungen von Praktika, Geländeseminaren und Exkursionen sowie des Moduls Bachelorarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden; Studienleistungen in Studiengängen der Departments Mathematik und Data Science können beliebig oft wiederholt werden.[ 2] Prüfungen der Module der Grundlagen- und Orientierungsprüfung sowie des Moduls Bachelorarbeit können einmal wiederholt werden.[3] Prüfungen von Praktika, Geländeseminaren und Exkursionen können zweimal wiederholt werden, sofern im Falle der Wiederholung abweichend von Satz 5 auch das Praktikum, das Geländeseminar oder die Exkursion wiederholt werden muss.[ 4] Die Wiederholung ist auf die nicht bestandene P …
 
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -5172,12 +5554,14 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### 30. Juli 2012
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/1aes-20ba-ma-20ils-bio.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/1aes-20ba-ma-20ils-bio.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **9**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Experimentalphysik II für Materialwissenschaftler, Nanotechnologen und Integrated Life Sciences — Vorlesung — Prof. Dr. Vojislav Krstic
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
 
@@ -5207,7 +5591,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 |regulation<br>Stochastische<br>Modelle für<br>Lebens-<br>wissenschaftler<br>Einführung in die<br>Mathematische<br>Modellierung<br>Numerische<br>Methoden für<br>Natur-<br>wissenschaftler<br>Partielle<br>Differentialgleichun<br>gen für Lebens-<br>wissenschaftler<br>Bioinformatik von<br>Hochdurchsatzdaten<br>Komplexe Systeme<br>Teil I<br>Komplexe Systeme<br>Teil II<br>Computersimulatio-<br>nen embryonaler<br>Musterbildungs-<br>prozesse<br>Bioanalytik<br>Cycles, Poles and<br>Time|3<br>3<br>3|2<br>2<br>2<br>2<br>2<br>2<br>2<br>1<br>1<br>1|2<br>2<br>2<br>2<br>2<br>2<br>2<br>7<br>7<br>1 + 3||5<br>5<br>5<br>5<br>5<br>5<br>5<br>7,5<br>7,5<br>5|5<br>5<br>7,5*|5<br>5<br>5<br>5<br>5<br>7,5<br>5|7,5*||mündliche Prüfung<br>ca. 30 Min<br>Klausur ca. 90 Min<br>oder mündliche<br>Prüfung ca. 15 Min<br>Klau …
 
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -5359,13 +5743,25 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### FPO BAMA Bio 20260331.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Pflicht-Stellen gefunden: **14**  
+Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
+- Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Benedikt Kost, Prof. Dr. Sabine Müller, Dr. Peter Richter
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
+- Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Andreas Feigenspan, Dr. Ingrid Brehm, PD Dr. Renato Frischknecht, Dr. Kaspar Gierke, PD Dr. Andreas Gießl, Prof. Dr. Johann Helmut Brandstätter
+- K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie — Praktikum — Prof. Dr. Roland Lang, Dr. med. Klaus Korn, PD Dr. Brigitte Biesinger-Zwosta, apl. Prof. Dr. Armin Enßer, PD Dr. Roman Gerlach, apl. Prof. Dr. Jürgen Held, PD Dr. Antje Knöll, Prof. Dr. Jochen Mattner, PD Dr. Giuseppe Valenza, Dr. med. Philipp Steininger
+- Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
+- Orientierungsmodul Mikrobiologie I: Identifizierung von Bakterien anhand von 16S rRNA — Seminar und Übung — Dr. Bodo Linz, Prof. Dr. Steffen Backert
+
+**Studiengang:** - Biologie (FAU Scientia)  -
+
+- [Orientierungsmodul Experimentelle Molekulare Zelldynamik: Molekulare Mechanismen der Zellteilung in tierischen Zellen — Seminar und Übung](../589-sommersemester-2026/biologie-fau-scientia-13839566.md) — Prof. Dr. Esther Zanin
+- [Fachmodul Pharmazeutische Biologie: Seminar zur Vorlesung  (Teil 2) — Seminar](../589-sommersemester-2026/biologie-fau-scientia-13839566.md) — PD Dr. Jennifer Munkert
 
 #### Auszüge aus dem PO-Text
 
@@ -5385,7 +5781,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 1Das Forschungsmodul ist Teil der Pflichtmodule des Masterstudiengangs.  2Der praktische Teil des Moduls kann von den Studierenden zur Vorbereitung auf die Masterarbeit genutzt werden, indem die Masterarbeit im Themengebiet des Forschungsmoduls absolviert werden kann.[3] Es gliedert sich in eine 8-wöchige Laborübung mit aktuellem Forschungsbezug (16-18 SWS) sowie die begleitenden Hauptseminare (2-4 SWS) aus dem gewählten Fachgebiet.[4] Das Modul schließt mit einer mündlichen Prüfung im Umfang von 45 Minuten ab.[5] Die wählbaren Fächer und Prüfenden für das Forschungsmodul werden vom Prüfungsausschuss festgelegt und ortsüblich bekannt gemacht.[6] Die am Department Biologie tätigen hauptberuflichen Hochschullehrerinnen bzw. Hochschullehrer i. S. d. Art. 19 Abs. 1 **BayHIG** sowie habilitiert …
 
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -5425,12 +5821,17 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### FPO BSc-MSc ILS FPO BAMA ILS 20230822 i.d.F. 20260331.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822-idf-20260331.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20230822-idf-20260331.md)  
-Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **22**  
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Advanced experimental physics: Solid state physics — Vorlesung — Prof. Dr. Heiko Weber
+- Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik — Vorlesung — Prof. Dr. Steffen Backert, Prof. Dr. Wiebke Herzog, PD Dr. Markus Biburger, Prof. Dr. Falk Nimmerjahn, Prof. Dr. Lars Nitschke
+- Experimentalphysik II für Materialwissenschaftler, Nanotechnologen und Integrated Life Sciences — Vorlesung — Prof. Dr. Vojislav Krstic
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 
 #### Auszüge aus dem PO-Text
 
@@ -5450,7 +5851,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 1. Pflichtmodul ILS-MA-M1 im Umfang von 5 ECTS-Punkten,
 
-_(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 18 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -5484,6 +5885,86 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 1. Pflichtmodul ILS-MA-M1 im Umfang von 5 ECTS-Punkten,
 
 _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### FPOBAMAILS ÄS 20260331.pdf
+
+PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpobamails-aes-20260331.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpobamails-aes-20260331.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+
+#### Auszüge aus dem PO-Text
+
+**„** _(paragraph)_
+
+- 1)  Anwesenheitspflichtige Lehrveranstaltung
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 7** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Modul 1orogısches
+vgl. FPO BAMA Bio
+vgl. FPO BAMA Bio
+1
+DE HE HE HE ET
+Praktische o. theoreti-
+.
+0
+sche Projektarbeit
+,
+’
+j
+9
+LE Zu
+DE EEE
+HE EEE
+60%
+um:
+PL: Schriftliche Arbeit ca. 7000
+a
+9
+SL: Kurzvortrag von ca. 20 Min.
+9% 42
+9
+Summe SWS und ECTS-Punkte
+5
+180
+30
+30
+30
+30
+32,5
+27,5
+134,5
+1)
+Anwesenheitspflichtige Lehrveranstaltung
+2)
+vgl.8 47 Abs.
+3 FPO BAMA Bio. Wählbar sind hier Module aus dem Angebot der Fachmodule 1 und 2 des Bachelorstudiengangs Biologie.
+Erläuterungen:
+V = Vorlesung
+Ü = Übung
+P = Praktikum
+S = Seminar
+SWS = Semesterwochenstunden
+ECTS = Punkte des European Credit Transfer Systems
+SL = Studienleistung
+PL = Prüfungsleistung
+pÜL = praktische Übungsleistung gemäß 8 6 Abs.
+4 ABMPO/NatFak
+SeL = Seminarleistung gemäß  …
 
 ---
 
@@ -5638,11 +6119,14 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### FPOilmmune 20260213.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20260213.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20260213.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **14**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Kommunikation im ärztlichen Beruf — 
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- MED47251 Kommunikation im ärztlichen Beruf — Seminar — Prof. Dr. Christoph Ostgathe, Dr. med. Tobias Steigleder
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
@@ -5673,7 +6157,7 @@ werden.[3] Im Falle von Importmodulen werden die jeweiligen Prüfenden von den f
 
 (2)[1] Die Studierenden melden sich zu den einzelnen Modulprüfungen nach Beginn der Vorlesungszeit an.[2] Die Anmeldetermine und Anmeldeformalitäten werden rechtzeitig vorher ortsüblich bekanntgegeben.[3] Die Teilnahme an der jeweiligen Prüfung setzt die ordnungsgemäße Anmeldung auf der hierfür bereitgestellten Plattform voraus.[4] Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltungssystem regelmäßig zu überprüfen und etwaige Unstimmigkeiten unverzüglich dem Prüfungsamt mitzuteilen.
 
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -5998,7 +6482,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### PDF vom 25.07.2013
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/allgpo-ba-ma-chemie-molecularscience.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/allgpo-ba-ma-chemie-molecularscience.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **3**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -6018,6 +6502,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 (2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
 
 (3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende o- der ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll haup …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -6056,7 +6544,7 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### FPO BAMA Chemie MolSci 20260305.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-chemie-molsci-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-chemie-molsci-20260305.md)  
-Pflicht-Stellen gefunden: **20**  
+Pflicht-Stellen gefunden: **35**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -6083,7 +6571,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 1Das Forschungsmodul ist Teil der Pflichtmodule des Masterstudiengangs Chemistry und dient der Vorbereitung auf die Masterarbeit.[2] Es gliedert sich in ein 8-wöchiges Laborpraktikum mit aktuellem Forschungsbezug (21 SWS) sowie die begleitenden Hauptseminare (2 SWS) aus einer der Fachdisziplinen Anorganische Chemie, Organische Chemie, Materialchemie, Physikalische Chemie oder Theoretische Chemie. 3Der Durchführung des Forschungsmoduls in alternativen Forschungsgebieten (z.B. interdisziplinär angesiedelte Forschungsthemen) kann im Einzelfall zugestimmt werden, wenn überwiegend chemische Inhalte bearbeitet werden – hierzu ist die Zustimmung des Prüfungsausschusses und einer bzw. eines potenziellen, prüfungsberechtigten Erstbetreuerin bzw. Erstbetreuers aus dem Department Chemie und Pharmazie …
 
-_(+ 16 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 31 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -6379,6 +6867,151 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 ---
 
+### 16. Juni 1994
+
+PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/2aesa-pro-geologie.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/2aesa-pro-geologie.md)  
+Pflicht-Stellen gefunden: **4**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 2** _(paragraph)_
+
+```
+Studienbeginn
+Das Studium kann sowohl im Wintersemester
+als auch in einem Sommersemester
+begonnen werden.
+Der Beginn im Wintersemester
+wird empfohlen, der Studienplan
+ist darauf angelegt.
+Studiendauer
+Die Regelstudienzeit
+beträgt einschließlich der Zeit für die Anfertigung der Diplomarbeit und der zu-
+gehörigen Kartierung sowie der mündlichen Diplomprüfung
+neun Fachsemester
+($ 3 Abs. 3 DPO).
+56
+Gliederung und Umfang des Studiums
+(1) Das Studium gliedert sich in ein viersemestriges
+Grundstudium,
+das mit der Diplomvorprüfung
+abgeschlossen wird, und ein Hauptstudium
+mit einer Dauer von fünf Semestern einschließlich der Zeit
+für die Anfertigung
+der Diplomarbeit
+und Kartierung
+und der Ablegung der mündlichen
+Diplom-
+prüfung.
+(2) Der Höchstumfang der für das planmäßige Studium erforderlichen …
+
+**OCR Seite 4** _(paragraph)_
+
+```
+zwei Geologische Kartierungsübungen”
+Paläontologische Geländeübung”
+2.
+Grundzüge der Mineralogie und Petrographie
+von insgesamt
+12 SWS:
+Vorlesungen Mineralogie
+I und II Ge 3 SWS)
+6 SWS
+Übungen zur Mineralogie (Mineralogisches
+Praktikum)I
+und ID” (je 2 SWS)
+4 SWS
+Mikroskopisches
+Praktikum I”
+2 SWS
+3.
+Anorganische Chemie von insgesamt
+16 SWS:
+Vorlesung Allgemeine und Anorganische Experimentalchemie
+4 SWS
+Vorlesung Allgemeine und Anorganische Chemie
+3 SWS
+Chemisches Praktikum für Geowissenschaftler
+incl. Gesteins-und
+Rohstoffanalyse”?
+9 SWS
+4. je nach Wahlpflichtfach
+— Grundzüge
+der Experimentalphysik
+von insgesamt
+13 SWS:
+Vorlesungen Experimentalphysik
+I und II f. Naturwissenschaftler
+8 SWS
+Physikalisches Praktikum für Anfänger’
+5 SWS
+— Grundzüge der Mathematik von insgesamt 12 SWS:
+Vorl …
+
+**OCR Seite 5** _(paragraph)_
+
+```
+richtung auf die beruflichen
+Arbeitsfelder
+und dem Erwerb der Fähigkeit, nach wissenschaftlichen
+Grundsätzen
+selbständig
+arbeiten
+zu können. Im Laufe seines Hauptstudiums
+entscheidet
+sich der
+Student für einen geowissenschaftlichen
+Schwerpunkt,
+in dem auch die Diplomarbeit
+erstellt wird.
+/
+(2) Das Hauptstudium umfaßt
+1. für alle Studenten
+verbindliche Pflichtveranstaltungen
+im Umfang von 50 SWS wie folgt:
+Art der Lehrveran-
+SWS
+staltung
+—
+Vorlesung Allgemeine Stratigraphie
+Vorlesung
+3
+—
+Übung Allgemeine Gefügekunde
+Übung”
+2
+—
+Übung Luftbild-Geologie”
+Übung”
+2
+—  _ Geologisch-Paläontologisches
+Mittelseminar
+Seminar”
+1
+—
+Vorlesung Einführung in die Bodenkunde
+Vorlesung
+2
+—
+Vorlesung Einführung in die Ingenieurgeologie
+Vorlesung
+2
+—
+Vorlesung und Übung Hydrogeologie und Hydrochemime
+I
+Vor …
+
+---
+
 ### PDF vom 29.02.2016 i.d.F. 20.06.2017
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/abmpo-ba-ma-geowissenschaften-juni2017.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/abmpo-ba-ma-geowissenschaften-juni2017.md)  
@@ -6566,6 +7199,190 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ||**Wahlmodul**<br>**Kulturge …
 
 _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### PDF vom 13.08.1982
+
+PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/diplom-po-geol-palaeont-1982.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/diplom-po-geol-palaeont-1982.md)  
+Pflicht-Stellen gefunden: **6**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Anleitung zum selbständigen wissenschaftlichen Arbeiten (Arbeitskreisseminar) — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 6** _(paragraph)_
+
+```
+.
+|
+6-_
+'(3)
+Die Bestellung zu Prüfern soll in geeigneter Form
+bekanntgegeben werden.
+Ein kurzftistig vor Beginn
+ı der Prüfung aus zwingenden Gründen notwendig wer-
+dender Wechsel des Prüfers ist zulässig.
+-. Scheidet ein prüfungsberechtigtes Hochschulmitglied
+sus der Hochschule aus, bleibt dessen Prüfungsbe-
+rechtigung in der !egel bis zu einem Jahr erhalten.
+8 6
+Ausschluß wegen persönlicher Beteiligung,
+Verschwiegenheitspflicht
+(
+(1) Der Ausschluß von der Beratung und Abstimmung im
+.
+‘
+Prüfungsausschuß sowie von einer Prüfungstätigkeit
+i
+wegen persönlicher Beteiligung bestimmt sich nach
+Art.
+37 BayHSchG.
+(2)
+Die Pflicht der Mitglieder des Prüfungsausschusses,
+der Prüfer, der Prüfungsbeisitzer und sonstiger mit
+Prüfungsangelegenheiten befaßter Personen zur Ver-
+schwiegenheit bestimmt  …
+
+**OCR Seite 15** _(paragraph)_
+
+```
+„8
+b.
+für das
+Prüfunzesfach
+_
+“Grundzüge
+der Fineralopie
+und
+Petrograpnie"
+u
+-
+Belegung von
+Äirspgeswurn
+1?
+SWL,
+garin müssen enthalten seir:
+.
+- Übungen zur Mineralogie
+I
+und
+II
+j
+‚„
+- Mikroskopisches
+Praktikum
+I;
+j
+u
+c. für den Pflichtübungsschein Anorganische Chemie
+\
+- Belegung von insgesamt
+30 SWS, darin
+x
+|
+“
+-= Chemisches Praktikum für Geowissenschaftler inc).
+u
+.
+Gesteins- und Rohatoflanalyse;
+j
+-
+-
+-
+,
+&
+\
+d.
+für den Pflichtübungsschein aus einem der vom Kandidaten
+u
+. nicht gewählten Fächer
+aus
+& 2o
+Abs.1
+?7itfer 2
+a
+und
+b
+.
+»
+.
+U
+v
+- beliebige Übung von 4 SWS;
+.
+j
+e. wahlweise Je nach Prüfungsfach
+j
+s
+.
+-
+aa.
+für das Wanlprüfungsfach
+u
+.
+"Grundzüpe der Anorganischen Chemie"
+-
+" wie bei c;
+j
+.
+-
+.
+“
+(
+bb.
+für das Wahlprüfungafach
+.
+.
+"Grundzüge
+der Experimentalphysik"
+-
+Beleg …
+
+**OCR Seite 17** _(paragraph)_
+
+```
+Mn
+[)
+8 18
+Meldung zur Diplomvorprüfung
+(1)
+Der Student hat sich innerhalb von .e.. Wochen nach der
+Bekanntgabe des Termins für den Prüfungsbeginn gemäß 8
+.7.
+.
+..
+Abs. 2. schriftlich beim Vorsitzenden des Prüfunsgausschusse
+on
+zur Prüfung zu melden.
+(2)
+Wird die Diplomvorprüfung in zwei Abschnitten abgelegt, soll
+i
+die Meldung zum zweiten Abschnitt im Rahmen von $ 3 Abs. 5.
+und 6 erfolgen;
+sofern die für die Zulassung zur Prüfung
+erforderlichen Leistungen nachgewiesen sind, kann der Studen!
+die Diplomvorprüfung auch vor diesem Termin ablegen.
+|
+$ 19
+Gliederung der Diplomvorprüfung
+‘=
+(9)
+Die Diplomvorprüfung kann in einem oder in zwei Abschnitt_a
+(Teilprüfungen) abgelegt werden.
+“
+(2)
+Der erste Abschnitt umfart Ale Prüfung in den Wahlpfliuht-
+fächern,. Sie kann nach Örwero der in & 17 …
+
+_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -6855,7 +7672,7 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### PDF vom 27.09.2007 i.d.F. 09.11.2012
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/po-ba-ma-geographie-nov2012.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/po-ba-ma-geographie-nov2012.md)  
-Pflicht-Stellen gefunden: **6**  
+Pflicht-Stellen gefunden: **8**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -6892,14 +7709,14 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 (5)[1] In die Gesamtnote der Bachelorprüfung gehen alle Modulnoten des Bachelorstudiums mit dem Gewicht der ECTS-Punkte ihres Moduls ein; für die Fachnote des Pflichtbereichs und der Wahlfächer gilt entsprechendes.[2] Absatz 1 Satz 6 gilt entsprechend.
 
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
 ### PDF vom 27.09.2007 i.d.F. 05.08.2008
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/po-ba-ma-geographie.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/po-ba-ma-geographie.md)  
-Pflicht-Stellen gefunden: **6**  
+Pflicht-Stellen gefunden: **8**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -6936,7 +7753,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 (5)[1] In die Gesamtnote der Bachelorprüfung gehen alle Modulnoten des Bachelorstudiums mit dem Gewicht der ECTS-Punkte ihres Moduls ein; für die Fachnote des Pflichtbereichs und der Wahlfächer gilt entsprechendes.[2] Absatz 1 Satz 6 gilt entsprechend.
 
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -7025,7 +7842,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### PDF vom 01.10.2007 i.d.F. 10.12.2010
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/pro-ba-ma-geowissenschaften-30juli2010.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/pro-ba-ma-geowissenschaften-30juli2010.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **5**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -7057,13 +7874,19 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 **§ 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote** _(paragraph)_
 
 (6)[1] In die Gesamtnote der Masterprüfung gehen die Modulnoten des Masterstudiums mit dem Gewicht der ECTS-Punkte ihres Moduls ein; für die Fachnote des Pflichtbereichs und der Wahlbereiche gilt entsprechendes.[2] Absatz 1 Satz 6 gilt entsprechend.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
 ### PDF vom 01.10.2007 i.d.F. 18.02.2013
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/pro-ba-ma-geowissenschaften-feb2013.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/pro-ba-ma-geowissenschaften-feb2013.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **5**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -7096,12 +7919,18 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 (6)[1] In die Gesamtnote der Masterprüfung gehen die Modulnoten des Masterstudiums mit dem Gewicht der ECTS-Punkte ihres Moduls ein; für die Fachnote des Pflichtbereichs und der Wahlbereiche gilt entsprechendes.[2] Absatz 1 Satz 6 gilt entsprechend.
 
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
 ---
 
 ### PDF vom 01.10.2007 i.d.F. 05.08.2008
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/pro-ba-ma-geowissenschaften.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/pro-ba-ma-geowissenschaften.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **5**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -7133,6 +7962,12 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 **§ 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote** _(paragraph)_
 
 (6)[1] In die Gesamtnote der Masterprüfung gehen die Modulnoten des Masterstudiums mit dem Gewicht der ECTS-Punkte ihres Moduls ein; für die Fachnote des Pflichtbereichs und der Wahlbereiche gilt entsprechendes.[2] Absatz 1 Satz 6 gilt entsprechend.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -7637,7 +8472,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 ### FPODataScience 20260305.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **5**  
 Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -7664,12 +8499,42 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 1. 15 ECTS-Punkte aus Pflichtmodulen (Nrn. 1 bis 3 gemäß **Anlage 2 a** bzw. **2b** ),
 
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 3** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+Il. Teil: Besondere Bestimmungen
+1. Bachelorprüfung
+8 45 Gliederung des Bachelorstudiums
+!Das Bachelorstudium setzt sich aus
+a) den Pflichtmodulen für Data Science (Nrn. 1 und 2 sowie Nrn. 5 bis 18 der Anlage
+1),
+b) den Wahlpflichtmodulen für
+— die Kernmodule Data Science (Nrn. 3 und 4 der Anlage 1 sowie 8 47),
+— den Wahlpflichtbereich Mathematik (Nr. 19 der Anlage 1 sowie $ 48),
+— den Wahlpflichtbereich Informatik (Nr. 20 der Anlage 1 sowie 8 49),
+— die Vertiefungsrichtungen (Nr. 21 und 22 der Anlage 1 sowie 8 50) und
+— das Anwendungsfach (Nr. 23 der Anlage 1 sowie 8 51),
+c) den Wahlmodulen für die technischen und nicht-technischen Schlüsselqualifikati-
+onen (Nr. 24 der Anlage 1 sowie 8 52) und
+d) der Bachelorarbeit (Nr. 25 …
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
 ---
 
 ### FPOMathe 20150311 i.d.F. 20190715.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20190715.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20190715.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **4**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -7686,12 +8551,49 @@ a) Pflichtmodulen (Nrn. 1 bis 5, 8 und 9, 11 sowie 13 und 14),
 
 1. 1Alle Studierenden, die nicht das Nebenfach Informatik gewählt haben, müssen verpflichtend das Modul Programmierung wählen.[2] Für Studierende, die das Nebenfach Informatik gewählt haben, gilt § 33 Abs. 1 Satz 4 **ABMPOMathe/NatFak** entsprechend.
 
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 9** _(paragraph)_
+
+```
+Anlage 1: Bachelorstudiengang Mathematik
+Anlage 1a: Curricular-Übersicht
+c
+£
+Querschnittsmodul und Seminar
+e
+15 ECTS
+ER
+Mathematische
+sn
+Wahlpflichtmodule
+Io
+37
+Theoretische
+Angewandte
+2
+Mathematik
+Mathematik
+S
+20-40 ECTS
+20-40 ECTS
+7)
+!Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der folgen-
+den Darstellung des (Muster-)Studienverlaufs (vgl. Anlage 1b). *Zum Bestehen der GOP müs-
+sen mindestens 30 ECTS-Punkte aus den Modulen des Blocks „Grundlagen“ erworben wer-
+den (8 41). *Im mathematischen Wahlpflichtbereich können Module der Theoretischen Mathe-
+matik und der Angewandten Mathematik aus dem entsprechenden Modulkatalog (vgl. $ 42
+Abs. 2) frei gewählt werden wobei aus jedem dieser beiden Blöcke mindestens 20 ECTS-
+Punkte und aus beiden Blöcken zusamme …
+
 ---
 
 ### FPOMathe 20150311 i.d.F. 20210805.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20210805.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20210805.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **4**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -7708,12 +8610,47 @@ a) Pflichtmodulen (Nrn. 1 bis 5, 8 und 9, 11 sowie 13 und 14),
 
 (2)[1] Die Wahl der Module aus dem Bereich der Schlüsselqualifikationen erfolgt durch die Anmeldung zur (ersten) Prüfung im jeweiligen Modul bzw. durch Anmeldung zur Schulung bzw. zum Praktikum.[2] Die Schlüsselqualifikationsmodule werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.[3] Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden.[4] Alle Studierenden, die nicht das Nebenfach Informatik gewählt haben, müssen verpflichtend entweder das Modul
 
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 9** _(paragraph)_
+
+```
+Anlage 1: Bachelorstudiengang Mathematik
+Anlage 1a: Curricular-Übersicht
+c
+£
+Querschnittsmodul und Seminar
+e
+15 ECTS
+Er
+Mathematische
+= ©
+Fu
+Theoretische
+Angewandte
+2
+Mathematik
+Mathematik
+S
+20-40 ECTS
+20-40 ECTS
+7)
+!Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der folgen-
+den Darstellung des (Muster-)Studienverlaufs (vgl. Anlage 1b). *Zum Bestehen der GOP müs-
+sen mindestens 30 ECTS-Punkte aus den Modulen des Blocks „Grundlagen“ erworben wer-
+den (8 41). *Im mathematischen Wahlpflichtbereich können Module der Theoretischen Mathe-
+matik und der Angewandten Mathematik aus dem entsprechenden Modulkatalog (vgl. $ 42
+Abs. 2) frei gewählt werden wobei aus jedem dieser beiden Blöcke mindestens 20 ECTS-
+Punkte und aus beiden Blöcken zusammen in der Summe 60 EC …
+
 ---
 
 ### FPOMathe 20190715 ÄS.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20190715-aes.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20190715-aes.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **3**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -7730,12 +8667,16 @@ a) Pflichtmodulen (Nrn. 1 bis 5, 8 und 9, 11 sowie 13 und 14),
 
 1.[1] Alle Studierenden, die nicht das Nebenfach Informatik gewählt haben, müssen verpflichtend das Modul Programmierung wählen.[2] Für Studierende, die das Nebenfach Informatik gewählt haben, gilt § 33 Abs. 1 Satz 4 **ABMPOMathe/NatFak** entsprechend.
 
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
 ---
 
 ### FPOMathe 20260305.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20260305.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **5**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -7751,6 +8692,36 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 **§ 49 Schlüsselqualifikationen** _(paragraph)_
 
 (2)[1] Die Wahl der Module aus dem Bereich der Schlüsselqualifikationen erfolgt durch die Anmeldung zur (ersten) Prüfung im jeweiligen Modul bzw. durch Anmeldung zur Schulung bzw. zum Praktikum.[2] Die Schlüsselqualifikationsmodule werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.[3] Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden.[4] Alle Studierenden, die nicht das Nebenfach Informatik gewählt haben, müssen verpflichtend entweder das Modul Programmierung oder das Modul Computerorientierte Mathematik I wählen.[5] Studierende, die das Nebenfach Informatik gewählt haben, dürfen die in Satz 4 genannten Module wegen des erforderlichen fachspezifischen Kompetenzgew …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 2** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ul
+/zu \
+& 42 Bachelorstudiengang, Regelstudienzeit,
+inhaltlich im Wesentlichen gleiche Studiengänge
+(1) 'Das Bachelorstudium der Mathematik setzt sich aus Modulen im Umfang von
+180 ECTS-Punkten verteilt auf sechs Semester gemäß der Anlage 1 zusammen. ?Da-
+rin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten.
+(2) Bachelorstudiengänge der Mathematikwissenschaft gelten als inhaltlich im We-
+sentlichen gleiche Studiengänge
+i. S. d. 8 28 Abs. 1 Satz 2 Nr.
+2 ABMPO/NatFak,
+wenn der Mathematikanteil im Studiengangscurriculum mindestens 135 ECTS-Punkte
+beträgt.
+& 43 Masterstudiengang, Regelstudienzeit, inhaltlich im Wesentlichen gleiche
+Studiengänge
+(1) 'Das Masterstudium Mathematik baut konsekutiv auf den Bachelorstudiengang
+Ma …
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -7942,17 +8913,22 @@ _(+ 11 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### FPOTechnomathe 20260305.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20260305.md)  
-Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Pflicht-Stellen gefunden: **16**  
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Modeling, Simulation and Optimization (practical course) — Praxisseminar — PD Dr. Stefan Metzger, Dr. Lukas Pflug, Dr. Andrian Uihlein
+- Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche — Hauptseminar
+- Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Staatsexamenskurs Mathematik (nicht vertieft) — Sonstige Lehrveranstaltung — Karin Pott
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
-- [Modeling and Analysis in Continuum Mechanics 2 — Vorlesung](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Prof. Dr. Günther Grün
 - [Übungen zu Modeling and Analysis in Continuum Mechanics 2 — Übung](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Prof. Dr. Günther Grün
+- [Modeling and Analysis in Continuum Mechanics 2 — Vorlesung](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Prof. Dr. Günther Grün
+- [Übungen zu Lineare und nichtlineare Systeme (Querschnittmodul) — Übung](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Dieter Weninger
 
 #### Auszüge aus dem PO-Text
 
@@ -7972,7 +8948,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 (1)[1] Die Schlüsselqualifikationen setzen sich aus dem Pflichtmodul Nr. 14 und Modulen aus dem Wahlpflichtbereich Nr. 15 gemäß **Anlage 1** zusammen.[2] Das übergeordnete Qualifikationsziel der Schlüsselqualifikationen liegt in dem Erwerb übergreifender Kompetenzen zur Berufs- und Forschungstätigkeit, z.B. in den Bereichen Projektmanagement, Teamwork oder Präsentationstechniken.[3] Außerdem wird den Studierenden ermöglicht, sich außerhalb des eigenen Fachs in fachfremden oder praxisnahen Anwendungsfeldern breiter aufzustellen.
 
-_(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -8160,12 +9136,15 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 ### FPOWiMathe 20260305.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Pflicht-Stellen gefunden: **12**  
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Lineare und Kombinatorische Optimierung — 
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
@@ -8189,7 +9168,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 (1)[1] Das Nebenfach Informatik setzt sich aus den Pflichtmodulen Nrn. 12 und 13 sowie dem Wahlpflichtmodul Nr. 14 gemäß der **Anlage 1** zusammen und umfasst 15 ECTSPunkte.[2] Das übergeordnete Qualifikationsziel des Wahlpflichtmoduls Informatik ist der Erwerb erweiterter Kompetenzen in der Informatik mit Fokus auf die Schnittstelle zwischen Mathematik und Informatik.[3] Dies dient insbesondere der Stärkung der Anwendungskompetenz hinsichtlich des erlangten mathematischen Fachwissens.
 
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -8230,7 +9209,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### PDF vom 07.09.2007 i.d.F. 04.03.2010
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/po-bachelor-ma-mathe-technomathe.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/po-bachelor-ma-mathe-technomathe.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **3**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -8258,6 +9237,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 (2)[1] Zu Prüfenden und Gutachterinnen oder Gutachtern können alle Hochschullehrer und Hochschullehrerinnen und alle weiteren nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung (BayRS 2210-1-1-6 WK) in ihrer jeweiligen Fassung zur Abnahme von Hochschulprüfungen Befugten bestellt werden.[2] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüfenden oder des Prüfenden ist zulässig.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
 
 ( …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -8808,6 +9791,114 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### PDF vom 22.03.1983
+
+PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-physik-1983.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-physik-1983.md)  
+Pflicht-Stellen gefunden: **8**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- B. Sc.-Seminar über aktuelle Probleme der Technischen Chemie — Seminar — Dr. Andreas Bösmann, Dr. Peter Schulz, apl. Prof. Dr. Marco Haumann, Dr. Friederike Agel
+- Staatsexamenskurs Mathematik (nicht vertieft) — Sonstige Lehrveranstaltung — Karin Pott
+- Theoretische Physik 1: Mechanik — Vorlesung — PD Dr. Michael Schmiedeberg
+- Übungen zu Einführung in die gewöhnlichen Differentialgleichungen — Übung — Prof. Dr. Lea Boßmann
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 4** _(paragraph)_
+
+```
+|
+-4-
+.
+Diplomand in ein physikalisches Institut der Universität ein und fertigt dort
+eine Diplomarbeit an, für die 2 Semester vorgesehen sind.
+&8
+Studieninhalt - Grundstudium
+1. Das Studium im Diplomstudiengang Physik setzt sich aus Pflicht- und empfoh-
+lenen Wahllehrveranstaltungen in experimenteller und theoretischer Physik,
+in Mathematik,
+in Chemie und in einem Wahlfach zusammen.
+Es wird empfohlen,
+daß der Student neben den im Studienplan aufgeführten Lehrveranstaltungen
+{
+weitere Vorlesungen, Öbungen und Seminare besucht, die zur Ergänzung und
+Weiterentwicklung seiner Kenntnisse angeboten werden, Die Aufgliederung der,
+Semesterwochenstunden auf die einzelnen Fächer und Veranstaltungsarten ist
+in Tabelle
+1 dargestellt. Das Studium ist im Studienplan entsprechend der
+Studiensemester …
+
+**OCR Seite 5** _(paragraph)_
+
+```
+|
+”
+i
+|
+Theoretische Physik
+Der Zyklus der theoretischen Pflichtvorlesungen beginnt mit den klassisch-
+physikalischen Gebieten "Mechanik" und "Elektrodynamik" mit den zugehörigen
+Übungen.
+Mathematik
+»
+In den mathematischen Grundkursen werden die für das Physikstudium unentbehr-
+lichen mathematischen Grundkenntnisse in Analysis, Linearer Algebra, analyti-
+scher Geometrie, Funktionentheorfe und ‘der-Theorie der gewöhnlichen Differen-
+'
+tialgleichungen bereitaestellt.
+Im Rahmen dieser Lehrveranstaltungen werden
+_
+auch Übungen angeboten.
+|
+Chemie
+i
+Die Veranstaltungen in Chemie umfassen eine Einführung in die anorganische
+|
+Chemie und ein chemisches Praktikum.
+Wahlfach
+Der Student soll bereits im Grundstudium beginnen, sich die Grundkenntnisse
+in einem Wahlfach auf einem der Physik benachb …
+
+**OCR Seite 6** _(paragraph)_
+
+```
+-
+6
+-
+.
+Experimentalphysik
+2 Praktikums-Scheine
+Theoretische Physik
+1 Öbungs-Schein
+Mathematik
+3 Obungs-Scheine
+Chemie
+1
+Praktikums-Schein
+Der Prüfungsstoff wird im Rahmen der Prüfungsordnung durch die Pflichtvorlesungen
+definiert. Gegenstand der Prüfung sind allgemeine Kenntnisse und das Verständnis
+der Physik, für die selbständige Beschäftigung mit dem Lehrstoff anhand von ein-
+schlägigen Lehrbüchern notwendig ist.
+8 10
+Studieninhalt - Hauptstudium
+(
+|
+1. Das Studium setzt sich aus Pflicht-, Wahlpflicht- und empfohlenen Wahllehrver-
+anstaltungen in Experimental-, Angewandter und Theoretischer Physik und einem
+Wahlfach zusammen. Insbesondere im Hauptstudium wird es wichtig, daß der. Stu-
+dent selbständig durch Teilnahme an Speziallehrveranstaltungen, Seminaren,
+Kolloquien etc, sein Ve …
+
+_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
 ### StuO-PO BSc Physik-MSc Physics 20070907 i.d.F. 20180817.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20070907-idf-20180817.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20070907-idf-20180817.md)  
@@ -8952,12 +10043,18 @@ _(+ 13 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### StuO-PO BSc Physik-MSc Physics 20230731 i.d.F. 20260305.pdf
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20230731-idf-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20230731-idf-20260305.md)  
-Pflicht-Stellen gefunden: **17**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Pflicht-Stellen gefunden: **31**  
+Vorgeschlagene Pflichtveranstaltungen: **10**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Advanced experimental physics: Solid state physics — Vorlesung — Prof. Dr. Heiko Weber
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- MA Päd M X (Forschungsseminar) / Kolloquium "Aktuelle Probleme auf dem Gebiet von Diversity Education und in der internationalen Bildungsforschung" — Sonstige Lehrveranstaltung — Prof. Dr. Anatoli Rakhkochkine
+- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
+- B. Sc.-Seminar über aktuelle Probleme der Technischen Chemie — Seminar — Dr. Andreas Bösmann, Dr. Peter Schulz, apl. Prof. Dr. Marco Haumann, Dr. Friederike Agel
+- Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
+- MED89471: Doc and Order - Recht im klinischen Alltag — Seminar — Prof. Dr. Thomas Kühlein, Constantin Unger
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 - Staatsexamenskurs Mathematik (nicht vertieft) — Sonstige Lehrveranstaltung — Karin Pott
 - Theoretische Physik 1: Mechanik — Vorlesung — PD Dr. Michael Schmiedeberg
@@ -8990,7 +10087,7 @@ Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Mo
 
 (2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleib …
 
-_(+ 13 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 27 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -9032,6 +10129,38 @@ des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abh
 (2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.[3] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen …
 
 _(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### StuO-PO BSc Physik-MSc Physics 20260305 ÄS.pdf
+
+PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20260305-aes.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20260305-aes.md)  
+Pflicht-Stellen gefunden: **11**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Advanced experimental physics: Solid state physics — Vorlesung — Prof. Dr. Heiko Weber
+
+#### Auszüge aus dem PO-Text
+
+**§ 1** _(paragraph)_
+
+„(5) Im Fall des Rücktritts von der Prüfung (Erst- oder Wiederholungsversuch) eines anwesenheitspflichtigen Moduls besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist; Näheres regelt das Modulhandbuch.“
+
+**„** _(paragraph)_
+
+- 1) P = Pflichtbereich; W = Wahlbereich; S = Schlüsselqualifikationen. 2) SWS = Semesterwochenstunden; V = Vorlesung; Ü = Übung; P = Praktikum; S = Seminar. Für die Berechnung der Summen wurden die Werte in Klammern nicht berücksichtigt. 3) Für die Workload-Berechnung wurden die ECTS-Punkte in Klammern nicht berücksichtigt.
+
+**b) Die Tabelle erhält samt Erläuterungen folgende neue Fassung:** _(paragraph)_
+
+- P = Pflichtbereich; W = Wahlbereich; S = Schlüsselqualifikationen.
+
+**„** _(paragraph)_
+
+- 1) P = Pflichtbereich; W = Wahlbereich.
+
+_(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -10029,7 +11158,7 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 ### FPOLitBuch 20260305.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md)  
-Pflicht-Stellen gefunden: **1**  
+Pflicht-Stellen gefunden: **2**  
 Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -10051,6 +11180,10 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 **§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** _(paragraph)_
 
 (2)[1] Im Ein-Fach-Bachelorstudiengang Literatur und Buch ist ein Auslandsaufenthalt an der Université Clermont Auvergne (UCA) im dritten und vierten Fachsemester verpflichtend.[2] Die im Einzelnen zu belegenden Module sowie Art und Umfang der Prüfung richten sich nach **Anlage 2** sowie die der an der UCA für den Studiengang Métiers du Livre franco-allemands einschlägigen Prüfungsordnung.[3] Studierende der Université Clermont Auvergne (UCA) belegen im ersten Studienjahr an der Unviersité Clermont Auvergne die in der **Anlage 3** aufgeführten Module (Clermont Auvergne).[4] Während ihres Studienaufenthalts an der FAU im fünften und sechsten Fachsemester belegen die Studierenden der Université Clermont Auvergne (UCA) die in der **Anlage 1** aufgeführten Module für das dritte Studienjahr (Er …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -11260,11 +12393,18 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### POMAHR 20260115.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pomahr-20260115.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pomahr-20260115.md)  
-Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **14**  
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar — Anita Seguna
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+- Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
+- Kommunikation im ärztlichen Beruf — 
+- MED47251 Kommunikation im ärztlichen Beruf — Seminar — Prof. Dr. Christoph Ostgathe, Dr. med. Tobias Steigleder
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
@@ -11293,7 +12433,7 @@ vorbehaltlich etwaiger Modulwechsel erneut zu belegen; dies gilt auch, wenn die 
 
 (1)[1] Der jeweils Prüfungsausschuss bestimmt die Prüfenden.[2] Es können alle nach dem **BayHIG** und der **HSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestimmt werden, soweit diese Personen Mitglieder der FAU sind.[3] Im Falle von Importmodulen werden die jeweiligen Prüfenden von den für die jeweiligen Importmodule zuständigen Prüfungsausschüssen bestimmt.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **HSchPrüferV** in der Regel bis zu einem Jahr erhalten.[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[6] Auf Antrag kann der jeweilige Pr …
 
-_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -11336,7 +12476,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### PDF vom 27.09.2007 i.d.F. 01.08.2010
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-ma-gerontologie-neu-ws2010-2011.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/pro-ma-gerontologie-neu-ws2010-2011.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **3**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -11368,6 +12508,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 (3) Zur Beisitzerin oder zum Beisitzer in mündlichen Prüfungen (§ 17) kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat. 
 
 (4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHS …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -11723,7 +12867,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### PDF vom 27.09.2007 i.d.F. 31.01.2011
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth-31jan2011.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth-31jan2011.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **3**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -11749,6 +12893,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
 
 (4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätig …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -11785,7 +12933,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### PDF vom 27.09.2007
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/stuopro-ma-physicacthealth.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **3**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -11811,6 +12959,10 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
 
 (4) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätig …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -12619,7 +13771,7 @@ verpflichtend vorgegeben.[3] Dies sind die Module „Staat und Gesellschaft aus 
 ### FPO MA DH 20250411.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpo-ma-dh-20250411.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpo-ma-dh-20250411.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **3**  
 Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -12651,12 +13803,16 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 ||||||||||||||||||
 | …
 
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
 ---
 
 ### FPO MA L.D. 20230223 i.d.F. 20250320.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpo-ma-l-d-20230223-idf-20250320.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpo-ma-l-d-20230223-idf-20250320.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **8**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -12689,6 +13845,12 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|**5. **|**6. **|**7.**|**8. **|||
 |**Pflichtbereich**|||||||||||||||||
 |**Wissenschaftliches**<br>**Basismodul**|Digitalisierung in Hochschule<br>und lebenslan …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -12724,7 +13886,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### FPOKunstPäd 20250320.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpokunstpaed-20250320.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fpokunstpaed-20250320.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **4**  
 Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -12771,12 +13933,87 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 |**Kunstgeschichte**|||||||||||||||||||
 |**Kunst(ge …
 
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 7** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Anlage 2: Studienverlaufsplan M.A. Kunstpädagogik in Teilzeit
+Ge-
+sa
+.
+.
+Faktor
+.
+Lehrveranstal-
+SWS
+mt oe lungipig Semester n
+Art und Umfang der Prüfung
+Modul-
+Modulbezeichnung
+t
+ECTS-Punkten
+ung
+ECT
+note
+Ss
+vürp
+s
+1.
+2.
+3.,4
+5.
+6.
+7.
+8.
+Pflichtbereich
+Kulturpädagogische Grund-
+a
+a
+.
+a
+a
+.
+lagen und Dynamiken
+gemäß FPO M.A. Pädagogik
+10
+gemäß FPO M.A. Pädagogik
+1
+| Kunstgeschichte|
+.
+_
+Klausur (60 Min.) oder Essay (ca. 5-7 S.) oder
+Kunstgeschichte) + Mu
+Seminar
+BEE 5 BEENE Schriftliche Hausarbeit (ca. 10-20 S.) mit Präsen-
+1
+tation
+(ca. 20-30 Min.)
+(100%+0%)?
+.
+Klausur (60 Min.) oder Essay (ca. 5-7 S.) oder
+Kunstigeschichte) # Mu-
+Seminar
+5
+Schriftliche Hausarbeit (ca. 10-20 S.) mit Präsen- |
+1
+tation
+(ca. 20-30 Min.)
+(100%+0%)
+?
+Ku …
+
 ---
 
 ### M.A. Learning Design ÄSa 20250320 20250702 .pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/m-a-learning-design-aesa-20250320-20250702.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/m-a-learning-design-aesa-20250320-20250702.md)  
-Pflicht-Stellen gefunden: **1**  
+Pflicht-Stellen gefunden: **3**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -12794,6 +14031,78 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 |||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
 |**Pflichtbereich**|||||||||||||||||
 |**Wissenschaftliches**<br>**Basismodul**|Digitalisierung in Hochschule<br>und lebenslangem Le …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 6** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+8.
+Nach Anlage 1 wird folgende Anlage 2 angefügt:
+„Anlage 2: Studienverlaufsplan Masterstudiengang Learning Design - Digitale Transformation in der Bildung in Teilzeit
+Gesam
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+SWS
+t
+Workload-Verteilung in ECTS-Punkten
+Art und Umfang der Prüfung
+Modul
+vÜ
+P
+Ss
+BD
+1.
+2.
+3.
+4
+5.
+6.
+7.
+8.
+Pflichtbereich
+2
+unıtaı
+.
+Review zu zwei
+Digitalisierung in Hochschule | „
+5
+wissenschaftlichen Studien mit
+.
+.
+und lebenslangem Lernen
+steigendem Komplexitätsniveau
+Wissenschaftliches
+4
+}
+(Gesamtumfang ca. 15 S.)
+'oder
+1
+Basismodul
+.
+on
+.
+Klausur (90 Min) oder
+Mediendidaktik
+2
+5
+Hausarbeit (ca. 15 S.) oder
+mündliche Prüfung
+(30 Min.)
+?
+.
+.
+Didaktische Besprechung und
+Informationstechnische
+2
+5
+Bewertung einer App m …
 
 ---
 
@@ -13299,7 +14608,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 ### MA Germanistik 20250930.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-germanistik-20250930.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-germanistik-20250930.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **7**  
 Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -13337,6 +14646,12 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 |**Fachmodulegemäß§ 6**|||||||||||||||||
 |**Fachmodul I2)**|Masterseminar||||2|**10**|7||||||||Referat mit Hausarbeit (20-25 S.)<br>(0%+100%)|1|
 ||Übung/Ko …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -13510,6 +14825,26 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 **„** _(paragraph)_
 
 - 1) Die angegebene Verteilung ist exemplarisch. Die Verteilung orientiert sich an einer Aufnahme des Studiums zum Wintersemester. Im Pflichtbereich wird das Modul „Raum und Region“ nur im Wintersemester angeboten. Bei Aufnahme des Studiums zum Sommersemester kann dieses Modul daher erst im 2. Fachsemester belegt werden. Ersatzweise können in diesem Fall insbesondere die Module „Transregionale Themen und Regionen“ I und II sowie Module aus den Schwerpunkten und dem Wahlbereich in das 1. Fachsemester vorgezogen werden.
+
+---
+
+### Modulstudien Digital Humanities POM-DH 20250411.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/modulstudien-digital-humanities-pom-dh-20250411.md`](../pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/modulstudien-digital-humanities-pom-dh-20250411.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
+- Verteidigung Schwerpunktbereich Internationales Privatrecht — 
+- Verteidigung Schwerpunktbereich Kriminalwissenschaften — 
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -14073,6 +15408,103 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### Evangelische Theologie StuPO EvTheol 20230314 ÄS.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20230314-aes.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20230314-aes.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
+
+- [PS Einführung in die Praktische Theologie — Proseminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Dr. Lukas Grill-Jeromin
+- [VORL Einführung in die Praktische Theologie — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Peter Bubmann
+
+#### Auszüge aus dem PO-Text
+
+**4. § 10 Abs. 4 wird wie folgt geändert:** _(paragraph)_
+
+„[2] Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs.[3] In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen. 4Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen.“
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 10** _(paragraph)_
+
+```
+=
+Workload-Verteilung in
+Modulbezeichnung
+Lehrmeranstaltung
+.Ei
+Sean
+ECTS-Punkten
+Art und Umfang der Prüfung!
+W
+U
+F
+5
+“
+1.4.
+5-8.
+9-10.
+|a
+14-
+Zwischensumme $5W5 und ECTS Aufbaumodule | 162
+12
+46
+0
+|
+RW/Phil: Es ist eines jenes der beiden Module zu wählen, das nicht bereits im Grundstudium absolviert wurde
+(9 ECTS-Punkte).
+Y Religionswissenschaft im Überblick
+2]
+1
+1]
+Er
+RW - Modul
+PS Einführung in die Methoden der
+2
+3
+a lan chaft
+Religionswissenschaft
+(9)
+Mündliche Prüfung'®
+v/Ü weitere LV
+BHEETEEE EN
+Er
+Modulprütung |
+|
+|
+|
+|
+EEE
+FE
+V Vorlesung Philosophie
+2
+|
+IT
+2 |
+|
+Phil — Philosophicum
+S’Ü Seminar oder Übung Philosophie
+|
+I231I
+Tal 9
+[001.83 1] Mündliche Prüfung’
+Moduptung |
+|
+O5 |
+|
+|
+EEE
+KEEE  EE
+Praktikumsmodul: Es ist jenes der beiden Module zu wählen, das nicht bereits im Gru …
+
+---
+
 ### PDF vom 05.10.2007
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/fachstuo-pro-religion.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/fachstuo-pro-religion.md)  
@@ -14500,6 +15932,96 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 (2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw …
 
 _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### PDF vom 13.02.1984
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/magister-theol-1984.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/magister-theol-1984.md)  
+Pflicht-Stellen gefunden: **5**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Anleitung zum selbständigen wissenschaftlichen Arbeiten (Arbeitskreisseminar) — Seminar
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+**Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
+
+- [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 3** _(paragraph)_
+
+```
+-
+-3-
+(6) Der Dekan beruft die Sitzungen des Prüfungsausschusses ein. Er ist befugt,
+anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.
+Hiervon hat er dem Prüfungsausschuß unverzüglich Kenntnis zu geben. Darüber hinaus
+kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuß
+dem Dekan die Erledigung von einzelnen Aufgaben widerruflich übertragen.
+- (7) Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten be-
+einträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit
+Rechtsbehelfsbelehrung zu versehen. Dem Kandidaten ist vor ablehnenden Entschei-
+dungen Gelegenheit zur Äußerung zu geben.
+|
+|
+Co:
+86
+Prüfungskommission
+(1) Der Prüfungsausschuß bestellt für jede anstehende Magisterprüfung ein …
+
+**OCR Seite 4** _(paragraph)_
+
+```
+-
+-4-
+(5) Die Bestellung der Prüfungskommission soll in geeigneter Form bekanntgegeben
+5
+werden. Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig
+werdender Wechsel von Prüfern ist zulässig. Scheidet ein prüfungsberechtigtes
+Hochschulmitglied aus der Hochschule aus, bleibt dessen Prüfungsberechtigung in
+der Regel bis zu einem Jahr erhalten.
+(6) Der Vorsitzende der Prüfungskommission trägt dafür Sorge, daß alle Entschei-
+dungen der Prüfungskommission in einem Protokoll verzeichnet werden.
+(7) Die Prüfungskommission berichtet dem Prüfungsausschuß über den Verlauf der
+Prüfung.
+Ausschluß wegen persönlicher Beteiligung, Verschwiegenheitspflicht
+(1) Der Ausschluß von der Beratung und Abstimmung im Prüfungsausschuß sowie von
+einer Prüfungstätigkeit wegen persönlicher Bet …
+
+**OCR Seite 8** _(paragraph)_
+
+```
+.8
+-
+$
+13
+Umfang und Art der Prüfung
+u
+(1)
+Die Prüfungsfächer sind: Altes Testament, Neues Testament, Historische
+Theologie, Systematische Theologie und Praktische Theologie.
+(2) Es werden folgende Prüfungsleistungen gefordert:
+1) eine Magisterschrift;
+2) vier Klausuren aus vier verschiedenen Prüfungsfächern;
+3) je eine mündliche Prüfung in allen fünf Prüfungsfächern.
+(3) Hat der Kandidat bereits einen berufsqualifizierenden Abschluß des Studiums der
+Theologie mit mindestens befriedigendem Gesamtergebnis erworben, und liegt dieser
+"
+Abschluß des Studiums bei der Meldung zur Magisterprüfung nicht mehr als 10 Jah
+zurück, so werden dem Kandidaten auf Antrag acht Semester seines Theologiestudiums
+angerechnet, sofern Gleichwertigkeit gemäß & 11 besteht. Gleichzeitig werden in
+diesem Fall di …
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -15084,6 +16606,49 @@ Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Mo
 
 ---
 
+### MA EdT 20240926 i.d.F. 20260213.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/ma-edt-20240926-idf-20260213.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/ma-edt-20240926-idf-20260213.md)  
+Pflicht-Stellen gefunden: **13**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+
+#### Auszüge aus dem PO-Text
+
+**Präambel** _(paragraph)_
+
+**Inhaltsverzeichnis:** § 1 Geltungsbereich, Zweck der Masterprüfung .................................................................... 2 § 2 Akademischer Grad ......................................................................................................... 2 § 3 Qualifikation zum Elite-Masterstudium, Zugangsvoraussetzungen .................................. 2 § 4 Struktur des Masterstudiengangs und der Prüfungen, Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ......................................................................................... 3 § 5 ECTS-Punkte .................................................................................................................. 3 § 6 Modularisierung, Studienbegleitende Leistungsnachweise ...................... …
+
+**§ 9 Prüfungsausschüsse** _(paragraph)_
+
+**§ 10 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** (1)[1] Die Prüfungsausschüsse bestellen die jeweiligen Prüfenden.[2] Es können alle nach dem **Bayerischen Hochschulinnovationsgesetz** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten be-
+
+**§ 9 Prüfungsausschüsse** _(paragraph)_
+
+(5) Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art.26 Abs. 2 Sätzen 2 und 3 **BayHIG** .
+
+**§ 12 Anwesenheitspflicht** _(section)_
+
+(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. 
+
+8 
+
+**==> picture [165 x 49] intentionally omitted <==**
+
+**==> picture [114 x 46] intentionally omitted <==**
+
+des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenhei …
+
+_(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
 ### MA EdT 20240926.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/ma-edt-20240926.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/ma-edt-20240926.md)  
@@ -15197,7 +16762,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### PO MA OEPE 20170307 i.d.F. 20250711.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/po-ma-oepe-20170307-idf-20250711.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/po-ma-oepe-20170307-idf-20250711.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **8**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -15228,6 +16793,12 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 (1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
 (2)[1] Die Teilnahme ist dann re …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -15282,11 +16853,13 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### POMAOTG 20260130.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/pomaotg-20260130.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/pomaotg-20260130.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Pflicht-Stellen gefunden: **11**  
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) — Seminar — apl. Prof. Dr. Leopold Klepacki
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 - Kommunikation im ärztlichen Beruf — 
 - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - MED47251 Kommunikation im ärztlichen Beruf — Seminar — Prof. Dr. Christoph Ostgathe, Dr. med. Tobias Steigleder
@@ -15309,6 +16882,8 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 **§ 10 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
 
 (1)[1] Der Prüfungsausschuss bestimmt die Prüfenden.[2] Es können alle nach dem **BayHIG** und der **HSchPrüferV** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestimmt werden, soweit diese Personen Mitglieder der FAU sind.[3] Im Falle von Importmodulen werden die jeweiligen Prüfenden von den für die jeweiligen Importmodule zuständigen Prüfungsausschüssen bestimmt.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der jeweil …
+
+_(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -15488,11 +17063,13 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### wtb FPOHR 20230928 i.d.F. 20260115.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928-idf-20260115.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/wtb-fpohr-20230928-idf-20260115.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **10**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
 
 #### Auszüge aus dem PO-Text
@@ -15515,7 +17092,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 (1)[1] Mit Ausnahme der Masterarbeit kann jede nicht bestandene Modulprüfung oder Modulteilprüfung dreimal wiederholt werden.[2] Prüfungen von Praktika, Geländeseminaren und Exkursionen können zweimal wiederholt werden, sofern im Falle der Wiederholung nach Satz 5 auch das Praktikum, das Geländeseminar oder die Exkursion wiederholt werden muss.[3] Hinsichtlich der Wiederholung der Masterarbeit gilt § 27 Abs. 9.[4] Die Wiederholung ist auf die nicht bestandene Prüfungs- oder Studienleistung beschränkt,[5] Bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderl …
 
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -15696,6 +17273,24 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 **„** _(paragraph)_
 
 - 3 Die Pflicht zum erfolgreichen Abschluss dieses Moduls entfällt beim Studium der Digitalen Geistes- und Sozialwissenschaften als Zweitfach.
+
+---
+
+### 2-Fach-BA English and American Studies 20250930.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-english-and-american-studies-20250930.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-english-and-american-studies-20250930.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Readings in North American Cultural Studies — Masterseminar — Dr. Sarah Marak
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -15906,7 +17501,7 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 ### 2-Fach-BA Germanistik FPO BA Germ 20260115.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20260115.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20260115.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **5**  
 Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -15933,6 +17528,82 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 **Anlage 2: Germanistik als Zweitfach** _(paragraph)_
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 11 **ABMStPO/Phil** .
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 8** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Workload-Verteilung pro Semester
+|
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+SD
+aesamt
+in ECTS-Punkten '
+a
+Modul-
+vüps
+1.
+2
+32
+a.
+56
+9
+note
+Bachelorarbeit
+111
+[1 | 1 |
+1co
+Abschlussmodul Bachelorarbeit
+schlussarbeit
+-
+.
+Bachelorarbeit (40 S.)
+1
+Neuere
+deutsche Literaturwissen-
+Bachel
+beit
+10
+schaft
+achelorarbei
+(10)
+Abschlussmodul Bachelorarbeit
+schlussarbeit
+Bachelorarbeit (40 S.)
+1
+Summe SWS und ECTS-Punkte Abschlussmodule:
+1
+|
+10
+10
+|
+|
+|
+Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:
+|
+10
+30
+30
+30
+30
+30
+30
+|
+|
+|
+!
+Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über
+die Semester nicht von der Pflicht zur Einhaltu …
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -16298,6 +17969,141 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 ---
 
+### 2-Fach-BA Lateinische Philologie 20260305.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-lateinische-philologie-20260305.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-lateinische-philologie-20260305.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+(3)[1] Im Studium Lateinische Philologie als Erstfach müssen für den Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden.[2] Dabei werden Module zum Erwerb oder zur Vertiefung von Kenntnissen in Griechisch oder modernen Fremdsprachen empfohlen.[3] Falls Lateinische Philologie als Zweitfach studiert wird, sind der Umfang der Schlüsselqualifikationen sowie ggf. verpflichtende Vorschriften dazu vom Erstfach abhängig.[4] Die Empfehlungen des Satz 2 gelten entsprechend.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 2** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+(4) Zur Erreichung des Qualifikationsprofils i. S. d. Abs. 2 und 3 zielt der Studiengang
+auf die Entwicklung folgender Kompetenzen:
+1. Sachkompetenz: Vertrautheit mit den Hauptzügen der Entwicklung des lateini-
+schen Schrifttums und der lateinischen Sprache sowie deren historischen Bedin-
+gungs- und Wirkungsfaktoren;
+2.
+Methodische Kompetenz: Kritisch reflektierter und methodisch kontrollierter Um-
+gang mit sprachlichen und literarischen Phänomenen, Beherrschung von Strate-
+gien der Informationsgewinnung einschließlich der Fähigkeit, komplexe Sachver-
+halte strukturiert und transparent aufzubereiten, sowie Ausbildung der Fähigkeit,
+Detailgenauigkeit mit großem Abstraktionsvermögen zu kombinieren;
+3.
+Rhetorische und mediale Kompet …
+
+---
+
+### 2-Fach-BA Pädagogik FPO Päd-Zwei-Fach 20250522.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-paedagogik-fpo-paed-zwei-fach-20250522.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-paedagogik-fpo-paed-zwei-fach-20250522.md)  
+Pflicht-Stellen gefunden: **7**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) — Seminar — apl. Prof. Dr. Leopold Klepacki
+- Traditionen und Transformationen von Erziehung und Bildung - kulturgeschichtliche Reflexionen — Vorlesung — apl. Prof. Dr. Leopold Klepacki
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+(3)[1] Wird Pädagogik als Erstfach gewählt, so sind im Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.[2] Davon entfallen 5 ECTS-Punkte auf das Modul Praktikum.[3] Darüber hinaus werden Module empfohlen, die zum Erwerb gesellschaftlicher Mitgestaltungsfähigkeit, demokratischer Werthaltungen und interkultureller Verständigungsmöglichkeiten in einer globalisierten Welt sowie kultureller und gesellschaftlicher Positionierungsfähigkeit beitragen.[4] Falls Pädagogik als Zweitfach studiert wird, sind der Umfang der Schlüsselqualifikationen sowie ggf. verpflichtende Vorschriften dazu vom Erstfach abhängig.
+
+**Anlage 1: Pädagogik als Erstfach** _(paragraph)_
+
+- 1) Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 11 **ABMStPO/Phil** .
+
+**Anlage 2: Pädagogik als Zweitfach** _(paragraph)_
+
+- 1) Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 11 **ABMStPO/Phil** .
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### 2-Fach-BA Politikwissenschaft 20260305.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-politikwissenschaft-20260305.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-politikwissenschaft-20260305.md)  
+Pflicht-Stellen gefunden: **5**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
+- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
+- Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM) — Einführungskurs — PD Dr. Aura Heydenreich
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+(2)[1] Wird Politikwissenschaft als Erstfach studiert, müssen bezogen auf das gesamte Zwei-Fach-Bachelorstudium im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden.[2] Davon entfallen 10 ECTS-Punkte verpflichtend auf berufsfeldorientierte Schlüsselqualifikationen.[3] Diese müssen durch den erfolgreichen Abschluss von „Englisch Level 1 und 2“ (Englisch für alle Fakultäten (EASP)) erbracht werden.[4] Wer in dem entsprechenden Einstufungstest des Sprachenzentrums der FAU mindestens „Englisch Level 3“ erreicht, muss stattdessen 10 ECTS-Punkte im Bereich der berufsfeldorientierten Schlüsselqualifikationen über ein Praktikum von acht Wochen Dauer erwerben.[5] Für Studierende, die in einem entsprechenden Einstufungstest des Sprachenzentrums der FAU mindest …
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+Satz 4 auf 4 Wochen (5 ECTS-Punkte).[6] Falls Politikwissenschaft als Zweitfach studiert wird, sind der Umfang der Schlüsselqualifikationen sowie ggf. verpflichtende Vorschriften dazu vom Erstfach abhängig.[7] Die Regelungen der Sätze 3 bis 5 werden auch beim Studium der Politikwissenschaft als Zweitfach empfohlen.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 2** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+IE \ U
+Erlangen-Nürnberg
+1. Sachkompetenz: Kenntnisse der systematischen Themenkomplexe der Politikwis-
+senschaft in ihren verschiedenen Teilbereichen, insbesondere
+-
+der theoretischen Probleme und Grundfragen der Politik, der Geschichte der
+Politikwissenschaft und der ideengeschichtlichen Grundlagen des Fachs,
+-
+der deutschen Politik einschließlich des Entscheidens auf einzelnen Pbolitikfel-
+dern,
+-
+der Grundmuster der Regierungssysteme der OECD-Länder,
+-
+der Institutionen und Politiken der Europäischen Union,
+-
+der Grundfragen und Probleme der internationalen Beziehungen einschließlich
+der wichtigsten nationalen, inter- und supranationalen Akteure,
+-
+von Politik und Gesellschaft in ausgewählten außereuropäischen Weltregionen.
+2.
+Methodenkompetenz: Kenn …
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
 ### 2-Fach-BA Skandinavistik FPO BA SKAND 20190520 ÄS.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-skandinavistik-fpo-ba-skand-20190520-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-skandinavistik-fpo-ba-skand-20190520-aes.md)  
@@ -16660,7 +18466,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 ### 6. Mai 2013
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/7aes-2fach-ba-buchwissenschaft.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/7aes-2fach-ba-buchwissenschaft.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **5**  
 Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -16709,6 +18515,12 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 |8a.2|5|HS|Schwerpunktthema|2||7|
 |||||||**10**|
 | …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -17502,6 +19314,41 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Digitale Geistes-
 
 ---
 
+### FPO 2-Fach BA DGSW 20250411.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-2-fach-ba-dgsw-20250411.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-2-fach-ba-dgsw-20250411.md)  
+Pflicht-Stellen gefunden: **7**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+
+#### Auszüge aus dem PO-Text
+
+**§ 5 Grundlagen- und Orientierungsprüfung** _(paragraph)_
+
+Für die Grundlagen- und Orientierungsprüfung müssen im Fach Digitale Geistes- und Sozialwissenschaften das Modul „Einführung in die Digitalen Geistes- und Sozialwissenschaften“ (7,5 ECTS-Punkte) oder das Modul „Grundlagen der Informatik“ (7,5 ECTS-Punkte) sowie weitere Module aus dem Pflichtcurriculum im Umfang von 12,5 ECTS-Punkten nachgewiesen werden.
+
+**§ 7 Schluss- und Übergangsvorschriften** _(paragraph)_
+
+|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workload-Verteilung**<br>|**Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“ als Erstfach**<br>**SWS**<br>**Ge-**<br>**Workl …
+
+**Anlage 2: Studienverlaufsplan Zwei-Fach-Bachelor Digitale Geistes- und Sozialwissenschaften als Zweitfach** _(paragraph)_
+
+|<br>**Modulbezeichnung**|<br>**Lehrveranstaltung**|<br>**SWS**|<br>**SWS**|<br>**SWS**|<br>**SWS**|<br>**SWS**|<br>**SWS**|**Ge-**<br>**samt**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Püf**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|**Fak-**<br>**tor**<br>**Mo-**<br>**dul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**V**||||||||||||||||
+||||**Ü**|**P**||**S**||**ECTS**|**1.**|**2.**|**3.* …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
 ### FPO BA Sino Zwei-Fach 20071005 i.d.F. 20190828.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-20071005-idf-20190828.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-20071005-idf-20190828.md)  
@@ -17531,11 +19378,13 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### FPO BA Sino Zwei-Fach 20230615 i.d.F. 20260331.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-20230615-idf-20260331.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-20230615-idf-20260331.md)  
-Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **9**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- BA-4 Wissenschaft und Technik Chinas — Seminar — Dr. Sabine Weber
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
@@ -17555,6 +19404,8 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 **Anlage 2: Sinologie als Zweitfach** _(paragraph)_
 
 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** .
+
+_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -17587,7 +19438,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### FPO BA Sino Zwei-Fach ÄS 20260331.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-aes-20260331.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-aes-20260331.md)  
-Pflicht-Stellen gefunden: **2**  
+Pflicht-Stellen gefunden: **5**  
 Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -17603,6 +19454,126 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 **Anlage 2: Sinologie als Zweitfach** _(paragraph)_
 
 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 11 **ABMStPO/Phil** . 2 Für das Erstfach sind die Regelung der **(Fach-)Studien- und Prüfungsordnung** des Erstfachs zu berücksichtigen. Bei der hier angegebenen ECTS-Verteilung handelt es sich um Bandbreiten, innerhalb derer das Erstfach spezifischere Regelungen vorsehen kann. 3 Es sind entweder das Modul „Wissenschaft und Technik Chinas“ oder das Modul „Geistes- und Ideengeschichte Chinas“ sowie zusätzlich entweder das Modul „Sprache und Literatur Chinas“ oder das Modul „Politik und Wirtschaft Chinas“ erfolgreich abzulegen.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 4** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+Sws
+Workload-Verteilung pro
+Fak-
+Ge-
+Semester in ECTS-Punkten '
+ri
+tor
+.
+Art und Umfang der Prü-
+Modulbezeichnung
+Lehrveranstaltung
+samt
+fun
+Mo-
+vöüor
+s
+ers
+1a
+2
+304.56
+9
+dul-
+note
+Worte
+Summe SWS und ECTS-Punkte im Erstfach:
+Fr
+Do
+1
+2
+17
+18
+10
+10
+|
+|
+Modernes Chinesisch:
+Hö-
+.
+.
+..
+Klausur (60 Min.) und
+Summe SWS und ECTS-Punkte Schlüsselqualifikationen:
+2
+2
+10
+5
+5
+|
+|
+Summe SWS und ECTS-Punkte Studiengang
+En
+Dr
+180
+30
+30
+30
+30
+30
+30
+! Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung
+über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach $ 11 ABMStPO/Phil.
+? Da es sich bei der hier angegebenen …
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### 28. September 2007
+
+PO-Quelle: [`pruefungsordnungen/rw/rewi/1aes-stuo-rechtswiss.md`](../pruefungsordnungen/rw/rewi/1aes-stuo-rechtswiss.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 1** _(paragraph)_
+
+```
+tember 2004 (KWMBI II S. 2914 wird wie folgt geändert:
+1.
+88 erhält folgende Fassung:
+„8 8
+Abschlussklausuren und Hausarbeiten im Grundstudium
+(1) "Die Studenten haben im Grundstudium die Vorlesungen im Bürgerlichen Recht, im Öf-
+fentlichen Recht und im Strafrecht als Pflichtveranstaltungen zu besuchen und darüber nach
+Maßgabe der Absätze 2 bis 4 jeweils einen Leistungsnachweis zu erbringen. ?Die Vorschrif-
+ten der Zwischenprüfungsordnung bleiben unberührt.
+(2) Pflichtveranstaltungen im Sinne des Absatz 1 sind
+1. im Zivilrecht die Veranstaltungen
+a)
+Grundkurs
+! (Allgemeiner Teil und Allgemeines Schuldrecht),
+b)
+Grundkurse Ila (vertragliche Schuldverhältnisse) und !Ib (gesetzliche Schuld-
+verhältnisse),
+c)
+Sachenrecht sowie
+d)
+Familien- und Erbrecht (gemeinsamer Leistungsnachweis)
+2. im …
 
 ---
 
@@ -17720,7 +19691,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### PDF vom 29.09.2010
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/po-deutsch-franzoesischesrecht-ma.md`](../pruefungsordnungen/rw/rewi/po-deutsch-franzoesischesrecht-ma.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **4**  
 Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -17762,6 +19733,10 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 |---|---|
 |**(8)**<br>Deutsches Materielles Recht II|Bürgerliches Gesetzbuch – Allgemeiner Teil;<br>Schuldrecht – Allgemeiner Teil_oder_<br>Staatsorganisationsrecht<br>7,5<br>**15,0**<br>Schriftliche Abschlussprüfung<br>(90 bis 120 Minuten)<br>Kolloquium<br>5,0<br>Schriftliche Prüfung<br>2,5|
 |**(9)**<br>Wahlpflichtstudium<br>Zur Auswahl stehen folgende Wahl‐<br>pflichtbereiche: Wirtschaftsrecht, Inter‐<br>nationales und Europäisches Recht,<br>Unternehmens‐ und Arbeitsordnung,<br>Staat und Verwaltung. Die Studieren‐<br>den müssen in einem Wahlpflichtbe‐<br>reich fünf mit je 2,5 ECTS Punkten<br>bewertete<br>Lehrveranstaltungen<br>aus‐<br>wählen. Die erworbenen Kompetenzen<br>werden in einer den Gesamtstoff um‐<br>fassenden mündlichen Prüfung bewer‐<br>tet.|Beispielsweise folgende 5 Lehr …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -18219,6 +20194,162 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### PDF vom 09.10.1995
+
+PO-Quelle: [`pruefungsordnungen/rw/rewi/stuo-rw-1995.md`](../pruefungsordnungen/rw/rewi/stuo-rw-1995.md)  
+Pflicht-Stellen gefunden: **5**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 1** _(paragraph)_
+
+```
+Studienordnung
+der Friedrich-Alexander-Universität Erlangen-Nürnberg
+für den Studiengang Rechtswissenschaft
+mit dem Abschluß der Ersten Juristischen Staatsprüfung
+Vom 9. Oktober
+1995
+Aufgrund von Art. 6und Art. 72 des Bayerischen Hochschulgesetzes (BayHSchG) erläßt
+die Friedrich-Alexander-Universität
+Erlangen-Nürnberg folgende Satzung:
+si
+Geltungsbereich
+Die Juristische Fakultät bietet den Studiengang Rechtswissenschaft mit dem Abschluß
+der Ersten Juristischen Staatsprüfung an. Diese Studienordnung regelt den Studiengang
+auf der Grundlage der Ausbildungs- und Prüfungsordnung für Juristen (JAPO),
+in der
+Fassung der Bekanntmachung
+vom 16. April 1993 (GVBl. S. 335), geändert durch
+Verordnung vom 20. Juni 1995 (GVBl.
+S. 321).
+$2
+Studienziele
+Studienziel ist die Befähigung der Studierenden, …
+
+**OCR Seite 2** _(paragraph)_
+
+```
+2
+Fakultät angebotenen Ergänzungsveranstaltungen
+sowie die in $ 12 Abs. 2 JAPO aufge-
+führten
+Lehrveranstaltungen
+aus den Wirtschaftswissenschaften
+einschließlich
+den
+Finanzwissenschaften sowie aus anderen nichtjuristischen Gebieten. Die Pflichtfächer
+sowie die Wahlfachgruppen ergeben sich aus $5 JAPO.
+$6
+Arten der Lehrveranstaltungen
+(1) Die Lehrveranstaltungen bestehen aus Vorlesungen, vorlesungsbegleitenden Konver-
+satorien, Übungen, Seminaren, Repetitorien
+sowie Klausurenkursen und Klausuren-
+praktika zur Examensvorbereitung.
+(2) Die Vorlesungen zu den Prüfungsgebieten der Ersten Juristischen Staatsprüfung
+erstrecken
+sich auf:
+1.
+den Inhalt der Pflichtfächer in der Ersten Juristischen Staatsprüfung
+($ 5 Abs. 2 JAPO);
+2.
+den Inhalt der Wahlfachgruppen in der Ersten Juristischen Staa …
+
+**OCR Seite 3** _(paragraph)_
+
+```
+3
+(2) Zu den in Absatz 1 genannten Vorlesungen kommen hinzu:
+1.
+die Konversatorien zu den Vorlesungen
+im Sinn des $ 6 Abs. 2 Nr. 1:
+SWS 14
+2.
+die Lehrveranstaltungen nach $ 12 JAPO:
+12
+3.
+die Übungen für Anfänger im Bürgerlichen Recht,
+im Strafrecht und im Öffentlichen Recht ($ 9):
+6
+4.
+die Übungen für Fortgeschrittene im Bürgerlichen Recht,
+im Strafrecht und im Öffentlichen Recht ($ 13 Abs. 1JAPO, $ 10):
+6
+5.
+das Grundlagenseminar
+($ 13 Abs. 2 JAPO):
+2
+6.
+Klausurenkurse und Klausurenpraktika
+zur Examensvorbereitung:
+26
+7.
+empfohlene ergänzende Veranstaltungen:
+15
+(3) Der Besuch der Lehrveranstaltungen nach $ 7 Abs. 1 und Abs. 2 Nrn. 1 bis 5 ist zur
+Erreichung des Studienziels erforderlich. Der Höchstumfang der erforderlichen Lehr-
+veranstaltungen
+übersteigt nicht 150 Semesterwochenstu …
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### StuPO Jura 20260305 ÄSa.pdf
+
+PO-Quelle: [`pruefungsordnungen/rw/rewi/stupo-jura-20260305-aesa.md`](../pruefungsordnungen/rw/rewi/stupo-jura-20260305-aesa.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+
+#### Auszüge aus dem PO-Text
+
+**2. Die Regelung in § 21 erhält folgende neue Fassung:** _(paragraph)_
+
+(3)[1] Werden E-Prüfungen nicht mit von der Universität gestellten Mitteln durchgeführt, sind die Prüfungsteilnehmerinnen und Prüfungsteilnehmer selbst für die Funktionsfähigkeit der von ihnen eingesetzten technischen Ausstattung verantwortlich.[2] Sie tragen insbesondere das Risiko, dass die Ausstattung in der Prüfung nicht ordnungsgemäß funktioniert.[3] Die Prüfungsteilnehmerinnen und Prüfungsteilnehmer sind bei der Verwendung eigener Endgeräte verpflichtet, erforderliche Software zu installieren und während der Prüfung zu nutzen.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 2** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+DUN
+(3) "Werden E-Prüfungen nicht mit von der Universität gestellten Mitteln durchge-
+führt, sind die Prüfungsteilnehmerinnen und Prüfungsteilnehmer selbst für die
+Funktionsfähigkeit der von ihnen eingesetzten technischen Ausstattung verant-
+wortlich. ?Sie tragen insbesondere das Risiko, dass die Ausstattung in der Prüfung
+nicht ordnungsgemäß funktioniert. *Die Prüfungsteilnehmerinnen und Prüfungs-
+teilnehmer sind bei der Verwendung eigener Endgeräte verpflichtet, erforderliche
+Software zu installieren und während der Prüfung zu nutzen.
+(4) Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustel-
+len.“
+3.
+8 22 wird wie folgt geändert:
+a)
+In Abs. 1 wird folgender neuer Satz 3 angefügt:
+„Dies gilt nicht für die En …
+
+---
+
 ### StuPO Rechtswissenschaft StuPO Jura 20220301.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/stupo-rechtswissenschaft-stupo-jura-20220301.md`](../pruefungsordnungen/rw/rewi/stupo-rechtswissenschaft-stupo-jura-20220301.md)  
@@ -18290,14 +20421,16 @@ _(+ 21 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260305.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/rewi/stupo-rechtswissenschaft-stupo-jura-20240617-idf-20260305.md`](../pruefungsordnungen/rw/rewi/stupo-rechtswissenschaft-stupo-jura-20240617-idf-20260305.md)  
-Pflicht-Stellen gefunden: **26**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Pflicht-Stellen gefunden: **29**  
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
 - Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
-- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
+- Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre — Seminar — Prof. Dr. Mathias Rohe
+- Verteidigung Schwerpunktbereich Internationales Privatrecht — 
 
 #### Auszüge aus dem PO-Text
 
@@ -18317,7 +20450,7 @@ Lehrveranstaltungen über die Pflichtfächer, den gewählten Schwerpunktbereich 
 
 (3)[1] Pflichtveranstaltungen sind Lehrveranstaltungen, die den Pflichtstoff der Ersten Juristischen Staatsprüfung und den Pflichtstoff des gewählten Schwerpunktbereichs vermitteln.[2] Ergänzungsveranstaltungen geben die Möglichkeit zur Ergänzung und Vertiefung.
 
-_(+ 22 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 25 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -19588,7 +21721,7 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 ### BA Wirtschaftswissenschaften FPO BA WiWi 20240807 i.d.F. 20250616.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807-idf-20250616.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807-idf-20250616.md)  
-Pflicht-Stellen gefunden: **5**  
+Pflicht-Stellen gefunden: **10**  
 Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -19630,7 +21763,7 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 ||||**Ü/T**|**S**|**P**|**ECTS**|||||||||
 |||||||||**Sem.**|**Sem. …
 
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -19879,7 +22012,7 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 ### BSc Wirtschaftsinformatik FPO BA WInf 20230822 i.d.F. 20250616.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20230822-idf-20250616.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20230822-idf-20250616.md)  
-Pflicht-Stellen gefunden: **3**  
+Pflicht-Stellen gefunden: **8**  
 Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -19906,6 +22039,12 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||**V**|**Ü**|**S**|**P**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
 |Business and Information Systems Enginee …
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -19939,6 +22078,175 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||**V**|**Ü**|**S**|**P**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|||
 |Data Science: Machine Learning un …
+
+---
+
+### BSc Wirtschaftsinformatik FPO BA WInf ÄSa 20250616.pdf
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-aesa-20250616.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-aesa-20250616.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Stud. Tutorium: Produktion Logistik Beschaffung (Logistikteil) — Tutorium — Wolf-Alexander Frenkler
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 7** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+Anhang: Studienverlaufsplan der FPO BA Winf in der Fassung vom 22. August 2023 im Änderungsmodus:
+Anlage: Studienverlaufsplan Bachelor Wirtschaftsinformatik
+Lehr-
+SWE
+_
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+VErAN-
+seat
+in ECTS-Punkten
+Art und Umfang der Prüfung
+echliee-
+Ian,
+BE BE
+BEL;
+=
+[m kn >
+ne
+Pflichtbereich Wirtschaftswissenschaften
+Unternehmer
+und Untemehmen (30)
+— =] © | Io
+Präsentation (30%)X)
+'
+EEE u cr au au BEN EI m
+m m ER
+TE HE HE EEE HE
+|
+HE HE
+=
+Produktion, Logistik, Beschaffung
+ET He Zu HE HE
+I
+|
+|
+HE EEE
+Klausur (90-Min )
+\
+Wahlpflichibereich Wirtschaftswissenschaften
+|Wahifichtsereich Witschatsussenschaten |
+wiss
+| 5 |
+|
+|
+|
+|s|
+|
+mom:
+| 1 |
+Pflüchtbereich Informatik
+FE EEE
+Ba
+ET BE BE
+RC HE KK EE …
+
+**OCR Seite 8** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+En
+Erlangen-Nürnberg
+Lehr-
+SWS
+_
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+YerAN-
+Gesamt
+in ECTS-Punkten
+Art und Umfang der Prüfung
+Kos
+staltung
+v
+T
+E
+=
+ECTS
+1
+z
+2.
+4
+5.
+6.
+schuss
+.
+Gem.
+Gem.
+Gem.
+Gem.
+Gem.
+Gem.
+note
+Data Science: Machine Learning und Data Driven BIZEEEEEEEEE EEE
+EEE
+Klausur (650 Min., 30 %) und
+1
+Data Science: Datenmanagement und -analyse ET
+Zu
+|
+HE HE
+Klausur (90 Min.)
+1
+für Witschaftinformalik (GOP)
+DET EEE EZ HE HR
+TE RG HE HE HE HE
+|
+EEE
+ru u ae BE DE a a u se
+SE BE
+Nena Frapels SHesesst
+BE
+BE Bar Ban na DEE Ba Ba ii
+3
+Wahlpflichtbereich Wirtschaftsinformatik
+[Datzansknown
+|
+msn
+[m |
+|
+|
+Isis]
+|
+msn
+In |
+[Dion Business and processes
+|
+aa
+I m |
+sh
+ofsf
+|
+ms
+| 1 |
+(ArchitectresandDeveopmetn
+|
+ass
+| m |
+|
+|s|
+|
+|s| wen
+| …
 
 ---
 
@@ -20167,6 +22475,271 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 ---
 
+### 3. Februar 2005
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/2aesa-pro-wimathe.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/2aesa-pro-wimathe.md)  
+Pflicht-Stellen gefunden: **6**  
+Vorgeschlagene Pflichtveranstaltungen: **7**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
+- Büttner / Digitale Medien im Sachunterricht der Grundschule sinnvoll einsetzen(Kurs A) — Mittelseminar — Eva Büttner
+- Hauptseminar Bildung für nachhaltige Entwicklung — Seminar — Prof. Dr. Jan Christoph Schubert
+- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
+- Staatsexamenskurs Mathematik (nicht vertieft) — Sonstige Lehrveranstaltung — Karin Pott
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 4** _(paragraph)_
+
+```
+(2)
+Dem Antrag auf Zulassung sind folgende Unterlagen beizufügen, soweit sie
+dem Prüfungsamt nicht bereits vorliegen:
+1.
+der Nachweis der Hochschulreife
+2.
+das Zeugnis über die bestandene Diplomvorprüfung oder der Antrag auf
+/
+vorläufige Zulassung
+3.
+das Studienbuch
+4.
+eine kurze Darstellung des Bildungsganges
+5.
+eine Erklärung nach 8 22 Abs. 3 Nr. 3
+6.
+für die Zulassung zu den Prüfungen in den mathematischen Fächern
+außerdem die Leistungsnachweise nach Abs. 1 Nr. 4.
+(3) Die Zulassung zur Diplomprüfung schließt die Zulassung zur Diplomarbeit ein.
+(4) 8 23 gilt entsprechend.
+829
+Gliederung der Diplomprüfung und Meldung zur Diplomprüfung
+(1) Die Diplomprüfung gliedert sich in die studienbegleitenden Teilprüfungen in den
+Prüfungsfächern nach 8 30 Abs. 1, die mündlichen Prüfungen in den
+Pr …
+
+**OCR Seite 5** _(paragraph)_
+
+```
+Maluspunkte im Umfang der zugeordneten Leistungspunkte berechnet. "Eine
+zweite Wiederholung ist zulässig, solange die Summe der Maluspunkte aller
+wirtschaftswissenschaftlichen Prüfungsfächer die Schwelle von 14 Punkten
+nicht überschritten hat.
+\
+(2) "Der Kandidat soll von demselben Prüfer nur in einem Prüfungsfach geprüft
+werden. ?Er kann von demselben Prüfer in nicht mehr als zwei Prüfungsfächern
+geprüft werden.
+(3) "Die Fachvertreter entscheiden im Benehmen mit dem Prüfungsausschuss
+innerhalb des
+in Anlage
+Ill bestimmten und erläuterten Rahmens über Zahl,
+Umfang und Form der Teilprüfungen. ?Teilprüfungen werden als Klausuren,
+mündliche Prüfungen oder Seminararbeiten
+(z.B.
+in Form von
+Hausarbeiten,
+Referaten und Präsentationen) erbracht. ®Pro Prüfungseinheit gemäß Abs. 1 Satz
+5 werden …
+
+**OCR Seite 6** _(paragraph)_
+
+```
+und gegebenenfalls
+3. einem Wahlfach aus der Mathematik.
+*Eines dieser Fächer ist als Spezialgebiet zu wählen,
+in dem der Kandidat
+vertiefte Kenntnisse der Mathematik im Umfang von mindestens 10 SWS erwirbt.
+®Aus ihm soll die Diplomarbeit hervorgehen. “Die Diplomarbeit ist vor der Meldung
+f
+zur mündlichen Prüfung zu erstellen.
+\
+(2)
+'Für
+die
+mündlichen
+Prüfungen
+werden
+Kenntnisse
+aus
+den
+beiden
+Pflichtfächern und ggf. einem Wahlfach im Gesamtumfang von 30 SWS an
+Vorlesungen, Übungen, Praktika und Hauptseminaren zugrunde gelegt. ’Davon
+bezieht sich der Prüfungsumfang nach Wahl des Kandidaten
+in den beiden
+Pflichtfächern auf jeweils 10 bis 18 SWS, außerdem können 4 bis 10 SWS auf ein
+mathematisches Wahlfach verteilt werden, das dann Gegenstand einer weiteren
+mündlichen Prüfung wird. *Die …
+
+_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### 18. Januar 1996
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/5aesa-pro-wirtschinf.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/5aesa-pro-wirtschinf.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 5** _(paragraph)_
+
+```
+sichtigt."
+16.
+In$ 35 Abs. 3 werden die Worte "und von allen Prüfern" gestrichen.
+17.
+Der Katalog der zugelassenen Pflichtwahlfächer in der Anlage erhält folgende Fassung:
+"1.
+Bank- und Börsenwesen
+2.
+Betriebswirtschaftslehre der Banken
+3.
+Betriebswirtschaftslehre der Industrie
+4.
+Betriebswirtschaftsiehre des Prüfungswesens
+5.
+ Betriebswirtschaftliche Steuerlehre
+6.
+Internationales Management
+7.
+Logistik
+8.
+Marketing
+9.
+Operations Research
+10.
+Rechnungswesen
+11.
+Unternehmensführung
+12.
+Wirtschafts- und Betriebspädagogik
+13.
+Internationale Wirtschaft
+j
+14.
+Entwicklungspolitik
+15.
+Finanzwissenschaft
+16.
+Statistik
+17.
+Genossenschaftswesen
+18.
+Quantitative Wirtschaftsforschung
+19.
+Arbeitsrecht
+20.
+Öffentliches Recht
+21.
+Steuerrecht
+22.
+Unternehmens- und Gesellschaftsrecht
+23.
+Soziologie
+24 …
+
+---
+
+### 20. September 1995
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/6aesa-pro-bwl.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/6aesa-pro-bwl.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 1** _(paragraph)_
+
+```
+Die Diplomprüfungsordnung für Studenten der Betriebswirtschaftslehre an der Wirtschafts- und
+Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom
+25. November 1988 (KWMBlI II 1989 S. 30), zuletzt geändert durch Satzung vom 21. Juli 1994
+(KWMBI II S. 685), wird wie folgt geändert:
+1.
+$ 2 erhält folgende Fassung:
+"Aufgrund der erfolgreich abgelegten Diplomprüfung wird der Diplomgrad "Diplom-
+Kaufmann Univ." (abgekürzt "Dipl.-Kfm. Univ.") bzw. "Diplom-Kauffrau Univ." (abge-
+kürzt "Dipl.-Kff. Univ.") verliehen, an Absolventinnen auf Antrag in männlicher Form."
+2.
+$ 3 Abs. 1 erhält folgende Fassung:
+"Die Regelstudienzeit einschließlich der Zeit für die Anfertigung der Diplomarbeit und
+die Ablegung der Prüfungen sowie die nach $ 27 Abs. 2 Nr. 4 vorgesch …
+
+**OCR Seite 5** _(paragraph)_
+
+```
+"a)
+Allgemeine Betriebswirtschaftslehre
+b)
+Volkswirtschaftslehre einschließlich Wirtschaftspolitik und Finanzwissen-
+schaft
+e
+c)
+Eine Spezielle Betriebswirtschaftslehre
+Hierfür sind zugelassen:
+1.
+Bank- und Börsenwesen
+2.
+Betriebswirtschaftslehre der Banken
+3.
+Betriebswirtschaftslehre der Industrie
+4.
+Betriebswirtschaftslehre des Prüfungswesens
+5.
+Betriebswirtschaftliche Steuerlehre
+6.
+Internationales Management
+7.
+Logistik
+8.
+Marketing
+9.
+Operations Research
+10.
+Rechnungswesen
+11.
+Unternehmensführung
+12.
+Wirtschaftsinformatik (Schwerpunkt Industrie- und Logistikbetriebe)
+13.
+Wirtschaftsinformatik (Schwerpunkt Büro- und Dienstleistungsbe-
+reich)"
+\
+b)
+Der Katalog der zugelassenen Pflichtwahlfächer erhält folgende Fassung:
+"1.
+Bank- und Börsenwesen
+2.
+Betriebswirtschaftslehre der Banken …
+
+---
+
 ### 1. Dezember 2005
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/7aesa-pro-int-bwl.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/7aesa-pro-int-bwl.md)  
@@ -20207,6 +22780,118 @@ Anstelle der Halbfächer aus den beschriebenen Bereichen kann der Prüfungsaussc
 |Summe|54|54|27|27|
 |Praktikumsbericht||6|||
 |Masterarbeit|20 "||||
+
+---
+
+### 7. Dezember 1999
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/7aesa-pro-sozialw.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/7aesa-pro-sozialw.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 5** _(paragraph)_
+
+```
+"8 31
+Umfang der studienbegleitenden Teilprüfungen
+(1) Die Diplomprüfung erstreckt sich auf folgende Fächer:
+1. Allgemeine Soziologie und sozialwissenschaftliche Methoden einschließlich ihrer Anwendung
+;
+in empirischen Untersuchungen
+2. Volkswirtschaftslehre einschließlich Wirtschaftspolitik und Finanzwissenschaft oder
+Allgemeine Betriebswirtschaftsiehre
+3. Wahlweise eines der folgenden Fächer: wirtschaftlich und sozialpolitisch wesentliche Teile
+der Rechtswissenschaft oder Psychologie oder Sozial- und Arbeitsmarktpolitik
+4. Pflichtwahlfach 1
+5. Pflichtwahlfach 2.
+(2) "Welche Fächer als
+Pflichtwahlfach
+gewählt werden
+können,
+ist der Anlage
+I zur
+Prüfungsordnung zu entnehmen. ?Die Prüfungen in den Fächern der Diplomprüfung werden
+studienbegleitend
+in Teilprüfungen abgelegt. ®Jedes Prüfu …
+
+**OCR Seite 8** _(paragraph)_
+
+```
+Allgemeine Betriebswirtschaftslehre
+12-14
+12-14
+6-7
+6-7
+3. Wirtschaftlich und sozialpolitisch
+12-16
+12-16
+6-8
+6-8
+wesentliche Teile der Rechtswissenschaft
+oder
+Psychologie
+12-16
+12-16
+6-8
+6-8
+oder
+\
+Sozial- und Arbeitsmarktpolitik
+12-16
+12-16
+6-8
+6-8
+4. Pflichtwahlfach 1
+12-16
+12-16
+6-8
+6-8
+5. Pflichtwahlfach 2
+12-16
+12-16
+6-8
+6-8
+Summe
+72
+72
+36
+36
+Diplomarbeit
+28
+(a) Durch das betreute Praktikum können bei einem Inlandspraktikum bis zu zwei und bei einem
+Auslandspraktikum
+bis zu 4
+Kreditpunkte
+im
+Erweiterungsbereich
+erworben
+werden, wenn
+ein
+Praktikumsbericht im Umfang einer Seminararbeit vorgelegt und vom Betreuer des Praktikums an der
+Fakultät wie eine Seminararbeit bewertet wird.
+Erläuterungen:
+1. Die Zahl
+der einem
+Fach
+zugeordneten
+Kreditpunkte
+bestimmt
+sich
+in
+den
+angegebenen
+Ba …
 
 ---
 
@@ -20366,6 +23051,216 @@ _(+ 18 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### PDF vom 25.11.1988
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-dipl-bwl-1988.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-dipl-bwl-1988.md)  
+Pflicht-Stellen gefunden: **8**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 4** _(paragraph)_
+
+```
+.
+*
+.
+m
+LE:
+-
+.
+(2) Die sieben Mitglieder des Prüfungsausschusses sind:
+&£) der ‚Vorsitzende aus dem Kreie der Professoren;
+b) der Dekan als stellvertretender Vorsitzender;
+=
+ce)
+je
+1 Professor der vier Studiengänge;
+&)
+1 weiteres prüfungsberechtigtee Yitglied der Fakult&t
+sus dem Kreis Ger entpflichteter Professoren un
+-
+on
+Professorer ir Ruhestanc.
+Professoren ir Sinne Ger Buchstaben & und
+ce sind die in
+Art. Z Abs.
+i Kr.
+I Bayer. Eochschullehrergesetz genannten
+Professoren. Der Vorsitzende wirö vor Fachbereichsrat, die
+Ben
+Fitglieder nach Buchst. c und ä werden auf Vorschlag vor
+2
+Vertretern ihrer Gruppe vor Fachbereichsrat gewählt.
+;
+(3) Die Amtszeit der Mitglieder nach Abeaz2 Buchst. &,
+c und &
+beträgt zwei Jahre. Eine Wiederbestellung ist möglich.
+(k) Der Prüfungsausschuf ist bes …
+
+**OCR Seite 5** _(paragraph)_
+
+```
+-
+S6
+Prüfer
+-
+(1) Der Prüfungsausschuf bestellt die Prüfer.
+(2) Zum Prüfer könner bestellt werder:
+a) Professoren im Sinne
+des Art. 2 Abs.
+I Nr. ] Bayer:
+Hochschullekrergesetz
+b) entpflichtete Professoren und Professoren im Ruhestand
+ce) Privatdozenten und apl. Professoren
+7
+Ausschluß wegen persönlicher Beteiligung, Verschwie-
+genheitspfiicht
+,
+\
+-
+(1) Der Ausschluß von der Beratung und Abstimmung ir Prü-
+fungsausschuß sowie von einer Prüfungstätigkeit wegen
+persönlicher Beteiligung bestimmt sich nach Art. 37
+BayHSchG.
+(2) Die Pflicht der Mitglieder des Prüfungsausschusses,
+-
+der Prüfer, der Prüfungsbeisitzer und sonstiger mit
+en
+i
+Prüfungsangelegenheiten befaßter Personen zur Verschwie-
+a
+genheit bestimmt sich nach Art.
+30 Abs. 4 BayESchG,.
+|
+Ei
+$8
+Bekanntgabe der Prüfungstermine
+|
+|
+ …
+
+**OCR Seite 18** _(paragraph)_
+
+```
+-
+38
+-
+Zweiter Abschnitt: Diplomprüfung
+& 27
+Zuiassungsvoraussetzungen,
+Zulassungsverfahren
+"
+(1) Voraussetzungen für die Zulassung zus ersten Teil der
+Diplomprüfung (vgl.
+$ 29) sind:
+1. Rochschulreife gemäß $ 19 Abs.
+1
+Nr.
+1
+2.
+bestandene Diplomvorprüfung
+3, Immatrikulation als Student an der Wirtschafts- und
+Sozialwissenschaftlichen Fakultät der Universität
+Erlangen-Nürnberg.
+,
+(..:
+(2) Voraussetzungen für die Zulassung zum zweiten Teil der Diplonm-
+prüfung (vel.'& 29) sind zusätzlich:
+i. ein oränungsgemäßes Studium der Betriebswirtschaftslehre,
+davon mindestens die letzten beider Semester vor Ger
+.
+Prüfung an der Wirtschafts- und Sozisalwissenschaftlichen
+Fakultät der Universität Erlangen-Nürnberg
+2. die erfolgreiche Teilnahme an je einer Übung oder einen
+Seminar in der speziellen B …
+
+_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### PDF vom 29.01.1998
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-1998.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-1998.md)  
+Pflicht-Stellen gefunden: **6**  
+Vorgeschlagene Pflichtveranstaltungen: **5**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar — Anita Seguna
+- Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 2 — Hauptseminar
+- Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
+- Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 1** _(paragraph)_
+
+```
+Diplomprüfungsordnung für den Studiengang Internationale Betriebswirtschaftslehre
+an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-
+Universität Erlangen-Nürnberg
+|
+Vom 29. Januar 1998
+Aufgrund von Art. 6 in Verbindung mit Art. 81 Abs.
+I des Bayerischen Hochschulgesetzes erläßt die Friedrich-Alexander-
+Universität Erlangen-Nürnberg folgende Prüfungsordnung:
+Vorbemerkung zum Sprachgebrauch:
+Die Bezeichnung weiblicher und männlicher Personen durch die Jeweils maskuline Form in der nachstehenden Satzung bringt
+“.
+Jen Auftrag der Hochschule, im Rahmen ihrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu
+verwirklichen und die für Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht angemessen zum Ausdruck. Auf die Ver-
+ …
+
+**OCR Seite 2** _(paragraph)_
+
+```
+2
+54
+Prüfungsfristen
+(1) Die Diplomvorprüfung soll bis zum Ende des vierten Semesters abgelegt werden. Meldet sich ein Student aus von ihm zu
+vertretenden Gründen nicht so rechtzeitig ordnungsgemäß zur Diplomvorprüfung, daß er diese bis zum Ende des sechsten Seme-
+sters abgelegt hat, oder legt er die Prüfung, zu der er sich gemeldet hat, nicht bis zum Ende des sechsten Semesters ab, gilt diese
+Prüfung als erstmals abgelegt und nicht bestanden.
+(2) Der 2. Teil der Diplomprüfung soll bis zum Ende des Neunten Fachsemesters abgelegt werden. Der Student soll sich so
+rechtzeitig ordnungsgemäß zu den beiden Teilen der Diplomprüfung melden, daß er den 2. Teil der Diplomprüfung zu dem in Satz
+1 bestimmten Termin ablegen kann.
+(3) Die Frist für die Ablegung der Diplomprüfung bzw. Meldung zum zwe …
+
+**OCR Seite 8** _(paragraph)_
+
+```
+8
+(4) Eine zweite Wiederholung der Diplomvorprüfung ist nur in einem Prüfungsfach gemäß $ 22 Abs. 1 Nrn. 3, 4 oder 5 oder in
+bis
+zu zwei Prüfungsteilfächern gemäß $ 22 Abs. 1 Nrn. I und 2 möglich. Sie muß zum nächsten regulären Prüfungstermin abge-
+legt werden. Absatz 3 Sätze 2 und 3 gelten entsprechend.
+(5) Bei Wiederholungsprüfungen ersetzen die Noten der Wiederholungsprüfung die Noten der vorangegangenen Prüfung.
+826
+Prüfungszeugnis
+Über die bestandene Vorprüfung wird ein Zeugnis ausgestellt, das die in den einzelnen Prüfungsfächern erzielten Noten und die
+Prüfungsgesamtnote enthält und vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen ist. Die Noten angerechneter Fächer
+(vgl. $ 23) werden nicht in das Zeugnis aufgenommen. In diesem Fall wird ins Zeugnis nur ein Anerkennungs …
+
+_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
 ### PDF vom 29.01.1998 i.d.F. 01.12.2005
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-alt.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-intbwl-alt.md)  
@@ -20448,6 +23343,292 @@ _(+ 13 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### PDF vom 25.11.1988
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-sozialwiss-1988.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-sozialwiss-1988.md)  
+Pflicht-Stellen gefunden: **8**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Hauptseminar Spezielle Methoden Physische Geographie — Hauptseminar — Dr. Sebastian Feick
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 5** _(paragraph)_
+
+```
+86
+Prüfer
+\
+(1) Der Prüfungsausschuß bestellt die Prüfer.
+"
+-
+(2) Zum Prüfer können bestellt werden:
+R
+a) Professoren im Sinne
+des Art.
+2 Abs.
+1 Nr.
+1 Bayer-
+,
+Hochschullehrergesetz
+5
+b) entpflichtete Professoren und Professoren im Ruhestand
+Be
+ce) Privatäozenten und apl. Professoren
+an
+8 7
+Ausschluß wegen persönlicher Beteiligung, Verschwie-
+5
+\
+genheitspflicht
+(1) Der Ausschluß von der Beratung und Abstimmung iz Prü-
+..
+-.
+fungsausschuß sowie von einer Prüfungstätigkeit wegen
+.
+persönlicher Beteiligung bestimmt sich nach Art. 37
+BayESchG.
+ı
+.
+(2) Die Pflicht der Mitglieder des Prüfungsausschusses,
+:Ö
+der Prüfer,
+der Prüfungsbeisitzer und sonstiger mit
+Prüfungsangelegenheiten beZaßter Personen zur Verschvie=
+genheit bestimmt sich nach Art.
+30 Abs,k BayHSchG.
+|
+88
+Bekanntgabe der Prüfu …
+
+**OCR Seite 20** _(paragraph)_
+
+```
+-
+20
+-
+Zweiter Abschnitt:
+Diplomprüfung
+& 27 Zulassungsvoraussetzungen,
+Zulassungsverflahren
+“
+(1) Voraussetzungen für die Zulassung zum ersten Teil der
+Diplomprüfung (vgl. $ 29) sind:
+4. Hochschulreife gemäß $ 19 Abs.
+? Nr.
+I
+2. bestandene Diplomvorprüfung
+E
+3. Immatrikulation als Student an der Wirtschäfts- und
+Sozislwissenschaftlichen Fakultät der Universität
+.
+Erlangen-Nürnberg.
+.
+e
+(2) Voraussetzungen für die Zulassung zum zweiten Teil der Dipion-
+prüfung (vgl.
+$ 29) sind zusätzlich:
+|
+1. ein oränungsgemäßes Studium der Soziaiwissenschaften,
+davon
+mindestens die letzten beiden Semester vor der Prüfung an
+der Wirtschafts- und Sozialwissenschaftlicher Fakultät der
+"
+Universität Erlangen-Nürnberg
+2. die erfolgreiche Teilnahme ar je einer Übung oder einen
+Seminar in den Fächern der Di …
+
+**OCR Seite 24** _(paragraph)_
+
+```
+-
+2,
+-
+Wird die Arbeit mit der Note "nicht ausreichend" bewertet,
+-
+2:
+get in jedem Fall ein zweiter Gutachter zur Beurteilung heran-
+”
+"zuriehen. Die Note der Dislomarbeit errechnet sich aus .
+“dem Durchschnitt der Beurteilungen der beiden Prüfer.
+Die Note ist Gem Kandidaten danach bekanntzugeben.
+& 31
+Umfang ües 2. Teils der Diplomprüfung
+=
+(1) Die Diplomprüfung (wirtschaftswissenschaftliche Richtung)
+erstreckt sich auf folgende Fächer:
+{
+2. Allgemeine Soziologie und sozialwissenschaftliche Methoden-
+lehre
+2. Sozialpolitik
+.
+3. Volkswirtschaftslehre oder Allgemeine Betriebswirtschaftslehre
+L, die wirtschaftlich und sozialpolitisch wesentlichen Teile der
+Rechtswissenschaft
+om
+5. Pflichtwahlfach
+(2) Die Diplomprüfung (sozialwissenschaftliche Richtung) erstreckt
+sich auf folgende Fächer …
+
+_(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### PDF vom 25.11.1988
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-vwl-1988.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-vwl-1988.md)  
+Pflicht-Stellen gefunden: **6**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 5** _(paragraph)_
+
+```
+.
+€ 6
+Prüfer
+\
+(1) Der Früfungsausschu® bestellt
+die Früfer.
+(2)
+Zum Prüfer könner bestellt werden:
+&) Proiessorer. ir Sinne
+Ges Art.
+2 kts.
+I Nr.
+1 Bayer.
+”
+Bochschullekrerresetr
+b. entrfilichtete Professoren un? Froiessorer im Ruhestans
+ce) Frivetriozenten und ari.
+Professoren
+87
+Ausschluß wegen persönlicher Beteiligung,
+Verachwie-
+genhsitspflicht
+-
+(1) Der Ausschlu£ vorn Ger beratung und Abstimmung ir Prü-
+fungsausschuß sowie vor einer Prüfungetätigkeit wegen
+persönlicher Beteiligung bestimmt sich nach Art. 37
+BesESche.
+“
+(2) Lie Pilicht der Mitglieder Ges Prüfungsausschusses,
+Ger Prüfer,
+der Prüfungsbeisitzer und sonstiger mit
+Prüfungssngelegenheiter beiaßter Personez zur Verschrie-
+\
+genbeit bestimmt sich nach Art.
+10 Abs.
+5 BayESchG.
+un
+<$E&
+Bekanntgabe der Prüfungsterrine
+.
+(1)  …
+
+**OCR Seite 18** _(paragraph)_
+
+```
+j
+Zweiter Abschnitt:
+Diplomprüfung
+_
+S 27
+Zulassungsvoraussetzungen,
+Zulassungsverfahren
+{1) Voraussetzungen für die Zulassung zum ersten Teil der
+Diplomprüfung
+(vgl.
+$ 29)
+sind:
+1. Bochschulreife gemäß $ 19 Abs.
+1
+Nr.
+1
+2.
+bestandene Diplomvorprüfung
+3. Immatrikulation als Student an der Wirtschafts- und
+Sozialwissenschaftlichen Fakultät der Universität
+Erlangen-Nürnberg.
+(2) Voraussetzunger
+für die Zulassung zum zweiten Teil
+der Diplom-
+prüfung (vgl.
+$ 29) sind zusätzlich:
+1.
+ein oränungsgemäßes Studium der Volkswirtschaftslekre,
+davon
+“
+mindestens die letzten beiden Semester vor der Prüfung an
+der
+Wirtschafts- und Sozialwissenschaftlichen
+Fakultät
+der
+Universität Erlangen-Nürnberg
+er
+2. die erfolgreiche Teilnahme an je einer Übung oder einem
+Seminar im Pflichtwahlfach sowie in zwei
+ …
+
+**OCR Seite 23** _(paragraph)_
+
+```
+- 2%.
+S 31
+Umfang des 2. Teils der Diplomprüfung
+(1) Die Diplomprüfung erstreckt sich auf folgende Fächer:
+.
+-
+1.
+Volkswirtschaftstheorie
+2.
+Volkswirtschaftspolitik
+3.
+Finanzwissenschaft
+4. Allgemeine Betriebswirtschaftslehre
+.
+5. Pflichtwailfach
+Welche Fächer als Pflichtwahlfach gewählt werden können,
+ist
+einer Anlage zur Prüfungsordnung zu entnehnen.
+“
+(2) Der Kandidat soll von Gemselben Prüfer nur in einem Prü-
+fo
+fungsfach geprüft werden.
+Er kann von demselben Prüfer in
+i
+nicht mehr als zwei Prüfungsfächern geprüft werden.
+(3) In jedem Prüfungsfach ist eine vierstündige Klausur anzu-
+fertigen und eineetwa 15-minütige mündliche Prüfung abzu-
+legen.
+Für jede Klausurarbeit sind mindestens zwei Aufgaben zur
+Wahl
+zu stellen,
+soweit nicht
+die besonderen Umstände
+einzelner Fächer etwas an …
+
+_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
 ### PDF vom 22.10.2002 i.d.F. 07.07.2005
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-wirtschaftsmathematik.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-wirtschaftsmathematik.md)  
@@ -20480,6 +23661,71 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 2. (Profilbildendes) Pflichtwahlfach I: Spezielle Betriebswirtschaftslehre oder Wirtschaftspolitik oder Finanzwissenschaft
 
 _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### PDF vom 05.09.1991
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-wirtschinf-1991.md`](../pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/po-wirtschinf-1991.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 2** _(paragraph)_
+
+```
+83
+Studiendauer und Gliederung des Studiums
+(1) Die Regelstudienzeit beträgt einschließlich der Zeit für die Anfertigung der Diplomarbeit und die
+Prüfungen sowie die vorgeschriebene praktische Ausbildung von sechs Monaten, falls sie mit wenigstens
+drei Monaten während des Studiums abgeleistet wird, neun Semester, anderenfalls acht Semester. Das
+Studium gliedert sich in ein viersemestriges Grundstudium und ein viersemestriges Hauptstudium, das
+sich, falls die vorgeschriebene praktische Ausbildung mit wenigstens drei Monaten während des
+Studiums abgeleistet wird, um ein weiteres Semester verlängert. Der Höchstumfang der erforderlichen
+Lehrveranstaltungen beträgt 160 Semesterwochenstunden.
+0
+(2) Das Grundstudium wird mit der Diplomvorprüfung abgeschlossen.
+sa
+.
+Prüfungsfristen
+(1) Die Dip …
+
+**OCR Seite 3** _(paragraph)_
+
+```
+(5) Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein. Er ist befugt, anstelle des
+Prüfungsausschusses
+unaufschiebbare Entscheidungen
+allein zu
+treffen.
+Hiervon
+hat er dem
+.
+Prüfungsausschuß unverzüglich Kenntnis zu geben. Darüber hinaus kann der Prüfungsausschuß dem
+Vorsitzenden die Erledigung von einzeinen Aufgaben widerruflich übertragen.
+56
+Prüfer
+(1) Der Prüfungsausschuß bestellt die Prüfer.
+(2) Zum Prüfer können bestellt werden:
+a)
+Professoren im Sinne des Art. 2 Abs. 1 Nr. 1 Bayer. Hochschuliehrergesetz
+b)
+entpflichtete Professoren und Professoren im Ruhestand
+c)
+Privatdozenten und apl. Professoren.
+87
+Ausschluß wegen persönlicher Beteiligung, Verschwiegenheitspflicht
+(1) Der Ausschluß von der Beratung und Abstimmung im Prüfungsausschuß sowie von einer
+Prüfungstät …
 
 ---
 
@@ -21852,6 +25098,61 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### FPO MSc IBS 20250320.pdf
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpo-msc-ibs-20250320.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpo-msc-ibs-20250320.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar — Anita Seguna
+- Englisch Master: English for Business Purposes — Übung — Rachel Gracey
+- Englisch: Practical Business English — Übung — Balbiro Dhuga, Julie Porlein
+- International Business Law (FACT-Master SQ) — Vorlesung mit Übung — Prof. Dr. Frank Diedrich, Prof. Dr. Jochen Hoffmann
+
+#### Auszüge aus dem PO-Text
+
+**§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+(3)[1] § 4 Abs. 5 **MPOWISO** gilt mit der Maßgabe, dass die Unterrichts- und Prüfungssprache in den Modulen des Pflichtbereichs Englisch ist.[2] Im Wahlbereich können auch Module angeboten und gewählt werden, in denen die Unterrichts- und Prüfungssprache Deutsch, Spanisch oder Französisch ist.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 5** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+“Bewerberinnen bzw. Bewerber, die 70 Punkte erreicht haben, erhalten eine Bestäti-
+gung über die bestandene Qualifikationsfeststellung.
+&
+3 Umfang und Gliederung des Masterstudiums, Prüfungen,
+Unterrichts- und Prüfungssprache
+(1) 'Im Kernbereich (Core courses) werden grundlegende interdisziplinäre Kenntnisse
+im Bereich International Business Studies in folgenden neun Kernfeldern vertiefend
+vermittelt; aus diesen sind beliebige Module im Umfang von 60 ECTS-Punkten zu wäh-
+len:
+1.
+Environment of international business
+2.
+Foundations of international management
+3.
+International strategic management
+4.
+International functional management
+5.
+International information management
+6.
+Soft skills
+7.
+International finance and change manage …
+
+---
+
 ### FPOAuP 20090717 i.d.F. 20191203.pdf
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpoaup-20090717-idf-20191203.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpoaup-20090717-idf-20191203.md)  
@@ -22411,16 +25712,105 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 ---
 
-### MA FPOWiPäd 20230615 i.d.F. 20260213.pdf
+### FPOSozialökonomik 20240807 i.d.F. 20241122.pdf
 
-PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/ma-fpowipaed-20230615-idf-20260213.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/ma-fpowipaed-20230615-idf-20260213.md)  
+PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fposozialoekonomik-20240807-idf-20241122.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fposozialoekonomik-20240807-idf-20241122.md)  
 Pflicht-Stellen gefunden: **9**  
 Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar — Dr. Christian Albrecht
+- 1002 Spezielle Fragestellungen der Sozialpolitik und Gesundheitsversorgung — Seminar — Dr. Anja Beyer, Günther Heil
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Umfang und Gliederung des Masterstudiums** _(paragraph)_
+
+(1)[1] Der Master Sozialökonomik besteht aus dem sozialökonomischen Pflichtbereich, sowie dem sozialökonomischen Vertiefungsbereich und dem freien Vertiefungsbereich.[2] Im ersten bis dritten Semester werden im Pflichtbereich theoretische und methodische Grundkenntnisse vertiefend vermittelt.[3] Dieser Pflichtbereich ist in die vier Bereiche „Sozialwissenschaftliche Grundlagen“, „Methodische Grundlagen“, „Wirtschaftswissenschaftliche Grundlagen“ und Sozialökonomisches Projektseminar“ im Umfang von jeweils 15 ECTS-Punkten unterteilt.[4] Ab dem zweiten Semester wählen die Studierenden vier sozialökonomische Vertiefungsmodule im Gesamtumfang von 20 ECTS-Punkten.[5] Ab dem zweiten Semester wählen die Studierenden zudem zwei freie Vertiefungsmodule aus den Angeboten des Fachbereichs im Gesamtum …
+
+**§ 4 Umfang und Gliederung des Masterstudiums** _(paragraph)_
+
+2Die Zuordnung der Module zu Studienbereichen wird im Modulhandbuch geregelt. 3Für die Bescheinigung des Schwerpunkts Nachhaltigkeit haben Studierende Module im Umfang von mindestens 10 ECTS-Punkten aus dem Bereich der ökologischen Nachhaltigkeit und mindestens 10 ECTS-Punkten aus dem Bereich der sozialen Nachhaltigkeit zu erbringen.[4] Die Aufteilung der jeweiligen Module wird im Modulhandbuch geregelt.[5] Für die Bescheinigung des Schwerpunkts Data Science ist ein verpflichtendes Grundlagenmodul zu absolvieren, welches im Modulhandbuch als solches ausgewiesen wird.
+
+**§ 5 Wahlpflichtmodule** _(paragraph)_
+
+(1) Im Pflichtbereich sind innerhalb der Bereiche „Methodische Grundlagen“ und „Wirtschaftswissenschaftliche Grundlagen“ Wahlpflichtmodule im Umfang von insgesamt 20 ECTS-Punkten nachzuweisen.
+
+**Anlage: Überblickstabelle Studienverlauf** _(paragraph)_
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**V**||||||**1.**|**2.**|**3.**|**4.**|<br>**Prüfung**||
+||||**Ü**|**P**|**S**|**VP**||**Sem**|**Sem**|**Sem**|**Sem**|||
+|||||||||**.**|**.**|**.**|**.**|||
+|**Sozialökonomischer Pflicht-**<br>**bereich**||**60**||||||||||||
+|**Sozialwissenschaftliche**<br>**Grundlagen **||**15**||||||||| …
+
+_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### FPOSozialökonomik 20240807 i.d.F. 20260213.pdf
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fposozialoekonomik-20240807-idf-20260213.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fposozialoekonomik-20240807-idf-20260213.md)  
+Pflicht-Stellen gefunden: **13**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar — Dr. Christian Albrecht
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Umfang und Gliederung des Masterstudiums** _(paragraph)_
+
+(2)[1] Der Master Sozialökonomik besteht aus dem interdisziplinären Einführungsmodul, dem sozialökonomischen Pflichtbereich, sowie dem sozialökonomischen Vertiefungsbereich und dem freien Vertiefungsbereich.[2] Im ersten bis dritten Semester werden im Pflichtbereich theoretische und methodische Grundkenntnisse vertiefend vermittelt. 3Dieser Pflichtbereich ist in die vier Bereiche „Sozialwissenschaftliche Grundlagen“, „Methodische Grundlagen“, „Wirtschaftswissenschaftliche Grundlagen“ und Sozialökonomisches Projektseminar“ im Umfang von jeweils 15 ECTS-Punkten unterteilt. 4Ab dem zweiten Semester wählen die Studierenden vier sozialökonomische Vertiefungsmodule im Gesamtumfang von 20 ECTS-Punkten.[5] Ab dem zweiten Semester wählen die Studierenden zudem zwei freie Vertiefungsmodule aus den A …
+
+**§ 4 Umfang und Gliederung des Masterstudiums** _(paragraph)_
+
+2Die Zuordnung der Module zu Studienbereichen wird im Modulhandbuch geregelt. 3Für die Bescheinigung des Schwerpunkts Nachhaltigkeit haben Studierende Module im Umfang von mindestens 10 ECTS-Punkten aus dem Bereich der ökologischen Nachhaltigkeit und mindestens 10 ECTS-Punkten aus dem Bereich der sozialen Nachhaltigkeit zu erbringen.[4] Die Aufteilung der jeweiligen Module wird im Modulhandbuch geregelt.[5] Für die Bescheinigung des Schwerpunkts Data Science und Digitalisierung ist ein verpflichtendes Grundlagenmodul zu absolvieren, welches im Modulhandbuch als solches ausgewiesen wird.
+
+**§ 5 Wahlpflichtmodule** _(paragraph)_
+
+(1) Im Pflichtbereich sind innerhalb der Bereiche „Methodische Grundlagen“ und „Wirtschaftswissenschaftliche Grundlagen“ Wahlpflichtmodule im Umfang von insgesamt 20 ECTS-Punkten nachzuweisen.
+
+**Anlage 1: Studienverlaufsplan Master Sozialökonomik Vollzeit** _(paragraph)_
+
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**Workload-Verteilung in**<br>**ECTS-Punkten**|**f  f**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**V**|||||||**1.**<br>**Sem.**|**2.**|**3.**|**4.**|**Art und Umang der Prüung**||
+||||**Ü**|**P**|**S**|**VP**|||||||||
+|||||||||||**Sem.**|**Sem.**|**Sem.**|||
+||||||||||||||||
+|**Interdisziplinäres**<br>**Einführungsmodul**|||||||||||||||
+|SCoPE – Ringvorlesung Sozi-<br>alökonomik|SCoPE – Ringvorlesung<br>Sozialökonomik|2||||||**5**|5||||Performance As …
+
+_(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### MA FPOWiPäd 20230615 i.d.F. 20260213.pdf
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/ma-fpowipaed-20230615-idf-20260213.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/ma-fpowipaed-20230615-idf-20260213.md)  
+Pflicht-Stellen gefunden: **13**  
+Vorgeschlagene Pflichtveranstaltungen: **11**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (A) — 
+- Referat und Hausarbeit oder Abschlussklausur zu Religion und Recht (Islam) (B) — 
+- Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar — Dr. Christian Albrecht
+- Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar — Jette Leutert
 - Berufs- und Wirtschaftspädagogische Didaktik II - Präsenztermine — Seminar
 - Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
+- Examenskurs Didaktik für Wirtschaftswissenschaften Lehramt an Gym und RS — Seminar — Emel Löffelholz
+- Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar — Katharina Nicolai
+- Staatsexamenskurs Mathematik (nicht vertieft) — Sonstige Lehrveranstaltung — Karin Pott
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
 
@@ -22448,7 +25838,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 ||||||||||||||
 |||||||||||||| …
 
-_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -22687,6 +26077,40 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 |**Beru …
 
 _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### MSc International Information Systems FPOIIS 20240229 i.d.F. 20250711.pdf
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-international-information-systems-fpoiis-20240229-idf-20250711.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-international-information-systems-fpoiis-20240229-idf-20250711.md)  
+Pflicht-Stellen gefunden: **6**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Englisch Master: English for Business Purposes — Übung — Rachel Gracey
+- General Language Course I  (GLC I & GLC I Plus) — Übung — Ingrid Mina Fandrych, Dr. Ines Zwanger
+- General Language Course II (GLC II & GLC II Plus) — Übung — Ingrid Mina Fandrych, Paul Gahman
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Umfang und Gliederung des Masterstudiums, Prüfungen,** _(paragraph)_
+
+(5)[1] Im Verlauf des Studiums müssen die Studierenden mindestens ein Semester im Ausland verbringen.[2] Hierfür kommen ein Studiensemester an einer ausländischen Hochschule sowie die Ausarbeitung der Masterarbeit an einer ausländischen Hochschule oder bei einem Unternehmen im Ausland in Betracht.[3] Um das Qualifikationsziel des Auslandsaufenthalts zu erreichen, kann dieser nicht in dem Land absolviert werden, in dem die Hochschulzugangsberechtigung oder der erste berufsqualifizierende Hochschulabschluss erworben wurde.[4] Studierende, die sowohl die Hochschulzugangsberechtigung als auch den ersten berufsqualifizierenden Studienabschluss in einem Land erworben haben, in dem Deutsch keine Amtssprache ist, sind auf Antrag von der Verpflichtung zum Erbringen eines Auslandsaufenthalts nach Sa …
+
+**§ 4 Umfang und Gliederung des Masterstudiums, Prüfungen,** _(paragraph)_
+
+(6)[1] § 4 Abs. 5 **MPOWISO** gilt mit der Maßgabe, dass die Unterrichts- und Prüfungssprache in den Modulen des Pflichtbereichs Englisch ist.[2] Im Wahlbereich können auch Module angeboten werden, in denen die Unterrichts- und Prüfungssprache Deutsch ist.[3] Des Weiteren können nach Wahl der Studierenden in
+
+**Anlage: Studienverlaufsplan Master IIS** _(paragraph)_
+
+- 1) Innerhalb des Wahlpflichtbereichs müssen pro Modulbereich verpflichtend Module im Umfang von 5 ECTS-Punkten absolviert werden. Art und Umfang der Lehrveranstaltung(en) und der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen. Bei der Modulwahl ist § 4 Abs. 3 Satz 3 **MPOWISO** zu beachten.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+_(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -24961,7 +28385,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 ### PDF vom 01.08.2006 i.d.F. 24.02.2010
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-neu.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-neu.md)  
-Pflicht-Stellen gefunden: **13**  
+Pflicht-Stellen gefunden: **14**  
 Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
@@ -25009,7 +28433,7 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 (2)[1] Das Studium im Studiengang **Wirtschaftswissenschaften** umfasst im **Pflichtbereich** 85 ECTS-Punkte.[2] Dieser besteht aus Pflichtmodulen.[3] Der Kernbereich umfasst die dem Schwerpunkt zugeordneten Pflichtmodule; in den Schwerpunkten Betriebswirtschaftslehre, Volkswirtschaftslehre und Wirtschaftsinformatik umfasst er 20 ECTS-Punkte, die sich aus jeweils vier Pflichtmodulen im Umfang von je 5 ECTSPunkten zusammensetzen; der Kernbereich im Schwerpunkt Wirtschafts- und Betriebspädagogik umfasst 25 ECTS-Punkte, der sich aus Pflichtmodulen im Umfang von insgesamt 20 ECTS-Punkten und einem Wahlmodul im Umfang von 5 ECTSPunkten zusammensetzt.[4] Alle dem jeweiligen Schwerpunkt zugeordneten Vertiefungsbereiche umfassen 55 ECTS-Punkte, die sich in der Regel auf vier Vertiefungsblöcke von  …
 
-_(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -26446,12 +29870,14 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 ### APO SprZ BayHIG 20260305.pdf
 
 PO-Quelle: [`pruefungsordnungen/sprachpruefungen/apo-sprz-bayhig-20260305.md`](../pruefungsordnungen/sprachpruefungen/apo-sprz-bayhig-20260305.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **11**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
 
@@ -26486,7 +29912,7 @@ der Studierende nicht zur Prüfung zugelassen und die Lehrveranstaltung ist vorb
 
 (6) Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 26 Abs. 2 Sätzen 2 und 3 **BayHIG.**
 
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 7 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -26587,12 +30013,16 @@ werden durch die Sprecherin bzw. den Sprecher des Fachbereichs Theologie für di
 ### StPO Latein 20250930.pdf
 
 PO-Quelle: [`pruefungsordnungen/sprachpruefungen/stpo-latein-20250930.md`](../pruefungsordnungen/sprachpruefungen/stpo-latein-20250930.md)  
-Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **15**  
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Ausreichende Kenntnisse der altgriechischen Sprache — 
+- Einführung in das politische System der Bundesrepublik Deutschland — Proseminar — Prof. Dr. Siegfried Balleis, Dr. Alexander Kruska
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
 
 #### Auszüge aus dem PO-Text
 
@@ -26612,7 +30042,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 - den Spracherwerb über den Pflichtunterricht an einem Gymnasium in drei (erste oder zweite Fremdsprache) aufeinanderfolgenden Schuljahren mit der Note mindestens „ausreichend“ im letzten Zeugnis,
 
-_(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 11 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -27060,6 +30490,59 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### BSc Artificial Intelligence FPOBScAI 20240328 i.d.F. 20250616.pdf
+
+PO-Quelle: [`pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/bsc-artificial-intelligence-fpobscai-20240328-idf-20250616.md`](../pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/bsc-artificial-intelligence-fpobscai-20240328-idf-20250616.md)  
+Pflicht-Stellen gefunden: **4**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+
+#### Auszüge aus dem PO-Text
+
+**§ 2 Bachelorstudiengang, inhaltlich im Wesentlichen gleiche Studiengänge, Unterrichts- und Prüfungssprache, Sprachvoraussetzungen** _(paragraph)_
+
+(3)[1] Abweichend von § 3 Abs. 6 Satz 1 **ABMPO/TF** ist die Unterrichts- und Prüfungssprache im Bachelorstudiengang Artificial Intelligence Englisch.[2] Einzelne Lehrveranstaltungen und Prüfungen außerhalb des Pflichtmodulkatalogs können auch auf Deutsch abgehalten werden.[ 3] Im Übrigen bleibt § 3 Abs. 6 **ABMPO/TF** unberührt.
+
+**§ 3 Gliederung des Bachelorstudiums** _(paragraph)_
+
+1Das Bachelorstudium Artificial Intelligence setzt sich aus Pflichtmodulen (Module B1 bis B13 und B19), Wahlpflichtmodulen (Modulgruppen bzw. Module B14 bis B17) und 2 Schlüsselqualifikationen (Modulgruppe B18) zusammen. Näheres ist den nachfolgenden Regelungen und der **Anlage 1** bzw. **2** zu entnehmen.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 2** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|=\U
+DT UFN
+8 2 Bachelorstudiengang, inhaltlich im Wesentlichen gleiche Studiengänge,
+Unterrichts- und Prüfungssprache, Sprachvoraussetzungen
+(1) "Das Bachelorstudium Artificial Intelligence setzt sich aus Modulen im Umfang von
+180 ECTS-Punkten zusammen. ?Wird in Vollzeit studiert, verteilen sie sich auf sechs
+Semester (siehe Anlage 1), im Teilzeitstudium auf 12 Semester (siehe Anlage 2).
+Darin ist jeweils die Zeit für die Anfertigung der Bachelor Thesis enthalten.
+(2) "Als inhaltlich im Wesentlichen gleiche Studiengänge i. S. d. $ 28 Abs. 1 Satz 2 Nr.
+2 ABMPO/TF
+gelten
+Bachelorstudiengänge
+in
+Informatik,
+Data
+Science
+oder
+Medizintechnik. ?In begründeten Fällen kann die Studienkommission Ausnahmen von
+der Regelung in Satz 1 zulassen.
+ …
+
+---
+
 ### 18. Februar 2014
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/2aes-ba-machemicaleng-nct.md`](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/2aes-ba-machemicaleng-nct.md)  
@@ -27378,6 +30861,59 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 ---
 
+### PDF vom 01.12.1998
+
+PO-Quelle: [`pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-diplom-ciw-1998.md`](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-diplom-ciw-1998.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
+
+- [Übung zu Techn. Thermodynamik (Vertiefung) für CBI und CEN — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 3** _(paragraph)_
+
+```
+“
+Konstruktionslehre I
+Apparatetechnik und Chemie-
+Prozeßautomatisierung,
+maschinenbau
+Mechanische Verfahrenstechnik
+2.
+einer mindestens mit ausreichend bewerteten
+Reaktionstechnik
+Studienarbeit,
+Strömungsmechanik
+3.
+über den erfolgreichen Abschluß des Projek-
+Frermodynamik
+ierungskurses.
+Umweltverfahrenstechnik und
+Recycling
+(4) 'Der zum Erwerb eines Leistungsnachweises erfor-
+derliche Wissensstand (erfolgreiche Teilnahme an einer
+2.
+je einer mündlichen Einzelprüfung in drei frei
+Lehrveranstaltung) wird durch Klausuren, Kolloquien,
+wählbaren Vertiefungen (Vertiefungsfächer)
+Referate oder Hausarbeiten nachgewiesen.
+aus den sieben Kernfächern gemäß Nr. 1
+°Zu Beginn der Lehrveranstaltungen gibt der für sie
+und
+verantwortliche Hochschullehrer bekannt, welche Lei-
+stungen für den Nachweis  …
+
+---
+
 ### PDF vom 15.12.2008 i.d.F. 02.07.2015
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-energietechnik-ba-ma-juli2015.md`](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-energietechnik-ba-ma-juli2015.md)  
@@ -27412,6 +30948,49 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 (2)[1] Innerhalb des konsekutiven Bachelor- und Masterstudiums kann wegen des erforderlichen fachspezifischen Kompetenzgewinns jedes Modul nur einmal belegt werden.[2] Für den Fall, dass bereits ein Modul aus dem Pflichtmodulbereich im Bachelorstudiengang erfolgreich absolviert wurde, ist ersatzweise ein zusätzliches Vertiefungsmodul zu wählen.
 
 _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### FPOBT 20250320.pdf
+
+PO-Quelle: [`pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpobt-20250320.md`](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpobt-20250320.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Englisch Master: English for Business Purposes — Übung — Rachel Gracey
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+
+#### Auszüge aus dem PO-Text
+
+**§ 47 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** _(paragraph)_
+
+3Für (alternative) Nachweismöglichkeiten wird auf die Äquivalenztabelle des Sprachenzentrums der FAU verwiesen.[4] Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ihren ersten berufsqualifizierenden Hochschulabschluss in deutscher bzw. englischer Sprache erworben haben, sind von der jeweiligen Nachweispflicht befreit.
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+**OCR Seite 4** _(paragraph)_
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+(2) 'Das Thema der Bachelorarbeit wird von einer bzw. einem an der Technischen Fa-
+kultät tätigen hauptberuflichen oder nebenberuflichen Hochschullehrerin bzw. Hoch-
+schullehrer des Departments CBl im Sinne des Art. 19 Abs. 1 BayHIG ausgegeben. ?Bei
+Abweichungen hiervon ist die Zustimmung der bzw. des Studienkomissionsvorsitzenden
+erforderlich.
+(3) Die Bachelorarbeit kann in deutscher oder englischer Sprache verfasst werden.
+2. Masterprüfung
+8 47 Qualifikation zum Masterstudium, Nachweise und
+Zugangsvoraussetzungen
+(1) Einschlägiger Abschluss im Sinne des 8 33 Abs. 1 Nr.
+1 ABMPOI/TF ist der Bachelo-
+rabschluss nach dieser Fachstudien- und Prüfungsordnung oder ein gleichwertiger in-
+oder ausländischer Abschluss, der im Hinblick au …
 
 ---
 
@@ -28729,12 +32308,18 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 ### FPOCME 20250320.pdf
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20250320.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpocme-20250320.md)  
-Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Pflicht-Stellen gefunden: **18**  
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar — Anita Seguna
+- Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache — Seminar
+- Anleitung zu wissenschaftlichen Arbeiten — Anleitung zu wiss. Arbeiten — Prof. Dr.-Ing. Thomas Dürbaum
+- Anleitung zum selbständigen wissenschaftlichen Arbeiten (Arbeitskreisseminar) — Seminar
 - Laboratory course process engineering — Praktikum — Prof. Dr.-Ing. Bastian Etzold
+- Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) — Hauptseminar — Joachim Peters
+- Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM) — Einführungskurs — PD Dr. Aura Heydenreich
 
 #### Auszüge aus dem PO-Text
 
@@ -28754,7 +32339,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 (1) Voraussetzung für die Zulassung zur Masterarbeit ist, dass die „Pflichtmodule“ gemäß der **Anlage 1** bzw. **Anlage 2** bestanden und insgesamt mindestens 80 ECTSPunkte erworben sind.
 
-_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+_(+ 14 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 

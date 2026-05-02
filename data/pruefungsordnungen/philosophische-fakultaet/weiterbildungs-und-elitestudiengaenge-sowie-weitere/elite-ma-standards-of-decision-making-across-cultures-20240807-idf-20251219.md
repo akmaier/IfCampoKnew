@@ -204,6 +204,177 @@ einem ca. 30-minütigen Auswahlgespräch eingeladen, das auch bildtelefonisch du
 
 (9) Die Bestätigung über das bestandene Qualifikationsfeststellungsverfahren hat unbeschränkte Gültigkeit, sofern sich der Masterstudiengang nicht wesentlich geändert hat. 
 
-7 
+7
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+ul
+/zu \
+Fachstudien- und Prüfungsordnung für den
+Elite-Masterstudiengang Standards of Decision-Making
+Across Cultures (M.A.) an der Philosophischen Fakultät
+und Fachbereich Theologie der
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- FPOSDAC -
+Vom 7. August 2024
+geändert durch Satzung vom
+19. Dezember 2023.
+Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88
+Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnova-
+tionsgesetz vom 5. August 2022 (BayHIG) erlässt die FAU folgende Fachstudien- und
+Prüfungsordnung:
+Inhaltsverzeichnis:
+Präambel .................2224244444snnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+1
+8 1
+Geltungsbereich ............................44444444444444400000RRRRRnnnnnnnnnn
+nenne nenn nnnnnnennnnnnnnnnnnnnnnnnnnennnnnnnnn 1
+82 Qualifikation zum Masterstudium....................usssnnsssnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nennen
+8 3 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichts- und
+Prüfungssprache ..............nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn DZ
+84 Prüfungsausschuss.....................444444444444444400000RRRRRnn
+nn nn nn nn nenne nenn nenn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnen O
+85 Wiederholung ...........uenesenesenennennennennennenennennennennenennennennennennensenennennennnsenennernentrnenseneD
+86 Inkrafttreten und Übergangsvorschriften..................2244444444Hnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn D
+Anlage 1: Studienverlaufsplan Elite-Masterstudiengang “Standards of Decision-Making
+Across Cultures” (SDAC)...................22444444444Hnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn DO
+Anlage 2: Qualifikationsfeststellungsverfahren ....................---444444444snnnnsnnnnnnnnnnnnnnnnnnnnnnnnnn 4
+Präambel
+Im Rahmen des Elitenetzwerks Bayern bietet die FAU den Elite-Masterstudiengang
+„Standards of Decision-Making Across Cultures (M.A.)“ an.
+8 1 Geltungsbereich
+Die Fachstudien- und Prüfungsordnung für den forschungsorientierten Elite-Master-
+studiengang „Standards of Decision-Making Across Cultures (M.A.)“ mit dem Ab-
+schluss „Master of Arts (M.A.)“ ergänzt die Allgemeine Studien- und Prüfungsordnung
+für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbe-
+reich Theologie der FAU - ABMStPO/Phil —-in der jeweils geltenden Fassung.
+8 2 Qualifikation zum Masterstudium
+(1) Abweichend von & 36 ABMStPO/Phil wird die Qualifikation zum Masterstudium
+Standards of Decision-Making Across Cultures (M.A.) nachgewiesen durch
+1. ein mit überdurchschnittlichem Erfolg abgeschlossenes Studium an einer Hoch-
+schule (Bachelor, Diplom, Magister, Master oder Staatsexamen) insbesondere in
+den Bereichen Philologie, Sozialwissenschaft, Geschichtswissenschaft, Pädagogik,
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+Philosophie, Religionswissenschaft, Ethnologie, Wirtschaftswissenschaft, Rechts-
+wissenschaft, Psychologie und Medizin mit besonderem Forschungs- und Wissen-
+schaftsbezug bzw. einen sonstigen gleichwertigen Abschluss einer in- oder auslän-
+dischen Hochschule in den genannten Bereichen, soweit das Studium ein zu den
+o.g. Abschlüssen
+nicht wesentlich
+unterschiedliches forschungs- und wissen-
+schaftsbezogenes Qualifikationsprofil aufweist, sowie
+2. die erfolgreiche Teilnahme an dem Qualifikationsfeststellungsverfahren gemäß der
+Anlage 2.
+(2) "Bewerberinnen bzw. Bewerber sollen zu den 50 v. H. Besten ihres Jahrgangs
+zählen oder den entsprechenden Studiengang mit der Gesamtnote von mindestens
+2,00 (Prädikat „gut“) abgeschlossen haben. ?8 16 Abs.
+3 ABMStPO/Phil gilt entspre-
+chend.
+(3) "Sind im Falle des Abs. 1 Nr. 1 Halbsatz 2 ausgleichsfähige Unterschiede zu den
+Abschlüssen nach Abs. 1 Nr. 1 Halbsatz 1 gegeben, kann der Prüfungsausschuss den
+Zugang unter der Bedingung aussprechen, dass zusätzliche vom Prüfungsausschuss
+festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätes-
+tens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.
+2Der Zugang wird unter Vorbehalt gewährt. ?Im Falle des nicht rechtzeitigen Nachwei-
+ses erfolgt die Exmatrikulation.
+(4) "Abweichend von Abs. 1 Nr. 1 können Studierende, die in einem einschlägigen
+Bachelorstudiengang
+immatrikuliert sind, zum Masterstudium zugelassen werden,
+wenn sie mindestens 140 ECTS-Punkte erreicht haben. ?Der Nachweis über den be-
+standenen Bachelorabschluss ist spätestens innerhalb eines Jahres nach Aufnahme
+des Studiums nachzureichen; die förmliche Aufnahme des Masterstudiums setzt den
+Abschluss des Bachelorstudiums voraus. Der Zugang zum Masterstudium wird unter
+Vorbehalt gewährt; im Falle des nicht rechtzeitigen Nachweises erfolgt die Exmatriku-
+lation.
+&
+3 Umfang und Gliederung des Masterstudiums, Prüfungen,
+Unterrichts- und Prüfungssprache
+(1) Umfang und Gliederung des Elite-Masterstudiengangs Standards of Decision-Ma-
+king Across Cultures (M.A.) sowie Art, Umfang und Gewichtungsfaktor der Prüfungen
+bestimmen sich nach der Anlage 1.
+(2) 'Der Elite-Masterstudiengang ist in zwei Phasen gegliedert. ?In den beiden ersten
+Semestern steht die Vermittlung theoretischer Inhalte im Vordergrund. *In den beiden
+weiteren Semestern ist die praktische interkulturelle Erfahrungsarbeit mit starkem Chi-
+nabezug (3. Semester: verpflichtender Aufenthalt an einer der nationalen oder inter-
+nationalen Partneruniversitäten der FAU oder ein selbstorganisierter Auslandsaufent-
+halt) und die inhaltliche Vertiefung der vermittelten theoretischen Grundlagen (4. Se-
+mester: Erstellen der Masterarbeit) vorgesehen.
+(3) "Die Unterrichts- und Prüfungssprache im Elite-Masterstudiengang Standards of
+Decision-Making Across Cultures (M.A.) ist Englisch. ?Einzelne Lehrveranstaltungen
+und Prüfungen in von den Studierenden entsprechend wählbaren Modulen können in
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+deutscher und / oder chinesischer Sprache abgehalten werden; Näheres regelt das
+Modulhandbuch. ®Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.
+8& 4 Prüfungsausschuss
+(1) 'Abweichend von 88 12 Abs. 1 und 15 ABMStPO/Phil wird für die Organisation
+und Durchführung der Prüfungen im Elite-Masterstudiengang Standards of Decision-
+Making Across Cultures (M.A.) ein eigener Prüfungsausschuss eingesetzt. ?Diesem
+gehören fünf Mitglieder an. ?Neben den beiden Sprecherinnen bzw. Sprechern des
+Studiengangs gehören die Professur
+für Kultur- und Sozialanthropologie (Schwerpunkt
+Law Tech in globalen Rechtskulturen), die Professur für Kultur- und Sozialanthropolo-
+gie (Schwerpunkt Ostasien) sowie die Studiengangskoordinatorin bzw. der Studien-
+gangskoordinator dem Prüfungsausschuss an. *Die Mitglieder werden vom Fakultäts-
+rat der Philosophischen Fakultät und Fachbereich Theologie bestellt. $Der Prüfungs-
+ausschuss wählt eine Sprecherin bzw. einen Sprecher des Studiengangs zu der bzw.
+dem Vorsitzenden und regelt die Vertretung. ®Die Amtszeit der Mitglieder beträgt fünf
+Jahre. ”Die Wiederbestellung der Mitglieder sowie die Wiederwahl zu der bzw. dem
+Vorsitzenden ist zulässig. ®Die bzw. der Vorsitzende kann ihr bzw. ihm obliegende
+Aufgaben einem Mitglied des Prüfungsausschusses zur Erledigung übertragen.
+(2) Dem Prüfungsausschuss obliegt darüber hinaus die Prüfung der Qualifikations- und
+Zugangsvoraussetzungen nach 8 2 i. V. m. der Anlage 2.
+8 5 Wiederholung
+!Abweichend von 8 40 Satz
+1 ABMStPO/Phil können die Prüfungen des Elite-Master-
+studiums nur einmal wiederholt werden. ?Die Wiederholungsprüfungen der im Ausland
+zu absolvierenden Module (Module 7 bis 9) können auch in Erlangen stattfinden.
+8 6 Inkrafttreten und Übergangsvorschriften
+(1) "Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2024 in Kraft. ?Sie
+gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2024/2025 aufneh-
+men werden.
+(2) "Die Fachstudien- und Prüfungsordnung für den Elite-Masterstudiengang Stan-
+dards of Decision Making Across Cultures (M.A) an der Philosophischen Fakultät und
+Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+— FPOSDAC - vom 14. Juni 2017, zuletzt geändert durch Satzung vom 31. Juli 2023,
+tritt mit Wirkung zum 30. September 2028 außer Kraft. Prüfungen nach der in Satz 1
+genannten FPOSDAC werden letztmals im Sommersemester 2028 angeboten.
+„(3) "Diese Fachstudien- und Prüfungsordnung tritt mit Wirkung zum 30. September
+2027 außer Kraft. "Prüfungen nach dieser Studien- und Prüfungsordnung werden spä-
+testens im Sommersemester 2027 letztmals angeboten. ®Sollten zum Ende des Som-
+mersemesters 2027 noch nicht alle immatrikulierten Studierenden ihr Studium abge-
+schlossen haben, so entscheidet der nach der Allgemeinen Studien- und Prüfungsord-
+nung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und
+Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- ABMStPO/Phil — in der jeweils geltenden Fassung zuständige Prüfungsausschuss
+über die jeweils anstehenden prüfungsrechtlichen Fragen.
+3
+```
 

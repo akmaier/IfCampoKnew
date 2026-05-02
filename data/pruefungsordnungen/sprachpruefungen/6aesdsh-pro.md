@@ -348,6 +348,63 @@ Prof. Dr. Karl-Dieter Grüske Präsident
 
 Die Satzung wurde am 18. Februar 2013 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 18. Februar 2013 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 18. Februar 2013. 
 
-9 
+9
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 7
+
+```
+——,——= = = FRIEDRICH-ALEXANDER
+m u um u UNIVERSITÄT
+==
+m
+une
+ERLANGEN-NÜRNBERG
+u
+DSH-Zeugnis
+Herr/Frau
+geboren am
+aus
+hat am [Datum]
+die „Deutsche Sprachprüfung für den Hochschulzugang“ (DSH)
+mit
+folgendem Ergebnis abgelegt:
+Gesamtergebnis: DSH - 1/2/3
+In den Teilprüfungen wurden erreicht:
+Schriftliche Prüfung:
+—_
+%
+Hörverstehen:
+zu
+%
+Textproduktion:
+—_
+%
+Leseverstehen:
+zu
+%
+Wissenschaftssprachliche Strukturen:
+zu
+%
+Mündliche Prüfung:
+—_
+%
+Ein Gesamtergebnis DSH-2 weist die sprachliche Studierfähigkeit für die uneingeschränkte Zulassung oder
+Einschreibung zu allen Studiengängen und Studienabschlüssen an allen Hochschulen aus.
+Mit Erreichen der Ebene DSH-3 werden besonders hohe Deutschkenntnisse nachgewiesen. Die DSH-3 liegt
+über dem für die Zulassung oder Einschreibung erforderlichen Niveau. Ein Gesamtergebnis DSH-1 weist eine
+eingeschränkte sprachliche Studierfähigkeit aus. Nach Entscheidung der Hochschule ist damit die Zulassung
+oder Einschreibung für bestimmte Studiengänge oder Studienabschlüsse möglich.
+Beschreibung der mit dem Prüfungsergebnis nachgewiesenen sprachlichen Fähigkeiten siehe Rückseite.
+Erlangen, den [Datum]
+nn
+(Siegel)
+WenFE
+(Professur für Deutsch als Fremdsprache)
+(Leiter der Abt. Deutsch als Fremdsprache)
+7
+```
 

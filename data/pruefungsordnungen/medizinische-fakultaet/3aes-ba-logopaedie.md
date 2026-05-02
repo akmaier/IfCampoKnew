@@ -614,6 +614,43 @@ Prof. Dr.-Ing. Joachim Hornegger Präsident
 
 Die Satzung wurde am 9. Mai 2016 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 9. Mai 2016 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 9. Mai 2016. 
 
-16 
+16
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 14
+
+```
+p)
+Zeile 20 (Modul-Nr. 19) wird wie folgt geändert:
+aa)
+In Spalte 4 (SWS) Unterspalte 2 (U) wird der Haken durch die Zahl „2“ ersetzt.
+bb)
+In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird nach dem Klammerzusatz „(60 Min.)“ die hochgestellte Zahl „®“
+angefügt.
+q)
+Zeile 21 (Modul-Nr. 20) wird wie folgt geändert:
+aa)
+In den Spalten 3 (Lehrveranstaltung) und 4 (SWS) wird die Unterzeile 2
+((sammen
+li
+peniLesen
+El) gestrichen.
+bb)
+In den Spalten 6 (1. Sem) bis 10 (5. Sem) wird jeweils die Unterzeile 2
+cc)
+In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird der Klammerzusatz „(20 Min.)“ gestrichen.
+r)
+Nach Zeile 21 (Modul-Nr. 20) wird folgende neue Zeile 22 eingefügt:
+s)
+Zeile 23 (neu) (Modul-Nr. 21) (alt) werden in Spalte 1 (Modul-Nr.) die Zahl „21“ durch die Zahl „22“ ersetzt und in Spalte 14 (Gewichtung)
+das Wort „einfach“ eingefügt.
+t)
+Zeile 24 (neu) (Modul-Nr. 22) (alt) wird wie folgt geändert:
+aa)
+In Spalte 1 (Modul-Nr.) wird die Zahl „22“ durch die Zahl „23“ ersetzt.
+14
+```
 

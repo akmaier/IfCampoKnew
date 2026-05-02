@@ -1556,6 +1556,169 @@ Die Dauer der schriftlichen Prüfungen bemisst sich an der Anzahl der Semesterwo
 
 Die Dauer der mündlichen Prüfungen bemisst sich an der Anzahl der Semesterwochenstunden (SWS) der Veranstaltung, auf die sich die mündliche Prüfung bezieht. 
 
-**Anzahl SWS Dauer der Prüfung** 2 SWS 15 Minuten 3 SWS 20 Minuten 4 und mehr SWS 30 Minuten 
+**Anzahl SWS Dauer der Prüfung** 2 SWS 15 Minuten 3 SWS 20 Minuten 4 und mehr SWS 30 Minuten
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 36
+
+```
+matik
+WS
+SS
+WS
+SS
+WS
+SS
+2
+|
+8
+10
+En EEE Pe
+4
+5
+4
+5
+............0.00....
+4
+5
+4
+5
+a0. EEE EEE BEE
+EEE BEE EEE
+8
+10
+8
+10
+4
+5
+4
+5
+4
+5
+4
+5
+BiL : BE) 7 50
+BE
+BE EB
+4
+5
+4
+5
+4
+5
+4
+5
+36
+45
+4
+5
+4
+5
+4
+5
+4
+5
+4
+5
+4
+5
+Business
+8
+10
+4
+5
+4
+5
+agement
+8
+10
+4
+5
+4
+5
+anag. .............. 82.2... 10_.1222222222222222212222222222222222-..222222222222222-1222222-2222-1-..%2222-2-32-21-.-82222--3..-
+30
+37,5
+4
+5
+4
+5
+4
+5
+4
+5
+6
+7,5
+6
+7,5
+8
+10
+8
+10
+4
+5
+4
+5
+4
+5
+4
+5
+```
+
+### OCR Seite 37
+
+```
+WS
+SS
+WS
+SS
+WS
+SS
+,5 ECTS
+BE
+2
+2,5
+2
+2,5
+2
+2,5
+2
+2,5
+2
+2,5
+2
+2,5
+ester)
+2
+5
+2
+8)
+BE EEE? DEE KK
+HE
+2
+15
+.)
+0
+0
+0
+12
+12
+nn Pe>
+EnBE
+BE VER HERRARE
+ER
+2
+15
+r 6. Sem.)
+0
+10
+10
+2
+5
+2
+5
+```
 

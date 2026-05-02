@@ -121,6 +121,362 @@ erfolgreichen Bestehen der Zusatzstudien sind Module im Umfang von 15 ECTSPunkte
 
 - 3) Es erfolgt der Besuch einer inklusiven Einrichtung und ggf. auch ein Schulbesuch mit Hospitation im Unterricht. 
 
-4 
+4
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+Studien- und Prüfungsordnung für die Zusatzstudien „Inklusion:
+Vielfalt und Teilhabe im schulischen Kontext gestalten“ an der
+Philosophischen Fakultät und Fachbereich Theologie der Friedrich-
+Alexander-Universität Erlangen-Nürnberg (FAU)
+- PO ZS Inklusion -—
+Vom 5. März 2026
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 77 Abs. 5, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2
+Satz 1 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 (BayHIG) in der
+derzeit geltenden Fassung erlässt die FAU folgende Studien- und Prüfungsordnung:
+Inhaltsverzeichnis
+8 1 Geltungsbereich; Ziele......................44444ssssnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+1
+8 2 Studienbeginn; Regelstudienzeit, Umfang........................--444444snnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+1
+8 3 Qualifikationsvoraussetzungen .........uuuueesessssssssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 4 Prüfungsausschuss; Verfahrensrecht....................uuussssnnsssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 5 Zulassung zu den Prüfungen...
+nennen
+2
+8 6 Qualifikationsziele und Prüfungen...................-.444444sssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 7 Zertifikat................unnnseseennnnnnnnnnnnensnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnennnnnnrnnnnnnnesnnnernnennnnessnnnnn
+8 8 Inkrafttreten; Experimentierklause!..........................unssssssnnnnnnnnnenennnnnnnennnnnnrennnne
+nn
+Anlage: Studienverlaufsplan..................................
+nennen
+DO
+8 1 Geltungsbereich; Ziele
+(1) Diese Studien- und Prüfungsordnung regelt die Ziele und Inhalte der Zusatzstudien
+„Inklusion:
+Vielfalt
+und
+Teilhabe
+im
+schulischen
+Kontext
+gestalten“
+an
+der
+Philosophischen Fakultät und Fachbereich Theologie Fakultät der FAU gemäß Art. 77
+Abs. 5 Satz 1 Nr.
+2 BayHIG sowie die Ablegung der dazugehörigen Prüfungen.
+(2) 'Die Zusatzstudien richten sich an Lehramtsstudierende der FAU, die sich im
+Rahmen ihres Studiums über die obligatorischen Studieninhalte hinaus profilieren und
+weiterqualifizieren wollen, unabhängig von Schulart und Fächerkombination. ?Sie
+vermitteln Fachkompetenzen für den Umgang mit Heterogenität im Klassenzimmer
+und
+fördern
+inklusive
+Lehrkräftekompetenzen.
+sZiel
+ist
+eine
+weitergehende/ergänzende
+Profilierung und Professionalisierung von angehenden
+Lehrkräften
+und
+pädagogischen
+Fachkräften
+für
+eine
+inklusive
+Bildung.
+*Mit
+erfolgreichem Abschluss erhalten die Studierenden das Zertifikat „Inklusion: Vielfalt
+und Teilhabe im schulischen Kontext gestalten“.
+& 2 Studienbeginn; Regelstudienzeit, Umfang
+(1)
+'Die
+Aufnahme
+der
+Zusatzstudien
+ist
+zum
+Wintersemester
+oder
+zum
+Sommersemester möglich. ?Nach Abschluss des Studiums der Zusatzstudien bzw.
+nach deren (endgültigem) Nichtbestehen ist ein weiteres Studium der Zusatzstudien
+und die Teilnahme an den Modulprüfungen der Zusatzstudien nach dieser Studien-
+und Prüfungsordnung ausgeschlossen.
+(2) 'Die Regelstudienzeit beträgt vier Semester und darf um maximal zwei Semester
+überschritten werden. ?Die Aufnahme der Zusatzstudien wird frühestens ab dem
+dritten Fachsemester des Lehramtsstudiums nach 8 3 empfohlen. ®Der Umfang der im
+Rahmen der Zusatzstudien angebotenen Module richtet sich nach der Anlage. *Zum
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+erfolgreichen Bestehen der Zusatzstudien sind Module im Umfang von 15 ECTS-
+Punkten nachzuweisen.
+8 3 Qualifikationsvoraussetzungen
+'Der
+Zugang
+zu
+den
+Zusatzstudien
+setzt
+die
+Immatrikulation
+in
+einem
+Staatsexamensstudiengang
+für
+das
+Lehramt
+an
+Berufsschulen,
+Gymnasien,
+Realschulen, Mittel- oder Grundschulen an der FAU voraus.* ?Bei einer Beendigung
+des Lehramtsstudiums im Sinne des Satz 1 erlischt die Berechtigung zur Absolvierung
+der Zusatzstudien.
+& 4 Prüfungsausschuss; Verfahrensrecht
+(1) Für die Zusatzstudien ist der Prüfungsausschuss gemäß & 10 LAPO zuständig.
+(2) Im Übrigen gelten die Regelungen der LAPO, soweit diese den Grundsätzen der
+Zusatzstudien nicht widersprechen bzw.
+in dieser Studien- und Prüfungsordnung
+nichts anderes bestimmt ist.
+8 5 Zulassung zu den Prüfungen
+'Mit der
+Immatrikulation
+in
+einen
+der
+in
+$ 3 genannten
+Studiengänge
+gelten
+Studierende
+als
+zu
+den
+Modulprüfungen
+der
+Zusatzstudien
+zugelassen.
+?Die
+Zulassung ist zu versagen, soweit eine Zulassung zurjeweiligen Modulprüfung bereits
+anderweitig erfolgt ist.
+8 6 Qualifikationsziele und Prüfungen
+(1)
+!Das
+übergeordnete
+Qualifikationsziel
+der
+Zusatzstudien
+liegt
+darin,
+die
+Studierenden für einen inklusiven Umgang mit Heterogenität zu sensibilisieren und sie
+zu befähigen, Bildungsbarrieren zu erkennen und Bildungsbrücken zu bauen. ?Die
+Studierenden erwerben im Rahmen dieses Studienangebotes Kompetenzen in den
+Modulen “Inklusive Grundlagen“, „Inklusive Didaktik“ und „Inklusive
+Praxis“. ®Die
+Studierenden lernen, empirische Befunde zu Inklusion als Grundlage für ihr Handeln
+und für Argumentationen zu nutzen und kennen die damit verbundenen Aufgaben und
+rechtlichen Anforderungen.
+(2) Das Modul „Inklusive Grundlagen“ unterstützt beim Aufbau von professionellen
+Wissensbeständen und Handlungskompetenzen, um eine inklusive Schulkultur zu
+etablieren, die den Bedürfnissen aller Schülerinnen und Schüler gerecht wird und sie
+in ihrem Lernprozess unterstützt.
+(3) Nach
+Abschluss
+des
+Moduls
+„Inklusive
+Didaktik“
+kennen
+die
+Studierenden
+theoretische Grundlagen von Lernprozessen als Basis für einen geeigneten Unterricht
+in inklusiven Settings; sie können Konzepte inklusionsorientierter Unterrichtsmodelle
+und (inklusions-)didaktische Modelle exemplarisch anwenden und reflektieren sowie
+Konsequenzen für ihre Unterrichts- und Lernraumgestaltung ziehen.
+* Redaktioneller Hinweis: $ 3 Satz 1 muss richtig wie folgt lauten:
+„Der Zugang zu den Zusatzstudien setzt die Immatrikulation in einem Studiengang für das Lehramt an Beruflichen
+Schulen, Gymnasien, Realschulen, Mittel- oder Grundschulen an der FAU voraus.“
+Diese Änderung wird im Zuge der nächsten Änderungssatzung eingepflegt werden.
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N
+(4)
+"Bei
+der
+Hospitation
+im
+inklusiven
+Unterricht
+für
+das
+Modul
+„Inklusive
+Praxiserfahrungen“ erkennen die Studierenden verschiedene Herangehensweisen an
+die Aufgaben der Unterrichtsgestaltung und -durchführung unter Berücksichtigung der
+schulischen Rahmenbedingungen und entwickeln ein Konzept zur Kooperation mit
+anderen pädagogischen Fachkräften als Unterstützungssystem. ?Die so erworbene
+Qualifikation sensibilisiert für die Bedeutung der Inklusion in Gesellschaft, Kultur und
+Wissenschaft.
+(5) "Beteiligte
+Studienfächer
+in
+den
+Zusatzstudien
+sind jene des
+Departments
+Pädagogik und des Departments der Fachdidaktiken aller Lehramtsstudiengänge bzw.
+Module, die in der Verantwortung der Mitglieder des „Arbeitskreises Inklusion für
+Bildungskontexte“ liegen. ?Die übergeordneten Qualifikationsziele der drei Module der
+Zusatzstudien ergeben sich aus den Abs. 2 bis 4. ®Die spezifischen Qualifikationsziele
+und Prüfungsgegenstände sind abhängig von der innerhalb des jeweiligen Moduls
+jeweils
+gewählten
+Lehrveranstaltung
+und
+sind
+der jeweiligen
+Beschreibung
+zu
+entnehmen. *Näheres regelt das Modulhandbuch der Zusatzstudien „Inklusion: Vielfalt
+und Teilhabe im schulischen Kontext gestalten“.
+(6) Art und Umfang der Lehrveranstaltungen und der Prüfungen ergeben sich aus der
+Anlage.
+(7) "Eine im Rahmen der Zusatzstudien nicht bestandene Modulprüfung kann dreimal
+wiederholt werden. ?Eine weitere Wiederholung ist ausgeschlossen.
+8 7 Zertifikat
+(1) Der Nachweis über die im Rahmen der Zusatzstudien erfolgreich abgelegten
+Modulprüfungen
+erfolgt
+über
+eine
+Leistungsübersicht,
+die
+sich
+die
+bzw.
+der
+Studierende selbst aus dem Prüfungsverwaltungsprogramm ausdrucken kann.
+(2) Werden alle Module der Anlage im Umfang von 15 ECTS-Punkten erfolgreich
+abgeschlossen, wird zusätzlich
+ein
+Zertifikat „Inklusion:
+Vielfalt und Teilhabe im
+schulischen Kontext gestalten“ ausgestellt, das von der bzw. dem Verantwortlichen für
+die Zusatzstudien unterzeichnet wird.
+8 8 Inkrafttreten; Experimentierklausel
+(1) !Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2026 in Kraft. Sie gilt für
+alle
+Studierenden,
+die
+die
+Zusatzstudien
+„Inklusion:
+Vielfalt
+und
+Teilhabe
+im
+schulischen Kontext gestalten“ ab dem Wintersemester 2026/27 aufnehmen werden.
+(2) "Diese Studien- und Prüfungsordnung tritt mit Ablauf des Sommersemesters 2030
+außer Kraft. ?Die Zusatzstudien nach dieser Studien- und Prüfungsordnung sind
+rechtzeitig vor Außerkrafttreten dieser Studien- und Prüfungsordnung im Hinblick auf
+deren Fortführung durch die Philosophische Fakultät und Fachbereich Theologie zu
+evaluieren.
+6)
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Anlage: Studienverlaufsplan Zusatzstudien
+„Inklusion: Vielfalt und Teilhabe im schulischen Kontext gestalten“
+Workload-Verteilung
+Gesamt
+.
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+Sun
+ECTS-
+proee
+97
+Art und Umfang der Prüfung
+Modul-
+vöüors
+Punkte
+1.
+2
+note
+Klausur oder
+Inklusive Grundlagen
+Seminar
+2
+(5)
+(5)
+münden
+tung oaer
+Hausarbeit mit Referat ?
+Klausur oder
+Inklusive Didaktik
+Seminar
+2
+(5)
+(5)
+münden
+tung oaer
+Hausarbeit mit Referat ?
+Praktische Arbeit mit schriftlicher
+Inklusive Praxiserfahrungen
+Hospitation °)
+2
+(5)
+(5)
+Dokumentatlon (ca. 5 5.)
+Praktikumsbericht
+(ca. 5 S.) 2
+Summe SWS und ECTS-Punkte
+L
+2 6 OBERE
+15
+5-15
+5-15
+1)
+Die Workload-Verteilung bezieht sich auf einen idealtypischen Studienverlauf. Die Studierenden können die Module jedoch gemäß dem jeweiligen Angebot frei und zu beliebigen
+Zeitpunkten im Laufe des gesamten Lehramtsstudiums absolvieren.
+2)
+Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der gewählten Lehrveranstaltung und werden zu Beginn der Vorlesungszeit durch die
+Modulverantwortlichen festgelegt.
+3
+Es erfolgt der Besuch einer inklusiven Einrichtung und ggf. auch ein Schulbesuch mit Hospitation im Unterricht.
+4
+```
 

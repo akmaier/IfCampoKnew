@@ -233,6 +233,109 @@ Prof. Dr. Karl-Dieter Grüske Präsident
 
 1Die Satzung wurde am 28. Juni 2013 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 28. Juni 2013 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben.[2] Tag der Bekanntmachung ist der 28. Juni 2013. 
 
-7 
+7
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 5
+
+```
+8 12
+Prüfungsergebnisse und Zeugnisse
+(1) Für die Bewertung der Prüfungsleistungen
+sind folgende Noten zu verwenden:
+1,00; 1,30
+_=__ "sehr gut”
+_=___einehervorragendeLeistung
+| 1.70: 2,00: 2,30
+Ä -
+| "gut"
+| -
+| eine Leistung, die erheblich über den durchschnittlichen
+|
+I
+Anforderungen
+liegt
+2,70: 3,00: 3,30
+=
+"befriedigend"
+_
+eine Leistung, die den durchschnittliichen Anforderungen
+nn
+entspricht000
+| 3,70; 4,00
+| =
+"ausreichend"
+| _
+ane
+Leistung,
+die
+trotz
+ihrer Mangel
+noch den
+FE
+Anforderungen
+genügt
+4.70: 5.00
+_
+"nicht
+_
+eine
+Leistung,
+die wegen
+erheblicher
+Mängel
+den
+ausreichend”
+Anforderungen nichtmehrentspricht,,_
+(2)
+Bei verschiedener Bewertung
+einer Prüfungsleistung durch zwei verschiedene
+Prüferinnen bzw. Prüfer wird die Note gemittelt.
+(3)
+"Zur
+Ermittlung des Gesamtergebnisses der Prüfungen
+wird
+eine Gesamtnote
+gebildet. ?Die Gesamtnote der Prüfungen
+UNlcert Basis,
+UNicert
+I und
+UNlcert
+Il
+errechnet sich aus dem Durchschnitt der dreifach gewichteten Prüfungsleistung nach $
+10 Abs. 2 S. 1.und der einfach gewichteten Prüfungsleistung nach $10 Abs. 2 S. 2.
+Abweichend von Satz 2 errechnet sich die Gesamtnote UNlcert® II Englisch aus dem
+Durchschnitt aus mündlichem und schriftlichem
+Prüfungsteil. “Die Gesamtnote der
+Prüfungen UNlcert
+Ill gemäß $ 10 Abs. 3 errechnet sich aus dem Durchschnitt des
+schriftlichen und des mündlichen Prüfungsteils. ?Die Gesamtnote lautet:
+bei einem Durchschnitt bis 1,50 = "sehr gut"
+bei einem Durchschnitt über 1,50 bis 2,50 = "gut"
+bei einem Durchschnitt über 2,50 bis 3,50 = "befriedigend"
+bei einem Durchschnitt über 3,50 bis 4,00 = "ausreichend"
+bei einem Durchschnitt über 4,00 = "nicht ausreichend".
+(4) Eine Prüfungsleistung gilt als bestanden, wenn alle Prüfungsteile mit mindestens
+"ausreichend" benotet worden sind.
+(5) Über eine bestandene
+Prüfung
+wird von
+der Geschäftsführung
+ein
+Zertifikat
+ausgestellt, mit Angabe
+1. der jeweiligen Fremdsprache,
+2. der absolvierten Ausbildungsstufe,
+3. der Teilnoten und der Gesamtnote.
+8 13
+Inkrafttreten
+Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. ?Gleichzeitig
+tritt die Prüfungsordnung der Universität Erlangen-Nürnberg für die Elementare, die
+Allgemeine und die Fachbezogene Fremdsprachenprüfung (UNIcert®I-IV) vom 26. Juli
+1985 in der Fassung vom 1. März 2010 außer Kraft.
+5
+```
 

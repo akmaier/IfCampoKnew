@@ -373,6 +373,799 @@ Diese Satzung wurde am 20. März 2025 digital auf der Internetseite https://www.
 
 Tag der Bekanntmachung ist daher der 20. März 2025 
 
-13 
+13
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ul
+/zu \
+NEUFASSUNG
+Fachstudien- und Prüfungsordnung für den
+Masterstudiengang International Business Studies der
+Rechts- und Wirtschaftswissenschaftlichen Fakultät der
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- FPO MSc IBS -
+Vom 20. März 2025
+Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88
+Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnova-
+tionsgesetz vom 5. August 2022 (BayHIG) in der jeweils geltenden Fassung erlässt
+die FAU folgende Fachstudien- und Prüfungsordnung:
+Inhaltsverzeichnis:
+8 1 Geltungsbereich ...................-2444444444HHnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnrnrnnnnnnnnnnnnn
+1
+8 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen............
+1
+8 3 Umfang und Gliederung des Masterstudiums, Prüfungen,
+Unterrichts- und
+Prüfungssprache ..............nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+DO)
+8 4 Kernbereich i.S.d 8 3 Abs. 1........................4444444444444444000000RRRRnnnn
+none non nennen nnnnnnnnnnnnnnnnnnnnnnnnn
+$ 5 Wahlbereich (Elective courses): Area Studies i.S.d. 8 3 Abs. 2... 7
+8 6 Inkrafttreten und Übergangsvorschriften..................-444444444HHnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+OÖ
+Anlage: Studienverlaufsplan Master International Business Studies..................................10
+8 1 Geltungsbereich
+Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiven
+Masterstudiengang „International Business Studies“ mit dem Abschlussziel des „Mas-
+ter of Science“ ergänzt die Rahnmenprüfungsordnung für die Masterstudiengänge im
+Fachbereich Wirtschafts- und Sozialwissenschaften der Rechts- und Wirtschaftswis-
+senschaftlichen Fakultät der FAU - MPOWISO - in der jeweils geltenden Fassung.
+8 2 Qualifikation zum Masterstudium, Nachweise und
+Zulassungsvoraussetzungen
+(1) 'Fachspezifische Abschlüsse im Sinne des $ 32 Abs.
+1 Satz
+1
+Nr.
+1
+Alt.
+1
+MPOWISO sind Bachelorabschlüsse in dem Bachelorstudiengang International Busi-
+ness Studies an der FAU nach der FPO BSc IBS in der jeweils geltenden Fassung.
+?Andere Abschlüsse im Bereich der International Business Studies gelten dann als
+fachspezifisch und im Hinblick auf die Qualifikation nicht wesentlich unterschiedlich
+i.
+S. d. 8 32 Abs.
+2 MPOWISO, wenn in Ihnen mindestens Kompetenzen in folgenden
+Bereichen und mit folgenden Umfängen vermittelt worden sind:
+a) mind. 50 ECTS-Punkte in Betriebswirtschaftslehre
+b) mind. 10 ECTS-Punkte in Statistik
+c) mind. 10 ECTS-Punkte in Kultur und Kommunikation.
+Als fachverwandte Abschlüsse im Sinne des 8 32 Abs. 1 Satz 1 Nr. 1 Alt.
+2 MPOWISO
+werden Bachelorabschlüsse in wirtschafts- oder sozialwissenschaftlichen Studiengän-
+gen sowie nicht-wirtschaftswissenschaftliichen Studiengängen mit fachspezifischen
+wirtschaftswissenschaftlichen Kenntnissen im Umfang von mindestens 50 ECTS-
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+Punkten sowie Statistikkenntnissen im Umfang von mindestens 5 ECTS-Punkten an-
+erkannt. *Bei der Ermittlung des Umfangs der Kenntnisse nach Sätzen 2 und 3 werden
+Anteile in der Abschlussarbeit nicht berücksichtigt.
+(2) Als weitere Unterlage im Sinne der Nr. 2.3.3 der Anlage zur MPOWISO ist ein
+Nachweis über sehr gute Kenntnisse der englischen Sprache mindestens auf dem Ni-
+veau C 1 des Gemeinsamen Europäischen Referenzrahmens (GER) zu erbringen; der
+Nachweis kann entweder durch den Nachweis des erfolgreichen Test of English as a
+Foreign Language (TOEFL) mit mindestens 100 Punkten im iBT oder International
+English Language Testing System (IELTS) 7.0 oder höher oder durch vergleichbare
+Nachweise erbracht werden. ?Ilm Übrigen gilt
+8 5 Abs. 5 Nr. 14 a) ImmasS.
+(3) Bewerberinnen und Bewerbern mit hervorragenden Erstabschlüssen nach Abs. 1
+Sätzen 1 und 2 wird gemäß Ziffer 5.1 Anlage MPOWISO direkter Zugang zum Mas-
+terstudiengang IBS gewährt, wenn sie den entsprechenden Studiengang mit der Note
+1,3 oder besser abgeschlossen haben; für Abschlüsse, die anderen Notensystemen
+entstammen, gelten $ 12 Abs. 4 Sätze 1 bis
+3 MPOWISO entsprechend.
+(4) Alle Bewerberinnen und Bewerber, denen nicht bereits nach Abs. 3 der direkte
+Zugang zum Masterstudiengang gewährt werden kann, müssen folgende weitere Un-
+terlagen im Sinne Nr. 2.3.3 der Anlage zur MPOWISO vorlegen:
+1.
+"Nachweis über fachlich einschlägige Auslandsaufenthalte (mind.
+3 Monate am
+Stück),
+insbesondere Auslandssemester, Auslandspraktika
+oder anderweitige
+Auslandsberufserfahrung;
+der Nachweis kann
+z.
+B. durch
+ein ausländisches
+Transcript of Records oder einen sonstigen Leistungsnachweis der jeweiligen
+Hochschule bzw. ein Arbeits- oder Praktikumszeugnis des jeweiligen Arbeitgebers
+erbracht werden. ? Als fachlich einschlägig i. S. d. Satz 1 gelten alle arbeits- oder
+studienbezogenen Tätigkeiten
+in internationalen Organisationen oder Institutio-
+nen, die nicht in dem Land absolviert werden, in dem die Hochschulzugangsbe-
+rechtigung erworben wurde.
+2.
+"Nachweise über das Vorhandensein, den Umfang und die Qualität weiterer
+Sprachkenntnisse (außer Englisch), soweit vorhanden. ?Der Nachweis kann ins-
+besondere durch Sprachzertifikate geführt werden, aus denen das Niveau des
+GER hervorgeht; aus dem Nachweis von Deutschkenntnissen muss das Niveau
+des GER hervorgehen.
+3.
+Vorstellungsvideo (im gängigen Video-Format, bspw. MPEG, AVI, o. Ä.), in dem
+die eigene Qualifikation der Bewerberin bzw. des Bewerbers in Beziehung zum
+Qualifikationsziel des Masterstudiengangs gesetzt wird.
+(5) "Die nach Nr. 2.3 Anlage MPOWISO und Abs. 4 einzureichenden Unterlagen von
+Bewerberinnen und Bewerbern, deren Gesamtnote des fachspezifischen ersten be-
+rufsqualifizierenden Abschlusses nach Abs. 1 zwischen 1,31 und 2,50 sowie von Be-
+werberinnen und Bewerbern, deren Gesamtnote des fachverwandten ersten berufs-
+qualifizierenden Abschlusses zwischen 1,00 und 2,50 beträgt, werden auf der zweiten
+Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2 Anlage MPOWISO
+nach folgenden Kriterien bewertet:
+1.
+Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen an-
+hand des Gesamtnotendurchschnitts; Bewertung anhand der Abschlussdoku-
+mente des Erstabschlusses (maximal 40 Punkte gemäß Satz 4 Tabelle 1),
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+2.
+Umfang der für das Studienziel relevanten Kenntnisse in Betriebswirtschaftslehre;
+Bewertung anhand der Abschlussdokumente des Erstabschlusses (maximal 10
+Punkte gemäß Satz 4 Tabelle 2),
+3.
+Umfang der für das Studienziel relevanten Kenntnisse in Statistik; Bewertung an-
+hand der Abschlussdokumente des Erstabschlusses (maximal 2,5 Punkte gemäß
+Satz 4 Tabelle 2),
+4.
+Umfang der Auslandserfahrung nach Abs. 4 Nr. 1 (maximal 10 Punkte gemäß Satz
+4 Tabelle 3),
+5.
+Qualität der Englischkenntnisse nach Abs. 2 (maximal 20 Punkte gemäß Satz 4
+Tabelle 4),
+6.
+Anzahl der Kenntnisse in unterschiedlichen Sprachen (außer Englisch) sowie Qua-
+lität der Deutschkenntnisse nach Abs. 4 Nr. 2 (maximal 7,5 Punkte gemäß Satz 4
+Tabelle 4),
+7.
+Qualität des Vorstellungsvideos nach Abs. 4 Nr.
+3 anhand der Kriterien „Substanz“,
+„Klarheit“, „Argumentation“ und „Impression“ (jeweils 2,5 Punkte; insgesamt maxi-
+mal 10 Punkte gemäß Satz 4 Tabelle 5).
+?Für Abschlüsse, die anderen Notensystemen entstammen, gelten & 12 Abs. 4 Sätze 1
+bis
+3 MPOWISO entsprechend. ?Bewerberinnen und Bewerber, deren Gesamtnote
+des ersten berufsqualifizierenden Abschlusses 2,51 oder schlechter beträgt, gelten als
+ungeeignet; es gilt Satz 5 der Ziffer 5.1 Anlage MPOWISO. *Die Punktevergabe der in
+Satz 1 genannten Kriterien richtet sich nach folgenden Schemata:
+a)
+Tabelle 1: Notenumrechnung gem. Satz 1 Nr. 1
+HET BE
+"Su HERE SB
+HER
+HET
+HE TE DEE7
+ET HE
+b)
+Tabelle 2: Kenntnisse in Betriebswirtschaftslehre und Statistik gem. Satz 1 Nrn. 2 und 3
+re
+|
+ne
+| 0
+Abschluss nicht
+Abschluss nicht
+bzw. 3
+bzw. 3
+3
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+c)
+Tabelle 3: Auslandserfahrung gem. Satz 1 Nr. 4
+Auslandserfahrung (max. 10 Punkte)
+BEE 2 DEE
+ETBE
+BEE SEE
+Ausschluss der Bewer-
+bung aus dem Qualifi-
+nter 3
+kationsfeststellungsver-
+unie
+fahren, Mindestumfang
+nach Abs. 4 Nr. 1 nicht
+erreicht
+d)
+Tabelle 4: Sprachfertigkeiten gem. Satz 1 Nrn. 5 und 6
+Englischkenntnisse nach Satz 1 Nr. 5
+Andere Sprachen, außer
+Deutschkenntnisse
+Deutsch nach Satz 1 Nr. 6
+(max. 20 Punkte)
+(max. 2.5 Punkte)
+max. 5 Punkte
+TOEFL
+(Punkte)
+|> Funke)
+Bewerbung aus
+dem Qualifikati-
+schlechter als
+schlechter als | onsfeststellungs-
+100
+7,0
+verfahren, Min-
+keine
+destniveau ge-
+mäß Abs. 2 nicht
+erreicht
+e)
+Tabelle 5: Vorstellungsvideo gem. Satz 1 Nr. 7
+Vorstellungsvideo (max. 10 Punkte)
+Bewertung je Kriterium
+Punkte je Kriterium
+Above Average /
+2
+Überdurchschnittlich
+Below Average /
+1
+Unterdurchschnittlich
+Ausschluss der Bewerbung aus dem
+kein Video eingereicht
+Qualifikationsfeststellungsverfahren
+wegen fehlender Unterlage gemäß
+Abs. 4Nr. 3
+4
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+“Bewerberinnen bzw. Bewerber, die 70 Punkte erreicht haben, erhalten eine Bestäti-
+gung über die bestandene Qualifikationsfeststellung.
+&
+3 Umfang und Gliederung des Masterstudiums, Prüfungen,
+Unterrichts- und Prüfungssprache
+(1) 'Im Kernbereich (Core courses) werden grundlegende interdisziplinäre Kenntnisse
+im Bereich International Business Studies in folgenden neun Kernfeldern vertiefend
+vermittelt; aus diesen sind beliebige Module im Umfang von 60 ECTS-Punkten zu wäh-
+len:
+1.
+Environment of international business
+2.
+Foundations of international management
+3.
+International strategic management
+4.
+International functional management
+5.
+International information management
+6.
+Soft skills
+7.
+International finance and change management
+8.
+International corporate sustainability
+9.
+International relations.
+?Näheres zu den einzelnen Kernfeldern i.S.d. Satz 1 regelt 84.
+(2) 'Im Wahlbereich (Elective courses) wählen die Studierenden in einem der folgen-
+den Modulbereiche (Area studies) Module im Umfang von 30 ECTS-Punkten:
+1.
+English speaking countries
+2.
+Latin America
+3.
+Asia
+4.
+Europe.
+Ferner wird die Masterarbeit angefertigt, auf die 30 ECTS-Punkte entfallen. ?Art und
+Umfang der Prüfungen bestimmen sich nach der Anlage und 8$ 17-24 MPOWISO.
+(3) '8 4 Abs.
+5 MPOWISO gilt mit der Maßgabe, dass die Unterrichts- und Prüfungs-
+sprache in den Modulen des Pflichtbereichs Englisch ist. ?im Wahlbereich können auch
+Module angeboten und gewählt werden, in denen die Unterrichts- und Prüfungsspra-
+che Deutsch, Spanisch oder Französisch ist.
+8 4 Kernbereich i.S.d 8 3 Abs. 1
+(1) 'Das übergeordnete Qualifikationsziel des Kernfeldes „Environment of international
+business“ liegt darin, die Studierenden zu befähigen, die politischen, wirtschaftlichen
+und rechtlichen Ranmenbedingungen für multinationale Unternehmen in verschiede-
+nen Ländern zu analysieren. ?Sie sollen in der Lage sein, die Auswirkungen globaler
+Entwicklungen auf Unternehmen und internationale Märkte zu bewerten und geeignete
+Strategien zu entwickeln, um mit diesen Herausforderungen umzugehen. °Die spezifi-
+schen Qualifikationsziele und Prüfungsgegenstände der einzelnen wählbaren Module
+sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen und
+dem Modulhandbuch zu entnehmen. *Prüfungsform ist die Klausur (60 min).
+(2) "Das übergeordnete Qualifikationsziel des Kernfeldes "Foundations of international
+management"
+liegt darin, die Studierenden zu befähigen, grundlegende Theorien,
+Konzepte und Instrumente des internationalen Managements anzuwenden. ?Sie sollen
+in der Lage sein, komplexe Managementherausforderungen in einem multikulturellen
+5
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+und globalen Umfeld zu identifizieren und diese durch den Einsatz geeigneter Manage-
+mentmethoden zu lösen. ®Die spezifischen Qualifikationsziele und Prüfungsgegen-
+stände sowie Art und Umfang der Prüfung der einzelnen wählbaren Module sind ab-
+hängig von den im jeweils gewählten Modul vermittelten Kompetenzen und dem Mo-
+dulhandbuch zu entnehmen. *Mögliche Prüfungsformen sind: Diskussionspapier oder
+Präsentation sowie Kombinationen derselben; $ 6 Abs. 2 Satz
+3 MPOWISO bleibt un-
+berührt.
+(3) 'Das übergeordnete Qualifikationsziel des Kernfeldes "International strategic ma-
+nagement" liegt darin, die Studierenden zu befähigen, strategische Herausforderun-
+gen auf internationaler Ebene zu analysieren und fundierte strategische Entscheidun-
+gen zu treffen. Sie sollen in der Lage sein, unterschiedliche Marktbedingungen und
+Wettbewerbssituationen zu bewerten und entsprechende Strategien für den Erfolg in-
+ternationaler Unternehmen zu entwickeln. ?Die spezifischen Qualifikationsziele und
+Prüfungsgegenstände sowie Art und Umfang der Prüfung der einzelnen wählbaren
+Module sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen
+und dem Modulhandbuch zu entnehmen. *Mögliche Prüfungsformen sind: Klausur (60
+min.) oder Diskussionspapier sowie Kombinationen derselben; & 6 Abs. 2 Satz 3
+MPOWISO bleibt unberührt.
+(4) !Das übergeordnete Qualifikationsziel des Kernfeldes "International functional ma-
+nagement" liegt darin, die Studierenden zu befähigen, die Funktionsbereiche eines
+Unternehmens, wie Marketing, Operations und Finanzen,
+in einem internationalen
+Kontext zu verstehen und effektiv zu managen. ?Sie sollen in der Lage sein, funktions-
+übergreifende Probleme zu identifizieren und mit geeigneten Methoden funktionsspe-
+zifische sowie integrative Lösungen zu entwickeln. ®Die spezifischen Qualifikations-
+ziele und Prüfungsgegenstände sowie Art und Umfang der Prüfung der einzelnen
+wählbaren Module sind abhängig von den im jeweils gewählten Modul vermittelten
+Kompetenzen und dem Modulhandbuch zu entnehmen. *Mögliche Prüfungsformen
+sind: Diskussionspapier oder Präsentation sowie Kombinationen derselben; & 6 Abs.
+2 Satz
+3 MPOWISO bleibt unberührt.
+(5) "Das übergeordnete Qualifikationsziel des Kernfeldes "International information
+management" liegt darin, die Studierenden zu befähigen, die Rolle von Informations-
+technologie und Innovationsmanagement im internationalen Geschäftsumfeld zu ver-
+stehen. ?Sie sollen in der Lage sein, IT-basierte Strategien zur Unterstützung von Ge-
+schäftsprozessen zu entwickeln und die digitale Transformation in internationalen Or-
+ganisationen zu gestalten. ®Die spezifischen Qualifikationsziele und Prüfungsgegen-
+stände sowie Art und Umfang der Prüfung der einzelnen wählbaren Module sind ab-
+hängig von den im jeweils gewählten Modul vermittelten Kompetenzen und dem Mo-
+dulhandbuch zu entnehmen. *Mögliche Prüfungsformen sind: Präsentation oder Semi-
+nararbeit sowie Kombinationen derselben; $ 6 Abs. 2 Satz
+3 MPOWISO bleibt unbe-
+rührt.
+(6) "Das übergeordnete Qualifikationsziel des Kernfeldes "Soft skills" liegt darin, die
+Studierenden
+zu
+befähigen,
+ihre
+interkulturellen
+Kommunikationsfähigkeiten
+und
+Teamkompetenzen weiterzuentwickeln. ?Sie sollen in der Lage sein, effektiv in multi-
+kulturellen Teams zu arbeiten und ihre Führungskompetenzen in einem internationa-
+6
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+len Umfeld anzuwenden. ®Die spezifischen Qualifikationsziele und Prüfungsgegen-
+stände sowie Art und Umfang der Prüfung der einzelnen wählbaren Module sind ab-
+hängig von den im jeweils gewählten Modul vermittelten Kompetenzen und dem Mo-
+dulhandbuch zu entnehmen. *Mögliche Prüfungsformen sind: Diskussionspapier, Prä-
+sentation oder Projektbericht sowie Kombinationen derselben; $ 6 Abs. 2 Satz 3
+MPOWISO bleibt unberührt.
+(7) "Das übergeordnete Qualifikationsziel des Kernfeldes "International finance and
+change management" liegt darin, die Studierenden zu befähigen, finanzielle Entschei-
+dungen in einem globalen Kontext zu treffen und Change-Management-Prozesse zu
+gestalten. ?Sie sollen die internationalen Finanzmärkte verstehen und Strategien für
+die Bewältigung finanzieller und organisatorischer Veränderungen entwickeln. ®Die
+spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen wählbaren
+Module sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen
+und dem Modulhandbuch zu entnehmen. *Prüfungsform ist die Klausur (60 min.).
+(8) "Das übergeordnete Qualifikationsziel des Kernfeldes "International corporate
+sustainability" liegt darin, die Studierenden zu befähigen, nachhaltige Unternehmen-
+spraktiken und Corporate Social Responsibility (CSR) Strategien zu entwickeln und
+umzusetzen. ?Sie sollen in der Lage sein, ökologische und soziale Herausforderungen
+zu identifizieren und nachhaltige Lösungen in das Unternehmensmanagement zu in-
+tegrieren. *Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art
+und Umfang der Prüfung der einzelnen wählbaren Module sind abhängig von den im
+jeweils gewählten Modul vermittelten Kompetenzen und dem Modulhandbuch zu ent-
+nehmen. *Mögliche Prüfungsformen sind: Klausur (60 min.), Seminararbeit oder Prä-
+sentation sowie Kombinationen derselben; 8 6 Abs. 2 Satz
+3 MPOWISO bleibt unbe-
+rührt.
+(9) "Das übergeordnete Qualifikationsziel des Kernfeldes "International relations" liegt
+darin, die Studierenden zu befähigen, die komplexen Strukturen und Dynamiken der
+internationalen Politik zu verstehen, zentrale Akteure und Institutionen im internationa-
+len System zu analysieren und deren Einfluss auf globale politische, wirtschaftliche
+und gesellschaftliche Entwicklungen kritisch zu bewerten. ?Die spezifischen Qualifika-
+tionsziele und Prüfungsgegenstände sowie Art und Umfang der Prüfung der einzelnen
+wählbaren Module sind abhängig von den im jeweils gewählten Modul vermittelten
+Kompetenzen und dem Modulhandbuch zu entnehmen. ®Mögliche Prüfungsformen
+sind: Hausarbeit/ Seminararbeit, Präsentation oder Performance Assessment sowie
+Kombinationen derselben; 8 6 Abs. 2 Satz
+3 MPOWISO bleibt unberührt.
+& 5 Wahlbereich (Elective courses): Area Studies i.S.d. 8 3 Abs. 2
+(1) "Das übergeordnete Qualifikationsziel der einzelnen Area studies „English spea-
+king countries“, „Latin America“, „Asia“ und „Europe“ im nach 8 3 Abs. 2 liegt darin,
+fundierte Kenntnisse der Wirtschaft, Politik, Kultur und Sprache einer Region zu er-
+werben. ?Die erworbene Regionalkompetenz soll Studierende auf eine berufliche Tä-
+tigkeit in dieser Region vorbereiten und ihr Profil mit Blick auf ein gewünschtes zu-
+künftiges wirtschaftswissenschaftliches Berufsfeld zu schärfen. ®Alle Module des ge-
+wählten Wahlbereichs haben einen inhaltlichen Bezug zu derjeweiligen Region nach
+7
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+8 3 Abs. 2. *Die regionsspezifischen Kenntnisse können durch einen Studienaufent-
+halt im Ausland erweitert und vertieft werden.
+(2) "Der Bereich Area studies "English-speaking countries" fokussiert sich auf die wirt-
+schaftlichen und politischen Dynamiken englischsprachiger Länder wie insbesondere
+den USA, Großbritannien, Kanada und Australien. ?Es werden Themen wie internati-
+onale Organisationen, Handels- und Innovationspolitik, transatlantische Beziehungen
+sowie internationale Governance untersucht. °Ziel ist es, ein tiefgehendes Verständnis
+für die internationalen Wirtschaftsbeziehungen und politischen Strukturen dieser Län-
+der zu entwickeln und deren globale Rolle zu analysieren.
+(3) "Der Bereich Area studies "Latin America" fokussiert sich auf die wirtschaftlichen,
+politischen, sozialen und ökologischen Herausforderungen
+in lateinamerikanischen
+Ländern wie Argentinien, Brasilien, Bolivien oder Peru. ?Es werden Themen wie glo-
+bale Lieferketten, Nachhaltigkeitsgovernance,
+Umweltgerechtigkeit und Menschen-
+rechte untersucht. ®Besondere Schwerpunkte liegen auf den Beziehungen Lateiname-
+rikas zu globalen Akteuren wie den USA, der EU und China sowie auf der Analyse von
+Lösungen für soziale und ökologische Probleme in der Region.
+(4) "Der Bereich Area studies "Asia" fokussiert sich auf die wirtschaftlichen, technolo-
+gischen und kulturellen Entwicklungen asiatischer Länder, insbesondere China und
+Indien. ?Es werden Themen wie digitale Transformation und internationale Manage-
+mentherausforderungen untersucht. °Ziel ist es, die Rolle solchen Ländern wie China
+und Indien in der globalen Wirtschaft zu verstehen und innovative Ansätze für Manage-
+mentprobleme in asiatischen Kontexten zu entwickeln.
+(5) 'Der Bereich Area studies "Europe" fokussiert sich auf die wirtschaftlichen, politi-
+schen und sozialen Herausforderungen in der EU, sowie in einzelnen europäischen
+Ländern wie Deutschland, Frankreich oder Spanien. ?Es werden Themen wie Nach-
+haltigkeitsmanagement, Klimapolitik und digitale Transformation in Deutschland sowie
+weiteren europäischen Ländern untersucht. ®Ziel ist es, Strategien für die Dekarboni-
+sierung und die Entwicklung nachhaltiger Industrien zu analysieren, wobei besonderes
+Augenmerk auf die Rolle digitaler Innovationen und Technologien bei der Bewältigung
+europäischer und globaler Herausforderungen gelegt wird.
+(7) "Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul
+vermittelten Kompetenzen nach Abs.
+1 und dem Modulhandbuch zu entnehmen.
+?Mögliche Prüfungen sind: Klausur (60 oder 90 Min.), schriftliche Haus- bzw. Seminar-
+arbeit, Präsentation, Fallstudie sowie Kombinationen einzelner dieser genannten For-
+men; es gilt 8 6 Abs.2 Satz
+3 MPOWISO. ®Der Modulkatalog wird vor Semesterbeginn
+ortsüblich bekanntgemacht.
+(8) "Die Wahlmodule setzen sich in der Regel entweder aus einer Vorlesung (1-3 SWS)
+oder einem Seminar (1-3 SWS) zusammen. ?Näheres regelt das Modulhandbuch.
+8 6 Inkrafttreten und Übergangsvorschriften
+(1) "Diese Fachstudien- und Prüfungsordnung tritt am 1. April 2025 in Kraft. ?Sie findet
+erstmals Anwendung auf Studierende, die ab dem Wintersemester 2025/2026 das
+Masterstudium „International Business Studies“ aufnehmen.
+8
+```
+
+### OCR Seite 9
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+N Al )
+(2) 'Die Fachstudien- und Prüfungsordnung für den Masterstudiengang International
+Business Studies am
+Fachbereich
+Wirtschafts- und
+Sozialwissenschaften
+an
+der
+Rechts-
+und
+Wirtschaftswissenschaftliichen
+Fakultät
+der
+Friedrich-Alexander-
+Universität Erlangen-Nürnberg (FAU) — FPO MSc IBS - vom 24. Juli 2007, zuletzt
+geändert durch Satzung vom 8. August 2022, tritt mit Wirkung zum 31. September
+2028 außer Kraft. ?Prüfungen nach den vor dem 26. Juli 2021 geltenden Fassungen
+der in Satz 1 genannten Prüfungsordnung werden letztmals im Sommersemester 2028
+angeboten.
+9
+```
+
+### OCR Seite 10
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+Anlage: Studienverlaufsplan Master International Business Studies
+sws
+Workload-Verteilung pro Semester in
+Faktor
+-
+1
+-
+Modulbezeichnung
+Lehrveranstaltung
+Seren:
+FOi>Bunkten
+Art und Umfang der Prüfung
+an
+.
+ECTS
+schluss-
+V
+U
+S
+1.Sem.
+2.Sem.
+3.Sem.
+4.Sem.
+note
+Core courses (Kernbereich) (60 out of 90 ECTS/60 aus 90 ECTS - 12x 5 ECTS)
+60
+20
+20
+20
+Issues in international political
+Issues in international political
+2/|
+ı Iso]
+|lo|
+Written examination (60 minutes)
+econom
+econom
+International and European
+International and European trade
+.
+FR
+.
+Foundations of international
+Foundations of international
+Discussion paper (80%) and
+2
+1
+(5)
+(5)
+.
+0
+1
+management
+I
+management
+|
+Presentation
+(20 %
+Foundations of international
+Foundations of international
+2
+4
+(5)
+(5)
+Discussion paper (80%) and
+4
+management Il
+management Il
+Presentation
+(20 %
+Business strategy
+Business strategy
+2lıı  /sıoo I
+Le |
+Written examination (60 minutes)
+Advanced methods of manage- | Advanced methods of manage-
+3
+(5)
+Discussion
+paper
+1
+ment research IV
+ment research IV
+pap
+Global operations strategy
+Global operations strategy
+2! ||s Joel
+lo |
+Presentation (100%)
+Innovation and Leadership
+Innovation and leadership (Lect.)
+(1) | (1)5
+Lect.
+Lect.
+Seminar paper (100% +0 %
+1
+Socnmerten
+|soremmemn
+[1 12 5
+5
+|
+som
+|
+.
+FIR
+.
+Discussion paper (80%) and
+Managing intercultural relations
+Managing intercultural relations
+2 u
+1 5
+(5) |
+Presentation (20 %)
+1
+10
+```
+
+### OCR Seite 11
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+SwsS
+Workload-Verteilung pro Semester in
+Faktor
+4
+1
+a
+Modulbezeichnung
+Lehrveranstaltung
+aesamt
+EeUEHFUrsEn
+Art und Umfang der Prüfung
+che
+voöüöcs
+1.Sem.
+2.Sem.
+3.Sem.
+4.Sem.
+note
+Change management
+Change management
+2lıl|Is/I|
+Tel
+10. Written examination (60 minutes)
+Business ethics and corporate
+Business ethics and corporate so-
+2
+(5)
+Written examination (60 minutes)
+4
+social responsibility
+cial responsibility
+Regeneration and sustainable
+Introduction to regeneration
+2
+(5)
+Presentation (50 %) and
+1
+development
+practices and circularity
+seminar paper (50 %)
+Power, order and institutions
+Power, order and institutions in
+Seminar paper and
+in ori
+olitics
+world yolitics
+2
+(5)
+(5)
+Presentation (50% + 50%) and
+1
+p
+p
+Performance assessment
+(0 %
+Elective courses (Wahlbereich)
+Area studies (1 area out of 4)?
+=
+5
+5
+5
+Area
+gem.
+English speaking countries
+gem. $ 4 Abs. 1
+8 4 Abs. 3 Zn
+as)
+as)
+as) DB
+Area
+gem.
+em
+gem. $ 4 Abs. 2
+Master thesis
+30
+30
+Master thesis
+Master thesis
+I
+|
+3 _
+Master thesis
+Summe SWS (mindestens) und Ects | 4-27 SWS
+150
+30
+30
+30
+30
+' Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.
+11
+```
+
+### OCR Seite 12
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+2? vgl.
+8 4. Die belegbaren Module in den Area Studies sind im Modulhandbuch des Studiengangs aufgeführt. Es können bis zu 10 ECTS-Punkte durch Sprachkurse in der/den Sprache(n) der
+gewählten Area erworben werden (Niveaustufen: Englisch: mind. C1, alle anderen Sprachen: 5 ECTS mind. A2;
+5 ECTS mind. B1). Zugangsvoraussetzung: Sprachkenntnisse in derjeweiligen
+Sprache der gewählten Area nach dem Europäischen Referenzrahmen. Die 10 ECTS-Punkte können auf max. zwei unterschiedliche Sprachen (je 5 ECTS) der Area verteilt werden.
+3 vgl.
+8 4. Auswahl von Modulen im Umfang von 30 ECTS-Punkten (6 x 5 ECTS-Punkte), davon können 10 ECTS-Punkte im Rahmen von Sprachkursen erworben werden. Ferner gibt es hier
+die Möglichkeit, Kurse aus einem oder mehreren Auslandsstudiensemester(n) der entsprechenden Area einzubinden.
+* Die Gesamtzahl der SWS sowie die Verteilung auf die einzelnen Lehrveranstaltungsformen variiert in Abhängigkeit von den gewählten Core courses und Elective courses.
+12
+```
+
+### OCR Seite 13
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+DUN
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 19. Februar 2025,
+und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 20.
+März 2025
+Erlangen, den 20. März 2025
+FAU
+Gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 20. März 2025 digital auf der Internetseite
+https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfer-
+tigung der Satzung wurde am 20. März 2025 in der im Referat L 1 der Zentralen Uni-
+versitätsverwaltung, Wöhrmühle 2, Zimmer Nr. 00.009 niedergelegt und liegt zur Ein-
+sicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 20. März 2025
+13
+```
 

@@ -240,6 +240,378 @@ Präsident
 
 Die Satzung wurde am 14. März 2023 in der FAU niedergelegt; die Niederlegung wurde am 14. März 2023 durch Anschlag in der FAU bekannt gegeben. Tag der Bekanntmachung ist der 14. März 2023. 
 
-11 
+11
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 9
+
+```
+Anlage 2: Studienverlaufsplan Magister Theologiae —- Hauptstudium
+a
+Workload-Verteilung ir
+Modulbezeichnung
+Lehrveranstaltung
+SWS
+an
+ECTS-Punkten
+Art und Umfang der Prüfung!
+vw.
+ürP.58
+i
+1-4.
+5-8.
+9-10
+werden. In Summe sind daher Module im Umfang von mindestens 44
+(und maximal 49) ECTS-Funkten zu wählen.
+$ 52 Abs. 1 Buchst_e}
+ist zu beachten.
+BUADERTT EN ey BE
+Br TE BE HE
+IT 217 1
+AT2-A — Aufbaumodul
+IHSATHupisemnatd
+5 5 5 5
+| | | |2]
+4
+1 3 | | Freiwillige Studienleistung + Haupt-
+Altes Testament?
+_V/Ü weitere
+Lehrveransalung
+| @S|a| | |
+9 [7727]7] seminararbeit:
+I
+Mon |
+|
+|
+|
+N
+HE
+HE DEE HE
+AT2-B-
+Aufbaumodul
+[NTTeoegeesatT
+D D D — —
+j2|
+| |
+|
+IT
+2 | |
+A aanaumodul
+AS AT Haupisemins
+|
+|
+1
+5) m |] 31] Studienieistung‘-+
+| V/Ü weitere Lehnert und
+OD—
+TI DI a]
+|
+|
+2|
+| V Themen der neutestamentlichen Teooge
+| 2 |
+|
+|
+|
+HE
+KEEP Zu HE
+NT2-A-Aufbaumodul
+|HSNTHaupseminitr
+0
+|
+|
+|
+|2|
+45 [|
+3 | | Freiillige Studienleistung + Haupt-
+Neues Testament?
+[V/Ü weitere Lehrveranstalung
+| Sl]
+|
+|
+(2) 2] seminararbeits
+I
+ ___Moduprfung|
+|
+|
+|
+1
+5|
+| V Themen der neutestamentlichen Teooge
+| 2 |
+|
+|
+|
+HE
+HEE Zu HE
+Neues Testament? [HS NT Hauptseminar UT
+|
+|
+12] m [31] Studienteistung‘
+eues
+Testame
+| VÖ weitere Lehnert und
+—7—D— FF aa
+|
+|
+HE
+KEEP DEEHE
+| VKG im Überblick, 23 dc
+05DöDöD3—& a
+|
+IE
+Ku HE
+KG2-A- Aufbaumodul
+|HSKGHapsemnar__—_—_L—L—L—L—D—D—
+3
+| | | |2|
+45 I
+1 3 | | Freiwillige Studienleistung + Haupt-
+Kirchengeschichte®
+[V/Ü weitere Lehrveranstatung
+| Sal
+|
+;)
+Ma PT] seminararbeit’
+I
+ __Modulprfung|
+[|
+|
+|
+1
+HE
+BEE DE HE
+| VKG im Überblick, 23 d4cet5 0595Dö3&
+IE
+EEE Zu HE
+Kirenengeschichtee [HS KG Hauptseminar UT
+|
+|
+|
+12] m [3| Studienleistung‘?
+TETENgESENE
+| V/U weitere Lehnert
+—— 39T a
+|
+EEE
+HE Zu HE
+| V Ethik im Über
+DD Ta
+HE
+BEE Zu
+ST2-A - Aufbaumodul
+|HSSTHaupisemnar
+Ethik
+| | | 12]
+44
+| 3 | | Freiwillige Studienleistung + Haupt-
+Systematische Theologie | HSST HauptseminarDogmaik
+|
+|
+|
+2]
+MM) 3] seminararbeit®
+I
+Modulprftungf
+|
+3 |
+|
+|
+HE
+HE
+DEE HE
+ST2B-Aufbaumodul
+[Ein Über
+LL—L—L—3— Sa
+TI
+TI |
+IT 2
+Systematische Theologie
+[7831 Hauptseminar Eik
+|
+|
+1
+712) @ [73]7 Studienleistung‘*
+| HS ST Hauptseminar Dogmatik 00—3—3—3—&—&U OT
+2]
+EEE
+EEE DEE HE
+|
+| HS Home tur
+LO
+NT  T  T 2
+EEE
+EEE DE HE
+SE
+| Ü zum HS Home trgik
+ —LL—LRLRD3 |
+27
+7
+N
+|
+2 | | predigtarbeit (ca. 20 Seiten) und
+Praktische theoiogie
+| #3 Religions- und
+Gemeindepädaccık
+— | | |
+27]
+14 [3 jnterrichtsentwurf
+(ca.20 Seiten)
+| Üzum HS Religions- und Gemeindepädagogik |
+| 2 |
+|
+|
+HE
+BEE Eu
+I
+Modulpftungf
+|
+3 |
+|
+|
+HE
+EEE SE HE
+IM2 — Interdisziplinäres
+Seminar
+-
+7
+Essay (8-10 8.)
+Aufbaumodul
+| v/Ü Weitere interdisziplinäre Lehrveranstatung
+| lo]
+|
+|
+HE HE Zu HE
+j
+I
+Moduiputungf
+|
+oT
+|
+|
+EEE
+EEE EEEHE
+38
+9
+```
+
+### OCR Seite 10
+
+```
+=
+Workload-Verteilung in
+Modulbezeichnung
+Lehrmeranstaltung
+.Ei
+Sean
+ECTS-Punkten
+Art und Umfang der Prüfung!
+W
+U
+F
+5
+“
+1.4.
+5-8.
+9-10.
+|a
+14-
+Zwischensumme $5W5 und ECTS Aufbaumodule | 162
+12
+46
+0
+|
+RW/Phil: Es ist eines jenes der beiden Module zu wählen, das nicht bereits im Grundstudium absolviert wurde
+(9 ECTS-Punkte).
+Y Religionswissenschaft im Überblick
+2]
+1
+1]
+Er
+RW - Modul
+PS Einführung in die Methoden der
+2
+3
+a lan chaft
+Religionswissenschaft
+(9)
+Mündliche Prüfung'®
+v/Ü weitere LV
+BHEETEEE EN
+Er
+Modulprütung |
+|
+|
+|
+|
+EEE
+FE
+V Vorlesung Philosophie
+2
+|
+IT
+2 |
+|
+Phil — Philosophicum
+S’Ü Seminar oder Übung Philosophie
+|
+I231I
+Tal 9
+[001.83 1] Mündliche Prüfung’
+Moduptung |
+|
+O5 |
+|
+|
+EEE
+KEEE  EE
+Praktikumsmodul: Es ist jenes der beiden Module zu wählen, das nicht bereits im Grundstudium absolviert wurde (6 ECTS-Punkte) Sofern im Grundstudium bereits ein Praktikum absol-
+viert worden
+ist,
+kann das zweite Praktikum auch durch weitere Veranstaltungen im Umfang von 6 ECTS-Punkten aus dem Fach Praktische Theologie ersetzt werden.
+Praktikum 1 — Gemeinde-
+-
+.
+.
+.
+.
+.
+kun7 Handlungs“ | (j Theoriebegleitetes Praktikum
+21
+I
+De | Is] ı Praktikumsbericht
+Wahlbereich: Je nach Umfang des Fflichtbereichs sind im WWahlbereich Module im Umfang von 35 ECTS-Funkten (bei Pflichtbereich von 70 ECTS-Punkten) oder 40 ECTS-Punkten (bei
+Pflichtbereich von 65 ECTS-Punkten)
+zu belegen.
+Wahlbereich Hauptstudium a dene frei wählbare Lehrveranstaltun- BENN
+35/40 Fr] 35/40 FI] ee
+N
+jienlei
+Ziscensumme SWS und ECTSwomenunawanmesn | 2 | 2: | 0 | 2: | a5 |
+544 | id
+428
+Summe SWS bzw. ECTS:
+2
+>
+u
+;
+120
+! Die Prüfungen haben — sofern nicht anders angegeben - folgenden Umfang:
+u
+Studienleistung gemäß 5 7 Abs. 6;
+Hauptseminararbeit: 30 Seiten;|
+Klausur: 90 Minuten;
+Mündliche Prüfung: 20 Minuten.
+2 Anstelle zweier zweistündiger Vorlesungen kann nach Maßgabe des Lehrangebots auch eine vierstündige Vorlesung besucht werden.
+i Voraussetzung für die Zulassung zur Prüfung im Aufbaumodul Altes Testament ist das Hebraicum sowie die bestandene Modulprüfung im zugehörigen Basismodul AT.
+* Die konkrete Prüfungsform ist abhängig vom konkreten didaktischen Charakter der im jeweiligen Semester abgehaltenen Lehrveranstaltung und dem Modulhandbuch zu entneh-
+men.
+’ Voraussetzung für die Zulassung zur Prüfung im Aufbaumodul Neues Testament ist das Graecum sowie die bestandene Modulprüfung im zugehörigen Basismodul NT.
+‘ Wurde im Basismodul Kirchengeschichte Keine der Vorlesungen „Kirchengeschichte 1° oder „Kirchengeschichte 3° gewählt, so ist eine der beiden Vorlesungen im Aufbaumodul
+Kirchengeschichte verpflichtend (vgl. $ 46 Abs. 3).
+10
+```
 

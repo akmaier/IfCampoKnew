@@ -754,6 +754,2073 @@ Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.f
 
 Tag der Bekanntmachung ist daher der 5. März 2026 
 
-25 
+25
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+Fachstudien- und Prüfungsordnung für den Bachelorstudiengang
+Technomathematik und den Masterstudiengang Computational and
+Applied Mathematics an der Naturwissenschaftlichen Fakultät der
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- FPOTechnoMathe -
+Vom 5. März 2026
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88
+Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Bayerisches Hochschulinnovationsge-
+setz vom 5. August 2022 (BayHIG) in der geltenden Fassung erlässt die FAU folgende
+Fachstudien- und Prüfungsordnung:
+Inhaltsverzeichnis:
+l. Teil: Allgemeine Bestimmungen. .........unnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 41 Geltungsbereich ..............2422444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 42 Bachelorstudiengang, Regelstudienzeit, inhaltlich im Wesentlichen gleiche
+Studiengänge ...........nnsssssssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 43 Masterstudiengang, Unterrichts- und Prüfungssprache,
+inhaltlich im
+Wesentlichen gleiche Studiengänge.......................444444444444000RRRRnnnnn
+non non non nonnennen
+2
+8& 44 Zusammensetzung des Prüfungsausschusses ....................uuusnnnnnneeennenennnnnnnnnn 2
+Il. Teil: Besondere Bestimmungen.........uunnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn D
+1. Bachelorprüfung ............................44444444444444440000RRRRRRRRRRR
+RRRRRR nnnn nnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnn OD
+8 45 Gliederung des Bachelorstudiums ..........................44nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn D
+8 46 Grundlagen- und Orientierungsprüfung ...................4444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+OD
+8 47 Mathematische Wahlpflichtmodule ...........................uunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn OD
+8 48 Wahlpflichtmodule im Nebenfach Informatik.....................444444444444RRR
+nn nnn nn nn anna ann 4
+8 49 Wahlpflichtmodule im Technischen Wahlfach .................222224244444444RRR
+RR RR nn nn nn
+4
+8 50 Schlüsselqualifikationen. ..........................unnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+OD
+8 51 Bachelorarbeit ....................44444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ö
+2. Masterprüfung ...............2444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn OÖ
+8 52 Zugangskommission für die Masterstudiengänge ...................uummsssnesssseennennnnnnnn Ö
+8 53 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ... 6
+& 54 Umfang und Gliederung des Masterstudiums, Studienrichtungen...................... 7
+8 55 Mentorat und individuelle Studienvereinbarung......................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+OÖ
+8 56 Wahlpflichtmodule der Studienrichtungen........................unnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 9
+8 57 Freie Wahlmodule.....................44444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn TO
+8 58 Modul Masterthesis........................44nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+TO
+Ill. Teil: Schlussbestimmungen. .........unnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn TO
+8 59 Inkrafttreten ..............2224444snnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn TO
+Anlage 1: (Muster-)Studienverlaufsplan Bachelorstudiengang
+Technomathematik.........................44444440n00n0nnnnnnnn
+nenn nn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnn 12
+Anlage 2a: Studienverlaufsplan Masterstudiengang Computational and Applied
+Mathematics - Studienrichtung MApA und NASI -.....uuuuesennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn TO
+Anlage 2b: Studienverlaufsplan Masterstudiengang Computational and Applied
+Mathematics — Studienrichtung MApA und Opti - ............uuzzz444u00nnennnnnnnnnnnnnnnnnnnn 19
+Anlage 2c: Studienverlaufsplan Masterstudiengang Computational and Applied
+Mathematics - Studienrichtung NASi und Opti - .........uussssssseeennnnnnnnnnnnnnnnnnnn
+nennen 22
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+l. Teil: Allgemeine Bestimmungen
+8 41 Geltungsbereich
+Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Technomathe-
+matik und den Masterstudiengang Computational and Applied Mathematics ergänzt
+die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudien-
+gänge an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Er-
+langen-Nürnberg (FAU) -— ABMPO/NatFak - in der jeweils geltenden Fassung.
+8& 42 Bachelorstudiengang, Regelstudienzeit,
+inhaltlich im Wesentlichen gleiche Studiengänge
+(1) 'Das Bachelorstudium der Technomathematik setzt sich aus Modulen im Umfang
+von 180 ECTS-Punkten verteilt auf sechs Semester gemäß der Anlage 1 zusammen.
+2Darin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten.
+(2) Die Bachelorstudiengänge der Mathematikwissenschaft gelten als inhaltlich im We-
+sentlichen gleiche Studiengänge
+i. S. d. $ 28 Abs. 1 Satz 2 Nr.
+2 ABMPO/NatFak,
+wenn der Mathematikanteil im Studiengangscurriculum mindestens 125 ECTS-Punkte
+beträgt und die Studiengänge darüber hinaus 20 ECTS-Punkte aus den Ingenieurwis-
+senschaften und 20 ECTS-Punkte aus den Informatikwissenschaften beinhalten.
+& 43 Masterstudiengang, Unterrichts- und Prüfungssprache,
+inhaltlich im Wesentlichen gleiche Studiengänge
+(1) 'Das Masterstudium Computational and Applied Mathematics baut auf Bachelor-
+studiengängen der Mathematik auf. ?Es umfasst Module im Umfang von 120 ECTS-
+Punkten einschließlich der Masterarbeit verteilt auf vier Semester gemäß der An-
+lage 2.
+(2) Die Unterrichts- und Prüfungssprache gemäß 8 4 Abs. 4 Satz
+1 ABMPO/NatFak
+ist Englisch, im Übrigen bleibt
+8
+4 ABMPO/NatFak unberührt.
+(3) Masterstudiengänge der Mathematikwissenschaft gelten als inhaltlich im Wesent-
+lichen gleiche Studiengänge i. S. d. 8 36 Satz 2 Nr.
+2 ABMPO/NatFak, wenn der Anteil
+der Module im Studiengangscurriculum, die den Pflichtmodulen (PM) und Wahlpflicht-
+modulen (WP) der Spezialisierungsgebiete gemäß $ 54 Abs. 2 Satz 1 bzw. gemäß den
+Einordnungen in Anlage 2a bis 2c entsprechen, mindestens 70 ECTS-Punktebeträgt.
+8& 44 Zusammensetzung des Prüfungsausschusses
+'Der gemeinsame Prüfungsausschuss für die Bachelor- und Masterstudiengänge Ma-
+thematik, Technomathematik und Wirtschaftsmathematik sowie die Masterstudien-
+gänge Mathematik, Computational and Applied Mathematics und Wirtschaftsmathe-
+matik besteht aus fünf Mitgliedern. ?Die bzw. der Vorsitzende, die Stellvertreterin bzw.
+der Stellvertreter und die weiteren Mitglieder des Prüfungsausschusses sind hauptbe-
+rufliche Hochschullehrerinnen bzw. Hochschullehrer i. S. d. Art. 19 Abs. 1 BayHIG der
+Lehreinheit Mathematik und Data Science der Naturwissenschaftlichen Fakultät, die
+auf Vorschlag der Lehreinheit Mathematik und Data Science vom Fakultätsrat der Na-
+turwissenschaftlichen Fakultät bestellt werden.
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+ul
+/zu \
+Il. Teil: Besondere Bestimmungen
+1. Bachelorprüfung
+8 45 Gliederung des Bachelorstudiums
+!Das Bachelorstudium setzt sich aus
+1. Technomathematischen Pflichtmodulen (Nrn. 1 bis 7, 10, 11 und 16 der Anlage 1),
+2. Mathematischen Wahlpflichtmodulen (Nr. 8 und 9 der Anlage 1 und 8 47),
+3. Wahlpflichtmodulen im Nebenfach Informatik (Nr. 12 der Anlage 1 und 8 48),
+4. Wahlpflichtmodulen im Technischen Wahlfach (Nr. 13 der Anlage 1 und $ 49) und
+den
+5. Schlüsselqualifikationen (Nr. 14 und 15 der Anlage 1 und 8 50)
+zusammen. ?Die Verteilung der Module über die Studiensemester, die Art und Dauer
+der Prüfungen in den Modulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind
+den nachfolgenden Regelungen und der Anlage 1 bzw. den einschlägigen Modulbe-
+schreibungen zu entnehmen.
+& 46 Grundlagen- und Orientierungsprüfung
+Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen mindestens 30
+ECTS-Punkte aus den Grundlagenmodulen Analysis I, Analysis Il, Analysis Ill, Lineare
+Algebra
+| und Lineare Algebra
+Il (Gesamtumfang von 50 ECTS-Punkten) erworben
+werden.
+8 47 Mathematische Wahlpflichtmodule
+(1) 'Der Bereich der mathematischen Wahlpflichtmodule (Nr. 8 und 9 gemäß Anlage
+1) umfasst 50 ECTS-Punkte. ?Er gliedert sich in mathematische Vorlesungsmodule
+und Seminarmodule. ®Mindestens 5 ECTS-Punkte sind in Form von Seminarmodulen
+zu erbringen.
+(2) 'Das übergeordnete Qualifikationsziel der mathematischen Wahlpflichtmodule liegt
+im Erwerb und der Vertiefung von technomathematischem Fachwissen und Anwen-
+dungskompetenzen. ?Zweitens wird ein forschungsorientiertes Qualifikationsziel ver-
+folgt, indem fachspezifische Forschungsmethoden und vertieftes Fachwissen vermit-
+telt werden. ®Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Pro-
+fil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. *Die spezifi-
+schen Qualifikationsziele und Prüfungsgegenstände der einzelnen wählbaren Module
+sind abhängig vom jeweils gewählten Modul und derjeweiligen Modulbeschreibung zu
+entnehmen.
+(3) 'Die Wahl der mathematischen Wahlpflichtmodule erfolgt durch die Anmeldung zur
+ersten Prüfung in einem Modul aus der Gruppe der mathematischen Wahlpflichtmo-
+dule. ?Die mathematischen Wahlpflichtmodule werden in einem Modulkatalog geführt,
+welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.
+®Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prü-
+fungsausschuss angepasst werden.
+(4) !Mögliche Prüfungen in den Vorlesungsmodulen sind:
+1. schriftliche Prüfung, ggf. in elektronischer Form (Klausur 60-120 Min.),
+3
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+2. mündliche Prüfung (15-30 Min.),
+3. Übungsleistung (ca. 30-45 Seiten),
+sowie Kombinationen derselben.
+?2Mögliche Prüfungen in den Seminarmodulen sind:
+1. Seminarleistung (Vortrag 30-80 Min.), ggf. mit Ausarbeitung (ca. 5-10 Seiten),
+2. Hausarbeit (ca. 5-10 Seiten).
+®In Fällen des 8 6 Abs. 2 Satz
+3 ABMPO/NatFak ist insbesondere die Kombination
+einer schriftlichen oder mündlichen
+Prüfung mit Leistungen
+i. S.
+d.
+8 6 Abs. 4
+ABMPO/NatFak möglich. *Näheres regelt die jeweilige Modulbeschreibung.
+(5) "Die Module im Umfang von 5 ECTS-Punkten setzen sich in der Regel aus Vorle-
+sungen (2 SWS) mit Übungen (bis 2 SWS) oder Seminaren (2 SWS) zusammen. ?Die
+Module im Umfang von 10 ECTS-Punkten setzen sich in der Regel aus Vorlesungen
+(4 SWS) und Übungen (bis
+3 SWS) zusammen. 3Abweichende Verteilungen sind der
+jeweiligen Modulbeschreibung zu entnehmen.
+& 48 Wahlpflichtmodule im Nebenfach Informatik
+(1) "Das Nebenfach Informatik setzt sich aus den Pflichtmodulen Nrn. 10 und 11 und
+dem Wahlpflichtmodul Nr. 12 gemäß Anlage 1 zusammen und umfasst 20 bis 25
+ECTS-Punkte. ?2im Nebenfach Informatik und im Technischen Wahlfach (siehe & 49)
+sind zusammen 45 ECTS-Punkte zu erwerben. *Das übergeordnete Qualifikationsziel
+des Wahlpflichtmoduls Informatik ist der Erwerb erweiterter Kompetenzen in der Infor-
+matik mit Fokus auf die Schnittstelle zwischen Mathematik und Informatik. *Dies dient
+insbesondere der Stärkung der Anwendungskompetenz hinsichtlich des erlangten ma-
+thematischen Fachwissens.
+(2) Für die Anmeldung zur Prüfung gilt
+8 47 Abs. 3 entsprechend.
+(3) Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Um-
+fang der Lehrveranstaltungen und der Prüfungen in den Wahlpflichtmodulen des Ne-
+benfachs Informatik sind abhängig vom konkreten didaktischen Charakter des jeweils
+gewählten Moduls und der Fachstudien- und Prüfungsordnung für den Bachelor- und
+Masterstudiengang Informatik an der Technischen Fakultät der FAU —- FPOINF - in
+der jeweils geltenden Fassung bzw. derjeweiligen Modulbeschreibung zu entnehmen.
+8 49 Wahlpflichtmodule im Technischen Wahlfach
+(1) "Wahlpflichtmodule im Technischen Wahlfach sind Modulpakete aus dem folgen-
+den Angebot:
+1.
+Chemie- und Bioingenieurwesen (OB):
+"Das technische Wahlfach CBl konzentriert sich auf Biotechnologie, Energie-
+technik, Werkstoffe und Prozesse. ?Den Studierenden werden Grundkenntnisse
+z.B. in den Bereichen Verfahrenstechnik, Werkstoffkunde und Strömungsme-
+chanik vermittelt.
+2.
+Elektrotechnik-Elektronik-Informationstechnik (EEI):
+!Das technische Wahlfach EEI befasst sich mit der gesamten Bandbreite der
+Elektrotechnik, Elektronik und Informationstechnik. ?Den Studierenden werden
+Grundkenntnisse z.B. in den Bereichen Elektrotechnik, Regelungstechnik und
+Signalverarbeitung vermittelt.
+3.
+Maschinenbau:
+4
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+'Das technische Wahlfach Maschinenbau befasst sich mit der Konstruktion,
+Entwicklung, Fertigung und dem Betrieb von Maschinen und Anlagen. ?Den Stu-
+dierenden werden Grundkenntnisse z.B. in technischer Mechanik, Optik und
+optischen Technologien vermittelt.
+4.
+Medizintechnik:
+!Das technische Wahlfach Medizintechnik befasst sich mit der Entwicklung und
+Verbesserung von hochkomplexen medizinischen Anlagen und Geräten. ?Den
+Studierenden werden Grundkenntnisse z.B.
+in den Bereichen Messtechnik,
+Elektrotechnik, elektromagnetische Felder und der Informationssysteme im Ge-
+sundheitswesen vermittelt.
+2Die Wahlpflichtmodule werden für jedes dieser technischen Wahlfächer in einem Mo-
+dulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich be-
+kannt gemacht wird. ®Das Technische Wahlfach umfasst 20 bis 25 ECTS-Punkte. *lm
+Technischen Wahlfach und im Nebenfach Informatik (siehe $ 48) sind zusammen 45
+ECTS-Punkte zu erwerben. °Das übergeordnete Qualifikationsziel der Module im
+Technischen Wahlfach liegt im Erwerb von Grundkompetenzen in technischen Fach-
+disziplinen als klassischem Anwendungsgebiet der Mathematik. $Den Studierenden
+soll so ermöglicht werden ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufs-
+feld zu schärfen.
+(2) Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Um-
+fang der Lehrveranstaltungen und der Prüfung in den Technischen Wahlmodule sind
+abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und
+der jeweils einschlägigen Fachstudien- und Prüfungsordnung bzw. der jeweiligen
+Modulbeschreibung zu entnehmen.
+(3) Für die Anmeldung zur Prüfung gilt
+8 47 Abs. 3 entsprechend.
+8 50 Schlüsselqualifikationen
+(1) 'Die Schlüsselqualifikationen setzen sich aus dem Pflichtmodul Nr. 14 und Modulen
+aus dem Wahlpflichtbereich Nr. 15 gemäß Anlage 1 zusammen. ?Das übergeordnete
+Qualifikationsziel der Schlüsselqualifikationen
+liegt
+in dem Erwerb übergreifender
+Kompetenzen zur Berufs- und Forschungstätigkeit, z.B. in den Bereichen Projektma-
+nagement, Teamwork oder Präsentationstechniken. *Außerdem wird den Studieren-
+den ermöglicht, sich außerhalb des eigenen Fachs in fachfremden oder praxisnahen
+Anwendungsfeldern breiter aufzustellen.
+(2) 'Die Wahl der Module aus dem Wahlpflichtbereich Nr. 15 der Schlüsselqualifikati-
+onen erfolgt durch die Anmeldung zur ersten Prüfung im jeweiligen Modul bzw. zur
+Anmeldung zur Schulung bzw. zum Praktikum. ?Die Schlüsselqualifikationsmodule
+werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semester-
+beginn ortsüblich bekannt gemacht wird. *Der Modulkatalog kann mit Wirkung zum
+jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden.
+(3) "Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen des
+Departments Mathematik oder des Department Data Science gelten 8 47 Abs. 4 und
+5 entsprechend. ?Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie
+5
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+Art und Umfang der Lehrveranstaltungen und der Prüfung in Modulen anderer Depart-
+ments und Fakultäten sind abhängig vom konkreten didaktischen Charakter des je-
+weils gewählten Moduls und der jeweils einschlägigen Fachstudien- und Prüfungs-
+ordnung sowie der jeweils einschlägigen Modulbeschreibung zu entnehmen.
+8 51 Bachelorarbeit
+(1) "Das Modul Bachelorarbeit umfasst insgesamt 10 ECTS-Punkte. ?Das Thema der
+Bachelorarbeit soll in seinen Anforderungen so gestaltet sein, dass es innerhalb von
+12 Wochen abgeschlossen werden kann. ®Das Thema der Bachelorarbeit kann nur
+einmal und mit Einwilligung der bzw. des Vorsitzenden des Prüfungsausschusses und
+nur innerhalb der ersten zwei Wochen der Bearbeitungszeit zurückgegeben werden.
+(2) "Zur Vergabe des Themas der Bachelorarbeit sind hauptberufliche Hochschulleh-
+rerinnen bzw. Hochschullehrer im Sinne des Art. 19 Abs. 1 BayHIG sowie habilitierte
+Dozentinnen bzw. Dozenten berechtigt, sofern sie hauptberuflich im Sinne des Art. 53
+Abs. 4 BayHIG in der Lehreinheit Mathematik und Data Science tätig sind (Betreue-
+rinnen bzw. Betreuer). ?Der Prüfungsausschuss kann Ausnahmen gestatten und re-
+geln.
+(3) Die Bachelorarbeit wird abweichend von 8 31 Abs.
+7 ABMPO/NatFak nur von der
+Betreuerin bzw. dem Betreuer bewertet; $ 17 Abs 4 Satz
+2 ABMPO/NatFak bleibt un-
+berührt.
+2. Masterprüfung
+8 52 Zugangskomnmission für die Masterstudiengänge
+(1) Die Prüfung der Qualifikations- und Zugangsvoraussetzungen zum Masterstudium
+obliegt einer Zugangskommission, die für die Masterstudiengänge Mathematik, Wirt-
+schaftsmathematik und Computational and Applied Mathematics gemeinsam nach
+Abs. 2 bestellt wird.
+(2) "Die Zugangskommission
+i. S. d. & 12 ABMPO/NatFak besteht aus der bzw. dem
+Vorsitzenden und zwei weiteren Professorinnen bzw. Professoren der Lehreinheit Ma-
+thematik und Data Science sowie einer wissenschaftlichen Mitarbeiterin bzw. einem
+wissenschaftlichen Mitarbeiter, die bzw. der hauptberuflich im Sinne des Art. 53 Abs. 4
+BayHIG im Dienst der FAU steht. ?Die Mitglieder werden vom Fakultätsrat der Natur-
+wissenschaftlichen Fakultät auf Vorschlag der Lehreinheit Mathematik und Data Sci-
+ence für die Dauer von drei Jahren bestellt; Wiederbestellung ist möglich.
+8 53 Qualifikation zum Masterstudium, Nachweise und
+Zugangsvoraussetzungen
+(1) 'Fachspezifischer Abschluss im Sinne des 8 35 Abs. 1 Satz 1 Nr.
+1 ABMPO/Nat-
+Fak ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Mathematik,
+Technomathematik oder Wirtschaftsmathematik. ?Als fachverwandter Abschluss im
+Sinne des $ 35 Abs. 1 Satz 1 Nr.1 ABMPO/NatFak wird insbesondere ein Bachelor-
+abschluss in Physik, Ingenieurwissenschaften oder Informatik mit mathematiknahen
+Inhalten im Umfang von mindestens 45 ECTS-Punkten anerkannt. *Bewerberinnen
+6
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+und Bewerber mit einem fachverwandten Abschluss können gemäß Abs. 5 Satz 4 An-
+lage ABMPO/NatFak nur auf Grundlage einer bestandenen mündlichen Zugangsprü-
+fung in das Masterstudium aufgenommen werden.
+(2) "Als weiterer Nachweis im Sinne des Abs. 2 Satz 6 Nr.
+3 Anlage ABMPO/NatFak
+ist ein Nachweis über Sprachkenntnisse mindestens auf dem Niveau von „Englisch
+Level B 2 (Common European Framework of Reference for Languages - CEFR) Van-
+tage oder Upper intermediate“ vorzulegen; dieser Nachweis kann insbesondere auch
+durch sechs Jahre Englischunterricht eines deutschen Gymnasiums erbracht werden.
+2Bei Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ih-
+ren ersten berufsqualifizierenden Hochschulabschluss in englischer Sprache erwor-
+ben haben, ist kein Nachweis der englischen Sprachkenntnisse erforderlich.
+(3) In der mündlichen Zugangsprüfung gemäß Abs. 5 Satz 4 ff. Anlage ABMPO/Nat-
+Fat werden die Bewerberinnen bzw. Bewerber auf Basis folgender Kriterien beurteilt:
+1. Qualität der Grundkenntnisse in Funktionalanalysis oder Theorie von Differential-
+gleichungen (35 %),
+2. Qualität der Grundkenntnisse in Numerik oder Optimierung (35 %),
+3. mathematische Diskussionsfähigkeit auf Englisch, z. B. über Inhalte der Bachelor-
+arbeit (30 %).
+8& 54 Umfang und Gliederung des Masterstudiums, Studienrichtungen
+(1) 'Das Masterstudium setzt sich aus den Pflichtmodulen, den Wahlpflichtmodulen
+der Studienrichtung, den freien Wahlmodulen und dem Masterseminar sowie der Mas-
+terthesis zusammen.
+(2) 'Das Masterstudium beinhaltet die in Anlage 2a bis 2c genannten Module. ?Im
+Masterstudium müssen insgesamt 120 ECTS-Punkte gemäß folgender Aufteilung er-
+worben werden:
+1. 35 ECTS-Punkte aus dem Bereich der Pflichtmodule (PM)
+2. 40 ECTS-Punkte aus dem Bereich der Wahlpflichtmodule (WP) der jeweils gewähl-
+ten Studienrichtung MApA/NASIi, MApA/Opti oder NASi/Opti sowie aus dem Bereich
+der anderen beiden nicht gewählten Studienrichtungen (siehe $ 56),
+3. 15 ECTS-Punkte aus dem gesamten Lehrangebot der Masterstudiengänge der
+FAU (freie Wahlmodule gemäß 8 57),
+4. 30 ECTS-Punkte aus dem Bereich der Module Masterseminar und Masterthesis
+(MA) (siehe 8 58), die Module Masterseminar und Masterthesis müssen der gewähl-
+ten Studienrichtung zugeordnet sein.
+®Der Bereich der Wahlpflichtmodule nach Satz 2 Nr. 2 setzt sich aus Modulen der ge-
+wählten Studienrichtung und weiteren Modulen aus den übrigen beiden Studienrich-
+tungen zusammen. *Der Umfang der in der gewählten Studienrichtung zu erbringen-
+den ECTS-Punkte unterscheidet sich je nach gewählter Studienrichtung und ist der
+Anlage 2a bis 2c zu entnehmen. °Der Umfang der in den übrigen beiden Studienrich-
+tungen zu erbringenden ECTS-Punkte ist abhängig von den bereits erbrachten ECTS-
+Punkten nach Satz 4 und ebenfalls der Anlage 2a bis 2c zu entnehmen.
+(3) 'Der Masterstudiengang Computational and Applied Mathematics umfasst im Be-
+reich der Pflichtmodule, Wahlpflichtmodule ($ 56) und Masterthesis Module im Umfang
+7
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+von mindestens 105 ECTS-Punkten aus vier Spezialisierungsgebieten. ?Die Speziali-
+sierungsgebiete haben folgende fachspezifischen Qualifikationsziele:
+1. 'Im Spezialisierungsgebiet MApA werden Methodenkompetenzen erworben, die so-
+wohl zur Modellierung in Natur- und Ingenieurwissenschaften als auch zur rigoros
+mathematisch-analytischen Behandlung der hierbei gewonnenen partiellen Diffe-
+rentialgleichungen oder Variationsprobleme befähigen. ?Diese reicht von der expli-
+ziten Bestimmung spezieller Lösungen über den Nachweis von Existenz und Ein-
+deutigkeit im allgemeinen Fall bis hin zu allgemein gültigen Aussagen über das qua-
+litative Verhalten von Lösungen.
+2. !Im Spezialisierungsgebiet NASi werden Methodenkompetenzen erworben, die zur
+Entwicklung, Implementierung und zu mathematischer Analyse effizienter numeri-
+scher Verfahren zu Modellen
+in Natur- und Ingenieurwissenschaften befähigen.
+2Das Methodenspektrum schließt zeit- und ortsadaptive Verfahren zur Diskretisie-
+rung der Modellgleichungen sowie Mehrgitterverfahren und Parallelisierungstechni-
+ken zur Behandlung der auftretenden linearen Gleichungssysteme ein. *Ebenso
+werden Kenntnisse zu Konvergenzanalysen vermittelt, die auf problemspezifisch
+maßgeschneiderten funktionalanalytischen Ansätzen beruhen.
+3. 'Im Spezialisierungsgebiet Opti werden Methodenkompetenzen erworben, die zur
+Optimierung diskreter und/oder kontinuierlicher Systeme befähigen. ?Dazu gehört
+die Fähigkeit, verschiedene Optimierungsalgorithmen hinsichtlich ihrer Effizient kri-
+tisch zu beurteilen, problemspezifisch geeignete numerische Verfahren anzuwen-
+den und ihr Konvergenzverhalten analysieren zu können.
+4. 'Im Spezialisierungsgebiet HPC werden Methodenkompetenzen zur effizienten
+Programmierung moderner Super-Rechner erworben, insbesondere im Hinblick auf
+die numerische Simulation von Modellen
+mit partiellen
+Differentialgleichungen.
+Dies beinhaltet Wissen über innovative Programmiertechniken unter unterschiedli-
+chen Rechnerarchitekturen ebenso wie über die Funktionsweise der Prozessoren
+von Super-Rechnern, insbesondere hinsichtlich einer energieeffizienten Program-
+mierung. *Dies befähigt dazu, für verschiedene Problemstellungen passende Rech-
+nerarchitekturen auszuwählen und Simulationen effizient umzusetzen.
+(4) 'Der Studiengang wird in drei Studienrichtungen angeboten. ?Die Studienrichtun-
+gen ergeben sich als Kombination von jeweils zwei Spezialisierungsgebieten. ®Die zu-
+lässigen Kombinationen sind:
+1.
+MAPpA und NASI,
+2.
+MAPA und Opti,
+3.
+NASi und Opti,
+“Näheres regelt 8 56. ®Die Studienrichtung wird von der Bewerberin bzw. dem Bewer-
+ber bei der Antragstellung auf Zugang zum Masterstudium vorgeschlagen, kann je-
+doch im Laufe des Studiums gewechselt werden.
+8 55 Mentorat und individuelle Studienvereinbarung
+(1) 'Jeder bzw. jedem Studierenden wird zu Beginn des Masterstudiums eine Mentorin
+bzw. ein Mentor mit der Aufgabe zugewiesen, die Ausarbeitung einer individuellen Stu-
+dienvereinbarung zu unterstützen und Fragen zum Studium zu klären. ?Dieses Mento-
+rat bezieht sich auf diegesamte Masterstudienzeit. *Bei der Antragstellung auf Zugang
+zum Masterstudium kann die Bewerberin bzw. der Bewerber eine Mentorin bzw. einen
+Mentor vorschlagen.
+8
+```
+
+### OCR Seite 9
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+(2) 'Zu Beginn des Masterstudiums wird mit der Mentorin bzw. dem Mentor gemein-
+sam eine individuelle Studienvereinbarung entwickelt, die die fachlichen Interessen der
+bzw. des Studierenden berücksichtigen soll. Diese Studienvereinbarung ist für das
+gesamte Masterstudium gültig und listet alle zu belegenden Module auf. ®Sie ist dem
+Prüfungsausschuss bis spätestens zum ersten Prüfungstermin des Masterstudiums
+zur Genehmigung vorzulegen und an das Prüfungsamt weiterzuleiten. *Eine Anmel-
+dung zu und Teilnahme an den Prüfungen im Masterstudium ist erst möglich, wenn die
+Studienvereinbarung dem Prüfungsamt vorgelegt worden und von diesem bestätigt
+worden ist.
+(3) "Zur Sicherstellung der Studierbarkeit kann die Studienvereinbarung in Absprache
+mit der Mentorin bzw. dem Mentor aktualisiert werden. ?Diese Aktualisierung ist dem
+Prüfungsausschuss unverzüglich zur Genehmigung vorzulegen und an das Prüfungs-
+amt weiterzuleiten; Abs. 2 Satz 3 und 4 gilt entsprechend.
+8 56 Wahlpflichtmodule der Studienrichtungen
+(1) !In den Wahlpflichtmodulen der Studienrichtungen werden die Kompetenzen der
+jeweiligen Spezialisierungsgebiete vermittelt. ?Dabei werden wissenschaftliche Metho-
+denkompetenzen zur Einordnung mathematischer Strukturen, zu Modellierung und zu
+Problemlösestrategien sowie die Befähigung zu einer eigenständigen wissenschaftli-
+chen Arbeitsweise erworben. Es wird ein forschungsorientiertes Qualifikationsziel ver-
+folgt, indem fachspezifische Forschungsmethoden und vertieftes Fachwissen vermit-
+telt werden. *Es wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im
+Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen.
+(2) Die einzelnen Studienrichtungen haben die folgenden fachspezifischen Qualifikati-
+onsziele:
+1. Die Studienrichtung MApA/NASI soll die Studierenden qualifizieren, Problemstel-
+lungen aus Natur- und Ingenieurwissenschaften mathematisch zu modellieren und
+zu analysieren und mit Verfahren der numerischen Mathematik zu behandeln. ?Sie
+kombiniert dazu Kompetenzen aus den Spezialisierungsgebieten MApA und NASI
+gemäß 8 54 Absatz 3. ®Dabei bilden die mathematische Modellierung und Analyse
+die Grundlage für die Entwicklung, Analyse und Anwendung robuster und effizien-
+ter numerischer Verfahren.
+2. 'Die Studienrichtung MApA/Opti soll die Studierenden qualifizieren, Problemstel-
+lungen aus Natur- und Ingenieurwissenschaften mathematisch zu modellieren, zu
+analysieren und darauf basierende Systeme zu optimieren. ?Sie kombiniert dazu
+Kompetenzen aus den Spezialisierungsgebieten MApA und Opti gemäß 8 54 Ab-
+satz 3. ®Dabei basiert die Entwicklung und Anwendung von Optimierungstechniken
+auf dem in Modellierung und mathematischer Analyse gewonnenen Problemver-
+ständnis.
+3. "Die Studienrichtung NASi/Opti soll die Studierenden qualifizieren, auf mathemati-
+schen Modellen aus Natur- und Ingenieurwissenschaften basierende Problemstel-
+lungen zu lösen und entsprechende Systeme zu optimieren. ?Sie kombiniert dazu
+Kompetenzen aus den Spezialisierungsgebieten NASi und Opti gemäß $ 54 Ab-
+satz 3. ?Dabei ergänzen sich Techniken der numerischen Mathematik und Optimie-
+rung bei der Lösung der entsprechenden Problemstellungen.
+9
+```
+
+### OCR Seite 10
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+| N \U
+lu
+(3) Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen wähl-
+baren Module sind abhängig vom jeweils gewählten Modul in Abhängigkeit von den
+Qualifikationszielen nach Abs. 2 der jeweiligen Modulbeschreibung zu entnehmen.
+(4) 8 47 Abs. 3 bis 5 gelten entsprechend.
+8 57 Freie Wahlmodule
+!Freie Wahlmodule können im Umfang von insgesamt 15 ECTS-Punkten aus dem ge-
+samten Angebot der FAU im Masterbereich gewählt werden. ?Das übergeordnete
+Qualifikationsziel der Freien Wahlmodule liegt in dem Erwerb fachübergreifender Kom-
+petenzen. Den Studierenden soll ermöglicht werden, Informationen in einem selbst
+gewählten Themenbereich zu sammeln oder bereits erworbene Kompetenzen zu ver-
+tiefen und ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen.
+“Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Umfang
+der Lehrveranstaltungen und Prüfungen der einzelnen wählbaren Module sind abhän-
+gig von den im jeweiligen Modul zu erwerbenden Kompetenzen und der jeweils ein-
+schlägigen (Fach-)Studien- und Prüfungsordnung bzw. der jeweils einschlägigen
+Modulbeschreibung zu entnehmen.
+& 58 Modul Masterthesis
+(1) "Die Masterthesis dient dazu, die selbstständige Bearbeitung von wissenschaftli-
+chen Aufgabenstellungen aus dem Bereich von Computational and Applied Mathema-
+tics nachzuweisen. ?Sie ist in ihren Anforderungen so zu gestalten, dass sie innerhalb
+von sechs Monaten abgeschlossen werden kann.
+(2) 'Das Modul Masterthesis behandelt in der Regel ein wissenschaftliches Thema aus
+der gewählten Studienrichtung. ?8 51 Abs. 3 gilt entsprechend.
+(3) 'Das Modul Masterthesis wird mit 25 ECTS-Punkten bewertet. ?Es setzt sich zu-
+sammen aus der Masterthesis (22,5 ECTS-Punkte) und einem Kolloquium (2,5 ECTS-
+Punkte).
+Ill. Teil: Schlussbestimmungen
+8 59 Inkrafttreten
+(1) 'Diese Fachstudien- und Prüfungsordnung tritt am 1. April 2026 in Kraft. ?Sie gilt
+für alle Studierenden, die das Studium ab dem Sommersemester 2026 aufnehmen
+werden. ?Studierende, die nach Fachstudien- und Prüfungsordnung für den Bachelor-
+studiengang Technomathematik und den Masterstudiengang Computational and Ap-
+plied Mathematics an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-
+Universität Erlangen-Nürnberg (FAU) — FPOTechnoMathe — vom 11. März 2015, zu-
+letzt geändert durch Satzung vom 11. August 2022 studieren, beenden ihr Studium
+nach der bisher für sie gültigen Fassung.
+(2) Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Technoma-
+thematik und den Masterstudiengang Computational and Applied Mathematics an der
+10
+```
+
+### OCR Seite 11
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+DUN
+Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürn-
+berg (FAU) - FPOTechnoMathe - vom 11. März 2015, zuletzt geändert durch Satzung
+vom 11. August 2022, tritt bezogen auf die Regelungen zum Bachelorstudiengang mit
+Wirkung zum 30. September 2030, bezogen auf die Regelungen zum Masterstudien-
+gang mit Wirkung zum 30. September 2029 außer Kraft. "Prüfungen nach der in Satz
+1 genannten FPOMathe werden bezogen auf das Bachelorstudium letztmals im Som-
+mersemester 2030, bezogen auf das Masterstudium letztmals im Sommersemester
+2029 angeboten.
+11
+```
+
+### OCR Seite 12
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Anlage 1: (Muster-)Studienverlaufsplan Bachelorstudiengang Technomathematik
+Workload-Verteilung pro Semester
+SWS
+Gesamt
+in ECTS-Punkten
+Art und Umfang
+Faktor
+Nr.
+| Modulbezeichnung
+Lehrveranstaltung
+ECTS
+1
+2
+3
+4
+5
+6
+der
+Modul-
+vÜ
+Pp
+Ss
+Sem.
+Sem.
+Sem.
+Sem.
+| Sem.
+Sem.
+Prüfung
+DI
+Klausur 120 Min.
+.
+M
+.
+(100%) und
+..
+.
+(unbenotet, 0%)
+Tafelübung Analysis
+|
+2
+2
+Klausur 120 Min.
+.
+M
+.
+(100%) und
+in
+nn
+|2I|os
+=
+u.
+.
+(unbenotet, 0%)
+o
+Tafelübung Analysis Il
+2
+2
+©
+B
+rn
+Klausur 120 Min.
+=
+.
+M
+.
+(100%) und
++
+EreTrerer
+u EIa
+BZ
+HE EU
+S
+.
+(unbenotet, 0%)
+=
+Tafelübung Analysis Ill
+1
+1
+>}
+I
+Klausur 120 Min.
+.
+M
+.
+(100%) und
+ee
+en
+Tafelübung Lineare Al-
+2
+2
+(unbenotet, 0%)
+gebra
+|
+Vorlesung Lineare Algebra
+4
+Klausur 120 Min.
+.
+Il
+(100%) und
+SE
+Lineare Algebra Il
+Übungsleistung
+0,5
+12
+```
+
+### OCR Seite 13
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Workload-Verteilung pro Semester
+SWS
+Gesamt
+in ECTS-Punkten
+Art und Umfang
+Faktor
+Nr.
+| Modulbezeichnung
+Lehrveranstaltung
+ECTS
+1.
+2
+3
+4.
+5
+6.
+Be
+Nocur
+vÜ
+Pp
+Ss
+Sem.
+Sem.
+Sem.
+| Sem.
+| Sem.
+Sem.
+9
+Tafelübung Lineare Al-
+2
+2
+gebra Il
+|
+Summe Grundlagenmodule (GM)
+| rlı)
+| 19
+| 0
+|
+0
+50
+20
+20
+|
+10
+0
+0
+0
+|
+Vorlesung Einführung in
+die
+4
+7
+.
+Numerik
+Klausur 90 Min.
+=
+Einführung in die Numerik
+Übungen zur Einführung in
+2
+2
+Übungsleistung
+!
+<
+die Numerik
+—
+-
+——_.
+-
+(unbenotet, 0%)
+K-)
+Tutorium zur Einführung in
+4
+1
+3
+die Numerik
+ö-
+3
+Vorlesung Mathematische
+OBER
+..
+3
+7 | Mathematische
+Modellierung Theorie
+2
+3
+Mündliche Prü-
+=
+Modellierung Theorie
+Übung Mathematische
+2
+2
+15 Min
+<
+Modellierung Theorie
+"
+1 Terme aumaun u
+EI EHE CHIECHU ICHEICH EC ICH IE ICH
+Wahlpflichtmodule aus Kata-
+Ki)
+log für Numerische Mathe-
+15-
+7,5-
+23
+matik, Modellierung und Op- | “9! $ #7 Abs. 5
+20 | 125 | 12% | vgl.$47 Abs. 4
+!
+oo
+2
+17,5
+B-
+timierung gemäß 8 47
+oes
+ce Ye
+S2
+—_
+Grundlagen der Program-
+o
+©
+as
+Wahlpflichtmodule aus Kata-
+75-
+z2
+ir
+log für Nebenfach Informatik
+vgl.
+8 48 Abs. 3
+12 5
+5
+2,5-5 | 0-2,5
+vgl. 848 Abs. 3
+1
+=
+INF) gemäß 8 48
+»
+13
+```
+
+### OCR Seite 14
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Workload-Verteilung pro Semester
+SD
+ram)
+nl GIS-Runkten
+Art und Umfang
+Faktor
+Nr.
+| Modulbezeichnung
+Lehrveranstaltung
+ECTS
+4
+2
+3
+4
+5
+6
+der
+Modul-
+vÜ
+Pp
+Ss
+Sem.
+Sem.
+Sem.
+Sem.
+| Sem.
+Sem.
+Prüfung
+DI
+Summe Nebenfach Informatik (INF)
+6
+4
+0
+0
+20-25
+5
+7,5
+0
+5
+25-5
+0-2,5
+mai
+Wahlpflichtmodule aus Kata-
+® E
+log für Technisches Wahl-
+vgl. 8 48 Abs. 2
+12,5
+5
+2,5-5 | 0-2,5
+vgl.
+848 Abs. 2
+1
+sc
+fach (TWF) gemäß 8 49
+22
+c ©
+Sss8
+Vortrag
+.
+in
+(30-40 Min.;
+=
+Mathematische
+Mathematische Modellie
+unbenotet) und
+[e}
+.
+.
+rung
+2
+5
+-
+.
+a
+Modellierung Praxis
+Praxis
+Projektbericht
+e
+(5-10 Seiten;
+=
+unbenotet
+Q
+H
+E
+Wahlpflichtmodule aus
+S
+Katalog für Schlüssel-
+vgl. 8 50 Abs. 3
+5
+vgl. 8 50 Abs. 3
+o
+qualifikationen gemäß 8 50
+fr
+[7]
+3
+5
+en
+Summe Schlüsselqualifikationen (SQ)
+5<
+„a
+10
+Bachelorarbeit
+15
+= =
+Bachelorarbeit
+(ca. 20-25 Seiten)
+’
+a:
+14
+```
+
+### OCR Seite 15
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Workload-Verteilung pro Semester
+SWS
+Gesamt
+in ECTS-Punkten
+Art und Umfang
+Faktor
+Nr.
+| Modulbezeichnung
+Lehrveranstaltung
+ECTS
+4
+2
+3
+4
+5
+6
+der
+Modul-
+vÜ
+Pp
+Ss
+Sem.
+Sem.
+Sem.
+| Sem.
+| Sem.
+Sem.
+Prüfung
+DI
+:
+1
+27,5-
+27,5-
+Summe SWS (mind.) ' und ECTS-Punkte
+32
+28
+2
+2
+180
+30
+27,5
+32,5
+30
+325
+325
+! Die Zahl erhöht sich um die Veranstaltungen der Mathematischen Wahlpflichtmodule, des Nebenfachs Informatik, des Technischen Wahlfachs und der Schlüsselqualifikation.
+Erläuterungen:
+Übungsleistung: vgl. 8 6 Abs.
+4 ABMPO/NatFak.
+15
+```
+
+### OCR Seite 16
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Anlage 2a: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics
+— Studienrichtung MApA und NASIi —
+cr
+Workload-Verteilung pro
+Spezialisier-
+.
+Sins
+Gesamt
+Semester in ECTS-Punkten
+Art und Umfang der alten
+Nr.
+ungs-
+Modulbezeichnung
+Lehrveranstaltung
+..
+Modul-
+.
+.
+ECTS
+1.
+2.
+3.
+4.
+Prüfung
+gebiet
+V
+U
+P
+S
+note
+SI-JuR
+Sem.
+Sem. | Sem.
+Modeling and Analysis
+;
+i@
+in
+|
+In
+Continuum
+4
+8'
+8?
+Modeling and Analysis in
+ın
+.
+OHR
+..
+1
+MApA
+Continuum
+Mechanics |
+ins
+1
+Modeling and Analysis
+in Continuum
+2
+4'
+4?
+2
+MADA
+Modeling and Analysis in | Mechanics II
+Mündliche Prüfung
+4
+p
+Continuum Mechanics Il
+(20 Min.)
+Tutorials to Part II
+0,5
+1!
+12
+=
+Vortrag
+MApA/
+.
+.
+.
+Practical Course:
+(ca. 45 Min.) mit
+d=
+13
+NASI/
+Kodeling, Simulation and | \odeling, Simulation
+3
+51
+52
+Abschlussbericht
+1
+=
+Opti
+p
+and Optimization
+(ca. 10 Seiten)
+3
+50% +50 %
+&E
+Programming
+5
+.
+Techniques for Super-
+4
+52
+51
+F=
+Programming
+computers
+&
+4
+HPC
+Techniques for Super-
+-
+vgl. FPO INF
+1
+computers in CAM
+Tutorials 10 Program-
+ming Techniques for
+2
+52
+51
+Supercomputers
+Architectures of Super-
+Supercomputers
+EEBE MEZ
+5
+HPC
+computers
+Tutorials to
+vgl. FPO INF
+1
+Architectures of
+2
+2,52
+2,5!
+Supercomputers
+16
+```
+
+### OCR Seite 17
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+cr
+Workload-Verteilung pro
+Spezialisier-
+.
+Sins
+Gesamt
+Semester in ECTS-Punkten
+Art und Umfang der alten
+Nr.
+ungs-
+Modulbezeichnung
+Lehrveranstaltung
+..
+Modul-
+.
+.
+ECTS
+1.
+2.
+3.
+4.
+Prüfung
+gebiet
+V
+U
+P
+S
+note
+Sem.
+Sem.
+Sem.
+Sem.
+Wahlpflichtmodule aus
+\
+\
+\
+\
+dem Katalog in Abhängig-
+10
+5-10
+0-20
+0
+MAPA/NASi | keit der gewählten
+vgl. 8 56 Abs. 3
+bzw.
+bzw.
+bzw. | bzw.
+vgl. 8 56 Abs. 3
+1
+Studienrichtung gemäß
+52
+10-15? | 0-15? | 0-5?
+rn
+8 54 Abs. 3 Satz 2 Nr. 1
+s
+©
+3
+o
+[e)
+$
+<<
+go
+1,2
+_e
+1,2
+S
+7
+et ‚|
+Studienrichtungen gemäß
+vgl. 8 56 Abs. 3
+0
+0-5
+on
+Fe
+vgl. 8 56 Abs. 3
+1
+Pl
+| 854 Abs. 3 Satz 2 Nrn. 2-3
+"
+"
+10!
+10'
+20!
+0'
+Summe Wahlpflichtmodule (WP)
+40
+bzw.
+bzw.
+ bzw.1
+bzw.
+52
+152
+52
+52
+©
+3
+BE_
+10'
+5'
+= =
+Freie Wahlmodule
+vgl. 8 57
+bzw.
+bzw.
+vgl. 8 57
+1
+3
+152
+02
+‚©
+g
+[ra
+17
+```
+
+### OCR Seite 18
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+cr
+Workload-Verteilung pro
+Spezialisier-
+.
+Sins
+Gesamt
+Semester in ECTS-Punkten
+Art und Umfang der alten
+Nr.
+ungs-
+Modulbezeichnung
+Lehrveranstaltung
+..
+Modul-
+.
+.
+ECTS
+1.
+2.
+3.
+4.
+Prüfung
+gebiet
+V
+U
+P
+S
+note
+Sem.
+Sem.
+Sem.
+Sem.
+o |
+MApA
+Master seminar MApA
+Master seminar MApA HEHE fe Seminarleistung ®
+Ee<
+ss
+ed
+Vortrag
+45
+min.
+2 5
+Master colloquium
+2,5
+° 129
+min
+2%
+MApA/
+(20%) und
+oo | 10
+PN
+Masterthesis
+Masterthesis
+1
+ss
+NASI
+80%
+Masterthesis
+22,5
+(80%)
+1 Studienbeginn im Wintersemester.
+2 Studienbeginn im Sommersemester.
+3 Die Mindestanzahl von 15 ECTS-Punkten im Bereich MApA/NASi gemäß Zeile 6 stellt sicher, dass insgesamt mindestens 65 ECTS-Punkte im Bereich der Studienrichtung erbracht
+werden (vgl. Modulnummern 1, 2, 3, 9a, 9b und 10).*
+Insgesamt müssen im Rahmen der Module 6 und 7 40 ECTS-Punkte erbracht werden.
+5 Die Seminarleistung besteht aus einem Vortrag (70-80 Min.) und einer schriftlichen Ausarbeitung (5-10 Seiten).
+18
+```
+
+### OCR Seite 19
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Anlage 2b: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics
+— Studienrichtung MApA und Opti —
+lc:
+Workload-Verteilung pro
+Speziallsier-
+.
+SE
+Gesamt
+Semester in ECTS-Punkten
+Art und Umfang der el)
+Nr.
+ungs-
+Modulbezeichnung
+Lehrveranstaltung
+..
+Modul-
+f
+.
+ECTS
+1.
+2.
+3.
+4.
+Prüfung
+gebiet
+V
+U
+P
+S
+note
+Sem.
+Sem.
+Sem. | Sem.
+Modeling and Analysis
+in Continuum
+4
+8!
+8?
+1
+MApA
+Modeling and Analysis in | Mechanics
+|
+Mündliche Prüfung
+1
+p
+Continuum Mechanics |
+(20 Min.)
+Tutorials to Part
+|
+1
+2'
+22
+Modeling and Analysis
+in Continuum
+2
+4'
+4?
+2
+MADA
+Modeling and Analysis in | Mechanics II
+Mündliche Prüfung
+4
+p
+Continuum Mechanics Il
+(20 Min.)
+Tutorials to Part II
+0,5
+1!
+12
+=
+Vortrag
+MApA/
+.
+.
+.
+Practical Course:
+(ca. 45 Min.) mit
+d
+br
+3
+NASI/
+Kodeling, Simulation and | \Jodeling, Simulation
+3
+51
+52
+Abschlussbericht
+1
+=
+Opti
+p
+and Optimization
+(ca. 10 Seiten)
+3
+50% +50 %
+&E
+Programming
+5
+.
+Techniques for Super-
+4
+52
+51
+F=
+Programming
+computers
+&
+4
+HPC
+Techniques for Super-
+-
+vgl. FPO INF
+1
+computers in CAM
+Tutorials 10 Program-
+ming Techniques for
+2
+52
+51
+Supercomputers
+Architectures of Super-
+a
+HPG
+computers
+Tutorials to
+vgl. FPO INF
+1
+Architectures of
+2
+2,52
+2,5!
+Supercomputers
+19
+```
+
+### OCR Seite 20
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+lc:
+Workload-Verteilung pro
+Speziallsier-
+.
+SE
+Gesamt
+Semester in ECTS-Punkten
+Art und Umfang der el)
+Nr.
+ungs-
+Modulbezeichnung
+Lehrveranstaltung
+..
+Modul-
+f
+.
+ECTS
+1.
+2.
+3.
+4.
+Prüfung
+gebiet
+V
+U
+P
+S
+note
+Sem.
+Sem.
+Sem.
+Sem.
+Wahlpflichtmodule aus
+4
+4
+dem Katalog in Abhängig-
+0-20
+0
+MApA/Opti
+| keit der gewählten
+vgl. 8 56 Abs. 3
+012
+0-512 | bzw. | bzw.
+vgl.
+8 56 Abs. 3
+1
+Studienrichtung gemäß
+0-15? | 0-5?
+m
+8 54 Abs. 3 Satz 2 Nr. 2
+s
+©
+E
+Ooö
+$
+©
+Wahlpflichtmodule aus
+a
+MAPA/NASI
+dem Katalog in Abhängig-
+10'
+5.10!
+0-20 !
+0'
+z
+keit der übrigen
+5
+7
+er ;
+Studienrichtungen gemäß
+vgl. 8 56 Abs. 3
+ee ea Ko
+Ba
+vgl. 8 56 Abs. 3
+1
+p
+8 54 Abs. 3 Satz 2 Nr.
+1 und
+"
+"
+"
+Nr. 3
+10'
+10'
+20 '
+0'
+Summe Wahlpflichtmodule (WP)
+40
+bzw.
+bzw.
+bzw.
+bzw.
+52
+152
+152
+52
+©
+3
+BE_
+10'
+51
+z =
+Freie Wahlmodule
+vgl.8 57
+bzw.
+bzw.
+vgl. 8 57
+1
+3
+15?
+0?
+‚®
+ge
+[ra
+20
+```
+
+### OCR Seite 21
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+lc:
+Workload-Verteilung pro
+Spzlelele"
+.
+SB
+Gesamt
+Semester in ECTS-Punkten
+Art und Umfang der
+Eliten
+Nr.
+ungs-
+Modulbezeichnung
+Lehrveranstaltung
+ECTS
+Prüf
+Modul-
+gebiet
+vÜüö
+Ps
+".
+z
+3
+u
+rutung
+note
+Sem.
+Sem.
+Sem.
+Sem.
+o E
+MApA
+Master seminar MApA
+Master seminar MApA BERG
+BEE Seminarleistung ®
+Ee<
+ss
+ed
+5E5
+ABA
+Master colloquium
+2,5
+Vortrag 45 min.
+u 8
+10
+Opti
+(20%) und
+1
+1 Studienbeginn im Wintersemester.
+2 Studienbeginn im Sommersemester.
+3 Die Mindestanzahl von 15 ECTS-Punkten im Bereich MApA/Opti gemäß Zeile 6 stellt sicher, dass insgesamt mindestens 65 ECTS-Punkte im Bereich der Studienrichtung erbracht
+werden (vgl. Modulnummern 1, 2, 3, 9a, 9b und 10).
+* Insgesamt müssen im Rahmen der Module 6 und 7 40 ECTS-Punkte erbracht werden.
+5 Die Seminarleistung besteht aus einem Vortrag (70-80 Min.) und einer schriftlichen Ausarbeitung (5-10 Seiten).
+21
+```
+
+### OCR Seite 22
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Anlage 2c: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics
+—- Studienrichtung NASi und Opti —
+cr
+Workload-Verteilung pro
+Spezialisier-
+.
+SUB
+Gesamt
+Semester in ECTS-Punkten
+Art und Umfang der el)
+Nr.
+ungs-
+Modulbezeichnung
+Lehrveranstaltung
+..
+Modul-
+.
+.
+ECTS
+1.
+2.
+3.
+4.
+Prüfung
+gebiet
+V
+U
+P
+Ss
+note
+Sem.
+Sem.
+Sem.
+SI-JuR
+Modeling and Analysis
+in Continuum
+4
+8!
+8?
+1
+MApA
+Modeling and Analysis in | Mechanics I
+Mündliche Prüfung
+1
+p
+Continuum Mechanics |
+(20 Min.)
+Tutorials to Part
+|
+1
+2'
+2?
+Modeling and Analysis
+in Continuum
+2
+4'
+4?
+2
+MADA
+Modeling and Analysis in | Mechanics Il
+Mündliche Prüfung
+4
+p
+Continuum Mechanics Il
+(20 Min.)
+Tutorials to Part Il
+0,5
+1!
+12
+=
+Vortrag
+MApA/
+.
+.
+.
+Practical Course:
+(ca. 45 Min.) mit
+d|
+3
+NASI/
+Kodeling, Simulation and | odeling, Simulation
+3
+51
+52
+Abschlussbericht
+1
+=
+Opti
+p
+and Optimization
+(ca. 10 Seiten)
+3
+50% +50 %
+&E
+Programming
+<<
+i
+_
+2
+1
+=
+Programming Techniques
+Techniques for Super
+4
+5
+5
+&
+4
+HPC
+for
+-
+vgl. FPO INF
+1
+Supercomputers in CAM
+Tutorials to Program-
+ming Techniques for
+2
+52
+51
+Supercomputers
+Architectures of Super-
+Suporcomputers BEEE
+EHESEIEN
+5
+HPC
+computers
+Tutorials to
+vgl. FPO INF
+1
+Architectures of
+2
+2,52
+2,5!
+Supercomputers
+22
+```
+
+### OCR Seite 23
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+cr
+Workload-Verteilung pro
+Spezialisier-
+.
+SUB
+Gesamt
+Semester in ECTS-Punkten
+Art und Umfang der el)
+Nr.
+ungs-
+Modulbezeichnung
+Lehrveranstaltung
+..
+Modul-
+.
+.
+ECTS
+1.
+2.
+3.
+4.
+Prüfung
+gebiet
+V
+U
+P
+Ss
+note
+Sem.
+Sem.
+Sem.
+Sem.
+Wahlpflichtmodule aus dem
+‚
+\
+Katalog in Abhängigkeit der
+0
+0-10
+NASi/Opti
+| gewählten
+vgl. 8 56 Abs. 3
+30-40° | 012
+bzw.
+bzw.
+012
+vgl.
+8 56 Abs. 3
+1
+Studienrichtung gemäß
+0-10 2
+02
+_
+8 54 Abs. 3 Satz 2 Nr. 3
+DL
+s
+©
+<
+k=jö
+$
+Fe
+=
+Wahlpflichtmodule aus dem
+4
+4
+©
+MApA/Opti
+| Katalog in Abhängigkeit der
+0
+0-10
+=
+7
+oder
+gewählten
+vgl. 8 56 Abs. 3
+012
+bzw.
+bzw.
+0 '2
+vgl. 8 56 Abs. 3
+1
+3
+MAPpA/NASi | Studienrichtung gemäß
+0-10?
+02
+8 54 Abs. 3 Satz 2 Nrn. 1-2
+10!
+10'
+20 '
+0'
+Summe Wahlpflichtmodule (WP)
+40
+bzw.
+bzw.
+bzw.
+bzw.
+52
+15 2
+15?
+52
+©
+3
+BE_
+10!
+51
+z =
+Freie Wahlmodule
+vgl. 8 57
+bzw.
+vgl. 8 57
+1
+s-
+152
+©
+®
+[ra
+23
+```
+
+### OCR Seite 24
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+cr
+Workload-Verteilung pro
+airszialleler-
+.
+SUB
+Gesamt
+Semester in ECTS-Punkten
+Art und Umfang der
+Eliten
+Nr.
+ungs-
+Modulbezeichnung
+Lehrveranstaltung
+R
+ECTS
+4
+2
+3
+4
+Prüfung
+Modul-
+gebiet
+v
+J
+p
+S
+Sem.
+Sem.
+Sem.
+Sem.
+note
+Seminarleistung ?
+2
+NASI
+Master seminar NASi
+Master seminar NASi
+(2)
+(5)
+1
+c
+_
+Seminarleistung ®
+8 =
+Opti
+Master seminar Opti
+Master seminar Opti
+(2)
+(5)
+1
+i
+I wre
+|
+BEE
+n
+0
+Master colloquium
+2,5
+;
+©
+;
+seo
+NASil
+Masterthesi
+und
+1
+S5
+Opti
+asterthesis
+(20%) und j
+PS ®
+Masterthesis
+22,5
+Masterthesis (80%)
+=
+1 Studienbeginn im Wintersemester.
+2 Studienbeginn im Sommersemester.
+3 Die Mindestanzahl von 30 ECTS-Punkten im Bereich NASi/Opti gemäß Zeile 6 stellt sicher, dass insgesamt mindestens 65 ECTS-Punkte im Bereich der Studienrichtung erbracht
+werden (vgl. Modulnummern 3, 9a, 9b und 10).
+* Insgesamt müssen im Rahmen der Module 6 und 7 40 ECTS-Punkte erbracht werden.
+5 Die Seminarleistung besteht aus einem Vortrag (70-80 Min.) und einer schriftlichen Ausarbeitung (5-10 Seiten).
+24
+```
+
+### OCR Seite 25
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+ul
+/zu \( )
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und
+der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026
+Erlangen, den 5. März 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 5. März 2026 digital auf der Internetseite
+https://www .fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausferti-
+gung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universi-
+tätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Ein-
+sicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 5. März 2026
+25
+```
 

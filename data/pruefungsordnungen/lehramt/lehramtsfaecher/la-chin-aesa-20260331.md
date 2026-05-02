@@ -123,6 +123,282 @@ Prof. Dr.-Ing. Joachim Hornegger, Präsident
 
 Diese Satzung wurde am 31. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 31. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. 
 
-Tag der Bekanntmachung ist daher der 31. März 2026 
+Tag der Bekanntmachung ist daher der 31. März 2026
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+P A )
+Erste Satzung zur Änderung der Fachstudien- und Prüfungsord-
+nung für das Erweiterungs-fach Chinesisch im Lehramtsstudien-
+gang an Gymnasien an der Friedrich-Alexander-Universität Erlan-
+gen-Nürnberg (FAU)
+-FPOLA Chin -
+Vom 31. März 2026
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1 und Art.
+88 Abs. 9 Bayerisches Hochschulinnovationsgesetz (BayHIG) vom 5. August 2022 in
+der derzeit geltenden Fassung erlässt die FAU folgende Anderungssatzung:
+81
+Die Fachstudien- und Prüfungsordnung für das Erweiterungsfach Chinesisch im Lehr-
+amtsstudiengang an Gymnasien an der Friedrich-Alexander-Universität
+Erlangen-
+Nürnberg (FAU) - FPO LA Chin — vom 22. August 2023 wird wie folgt geändert:
+1.
+In 8 5 wird folgender neuer Abs. 3 angefügt:
+„(3) "Die erste Änderungssatzung tritt am 1. Oktober 2026 in Kraft. Sie gilt für alle
+Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen
+werden. ?Abweichend von Satz 2 gilt sie auch für alle Studierenden die das Studium
+ab dem Wintersemester 2023/2024 aufgenommen haben.“
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+2.
+Die Tabelle in der Anlage erhält folgende neue Fassung:
+„Anlage: Studienverlaufsplan Lehramtserweiterungsfach Chinesisch im Lehramtsstudiengang
+Fachwissenschaft Chinesisch
+Workload-Verteilung pro Semester
+Fak-
+SB
+=
+in ECTS-Punkten
+tor
+.
+samt
+Art und Umfang der
+Modulbezeichnung
+Lehrveranstaltung
+ECT
+Prüfun
+Mo-
+vüpps
+5
+1.2
+3.4.5:
+6.8.9
+9
+dul-
+note
+Seminar und Konversations-
+Klausur (120 Min.) und
+Modernes Chinesisch 1
+übun
+2
+10
+mündliche
+1
+9
+Prüfung
+(10 Min.
+Seminar und Konversations-
+Klausur (120 Min.) und
+Modernes Chinesisch 2
+übun
+2
+10
+mündliche
+1
+bung
+Prüfung
+(10 Min.
+Seminar und Konversations-
+Klausur (120 Min.,) und
+Modernes Chinesisch 3
+übun
+2
+10
+mündliche
+1
+|
+YPung
+I HE HE
+HE HE
+EEE EEE BE
+HE
+BEE BEE
+I
+|
+| Prüfung
+(15 Min.
+DEE
+EIZEEZEEEEBEEI
+BE BEE EBENE
+Modernes Chinesisch 5
+Klausur (120 Min.)
+1
+|
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+Workload-Verteilung pro Semester
+Fak-
+SWS
+Ge-
+in ECTS-Punkten
+tor
+.
+samt
+Art und Umfang der
+Modulbezeichnung
+Lehrveranstaltung
+ECT
+Prüfun
+Mo-
+vüoüPps
+ns
+1.2
+3201aAa5:6Rn.8
+0%.
+9
+dul-
+UT)
+Fa
+Te
+.
+\
+Klausur (120 Min.) oder
+Sprache und Literatur Chi
+Hauptseminar
+2
+5
+mündliche Prüfung (30
+1
+Min.
+B
+Klausur (90 Min.) und
+Language Class 2
+Übung
+4
+5
+mündliche
+1
+Prüfung
+(20 Min.
+28
+34
+Summe SWS und ECTS-Punkte:
+62
+95
+155
+1
+15
+10
+10
+10
+5
+5
+10
+Fachdidaktik Chinesisch
+Ge-
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+SD
+samt
+in ECTS-Punkten
+IETE a
+Modul-
+vüPp
+ses
+4.23
+4AaS5
+6
+7.8
+gg
+9
+note
+Seminar: Chinesischdidaktikl
+|
+|
+|
+| 2 |
+I
+|
+1
+[3]
+|
+|
+1
+| __| Referat (30 Min.)
+Basismodul
+Chinesischdi-
+Übung zum Seminar: Chine-
+oder
+1
+daktik
+‚ung
+.
+"
+2
+2
+mündliche Prüfung
+sischdidaktik
+I
+|
+30 Min.
+Summe SWS und ECTS-Punkte:
+.
+8
+2
+10
+5
+5
+3
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+ul
+/zu \( )
+82
+!Diese Änderungssatzung tritt am 1. Oktober 2026 in Kraft. 2Sie gilt für alle Studierenden, die
+das Studium ab dem Wintersemester 2026/2027 aufnehmen werden. Abweichend von Satz
+2 gilt sie auch für alle Studierenden die das Studium ab dem Wintersemester 2023/2024
+aufgenommen haben.
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und
+der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom
+31. März 2026
+Erlangen, den 31. März 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 31. März 2026 digital auf der Internetseite
+https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausferti-
+gung der Satzung wurde am 31. März 2026 in der im Referat L 1 der Zentralen Univer-
+sitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur
+Einsicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 31. März 2026
+4
+```
 

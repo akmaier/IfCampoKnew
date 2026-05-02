@@ -128,6 +128,252 @@ Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.f
 
 Tag der Bekanntmachung ist daher der 5. März 2026 
 
-5 
+5
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+Eh N U
+Erlangen-Nürnberg
+Studien- und Prüfungsordnung
+für die Zusatzstudien „Gender 1 2 3“ an der
+Philosophischen Fakultät und Fachbereich Theologie der
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- POZS Gender —
+Vom 5. März 2026
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 77 Abs. 5, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2
+Satz 1 Bayerisches Hochschulinnovationsgesetz (BayHIG) in der jeweils geltenden
+Fassung erlässt die FAU folgende Studien- und Prüfungsordnung:
+Inhaltsverzeichnis:
+8 1 Geltungsbereich; Ziele.......................uuu44444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 2 Studienbeginn; Regelstudienzeit,
+Umfang....................4444ssssnnssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 3 Qualifikationsvoraussetzungen. ................-244444snnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 4 Prüfungsausschuss; Verfahrensrecht......................444444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nennen 2
+8 5 Zulassung zu den Prüfungen...........................44444444444440000000RRRRRnnnn
+non nn none nennen nnnnnnnnnnnnnnnnnnnn 2
+8 6 Prüfungen................24444ssssnnnsssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnpnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnrr
+rennen 2
+8 7 Wahlpflichtmodul...............................##444444444440000000RRRRRRRnnn
+nn nn nn nn nn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 7 Zertifikat ............22200004ssnnnnesssnnnnnennnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnrnnnennennnnnnnrnnnnennnnnnernnnnennessnnnnn
+8 8 Inkrafttreten; Experimentierklausel ...........................440ssnnsnssnnnnennnnnnennnnnnnnnennnnnennnneenn D
+Anlage: Studienverlaufsplan Zusatzstudien „Gender 12 3° ..............uuuunnnnnnnnnnnnnnnnnnennnnnnn A
+8 1 Geltungsbereich; Ziele
+(1) Diese Studien- und Prüfungsordnung regelt die Ziele und Inhalte der Zusatzstudien
+„Gender 1 2 3“ an der Philosophischen Fakultät und Fachbereich Theologie der FAU
+gemäß Art. 77 Abs. 5 Satz 1 Nr. 2 BayHIG sowie die Ablegung der dazugehörigen
+Prüfungen.
+(2) "Die Zusatzstudien „Gender 1 2 3“ richten sich an Lehramtsstudierende sowie Ba-
+chelor- und Masterstudierende der Philosophischen Fakultät und Fachbereich Theo-
+logie der FAU. ?Die Studierenden erwerben im Rahmen dieses Studienangebotes
+fachbezogene und fachübergreifende Kompetenzen zu Theorien und Anwendungsbe-
+reichen der Gender Studies unter Einbeziehung eines intersektionalen Ansatzes, der
+auch das Zusammenwirken
+mit anderen
+sozialen
+Differenzkategorien wie etwa
+‚Rasse‘, Klasse, sexuelle Orientierung oder Alter in den Blick nimmt. ?Die Zusatzquali-
+fikation befähigt die Studierenden zu einer Professionalisierung des Zugangs zu gen-
+derorientierten Forschungsfragen und schult zugleich ihre Kompetenz zu interdiszipli-
+närer Reflexion. *Ziel ist eine Sensibilisierung der Studierenden für die Bedeutung der
+Genderdimension und ihrer intersektionalen Verflechtungen
+in Gesellschaft,
+Kultur
+und Wissenschaft. °Mit erfolgreichem Abschluss erhalten die Studierenden das Zertifi-
+kat „Gender 1 2 3°.
+& 2 Studienbeginn; Regelstudienzeit, Umfang
+(1) 'Die Aufnahme der Zusatzstudien „Gender 1 2 3“ ist nur zum Wintersemester mög-
+lich. ?Nach Abschluss des Studiums der Zusatzstudien bzw. nach deren (endgültigem)
+Nichtbestehen ist eine erneute Immatrikulation in die Zusatzstudien „Gender 1 2 3“ an
+der FAU ausgeschlossen.
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N
+(2) 'Die Regelstudienzeit beträgt drei Semester und darf um maximal zwei Semester
+überschritten werden. ?Die Studierenden haben die Möglichkeit, die Zusatzstudien
+„Gender 1 2 3° im Laufe ihres gesamten Bachelor-, Master- oder Lehramtsstudiums
+zu einem beliebigen Zeitpunkt zu absolvieren. ®Der Umfang der im Rahmen der Zu-
+satzstudien „Gender 1 2 3° angebotenen Module richtet sich nach der Anlage. *Zum
+erfolgreichen Bestehen der Zusatzstudien sind Module im Umfang von 15 ECTS-Punk-
+ten nachzuweisen.
+8 3 Qualifikationsvoraussetzungen
+!Der Zugang zu den Zusatzstudien „Gender 1 2 3“ setzt die Immatrikulation in einem
+Bachelor- oder Masterstudiengang oder einem Staatsexamensstudiengang für das
+Lehramt an Gymnasien, Realschulen, Mittel- oder Grundschulen an der Philosophi-
+schen Fakultät und Fachbereich Theologie der FAU voraus. ?Bei einer Beendigung
+des Bachelor-, Master- oder Lehramtsstudiums im Sinne des Satz 1 erlischt die Be-
+rechtigung zur Absolvierung der Zusatzstudien „Gender 1 2 3°.
+& 4 Prüfungsausschuss; Verfahrensrecht
+(1) Für die Zusatzstudien „Gender 1 2 3° ist der Prüfungsausschuss für das jeweilige
+Studium
+der bzw.
+des
+Studierenden
+im
+Sinne des
+$ 3 Satz
+1
+gemäß
+8&
+12
+ABMStPO/Phil bzw. $ 10 LAPO zuständig.
+(2) Im Übrigen gelten die Regelungen der ABMStPO/Phil bzw. LAPO, soweit diese
+den Grundsätzen der Zusatzstudien nicht widersprechen bzw. in dieser Studien- und
+Prüfungsordnung nichts anderes bestimmt ist.
+8 5 Zulassung zu den Prüfungen
+'Mit der Immatrikulation in einen der in
+& 3 genannten Studiengänge gelten Studie-
+rende als zu den Modulprüfungen der Zusatzstudien zugelassen. ?Die Zulassung ist
+zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits anderweitig
+erfolgt ist.
+8 6 Prüfungen
+(1) Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus der Anlage.
+(2) "Eine im Rahmen der Zusatzstudien „Gender 1 2 3“ nicht bestandene Modulprüfung
+kann dreimal wiederholt werden. ?Eine weitere Wiederholung ist ausgeschlossen.
+(3) Die Wiederholung einer im Rahmen der Zusatzstudien „Gender 1 2 3° bestandenen
+Modulprüfung ist ausgeschlossen.
+8 7 Wahlpflichtmodul
+(1) "Das übergeordnete Qualifikationsziel des Wahlpflichtmoduls liegt darin, die An-
+wendungsbereiche von Fragestellungen der Gender- und Intersektionalitätsforschung
+in einem der beteiligten Studienfächer zu vertiefen und selbst aktiv anzuwenden. ?Be-
+teiligte Studienfächer sind die Allgemeine Pädagogik (Erziehungswissenschaften), die
+Bachelor- und Masterstudiengänge der Anglistik/Amerikanistik, Digitale Geistes- und
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+| NU
+zu
+Sozialwissenschaften/Digital Humanities, Germanistik/Komparatistik, Geschichte, Pä-
+dagogik, Psychologie, Soziologie und der Fachbereich Theologie. ®Die Prüfungsge-
+genstände beziehen sich auf eine erfolgreiche Anwendung der Forschungansätze
+durch Bearbeitung einer fachspezifischen Forschungsfrage. *Die spezifischen Qualifi-
+kationsziele und Prüfungsgegenstände des jeweiligen Wahlpflichtmoduls sind abhän-
+gig vom jeweils gewählten Modul und sind der jeweils einschlägigen (Fach-)Studien-
+und Prüfungsordnung bzw. der jeweils einschlägigen Modulbeschreibung zu entneh-
+men. ®Der Katalog der wählbaren Module wird vor Semesterbeginn ortsüblich bekannt-
+gemacht. ®Der Katalog wählbarer Module nach Satz 5 kann erweitert werden; Näheres
+regelt das Modulhandbuch der Zusatzstudien „Gender 1 2 3“.
+(2) "Art und Umfang der Lehrveranstaltungen und der Prüfungen sind abhängig von
+den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1. ?Sie richten
+sich nach den Vorgaben der beteiligten Studienfächer und sind der jeweils einschlägi-
+gen (Fach-)Studien- und Prüfungsordnung bzw. der einschlägigen Modulbeschrei-
+bung zu entnehmen.
+8 7 Zertifikat
+(1) Der Nachweis über die im Rahmen der Zusatzstudien erfolgreich abgelegten Mo-
+dulprüfungen erfolgt über eine Leistungsübersicht, die sich die bzw. der Studierende
+selbst aus dem Prüfungsverwaltungsprogramm ausdrucken kann.
+(2) Werden alle Module der Anlage im Umfang von 15 ECTS-Punkten erfolgreich ab-
+geschlossen, wird zusätzlich ein Zertifikat „Gender 1 2 3“ ausgestellt, das von der bzw.
+dem Verantwortlichen für die Zusatzstudien zu unterzeichnen ist.
+8 8 Inkrafttreten; Experimentierklausel
+(1) 'Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2026 in Kraft. ?Sie gilt für
+alle Studierenden,
+die die Zusatzstudien „Gender
+1 2 3° ab dem Wintersemester
+2026/2027 aufnehmen werden.
+(2) "Diese Studien- und Prüfungsordnung tritt mit Ablauf des Sommersemesters 2030
+außer Kraft. ?Die Zusatzstudien nach dieser Studien- und Prüfungsordnung sind recht-
+zeitig vor Außerkrafttreten dieser Studien- und Prüfungsordnung im Hinblick auf deren
+Fortführung durch die Philosophische Fakultät und Fachbereich Theologie zu evaluie-
+ren.
+3
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Anlage: Studienverlaufsplan Zusatzstudien „Gender 1 2 3“
+G
+Workload-Verteilung
+Fakt
+.
+SWS
+€-
+pro Semester in ECTS-Punk-
+Art und Umfang
+aktor
+Modulbezeichnung
+Lehrveranstaltung
+samt
+on
+d
+..
+Modul-
+h
+ECTS
+er Prüfung
+note
+V
+U
+P
+S
+1.
+2.
+3.
+Gender in Natur- und Technik-
+.
+Klausur in Form eines Essays
+0-2
+0
+0
+5-7
+Summe SWS und ECTS-Punkte
+7
+15
+5
+5
+5
+4
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+ul
+/zu \( )
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und
+der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026
+Erlangen, den 5. März 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 5. März 2026 digital auf der Internetseite
+https://www .fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausferti-
+gung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universi-
+tätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Ein-
+sicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 5. März 2026
+5
+```
 

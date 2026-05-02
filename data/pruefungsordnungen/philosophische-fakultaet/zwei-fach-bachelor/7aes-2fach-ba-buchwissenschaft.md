@@ -109,6 +109,107 @@ Erlangen, den 6. Mai 2013
 
 Prof. Dr. Karl-Dieter Grüske Präsident 
 
-Die Satzung wurde am 6. Mai 2013 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 6. Mai 2013 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 6. Mai 2013. 
+Die Satzung wurde am 6. Mai 2013 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 6. Mai 2013 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 6. Mai 2013.
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung
+für das Fach Buchwissenschaft im Zwei-Fach-Bachelorstudiengang
+an der Philosophischen Fakultät und Fachbereich Theologie
+der Friedrich-Alexander-Universität Erlangen-Nürnberg
+Vom 6. Mai 2013
+Aufgrund von Art. 13 Abs.
+1
+in Verbindung mit Art. 58 Abs.
+1 und Art. 61 Abs. 2 des
+Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg
+folgende Änderungssatzung:
+81
+Die Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fach-
+Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der
+Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt
+geändert durch Satzung vom 8. Juli 2011, wird wie folgt geändert:
+1.
+84 Abs. 2 erhält folgende Fassung:
+„(2) Im Studium Buchwissenschaft als erstes Fach sind sämtliche Pflicht- und je
+eines der Wahlpflichtmodule gemäß folgender Aufstellung erfolgreich abzulegen:
+Art | Veranstaltung
+Prüfungs- und
+ECTS
+Studienleistung
+EEE En
+Modul 1 (Pflicht): Grundlagen der Buchwissenschaft
+Modulabschlussklausur
+6|
+Grundlagen, begleitend zur VL
+90 Min.
+ee...
+hl
+Modul 2a (alternativ zu 2b): Lesen und Lese(r)geschichte im Überblick (Schwerpunkt: Mittelalter und
+Frühe Neuzeit bis Ende 19. Jahrhundert)
+Überblick
+Portfolioprüfung: Klausur
+fe)
+Schwerpunktthema
+(90 Min., 60%) und Hausarbeit |
+fo)
+ca. 15 S., 40%
+ll]
+Modul 2b (alternativ zu 2a): Lesen und Lese(r)geschichte im Überblick (Schwerpunkt: Neuere und neueste
+Zeit ab Ende 19. Jahrhundert
+Überblick
+Portfolioprüfung: Klausur
+2b.2 | 2
+PS | Schwerpunktthema
+2
+(90 Min., 60%) und Hausarbeit
+(ca. 15 S., 40%)
+u
+hl,
+Modul 3 (Pflicht) Einführung in das wissenschaftliche Arbeiten
+Grundlagen wiss. Arbeitens
+unbenoteter Vortrag mit
+Grundlagen, begleitend zur VL
+Ausarbeitung
+u
+5]
+Modul 4 (Pflicht): Typografische Grundlagen
+Geschichte der Typografie
+Modulabschlussklausur
+Angewandte Typografie
+90 Min.
+u
+5]
+Modul 5 (Pflicht): Strukturen, Institutionen und Prozesse der modernen Buchwirtschaft
+|
+Strukturen des Buchmarkts
+Pfp: Klausur 90 Min. und
+52
+13,5/UÜ
+Buchhändlerische Praxis (LA)
+2
+unbenotete Hausarbeit (10-15 | 3
+Seiten)
+I
+10]
+Modul 6a (alternativ zu Modul 6b): Grundlagen des Electronic Publishing und Electronic Commerce
+(Schwerpunkt E-Publishing)
+Überblick
+Portfolioprüfung: Klausur
+6a.2 | 3,5 | HS | Schwerpunktthema
+2
+(90 Min., 30%) und Hausarbeit | 7
+ca. 20 S., 70%
+I
+10]
+Modul 6b (alternativ zu Modul 6a): Grundlagen des Electronic Publishing und Electronic
+Commerce (Schwerpunkt E-Commerce)
+Überblick
+Portfolioprüfung: Klausur
+```
 

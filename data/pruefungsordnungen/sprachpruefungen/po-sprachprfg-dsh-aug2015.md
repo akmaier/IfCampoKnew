@@ -396,6 +396,75 @@ Der Prüfung lag die DSH-Prüfungsordnung der Friedrich-Alexander-Universität E
 
 
 
-11 
+11
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 10
+
+```
+Anlage
+m
+—
+== =
+FRIEDRICH-ALEXANDER
+m u u u UNIVERSITÄT
+= u
+unee
+ERLANGEN-NÜRNBERG
+u
+DSH-Zeugnis
+Herr/Frau
+geboren am
+aus
+hat am
+[Datum]
+die
+„Deutsche
+Sprachprüfung
+für den
+Hochschulzugang“
+(DSH)
+mit
+folgendem Ergebnis abgelegt:
+Gesamtergebnis: DSH - 1/2/3
+In den Teilprüfungen wurden erreicht:
+Schriftliche Prüfung:
+—_
+%
+Hörverstehen:
+zu
+%
+Textproduktion:
+_
+%
+Leseverstehen:
+zu
+%
+Wissenschaftssprachliche Strukturen:
+zu
+%
+Mündliche Prüfung:
+_
+%
+Ein Gesamtergebnis DSH-2 weist die sprachliche Studierfähigkeit für die uneingeschränkte Zulassung oder
+Einschreibung zu allen Studiengängen und Studienabschlüssen an allen Hochschulen aus.
+Mit Erreichen der Ebene DSH-3 werden besonders hohe Deutschkenntnisse nachgewiesen. Die DSH-3 liegt über
+dem
+für die Zulassung oder Einschreibung
+erforderlichen
+Niveau.
+Ein Gesamtergebnis DSH-1
+weist eine
+eingeschränkte sprachliche Studierfähigkeit aus. Nach Entscheidung der Hochschule ist damit die Zulassung
+oder Einschreibung für bestimmte Studiengänge oder Studienabschlüsse möglich.
+Beschreibung der mit dem Prüfungsergebnis nachgewiesenen sprachlichen Fähigkeiten siehe Rückseite.
+Erlangen, den [Datum]
+(Siegel)
+(TITEL, NAME, Professur für Deutsch als Fremdsprache)
+(TITEL, NAME, Leiter der Abt. Deutsch als Fremdsprache)
+10
+```
 

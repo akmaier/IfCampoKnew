@@ -247,6 +247,614 @@ Prof. Dr.-Ing. Joachim Hornegger, Präsident
 
 Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. 
 
-Tag der Bekanntmachung ist daher der 5. März 2026 
+Tag der Bekanntmachung ist daher der 5. März 2026
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| = N U
+Fachstudien- und Prüfungsordnung für das Fach Latein im Lehr-
+amtsstudiengang an der Friedrich-Alexander-Universität Erlangen-
+Nürnberg (FAU) - FPO LA Latein —
+Vom 5. März 2026
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1 und Art.
+88 Abs. 9 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 (BayHIG) in
+der jeweils geltenden Fassung erlässt die FAU folgende Fachstudien- und Prüfungs-
+ordnung:
+Inhaltsverzeichnis:
+1. Allgemeines ................----- HH nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 1
+8 1
+Geltungsbereich ...................2444444444HHnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnpnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+1
+8 2 Grundlagen- und Orientierungsprüfung ..............22244444444snnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 3 Zulassungsvoraussetzungen zu den Prüfungen; Fremdsprachenkenntnisse.................. 1
+84 Prüfungen................susssssnsnnnnnnnnnnnnnnnnnnnnnn
+nn nn nn nn nn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 5 Besondere Bestimmungen für die Schriftliche Hausarbeit ......................nn 2
+2.
+Lehramt an Gymnasien........................---444444444nnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn D
+8 6 Inhalt, Aufbau und Gliederung des Studiums...............eeneesennensensesenennenennenennen O
+3. Schluss- und Übergangsvorschriften ...................-.....44.44s4444444H
+4 nnnnnnnennnnnnennnnnnnnnnnnnnnnnnn OÖ
+8 7 In-Kraft-Treten...........uueensssssnnnnnnnnnnnennnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOÖ
+1. Allgemeines
+8 1 Geltungsbereich
+Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnung
+für
+die
+Modulprüfungen
+im
+Rahmen
+der
+Ersten
+Lehramtsprüfung
+sowie
+den
+lehramtsbezogenen
+Masterstudiengang
+Gymnasium
+an
+der
+Friedrich-Alexander-
+Universität Erlangen-Nürnberg (FAU) — LAPO - und für die Teilstudiengänge des an
+der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. / Master
+Ed. „Berufliche Bildung / Fachrichtung Sozialpädagogik
+— Vocational Education / Social
+Pedagogy and Social Services“ in der jeweils gültigen Fassung für das Fach Latein.
+8 2 Grundlagen- und Orientierungsprüfung
+Für die Grundlagen- und Orientierungsprüfung müssen im Fach Latein für das Lehramt
+an Gymnasien im Bereich der Fachwissenschaft bis zum Ende des zweiten Fachse-
+mesters die Modulprüfungen in den Modulen „Lateinische Literaturwissenschaft I“, „La-
+teinische Sprachwissenschaft und Sprachpraxis la“ und „Lateinische Sprachwissen-
+schaft und Sprachpraxis Ib“ erfolgreich abgelegt werden.
+8 3 Zulassungsvoraussetzungen zu den Prüfungen;
+Fremdsprachenkenntnisse
+(1) "Das Studium des Faches Latein setzt angemessene Kenntnisse der lateinischen
+Sprache auf dem Niveau des Latinums voraus. ?Für Studienanfänger ohne angemes-
+sene Sprachkenntnisse werden besondere sprachpraktische Übungen angeboten, die
+bis zum Beginn des 3. Semesters erfolgreich abgeschlossen sein sollen.
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+X
+/zu \
+(2) 'Im Fach Latein müssen bis zum Beginn des fünften Semesters Kenntnisse in Alt-
+griechisch
+nachgewiesen
+werden.
+?Für
+die
+Nachweismöglichkeiten
+gilt
+&
+30
+ABMStPO/Phil entsprechend.
+(3) Für die Zulassung zum Staatsexamen muss gemäß $ 72 Abs. 1 Nr.
+1 LPO I das
+Graecum nachgewiesen werden.
+8 4 Prüfungen
+Als Prüfungsformen werden über die in der LAPO genannten Formen hinaus Präsen-
+tation sowie Stundenentwurf anerkannt.
+& 5 Besondere Bestimmungen für die Schriftliche Hausarbeit
+Voraussetzung für die Vergabe des Themas für die schriftliche Hausarbeit ist, dass
+Module im Umfang von mindestens 70 ECTS-Punkten aus den Modulen des Unter-
+richtsfachs Latein erfolgreich abgelegt wurden.
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+Erlangen-Nürnberg
+ui
+2. Lehramt an Gymnasien
+8 6 Inhalt, Aufbau und Gliederung des Studiums
+(1) Für das Lehramt an Gymnasien sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen:
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+SUB
+SEE
+in ECTS-Punkten'
+uud Pa er
+Modul-
+.
+ECTS
+Prüfung
+t
+vs
+Üü PP
+1.2.
+3045686
+17.819.
+ES
+Fachsemester 1-6
+Lateinische Philologie
+.
+.
+.
+-
+—
+-
+Referat (45 Min.) mit
+Lateinische
+VL: Lateinische Literatur
+2
+2
+Hausarbeit (10-12 S.)
+1
+Literaturwissenschaft
+I
+Prosa
+PS: Lateinische Literatur
+2
+Prosa
+Lateinische Sprachwissenschaft | (Grundlagen 1
+.
+und Sprachpraxis la
+UE: dt.-lat. Übersetzung
+Klausur (90 Min.)
+2
+3
+Grundlagen 2
+Lateinische Sprachwissenschaft | UE: lat.-dt. Übersetzung
+.
+Altertumswissenschaft für
+VL/UE:AlteGeschichte?
+||
+||
+|
+|I@aI@a1l
+| 1 | | | Mündliche Prüfung (30
+1
+Latinisten
+|
+UE: Lektüre
+|
+21 |
+DE
+EZ DE DE
+DE EEE
+Min.)
+VL/ UE: Klassische
+(2)
+(2)
+2
+Altertumswissenschaft
+für
+Archäologie
+Referat (45 Min.)
+1
+Latinisten
+Il
+Exkursion mit
+2
+3
+"
+Vorbereitungskurs
+VL: Lateinische Literatur
+1iu
+DE
+HE Fr
+aEEE
+BE BE
+.
+>
+5
+Referat (45 Min.) mit
+Lateinische
+PS: Lateinische Literatur
+r
+PS: Epochen der lateinischen
+ee
+nen |
+| 2|
+|
+I
+I
+aa|||
+Lateinische Sprachwissenschaft | (Aufbau 1
+.
+4
+und Sprachpraxis Ila
+UE: dt.-lat. Übersetzung
+Klausur (90 Min.)
+0/1
+2
+3
+Aufbau 2
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+SU
+De
+in ECTS-Punkten'!
+arae Ser
+Modul-
+vs
+Ü|P
+1.2.
+36456170819.
+note
+Lateinische Sprachwissenschaft | Theorie (Prosodie und Metrik
+.
+A
+Aufbau
+u
+lateinischen Interpretation
+Referat (45 Min.) mit
+Lateinische
+S: Lateinische Literatur und
+2
+Hausarbeit (10-12 S.)
+1
+Literaturwissenschaft II
+Sprache®
+nun
+ma
+Lateinische Sprachwissenschaft | UE: lat.-dt. Übersetzung
+HEEZEEEBENEEN
+Klausur (90 Min.)
+und Sprachpraxis Illa
+Vertiefung
+"
+Lateinische Sprachwissenschaft
+UE: Kursorische Lektüre 2 |
+EEEEEE EEE EEE EEE
+Klausur (90 Min.)
+0746
+Vertiefung
+Fachsemester 7-9
+Es ist eines der beiden Module zu belegen.
+wre
+2
+I IT IT]
+7 ]T T T@] ]] Retreasmmmi
+Poesie
+(10)
+Hausarbeit (10-12 S.)
+1
+DS
+BE
+EEE
+mn
+2
+II LT
+Tel 1] seems
+Prosa
+(10)
+Hausarbeit (10-12 S.)
+1
+UESZSD
+EEE DE DE EEE EEE ER
+KO ER ES
+Es ist eines der vier Module zu belegen.
+VuPosie
+12
+| |
+DE HE DE EEE EEE BL II
+Gattungen lateinischer Poesie
+Selbststudium nach
+Ahnen FIR (30
+1
+Lektürekanon mit
+1
+(3) | (3)
+)
+Konsultationen
+RE CCHEEE EI EEE
+DEE EEE EEE EEE BL IE
+Gattungen lateinischer Prosa
+Selbststudium nach
+9 (30
+4
+Lektürekanon mit
+1
+(3) | (3)
+"
+Konsultationen
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+SU
+SEE
+in ECTS-Punkten'
+Sc an LEE en
+Modul-
+.
+ECTS
+Prüfung
+t
+vs
+ÜüÜl|Pp
+1.2.
+3.
+4a 56
+2.89.
+note
+Latinistische Forschung
+Selbststudium nach
+MündlenePrüfung (30
+4
+Lektürekanon mit
+1
+(3) | @&)
+in.)
+Konsultationen
+SE
+u I CE
+a
+En EEE BEER
+.
+.
+2
+(2) | (2)
+Literaturgeschichte
+ur
+..
+Römische Literaturgeschichte
+Selbststudium nach
+9 (30
+1
+Lektürekanon mit
+1
+(3)|6&)
+"
+Konsultationen
+Es sind beide Module zu belegen.
+"ramensvorbereitman
+[Eemensus
+| | 2] | 2
+gausurom)
+>
+UE: Texterstellung
+1 2 |
+DEE TEE HE EEE HE HERE EEE EZ
+6
+30
+10.8
+10 | 0
+Summe SWS und ECTS-Punkte
+-
+10
+-
+3
+95
+9
+11
+-
+-
+12
+8
+-
+-
+10
+14
+38
+22
+20
+15 | 5
+!
+Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.
+?
+Grundsätzlich ist die Lehrveranstaltung aus dem Angebot des Departments Geschichte zu wählen. Sofern eine inhaltlich zu den Qualifikationszielen des Fachs Latein im
+Lehramtsstudiengang passende Lehrveranstaltung vom Fach Latein selbst angeboten und als solche ausgewiesen wird, kann auch diese gewählt werden.
+3
+Die Lehrveranstaltung kann auch aus dem Angebot des B.A. Mittellatein und Neulatein oder des B.A. Griechische Philologie gewählt werden.
+*
+Für die Berechnung der Gesamtnote wird nur die bessere Modulnote herangezogen.
+5
+Die Lehrveranstaltung kann auch aus dem Angebot des B.A. Indogermanistik und Indoiranistik gewählt werden.
+6
+Für die Berechnung der Gesamtnote wird nur die bessere Modulnote herangezogen.
+(2) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:
+sws
+G
+n
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+Eers
+in ECTS-Punkten'
+Art und Umfang der Prüfung
+Modul-
+vs
+üPp
+1.2.
+3.4.5678
+09
+note
+PS: Lateinische
+Fachdidaktik
+|
+Selbststudium nach
+Referat (45 Min.)
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+fachdidaktisches Projekt
+mit Konsultationen
+4
+4
+0-
+0-
+0
+0
+0-0
+0-
+Summe SWS und ECTS-Punkte
+10
+0
+5
+2
+5
+2
+5
+5
+2
+0-5
+8
+!
+Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.
+(3) Falls das studienbegleitende fachdidaktische Praktikum im Fach Latein belegt wird, ist folgendes Modul erfolgreich abzulegen:
+Workload-Verteilung pro Semester
+Faktor
+SWS
+.
+Modulbezeichnung
+Lehrveranstaltung
+san
+in ECTS-Punkten'
+Aus eng Ciriete)eb
+Modul-
+z
+ECTS
+Prüfung
+vs
+ÜP
+1.
+23.4567.
+8
+9.
+note
+Praxismodul Lateinische | Praktikum
+Stundenentwurf (ca. 15 $.)
+Fachdidaktik
+.
+.
+.
+Begleitseminar
+2
+(2)
+(2)
+2
+4
+Summe SWS und ECTS-Punkte
+5
+0
+0
+0
+0
+0
+0
+r
+0
+0-5
+6
+!
+Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+(4) Im Freien Bereich kann auch folgendes Modul gewählt werden:
+ZZ
+Gesamt en
+a
+Modulbezeichnung
+Lehrveranstaltung
+ECTS
+u
+Art und Umfang der Prüfung
+Modul-
+note
+vis
+Ü
+_ P
+1.
+2
+32.45
+7819.
+2
+Summe SWS und ECTS-Punkte
+2
+0
+0
+0
+0
+0
+0
+0
+2
+0
+2
+!
+Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+DUN
+3. Schluss- und Übergangsvorschriften
+8 7 In-Kraft-Treten
+(1) "Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2026 in Kraft. ?Sie
+gilt für alle Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufneh-
+men werden.
+(2) "Die Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudien-
+gang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - FPO LA La-
+tein — vom 26. März 2009, zuletzt geändert durch Satzung vom 28. September 2018,
+tritt mit Wirkung zum 31. März 2032 außer Kraft. Prüfungen nach den bisher gültigen
+Fassungen der in Satz 1 genannten Satzung werden letztmals im Wintersemester
+2031/2032 angeboten.
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 17. Dezember 2025,
+und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom
+5. März 2026
+Erlangen, den 5. März 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 5. März 2026 digital auf der Internetseite
+https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfer-
+tigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Uni-
+versitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt
+zur Einsicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 5. März 2026
+```
 

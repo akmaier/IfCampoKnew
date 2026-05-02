@@ -732,6 +732,154 @@ uSL     unbenotete Studienleistung bSL     benotete Studienleistung
 
 *)        gemäß der Prüfungsordnung des Zweitfaches 
 
-21 
+21
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 20
+
+```
+Anlage 2b: Module des Bachelorstudiums - Studienrichtung Metalltechnik
+schriftl. Prüfung
+in Min. bzw.
+Studienleistung
+DE EEE
+>)
+Sr Bee
+Te
+| TI
+T
+TT
+Mechanik und Konstruktion
+_B1 (StaikundFestigkitsichre _—L—— [cp] Iz5|
+|
+|
+|
+|
+cl
+92 [Dwmamiestarerkone —
+0
+[| Fr Kr etTe
+| B3 | Methode der Finiten em
+LT
+El
+u u cr u un ua Ei
+ar
+E27
+u u ra u u
+ar
+Konstruktionsübung
+usL
+Konstruktive Projektarbeit (Teamwork, Präsentationstech-
+EIFE
+HH HE EEE
+EEE HE"
+Informatik und Mathematik
+87 |Mathematik
+Sofa
+I
+|
+|
+ustren]|
+"3 [mathematik
+fo
+rs IF
+sun!
+BETH eeFE
+BEE BEE BEE 17 BE EEE EEE]
+13 10 | rundiagen der Inormık
+TI
+I
+TI
+sun
+I
+|
+Produktion, Optik und Messtechnik
+a
+a
+RE
+[811 |Produktionstechniktundn —
+|
+|
+|
+|
+[sol
+|
+|
+al
+18 12 [opti und optische Technologien U
+I I
+1813 [6rundiagen der Messtechnik TI |
+en
+IT
+Tr]
+I
+|
+Elektrotechnik, Thermodynamik und Werkstoffkunde
+a
+a
+|
+| 815 | Grundlagen der Elektrotechnik
+cr | Is
+|
+1816 Technische Thermocnamk TI
+|
+aer
+Werkstoffprüfung
+2,5
+Berufspädagogik
+1818
+|Fachaldaktik Metaltechniıı —— |
+|
+|
+|
+|
+|
+sol
+cl
+1819 [Grundlagen der Berufspadagk
+|
+1820 [Präsentations- und Moderationstechnk |
+1821 [Berutiche wertersiaumg
+IBa}
+[8 22 |Betriebspädagogisches Seminar
+| |
+|
+|
+sol
+pl
+19 23 |Schuipraktische Studien
+1524 |Berufspädagosische Verne
+|
+|
+|
+|
+I
+Tsolsoh
+sr]
+Zweitfach
+525 |Unterichtsfach (Zweitfach ik. Fachäidaktk | | 101
+| solsolsoh |
+|
+Abschlussarbeit
+825
+| Bachelorarbeit incl.vorran—;, ga
+|
+TEE BE
+EEE DET BE ET ETETI E07 BEE
+Summe
+der TS Punkte
+|
+eo
+GOP Bestandteil der Grundlagen- und Orientierungsprüfung
+uSL
+unbenotete Studienleistung
+bSL
+benotete Studienleistung
+*)
+gemäß den Vorgaben des Zweitfaches
+20
+```
 

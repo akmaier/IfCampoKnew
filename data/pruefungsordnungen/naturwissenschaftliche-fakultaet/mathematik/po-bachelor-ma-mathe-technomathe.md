@@ -2035,6 +2035,70 @@ Die Noten aus den Modulen 7 bis 11 gehen mit dem Gewicht ihrer ECTS-Punkte in di
 
 (3)[1] Die Prüfungen in den Vertiefungsmodulen Angew. Mathematik I und Angew. Mathematik II finden als 30-minütige mündliche Prüfungen statt.[2] Die Prüfungen im Vertiefungsmodul Wirtschaftswissenschaften und  zu den Schlüsselqualifikationen finden gemäß den Regeln des jeweiligen Faches statt. 
 
-45 
+45
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 9
+
+```
+zeichnet. Das Protokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzube-
+wahren.
+(4) "Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung un-
+terziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen oder
+Zuhörer zugelassen; auf Verlangen der Kandidatin oder des Kandidaten werden Zu-
+hörerinnen und Zuhörer ausgeschlossen. *Die Zulassung erstreckt sich nicht auf die
+Beratung und die Bekanntgabe des Prüfungsergebnisses.
+8 17 Bewertung der Prüfungsleistungen
+(1) "Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen Prü-
+ferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausge-
+drückt:
+|
+ln
+sehr gut
+(1,0 oder 1,3) ________ = eine hervorragende Leistung;
+= eine Leistung, die erheblich über den
+| gut
+| (1,7 oder 2,0 oder 2,3) | durchschnittlichen Anforderungen liegt;
+|
+= eine Leistung, die trotz ihrer Mängel noch
+ausreichend
+| (3,7 oder 4,0)
+__| den Anforderungen entspricht;
+®
+= eine Leistung, die wegen erheblicher Män-
+nicht ausreichend | (4,7 oder 5,0)
+__. gel den Anforderungen nicht mehr genügt.
+?Wird eine Prüfungsleistung von mehreren Prüfenden bewertet, werden die Noten
+gemittelt; Abs. 2 Satz 2 gilt entsprechend. °Satz 1 gilt entsprechend für Studienleis-
+tungen, soweit diese benotet werden. *Die Regelung in 834 Abs. 10 bleibt davon un-
+berührt.
+(2) 'Die einzelnen benoteten Studien- und Prüfungsleistungen gehen in die Note für
+das Modul mit dem Gewicht der gemäß Anlage 2 und 3 für sie vorgesehenen Leis-
+tungspunkte ein; entsprechendes gilt für die aus den Modulen errechnete Fachnote.
+°Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle
+weiteren Stellen werden ohne Rundung gestrichen. *Die Modulnote und die Fachnote
+lauten:
+bei einem Durchschnitt
+- bis 1,5 = sehr gut;
+- über 1,5 bis 2,5 = gut;
+- über 2,5 bis 3,5 = befriedigend;
+- über 3,5 bis 4,0 = ausreichend;
+- über 4,0 = nicht ausreichend.
+“Ein Modul ist bestanden, wenn sämtliche Studienleistungen erfolgreich erbracht und
+sämtliche Prüfungsleistungen mit mindestens „ausreichend“ bewertet wurden. °Die
+Modulnote lautet stets „nicht ausreichend“, wenn einzelne Studien- oder Prüfungsleis-
+tungen mit „nicht ausreichend“ bewertet oder nicht bestanden sind.
+(3) 'Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn die in & 23 be-
+nannten Prüfungen bestanden sind. *Die Bachelorprüfung ist bestanden, wenn sämt-
+liche Module bestanden sind und die Bachelorarbeit mindestens mit „ausreichend“
+benotet ist. *Die Masterprüfung ist bestanden, wenn sämtliche Module bestanden und
+die Masterarbeit und die Disputation der Masterarbeit mindestens mit „ausreichend“
+benotet sind.
+(4) 'In die Gesamtnote der Bachelorprüfung gehen die Modulnoten und die Note der
+Bachelorarbeit, mit Ausnahme der Noten der Schlüsselqualifikationen, mit dem Ge-
+9
+```
 

@@ -212,6 +212,364 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Informati
 
 ## **§ 8 In-Kraft-Treten** Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-5 
+5
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 2
+
+```
+$4
+Wahlpflichtmodule
+"Das Lehramtsstudium Informatik besteht im Bereich der Fachwissenschaft Informa-
+tik aus Pflicht- und Wahlpflichtmodulen im Umfang gemäß der Regelungen in $ 5
+Abs. 1, 8 6 Abs. 1 und $ 7 Abs. 1. ”Wahlpflichtmodule können gewählt werden aus
+den Modulen des Pflicht- und Wahlpflichtbereiches des Bachelorstudiengangs Infor-
+matik (ohne die Module der Mathematik, Präsentationstechnik und des Nebenfachs),
+für die die jeweiligen fachlichen und formalen Voraussetzungen gegeben sind, sofern
+diese nicht bereits als Pflichtmodule in das Lehramtsstudium integriert wurden.
+2.
+Lehramt an Gymnasien
+85
+Inhalt, Aufbau und Gliederung des Studiums
+(1) Im Studium des Faches Informatik für das Lehramt an Gymnasien sind im Be-
+reich der Fachwissenschaft folgende Module erfolgreich abzulegen:
+©
+Ri
+©
+ss
+E32
+=
+a
+|a|l
+28
+|2
+je}
+NS
+=
+ı
+zs
+o
+2 -
+14
+Algorithmen und Datenstrukturen 02
+| ws |8 | 4v+2Ü+2P | 10 | S+K120 1 |
+Prakkum _
+| w |
+|
+_|10| bs 165%}
+Grundlagen der Technischen Informatik 2
+| ws |6| av+20 |75|S+K120 15 |
+System rogammierung 2
+| ws |8 | av+2Üs2P | 10 | S+K120 | 7 |
+ee
+| ||
+el |
+matik,
+davon min. 5 ECTS-Punkte aus dem Bereich
+15
+Datenbanksysteme und Softwaretechnologie
+Falls das jeweils andere Unterrichtsfach nicht Mathe-
+:
+0:
+i
+i
+i
+_matik ist, dann!Lee
+nn
+un nun nnnnunennn nnnnnn nnnnnnnnnnn
+Mathematik für Naturwissenschaftler*
+I
+WS
+:4
+3V+H1U
+5;
+.K90
+1}
+1
+SChäftler”nun
+nennen anne nannnnnnnnennnn nommen nenn enenennnnnn
+sonst: Wahlpflichtmodul(e) aus dem Fach Informatik
+:
+: 10:
+Falls die schriftliche Hausarbeit gem. 85 (3) im Fach
+:
+0
+oder in der Fachdidaktik Informatik angefertigt wird,
+:
+20:
+:
+:
+:
+dann:
+!
+!
+!
+!
+!
+!
+sonst: Wahlpflichtmodul(e) aus dem Fach Informatik
+:
+a
+—
+EI 1FE
+BE EEE HE
+Kr
+Erläuterungen: WS: Wintersemester, SS: Sommersemester, SS/WS: Angebot orientiert sich an
+Nachfrage, SWS: Semesterwochenstunden, V: Vorlesung, U: Übung, P: Praktikum, S: (unbenoteter)
+Schein, bS: benoteter Schein, Kx: Klausur im Umfang von x Minuten
+*In der Fächerkombination mit Physik können anstelle dieser Module die Module „Analysis I* und „Li-
+neare Algebra und Analytische Geometrie“ gewählt werden, die im Umfang von 10 ECTS-Punkten in
+die Notenberechnung eingehen. Prüfungsart und -umfang ergeben sich aus der Fachprüfungsord-
+nung Mathematik.
+2
+```
+
+### OCR Seite 3
+
+```
+(2) Im Bereich Fachdidaktik sind im Fach Informatik im Studium des Lehramts an
+Gymnasien folgende Module erfolgreich abzulegen:
+Didaktik der Informatik|
+2V+2Ü
+Didaktik der Informatik Il
+SS+WS
+2V+2Ü
+S+K120
+(3) Falls die Schriftliche Hausarbeit im Studium des Lehramts an Gymnasien im
+Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module er-
+folgreich abzulegen:
+Schriftliche Hausarbeit
+ssw|
+|
+toll
+1.6 |
+Begleitseminar (ECTS-Punkte zählen zur Fach-
+ZEESZEErIEEEE
+wissenschaft Informatik, s. $ 5 (1))
+SS/wS|
+2
+25
+2,5
+(4) Falls das studienbegleitende fachdidaktische Praktikum im Studium des Lehr-
+amts an Gymnasien in Informatik belegt wird, ist folgendes Modul erfolgreich abzule-
+gen:
+Studienbegleitendes fachdidaktisches Prakti-
+kum Informatik für das Lehramt an
+Gymnasien
+SS/WS
+2P+2S se
+(5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studien-
+semestern absolviert werden.
+3.
+Lehramt an Realschulen
+86
+Inhalt, Aufbau und Gliederung des Studiums
+(1) Im Studium des Faches Informatik für das Lehramt an Realschulen sind im Be-
+reich der Fachwissenschaft folgende Module erfolgreich abzulegen:
+©
+u
+©
+s
+| Ei
+2
+€
+8
+3
+ı®|2
+fo))
+NLA
+— 5
+ı
+c
+Qn-=
+(42)
+<
+[42]
+>
+r
+>
+n
+DO
+['2]
+Algorithmen und Datenstrukturen
+| ws | 8
+|4V+20+2P
+S+K120
+Parallele und Funktionale Programmierung
+2V+2U
+Konzeptionelle Modellierung
+2V+2U
+Datenbanksysteme
+2V+2Ü
+Softwareentwicklung in Großprojekten
+2V+2U
+Theoretische Informatik
+für Lehramtsstudierende
+2V+2U
+S+K90
+Praktikum
+w|
+|
+|10| bs 157
+Wahlpflichtmodul aus der Fachwissenschaft Informatik
+EEE
+EEE
+Falls das jeweils andere Unterrichtsfach nicht Mathematik
+:
+20:
+-
+15 9]
+Math. Modellbildung und Statistik für Naturwissenschaftler
+; ws
+; 4
+;
+aVHHÜ
+;
+5
+:
+K50
+; 3
+sonst: Wahlpflichtmodul(e) aus dem Fach InformatikiO
+Falls die schriftliche Hausarbeit gem. $ 6 (3) im Fach oder
+:
+0:
+i
+In der Fachdidaktik Informatik angefertigt wird, dann: _____:
+3. _Eln
+‚Begleitseminar zur schriftlichen Hausarbeit _________._....:. SS. 2 |__28 125: _bS__:6_
+sonst: Wahlpflichtmodul(e) aus dem Fach Informatik
+ı 2,5:
+n der
+Fächerkombination mit Physik
+können anstelle dieser Module die Module „Ana yals * und „Li-
+neare Algebra und Analytische Geometrie“ gewählt werden, die im Umfang von 10 ECTS-Punkten in
+die Notenberechnung eingehen. Prüfungsart und -umfang ergeben sich aus der Fachprüfungsordnung
+Mathematik.
+3
+```
+
+### OCR Seite 4
+
+```
+(2) Im Bereich Fachdidaktik sind im Fach Informatik im Studium des Lehramts an
+Realschulen folgende Module erfolgreich abzulegen:
+Didaktik der Informatik
+I
+2V+2Ü
+Didaktik der Informatik Il
+SS+WS
+2V+2Ü
+S+K120
+Seminar Didaktik der Informatik
+SS/WS
+(3) Falls die Schriftliche Hausarbeit im Studium des Lehramts an Realschulen im
+Fach oder in der Fachdidaktik Informatik angefertigt wird, sind folgende Module er-
+folgreich abzulegen:
+Schriftliche Hausarbeit
+ssw|
+|toll
+16 |
+Begleitseminar (ECTS-Punkte zählen zur Fach-
+ssiws | 2
+PRS
+2,5
+wissenschaft Informatik, s. $ 6
+(1
+(4) Falls das studienbegleitende fachdidaktische Praktikum im Studium des Lehr-
+amts an Realschulen in Informatik belegt wird, ist folgendes Modul erfolgreich abzu-
+legen:
+Studienbegleitendes fachdidaktisches Prakti-
+kum Informatik für das Lehramt an Realschulen SS/WS
+2P+2S 5/0 |
+(5) Alle Module sollten nach Möglichkeit in den in Abs. 1 bis 4 angegebenen Studien-
+semestern absolviert werden.
+4.
+Lehramt an Hauptschulen
+87
+Inhalt, Aufbau und Gliederung des Studiums
+(1) Im Studium des Faches Informatik für das Lehramt an Hauptschulen sind im Be-
+reich der Fachwissenschaft folgende Module erfolgreich abzulegen:
+©
+Ri
+©
+s
+E
+23
+€
+©
+2
+as
+|2
+[o)]
+NE
+— 5
+ı
+c
+Qo-=
+(dp)
+<|
+02
+>
+5
+Algorithmen und Datenstrukturen
+Iws|
+8 | 4Vv+2U+2P
+S+K120
+Parallele und Funktionale Programmierung
+2V+2U
+Konzeptionelle Modellierung
+2V+20
+Datenbanksysteme
+2V+2U
+Softwareentwicklung in Großprojekten
+2V+2Ü
+Theoretische Informatik
+für Lehramtsstudierende
+2V+2U
+S+K90
+Praktikum
+w|l
+|
+ |t0|
+bs 1|5
+Wahlpflichtmodul aus der Fachwissenschaft Informa-1
+esl
+tik
+’
+Falls das jeweils andere Unterrichtsfach nicht Ma-
+:
+!
+!
+:
+thematik ist, dann:___________...............0002000000000
+Inn anne nn nenn
+Mathematik für Naturwissenschaftler ______________.._ıWSi 4.3_3V-1U 1: 5_1_K90. 1.
+sonst: Wahlpflichtmodul(e) aus dem Fach Informatik
+'
+l
+5:
+Falls die schriftliche Hausarbeit gem. $ 7 (3) im
+:
+20
+Fach oder in der Fachdidaktik Informatik ange-
+:
+20
+:
+fertigt wird, dann:_________............00.2000000000.
+0 nun
+un nenn
+‚Begleitseminar zur schriftlichen Hausarbeit ___:__SS__}2 281235 _bS_1_6__
+sonst: Wahlpflichtmodul(e) aus dem Fach In-
+:
+0
+05:
+formatik
+!
+a
+:
+4
+```
 

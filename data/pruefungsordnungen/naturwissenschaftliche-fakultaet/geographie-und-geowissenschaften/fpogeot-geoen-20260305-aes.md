@@ -96,6 +96,194 @@ Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, un
 
 Prof. Dr.-Ing. Joachim Hornegger, Präsident 
 
-Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 5. März 2026 
+Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 5. März 2026
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| EhU
+zu
+Zweite Satzung zur Änderung der Fachstudien- und
+Prüfungsordnung für den Masterstudiengang
+GeoThermie/GeoEnergie (M.Sc.) an der Naturwissenschaftlichen
+Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg
+(FAU) - FPOGeoT/GeoEn -
+Vom 5. März 2026
+Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88
+Abs. 9,
+Art.
+90
+Abs.
+1
+Satz
+2
+und
+Art.
+96
+Abs.
+3
+Satz
+1
+Bayerisches
+Hochschulinnovationsgesetz (BayHIG) vom 5. August 2022 in der derzeit geltenden
+Fassung erlässt die FAU folgende Änderungssatzung:
+81
+Die Fachstudien- und Prüfungsordnung
+für den Masterstudiengang GeoThermie/
+GeoEnergie (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-
+Universität Erlangen-Nürnberg (FAU) — FPOGeoT/GeoEn — vom 22. August 2023,
+geändert durch Satzung vom 27. Februar 2025, wird wie folgt geändert:
+1.
+Nach 8 48 wird folgender neuer 8 48a eingefügt:
+„g 48a Technische Wahlmodule
+(1) "Das übergeordnete
+Qualifikationsziel der technischen Wahlmodule
+im
+Masterstudium GeoThermie/GeoEnergie liegt darin, eine breite Ausbildung zu
+gewährleisten, die die Fachwissenschaft GeoThermie/GeoEnergie ergänzt bzw.
+komplementiert. ?Dadurch wird es den Studierenden ermöglicht, sich erstens in
+mindestens einem Themenbereich (z. B. Prozessmaschinen und Anlagenbau,
+Angewandte Geologie Tracer in Wasser- und Umweltsystemen, Angewandte
+Geologie
+Sanierungsmaßnahmen
+in
+der
+Hydro-
+und
+Ingenieurgeologie,
+Geländepraktika,
+Lagerstätten
+und
+Strukturen)
+thematisch
+einzuarbeiten.
+®Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem
+interdisziplinäre Arbeitsweisen
+geschult,
+naturwissenschaftliche
+Perspektiven
+auf
+weitere
+Gegenstandsfelder
+ausgeweitet
+sowie
+Erfahrungen
+mit
+interdisziplinären
+naturwissenschaftliichen
+Methoden
+gesammelt
+werden.
+“Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im
+Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.
+(2) "Die technischen Wahlmodule werden in einem Modulkatalog geführt, welcher
+spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.
+?Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den
+Prüfungsausschuss der Geowissenschaft angepasst werden; er wird spätestens
+eine Woche vor Semesterbeginn ortsüblich bekannt gemacht.
+(3) Mögliche Prüfungen in den technischen Wahlmodulen sind:
+1. Klausur (60-180 Min.),
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ul
+/zu \
+2. Hausarbeit (max. 20 Seiten),
+3. Bericht (5-10 Seiten),4. Exkursionsleistung (ExL, Bericht 5-15 Seiten oder
+Protokollheft 15-30 Seiten).
+(4) Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und
+Umfang
+der
+Lehrveranstaltungen
+und
+der
+Prüfung
+in
+den
+technischen
+Wahlmodulen sind abhängig vom konkreten didaktischen Charakter des jeweils
+gewählten Modulpakets und der jeweils einschlägigen (Fach-)Studien- und
+Prüfungsordnung bzw. derjeweiligen Modulbeschreibung zu entnehmen.“
+2.
+1In8 51 wird nach Abs. 3 folgender Abs. 4 neu angefügt:
+„(4) "Die zweite Änderungssatzung tritt zum 1. April 2026 in Kraft. ?Sie gilt für alle
+Studierenden,
+die das Studium ab dem Sommersemester 2026 aufnehmen
+werden. ®Studierende, die nach der FPOGeoT/GeoEn in der vorherigen Fassung
+studieren, beenden ihr Studium nach dieser vorherigen Fassung.“
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ul
+/ zu \
+3.
+Anlage 2 wird wie folgt geändert:
+a)
+Zeile 9 (GT-E4 Prozessmaschinen und Apparatetechnik) wird wie folgt neu gefasst:
+GT-E4
+Technische
+vgl. 3 48a Abs. 4
+5
+vgl. 8 48a Abs. 3, 4
+1
+Wahlmodule
+b)
+Zeile 26 (Summe SWS und ECTS-Punkte) wird wie folgt neu gefasst:
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+N Al )
+82
+'Diese Änderungssatzung tritt zum 1. April 2026 in Kraft. ?Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2026
+aufnehmen werden. Studierende, die nach der FPOGeoT/GeoEn in der vorherigen Fassung studieren, beenden ihr Studium nach
+dieser vorherigen Fassung.“
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+ul
+/zu \
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und
+der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026
+Erlangen, den 5. März 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 5. März 2026 digital auf der Internetseite
+https://www .fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene
+Ausfertigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen
+Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt
+zur Einsicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 5. März 2026
+```
 

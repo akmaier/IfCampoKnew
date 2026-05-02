@@ -1,12 +1,12 @@
 ---
 kind: "profs-mit-pflichtlehre"
 period: "Sommersemester 2026"
-candidates_total: 219
+candidates_total: 233
 rank_distribution:
   W3: 6
-  W?: 211
+  W?: 225
   Junior: 2
-scraped_at: 2026-05-02T03:32:08+00:00
+scraped_at: 2026-05-02T04:33:29+00:00
 ---
 
 # Profs mit Pflichtlehre (FAUdir × Campo)
@@ -21,12 +21,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 * Vergleichsgrundlage (B) für die RAG-Antwort (A); bei Inkonsistenz ist die RAG-Antwort meist belastbarer.
 
 **Periode:** Sommersemester 2026  
-**Kandidaten:** 219 FAUdir-bestätigte Profs mit Pflichtlehre
+**Kandidaten:** 233 FAUdir-bestätigte Profs mit Pflichtlehre
 
 ## Verteilung nach W-Rang
 
 - **W3**: 6
-- **W?**: 211
+- **W?**: 225
 - **Junior**: 2
 
 ## Rang W3
@@ -77,10 +77,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Agel, Friederike (Dr.)
 - **FAUdir:** [`c25dff3460`](https://faudir.fau.de/public/person/c25dff3460)
 - **Affiliation:** Lehrstuhl für Chemische Reaktionstechnik
-- **Pflichtveranstaltungen (heuristisch):** 2
+- **Pflichtveranstaltungen (heuristisch):** 3
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Übung Nachhaltige Chemische Technologien - 3" — Übung
-- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+  - in : "B. Sc.-Seminar über aktuelle Probleme der Technischen Chemie" — Seminar
 
 ### Al Sardy, Loui (Dr.-Ing.)
 - **FAUdir:** [`e4ad4d8864`](https://faudir.fau.de/public/person/e4ad4d8864)
@@ -100,9 +100,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`ee3dc3f5bf`](https://faudir.fau.de/public/person/ee3dc3f5bf)
 - **Affiliation:** Lehrstuhl für Mikrobiologie
 - **Weitere Affiliationen:** Lehrstuhl für Mikrobiologie
-- **Pflichtveranstaltungen (heuristisch):** 1
+- **Pflichtveranstaltungen (heuristisch):** 2
   - in : "Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik" — Vorlesung
-- *(zusätzlich 3 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+  - in : "Orientierungsmodul Mikrobiologie I: Identifizierung von Bakterien anhand von 16S rRNA" — Seminar und Übung
+- *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Badawia, Tarek (Prof. Dr.)
 - **FAUdir:** [`d401b34697`](https://faudir.fau.de/public/person/d401b34697)
@@ -158,6 +159,14 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Professur für Didaktik der Informatik
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Didaktik der Informatik I" — Vorlesung mit Übung
+
+### Beyer, Andrea (PD Dr.)
+- **FAUdir:** [`6df8c8f4ff`](https://faudir.fau.de/public/person/6df8c8f4ff)
+- **Affiliation:** Fachbereich Theologie
+- **Weitere Affiliationen:** Lehrstuhl für Altes Testament (Theologie)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in : "1002 Spezielle Fragestellungen der Sozialpolitik und Gesundheitsversorgung" — Seminar
+- *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Bibelriether, Veronika ()
 - **FAUdir:** [`98d2f96fca`](https://faudir.fau.de/public/person/98d2f96fca)
@@ -233,6 +242,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in : "Hauptseminar Physische Geographie" — Hauptseminar
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
+### Bösmann, Andreas (Dr.)
+- **FAUdir:** [`b361b6bf4f`](https://faudir.fau.de/public/person/b361b6bf4f)
+- **Affiliation:** Lehrstuhl für Chemische Reaktionstechnik
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in : "B. Sc.-Seminar über aktuelle Probleme der Technischen Chemie" — Seminar
 
 ### Bürgel, Simon Matthias (Dr.)
 - **FAUdir:** [`3dcaa0641e`](https://faudir.fau.de/public/person/3dcaa0641e)
@@ -572,6 +587,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in : "Praktikum zur Feldforschung inkl. computergestützte Datenanalyse (Kurs A1): Motivation und Emotion" — Praktikum
 
+### Hannig, Frank (PD Dr.-Ing.)
+- **FAUdir:** [`db83a1cc67`](https://faudir.fau.de/public/person/db83a1cc67)
+- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
 ### Hartmann, Martin (Prof. Dr.)
 - **FAUdir:** [`eb416bb26e`](https://faudir.fau.de/public/person/eb416bb26e)
 - **Affiliation:** Lehrstuhl für Katalyse und nachhaltige Verfahren
@@ -593,9 +615,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`bc4a41dde4`](https://faudir.fau.de/public/person/bc4a41dde4)
 - **Affiliation:** Technische Fakultät
 - **Weitere Affiliationen:** Lehrstuhl für Chemische Reaktionstechnik; Lehrstuhl für Chemische Reaktionstechnik; FAU Competence Center Engineering of Advanced Materials (FAU EAM); Nanostructured Films (IZNF); Interface Research and Catalysis (ECRC); FAU Profile Center New Materials and Processes (FAU NMP)
-- **Pflichtveranstaltungen (heuristisch):** 1
+- **Pflichtveranstaltungen (heuristisch):** 2
   - in : "Chemische und Biologische Prozesstechnik mit Einführungsprojekt" — Vorlesung
-- *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+  - in : "B. Sc.-Seminar über aktuelle Probleme der Technischen Chemie" — Seminar
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Havenstein, Linda ()
 - **FAUdir:** [`91a8566bf1`](https://faudir.fau.de/public/person/91a8566bf1)
@@ -609,6 +632,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Informatik 10 (Systemsimulation)
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in : "Tutorium zu Simulation und Wissenschaftliches Rechnen 2" — Tutorium
+
+### Heil, Günther ()
+- **FAUdir:** [`95d015c649`](https://faudir.fau.de/public/person/95d015c649)
+- **Affiliation:** Lehrstuhl für Psychogerontologie
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in : "1002 Spezielle Fragestellungen der Sozialpolitik und Gesundheitsversorgung" — Seminar
 
 ### Heiß, Wolfgang (Prof. Dr.)
 - **FAUdir:** [`58bb22817e`](https://faudir.fau.de/public/person/58bb22817e)
@@ -651,6 +680,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Wirtschaftsprivatrecht
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in : "International Business Law (FACT-Master SQ)" — Vorlesung mit Übung
+
+### Hofmann, Florian (Dr.)
+- **FAUdir:** [`11c8753146`](https://faudir.fau.de/public/person/11c8753146)
+- **Affiliation:** Lehrstuhl für Schulpädagogik mit dem Schwerpunkt empirische Unterrichtsforschung
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in : "Vertiefungsseminare (Standort Nürnberg, Lehrstuhl Prof. Dr. Gläser-Zikuda)" — Seminar
 
 ### Huth, Tobias (PD Dr. Dr.)
 - **FAUdir:** [`3f2d068dfc`](https://faudir.fau.de/public/person/3f2d068dfc)
@@ -761,9 +796,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`97ead6d1e8`](https://faudir.fau.de/public/person/97ead6d1e8)
 - **Affiliation:** Philosophische Fakultät und Fachbereich Theologie
 - **Weitere Affiliationen:** Lehrstuhl für Pädagogik mit dem Schwerpunkt Kultur und ästhetische Bildung
-- **Pflichtveranstaltungen (heuristisch):** 1
+- **Pflichtveranstaltungen (heuristisch):** 2
+  - in : "Traditionen und Transformationen von Erziehung und Bildung - kulturgeschichtliche Reflexionen" — Vorlesung
   - in : "Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen)" — Seminar
-- *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Klämpfl, Florian (Dr.-Ing.)
 - **FAUdir:** [`73165233a7`](https://faudir.fau.de/public/person/73165233a7)
@@ -818,6 +854,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in : "Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Was hat das mit mir zu tun? Holocaust und NS-Verbrechen als Thema im Deutschunterricht (VHB)" — Hauptseminar
 - *(zusätzlich 6 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
+### Krstic, Vojislav (Prof. Dr.)
+- **FAUdir:** [`2d52bae9d5`](https://faudir.fau.de/public/person/2d52bae9d5)
+- **Affiliation:** Professur für Angewandte Physik
+- **Weitere Affiliationen:** Professur für Angewandte Physik; FAU Competence Center Engineering of Advanced Materials (FAU EAM); FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ); FAU Profile Center New Materials and Processes (FAU NMP)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in : "Experimentalphysik II für Materialwissenschaftler, Nanotechnologen und Integrated Life Sciences" — Vorlesung
 
 ### Köckert, Charlotte (Prof. Dr.)
 - **FAUdir:** [`e0f1bcbc5b`](https://faudir.fau.de/public/person/e0f1bcbc5b)
@@ -888,6 +931,20 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in : "Experimentalphysik für Naturwissenschaftler II" — Vorlesung
 
+### Linz, Bodo (Dr.)
+- **FAUdir:** [`1a67673e1e`](https://faudir.fau.de/public/person/1a67673e1e)
+- **Affiliation:** Lehrstuhl für Mikrobiologie
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in : "Orientierungsmodul Mikrobiologie I: Identifizierung von Bakterien anhand von 16S rRNA" — Seminar und Übung
+
+### Lyer, Stefan (Prof. Dr.)
+- **FAUdir:** [`94e3934e57`](https://faudir.fau.de/public/person/94e3934e57)
+- **Affiliation:** Professur für KI-gesteuerte Nanomaterialien
+- **Weitere Affiliationen:** Professur für KI-gesteuerte Nanomaterialien; Fakultätsverwaltung Medizinische Fakultät
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in : "Quantitative und Qualitative Bestimmung von SPIONs" — Vorlesung mit Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
 ### Löffelholz, Emel ()
 - **FAUdir:** [`2becb4f6f1`](https://faudir.fau.de/public/person/2becb4f6f1)
 - **Affiliation:** Professur für Didaktik Wirtschaft und Recht
@@ -905,9 +962,17 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Mahesh Nirmala, Avinash ()
 - **FAUdir:** [`2bc9d77cf7`](https://faudir.fau.de/public/person/2bc9d77cf7)
 - **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
-- **Pflichtveranstaltungen (heuristisch):** 1
+- **Pflichtveranstaltungen (heuristisch):** 2
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Hardware-Software-Co-Design" — Übung
-- *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
+### Marak, Sarah (Dr.)
+- **FAUdir:** [`ac307c425e`](https://faudir.fau.de/public/person/ac307c425e)
+- **Affiliation:** Lehrstuhl für Amerikanistik, insbesondere nordamerikanische Literatur- und Kulturwissenschaft
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in : "Readings in North American Cultural Studies" — Masterseminar
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Marquardt, Christoph (Prof. Dr.)
 - **FAUdir:** [`cca6922d2c`](https://faudir.fau.de/public/person/cca6922d2c)
@@ -1267,9 +1332,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Schulz, Peter (Dr.)
 - **FAUdir:** [`54ac4be660`](https://faudir.fau.de/public/person/54ac4be660)
 - **Affiliation:** Lehrstuhl für Chemische Reaktionstechnik
-- **Pflichtveranstaltungen (heuristisch):** 1
+- **Pflichtveranstaltungen (heuristisch):** 2
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Hauptseminar EVT" — Hauptseminar
-- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+  - in : "B. Sc.-Seminar über aktuelle Probleme der Technischen Chemie" — Seminar
 
 ### Schöffski, Oliver (Prof. Dr.)
 - **FAUdir:** [`70335fa203`](https://faudir.fau.de/public/person/70335fa203)
@@ -1284,6 +1349,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Pädagogik mit dem Schwerpunkt Diversity Education und internationale Bildungsforschung
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in : "LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)"" — Seminar
+
+### Sesli, Batuhan ()
+- **FAUdir:** [`c6a7e8aed8`](https://faudir.fau.de/public/person/c6a7e8aed8)
+- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Seyferth, Stefan (Dr.)
 - **FAUdir:** [`9022788419`](https://faudir.fau.de/public/person/9022788419)
@@ -1305,6 +1377,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Informatik 4 (Systemsoftware)
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C" — Vorlesung
+
+### Sixdenier, Pierre-Louis ()
+- **FAUdir:** [`9e44a94247`](https://faudir.fau.de/public/person/9e44a94247)
+- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Stein, Nicolas ()
 - **FAUdir:** [`91fba6f70f`](https://faudir.fau.de/public/person/91fba6f70f)
@@ -1481,6 +1560,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Advanced Materials Simulation with Phase Field" — Vorlesung mit Übung
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
+### Weninger, Dieter (Dr.)
+- **FAUdir:** [`c43d19498a`](https://faudir.fau.de/public/person/c43d19498a)
+- **Affiliation:** Lehrstuhl für Angewandte Mathematik (Kontinuierliche Optimierung)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): "Übungen zu Lineare und nichtlineare Systeme (Querschnittmodul)" — Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
 ### Wiedemann, Ole ()
 - **FAUdir:** [`6ec4da90f6`](https://faudir.fau.de/public/person/6ec4da90f6)
 - **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
@@ -1550,6 +1636,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in : "MA S Ökonomie der Sozialpolitik (Economics of Social Policy)" — Seminar
 - *(zusätzlich 3 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
+### Wörl, Jürgen (apl. Prof. Dr.)
+- **FAUdir:** [`21ab854a59`](https://faudir.fau.de/public/person/21ab854a59)
+- **Affiliation:** Medizinische Fakultät
+- **Weitere Affiliationen:** Lehrstuhl für Mikroskopische Anatomie und Molekulare Bildgebung
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in : "Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin)" — Vorlesung
+
 ### Zahn, Dirk (Prof. Dr.)
 - **FAUdir:** [`9c27223ce1`](https://faudir.fau.de/public/person/9c27223ce1)
 - **Affiliation:** Professur für Theoretische Chemie
@@ -1557,6 +1650,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in : "Computational Nanoscience" — Vorlesung
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
+### Zanin, Esther (Prof. Dr.)
+- **FAUdir:** [`c6765f1727`](https://faudir.fau.de/public/person/c6765f1727)
+- **Affiliation:** Professur für Experimentelle Molekulare Zelldynamik
+- **Weitere Affiliationen:** Professur für Experimentelle Molekulare Zelldynamik
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Orientierungsmodul Experimentelle Molekulare Zelldynamik: Molekulare Mechanismen der Zellteilung in tierischen Zellen" — Seminar und Übung
 
 ### Zeilinger, Nadja ()
 - **FAUdir:** [`597683e1ec`](https://faudir.fau.de/public/person/597683e1ec)

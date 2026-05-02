@@ -462,6 +462,82 @@ K = Klausur
 
 (10)[1] Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die Vorsitzende oder der Vorsitzende der Zugangskommission gestattet, die Prüfung in anderer Form abzulegen. 
 
-16 
+16
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 9
+
+```
+(4) "Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung
+während eines der nachfolgenden Prüfungszeiträume unterziehen wollen, im Rah-
+men der räumlichen Möglichkeiten als Zuhörerinnen oder Zuhörer zugelassen; auf
+Verlangen der Prüfungskandidaten werden Zuhörerinnen oder Zuhörer ausgeschlos-
+sen. ?Die Zulassung erstreckt sich nicht auf die Beratung und die Bekanntgabe des
+Prüfungsergebnisses.
+8& 18
+Bewertung der Prüfungen, Notenstufen, Gesamtnote
+(1) "Die Urteile über die einzelnen Prüfungen werden vonderjeweiligen Prüferin oder
+dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:
+[sehr gut
+[=1 (100der13)
+Teinehervorragende
+Leistung
+—
+_
+eine Leistung, die erheblich über den Anforderun-
+gut
+=
+(1,7 oder 2,0 oder 2,3)
+gen liegt:
+| befriedigend
+| -
+| (2,7 oder 3,0 oder 3,3)
+| Fahne
+Phase durchschnittliichen Anforderun-
+|
+| nicht ausreichend
+-
+(4,3 oder 4,7 oder 5,0)
+ane Leistung, die wegen erheblicher Mängel den
+|
+Il
+:
+Anforderungen nicht
+mehrgenügt.
+*Eine Prüfung ($ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausrei-
+chend“ bewertet ist. ®Bei unbenoteten Prüfungen ($ 6 Abs. 3 Satz 4) lautet die Be-
+wertung „bestanden“ oder „nicht bestanden“. *Eine Modulprüfung
+ist bestanden,
+wenn sämtliche Teilleistungen bestanden sind.
+(2) "Prüfungen im Antwort-Wahl-Verfahren sind wie folgt zu bewerten: ”Wer die für
+das Bestehen der Prüfung nach $ 16 Abs. 4 Satz 1 erforderliche Mindestzahl zutref-
+fend beantworteter Prüfungsfragen erreicht, erhält die Note
+1,0 ("sehr gut"), wenn mindestens 75 Prozent,
+2,0 ("gut"), wenn mindestens 50, aber weniger als 75 Prozent,
+3,0 ("befriedigend"), wenn mindestens 25, aber weniger als 50 Prozent,
+4,0 ("ausreichend"), wenn keine oder weniger als 25 Prozent der darüber hinaus ge-
+stellten Prüfungsfragen zutreffend beantwortet wurden. ®Die Noten können entspre-
+chend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Note 0,7 ist
+dabei ausgeschlossen. “Wer nicht die erforderliche Mindestzahl erreicht, erhält die
+Note 5,0.
+“Abweichend von Satz 4 können in den Fällen, in denen die Prüfung ge-
+mäß 8 16 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,
+3, 4, 7 und 5,0 vergeben werden.
+(3) "Die Gesamtnote der Masterprüfung lautet:
+bei einem Durchschnitt bis 1,50 = sehr gut
+bei einem Durchschnitt über 1,50 bis 2,50 = gut
+bei einem Durchschnitt über 2,50 bis 3,50 = befriedigend
+bei einem Durchschnitt über 3,50 bis 4,00 = ausreichend.
+?Wer die Masterprüfung mit einer Gesamtnote von 1,00 bis 1,25 abschließt, erhält
+das Gesamturteil "mit Auszeichnung bestanden".
+(4) "In die Gesamtnote der Masterprüfung gehen die Modulnoten mit dem Gewicht
+der ECTS-Punkte ein, die dem entsprechenden Modul nach der Fachprüfungsord-
+nung zugewiesen ist. ?Bei der Berechnung der Gesamtnote der Masterprüfung wer-
+den zwei Stellen nach dem Komma berücksichtigt; die weiteren Stellen entfallen oh-
+ne Rundung.
+9
+```
 

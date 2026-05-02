@@ -150,6 +150,59 @@ Prof. Dr.-Ing. Joachim Hornegger Präsident
 
 Die Satzung wurde am 30. Juli 2018 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 30. Juli 2018 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 30. Juli 2018. 
 
-- 5 - 
+- 5 -
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung
+für den Masterstudiengang Archäologische Wissenschaften an der
+Philosophischen Fakultät und Fachbereich Theologie der
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- FPOArWi —
+Vom 30. Juli 2018
+Aufgrund von Art. 13 Abs.
+1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs.
+1 und Art. 61 Abs. 2
+Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Ande-
+rungssatzung:
+$ 1
+Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Archäologische Wis-
+senschaften an der Philosophischen
+Fakultät und Fachbereich
+Theologie der FAU
+— FPOArWi — vom 8. Juni 2010, zuletzt geändert durch Satzung vom 26. Januar 2016,
+wird wie folgt geändert:
+1.8 1 wird wie folgt geändert:
+a) Nach den Worten „Archäologische Wissenschaften“ werden die Worte mit Satz-
+zeichen „mit dem Abschluss „Master of Arts (M.A.)“ gestrichen.
+b) Nach den Worten „Bachelor- und Masterstudiengänge“ wird das Wort „an“ gestri-
+chen.
+2.8 2 wird wie folgt geändert:
+a)
+Abs. 1 wird wie folgt geändert:
+aa) In Satz
+1 werden nach den Worten „Fachspezifischer Abschluss“ die Worte und
+Zahlen „i. S. d.
+$ 35 Abs. 1 Nr.
+1 ABMStPO/Phil“ eingefügt und nach den Wor-
+ten „Abschluss
+in“ die Worte „dem Bachelorstudiengang“ durch die Worte
+„einem Ein- oder Zwei-Fach-Bachelorstudiengang" ersetzt.
+bb) In Satz 2 wird das Wort „erreicht“ durch das Wort „erworben“ ersetzt.
+b)
+Abs. 2 wird wie folgt geändert:
+aa) In Satz 1 werden die Worte „nicht besser als der Note“ gestrichen und nach der
+Zahl „2,51“ das Wort und die Zahl „bis 4,00* eingefügt.
+bb) In Satz 2 werden nach dem Wort „Bewerberin“ das Wort „und“ durch das Wort
+„DZw.“ sowie nach den Worten „dass sie“ das Zeichen „/“ durch das Wort „bzw.“
+ersetzt.
+cc) In Satz 3 wird nach dem Wort „Bewerber“ das Wort „insbesondere“ gestrichen
+und in Ziffer 4. werden vor dem Wort „Praxiserfahrungen“ das Wort „Sichere“
+-1-
+```
 

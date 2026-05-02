@@ -1079,6 +1079,83 @@ Studenten im 1. Hauptfach AG müssen in den Vertiefungsmodulen AG-V3 und AG-V4 e
 
 **Kürzel für Art der Prüfung:** MA = Masterarbeit, V = Vortrag, Kolloqu. = Kolloquium“ 
 
-27 
+27
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 9
+
+```
+oder eines Prüfungskandidaten werden Zuhörerinnen oder Zuhörer ausgeschlossen.
+°Die Zulassung erstreckt sich nicht auf die Beratung und die Bekanntgabe des Prü-
+fungsergebnisses.
+& 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote
+(1) "Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen
+Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen aus-
+gedrückt:
+‚sehrrgut
+____ =(1,0. oder 1,3)
+_ eine
+hervorragende
+Leistung 7m
+_
+eine Leistung, die erheblich über den durch-
+‚gut
+m (hroder 2,0 0der 2,3)
+schnittlichen Anforderungen liegt:
+| befriedigend
+| = (2,7 oder 3,0 oder 3,3)
+| eine Leistung, die durchschnittlichen Anfor-
+|
+!
+!
+:
+derungen entspricht;
+|
+.
+_
+eine Leistung, die trotz ihrer Mängel noch
+1 ausreichend
+= (8,7 oder 4,0)
+den Anforderungen entspricht;
+;
+| nicht ausreichend
+= (4,3 oder 4,7 oder 5,0)
+eine -eistung, Cie wegen erheblicher Mängel
+“Eine Prüfung (8 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausrei-
+chend“ bewertet ist. Bei unbenoteten Prüfungen (8 6 Abs. 3 Satz 4) lautet die Be-
+wertung „mit Erfolg teilgenommen“ oder „nicht mit Erfolg teilgenommen‘; eine Modul-
+note wird nicht gebildet. *Ein Modul ist bestanden, wenn sämtliche Teilleistungen be-
+standen sind. °Ist eine Prüfung von mehreren Prüfenden zu bewerten, so ergibt sich
+die Note aus dem Mittel der Einzelnoten. Bei der Ermittlung der Note wird eine Stelle
+nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.
+(2) "Die Gesamtnote der Grundlagen- und Orientierungsprüfung, der Bachelorprü-
+fung, der Masterprüfung und der Module sowie die Fachnote lautet:
+bei einem Durchschnitt bis 1,5 = sehr gut
+bei einem Durchschnitt über 1,5 bis 2,5 = gut
+bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend
+bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend.
+?Wer die Bachelor- oder Masterprüfung mit einer Gesamtnote von 1,0 bis 1,2 ab-
+schließt, erhält das Gesamturteil "mit Auszeichnung bestanden".
+(3) 'Die Modulnoten werden aus dem Durchschnitt der einzelnen Noten der Prüfun-
+gen im Sinne von 8 6 Abs. 2 Satz 2 errechnet; die einzelnen Noten gehen, wenn
+nichts anderes bestimmt ist, mit dem Gewicht der auf sie entfallenden ECTS-Punkte
+in die Modulnote ein. ?Absatz 1 Satz 6 gilt entsprechend. *Wird keine benotete Prü-
+fung abgehalten, lautet die Bewertung des bestandenen Moduls „mit Erfolg teilge-
+nommen‘.
+(4) "Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn die in & 25 in
+den ersten beiden Semestern geforderten Leistungsnachweise erfolgreich abgelegt
+worden sind. ?In die Gesamtnote der Grundlagen- und Orientierungsprüfung gehen
+alle Modulnoten nach Satz 1 mit dem Gewicht der ECTS-Punkte ihres Moduls ein.
+(5) "In die Gesamtnote der Bachelorprüfung gehen alle Modulnoten des Bachelorstu-
+diums mit dem Gewicht der ECTS-Punkte ihres Moduls ein; für die Fachnote des
+Haupt- und Nebenfachs gilt entsprechendes. ?Absatz 1 Satz 6 gilt entsprechend.
+(6) "In die Gesamtnote der Masterprüfung gehen die Modulnoten des Masterstudi-
+ums mit dem Gewicht der ECTS-Punkte ihres Moduls ein; für die Fachnote des
+Pflichtbereichs und der Wahlbereiche gilt entsprechendes. ”Absatz 1 Satz 6 gilt ent-
+sprechend.
+9
+```
 

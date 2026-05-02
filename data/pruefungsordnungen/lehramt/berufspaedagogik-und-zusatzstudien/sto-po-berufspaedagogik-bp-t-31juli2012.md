@@ -738,6 +738,163 @@ uSL     unbenotete Studienleistung bSL     benotete Studienleistung
 
 *)        gemäß der Prüfungsordnung des Zweitfaches 
 
-21 
+21
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 20
+
+```
+Anlage 2b: Module des Bachelorstudiums - Studienrichtung Metalltechnik
+schriftl. Prüfung
+in Min. bzw.
+Studienleistung
+NM (Beeieung
+ — — — —— — —— [Kai
+|
+Mechanik und Konstruktion
+|
+| B1 |Statik und
+Festigkeitichre_—3—=—_
+or] || | | | |
+| B2 | Dynamik starre der
+LI
+| is
+I | |
+|_B3 | Methode der Finiten iemnte—L—LLL |
+|
+|
+TI sl
+|
+|
+Senke Beistellimseläineel
+Isa IT]
+| I
+el
+EB
+I Ba Fra m BE Ei m
+EI
+u Ba
+Konstruktionsübung
+uSsL
+Konstruktive Projektarbeit (Teamwork, Präsentationstech-
+EI
+TE
+a ER Er
+Informatik
+und Mathematik
+|
+87 [Mathematikfürsetmam) —— [con|zsi
+|
+|
+|
+|
+|
+wswool
+"93 | mathematik turer
+feop| Ir
+I
+Fun!
+5em
+a
+|
+13 10 |@rundiagen der Informa
+TI
+sun
+I
+|
+Produktion, Optik und Messtechnik
+u
+|
+[811 [Produktionstechniktundn —
+|
+|
+|
+| [sol
+|
+|
+al
+18 12 [opti und optische Technologien m
+I
+ITE
+1913 [6rundiagen der Messtechnik I |
+en
+I
+Tr]
+I
+|
+Elektrotechnik, Thermodynamik und Werkstoffkunde
+m
+1815 | Grundlagen der Elektrotechnik —2727[„[n Tor | [sl
+|
+I To
+1816 Technische Thermocnamk TI
+|
+1 eng
+a
+Werkstoffprüfung
+2,5
+Berufspädagogik
+|
+1818
+|Fachaldaktik Metaltechniıı — | |
+|
+|
+|
+| [sol
+cl
+1819 [Grundlagen der Berufspadagonk
+18 20 [Präsentaions- und Moderationstechnk |
+121 |Berutiche wertersiaumg
+IPB}
+[8 22 |Betriebspädagogisches Semimad
+| |
+1
+| |
+sol
+pl
+1 23 |Schuipraktische Studien
+Po
+1524 |Berufspädagosische Verne
+|
+|
+|
+|
+I Iso]
+sr]
+Zweitfach
+|
+825 |Unterichtsfach (_weitfach il. Fachäidaktk
+| | 101
+| solsolsoh |
+|
+Abschlussarbeit
+|
+825 |Bachelrarbeitincl.voran —„2.— |
+|
+|
+|
+|
+|
+ml
+|
+TEEn
+VE IE BETZ ETIE TI E72
+Summe
+der EETS-Bunkte
+|
+eo
+GOP Bestandteil der Grundlagen- und Orientierungsprüfung
+uSL
+unbenotete Studienleistung
+bSL
+benotete Studienleistung
+*)
+gemäß den Vorgaben des Zweitfaches
+**)
+Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.
+20
+```
 

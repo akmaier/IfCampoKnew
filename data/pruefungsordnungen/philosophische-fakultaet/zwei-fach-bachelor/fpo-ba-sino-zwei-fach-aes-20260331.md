@@ -234,6 +234,483 @@ Erlangen, den 31. März 2026 FAU gez.
 
 Prof. Dr.-Ing. Joachim Hornegger, Präsident 
 
-Diese Satzung wurde am 31. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 31. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 20. März 2026 
+Diese Satzung wurde am 31. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 31. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 20. März 2026
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+P A )
+Erste Satzung zur Änderung der Fachstudien- und Prüfungsord-
+nung für das Fach Sinologie im Zwei-Fach-Bachelorstudiengang an
+der Philosophischen Fakultät und Fachbereich Theologie der Fried-
+rich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- FPO BA Sino Zwei-Fach —
+Vom 31. März 2026
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 83
+Abs. 9 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz (BayHIG)
+vom 5. August 2022 in der derzeit geltenden Fassung erlässt die FAU folgende Ände-
+rungssatzung:
+81
+Die Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Ba-
+chelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) -— FPO BA Sino Zwei-Fach
+— vom 15. Juni 2023 wird wie folgt geändert:
+1.
+In8&4 Abs. 2 wird zu Beginn des Absatzes vor Satz 1 das Wort und der Doppelpunkt
+„Schlüsselqualifikationen:“ gelöscht.
+2.
+In8 6 wird nach den Worten „abweichend von den Bestimmungen des $“ die Zahl
+„32“ durch die Zahl „33“ ersetzt.
+3.
+In8& 7 wird folgender neuer Abs. 3 angefügt:
+„(3) 'Die erste Änderungssatzung tritt am 1. Oktober 2026 in Kraft. 2Sie gilt für alle
+Studierenden, die das Studium ab dem Wintersemester 2026/2027 aufnehmen
+werden. ®Abweichend von Satz 2 gilt sie auch für alle Studierenden die das Studium
+ab dem Wintersemester 2023/2024 aufgenommen haben und sich im Modul "Geis-
+tes- und Ideengeschichte Chinas" noch nicht in einem laufenden Prüfungsverfah-
+ren (Erstversuch) befinden.“
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+4.
+Die Tabelle in Anlage 1 erhält samt Erläuterungen folgende neue Fassung:
+Anlage 1: Sinologie als Erstfach
+sws
+Workload-Verteilung pro
+Fak-
+Ge-
+Semester in ECTS-Punkten
+'
+..
+tor
+.
+Art und Umfang der Prü-
+Modulbezeichnung
+Lehrveranstaltung
+samt
+fun
+Mo-
+vöüor
+s
+ers
+1a
+2
+304.56
+9
+dul-
+note
+Klausur
+a
+.
+ur
+(120 Min.) und
+Modernes Chinesisch 1
+Seminar und Konversationsübung
+2
+10
+mündliche Prüfung
+1
+10 Min.
+Klausur
+Modernes Chinesisch 2
+Seminar und Konversationsübung
+2
+10
+(120 Min.) und
+2
+mündliche Prüfung
+10 Min.
+Wissenschaftliches
+.
+.
+a
+Ps
+DE
+DE
+DE DE
+ET
+BE
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+Sws
+Workload-Verteilung pro
+Fak-
+Ge-
+Semester in ECTS-Punkten '
+..
+tor
+.
+Art und Umfang der Prü-
+Modulbezeichnung
+Lehrveranstaltung
+samt
+fun
+Mo-
+vüoür
+s
+es
+a
+22
+3.060.456
+9
+dul-
+nl
+(
+ER  ı (+)(ER
+Wissenschaftliche Überset-
+.
+FIR
+u
+zung
+Klassisches Chinesisch 2
+Übung
+2
+5
+(10-15 Seiten = ca. 3.800-
+2
+5.700 Worte
+Modernes Chinesisch 4
+Seminar und Konversationsübung Eur
+Klausur (120 Min.)
+Geistes-
+und
+lIdeenge-
+ca. 4.500-6.400 Worte und
+2
+schichte Chinas
+Referat (15-20 Min.) oder
+3
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+Sws
+Workload-Verteilung pro
+Fak-
+Ge-
+Semester in ECTS-Punkten '
+ri
+tor
+.
+Art und Umfang der Prü-
+Modulbezeichnung
+Lehrveranstaltung
+samt
+fun
+Mo-
+vöüor
+s
+ers
+1a
+2
+304.56
+9
+dul-
+note
+Worte
+Summe SWS und ECTS-Punkte im Erstfach:
+Fr
+Do
+1
+2
+17
+18
+10
+10
+|
+|
+Modernes Chinesisch:
+Hö-
+.
+.
+..
+Klausur (60 Min.) und
+Summe SWS und ECTS-Punkte Schlüsselqualifikationen:
+2
+2
+10
+5
+5
+|
+|
+Summe SWS und ECTS-Punkte Studiengang
+En
+Dr
+180
+30
+30
+30
+30
+30
+30
+! Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung
+über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach $ 11 ABMStPO/Phil.
+? Da es sich bei der hier angegebenen Verteilung um eine Empfehlung handelt, kann das Fach auch mit Zweitfächern kombiniert werden, die eine andere Verteilung der ECTS-
+Punkte auf die Fachsemester vorsehen. Es wird empfohlen, in diesem Fall eine Studienberatung zur Kombination der beiden Fächer in Anspruch zu nehmen.
+3 10 ECTS-Punkte festgelegte Schlüsselqualifikationen.
+4
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+5.
+Die Tabelle in Anlage 2 erhält samt Erläuterungen folgende neue Fassung:
+Anlage 2: Sinologie als Zweitfach
+SWS
+Workload-Verteilung pro
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+aesanı
+Semester in ECTS-Punkten !
+Art und Umfang der Prüfung
+Modul-
+vü
+ps
+1.
+2.
+| 3.14.
+5.
+6.
+note
+|
+ne und Konversations-2 Is]
+Klausur
+Modernes Chinesisch 1
+10
+(120 Min.) und
+1
+mündliche Prüfung
+(10 Min.)
+Klausur
+Modernes Chinesisch 2
+Seminar und Konversations-
+2
+10
+(120 Min.) und
+4
+übung
+mündliche Prüfung
+10 Min.
+Klausur
+Modernes Chinesisch 3
+Seminar und Konversations-
+2
+4
+10
+(120 Min.) und
+1
+übung
+mündliche Prüfung
+15 Min.
+setzung
+5
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+Ssws
+Workload-Verteilung pro
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+_
+aesamı
+Semester in ECTS-Punkten '
+Art und Umfang der Prüfung | Modul-
+VvV
+U
+PS
+1.
+| 2.
+3. | 4
+5.
+6.
+note
+(10-15 Seiten = ca.
+3.800-5.700 Worte)
+Eu
+DE DE
+DE a EEE
+Modernes Chinesisch 5
+7
+Klausur (120 Min.)
+1
+|
+|
+|
+|
+|
+,
+,
+Klausur (120 Min.) oder
+Sprache und Literatur Chi-
+Hauptseminar
+2
+(5)
+5
+mündliche Prüfung (30
+2
+nas
+Min.)
+Wissenschaftliche Über-
+Politik
+und
+Wirtschaft
+Chi-
+,
+setzun
+nas 3
+Hauptseminar
+2,69
+> | (10-15 Seiten 3.800- |
+2
+5.700 Worte
+Summe SWS und ECTS-Punkte im Zweitfach:
+=
+16
+70
+15
+15
+| 15
+10
+7-10
+5-8
+6
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+SWS
+e
+Workload-Verteilung pro
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+_
+En
+Semester in ECTS-Punkten '
+Art und Umfang der Prüfung | Modul-
+V
+U
+P
+Ss
+1.
+2.
+3.
+4.
+5.
+6.
+note
+Modernes Chinesisch: Hö- |Seminar und Konversations-
+2
+2
+(10)
+5
+5
+u On Mn).n
+ren und Sprechen *
+übung
+Min.)
+9
+Summe ECTS-Punkte Schlüsselqualifikationen:
+030
+%
+0 en
+023
+0-5
+15
+15
+15 | 20
+Bachelorarbeit
+vgl. FPO des Erstfachs
+DEE EEEEEZ
+vgl. FPO des Erstfachs
+Summe SWS und ECTS-Punkte im Studiengang:
+=
+16
+180
+30
+30
+30
+30
+30
+30
+! Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung
+über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach $ 11 ABMStPO/Phil.
+? Für das Erstfach sind die Regelung der (Fach-)Studien- und Prüfungsordnung des Erstfachs zu berücksichtigen. Bei der hier angegebenen ECTS-Verteilung handelt es sich
+um Bandbreiten, innerhalb derer das Erstfach spezifischere Regelungen vorsehen kann.
+3 Es sind entweder das Modul „Wissenschaft und Technik Chinas“ oder das Modul „Geistes- und Ideengeschichte Chinas“ sowie zusätzlich entweder das Modul „Sprache und
+Literatur Chinas“ oder das Modul „Politik und Wirtschaft Chinas“ erfolgreich abzulegen.
+*Die Wahl dieses Moduls wird empfohlen.“
+7
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+ul
+/zu \( )
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und
+der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom
+31. März 2026
+Erlangen, den 31. März 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 31. März 2026 digital auf der Internetseite
+https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausferti-
+gung der Satzung wurde am 31. März 2026 in der im Referat L 1 der Zentralen Univer-
+sitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur
+Einsicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 20. März 2026
+8
+```
 

@@ -394,6 +394,96 @@ Prof. Dr. Karl-Dieter Grüske Rektor
 
 Die Satzung wurde am 24. September 2007 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 24. September 2007 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 24. September 2007. 
 
-13 
+13
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 6
+
+```
+mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prü-
+Spalte 3
+Spalte 4
+Spalte 5
+Spalte 6
+sws
+1.Sem | 2.Sem | 3.Sem | 4.Sem | 5.Sem | 6. Sem
+Prüfungscauer in
+ECTS
+mu
+vlelr
+ECTS
+ECTS
+ECTS
+ECTS
+ECTS
+ECTS
+schriftlich
+4
+90
+Gor
+2
+).
+2
+unbenoteter Schein
+4
+90
+2
+).
+u
+unbenoteter Schein
+E EC Ic BR GI
+E EC BC BD DR ED CE
+4
+180
+7.5
+7.5
+3
+ı
+=.
+unbenoteter Schein
+4
+1
+180
+3
+0
+=. unbenoteter Schein (ZV)
+2
+2
+5
+2
+| 2
+|
+12.5
+Ä
+|
+5
+0
+|
+4
+=. unbenoteter Schein (ZV)
+6
+```
+
+### OCR Seite 8
+
+```
+2
+3
+5
+5
+5)
+E KH RE RE EC RE
+9 Wochen
+12
+12
+EEE EEE
+Summe
+Summe
+Umfang der Grundlagen und Orientierungsprüfung
+ECTS
+8
+```
 

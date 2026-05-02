@@ -369,6 +369,902 @@ Prof. Dr.-Ing. Joachim Hornegger, Präsident
 
 Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröffentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Einsicht während der Dienststunden bereit. Tag der Bekanntmachung ist daher der 5. März 2026 
 
-13 
+13
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+|
+j' \U
+DTUFN
+Erste Satzung zur Änderung der Fachstudien- und Prüfungsord-
+nung für den Masterstudiengang Management an der Rechts- und
+Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-
+Universität Erlangen-Nürnberg (FAU)
+- FPOManagement -
+Vom 5. März 2026
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, 84 Abs. 2 Satz 1, Art. 88 Abs.
+9 Satz 1, Art. 90 Abs. 1 Satz 2 und 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovati-
+onsgesetz vom5. August 2022 (BayHIG) in der derzeit geltenden Fassung erlässt die
+FAU folgende Anderungssatzung:
+81
+Die Fachstudien- und Prüfungsordnung für den Masterstudiengang an der Rechts- und
+Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-
+Nürnberg (FAU) — FPOManagement — vom 29. Februar 2024 wird wie folgt geändert:
+1.
+In der Bezeichnung der Satzung werden nach den Worten „für den Masterstudien-
+gang Management“ die Worte „am Fachbereich Wirtschafts- und Sozialwissen-
+schaften an“ eingefügt.
+2.
+In$ 3 Abs. 1 wird nach den Worten und dem Zeichen „einschlägiger Abschluss im
+Sinne des 8“ die Zahl „29“ durch die Zahl „32“ ersetzt.
+3.
+84 wird wie folgt geändert:
+a)
+In Abs. 1 Satz 8 wird nach den Worten „Im Modul Masterarbeit (30 ECTS-Punkte)
+ist die“ das Wort „Masterthesis“ durch das Wort „Masterarbeit“ ersetzt.
+b) Abs. 3 wird wie folgt geändert:
+aa)
+Der bisher einzige Satz wird zu Satz 1.
+bb)
+In Satz 1 (neu) wird nach den Worten „in Vollzeit (Anlage“ die Ziffer „1“ durch
+die Ziffer „2“ und nach den darauffolgenden Worten „als auch in Teilzeit (An-
+lage“ die Ziffer „2“ durch die Ziffer „3° sowie nach den Worten „im Falle des“
+das Wort „Teilzeitstudium“ durch das Wort „Teilzeitstudiums“ ersetzt.
+cc)
+Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt:
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+„Die Fristen des 8 35 Abs. 4 Satz
+1 und
+2 MPOWISO für die Regelbear-
+beitungszeit der Masterarbeit sowie deren Verlängerung werden im Teil-
+zeitstudiengang verdoppelt.“
+4.
+85 wird wie folgt geändert:
+a) Abs. 1 wird wie folgt geändert:
+aa)
+In Satz
+1 werden nach den Worten am Satzanfang „Das übergeordnete
+Qualifikationsziel der einzelnen“ das Wort „Modulgruppen“ durch das Wort
+„Schwerpunkte“ und nach den Worten „Sustainable & Responsible Ma-
+nagement““ das Wort „und“ durch ein Komma ersetzt sowie nach dem
+Komma (neu) und den Worten „“Management Research““ die Worte „und
+„Organizational Behaviour & Human Performance Management“ eingefügt.
+bb)
+In Satz 2 werden nach den Worten „sollen die Studierenden durch Wahl“ die
+Worte
+„der jeweiligen
+Modulgruppe“
+durch
+die Worte
+„des jeweiligen
+Schwerpunktes“ ersetzt.
+cc)
+In Satz 3 werden am Satzanfang die Worte „Die gewählte Spezialisierung“
+durch die Worte „Der gewählte Schwerpunkt“ ersetzt.
+dd)
+Nach Satz 3 wird folgender neuer Satz 4 angefügt:
+„Die spezifischen Qualifikationsziele und Prüfungsgegenstände der
+einzelnen Schwerpunkte und Module sind abhängig vom Qualifikati-
+onsziel des jeweiligen gewählten Schwerpunktes nach Abs. 2 bis 11
+und dem jeweils gewählten Modul und der jeweils einschlägigen Mo-
+dulbeschreibung zu entnehmen.“
+b) Abs. 2 wird wie folgt geändert:
+aa)
+In Satz 1 werden nach den Worten am Satzanfang „Das Qualifikationsziel“
+die Worte „der Modulgruppe“ durch die Worte „des Schwerpunkts“ ersetzt.
+bb)
+In Satz 3 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte
+„Der Schwerpunkt“ ersetzt.
+c)
+Abs. 3 wird wie folgt geändert:
+aa)
+In Satz 1 werden nach den Worten am Satzanfang „Das Qualifikationsziel“
+die Worte „der Modulgruppe“ durch die Worte „des Schwerpunkts“ ersetzt.
+bb)
+In Satz 2 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte
+„Der Schwerpunkt“ ersetzt.
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+uk
+/ zu \
+d) Abs. 4 wird wie folgt geändert:
+aa)
+In Satz 1 werden nach den Worten am Satzanfang „Das Qualifikationsziel“
+die Worte „der Modulgruppe“ durch die Worte „des Schwerpunkts“ ersetzt.
+bb)
+In Satz 3 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte
+„Der Schwerpunkt“ ersetzt.
+e) Abs. 5 wird wie folgt geändert:
+aa)
+In Satz 1 werden nach den Worten am Satzanfang „Das Qualifikationsziel“
+die Worte „der Modulgruppe“ durch die Worte „des Schwerpunkts“ ersetzt.
+bb)
+In Satz 2 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte
+„Der Schwerpunkt“ ersetzt.
+f)
+Abs. 6 wird wie folgt geändert:
+aa)
+In Satz 1 werden nach den Worten am Satzanfang „Das Qualifikationsziel“
+die Worte „der Modulgruppe“ durch die Worte „des Schwerpunkts“ ersetzt.
+bb)
+In Satz 2 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte
+„Der Schwerpunkt“ ersetzt.
+g) Abs. 7 wird wie folgt geändert:
+aa)
+In Satz 1 werden nach den Worten am Satzanfang „Das Qualifikationsziel“
+die Worte „der Modulgruppe“ durch die Worte „des Schwerpunkts“ ersetzt.
+bb)
+In Satz 2 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte
+„Der Schwerpunkt“ ersetzt.
+h) Abs. 8 wird wie folgt geändert:
+aa)
+In Satz 1 werden nach den Worten am Satzanfang „Das Qualifikationsziel“
+die Worte „der Modulgruppe“ durch die Worte „des Schwerpunkts“ ersetzt.
+bb)
+In Satz 2 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte
+„Der Schwerpunkt“ ersetzt.
+i)
+Abs. 9 wird wie folgt geändert:
+aa)
+In Satz 1 werden nach den Worten am Satzanfang „Das Qualifikationsziel“
+die Worte „der Modulgruppe“ durch die Worte „des Schwerpunkts“ ersetzt.
+3
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+|
+j' U)
+ul
+/ zu \
+bb)
+In Satz 2 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte
+„Der Schwerpunkt“ ersetzt.
+j)
+Abs. 10 wird wie folgt geändert:
+aa)
+In Satz 1 werden nach den Worten am Satzanfang „Das Qualifikationsziel“
+die Worte „der Modulgruppe“ durch die Worte „des Schwerpunkts“ ersetzt.
+bb)
+In Satz 2 werden am Satzanfang die Worte „Die Vertiefung“ durch die Worte
+„Der Schwerpunkt“ ersetzt.
+k) Nach Abs. 10 wird folgender neuer Abs. 11 eingefügt:
+„(11) "Das Qualifikationsziel des Schwerpunktes „Organizational Behavior &
+Human Performance Management‘ liegt darin, die Studierenden zu befähigen,
+das menschliche Verhalten in Organisationen zu verstehen, zu analysieren
+und gezielt zu gestalten. ?Der Schwerpunkt umfasst Module in deutscher und
+in englischer Sprache. ®Der Schwerpunkt (20 ECTS-Punkte) kann sowohl aus-
+schließlich in deutscher Sprache als auch ausschließlich in englischer Sprache
+sowie in einer Mischform der beiden Sprachen absolviert werden. *Art und
+Umfang der Prüfung sind abhängig von den vermittelten Kompetenzen und
+dem Modulhandbuch zu entnehmen. Mögliche Prüfungen umfassen:
+1.
+Klausur (60 oder 90 Min.),
+2.
+Klausur (60 oder 90 Min.) und Performance Assessment,
+3.
+Klausur (60 oder 90 Min.), Fallstudie und Performance Assessment,
+4.
+Haus- bzw. Seminararbeit,
+5.
+Haus- bzw. Seminararbeit und Präsentation,
+6.
+Fallstudie oder
+7.
+Mündliche Prüfung.“
+I)
+Der bisherige Abs. 11 wird zu Abs. 12 und es wird nach dem Wort „Die“ am
+Satzanfang das Wort „Vertiefungsmodule“ durch die Worte „Module im Vertie-
+fungsbereich“ ersetzt.
+5.
+Nach 8 6 Abs. 2 wird folgender neuer Abs. 3 angefügt:
+„(3) 'Die erste Änderungssatzung tritt am 1. April 2026 in Kraft. ?Sie gilt für alle
+Studierenden, die das Studium ab dem Sommersemester 2026 aufnehmen wer-
+den sowie diejenigen,
+die zum Zeitpunkt des
+Inkrafttretens bereits nach der
+FPOManagement vom 29. Februar 2024 studieren.“
+6.
+Die Anlage 1 wird wie folgt geändert:
+4
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+U Al )
+a)
+InNr. 4.2 Satz 1 wird nach den Worten und dem Zeichen „im Zugangstest gilt
+&“ die Zahl „22° durch die Zahl „25“ ersetzt.
+b)
+In Nr. 6 wird nach den Zeichen, der Zahl und dem Wort „88 13 und“ die Zahl
+„23“ durch die Zahl „26“ ersetzt.
+5
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+7.
+Die Anlage 2 erhält folgende neue Fassung:
+„Anlage 2: Studienverlaufsplan Master Management: Vollzeitstudium
+Gesamt
+ \yorkload-Verteilung in ECTS-
+el)
+Modulbezeich
+Leh
+talt
+Sul
+Sa
+Punkten
+Art
+und Umf
+der
+Prüf
+Ar
+odulbezeichnung
+ehrveranstaltung
+Punkte
+und
+Umfang
+der
+Prüfung
+schluss-
+vüPprps
+1.Sem.
+2.Sem.
+3. Sem.
+4. Sem.
+note
+Wahlpflichtbereich:
+Management foundations
+Business ethics and corporate
+Business ethics and corporate
+2
+5
+(5)
+Klausur (60 Minuten)
+1
+social responsibility
+social responsibility
+Digitale Industrie
+Digitale Industrie
+2 | Is lol 1...
+Klausur (60 Minuten)
+Industrielles Management
+Industrielles Management 24llıs|l
+Seal |
+Klausur (60 Minuten)
+Produktions- und Supply Chain
+Produktions- und Supply Chain
+214
+5
+(5)
+Klausur (90 Minuten)
+1
+Management
+Management
+Diskussionspapier und
+Technology and innovation
+Technology and innovation
+2
+5
+(5)
+Klausur (60 oder 90 Minuten) '
+1
+management
+management
+Wahlpflichtbereich:
+Finance & Controlling
+Managerial Finance
+Managerial Finance
+2 lıs lol
+1.00]
+Klausur (60 Minuten)
+Kapitalmarktorientierte Un-
+Kapitalmarktorientierte
+.
+6
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+sws
+ent
+ Workload-Verteilung in ECTS-
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+Punkten
+Art und Umfang der Prüfung
+Punkte
+schluss-
+vüPprps
+1.Sem.
+2. Sem.
+3. Sem.
+4. Sem.
+note
+Controlling of business sys-
+Controlling of business systems
+.
+tems (CBS)
+(CBS)
+2141
+5
+(5)
+Klausur (60 Minuten)
+1
+Wahlpflichtbereich:
+Project, presentation & team
+skills?
+Präsentation oder
+Seminararbeit und
+.
+.
+.
+01|10
+2
+Präsentation, oder
+Fallstudien
+und Projekte im
+-
+|.
+-|
+010 | 6)
+(5)
+Klausur, Präsentation und
+9
+2|2
+6
+Diskussionsbeitrag oder
+Präsentation und Diskussionsbei-
+trag?
+Präsentation oder
+Teamfähigkeit, Präsentations-
+0|0
+2
+Seminararbeit oder
+und
+- | -
+-
+0-10
+(5)
+(5)
+Präsentation und Diskussionsbeitrag
+Verhandlungstechniken
+2|2
+5
+oder
+Projektbericht?
+Vertiefungsbereich
+(freie Wahl von elf Modulen)?
+Schwerpunkt Strategic
+management & International
+gem. 85 Abs. 12
+0-55
+0-10
+0-15
+0-30
+gem. $ 5 Abs. 2
+business
+Schwerpunkt Value creation &
+Schwerpunkt
+Entrepreneurship &
+gem. 85 Abs. 12
+0-55
+0-10
+0-15
+0-30
+gem. $ 5 Abs. 4
+Innovation
+management
+management
+7
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+sws
+esamt _ Workload-Verteilung in ECTS-
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+Punkten
+Art und Umfang der Prüfung
+Punkte
+schluss-
+vVÜUPS
+1.Sem.
+2.Sem.
+3. Sem.
+4. Sem.
+note
+management
+management
+Schwerpunkt Sustainable &
+responsible management
+gem. 5 5 Abs. 17
+KERZE
+gem. 5 5 Abs. 9
+BEE
+research
+Schwerpunkt Organizational
+Behavior & Human Perfor-
+gem. 85 Abs. 12
+0-55
+0-10
+0-15
+0-30
+gem. 8 5 Abs. 11
+mance Management
+30
+30
+30
+30
+Mind. 40
+120
+Summe SWS und ECTS-Punkte:
+sSws®
+'
+Der Umfang der Prüfung ist abhängig vom konkreten didaktischen Charakter des Moduls im jeweiligen Semester; Näheres regelt die Modulbeschreibung.
+?2
+Es sind zwei Module im Umfang von jeweils 5 ECTS-Punkten zu wählen, wobei jedes Einzelmodul mit dem Faktor 1 in die Gesamtnote des Masterstudiums eingeht. Einzelmodule der Modulgruppen sind
+im Modulhandbuch des Studiengangs aufgeführt und können sich semesterweise ändern. Die Module können aus mehreren Modulgruppen beliebig kombiniert werden.
+3
+Art und Umfang der Lehrveranstaltung(en) und der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und richten sich nach dem Modulhandbuch.
+*
+ vgl.8 5. Es sind elf Module im Umfang von jeweils 5 ECTS-Punkten zu wählen, wobei jedes Einzelmodul mit dem Faktor 1 in die Gesamtnote des Masterstudiums eingeht. Einzelmodule der Schwerpunkte sind
+im Modulhandbuch des Studiengangs aufgeführt und können sich im Rahmen der Festlegungen des $ 5 semesterweise ändern. Die Module können aus mehreren Schwerpunkten beliebig kombiniert werden.
+5
+Die Gesamtzahl der SWS sowie die Verteilung auf die einzelnen Lehrveranstaltungsformen variiert in Abhängigkeit von den gewählten Kursen im Wahlpflichtbereich sowie im Vertiefungsbereich.
+8
+```
+
+### OCR Seite 9
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+9
+```
+
+### OCR Seite 10
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+8.
+Der bisher ebenfalls in der Anlage 2 befindliche Studienverlaufsplan für den Master Management in Teilzeit wird in eine eigene neue
+Anlage 3 überführt und erhält folgende neue Fassung:
+„Anlage 3: Studienverlaufsplan Master Management: Teilzeitstudium
+Gesamt
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+SS
+ECTS-
+in ECTS-Punkten
+En
+Abschluss-
+vöüPrs
+Prke
+.
+2
+3
+a
+5
+6
+ze
+9
+note
+Wahlpflichtbereich:
+Management foundations
+Business ethics and cor-
+.
+.
+orate social responsibil-
+Business ethics and corpo-
+2
+5
+(5)
+Klausur
+1
+R
+rate social responsibility
+(60 Minuten)
+.
+.
+Klausur
+Digitale Industrie
+Digitale Industrie
+200
+| 5
+| 111 |
+Klausur (60 Minuten)
+Industrielles Manage-
+.
+Klausur
+Produktions- und Supply | Produktions- und Supply
+214
+5
+(5)
+Klausur
+1
+Chain Management
+Chain Management
+90 Minuten
+Diskussionspapier und
+Personalmanagement
+Personalmanagement
+211
+5
+(5)
+Präsentation
+1
+80% + 20%
+Technology and innova- | Technology and innovation
+Klausur
+tion management
+management
+?
+5
+(8)
+(60 oder
+1
+9
+9
+90 Minuten)"
+Wahlpflichtbereich:
+Finance & Controlling
+ir:
+LIE:
+Klausur
+Kapitalmarktorientierte
+.
+FORBEF
+Unternehmenssteuerung
+Kapitalmarktorientierte Un-
+214
+5
+(5)
+Klausur
+1
+ternehmenssteuerung
+(60 Minuten)
+KUST
+10
+```
+
+### OCR Seite 11
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Gesamt
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+SS
+ECTS-
+in ECTS-Punkten
+ne
+Abschluss-
+VÖ PS Punkte
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+note
+FETSTEESEGE FREE
+EEE ES a
+Fu
+ing
+(CAR
+CAR
+60 Minuten
+Aen
+systems (CBS
+tems
+(CBS
+60 Minuten
+Wahlpflichtbereich: Pro-
+ject, presentation & team
+skills?
+Präsentation
+oder
+Seminararbeit und
+Präsentation,
+.
+.
+010
+2
+oder
+Fallstudien und Projekte
+- | -
+-
+0-10
+(5)
+(5)
+Klausur, Präsentation
+im Management
+2|2
+6
+und
+Diskussionsbeitrag
+oder
+Präsentation und
+Diskussionsbeitrag?
+Präsentation oder Se-
+Teamfähigkeit, Präsenta-
+olo|
+[2
+minararnelt oder Frä-
+tions- und Verhandlungs-
+- | -
+-
+0-10
+(5)
+(5)
+Diskussionsbeitra
+techniken
+2|2
+5
+9
+oder
+Projektbericht?
+Vertiefungsbereich
+(freie Wahl von elf Modu-
+len)?
+Schwerpunkt Strategic
+0-
+0-
+0-
+0-
+management & Internati-
+0-55
+0-5
+10
+10
+15
+15
+Vgl.85 Abs. 2
+onal business
+Schwerpunkt Value crea-
+0-
+0-
+0-
+0-
+don & Digital transforma-
+Vgl. 85 Abs. 12
+0-55
+0-5
+10
+10
+15
+15
+Vgl.
+85 Abs. 3
+Schwerpunkt Entrepre-
+0-
+0-
+0-
+0-
+|
+va
+|
+|
+Schwerpunkt Financial
+0-
+0-
+0-
+0-
+5ee
+| | van
+11
+```
+
+### OCR Seite 12
+
+```
+Friedrich-Alexander-Universität
+=
+Erlangen-Nürnberg
+Gesamt
+Workload-Verteilung pro Semester
+Faktor
+Modulbezeichnung
+Lehrveranstaltung
+SS
+ECTS-
+in ECTS-Punkten
+En
+Abschluss-
+vöüÜrPs
+Prıke
+ı
+2
+3
+2a
+5.
+6
+z.|%
+9
+note
+Schwerpunkt Health care
+0-
+0-
+0-
+0-
+Schwerpunkt Marketing
+O-
+0-
+0-
+0-
+chain management
+0-55
+0-5
+10
+10
+15
+15
+vgl. 85 Abs. 8
+Schwerpunkt
+0-
+0-
+0-
+0-
+Sustainable & respon-
+0-55
+0-5
+10
+10
+15
+15
+Vgl.85 Abs. 9
+sible management
+Schwerpunkt Manage-
+O-
+0-
+0-
+0-
+Schwerpunkt Organiza-
+tional Behavior & Human
+0-
+0-
+0-
+0-
+Performance Manage-
+0-55
+SI
+olt1lısı
+a
+vgl. $ 5 Abs. 11
+ment
+Masterarbeit BEE
+7 BEE BE BE EEEBE 5 DE Eu
+Masterarbeit
+I
+|
+0 |
+|
+1
+|
+|
+1
+| 15 | 15 | __ Masterarbeit
+Summe SWS und ECTS-Punkte
+Mind. 20
+120
+15
+15
+15
+15
+15
+15
+15
+15
+SWSs>
+!
+Der Umfang der Prüfung ist abhängig vom konkreten didaktischen Charakter des Moduls im jeweiligen Semester; Näheres regelt die Modulbeschreibung.
+?2
+ Essind zwei Module im Umfang von jeweils
+5 ECTS-Punkten zu wählen, wobei jedes Einzelmodul mit dem Faktor 1 in die Gesamtnote des Masterstudiums eingeht. Einzelmodule
+der Modulgruppen sind im Modulhandbuch des Studiengangs aufgeführt und können sich semesterweise ändern. Die Module können aus mehreren Modulgruppen beliebig
+kombiniert werden.
+3
+Art und Umfang der Lehrveranstaltung(en) und der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und richten sich nach dem
+Modulhandbuch.
+*
+ vgl.8 5. Es sind elf Module im Umfang von jeweils 5 ECTS-Punkten zu wählen, wobei jedes Einzelmodul mit dem Faktor 1 in die Gesamtnote des Masterstudiums eingeht.
+Einzelmodule der Schwerpunkte sind im Modulhandbuch des Studiengangs aufgeführt und können sich im Rahmen der Festlegungen des 8 5 semesterweise ändern. Die Module
+können aus mehreren Schwerpunkten beliebig kombiniert werden.
+5
+Die Gesamtzahl der SWS sowie die Verteilung auf die einzelnen Lehrveranstaltungsformen variiert in Abhängigkeit von den gewählten Kursen im Wahlpflichtbereich sowie im
+Vertiefungsbereich.
+12
+```
+
+### OCR Seite 13
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+DUN
+82
+!Diese Änderungssatzung tritt zum 1. April 2026 in Kraft. 2Sie gilt für alle Studierenden,
+die das Studium ab dem Sommersemester 2026 aufnehmen werden sowie diejenigen,
+die zum Zeitpunkt des Inkrafttretens bereits nach der FPOManagement vom 29. Feb-
+ruar 2024 studieren.
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026,
+und der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5.
+März 2026
+Erlangen, den 5. März 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 5. März 2026 digital auf der Internetseite
+https://www .fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfer-
+tigung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Uni-
+versitätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt
+zur Einsicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 5. März 2026
+13
+```
 

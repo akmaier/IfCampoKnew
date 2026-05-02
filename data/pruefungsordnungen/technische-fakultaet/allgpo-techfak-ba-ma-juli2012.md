@@ -582,6 +582,82 @@ Zugangsprüfung in den Masterstudiengang aufgenommen werden.[5] Der Termin der m
 
 (6) Die Bewerberin/der Bewerber trägt die eigenen Kosten des Qualifikationsfeststellungsverfahrens selbst. 
 
-21 
+21
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 11
+
+```
+durch computergestützte bzw. digitale Medien erfolgen. ®Die Authentizität und die
+Integrität der Prüfungsergebnisse sind sicherzustellen. *Eine automatisiert erstellte
+Bewertung einer Prüfungsleistung soll auf Antrag der/des betroffenen Studierenden
+von einer oder einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei
+Prüfenden, überprüft werden.
+& 18 Bewertung der Prüfungen, Notenstufen, Gesamtnote
+(1) "Die Urteile über die einzelnen Prüfungsleistungen werden von der jeweiligen
+Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen aus-
+„sehrgut_ ______'=(100der13)
+| einehervorragende
+Leistung
+E
+| >17 0der20oder)
+| SenAnorstungen
+eg
+|
+befriedigend
+= (2,7 oder 3,0 oder 3,3)
+eine Leistung, die durchschnittlichen Anforderungen
+LT
+entspricht;
+\
+| ausreichend
+| = (3,7 oder 4,0)
+| eine Leistung, die trotz ihrer Mängel noch den An-
+|
+L____
+|
+|
+forderungen entspricht,
+|
+nicht ausreichend | = (4,3 oder 4,7 oder 5,0)
+ane Leistung, die wegen erheblicher Mängel den
+IL
+nforderungen nicht mehr genügt.
+“Eine Prüfung ($ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausrei-
+chend“ bewertet ist. Bei unbenoteten Prüfungen (8 6 Abs. 3 Satz 4) lautet die Be-
+wertung „mit Erfolg teilgenommen“ oder „nicht mit Erfolg teilgenommen“. *Eine Mo-
+dulprüfung ist vorbehaltlich einer abweichenden Regelung in der Fachprüfungsord-
+nung bestanden, wenn alle Teilleistungen (8 6 Abs. 2) bestanden sind. °Ist eine Prü-
+fung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Prüfungs-
+teilen, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten. Bei der
+Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen
+Stellen entfallen ohne Rundung.
+(2) "Prüfungen im Antwort-Wahl-Verfahren (Multiple-Choice-Prüfungen) sind wie folgt
+zu bewerten: ”Wer die für das Bestehen der Prüfung nach & 16 Abs. 4 Satz 1 erfor-
+derliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die No-
+te
+1,0 ("sehr gut"), wenn mindestens 75 Prozent,
+2,0 ("gut"), wenn mindestens 50, aber weniger als 75 Prozent,
+3,0 ("befriedigend"), wenn mindestens 25, aber weniger als 50 Prozent,
+4,0 ("ausreichend"), wenn keine oder weniger als 25 Prozent der darüber hinaus ge-
+stellten Prüfungsfragen zutreffend beantwortet wurden. ®Die Noten können entspre-
+chend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Note 0,7 ist
+dabei ausgeschlossen. *Wer nicht die erforderliche Mindestzahl erreicht, erhält die
+Note 5,0.
+(3) Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn die hierfür in 8 25
+dieser Prüfungsordnung und derjeweiligen Fachprüfungsordnung festgelegten Vo-
+raussetzungen erfüllt sind.
+(4) "Die Gesamtnote der Grundlagen- und Orientierungsprüfung, der Bachelorprü-
+fung, der Masterprüfung und der Module lautet:
+bei einem Durchschnitt bis 1,5 = sehr gut
+bei einem Durchschnitt über 1,5 bis 2,5 = gut
+bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend
+bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend.
+?Wer die Bachelor- oder Masterprüfung mit einer Gesamtnote von 1,0 bis 1,2 ab-
+schließt, erhält das Gesamturteil "mit Auszeichnung bestanden".
+11
+```
 

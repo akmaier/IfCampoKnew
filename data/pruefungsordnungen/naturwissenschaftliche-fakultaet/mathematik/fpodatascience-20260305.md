@@ -821,6 +821,1859 @@ Diese Satzung wurde am 5. März 2026 digital auf der Internetseite https://www.f
 
 Tag der Bekanntmachung ist daher der 5. März 2026 
 
-26 
+26
 
+## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+
+### OCR Seite 1
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+uul/z\ ( )
+Fachstudien- und Prüfungsordnung für den Bachelor- und Master-
+studiengang Data Science an der Naturwissenschaftlichen Fakultät
+der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- FPODataScience —
+Vom 5. März 2026
+Aufgrund von Art. 9 Satz 1
+i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88
+Abs. 9, Art. 90 Abs. 1 Satz 2, Art. 96 Abs. 3 Bayerisches Hochschulinnovationsgesetz
+vom 5. August 2022 (BayHIG) in der geltenden Fassung erlässt die FAU folgende
+Fachstudien- und Prüfungsordnung:
+Inhaltsverzeichnis:
+l. Teil: Allgemeine Bestimmungen. ...........uussssssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 1
+8 41 Geltungsbereich .............................44444444444444400000RRRRnnnnnn
+nennen nenn nenn nnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 1
+8 42 Bachelorstudiengang, Regelstudienzeit, inhaltlich im Wesentlichen gleiche
+Studiengänge .............unussssssnsssssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+2
+8 43 Masterstudiengang, Regelstudienzeit, Unterrichtssprache, inhaltlich im Wesentlichen
+gleiche Studiengänge..................22444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
+8 44 Zusammensetzung des Prüfungsausschusses.........................4444444444444400000R
+RR nn
+2
+Il. Teil: Besondere Bestimmungen..........unnnunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+D
+1. Bachelorprüfung ...................4444s44eeeeneennneneneeeeennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 45 Gliederung des Bachelorstudiums ............................444444444444444040000000RRRRRnn
+non nn nennen nennen O
+8 46 Grundlagen- und Orientierungsprüfung .................4444444444nnannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn D
+8 47 Wahlpflichtmodule für die Kernmodule Data Science ...................4444mssnnnnsnnnnnnnnnnenennnnnn D
+8 48 Wahlpflichtmodule für den Wahlpflichtbereich Mathematik ............................ 4
+8 49 Wahlpflichtmodule für den Wahlpflichtbereich Informatik ........................................2...... D
+8 50 Wahlpflichtmodule der Vertiefungsrichtungen.......................4444444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 51 Wahlpflichtmodule für die Anwendungsfächer ..................ssss2444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ö
+8 52 Wahlmodule für technische und nicht-technische Schlüsselqualifikationen ................... 8
+8 53 Bachelorarbeit..........................44444444444444440000RRRRRRnnn
+nn nn nn nn nennen nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnen
+2. Masterprüfung ...............444444444Heeeennennnnnnnneennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+8 54 Zugangskommission für die Masterstudiengänge ...........................4444444444444000RRRR RR nn nn
+9
+8 55 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen. ..............10
+8 56 Studienrichtungen des Masterstudiums, Umfang und Gliederung................................-11
+8 57 Wahlpflichtmodule der Studienrichtungen.......................4444sss44sssnnnnnnnnnenennnnnnnnnnnnnnnnnnnn12
+8 58 Wahlpflichtmodule für die Anwendungsfächer ...................sss444444444nnnnnnennnnnnnnnennnnnnnnnnnnn12
+8 59 Wahlmodule für technische Schlüsselqualifikationen.........................4.sss44444
+44 nnnnnnnenennn 10
+8 60 Masterarbeit ...................44-#4444444444444404RRRRRRRR
+Rn Rn nn nn nn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnen 10)
+Ill. Teil: Schlussbestimmungen. ..............22244444000000RnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnTO
+8 61 Inkrafttreten..............ussuu4444444nnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnrrnnnnnnnnnnnnnnnTO
+Anlage 1: Studienverlaufsplan Bachelorstudiengang Data Science ..........uuusrnnnnnnnnnnnnnnn17
+Anlage 2a: Studienverlaufsplan Masterstudiengang Data Science.........uuususunnnnnnnnnnnnnn22
+Anlage 2b: Studienverlaufsplan Masterstudiengang Data Science, Teilzeit ..................24
+l. Teil: Allgemeine Bestimmungen
+8 41 Geltungsbereich
+Die Fachstudien- und Prüfungsordnung für den Bachelor- und den konsekutiven Mas-
+terstudiengang Data Science ergänzt die Allgemeine Studien- und Prüfungsordnung
+für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät der
+1
+```
+
+### OCR Seite 2
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) — ABMPO/NatFak - in der
+jeweils geltenden Fassung.
+8& 42 Bachelorstudiengang, Regelstudienzeit,
+inhaltlich im Wesentlichen gleiche Studiengänge
+(1) 'Das Bachelorstudium der Data Science setzt sich aus Modulen im Umfang von
+180 ECTS-Punkten verteilt auf sechs Semester gemäß der Anlage 1 zusammen. ?Da-
+rin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten.
+(2) Bachelorstudiengänge gelten als inhaltlich im Wesentlichen gleiche Studiengänge
+1. S. d.8 28 Abs. 1 Satz 2 Nr.
+2 ABMPO/NatFak, wenn der Mathematikanteil im Stu-
+diengangscurriculum mindestens 65 ECTS-Punkte beträgt und die Studiengänge dar-
+über hinaus mindestens 55 ECTS-Punkte aus den Informatikwissenschaften beinhal-
+ten.
+& 43 Masterstudiengang, Regelstudienzeit, Unterrichtssprache,
+inhaltlich im Wesentlichen gleiche Studiengänge
+(1) 'Das Masterstudium Data Science baut konsekutiv auf dem Bachelorstudiengang
+Data Science auf. ?Es umfasst Module im Umfang von 120 ECTS-Punkten einschließ-
+lich der Masterarbeit verteilt auf vier Semester im Vollzeitstudium (Anlage 2a) bzw.
+auf acht Semester im Teilzeitstudium (Anlage 2b).
+(2) Masterstudiengänge gelten als inhaltlich im Wesentlichen gleiche Studiengänge
+1.S. d. 8 36 Satz 2 Nr.
+2 ABMPO/NatFak, wenn im Studiengangscurriculum mindes-
+tens 80 ECTS-Punkte aus den Mathematikwissenschaften und 30 ECTS-Punkte aus
+den Informatikwissenschaften enthalten sind.
+(3) 'Die Unterrichts- und Prüfungssprache im Masterstudiengang Data Science ist in
+den Studienrichtungen Mathematische Theorie/Grundlagen der Data Science (MTG)
+und Mathematische statistische Datenanalyse (MSD) Deutsch. ?Die Unterrichts- und
+Prüfungssprache in den Studienrichtungen Data-based optimization (DO), Data bases
+and knowledge representation (DW), Machine Learning/Artificial Intelligence (Al), Si-
+mulation and Numerics (SN) ist Englisch. ®Einzelne Module in den in Sätzen 1 und 2
+genannten Studienrichtungen können in der jeweils anderen Sprache abgehalten wer-
+den; im Übrigen bleibt
+8 4 Abs.
+4 ABMPO/NatFak unberührt.
+& 44 Zusammensetzung des Prüfungsausschusses
+'Der Prüfungsausschuss für den Bachelor- und Masterstudiengang Data Science be-
+steht aus zwei Mitgliedern des Departments Mathematik oder des Department of Data
+Science der Naturwissenschaftlichen Fakultät und einem Mitglied des Departments
+Informatik der Technischen Fakultät. Mitglieder des Prüfungsausschusses sind haupt-
+berufliche Hochschullehrerinnen bzw. Hochschullehrer i. S. d. Art. 19 Abs. 1 BayHIG.
+Die bzw. der Vorsitzende, des Prüfungsausschusses ist Mitglied des Departments
+Mathematik oder des Departments Data Science der Naturwissenschaftlichen Fakul-
+tät. ®Die Mitglieder des Prüfungsausschusses werden auf Vorschlag der Lehreinheit
+Mathematik und Data Science vom Fakultätsrat der Naturwissenschaftlichen Fakultät
+bestellt.
+2
+```
+
+### OCR Seite 3
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+Il. Teil: Besondere Bestimmungen
+1. Bachelorprüfung
+8 45 Gliederung des Bachelorstudiums
+!Das Bachelorstudium setzt sich aus
+a) den Pflichtmodulen für Data Science (Nrn. 1 und 2 sowie Nrn. 5 bis 18 der Anlage
+1),
+b) den Wahlpflichtmodulen für
+— die Kernmodule Data Science (Nrn. 3 und 4 der Anlage 1 sowie 8 47),
+— den Wahlpflichtbereich Mathematik (Nr. 19 der Anlage 1 sowie $ 48),
+— den Wahlpflichtbereich Informatik (Nr. 20 der Anlage 1 sowie 8 49),
+— die Vertiefungsrichtungen (Nr. 21 und 22 der Anlage 1 sowie 8 50) und
+— das Anwendungsfach (Nr. 23 der Anlage 1 sowie 8 51),
+c) den Wahlmodulen für die technischen und nicht-technischen Schlüsselqualifikati-
+onen (Nr. 24 der Anlage 1 sowie 8 52) und
+d) der Bachelorarbeit (Nr. 25 der Anlage 1 sowie 8 53)
+zusammen. ?Die Verteilung der Module über die Studiensemester, die Art und Dauer
+der Prüfungen in den Modulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind
+den nachfolgenden Regelungen und der Anlage 1 bzw. den einschlägigen Modulbe-
+schreibungen zu entnehmen.
+& 46 Grundlagen- und Orientierungsprüfung
+Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen insgesamt mindes-
+tens 30 ECTS-Punkte aus den Grundlagenmodulen der Mathematik und Informatik
+(Modulnummern 5-9) erworben werden.
+8 47 Wahlpflichtmodule für die Kernmodule Data Science
+(1) Der Bereich der Wahlpflichtmodule für die Kernmodule Data Science (Nrn. 3 und 4
+der Anlage 1) umfasst 10 ECTS-Punkte.
+(2) 'Das übergeordnete Qualifikationsziel der Wahlpflichtmodule für die Kernmodule
+Data Science liegt darin, den Studierenden zu ermöglichen, vertiefte und spezialisierte
+Kompetenzen in zentralen Teilgebieten der Data Science zu erwerben. ?Dabei wird
+sowohl ein methodisch-theoretisches Qualifikationsziel verfolgt, insbesondere durch
+Wahlpflichtmodule aus dem Katalog für Machine Learning, als auch ein anwendungs-
+und projektorientiertes Qualifikationsziel durch Wahlpflichtmodule aus dem Katalog für
+Projekt Data Science,
+in denen praxisnahe Problemstellungen bearbeitet werden.
+®Durch die bestehende Wahlfreiheit können die Studierenden ihr individuelles fachli-
+ches Profil innerhalb der Data Science, insbesondere im Hinblick auf ihre angestrebte
+Vertiefungsrichtung oder spätere berufliche Tätigkeit, gezielt schärfen. *Die spezifi-
+schen Qualifikationsziele und Prüfungsgegenstände der einzelnen wählbaren Module
+sind abhängig vom jeweils gewählten Modul und derjeweiligen Modulbeschreibung zu
+entnehmen.
+(3) "Die Wahl der Wahlpflichtmodule für die Kernmodule Data Science erfolgt durch
+die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe des jeweiligen
+Wahlpflichtmoduls. ?Die Wahlpflichtmodule für die Kernmodule Data Science werden
+3
+```
+
+### OCR Seite 4
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+in Modulkatalogen geführt, welche spätestens eine Woche vor Semesterbeginn orts-
+üblich bekannt gemacht werden. ®Die Modulkataloge können mit Wirkung zum jeweils
+nächsten Semester durch den Prüfungsausschuss angepasst werden.
+(4) !Mögliche Prüfungen von Modulen des Departments Mathematik oder des Depart-
+ments of Data Science in den Wahlpflichtmodulen für die Kernmodule Data Science
+sind:
+1. schriftliche Prüfung, ggf. in elektronischer Form (Klausur 60-120 Min.),
+2. mündliche Prüfung (15-30 Min.), oder
+3. Übungsleistung (ca. 30-45 Seiten)
+sowie Kombinationen derselben.
+?2Mögliche Prüfungen in Seminarmodulen sind:
+1. Seminarleistung (Vortrag 30-80 Min.), ggf. mit Ausarbeitung (ca. 5-10 Seiten), oder
+2. Hausarbeit (ca. 5-10 Seiten).
+®In Fällen des 8 6 Abs. 2 Satz
+3 ABMPO/NatFak ist insbesondere die Kombination
+einer schriftlichen oder mündlichen
+Prüfung mit Leistungen
+i. S.
+d.
+8 6 Abs. 4
+ABMPO/NatFak möglich. *Art und Umfang von Prüfungen anderer Departments und
+Fakultäten können von den in Satz 1 und 2 genannten Prüfungsformen abweichen.
+SNäheres regelt die jeweils einschlägige Fachstudien- und Prüfungsordnung bzw.
+die jeweils einschlägige Modulbeschreibung.
+(5) 'Module des Departments Mathematik oder des Department of Data Science im
+Umfang von 5 ECTS Punkten setzen sich in der Regel aus Vorlesungen (2 SWS) mit
+Übungen (bis
+2 SWS) oder Seminaren (2 SWS) zusammen. ?Module des Departments
+Mathematik oder des Department of Data Science im Umfang von 10 ECTS-Punkten
+setzen sich in der Regel aus Vorlesungen (4 SWS) und Übungen (bis 3 SWS) zusam-
+men. ?Abweichende Verteilungen sind der jeweiligen Modulbeschreibung zu entneh-
+men. *Die Zusammensetzung der Module anderer Departments und Fakultäten kön-
+nen von der in Satz 1 und 2 genannten Regelung abweichen. °Näheres regelt die je-
+weils einschlägige Fachstudien- und Prüfungsordnung bzw. die jeweils einschlä-
+gige Modulbeschreibung und sind diesen zu entnehmen.
+8 48 Wahlpflichtmodule für den Wahlpflichtbereich Mathematik
+(1) 'Der Wahlpflichtbereich Mathematik (Nr. 19 gemäß Anlage 1) umfasst 5 bis 20
+ECTS-Punkte und gliedert sich in Vorlesungsmodule und Seminarmodule. ?Zusam-
+men mit dem Wahlpflichtbereich Informatik müssen Module in einen Gesamtumfang
+von 25 ECTS-Punkten abgeschlossen werden. Das Seminar soll in der Regel auf die
+Bachelorarbeit vorbereiten.
+(2) "Das übergeordnete Qualifikationsziel der mathematischen Wahlpflichtmodule liegt
+im Erwerb erweiterten Fachwissens und vertiefter Anwendungskompetenzen in der
+theoretischen und angewandten Mathematik. ?Während in der theoretischen Mathe-
+matik die Abstraktion mathematischer Konzepte im Mittelpunkt steht, fokussiert die an-
+gewandte Mathematik neben der Theorie- und Methodenentwicklung deren Anwen-
+dung auf praxisnahe Problemstellungen. ®Zudem wird ein forschungsbasiertes Quali-
+fikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fach-
+vertiefendes Wissen erlangt werden. *Daneben wird den Studierenden durch die Wahl-
+freiheit ermöglicht, ihr Profil im Hinblick auf ihre angestrebte Vertiefungsrichtung
+in
+Data Science zu schärfen. °Die spezifischen Qualifikationsziele und Prüfungsgegen-
+stände der einzelnen wählbaren Module sind abhängig vom jeweils gewählten Modul
+und der jeweils einschlägigen Modulbeschreibung zu entnehmen.
+4
+```
+
+### OCR Seite 5
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+le
+(3) 8 47 Abs. 3 bis 5 gelten entsprechend.
+8 49 Wahlpflichtmodule für den Wahlpflichtbereich Informatik
+(1) 'Der Wahlpflichtbereich Informatik (Nr. 20 gemäß Anlage 1) umfasst 5 bis 20
+ECTS-Punkte und gliedert sich in Vorlesungsmodule oder Seminarmodule. ?Zusam-
+men mit dem Wahlpflichtbereich Mathematik müssen Module in einen Gesamtumfang
+von 25 ECTS-Punkten abgeschlossen werden. ®Das Seminar soll in der Regel auf die
+Bachelorarbeit vorbereiten.
+(2) "Das übergeordnete Qualifikationsziel des Wahlpflichtbereichs Informatik besteht
+im Erwerb erweiterten Fachwissens, das für datengetriebene Anwendungen relevant
+ist, insbesondere in den Bereichen Programmierung, Algorithmen und Datenstruktu-
+ren, Datenbanken, Software Engineering, verteilte Systeme sowie Künstliche Intelli-
+genz und Maschinelles Lernen. *Zweitens wird damit ein forschungs- und praxisba-
+siertes Qualifikationsziel
+verfolgt, indem fachverwandte Forschungs- und Anwen-
+dungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden. ®Drittens wird
+den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihre an-
+gestrebte Vertiefungsrichtung in Data Science zu schärfen. *Die spezifischen Qualifi-
+kationsziele und Prüfungsgegenstände der einzelnen wählbaren Module sind abhän-
+gig vom jeweils gewählten Modul und der jeweils einschlägigen Modulbeschreibung
+zu entnehmen.
+(3) "Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Um-
+fang der Lehrveranstaltungen und Prüfungen der einzelnen Module sind abhängig vom
+konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils ein-
+schlägigen Fachstudien- und Prüfungsordnung bzw. derjeweiligen Modulbeschrei-
+bung zu entnehmen. ?Für Art und Umfang der Lehrveranstaltungen und der Prüfung
+von Modulen des Departments Mathematik oder des Department of Data Science gel-
+ten $ 47 Abs. 3 bis 5 entsprechend.
+8 50 Wahlpflichtmodule der Vertiefungsrichtungen
+(1)
+!In den Wahlpflichtmodulen der Vertiefungsrichtungen (Nrn. 21 und 22 der Anlage
+1) werden gezielt ausgewählte Kompetenzen der Mathematik und Informatik vertieft.
+2Damit wird ein forschungs- und praxisbasiertes übergeordnetes Qualifikationsziel ver-
+folgt, indem fachverwandte Forschungs- und Anwendungsmethoden vermittelt und
+fachvertiefendes Wissen erlangt werden. ®Durch die Wahlfreiheit wird den Studieren-
+den ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld oder
+ein Masterstudium zu schärfen.
+(2) !In den Vertiefungsrichtungen sind insgesamt 30 ECTS-Punkte zu erwerben. ?Da-
+bei ist entweder eine Vertiefungsrichtung der Mathematik, eine Vertiefungsrichtung der
+Informatik oder eine interdisziplinäre Vertiefungsrichtung zu wählen. Aus der gewähl-
+ten Vertiefungsrichtung sind mindestens 15 ECTS-Punkte und maximal 20 ECTS-
+Punkte zu erwerben. *Die verbleibenden 10 bis 15 ECTS-Punkte sind aus den nicht
+gewählten Vertiefungsrichtungen zu erbringen. °Es sind in den Vertiefungsrichtungen
+mindestens je 10 ECTS-Punkte aus dem Lehrangebot des Departments Mathematik
+oder des Department of Data Science und des Departments Informatik nachzuweisen.
+5
+```
+
+### OCR Seite 6
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+(3) 'Die Vertiefungsrichtungen unterscheiden sich in ihrer Departments-Zugehörigkeit
+und setzten sich aus Modulpaketen zusammen. ?Folgende Vertiefungsrichtungen der
+Mathematik und Data Science sind möglich:
+1.
+mathematische statistische Datenanalyse (MSD)
+2.
+Datenorientierte Optimierung (DO)
+3.
+Mathematische Theorie/Grundlagen des Data Science (MTG).
+®Folgende Vertiefungsrichtungen der Informatik sind möglich:
+4.
+Datenbanken und Wissensrepräsentation (DW)
+5.
+Maschinelles Lernen/Artificial Intelligence (Al).
+“Als interdisziplinäre Vertiefungsrichtung ist Simulation und Numerik (SN) wählbar.
+(4) "Die jeweiligen Vertiefungsrichtungen haben folgende fachspezifische Qualifikati-
+onsziele:
+1.
+In der Vertiefungsrichtung mathematische statistische Datenanalyse (MSD) wer-
+den Basismethodenkompetenzen erworben, die verschiedene Aspekte dieser Ver-
+tiefungsrichtung beinhalten wie die Statistik, Stochastik, die Bild- und Datenana-
+Iyse oder Risk Data Analytics.
+2.
+In der Vertiefungsrichtung Datenorientierte Optimierung (DO) werden Basismetho-
+denkompetenzen erworben, die verschiedene Aspekte dieser Vertiefungsrichtung
+beinhalten wie die lineare und nichtlineare System, kombinatorische, nichtlineare
+oder robuste Optimierung.
+3.
+In der Vertiefungsrichtung Mathematische Theorie/Grundlagen des Data Science
+(MTG) werden Basismethodenkompetenzen erworben, die verschiedene Aspekte
+dieser Studienrichtung beinhalten wie Differentialgleichungen und Algebra.
+4.
+In der Vertiefungsrichtung Datenbanken und Wissensrepräsentation (DW) werden
+Basismethodenkompetenzen erworben, die verschiedene Aspekte dieser Vertie-
+fungsrichtung beinhalten wie das Datenmanagement in verteilten Systemen, Data-
+Warehouse-Systeme, Big Data Technologien, Semantic Web Technologien.
+5.
+In der Vertiefungsrichtung Maschinelles Lernen/Artificial Intelligence (Al) werden
+Basismethodenkompetenzen erworben, die verschiedene Aspekte dieser Vertie-
+fungsrichtung beinhalten wie die symbolische und nicht-symbolische Kl, über-
+wachtes und nicht-überwachtes Lernen, Deep Learning.
+6.
+In der Vertiefungsrichtung Simulation und Numerik werden Basismethodenkom-
+petenzen erworben, die verschiedene Aspekte dieser Vertiefungsrichtung beinhal-
+ten wie das wissenschaftliche Rechnen, Differentialgleichungsmodelle und Diskre-
+tisierungsverfahren.
+(5) "Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Um-
+fang der Lehrveranstaltungen und Prüfungen der einzelnen Module sind abhängig vom
+konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils ein-
+schlägigen Fachstudien- und Prüfungsordnung bzw. derjeweiligen Modulbeschrei-
+bung zu entnehmen. ?Für Art und Umfang der Lehrveranstaltungen und der Prüfung
+von Modulen des Departments Mathematik oder des Department of Data Science gel-
+ten $ 47 Abs. 3 bis 5 entsprechend.
+8 51 Wahlpflichtmodule für die Anwendungsfächer
+(1) !Anwendungsfächer (Modul Nr. 23 gemäß Anlage 1) sind Modulpakete im Umfang
+von jeweils 10 ECTS-Punkten, von denen eines gewählt werden muss. ?Das überge-
+ordnete Qualifikationsziel der Anwendungsfächer liegt darin, es den Studierenden zu
+ermöglichen, sich erstens in mindestens einem weiteren Anwendungsbereich thema-
+6
+```
+
+### OCR Seite 7
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+tisch zu vertiefen. Zweitens wird damit ein methodologisches Qualifikationsziel ver-
+folgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche sowie so-
+zial- und gesellschaftswissenschaftliche Perspektiven auf weitere Gegenstandsfelder
+ausgeweitet oder Erfahrungen mit interdisziplinären Methoden gesammelt werden.
+“Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, im Hinblick auf das
+zukünftige Berufsfeld ein individuelles Profil auszubilden. ?Modulpakete könnenfür fol-
+gende Anwendungsfächer gewählt werden:
+1.
+Chemie:
+'Qualifikationsziele sind hier der Erwerb von Grundlagen in der allgemeinen und
+anorganischen Chemie mit berufsqualifizierenden Kompetenzen mit Fokus auf die
+Schnittstelle zwischen Data Science und Chemie. ?Die Qualifikationsziele richten
+sich beispielsweise auf den Erwerb von fachlichen und methodischen Basiskom-
+petenzen in der Anorganischen Chemie, der Physikalischen Chemie und der The-
+oretischen Chemie. ?Insbesondere in der Theoretischen Chemie erwerben die Stu-
+dierenden mathematische Grundlagen und deren Anwendung in der Thermodyna-
+mik sowie in der Quantenmechanik.
+2.
+Digital Humanities:
+"Qualifikationsziele sind hier der Kenntniserwerb an der Schnittstelle von Geistes-
+wissenschaften, digitalen Technologien und Data Science mit berufsqualifizieren-
+den Kompetenzen. ?Studierende erwerben die Fähigkeit, digitale Methoden, Werk-
+zeuge und Daten kritisch zu analysieren und erzielte Ergebnisse anzuwenden.
+®Die Beantwortung geisteswissenschaftlicher Fragestellungen mit computerge-
+stützten Verfahren soll erlernt werden, Ergebnisse sollen fachgerecht interpretiert
+werden.
+3.
+Geographie:
+'Qualifikationsziele umfassen die Vermittlung von Kenntnissen über geographi-
+sche Prozesse und deren räumliche Zusammenhänge der Geographie mit berufs-
+qualifizierenden Kompetenzen, mit Fokus auf die Schnittstelle zwischen Data Sci-
+ence und Geographie. ?Studierende erwerben die Fähigkeit, geographische Fra-
+gestellungen mithilfe von Datenanalyse, qualitativer und quantitativer Methoden
+zu analysieren und kritisch zu bewerten. ®Sie lernen, räumliche Daten auszuwer-
+ten und mithilfe geeigneter Darstellungsformen zu kommunizieren.
+4.
+Geowissenschaften:
+"Qualifikationsziele sind hier der Erwerb von geowissenschaftlichen Grundlagen
+mit berufsqualifizierenden Kompetenzen mit Fokus auf die Schnittstelle zwischen
+Data Science und Geowissenschaften. ?Die Qualifikationsziele richten sich bei-
+spielsweise auf den Erwerb von fachlichen und methodischen Basiskompetenzen
+in den Geowissenschaften, der angewandten Geologie, im fächerübergreifenden
+Denken im Themenfeld des Systems Erde, dem Klimawandel, der Rohstoffe und
+der Nachhaltigkeit sowie auf den Erwerb von Sozial-, Diskussions- und Handlungs-
+kompetenzen.
+5.
+Medical Data Science:
+!Die Qualifikationsziele im Fach Medical Data Science sind die Vermittlung grund-
+legender Kenntnisse in der medizinischen Datenanalyse mit berufsqualifizieren-
+den Kompetenzen mit Fokus auf die Schnittstelle zwischen Data Science und Me-
+dical Data Science. ?Im Fokus stehen Analyse, Verarbeitung und Interpretation
+medizinischer und gesundheitsbezogener Daten. °Ziel ist der Erwerb der Fähig-
+keit,
+statistische Methoden,
+Machine-Learning-Verfahren
+und datengetriebene
+Modelle verantwortungsvoll anzuwenden und kritisch zu bewerten.
+6.
+Physik:
+7
+```
+
+### OCR Seite 8
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+'Qualifikationsziele sind hier der Erwerb von Grundlagen in der Experimentalphy-
+sik mit berufsqualifizierenden Kompetenzen mit Fokus auf die Schnittstelle zwi-
+schen Data Science und Physikmodulen, bei denen Daten analysiert werden. ?Die
+Qualifikationsziele richten sich insbesondere auf den Erwerb von fachlichen und
+methodischen Basiskompetenzen der Experimentalphysik, welche beispielsweise
+die Mechanik, die Wärmelehre und die Elektrodynamik umfassen können.
+7.
+\Werkstoffwissenschaften:
+"Qualifikationsziele sind hier der Erwerb grundlegender Kenntnisse in Modulen der
+Werkstoffwissenschaften mit berufsqualifizierenden Kompetenzen mit Fokus auf
+die Schnittstelle zwischen Data Science und Werkstoffwissenschaften. ?Studie-
+rende erwerben Kompetenzen über den Aufbau, die Eigenschaften und das Ver-
+halten von Werkstoffen. ®Ziel ist es, Zusammenhänge zwischen Struktur, Verar-
+beitung und Anwendung von Materialien analysieren, charakterisieren und bewer-
+ten zu können.
+8.
+Wirtschaftsinformatik:
+'Qualifikationsziele sind hier der Erwerb grundlegender Kenntnisse an der Schnitt-
+stelle von Informatik und Betriebswirtschaftslehre sowie Data Science mit berufs-
+qualifizierenden Kompetenzen. ?Die Ziele bestehen darin, dass Studierende ler-
+nen, betriebliche Informationssysteme und digitale Geschäftsprozess zu analysie-
+ren, zu gestalten und zu verbessern.
+9.
+Artificial Intelligence in Biomedical Engineering (AlBE):
+'Qualifikationsziele sind der Erwerb grundlegender Kenntnisse an der Schnittstelle
+von Artificial Intelligence in Biomedical Engineering und Data Science. ?Ziel ist der
+Erwerb der Fähigkeit, medizinische und biologische Daten mithilfe von Data Sci-
+ence zu analysieren und zu modellieren. Studierende sollen lernen, Kl-gestützte
+Systeme kritisch zu bewerten, zu entwickeln und in interdisziplinären Kontexten
+einzusetzen.
+6Auf Antrag kann der Prüfungsausschuss zusätzliche Anwendungsfächer genehmi-
+gen.
+(3) "Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Um-
+fang der Lehrveranstaltungen und Prüfungen der einzelnen Module sind abhängig vom
+konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils ein-
+schlägigen Fachstudien- und Prüfungsordnung bzw. derjeweiligen Modulbeschrei-
+bung zu entnehmen. ?Für Art und Umfang der Lehrveranstaltungen und der Prüfung
+von Modulen des Departments Mathematik oder des Department of Data Science gel-
+ten $ 47 Abs. 4 und 5 entsprechend.
+& 52 Wahlmodule für technische und nicht-technische
+Schlüsselqualifikationen
+(1) "Die Wahlmodule für technische und nicht-technische Schlüsselqualifikationen um-
+fassen das Modulpaket Nr. 24 gemäß Anlage 1. ?Das übergeordnete Qualifikationsziel
+der Schlüsselqualifikationen liegt in dem Erwerb übergreifender Kompetenzen zur Be-
+rufs- und Forschungstätigkeit, z.B. in den Bereichen Projektmanagement, Teamwork
+oder Präsentationstechniken. ®Außerdem wird den Studierenden ermöglicht, sich au-
+Rerhalb des eigenen Fachs in fachfremden oder praxisnahen Anwendunggsfeldern brei-
+ter aufzustellen.
+(2) "Die Wahl der Module aus dem Bereich der Schlüsselqualifikationen erfolgt durch
+die Anmeldung zur (ersten) Prüfung im jeweiligen Modul bzw. durch Anmeldung zur
+Schulung bzw. zum Praktikum. ?Die Schlüsselqualifikationsmodule werden in einem
+8
+```
+
+### OCR Seite 9
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich
+bekannt gemacht wird. ®Der Modulkatalog kann mit Wirkung zum jeweils nächsten Se-
+mester durch den Prüfungsausschuss angepasst werden.
+(3) "Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Um-
+fang der Lehrveranstaltungen und Prüfungen der einzelnen Module sind abhängig vom
+konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils ein-
+schlägigen Fachstudien- und Prüfungsordnung bzw. Modulbeschreibung zu ent-
+nehmen. ?Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen
+des Departments Mathematik oder des Department of Data Science gelten 8 47 Abs.
+4 und 5 entsprechend.
+8 53 Bachelorarbeit
+(1) !Das Modul Bachelorarbeit umfasst insgesamt 10 ECTS-Punkte. ?Das Thema der
+Bachelorarbeit soll in seinen Anforderungen so gestaltet sein, dass es innerhalb von
+12 Wochen abgeschlossen werden kann. ®Das Thema der Bachelorarbeit kann nur
+einmal und mit Einwilligung der bzw. des Vorsitzenden des Prüfungsausschusses und
+nur innerhalb der ersten zwei Wochen der Bearbeitungszeit zurückgegeben werden.
+(2) "Zur Vergabe des Themas der Bachelorarbeit sind hauptberufliche Hochschulleh-
+rerinnen bzw. Hochschullehrer im Sinne des Art. 19 Abs. 1 BayHIG sowie habilitierte
+Dozentinnen bzw. Dozenten berechtigt, sofern sie hauptberuflich im Sinne des Art. 53
+Abs. 4 BayHIG in der Lehreinheit Mathematik und Data Science tätig sind (Betreue-
+rinnen bzw. Betreuer). ?Der Prüfungsausschuss kann Ausnahmen gestatten und re-
+geln.
+(3) 'Abweichend von 8 31 Abs.
+2 ABMPO/NatFak sind auch die am Department Infor-
+matik hauptberuflich im Sinne des Art. 53 Abs. 4 BayHIG tätigen hauptberuflichen und
+nebenberuflichen Hochschullehrerinnen bzw. Hochschullehrer im Sinne des Art. 19
+BayHIG zur Vergabe einer Bachelorarbeit berechtigt (Betreuerinnen bzw. Betreuer).
+(4) Die Bachelorarbeit wird abweichend von $ 31 Abs.
+7 ABMPO/NatFak nur von der
+Betreuerin bzw. dem Betreuer bewertet;
+8 17 Abs 4 Satz
+2 ABMPO/NatFak bleibt un-
+berührt.
+2. Masterprüfung
+8& 54 Zugangskommission für die Masterstudiengänge
+(1) Die Prüfung der Qualifikations- und Zugangsvoraussetzungen zum Masterstudium
+obliegt einer Zugangskommission, die für den Masterstudiengang Data Science nach
+Abs. 2 bestellt wird.
+(2)'Die Zugangskommission i.S.d.
+& 12 ABMPO/NatFak besteht aus drei stimmbe-
+rechtigten und einem beratenden Mitglied, die hauptberuflich im Sinne des Art. 53
+Abs. 4 BayHIG im Dienst der FAU stehen. ?Ein stimmberechtigtes Mitglied muss Pro-
+fessorin bzw. Professor der Lehreinheit Mathematik und Data Science sein. ®Ein wei-
+teres stimmberechtigtes Mitglied ist Professorin bzw. Professor des Departments In-
+formatik der Technischen Fakultät. *Das dritte stimmberechtigte sowie das beratende
+Mitglied sind wissenschaftliche Mitarbeiterinnen bzw. Mitarbeiter aus der Lehreinheit
+Mathematik und Data Science oder aus dem Department Informatik der Technischen
+9
+```
+
+### OCR Seite 10
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+Fakultät. °Die Mitglieder werden vom Fakultätsrat der Naturwissenschaftlichen Fakul-
+tät auf Vorschlag der Lehreinheit Mathematik und Data Science für die Dauer von drei
+Jahren bestellt; Wiederbestellung ist möglich.
+8 55 Qualifikation zum Masterstudium, Nachweise und
+Zugangsvoraussetzungen
+(1) Einschlägiger Abschluss im Sinne des 8 35 Abs. 1 Satz 1 Nr.
+1 ABMPOMathe/
+NatFak ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Mathe-
+matik, Technomathematik, Wirtschaftsmathematik, Informatik, Data Science oder Phy-
+sik an der FAU bzw. ein sonstiger hinsichtlich des im jeweiligen Abschluss vermittelten
+Kompetenzprofils nicht wesentlich unterschiedlicher gleichwertiger in- oder ausländi-
+scher Abschluss.
+(2) "Als weiterer Nachweis im Sinne des Abs. 2 Satz 6 Nr.
+3 Anlage ABMPOMathe/
+NatFak ist ein Nachweis über Sprachkenntnisse mindestens auf dem Niveau von
+„Englisch Level B 2 (Common European Framework of Reference for Languages —
+CEFR) Vantage oder Upper intermediate“ vorzulegen; dieser Nachweis kann insbe-
+sondere auch durch sechs Jahre Englischunterricht an einem deutschen Gymnasiums
+erbracht werden. ?Für Bewerberinnen und Bewerber, die ihre Hochschulzugangsbe-
+rechtigung bzw. ihren ersten berufsqualifizierenden Hochschulabschluss in englischer
+Sprache erworben haben, ist kein Nachweis der englischen Sprachkenntnisse erfor-
+derlich.
+(3) "Abweichend von Abs. 5 Satz 3 Anlage ABMPO/NatFak stellt die Zugangskom-
+mission anhand der schriftlichen Unterlagen die Qualifikation fest, wenn die Gesamt-
+note des fachspezifischen oder des fachverwandten bzw. des einschlägigen und im
+Hinblick auf die Qualifikation nicht wesentlich unterschiedlichen Abschlusses gemäß $
+35 Abs.
+1 Satz
+1
+Nr.
+1, Satz
+2 ABMPO/NatFak oder im Falle des & 35 Abs. 3
+ABMPO/NatFak der Durchschnitt der bislang erbrachten Leistungen 2,5 (gut) oder
+besser beträgt; im Übrigen bleibt Abs. 5 Satz
+3 Anlage ABMPO/NatFak unberührt.
+2Der Notendurchschnitt wird dabei dergestalt ermittelt, dass die Noten der in den ein-
+zelnen Modulen erzielten Leistungen nach der Gewichtung der ECTS-Punkte des je-
+weiligen Moduls gewichtet werden; Leistungen in größeren Modulen werden dement-
+sprechend stärker gewichtet als Leistungen in kleineren Modulen. ®?Abweichend von
+Abs. 5 Satz
+4 Anlage ABMPO/NatFak werden nur Bewerberinnen bzw. Bewerber zu
+einer mündlichen Zugangsprüfung eingeladen, deren Gesamtnote des einschlägigen
+oder eines sonstigen hinsichtlich des im jeweiligen Abschluss vermittelten Kompetenz-
+profils nicht wesentlich unterschiedlichen gleichwertigen in- oder ausländischen Ab-
+schlusses gemäß 8 35 Abs. 1 Satz 1 Nr. 1, Satz
+2 ABMPO/NatFak oder im Falle des
+8 35 Abs. 3 ABMPO/NatFak deren Durchschnitt der Leistungen in den mathematik-
+und informatiknahen Modulen schlechter als 2,5 (gut), jedoch mindestens 2,8 (befrie-
+digend) beträgt.
+(4) In der mündlichen Zugangsprüfung gemäß Abs. 5 Satz 4 ff. Anlage ABMPO
+Mathe/NatFat werden die Bewerberinnen bzw. Bewerber auf Basis folgender Kriterien
+beurteilt:
+1. Qualität der Kenntnisse in den fachspezifischen Grundlagen (Analysis, Lineare Al-
+gebra, Algorithmen und Datenstrukturen) (35 %),
+2. Qualität der Grundkenntnisse in zwei Fachgebieten innerhalb einer von der Bewer-
+berin bzw. dem Bewerber vorgeschlagenen Vertiefungsrichtungen gemäß $ 50
+Abs. 3 (35 %),
+10
+```
+
+### OCR Seite 11
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+3. wissenschaftliche Diskussionsfähigkeit auf Englisch über Inhalte der Mathematik
+und Informatik (30 %).
+(5) "Abweichend von Abs. 5 Sätzen 9 und 12 Anlage ABMPO/NatFak wird das Zu-
+gangsgespräch von zwei von der Zugangskommission bestellten promovierten Perso-
+nen, die hauptberuflich im Sinne des Art. 53 Abs. 4 BayHIG in der Lehreinheit Mathe-
+matik und Data Science oder am Department Informatik tätig sind, durchgeführt, wel-
+che nach dem Gespräch eine Empfehlung über die Zulassung oder Ablehnung der
+Bewerberinnen bzw. Bewerber gegenüber der Zugangskommission aussprechen. ?Die
+Zugangskommission entscheidet auf Basis dieser Empfehlung über die Gewährung
+oder Ablehnung des Zugangs.
+8 56 Studienrichtungen des Masterstudiums, Umfang und Gliederung
+(1) "Das Masterstudium besteht aus den in Anlage 2a bzw. 2b genannten Modulen.
+2Im Masterstudium müssen insgesamt 120 ECTS-Punkte gemäß folgender Aufteilung
+erworben werden:
+1.
+15 ECTS-Punkte aus Pflichtmodulen (Nrn. 1 bis
+3 gemäß Anlage 2 a bzw. 2b),
+2.
+30 ECTS-Punkte aus Wahlpflichtmodulen der Hauptstudienrichtung (Nr.
+4 gemäß
+Anlage 2 a bzw. 2b i. V.m. 857),
+3.
+20 ECTS-Punkte aus Wahlpflichtmodulen der Nebenstudienrichtungen (Nr. 5 ge-
+mäß Anlage 2a bzw. 2b i. V.m.$ 57),
+4.
+15 ECTS-Punkte aus Wahlpflichtmodulen der Anwendungsfächer (Nr.
+6 gemäß
+Anlage 2 a bzw. 2b sowie 8 58),
+5.
+5 ECTS-Punkte aus Wahlmodulen der technischen Schlüsselqualifikation (Nr. 7
+gemäß Anlage 2 a bzw. 2b sowie $ 59),
+6.
+ein Masterseminar im Umfang von 5 ECTS-Punkten aus dem Lehrangebot des
+Departments Mathematik, des Department of Data Science oder des Departments
+Informatik (Nr.
+8 gemäß Anlage 2 a bzw. 2b),
+7.
+30 ECTS-Punkte aus der Masterarbeit in der Hauptstudienrichtung (Nr.
+9 gemäß
+Anlage 2 a bzw. 2b sowie 8 60).
+(2) "Der Masterstudiengang Data Science wird in einer der folgenden Studienrichtun-
+gen durchgeführt:
+1.
+Databased optimization (DO),
+2.
+Mathematische Theorie/Grundlagen der Data Science (MTG),
+3.
+Data bases and knowledge representation (DW),
+4.
+Machine Learning/Artificial Intelligence (Al),
+5.
+Simulation and Numerics (SN),
+6.
+Mathematische statistische Datenanalyse (MSD);
+Näheres regelt 8 57 Abs. 2.
+2Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber bei der Antragstel-
+lung auf Zugang zum Masterstudium vorgeschlagen, kann jedoch im Laufe des Studi-
+ums gewechselt werden. ®Die gewählte Studienrichtung wird als Hauptstudienrichtung,
+die nicht gewählten Studienrichtungen als Nebenstudienrichtungen bezeichnet. *Es
+sind in den Studienrichtungen mindestens 20 ECTS-Punkte aus dem Lehrangebot der
+Lehreinheit Mathematik und Data Science und mindestens 20 ECTS-Punkte aus dem
+Angebot des Departments Informatik nachzuweisen.
+11
+```
+
+### OCR Seite 12
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+| Eh\U
+lu
+8 57 Wahlpflichtmodule der Studienrichtungen
+(1) 'In den Wahlpflichtmodulen der Studienrichtungen (Modulgruppe Nrn. 4 und 5 ge-
+mäß Anlage 2a bzw. 2b) werden wissenschaftliche Methodenkompetenzen zur Ein-
+ordnung mathematischer Strukturen, zu Modellierung und zu Problemlösestrategien
+sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erwor-
+ben. ?Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fach-
+verwandte Forschungsmethoden erworben und fachvertiefendes Wissen erlangt wer-
+den. °Es wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick
+auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen.
+(2) 'Die einzelnen Studienrichtungen gemäß 8 56 Abs. 2 Satz 1 haben die folgenden
+fachspezifischen Qualifikationsziele:
+1.
+In der Studienrichtung Datenorientierte Optimierung (DO) werden Methodenkom-
+petenzen erworben, die verschiedene Aspekte dieser Studienrichtung beinhalten
+wie die lineare und nichtlineare System, kombinatorische, nichtlineare oder ro-
+buste Optimierung.
+2.
+Inder Studienrichtung Mathematische Theorie/Grundlagen der Data Science wer-
+den Methodenkompetenzen erworben, die verschiedene Aspekte dieser Studien-
+richtung beinhalten wie Differentialgleichungen und Algebra.
+3.
+In der Studienrichtung Datenbanken und Wissensrepräsentation werden Metho-
+denkompetenzen erworben, die verschiedene Aspekte dieser Studienrichtung be-
+inhalten wie das Datenmanagement in verteilten Systemen, Data-Warehouse-
+Systeme, Big Data Technologien, Semantic Web Technologien.
+4.
+In der Studienrichtung Machine Learning/Artificial
+Intelligence werden Metho-
+denkompetenzen erworben, die verschiedene Aspekte dieser Studienrichtung be-
+inhalten wie die symbolische und nicht-symbolische Kl, überwachtes und nicht-
+überwachtes Lernen, Deep Learning.
+5.
+In der Studienrichtung Simulation und Numerik des Data Science werden Metho-
+denkompetenzen erworben, die verschiedene Aspekte dieser Studienrichtung be-
+inhalten wie die der Simulation, Modellierung, wissenschaftliches Rechnen oder
+Numerik partieller Differentialgleichungen.
+6.
+Inder Studienrichtung Mathematische statistische Datenanalyse des Data Science
+werden Methodenkompetenzen erworben, die verschiedene Aspekte dieser Stu-
+dienrichtung beinhalten wie die Statistik, Stochastik, die Bild- und Datenanalyse
+oder Risk Data Analytics.
+(3) Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen wähl-
+baren Module sind abhängig vom jeweils gewählten Modul und der jeweils einschlägi-
+gen Modulbeschreibung zu entnehmen.
+(4) "Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Um-
+fang der Lehrveranstaltungen und Prüfungen der einzelnen Module sind abhängig vom
+konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils ein-
+schlägigen Fachstudien- und Prüfungsordnung bzw. derjeweiligen Modulbeschrei-
+bung zu entnehmen. ?Für Art und Umfang der Lehrveranstaltungen und der Prüfung
+von Modulen des Departments Mathematik oder des Department of Data Science gel-
+ten 8 47 Abs. 3 bis 5 entsprechend.
+8 58 Wahlpflichtmodule für die Anwendungsfächer
+(1) "Wahlpflichtmodule für die Anwendungsfächer (Modulgruppe Nr. 6 gemäß Anlage
+2a bzw. 2b) sind Modulpakete im Umfang von jeweils insgesamt 15 ECTS-Punkten.
+12
+```
+
+### OCR Seite 13
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+2Das übergeordnete Qualifikationsziel der Anwendungsfächer liegt darin, es den Stu-
+dierenden zu ermöglichen, sich erstens in einem weiteren Anwendungsbereich thema-
+tisch zu vertiefen. ?Zweitens wird damit ein methodologisches Qualifikationsziel ver-
+folgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche sowie so-
+zial- und gesellschaftswissenschaftliche Perspektiven auf weitere Gegenstandsfelder
+ausgeweitet oder Erfahrungen mit interdisziplinären Methoden gesammelt werden.
+“Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, im Hinblick auf das
+zukünftige Berufsfeld ein individuelles Profil auszubilden. ?Modulpakete könnenfür fol-
+gende Anwendungsfächer gewählt werden:
+1.
+Chemistry:
+'Qualifikationsziele sind hier der Erwerb von fortgeschrittenen Kenntnissen in der
+anorganischen Chemie mit berufsqualifizierenden Kompetenzen mit Fokus auf die
+Schnittstelle zwischen Data Science und Chemie. ?Die Qualifikationsziele richten
+sich beispielsweise auf den Erwerb von fachlichen und methodischen Basiskom-
+petenzen in der Anorganischen Chemie, der Physikalischen Chemie und der The-
+oretischen Chemie. *Insbesondere in der Theoretischen Chemie erwerben die Stu-
+dierenden mathematische Grundlagen und deren Anwendung in der Thermodyna-
+mik sowie in der Quantenmechanik.
+2.
+Digital Humanities:
+'Qualifikationsziele sind hier der Kenntniserwerb an der Schnittstelle von Geistes-
+wissenschaften, digitalen Technologien und Data Science mit berufsqualifizieren-
+den Kompetenzen. ?Studierende erwerben die Fähigkeit, digitale Methoden, Werk-
+zeuge und Daten kritisch zu analysieren und erzielte Ergebnisse anzuwenden.
+®Die Beantwortung geisteswissenschaftlicher Fragestellungen mit computer-ge-
+stützten Verfahren soll erlernt werden, Ergebnisse sollen fachgerecht interpretiert
+werden.
+3.
+Geographie:
+'Qualifikationsziele umfassen die Vermittlung von Kenntnissen über geographi-
+sche Prozesse und deren räumliche Zusammenhänge der Geographie mit berufs-
+qualifizierenden Kompetenzen, mit Fokus auf die Schnittstelle zwischen Data Sci-
+ence und Geographie. ?Studierende erwerben die Fähigkeit, geographische Fra-
+gestellungen mithilfe von Datenanalyse, qualitativer und quantitativer Methoden
+zu analysieren und kritisch zu bewerten. ®Daneben soll erlernt werden, räumliche
+Daten auszuwerten und mithilfe geeigneter Darstellungsformen zu kommunizie-
+ren.
+4.
+Geoscience:
+"Qualifikationsziele sind hier der Erwerb von geowissenschaftlichen Kenntnissen
+mit berufsqualifizierenden Kompetenzen mit Fokus auf die Schnittstelle zwischen
+Data Science und Geowissenschaften. ?Die Qualifikationsziele richten sich bei-
+spielsweise auf den Erwerb von fachlichen und methodischen Kompetenzen in
+den Geowissenschaften, der angewandten Geologie, im fächerübergreifenden
+Denken im Themenfeld des Systems Erde, dem Klimawandel, der Rohstoffe und
+der Nachhaltigkeit sowie auf den Erwerb von Sozial-, Diskussions- und Handlungs-
+kompetenzen.
+5.
+International Information Systems
+'Qualifikationsziele sind hier der Erwerb von fortgeschrittenen Kenntnissen in In-
+ternational Information Systems mit berufsqualifizierenden Kompetenzen, mit Fo-
+kus auf die Schnittstelle zwischen Data Science und International Information Sys-
+tems. ?Studierende erwerben die Fähigkeit, internationale Informationssysteme zu
+analysieren, zu gestalten und datenbasierte Entscheidungen in globalen Kontex-
+ten zu unterstützen. ®Daneben soll erlernt werden, Methoden der Datenanalyse,
+13
+```
+
+### OCR Seite 14
+
+```
+Friedrich-Alexander-Universität
+IE N U
+Erlangen-Nürnberg
+Informationsmodellierung und Systementwicklung auf internationale wirtschaftli-
+che Fragestellungen anzuwenden.
+6.
+Medical Data Science:
+Die Qualifikationsziele im Fach Medical Data Science sind die Vermittlung fortge-
+schrittener Kenntnisse in der medizinischen Datenanalyse mit berufsqualifizieren-
+den Kompetenzen mit Fokus auf die Schnittstelle zwischen Data Science und Me-
+dical Data Science. ?Im Fokus stehen Analyse, Verarbeitung und Interpretation
+medizinischer und gesundheitsbezogener Daten. °Ziel ist der Erwerb der Fähig-
+keit,
+statistische Methoden,
+Machine-Learning-Verfahren
+und datengetriebene
+Modelle verantwortungsvoll anzuwenden und kritisch zu bewerten.
+7.
+Physik:
+'Qualifikationsziele sind hier der Erwerb von fortgeschrittenen Kenntnissen in der
+Experimentalphysik mit berufsqualifizierenden Kompetenzen mit Fokus auf die
+Schnittstelle zwischen Data Science und Physikmodulen, bei denen Daten analy-
+siert werden. ?Die Qualifikationsziele richten sich insbesondere auf den Erwerb
+von fachlichen und methodischen Basiskompetenzen der Experimentalphysik,
+welche beispielsweise die Mechanik, die Wärmelehre und die Elektrodynamik um-
+fassen können.
+8.
+Material Science:
+'Qualifikationsziele sind hier der Erwerb fortgeschrittener Kenntnisse in Modulen
+der Werkstoffwissenschaften mit berufsqualifiziereenden Kompetenzen mit Fokus
+auf die Schnittstelle zwischen Data Science und Werkstoffwissenschaften. ?Stu-
+die-rende erwerben Kompetenzen über den Aufbau, die Eigenschaften und das
+Ver-halten von Werkstoffen. $Ziel ist es, Zusammenhänge zwischen Struktur, Ver-
+arbeitung und Anwendung von Materialien analysieren, charakterisieren und be-
+werten zu können.
+9.
+Artificial Intelligence in Biomedical Engineering (AlBE).
+'Qualifikationsziele sind der Erwerb fortgeschrittener Kenntnisse an der Schnitt-
+stelle von Artificial Intelligence in Biomedical Engineering und Data Science. ?Ziel
+ist der Erwerb der Fähigkeit, medizinische und biologische Daten mithilfe von Data
+Science zu analysieren und zu modellieren. ®Studierende sollen lernen, Kl-ge-
+stützte Systeme kritisch zu bewerten, zu entwickeln und in interdisziplinären Kon-
+texten einzusetzen.
+10. Multimedia Engineering
+'Qualifikationsziele sind hier der Erwerb von fortgeschrittenen Kenntnissen im Mul-
+timedia Engineering mit berufsqualifizierenden Kompetenzen, mit Fokus auf die
+Entwicklung, Verarbeitung und Integration multimedialer Systeme. ?Studierende
+sollen die Fähigkeit erwerben, Multimediaanwendungen zu konzipieren, zu imple-
+mentieren und technisch zu bewerten. °Sie sollen lernen, Audio-, Video- sowie
+Grafiktechnologien mithilfe geeigneter Methoden und Werkzeuge anzuwenden.
+6Auf Antrag kann der Prüfungsausschuss zusätzliche Anwendungsfächer genehmi-
+gen.
+(2) "Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Um-
+fang der Lehrveranstaltungen und Prüfungen der einzelnen Module sind abhängig vom
+konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils ein-
+schlägigen Fachstudien- und Prüfungsordnung bzw. Modulbeschreibung zu ent-
+nehmen. ?Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen
+des Departments Mathematik oder des Department of Data Science gelten 8 47 Abs.
+4 und 5 entsprechend.
+14
+```
+
+### OCR Seite 15
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N U
+8 59 Wahlmodule für technische Schlüsselqualifikationen
+(1) 'Das Modulpaket Nr.
+7 gemäß Anlage 2a bzw. 2b umfasst die Wahlmodule für
+technische
+Schlüsselqualifikationen.
+?Das
+übergeordnete
+Qualifikationsziel
+der
+Schlüsselqualifikationen liegt in dem Erwerb übergreifender Kompetenzen zur Berufs-
+und Forschungstätigkeit, z.B. in den Bereichen Projektmanagement, Teamwork oder
+Präsentationstechniken. Außerdem wird den Studierenden ermöglicht, sich außerhalb
+des eigenen Fachs in fachfremden oder praxisnahen Anwendunggsfeldern breiter auf-
+zustellen. *Technische Schlüsselqualifikationen können durch folgende Modulange-
+bote belegt werden:
+1.
+erfolgreicher Nachweis ausgewählter Module der Informatik.
+2.
+erfolgreicher Nachweis ausgewählter Module der Mathematik.
+3. Ausübung einer zweisemestrigen Tutorentätigkeit in der Mathematik oder in der
+Informatik mit Teilnahme an einer dazugehörigen Tutorenschulung.
+4. Teilnahme an einem vom Prüfungsausschuss genehmigten Betriebspraktikum von
+(mindestens) vier Wochen Dauer.
+(2) "Die Wahl der Module aus dem Bereich der Schlüsselqualifikationen erfolgt durch
+die Anmeldung zur (ersten) Prüfung im jeweiligen Modul bzw. durch Anmeldung zur
+Schulung bzw. zum Praktikum. ?Die Schlüsselqualifikationsmodule werden in einem
+Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich
+bekannt gemacht wird. ?Der Modulkatalog kann mit Wirkung zum jeweils nächsten Se-
+mester durch den Prüfungsausschuss angepasst werden.
+(3) "Die spezifischen Qualifikationsziele und Prüfungsgegenstände sowie Art und Um-
+fang der Lehrveranstaltungen und Prüfungen der einzelnen Module sind abhängig vom
+konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils ein-
+schlägigen Fachstudien- und Prüfungsordnung bzw. Modulbeschreibung zu ent-
+nehmen. ?Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen
+des Departments Mathematik oder des Department of Data Science gelten 8 47 Abs.
+4 und 5 entsprechend.
+& 60 Masterarbeit
+(1) 'Die Masterarbeit dient dazu, die Fähigkeit zu selbstständiger Bearbeitung von wis-
+senschaftlichen Aufgabenstellungen aus dem Bereich Data Science nachzuweisen.
+2Die Masterarbeit behandelt in der Regel ein wissenschaftliches Thema aus der ge-
+wählten Studienrichtung. Sie ist in ihren Anforderungen so zu stellen, dass sie inner-
+halb von sechs Monaten abgeschlossen werden kann. *Das Thema der Masterarbeit
+kann abweichend von $ 38 Abs. 5 ABMPO/NatFak nur einmal und mit Einwilligung
+der bzw. des Vorsitzenden des Prüfungsausschusses und nur innerhalb der ersten
+zwei Wochen der Bearbeitungszeit zurückgegeben werden.
+(2) "Zur Vergabe des Themas der Masterarbeit sind hauptberufliche Hochschullehre-
+rinnen bzw. Hochschullehrer im Sinne des Art. 19 Abs.
+1 BayHIG sowie habilitierte
+Dozentinnen bzw. Dozenten berechtigt, sofern sie hauptberuflich im Sinne des Art. 53
+Abs. 4 BayHIG in der Lehreinheit Mathematik und Data Science tätig sind (Betreue-
+rinnen bzw. Betreuer). ?Der Prüfungsausschuss kann Ausnahmen gestatten und re-
+geln.
+(3) Abweichend von $ 31 Abs.
+2 ABMPO/NatFak sind auch die am Department Infor-
+matik hauptberuflich im Sinne des Art. 53 Abs. 4 BayHIG tätigen hauptberuflichen und
+15
+```
+
+### OCR Seite 16
+
+```
+Friedrich-Alexander-Universität
+|
+Erlangen-Nürnberg
+|N
+nebenberuflichen Hochschullehrerinnen bzw. Hochschullehrer im Sinne des Art. 19
+BayHIG zur Vergabe einer Bachelorarbeit berechtigt (Betreuerinnen bzw. Be-treuer).
+(4) Die Masterarbeit wird abweichend von 8 31 Abs. 7 ABMPO/NatFak nur von der
+Betreuerin bzw. dem Betreuer bewertet;
+8 17 Abs 4 Satz
+2 ABMPO/NatFak bleibt un-
+berührt.
+Ill. Teil: Schlussbestimmungen
+8 61 Inkrafttreten
+(1) 'Diese Fachstudien- und Prüfungsordnung tritt am 1. April 2026 in Kraft. ?Sie gilt
+für alle Studierenden, die das Studium ab dem Sommersemester 2026 aufnehmen
+werden.
+(2) "Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang
+Mathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Univer-
+sität Erlangen-Nürnberg (FAU) — FPOMathe — vom 11. März 2015, zuletzt geändert
+durch Satzung vom 5. August 2021, tritt bezogen auf die Regelungen zum Bachelor-
+studiengang mit Wirkung zum 30. September 2031, bezogen auf die Regelungen zum
+Masterstudiengang mit Wirkung zum 31. März 2030 außer Kraft. ?Prüfungen nach der
+in Satz
+1 genannten FPOMathe werden sukzessive — dem Muster-Studienverlauf ent-
+sprechend - eingestellt und bezogen auf das Bachelorstudium spätestens im Som-
+mersemester 2031, bezogen auf das Masterstudium spätestens im Wintersemester
+2029/2030 letztmals angeboten.
+16
+```
+
+### OCR Seite 17
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Anlage 1: Studienverlaufsplan Bachelorstudiengang Data Science
+|
+Workload-Verteilung pro Semester
+Ge-
+in ECTS-Punkten
+Faktor
+Nr.
+Modulbezeichnung
+Lehrveranstaltung
+samt
+a Aue
+RUE Get
+Modul-
+vIlöolp|s!|r|[eers|
+1
+2.
+3.
+4.
+5.
+6.
+9
+note
+Sem. | Sem. | Sem. | Sem. | Sem. | Sem.
+Seminar Data Science in
+Seminar Data Science
+Klausur
+F
+.
+in Forschung und
+2
+5
+.
+orschung und Industrie
+Industrie
+90 Min.
+an
+Methoden für die
+Methoden für die mathema-
+mathematische Daten-
+2
+1
+5
+Klausur 60 Min.
+1
+tische Datenanalyse
+8
+analyse
+35
+Wahlpflichtmodule aus dem
+& vo
+Katalog für Machine Learn- | vgl. 8 47 Abs. 5
+5
+vgl.
+847 Abs. 4
+1
+g 2
+ing gem. 8 47
+£ ö
+Wahlpflichtmodule aus dem
+Katalog für Projekt Data Sci- | vgl.
+847 Abs. 5
+0-5
+0-5
+vgl. 847 Abs. 4
+1
+ence gem. 847
+1 em Krman u cn
+ENEIEIEICHE HEN ICHIH
+EC HC BE BE
+Vorlesung
+4
+Le
+Data Science 1
+Klausur 120 Min
+Mathematik für Data
+=
+0
+.
+Übung
+(100%). und
+Science 1
+D
+.
+2
+10
+u
+.
+GOP
+ata Science 1
+Übungsleistung
+x
+Tafelübung
+2
+(unbenotet, 0%)
+5 z
+Data Science 1
+:
+BET Pa
+EZ DE ED
+EEE EEE
+20
+.
+4
+.
+>=
+ge
+Data Science 2
+Klausur 120 Min.
+o£
+Mathematik für Data
+-
+0
+eo
+Science 2
+Übung
+2
+10
+„ (100%) und
+1
+E =
+GoP
+Data Science 2
+Übunggsleistung
+=
+Tafelübung
+2
+(unbenotet, 0%)
+3 E
+Data Science 2
+=
+Grundlagen der
+{1}
+s
+Einführung in die Algorith-
+Knowledge Discovery in
+vgl. FPOINF
+5
+vgl. FPOINF
+4
+Databases mit Übung GOP
+"
+17
+```
+
+### OCR Seite 18
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Be
+Workload-Verteilung pro Semester
+Ge-
+in ECTS-Punkten
+Faktor
+Nr.
+Modulbezeichnung
+Lehrveranstaltung
+samt
+Zu Aue DEUE En
+Modul-
+vlölp|s|rjeers|
+1
+2.
+3.
+4.
+5,
+6.
+9
+note
+Sem. | Sem. | Sem. | Sem. | Sem. | Sem.
+Summe Grundlagenmodule der Mathematik und
+.
+37.5
+Informatik
+18
+```
+
+### OCR Seite 19
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Be
+Workload-Verteilung pro Semester
+Ge-
+in ECTS-Punkten
+Faktor
+Nr.
+Modulbezeichnung
+Lehrveranstaltung
+samt
+ZuET En
+Modul-
+v[üıPr|s | Tr
+|FCTS| ) sem.2. sem.|3. Sem. |4. Sem.\5. Sem. |6. Sem.
+1
+Lineare und kombinatorische
+vgl. FPOWiMathe
+10
+vgl. FPOWiMathe
+1
+Optimierung
+Einführung in die
+vgl. FPOTechnoMathe
+10
+vgl. FPOTechnoMathe |
+1
+Numerik
+Stochastische
+.
+.
+=.
+5
+Farallole Und Funktionale
+vgl. FPOINF
+5
+vgl. FPOINF
+1
+u £
+rogrammierung
+o—
+°o0
+gm
+.
+rB-
+Einführung in das Software
+vgl. FPOINF
+5
+vgl. FPOINF
+1
+35
+Engineering
+os
+>}
+ie
+ze
+inführung in
+= 16 Ben 2
+vgl. 8 FPOINF
+7,5
+7,5
+vgl. FPOINF
+1
+=
+Grundlagen der Logik in der
+Summe Aufbaumodule
+der Mathematik und Informatik
+1
+Zwei von drei Modulen sind zu wählen. Das dritte Modul kann im Wahlpflichtbereich Mathematik eingebracht werden.
+2
+Drei von sechs Modulen sind zu wählen. Die anderen Module können im Wahlpflichtbereich Informatik eingebracht werden.
+19
+```
+
+### OCR Seite 20
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+u
+Workload-Verteilung pro Semester
+in ECTS-Punkten
+Faktor
+Nr.
+Modulbezeichnung
+Lehrveranstaltung
+Gesamt
+ev uud Umfang der
+Modul-
+.
+ECTS
+Prüfung
+note
+V|UIıP|S|T
+1. Sem.|2. Sem.|3. Sem.
+|4. Sem.|5. Sem.|6. Sem.
+=
+Wahlpflichtmodule aus dem
+<.5
+Katalog für Wahlpflichtbe-
+_
+_
+E 8 g
+reich Mathematik
+vgl. 8 48 Abs. 3
+5-15
+0-5
+vgl. 48 Abs. 3
+1
+= F £
+gemäß 8 48
+o2%0
+Ex
+Wahlpflichtmodule aus dem
+2 5%
+Katalog für Wahlpflichtbe-
+vgl.
+8 49 Abs. 3
+5-15
+0-5
+vgl. 49 Abs. 3
+1
+SoE
+reich Informatik gemäß 8 49
+zo006
+oa27
+Wahlpflichtmodule aus dem
+5
+Katalog der gewählten Ver-
+vgl.
+8 50 Abs. 5
+10-20 | 0-10
+vgl.
+8 50 Abs. 5
+1
+er
+tiefungsrichtung gemäß 8 50
+=
+2
+‚Oo
+a
+er
+Wahlpflichtmodule aus den
+3
+Katalogen der nicht gewähl-
+8
+ten Vertiefungsrichtungen
+vgl. 8 50 Abs. 5
+0-10
+0-10
+vgl. 8 50 Abs. 5
+1
+©
+gemäß 8 50
+>
+3
+Aus den Wahlpflichtbereichen Mathematik und Informatik muss mindestens ein Modul im Umfang von 5 ECTS-Punkten und maximal Module im Umfang von 20 ECTS-Punkten abgeschlossen
+werden. In beiden Wahlpflichtbereichen zusammen müssen Module in einen Gesamtumfang von 20 ECTS-Punkten abgeschlossen werden.
+*
+Es sind in den Vertiefungsrichtungen mindestens je 10 ECTS-Punkte aus dem Lehrangebot des Departments Mathematik oder des Department of Data Science und des Departments
+Informatik nachzuweisen.
+20
+```
+
+### OCR Seite 21
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+u
+Workload-Verteilung pro Semester
+in ECTS-Punkten
+Faktor
+Nr.
+Modulbezeichnung
+Lehrveranstaltung
+En
+ZuET En
+Modul-
+vlü/p|s/|r
+1. Sem.|2. Sem.|3. Sem. |4. Sem.|5. Sem. |6. Sem.
+=
+EN
+Wahlpflichtmodule aus dem
+SEE
+Katalog zu den Anwen-
+vgl. 8 51 Abs. 3
+5
+5
+vgl. 8 51 Abs. 3
+1
+ers
+dungsfächern gemäß $ 51
+FE
+c
+< ||
+Annmaen
+EHIEH EA CHIC EC IC DH DH DH ICH I
+E09
+Wahlpflichtmodule aus dem
+[= °
+Katalog der technischen und
+vgl.
+8 52 Abs. 3
+5
+25
+0-5
+0-5
+vgl.
+8 52 Abs. 3
+4
+u5
+nicht-technischen Schlüssel-
+9.
+j
+’
+9.
+j
+3.2
+qualifikationen gemäß 8 52
+gs
+5 [2]
+o2
+Summe Technische und nicht-technische
+Schlüsselqualifikationen
+a
+.
+53
+[rel
+Ko} =
+z—°s
+a
+Summe BA-Abschlussarbeit
+00
+0
+20
+10
+0
+0
+0
+0
+0
+15
+70
+59
+10
+8
+141
+180
+30
+30
+30
+30
+30
+30
+Summe SWS (mind.)? und ECTS-Punkte
+Erläuterungen:
+Übunggsleistung: vgl. 8 6 Abs.
+4 ABMPO/NatFak.
+21
+```
+
+### OCR Seite 22
+
+```
+Friedrich-Alexander-Universität
+E
+Erlangen-Nürnberg
+Anlage 2a: Studienverlaufsplan Masterstudiengang Data Science
+Workload-Verteilung pro
+SWS
+Gesamt
+Semester in ECTS-
+Art und Umfan
+Faktor
+Nr.
+Modulbezeichnung
+Lehrveranstaltung
+Punkten
+.
+9 | Modul-
+ECTS
+der Prüfung
+Note
+V
+Ü
+P
+Ss
+1. Sem.
+|2. Sem.
+|3. Sem.
+|4. Sem.
+Vorlesung
+2
+3
+Mathematics of Learning
+Ki
+Mathematics of Learning
+(60 Min)
+1
+Übung
+4
+9
+Mathematics of Learning
+Vorlesung Selected Topics
+2
+3
+on
+.
+in Mathematics of Learning
+Selected
+Topics in Mathematics of
+Klausur
+1
+Learning
+u.
+(60 Min.)
+Übung Selected Topics in
+4
+2
+Mathematics of Learning
+Wahlpflichtmodule aus
+dem Katalog der gewählten
+vgl.
+8 57 Abs. 4
+10
+10
+10
+vgl. 8 57 Abs. 4
+1
+Hauptstudienrichtung gemäß 8 57
+Wahlpflichtmodule aus
+den Katalogen der nicht gewähl-
+ten Nebenstudienrichtungen
+vgl. 8 57 Abs. 4
+10
+10
+vgl. 8 57 Abs. 4
+1
+gemäß 8 57
+22
+```
+
+### OCR Seite 23
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Workload-Verteilung pro
+SWS
+Gesamt
+Semester in ECTS-
+Art und Umfan
+Faktor
+Nr.
+Modulbezeichnung
+Lehrveranstaltung
+ECTS
+Punkten
+d
+Mr
+9 | Modul-
+—
+er Prüfung
+Note
+V
+U
+P
+Ss
+1. Sem.
+|2. Sem.
+|3. Sem.
+|4. Sem.
+Summe Wahlpflichtbereich
+Nebenstudienrichtung
+o
+Wahlpflichtmodule aus dem Kata-
+Se
+109 der
+vgl. 8 58 Abs. 2
+5
+0-5 | 5-10
+vgl. 8 58 Abs. 2
+1
+EB
+Anwendungsfachmodule
+j
+j
+j
+j
+5:
+gemäß 8 58
+3 4
+{=}
+<
+Summe Anwendungsfach
+15
+5
+0-5
+5-10
+0
+ö
+®
+ı
+R
+e-c
+Wahlmodule der Technischen
+_
+_
+832 | 7 | Schlüsselqualifikation gemäß $ 59
+vgl. $ 59 Abs. 3
+05 | 08
+vgl. 3 59 Abs. 3
+!
+e:5
+558
+eos
+Summe Technische
+o
+Schlüsselqualifikationen
+Seminarleistung,
+Masterseminar gemäß
+.
+gem.
+u
+5:
+|
+3 6 ABMPO/NatFak
+Masterseminar
+?
+a
+8 6 ABMPO/Nat-
+1
+ne
+Fak
+=.
+Summe Masterseminar
+0
+0
+0
+2
+5
+0
+0
+5
+0
+Masterarbeit
+.
+Masterarbeit
+4
+2
+0
+2
+Summen SWS (mind.) und ECTS-Punkte
+120
+30
+30
+30
+30
+8
+Erläuterungen:
+Seminarleistung: vgl. 8 6 Abs. 4 und 5 ABMPO/NatFak
+23
+```
+
+### OCR Seite 24
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+Anlage 2b: Studienverlaufsplan Masterstudiengang Data Science, Teilzeit
+ww Ge-
+Workload-Verteilung pro Semester
+Art und Umfang | Faktor
+Nr.
+Modulbezeichnung
+Lehrveranstaltung
+-
+samt
+1
+2
+3
+4
+5
+6
+7
+8
+der
+Modul-
+V[UIP]S|T|
+ECTS Sem. | Sem. |Sem. |Sem. |Sem. |Sem. |Sem. | Sem.
+Prufung
+aus
+Vorlesung
+Mathematics of
+2
+Mathematics of Learning
+Leamıng
+5
+Klausur (60 Min.)
+1
+ung
+og
+Learning
+o
+E a
+Vorlesung Selected
+© S
+Topics in Mathematics | 2
+te}
+Selected Topics in Mathe-
+|ofLearning
+5
+Klausur (60 Min.)
+4
+matics of Learning
+Übung Selected Top-
+"
+ics in Mathematics of
+1
+Learning
+Jammonmmamausama — jeal | [mlslslslel
+II
+a
+Wahlpflichtmodule aus dem
+‚©
+Katalog der gewählten
+je)
+-
+-
+-
+-
+-
+3 S
+Hauptstudienrichtung
+vgl. 8 57 Abs. 4
+0-10 | 0-10 | 0-10 | 0-10 | 0-10
+vgl. 8 57 Abs. 4
+1
+nz
+gemäß 8 57
+Qao
+3
+F
+Wahlpflichtmodule aus den
+‚©
+Katalogen der nicht gewähl-
+je}
+-
+-
+_
+_
+_
+3 S
+ten Nebenstudienrichtungen
+vgl. 8 57 Abs. 4
+0-10 | 0-10 | 0-10 | 0-10 | 0-10
+vgl. 8 57 Abs. 4
+1
+e 5
+gemäß 8 57
+2
+Summe Wahlpflichtbereich Nebenstudienrich-
+z
+tung
+24
+```
+
+### OCR Seite 25
+
+```
+Friedrich-Alexander-Universität
+FE
+Erlangen-Nürnberg
+ws | Ge-
+Workload-Verteilung pro Semester
+Art und Umfang | Faktor
+Nr.
+Modulbezeichnung
+Lehrveranstaltung
+-
+samt
+7
+der
+Modul-
+vor Ts]r 2 In Tez lea si ein le&n eine
+ins
+N
+_
+|
+S
+em.
+Wahlpflichtmodule aus dem
+KalaogDerPe
+vgl. $ 58 Abs. 2
+0-5 | 0-5 | 5-10
+vgl.$58Abs.2 |
+1
+8 58
+©
+rl
+> 5
+Wahlmodule der Techni-
+s=
+7
+|schen Schlüsselqualifikation
+vgl. 859 Abs. 3
+0-5 | 0-5 | 0-5
+vgl. 8 59 Abs. 3
+1
+22
+gemäß 8 59
+5 =
+25
+Eu
+F
+Seminarleistung
+Masterseminar gemäß 8 6
+.
+gem.
+ABMPO/NatFak
+Masterseminar
+2
+5
+S6ABMPO/Nat- |
+Fak
+Masterarbeit gemäß
+.
+Masterarbeit
+Summen SWS (mind.) und ECTS-Punkte
+120
+15
+15
+15
+15
+15
+15
+30
+Erläuterungen:
+Seminarleistung: vgl. 8 6 Abs. 4 und 5 ABMPO/NatFak
+25
+```
+
+### OCR Seite 26
+
+```
+Friedrich-Alexander-Universität
+|
+|
+|
+Erlangen-Nürnberg
+|N
+ul
+/zu \( )
+Ausgefertigt aufgrund des Beschlusses des Senats der FAU am 25. Februar 2026, und
+der Genehmigung durch den Präsidenten oder seiner Stellvertretung vom 5. März 2026
+Erlangen, den 5. März 2026
+FAU
+gez.
+Prof. Dr.-Ing. Joachim Hornegger, Präsident
+Diese Satzung wurde am 5. März 2026 digital auf der Internetseite
+https://www.fau.de/fau/rechtsgrundlagen/amtliche-bekanntmachungen/ amtlich veröf-
+fentlicht. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausferti-
+gung der Satzung wurde am 5. März 2026 in der im Referat L 1 der Zentralen Universi-
+tätsverwaltung, Halbmondstraße 6-8, Zimmer Nr. 02.033 niedergelegt und liegt zur Ein-
+sicht während der Dienststunden bereit.
+Tag der Bekanntmachung ist daher der 5. März 2026
+26
+```
 
