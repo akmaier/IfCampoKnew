@@ -63,12 +63,33 @@ jobs:
             --max-depth ${{ steps.vars.outputs.max_depth }} \
             -v
 
-      - name: Fetch course detail pages
+      - name: Fetch course detail pages (catalogue)
         if: steps.vars.outputs.with_courses == 'true'
         run: |
           python scraper/fetch_courses.py \
             --in tmp/${{ steps.vars.outputs.period_id }}.json \
             --out tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --save-every 50 \
+            -v
+
+      - name: Sweep Tagesaktuelle Veranstaltungen for the semester
+        if: steps.vars.outputs.with_courses == 'true'
+        run: |
+          python scraper/scrape_tagesaktuelle.py \
+            --period ${{ steps.vars.outputs.period_id }} \
+            --out tmp/${{ steps.vars.outputs.period_id }}-tagesaktuelle.json \
+            --interval 0.5 \
+            -v
+        continue-on-error: true
+
+      - name: Fetch additional course details from sweep
+        if: steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', steps.vars.outputs.period_id)) != ''
+        run: |
+          python scraper/fetch_courses.py \
+            --in tmp/${{ steps.vars.outputs.period_id }}-tagesaktuelle.json \
+            --out tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --resume \
+            --save-every 50 \
             -v
 
       - name: Render markdown corpus
