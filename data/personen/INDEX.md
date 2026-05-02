@@ -2,7 +2,7 @@
 kind: "campo-personen-aggregate"
 unique_persons: 602
 teaching_assignments: 993
-scraped_at: 2026-05-01T21:45:29+00:00
+scraped_at: 2026-05-02T02:49:00+00:00
 sources:
   - Sommersemester 2026: "tmp/589.json"
 ---

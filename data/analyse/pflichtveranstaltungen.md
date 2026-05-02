@@ -1,9 +1,9 @@
 ---
 kind: "campo-pflicht-analyse"
 period: "Sommersemester 2026"
-po_files_scanned: 91
-matched_courses_total: 279
-scraped_at: 2026-05-02T02:22:00+00:00
+po_files_scanned: 102
+matched_courses_total: 243
+scraped_at: 2026-05-02T02:49:08+00:00
 ---
 
 # Pflichtveranstaltungen — Heuristische Analyse
@@ -63,6 +63,73 @@ a) Dieser Vorschlag garantiert, dass in der Bachelor-Phase (1.-6. Semester) 70 E
 |3|Elemente der AnalysisII|4V|6||
 |3|Übungen AnalysisII|2Ü|3||
 ||**Analytische Geometrie (AGeo)**|**3**| …
+
+---
+
+### LA Informatik FPO LA INF 20220421.pdf
+
+PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-informatik-fpo-la-inf-20220421.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-informatik-fpo-la-inf-20220421.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Informatik (FAU Scientia)  -
+
+- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
+- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+
+#### Auszüge aus dem PO-Text
+
+**1. Allgemeines** _(paragraph)_
+
+(4)[1] Portfolioprüfungen sind eine Mischung aus Prozess- und Produktportfolio und umfassen alle Produkte, die kontinuierlich während der Lernveranstaltung unter Mitwirkung der Studierenden entstehen.[2] Diese Mitwirkung umfasst auch schon die zu Beginn der Veranstaltung stattfindende Auslotung der für den Kompetenzerwerb am besten geeigneten verpflichtenden Bestandteile der Prüfung mit der bzw. dem Lehrenden in Abhängigkeit vom konkreten didaktischen Charakter der Veranstaltung.[3] Verpflichtende Bestandteile der Portfolioprüfung können insbesondere Gruppen- und Einzelarbeiten zu bestimmten Themen, sowie Hausaufgaben und deren Reflektion sein. 4Zusätzlich werden diese Artefakte durch einen allgemeinen Rahmen ergänzt, bestehend aus Einleitung, Zusammenfassung der Inhalte inkl. Einbettung d …
+
+**1. Allgemeines** _(paragraph)_
+
+**§ 4 Gliederung des fachwissenschaftlichen Studiums** (1)[1] Das Lehramtsstudium Informatik besteht im Bereich der Fachwissenschaft Informatik an Gymnasien aus Pflichtmodulen im Umfang gemäß der Regelungen in § 5 Abs. 1 und Abs. 5 und aus Wahlpflichtmodulen im Umfang von 15-20 ECTS-Punkten, je nach der im Lehramtsstudium gewählten Fächerkombination.[2] Die Kataloge der Wahlpflichtmodule umfassen in der Regel Module aus dem Bachelorstudium Informatik gemäß der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPOINF** – sowie ggf. weitere Module deren Prüfungen sich nach § 3 bestimmen; Näheres ist dem Katalog nach Satz 3 zu entnehmen.[3] Der Katalog der möglichen Wahlpflichtmodu …
+
+**1. Allgemeines** _(paragraph)_
+
+(2) Das Lehramtsstudium Informatik besteht im Bereich der Fachwissenschaft Informatik an Real- und Mittelschulen aus Pflichtmodulen im Umfang gemäß den Regelungen in § 6 Abs. 1 bzw. § 7 Abs. 1.
+
+---
+
+### LA Informatik FPO LA INF 20240904.pdf
+
+PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-informatik-fpo-la-inf-20240904.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-informatik-fpo-la-inf-20240904.md)  
+Pflicht-Stellen gefunden: **4**  
+Vorgeschlagene Pflichtveranstaltungen: **6**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Informatik (FAU Scientia)  -
+
+- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
+- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Didaktik der Informatik I — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Marc-Pascal Berges
+
+#### Auszüge aus dem PO-Text
+
+**§ 3 Studienbegleitende Leistungsnachweise** _(paragraph)_
+
+(4)[1] Portfolioprüfungen sind eine Mischung aus Prozess- und Produktportfolio und umfassen alle Produkte, die kontinuierlich während der Lernveranstaltung unter Mitwirkung der Studierenden entstehen.[2] Diese Mitwirkung umfasst auch schon die zu Beginn der Veranstaltung stattfindende Auslotung der für den Kompetenzerwerb am besten geeigneten verpflichtenden Bestandteile der Prüfung mit der bzw. dem Lehrenden in Abhängigkeit vom konkreten didaktischen Charakter der Veranstaltung. 3Verpflichtende Bestandteile der Portfolioprüfung können insbesondere Gruppen- und Einzelarbeiten zu bestimmten Themen, sowie Hausaufgaben und deren Reflektion sein.[4] Zusätzlich werden diese Artefakte durch einen allgemeinen Rahmen ergänzt, bestehend aus Einleitung, Zusammenfassung der Inhalte inkl. Einbettung d …
+
+**§ 4 Gliederung des fachwissenschaftlichen Studiums** _(paragraph)_
+
+(1)[1] Das Lehramtsstudium Informatik besteht im Bereich der Fachwissenschaft Informatik an Gymnasien aus Pflichtmodulen im Umfang gemäß der Regelungen in § 5 Abs. 1 und Abs. 5 und aus Wahlpflichtmodulen im Umfang von 15-20 ECTSPunkten, je nach der im Lehramtsstudium gewählten Fächerkombination.[2] Die Kataloge der Wahlpflichtmodule umfassen in der Regel Module aus dem Bachelorstudium Informatik gemäß der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – **FPOINF** – sowie ggf. weitere Module deren Prüfungen sich nach § 3 bestimmen; Näheres ist dem Katalog nach Satz 3 zu entnehmen.[3] Der Katalog der möglichen Wahlpflichtmodule wird vor Semesterbeginn ortsüblich bekannt gemacht.[4] …
+
+**§ 4 Gliederung des fachwissenschaftlichen Studiums** _(paragraph)_
+
+(2) Das Lehramtsstudium Informatik besteht im Bereich der Fachwissenschaft Informatik an Real- und Mittelschulen aus Pflichtmodulen im Umfang gemäß den Regelungen in § 6 Abs. 1 bzw. § 7 Abs. 1.
+
+**§ 5 Bachelorabschluss** _(paragraph)_
+
+1Für den Bachelorabschluss im Rahmen des Studiums für Lehramt an Gymnasien müssen im Bereich Fachwissenschaft Informatik das Modul „Didaktik der Informatik 1“, fachwissenschaftliche Module im Umfang von insgesamt 55 ECTS-Punkten aus dem Pflichtbereich (§ 6 Abs. 1) sowie weitere fachwissenschaftliche Module (ohne Mathematik und Repetitorium) im Umfang von insgesamt 15 ECTS-Punkten aus dem Wahlpflichtbereich (§ 6 Abs. 3) erworben werden.[2] Die 15 ECTS-Punkte aus dem Wahlpflichtbereich können durch fachwissenschaftliche Module aus dem Pflichtbereich ersetzt werden.
 
 ---
 
@@ -229,6 +296,40 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 1. Pflicht- und Wahlpflichtmodule aus einer der wählbaren Modulgruppen MG1, MG2 und MG3 im Umfang von 30 ECTS-Punkten.
 
 _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### FPO BAMA Chemie MolSci 20260305.pdf
+
+PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-chemie-molsci-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-chemie-molsci-20260305.md)  
+Pflicht-Stellen gefunden: **20**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Chemie und Pharmazie (FAU Scientia)  -
+
+- [Quantum Chemistry 2 — Vorlesung mit Übung](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md) — Prof. Dr. Andreas Görling
+
+#### Auszüge aus dem PO-Text
+
+**§ 42 Bachelorstudiengänge, inhaltlich im Wesentlichen gleiche Studiengänge** _(paragraph)_
+
+(2)[1] Die Bachelorstudiengänge Chemie und Molecular Science setzen sich jeweils aus einer Grundlagenphase (Semeseter 1 bis 4) und einer Orientierungsphase (Semester 5 und 6) zusammen; für das Teilzeitstudium Chemie gelten die Semesterangaben gemäß **Anlage 1b** .[2] In der Grundlagenphase sind alle Module jeweils verpflichtend.[3] Die Orientierungsphase besteht aus Pflichtmodulen, Wahlpflichtmodulen („Orientierungsmodule“) und einem Wahlmodul „Schlüsselqualifikationen“.[4] Näheres zum Bachelorstudiengang Chemie ist §§ 45 bis 47 und **Anlage 1a** (Bachelor Chemie Vollzeit) bzw.
+
+**§ 54 Umfang und Gliederung des Masterstudiums** _(paragraph)_
+
+(1)[1] Das Masterstudium Chemistry setzt sich aus Pflichtmodulen, Wahlpflichtmodulen und einem Wahlbereich zusammen.[2] Die Verteilung der Module ist der **Anlage 3** zu entnehmen.[3] Die Masterprüfung ist bestanden, wenn sämtliche gemäß der **Anlage 3** zu erbringenden Modulprüfungen und Modulteilprüfungen sowie das Modul Masterarbeit im Umfang von insgesamt 120 ECTS-Punkten bestanden sind.
+
+**§ 54 Umfang und Gliederung des Masterstudiums** _(paragraph)_
+
+(2) Pflichtmodule sind die Module der Nrn. 12 und 13 der **Anlage 3** (Masterarbeit und Forschungsmodul).
+
+**§ 58 Forschungsmodul** _(paragraph)_
+
+1Das Forschungsmodul ist Teil der Pflichtmodule des Masterstudiengangs Chemistry und dient der Vorbereitung auf die Masterarbeit.[2] Es gliedert sich in ein 8-wöchiges Laborpraktikum mit aktuellem Forschungsbezug (21 SWS) sowie die begleitenden Hauptseminare (2 SWS) aus einer der Fachdisziplinen Anorganische Chemie, Organische Chemie, Materialchemie, Physikalische Chemie oder Theoretische Chemie. 3Der Durchführung des Forschungsmoduls in alternativen Forschungsgebieten (z.B. interdisziplinär angesiedelte Forschungsthemen) kann im Einzelfall zugestimmt werden, wenn überwiegend chemische Inhalte bearbeitet werden – hierzu ist die Zustimmung des Prüfungsausschusses und einer bzw. eines potenziellen, prüfungsberechtigten Erstbetreuerin bzw. Erstbetreuers aus dem Department Chemie und Pharmazie …
+
+_(+ 16 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -450,6 +551,30 @@ Bachelorseminar, Bachelorarbeit (BA)<br>15 ECTS<br>Seminar, Querschnittsmodul (Q
 ||||||||||||||||||
 ||||V|Ü|P|S|T||||||||||
 |**Pflichtmodule Stochastik und Optimierung (PSO)**|Lineare und Kombinatorische<br>Optimierung1|Vorlesung Lineare und Kombinatori-<br>sche Optimierung|4|||||10|||7||||Portfolioprüfung; Klausur 90 Min. …
+
+---
+
+### FPODataScience 20260305.pdf
+
+PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Mathematik (FAU Scientia)  -
+
+- [Mathematisches Seminar in elementarer Geometrie — Hauptseminar](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md) — Dr. Bart van Steirteghem
+
+#### Auszüge aus dem PO-Text
+
+**§ 45 Gliederung des Bachelorstudiums** _(paragraph)_
+
+- a) den Pflichtmodulen für Data Science (Nrn. 1 und 2 sowie Nrn. 5 bis 18 der **Anlage 1** ),
+
+**§ 56 Studienrichtungen des Masterstudiums, Umfang und Gliederung** _(paragraph)_
+
+1. 15 ECTS-Punkte aus Pflichtmodulen (Nrn. 1 bis 3 gemäß **Anlage 2 a** bzw. **2b** ),
 
 ---
 
@@ -872,16 +997,14 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20150811-idf-20200916.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20150811-idf-20200916.md)  
 Pflicht-Stellen gefunden: **16**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
-- [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
 - [Bibelkunde Altes Testament II — Übung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Veronika Bibelriether
-- [PS Einführung in die Praktische Theologie — Proseminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Dr. Lukas Grill-Jeromin
-- [VORL Einführung in die Praktische Theologie — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Peter Bubmann
+- [Seminar Neues Testament und Judentum — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Christina Eschner
 
 #### Auszüge aus dem PO-Text
 
@@ -919,16 +1042,14 @@ _(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20150811-idf-20230314.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20150811-idf-20230314.md)  
 Pflicht-Stellen gefunden: **16**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
-- [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
 - [Bibelkunde Altes Testament II — Übung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Veronika Bibelriether
-- [PS Einführung in die Praktische Theologie — Proseminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Dr. Lukas Grill-Jeromin
-- [VORL Einführung in die Praktische Theologie — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Peter Bubmann
+- [Seminar Neues Testament und Judentum — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Christina Eschner
 
 #### Auszüge aus dem PO-Text
 
@@ -958,16 +1079,14 @@ _(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20200916-aes.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20200916-aes.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
-- [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
 - [Bibelkunde Altes Testament II — Übung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Veronika Bibelriether
-- [PS Einführung in die Praktische Theologie — Proseminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Dr. Lukas Grill-Jeromin
-- [VORL Einführung in die Praktische Theologie — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Peter Bubmann
+- [Seminar Neues Testament und Judentum — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Christina Eschner
 
 #### Auszüge aus dem PO-Text
 
@@ -1271,15 +1390,14 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20240904.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20240904.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
 - [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
-- [MA 2.FS Islamische Ethik im Kontext von Geschichte und Gegenwart, Vorlesung — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
-- [Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne, Prof. Dr. Abbas Poya
+- [BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Elham Daniela Mazloum
 - [Queere Theologie für (digitale) Medien und Schule — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne, Prof. Dr. Peter Bubmann
 
 #### Auszüge aus dem PO-Text
@@ -1305,6 +1423,186 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 (2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw …
 
 _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### PDF vom 09.12.2008 i.d.F. 05.08.2015
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-medien-ethik-relig-aug2015.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-medien-ethik-relig-aug2015.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
+
+- [Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne, Prof. Dr. Abbas Poya
+- [BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Elham Daniela Mazloum
+- [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
+
+#### Auszüge aus dem PO-Text
+
+**Prüfungsordnung für das Masterstudium Medien - Ethik - Religion an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg Vom 9. Dezember 2008** _(paragraph)_
+
+|§|1|Geltungsbereich ......................................................................................................................... 2|
+|---|---|---|
+|§|2|Abschlussgrad ............................................................................................................................ 2|
+|§|3|Struktur des Masterstudiengangs und der Prüfungen; Schwerpunkt; Regelstudienzeit ............ 2|
+|§|3a|Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ........................................................ 2|
+|§|4|ECTS-Punkte .............................................................................................................................. 3|
+|§|5|Modularisierung, Studienbegleitende Leistungsnachweise ....................................................... 3|
+|§|5a …
+
+**§ 5a Anwesenheitspflicht** _(section)_
+
+(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der An- 
+
+3 
+
+wesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
+
+(2)[1] Die Teilnahme ist …
+
+**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
+
+(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet 
+
+5 
+
+ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+
+(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
+
+(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mita …
+
+---
+
+### PDF vom 09.12.2008 i.d.F. 08.07.2014
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-medien-ethik-relig-juli2014.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-medien-ethik-relig-juli2014.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
+
+- [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
+
+#### Auszüge aus dem PO-Text
+
+**Prüfungsordnung für das Masterstudium Medien - Ethik - Religion an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg Vom 9. Dezember 2008** _(paragraph)_
+
+|§|1|Geltungsbereich ................................................................................................................... 2|
+|---|---|---|
+|§|2|Abschlussgrad ..................................................................................................................... 2|
+|§|3|Struktur des Masterstudiengangs und der Prüfungen; Regelstudienzeit ............................ 2|
+|§|3a|Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen ................................................. 2|
+|§|4|ECTS-Punkte ....................................................................................................................... 3|
+|§|5|Modularisierung, Studienbegleitende Leistungsnachweise ................................................ 3|
+|§|5a|Anwesenheitspflicht .......... …
+
+**§ 5a Anwesenheitspflicht** _(section)_
+
+(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
+
+(2)[1] Die Teilnahme ist dann re …
+
+**§ 8 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** _(section)_
+
+(1)[1] Der Prüfungsausschuss bestellt die Prüfenden.[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+
+(2) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der Prüferin oder des Prüfers ist zulässig. 
+
+(3)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin 
+
+5 
+
+oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mita …
+
+---
+
+### PDF vom 11.08.2015
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/stpo-evangelische-theologie-neu.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/stpo-evangelische-theologie-neu.md)  
+Pflicht-Stellen gefunden: **14**  
+Vorgeschlagene Pflichtveranstaltungen: **5**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
+
+- [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
+- [Bibelkunde Altes Testament II — Übung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Veronika Bibelriether
+- [Seminar Neues Testament und Judentum — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Christina Eschner
+- [PS Einführung in die Praktische Theologie — Proseminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Dr. Lukas Grill-Jeromin
+- [VORL Einführung in die Praktische Theologie — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Peter Bubmann
+
+#### Auszüge aus dem PO-Text
+
+**Inhalt** _(paragraph)_
+
+1. Abschnitt: Allgemeine Bestimmungen .......................................................................... 3 § 1 Geltungsbereich ......................................................................................................... 3 § 2 Voraussetzung für die Aufnahme des Studiums ........................................................ 3 § 3 Zweck der Prüfung, Ziel des Studiums ....................................................................... 3 § 4 Magistergrad .............................................................................................................. 4 § 5 Magisterstudium, Regelstudienzeit, Studienbeginn, Sprache ..................................... 4 § 6 ECTS-Punkte ....................................................................................... …
+
+**§ 8 Aufbau des Studiums** _(paragraph)_
+
+(1)[1] Der Studiengang umfasst Pflicht- und Wahlmodule.[2] Von den 300 im Studiengang zu erwerbenden ECTS-Punkten sind im Grundstudium Module im Umfang von 25 ECTS-Punkten, im Hauptstudium im Umfang von 50 ECTS-Punkten und in der Integrations- und Examensphase im Umfang von 15 ECTS-Punkten durch die Studierenden frei zu wählen.[3] Diese Wahlpflichtmodule dienen der Vertiefung der in den übrigen Modulen angeeigneten Kompetenzen.[4] Umfang und Gliederung des Magisterstudiums im Übrigen sowie Art und Umfang der Prüfungen ergeben sich aus der **Anlage** .
+
+**§ 10 Anwesenheitspflicht** _(section)_
+
+(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforder- 
+
+6 
+
+lich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
+
+(2)[1] Die Teilnahme ist …
+
+**§ 12 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** _(paragraph)_
+
+(5) Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.
+
+_(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### PDF vom 27. Juli 2012
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/stuo-magister-20theologiae.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/stuo-magister-20theologiae.md)  
+Pflicht-Stellen gefunden: **9**  
+Vorgeschlagene Pflichtveranstaltungen: **7**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
+
+- [Bibelkunde Altes Testament II — Übung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Veronika Bibelriether
+- [Seminar Neues Testament und Judentum — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Christina Eschner
+- [VL: Kirchen- und Theologiegeschichte im Überblick I: das Christentum in der Antike - neu — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Charlotte Köckert
+- [Ü: Quellenübung zur Theologie- und Kirchengeschichte I — Übung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Dr. Johannes Rensinghoff
+- [VL: Kirchen- und Theologiegeschichte im Überblick KG III: Spätmittelalter und Reformationszeit — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Anselm Schubert
+- [PS Einführung in die Praktische Theologie — Proseminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Dr. Lukas Grill-Jeromin
+- [VORL Einführung in die Praktische Theologie — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Peter Bubmann
+
+#### Auszüge aus dem PO-Text
+
+**§ 6 Aufbau des Studiums** _(paragraph)_
+
+(1)[1] Der Studiengang ist durch Module strukturiert und umfasst Pflicht- und Wahlmodule.[2] Dabei ist bei den Pflichtveranstaltungen deren Zuordnung zu einem Modul zu beachten.[3] In Zweifelsfällen entscheiden jeweils die von der Kollegialen Leitung des Fachbereichs eingesetzten zuständigen Modulbeauftragten.
+
+**§ 7 Grundstudium** _(paragraph)_
+
+(1)[1] Der Mindeststudienumfang beträgt im Grundstudium 120 ECTS-Punkte (und zusätzlich bei Bedarf 2 Sem. Sprachen).[2] Folgende Module sind pflichtmäßig zu absolvieren:
+
+**§ 7 Grundstudium** _(paragraph)_
+
+(2)[1] Mindestens eine der Lehrveranstaltungen aus dem Interdisziplinären Basismodul soll von zwei Dozentinnen bzw. Dozenten geleitet werden.[2] Von diesen muss mindestens einer bzw. eine dem Fachbereich Theologie angehören.[3] Die andere interdisziplinäre Lehrveranstaltung ist aus Lehrveranstaltungen auszuwählen, deren Thema interdisziplinär ausgerichtet ist und die im Vorlesungsverzeichnis als „interdisziplinäre Lehrveranstaltung“ ausgewiesen sind.[4] Wird im interdisziplinären Basismodul keine Seminararbeit verfasst, ist im interdisziplinären Aufbaumodul die Seminararbeit verpflichtend.
+
+**§ 7 Grundstudium** _(paragraph)_
+
+(3)[1] Zu den Pflichtmodulen und dem Wahlpflichtmodul Zwischenprüfung tritt ein 25 ECTS-Punkte umfassender Wahlbereich:
+
+_(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -1482,6 +1780,38 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 |Vertiefung A<br>(Schwerpunkt 1)|M1|Vertiefungsmodul Nachhaltige<br>Chemische Technologien<br>(Pflicht für alle)|3|1||5|5||||||||120 oder 301)|
 ||M2|Praktikum zur Vertiefung A|||5|5|5||||||||SL: Versuchsprotokolle2)|
 ||M3|Drei Wahlpflichtmodule zur<br>Vertiefung A|2|1||5|||5|| …
+
+---
+
+### FPO-BA-MA ChemEngin-NachhaltigeChemTechn 20110607 i.d.F. 20230426.pdf
+
+PO-Quelle: [`pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md`](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md)  
+Pflicht-Stellen gefunden: **4**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
+
+- [Hauptseminar EVT — Hauptseminar](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr. Peter Schulz, Prof. Dr. Peter Wasserscheid
+
+#### Auszüge aus dem PO-Text
+
+**§ 39a Wahlmodul aus dem Angebot der FAU – B13** _(paragraph)_
+
+1Das Wahlmodul B13 (z.B. ein Fremdsprachenkurs oder eine Schlüsselqualifikation) ist aus dem Angebot der FAU zu wählen und dient dem Erwerb fachübergreifender Kompetenzen.[2] Die Studierenden können entweder ein Modul im Umfang von 5 ECTSPunkten oder zwei Module im Umfang von je 2,5 ECTS-Punkten wählen.[3] Art und Umfang der Lehrveranstaltungen und der Prüfungen sind abhängig von den im jeweiligen Modul vermittelten Kompetenzen und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen.[4] Abweichend von § 28 Abs. 2 Satz 2 **ABMPO/TechFak** werden Fehlversuche nicht angerechnet und es besteht bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.
+
+**§ 41 Qualifikation zum Masterstudium; Nachweise und Zugangsvoraussetzungen** _(paragraph)_
+
+für alternative Nachweismöglichkeiten wird auf die Äquivalenztabelle des Sprachenzentrums der FAU Erlangen-Nürnberg verwiesen.[4] Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ihren ersten berufsqualifizierenden Hochschulabschluss in deutscher Sprache erworben haben, sind von der Nachweispflicht deutscher Sprachkenntnisse befreit; Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ihren ersten berufsqualifizierenden Hochschulabschluss in englischer Sprache erworben haben, sind von der Nachweispflicht englischer Sprachkenntnisse befreit.
+
+**§ 42 Umfang und Gliederung des Masterstudiums** _(paragraph)_
+
+1. Pflichtmodulen M1 und M2 im Rahmen des Schwerpunkts Nachhaltigkeit (10 ECTS-Punkte)
+
+**§ 42e Wahlmodule M13 und M14** _(paragraph)_
+
+1Die Wahlmodule M13 und M14 im Umfang von jeweils 5 ECTS-Punkten sind aus dem Angebot des Fachbereichs Wirtschafts- und Sozialwissenschaften (M13) bzw. der Schlüsselqualifikationen oder des Angebotes des Sprachenzentrums (M14) der FAU zu wählen.[2] Die Studierenden können dabei entweder jeweils ein Modul im Umfang von 5 oder jeweils zwei Module im Umfang von je 2,5 ECTS-Punkte wählen.[3] Art und Umfang der Lehrveranstaltungen und der Prüfungen sind abhängig von den im jeweiligen Modul vermittelten Kompetenzen und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen.[4] Abweichend von § 28 Abs.  2 Satz 2 **ABMPO/TechFak** werden Fehlversuche nicht angerechnet und es besteht bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.
 
 ---
 
@@ -1676,17 +2006,18 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/8aes-ba-ma-informatik.md`](../pruefungsordnungen/technische-fakultaet/informatik/8aes-ba-ma-informatik.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
+- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Intensivübung zu Theorie der Programmierung (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Theorie der Programmierung — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Übungen zu Theorie der Programmierung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
 
 #### Auszüge aus dem PO-Text
 
@@ -1705,21 +2036,100 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 ---
 
-### BSc-MSc Informatik FPOINF 20070920 i.d.F. 20180801.pdf
+### BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf
 
-PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20180801.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20180801.md)  
-Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md)  
+Pflicht-Stellen gefunden: **18**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
+- [Computational Engineering 2 — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey
+- [Computational Engineering 2 - Übung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Leonard Quednau
+
+#### Auszüge aus dem PO-Text
+
+**Inhaltsverzeichnis:** _(paragraph)_
+
+|**II. Teil**|**Besondere Bestimmungen für das Bachelorstudium ............................................ 4**|
+|---|---|
+|§ 41|Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der|
+||Schlüsselqualifikationen ............................................................................................. 4|
+|§ 41a|Technische Anwendungsfächer im Bachelorstudium ................................................. 5|
+|§ 41b|Technische Wahlmodule ............................................................................................ 5|
+|§ 42|Umfang der Grundlagen- und Orientierungsprüfung................................................... 6|
+|§ 43|Umfang des Bachelorstudiums .................................................................................. 6|
+|§ 44|Prüfun …
+
+**§ 41 Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der Schlüsselqualifikationen** _(paragraph)_
+
+(1)[1] Die Wahl des Technischen Anwendungsfaches erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Pflichtmodule des zu wählenden Technischen Anwendungsfaches.[2] Die Pflichtmodule des Technischen Anwendungsfaches ergeben sich aus **Anlage 2** .[3] Der Modulkatalog der gemäß § 43 Abs. 1 Nr. 4 zu wählenden Wahlmodule des Technischen Anwendungsfaches kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission CE angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht.
+
+**§ 41 Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der Schlüsselqualifikationen** _(paragraph)_
+
+(2) Durch Wahl des Technischen Anwendungsfaches sind alle Pflichtmodule in den Bereichen Informatik, Mathematik und dem Technischen Anwendungsfach festgelegt.
+
+**§ 43 Umfang des Bachelorstudiums** _(paragraph)_
+
+1. den Pflichtmodulen der Informatik,
+
+_(+ 14 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### BSc-MSc Computational Engineering FPOCE 20250604.pdf
+
+PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20250604.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20250604.md)  
+Pflicht-Stellen gefunden: **16**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Informatik (FAU Scientia)  -
+
+- [Computational Engineering 2 — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey
+- [Computational Engineering 2 - Übung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Leonard Quednau
+
+#### Auszüge aus dem PO-Text
+
+**Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOCE – Vom 4. Juni 2025** _(paragraph)_
+
+**Inhaltsverzeichnis: I. Teil: Allgemeine Bestimmungen ..................................................................................... 2** § 39 Geltungsbereich ............................................................................................................ 2 § 40 Bachelorstudiengang, inhaltlich im Wesentlichen gleiche Studiengänge ....................... 2 § 41 Masterstudiengang, Studienbeginn, inhaltlich im Wesentlichen gleiche Studiengänge .. 2 § 42 Zweisprachigkeit und internationale Orientierung .......................................................... 2 § 43 Technisches Anwendungsfach ...................................................................................... 2 § 44 Modulkataloge ............................................................................ …
+
+**§ 46 Umfang des Bachelorstudiums** _(paragraph)_
+
+1. den Pflichtmodulen der Informatik,
+
+**§ 46 Umfang des Bachelorstudiums** _(paragraph)_
+
+2. den Pflichtmodulen der Mathematik,
+
+**§ 46 Umfang des Bachelorstudiums** _(paragraph)_
+
+3. den Pflichtmodulen des nach § 48 Abs. 1 gewählten Technischen Anwendungsfachs im Umfang von mindestens 35 ECTS-Punkten,
+
+_(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### BSc-MSc Informatik FPOINF 20070920 i.d.F. 20180801.pdf
+
+PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20180801.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20180801.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **6**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Informatik (FAU Scientia)  -
+
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
+- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Intensivübung zu Theorie der Programmierung (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Theorie der Programmierung — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Übungen zu Theorie der Programmierung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
 
 #### Auszüge aus dem PO-Text
 
@@ -1748,20 +2158,13 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20190306.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20190306.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Multi-Core Architecture and Programming — Seminar](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig, Batuhan Sesli, Avinash Mahesh Nirmala
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 
 #### Auszüge aus dem PO-Text
 
@@ -1789,20 +2192,13 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20191203.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20191203.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Multi-Core Architecture and Programming — Seminar](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig, Batuhan Sesli, Avinash Mahesh Nirmala
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 
 #### Auszüge aus dem PO-Text
 
@@ -1830,19 +2226,13 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20200820.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20200820.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 
 #### Auszüge aus dem PO-Text
 
@@ -1870,19 +2260,13 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20210701.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20210701.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 
 #### Auszüge aus dem PO-Text
 
@@ -1910,21 +2294,20 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
-- [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
+- [Intensivübung zu Theorie der Programmierung (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Systemnahe Programmierung in C - Rechnerübungen — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Arne Vogel, Maxim Ritter von Onciul, Eva Dengler
+- [Systemnahe Programmierung in C — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Volkmar Sieh
+- [Theorie der Programmierung — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Systemnahe Programmierung in C - Tafelübung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Arne Vogel, Maxim Ritter von Onciul, Eva Dengler
+- [Systemprogrammierung 1 - Übung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Tobias Häberlein, Dr.-Ing. Jürgen Kleinöder, Prof. Dr.-Ing. Rüdiger Kapitza, Ole Wiedemann
+- [Übungen zu Theorie der Programmierung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
 
 #### Auszüge aus dem PO-Text
 
@@ -1952,21 +2335,15 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
 - [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
-- [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 
 #### Auszüge aus dem PO-Text
 
@@ -2001,22 +2378,15 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20230426.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20230426.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 - [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
 - [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
-- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
-- [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 
 #### Auszüge aus dem PO-Text
 
@@ -2051,20 +2421,18 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20190306-aes.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20190306-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Multi-Core Architecture and Programming — Seminar](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — PD Dr.-Ing. Frank Hannig, Batuhan Sesli, Avinash Mahesh Nirmala
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
+- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Intensivübung zu Theorie der Programmierung (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Theorie der Programmierung — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Übungen zu Theorie der Programmierung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
 
 #### Auszüge aus dem PO-Text
 
@@ -2100,24 +2468,13 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20250604.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20250604.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 - [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
-- [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
-- [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
-- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
 
 #### Auszüge aus dem PO-Text
 
@@ -2202,24 +2559,13 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Applied Software Engineering Master-Projekt — Projekt](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Dirk Riehle
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
-- [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
-- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
-- [Erweiterte Übungen zu Hardware-Software-Co-Design — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Abrarul Karim, Thomas Vetter, Avinash Mahesh Nirmala
 - [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
-- [Introduction to Machine Learning — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Vincent Christlein
-- [Introduction to Machine Learning Tutorial — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Linda-Sophie Schneider
-- [Programming Techniques for Supercomputers - Exercises — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Gerhard Wellein
-- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
-- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
 
 #### Auszüge aus dem PO-Text
 
@@ -3278,12 +3624,13 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-juli2014.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-juli2014.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Maschinenbau (FAU Scientia)  -
 
+- [Tutorium zur Statik und Festigkeitslehre — Tutorium](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md) — Prof. Dr.-Ing. Sigrid Leyendecker
 - [Übungen zur Statik und Festigkeitslehre — Übung](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md) — Prof. Dr.-Ing. Sigrid Leyendecker
 
 #### Auszüge aus dem PO-Text

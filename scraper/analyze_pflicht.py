@@ -208,6 +208,69 @@ def match_courses_to_pflicht_text(
 # ──────────────────────────────────────────────────────────────────────────
 
 
+def load_structured_pflicht_modules(po_root: Path) -> dict[Path, list[dict]]:
+    """Reuse :mod:`extract_pflicht_module` to get structured Pflicht-module
+    names per PO. This is a strictly better match source than free-text
+    Pflicht-paragraphs because it lists module names parsed from Anlage
+    tables (e.g. ``Analysis I``, ``Lineare Algebra II``)."""
+    try:
+        from extract_pflicht_module import collect_per_po
+    except Exception as e:  # noqa: BLE001
+        log.warning("extract_pflicht_module unavailable (%s)", e)
+        return {}
+    per_po = collect_per_po(po_root)
+    return {p: d["modules"] for p, d in per_po.items()}
+
+
+def match_courses_to_module_names(
+    courses: list[dict],
+    module_names: list[str],
+    *,
+    program_slug_hint: str | None = None,
+    min_overlap: int = 2,
+) -> list[dict]:
+    """Match Campo courses to *structured* Pflichtmodul-Bezeichnungen.
+
+    Stricter than the free-text Pflicht-paragraph match: we require ≥
+    ``min_overlap`` ≥5-char non-noise tokens of the **module name** to
+    appear in the course title. Because module names are short
+    (``Analysis I`` = 2 tokens), even ``min_overlap=2`` keeps the
+    precision tight.
+    """
+    matched: list[tuple[int, dict]] = []
+    course_pool = courses
+    if program_slug_hint:
+        program_slug_hint = program_slug_hint.lower()
+        course_pool = [
+            c for c in courses
+            if program_slug_hint in re.sub(
+                r"[^a-z0-9]+", "-", c.get("program_name", "").lower()
+            )
+        ]
+    for module_name in module_names:
+        mod_tokens = _course_tokens(module_name)
+        if len(mod_tokens) < 2:
+            continue
+        for c in course_pool:
+            ctitle = c.get("title", "").lower()
+            overlap = sum(1 for t in mod_tokens if t in ctitle)
+            if overlap < min_overlap:
+                continue
+            if overlap < max(2, len(mod_tokens) // 2):
+                continue
+            matched.append((overlap, c))
+    # Dedupe by unit_id
+    seen: set[int] = set()
+    out: list[dict] = []
+    for _, c in sorted(matched, key=lambda p: -p[0]):
+        uid = int(c["unit_id"])
+        if uid in seen:
+            continue
+        seen.add(uid)
+        out.append(c)
+    return out
+
+
 def render_analyse_md(
     by_po: dict[str, dict],
     period_label: str,
@@ -933,6 +996,15 @@ def main(argv: Iterable[str] | None = None) -> int:
         log.warning("no PO directory at %s — nothing to do", po_root)
         return 0
 
+    # Pre-load structured Pflichtmodul-Bezeichnungen for every PO whose
+    # Anlage tables we could parse. This gives us tight match strings
+    # (e.g. "Analysis I") instead of legal prose.
+    structured_modules = load_structured_pflicht_modules(po_root)
+    log.info(
+        "structured Pflichtmodule loaded for %d POs",
+        len(structured_modules),
+    )
+
     by_po: dict[str, dict] = {}
     pos_seen = 0
     pos_with_pflicht = 0
@@ -947,25 +1019,57 @@ def main(argv: Iterable[str] | None = None) -> int:
         if not blocks:
             continue
         pos_with_pflicht += 1
-        # combine all Pflicht text and find courses
-        pflicht_text = "\n\n".join(b["body"] for b in blocks)
         slug_hint = _path_program_slug(po_md_path)
-        matched = match_courses_to_pflicht_text(
-            courses_with_meta, pflicht_text, program_slug_hint=slug_hint
-        )
-        # The user-facing analysis is most useful for POs that *do* match
-        # courses we know about. POs that mention Pflicht but don't match
-        # our depth-4 course set are recorded as a count only — including
-        # their full text would balloon the file to MB-scale legal prose
-        # for little value.
-        if not matched:
+
+        # Primary path: match Campo courses against structured Pflichtmodul-
+        # Bezeichnungen from this PO's Anlage tables.
+        primary_matches: list[dict] = []
+        primary_module_names: list[str] = []
+        if po_md_path in structured_modules:
+            mods = structured_modules[po_md_path]
+            primary_module_names = [m["module_name"] for m in mods]
+            primary_matches = match_courses_to_module_names(
+                courses_with_meta,
+                primary_module_names,
+                program_slug_hint=slug_hint,
+            )
+
+        # Fallback path: free-text Pflicht-paragraph token overlap (the
+        # original heuristic). Catches POs without parseable Anlagen.
+        fallback_matches: list[dict] = []
+        if not primary_matches:
+            pflicht_text = "\n\n".join(b["body"] for b in blocks)
+            fallback_matches = match_courses_to_pflicht_text(
+                courses_with_meta, pflicht_text, program_slug_hint=slug_hint
+            )
+
+        # Union — dedupe by unit_id, keep primary first
+        all_matched: list[dict] = []
+        seen_uids: set[int] = set()
+        for c in primary_matches + fallback_matches:
+            uid = int(c["unit_id"])
+            if uid in seen_uids:
+                continue
+            seen_uids.add(uid)
+            all_matched.append(c)
+
+        if not all_matched:
             continue
         rel = str(po_md_path.relative_to(args.data))
-        by_po[rel] = {"title": title, "blocks": blocks, "matched_courses": matched}
+        by_po[rel] = {
+            "title": title,
+            "blocks": blocks,
+            "matched_courses": all_matched,
+            "structured_modules": primary_module_names,
+            "match_source": "structured" if primary_matches else "fallback",
+        }
 
     log.info(
-        "scanned %d PO files; %d had Pflicht mentions; %d also matched ≥1 course",
+        "scanned %d PO files; %d had Pflicht mentions; %d also matched ≥1 course "
+        "(structured: %d / fallback: %d)",
         pos_seen, pos_with_pflicht, len(by_po),
+        sum(1 for d in by_po.values() if d["match_source"] == "structured"),
+        sum(1 for d in by_po.values() if d["match_source"] == "fallback"),
     )
 
     args.out.parent.mkdir(parents=True, exist_ok=True)

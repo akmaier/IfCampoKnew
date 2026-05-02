@@ -1,9 +1,9 @@
 ---
 kind: "campo-lehrende-ohne-pflicht"
 period: "Sommersemester 2026"
-candidates: 77
-excluded_because_in_faudir: 476
-scraped_at: 2026-05-02T02:22:00+00:00
+candidates: 76
+excluded_because_in_faudir: 461
+scraped_at: 2026-05-02T02:49:08+00:00
 ---
 
 # Lehrende ohne Pflichtlehre — *ohne FAUdir-Match*
@@ -21,8 +21,8 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 
 **Periode:** Sommersemester 2026
 
-**Kandidaten:** 77 (davon 13 mit "Prof" im Namen)  
-**Ausgeschlossen, weil bereits in FAUdir-Liste:** 476
+**Kandidaten:** 76 (davon 13 mit "Prof" im Namen)  
+**Ausgeschlossen, weil bereits in FAUdir-Liste:** 461
 
 ## Liste
 
@@ -283,10 +283,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Lecture
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA L Social Policy in an Interdependent World (V2: BA SPIW)" — Vorlesung
-
-### Leonard Quednau
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Engineering 2 - Übung" — Übung
 
 ### Martin Freudensprung
 - Veranstaltungen ohne Pflicht-Markierung: **1**

@@ -1,11 +1,11 @@
 ---
 kind: "profs-mit-pflichtlehre"
 period: "Sommersemester 2026"
-candidates_total: 45
+candidates_total: 60
 rank_distribution:
   W3: 1
-  W?: 44
-scraped_at: 2026-05-02T02:22:00+00:00
+  W?: 59
+scraped_at: 2026-05-02T02:49:08+00:00
 ---
 
 # Profs mit Pflichtlehre (FAUdir × Campo)
@@ -20,12 +20,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 * Vergleichsgrundlage (B) für die RAG-Antwort (A); bei Inkonsistenz ist die RAG-Antwort meist belastbarer.
 
 **Periode:** Sommersemester 2026  
-**Kandidaten:** 45 FAUdir-bestätigte Profs mit Pflichtlehre
+**Kandidaten:** 60 FAUdir-bestätigte Profs mit Pflichtlehre
 
 ## Verteilung nach W-Rang
 
 - **W3**: 1
-- **W?**: 44
+- **W?**: 59
 
 ## Rang W3
 
@@ -57,6 +57,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Informatik 3 (Rechnerarchitektur)
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Grundlagen der Rechnerarchitektur und -organisation" — Vorlesung
+
+### Berges, Marc-Pascal (Prof. Dr.)
+- **FAUdir:** [`965a760c92`](https://faudir.fau.de/public/person/965a760c92)
+- **Affiliation:** Professur für Didaktik der Informatik
+- **Weitere Affiliationen:** Professur für Didaktik der Informatik
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Didaktik der Informatik I" — Vorlesung mit Übung
 
 ### Bibelriether, Veronika ()
 - **FAUdir:** [`98d2f96fca`](https://faudir.fau.de/public/person/98d2f96fca)
@@ -92,19 +99,35 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md): "Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure" — Vorlesung
 
+### Dengler, Eva ()
+- **FAUdir:** [`e3b790f652`](https://faudir.fau.de/public/person/e3b790f652)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Pflichtveranstaltungen (heuristisch):** 2
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
+
 ### Döllwanger, Melanie ()
 - **FAUdir:** [`ac943de8cc`](https://faudir.fau.de/public/person/ac943de8cc)
 - **Affiliation:** Professur für Didaktik der Informatik
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren"" — Vorlesung mit Übung
 
+### Eschner, Christina (Prof. Dr.)
+- **FAUdir:** [`e522b9e6e6`](https://faudir.fau.de/public/person/e522b9e6e6)
+- **Affiliation:** Lehrstuhl für Neues Testament I (Theologie des Neuen Testaments)
+- **Weitere Affiliationen:** Lehrstuhl für Neues Testament I (Theologie des Neuen Testaments)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Seminar Neues Testament und Judentum" — Seminar
+
 ### Fey, Dietmar (Prof. Dr.-Ing.)
 - **FAUdir:** [`4184845fca`](https://faudir.fau.de/public/person/4184845fca)
 - **Affiliation:** Lehrstuhl für Informatik 3 (Rechnerarchitektur)
 - **Weitere Affiliationen:** Lehrstuhl für Informatik 3 (Rechnerarchitektur)
-- **Pflichtveranstaltungen (heuristisch):** 1
+- **Pflichtveranstaltungen (heuristisch):** 3
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Engineering 2" — Vorlesung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Engineering 2 - Übung" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Grundlagen der Rechnerarchitektur und -organisation" — Vorlesung
-- *(zusätzlich 3 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Fischer, Marcus (Dr.-Ing.)
 - **FAUdir:** [`e0a261db5d`](https://faudir.fau.de/public/person/e0a261db5d)
@@ -138,12 +161,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): "Modeling and Analysis in Continuum Mechanics 2" — Vorlesung
   - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): "Übungen zu Modeling and Analysis in Continuum Mechanics 2" — Übung
 
-### Hannig, Frank (PD Dr.-Ing.)
-- **FAUdir:** [`db83a1cc67`](https://faudir.fau.de/public/person/db83a1cc67)
-- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
+### Görling, Andreas (Prof. Dr.)
+- **FAUdir:** [`eb5a03ca2e`](https://faudir.fau.de/public/person/eb5a03ca2e)
+- **Affiliation:** Lehrstuhl für Theoretische Chemie
+- **Weitere Affiliationen:** Lehrstuhl für Theoretische Chemie; Computer-Chemie-Centrum; FAU Competence Center Engineering of Advanced Materials (FAU EAM); Molecular Materials (ICMM); Interface Research and Catalysis (ECRC); Computational Advanced Materials and Processes (CAMP); FAU Profile Center New Materials and Processes (FAU NMP)
 - **Pflichtveranstaltungen (heuristisch):** 1
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Multi-Core Architecture and Programming" — Seminar
-- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+  - in [- Chemie und Pharmazie (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-pharmazie-fau-scientia-13839583.md): "Quantum Chemistry 2" — Vorlesung mit Übung
 
 ### Hartmann, Martin (Prof. Dr.)
 - **FAUdir:** [`eb416bb26e`](https://faudir.fau.de/public/person/eb416bb26e)
@@ -162,6 +185,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Rechnerübung zu Algorithmik kontinuierlicher Systeme" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Algorithmik kontinuierlicher Systeme" — Übung
 
+### Häberlein, Tobias ()
+- **FAUdir:** [`1c4b4a9fe3`](https://faudir.fau.de/public/person/1c4b4a9fe3)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
 ### Höhne, Florian (Prof. Dr.)
 - **FAUdir:** [`769621de9d`](https://faudir.fau.de/public/person/769621de9d)
 - **Affiliation:** Lehrstuhl für Medienkommunikation, Medienethik und Digitale Theologie
@@ -170,6 +200,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Queere Theologie für (digitale) Medien und Schule" — Seminar
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Islam, Christentum und (Medien-) Öffentlichkeiten" — Seminar
 - *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
+### Kapitza, Rüdiger (Prof. Dr.-Ing.)
+- **FAUdir:** [`7f9a963f86`](https://faudir.fau.de/public/person/7f9a963f86)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Karim, Abrarul ()
 - **FAUdir:** [`4b6f4238ed`](https://faudir.fau.de/public/person/4b6f4238ed)
@@ -183,6 +220,14 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Übung Technische Thermodynamik (Vertiefung) für ET und CE" — Übung
 - *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
+### Kleinöder, Jürgen (Dr.-Ing.)
+- **FAUdir:** [`4857e491bb`](https://faudir.fau.de/public/person/4857e491bb)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Weitere Affiliationen:** Lehrstuhl für Informatik 4 (Systemsoftware); Chief Information Officer (CIO)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Klämpfl, Florian (Dr.-Ing.)
 - **FAUdir:** [`73165233a7`](https://faudir.fau.de/public/person/73165233a7)
@@ -202,17 +247,17 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`f8c7cf0a14`](https://faudir.fau.de/public/person/f8c7cf0a14)
 - **Affiliation:** Lehrstuhl für Technische Dynamik
 - **Weitere Affiliationen:** Lehrstuhl für Technische Dynamik; Departmentleitung und Geschäftsführung
-- **Pflichtveranstaltungen (heuristisch):** 1
+- **Pflichtveranstaltungen (heuristisch):** 2
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Tutorium zur Statik und Festigkeitslehre" — Tutorium
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Übungen zur Statik und Festigkeitslehre" — Übung
-- *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Mahesh Nirmala, Avinash ()
 - **FAUdir:** [`2bc9d77cf7`](https://faudir.fau.de/public/person/2bc9d77cf7)
 - **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
-- **Pflichtveranstaltungen (heuristisch):** 2
+- **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Hardware-Software-Co-Design" — Übung
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Multi-Core Architecture and Programming" — Seminar
-- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+- *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Marquardt, Christoph (Prof. Dr.)
 - **FAUdir:** [`cca6922d2c`](https://faudir.fau.de/public/person/cca6922d2c)
@@ -220,6 +265,14 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Optische Quantentechnologien; FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ); FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ)
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Physik (FAU Scientia)  -](../589-sommersemester-2026/physik-fau-scientia-13839673.md): "Integrierter Kurs LA: Quantenmechanik und Atomphysik" — Vorlesung
+
+### Mazloum, Elham Daniela ()
+- **FAUdir:** [`ac3c158d8e`](https://faudir.fau.de/public/person/ac3c158d8e)
+- **Affiliation:** Professur für Islamisch-Religiöse Studien mit Schwerpunkt Reformdiskurs im gegenwärtigen Islam (Heisenberg-Professur)
+- **Weitere Affiliationen:** Lehrstuhl für Islamisch-Religiöse Studien mit Schwerpunkt Textwissenschaft und Normenlehre
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion" — Seminar
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
 
 ### Milius, Stefan (Prof. Dr.)
 - **FAUdir:** [`b9d37e5d44`](https://faudir.fau.de/public/person/b9d37e5d44)
@@ -263,6 +316,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Automotive Systems & Software Engineering" — Vorlesung mit Übung
 
+### Rensinghoff, Johannes (Dr.)
+- **FAUdir:** [`d823b3f325`](https://faudir.fau.de/public/person/d823b3f325)
+- **Affiliation:** Lehrstuhl für Kirchengeschichte I (Ältere Kirchengeschichte)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Ü: Quellenübung zur Theologie- und Kirchengeschichte I" — Übung
+
 ### Riehle, Dirk (Prof. Dr.)
 - **FAUdir:** [`04de664204`](https://faudir.fau.de/public/person/04de664204)
 - **Affiliation:** Professur für Open Source Software
@@ -270,6 +329,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Applied Software Engineering Master-Projekt" — Projekt
 - *(zusätzlich 2 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
+### Ritter von Onciul, Maxim ()
+- **FAUdir:** [`0bc3d5c627`](https://faudir.fau.de/public/person/0bc3d5c627)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Pflichtveranstaltungen (heuristisch):** 2
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
 
 ### Schmidt, Michael (Prof. Dr.-Ing.)
 - **FAUdir:** [`6e4d2d4557`](https://faudir.fau.de/public/person/6e4d2d4557)
@@ -285,12 +351,25 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Introduction to Machine Learning Tutorial" — Übung
 
-### Sesli, Batuhan ()
-- **FAUdir:** [`c6a7e8aed8`](https://faudir.fau.de/public/person/c6a7e8aed8)
-- **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
+### Schubert, Anselm (Prof. Dr.)
+- **FAUdir:** [`abe649ebaf`](https://faudir.fau.de/public/person/abe649ebaf)
+- **Affiliation:** Lehrstuhl für Kirchengeschichte II (Neuere Kirchengeschichte)
+- **Weitere Affiliationen:** Lehrstuhl für Kirchengeschichte II (Neuere Kirchengeschichte); Lehrstuhl für Kirchengeschichte II (Neuere Kirchengeschichte)
 - **Pflichtveranstaltungen (heuristisch):** 1
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Multi-Core Architecture and Programming" — Seminar
-- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+  - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "VL: Kirchen- und Theologiegeschichte im Überblick KG III: Spätmittelalter und Reformationszeit" — Vorlesung
+
+### Schulz, Peter (Dr.)
+- **FAUdir:** [`54ac4be660`](https://faudir.fau.de/public/person/54ac4be660)
+- **Affiliation:** Lehrstuhl für Chemische Reaktionstechnik
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Hauptseminar EVT" — Hauptseminar
+
+### Sieh, Volkmar (Dr.-Ing.)
+- **FAUdir:** [`47508d8ccf`](https://faudir.fau.de/public/person/47508d8ccf)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Weitere Affiliationen:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C" — Vorlesung
 
 ### Steirteghem, Bart (Dr.)
 - **FAUdir:** [`3fd20e56b8`](https://faudir.fau.de/public/person/3fd20e56b8)
@@ -325,6 +404,20 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Hardware-Software-Co-Design" — Übung
 
+### Vogel, Arne ()
+- **FAUdir:** [`7b8ff08a8a`](https://faudir.fau.de/public/person/7b8ff08a8a)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Pflichtveranstaltungen (heuristisch):** 2
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
+
+### Wasserscheid, Peter (Prof. Dr.)
+- **FAUdir:** [`03c4e29a6e`](https://faudir.fau.de/public/person/03c4e29a6e)
+- **Affiliation:** Lehrstuhl für Chemische Reaktionstechnik
+- **Weitere Affiliationen:** Lehrstuhl für Chemische Reaktionstechnik; Zentrum Wasserstoff.Bayern (H2.B); Bavarian Hydrogen Center; FAU Competence Center Engineering of Advanced Materials (FAU EAM); FAU Competence Center Engineering of Advanced Materials (FAU EAM); Nanoanalysis and Electron Microscopy (CENEM); Molecular Materials (ICMM); Nanostructured Films (IZNF); Interface Research and Catalysis (ECRC); Advanced Materials and Processes (ZMP); FAU Profile Center New Materials and Processes (FAU NMP)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Hauptseminar EVT" — Hauptseminar
+
 ### Wellein, Gerhard (Prof. Dr.)
 - **FAUdir:** [`99afabf8db`](https://faudir.fau.de/public/person/99afabf8db)
 - **Affiliation:** Professur für Höchstleistungsrechnen
@@ -347,6 +440,21 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Pflichtveranstaltungen (heuristisch):** 1
   - in [- Mathematik (FAU Scientia)  -](../589-sommersemester-2026/mathematik-fau-scientia-13839597.md): "Tafelübung zu Lineare und nichtlineare Systeme" — Übung
 - *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
+### Wiedemann, Ole ()
+- **FAUdir:** [`6ec4da90f6`](https://faudir.fau.de/public/person/6ec4da90f6)
+- **Affiliation:** Lehrstuhl für Informatik 4 (Systemsoftware)
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Systemprogrammierung 1 - Übung" — Übung
+- *(zusätzlich 1 Nicht-Pflicht-Veranstaltungen — hier nicht aufgeführt)*
+
+### Wild, Paul (Dr.-Ing.)
+- **FAUdir:** [`0aa24f1edc`](https://faudir.fau.de/public/person/0aa24f1edc)
+- **Affiliation:** Lehrstuhl für Informatik 8 (Theoretische Informatik)
+- **Pflichtveranstaltungen (heuristisch):** 3
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Intensivübung zu Theorie der Programmierung (optional)" — Übung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Theorie der Programmierung" — Vorlesung
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übungen zu Theorie der Programmierung" — Übung
 
 ### Will, Stefan (Prof. Dr.-Ing.)
 - **FAUdir:** [`ee82b33881`](https://faudir.fau.de/public/person/ee82b33881)
