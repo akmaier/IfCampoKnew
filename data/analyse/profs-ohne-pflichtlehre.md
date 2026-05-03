@@ -1,13 +1,13 @@
 ---
 kind: "profs-ohne-pflichtlehre"
 period: "Wintersemester 2025/26 + Sommersemester 2026"
-candidates_total: 978
+candidates_total: 924
 rank_distribution:
-  W3: 29
+  W3: 26
   W1: 5
-  W?: 928
+  W?: 877
   Junior: 16
-scraped_at: 2026-05-03T20:18:07+00:00
+scraped_at: 2026-05-03T20:28:55+00:00
 ---
 
 # Profs ohne Pflichtlehre (FAUdir × Campo)
@@ -22,13 +22,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 * Diese Datei dient als **Vergleichsgrundlage (B)** für die RAG-Antwort (A) auf dieselbe Frage. Bei Inkonsistenz ist die RAG-Antwort meist belastbarer.
 
 **Periode:** Wintersemester 2025/26 + Sommersemester 2026  
-**Kandidaten:** 978 FAUdir-bestätigte Profs ohne Pflichtlehre
+**Kandidaten:** 924 FAUdir-bestätigte Profs ohne Pflichtlehre
 
 ## Verteilung nach W-Rang
 
-- **W3**: 29
+- **W3**: 26
 - **W1**: 5
-- **W?**: 928
+- **W?**: 877
 - **Junior**: 16
 
 ## Rang W3
@@ -67,20 +67,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** W3-Professur für Neuromuscular Physiology and Neural Interfacing
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Applied Programming" — Vorlesung mit Übung
-
-### Hagen, Luca ()
-- **FAUdir:** [`ee49ee24c3`](https://faudir.fau.de/public/person/ee49ee24c3)
-- **Affiliation:** W3-Professur für Image Data Exploration and Analysis
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "International Supply Chain Management (vhb)" — Vorlesung mit Übung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "International Supply Chain Management (vhb)" — Vorlesung mit Übung
-
-### Hagen, Luca ()
-- **FAUdir:** [`ee49ee24c3`](https://faudir.fau.de/public/person/ee49ee24c3)
-- **Affiliation:** W3-Professur für Image Data Exploration and Analysis
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "Begleitetes Selbststudium" — Sonstige Lehrveranstaltung
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "Tandem mit Université Paris Sciences et Lettres (PSL)" — Übung
 
 ### Hansen, Swantje ()
 - **FAUdir:** [`135c7d08c5`](https://faudir.fau.de/public/person/135c7d08c5)
@@ -144,16 +130,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in : "K-P10_BT Innere Medizin, Teil I (BPK)_FG 1 Gastroenterologie" — Praktikum
   - in : "K-P13_BT Innere Medizin, Teil II (BPK)_FG 1 Gastroenterologie" — Praktikum
   - in : "MED43407 Wahlpflichtfach Praktische Gastroenterologie" — Seminar
-
-### Mahlberg, Michaela (Prof. Dr.)
-- **FAUdir:** [`7a85c1f920`](https://faudir.fau.de/public/person/7a85c1f920)
-- **Affiliation:** W3-Professur für Digital Humanities mit Schwerpunkt Computing Text and Language
-- **Weitere Affiliationen:** Department Digital Humanities and Social Studies; W3-Professur für Digital Humanities mit Schwerpunkt Computing Text and Language
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
-  - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "Gerontopsychiatrie" — 
-  - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "601 Grundlagen der Gerontopsychiatrie" — Seminar
-  - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "601 Grundlagen der Gerontopsychiatrie Kurs B" — Seminar
-  - in [Gerontologie](../589-sommersemester-2026/gerontologie-18284.md): "Gerontopsychiatrie" — 
 
 ### Mundhenke, Christoph (Prof. Dr.)
 - **FAUdir:** [`7041304287`](https://faudir.fau.de/public/person/7041304287)
@@ -330,14 +306,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Abel, Luca ()
 - **FAUdir:** [`c57fbd7b96`](https://faudir.fau.de/public/person/c57fbd7b96)
 - **Affiliation:** Lehrstuhl für Maschinelles Lernen und Datenanalytik
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 6
   - in [Veranstaltungen aus der Technischen Fakultät](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md): "Best Practices in Open Science" — Vorlesung mit Übung
   - in [Veranstaltungen aus der Technischen Fakultät](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md): "Applied Data Science in Medicine & Psychology" — Vorlesung mit Übung
-
-### Abel, Luca ()
-- **FAUdir:** [`c57fbd7b96`](https://faudir.fau.de/public/person/c57fbd7b96)
-- **Affiliation:** Lehrstuhl für Maschinelles Lernen und Datenanalytik
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
   - in : "K-V17_BT Orthopädie" — Vorlesung
   - in : "K-V23_BT Rehabilitation, Phys. Med., Naturheilverf. Q12 (RVL)" — Vorlesung
   - in : "K-PS22_BT Schmerzmedizin Q14" — Seminar
@@ -529,17 +500,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Bauer, Wolfgang (Dr.)
 - **FAUdir:** [`9dfa722b6a`](https://faudir.fau.de/public/person/9dfa722b6a)
 - **Affiliation:** Lehrstuhl für Geologie (Exogene Dynamik)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "K-V22 Vorlesung Rechtsmedizin" — Vorlesung
-
-### Bauer, Wolfgang (Dr.)
-- **FAUdir:** [`9dfa722b6a`](https://faudir.fau.de/public/person/9dfa722b6a)
-- **Affiliation:** Lehrstuhl für Geologie (Exogene Dynamik)
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
+- **Veranstaltungen ohne Pflicht-Markierung:** 5
   - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Interkulturelle Kompetenz: Theoretische und praktische Grundlagen" — Seminar
   - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Interkulturelles Konfliktmanagement: Theoretische und praktische Grundlagen" — Seminar
   - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "ZIWIS Spring School Future Skills" — Seminar
   - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Interkulturelle Kompetenz: Theoretische und praktische Grundlagen" — Seminar
+  - in : "K-V22 Vorlesung Rechtsmedizin" — Vorlesung
 
 ### Bauer, Florian (Dr.-Ing.)
 - **FAUdir:** [`8f79dbc4cd`](https://faudir.fau.de/public/person/8f79dbc4cd)
@@ -619,13 +585,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Hauptmodul L-GYM Literature" — 
   - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Optionsmodul L-GYM Literature" — 
   - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Zwischenmodul L-GYM Literature" — 
-
-### Beck, Silvan ()
-- **FAUdir:** [`d5cbc20754`](https://faudir.fau.de/public/person/d5cbc20754)
-- **Affiliation:** Lehrstuhl für Biochemie und Molekulare Medizin
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Grundlagen der Elektrotechnik für EEI,ME,BP,INF,Math" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Grundlagen der Elektrotechnik für EEI,ME,BP,INF,Math" — 
 
 ### Beck, Moritz ()
 - **FAUdir:** [`13f358d1c1`](https://faudir.fau.de/public/person/13f358d1c1)
@@ -842,17 +801,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`f6500848b6`](https://faudir.fau.de/public/person/f6500848b6)
 - **Affiliation:** Fachbereich Wirtschafts- und Sozialwissenschaften
 - **Weitere Affiliationen:** Lehrstuhl für Corporate Sustainability Management
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Mechatronische Systeme" — Praktikum
-
-### Binder, Klaus Georg (apl. Prof. Dr.)
-- **FAUdir:** [`f6500848b6`](https://faudir.fau.de/public/person/f6500848b6)
-- **Affiliation:** Fachbereich Wirtschafts- und Sozialwissenschaften
-- **Weitere Affiliationen:** Lehrstuhl für Corporate Sustainability Management
-- **Veranstaltungen ohne Pflicht-Markierung:** 3
+- **Veranstaltungen ohne Pflicht-Markierung:** 4
   - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Grundzüge der Umweltökonomik" — 
   - in : "Grundzüge der Umweltökonomik" — Vorlesung mit Übung
   - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Grundzüge der Umweltökonomik" — 
+  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Mechatronische Systeme" — Praktikum
 
 ### Binzel, Christine (Prof. Dr.)
 - **FAUdir:** [`89d624d383`](https://faudir.fau.de/public/person/89d624d383)
@@ -1000,17 +953,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Braun, Tobias ()
 - **FAUdir:** [`a0b8cc0492`](https://faudir.fau.de/public/person/a0b8cc0492)
 - **Affiliation:** Lehrstuhl für Pharmazeutische Chemie
-- **Veranstaltungen ohne Pflicht-Markierung:** 5
+- **Veranstaltungen ohne Pflicht-Markierung:** 6
   - in [Skandinavistik](../565-wintersemester-2025-26/skandinavistik-17170.md): "Dänisch: SK I / EK I" — Übung
   - in [Skandinavistik](../565-wintersemester-2025-26/skandinavistik-17170.md): "Dänisch: SK III / Elementarkurs III" — Übung
   - in [Skandinavistik](../565-wintersemester-2025-26/skandinavistik-17170.md): "Dänisch: Landeskunde" — Übung
   - in [Skandinavistik](../589-sommersemester-2026/skandinavistik-18247.md): "Dänisch: Elementarkurs II / SK II" — Übung
   - in [Skandinavistik](../589-sommersemester-2026/skandinavistik-18247.md): "Dänisch: Elementarkurs IV / SK IV" — Übung
-
-### Braun, Tobias ()
-- **FAUdir:** [`a0b8cc0492`](https://faudir.fau.de/public/person/a0b8cc0492)
-- **Affiliation:** Lehrstuhl für Pharmazeutische Chemie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Religionswissenschaften und Theologie (FAU Scientia)  -](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md): "Vorlesung Islam" — Vorlesung
 
 ### Braun, Matthias ()
@@ -1669,13 +1617,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Dombrowski, Mayke ()
 - **FAUdir:** [`011ebed823`](https://faudir.fau.de/public/person/011ebed823)
 - **Affiliation:** Lehrstuhl für Kunstpädagogik und -didaktik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in : "Basis Papier" — Seminar
-
-### Dombrowski, Mayke ()
-- **FAUdir:** [`011ebed823`](https://faudir.fau.de/public/person/011ebed823)
-- **Affiliation:** Lehrstuhl für Kunstpädagogik und -didaktik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "Seminar zur Lehrveranstaltungsdurchführung" — Kleingruppenunterricht
 
 ### Donner, Martin ()
@@ -1853,7 +1796,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`cdea30d44b`](https://faudir.fau.de/public/person/cdea30d44b)
 - **Affiliation:** Lehrstuhl für Schulpädagogik mit dem Schwerpunkt Schulentwicklungsforschung und Experiential Learning
 - **Weitere Affiliationen:** Lehrstuhl für Schulpädagogik mit dem Schwerpunkt Schulentwicklungsforschung und Experiential Learning; Klassenzimmer unter Segeln
-- **Veranstaltungen ohne Pflicht-Markierung:** 11
+- **Veranstaltungen ohne Pflicht-Markierung:** 27
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../565-wintersemester-2025-26/paedagogik-und-fachdidaktik-fau-scientia-12199759.md): "EEBF Modul 9 - Projektdurchführung" — Seminar
   - in [Mittelschulpädagogik](../565-wintersemester-2025-26/mittelschulpaedagogik-17155.md): "HeIn: Inklusion - Aufgabe für Schule und Schulsystem (Online)" — Seminar
   - in [Mittelschulpädagogik](../565-wintersemester-2025-26/mittelschulpaedagogik-17155.md): "Forschungskolloquium" — Kolloquium
@@ -1864,24 +1807,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Mittelschulpädagogik](../589-sommersemester-2026/mittelschulpaedagogik-18277.md): "HeIn: Inklusion - Aufgabe für Schule und Schulsystem (Online)" — Seminar
   - in [Mittelschulpädagogik](../589-sommersemester-2026/mittelschulpaedagogik-18277.md): "Basismodul: Seminar -  Basiswissen und grundlegende Kompetenzen eines Mittelschullehrers/ einer Mittelschullehrerin" — Seminar
   - in [Mittelschulpädagogik](../589-sommersemester-2026/mittelschulpaedagogik-18277.md): "SHM-InInKo: Lernen, Lehren, Forschen mittels unmittelbarer Erfahrung. Geschichte zum Anfassen und Gestaltung von Experiential Learning-Lernumgebungen. (Kooperationsseminar in Zusammenarbeit mit Boris Dreyer, Prof. Alte Geschichte, Römerboot)" — Seminar
-  - … und 1 weitere
-
-### Eberle, Thomas (Prof. Dr.)
-- **FAUdir:** [`cdea30d44b`](https://faudir.fau.de/public/person/cdea30d44b)
-- **Affiliation:** Lehrstuhl für Schulpädagogik mit dem Schwerpunkt Schulentwicklungsforschung und Experiential Learning
-- **Weitere Affiliationen:** Lehrstuhl für Schulpädagogik mit dem Schwerpunkt Schulentwicklungsforschung und Experiential Learning; Klassenzimmer unter Segeln
-- **Veranstaltungen ohne Pflicht-Markierung:** 16
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Elektrische Energiespeichersysteme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Elektrische Energiespeichersysteme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Elektrische Energiespeichersysteme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar über ausgewählte Aspekte der elektrischen Energietechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Energieelektronik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Elektrische Energiespeichersysteme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Elektrische Energiespeichersysteme" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Elektrische Energiespeichersysteme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Elektrische Energiespeichersysteme" — 
-  - … und 6 weitere
+  - … und 17 weitere
 
 ### Ebner, Markus (Dr.)
 - **FAUdir:** [`74155f96e6`](https://faudir.fau.de/public/person/74155f96e6)
@@ -2026,12 +1952,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "1702 Wahlpflichtseminar II Kurs A" — Seminar
 
-### Engel, Sinha (Dr.)
-- **FAUdir:** [`33862d76a6`](https://faudir.fau.de/public/person/33862d76a6)
-- **Affiliation:** Lehrstuhl für Klinische Psychologie und Behavioral Health Technology
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "1702 Wahlpflichtseminar II Kurs C" — Seminar
-
 ### Engel, Felix (Prof. Dr. rer. nat)
 - **FAUdir:** [`d9f4d45ffd`](https://faudir.fau.de/public/person/d9f4d45ffd)
 - **Affiliation:** Professur für Experimentelle Nieren- und Kreislaufforschung
@@ -2074,13 +1994,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Eskofier, Anett ()
 - **FAUdir:** [`a814b707b8`](https://faudir.fau.de/public/person/a814b707b8)
 - **Affiliation:** Lehrstuhl für Psychologie, insbesondere Wirtschafts- und Sozialpsychologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übung zur Sozialpsychologie" — Übung
-
-### Eskofier, Anett ()
-- **FAUdir:** [`a814b707b8`](https://faudir.fau.de/public/person/a814b707b8)
-- **Affiliation:** Lehrstuhl für Psychologie, insbesondere Wirtschafts- und Sozialpsychologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 8
+- **Veranstaltungen ohne Pflicht-Markierung:** 9
   - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Maschinelles Lernen für Zeitreihen" — 
   - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Seminar Advances in Deep Learning for Time Series (ADLTS)" — 
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Reinforcement Learning" — 
@@ -2089,6 +2003,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Seminar Advances in Deep Learning for Time Series (ADLTS)" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Reinforcement Learning" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Maschinelles Lernen für Zeitreihen" — 
+  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Übung zur Sozialpsychologie" — Übung
 
 ### Esper, Khalil ()
 - **FAUdir:** [`d227beb978`](https://faudir.fau.de/public/person/d227beb978)
@@ -2141,15 +2056,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Arabisch I" — 
   - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Arabisch I" — 
 
-### Falk, Sven (Dr.)
-- **FAUdir:** [`f604bdcd94`](https://faudir.fau.de/public/person/f604bdcd94)
-- **Affiliation:** Lehrstuhl für Biochemie und Pathobiochemie
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "SoC-Entwurf" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Systems- and Networks-on-a-Chip" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "SoC-Entwurf" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Systems- and Networks-on-a-Chip" — 
-
 ### Falk, Joachim (Dr.-Ing.)
 - **FAUdir:** [`80574a4ecf`](https://faudir.fau.de/public/person/80574a4ecf)
 - **Affiliation:** Lehrstuhl für Informatik 12 (Hardware-Software-Co-Design)
@@ -2167,18 +2073,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Falk, Sven (Dr.)
 - **FAUdir:** [`f604bdcd94`](https://faudir.fau.de/public/person/f604bdcd94)
 - **Affiliation:** Lehrstuhl für Biochemie und Pathobiochemie
-- **Veranstaltungen ohne Pflicht-Markierung:** 6
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Parallele Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Parallele Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Parallele Systeme (Vorlesung mit erweiterten Übungen)" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Parallele Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Parallele Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Parallele Systeme (Vorlesung mit erweiterten Übungen)" — 
-
-### Falk, Sven (Dr.)
-- **FAUdir:** [`f604bdcd94`](https://faudir.fau.de/public/person/f604bdcd94)
-- **Affiliation:** Lehrstuhl für Biochemie und Pathobiochemie
-- **Veranstaltungen ohne Pflicht-Markierung:** 31
+- **Veranstaltungen ohne Pflicht-Markierung:** 41
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Eingebettete Systeme" — 
   - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Security in Embedded Hardware" — 
   - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Eingebettete Systeme" — 
@@ -2189,7 +2084,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Technischen Informatik" — 
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Security in Embedded Hardware" — 
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Hardware-Software-Co-Design" — 
-  - … und 21 weitere
+  - … und 31 weitere
 
 ### Fauler, Sascha (Dr.)
 - **FAUdir:** [`8a553f13c4`](https://faudir.fau.de/public/person/8a553f13c4)
@@ -2213,13 +2108,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Lehrstuhl für Interfaces und Partikeltechnologie
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "Fluid-Feststoff-Strömungen / Fluid-Solid-Flows" — Vorlesung
-
-### Feigenspan, Andreas (Prof. Dr.)
-- **FAUdir:** [`ea1c69ce3f`](https://faudir.fau.de/public/person/ea1c69ce3f)
-- **Affiliation:** Professur für Neurobiologie
-- **Weitere Affiliationen:** Professur für Neurobiologie; Lehrstuhl für Tierphysiologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [LV mit Nachhaltigkeitsbezug, Philosophische Fakultät und Fachbereich Theologie](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-philosophische-fakultaet-und-fachbereich-theologie-17586.md): "Grundkonzepte Biologie für Grund- und Mittelschule Fächergruppe: Außerschulische Lernorte im Biologieunterricht" — Seminar
 
 ### Feile, Klara ()
 - **FAUdir:** [`0bf48d22ee`](https://faudir.fau.de/public/person/0bf48d22ee)
@@ -2312,9 +2200,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`5c4464436f`](https://faudir.fau.de/public/person/5c4464436f)
 - **Affiliation:** Lehrstuhl für Soziologie mit Schwerpunkt transnationale Arbeit 
 - **Weitere Affiliationen:** Institut für Soziologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 4
   - in [Soziologie](../565-wintersemester-2025-26/soziologie-17143.md): "Einführung in die Datenaufbereitung und Datenanalyse mit SPSS" — Seminar
   - in [Soziologie](../589-sommersemester-2026/soziologie-18299.md): "Einführung in die Datenaufbereitung und Datenanalyse mit SPSS" — Seminar
+  - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Mittelalterliche Geschichte" — 
+  - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Mittelalterliche Geschichte" — 
 
 ### Fischer, Julia (Dr.)
 - **FAUdir:** [`4f5b345900`](https://faudir.fau.de/public/person/4f5b345900)
@@ -2330,14 +2220,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Weitere Affiliationen:** Philosophische Fakultät und Fachbereich Theologie; Lehrstuhl für Neuere deutsche Literatur mit systematischem Schwerpunkt
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md): "Schriftstellerinnen der Weimarer Republik (Lit AM-L)" — Seminar
-
-### Fischer, Andreas (Dr.)
-- **FAUdir:** [`5c4464436f`](https://faudir.fau.de/public/person/5c4464436f)
-- **Affiliation:** Lehrstuhl für Soziologie mit Schwerpunkt transnationale Arbeit 
-- **Weitere Affiliationen:** Institut für Soziologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Mittelalterliche Geschichte" — 
-  - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Mittelalterliche Geschichte" — 
 
 ### Fischer, Dagmar (Prof. Dr.)
 - **FAUdir:** [`d24d23591b`](https://faudir.fau.de/public/person/d24d23591b)
@@ -2389,14 +2271,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`ffafaacf12`](https://faudir.fau.de/public/person/ffafaacf12)
 - **Affiliation:** Lehrstuhl für Pädagogik mit dem Schwerpunkt Diversity Education und internationale Bildungsforschung
 - **Weitere Affiliationen:** Lehrstuhl für Pädagogik mit dem Schwerpunkt Diversity Education und internationale Bildungsforschung
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [FAU Lehramt International](../565-wintersemester-2025-26/fau-lehramt-international-17207.md): "ZS M2 Mentorat zum Sprachkurs: "Mehrsprachigkeit und Pädagogische Professionalität" (Standort Nürnberg)" — Seminar
-
-### Flötotto, Madeleine ()
-- **FAUdir:** [`ffafaacf12`](https://faudir.fau.de/public/person/ffafaacf12)
-- **Affiliation:** Lehrstuhl für Pädagogik mit dem Schwerpunkt Diversity Education und internationale Bildungsforschung
-- **Weitere Affiliationen:** Lehrstuhl für Pädagogik mit dem Schwerpunkt Diversity Education und internationale Bildungsforschung
-- **Veranstaltungen ohne Pflicht-Markierung:** 8
+- **Veranstaltungen ohne Pflicht-Markierung:** 9
   - in [FAU Lehramt International](../565-wintersemester-2025-26/fau-lehramt-international-17207.md): "Internationale und Europäische Dimension in den Fachwissenschaften, Fachdidaktiken und/oder Bildungswissenschaften" — 
   - in [FAU Lehramt International](../565-wintersemester-2025-26/fau-lehramt-international-17207.md): "Mehrsprachigkeit und Pädagogische Professionalität" — 
   - in [FAU Lehramt International](../565-wintersemester-2025-26/fau-lehramt-international-17207.md): "Pädagogische Professionalität im Kontext der internationalen Mobilität" — 
@@ -2405,6 +2280,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [FAU Lehramt International](../589-sommersemester-2026/fau-lehramt-international-18255.md): "Mehrsprachigkeit und Pädagogische Professionalität" — 
   - in [FAU Lehramt International](../589-sommersemester-2026/fau-lehramt-international-18255.md): "Pädagogische Professionalität im Kontext der internationalen Mobilität" — 
   - in [FAU Lehramt International](../589-sommersemester-2026/fau-lehramt-international-18255.md): "Global Citizens in Aktion" — 
+  - in [FAU Lehramt International](../565-wintersemester-2025-26/fau-lehramt-international-17207.md): "ZS M2 Mentorat zum Sprachkurs: "Mehrsprachigkeit und Pädagogische Professionalität" (Standort Nürnberg)" — Seminar
 
 ### Forster, Jonas ()
 - **FAUdir:** [`c6187e0def`](https://faudir.fau.de/public/person/c6187e0def)
@@ -2570,14 +2446,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Fröhlich, Vincent (Dr.)
 - **FAUdir:** [`1e9b90b742`](https://faudir.fau.de/public/person/1e9b90b742)
 - **Affiliation:** Lehrstuhl für Medienwissenschaft
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [Literaturstudien - intermedial und interkulturell](../589-sommersemester-2026/literaturstudien-intermedial-und-interkulturell-18298.md): "MA Medien 2. FS - Modul 5: Theorieseminar" — Masterseminar
-
-### Fröhlich, Vincent (Dr.)
-- **FAUdir:** [`1e9b90b742`](https://faudir.fau.de/public/person/1e9b90b742)
-- **Affiliation:** Lehrstuhl für Medienwissenschaft
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Automotive Engineering 1" — Vorlesung
+  - in [Literaturstudien - intermedial und interkulturell](../589-sommersemester-2026/literaturstudien-intermedial-und-interkulturell-18298.md): "MA Medien 2. FS - Modul 5: Theorieseminar" — Masterseminar
 
 ### Fröhlich, Johanna ()
 - **FAUdir:** [`5f6d7f72b8`](https://faudir.fau.de/public/person/5f6d7f72b8)
@@ -2681,22 +2552,17 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Geidel, Madlen ()
 - **FAUdir:** [`4d35ba4e10`](https://faudir.fau.de/public/person/4d35ba4e10)
 - **Affiliation:** Lehrstuhl für Medienkommunikation, Medienethik und Digitale Theologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 6
+- **Veranstaltungen ohne Pflicht-Markierung:** 10
+  - in [Medien-Ethik-Religion](../565-wintersemester-2025-26/medien-ethik-religion-17234.md): "Praxismodul Medienpraktikum (M.A. Medien-Ethik-Religion 20202)" — 
+  - in [Medien-Ethik-Religion](../565-wintersemester-2025-26/medien-ethik-religion-17234.md): "Medienethik" — 
+  - in [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md): "Praxismodul Medienpraktikum (M.A. Medien-Ethik-Religion 20202)" — 
+  - in [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md): "Medienethik" — 
   - in [Medien-Ethik-Religion](../565-wintersemester-2025-26/medien-ethik-religion-17234.md): "SEM Öffentlichkeitsarbeit - Theorie und Praxis" — Seminar
   - in [Medien-Ethik-Religion](../565-wintersemester-2025-26/medien-ethik-religion-17234.md): ""Heimat.Herd.Hetero." Sexualethik rechter Influencer:innen" — Seminar
   - in [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md): "Die Nachricht im Info-Tsunami - oder: Accuracy always takes precedence over speed. - durchgeführt von Oliver Trenkamp" — Seminar
   - in [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md): "Eine praktische Einführung in die Welt der Podcasts: Vom Skript bis zur Produktion" — Seminar
   - in [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md): "Video-Journalismus: Eine praktische Einführung ins visuelle Storytelling, Texten und Produzieren" — Seminar
   - in [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md): "#Christus - Social Media, Identität_en und der Christusbegriff" — Seminar
-
-### Geidel, Madlen ()
-- **FAUdir:** [`4d35ba4e10`](https://faudir.fau.de/public/person/4d35ba4e10)
-- **Affiliation:** Lehrstuhl für Medienkommunikation, Medienethik und Digitale Theologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
-  - in [Medien-Ethik-Religion](../565-wintersemester-2025-26/medien-ethik-religion-17234.md): "Praxismodul Medienpraktikum (M.A. Medien-Ethik-Religion 20202)" — 
-  - in [Medien-Ethik-Religion](../565-wintersemester-2025-26/medien-ethik-religion-17234.md): "Medienethik" — 
-  - in [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md): "Praxismodul Medienpraktikum (M.A. Medien-Ethik-Religion 20202)" — 
-  - in [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md): "Medienethik" — 
 
 ### Geis, Max-Emanuel (Prof. Dr.)
 - **FAUdir:** [`9e3d8d75da`](https://faudir.fau.de/public/person/9e3d8d75da)
@@ -3056,13 +2922,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Physikalische Chemie für Pharmazie" — Vorlesung
   - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Physikalisch-chemisches Praktikum für Pharmazie" — Praktikum
 
-### Guldi, Dirk Michael (Prof. Dr.)
-- **FAUdir:** [`56ffcc1a17`](https://faudir.fau.de/public/person/56ffcc1a17)
-- **Affiliation:** Lehrstuhl für Physikalische Chemie I
-- **Weitere Affiliationen:** Solar Technologies Go Hybrid; Lehrstuhl für Physikalische Chemie I; Professur für Physikalische Chemie; Graduiertenkolleg 2861/1 - Planare Kohlenstoffgitter; FAU Competence Center Engineering of Advanced Materials (FAU EAM); Molecular Materials (ICMM); Molecular Materials (ICMM); Interface Research and Catalysis (ECRC); FAU Profilzentrum Licht.Materie.Quantentechnologien (FAU LMQ); FAU Profile Center New Materials and Processes (FAU NMP)
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [LV mit Nachhaltigkeitsbezug, Naturwissenschaftliche Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-naturwissenschaftliche-fakultaet-17589.md): "Solar Energy Conversion" — Vorlesung mit Übung
-
 ### Gunkler-Frank, Katharina ()
 - **FAUdir:** [`0dcf188c7c`](https://faudir.fau.de/public/person/0dcf188c7c)
 - **Affiliation:** Lehrstuhl für Germanistische Linguistik mit Schwerpunkt Variation und Wandel des Deutschen
@@ -3118,7 +2977,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Götz, Stefan (Dr.-Ing.)
 - **FAUdir:** [`1a9a96d5b9`](https://faudir.fau.de/public/person/1a9a96d5b9)
 - **Affiliation:** Lehrstuhl für Konstruktionstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 17
+- **Veranstaltungen ohne Pflicht-Markierung:** 20
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Hauptseminar Konstruktion" — Seminar
   - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Robust Design und Toleranzmanagement" — 
   - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Robust Design und Toleranzmanagement" — 
@@ -3129,15 +2988,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Doktorandenseminar" — Anleitung zu wiss. Arbeiten
   - in : "MAB" — Kolloquium
   - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Automotive Engineering 2" — Vorlesung mit Übung
-  - … und 7 weitere
-
-### Götz, Stefan (Dr.-Ing.)
-- **FAUdir:** [`1a9a96d5b9`](https://faudir.fau.de/public/person/1a9a96d5b9)
-- **Affiliation:** Lehrstuhl für Konstruktionstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 3
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "CBPT Projektkurs - CBIyy" — Projektseminar
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "CBPT Projektkurs - CBIzz" — Projektseminar
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Praktikum Computeranwendungen in der Verfahrenstechnik 1" — Praktikum
+  - … und 10 weitere
 
 ### Götzinger, Stephan (Prof. Dr.)
 - **FAUdir:** [`888ffdf730`](https://faudir.fau.de/public/person/888ffdf730)
@@ -3437,14 +3288,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Heim, Constantin ()
 - **FAUdir:** [`18d06e94db`](https://faudir.fau.de/public/person/18d06e94db)
 - **Affiliation:** Lehrstuhl für Energieverfahrenstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 5
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Wärmekraftanlagen und Kraftwerkstechnik" — Vorlesung
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Übung zu Wärmekraftanlagen und Kraftwerkstechnik" — Übung
-
-### Heim, Constantin ()
-- **FAUdir:** [`18d06e94db`](https://faudir.fau.de/public/person/18d06e94db)
-- **Affiliation:** Lehrstuhl für Energieverfahrenstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 3
   - in : "Fortbildung Herzchirurgie" — Vorlesung
   - in : "K-V15_BT Chirurgie" — Vorlesung
   - in : "K-P8_BT Chirurgie (BPK)_Gefäßchirurgie, Herzchirurgie, Allgemein- und Viszeralchirurgie" — Praktikum
@@ -3474,16 +3320,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von Arzneibuch-Methoden) (f. Stud. d. Pharmazie u. Lebensmittelchemie im 2. Semester)" — Praktikum
   - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Pharmazeutisch-chemische Analytik I" — Vorlesung
   - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Wahlpflichtfach Pharmazeutische / Medizinische Chemie" — Praktikum
-
-### Heiß, Wolfgang (Prof. Dr.)
-- **FAUdir:** [`58bb22817e`](https://faudir.fau.de/public/person/58bb22817e)
-- **Affiliation:** Professur für Werkstoffwissenschaften (lösungsprozessierte Halbleitermaterialien)
-- **Weitere Affiliationen:** Professur für Werkstoffwissenschaften (lösungsprozessierte Halbleitermaterialien)
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Advanced Semiconductors Introduction: Fundamentals" — Vorlesung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Nanospectroscopy" — Vorlesung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Advanced Semiconductors Introduction: Characterization" — Vorlesung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Lab Work Manufacturing and Characterization of Phosphors and Storage Phosphors" — Praktikum
 
 ### Held, Felicitas (Dr.)
 - **FAUdir:** [`2ef135fcab`](https://faudir.fau.de/public/person/2ef135fcab)
@@ -3535,17 +3371,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Bilanzpolitik und Bilanzanalyse" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Bilanzpolitik und Bilanzanalyse" — 
-
-### Herbst, Wilhelm ()
-- **FAUdir:** [`38bc558b1d`](https://faudir.fau.de/public/person/38bc558b1d)
-- **Affiliation:** Lehrstuhl für Schulpädagogik mit dem Schwerpunkt empirische Unterrichtsforschung
-- **Veranstaltungen ohne Pflicht-Markierung:** 6
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Research Module: Dialekte und Sprachvariation" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Research Module: Lexikografie, Valenz- und Kollokationsforschung" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Applied Linguistics b" — 
-  - in [Linguistik](../589-sommersemester-2026/linguistik-18239.md): "Research Module: Dialekte und Sprachvariation" — 
-  - in [Linguistik](../589-sommersemester-2026/linguistik-18239.md): "Research Module: Lexikografie, Valenz- und Kollokationsforschung" — 
-  - in [Linguistik](../589-sommersemester-2026/linguistik-18239.md): "Applied Linguistics b" — 
 
 ### Herglotz, Christian (PD Dr.)
 - **FAUdir:** [`e6b19dd6f1`](https://faudir.fau.de/public/person/e6b19dd6f1)
@@ -3671,7 +3496,9 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`61fd99cb2f`](https://faudir.fau.de/public/person/61fd99cb2f)
 - **Affiliation:** Lehrstuhl für Organische Chemie II
 - **Weitere Affiliationen:** Graduate School, Molecular Sciences; Lehrstuhl für Organische Chemie II; Graduiertenzentrum der FAU; Advanced Materials and Processes (ZMP); Graduiertenkolleg 2861/1 - Planare Kohlenstoffgitter; FAU Competence Center Engineering of Advanced Materials (FAU EAM); Molecular Materials (ICMM); Molecular Materials (ICMM); Advanced Materials and Processes (ZMP); Universitätsleitung; FAU Profile Center New Materials and Processes (FAU NMP)
-- **Veranstaltungen ohne Pflicht-Markierung:** 8
+- **Veranstaltungen ohne Pflicht-Markierung:** 10
+  - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "1501 Methoden der psychogerontologischen Intervention Kurs A" — Hauptseminar
+  - in [Gerontologie](../589-sommersemester-2026/gerontologie-18284.md): "1501 Methoden der psychogerontologischen Intervention Kurs A" — Hauptseminar
   - in [Chemie](../565-wintersemester-2025-26/chemie-16826.md): "Organische Chemie 1" — 
   - in [Chemistry](../565-wintersemester-2025-26/chemistry-16805.md): "Research module - Organic Chemistry" — Praktikum
   - in [Molecular Science](../565-wintersemester-2025-26/molecular-science-16812.md): "Organische Chemie 1" — 
@@ -3680,14 +3507,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Chemie](../589-sommersemester-2026/chemie-17647.md): "Organische Chemie 1" — 
   - in [Chemistry](../589-sommersemester-2026/chemistry-17649.md): "Research module - Organic Chemistry" — Praktikum
   - in [Molecular Science](../589-sommersemester-2026/molecular-science-17641.md): "Organische Chemie 1" — 
-
-### Hirsch, Andreas (Prof. Dr.)
-- **FAUdir:** [`61fd99cb2f`](https://faudir.fau.de/public/person/61fd99cb2f)
-- **Affiliation:** Lehrstuhl für Organische Chemie II
-- **Weitere Affiliationen:** Graduate School, Molecular Sciences; Lehrstuhl für Organische Chemie II; Graduiertenzentrum der FAU; Advanced Materials and Processes (ZMP); Graduiertenkolleg 2861/1 - Planare Kohlenstoffgitter; FAU Competence Center Engineering of Advanced Materials (FAU EAM); Molecular Materials (ICMM); Molecular Materials (ICMM); Advanced Materials and Processes (ZMP); Universitätsleitung; FAU Profile Center New Materials and Processes (FAU NMP)
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "1501 Methoden der psychogerontologischen Intervention Kurs A" — Hauptseminar
-  - in [Gerontologie](../589-sommersemester-2026/gerontologie-18284.md): "1501 Methoden der psychogerontologischen Intervention Kurs A" — Hauptseminar
 
 ### Hirschmann, Nora ()
 - **FAUdir:** [`dec58df199`](https://faudir.fau.de/public/person/dec58df199)
@@ -3737,15 +3556,10 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Hofmann, Stefan ()
 - **FAUdir:** [`cd343eab5d`](https://faudir.fau.de/public/person/cd343eab5d)
 - **Affiliation:** Lehrstuhl für Energieverfahrenstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Global Illumination" — Übung
-
-### Hofmann, Stefan ()
-- **FAUdir:** [`cd343eab5d`](https://faudir.fau.de/public/person/cd343eab5d)
-- **Affiliation:** Lehrstuhl für Energieverfahrenstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 3
   - in [Physics](../565-wintersemester-2025-26/physics-16814.md): "Numerische und physikalische Grundlagen von Bildgebungsalgorithmen für die CT-basierte Strahlentherapieplanung" — 
   - in [Physics](../589-sommersemester-2026/physics-17637.md): "Numerische und physikalische Grundlagen von Bildgebungsalgorithmen für die CT-basierte Strahlentherapieplanung" — 
+  - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Tutorials to Global Illumination" — Übung
 
 ### Hofmann, Franz (Prof. Dr.)
 - **FAUdir:** [`2f56a37ea2`](https://faudir.fau.de/public/person/2f56a37ea2)
@@ -4239,13 +4053,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md): "The Politics of Human Rights" — Vorlesung
   - in [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md): "Entwicklungszusammenarbeit in der Krise?" — Hauptseminar
 
-### Kirchner, Stefan (Prof. Dr.)
-- **FAUdir:** [`7061d7d405`](https://faudir.fau.de/public/person/7061d7d405)
-- **Affiliation:** Lehrstuhl für Soziologie mit Schwerpunkt transnationale Arbeit 
-- **Weitere Affiliationen:** Institut für Soziologie; Lehrstuhl für Soziologie mit Schwerpunkt transnationale Arbeit 
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "2PPh2 & 2-V4 & 2-V5 Praktikum der zahnärztlichen Prothetik am Phantom" — Praktikum
-
 ### Kirchner, Jens (Prof. PD Dr. rer nat Dr. phil habil)
 - **FAUdir:** [`efdbc0f28a`](https://faudir.fau.de/public/person/efdbc0f28a)
 - **Affiliation:** Professur für Technische Elektronik
@@ -4257,12 +4064,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`7061d7d405`](https://faudir.fau.de/public/person/7061d7d405)
 - **Affiliation:** Lehrstuhl für Soziologie mit Schwerpunkt transnationale Arbeit 
 - **Weitere Affiliationen:** Institut für Soziologie; Lehrstuhl für Soziologie mit Schwerpunkt transnationale Arbeit 
-- **Veranstaltungen ohne Pflicht-Markierung:** 5
+- **Veranstaltungen ohne Pflicht-Markierung:** 6
   - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Vorlesung: Einführung in die Soziologie" — Vorlesung
   - in [Soziologie](../565-wintersemester-2025-26/soziologie-17143.md): "Einführung in R, Web-Scraping und Datenringen im Feld von Arbeit und Organisation" — Seminar
   - in [Soziologie](../565-wintersemester-2025-26/soziologie-17143.md): "Einführung Soziologie" — 
   - in [Soziologie](../589-sommersemester-2026/soziologie-18299.md): "R Einführung und Anwendungen in Arbeit und Organisation" — Seminar
   - in [Soziologie](../589-sommersemester-2026/soziologie-18299.md): "Einführung Soziologie" — 
+  - in : "2PPh2 & 2-V4 & 2-V5 Praktikum der zahnärztlichen Prothetik am Phantom" — Praktikum
 
 ### Klaus, Tobias ()
 - **FAUdir:** [`f0ba049050`](https://faudir.fau.de/public/person/f0ba049050)
@@ -4291,22 +4099,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Informationstechnik mit dem Schwerpunkt Kommunikationselektronik (Stiftungslehrstuhl)
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Übung zur Einführung in die Informations- und Kommunikationstechnik" — Übung
-
-### Klotz, Michael (Dr.)
-- **FAUdir:** [`f3d9734b11`](https://faudir.fau.de/public/person/f3d9734b11)
-- **Affiliation:** Lehrstuhl für Englische Linguistik
-- **Veranstaltungen ohne Pflicht-Markierung:** 19
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF I Linguistics" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF I Linguistics" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF I Linguistics" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Introductory Module Topics in Linguistic Theory and Language Acquisition Research" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Language Variation (English)" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "English Historical Linguistics" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Lexicography" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Units of Meaning" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Syntax/Construction Grammar" — 
-  - in : "Kombi-Seminar" — Kombiseminar
-  - … und 9 weitere
 
 ### Klupp Taylor, Robin (Prof. Dr.)
 - **FAUdir:** [`53a7376963`](https://faudir.fau.de/public/person/53a7376963)
@@ -4363,14 +4155,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in : "MED 85651 - Ernährungsmedizin (I-MedG. 7)" — Vorlesung
   - in [Gerontologie](../589-sommersemester-2026/gerontologie-18284.md): "Geriatrie" — 
 
-### Koch, Simon ()
-- **FAUdir:** [`30a7f73435`](https://faudir.fau.de/public/person/30a7f73435)
-- **Affiliation:** Lehrstuhl für Experimentelle Astroteilchenphysik
-- **Weitere Affiliationen:** Lehrstuhl für Experimentelle Astroteilchenphysik
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Schaltungstechnik" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Schaltungstechnik" — 
-
 ### Koch, Manuel ()
 - **FAUdir:** [`1211c95591`](https://faudir.fau.de/public/person/1211c95591)
 - **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
@@ -4378,14 +4162,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Praktikum Schaltungstechnik" — Praktikum
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Übungen zu Schaltungstechnik" — Übung
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Praktikum Schaltungstechnik" — Praktikum
-
-### Koch, Simon ()
-- **FAUdir:** [`30a7f73435`](https://faudir.fau.de/public/person/30a7f73435)
-- **Affiliation:** Lehrstuhl für Experimentelle Astroteilchenphysik
-- **Weitere Affiliationen:** Lehrstuhl für Experimentelle Astroteilchenphysik
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in : "K-V29 Vorlesung HNO-Heilkunde" — Vorlesung
-  - in : "K-P4 Praktikum, HNO-Heilkunde" — Praktikum
 
 ### Koelewijn, Joël ()
 - **FAUdir:** [`1b2c09b699`](https://faudir.fau.de/public/person/1b2c09b699)
@@ -4511,13 +4287,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Kraus, Vanessa ()
 - **FAUdir:** [`b1340700ea`](https://faudir.fau.de/public/person/b1340700ea)
 - **Affiliation:** Lehrstuhl für Business Analytics and Sustainability
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
+- **Veranstaltungen ohne Pflicht-Markierung:** 5
   - in : "MED 89761 Stressmanagement und Burnout-Prävention" — Seminar
-
-### Kraus, Vanessa ()
-- **FAUdir:** [`b1340700ea`](https://faudir.fau.de/public/person/b1340700ea)
-- **Affiliation:** Lehrstuhl für Business Analytics and Sustainability
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
   - in [LV mit Nachhaltigkeitsbezug, Rechts- und Wirtschaftswissenschaftliche Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-rechts-und-wirtschaftswissenschaftliche-fakultaet-17609.md): "Fallstudienseminar Finanz- und Nachhaltigkeitsberichterstattung" — Seminar
   - in [LV mit Nachhaltigkeitsbezug, Rechts- und Wirtschaftswissenschaftliche Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-rechts-und-wirtschaftswissenschaftliche-fakultaet-17609.md): "Praxisseminar Sustainability Reporting" — Seminar
   - in [LV mit Nachhaltigkeitsbezug, Rechts- und Wirtschaftswissenschaftliche Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-rechts-und-wirtschaftswissenschaftliche-fakultaet-17609.md): "Bachelorseminar LS Business Analytics and Sustainability" — Seminar
@@ -4659,12 +4430,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../565-wintersemester-2025-26/chemie-und-bioingenieurwesen-fau-scientia-12200584.md): "Lehrstuhlseminar Energieverfahrenstechnik" — Seminar
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md): "Lehrstuhlseminar Energieverfahrenstechnik" — Seminar
-
-### Kämpf, Tobias (Dr.)
-- **FAUdir:** [`f69a25e1c9`](https://faudir.fau.de/public/person/f69a25e1c9)
-- **Affiliation:** Lehrstuhl für Kunstgeschichte
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Studium vor Originalen: Die Klassische Moderne im frühen Sammelwesen im Rheinland und in Westfalen" — Ober- und Hauptseminar
 
 ### Kämpf, Tobias (Dr.)
 - **FAUdir:** [`f69a25e1c9`](https://faudir.fau.de/public/person/f69a25e1c9)
@@ -4887,18 +4652,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Affiliation:** Lehrstuhl für Wirtschaftsprivatrecht
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md): "Wirtschaftsrecht in der Prüfungspraxis: SQ-Modul" — Vorlesung mit Übung
-
-### Lenz, Richard (Prof. Dr.-Ing.)
-- **FAUdir:** [`ae9efa6a7e`](https://faudir.fau.de/public/person/ae9efa6a7e)
-- **Affiliation:** Professur für evolutionäres Datenmanagement
-- **Weitere Affiliationen:** Professur für evolutionäres Datenmanagement; Lehrstuhl für Informatik 6 (Datenmanagement); Lehrstuhl für Informatik 6 (Datenmanagement)
-- **Veranstaltungen ohne Pflicht-Markierung:** 6
-  - in [Veranstaltungen aus der Technischen Fakultät](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md): "Forschungsdatenmanagement (FDM)" — Kolloquium
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Einführung in Datenbanken für Wirtschaftsinformatik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Implementierung von Datenbanksystemen" — 
-  - in [Veranstaltungen aus der Technischen Fakultät](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md): "Forschungsdatenmanagement (FDM)" — Kolloquium
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Einführung in Datenbanken für Wirtschaftsinformatik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Implementierung von Datenbanksystemen" — 
 
 ### Leonardi, Alberto (PD Dr.)
 - **FAUdir:** [`daf39f15c9`](https://faudir.fau.de/public/person/daf39f15c9)
@@ -5175,14 +4928,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Mayr, Paul ()
 - **FAUdir:** [`d344ae99cc`](https://faudir.fau.de/public/person/d344ae99cc)
 - **Affiliation:** Lehrstuhl für Romanistik, insbesondere Sprachwissenschaft
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [- Maschinenbau (FAU Scientia)  -](../565-wintersemester-2025-26/maschinenbau-fau-scientia-12200901.md): "Project on Applied AI in Factory Automation and Production Systems" — Projektseminar
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Project on Applied AI in Factory Automation and Production Systems" — Projektseminar
-
-### Mayr, Paul ()
-- **FAUdir:** [`d344ae99cc`](https://faudir.fau.de/public/person/d344ae99cc)
-- **Affiliation:** Lehrstuhl für Romanistik, insbesondere Sprachwissenschaft
-- **Veranstaltungen ohne Pflicht-Markierung:** 7
+- **Veranstaltungen ohne Pflicht-Markierung:** 9
   - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Basisseminar italienische Sprachwissenschaft  (Basismodul 72623)" — Seminar
   - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Mittelseminar italienische Sprachwissenschaft" — Mittelseminar
   - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Proseminar italienische Sprachwissenschaft" — Proseminar
@@ -5190,6 +4936,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Phonetik und Phonologie des Italienischen" — Übung
   - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Tutorium zu Phonetik und Phonologie des Italienischen" — Tutorium
   - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Aufbauseminar italienische Sprachwissenschaft (Modul 72337)" — Aufbauseminar
+  - in [- Maschinenbau (FAU Scientia)  -](../565-wintersemester-2025-26/maschinenbau-fau-scientia-12200901.md): "Project on Applied AI in Factory Automation and Production Systems" — Projektseminar
+  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Project on Applied AI in Factory Automation and Production Systems" — Projektseminar
 
 ### Mayr, Erasmus (Prof. Dr.)
 - **FAUdir:** [`9bea7e3dc5`](https://faudir.fau.de/public/person/9bea7e3dc5)
@@ -5233,19 +4981,14 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Meier, Trixi ()
 - **FAUdir:** [`c3a2023913`](https://faudir.fau.de/public/person/c3a2023913)
 - **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Einführung ins Projektmanagement" — Kurs
-
-### Meier, Trixi ()
-- **FAUdir:** [`c3a2023913`](https://faudir.fau.de/public/person/c3a2023913)
-- **Affiliation:** Lehrstuhl für Ressourcen- und Energieeffiziente Produktionsmaschinen
-- **Veranstaltungen ohne Pflicht-Markierung:** 6
+- **Veranstaltungen ohne Pflicht-Markierung:** 7
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar Strategisches Kühlschmierstoffmanagement in der Produktionstechnik" — 
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Seminar Strategisches Kühlschmierstoffmanagement in der Produktionstechnik" — 
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung" — Vorlesung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Produktionsprozesse der Zerspanung - Übung" — Übung
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar Strategisches Kühlschmierstoffmanagement in der Produktionstechnik" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Seminar Strategisches Kühlschmierstoffmanagement in der Produktionstechnik" — 
+  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Einführung ins Projektmanagement" — Kurs
 
 ### Meier-Greff, Dominik (Dr.)
 - **FAUdir:** [`306ba52ffd`](https://faudir.fau.de/public/person/306ba52ffd)
@@ -5476,15 +5219,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "LA M2/ MA Päd Modul V: SEM "(Pädagogische) Professionalität im Kontext internationaler Mobilität und Migration (Standort Nürnberg)"" — Seminar
 
-### Muller, Yves (Prof. Dr.)
-- **FAUdir:** [`c8fc440f3e`](https://faudir.fau.de/public/person/c8fc440f3e)
-- **Affiliation:** Lehrstuhl für Biotechnik (Proteinstruktur und -design)
-- **Weitere Affiliationen:** Lehrstuhl für Biotechnik (Proteinstruktur und -design)
-- **Veranstaltungen ohne Pflicht-Markierung:** 3
-  - in [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../565-wintersemester-2025-26/philosophie-und-sozialwissenschaften-fau-scientia-12199890.md): "Qualitative Methoden" — Seminar
-  - in : "Biografieforschung" — Hauptseminar
-  - in : "Basisseminar Bildung und Lebenslauf" — Seminar
-
 ### Munnecke, Axel (Prof. Dr.)
 - **FAUdir:** [`d8508bd7b3`](https://faudir.fau.de/public/person/d8508bd7b3)
 - **Affiliation:** Professur für Paläontologie (Schwerpunkt Faziesanalyse)
@@ -5568,18 +5302,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Scannen und Drucken in 3D" — 
   - … und 5 weitere
 
-### Müller, Valentin ()
-- **FAUdir:** [`ba9b72030b`](https://faudir.fau.de/public/person/ba9b72030b)
-- **Affiliation:** Lehrstuhl für Partikelbasierte Materialchemie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "K-V17_BT Orthopädie" — Vorlesung
-
-### Müller, Valentin ()
-- **FAUdir:** [`ba9b72030b`](https://faudir.fau.de/public/person/ba9b72030b)
-- **Affiliation:** Lehrstuhl für Partikelbasierte Materialchemie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [Chemistry](../589-sommersemester-2026/chemistry-17649.md): "Research Module - Quantum Chemistry" — Praktikum
-
 ### Müller, Julian (Prof. Dr.)
 - **FAUdir:** [`b533dcc60d`](https://faudir.fau.de/public/person/b533dcc60d)
 - **Affiliation:** Professur für Digital Industries
@@ -5611,11 +5333,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Müller, Valentin ()
 - **FAUdir:** [`ba9b72030b`](https://faudir.fau.de/public/person/ba9b72030b)
 - **Affiliation:** Lehrstuhl für Partikelbasierte Materialchemie
-- **Veranstaltungen ohne Pflicht-Markierung:** 4
+- **Veranstaltungen ohne Pflicht-Markierung:** 6
   - in [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md): "Vertiefungsmodul Gegenwartssprache/DAF (Ling VM 2)" — 
   - in [Deutsch](../565-wintersemester-2025-26/deutsch-17139.md): "Vertiefungsmodul Gegenwartssprache/DAF (Ling VM 2)" — 
   - in [Germanistik](../589-sommersemester-2026/germanistik-18227.md): "Vertiefungsmodul Gegenwartssprache/DAF (Ling VM 2)" — 
   - in [Deutsch](../589-sommersemester-2026/deutsch-18226.md): "Vertiefungsmodul Gegenwartssprache/DAF (Ling VM 2)" — 
+  - in : "K-V17_BT Orthopädie" — Vorlesung
+  - in [Chemistry](../589-sommersemester-2026/chemistry-17649.md): "Research Module - Quantum Chemistry" — Praktikum
 
 ### Müller, Vincent Cornelius (Prof. Dr.)
 - **FAUdir:** [`10ce4c1869`](https://faudir.fau.de/public/person/10ce4c1869)
@@ -6069,7 +5793,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **FAUdir:** [`a0b90db77e`](https://faudir.fau.de/public/person/a0b90db77e)
 - **Affiliation:** Lehrstuhl für Praktische Philosophie
 - **Weitere Affiliationen:** Lehrstuhl für Praktische Philosophie
-- **Veranstaltungen ohne Pflicht-Markierung:** 14
+- **Veranstaltungen ohne Pflicht-Markierung:** 15
   - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Gießereitechnik" — 
   - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Gießereitechnik" — 
   - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Gießereitechnik" — 
@@ -6080,14 +5804,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Gießereitechnik" — 
   - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Gießereitechnik" — 
   - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Gießereitechnik" — 
-  - … und 4 weitere
-
-### Pohl, Sonja ()
-- **FAUdir:** [`a0b90db77e`](https://faudir.fau.de/public/person/a0b90db77e)
-- **Affiliation:** Lehrstuhl für Praktische Philosophie
-- **Weitere Affiliationen:** Lehrstuhl für Praktische Philosophie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "Examenskurs Angewandte Ethik" — Hauptseminar
+  - … und 5 weitere
 
 ### Poletto, Elisa ()
 - **FAUdir:** [`a8cb47fa18`](https://faudir.fau.de/public/person/a8cb47fa18)
@@ -6272,7 +5989,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Renner, Günter (Dr.)
 - **FAUdir:** [`164e55934e`](https://faudir.fau.de/public/person/164e55934e)
 - **Affiliation:** Lehrstuhl für Grundschulpädagogik und -didaktik mit dem Schwerpunkt Umgang mit Heterogenität
-- **Veranstaltungen ohne Pflicht-Markierung:** 9
+- **Veranstaltungen ohne Pflicht-Markierung:** 10
   - in [Grundschuldidaktik](../565-wintersemester-2025-26/grundschuldidaktik-17188.md): "Renner / asynchron-online: Reformpädagogische und innovative Konzeptionen der Grundschule (Einschreibekurs)" — Mittelseminar
   - in [Grundschuldidaktik](../565-wintersemester-2025-26/grundschuldidaktik-17188.md): "Renner / Blockseminar: Sachunterricht in Theorie und Praxis (mit Schulbesuch): Europa macht Schule! / Block seminar: General Education in Theory and Practice (includes school visit): Europe meets School!" — Mittelseminar
   - in [Grundschuldidaktik](../565-wintersemester-2025-26/grundschuldidaktik-17188.md): "Renner / asynchron-online: Lehrgangsorientierte und lernwegsorientierte Konzeptionen des Schriftspracherwerbs (Einschreibekurs)" — Mittelseminar
@@ -6282,18 +5999,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Grundschuldidaktik](../589-sommersemester-2026/grundschuldidaktik-18278.md): "Renner / asynchron-online: Reformpädagogische und innovative Konzeptionen der Grundschule (Einschreibekurs)" — Mittelseminar
   - in [Grundschuldidaktik](../589-sommersemester-2026/grundschuldidaktik-18278.md): "Renner / asynchron-online: Lehrgangsorientierte und lernwegsorientierte Konzeptionen des Schriftspracherwerbs (Einschreibekurs)" — Mittelseminar
   - in [Grundschuldidaktik](../589-sommersemester-2026/grundschuldidaktik-18278.md): "Renner / Präsenzseminar: Diagnose und Förderung im Schriftspracherwerb - Arbeit an Fallbeispielen" — Mittelseminar
+  - in : "Politische Soziologie" — Hauptseminar
 
 ### Renner, Esther (Dr.-Ing.)
 - **FAUdir:** [`86c538ab05`](https://faudir.fau.de/public/person/86c538ab05)
 - **Affiliation:** Professur für Hochfrequenztechnik mit dem Schwerpunkt Optische Hochfrequenztechnik und Photonik
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Optische Übertragungstechnik Übung" — Übung
-
-### Renner, Günter (Dr.)
-- **FAUdir:** [`164e55934e`](https://faudir.fau.de/public/person/164e55934e)
-- **Affiliation:** Lehrstuhl für Grundschulpädagogik und -didaktik mit dem Schwerpunkt Umgang mit Heterogenität
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "Politische Soziologie" — Hauptseminar
 
 ### Resch, Daniel ()
 - **FAUdir:** [`cd1ce56557`](https://faudir.fau.de/public/person/cd1ce56557)
@@ -6327,13 +6039,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in [Rechtswissenschaft](../589-sommersemester-2026/rechtswissenschaft-17626.md): "Proseminar LGBTIQ+-Rechte als Menschenrechte" — Proseminar
 
-### Ries, Maximilian (Dr.-Ing.)
-- **FAUdir:** [`d0ecb9c1f0`](https://faudir.fau.de/public/person/d0ecb9c1f0)
-- **Affiliation:** Lehrstuhl für Technische Mechanik
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Zahnmedizin](../565-wintersemester-2025-26/zahnmedizin-16773.md): "MKG_Das Plattenepithelkarzinom d. Mundhöhle - Biol. Grundlagen, Hallmarks of Cancer, Diagnostik, Therapiestrategien" — Vorlesung
-  - in [Zahnmedizin](../589-sommersemester-2026/zahnmedizin-17981.md): "MKG_Das Plattenepithelkarzinom d. Mundhöhle - Biol. Grundlagen, Hallmarks of Cancer, Diagnostik, Therapiestrategien" — Vorlesung
-
 ### Rieß, Sebastian (Dr.-Ing.)
 - **FAUdir:** [`aab5bac83f`](https://faudir.fau.de/public/person/aab5bac83f)
 - **Affiliation:** Professur für Fluidsystemtechnik
@@ -6353,16 +6058,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Ringgold, Veronika ()
 - **FAUdir:** [`40575c1829`](https://faudir.fau.de/public/person/40575c1829)
 - **Affiliation:** Lehrstuhl für Gesundheitspsychologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Seminar Digital Health Psychology" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Seminar Digital Health Psychology" — 
-
-### Ringgold, Veronika ()
-- **FAUdir:** [`40575c1829`](https://faudir.fau.de/public/person/40575c1829)
-- **Affiliation:** Lehrstuhl für Gesundheitspsychologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 4
   - in [Veranstaltungen aus der Technischen Fakultät](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md): "Best Practices in Open Science" — Vorlesung mit Übung
   - in [Veranstaltungen aus der Technischen Fakultät](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md): "Applied Data Science in Medicine & Psychology" — Vorlesung mit Übung
+  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Seminar Digital Health Psychology" — 
+  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Seminar Digital Health Psychology" — 
 
 ### Risch, Florian (Prof. Dr.-Ing.)
 - **FAUdir:** [`f56eb461eb`](https://faudir.fau.de/public/person/f56eb461eb)
@@ -6840,7 +6540,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Schmidt, Vincent ()
 - **FAUdir:** [`1e56f6c4c0`](https://faudir.fau.de/public/person/1e56f6c4c0)
 - **Affiliation:** Lehrstuhl für Christliche Archäologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 21
+- **Veranstaltungen ohne Pflicht-Markierung:** 22
+  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Workshop zur Arbeitstechnik" — Tutorium
   - in : "001 PERLE Interprofessionelle Anamnese und Übergabe, Sa., 25.04.2026, 09:00 - 16:00 Uhr, SimPatiK" — Kurs
   - in : "010 PERLE Bettenprüfungskurs, Sa., 25.04.2026, 15:30 - 18:00 Uhr, SimPatiK" — Kurs
   - in : "011 PERLE Refresher Orthopädie, Sa., 25.04.2026, 10:30 - 13:30 Uhr, SimPatiK" — Kurs
@@ -6850,14 +6551,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in : "032.4 Fit fürs PJ, Sa., 09.05.2026, 19:00 - 16:30 Uhr, Skillslab Perle" — Kurs
   - in : "040 PERLE Sonografie für Anfängerinnen und Anfänger, Sa., 16.05.2026, 10:00 - 12:30 Uhr, SimPatiK" — Kurs
   - in : "041 PERLE Basics körperliche Untersuchung, Sa., 16.05.2026, 14:30 - 16:45 Uhr, SimPatik" — Kurs
-  - in : "042 PERLE Spezielle Punktionen, Sa., 16.05.2026, 14:00 - 17:00 Uhr, SkillsLab Perle" — Kurs
-  - … und 11 weitere
-
-### Schmidt, Vincent ()
-- **FAUdir:** [`1e56f6c4c0`](https://faudir.fau.de/public/person/1e56f6c4c0)
-- **Affiliation:** Lehrstuhl für Christliche Archäologie
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Workshop zur Arbeitstechnik" — Tutorium
+  - … und 12 weitere
 
 ### Schmidt, Jochen ()
 - **FAUdir:** [`20b9801ba3`](https://faudir.fau.de/public/person/20b9801ba3)
@@ -6875,20 +6569,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [Materialphysik](../565-wintersemester-2025-26/materialphysik-16801.md): "Rechenmethoden der Physik" — 
   - in [Materialphysik](../589-sommersemester-2026/materialphysik-17655.md): "Rechenmethoden der Physik" — 
-
-### Schmitt, Nadine ()
-- **FAUdir:** [`9e2d573e5c`](https://faudir.fau.de/public/person/9e2d573e5c)
-- **Affiliation:** Professur für Klinische Psychologie und Psychotherapie des Kindes- und Jugendalters
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Zahnmedizin](../565-wintersemester-2025-26/zahnmedizin-16773.md): "MKG - Orale Regeneration" — Vorlesung
-  - in [Zahnmedizin](../589-sommersemester-2026/zahnmedizin-17981.md): "MKG - Orale Regeneration" — Vorlesung
-
-### Schmitt, Nadine ()
-- **FAUdir:** [`9e2d573e5c`](https://faudir.fau.de/public/person/9e2d573e5c)
-- **Affiliation:** Professur für Klinische Psychologie und Psychotherapie des Kindes- und Jugendalters
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Zahnmedizin](../565-wintersemester-2025-26/zahnmedizin-16773.md): "Keramik in der restaurativen Zahnheilkunde" — Vorlesung
-  - in [Zahnmedizin](../589-sommersemester-2026/zahnmedizin-17981.md): "Keramik in der restaurativen Zahnheilkunde" — Vorlesung
 
 ### Schmuki, Patrik (Prof. Dr.)
 - **FAUdir:** [`3298e93dc2`](https://faudir.fau.de/public/person/3298e93dc2)
@@ -6925,23 +6605,18 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Deutsch](../589-sommersemester-2026/deutsch-18226.md): "NdL Finit: Abschlussmodul" — Übung
   - in [Germanistik](../589-sommersemester-2026/germanistik-18227.md): "VL Anfänge der Märchendichtung - 17. bis frühes 19. Jahrhundert" — Vorlesung
 
-### Schneider, Alexander (Dr.)
-- **FAUdir:** [`fa7b9a5646`](https://faudir.fau.de/public/person/fa7b9a5646)
-- **Affiliation:** Lehrstuhl für Kunstpädagogik und -didaktik
-- **Weitere Affiliationen:** Lehrstuhl für Kunstpädagogik und -didaktik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "Künstlerische Studienfahrt" — Seminar
-
 ### Schneider, Nicolai ()
 - **FAUdir:** [`4f698e4199`](https://faudir.fau.de/public/person/4f698e4199)
 - **Affiliation:** Lehrstuhl für Photonische Technologien
-- **Veranstaltungen ohne Pflicht-Markierung:** 6
+- **Veranstaltungen ohne Pflicht-Markierung:** 8
   - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Ich in der Wissenschaft - Reflexionen über Identität(en) und Vorurteile" — Seminar
   - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "ZIWIS Spring School Future Skills" — Seminar
   - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): ""Und was macht man dann damit?" Karriere(n) im Wissenschaftssystem" — Seminar
   - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Tiere in der Forschung: Zwischen Datenerhebung und Verantwortung" — Seminar
   - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Science Communication in Virtual Teams: Co-Creating a Social Media Campaign" — Seminar
   - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Social Entrepreneurship und Inklusion: Projektwerkstatt" — Seminar
+  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "Schwedisch: Multimedialer Online-Kurs bayernweit:  Klara, färdiga, gå! - Hörverstehen für Anfänger A1/A2" — Übung
+  - in [Sprachkurse (Angebot nach Sprachen)](../589-sommersemester-2026/sprachkurse-angebot-nach-sprachen-17989.md): "Schwedisch: Multimedialer Online-Kurs bayernweit:  Klara, färdiga, gå! - Hörverstehen für Anfänger A1/A2" — Übung
 
 ### Schneider, Cornelia (Prof. Dr. )
 - **FAUdir:** [`9c3438818a`](https://faudir.fau.de/public/person/9c3438818a)
@@ -6952,13 +6627,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Übungen zur Mathematik für Ingenieure A3: CE, EEI, MT, BPT-E" — Übung
   - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Mathematik für Ingenieure A4 : EEI,CE,MT" — Vorlesung
   - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Übungen zur Mathematik für Ingenieure A4 : EEI,CE,MT" — Übung
-
-### Schneider, Nicolai ()
-- **FAUdir:** [`4f698e4199`](https://faudir.fau.de/public/person/4f698e4199)
-- **Affiliation:** Lehrstuhl für Photonische Technologien
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "Schwedisch: Multimedialer Online-Kurs bayernweit:  Klara, färdiga, gå! - Hörverstehen für Anfänger A1/A2" — Übung
-  - in [Sprachkurse (Angebot nach Sprachen)](../589-sommersemester-2026/sprachkurse-angebot-nach-sprachen-17989.md): "Schwedisch: Multimedialer Online-Kurs bayernweit:  Klara, färdiga, gå! - Hörverstehen für Anfänger A1/A2" — Übung
 
 ### Schorn, Jana Alina ()
 - **FAUdir:** [`0dc1d43999`](https://faudir.fau.de/public/person/0dc1d43999)
@@ -7031,12 +6699,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [Soziologie](../565-wintersemester-2025-26/soziologie-17143.md): "Einführungsmodul" — 
   - in [Soziologie](../589-sommersemester-2026/soziologie-18299.md): "Einführungsmodul" — 
-
-### Schulz, Peter (Dr.)
-- **FAUdir:** [`54ac4be660`](https://faudir.fau.de/public/person/54ac4be660)
-- **Affiliation:** Lehrstuhl für Chemische Reaktionstechnik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "K-PS15_BT Übung Histopathologie und Makropathologie" — Übung
 
 ### Schulz, Manuela ()
 - **FAUdir:** [`76a6afd2d8`](https://faudir.fau.de/public/person/76a6afd2d8)
@@ -7438,13 +7100,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Marketing" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Praxisseminar: Entwicklung und Vermarktung innovativer Versicherungsprodukte" — 
 
-### Stiller, Anja ()
-- **FAUdir:** [`f8edfb368d`](https://faudir.fau.de/public/person/f8edfb368d)
-- **Affiliation:** Lehrstuhl für Betriebswirtschaftslehre, insbesondere Finanzierung und Banken
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Physics](../565-wintersemester-2025-26/physics-16814.md): "Photonic Machine Learning" — 
-  - in [Physics](../589-sommersemester-2026/physics-17637.md): "Photonic Machine Learning" — 
-
 ### Stingl, Michael (Prof. Dr.)
 - **FAUdir:** [`b00fa620aa`](https://faudir.fau.de/public/person/b00fa620aa)
 - **Affiliation:** Lehrstuhl für Angewandte Mathematik (Kontinuierliche Optimierung)
@@ -7603,15 +7258,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Touijer, Ouadie ()
 - **FAUdir:** [`7763670447`](https://faudir.fau.de/public/person/7763670447)
 - **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
-- **Veranstaltungen ohne Pflicht-Markierung:** 3
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Übung Digitaltechnik" — Übung
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Medizinelektronik - Medical Electronics" — Vorlesung
-  - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Praktikum zu High-Performance Analog- und Umsetzer-Design" — Praktikum
-
-### Touijer, Ouadie ()
-- **FAUdir:** [`7763670447`](https://faudir.fau.de/public/person/7763670447)
-- **Affiliation:** Lehrstuhl für Intelligente Technische Elektronik und Systeme
-- **Veranstaltungen ohne Pflicht-Markierung:** 10
+- **Veranstaltungen ohne Pflicht-Markierung:** 13
   - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Analoge elektronische Systeme" — 
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Analoge elektronische Systeme" — 
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Analoge elektronische Systeme" — 
@@ -7622,6 +7269,7 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Analoge elektronische Systeme" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Analoge elektronische Systeme" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Analoge elektronische Systeme" — 
+  - … und 3 weitere
 
 ### Treiber, Peter (Dr.-Ing.)
 - **FAUdir:** [`a6eb290aed`](https://faudir.fau.de/public/person/a6eb290aed)
@@ -7977,9 +7625,15 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Weber, Timm ()
 - **FAUdir:** [`aad51cbf9b`](https://faudir.fau.de/public/person/aad51cbf9b)
 - **Affiliation:** Lehrstuhl für Korpus- und Computerlinguistik
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
+- **Veranstaltungen ohne Pflicht-Markierung:** 8
   - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "1302 Aktuelle Forschung in der Psychogerontologie (Master- und Forschungskolloquium) (semesterbegleitend)" — Kolloquium
   - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "1701 Wahlpflichtseminar I Kurs A" — Seminar
+  - in : "Klinik und Poliklinik der Zahn-, Mund- und Kieferkrankheiten  - Auskultando (MKG-Chirugie + ZMK Oralmedizin + ZMK Oralchirurgie)" — Vorlesung
+  - in : "3-V15 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 1" — Vorlesung
+  - in : "3-V16 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 2" — Vorlesung
+  - in : "3-V17 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 3" — Vorlesung
+  - in : "3-V18 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 4" — Vorlesung
+  - in : "K-V15_BT Chirurgie" — Vorlesung
 
 ### Weber, Konstantin ()
 - **FAUdir:** [`b6c378df9c`](https://faudir.fau.de/public/person/b6c378df9c)
@@ -7990,22 +7644,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - in [Philosophie](../565-wintersemester-2025-26/philosophie-17205.md): "Politics of Birth - Philosophische und soziologische Perspektiven auf Natalismus und Antinatalismus" — Hauptseminar
   - in [Philosophie](../589-sommersemester-2026/philosophie-18264.md): "Wesen und Wert der Privatsphäre und die Ethik der Überwachung" — Proseminar / Mittelseminar
   - in [Philosophie](../589-sommersemester-2026/philosophie-18264.md): "Zählen mehr mehr? Über interpersonelle (Non-)Aggregation" — Hauptseminar / Masterseminar
-
-### Weber, Timm ()
-- **FAUdir:** [`aad51cbf9b`](https://faudir.fau.de/public/person/aad51cbf9b)
-- **Affiliation:** Lehrstuhl für Korpus- und Computerlinguistik
-- **Veranstaltungen ohne Pflicht-Markierung:** 5
-  - in : "Klinik und Poliklinik der Zahn-, Mund- und Kieferkrankheiten  - Auskultando (MKG-Chirugie + ZMK Oralmedizin + ZMK Oralchirurgie)" — Vorlesung
-  - in : "3-V15 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 1" — Vorlesung
-  - in : "3-V16 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 2" — Vorlesung
-  - in : "3-V17 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 3" — Vorlesung
-  - in : "3-V18 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 4" — Vorlesung
-
-### Weber, Timm ()
-- **FAUdir:** [`aad51cbf9b`](https://faudir.fau.de/public/person/aad51cbf9b)
-- **Affiliation:** Lehrstuhl für Korpus- und Computerlinguistik
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
-  - in : "K-V15_BT Chirurgie" — Vorlesung
 
 ### Weber, Heiko (Prof. Dr.)
 - **FAUdir:** [`4df7f0cf3f`](https://faudir.fau.de/public/person/4df7f0cf3f)
@@ -8141,18 +7779,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 ### Weyand, Björn (Dr.)
 - **FAUdir:** [`2b3ac7e2a0`](https://faudir.fau.de/public/person/2b3ac7e2a0)
 - **Affiliation:** Lehrstuhl für Neuere deutsche Literatur mit systematischem Schwerpunkt
-- **Veranstaltungen ohne Pflicht-Markierung:** 6
+- **Veranstaltungen ohne Pflicht-Markierung:** 7
   - in [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md): "Bücher lesen: Von der Literaturtheorie zu Social Media (und zurück)" — Seminar
   - in [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md): "Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre" — Hauptseminar
   - in [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md): "HS /Ü: Adam Olearius und die Wunderkammer von Schloss Gottorf (mit Exkursion)" — Seminar und Übung
   - in [Germanistik](../589-sommersemester-2026/germanistik-18227.md): "Lit AM-L: Annemarie Schwarzenbach: „Winter in Vorderasien“ (1934) und andere Reiseprosa (ER: für RS/BA/LA GYM)" — Proseminar
   - in [Germanistik](../589-sommersemester-2026/germanistik-18227.md): "Von Schiffbrüchen und schwimmenden Hotels: Literarische Seereisen von der Frühen Neuzeit bis zur Postmoderne" — Proseminar
   - in [Germanistik](../589-sommersemester-2026/germanistik-18227.md): "HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934)" — Seminar und Übung
-
-### Weyand, Björn (Dr.)
-- **FAUdir:** [`2b3ac7e2a0`](https://faudir.fau.de/public/person/2b3ac7e2a0)
-- **Affiliation:** Lehrstuhl für Neuere deutsche Literatur mit systematischem Schwerpunkt
-- **Veranstaltungen ohne Pflicht-Markierung:** 1
   - in : "Fortbildung Herzchirurgie" — Vorlesung
 
 ### Wiater-Hellgardt, Patricia (Prof. Dr. Dr.)
@@ -8544,14 +8177,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 - **Veranstaltungen ohne Pflicht-Markierung:** 2
   - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Methodische Grundlagen" — 
   - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Methodische Grundlagen" — 
-
-### Zeilinger, Nadja ()
-- **FAUdir:** [`597683e1ec`](https://faudir.fau.de/public/person/597683e1ec)
-- **Affiliation:** Institut für Theater- und Medienwissenschaft
-- **Weitere Affiliationen:** Lehrstuhl für Theaterwissenschaft; Lehrstuhl für Medienwissenschaft
-- **Veranstaltungen ohne Pflicht-Markierung:** 2
-  - in [Medien-Ethik-Religion](../565-wintersemester-2025-26/medien-ethik-religion-17234.md): "Anschauungen und Ideologien im Umfeld von KI - eine medienethische und theologische Spurensuche" — Seminar
-  - in [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md): "SE KI in kirchlicher Praxis: methodische und praktisch-theologische Erkundungen" — Seminar
 
 ### Zeis, Roswitha (Prof. Dr.)
 - **FAUdir:** [`5d92c749b8`](https://faudir.fau.de/public/person/5d92c749b8)
