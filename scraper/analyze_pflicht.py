@@ -659,6 +659,68 @@ def fuzzy_lookup_faudir(campo_name: str, faudir_lookup: dict[str, dict]) -> dict
     return None
 
 
+def _aggregate_by_faudir(by_person: dict) -> dict:
+    """Merge ``by_person`` entries that share a FAUdir identifier into one
+    aggregated record per unique person.
+
+    Without this, raw instructor strings that differ in trivial ways
+    (e.g. *"Beck, Silvan"* vs. *"Christopher Beck"* both fuzzy-resolving
+    to the same FAUdir id, or two `Held, Pascal` records with adjacent
+    name variants) become independent buckets — and a person whose
+    Pflicht courses live under one variant and non-Pflicht courses under
+    another lands in BOTH the *mit* and *ohne* files. Aggregating by
+    FAUdir id collapses them into a single record before partitioning.
+
+    Entries WITHOUT a FAUdir match are passed through unchanged (keyed
+    by their raw name) — those are handled by the lehrende-ohne-pflicht
+    file, not by the FAUdir-confirmed partition.
+    """
+    aggregated: dict[tuple[str, str], dict] = {}
+    for full, info in by_person.items():
+        fau = info.get("faudir")
+        ident = (fau or {}).get("identifier") or ""
+        # FAUdir-matched persons collapse on `id`; unmatched stay
+        # separate under `noid` (one bucket per raw name).
+        key = ("id", ident) if ident else ("noid", full)
+        if key not in aggregated:
+            aggregated[key] = {
+                "pflicht": [],
+                "other": [],
+                "faudir": fau,
+                "_full": full,  # a representative raw name (for fallback sort)
+            }
+        aggregated[key]["pflicht"].extend(info.get("pflicht") or [])
+        aggregated[key]["other"].extend(info.get("other") or [])
+        # Belt-and-braces: if the first bucket had no FAUdir match but a
+        # later same-id bucket does, retain the FAUdir record.
+        if aggregated[key]["faudir"] is None and fau:
+            aggregated[key]["faudir"] = fau
+
+    # De-dupe courses by (unit_id, period_id) within each aggregated
+    # entry — the same course taught under several name-string variants
+    # of the same person would otherwise appear multiple times. We keep
+    # the period in the key so a course that genuinely runs in both
+    # terms (same unit_id across periods, like "Deep Learning") still
+    # surfaces once per term.
+    for entry in aggregated.values():
+        for k in ("pflicht", "other"):
+            seen: set[tuple[int, int]] = set()
+            unique = []
+            for c in entry[k]:
+                try:
+                    uid = int(c["unit_id"])
+                except Exception:  # noqa: BLE001
+                    continue
+                pid = int(c.get("_period_id") or 0)
+                key = (uid, pid)
+                if key in seen:
+                    continue
+                seen.add(key)
+                unique.append(c)
+            entry[k] = unique
+    return aggregated
+
+
 def render_profs_ohne_pflichtlehre_md(
     courses_with_meta: list[dict],
     pflicht_unit_ids: set[int],
@@ -690,9 +752,14 @@ def render_profs_ohne_pflichtlehre_md(
             if entry["faudir"] is None:
                 entry["faudir"] = fuzzy_lookup_faudir(full, faudir_lookup)
 
+    # Aggregate by FAUdir identifier so name-variants of the same person
+    # don't produce duplicate entries (and don't end up in both
+    # profs-mit and profs-ohne).
+    aggregated = _aggregate_by_faudir(by_person)
+
     # Filter to FAUdir-confirmed Profs with no Pflicht teaching
     candidates: list[tuple[str, dict]] = []
-    for full, info in by_person.items():
+    for key, info in aggregated.items():
         if info["pflicht"]:
             continue
         if not info["other"]:
@@ -701,7 +768,7 @@ def render_profs_ohne_pflichtlehre_md(
         if not fau:
             continue
         # FAUdir-confirmed prof, no Pflicht-flagged courses
-        candidates.append((full, info))
+        candidates.append((info["_full"], info))
 
     # Group by primary rank
     by_rank: dict[str, list[tuple[str, dict]]] = defaultdict(list)
@@ -847,13 +914,18 @@ def render_profs_mit_pflichtlehre_md(
             if entry["faudir"] is None:
                 entry["faudir"] = fuzzy_lookup_faudir(full, faudir_lookup)
 
+    # Aggregate by FAUdir identifier so different name-string variants
+    # of the same person collapse into one record (avoids adjacent
+    # duplicate entries and partition violations against profs-ohne).
+    aggregated = _aggregate_by_faudir(by_person)
+
     candidates: list[tuple[str, dict]] = []
-    for full, info in by_person.items():
+    for key, info in aggregated.items():
         if not info["pflicht"]:
             continue
         if info["faudir"] is None:
             continue
-        candidates.append((full, info))
+        candidates.append((info["_full"], info))
 
     by_rank: dict[str, list[tuple[str, dict]]] = defaultdict(list)
     for full, info in candidates:

@@ -1,12 +1,12 @@
 ---
 kind: "profs-mit-pflichtlehre"
 period: "Wintersemester 2025/26 + Sommersemester 2026"
-candidates_total: 479
+candidates_total: 478
 rank_distribution:
   W3: 16
-  W?: 458
+  W?: 457
   Junior: 5
-scraped_at: 2026-05-03T20:18:07+00:00
+scraped_at: 2026-05-03T20:28:55+00:00
 ---
 
 # Profs mit Pflichtlehre (FAUdir × Campo)
@@ -21,12 +21,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
 * Vergleichsgrundlage (B) für die RAG-Antwort (A); bei Inkonsistenz ist die RAG-Antwort meist belastbarer.
 
 **Periode:** Wintersemester 2025/26 + Sommersemester 2026  
-**Kandidaten:** 479 FAUdir-bestätigte Profs mit Pflichtlehre
+**Kandidaten:** 478 FAUdir-bestätigte Profs mit Pflichtlehre
 
 ## Verteilung nach W-Rang
 
 - **W3**: 16
-- **W?**: 458
+- **W?**: 457
 - **Junior**: 5
 
 ## Rang W3
@@ -155,6 +155,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
       - [PDF vom 23.03.1993](../pruefungsordnungen/medizinische-fakultaet/medizin-20-2023-03-1993.md)
       - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+- **Weitere Lehre (nicht Pflicht):** 4
+  - **Wintersemester 2025/26** (3)
+    - "Begleitetes Selbststudium" — Sonstige Lehrveranstaltung (Campo-Studiengang: [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md))
+    - "Tandem mit Université Paris Sciences et Lettres (PSL)" — Übung (Campo-Studiengang: [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md))
+    - "International Supply Chain Management (vhb)" — Vorlesung mit Übung (Campo-Studiengang: [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md))
+  - **Sommersemester 2026** (1)
+    - "International Supply Chain Management (vhb)" — Vorlesung mit Übung (Campo-Studiengang: [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md))
 
 ### Kainz, Bernhard (Prof. Dr.)
 - **FAUdir:** [`4e219bbd33`](https://faudir.fau.de/public/person/4e219bbd33)
@@ -219,13 +226,17 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [pdf vom 26.02.2009](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-20-20deutsch.md)
       - [pdf vom 26.02.2009 i.d.F. 28.03.2011](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-maerz2011.md)
       - [pdf vom 26.02.2009 i.d.F. 25.05.2012](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-mai2012.md)
-- **Weitere Lehre (nicht Pflicht):** 4
-  - **Wintersemester 2025/26** (2)
+- **Weitere Lehre (nicht Pflicht):** 8
+  - **Wintersemester 2025/26** (5)
     - "Vertiefung in die Digital Humanities" — Seminar (Campo-Studiengang: [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md))
     - "Aktuelle Forschungen und Diskurse" — Seminar (Campo-Studiengang: [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md))
-  - **Sommersemester 2026** (2)
+    - "Gerontopsychiatrie" —  (Campo-Studiengang: [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md))
+    - "601 Grundlagen der Gerontopsychiatrie" — Seminar (Campo-Studiengang: [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md))
+    - "601 Grundlagen der Gerontopsychiatrie Kurs B" — Seminar (Campo-Studiengang: [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md))
+  - **Sommersemester 2026** (3)
     - "Aktuelle Forschungen und Diskurse" — Seminar (Campo-Studiengang: [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md))
     - "What matters in Austen" — Seminar (Campo-Studiengang: [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md))
+    - "Gerontopsychiatrie" —  (Campo-Studiengang: [Gerontologie](../589-sommersemester-2026/gerontologie-18284.md))
 
 ### Mathis-Ullrich, Franziska (Prof. Dr.)
 - **FAUdir:** [`05fdea4494`](https://faudir.fau.de/public/person/05fdea4494)
@@ -607,6 +618,21 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
     - "Informatik für Ingenieure I" —  (Campo-Studiengang: [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md))
     - "Informatik für Ingenieure I" —  (Campo-Studiengang: [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md))
 
+### Beck, Silvan ()
+- **FAUdir:** [`d5cbc20754`](https://faudir.fau.de/public/person/d5cbc20754)
+- **Affiliation:** Lehrstuhl für Biochemie und Molekulare Medizin
+- **Pflichtveranstaltungen (heuristisch):** 1
+  - **"K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
+    - Pflicht in **10 POs** (Studiengänge: `medizinische-fakultaet`)
+      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
+      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
+      - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
+- **Weitere Lehre (nicht Pflicht):** 2
+  - **Wintersemester 2025/26** (1)
+    - "Praktikum Grundlagen der Elektrotechnik für EEI,ME,BP,INF,Math" —  (Campo-Studiengang: [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md))
+  - **Sommersemester 2026** (1)
+    - "Praktikum Grundlagen der Elektrotechnik für EEI,ME,BP,INF,Math" —  (Campo-Studiengang: [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md))
+
 ### Beck, Marina (Dr.)
 - **FAUdir:** [`f5f3b05757`](https://faudir.fau.de/public/person/f5f3b05757)
 - **Affiliation:** Institut für Kunstgeschichte
@@ -638,16 +664,6 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [pdf vom 26.02.2009 i.d.F. 25.05.2012](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-mai2012.md)
 - **Weitere Lehre (nicht Pflicht):** 1
   - "Forschungsmethoden" — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-
-### Beck, Silvan ()
-- **FAUdir:** [`d5cbc20754`](https://faudir.fau.de/public/person/d5cbc20754)
-- **Affiliation:** Lehrstuhl für Biochemie und Molekulare Medizin
-- **Pflichtveranstaltungen (heuristisch):** 1
-  - **"K-V9 Eingangsblock Bildgebende Verfahren, Strahlenbehandlung, Strahlenschutz, Q11"** — Vorlesung (Campo-Studiengang: (nicht im Katalog))
-    - Pflicht in **10 POs** (Studiengänge: `medizinische-fakultaet`)
-      - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
-      - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
-      - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
 
 ### Beckerle, Philipp (Prof. Dr.-Ing.)
 - **FAUdir:** [`e57de06a1b`](https://faudir.fau.de/public/person/e57de06a1b)
@@ -1749,6 +1765,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
       - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
       - [PDF vom 30.09.2003 i.d.F. 07.07.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-juli2014.md)
+- **Weitere Lehre (nicht Pflicht):** 1
+  - "1702 Wahlpflichtseminar II Kurs C" — Seminar (Campo-Studiengang: [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md))
 
 ### Engel, Michael (Prof. Dr.)
 - **FAUdir:** [`f8b4a9f2ae`](https://faudir.fau.de/public/person/f8b4a9f2ae)
@@ -1916,8 +1934,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
         - [pdf vom 26.03.2009 i.d.F. 30.05.2011](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-mathematik-mai2011.md)
     - **"Experimentelle und Theoretische Ansätze der Biologie"** —  (Campo-Studiengang: [Biologie](../589-sommersemester-2026/biologie-17657.md))
       - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
-- **Weitere Lehre (nicht Pflicht):** 1
-  - "BL8: Vorlesung mit Seminar Humanbiologie" — Vorlesung (Campo-Studiengang: (nicht im Katalog))
+- **Weitere Lehre (nicht Pflicht):** 2
+  - **Wintersemester 2025/26** (1)
+    - "Grundkonzepte Biologie für Grund- und Mittelschule Fächergruppe: Außerschulische Lernorte im Biologieunterricht" — Seminar (Campo-Studiengang: [LV mit Nachhaltigkeitsbezug, Philosophische Fakultät und Fachbereich Theologie](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-philosophische-fakultaet-und-fachbereich-theologie-17586.md))
+  - **Sommersemester 2026** (1)
+    - "BL8: Vorlesung mit Seminar Humanbiologie" — Vorlesung (Campo-Studiengang: (nicht im Katalog))
 
 ### Feldmeier, Alina ()
 - **FAUdir:** [`a2a3575ed2`](https://faudir.fau.de/public/person/a2a3575ed2)
@@ -3153,24 +3174,25 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
       - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
       - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
-- **Weitere Lehre (nicht Pflicht):** 1
-  - "BaM - Bild am Morgen - Fälle und mehr" — Vorlesung (Campo-Studiengang: (nicht im Katalog))
+- **Weitere Lehre (nicht Pflicht):** 5
+  - **Wintersemester 2025/26** (2)
+    - "Advanced Semiconductors Introduction: Fundamentals" — Vorlesung (Campo-Studiengang: [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md))
+    - "Nanospectroscopy" — Vorlesung (Campo-Studiengang: [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md))
+  - **Sommersemester 2026** (3)
+    - "Advanced Semiconductors Introduction: Characterization" — Vorlesung (Campo-Studiengang: [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md))
+    - "Lab Work Manufacturing and Characterization of Phosphors and Storage Phosphors" — Praktikum (Campo-Studiengang: [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md))
+    - "BaM - Bild am Morgen - Fälle und mehr" — Vorlesung (Campo-Studiengang: (nicht im Katalog))
 
 ### Held, Pascal (Dr.)
 - **FAUdir:** [`587a1859c3`](https://faudir.fau.de/public/person/587a1859c3)
 - **Affiliation:** Lehrstuhl für Orientalische Philologie und Islamwissenschaft
-- **Pflichtveranstaltungen (heuristisch):** 1
+- **Pflichtveranstaltungen (heuristisch):** 2
   - **"BA 4. FS: [Modul Sprachen, Kulturen und Religionen des Orients] Religionswissenschaftliches Seminar"** — Seminar (Campo-Studiengang: [- Alte Welt und asiatische Kulturen (FAU Scientia)  -](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md))
     - Pflicht laut: [FPOLitBuch 20260305.pdf](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md) (Studiengang: `ein-fach-bachelor`)
     - Pflicht laut: [PDF vom 09.12.2008 i.d.F. 08.07.2014](../pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-medien-ethik-relig-juli2014.md) (Studiengang: `theologie`)
     - Pflicht laut: [PDF vom 27. Juli 2012](../pruefungsordnungen/philosophische-fakultaet/theologie/stuo-magister-20theologiae.md) (Studiengang: `theologie`)
     - Pflicht laut: [2-Fach-BA Germanistik FPO BA Germ 20260115.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20260115.md) (Studiengang: `zwei-fach-bachelor`)
     - Pflicht laut: [2-Fach-BA Germanistik FPO Germanistik Zwei-Fach 20220914 ÄS.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-germanistik-zwei-fach-20220914-aes.md) (Studiengang: `zwei-fach-bachelor`)
-
-### Held, Pascal (Dr.)
-- **FAUdir:** [`587a1859c3`](https://faudir.fau.de/public/person/587a1859c3)
-- **Affiliation:** Lehrstuhl für Orientalische Philologie und Islamwissenschaft
-- **Pflichtveranstaltungen (heuristisch):** 1
   - **"K-PS11 Praktikum Mikrobiologie,Hygiene, Immunologie und Virologie"** — Praktikum (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md) (Studiengang: `biologie`)
     - Pflicht laut: [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md) (Studiengang: `biologie`)
@@ -3235,6 +3257,15 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - Pflicht laut: [2-Fach-BA Theater- und Medienwissenschaft FPO B.A. Theatermedien 20071004 i.d.F. 20190815.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-theater-und-medienwissenschaft-fpo-b-a-theatermedien-20071004-idf-20190815.md) (Studiengang: `zwei-fach-bachelor`)
       - Pflicht laut: [2-Fach-BA Theater- und Medienwissenschaft FPO B.A. Theatermedien 20071004 i.d.F. 20220512.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-theater-und-medienwissenschaft-fpo-b-a-theatermedien-20071004-idf-20220512.md) (Studiengang: `zwei-fach-bachelor`)
       - Pflicht laut: [2-Fach-BA Theater- und Medienwissenschaft FPO B.A. Theatermedien 20190815 ÄS.pdf](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-theater-und-medienwissenschaft-fpo-b-a-theatermedien-20190815-aes.md) (Studiengang: `zwei-fach-bachelor`)
+- **Weitere Lehre (nicht Pflicht):** 6
+  - **Wintersemester 2025/26** (3)
+    - "Research Module: Dialekte und Sprachvariation" —  (Campo-Studiengang: [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md))
+    - "Research Module: Lexikografie, Valenz- und Kollokationsforschung" —  (Campo-Studiengang: [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md))
+    - "Applied Linguistics b" —  (Campo-Studiengang: [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md))
+  - **Sommersemester 2026** (3)
+    - "Research Module: Dialekte und Sprachvariation" —  (Campo-Studiengang: [Linguistik](../589-sommersemester-2026/linguistik-18239.md))
+    - "Research Module: Lexikografie, Valenz- und Kollokationsforschung" —  (Campo-Studiengang: [Linguistik](../589-sommersemester-2026/linguistik-18239.md))
+    - "Applied Linguistics b" —  (Campo-Studiengang: [Linguistik](../589-sommersemester-2026/linguistik-18239.md))
 
 ### Herold, Patrick-Peter ()
 - **FAUdir:** [`990d065075`](https://faudir.fau.de/public/person/990d065075)
@@ -4109,19 +4140,20 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - Pflicht laut: [pdf vom 26.02.2009 i.d.F. 29.11.2011](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-november2011.md) (Studiengang: `deutsch`)
       - Pflicht laut: [pdf vom 26.02.2009 i.d.F. 31.03.2010](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu.md) (Studiengang: `deutsch`)
   - … und 8 weitere
-- **Weitere Lehre (nicht Pflicht):** 10
-  - **Wintersemester 2025/26** (5)
+- **Weitere Lehre (nicht Pflicht):** 29
+  - **Wintersemester 2025/26** (14)
     - "Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 1 (NdL VM-1)" —  (Campo-Studiengang: [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md))
     - "Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 2 (NdL VM-2)" —  (Campo-Studiengang: [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md))
     - "Vertiefungsmodul Neuere deutsche Literatur (NdL VM)" —  (Campo-Studiengang: [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md))
     - "Vertiefungsmodul Literaturgeschichte (LitG VM)" —  (Campo-Studiengang: [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md))
     - "Vertiefungsmodul Literaturgeschichte (LitG VM)" —  (Campo-Studiengang: [Deutsch](../565-wintersemester-2025-26/deutsch-17139.md))
-  - **Sommersemester 2026** (5)
-    - "Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 1 (NdL VM-1)" —  (Campo-Studiengang: [Germanistik](../589-sommersemester-2026/germanistik-18227.md))
-    - "Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 2 (NdL VM-2)" —  (Campo-Studiengang: [Germanistik](../589-sommersemester-2026/germanistik-18227.md))
-    - "Vertiefungsmodul Neuere deutsche Literatur (NdL VM)" —  (Campo-Studiengang: [Germanistik](../589-sommersemester-2026/germanistik-18227.md))
-    - "Vertiefungsmodul Literaturgeschichte (LitG VM)" —  (Campo-Studiengang: [Germanistik](../589-sommersemester-2026/germanistik-18227.md))
-    - "Vertiefungsmodul Literaturgeschichte (LitG VM)" —  (Campo-Studiengang: [Deutsch](../589-sommersemester-2026/deutsch-18226.md))
+    - "Seminarmodul L-UF I Linguistics" —  (Campo-Studiengang: [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md))
+    - "Seminarmodul L-UF I Linguistics" —  (Campo-Studiengang: [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md))
+    - "Seminarmodul L-UF I Linguistics" —  (Campo-Studiengang: [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md))
+    - "Introductory Module Topics in Linguistic Theory and Language Acquisition Research" —  (Campo-Studiengang: [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md))
+    - "Language Variation (English)" —  (Campo-Studiengang: [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md))
+  - **Sommersemester 2026** (15)
+  - … und 19 weitere
 
 ### Klämpfl, Florian (Dr.-Ing.)
 - **FAUdir:** [`73165233a7`](https://faudir.fau.de/public/person/73165233a7)
@@ -4153,6 +4185,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - **"English: Level 3 - Focus on Academic Writing"** — Übung (Campo-Studiengang: [- Sprachenzentrum  (FAU Scientia)  -](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md))
     - Pflicht laut: [9. November 2012](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/2as-ma-englishstudies.md) (Studiengang: `masterstudiengaenge`)
     - Pflicht laut: [PDF vom 08.06.2010 i.d.F. 09.11.2012](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-englstudies-november2012.md) (Studiengang: `masterstudiengaenge`)
+- **Weitere Lehre (nicht Pflicht):** 4
+  - **Wintersemester 2025/26** (1)
+    - "Schaltungstechnik" —  (Campo-Studiengang: [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md))
+  - **Sommersemester 2026** (3)
+    - "Schaltungstechnik" —  (Campo-Studiengang: [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md))
+    - "K-V29 Vorlesung HNO-Heilkunde" — Vorlesung (Campo-Studiengang: (nicht im Katalog))
+    - "K-P4 Praktikum, HNO-Heilkunde" — Praktikum (Campo-Studiengang: (nicht im Katalog))
 
 ### Kocsis, Ádám (Dr.)
 - **FAUdir:** [`39752cabd8`](https://faudir.fau.de/public/person/39752cabd8)
@@ -4731,8 +4770,16 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [LA Biologie FPO LA Bio 20230822 i.d.F. 20250702.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-biologie-fpo-la-bio-20230822-idf-20250702.md)
       - [FPO BAMA Bio 20260331.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20260331.md)
       - [StO Pharmazie 20020731 i.d.F. 20190724.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md)
-- **Weitere Lehre (nicht Pflicht):** 1
-  - "BL7: Ökologie der Pflanzen und Tiere" — Vorlesung (Campo-Studiengang: [LV mit Nachhaltigkeitsbezug, Naturwissenschaftliche Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-naturwissenschaftliche-fakultaet-17589.md))
+- **Weitere Lehre (nicht Pflicht):** 7
+  - **Wintersemester 2025/26** (4)
+    - "Forschungsdatenmanagement (FDM)" — Kolloquium (Campo-Studiengang: [Veranstaltungen aus der Technischen Fakultät](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md))
+    - "Einführung in Datenbanken für Wirtschaftsinformatik" —  (Campo-Studiengang: [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md))
+    - "Implementierung von Datenbanksystemen" —  (Campo-Studiengang: [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md))
+    - "BL7: Ökologie der Pflanzen und Tiere" — Vorlesung (Campo-Studiengang: [LV mit Nachhaltigkeitsbezug, Naturwissenschaftliche Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-naturwissenschaftliche-fakultaet-17589.md))
+  - **Sommersemester 2026** (3)
+    - "Forschungsdatenmanagement (FDM)" — Kolloquium (Campo-Studiengang: [Veranstaltungen aus der Technischen Fakultät](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md))
+    - "Einführung in Datenbanken für Wirtschaftsinformatik" —  (Campo-Studiengang: [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md))
+    - "Implementierung von Datenbanksystemen" —  (Campo-Studiengang: [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md))
 
 ### Leutert, Jette ()
 - **FAUdir:** [`78563157c7`](https://faudir.fau.de/public/person/78563157c7)
@@ -5613,11 +5660,14 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - Pflicht laut: [30. Juli 2012](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/1aes-20ba-ma-20ils-bio.md) (Studiengang: `biologie`)
       - Pflicht laut: [PDF vom 23.12.2009 i.d.F. 30.07.2012](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/stuopro-ba-integrated-life-sciencejuli2012.md) (Studiengang: `biologie`)
       - Pflicht laut: [PDF vom 23.12.2009 i.d.F. 24.07.2013](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/stuopro-ba-integrated-life-sciencejuli2013.md) (Studiengang: `biologie`)
-- **Weitere Lehre (nicht Pflicht):** 4
-  - **Wintersemester 2025/26** (2)
+- **Weitere Lehre (nicht Pflicht):** 7
+  - **Wintersemester 2025/26** (3)
+    - "Qualitative Methoden" — Seminar (Campo-Studiengang: [- Philosophie und Sozialwissenschaften (FAU Scientia)  -](../565-wintersemester-2025-26/philosophie-und-sozialwissenschaften-fau-scientia-12199890.md))
     - "Biology-informed drug discovery" — Vorlesung (Campo-Studiengang: [- Biologie (FAU Scientia)  -](../565-wintersemester-2025-26/biologie-fau-scientia-12200433.md))
     - "Einführung in die Biochemie für Naturwisschenschaftler und Techniker Teil1" — Vorlesung (Campo-Studiengang: [Pharmazie](../565-wintersemester-2025-26/pharmazie-16807.md))
-  - **Sommersemester 2026** (2)
+  - **Sommersemester 2026** (4)
+    - "Biografieforschung" — Hauptseminar (Campo-Studiengang: (nicht im Katalog))
+    - "Basisseminar Bildung und Lebenslauf" — Seminar (Campo-Studiengang: (nicht im Katalog))
     - "Biology-informed drug discovery" — Vorlesung (Campo-Studiengang: [- Biologie (FAU Scientia)  -](../589-sommersemester-2026/biologie-fau-scientia-13839566.md))
     - "Biochemiepraktikum für Studierende der Molekularwissenschaften und Lebensmittelchemie" — Übung (Campo-Studiengang: [Lebensmittelchemie](../589-sommersemester-2026/lebensmittelchemie-17632.md))
 
@@ -6541,18 +6591,20 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - Pflicht laut: [FPO BMMB 20220726 i.d.F. 20250227.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-bmmb-20220726-idf-20250227.md) (Studiengang: `maschinenbau`)
       - Pflicht laut: [FPO BMMB 20220726.pdf](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-bmmb-20220726.md) (Studiengang: `maschinenbau`)
       - Pflicht laut: [PDF vom 02.09.1997 i.d.F. 11.09.2001](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-maschinenbau-alt.md) (Studiengang: `maschinenbau`)
-- **Weitere Lehre (nicht Pflicht):** 9
-  - **Wintersemester 2025/26** (5)
+- **Weitere Lehre (nicht Pflicht):** 11
+  - **Wintersemester 2025/26** (6)
     - "Tutorium zur Technischen Mechanik 1" — Tutorium (Campo-Studiengang: [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md))
     - "Tutoreneinführung zur Technischen Mechanik 1" — Sonstige Lehrveranstaltung (Campo-Studiengang: [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md))
     - "Uncertainty Quantification for Engineers" —  (Campo-Studiengang: [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md))
     - "Uncertainty Quantification for Engineers" —  (Campo-Studiengang: [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md))
     - "Uncertainty Quantification for Engineers" —  (Campo-Studiengang: [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md))
-  - **Sommersemester 2026** (4)
+    - "MKG_Das Plattenepithelkarzinom d. Mundhöhle - Biol. Grundlagen, Hallmarks of Cancer, Diagnostik, Therapiestrategien" — Vorlesung (Campo-Studiengang: [Zahnmedizin](../565-wintersemester-2025-26/zahnmedizin-16773.md))
+  - **Sommersemester 2026** (5)
     - "Tutorium zur Technischen Mechanik 2" — Tutorium (Campo-Studiengang: [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md))
     - "Uncertainty Quantification for Engineers" —  (Campo-Studiengang: [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md))
     - "Uncertainty Quantification for Engineers" —  (Campo-Studiengang: [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md))
     - "Uncertainty Quantification for Engineers" —  (Campo-Studiengang: [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md))
+  - … und 1 weitere
 
 ### Riess, David ()
 - **FAUdir:** [`7ae044e85a`](https://faudir.fau.de/public/person/7ae044e85a)
@@ -7275,6 +7327,13 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [14. Dezember 2017](../pruefungsordnungen/lehramt/lehramtsfaecher/5aesa-la-ev-religion.md)
       - [pdf vom 26.02.2009](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-20-20deutsch.md)
       - [pdf vom 26.02.2009 i.d.F. 28.03.2011](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-maerz2011.md)
+- **Weitere Lehre (nicht Pflicht):** 4
+  - **Wintersemester 2025/26** (2)
+    - "MKG - Orale Regeneration" — Vorlesung (Campo-Studiengang: [Zahnmedizin](../565-wintersemester-2025-26/zahnmedizin-16773.md))
+    - "Keramik in der restaurativen Zahnheilkunde" — Vorlesung (Campo-Studiengang: [Zahnmedizin](../565-wintersemester-2025-26/zahnmedizin-16773.md))
+  - **Sommersemester 2026** (2)
+    - "MKG - Orale Regeneration" — Vorlesung (Campo-Studiengang: [Zahnmedizin](../589-sommersemester-2026/zahnmedizin-17981.md))
+    - "Keramik in der restaurativen Zahnheilkunde" — Vorlesung (Campo-Studiengang: [Zahnmedizin](../589-sommersemester-2026/zahnmedizin-17981.md))
 
 ### Schmucker, Martin (Dr.)
 - **FAUdir:** [`201c992f7c`](https://faudir.fau.de/public/person/201c992f7c)
@@ -7326,15 +7385,16 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
     - Pflicht laut: [PDF vom 29.02.2016 i.d.F. 02.03.2017](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/fpo-ba-ma-geowissenschaften-maerz2017.md) (Studiengang: `geographie-und-geowissenschaften`)
     - Pflicht laut: [PDF vom 29.02.2016 i.d.F. 30.09.2016](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/fpo-ba-ma-geowissenschaften-sept2016.md) (Studiengang: `geographie-und-geowissenschaften`)
     - Pflicht laut: [PDF vom 29.02.2016](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/fpo-ba-ma-geowissenschaften.md) (Studiengang: `geographie-und-geowissenschaften`)
-- **Weitere Lehre (nicht Pflicht):** 6
+- **Weitere Lehre (nicht Pflicht):** 7
   - **Wintersemester 2025/26** (3)
     - "Grundlagen der Experimentalphysik III" —  (Campo-Studiengang: [Integrated Life Sciences](../565-wintersemester-2025-26/integrated-life-sciences-16827.md))
     - "Physikalisches Praktikum für Lebensmittelchemiker" — Praktikum (Campo-Studiengang: [Lebensmittelchemie](../565-wintersemester-2025-26/lebensmittelchemie-16806.md))
     - "Physics of surfaces and molecular nanostructures" —  (Campo-Studiengang: [Physics](../565-wintersemester-2025-26/physics-16814.md))
-  - **Sommersemester 2026** (3)
+  - **Sommersemester 2026** (4)
     - "Grundlagen der Experimentalphysik III" —  (Campo-Studiengang: [Integrated Life Sciences](../589-sommersemester-2026/integrated-life-sciences-17636.md))
     - "Physikalisches Praktikum für Pharmazeuten" — Praktikum (Campo-Studiengang: [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md))
     - "Physics of surfaces and molecular nanostructures" —  (Campo-Studiengang: [Physics](../589-sommersemester-2026/physics-17637.md))
+    - "Künstlerische Studienfahrt" — Seminar (Campo-Studiengang: (nicht im Katalog))
 
 ### Schober, Robert (Prof. Dr.-Ing.)
 - **FAUdir:** [`1485e2f3c8`](https://faudir.fau.de/public/person/1485e2f3c8)
@@ -7597,6 +7657,8 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
   - **"B. Sc.-Seminar über aktuelle Probleme der Technischen Chemie"** — Seminar (Campo-Studiengang: (nicht im Katalog))
     - Pflicht laut: [PDF vom 22.03.1983](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-physik-1983.md) (Studiengang: `physik`)
     - Pflicht laut: [StuO-PO BSc Physik-MSc Physics 20230731 i.d.F. 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20230731-idf-20260305.md) (Studiengang: `physik`)
+- **Weitere Lehre (nicht Pflicht):** 1
+  - "K-PS15_BT Übung Histopathologie und Makropathologie" — Übung (Campo-Studiengang: (nicht im Katalog))
 
 ### Schulz-Baldes, Hermann (Prof. Dr.)
 - **FAUdir:** [`40a07a604d`](https://faudir.fau.de/public/person/40a07a604d)
@@ -8041,6 +8103,11 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20200203.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200203.md)
       - [LA Deutsch FPO LA Deutsch 20090226 i.d.F. 20200923.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200923.md)
       - [pdf vom 26.02.2009 i.d.F. 16.01.2015](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-feb2015.md)
+- **Weitere Lehre (nicht Pflicht):** 2
+  - **Wintersemester 2025/26** (1)
+    - "Photonic Machine Learning" —  (Campo-Studiengang: [Physics](../565-wintersemester-2025-26/physics-16814.md))
+  - **Sommersemester 2026** (1)
+    - "Photonic Machine Learning" —  (Campo-Studiengang: [Physics](../589-sommersemester-2026/physics-17637.md))
 
 ### Stollhofen, Harald (Prof. Dr.)
 - **FAUdir:** [`fc18ea5f64`](https://faudir.fau.de/public/person/fc18ea5f64)
@@ -9265,8 +9332,12 @@ Liste der **FAUdir-bestätigten Professor:innen**, die in der angegebenen Period
       - [12. Juli 2006](../pruefungsordnungen/medizinische-fakultaet/1aes-stuo-medizin.md)
       - [PDF vom 30.09.2003 i.d.F. 22.12.2015](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-dez2015.md)
       - [PDF vom 30.09.2003 i.d.F. 05.02.2014](../pruefungsordnungen/medizinische-fakultaet/sto-medizin-feb2014.md)
-- **Weitere Lehre (nicht Pflicht):** 1
-  - "BaM - Bild am Morgen - Fälle und mehr" — Vorlesung (Campo-Studiengang: (nicht im Katalog))
+- **Weitere Lehre (nicht Pflicht):** 3
+  - **Wintersemester 2025/26** (1)
+    - "Anschauungen und Ideologien im Umfeld von KI - eine medienethische und theologische Spurensuche" — Seminar (Campo-Studiengang: [Medien-Ethik-Religion](../565-wintersemester-2025-26/medien-ethik-religion-17234.md))
+  - **Sommersemester 2026** (2)
+    - "SE KI in kirchlicher Praxis: methodische und praktisch-theologische Erkundungen" — Seminar (Campo-Studiengang: [Medien-Ethik-Religion](../589-sommersemester-2026/medien-ethik-religion-18246.md))
+    - "BaM - Bild am Morgen - Fälle und mehr" — Vorlesung (Campo-Studiengang: (nicht im Katalog))
 
 ### Zhang, Jingang ()
 - **FAUdir:** [`d098da2368`](https://faudir.fau.de/public/person/d098da2368)

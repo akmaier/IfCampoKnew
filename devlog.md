@@ -1226,3 +1226,57 @@ scraper/analyze_pflicht.py         | +20 / -3   (_has_real_pflicht extended,
 - (b) Audit other Studiengänge that might use similar phrasing. Initial grep shows the convention is unique to BMT/MMT. If a future PO adopts it elsewhere, the new regex covers it automatically.
 
 **Status:** "Obligatorisch nachzuweisende Wahlpflichtmodule" is now correctly classified as Pflicht throughout the pipeline. Pattern Recognition surfaces as Maier's WiSe Pflichtveranstaltung with full attribution to 8 BMT/MMT POs. The user's policy intent ("interpret as Pflicht") landed end-to-end.
+
+
+## Entry 0022 — Aggregate by FAUdir id: fix partition violations and adjacent duplicates
+
+- **Start:** 2026-05-03 21:05 CEST
+- **End:** 2026-05-03 21:30 CEST
+- **Duration:** ~25 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompts (verbatim):**
+
+> Did you also update the prof without pflichtlehre?
+> There are also duplicate entries for some persons right after each other.
+
+**Diagnosis:**
+
+After Entry 0021 the partition between `profs-mit-pflichtlehre.md` and `profs-ohne-pflichtlehre.md` had **17 names appearing in both files**. Sample: *Beck, Silvan* — same FAUdir id `d5cbc20754`, same affiliation, but two different "Lehre" listings:
+
+* In *mit*: 1 Pflichtveranstaltung *"K-V9 Eingangsblock Bildgebende Verfahren"* (Med Fak)
+* In *ohne*: 2 non-Pflicht courses *"Praktikum Grundlagen der Elektrotechnik"* (Mechatronik)
+
+There's no instructor literally named "Silvan Beck" in our raw data — the FAUdir record collected courses from multiple raw instructor strings (e.g. *"Christopher Beck"*, *"Marina Beck"*, *"Moritz Beck"*) that all fuzzy-resolve to FAUdir id `d5cbc20754`. The render functions iterated `by_person` keyed by the **raw instructor string**, treating each name variant as an independent person. One bucket had a Pflicht course (→ *mit*), the others had only non-Pflicht courses (→ *ohne*) — same person, two files.
+
+The same root cause produced **adjacent duplicate entries** like *Held, Pascal (Dr.)* twice in *mit*: the sort key was `(familyName.lower(), full.lower())`, so two FAUdir-collapsed buckets with different `full` strings sorted next to each other.
+
+**Fix in `scraper/analyze_pflicht.py`:**
+
+New `_aggregate_by_faudir(by_person)` collapses entries that share a FAUdir identifier into one record per unique person, before partitioning. Both `render_profs_mit_pflichtlehre_md` and `render_profs_ohne_pflichtlehre_md` now run on the aggregated dict. Entries WITHOUT a FAUdir match pass through unchanged (they're handled by `lehrende-ohne-pflicht.md`).
+
+Course de-duplication inside each aggregated entry uses **`(unit_id, period_id)`** rather than `unit_id` alone. A course like *Deep Learning* (`unit_id=82185`) genuinely runs in both WiSe and SoSe — collapsing on `unit_id` would lose the second occurrence. The pair-key keeps both terms while still deduplicating multiple instructor-string variants of the same person within one term.
+
+**Verification:**
+
+| metric | before fix | after fix |
+|---|--:|--:|
+| profs-mit-pflichtlehre.md candidates | 479 | **478** |
+| profs-ohne-pflichtlehre.md candidates | 978 | **924** |
+| names in BOTH files | 17 | **0** |
+| adjacent duplicates in profs-mit | 1 (`Held, Pascal (Dr.)`) | **0** |
+| adjacent duplicates in profs-ohne | 0 | 0 |
+| Andreas Maier — Pflichtveranstaltungen | 3 (WiSe DL + PR + SoSe DL) | **3** (unchanged) |
+| Andreas Maier — Weitere Lehre | 47 | **47** (unchanged) |
+
+The 54-Prof drop in *profs-ohne* (978 → 924) matches the magnitude of the partition violation: 17 collisions plus their fuzzy-match siblings that were also wrongly listed in *ohne*.
+
+**91 unit tests pass.**
+
+**Files changed:**
+
+```
+scraper/analyze_pflicht.py | +75 / -8
+```
+
+**Status:** Partition between `profs-mit-pflichtlehre.md` and `profs-ohne-pflichtlehre.md` is now exclusive (0 collisions). No adjacent duplicate entries. Cross-term courses (same `unit_id` in both periods) still surface in both terms.
