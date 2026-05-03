@@ -589,6 +589,46 @@ def _norm_name(s: str) -> str:
     return s
 
 
+def _faudir_is_prof(faudir_entry: dict | None) -> bool:
+    """True iff this FAUdir entry exists AND has a Prof-level title.
+
+    Centralised so all three Lehrende-cohort files share the same
+    definition of who counts as a Professor.
+    """
+    if not faudir_entry:
+        return False
+    return _is_professor_title(faudir_entry.get("personalTitle") or "")
+
+
+def _is_professor_title(personal_title: str) -> bool:
+    """Return True if the FAUdir ``personalTitle`` indicates a Professor.
+
+    Includes ``Prof.``, ``Prof. Dr.``, ``Prof. Dr.-Ing.``, ``Prof. Dr.
+    med.``, ``apl. Prof.``, ``Hon. Prof.``, ``Juniorprofessor`` and
+    siblings (the ``\\bProf\\b`` match catches every variant in the
+    FAUdir corpus). Explicitly excludes:
+
+    * ``PD`` / ``PD Dr.`` / ``PD Dr. habil.`` — Privatdozent. Has
+      Habilitation and may teach but is *not* a Professor.
+    * Empty title — typically ``scientific_employee`` (Wissenschaftliche
+      Mitarbeitende), ``M.Sc.``, ``Dr.`` alone, etc. — research staff
+      affiliated WITH a Professur but not Profs themselves.
+    """
+    if not personal_title:
+        return False
+    t = personal_title.strip()
+    # Privatdozent — explicitly excluded per project policy.
+    if re.match(r"^PD\b", t, re.IGNORECASE):
+        return False
+    if re.search(r"\bProf\b", t, re.IGNORECASE):
+        return True
+    # Juniorprofessor / Jun.-Prof. (the latter still matches \bProf\b
+    # above; this branch covers spellings without the Prof segment).
+    if re.search(r"\bJuniorprof", t, re.IGNORECASE):
+        return True
+    return False
+
+
 def load_faudir_lookup(faudir_json_path: Path) -> dict[str, dict]:
     """Read ``tmp/faudir-persons.json`` → ``{normalised_name: faudir_entry}``.
 
@@ -757,17 +797,20 @@ def render_profs_ohne_pflichtlehre_md(
     # profs-mit and profs-ohne).
     aggregated = _aggregate_by_faudir(by_person)
 
-    # Filter to FAUdir-confirmed Profs with no Pflicht teaching
+    # Filter to FAUdir-confirmed Profs with no Pflicht teaching.
+    # Per project policy: only persons whose `personalTitle` indicates
+    # a Professor (Prof., apl. Prof., Hon. Prof., Juniorprofessor) count
+    # — affiliations alone don't make someone a Prof. PD (Privatdozent),
+    # Dr., M.Sc., or empty titles are excluded; those land in
+    # lehrende-ohne-pflicht.md instead.
     candidates: list[tuple[str, dict]] = []
     for key, info in aggregated.items():
         if info["pflicht"]:
             continue
         if not info["other"]:
             continue
-        fau = info["faudir"]
-        if not fau:
+        if not _faudir_is_prof(info["faudir"]):
             continue
-        # FAUdir-confirmed prof, no Pflicht-flagged courses
         candidates.append((info["_full"], info))
 
     # Group by primary rank
@@ -919,11 +962,15 @@ def render_profs_mit_pflichtlehre_md(
     # duplicate entries and partition violations against profs-ohne).
     aggregated = _aggregate_by_faudir(by_person)
 
+    # Same Prof-title filter as profs-ohne so the partition stays
+    # restricted to actual Professors (Prof./apl. Prof./Hon. Prof./
+    # Juniorprofessor); PD / Dr. / M.Sc. / empty land in lehrende-ohne-
+    # pflicht.md instead.
     candidates: list[tuple[str, dict]] = []
     for key, info in aggregated.items():
         if not info["pflicht"]:
             continue
-        if info["faudir"] is None:
+        if not _faudir_is_prof(info["faudir"]):
             continue
         candidates.append((info["_full"], info))
 
@@ -1174,8 +1221,13 @@ def render_lehrende_ohne_pflicht_md(
     faudir_lookup = faudir_lookup or {}
 
     # Filter: only Lehrende with **at least one** matching course but **none**
-    # marked Pflicht **and** no FAUdir match (so they don't double-appear in
-    # profs-ohne-pflichtlehre.md).
+    # marked Pflicht **and** no FAUdir-Prof match (so they don't double-appear
+    # in profs-ohne-pflichtlehre.md).
+    #
+    # The FAUdir match check is now Prof-aware: a person whose FAUdir record
+    # has a non-Prof personalTitle (e.g. ``Dr.``, ``M.Sc.``, empty,
+    # ``PD Dr.``) is NOT excluded — they belong here, not in profs-{ohne,
+    # mit}-pflichtlehre.md, since those files are restricted to Professors.
     candidates: list[tuple[str, list[dict], bool]] = []
     skipped_due_to_faudir = 0
     for full, info in by_person.items():
@@ -1183,9 +1235,11 @@ def render_lehrende_ohne_pflicht_md(
             continue
         if not info["other"]:
             continue
-        if faudir_lookup and fuzzy_lookup_faudir(full, faudir_lookup) is not None:
-            skipped_due_to_faudir += 1
-            continue
+        if faudir_lookup:
+            fau = fuzzy_lookup_faudir(full, faudir_lookup)
+            if _faudir_is_prof(fau):
+                skipped_due_to_faudir += 1
+                continue
         is_prof = "prof" in full.lower()
         candidates.append((full, info["other"], is_prof))
 

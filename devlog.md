@@ -1280,3 +1280,93 @@ scraper/analyze_pflicht.py | +75 / -8
 ```
 
 **Status:** Partition between `profs-mit-pflichtlehre.md` and `profs-ohne-pflichtlehre.md` is now exclusive (0 collisions). No adjacent duplicate entries. Cross-term courses (same `unit_id` in both periods) still surface in both terms.
+
+
+## Entry 0023 — Filter profs files to actual Professors (by FAUdir title)
+
+- **Start:** 2026-05-03 21:35 CEST
+- **End:** 2026-05-03 21:55 CEST
+- **Duration:** ~20 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompt (verbatim):**
+
+> the lists now have many entires with people who are affiliated with a professorship like https://faudir.fau.de/public/person/e1ed36cd8c But are actually not professors. A professor should have the title Prof. or Juniorprofessor. Otherwise they are just teaching persons at FAU. Also "PD" is not a professor and should not be reported.
+
+**Diagnosis:**
+
+The user's example, `e1ed36cd8c` = *Pablo Ochoa de Eribe Delgado*, is a `scientific_employee` (Wissenschaftliche Mitarbeitende) at the *W3-Professur für Sensorische Neurotechnologie*. His FAUdir record:
+
+```
+personalTitle: ''   ← empty
+function: 'scientific_employee'
+organization.name: 'W3-Professur für Sensorische Neurotechnologie'
+```
+
+He is *affiliated with* a Professur but is not himself a Prof. The previous filter included him because the only check was *"FAUdir entry exists"* — which is loose. FAUdir's `personalTitle` field is the right discriminator.
+
+Distribution of `personalTitle` across the 4 897 FAUdir-cached persons:
+
+| count | personalTitle | classification |
+|---:|---|---|
+| 3 063 | (empty) | non-Prof staff |
+| 713 | `Dr.` | non-Prof |
+| 541 | `Prof. Dr.` | **Prof** |
+| 146 | `Dr.-Ing.` | non-Prof |
+| 99 | `PD Dr.` | non-Prof (Privatdozent) |
+| 64 | `Prof. Dr.-Ing.` | **Prof** |
+| 63 | `apl. Prof. Dr.` | **Prof** |
+| 44 | `Prof. Dr. med.` | **Prof** |
+| 18 | `M.Sc.` | non-Prof |
+| 16 | `Dr. rer. nat.` | non-Prof |
+| 9 | `Prof. Dr. Dr.` | **Prof** |
+| 9 | `Prof.` | **Prof** |
+| 8 | `PD Dr. habil.` | non-Prof |
+| 7 | `Prof. Dr.-Ing. habil.` | **Prof** |
+
+**Fix in `scraper/analyze_pflicht.py`:**
+
+1. New `_is_professor_title(personal_title) → bool`:
+   * Includes anything matching `\bProf\b` (case-insensitive) — covers `Prof.`, `Prof. Dr.`, `Prof. Dr.-Ing.`, `Prof. Dr. med.`, `apl. Prof.`, `Hon. Prof.`, `Ass.-Prof.`, `Jun.-Prof.`, etc.
+   * Includes anything matching `\bJuniorprof` (covers `Juniorprofessor` / `Juniorprof.` spellings without the `Prof` segment).
+   * **Explicit exclusion:** if the title starts with `PD` (`re.match(r"^PD\\b", t)`), return False — Privatdozent is checked first so titles like *"PD Dr. habil."* don't accidentally match the `\\bProf\\b` pattern via *"Dr. habil."* (they don't, but the explicit guard makes the intent visible).
+   * Empty title, `Dr.`, `Dr.-Ing.`, `M.Sc.`, `Dipl.-Ing.`, `Ph.D.`, …, all return False.
+2. New `_faudir_is_prof(faudir_entry)` thin wrapper, used everywhere.
+3. `render_profs_mit_pflichtlehre_md` and `render_profs_ohne_pflichtlehre_md` now require `_faudir_is_prof(info["faudir"])` to count someone as a candidate.
+4. `render_lehrende_ohne_pflicht_md` now skips a person ONLY if their FAUdir match is a **Prof**. FAUdir-matched non-Profs (Dr., M.Sc., PD Dr., empty title — research staff) land in `lehrende-ohne-pflicht.md` together with everyone outside FAUdir.
+
+21 unit-tested cases covering every classification edge: ✓
+
+**End-to-end re-run results:**
+
+| metric | Entry 0022 | Entry 0023 | Δ |
+|---|--:|--:|--:|
+| profs-mit-pflichtlehre.md candidates | 478 | **221** | −257 |
+| ┊ W3 | 16 | **6** | −10 |
+| ┊ W? | 458 | **210** | −248 |
+| ┊ Junior | 5 | **5** | unchanged |
+| profs-ohne-pflichtlehre.md candidates | 924 | **322** | −602 |
+| ┊ W3 | 29 | **13** | −16 |
+| ┊ W1 | 5 | **2** | −3 |
+| ┊ W? | 928 | **295** | −633 |
+| ┊ Junior | 16 | **12** | −4 |
+| lehrende-ohne-pflicht.md (lines) | 4 975 | **9 248** | +4 273 |
+
+Total Lehrende-cohort headcount is preserved — 257 + 602 = 859 persons moved from the two prof files into `lehrende-ohne-pflicht.md`. They're still tracked, just in the right bucket: research staff and PD Dr. with non-Prof titles, but who teach courses at FAU.
+
+**Spot-checks:**
+
+* *Pablo Ochoa de Eribe Delgado* (`e1ed36cd8c`, the user's example) — now in `lehrende-ohne-pflicht.md` with 5 non-Pflicht courses. ✓
+* PD Dr. counts in profs-mit and profs-ohne: 0 each (was previously included). ✓
+* Andreas Maier (`Prof. Dr.-Ing.`) — unchanged: 3 Pflichtveranstaltungen (DL × WiSe + DL × SoSe + PR × WiSe), 47 weitere Lehre. ✓
+* Sample of titles still appearing in profs-mit: `Prof. Dr.` (171), `Prof. Dr.-Ing.` (27), `apl. Prof. Dr.` (11), `Prof. Dr.-Ing. habil.` (6), `Ass.-Prof. Dr.` (1). All Prof variants. ✓
+
+**91 unit tests still green.**
+
+**Files changed:**
+
+```
+scraper/analyze_pflicht.py | +60 / -8
+```
+
+**Status:** Both prof files now only contain actual Professors per the user's policy (Prof. / apl. Prof. / Hon. Prof. / Ass.-Prof. / Juniorprofessor). PD (Privatdozent), Dr., M.Sc., empty-title staff, and other non-Prof FAUdir entries are now in `lehrende-ohne-pflicht.md`.
