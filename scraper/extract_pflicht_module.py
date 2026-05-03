@@ -53,6 +53,10 @@ _PFLICHT_SECTION_RE = re.compile(
     r"Grundlagen(?:\s+der)?|"
     r"Basismodule?|Kernbereich|Kernmodule?|"
     r"Bachelorarbeit|Masterarbeit|"
+    # English-language POs (e.g. BSc Artificial Intelligence) label
+    # their Pflicht-Modulgruppen "Core Modules <discipline>" /
+    # "Core Module" — same legal status as Kernmodule.
+    r"Core\s+Modules?|"
     # FAU BA/MA Medizintechnik (BMT/MMT) POs use two related phrasings,
     # both of which are interpreted as Pflicht per project policy:
     #   * "Obligatorisch nachzuweisende Module" — strict Pflicht.
@@ -217,7 +221,9 @@ def _detect_table_section_from_header(header: list[str]) -> str | None:
 _HEADING_PFLICHT_RE = re.compile(
     r"\bObligatorisch\s+nachzuweisend"
     r"|\b(?:Pflichtbereich|Pflichtmodule?|Pflichtfa(?:ch|ecker)|"
-    r"Bachelorarbeit|Masterarbeit|Kernmodule?|Kernbereich|Basismodule?)\b",
+    r"Bachelorarbeit|Masterarbeit|Kernmodule?|Kernbereich|Basismodule?|"
+    # English-language POs (BSc AI etc.)
+    r"Core\s+Modules?)\b",
     re.IGNORECASE,
 )
 _HEADING_WAHL_RE = re.compile(

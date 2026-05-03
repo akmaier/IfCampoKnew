@@ -1,9 +1,9 @@
 ---
 kind: "campo-lehrende-ohne-pflicht"
 period: "Wintersemester 2025/26 + Sommersemester 2026"
-candidates: 1227
-excluded_because_in_faudir: 332
-scraped_at: 2026-05-03T20:40:12+00:00
+candidates: 1100
+excluded_because_in_faudir: 279
+scraped_at: 2026-05-03T21:30:36+00:00
 ---
 
 # Lehrende ohne Pflichtlehre — *ohne FAUdir-Match*
@@ -21,8 +21,8 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 
 **Periode:** Wintersemester 2025/26 + Sommersemester 2026
 
-**Kandidaten:** 1227 (davon 158 mit "Prof" im Namen)  
-**Ausgeschlossen, weil bereits in FAUdir-Liste:** 332
+**Kandidaten:** 1100 (davon 142 mit "Prof" im Namen)  
+**Ausgeschlossen, weil bereits in FAUdir-Liste:** 279
 
 ## Liste
 
@@ -71,12 +71,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [FAU Lehramt International](../589-sommersemester-2026/fau-lehramt-international-18255.md): "Mehrsprachigkeit und Pädagogische Professionalität" — 
   - in [FAU Lehramt International](../589-sommersemester-2026/fau-lehramt-international-18255.md): "Pädagogische Professionalität im Kontext der internationalen Mobilität" — 
   - in [FAU Lehramt International](../589-sommersemester-2026/fau-lehramt-international-18255.md): "Global Citizens in Aktion" — 
-
-### Andrea Pagni — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Romanistik](../565-wintersemester-2025-26/romanistik-17208.md): "América Latina: Cultura y Literatura" — 
-  - in [Romanistik](../589-sommersemester-2026/romanistik-18234.md): "América Latina: Cultura y Literatura" — 
 
 ### Andreas Fischer — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -142,18 +136,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Numerische Methoden der Halbleiterbauelemente" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Numerische Methoden der Halbleiterbauelemente" — 
 
-### Björn Eskofier — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **8**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Maschinelles Lernen für Zeitreihen" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Seminar Advances in Deep Learning for Time Series (ADLTS)" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Seminar Advances in Deep Learning for Time Series (ADLTS)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Reinforcement Learning" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Maschinelles Lernen für Zeitreihen" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Reinforcement Learning" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Maschinelles Lernen für Zeitreihen" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Maschinelles Lernen für Zeitreihen" — 
-
 ### Björn Eskofier (Zuständigkeit: Verantwortliche/-r) An Nguyen — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -195,15 +177,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar Innovationslabor für Wearable und Ubiquitous Computing" — 
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Seminar Innovationslabor für Wearable und Ubiquitous Computing" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Seminar Innovationslabor für Wearable und Ubiquitous Computing" — 
-
-### Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **5**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Human Computer Interaction" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Human Computer Interaction" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Human Computer Interaction" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Human Computer Interaction" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Human Computer Interaction" — 
 
 ### Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Thomas Altstidl — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -277,14 +250,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Medien-Ethik-Religion](../565-wintersemester-2025-26/medien-ethik-religion-17234.md): "Medienrecht" — Seminar
-
-### Daniel Tenbrinck (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Mathematics for Data Science 2" — 
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Mathematics for Data Science 1" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Mathematics for Data Science 2" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Mathematics for Data Science 1" — 
 
 ### Dirk Michael Guldi (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -395,13 +360,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Physik (FAU Scientia)  -](../565-wintersemester-2025-26/physik-fau-scientia-12200539.md): "Quantenphysik LANV/Optik und Quanteneffekte" — Vorlesung mit Übung
-
-### Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **3**
-  - in [Skandinavistik](../565-wintersemester-2025-26/skandinavistik-17170.md): "Nordische Erstsprache 1" — 
-  - in [Skandinavistik](../589-sommersemester-2026/skandinavistik-18247.md): "Nordische Erstsprache 1" — 
-  - in [Skandinavistik](../589-sommersemester-2026/skandinavistik-18247.md): "Nordische Erstsprache 1" — 
 
 ### Hans-Peter Steinrück (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -536,12 +494,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../565-wintersemester-2025-26/paedagogik-und-fachdidaktik-fau-scientia-12199759.md): "Methoden im Religionsunterricht" — Seminar
   - in [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md): "Kinderrechte und Menschenrechtsbildung an (evangelischen) Schulen" — Seminar
 
-### Martin Gugat (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Probability and Stochastic Processes" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Probability and Stochastic Processes" — 
-
 ### Martin Konermann — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -596,12 +548,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "3-V1&3-V2&3-V5 Zahnerhaltungskunde I incl. Poliklinik und Parodontologische Demonstrationen" — Vorlesung
 
-### Matthias Wrede (Zuständigkeit: Verantwortliche/-r) Timm Schärfke (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Wirtschaft und Staat" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Wirtschaft und Staat" — 
-
 ### Christian Heim — **(Prof.)**
   *Titel:* `Prof. Dr. med.`
 - Veranstaltungen ohne Pflicht-Markierung: **3**
@@ -644,35 +590,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Praxisseminar: Entwicklung und Vermarktung innovativer Versicherungsprodukte" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Praxisseminar: Entwicklung und Vermarktung innovativer Versicherungsprodukte" — 
 
-### Nadine Gatzert (Zuständigkeit: Verantwortliche/-r) Daniela Tagsold (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **25**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Versicherungs- und Risikomanagement" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Topics in insurance and risk management" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Unternehmenssimulation zur wert- und risikoorientierten Steuerung in Versicherungen" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Business simulation on risk- and value-oriented management in insurance" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Quantitative Risk Assessment with Excel" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Rechnungslegung und Reporting nach HGB/IFRS/Solvency II bei Versicherungen" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Hauptseminar Risk and Insurance" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "R for insurance and finance" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Asset liability management (Versicherungen)" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Versicherungs- und Risikotheorie" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Lebensversicherung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Planspiel: Unternehmen wert- und risikoorientiert steuern" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Excel für Insurance und Finance" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Topics in insurance and risk management" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Versicherungs- und Risikomanagement" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Unternehmenssimulation zur wert- und risikoorientierten Steuerung in Versicherungen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Business simulation on risk- and value-oriented management in insurance" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Quantitative Risk Assessment with Excel" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Rechnungslegung und Reporting nach HGB/IFRS/Solvency II bei Versicherungen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Hauptseminar Risk and Insurance" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "R for insurance and finance" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Versicherungs- und Risikotheorie" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Asset liability management (Versicherungen)" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Lebensversicherung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Planspiel: Unternehmen wert- und risikoorientiert steuern" — 
-
 ### Nico Hanenkamp (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **8**
@@ -684,13 +601,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar Strategisches Kühlschmierstoffmanagement in der Produktionstechnik" — 
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Seminar Strategisches Kühlschmierstoffmanagement in der Produktionstechnik" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Seminar Strategisches Kühlschmierstoffmanagement in der Produktionstechnik" — 
-
-### Nico Scarano — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **3**
-  - in [Philosophie](../565-wintersemester-2025-26/philosophie-17205.md): "Basismodul Praktische Philosophie" — 
-  - in [Philosophie](../589-sommersemester-2026/philosophie-18264.md): "John Stuart Mill: Utilitarismus" — Proseminar / Mittelseminar
-  - in [Philosophie](../589-sommersemester-2026/philosophie-18264.md): "Basismodul Praktische Philosophie" — 
 
 ### Nicolas Engel (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -828,36 +738,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `Prof. Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "K-PS15 Übung Makropathologie (PathoÄAppO2)" — Übung
-
-### Sabine Friedrich (Zuständigkeit: Verantwortliche/-r) apl. — **(Prof.)**
-  *Titel:* `Prof. Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **26**
-  - in [Literaturstudien - intermedial und interkulturell](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md): "Masterarbeit (M.A. Literaturstudien - intermedial und interkulturell 20182)" — 
-  - in [Literaturstudien - intermedial und interkulturell](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md): "Interdisziplinäres Basismodul zur konkreten Analyse von Medialität und Kulturalität" — 
-  - in [Literaturstudien - intermedial und interkulturell](../589-sommersemester-2026/literaturstudien-intermedial-und-interkulturell-18298.md): "Masterarbeit (M.A. Literaturstudien - intermedial und interkulturell 20182)" — 
-  - in [Literaturstudien - intermedial und interkulturell](../589-sommersemester-2026/literaturstudien-intermedial-und-interkulturell-18298.md): "Interdisziplinäres Basismodul zur konkreten Analyse von Medialität und Kulturalität" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Einführungsmodul: Theorien und Methoden" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Interdisziplinäres Basismodul zur Einführung in den Theoriekomplex Literatur/Kultur/Medien" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Interdisziplinäres Basismodul zur konkreten Analyse von Medialität und Kulturalität" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Aufbaumodul Kultur-/ Medien-Analyse" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Vertiefungsmodul Kultur-/ Medien-Analyse" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Sprachpraxis" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Masterarbeit (M.A. Literaturstudien - medial und transkulturell 20242)" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Aufbaumodul Literaturanalyse" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Vertiefungsmodul Literaturanalyse" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Ergänzungsmodul Kultur-/Medien-Analyse" — 
-  - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Ergänzungsmodul Literaturanalyse" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Interdisziplinäres Basismodul zur Einführung in den Theoriekomplex Literatur/Kultur/Medien" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Einführungsmodul: Theorien und Methoden" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Interdisziplinäres Basismodul zur konkreten Analyse von Medialität und Kulturalität" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Aufbaumodul Kultur-/ Medien-Analyse" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Vertiefungsmodul Kultur-/ Medien-Analyse" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Masterarbeit (M.A. Literaturstudien - medial und transkulturell 20242)" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Sprachpraxis" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Aufbaumodul Literaturanalyse" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Vertiefungsmodul Literaturanalyse" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Ergänzungsmodul Kultur-/Medien-Analyse" — 
-  - in [Literaturstudien – medial und transkulturell](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md): "Ergänzungsmodul Literaturanalyse" — 
 
 ### Sabine Maier — **(Prof.)**
   *Titel:* `Prof. Dr.`
@@ -1109,16 +989,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Nachhaltigkeit im globalen Supply Chain Management" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Nachhaltigkeit im globalen Supply Chain Management" — 
 
-### Eva Maria Hartmann (Zuständigkeit: Verantwortliche/-r) Wolf-Alexander Frenkler (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **6**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Fallstudien und Projekte im Management III" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Logistik-Consulting" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Management von Logistik- und SCM-Projekten" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Logistik-Consulting" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Fallstudien und Projekte im Management III" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Management von Logistik- und SCM-Projekten" — 
-
 ### Georg Fischer (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **6**
@@ -1195,97 +1065,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Kommunikationselektronik" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Globale Navigationssatellitensysteme" — 
 
-### Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **31**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Eingebettete Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Reconfigurable Computing with extended exercises" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Hardware-Software-Co-Design" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Hardware-Software-Co-Design (Vorlesung mit erweiterter Übung)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Hardware-Software-Co-Design" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Technischen Informatik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Security in Embedded Hardware" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Hardware-Software-Co-Design" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Reconfigurable Computing (Lecture with Exercises)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Eingebettete Systeme (Vorlesung mit erweiterten Übungen)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Reconfigurable Computing with extended exercises" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Reconfigurable Computing" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Hardware-Software-Co-Design (Lecture with extended exercise)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Hardware-Software-Co-Design" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Eingebettete Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Reconfigurable Computing with extended exercises" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Hardware-Software-Co-Design" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Hardware-Software-Co-Design" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Grundlagen der Technischen Informatik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Security in Embedded Hardware" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Hardware-Software-Co-Design" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Reconfigurable Computing (Lecture with Exercises)" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Eingebettete Systeme (Vorlesung mit erweiterten Übungen)" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Reconfigurable Computing with extended exercises" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Reconfigurable Computing" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Hardware-Software-Co-Design" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Hardware-Software-Co-Design (Lecture with extended exercise)" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Security in Embedded Hardware" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Eingebettete Systeme" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Security in Embedded Hardware" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Eingebettete Systeme" — 
-
-### Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **52**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Regelungstechnik A (Grundlagen)" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Regelungstechnik A (Grundlagen)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Regelungstechnik A (Grundlagen)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Nonlinear Control Systems" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Nonlinear Control Systems" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Maschinelles Lernen in der Regelungstechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Machine Learning for Control Systems" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Numerical Optimization and Model Predictive Control" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Regelungstechnik I" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Regelungstechnik II" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Regelungstechnik A (Grundlagen)" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Nonlinear Control Systems" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Nonlinear Control Systems" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Maschinelles Lernen in der Regelungstechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Machine Learning for Control Systems" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Numerical Optimization and Model Predictive Control" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Regelungstechnik I" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Regelungstechnik II" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Regelungstechnik A (Grundlagen)" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Machine Learning for Control Systems" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Praktikum Regelungstechnik I" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Praktikum Regelungstechnik II" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Regelungstechnik A (Grundlagen)" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Praktikum Regelungstechnik I" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Machine Learning for Control Systems" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Praktikum Regelungstechnik II" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Regelungstechnik A (Grundlagen)" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Nonlinear Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Numerical Optimization and Model Predictive Control" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Machine Learning for Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Numerical Optimization and Model Predictive Control" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Nonlinear Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Regelungstechnik A (Grundlagen)" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Nonlinear Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Numerical Optimization and Model Predictive Control" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Machine Learning for Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Nonlinear Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Numerical Optimization and Model Predictive Control" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Regelungstechnik B (Zustandsraummethoden)" — 
-
 ### Norman Franchi (Zuständigkeit: Verantwortliche/-r) Julia Neukam (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **3**
@@ -1312,18 +1091,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Drahtlose Automobilelektronik" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Drahtlose Automobilelektronik" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Drahtlose Automobilelektronik" — 
-
-### Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **8**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Robot mechanisms and user interfaces" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Robot mechanisms and user interfaces" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Robot mechanisms and user interfaces" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Robot mechanisms and user interfaces" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Robot mechanisms and user interfaces" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Robot mechanisms and user interfaces" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Robot mechanisms and user interfaces" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Robot mechanisms and user interfaces" — 
 
 ### Sebastian Müller (Zuständigkeit: Verantwortliche/-r) Edgard Moreira Minete — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
@@ -1370,14 +1137,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Gießereitechnik" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Gießereitechnik" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Gießereitechnik" — 
-
-### Sebastian Sattler (Zuständigkeit: Verantwortliche/-r) Peter Meisel — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Entwurf Integrierter Schaltungen II" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Entwurf Integrierter Schaltungen II" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Entwurf Integrierter Schaltungen II" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Entwurf Integrierter Schaltungen II" — 
 
 ### Sebastian Sattler (Zuständigkeit: Verantwortliche/-r) Peter Meisel (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
   *Titel:* `Prof. Dr.-Ing.`
@@ -1430,44 +1189,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Simulation und Regelung von Schaltnetzteilen" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Ausgewählte Kapitel der Schaltnetzteiltechnologie" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Simulation und Regelung von Schaltnetzteilen" — 
-
-### Thomas Moor (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in) — **(Prof.)**
-  *Titel:* `Prof. Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **34**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Ereignisdiskrete Systeme" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Schätzverfahren in der Regelungstechnik" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Modeling of Control Systems" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Ereignisdiskrete Systeme" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Schätzverfahren in der Regelungstechnik" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Modeling of Control Systems" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Einführung in die Regelungstechnik" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Einführung in die Regelungstechnik" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Einführung in die Regelungstechnik" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Einführung in die Regelungstechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Modeling of Control Systems" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Modellbildung in der Regelungstechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Ereignisdiskrete Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Modellbildung in der Regelungstechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Ereignisdiskrete Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Schätzverfahren in der Regelungstechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Modeling of Control Systems" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar 'Moderne Methoden der Regelungstechnik'" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Modeling of Control Systems" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Modellbildung in der Regelungstechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Ereignisdiskrete Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Modellbildung in der Regelungstechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Ereignisdiskrete Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Schätzverfahren in der Regelungstechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Modeling of Control Systems" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar 'Moderne Methoden der Regelungstechnik'" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Ereignisdiskrete Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Modeling of Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Schätzverfahren in der Regelungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Ereignisdiskrete Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Ereignisdiskrete Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Modeling of Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Schätzverfahren in der Regelungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Ereignisdiskrete Systeme" — 
 
 ### Hajatpour anmelden. E-Mail: reza.hajatpour@fau.de — **(Prof.)**
   *Titel:* `Prof.`
@@ -1542,31 +1263,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Veranstaltungen aus der Technischen Fakultät](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md): "Signalkonditionierung in integrierten Analogschaltungen" — Vorlesung
 
-### Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **22**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Integrierte Schaltungen für Funkanwendungen" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Digitale elektronische Systeme" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Integrierte Schaltungen für Funkanwendungen" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Digitale elektronische Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Digitale elektronische Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Integrierte Schaltungen für Funkanwendungen" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Digitale elektronische Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Integrierte Schaltungen für Funkanwendungen" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Digitale elektronische Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Integrierte Schaltungen für Funkanwendungen" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Digitale elektronische Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Integrierte Schaltungen für Funkanwendungen" — 
-  - in [Medizintechnik](../565-wintersemester-2025-26/medizintechnik-17112.md): "Digitale elektronische Systeme" — 
-  - in [Medizintechnik](../589-sommersemester-2026/medizintechnik-17967.md): "Digitale elektronische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Digitale elektronische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Integrierte Schaltungen für Funkanwendungen" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Digitale elektronische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Integrierte Schaltungen für Funkanwendungen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Digitale elektronische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Integrierte Schaltungen für Funkanwendungen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Digitale elektronische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Integrierte Schaltungen für Funkanwendungen" — 
-
 ### Alex Kariuki Muthumbi
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Linear and non-linear fibre optics: Exercise" — Übung
@@ -1631,10 +1327,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Am 21.10. findet die Vorlesung online statt. Den Zoom-Link finden Sie in der StudOn-Gruppe.
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Menschenbilder. Porträtkunst der Renaissance in Italien und Deutschland" — Vorlesung
-
-### Am Montag, den 13. Oktober 2025, findet von 8:15 bis 9:30 Uhr zu Beginn des Studienjahres auch in diesem Jahr wieder die zentrale Einführungsveranstaltung für Studienanfänger aller Fachrichtungen der Technischen Fakultät statt. Bitte beachten Sie, dass dieser Tag für die Erstsemester-Studierenden in den Bachelor-Studien-gängen der Technischen Fakultät den Informationsveranstaltungen vorbehalten ist. Die Vorle-sungen für die neuen Studierenden können daher erst ab Dienstag, den 14. Oktober 2025, starten.
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Grundlagen der Elektrotechnik I" — Vorlesung
 
 ### Anamaria Dumitrescu
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -1793,11 +1485,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Process Analytics (PA)" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Process Analytics (PA)" — 
 
-### Arne Vogel
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
-
 ### Auf Grund hoher Anmeldezahlen im StudOn ein Alternativraum zum 0.031-113 in dem die Vorlesung üblicherweise stattfinden wird. Wir beginnen im 0.031-113 und falls der Platz nicht ausreicht auf Grund starker Teilnahme wechseln wir für die erste Vorlesung in den CIP-Pool.
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Softwarearchitektur" — Vorlesung mit Übung
@@ -1814,20 +1501,11 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Mechatronische Systeme" — Praktikum
 
-### Bastian Rüppel
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Thermodynamik" — Vorlesung
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Thermodynamik Übung" — Übung
-
 ### Batuhan Sesli
 - Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Übung zu Eingebettete Systeme" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Erweiterte Übungen zu Parallele Systeme" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Multi-Core Architecture and Programming" — Seminar
-
-### Beginn: 12. November (7 Sitzungen ab dem 12. 11. )
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Soziologie](../565-wintersemester-2025-26/soziologie-17143.md): "Einführung in das wissenschaftliche Arbeiten" — Übung
 
 ### Benedict Scheiner
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -1853,13 +1531,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Seminar Medizinelektronik und elektronische Assistenzsysteme für den Alltag" — 
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar Medizinelektronik und elektronische Assistenzsysteme für den Alltag" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar Medizinelektronik und elektronische Assistenzsysteme für den Alltag" — 
-
-### Benedict Scheiner (Zuständigkeit: Bearbeiter/-in) Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Elektronik und Schaltungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Elektronik und Schaltungstechnik + Praktikum Schaltungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Elektronik und Schaltungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Elektronik und Schaltungstechnik + Praktikum Schaltungstechnik" — 
 
 ### Benedict Scheiner (Zuständigkeit: Bearbeiter/-in) Sascha Breun (Zuständigkeit: Bearbeiter/-in) Angelika Thalmayer (Zuständigkeit: Bearbeiter/-in)
 - Veranstaltungen ohne Pflicht-Markierung: **6**
@@ -1939,13 +1610,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Pharmazie](../565-wintersemester-2025-26/pharmazie-16807.md): "Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Qualitätskontrolle und -sicherung bei Arzneistoffen) und der entsprechenden Normen für Medizinprodukte" — Praktikum
 
-### Carla Ferrara
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Comprensione e produzione scritta" — Übung
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Italienisch: Intermedio I" — Übung
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Comprensione e produzione orale I" — Übung
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "Ferienintensivkurs in Erlangen:  Italiano - Intermedio I / Elementarkurs III (Niveau B1)" — Übung
-
 ### Carolin Wiesmann
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Crosslinked Polymers" — Vorlesung
@@ -2010,11 +1674,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md): "Stimmbildung und Sprecherziehung (Lehner-Belkaied)" — Übung
   - in [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md): "Stimmbildung und Sprecherziehung (Lehner-Belkaied)" — Übung
 
-### Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Angelika Thalmayer (Zuständigkeit: Bearbeiter/-in) Sebastian Peters (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Elektrotechnik I für MT, MECH" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Grundlagen der Elektrotechnik I für MT, MECH" — 
-
 ### Christoph Hahn
 - Veranstaltungen ohne Pflicht-Markierung: **4**
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Power Electronics in Three-Phase AC Networks: HVDC Transmission and FACTS" — 
@@ -2049,24 +1708,10 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Ringvorlesung "Lösungen für das energieeffiziente, selbstbestimmte Wohnen"" — 
   - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Ringvorlesung "Lösungen für das energieeffiziente, selbstbestimmte Wohnen"" — 
 
-### Christoph Küffner (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **6**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Strategische Vorausschau in Theorie und Praxis" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Produktions- und Supply Chain Management" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Strategic supply management" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Strategische Vorausschau in Theorie und Praxis" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Produktions- und Supply Chain Management" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Strategic supply management" — 
-
 ### Christoph Mederer
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Regenerative Energiesysteme" — Vorlesung
   - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Übungen zu Regenerative Energiesysteme" — Übung
-
-### Christopher Beck
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Grundlagen der Elektrotechnik für EEI,ME,BP,INF,Math" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Grundlagen der Elektrotechnik für EEI,ME,BP,INF,Math" — 
 
 ### Christopher Münch
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -2096,11 +1741,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Wärmekraftanlagen und Kraftwerkstechnik" — Vorlesung
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Übung zu Wärmekraftanlagen und Kraftwerkstechnik" — Übung
-
-### Constantin Jehn
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
 
 ### Constantin Lessmann
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2232,22 +1872,9 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Internationales Projektseminar" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Internationales Projektseminar" — 
 
-### Daniel Andreas
-- Veranstaltungen ohne Pflicht-Markierung: **6**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Elektrotechnik III" — Vorlesung
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Elektrotechnik III (Übung)" — Übung
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Elektrotechnik III (Tutorium)" — Tutorium
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Grundlagen der Elektrotechnik III Kurs D" — Praktikum
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Praktikum Grundlagen der Elektrotechnik III Kurs A" — Praktikum
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Praktikum Grundlagen der Elektrotechnik III Kurs C" — Praktikum
-
 ### Daniel Bischoff
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Zeichnen: Portrait & Figur (A+V)" — Seminar
-
-### Daniel Fenzel
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Applied Programming" — Vorlesung mit Übung
 
 ### Daniel Mosig
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -2329,10 +1956,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Rechtswissenschaft](../589-sommersemester-2026/rechtswissenschaft-17626.md): "Rechtstheorie und juristische Methodenlehre" — Vorlesung
   - in [Rechtswissenschaft](../589-sommersemester-2026/rechtswissenschaft-17626.md): "Logik für Juristen" — Vorlesung
 
-### Die gemeinsame Einführungsveranstaltung für das Praktikum GET findet am Dienstag, den 21.04.2026 von 09:00 Uhr (s.t.) bis 10:00 Uhr (s.t.) &nbsp;in den Hörsälen H15 und H16 statt. Die Teilnahme an der Einführungsveranstaltung ist verpflichtend.&nbsp; Das Praktikum besteht aus vier Versuchen. &nbsp; Im Rahmen der Einführungsveranstaltung erhalten Sie die genauen Termine an welchen die einzelnen Versuche stattfinden.&nbsp; Die Zuteilung zu Ihren genauen Terminen erhalten Sie im Anschluss an die Einführungsveranstaltung.
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Praktikum Grundlagen der Elektrotechnik I für Medizintechnik" — Praktikum
-
 ### Die Lehrveranstaltung startet in der 2. Vorlesungswoche am 21.04.26.
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "Einführung in den Islam" — Vorlesung mit Übung
@@ -2364,10 +1987,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Die Vorlesung wird als Online-Kurs angeboten. Weitere Informationen sind auf StudOn zu finden.&nbsp;
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Veranstaltungen aus der Technischen Fakultät](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md): "Signalanalyse" — Vorlesung
-
-### Die Übung findet 14-tägig statt. In der ersten Vorlesungswoche ist keine Übung. Bitte informieren Sie sich über den begleitenden StudOn-Kurs.
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Übungen zu Grundlagen der Elektrischen Antriebstechnik" — Übung
 
 ### Diese Vl findet gemeinsam mit der VL Werkstoffkunde für CBI im H14, Martensstr. 5 statt. &nbsp;
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2457,12 +2076,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "V-PS5B Seminar Neurophysiologie" — Seminar
-
-### Andreas Bayer
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Lebensmittelchemie](../589-sommersemester-2026/lebensmittelchemie-17632.md): "Physikalisch-chemisches Praktikum für LMCh" — Praktikum
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Physikalisch-chemisches Praktikum für Pharmazie" — Praktikum
 
 ### Andreas Bayer (Zuständigkeit: Bearbeiter/-in)
   *Titel:* `Dr.`
@@ -2661,19 +2274,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md): "Natur und Industrie. Die DDR-Literatur mit den Environmental Humanities gelesen (Lit AM-L)" — Seminar
   - in [Germanistik](../589-sommersemester-2026/germanistik-18227.md): "Vernunft, Gefühl und Gesellschaft. Literatur des 18. Jahrhunderts" — Proseminar
 
-### Armine Garibyan
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **9**
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Basismodul Linguistics B" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Basismodul Linguistics A" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Basismodul II Linguistics" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Basismodul Linguistics A" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Basismodul Linguistics B" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Basismodul II Linguistics" — 
-  - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Basismodul Linguistics A" — 
-  - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Basismodul Linguistics A" — 
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Aufbauseminar English Linguistics II (Erlangen)" — Aufbauseminar
-
 ### Barbara Albrecht
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -2690,22 +2290,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "(EK) Einführung" — Einführungskurs
   - in : "Experimentalarchäologie mit Steinartefakten" — Übung
   - in : "Exkursion Schwäbische Alb" — Exkursion
-
-### Bernd Flessner
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **6**
-  - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele" — Seminar
-  - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Schreiben für die Wissenschaft" — Seminar
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele" — Seminar
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Science Fiction und Wissenschaft" — Seminar
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Zukunftsforschung II - Der Think Tank" — Seminar
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Schreiben für die Wissenschaft" — Seminar
-
-### Bernd Flessner (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele" — 
 
 ### Bernd Schwarze
   *Titel:* `Dr.`
@@ -2791,16 +2375,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Rechtswissenschaft](../589-sommersemester-2026/rechtswissenschaft-17626.md): "Business and Human Rights" — Masterseminar
-
-### Christel Sirocchi
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Data Engineering - Exercise" — Übung
-
-### Christian Ehli
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Physikalische Chemie für Pharmazie" — Vorlesung
 
 ### Christian Kietzmann
   *Titel:* `Dr.`
@@ -2894,24 +2468,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md): "Was ist Politik? Die Ursprünge des Politischen Denkens in der griechischen Antike" — Proseminar
-
-### Dario Zanca
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **8**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Maschinelles Lernen für Zeitreihen" — 
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Projekt Maschinelles Lernen und Datenanalytik" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Projekt Maschinelles Lernen und Datenanalytik" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Seminar Advances in Deep Learning for Time Series (ADLTS)" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Seminar Advances in Deep Learning for Time Series (ADLTS)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Maschinelles Lernen für Zeitreihen" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Maschinelles Lernen für Zeitreihen" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Maschinelles Lernen für Zeitreihen" — 
-
-### Dario Zanca (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Seminar Advances in Deep Learning for Time Series (ADLTS)" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Seminar Advances in Deep Learning for Time Series (ADLTS)" — 
 
 ### David Bertermann
   *Titel:* `Dr.`
@@ -3028,14 +2584,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Molecular Science](../565-wintersemester-2025-26/molecular-science-16812.md): "Modern X-ray structure determination of single crystals" — Vorlesung mit Übung
   - in [LV mit Nachhaltigkeitsbezug, Naturwissenschaftliche Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-naturwissenschaftliche-fakultaet-17610.md): "Anorganische Chemie 2 - Chemie der Metalle" — Vorlesung mit Übung
 
-### Frank Wilhelm Heinemann (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Chemie](../565-wintersemester-2025-26/chemie-16826.md): "Quantitative analytische Chemie" — 
-  - in [Chemie](../589-sommersemester-2026/chemie-17647.md): "Quantitative analytische Chemie" — 
-  - in [Molecular Science](../565-wintersemester-2025-26/molecular-science-16812.md): "Quantitative analytische Chemie" — 
-  - in [Molecular Science](../589-sommersemester-2026/molecular-science-17641.md): "Quantitative analytische Chemie" — 
-
 ### Gabriele Peitz
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -3136,24 +2684,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Markt und Netze - Systemlösungen für die Energiewende" — Vorlesung
   - in [- Elektro- und Informationstechnik (FAU Scientia)  -](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md): "Übungen zu Markt und Netze - Systemlösungen für die Energiewende" — Übung
 
-### Hans-Friedrich Bormann
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **8**
-  - in [Literaturstudien - intermedial und interkulturell](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md): "MA TFV 1. FS - Modul I: Theorieseminar" — Masterseminar
-  - in [Literaturstudien - intermedial und interkulturell](../589-sommersemester-2026/literaturstudien-intermedial-und-interkulturell-18298.md): "MA TFV 2. FS - Modul 6: Theater und die anderen Künste" — Masterseminar
-  - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Einführung" — 
-  - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Thematisches Modul Theaterwissenschaft" — 
-  - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Basismodul Theaterwissenschaft" — 
-  - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Einführung" — 
-  - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Basismodul Theaterwissenschaft" — 
-  - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Thematisches Modul Theaterwissenschaft" — 
-
-### Harald Hübner
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Praktikum Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen" — Praktikum
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Klinische Chemie (Biochemische Untersuchungsmethoden Teil B)" — Kurs
-
 ### Heidi Zinser
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -3251,11 +2781,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Optimierung für Ingenieure" — 
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Optimierung für Ingenieure" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Optimierung für Ingenieure" — 
-
-### Johannes Möller
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Materials Data Engineering in Industrial Practice" — Vorlesung
 
 ### Johannes Ulbricht
   *Titel:* `Dr.`
@@ -3369,14 +2894,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Testfreundlicher Schaltungsentwurf" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Testfreundlicher Schaltungsentwurf" — 
 
-### Jürgen Einsiedel
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Praktikum Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen" — Praktikum
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Instrumentelle Analytik (f. Stud. d. Pharmazie im 4. Semester)" — Praktikum
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Tutorium zum Praktikum Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen" — Tutorium
-  - in [Lebensmittelchemie](../589-sommersemester-2026/lebensmittelchemie-17632.md): "Chemisches Praktikum II - Instrumentelle Analytik (f. Stud. d. Lebensmittelchemie im 4. Semester)" — Praktikum
-
 ### Jürgen Gose
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -3412,11 +2929,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "PÜ I: Rom kriegt die Krise. Das Ende der Severer und das frühe 3. Jahrhundert" — Übungsseminar
 
-### Karin Mansyreff
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Physikalisch-chemisches Praktikum für Pharmazie" — Praktikum
-
 ### Katharina Sodoma
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **4**
@@ -3430,22 +2942,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [Erziehungswissenschaften](../565-wintersemester-2025-26/erziehungswissenschaften-17148.md): "Prüfungsvorbereitung" — 
   - in [Erziehungswissenschaften](../589-sommersemester-2026/erziehungswissenschaften-18280.md): "Prüfungsvorbereitung" — 
-
-### Katrin Götz-Votteler
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **12**
-  - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Orientierungshäppchen für Erstsemester" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Micro-Credential: Einführung in die Wissenschaftsreflexion" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Micro-Credential: Reflektierter Umgang mit KI-Tools" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Micro-Credential: Reflektierter Umgang mit KI-Tools" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Micro-Credential: Einführung in die Wissenschaftsreflexion" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Warum Wissenschaft? Reflexionen über Wissen, Methode und Verantwortung" — Seminar
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Challenge Accepted! - Selbstwirksamkeit als Erfolgsfaktor im Studium (und darüber hinaus)" — Kurs
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Digital-Tandem: Generationen lernen voneinander" — Seminar
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Klimawandel und internationale Klimapolitik (ZiWiS)" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Klimawandel und internationale Klimapolitik (ZiWiS)" — 
 
 ### Katrin Rohrbacher
   *Titel:* `Dr.`
@@ -3545,15 +3041,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md): "Lektüreseminar Literature (Erlangen)" — Seminar
 
-### Lothar Czaja
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **5**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "BWL für Ingenieure I" — Vorlesung
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Produktion/Logistik/Beschaffung - Übung" — Übung
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Produktion/Logistik/Beschaffung - Vorlesung" — Vorlesung
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "BWL für Ingenieure II" — Vorlesung mit Übung
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Produktion/ Logistik/ Beschaffung - Klausurenkurs" — Klausurenkurs
-
 ### Lydia Mammen
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -3628,14 +3115,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Softwarearchitektur" — Vorlesung mit Übung
 
-### Martin Schwandt (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Gesundheitsmanagement B" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Krankenhausmanagement I" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Gesundheitsmanagement B" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Krankenhausmanagement I" — 
-
 ### Mathias Rösch
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -3661,12 +3140,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Arduino hard- and software for lab applications and beyond" — 
   - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Arduino hard- and software for lab applications and beyond" — 
-
-### Maximilian Pöhnlein (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Ökonomie des öffentlichen Sektors" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Ökonomie des öffentlichen Sektors" — 
 
 ### André Friedrich
   *Titel:* `Dr. med.`
@@ -3702,11 +3175,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `Dr. med.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "K-V15_BT Chirurgie" — Vorlesung
-
-### Astrid Löscher
-  *Titel:* `Dr. med.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Klinische Chemie (Biochemische Untersuchungsmethoden Teil B)" — Kurs
 
 ### Christoph Treutlein
   *Titel:* `Dr. med.`
@@ -3888,74 +3356,11 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Biologie](../565-wintersemester-2025-26/biologie-16804.md): "Organische Chemie 2" — 
   - in [Biologie](../589-sommersemester-2026/biologie-17657.md): "Organische Chemie 2" — 
 
-### Michael Fried
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **36**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Mathematik für EEI 1" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Mathematik für EEI 2" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Mathematik für EEI 3" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Mathematik für EEI 4" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Mathematik für Ingenieure A1: EEI, MT,CE,BP" — Vorlesung
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Übungen zur Mathematik für Ingenieure A1" — Übung
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Mathematik für EEI 1" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Mathematik für EEI 2" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Mathematik für EEI 3" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Mathematik für EEI 4" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Mathematik für Ingenieure A2 : CE, EEI, BP-E, MT" — Vorlesung
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Übungen zur Mathematik für Ingenieure A2 : CE, EEI, BP-E, MT" — Übung
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Mathematik für ME 1" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Mathematik für ME 3" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Numerik II für Ingenieure" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Numerik I für Ingenieure" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Mathematik für ME 1" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Mathematik für ME 3" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Numerik I für Ingenieure" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Numerik II für Ingenieure" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Numerik I für Ingenieure" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Numerik I für Ingenieure" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Numerik I für Ingenieure" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Numerik II für Ingenieure" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Numerik I für Ingenieure" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Numerik II für Ingenieure" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Numerik I für Ingenieure" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Numerik II für Ingenieure" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Numerik I für Ingenieure" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Numerik II für Ingenieure" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Numerik I für Ingenieure" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Numerik II für Ingenieure" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Numerik I für Ingenieure" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Numerik I für Ingenieure" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Numerik II für Ingenieure" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Numerik I für Ingenieure" — 
-
 ### Michael Jungert
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [Philosophie](../565-wintersemester-2025-26/philosophie-17205.md): "In Science We Trust? Wissenschaftsskeptizismus und Wissenschaftsbeeinflussung" — Proseminar / Mittelseminar
   - in [Philosophie](../589-sommersemester-2026/philosophie-18264.md): "Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie" — Proseminar / Mittelseminar
-
-### Michael Klotz
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **19**
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF I Linguistics" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF I Linguistics" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF I Linguistics" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF I Linguistics" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF I Linguistics" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF I Linguistics" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Introductory Module Topics in Linguistic Theory and Language Acquisition Research" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Language Variation (English)" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "English Historical Linguistics" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Lexicography" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Units of Meaning" — 
-  - in [Linguistik](../565-wintersemester-2025-26/linguistik-17168.md): "Syntax/Construction Grammar" — 
-  - in [Linguistik](../589-sommersemester-2026/linguistik-18239.md): "Introductory Module Topics in Linguistic Theory and Language Acquisition Research" — 
-  - in [Linguistik](../589-sommersemester-2026/linguistik-18239.md): "Language Variation (English)" — 
-  - in [Linguistik](../589-sommersemester-2026/linguistik-18239.md): "English Historical Linguistics" — 
-  - in [Linguistik](../589-sommersemester-2026/linguistik-18239.md): "Units of Meaning" — 
-  - in [Linguistik](../589-sommersemester-2026/linguistik-18239.md): "Lexicography" — 
-  - in [Linguistik](../589-sommersemester-2026/linguistik-18239.md): "Syntax/Construction Grammar" — 
-  - in : "Kombi-Seminar" — Kombiseminar
 
 ### Michael Overdick
   *Titel:* `Dr.`
@@ -4066,18 +3471,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Grundseminar English Linguistics I (Nürnberg)" — Grundseminar
 
-### Patricia Uhl (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **8**
-  - in [Französisch](../565-wintersemester-2025-26/franzoesisch-17153.md): "Aufbaumodul Didaktik der romanischen Sprachen (Lehramt Gymnasien)" — 
-  - in [Französisch](../565-wintersemester-2025-26/franzoesisch-17153.md): "Fachdidaktisches Modul 1: Einführung in die Didaktik des Französischen" — 
-  - in [Französisch](../565-wintersemester-2025-26/franzoesisch-17153.md): "Fachdidaktisches Modul 2: Didaktik des Französischen (Lehramt Gymnasien)" — 
-  - in [Französisch](../565-wintersemester-2025-26/franzoesisch-17153.md): "Aufbaumodul Didaktik der romanischen Sprachen (Lehramt Realschulen)" — 
-  - in [Französisch](../589-sommersemester-2026/franzoesisch-18320.md): "Aufbaumodul Didaktik der romanischen Sprachen (Lehramt Gymnasien)" — 
-  - in [Französisch](../589-sommersemester-2026/franzoesisch-18320.md): "Fachdidaktisches Modul 1: Einführung in die Didaktik des Französischen" — 
-  - in [Französisch](../589-sommersemester-2026/franzoesisch-18320.md): "Fachdidaktisches Modul 2: Didaktik des Französischen (Lehramt Gymnasien)" — 
-  - in [Französisch](../589-sommersemester-2026/franzoesisch-18320.md): "Aufbaumodul Didaktik der romanischen Sprachen (Lehramt Realschulen)" — 
-
 ### Pavlina Kröckel
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -4178,14 +3571,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Übung Polymer Science and Processing" — Übung
 
-### Sabine Thürauf
-  *Titel:* `Dr. rer. nat.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Veranstaltungen aus der Technischen Fakultät](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md): "Human-Robot Co-Adaptation, Theory" — Vorlesung
-  - in [Veranstaltungen aus der Technischen Fakultät](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md): "Human-Robot Co-Adaptation, Exercises" — Übung
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Logic and Symbolic Artificial Intelligence, Theory" — Vorlesung
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Logic and Symbolic Artificial Intelligence, Exercises" — Übung
-
 ### Robert Hesselbach
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **12**
@@ -4251,31 +3636,16 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Gerontologie](../589-sommersemester-2026/gerontologie-18284.md): "Modul 8: Gerontologisches Praktikum" — 
   - in [Gerontologie](../589-sommersemester-2026/gerontologie-18284.md): "Modul 9: Wahlpflichtmodul" — 
 
-### Roman Breiter
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **16**
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Brauseminar" — Seminar
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Lebensmittelbiotechnologie" — Vorlesung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Praktikum zur Lebensmittelbiotechnologie" — Praktikum
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Übung und Tutorium zur Lebensmittelbiotechnologie" — Übung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik; VF)" — Vorlesung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Doktorandenseminar" — Seminar
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Praktikum Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik)" — Praktikum
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "BVT-Seminar" — Seminar
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Tutorium zur Mikrobiellen Verfahrenstechnik" — Tutorium
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Übungen zu Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik)" — Übung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Tutorium zu Umweltbioverfahrenstechnik" — Tutorium
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "BVT-Seminar" — Seminar
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Doktorandenseminar" — Seminar
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Umweltbioverfahrenstechnik" — Vorlesung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Praktikum Umweltbioverfahrenstechnik" — Praktikum
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Übungen zu Umweltbioverfahrenstechnik" — Übung
-
 ### Rudolf Kötter
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Öffentliche Vorlesungsreihe: Collegium Alexandrinum - "Kultur und Natur im Wandel"" — Vorlesung
   - in [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](../589-sommersemester-2026/fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fa-13840281.md): "Öffentliche Vorlesungsreihe: Collegium Alexandrinum - "Kultur und Natur im Wandel"" — Vorlesung
+
+### Sabine Weber
+  *Titel:* `Dr.`
+- Veranstaltungen ohne Pflicht-Markierung: **1**
+  - in : "BA-4 Wissenschaft und Technik Chinas" — Seminar
 
 ### Sabrina Gensberger-Reigl
   *Titel:* `Dr.`
@@ -4398,19 +3768,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Iconic Animals - Wolves, Tigers and more. Interdisziplinäres Partnerseminar mit der Anglistik" — Seminar
   - in [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md): "Interdisziplinäre Übung" — Übung
 
-### Simone Hespers
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **9**
-  - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Orientierungshäppchen für Erstsemester" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Micro-Credential: Willkommen im Studium" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Micro-Credential: Einführung in die Wissenschaftsreflexion" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md): "Sex und Gender in Wissenschaft und Kunst" — Seminar
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Micro-Credential: Grundlagen der Visual Literacy" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Micro-Credential: Einführung in die Wissenschaftsreflexion" — Sonstige Lehrveranstaltung
-  - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Warum Wissenschaft? Reflexionen über Wissen, Methode und Verantwortung" — Seminar
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele" — 
-
 ### Simone Hespers (Zuständigkeit: Verantwortliche/-r) Hanna Wang-Helmreich (Zuständigkeit: Bearbeiter/-in)
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -4434,12 +3791,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Automotive Engineering 2" — Vorlesung mit Übung
-
-### Stefan Löber
-  *Titel:* `Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Pharmazie](../565-wintersemester-2025-26/pharmazie-16807.md): "Tutorium Stereochemie" — Tutorium
-  - in [Pharmazie](../565-wintersemester-2025-26/pharmazie-16807.md): "Tutorium zur Chemie der organischen Arznei-/Hilfs- und Schadstoffe" — Tutorium
 
 ### Stefan Seyferth
   *Titel:* `Dr.`
@@ -4691,116 +4042,11 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Random Matrices in Communications and Signal Processing" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Multiuser Information and Communications Theory" — 
 
-### Alina Schüller
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
-
 ### Alina Schüller (Zuständigkeit: Bearbeiter/-in)
   *Titel:* `Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Neurotechnology Project" — 
   - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Neurotechnology Project" — 
-
-### Andreas Michalka
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **34**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Digitale Regelung" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Machine Learning for Control Systems" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Praktikum Automatisierungstechnik" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Digitale Regelung" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Machine Learning for Control Systems" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Praktikum Automatisierungstechnik" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Digitale Regelung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Maschinelles Lernen in der Regelungstechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Digitale Regelung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Machine Learning for Control Systems" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Automatisierungstechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Digitale Regelung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Maschinelles Lernen in der Regelungstechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Digitale Regelung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Machine Learning for Control Systems" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Automatisierungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Digitale Regelung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Machine Learning for Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Digitale Regelung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Digitale Regelung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Machine Learning for Control Systems" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Digitale Regelung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-
-### Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **26**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Digitale Regelung" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Praktikum Automatisierungstechnik" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Digitale Regelung" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Praktikum Automatisierungstechnik" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Digitale Regelung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Digitale Regelung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Automatisierungstechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Digitale Regelung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Digitale Regelung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Automatisierungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Digitale Regelung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Digitale Regelung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Digitale Regelung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Digitale Regelung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Regelung im Antriebsstrang von Kraftfahrzeugen" — 
-
-### Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **28**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Robotics 2" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Robotics 2" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Robotics 1" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Robotics 2" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Dynamical Systems and Control" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Robotics 1" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Robotics 2" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Dynamical Systems and Control" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Robotics 1" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Robotics 2" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Dynamical Systems and Control" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Robotics 1" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Robotics 2" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Dynamical Systems and Control" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Robotik 2 (Fortgeschrittene Methoden)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Robotics 1" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Robotics 2" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Robotik 2 (Fortgeschrittene Methoden)" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Robotics 1" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Robotics 2" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Robotics 2" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Robotics 1" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Robotics 2" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Robotics 1" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Robotics 2" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Robotics 1" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Robotics 2" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Robotics 1" — 
 
 ### Benedict Rothammer
   *Titel:* `Dr.-Ing.`
@@ -4855,78 +4101,10 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Hochfrequenztechnik/Mikrowellentechnik 2" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Hochfrequenztechnik/Mikrowellentechnik 2" — 
 
-### Christian Witzgall
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **8**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Technische Darstellungslehre I" — Praktikum
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Technische Darstellungslehre I - Vorlesung" — Vorlesung
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Hauptseminar Konstruktion" — Seminar
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Hauptseminar Konstruktion" — Seminar
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Technische Darstellungslehre II - Kurs Di" — Praktikum
-  - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Doktorandenseminar" — Anleitung zu wiss. Arbeiten
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Technische Darstellungslehre II - Kurs Mi" — Praktikum
-  - in : "MAB" — Kolloquium
-
 ### Christopher Zenk
   *Titel:* `Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Materialkreisläufe und Nachhaltigkeit" — Vorlesung mit Übung
-
-### Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **52**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Nachrichtentechnische Systeme" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Nachrichtentechnische Systeme" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Fundamentals of electrical engineering" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Fundamentals of electrical engineering" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Fundamentals of electrical engineering" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Laborpraktikum Nachrichtentechnische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Music Processing - Synthesis" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Multiuser Information and Communications Theory" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Mobile Communications" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Digitale Übertragung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Music Processing - Synthesis" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Advanced Communication Networks" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Channel Coding on Graphs" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Random Matrices in Communications and Signal Processing" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Molecular Communications" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Machine Learning in Communications" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Multiuser Information and Communications Theory" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Laborpraktikum Nachrichtentechnische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Fundamentals of electrical engineering" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Laborpraktikum Nachrichtentechnische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Music Processing - Synthesis" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Multiuser Information and Communications Theory" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Mobile Communications" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Digitale Übertragung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Music Processing - Synthesis" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Advanced Communication Networks" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Channel Coding on Graphs" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Random Matrices in Communications and Signal Processing" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Molecular Communications" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Machine Learning in Communications" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Multiuser Information and Communications Theory" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Laborpraktikum Nachrichtentechnische Systeme" — 
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Fundamentals of electrical engineering" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Fundamentals of electrical engineering" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Mobile Communications" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Digitale Übertragung" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "MIMO Communication Systems" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Seminar Nachrichtentechnische Systeme" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Multiuser Information and Communications Theory" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Machine Learning in Communications" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Mobile Communications" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Digitale Übertragung" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "MIMO Communication Systems" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Seminar Nachrichtentechnische Systeme" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Machine Learning in Communications" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Multiuser Information and Communications Theory" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Nachrichtentechnische Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Music Processing - Synthesis" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar Ausgewählte Kapitel der Nachrichtentechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Nachrichtentechnische Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Music Processing - Synthesis" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar Ausgewählte Kapitel der Nachrichtentechnik" — 
 
 ### Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) apl.
   *Titel:* `Dr.-Ing.`
@@ -4954,20 +4132,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Next Generation Mobile Communication Systems: 5G-Advanced and 6G" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Laborpraktikum Mobilkommunikation" — 
 
-### Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **10**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Elektromagnetische Verträglichkeit" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Angewandte Elektromagnetische Verträglichkeit" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Elektromagnetische Verträglichkeit" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Angewandte Elektromagnetische Verträglichkeit" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Elektromagnetische Verträglichkeit" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Elektromagnetische Verträglichkeit" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Angewandte Elektromagnetische Verträglichkeit" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Elektromagnetische Verträglichkeit" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Elektromagnetische Verträglichkeit" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Angewandte Elektromagnetische Verträglichkeit" — 
-
 ### Detlef Freitag
   *Titel:* `Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **7**
@@ -4978,121 +4142,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Übung zur Umweltverfahrenstechnik" — Übung
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Hochdrucktrenntechnik (VL)" — Vorlesung
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Hochdrucktrenntechnik (UE)" — Übung
-
-### Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **111**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Energie- und Antriebstechnik" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Energie- und Antriebstechnik" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Grundlagen der Elektrotechnik" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Regenerative Energiesysteme" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Grundlagen der Elektrotechnik" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Regenerative Energiesysteme" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Grundlagen der Elektrotechnik" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Regenerative Energiesysteme" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Internationale Energiewirtschaft und Unternehmensführung" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Regenerative Energiesysteme" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Grundlagen der Elektrotechnik" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Regenerative Energiesysteme" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Internationale Energiewirtschaft und Unternehmensführung" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Regenerative Energiesysteme" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Planung elektrischer Energieversorgungsnetze" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Regenerative Energiesysteme" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Elektrische Energieversorgung mit erneuerbaren Energiequellen" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Markt und Netze -Systemlösungen für die Energiewende" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Planung elektrischer Energieversorgungsnetze" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Regenerative Energiesysteme" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Elektrische Energieversorgung mit erneuerbaren Energiequellen" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Markt und Netze -Systemlösungen für die Energiewende" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Regenerative Energiesysteme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Planung elektrischer Energieversorgungsnetze" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Elektrische Energieversorgung mit erneuerbaren Energiequellen" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Betriebsverhalten elektrischer Energiesysteme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Markt und Netze -Systemlösungen für die Energiewende" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Transmission System Operations and Control" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Stromrichter in der Energieversorgung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Elektrische Energieversorgung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Power System Operations and Control" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar Elektrische Energieversorgung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar Nachhaltige Energiesysteme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar Hochspannungs- und Diagnosetechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Seminar Moderne Trends in der elektrischen Energieversorgung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Betriebsmittel und Komponenten elektrischer Energiesysteme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Regenerative Energiesysteme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Planung elektrischer Energieversorgungsnetze" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Elektrische Energieversorgung mit erneuerbaren Energiequellen" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Betriebsverhalten elektrischer Energiesysteme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Markt und Netze -Systemlösungen für die Energiewende" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Stromrichter in der Energieversorgung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Transmission System Operations and Control" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Elektrische Energieversorgung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Power System Operations and Control" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar Elektrische Energieversorgung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar Nachhaltige Energiesysteme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar Hochspannungs- und Diagnosetechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Seminar Moderne Trends in der elektrischen Energieversorgung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Betriebsmittel und Komponenten elektrischer Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Power Electronics in Three-Phase AC Networks: HVDC Transmission and FACTS" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Hochspannungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Planung elektrischer Energieversorgungsnetze" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Schutz- und Leittechnik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Regenerative Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Thermische Kraftwerke" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Betriebsmittel und Komponenten elektrischer Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Elektrische Energieversorgung mit erneuerbaren Energiequellen" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Betriebsverhalten elektrischer Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Power System Operations and Control" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Markt und Netze -Systemlösungen für die Energiewende" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Power System Operations and Control" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Energie- und Antriebstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Hochspannungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Power Electronics in Three-Phase AC Networks: HVDC Transmission and FACTS" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Betriebsverhalten elektrischer Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Betriebsmittel und Komponenten elektrischer Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Elektrische Energieversorgung mit erneuerbaren Energiequellen" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Schutz- und Leittechnik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Planung elektrischer Energieversorgungsnetze" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Regenerative Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Thermische Kraftwerke" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Power System Operations and Control" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Markt und Netze -Systemlösungen für die Energiewende" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Power System Operations and Control" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Systemlösungen für die Energiewende" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Power Electronics in Three-Phase AC Networks: HVDC Transmission and FACTS" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Hochspannungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Planung elektrischer Energieversorgungsnetze" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Regenerative Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Schutz- und Leittechnik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Thermische Kraftwerke" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Betriebsmittel und Komponenten elektrischer Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Betriebsverhalten elektrischer Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Elektrische Energieversorgung mit erneuerbaren Energiequellen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Power System Operations and Control" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Markt und Netze -Systemlösungen für die Energiewende" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Power System Operations and Control" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Energie- und Antriebstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Hochspannungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Hochleistungsstromrichter für die Elektrische Energieversorgung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Power Electronics in Three-Phase AC Networks: HVDC Transmission and FACTS" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Betriebsmittel und Komponenten elektrischer Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Betriebsverhalten elektrischer Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Elektrische Energieversorgung mit erneuerbaren Energiequellen" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Planung elektrischer Energieversorgungsnetze" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Regenerative Energiesysteme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Schutz- und Leittechnik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Thermische Kraftwerke" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Power System Operations and Control" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Markt und Netze -Systemlösungen für die Energiewende" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Power System Operations and Control" — 
 
 ### Dmytro Pivovarov
   *Titel:* `Dr.-Ing.`
@@ -5222,14 +4271,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Informatik" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Grundlagen der Informatik" — 
 
-### Gerald Gold
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Elektromagnetische Felder II Übung" — Übung
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Elektromagnetische Felder I" — Vorlesung mit Übung
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Grundlagen der Elektrotechnik II Übung" — Übung
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Grundlagen der Elektrotechnik II Tutorium" — Tutorium
-
 ### Gerhard Frank
   *Titel:* `Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -5310,30 +4351,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Nichtlineare Finite Elemente / Nonlinear Finite Elements" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Materialmodellierung und -simulation" — 
 
-### Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **20**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Machine Learning in Signal Processing" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Machine Learning in Signal Processing" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Machine Learning in Signal Processing" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Perception in Robotics" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Machine Learning in der Signalverarbeitung" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Introduction to Deep Learning" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Machine Learning in Signal Processing" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Perception in Robotics" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Machine Learning in der Signalverarbeitung" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Introduction to Deep Learning" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Statistical Signal Processing" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Machine Learning in Signal Processing" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Introduction to Deep Learning" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Machine Learning in Signal Processing" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Statistical Signal Processing" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Statistical Signal Processing" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Machine Learning in Signal Processing" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Introduction to Deep Learning" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Machine Learning in Signal Processing" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Statistical Signal Processing" — 
-
 ### Holger Hübner
   *Titel:* `Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **6**
@@ -5354,20 +4371,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Praktikum Radarsysteme und Radarsignalverarbeitung" — 
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Radarsysteme und Radarsignalverarbeitung" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Radarsysteme und Radarsignalverarbeitung" — 
-
-### Jan Schür
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **10**
-  - in [Veranstaltungen aus der Technischen Fakultät](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md): "Antennen" — Vorlesung
-  - in [Veranstaltungen aus der Technischen Fakultät](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md): "Hochfrequenzmesstechnik" — Vorlesung mit Übung
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md): "Praktikum Grundlagen der Elektro- und Schaltungstechnik" — 
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Praktikum Grundlagen der Elektro- und Schaltungstechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Grundlagen der Elektrotechnik II (EEI)" — Praktikum
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Hochfrequenztechnik/Mikrowellentechnik 2" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Hochfrequenztechnik/Mikrowellentechnik 2" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Praktikum Hochfrequenztechnik/Mikrowellentechnik 2" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Praktikum Hochfrequenztechnik/Mikrowellentechnik 2" — 
-  - in : "Praktikum Hochfrequenztechnik/Mikrowellentechnik 2" — Praktikum
 
 ### Jan Schür (Zuständigkeit: Bearbeiter/-in)
   *Titel:* `Dr.-Ing.`
@@ -5497,18 +4500,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Engineering of Solid State Lasers" — Vorlesung
   - in [- Maschinenbau (FAU Scientia)  -](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md): "Laser Tissue Interaction Exercises" — Übung
 
-### Maximilian Schäfer
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **8**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Praktikum Software für die Mathematik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Music Processing - Synthesis" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Music Processing - Synthesis" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Praktikum Software für die Mathematik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Music Processing - Synthesis" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Music Processing - Synthesis" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Music Processing - Synthesis" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Music Processing - Synthesis" — 
-
 ### Michael Haug
   *Titel:* `Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **3**
@@ -5628,44 +4619,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Exercises to High End Simulation in Practice" — Übung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "High End Simulation in Practice" — Vorlesung
-
-### Sebastian Rieß
-  *Titel:* `Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **34**
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../565-wintersemester-2025-26/chemie-und-bioingenieurwesen-fau-scientia-12200584.md): "Transportprozesse" — Vorlesung
-  - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../565-wintersemester-2025-26/chemie-und-bioingenieurwesen-fau-scientia-12200584.md): "Transportprozesse Übung" — Übung
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Technische Thermodynamik" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Technische Thermodynamik" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Motorische Verbrennung" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Thermodynamik" — Vorlesung
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Thermodynamik Übung" — Übung
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Thermodynamik" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Thermodynamik" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Motorische Verbrennung" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Technische Thermodynamik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Technische Thermodynamik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Technische Thermodynamik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Technische Thermodynamik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Transportprozesse" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Technische Thermodynamik" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Technische Thermodynamik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Technische Thermodynamik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Technische Thermodynamik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Transportprozesse" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Angewandte Thermofluiddynamik (Fahrzeugantriebe)" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Technische Thermodynamik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Technische Thermodynamik" — 
 
 ### Sebastian Rieß (Zuständigkeit: Bearbeiter/-in)
   *Titel:* `Dr.-Ing.`
@@ -5901,12 +4854,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Grundschuldidaktik](../589-sommersemester-2026/grundschuldidaktik-18278.md): "Büttner / Forschen und Experimentieren in den verschiedenen Perspektiven des Sachunterrichts (Kurs B)" — Seminar
   - in [Grundschuldidaktik](../589-sommersemester-2026/grundschuldidaktik-18278.md): "Büttner / Vorgelagertes Blockseminar: Forschen und Experimentieren in den verschiedenen Perspektiven des Sachunterrichts (Kurs A)" — Mittelseminar
 
-### Eva Dengler
-- Veranstaltungen ohne Pflicht-Markierung: **3**
-  - in [- Informatik (FAU Scientia)  -](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md): "Echtzeitsysteme" — Vorlesung
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Systemnahe Programmierung in C - Rechnerübungen" — Übung
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Systemnahe Programmierung in C - Tafelübung" — Übung
-
 ### Eva Henke
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Philosophie](../589-sommersemester-2026/philosophie-18264.md): "BA/MA: Yin-Yang-Theorien" — Proseminar / Mittelseminar
@@ -5950,10 +4897,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computer Architectures for Medical Applications" — Vorlesung
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Übung zu Computer Architectures for Medical Applications" — Übung
 
-### Farnaz Rahimi
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Data Engineering - Exercise" — Übung
-
 ### Felix Czwielong (Zuständigkeit: Verantwortliche/-r) apl.
 - Veranstaltungen ohne Pflicht-Markierung: **14**
   - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Turbomaschinen" — 
@@ -5970,14 +4913,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Turbomaschinen" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Turbomaschinen" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Turbomaschinen" — 
-
-### Felix Nützel
-- Veranstaltungen ohne Pflicht-Markierung: **5**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Algorithms, Programming and Data Representation" — Vorlesung
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Computer Exercise to Algorithms, Programming and Data Representation" — Übung
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Computer Exercise to Algorithms, Programming and Data Representation" — Übung
-  - in : "Seminar zur Lehrveranstaltungsdurchführung" — Kleingruppenunterricht
-  - in : "Begleitseminar für Algorithms, Programming and Data Representation" — Seminar
 
 ### Florian Deeg
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -5996,11 +4931,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Pädagogik und Fachdidaktik (FAU Scientia)  -](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md): "PuGDid 5: Examenskolloquium" — Seminar
 
-### Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "People Analytics - Data Science für Human Resources Management" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "People Analytics - Data Science für Human Resources Management" — 
-
 ### Florian Nahr
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Fertigungstechnisches Praktikum I" — Praktikum
@@ -6016,16 +4946,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Florian Wachter
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Strömungsakustik / Aeroacoustics" — Vorlesung mit Übung
-
-### Florian Zier
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Grundlagen der Elektrischen Energieversorgung" — Vorlesung
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
-
-### Florian Öchsner
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Soziologie](../565-wintersemester-2025-26/soziologie-17143.md): "Einführung in das wissenschaftliche Arbeiten" — Übung
-  - in [Soziologie](../589-sommersemester-2026/soziologie-18299.md): "Einführung in das wissenschaftliche Arbeiten" — Übung
 
 ### Francis Henry
 - Veranstaltungen ohne Pflicht-Markierung: **8**
@@ -6090,10 +5010,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Für die Vorlesung ist keine gesonderte Anmeldung erforderlich, die Anmeldung für ein Basisseminar ist ausreichend. Sie erhalten das Passwort für den StudOn-Kurs in der 1. Vorlesung.
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Mittelschulpädagogik](../589-sommersemester-2026/mittelschulpaedagogik-18277.md): "Basismodul: Vorlesung - Grundlagen des Unterrichtens und Erziehens in der Mittelschule" — Vorlesung
-
-### Georg Rösch
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in : "Assessing English Language Skills" — Proseminar / Mittelseminar
 
 ### Gerhard Weyandt
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -6182,10 +5098,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Grundseminar English Linguistics I (Erlangen)" — Grundseminar
 
-### Ibrahim Alhussien Ali Marouf
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Praktikum Grundlagen der Elektrotechnik I (EEI, BPT)" — Praktikum
-
 ### Ilias Masmoudi
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Maschinelles Lernen und Datenanalyse (FAU Scientia)  -](../565-wintersemester-2025-26/maschinelles-lernen-und-datenanalyse-fau-scientia-12200890.md): "Bewegungsanalyse und biomechanische Grenzgebiete" — Vorlesung
@@ -6202,10 +5114,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### In Jena
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Interdisziplinäre und standortübergreifende Übung" — Übung
-
-### In reality, 12:15-13:45
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Ethics and Philosophy of AI" — Vorlesung
 
 ### In Summer Semester 2026 all exercises will be held at Lange Gasse 20.&nbsp;
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -6291,10 +5199,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md): "Übung zur Arbeitsmarktpolitik" — Übung
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Übung Labor and Personnel Economics" — Übung
 
-### Jana Alina Schorn
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Literaturstudien - intermedial und interkulturell](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md): "MA Medien 1. FS -Modul 1: Dimensionen des Medialen und Visuellen" — Masterseminar
-
 ### Janik Schaude (Zuständigkeit: Bearbeiter/-in) Ulrich Grömme (Zuständigkeit: Bearbeiter/-in)
 - Veranstaltungen ohne Pflicht-Markierung: **60**
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Angewandte Statistik" — 
@@ -6375,12 +5279,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Methodische Analyse zur Qualitätsverbesserung von Fertigungsprozessen" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Methodische Analyse zur Qualitätsverbesserung von Fertigungsprozessen" — 
 
-### Janna Steinebach
-- Veranstaltungen ohne Pflicht-Markierung: **3**
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
-
 ### Jannik Schwarberg
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Veranstaltungen aus der Technischen Fakultät](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md): "Übungen zu Halbleitertechnik I - Bipolartechnik" — Übung
@@ -6400,12 +5298,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Sprachkurse (Angebot nach Sprachen)](../589-sommersemester-2026/sprachkurse-angebot-nach-sprachen-17989.md): "Deutsch: Schreibberatung" — Übung
 
-### Jasmin Riegel
-- Veranstaltungen ohne Pflicht-Markierung: **3**
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
-
 ### Javier Navarro González
 - Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [Iberoromanistik](../565-wintersemester-2025-26/iberoromanistik-17187.md): "Español intermedio II" — Übung
@@ -6415,11 +5307,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Jean-Marc Gales
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Automotive Engineering 1" — Vorlesung
-
-### Jennifer Meister
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Literaturstudien - intermedial und interkulturell](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md): "Discourse Structure (MA)" — Übung
-  - in [Literaturstudien - intermedial und interkulturell](../589-sommersemester-2026/literaturstudien-intermedial-und-interkulturell-18298.md): "Discourse Structure (MA)" — Übung
 
 ### Jens Kirchner (Zuständigkeit: Bearbeiter/-in) Benedict Scheiner (Zuständigkeit: Bearbeiter/-in)
 - Veranstaltungen ohne Pflicht-Markierung: **6**
@@ -6450,11 +5337,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Johanna Fröhlich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Fundamentals of Electrical Engineering - Exercises" — Übung
-
-### Johanna Lützenkirchen
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Thermodynamik" — Vorlesung
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Thermodynamik Übung" — Übung
 
 ### Johanna Myllymäki
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -6520,13 +5402,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Basismodul Landeskunde" — 
   - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Elementarmodul L-UF Landeskunde" — 
   - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Elementarmodul L-UF Landeskunde" — 
-
-### Jonathan Reichel (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Einführung in die Bibel: Neues Testament" — 
-  - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Neues Testament" — 
-  - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Einführung in die Bibel: Neues Testament" — 
-  - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Neues Testament" — 
 
 ### Jose Juan Hernandez Morales
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -6855,23 +5730,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "AI Fundamentals 2 (AIF2)" — Vorlesung mit Übung
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "BA L Social Policy in an Interdependent World (V2: BA SPIW)" — Vorlesung
 
-### Lena Jaegers (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Kostenträger I" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Krankenhausmanagement I" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Kostenträger I" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Krankenhausmanagement I" — 
-
-### Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Dominik Blunck (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Pharmamanagement I" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Pharmamanagement I" — 
-
-### Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Kristina Kast (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Ambulantes Management I" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Ambulantes Management I" — 
-
 ### Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Lucie Aretz (Zuständigkeit: Bearbeiter/-in)
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Versorgungsmanagement I" — 
@@ -6929,38 +5787,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md): "Fantastic datasets and where to find them" — Hauptseminar
   - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Fantastic datasets and where to find them" — Hauptseminar
 
-### Luisa Wicht (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Internationale Unternehmensführung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Strategie, Organisation und Führung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Internationale Unternehmensführung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Strategie, Organisation und Führung" — 
-
-### Lukas Greger (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **22**
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Corporate finance" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Corporate finance" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Corporate finance" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Corporate finance" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Investition und Finanzierung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Corporate finance" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Seminar Finanzierung und Banken" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Workshop capital markets research" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Workshop: Finance" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Finanz- und Bankmanagement" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Kapitalmarktorientierte Unternehmenssteuerung" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Hauptseminar Finance" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Financial engineering and structured finance" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Investition und Finanzierung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Corporate finance" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Seminar Finanzierung und Banken" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Workshop capital markets research" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Finanz- und Bankmanagement" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Workshop: Finance" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Kapitalmarktorientierte Unternehmenssteuerung" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Hauptseminar Finance" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Financial engineering and structured finance" — 
-
 ### Lukas Gugel
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Praktikum FAPS" — Praktikum
@@ -7002,24 +5828,10 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Übungen zur Vorlesung Makroökonomie Erlangen" — Übung
 
-### Maja Ploch
-- Veranstaltungen ohne Pflicht-Markierung: **5**
-  - in [Skandinavistik](../565-wintersemester-2025-26/skandinavistik-17170.md): "AM Perf. / AM Kultwiss. / AM Narr.: Schrift trifft Leinwand: Literatur und Film im Dialog" — Übung
-  - in [Skandinavistik](../565-wintersemester-2025-26/skandinavistik-17170.md): "BM Literaturgeschichte 1: Skandinavische Literaturgeschichte" — Seminar
-  - in [Skandinavistik](../565-wintersemester-2025-26/skandinavistik-17170.md): "BM Literaturgeschichte 2 / Literaturwissenschaft 3: Kanonkurs. Aufklärung" — Übung
-  - in [Skandinavistik](../589-sommersemester-2026/skandinavistik-18247.md): "BM Literaturgeschichte 2/Literaturwissenschaft 3: Kanontexte. Romantik/Poetischer Realismus" — Übung
-  - in [Skandinavistik](../589-sommersemester-2026/skandinavistik-18247.md): "BM Literaturwissenschaft: Methoden und Theorien" — Übung
-
 ### Manfred Lautenschlager
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md): "Übung Mediävistik: Die politische Legende im Mittelalter" — Übung
   - in [Germanistik](../589-sommersemester-2026/germanistik-18227.md): "Kolleg/Übung Mediävistik: Meistersang - eine Blütenlese" — Kolleg
-
-### Manuel Koch
-- Veranstaltungen ohne Pflicht-Markierung: **3**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Praktikum Schaltungstechnik" — Praktikum
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Praktikum Schaltungstechnik" — Praktikum
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Übungen zu Schaltungstechnik" — Übung
 
 ### Manuel Koch (Zuständigkeit: Bearbeiter/-in)
 - Veranstaltungen ohne Pflicht-Markierung: **4**
@@ -7134,12 +5946,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Marit Schulte
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "602 Spezielle Themen der Gerontopsychiatrie Kurs A" — Seminar
-
-### Marius Kindermann
-- Veranstaltungen ohne Pflicht-Markierung: **3**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Elektrotechnik III" — Vorlesung
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Elektrotechnik III (Übung)" — Übung
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Grundlagen der Elektrotechnik III (Tutorium)" — Tutorium
 
 ### Marius Oßwald
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -7304,35 +6110,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Laboratory training biomechanics" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Laboratory training biomechanics" — 
 
-### Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Simone Schüler (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **26**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Statik und Festigkeitslehre" — 
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Technische Schwingungslehre" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Statik und Festigkeitslehre" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Technische Schwingungslehre" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Statik und Festigkeitslehre" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Statik und Festigkeitslehre" — 
-  - in [International Production Engineering and Management](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md): "Technische Schwingungslehre" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Statik und Festigkeitslehre" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Statik und Festigkeitslehre" — 
-  - in [International Production Engineering and Management](../589-sommersemester-2026/international-production-engineering-and-management-17964.md): "Technische Schwingungslehre" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Statik und Festigkeitslehre" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Technische Schwingungslehre" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Technische Schwingungslehre" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Statik und Festigkeitslehre" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Technische Schwingungslehre" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Technische Schwingungslehre" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Statik und Festigkeitslehre" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Technische Schwingungslehre" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Technische Schwingungslehre" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Statik und Festigkeitslehre" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Technische Schwingungslehre" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Technische Schwingungslehre" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Technische Schwingungslehre" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Technische Schwingungslehre" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Schwingungslehre" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Technische Schwingungslehre" — 
-
 ### Maximilian Uhlir
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Mittellatein und Neulatein](../565-wintersemester-2025-26/mittellatein-und-neulatein-17158.md): "Horae Bambergenses: Latein in Europa von der Spätantike bis zur Frühen Neuzeit" — Übung
@@ -7369,10 +6146,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [- Sprachenzentrum  (FAU Scientia)  -](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md): "English: Level 1 - Focus on Reading and Listening" — Übung
   - in : "English: Level 0 - Focus on Writing" — Übung
 
-### Michael Loose
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Übungen zu Elektronik und Schaltungstechnik" — Übung
-
 ### Michael Redel
 - Veranstaltungen ohne Pflicht-Markierung: **6**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../565-wintersemester-2025-26/werkstoffwissenschaften-fau-scientia-12200959.md): "Labwork Polymers - Rheology" — Praktikum
@@ -7386,21 +6159,9 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Werkstoffwissenschaften  (FAU Scientia)  -](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md): "Surface Modification techniques" — Vorlesung
 
-### Michael Thornton
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
-
 ### Michail Liatos
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar zur Gesundheitsökonomik / Seminar in Health Economics" — Seminar
-
-### Miriam Gorr
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Ethics and Philosophy of AI" — Vorlesung
-  - in [Philosophie](../565-wintersemester-2025-26/philosophie-17205.md): "Recent publications in the philosophy and ethics of AI" — Hauptseminar / Masterseminar
-  - in [Philosophie](../565-wintersemester-2025-26/philosophie-17205.md): "Current Work in Philosophy and AI Research (PAIR)" — Oberseminar
-  - in [Philosophie](../589-sommersemester-2026/philosophie-18264.md): "Current Work in Philosophy and AI Research (PAIR)" — Oberseminar
 
 ### Miriam Knebusch
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -7443,11 +6204,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Rechtswissenschaft](../565-wintersemester-2025-26/rechtswissenschaft-16793.md): "Propädeutische Übung - Allgemeines Verwaltungsrecht" — Übung
 
-### Moritz Garkisch
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Ergänzungen und Übungen zu Nachrichtentechnische Systeme - Übertragungstechnik" — Übung
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Tutorium Nachrichtentechnische Systeme" — Tutorium
-
 ### Moritz Stoller
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in : "Fachdidaktischer Exkursionstag - historisch-genetische Stadtentwicklung Nürnbergs | FGGS (Sa, 30.05.26, 8-19h) Dozenten Kerscher, Stoller" — Exkursion
@@ -7469,11 +6225,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../565-wintersemester-2025-26/chemie-und-bioingenieurwesen-fau-scientia-12200584.md): "Transportprozesse" — Vorlesung
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../565-wintersemester-2025-26/chemie-und-bioingenieurwesen-fau-scientia-12200584.md): "Transportprozesse Übung" — Übung
-
-### Nikhila Raghavan (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [International Economic Studies](../565-wintersemester-2025-26/international-economic-studies-16781.md): "International Management" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Intercultural Competence" — 
 
 ### Niklas Bölling
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -7525,22 +6276,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Informatik (FAU Scientia)  -](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md): "Project Remote Sensing" — Praktikum/Projekt
 
-### Nora Manz (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **8**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Ethics and Philosophy of AI" — 
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Free Choice (B.Sc. Artificial Intelligence 20242)" — 
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Introduction to Molecular Biology" — 
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Neuroanatomy and Neurophysiology" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Ethics and Philosophy of AI" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Free Choice (B.Sc. Artificial Intelligence 20242)" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Introduction to Molecular Biology" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Neuroanatomy and Neurophysiology" — 
-
-### Nora Manz (Zuständigkeit: Bearbeiter/-in) apl.
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Probability and Stochastic Processes" — 
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Probability and Stochastic Processes" — 
-
 ### Nora Marie Degen
 - Veranstaltungen ohne Pflicht-Markierung: **7**
   - in [Gerontologie](../565-wintersemester-2025-26/gerontologie-17141.md): "301 Methoden der Datenerhebung" — Hauptseminar
@@ -7589,95 +6324,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum zu High-Performance Analog- und Umsetzer-Design" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum zu High-Performance Analog- und Umsetzer-Design" — 
 
-### Pablo Ochoa de Eribe Delgado
-- Veranstaltungen ohne Pflicht-Markierung: **5**
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP)" — Übung
-  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md): "Neurotechnology Project" — Praktikum
-  - in [- Sonstige Veranstaltungen (FAU Scientia) -](../589-sommersemester-2026/sonstige-veranstaltungen-fau-scientia-13840297.md): "Neurotechnology Project" — Praktikum
-
-### Paola Cesaroni-Meinzolt
-- Veranstaltungen ohne Pflicht-Markierung: **78**
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Comprensione e produzione scritta" — Übung
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Italienisch: Intermedio I" — Übung
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Comprensione e produzione orale I" — Übung
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Basismodul Italienische Sprachpraxis 1" — 
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Basismodul Italienische Sprachpraxis 2" — 
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Aufbaumodul Italienische Sprachpraxis 3" — 
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Vertiefungsmodul Italienische Sprachpraxis 5" — 
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Vertiefungsmodul Italienische Sprachpraxis 4" — 
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Aufbaumodul Italienische Sprachpraxis 2" — 
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Aufbaumodul Italienische Sprachpraxis 1" — 
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Vertiefungsmodul Italienische Sprachpraxis 1" — 
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Vertiefungsmodul Italienische Sprachpraxis 2" — 
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Cultura e civiltà II" — Übung
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Grammatica e stilistica I" — Übung
-  - in [Italoromanistik](../565-wintersemester-2025-26/italoromanistik-17180.md): "Traduzione tedesco - italiano" — Übung
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Tecniche di lettura" — Übung
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Basismodul Italienische Sprachpraxis 1" — 
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Basismodul Italienische Sprachpraxis 2" — 
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Vertiefungsmodul Italienische Sprachpraxis 4" — 
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Aufbaumodul Italienische Sprachpraxis 3" — 
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Vertiefungsmodul Italienische Sprachpraxis 5" — 
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Aufbaumodul Italienische Sprachpraxis 1" — 
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Aufbaumodul Italienische Sprachpraxis 2" — 
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Vertiefungsmodul Italienische Sprachpraxis 1" — 
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Vertiefungsmodul Italienische Sprachpraxis 2" — 
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Fonetica pratica" — Übung
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Italiano Intermedio II" — Übung
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Comprensione e produzione orale 2" — Übung
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "L' italiano per il lavoro: tipologie testuali" — Übung
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Cultura e civiltà I" — Seminar
-  - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Grammatica e stilistica II" — Übung
-  - in [- Sprachenzentrum  (FAU Scientia)  -](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md): "Esercitazioni di espressione orale" — Übung
-  - in [- Sprachenzentrum  (FAU Scientia)  -](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md): "Italienisch: Elementarkurs III - ItaliaNet B1 (Blended Learning-Kurs )" — Übung
-  - in [- Sprachenzentrum  (FAU Scientia)  -](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md): "Traduzione Italiano - tedesco per studenti Erasmus" — Übung
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "ItaliaNet A1 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "Ferienintensivkurs in Erlangen:  Italiano - Intermedio I / Elementarkurs III (Niveau B1)" — Übung
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "ItaliaNet A2 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "ItaliaNet B1 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "ItaliaNet B2 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Sprachkurse (Angebot nach Sprachen)](../565-wintersemester-2025-26/sprachkurse-angebot-nach-sprachen-17326.md): "L’italiano dell’arte B1 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Sprachkurse (Angebot nach Sprachen)](../589-sommersemester-2026/sprachkurse-angebot-nach-sprachen-17989.md): "ItaliaNet A1 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Sprachkurse (Angebot nach Sprachen)](../589-sommersemester-2026/sprachkurse-angebot-nach-sprachen-17989.md): "ItaliaNet A2 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Sprachkurse (Angebot nach Sprachen)](../589-sommersemester-2026/sprachkurse-angebot-nach-sprachen-17989.md): "ItaliaNet B1 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Sprachkurse (Angebot nach Sprachen)](../589-sommersemester-2026/sprachkurse-angebot-nach-sprachen-17989.md): "ItaliaNet B2 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Sprachkurse (Angebot nach Sprachen)](../589-sommersemester-2026/sprachkurse-angebot-nach-sprachen-17989.md): "L’italiano dell’arte B1 NUR ONLINE - VHB-Kurs" — Online-Kurs
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Basismodul Italienische Sprachpraxis 1" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Basismodul Italienische Sprachpraxis 2" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Aufbaumodul Italienische Sprachpraxis 1" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Aufbaumodul Italienische Sprachpraxis 2" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Vertiefungsmodul Italienische Sprachpraxis 1" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Vertiefungsmodul Italienische Sprachpraxis 2" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Abschlussmodul Italienische Sprachpraxis" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Aufbaumodul Italienische Sprachpraxis 3" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Vertiefungsmodul Italienische Sprachpraxis 4" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Vertiefungsmodul Italienische Sprachpraxis 5" — 
-  - in [Italienisch](../565-wintersemester-2025-26/italienisch-17160.md): "Abschlussmodul Italienische Sprachpraxis 6" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Basismodul Italienische Sprachpraxis 1" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Aufbaumodul Italienische Sprachpraxis 1" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Basismodul Italienische Sprachpraxis 2" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Aufbaumodul Italienische Sprachpraxis 2" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Vertiefungsmodul Italienische Sprachpraxis 1" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Vertiefungsmodul Italienische Sprachpraxis 2" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Abschlussmodul Italienische Sprachpraxis" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Vertiefungsmodul Italienische Sprachpraxis 4" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Aufbaumodul Italienische Sprachpraxis 3" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Vertiefungsmodul Italienische Sprachpraxis 5" — 
-  - in [Italienisch](../589-sommersemester-2026/italienisch-18271.md): "Abschlussmodul Italienische Sprachpraxis 6" — 
-  - in [Romanistik](../565-wintersemester-2025-26/romanistik-17208.md): "Italienische Sprachpraxis 5" — 
-  - in [Romanistik](../565-wintersemester-2025-26/romanistik-17208.md): "Basismodul Italienische Sprachpraxis 2" — 
-  - in [Romanistik](../565-wintersemester-2025-26/romanistik-17208.md): "Basismodul Italienische Sprachpraxis 1" — 
-  - in [Romanistik](../565-wintersemester-2025-26/romanistik-17208.md): "Aufbaumodul Italienische Sprachpraxis 3" — 
-  - in [Romanistik](../565-wintersemester-2025-26/romanistik-17208.md): "Vertiefungsmodul Italienische Sprachpraxis 4" — 
-  - in [Romanistik](../589-sommersemester-2026/romanistik-18234.md): "Italienische Sprachpraxis 5" — 
-  - in [Romanistik](../589-sommersemester-2026/romanistik-18234.md): "Basismodul Italienische Sprachpraxis 2" — 
-  - in [Romanistik](../589-sommersemester-2026/romanistik-18234.md): "Vertiefungsmodul Italienische Sprachpraxis 4" — 
-  - in [Romanistik](../589-sommersemester-2026/romanistik-18234.md): "Basismodul Italienische Sprachpraxis 1" — 
-  - in [Romanistik](../589-sommersemester-2026/romanistik-18234.md): "Aufbaumodul Italienische Sprachpraxis 3" — 
-  - in [Rechtswissenschaft](../565-wintersemester-2025-26/rechtswissenschaft-16793.md): "Italienisch: L'italiano giuridico (§ 24 Abs. 2 JAPO)" — Übung
-
 ### Paolo Bontempo
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md): "Seminar Reflections in International Economics" — Seminar
@@ -7700,10 +6346,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Phonetik und Phonologie des Italienischen" — Übung
   - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Tutorium zu Phonetik und Phonologie des Italienischen" — Tutorium
   - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Aufbauseminar italienische Sprachwissenschaft (Modul 72337)" — Aufbauseminar
-
-### Paul Wawerek-López
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Übung zu Signale und Systeme I" — Übung
 
 ### Paula Andrea Pérez Toro
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -7895,12 +6537,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in : "MED 85651 - Ernährungsmedizin (I-MedG. 7)" — Vorlesung
   - in : "MED 80751 - Alterssyndrome - ein praktischer Blick auf Assessments und Interventionen" — Seminar
 
-### Frank Neipel
-  *Titel:* `PD Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Pharmazie](../565-wintersemester-2025-26/pharmazie-16807.md): "Med. Mikrobiologie, Hygiene, Immunologie u. Virologie f. Studierende d. Pharmazie (2. Studienjahr)" — Vorlesung mit Übung
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Med. Mikrobiologie, Hygiene, Immunologie u. Virologie f. Studierende d. Pharmazie (2. Studienjahr)" — Vorlesung mit Übung
-
 ### Georg Junker
   *Titel:* `PD Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -7939,39 +6575,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Menschenzentrierte IT-Sicherheit" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Human Factors in Security and Privacy" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Menschenzentrierte IT-Sicherheit" — 
-
-### Harald Zapf
-  *Titel:* `PD Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **29**
-  - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Grundseminar Literature (Erlangen)" — Grundseminar
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF I Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Elementarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Basismodul Literature A" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Basismodul Literature B" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Basismodul III Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF I Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Elementarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF I Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF II Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Elementarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md): "Seminarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF I Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Elementarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Basismodul Literature A" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Basismodul Literature B" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Basismodul III Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF I Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Elementarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF II Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF I Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Elementarmodul L-UF Literature" — 
-  - in [Englisch für das Lehramt](../589-sommersemester-2026/englisch-fuer-das-lehramt-18230.md): "Seminarmodul L-UF Literature" — 
-  - in [Modulstudien Studium Philosophicum](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md): "Basismodul Literature A" — 
-  - in [Modulstudien Studium Philosophicum](../589-sommersemester-2026/modulstudien-studium-philosophicum-18318.md): "Basismodul Literature A" — 
 
 ### Harriet Morf
   *Titel:* `PD Dr.`
@@ -8102,14 +6705,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in : "Einführung zum Phantomkurs der Zahnerhaltung" — Vorlesung
   - in : "Vorlesung Phantomkurs Zahnerhaltung" — Vorlesung
   - in : "2-PPh1 & 2-V1 & 2-V2 Praktikum der Zahnerhaltungskunde am Phantom" — Praktikum
-
-### Michaela Petter
-  *Titel:* `PD Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Pharmazie](../565-wintersemester-2025-26/pharmazie-16807.md): "Med. Mikrobiologie, Hygiene, Immunologie u. Virologie f. Studierende d. Pharmazie (2. Studienjahr)" — Vorlesung mit Übung
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Med. Mikrobiologie, Hygiene, Immunologie u. Virologie f. Studierende d. Pharmazie (2. Studienjahr)" — Vorlesung mit Übung
-  - in [Zell- und Molekularbiologie](../565-wintersemester-2025-26/zell-und-molekularbiologie-16817.md): "Infektionsimmunologie" — 
-  - in [Zell- und Molekularbiologie](../589-sommersemester-2026/zell-und-molekularbiologie-17645.md): "Infektionsimmunologie" — 
 
 ### Michel Georg Bockstedte
   *Titel:* `PD Dr.`
@@ -8251,14 +6846,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Italoromanistik](../589-sommersemester-2026/italoromanistik-18266.md): "Studium vor Originalen: Die Klassische Moderne im frühen Sammelwesen im Rheinland und in Westfalen" — Ober- und Hauptseminar
 
-### Ulrike Schleicher
-  *Titel:* `PD Dr.`
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Pharmazie](../565-wintersemester-2025-26/pharmazie-16807.md): "Med. Mikrobiologie, Hygiene, Immunologie u. Virologie f. Studierende d. Pharmazie (2. Studienjahr)" — Vorlesung mit Übung
-  - in [Pharmazie](../589-sommersemester-2026/pharmazie-17659.md): "Med. Mikrobiologie, Hygiene, Immunologie u. Virologie f. Studierende d. Pharmazie (2. Studienjahr)" — Vorlesung mit Übung
-  - in [Zell- und Molekularbiologie](../565-wintersemester-2025-26/zell-und-molekularbiologie-16817.md): "Infektionsimmunologie" — 
-  - in [Zell- und Molekularbiologie](../589-sommersemester-2026/zell-und-molekularbiologie-17645.md): "Infektionsimmunologie" — 
-
 ### Ulrike Steffen
   *Titel:* `PD Dr.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -8284,20 +6871,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   *Titel:* `PD Dr.-Ing.`
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Maschinenbau (FAU Scientia)  -](../565-wintersemester-2025-26/maschinenbau-fau-scientia-12200901.md): "Project on Applied AI in Factory Automation and Production Systems" — Projektseminar
-
-### Christian Riess (Zuständigkeit: Bearbeiter/-in)
-  *Titel:* `PD Dr.-Ing.`
-- Veranstaltungen ohne Pflicht-Markierung: **10**
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Deep Learning" — 
-  - in [Maschinenbau](../565-wintersemester-2025-26/maschinenbau-17116.md): "Deep Learning" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Deep Learning" — 
-  - in [Maschinenbau](../589-sommersemester-2026/maschinenbau-17943.md): "Deep Learning" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Deep Learning" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Deep Learning" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Deep Learning" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Deep Learning" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Deep Learning" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Deep Learning" — 
 
 ### Frank Hannig
   *Titel:* `PD Dr.-Ing.`
@@ -8351,26 +6924,9 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Verteilte Systeme (Vorlesung mit Übungen)" — 
   - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Verteilte Systeme (Vorlesung mit erweiterten Übungen)" — 
 
-### Pedro José Martínez García
-- Veranstaltungen ohne Pflicht-Markierung: **3**
-  - in [Iberoromanistik](../565-wintersemester-2025-26/iberoromanistik-17187.md): "Fonética práctica" — Übung
-  - in [Iberoromanistik](../565-wintersemester-2025-26/iberoromanistik-17187.md): "Comprensión y comunicación escrita" — Übung
-  - in [Iberoromanistik](../589-sommersemester-2026/iberoromanistik-18294.md): "Comprensión y comunicación escrita" — Übung
-
 ### Peter Hull
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Sprachenzentrum  (FAU Scientia)  -](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md): "English: Level 4 - Editing Scientific Documents" — Übung
-
-### Peter Meisel
-- Veranstaltungen ohne Pflicht-Markierung: **8**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Entwurf Integrierter Schaltungen I" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Entwurf Integrierter Schaltungen I" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Praktikum Entwurf Integrierter Schaltungen I" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Industrielle Testanwendungen für Integrierte Schaltungen und Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Praktikum Entwurf Integrierter Schaltungen I" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Praktikum Entwurf Integrierter Schaltungen I" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Industrielle Testanwendungen für Integrierte Schaltungen und Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Praktikum Entwurf Integrierter Schaltungen I" — 
 
 ### Petra Ackerlauer
 - Veranstaltungen ohne Pflicht-Markierung: **6**
@@ -8447,11 +7003,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Iberoromanistik](../589-sommersemester-2026/iberoromanistik-18294.md): "Mittelseminar spanische Sprachwissenschaft" — Mittelseminar
   - in [Iberoromanistik](../589-sommersemester-2026/iberoromanistik-18294.md): "Proseminar spanische Sprachwissenschaft" — Proseminar
 
-### Rabab Saleh
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Fortgeschrittene Methoden der Managementforschung I" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Creativity Approaches for Sustainability" — 
-
 ### Rafael Clemente Mallada
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](../565-wintersemester-2025-26/chemie-und-bioingenieurwesen-fau-scientia-12200584.md): "Transportprozesse" — Vorlesung
@@ -8466,23 +7017,12 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Mittelschulpädagogik](../565-wintersemester-2025-26/mittelschulpaedagogik-17155.md): "HeIn: Schüler mit Förderschwerpunkten in der Mittelschule - Umgang mit Hörschädigungen, Autismus, Mutismus, Lernbehinderungen und ADHS" — Seminar
   - in [Mittelschulpädagogik](../589-sommersemester-2026/mittelschulpaedagogik-18277.md): "HeIn: Schüler mit Förderschwerpunkten in der Mittelschule - Umgang mit Hörschädigungen, Autismus, Mutismus, Lernbehinderungen und ADHS" — Seminar
 
-### Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Sichere Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Sichere Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Sichere Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Sichere Systeme" — 
-
 ### Raphael Dohardt
 - Veranstaltungen ohne Pflicht-Markierung: **4**
   - in [Iberoromanistik](../565-wintersemester-2025-26/iberoromanistik-17187.md): "Basisseminar spanische Sprachwissenschaft" — Einführungskurs
   - in [Iberoromanistik](../565-wintersemester-2025-26/iberoromanistik-17187.md): "Mittelseminar spanische Sprachwissenschaft" — Mittelseminar
   - in [Iberoromanistik](../565-wintersemester-2025-26/iberoromanistik-17187.md): "Proseminar spanische Sprachwissenschaft" — Proseminar
   - in [Iberoromanistik](../565-wintersemester-2025-26/iberoromanistik-17187.md): "Tutorium zu Basisseminar spanische Sprachwissenschaft" — Tutorium
-
-### Raul Simpetru
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Artificial Intelligence](../589-sommersemester-2026/artificial-intelligence-17950.md): "Applied Programming" — Vorlesung mit Übung
 
 ### Raum 02.014 (Werner-von-Siemens-Str. 61)
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -8573,11 +7113,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Energetische Nutzung von Biomasse und Reststoffen" — Vorlesung
 
-### Sally Zeitler
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Introduction to Software Engineering" — Vorlesung
-  - in [Artificial Intelligence](../565-wintersemester-2025-26/artificial-intelligence-17120.md): "Introduction to Software Engineering Exercises" — Übung
-
 ### Sara Ruiz Valverde
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Sprachenzentrum  (FAU Scientia)  -](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md): "Spanisch 2 (Niveau A2)" — Übung
@@ -8590,18 +7125,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **2**
   - in [- Wirtschaftswissenschaften (FAU Scientia)  -](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md): "Mikroökonomie" — Vorlesung
   - in [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md): "Statistik für Wirtschaftswissenschaftler" — Vorlesung
-
-### Sascha Breun
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Übung Digitaltechnik" — Übung
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Praktikum Schaltungstechnik" — Praktikum
-
-### Sascha Breun (Zuständigkeit: Bearbeiter/-in) Fabian Michler (Zuständigkeit: Bearbeiter/-in) Manuel Koch (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Praktikum Schaltungstechnik" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Praktikum Schaltungstechnik" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Schaltungstechnik" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Schaltungstechnik" — 
 
 ### Saskia Draheim
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -8617,11 +7140,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Mikroökonomie Tutorium" — Tutorium
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Mikroökonomie Klausurenkurs" — Übung
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Mikroökonomie Übung" — Übung
-
-### Sebastian Ach (Zuständigkeit: Bearbeiter/-in)
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Wirtschaft und Staat" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Wirtschaft und Staat" — 
 
 ### Sebastian Bähr
 - Veranstaltungen ohne Pflicht-Markierung: **1**
@@ -8643,11 +7161,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Laborpraktikum Eingebettete Mikrocontroller-Systeme (PEMSY)" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Laborpraktikum Eingebettete Mikrocontroller-Systeme (PEMSY)" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Laborpraktikum Eingebettete Mikrocontroller-Systeme (PEMSY)" — 
-
-### Sebastian Kölle
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Übungen zu Grundlagen der Elektrotechnik I" — Übung
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Praktikum Grundlagen der Elektrotechnik I (EEI, BPT)" — Praktikum
 
 ### Sebastian Peters (Zuständigkeit: Bearbeiter/-in)
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -8677,11 +7190,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Germanistik](../565-wintersemester-2025-26/germanistik-17138.md): "Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2)" — Hauptseminar
 
-### Shan Jiang
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Grundlagen der Elektrischen Antriebstechnik" — Praktikum
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Praktikum Grundlagen der Elektrischen Antriebstechnik" — Praktikum
-
 ### Shaoying Zhu
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "BA/MA Chinese Films" — Übung
@@ -8706,10 +7214,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Rechtswissenschaft](../565-wintersemester-2025-26/rechtswissenschaft-16793.md): "Propädeutische Übung Vertragliche Schuldverhältnisse" — Propädeutische Übung
   - in [Rechtswissenschaft](../565-wintersemester-2025-26/rechtswissenschaft-16793.md): "Examenskurs Erbrecht" — Repetitorium
   - in [Rechtswissenschaft](../565-wintersemester-2025-26/rechtswissenschaft-16793.md): "Proseminar zum Zivilrecht / zur Rechtsgeschichte" — Proseminar
-
-### Simon Deniffel
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Übung Signale und Systeme II" — Übung
 
 ### Simon Sauer
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -8814,10 +7318,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Grundschuldidaktik](../589-sommersemester-2026/grundschuldidaktik-18278.md): "Römer /  Holocaust Education und Nationalsozialismus im Sachunterricht der Grundschule" — Mittelseminar
   - in [Grundschuldidaktik](../589-sommersemester-2026/grundschuldidaktik-18278.md): "Römer / Blended Learning: Grundlagen des Schriftspracherwerbs im Kontext von Vielfalt und individueller Förderung (Kurs B)" — Seminar
 
-### Soumik Chatterjee
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Praktikum Grundlagen der Elektrotechnik I (EEI, BPT)" — Praktikum
-
 ### Souryadeep Saha
 - Veranstaltungen ohne Pflicht-Markierung: **3**
   - in [- Informatik (FAU Scientia)  -](../589-sommersemester-2026/informatik-fau-scientia-13839808.md): "Computational Optics" — Vorlesung mit Übung
@@ -8836,11 +7336,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): ""funklust" - Medienkompetenzen erwerben, Medienpraxis erlernen, Campusmedien gestalten" — Übung
   - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "„Jetzt rede ich!“ - Vorträge und Präsentationen halten und gestalten" — Kurs
   - in [Wissenschaftsreflexion & Studienerfolg](../589-sommersemester-2026/wissenschaftsreflexion-studienerfolg-17990.md): "Kreatives Schreiben und Sprechen" — Seminar
-
-### Stefanie Brückner
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md): "Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, MT)" — Übung
-  - in [LV mit Nachhaltigkeitsbezug, Technische Fakultät](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md): "Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE)" — Übung
 
 ### Stefanie Büttner (Zuständigkeit: Bearbeiter/-in) Madlen Hoffmann (Zuständigkeit: Bearbeiter/-in) Raffael Schwanninger (Zuständigkeit: Bearbeiter/-in)
 - Veranstaltungen ohne Pflicht-Markierung: **4**
@@ -8925,10 +7420,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in : "Wassersport 1" — Seminar
   - in : "Wassersport 2" — Seminar
 
-### Swantje Hansen
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [- Frühstudium -](../589-sommersemester-2026/fruehstudium-13837955.md): "Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP)" — Übung
-
 ### Tabea Knoll
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Literaturstudien – medial und transkulturell](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md): "Einführungsmodul: Theorien und Methoden" — Hauptseminar
@@ -9002,21 +7493,9 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in : "K-V32_BT Psychiatrie" — Vorlesung
   - in : "K-PS10_BT Klin. Pharmakologie Q9 (S)" — Seminar
 
-### Thomas Krümpel
-- Veranstaltungen ohne Pflicht-Markierung: **4**
-  - in [Skandinavistik](../565-wintersemester-2025-26/skandinavistik-17170.md): "BM Nordische Kulturgeschichte 1" — Seminar
-  - in [Skandinavistik](../565-wintersemester-2025-26/skandinavistik-17170.md): "AM Perf. Übung 1" — Übung
-  - in [Skandinavistik](../589-sommersemester-2026/skandinavistik-18247.md): "BM Nordische Kulturgeschichte 2" — Einführungskurs
-  - in [Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md): "Einführung in das Altnordische" — Übung
-
 ### Thomas Maisel
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [- Frühstudium -](../565-wintersemester-2025-26/fruehstudium-12198833.md): "Grundseminar English Linguistics I (Nürnberg)" — Grundseminar
-
-### Timo Wagner
-- Veranstaltungen ohne Pflicht-Markierung: **2**
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Grundlagen der Elektrischen Energieversorgung" — Vorlesung
-  - in [Elektrotechnik - Elektronik und Informationstechnik](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md): "Übungen zu Grundlagen der Elektrischen Energieversorgung" — Übung
 
 ### Tina Wölfl (Zuständigkeit: Verantwortliche/-r) Tina Wölfl (Zuständigkeit: Bearbeiter/-in)
 - Veranstaltungen ohne Pflicht-Markierung: **2**
@@ -9044,19 +7523,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
   - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Laborpraktikum Systematischer Entwurf programmierbarer Logikbausteine" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Laborpraktikum Systematischer Entwurf programmierbarer Logikbausteine" — 
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Laborpraktikum Systematischer Entwurf programmierbarer Logikbausteine" — 
-
-### Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer
-- Veranstaltungen ohne Pflicht-Markierung: **10**
-  - in [Elektromobilität-ACES](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md): "Analoge elektronische Systeme" — 
-  - in [Elektromobilität-ACES](../589-sommersemester-2026/elektromobilitaet-aces-17969.md): "Analoge elektronische Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Analoge elektronische Systeme" — 
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Analoge elektronische Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Analoge elektronische Systeme" — 
-  - in [Mechatronik](../589-sommersemester-2026/mechatronik-17956.md): "Analoge elektronische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Analoge elektronische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md): "Analoge elektronische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Analoge elektronische Systeme" — 
-  - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Analoge elektronische Systeme" — 
 
 ### Trixi Meier
 - Veranstaltungen ohne Pflicht-Markierung: **6**
@@ -9165,10 +7631,6 @@ Die FAUdir-bestätigten Personen sind in der Schwester-Datei [`profs-ohne-pflich
 ### Vinzenz Pyka
 - Veranstaltungen ohne Pflicht-Markierung: **1**
   - in [Wirtschaftsingenieurwesen](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md): "Übung zur Makroökonomie" — Übung
-
-### Vorbesprechung
-- Veranstaltungen ohne Pflicht-Markierung: **1**
-  - in [Mechatronik](../565-wintersemester-2025-26/mechatronik-17113.md): "Praktikum Grundlagen der Elektrischen Antriebstechnik" — Praktikum
 
 ### Vorbesprechung -&nbsp; Online
 - Veranstaltungen ohne Pflicht-Markierung: **1**

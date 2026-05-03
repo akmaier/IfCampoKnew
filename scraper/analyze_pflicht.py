@@ -162,6 +162,16 @@ _COURSE_FAC_HINTS: dict[str, set[str]] = {
         "energietechnik", "werkstoff", "materials", "fertigung",
         "mechatronik", "mechatronics", "automation", "computer",
         "software", "data", "ai", "artificial",
+        # German "-technik" suffix — almost universally engineering at FAU
+        # (Medizintechnik, Schaltungstechnik, Hochfrequenztechnik, …). The
+        # 25 distinct -technik words seen in course titles are all clearly
+        # Tech-Fak disciplines. Crucially this means "Medizintechnik" is
+        # tagged BOTH as `med` (medizin) AND `tech` (technik), so a Med-
+        # Tech course no longer fails the cross-faculty check against a
+        # Tech-Fak PO.
+        "technik",
+        # English equivalents that show up in interdisciplinary titles.
+        "biomedical", "medical engineering",
     },
     "nat": {
         "physik", "physics", "chemie", "chemistry", "mathematik", "mathematics",
@@ -329,7 +339,14 @@ def match_courses_to_pflicht_text(
             # exclude them on slug mismatch.
             if prog_name and not _is_container_bucket(prog_name):
                 prog_slug = re.sub(r"[^a-z0-9]+", "-", prog_name.lower())
-                if program_slug_hint not in prog_slug:
+                # Bidirectional containment: short Campo program name
+                # (e.g. "Artificial Intelligence") matches the longer
+                # PO folder slug ("artificial-intelligence-in-
+                # biomedical-engineering") and vice versa.
+                if (
+                    program_slug_hint not in prog_slug
+                    and prog_slug not in program_slug_hint
+                ):
                     continue
         overlap = sum(1 for t in tokens if t in pf_lower)
         if overlap < min_overlap:
@@ -382,6 +399,16 @@ def match_courses_to_module_names(
     matched: list[tuple[int, dict]] = []
     if program_slug_hint:
         h = program_slug_hint.lower()
+        def _slug_matches(prog_name: str) -> bool:
+            s = re.sub(r"[^a-z0-9]+", "-", prog_name.lower())
+            # Bidirectional containment: PO-folder slug "artificial-
+            # intelligence-in-biomedical-engineering" should match a
+            # course catalogued under "Artificial Intelligence" (= the
+            # short Campo display name) and vice versa. Without this,
+            # AI Pflichtmodule like "Computational Complexity" failed
+            # to match courses whose program-name is the shorter Campo
+            # variant of the PO folder.
+            return bool(s) and (h in s or s in h)
         course_pool = [
             c for c in courses
             if not c.get("program_name")
@@ -392,10 +419,43 @@ def match_courses_to_module_names(
             # PO declares it as Informatik-Pflicht — exclude these from the
             # slug filter so they stay matchable.
             or _is_container_bucket(c.get("program_name", ""))
-            or h in re.sub(r"[^a-z0-9]+", "-", c["program_name"].lower())
+            or _slug_matches(c["program_name"])
         ]
     else:
         course_pool = courses
+    # High-precision exact-title pass over ALL courses (not just the
+    # slug-filtered pool). When a Pflichtmodul name appears verbatim in a
+    # course title (e.g. PO module "Medizintechnik I (Biomaterialien)"
+    # ↔ course "Medizintechnik I (Biomaterialien)"), the match is so
+    # specific that the program-slug filter would create false negatives
+    # for cross-listed courses (a course catalogued under "Mechatronik"
+    # / "Wirtschaftsingenieurwesen" still belongs to the BMT/MMT PO that
+    # declares it Pflicht). The faculty cross-check still applies.
+    #
+    # `\b` boundaries fail at the trailing `)` of names like "Medizin-
+    # technik I (Biomaterialien)" — `)` is non-word so there's no word
+    # boundary against end-of-string. We use lookarounds for word chars
+    # so the boundary is checked against `\w` only, not arbitrary chars.
+    for module_name in module_names:
+        mod_norm = re.sub(r"\s+", " ", module_name.strip().lower())
+        # Skip ultra-short / single-word module names — they're too
+        # ambiguous for a no-program-filter pass.
+        if len(mod_norm) < 8 or len(mod_norm.split()) < 2:
+            continue
+        try:
+            pattern = re.compile(rf"(?<!\w){re.escape(mod_norm)}(?!\w)")
+        except re.error:
+            continue
+        for c in courses:
+            ctitle_norm = re.sub(r"\s+", " ", c.get("title", "").strip().lower())
+            if not pattern.search(ctitle_norm):
+                continue
+            if po_rel and not _faculty_compatible(c.get("title", ""), po_rel):
+                continue
+            # Score generously so this pass beats partial-token matches
+            # in the dedup-by-unit_id sort below.
+            matched.append((10 + len(mod_norm.split()), c))
+
     for module_name in module_names:
         mod_tokens = _course_tokens(module_name)
         if len(mod_tokens) >= 2:
@@ -428,7 +488,10 @@ def match_courses_to_module_names(
             # Ultra-short single-word labels ("Algebra", "Bachelorarbeit",
             # "Internship") are too ambiguous for a substring match — skip.
             continue
-        pattern = re.compile(rf"\b{re.escape(mod_norm)}\b")
+        # Same lookaround-based boundary as the high-precision pass —
+        # works even when the module name ends with non-word characters
+        # like `)` (e.g. "Algebra II (Linear)").
+        pattern = re.compile(rf"(?<!\w){re.escape(mod_norm)}(?!\w)")
         for c in course_pool:
             ctitle_norm = re.sub(r"\s+", " ", c.get("title", "").strip().lower())
             if not pattern.search(ctitle_norm):

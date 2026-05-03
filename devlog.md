@@ -1370,3 +1370,121 @@ scraper/analyze_pflicht.py | +60 / -8
 ```
 
 **Status:** Both prof files now only contain actual Professors per the user's policy (Prof. / apl. Prof. / Hon. Prof. / Ass.-Prof. / Juniorprofessor). PD (Privatdozent), Dr., M.Sc., empty-title staff, and other non-Prof FAUdir entries are now in `lehrende-ohne-pflicht.md`.
+
+
+## Entry 0024 — 5 user-supplied test cases: 4 fixable Pflicht-coverage gaps closed
+
+- **Start:** 2026-05-03 22:00 CEST
+- **End:** 2026-05-03 22:35 CEST
+- **Duration:** ~35 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompt (verbatim):**
+
+> Are you sure that the following lectures are not Pflicht:
+> Medizintechnik I (Biomaterialien) (Medical Engineering?)
+> Artificial Intelligence Fundamentals 2 (AI Bachelor?)
+> Data Engineering (AI Bachelor?)
+> Maschinelles Lernen in der Signalverarbeitung (ASC?)
+> Computational Complexity (AI Bachelor?)
+> I am not sure either.
+>
+> once this is fixed rerun the analysis, commit and push.
+
+**Diagnosis (one issue per course, but four shared root causes):**
+
+| course | extracted as Pflichtmodul? | matched to course? | root cause |
+|---|---|---|---|
+| Medizintechnik I (Biomaterialien) | ✓ | **no** | (1) faculty cross-check rejects a Med-Tech course against a Tech-Fak PO; (2) `\b` regex boundary fails on names ending with `)` |
+| Artificial Intelligence Fundamentals 2 | **no** | n/a | "Core Modules Computer Science" not recognised as Pflicht header |
+| Data Engineering | **no** | n/a | same |
+| Computational Complexity | **no** | n/a | same |
+| Maschinelles Lernen in der Signalverarbeitung | **no** | n/a | not in any PO file we have — likely the ASC PO isn't in our `data/pruefungsordnungen/` corpus, or the course is genuinely Wahlpflicht somewhere we can't see |
+
+**Fix 1 — faculty filter (analyze_pflicht.py):**
+
+Added `technik` and `biomedical` / `medical engineering` to `_COURSE_FAC_HINTS["tech"]`. Now "Medizintechnik" tags as **both** `med` (medizin) AND `tech` (technik). A course title containing "Medizintechnik" no longer fails the cross-check against a Tech-Fak PO. Validated against all 25 distinct `-technik` compound words in our course-title corpus (Elektrotechnik, Schaltungstechnik, Hochfrequenztechnik, Lasertechnik, Halbleitertechnik, …) — every one is unambiguously Tech-Fak.
+
+**Fix 2 — Pflicht regex (extract_pflicht_module.py):**
+
+Extended `_PFLICHT_SECTION_RE` and `_HEADING_PFLICHT_RE` to recognise **`Core Modules` / `Core Module`** — the English-language Pflicht-Modulgruppen header used by BSc Artificial Intelligence (and likely future English POs at FAU). Pure additive change; no regression.
+
+After the regex update, BSc AI POs go from 0 → 14 extracted Pflichtmodule:
+
+```
+Algorithms, programming, and data representation
+Data Engineering
+Applied Programming
+Computational Complexity
+Einführung in das Software Engineering
+Mathematics for Data Science 1
+Mathematics for Data Science 2
+Probability and Stochastic Processes
+Artificial Intelligence Perspectives
+Artificial Intelligence Fundamentals 1
+Logic and Symbolic Artificial Intelligence
+Artificial Intelligence Fundamentals 2
+Ethics and Philosophy of AI (Hauptseminar)
+Artificial Intelligence Fundamentals2
+```
+
+**Fix 3 — bidirectional slug containment (analyze_pflicht.py, both matchers):**
+
+The PO-folder slug for BSc AI is `artificial-intelligence-in-biomedical-engineering` (long); the Campo program name is `Artificial Intelligence` (short). The previous slug filter required `h in s` (PO-slug substring of course-program-slug) — which fails when the course program is the *short* form. Now bidirectional: `h in s OR s in h`. Allows the canonical short Campo display name to match a longer PO folder name.
+
+**Fix 4 — high-precision exact-title pass (analyze_pflicht.py):**
+
+Added a no-program-filter pass at the top of `match_courses_to_module_names`: when a Pflichtmodul name appears verbatim in a course title (whole-phrase match, lookaround-based word boundaries), the slug filter is bypassed. Faculty cross-check still applies. Solves cross-listed courses like *"Medizintechnik I (Biomaterialien)"* catalogued under Mechatronik / Wirtschaftsingenieurwesen but Pflicht for BMT/MMT.
+
+The lookaround boundaries `(?<!\w)…(?!\w)` replace `\b…\b` because `\b` fails when the module/course name ends with `)` — e.g. *"Medizintechnik I (Biomaterialien)"* — since `)` is non-word. Same fix applied to the existing substring-fallback pass for short module names.
+
+**End-to-end re-run results:**
+
+| metric | Entry 0023 | Entry 0024 | Δ |
+|---|--:|--:|--:|
+| structured Pflichtmodule loaded | 785 POs | **792 POs** | +7 |
+| matched courses (sum) | 6 270 | **8 968** | +2 698 |
+| unique Pflicht unit_ids | 778 | **1 436** | +658 |
+| POs that matched ≥1 course | 890 | **910** | +20 |
+| profs-mit-pflichtlehre.md candidates | 221 | **266** (W3 8, W1 2, W?, 256) | +45 |
+| profs-ohne-pflichtlehre.md candidates | 322 | **270** (W3 11, W? 249, Junior 10) | −52 |
+
+The 52-Prof drop in *profs-ohne* is the win: those Profs were teaching Pflicht courses we previously couldn't see. They moved into *profs-mit*. Net Prof count is similar (266 + 270 = 536 vs 221 + 322 = 543) — just classified more accurately.
+
+**The 5 user-supplied test cases (final state):**
+
+| course | mention count in pflichtveranstaltungen.md |
+|---|--:|
+| Medizintechnik I (Biomaterialien) | **15** ✓ (was 0) |
+| Artificial Intelligence Fundamentals 2 | **4** ✓ (was 0) |
+| Data Engineering | **10** ✓ (was 0) |
+| Computational Complexity | **8** ✓ (was 0) |
+| Maschinelles Lernen in der Signalverarbeitung | 0 (no PO declares it) |
+
+**Spot-checks of newly-correct prof entries:**
+
+* **Boccaccini, Aldo** (`Lehrstuhl für Werkstoffwissenschaften (Biomaterialien)`) — moved from *ohne* to *mit*; 4 Pflichtveranstaltungen across both terms (Medizintechnik I (Biomaterialien) under Mechatronik + Wirtschaftsingenieurwesen, both terms), each attributed to 7 BMT/MMT POs.
+* **Knoll, Florian** (`W3-Professur für Computational Imaging`) — 5 Pflichtveranstaltungen including Computational Complexity Lecture/Exercise + Algorithms, Programming and Data Representation Computer Exercise.
+* **Bernal Moyano, Jose** (`W1-Professur für Medical Image Analysis`) — 2 Pflichtveranstaltungen (Artificial Intelligence Fundamentals 2 in both terms).
+* **Andreas Maier**, **Mathis-Ullrich, Franziska**, **Köckert, Charlotte** — unchanged from Entry 0023.
+
+**91 unit tests still green.**
+
+**Files changed:**
+
+```
+scraper/extract_pflicht_module.py | +5 / -2   ("Core Modules" header recognition)
+scraper/analyze_pflicht.py        | +60 / -10 (technik faculty hint, bidirectional slug,
+                                                exact-title pass, lookaround boundaries)
+```
+
+**The one unfixable case — Maschinelles Lernen in der Signalverarbeitung:**
+
+The course is in our Campo data (uid 83746, WiSe, Prof. Vasileios Belagiannis). But `grep -lir "Maschinelles Lernen in der Signalverarbeitung" data/pruefungsordnungen/` returns no hits. So either:
+
+1. The Studiengang PO declaring it Pflicht (likely MSc Advanced Signal Communications & ASC, MSc EEI, or similar) isn't in our `data/pruefungsordnungen/` corpus — we'd need to scrape it.
+2. The course is genuinely Wahlpflicht / Vertiefungsfach under a Studiengang we DO have, and the Pflicht-extraction missed the section. (Unlikely — the substring extractor is quite aggressive now.)
+
+Without the source PO this is unfixable from our analyzer alone. Recommend: identify which Studiengang(en) declare Maschinelles Lernen in der Signalverarbeitung as Pflicht and ensure their PO is in the FAU.de corpus.
+
+**Status:** 4 of 5 user-supplied test cases now correctly classified as Pflicht. The 5th is a corpus-coverage gap, not an analyzer bug.

@@ -1,9 +1,9 @@
 ---
 kind: "campo-pflicht-analyse"
 period: "Wintersemester 2025/26 + Sommersemester 2026"
-po_files_scanned: 890
-matched_courses_total: 6270
-scraped_at: 2026-05-03T20:40:11+00:00
+po_files_scanned: 910
+matched_courses_total: 8968
+scraped_at: 2026-05-03T21:30:36+00:00
 ---
 
 # Pflichtveranstaltungen — Heuristische Analyse
@@ -863,7 +863,7 @@ Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der P
 
 PO-Quelle: [`pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-eei.md`](../pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/sto-po-berufspaedagogik-eei.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **54**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -878,9 +878,81 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 
+**Studiengang:** Berufspädagogik Technik
+
+- [Schulpraktische Studien II — ](../565-wintersemester-2025-26/berufspaedagogik-technik-17128.md) — Prof. Dr. Karl Wilbers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Praktikum Grundlagen der Elektrotechnik I für Medizintechnik — Praktikum](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Dr.-Ing. Eva Russwurm, Prof. Dr.-Ing. Georg Fischer
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der elektrischen Antriebstechnik — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+- [Grundlagen der elektrischen Energieversorgung — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Passive Bauelemente und deren HF-Verhalten — Vorlesung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Martin Vossiek
+- [Passive Bauelemente und deren HF-Verhalten Übung — Übung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Martin Vossiek
+- [Praktikum Grundlagen der Elektrotechnik III Kurs A — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik III Kurs C — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik I (EEI, BPT) — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Daniel Kübrich
+- [Grundlagen der Elektrischen Energieversorgung — Vorlesung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Matthias Luther, Timo Wagner, Florian Zier
+- [Übungen zu Grundlagen der Elektrischen Energieversorgung — Übung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Timo Wagner, Prof. Dr.-Ing. Matthias Luther, Florian Zier
+
+**Studiengang:** Mechatronik
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III und Praktikum Grundlagen der Elektrotechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle, Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III (Übung) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas, Prof. Dr.-Ing. Philipp Beckerle
+- [Grundlagen der Elektrotechnik III (Tutorium) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Praktikum Grundlagen der Elektrotechnik für EEI,ME,BP,INF,Math — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Christopher Beck (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Grundlagen der Elektrotechnik II (EEI) — Praktikum](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jan Schür
+- [Praktikum Grundlagen der Elektrotechnik für EEI, ME, BPT, INF, Math — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Grundlagen der Elektrischen Antriebstechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Susanne Lehner (Zuständigkeit: Verantwortliche/-r)
+- [Übungen zu Grundlagen der Elektrischen Antriebstechnik — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Susanne Lehner, Dr.-Ing. Jens Igney
+- [Grundlagen der Elektrischen Antriebstechnik — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Susanne Lehner
+- [Praktikum Grundlagen der Elektrischen Antriebstechnik — Praktikum](../565-wintersemester-2025-26/mechatronik-17113.md) — Shan Jiang, Prof. Dr.-Ing. Susanne Lehner
+- [Grundlagen der Elektrischen Antriebstechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Praktikum Grundlagen der Elektrischen Antriebstechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Einführung in die Systemtheorie — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik A (Grundlagen) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Praktikum Schaltungstechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Sascha Breun (Zuständigkeit: Bearbeiter/-in) Fabian Michler (Zuständigkeit: Bearbeiter/-in) Manuel Koch (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Praktikum Grundlagen der Elektrotechnik III Kurs D — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik I für Energietechnik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik I für Mechatronik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Eva Russwurm
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Praktikum Schaltungstechnik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Sascha Breun (Zuständigkeit: Bearbeiter/-in) Fabian Michler (Zuständigkeit: Bearbeiter/-in) Manuel Koch (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Elektronik und Schaltungstechnik + Praktikum Schaltungstechnik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Benedict Scheiner (Zuständigkeit: Bearbeiter/-in) Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Schaltungstechnik — Praktikum](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Manuel Koch
+- [Praktikum Schaltungstechnik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -1268,11 +1340,94 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### 24. September 2010
+
+PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20la-franzoesisch-abws2010-2011.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20la-franzoesisch-abws2010-2011.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Germanistik
+
+- [Ling Finit Kolloquium: BA-Arbeit und Schriftliche Hausarbeit (Erlangen) — Übung](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Oliver Schallert
+
+#### Auszüge aus dem PO-Text
+
+**„(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle:** _(paragraph)_
+
+|**Pflichtbereich für Französisch als erstes Fach (LAG)**|**Pflichtbereich für Französisch als erstes Fach (LAG)**|**Pflichtbereich für Französisch als erstes Fach (LAG)**|**Pflichtbereich für Französisch als erstes Fach (LAG)**||
+|---|---|---|---|---|
+|**FS**|**Modul**|**SWS**|**ECTS**||
+|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**||
+
+**Pflichtbereich für Französisch als erstes Fach (LAR)** _(section)_
+
+|FS|**Modul**|**SWS**|**ECTS**||
+|---|---|---|---|---|
+|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**||
+||Schriftliche Hausarbeit||10||
+
+---
+
+### 24. September 2010
+
+PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20la-franzoesisch.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20la-franzoesisch.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Germanistik
+
+- [Ling Finit Kolloquium: BA-Arbeit und Schriftliche Hausarbeit (Erlangen) — Übung](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Oliver Schallert
+
+#### Auszüge aus dem PO-Text
+
+**„(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle:** _(paragraph)_
+
+|**Pflichtbereich für Französisch als erstes Fach (LAG)**|**Pflichtbereich für Französisch als erstes Fach (LAG)**|**Pflichtbereich für Französisch als erstes Fach (LAG)**|**Pflichtbereich für Französisch als erstes Fach (LAG)**||
+|---|---|---|---|---|
+|**FS**|**Modul**|**SWS**|**ECTS**||
+|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**||
+
+**Pflichtbereich für Französisch als erstes Fach (LAR)** _(section)_
+
+|FS|**Modul**|**SWS**|**ECTS**||
+|---|---|---|---|---|
+|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**||
+||Schriftliche Hausarbeit||10||
+
+---
+
+### 24. September 2010
+
+PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20la-spanisch.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-20la-spanisch.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Germanistik
+
+- [Ling Finit Kolloquium: BA-Arbeit und Schriftliche Hausarbeit (Erlangen) — Übung](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Oliver Schallert
+
+#### Auszüge aus dem PO-Text
+
+**Pflichtbereich für Spanisch als erstes Fach (LAG)** _(section)_
+
+|FS|**Modul**|**SWS**|**ECTS**||
+|---|---|---|---|---|
+|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**||
+||Schriftliche Hausarbeit||10||
+
+---
+
 ### 26. Juni 2017
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/1aesa-la-mathe.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/1aesa-la-mathe.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -1282,9 +1437,9 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
@@ -1299,6 +1454,10 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 
 - [Surface Analysis II — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
 - [Übung Surface Analysis II — Übung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
+
+**Studiengang:** Physics
+
+- [Methods of Data Analysis I — ](../565-wintersemester-2025-26/physics-16814.md) — Prof. Dr. Christopher van Eldik (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Anna Nelles (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -1490,7 +1649,7 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/8aes-la-dt-didaz.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/8aes-la-dt-didaz.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **23**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -1501,6 +1660,33 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 - [Übung Grundlagen der Computerlinguistik 2 — Übung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 - [Vorlesung Grundlagen der Computerlinguistik 2 — Vorlesung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
+
+**Studiengang:** Deutsch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik 2  (Med BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Germanistik
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik 2  (Med BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -1886,7 +2072,7 @@ _(+ 11 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200203.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200203.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **111**
+Vorgeschlagene Pflichtveranstaltungen: **115**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -1915,35 +2101,40 @@ Vorgeschlagene Pflichtveranstaltungen: **111**
 **Studiengang:** Deutsch
 
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Linguistik — ](../565-wintersemester-2025-26/deutsch-17139.md)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literatur — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Mediävistik 2 (Med-BM-LANV) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
@@ -1958,17 +2149,12 @@ Vorgeschlagene Pflichtveranstaltungen: **111**
 - [Grundlagen der Germanistischen Mediävistik 2 (Med-BM-LANV) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Mediävistik — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Mediävistik  (Med BM nv) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md)
 - [Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch — Seminar und Übung](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
@@ -2018,6 +2204,16 @@ Vorgeschlagene Pflichtveranstaltungen: **111**
 - [Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) — Übung](../589-sommersemester-2026/deutsch-18226.md) — Marina Goldenstein
 - [Aufbaumodul Fachdidaktik Deutsch-Übung (nur MS): Literatur- und Mediendidaktik — Übung](../589-sommersemester-2026/deutsch-18226.md) — Axel Krommer
 - [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: KI im Deutschunterricht. Chancen und Probleme — Hauptseminar](../589-sommersemester-2026/deutsch-18226.md) — Prof. Dr. Volker Frederking
+
+**Studiengang:** Germanistik
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -2044,7 +2240,7 @@ Vorgeschlagene Pflichtveranstaltungen: **111**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200923.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-deutsch-fpo-la-deutsch-20090226-idf-20200923.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **107**
+Vorgeschlagene Pflichtveranstaltungen: **111**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -2068,35 +2264,40 @@ Vorgeschlagene Pflichtveranstaltungen: **107**
 **Studiengang:** Deutsch
 
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Linguistik — ](../565-wintersemester-2025-26/deutsch-17139.md)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literatur — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Mediävistik 2 (Med-BM-LANV) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
@@ -2111,17 +2312,12 @@ Vorgeschlagene Pflichtveranstaltungen: **107**
 - [Grundlagen der Germanistischen Mediävistik 2 (Med-BM-LANV) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Mediävistik — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Mediävistik  (Med BM nv) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md)
 - [Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch — Seminar und Übung](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
-- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
@@ -2172,6 +2368,16 @@ Vorgeschlagene Pflichtveranstaltungen: **107**
 - [Aufbaumodul Fachdidaktik Deutsch-Übung (nur MS): Literatur- und Mediendidaktik — Übung](../589-sommersemester-2026/deutsch-18226.md) — Axel Krommer
 - [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: KI im Deutschunterricht. Chancen und Probleme — Hauptseminar](../589-sommersemester-2026/deutsch-18226.md) — Prof. Dr. Volker Frederking
 
+**Studiengang:** Germanistik
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Grundlagenvorlesung Politikwissenschaft — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Dr. Alexander Kruska
@@ -2192,13 +2398,35 @@ Vorgeschlagene Pflichtveranstaltungen: **107**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-geschichte-fpo-la-geschichte-20090310-idf-20180911.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geschichte-fpo-la-geschichte-20090310-idf-20180911.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **14**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-**Studiengang:** - Geschichte (FAU Scientia)  -
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
 
-- [Oberseminar Neueste Geschichte und Zeitgeschichte — Oberseminar](../565-wintersemester-2025-26/geschichte-fau-scientia-12199545.md) — Prof. Dr. Simone Derix
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Dr. Bernd Flessner (Zuständigkeit: Bearbeiter/-in) Dr. Katrin Götz-Votteler (Zuständigkeit: Verantwortliche/-r) Dr. Simone Hespers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Englisch für das Lehramt
+
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul II Linguistics — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Armine Garibyan (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Peter Uhrig (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul III Literature — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — PD Dr. Harald Zapf (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul IV Culture — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Ingrid Mina Fandrych (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Methodische Grundlagen — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Gabriel Zeilinger (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wissenschaftsreflexion & Studienerfolg
+
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — Seminar](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md) — Dr. Bernd Flessner
 
 #### Auszüge aus dem PO-Text
 
@@ -2212,13 +2440,23 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-geschichte-fpo-la-geschichte-20180911-aes.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geschichte-fpo-la-geschichte-20180911-aes.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-**Studiengang:** - Geschichte (FAU Scientia)  -
+**Studiengang:** Englisch für das Lehramt
 
-- [Oberseminar Neueste Geschichte und Zeitgeschichte — Oberseminar](../565-wintersemester-2025-26/geschichte-fau-scientia-12199545.md) — Prof. Dr. Simone Derix
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul II Linguistics — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Armine Garibyan (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Peter Uhrig (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul III Literature — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — PD Dr. Harald Zapf (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul IV Culture — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Ingrid Mina Fandrych (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -2232,7 +2470,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-informatik-fpo-la-inf-20220421.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-informatik-fpo-la-inf-20220421.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **14**
+Vorgeschlagene Pflichtveranstaltungen: **16**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -2252,16 +2490,24 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — apl. Prof. Dr. Stefan Milius
 - [Übungen zu Parallele und Funktionale Programmierung — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — David Schwarzbeck, Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, Lukas Rotsching
 - [Sichere Systeme — Vorlesung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Prof. Dr.-Ing. Felix Freiling
 - [Sichere Systeme Übung — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Prof. Dr.-Ing. Felix Freiling, Maximilian Eichhorn
+- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — apl. Prof. Dr. Stefan Milius
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 - [Systemprogrammierung 1 - Übung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Tobias Häberlein, Dr.-Ing. Jürgen Kleinöder, Prof. Dr.-Ing. Rüdiger Kapitza, Ole Wiedemann
+
+**Studiengang:** Mechatronik
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -2283,7 +2529,7 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-informatik-fpo-la-inf-20240904.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-informatik-fpo-la-inf-20240904.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **27**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -2302,8 +2548,8 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — apl. Prof. Dr. Stefan Milius
 - [Übungen zu Parallele und Funktionale Programmierung — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — David Schwarzbeck, Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, Lukas Rotsching
+- [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — apl. Prof. Dr. Stefan Milius
 - [Sichere Systeme — Vorlesung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Prof. Dr.-Ing. Felix Freiling
 - [Sichere Systeme Übung — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Prof. Dr.-Ing. Felix Freiling, Maximilian Eichhorn
 - [Applied Software Engineering Master-Projekt — Projekt](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Prof. Dr. Dirk Riehle
@@ -2315,9 +2561,32 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 - [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
 - [Didaktik der Informatik I — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Marc-Pascal Berges
 
+**Studiengang:** Artificial Intelligence
+
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** Berufspädagogik Technik
+
+- [Praktikum Maschinenprogrammierung — ](../565-wintersemester-2025-26/berufspaedagogik-technik-17128.md) — Prof. Dr. Marc-Pascal Berges (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Einführung in Datenbanken für Wirtschaftsinformatik — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Richard Lenz (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Grundlagen der Systemprogrammierung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Wolfgang Schröder-Preikschat (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Systemprogrammierung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Wolfgang Schröder-Preikschat (Zuständigkeit: Verantwortliche/-r)
+- [Sichere Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -2493,19 +2762,19 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/la-mathematik-ws2015-2016.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/la-mathematik-ws2015-2016.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Analysis II — Vorlesung — Prof. Dr. Hermann Schulz-Baldes
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
+- Analysis II — Vorlesung — Prof. Dr. Hermann Schulz-Baldes
 
 **Studiengang:** - Frühstudium -
 
-- [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
+- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
@@ -2519,6 +2788,14 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 - [Surface Analysis II — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
 - [Übung Surface Analysis II — Übung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
+
+**Studiengang:** Integrated Life Sciences
+
+- [Stochastische Modellbildung — ](../565-wintersemester-2025-26/integrated-life-sciences-16827.md) — apl. Prof. Dr. Christophorus Richard (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Torben Krüger (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Physics
+
+- [Methods of Data Analysis I — ](../565-wintersemester-2025-26/physics-16814.md) — Prof. Dr. Christopher van Eldik (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Anna Nelles (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -2632,7 +2909,7 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-20-20deutsch.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-20-20deutsch.md)  
 Pflicht-Stellen gefunden: **18**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **133**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -2660,6 +2937,130 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 - [Übung Grundlagen der Computerlinguistik 2 — Übung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 - [Vorlesung Grundlagen der Computerlinguistik 2 — Vorlesung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
+
+**Studiengang:** Deutsch
+
+- [Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch — Seminar und Übung](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking
+- [Grundlagen der Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Grundlagen der Lesedidaktik (Janle) — Hauptseminar](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Frank Janle
+- [Grundlagen der Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Grundlagen der Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Aufbaumodul Sprach- und Mediendidaktik Deutsch (MS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Aufbaumodul Sprach- und Mediendidaktik Deutsch (MS) — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik 2 (Med-BM-LANV) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik  (Med BM nv) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik 1 (Med BM 1,  BA+GY) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik 2  (Med BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik  (Med BM) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik 2 (Med-BM-LANV) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik  (Med BM nv) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik 2 (Med-BM-LANV) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Mediävistik  (Med BM nv) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literatur — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Fachdidaktik Deutsch (BM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Skott Grunau
+- [Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur MS): Literatur- und Mediendidaktik — Seminar](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Tabea Kretschmann
+- [Aufbaumodul Fachdidaktik Deutsch-Übung (nur MS): Sprachdidaktik (1) — Übung](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Skott Grunau
+- [Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" — Hauptseminar](../565-wintersemester-2025-26/deutsch-17139.md) — Axel Krommer
+- [Aufbaumodul Literatur- und Mediendidaktik Deutsch (MS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar](../565-wintersemester-2025-26/deutsch-17139.md) — Jette Leutert
+- [Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Skott Grunau
+- [Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien — Seminar](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christian Albrecht
+- [Aufbaumodul Sprachdidaktik Deutsch Ib — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Aufbaumodul Mediendidaktik Deutsch Ic — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur MS): Sprachdidaktik — Seminar](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christian Albrecht, Axel Krommer
+- [Aufbaumodul Literatur- und Mediendidaktik Deutsch (MS) — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der historischen Linguistik (Ling BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 2 (NdL VM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christine Lubkoll-Klotz (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 1 (NdL VM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christine Lubkoll-Klotz (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Franziska Bergmann (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Neuere deutsche Literatur (NdL VM) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christine Lubkoll-Klotz (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 1 (NdL VM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christine Lubkoll-Klotz (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Franziska Bergmann (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 2 (NdL VM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christine Lubkoll-Klotz (Zuständigkeit: Verantwortliche/-r)
+- [Spezialisierungsmodul Neuere deutsche Literatur / Komparatistik (NdL SM) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Harald Neumeyer (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 1 (NdL VM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christine Lubkoll-Klotz (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Franziska Bergmann (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 2 (NdL VM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christine Lubkoll-Klotz (Zuständigkeit: Verantwortliche/-r)
+- [Literaturgeschichte II: Neuere deutsche Literatur — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 2 (NdL VM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christine Lubkoll-Klotz (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 1 (NdL VM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christine Lubkoll-Klotz (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Franziska Bergmann (Zuständigkeit: Verantwortliche/-r)
+- [Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) — Übung](../565-wintersemester-2025-26/deutsch-17139.md) — Lorenz Nöth
+- [Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Albrecht) — Übung](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christian Albrecht
+- [Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Stiller) — Übung](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Tanja Stiller
+- [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Filmdidaktik und Filmästhetik (VHB) — Hauptseminar](../565-wintersemester-2025-26/deutsch-17139.md) — Axel Krommer
+- [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Kinder- und Jugendliteratur im Medienverbund (VHB) — Online-Kurs](../565-wintersemester-2025-26/deutsch-17139.md) — Axel Krommer
+- [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (LA GS/MS): Ethische Bildung im Deutschunterricht — Seminar](../565-wintersemester-2025-26/deutsch-17139.md) — Lorenz Nöth
+- [Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt — Seminar](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christian Albrecht
+- [Aufbaumodul Fachdidaktik Deutsch (GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Fachdidaktik Deutsch (VM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten) — Seminar](../565-wintersemester-2025-26/deutsch-17139.md) — Lorenz Nöth
+- [Aufbaumodul Fachdidaktik Deutsch (GS) — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Vertiefungsmodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Fachdidaktik Deutsch (VM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin — Vorlesung](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking
+- [Vertiefungsmodul Fachdidaktik Deutsch (VM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Vertiefungsmodul Fachdidaktik Deutsch (VM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Was hat das mit mir zu tun? Holocaust und NS-Verbrechen als Thema im Deutschunterricht (VHB) — Hauptseminar](../565-wintersemester-2025-26/deutsch-17139.md) — Axel Krommer
+- [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (alle Schularten) — Hauptseminar](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking
+- [Vertiefungsmodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md)
+- [Vertiefungsmodul Fachdidaktik Deutsch — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+- [Vertiefungsmodul Fachdidaktik Deutsch (VM FDD) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Volker Frederking (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Deutsch
+
+- [Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch — Seminar und Übung](../589-sommersemester-2026/deutsch-18226.md) — Prof. Dr. Volker Frederking
+- [Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch — Seminar und Übung](../589-sommersemester-2026/deutsch-18226.md) — Axel Krommer
+- [Aufbaumodul Fachdidaktik Deutsch-Übung (nur MS): Literatur- und Mediendidaktik — Übung](../589-sommersemester-2026/deutsch-18226.md) — Axel Krommer
+- [Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) — Übung](../589-sommersemester-2026/deutsch-18226.md) — Marina Goldenstein
+- [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: KI im Deutschunterricht. Chancen und Probleme — Hauptseminar](../589-sommersemester-2026/deutsch-18226.md) — Prof. Dr. Volker Frederking
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -2763,7 +3164,7 @@ Bis zum Ende des sechsten Semesters ein Modul aus dem Wahlbereich und die folgen
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-20-20franzoesisch.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-20-20franzoesisch.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -2773,6 +3174,10 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 **Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
 
 - [PuGDid1: VORLESUNG: Einführung in die Fachdidaktik Sozialkunde / Politik und Gesellschaft — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Prof. Dr. Ernst Grammes
+
+**Studiengang:** Französisch
+
+- [Fachdidaktisches Modul 1: Einführung in die Didaktik des Französischen — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Thorsten Piske (Zuständigkeit: Verantwortliche/-r) Dr. Patricia Uhl (Zuständigkeit: Bearbeiter/-in)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -2816,7 +3221,7 @@ Im Bereich **Fachdidaktik** sind im Fach Französisch im Studium des Lehramts an
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-20-20informatik.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-20-20informatik.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -2826,6 +3231,10 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -3655,7 +4064,7 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-nov2016.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-deutsch-neu-nov2016.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **141**
+Vorgeschlagene Pflichtveranstaltungen: **145**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -3692,35 +4101,35 @@ Vorgeschlagene Pflichtveranstaltungen: **141**
 **Studiengang:** Deutsch
 
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Linguistik — ](../565-wintersemester-2025-26/deutsch-17139.md)
-- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der germanistischen Linguistik (Ling BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Neueren deutschen Literatur — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 - [Grundlagen der Germanistischen Mediävistik 2 (Med-BM-LANV) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Florian Kragl (Zuständigkeit: Verantwortliche/-r)
@@ -3819,6 +4228,16 @@ Vorgeschlagene Pflichtveranstaltungen: **141**
 - [Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) — Übung](../589-sommersemester-2026/deutsch-18226.md) — Marina Goldenstein
 - [Aufbaumodul Fachdidaktik Deutsch-Übung (nur MS): Literatur- und Mediendidaktik — Übung](../589-sommersemester-2026/deutsch-18226.md) — Axel Krommer
 - [Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: KI im Deutschunterricht. Chancen und Probleme — Hauptseminar](../589-sommersemester-2026/deutsch-18226.md) — Prof. Dr. Volker Frederking
+
+**Studiengang:** Germanistik
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 1 (Ling BM 1) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Johannes Rincke (Zuständigkeit: Verantwortliche/-r) Dr. Karin Rädle (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christian Merkl (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Regina Therese Riphahn (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Germanistischen Linguistik 2 (Ling BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Dr. Christine Ganslmayer (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -4756,7 +5175,7 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-franzoesisch-neu-ws2010-2011.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-franzoesisch-neu-ws2010-2011.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **16**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4775,6 +5194,26 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 **Studiengang:** - Sprachenzentrum  (FAU Scientia)  -
 
 - [Traduction version niveau avancé (F - A)  Examenskurs — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Dr. Corina Petersilka
+
+**Studiengang:** Frankoromanistik
+
+- [Französische Sprachpraxis 5 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Französisch
+
+- [Französische Sprachpraxis 5 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Französische Sprachpraxis 5 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Französische Sprachpraxis 5 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Französische Sprachpraxis 5 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Französische Sprachpraxis 5 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Germanistik
+
+- [Ling Finit Kolloquium: BA-Arbeit und Schriftliche Hausarbeit (Erlangen) — Übung](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Oliver Schallert
+
+**Studiengang:** Romanistik
+
+- [Französische Sprachpraxis 5 — ](../565-wintersemester-2025-26/romanistik-17208.md)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -4813,11 +5252,15 @@ Im Bereich **Fachdidaktik** sind im Fach Französisch im Studium des Lehramts an
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-franzoesisch-neu.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-franzoesisch-neu.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Vertiefungsseminar französische Sprachwissenschaft — Examensseminar — Prof. Dr. Ludwig Fesenmeier
+
+**Studiengang:** Germanistik
+
+- [Ling Finit Kolloquium: BA-Arbeit und Schriftliche Hausarbeit (Erlangen) — Übung](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Oliver Schallert
 
 #### Auszüge aus dem PO-Text
 
@@ -4852,7 +5295,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-informatik-neu-maerz2011.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-informatik-neu-maerz2011.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4862,6 +5305,10 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -4902,7 +5349,7 @@ reich der Fachwissenschaft folgende Module erfolgreich abzul …
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-informatik-neu-nov2013.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-informatik-neu-nov2013.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4912,6 +5359,10 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -4955,7 +5406,7 @@ Inhalt, Aufbau und G …
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-informatik-neu.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-informatik-neu.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -4965,6 +5416,10 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -5232,8 +5687,8 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** - Frühstudium -
 
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
-- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
@@ -5304,12 +5759,12 @@ Dieser Vorschlag garantiert, dass in der Bachelor-Phase (1.-6. Semester) 70 ECTS
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-mathematik-mai2011.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-mathematik-mai2011.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **20**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Mathematisches Seminar in elementarer Stochastik — Seminar — Dr. Bart van Steirteghem
 - Analysis II — Vorlesung — Prof. Dr. Hermann Schulz-Baldes
+- Mathematisches Seminar in elementarer Stochastik — Seminar — Dr. Bart van Steirteghem
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 - Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Andreas Feigenspan, Dr. Ingrid Brehm, PD Dr. Renato Frischknecht, Dr. Kaspar Gierke, PD Dr. Andreas Gießl, Prof. Dr. Johann Helmut Brandstätter
 - Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Benedikt Kost, Prof. Dr. Sabine Müller, Dr. Peter Richter
@@ -5324,10 +5779,10 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 
 **Studiengang:** - Frühstudium -
 
-- [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
@@ -5346,6 +5801,10 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 
 - [Surface Analysis II — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
 - [Übung Surface Analysis II — Übung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
+
+**Studiengang:** Physics
+
+- [Methods of Data Analysis I — ](../565-wintersemester-2025-26/physics-16814.md) — Prof. Dr. Christopher van Eldik (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Anna Nelles (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -5490,12 +5949,12 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-mathematik-oktober2014.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-mathematik-oktober2014.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **20**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Mathematisches Seminar in elementarer Stochastik — Seminar — Dr. Bart van Steirteghem
 - Analysis II — Vorlesung — Prof. Dr. Hermann Schulz-Baldes
+- Mathematisches Seminar in elementarer Stochastik — Seminar — Dr. Bart van Steirteghem
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 - Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Andreas Feigenspan, Dr. Ingrid Brehm, PD Dr. Renato Frischknecht, Dr. Kaspar Gierke, PD Dr. Andreas Gießl, Prof. Dr. Johann Helmut Brandstätter
 - Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Benedikt Kost, Prof. Dr. Sabine Müller, Dr. Peter Richter
@@ -5510,10 +5969,10 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 
 **Studiengang:** - Frühstudium -
 
-- [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
@@ -5532,6 +5991,10 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 
 - [Surface Analysis II — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
 - [Übung Surface Analysis II — Übung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
+
+**Studiengang:** Physics
+
+- [Methods of Data Analysis I — ](../565-wintersemester-2025-26/physics-16814.md) — Prof. Dr. Christopher van Eldik (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Anna Nelles (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -5602,12 +6065,12 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-mathematik-ws2010-2011.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-mathematik-ws2010-2011.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **22**
+Vorgeschlagene Pflichtveranstaltungen: **23**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Mathematisches Seminar in elementarer Stochastik — Seminar — Dr. Bart van Steirteghem
 - Analysis II — Vorlesung — Prof. Dr. Hermann Schulz-Baldes
+- Mathematisches Seminar in elementarer Stochastik — Seminar — Dr. Bart van Steirteghem
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 - Fachmodul Neurobiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Andreas Feigenspan, Dr. Ingrid Brehm, PD Dr. Renato Frischknecht, Dr. Kaspar Gierke, PD Dr. Andreas Gießl, Prof. Dr. Johann Helmut Brandstätter
 - Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) — Übung — Prof. Dr. Benedikt Kost, Prof. Dr. Sabine Müller, Dr. Peter Richter
@@ -5622,10 +6085,10 @@ Vorgeschlagene Pflichtveranstaltungen: **22**
 
 **Studiengang:** - Frühstudium -
 
-- [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
@@ -5649,6 +6112,10 @@ Vorgeschlagene Pflichtveranstaltungen: **22**
 
 - [Surface Analysis II — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
 - [Übung Surface Analysis II — Übung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
+
+**Studiengang:** Physics
+
+- [Methods of Data Analysis I — ](../565-wintersemester-2025-26/physics-16814.md) — Prof. Dr. Christopher van Eldik (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Anna Nelles (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -5710,6 +6177,33 @@ a) Dieser Vorschlag garantiert, dass in der Bachelor-Phase (1.-6. Semester) 70 E
 |3|Übungen AnalysisII|2Ü|3||
 ||**Analytische Geometrie (AGeo)**|**3**|**5**||
 |3|Vor …
+
+---
+
+### pdf vom 01.04.2009 i.d.F. 24.09.2010
+
+PO-Quelle: [`pruefungsordnungen/lehramt/lehramtsfaecher/lapo-spanisch-neu-ws2010-2011.md`](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-spanisch-neu-ws2010-2011.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **1**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Germanistik
+
+- [Ling Finit Kolloquium: BA-Arbeit und Schriftliche Hausarbeit (Erlangen) — Übung](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Oliver Schallert
+
+#### Auszüge aus dem PO-Text
+
+**Pflichtbereich für Spanisch als erstes Fach (LAG)** _(section)_
+
+|FS|**Modul**||**ECTS**||
+|---|---|---|---|---|
+|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**||
+||Schriftliche Hausarbeit||10||
+
+
+
+3
 
 ---
 
@@ -6363,7 +6857,7 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711.md`](../pruefungsordnungen/medizinische-fakultaet/bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711.md)  
 Pflicht-Stellen gefunden: **17**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -6373,10 +6867,6 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
-
-**Studiengang:** - Informatik (FAU Scientia)  -
-
-- [Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" — Vorlesung mit Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Melanie Döllwanger
 
 **Studiengang:** - Pädagogik und Fachdidaktik (FAU Scientia)  -
 
@@ -6466,8 +6956,8 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin) — Vorlesung — apl. Prof. Dr. Jürgen Wörl
 - V-V8/1-V11 Vorlesung Spezielle Histologie und Organogenese — Vorlesung — Prof. Dr. Dieter Chichung Lie, Prof. Dr. Michael Scholz
+- Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin) — Vorlesung — apl. Prof. Dr. Jürgen Wörl
 - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - 2-P8 & 2-V15 Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin nach der neuen Approbationsordnung — Vorlesung mit Übung — Prof. Dr. Sven Krappmann
 - Praktikum der Neuroanatomie für Studierende der Zahnmedizin — 
@@ -8977,11 +9467,21 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/2aes-20ba-ma-20chem-molsc.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/2aes-20ba-ma-20chem-molsc.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie — 
+
+**Studiengang:** Chemie
+
+- [Präparativ Anorganische Chemie — ](../565-wintersemester-2025-26/chemie-16826.md) — Prof. Dr. Nicolai Burzlaff (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Pharmazie
+
+- [Chemie der organischen Arznei-, Hilfs- und Schadstoffe (f. Stud. d. Pharmazie im 3. Semester) — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Pharmazeutische/Medizinische Chemie (Hauptstudium Pharmazie) — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Wahlpflichtfach Pharmazeutische / Medizinische Chemie — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner, Prof. Dr. Jutta Eichler, Prof. Dr. Markus Heinrich
 
 #### Auszüge aus dem PO-Text
 
@@ -9029,13 +9529,17 @@ _Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zug
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-chemie-20200806.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-chemie-20200806.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+
+**Studiengang:** Pharmazie
+
+- [Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Svetlana Tsogoeva
 
 #### Auszüge aus dem PO-Text
 
@@ -9111,13 +9615,22 @@ _(+ 31 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-molecular-science-20200806.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/fpo-bama-molecular-science-20200806.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+
+**Studiengang:** Pharmazie
+
+- [Pharmazeutische/Medizinische Chemie (Hauptstudium Pharmazie) — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+
+**Studiengang:** Pharmazie
+
+- [Physikalische Chemie für Pharmazie — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Dr. Christian Ehli, Prof. Dr. Dirk Michael Guldi
+- [Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Svetlana Tsogoeva
 
 #### Auszüge aus dem PO-Text
 
@@ -9181,7 +9694,7 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science-ws2010-2011.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science-ws2010-2011.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -9190,6 +9703,24 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+
+**Studiengang:** Chemie
+
+- [Präparativ Anorganische Chemie — ](../565-wintersemester-2025-26/chemie-16826.md) — Prof. Dr. Nicolai Burzlaff (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Pharmazie
+
+- [Chemie der organischen Arznei-, Hilfs- und Schadstoffe (f. Stud. d. Pharmazie im 3. Semester) — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Pharmazeutische/Medizinische Chemie (Hauptstudium Pharmazie) — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Seminar Chemie der organischen Arznei-, Hilfs- und Schadstoffe — Seminar](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Tutorium zur Chemie der organischen Arznei-/Hilfs- und Schadstoffe — Tutorium](../565-wintersemester-2025-26/pharmazie-16807.md) — Dr. Stefan Löber, Prof. Dr. Peter Gmeiner
+- [Wahlpflichtfach Pharmazeutische / Medizinische Chemie — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner, Prof. Dr. Jutta Eichler, Prof. Dr. Markus Heinrich
+
+**Studiengang:** Pharmazie
+
+- [Pharmazeutisch-chemische Analytik I — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Markus Heinrich
+- [Physikalisch-chemisches Praktikum für Pharmazie — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Dr. Andreas Bayer, Dr. Karin Mansyreff, Prof. Dr. Dirk Michael Guldi
+- [Physikalische Chemie für Pharmazie — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Dr. Christian Ehli, Prof. Dr. Dirk Michael Guldi
 
 #### Auszüge aus dem PO-Text
 
@@ -9217,7 +9748,7 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/po-chemie-molecular-science.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **9**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -9226,6 +9757,22 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+
+**Studiengang:** Chemie
+
+- [Präparativ Anorganische Chemie — ](../565-wintersemester-2025-26/chemie-16826.md) — Prof. Dr. Nicolai Burzlaff (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Pharmazie
+
+- [Chemie der organischen Arznei-, Hilfs- und Schadstoffe (f. Stud. d. Pharmazie im 3. Semester) — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Pharmazeutische/Medizinische Chemie (Hauptstudium Pharmazie) — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Seminar Chemie der organischen Arznei-, Hilfs- und Schadstoffe — Seminar](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Tutorium zur Chemie der organischen Arznei-/Hilfs- und Schadstoffe — Tutorium](../565-wintersemester-2025-26/pharmazie-16807.md) — Dr. Stefan Löber, Prof. Dr. Peter Gmeiner
+- [Wahlpflichtfach Pharmazeutische / Medizinische Chemie — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner, Prof. Dr. Jutta Eichler, Prof. Dr. Markus Heinrich
+
+**Studiengang:** Pharmazie
+
+- [Pharmazeutisch-chemische Analytik I — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Markus Heinrich
 
 #### Auszüge aus dem PO-Text
 
@@ -9253,7 +9800,7 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/pro-bama-chemmolsc.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/pro-bama-chemmolsc.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -9262,6 +9809,19 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+
+**Studiengang:** Chemie
+
+- [Präparativ Anorganische Chemie — ](../565-wintersemester-2025-26/chemie-16826.md) — Prof. Dr. Nicolai Burzlaff (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Pharmazie
+
+- [Chemie der organischen Arznei-, Hilfs- und Schadstoffe (f. Stud. d. Pharmazie im 3. Semester) — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+
+**Studiengang:** Pharmazie
+
+- [Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Svetlana Tsogoeva
+- [Vorlesung Grundlagen der Organischen Chemie I — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Svetlana Tsogoeva
 
 #### Auszüge aus dem PO-Text
 
@@ -9301,7 +9861,7 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-20020731-idf-20190724.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **35**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -9315,6 +9875,46 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 **Studiengang:** - Frühstudium -
 
 - [Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen — Vorlesung mit Übung](../589-sommersemester-2026/fruehstudium-13837955.md) — Prof. Dr. Ruth Stadler, Prof. Dr. Markus Albert, Dr. Ulrike Daigl, Dr. Regula Muheim-Lenz
+
+**Studiengang:** Chemie
+
+- [Quantitative analytische Chemie — ](../565-wintersemester-2025-26/chemie-16826.md) — Prof. Dr. Romano Dorta (Zuständigkeit: Verantwortliche/-r) Dr. Frank Wilhelm Heinemann (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Pharmazie
+
+- [Chemie der organischen Arznei-, Hilfs- und Schadstoffe (f. Stud. d. Pharmazie im 3. Semester) — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Immunochemie — Übung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+- [Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Phytochemie — Übung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+- [Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Vorbesprechung — Klausurenkurs](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+- [Pharmazeutische/Medizinische Chemie (Hauptstudium Pharmazie) — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Seminar Chemie der organischen Arznei-, Hilfs- und Schadstoffe — Seminar](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Tutorium zur Chemie der organischen Arznei-/Hilfs- und Schadstoffe — Tutorium](../565-wintersemester-2025-26/pharmazie-16807.md) — Dr. Stefan Löber, Prof. Dr. Peter Gmeiner
+- [Wahlpflichtfach Pharmazeutische / Medizinische Chemie — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner, Prof. Dr. Jutta Eichler, Prof. Dr. Markus Heinrich
+- [Einführung in die instrumentelle Analytik — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Markus Heinrich
+- [Med. Mikrobiologie, Hygiene, Immunologie u. Virologie f. Studierende d. Pharmazie (2. Studienjahr) — Vorlesung mit Übung](../565-wintersemester-2025-26/pharmazie-16807.md) — PD Dr. Michaela Petter, PD Dr. Ulrike Schleicher, Prof. Dr. Sven Krappmann, PD Dr. Frank Neipel
+- [Pathophysiologie/Pathobiochemie f. Pharmazeuten — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — apl. Prof. Dr. Andreas Heß
+- [Pharmakologie und Toxikologie f. Pharmazeuten — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Andreas Ludwig
+
+**Studiengang:** Pharmazie
+
+- [Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von Arzneibuch-Methoden) (f. Stud. d. Pharmazie u. Lebensmittelchemie im 2. Semester) — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Markus Heinrich
+- [Allgemeine Biologie für Pharmazeuten sowie systematische Einteilung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil III — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Allgemeine Biologie für Pharmazeuten sowie systematische Einstellung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil II — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Petra Dietrich
+- [Einführung zu den Übungen Pharmazeutische Biologie I: (Untersuchungen arzneistoffproduzierender Organismen) — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Biogene Arzneimittel, Phytopharmaka, Antibiotika, gentechnisch hergestellte Arzneimittel — Hauptseminar](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Übungen Pharmazeutische Biologie I (Untersuchung arzneistoffproduzierender Organismen) — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Praktikum Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Dr. Jürgen Einsiedel, Prof. Dr. Peter Gmeiner, Dr. Harald Hübner
+- [Tutorium zum Praktikum Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen — Tutorium](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Peter Gmeiner, Dr. Jürgen Einsiedel
+- [Pharmazeutische Biologie II (Pflanzliche Drogen) — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+- [Biochemie für Pharmazeuten (Vorlesung) - Untersuchungsmethoden Teil A — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — apl. Prof. Dr. Said Hashemolhosseini
+- [Einführung in die instrumentelle Analytik — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Jutta Eichler
+- [Klinische Chemie (Biochemische Untersuchungsmethoden Teil B) — Kurs](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Peter Gmeiner, Dr. Harald Hübner, Dr. med. Astrid Löscher
+- [Pharmakologisch-toxikologischer Demonstrationskurs — Seminar](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Andreas Ludwig
+- [Pharmazeutisch-chemische Analytik I — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Markus Heinrich
+- [Physikalische Chemie für Pharmazie — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Dr. Christian Ehli, Prof. Dr. Dirk Michael Guldi
+- [Praktikum Biochemie für Pharmazeuten - Untersuchungsmethoden Teil A — Übung](../589-sommersemester-2026/pharmazie-17659.md) — apl. Prof. Dr. Said Hashemolhosseini
+- [Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Svetlana Tsogoeva
+- [Vorlesung Grundlagen der Organischen Chemie I — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Svetlana Tsogoeva
 
 #### Auszüge aus dem PO-Text
 
@@ -9342,7 +9942,7 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-august2013.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie-august2013.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **23**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -9355,6 +9955,32 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 **Studiengang:** - Frühstudium -
 
 - [Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen — Vorlesung mit Übung](../589-sommersemester-2026/fruehstudium-13837955.md) — Prof. Dr. Ruth Stadler, Prof. Dr. Markus Albert, Dr. Ulrike Daigl, Dr. Regula Muheim-Lenz
+
+**Studiengang:** Pharmazie
+
+- [Chemie der organischen Arznei-, Hilfs- und Schadstoffe (f. Stud. d. Pharmazie im 3. Semester) — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Pharmazeutische/Medizinische Chemie (Hauptstudium Pharmazie) — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Seminar Chemie der organischen Arznei-, Hilfs- und Schadstoffe — Seminar](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Tutorium zur Chemie der organischen Arznei-/Hilfs- und Schadstoffe — Tutorium](../565-wintersemester-2025-26/pharmazie-16807.md) — Dr. Stefan Löber, Prof. Dr. Peter Gmeiner
+- [Einführung in die instrumentelle Analytik — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Markus Heinrich
+- [Pathophysiologie/Pathobiochemie f. Pharmazeuten — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — apl. Prof. Dr. Andreas Heß
+- [Pharmakologie und Toxikologie f. Pharmazeuten — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Andreas Ludwig
+- [Wahlpflichtfach Pharmazeutische / Medizinische Chemie — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner, Prof. Dr. Jutta Eichler, Prof. Dr. Markus Heinrich
+- [Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Immunochemie — Übung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+- [Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Phytochemie — Übung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+- [Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Vorbesprechung — Klausurenkurs](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+
+**Studiengang:** Pharmazie
+
+- [Allgemeine Biologie für Pharmazeuten sowie systematische Einteilung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil III — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Allgemeine Biologie für Pharmazeuten sowie systematische Einstellung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil II — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Petra Dietrich
+- [Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von Arzneibuch-Methoden) (f. Stud. d. Pharmazie u. Lebensmittelchemie im 2. Semester) — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Markus Heinrich
+- [Biogene Arzneimittel, Phytopharmaka, Antibiotika, gentechnisch hergestellte Arzneimittel — Hauptseminar](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Einführung zu den Übungen Pharmazeutische Biologie I: (Untersuchungen arzneistoffproduzierender Organismen) — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Übungen Pharmazeutische Biologie I (Untersuchung arzneistoffproduzierender Organismen) — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Einführung in die instrumentelle Analytik — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Jutta Eichler
+- [Pharmazeutisch-chemische Analytik I — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Markus Heinrich
+- [Physikalische Chemie für Pharmazie — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Dr. Christian Ehli, Prof. Dr. Dirk Michael Guldi
 
 #### Auszüge aus dem PO-Text
 
@@ -9382,7 +10008,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/sto-pharmazie.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -9393,6 +10019,31 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 **Studiengang:** - Frühstudium -
 
 - [Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen — Vorlesung mit Übung](../589-sommersemester-2026/fruehstudium-13837955.md) — Prof. Dr. Ruth Stadler, Prof. Dr. Markus Albert, Dr. Ulrike Daigl, Dr. Regula Muheim-Lenz
+
+**Studiengang:** Pharmazie
+
+- [Chemie der organischen Arznei-, Hilfs- und Schadstoffe (f. Stud. d. Pharmazie im 3. Semester) — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Pharmazeutische/Medizinische Chemie (Hauptstudium Pharmazie) — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Seminar Chemie der organischen Arznei-, Hilfs- und Schadstoffe — Seminar](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner
+- [Tutorium zur Chemie der organischen Arznei-/Hilfs- und Schadstoffe — Tutorium](../565-wintersemester-2025-26/pharmazie-16807.md) — Dr. Stefan Löber, Prof. Dr. Peter Gmeiner
+- [Einführung in die instrumentelle Analytik — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Markus Heinrich
+- [Pathophysiologie/Pathobiochemie f. Pharmazeuten — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — apl. Prof. Dr. Andreas Heß
+- [Pharmakologie und Toxikologie f. Pharmazeuten — Vorlesung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Andreas Ludwig
+- [Wahlpflichtfach Pharmazeutische / Medizinische Chemie — Praktikum](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Peter Gmeiner, Prof. Dr. Jutta Eichler, Prof. Dr. Markus Heinrich
+- [Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Immunochemie — Übung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+- [Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Phytochemie — Übung](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+- [Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Vorbesprechung — Klausurenkurs](../565-wintersemester-2025-26/pharmazie-16807.md) — Prof. Dr. Gregor Fuhrmann, PD Dr. Jennifer Munkert
+
+**Studiengang:** Pharmazie
+
+- [Allgemeine Biologie für Pharmazeuten sowie systematische Einteilung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil III — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Allgemeine Biologie für Pharmazeuten sowie systematische Einstellung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil II — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Petra Dietrich
+- [Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von Arzneibuch-Methoden) (f. Stud. d. Pharmazie u. Lebensmittelchemie im 2. Semester) — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Markus Heinrich
+- [Biogene Arzneimittel, Phytopharmaka, Antibiotika, gentechnisch hergestellte Arzneimittel — Hauptseminar](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Einführung zu den Übungen Pharmazeutische Biologie I: (Untersuchungen arzneistoffproduzierender Organismen) — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Übungen Pharmazeutische Biologie I (Untersuchung arzneistoffproduzierender Organismen) — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Gregor Fuhrmann
+- [Einführung in die instrumentelle Analytik — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Jutta Eichler
+- [Physikalische Chemie für Pharmazie — Vorlesung](../589-sommersemester-2026/pharmazie-17659.md) — Dr. Christian Ehli, Prof. Dr. Dirk Michael Guldi
 
 #### Auszüge aus dem PO-Text
 
@@ -10006,7 +10657,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/fpo-ba-ma-geowissenschaften-maerz2017.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/fpo-ba-ma-geowissenschaften-maerz2017.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **22**
+Vorgeschlagene Pflichtveranstaltungen: **24**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -10038,15 +10689,23 @@ Vorgeschlagene Pflichtveranstaltungen: **22**
 
 **Studiengang:** - Geologie und Geografie (FAU Scientia)  -
 
-- [Paläobiologie I - Allgemeine Paläontologie — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
-- [Paläobiologie I - Evolution des Lebens — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling
 - [Dynamik des Systems Erde - System Erde III — Vorlesung mit Übung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md)
-- [Paläobiologische Geländeübungen — Seminar](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
+- [Paläobiologie I - Evolution des Lebens — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling
+- [Paläobiologie I - Allgemeine Paläontologie — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
 - [Regionale Geologie - Seminar — Seminar](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — PD Dr. Anette Regelous
+- [Paläobiologische Geländeübungen — Seminar](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
 - [Übungen zu Mathematik für Data Science 1 / Physikstudierende A — Übung](../565-wintersemester-2025-26/mathematik-fau-scientia-12200464.md) — Dr. Manfred Kronz
+
+**Studiengang:** Lebensmittelchemie
+
+- [Physikalisches Praktikum für Lebensmittelchemiker — Praktikum](../565-wintersemester-2025-26/lebensmittelchemie-16806.md) — Prof. Dr. Alexander Schneider
+
+**Studiengang:** Pharmazie
+
+- [Physikalisches Praktikum für Pharmazeuten — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Alexander Schneider
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -10093,7 +10752,7 @@ Vorgeschlagene Pflichtveranstaltungen: **22**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/fpo-ba-ma-geowissenschaften-sept2016.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/fpo-ba-ma-geowissenschaften-sept2016.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -10123,14 +10782,22 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 **Studiengang:** - Geologie und Geografie (FAU Scientia)  -
 
-- [Paläobiologie I - Allgemeine Paläontologie — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
-- [Paläobiologie I - Evolution des Lebens — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling
 - [Dynamik des Systems Erde - System Erde III — Vorlesung mit Übung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md)
+- [Paläobiologie I - Evolution des Lebens — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling
+- [Paläobiologie I - Allgemeine Paläontologie — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
 - [Regionale Geologie - Seminar — Seminar](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — PD Dr. Anette Regelous
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
 - [Übungen zu Mathematik für Data Science 1 / Physikstudierende A — Übung](../565-wintersemester-2025-26/mathematik-fau-scientia-12200464.md) — Dr. Manfred Kronz
+
+**Studiengang:** Lebensmittelchemie
+
+- [Physikalisches Praktikum für Lebensmittelchemiker — Praktikum](../565-wintersemester-2025-26/lebensmittelchemie-16806.md) — Prof. Dr. Alexander Schneider
+
+**Studiengang:** Pharmazie
+
+- [Physikalisches Praktikum für Pharmazeuten — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Alexander Schneider
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -10169,7 +10836,7 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/fpo-ba-ma-geowissenschaften.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/fpo-ba-ma-geowissenschaften.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -10199,14 +10866,22 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 **Studiengang:** - Geologie und Geografie (FAU Scientia)  -
 
-- [Paläobiologie I - Allgemeine Paläontologie — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
-- [Paläobiologie I - Evolution des Lebens — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling
 - [Dynamik des Systems Erde - System Erde III — Vorlesung mit Übung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md)
+- [Paläobiologie I - Evolution des Lebens — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling
+- [Paläobiologie I - Allgemeine Paläontologie — Vorlesung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — Prof. Dr. Wolfgang Kießling, Dr. Sebastian Teichert
 - [Regionale Geologie - Seminar — Seminar](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md) — PD Dr. Anette Regelous
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
 - [Übungen zu Mathematik für Data Science 1 / Physikstudierende A — Übung](../565-wintersemester-2025-26/mathematik-fau-scientia-12200464.md) — Dr. Manfred Kronz
+
+**Studiengang:** Lebensmittelchemie
+
+- [Physikalisches Praktikum für Lebensmittelchemiker — Praktikum](../565-wintersemester-2025-26/lebensmittelchemie-16806.md) — Prof. Dr. Alexander Schneider
+
+**Studiengang:** Pharmazie
+
+- [Physikalisches Praktikum für Pharmazeuten — Praktikum](../589-sommersemester-2026/pharmazie-17659.md) — Prof. Dr. Alexander Schneider
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -11162,9 +11837,9 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
@@ -11203,20 +11878,20 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpo-ba-ma-technomathematik-feb2017.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpo-ba-ma-technomathematik-feb2017.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **13**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Analysis II — Vorlesung — Prof. Dr. Hermann Schulz-Baldes
 - Lineare und Kombinatorische Optimierung — 
+- Analysis II — Vorlesung — Prof. Dr. Hermann Schulz-Baldes
 - Übungen zu Einführung in die gewöhnlichen Differentialgleichungen — Übung — Prof. Dr. Lea Boßmann
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
@@ -11231,6 +11906,10 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 - [Surface Analysis II — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
 - [Übung Surface Analysis II — Übung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
+
+**Studiengang:** Integrated Life Sciences
+
+- [Stochastische Modellbildung — ](../565-wintersemester-2025-26/integrated-life-sciences-16827.md) — apl. Prof. Dr. Christophorus Richard (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Torben Krüger (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -11259,20 +11938,20 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpo-ba-ma-technomathematik.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpo-ba-ma-technomathematik.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **13**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Analysis II — Vorlesung — Prof. Dr. Hermann Schulz-Baldes
 - Lineare und Kombinatorische Optimierung — 
+- Analysis II — Vorlesung — Prof. Dr. Hermann Schulz-Baldes
 - Übungen zu Einführung in die gewöhnlichen Differentialgleichungen — Übung — Prof. Dr. Lea Boßmann
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
@@ -11287,6 +11966,10 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 - [Surface Analysis II — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
 - [Übung Surface Analysis II — Übung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Anca Valentina Mazare
+
+**Studiengang:** Integrated Life Sciences
+
+- [Stochastische Modellbildung — ](../565-wintersemester-2025-26/integrated-life-sciences-16827.md) — apl. Prof. Dr. Christophorus Richard (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Torben Krüger (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -11326,9 +12009,9 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Systemprogrammierung - Rechnerübungen — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Tobias Häberlein, Ole Wiedemann, Thomas Preisner
 
@@ -11382,9 +12065,9 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Systemprogrammierung - Rechnerübungen — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Tobias Häberlein, Ole Wiedemann, Thomas Preisner
 
@@ -11474,7 +12157,7 @@ a) den Pflichtmodulen für Data Science (Nrn. 1 und 2 sowie Nrn. 5 bis 15),
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210805.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20210805.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **16**
+Vorgeschlagene Pflichtveranstaltungen: **38**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -11512,9 +12195,46 @@ Vorgeschlagene Pflichtveranstaltungen: **16**
 
 - [Machine Learning in MRI — Hauptseminar](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Erik Gösche, Vanya Saksena, Nils Dienesch
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+- [Seminar Advances in Deep Learning for Time Series (ADLTS) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Dr. Dario Zanca (Zuständigkeit: Verantwortliche/-r) Dr. Dario Zanca (Zuständigkeit: Bearbeiter/-in)
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Deep Learning — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+- [Introduction to Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Vasileios Belagiannis (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Deep Learning — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Introduction to Deep Learning — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Vasileios Belagiannis (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -11536,7 +12256,7 @@ Vorgeschlagene Pflichtveranstaltungen: **16**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20220328.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20200820-idf-20220328.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **16**
+Vorgeschlagene Pflichtveranstaltungen: **38**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -11574,9 +12294,46 @@ Vorgeschlagene Pflichtveranstaltungen: **16**
 
 - [Machine Learning in MRI — Hauptseminar](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Erik Gösche, Vanya Saksena, Nils Dienesch
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+- [Seminar Advances in Deep Learning for Time Series (ADLTS) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Dr. Dario Zanca (Zuständigkeit: Verantwortliche/-r) Dr. Dario Zanca (Zuständigkeit: Bearbeiter/-in)
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Deep Learning — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+- [Introduction to Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Vasileios Belagiannis (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Deep Learning — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Introduction to Deep Learning — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Vasileios Belagiannis (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -11644,7 +12401,7 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **23**
+Vorgeschlagene Pflichtveranstaltungen: **45**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -11690,11 +12447,48 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 
 - [Machine Learning in MRI — Hauptseminar](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Erik Gösche, Vanya Saksena, Nils Dienesch
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+- [Seminar Advances in Deep Learning for Time Series (ADLTS) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Dr. Dario Zanca (Zuständigkeit: Verantwortliche/-r) Dr. Dario Zanca (Zuständigkeit: Bearbeiter/-in)
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Deep Learning — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+- [Advanced Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Vincent Christlein (Zuständigkeit: Verantwortliche/-r)
+- [Introduction to Deep Learning — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Vasileios Belagiannis (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Numerische Methoden elektromagnetischer Felder — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
 - [Übung zu Numerische Methoden elektromagnetischer Felder — Übung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Deep Learning — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Introduction to Deep Learning — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Vasileios Belagiannis (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning for Beginners — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Deep Learning   for Beginners (VHB) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -11751,9 +12545,9 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
@@ -11831,9 +12625,9 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
@@ -11909,9 +12703,9 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
@@ -11956,9 +12750,9 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 **Studiengang:** - Frühstudium -
 
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Analysis I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
 - [Übungen zur Analysis I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Hermann Schulz-Baldes
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
@@ -12660,6 +13454,34 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### PDF vom 25.09.1980 i.d.F. 28.12.2004
+
+PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/zwischenpruefungso.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/zwischenpruefungso.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Lateinische Philologie
+
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**§ 28 ) Philosophie**** _(paragraph)_
+
+(3) Die Pflichtscheine für Textseminare aus Modul II und III müssen in Veranstaltungen erworben werden, die verschiedenen Epochen der Philosophiegeschichte (Antike, Mittelalter, Neuzeit/Gegenwart) zugerechnet werden können.
+
+**§ 28 ) Philosophie**** _(paragraph)_
+
+(4)[1] Leistungsnachweise für Modul IV können auch in einschlägigen Veranstaltungen, die von anderen Fächern angeboten werden (allerdings nicht in Pflichtveranstaltungen des Zweit- beziehungsweise Nebenfaches!) erworben werden, außerdem in Kursen, die dem empfohlenen Erwerb von Latein- oder Griechischkenntnissen dienen.[2] Das Modul IV kann schließlich auch durch ein Praktikum (mit qualifiziertem Nachweis) von mindestens vier Wochen ersetzt werden.
+
+---
+
 ### 17. Oktober 2014
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/3aes-ba-ma-physik.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/3aes-ba-ma-physik.md)  
@@ -13151,7 +13973,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-physik-1983.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-physik-1983.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **14**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -13179,10 +14001,6 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** - Frühstudium -
 
 - [Übungen zur Experimentalphysik 2 für Physikstudierende: Wärme und Elektrodynamik — Übung](../589-sommersemester-2026/fruehstudium-13837955.md) — Prof. Dr. Janina Maultzsch
-
-**Studiengang:** - Informatik (FAU Scientia)  -
-
-- [Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" — Vorlesung mit Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Melanie Döllwanger
 
 **Studiengang:** Materialphysik
 
@@ -13469,7 +14287,7 @@ _(+ 13 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20230731-idf-20260305.md`](../pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/stuo-po-bsc-physik-msc-physics-20230731-idf-20260305.md)  
 Pflicht-Stellen gefunden: **31**  
-Vorgeschlagene Pflichtveranstaltungen: **23**
+Vorgeschlagene Pflichtveranstaltungen: **22**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -13497,7 +14315,6 @@ Vorgeschlagene Pflichtveranstaltungen: **23**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Projekt Künstliche Intelligenz — Projekt](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md)
-- [Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" — Vorlesung mit Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Melanie Döllwanger
 
 **Studiengang:** - Mathematik (FAU Scientia)  -
 
@@ -14008,7 +14825,7 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1aesa-ba-1fach-ba-literatur-buch.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1aesa-ba-1fach-ba-literatur-buch.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **36**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -14046,6 +14863,41 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 - [Altes Testament im Überblick - Geschichte Israels — Vorlesung mit Übung](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md) — Prof. Dr. Reettakaisa Sofia Salo, Jonathan Böhm
 
+**Studiengang:** Frankoromanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Französisch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Romanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Soziologie
+
+- [Einführung in das wissenschaftliche Arbeiten — Übung](../565-wintersemester-2025-26/soziologie-17143.md) — Florian Öchsner
+
+**Studiengang:** Soziologie
+
+- [Einführung in das wissenschaftliche Arbeiten — Übung](../589-sommersemester-2026/soziologie-18299.md) — Florian Öchsner
+
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
 - [Einführung in die Gestaltung wissenschaftlicher Texte mit LaTeX — Einführungskurs](../565-wintersemester-2025-26/veranstaltungen-aus-der-naturwissenschaftlichen-fakultaet-17336.md) — Prof. Dr. Ulrich Katz, Prof. Dr. Claudio Kopper
@@ -14077,7 +14929,7 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1fachba-literatur-und-buch.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/1fachba-literatur-und-buch.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **30**
+Vorgeschlagene Pflichtveranstaltungen: **31**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -14130,6 +14982,10 @@ Vorgeschlagene Pflichtveranstaltungen: **30**
 **Studiengang:** - Sprachenzentrum  (FAU Scientia)  -
 
 - [Vertiefungskurs B2 Communication orale — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Frankoromanistik
+
+- [Communication orale et civilisation — Übung](../589-sommersemester-2026/frankoromanistik-18259.md) — Dr. Corina Petersilka, Julien Nairaince
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -14816,7 +15672,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/ein-fachba-literatur-und-buch-aug2017.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/ein-fachba-literatur-und-buch-aug2017.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **36**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -14854,6 +15710,41 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 - [Altes Testament im Überblick - Geschichte Israels — Vorlesung mit Übung](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md) — Prof. Dr. Reettakaisa Sofia Salo, Jonathan Böhm
 
+**Studiengang:** Frankoromanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Französisch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Romanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Soziologie
+
+- [Einführung in das wissenschaftliche Arbeiten — Übung](../565-wintersemester-2025-26/soziologie-17143.md) — Florian Öchsner
+
+**Studiengang:** Soziologie
+
+- [Einführung in das wissenschaftliche Arbeiten — Übung](../589-sommersemester-2026/soziologie-18299.md) — Florian Öchsner
+
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
 - [Einführung in die Gestaltung wissenschaftlicher Texte mit LaTeX — Einführungskurs](../565-wintersemester-2025-26/veranstaltungen-aus-der-naturwissenschaftlichen-fakultaet-17336.md) — Prof. Dr. Ulrich Katz, Prof. Dr. Claudio Kopper
@@ -14885,7 +15776,7 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20150803-idf-20190906.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20150803-idf-20190906.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **15**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -14894,6 +15785,30 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 **Studiengang:** - Geologie und Geografie (FAU Scientia)  -
 
 - [Grundlagen der Geowissenschaften I - System Erde I — Vorlesung mit Übung](../565-wintersemester-2025-26/geologie-und-geografie-fau-scientia-12200382.md) — Prof. Dr. Karsten Haase, Prof. Dr. Wolfgang Kießling
+
+**Studiengang:** Frankoromanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Französisch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Romanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -14911,7 +15826,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md`](../pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/fpolitbuch-20260305.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **17**
+Vorgeschlagene Pflichtveranstaltungen: **26**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -14944,6 +15859,27 @@ Vorgeschlagene Pflichtveranstaltungen: **17**
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
 - [Ungleichheit in modernen Gesellschaften — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Martin Abraham
+
+**Studiengang:** Frankoromanistik
+
+- [Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Französisch
+
+- [Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Romanistik
+
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -16246,20 +17182,17 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/2aesa-ma-mittelalterfrueheneuzeit.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/2aesa-ma-mittelalterfrueheneuzeit.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Geschichte der Bildenden Kunst des Mittelalters - Baustein II — Proseminar — Simon Scheidle
-- Ü Einführung in die Historischen Hilfswissenschaften — Übung — Dr. Matthias Maser
+**Studiengang:** Katholische Religionslehre
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
+- [Klausur oder mündliche Prüfung über die Vorlesungen Einführung in die Didaktik des katholischen Religionsunterrichts und Religiöses Lernen — ](../565-wintersemester-2025-26/katholische-religionslehre-17178.md)
 
-- [Geschichte der Bildenden Kunst von der Renaissance bis zur Gegenwart — Proseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Dr. Bettina Keller
+**Studiengang:** Lateinische Philologie
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
-
-- [Geschichte der Bildenden Kunst des Mittelalters - Baustein I — Proseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — apl. Prof. Dr. Manuel Teget-Welz
+- [Mündliche Prüfung (B.A.,2Fäch Lateinische Philologie Erstfach 2007) — ](../589-sommersemester-2026/lateinische-philologie-18232.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -16358,6 +17291,42 @@ Abweichend von § 32 Abs. 6 ABMStPO/Phil wird die Masterarbeit verpflichtend in 
 ||Übung||1||||||||||
 |**Development Economics II**|Seminar||||2|5||5|||Referat (45-60 Min., 33%) und<br>Hausarbeit (15 S., 66%)|1|
 |**International Economics I**|Vorlesung|2||||5|5|| …
+
+---
+
+### 24. August 2017
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/3aesa-ma-fposino.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/3aesa-ma-fposino.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Philosophie
+
+- [Basismodul Praktische Philosophie — ](../565-wintersemester-2025-26/philosophie-17205.md) — Prof. Dr. Nico Scarano (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Erasmus Mayr (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Praktische Philosophie — ](../565-wintersemester-2025-26/philosophie-17205.md)
+- [Basismodul Theoretische Philosophie — ](../565-wintersemester-2025-26/philosophie-17205.md) — Prof. Dr. Dorothea Debus (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Theoretische Philosophie — ](../565-wintersemester-2025-26/philosophie-17205.md)
+
+#### Auszüge aus dem PO-Text
+
+**„Anlage 1: Studienverlaufsplan Masterstudiengang Sinologie mit fachspezifischer Ausrichtung – Schwerpunkt Philologie** _(paragraph)_
+
+3 Sofern im Rahmen des Wahlmoduls IV ein Praktikum absolviert wird, ist eine Vorabsprache mit dem/der Studiengangsverantwortlichen des M.A. Geschichte verpflichtend.
+
+**Anlage 5: Studienverlaufsplan Masterstudiengang Sinologie mit fachspezifischer Ausrichtung – Schwerpunkt Wirtschaftswissenschaften** _(paragraph)_
+
+|Modulbezeichnung|Lehr-<br>ver-<br>anstal-<br>tung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der<br>Püf /Stdilit|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||in ECTS-Punkten|||||
+|||V|||||||||||
+||||Ü|P|S||1.|2.|3.|4.|rung uenesung||
+||||||||||||||
+|**Sinologische Pflichtmodule**|||||||||||||
+|Modul 1: Staat und Gesellschaft aus geisteswissenschaftlicher<br>Perspektive||gemäß Anlage 1||||5|5||||gemäß Anlage 1|0,5|
+|Modul 2: Staat und Gesellschaft aus kulturübergreifender<br>Perspektive||gemäß Anlage 1||||5|5||||gemäß Anlage 1|1|
+|Modul 3: …
 
 ---
 
@@ -16495,6 +17464,31 @@ Voraussetzung für die Zulassung zum Modul Masterarbeit gemäß § 38 Abs. 2 **A
 |Geschichte und Analyse der künstleri-<br>schen Medien II|Oberseminar||||2|5|5||||||||Schriftliche Hausarbeit (ca. 10-20 S.,<br>100%) mit Präsentation (ca. 20-30 Min.,<br>0%)|1|
 |Quellen, Theorien und Methoden I|Vorlesung|2||||5||5|||||||Klausur (60 Min.)|1|
 |Quellen, Theorien und Methoden II|Oberseminar||||2|5||5|||||||Schriftliche Hausa …
+
+---
+
+### 18. August 2017
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/5aesa-ma-fporomanistikdocx.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/5aesa-ma-fporomanistikdocx.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Literaturstudien - intermedial und interkulturell
+
+- [Basismodul Aktuelle Interkulturalitäts-  und Intermedialitätstheorien — ](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Romanistik
+
+- [Basismodul Aktuelle Interkulturalitäts- und Intermedialitätstheorien — ](../565-wintersemester-2025-26/romanistik-17208.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [América Latina: Cultura y Literatura — ](../565-wintersemester-2025-26/romanistik-17208.md) — Prof. Dr. Andrea Pagni (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**„§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichtsund Prüfungssprache** _(paragraph)_
+
+(2)[1] Im fachwissenschaftlichen Bereich des Studiums sind im ersten Fachsemester die Einführungsmodule „Romanistik komparativ I“ (Modul 1) und „Romanistik komparativ II“ (Modul 2) sowie das Importmodul zum Kultur- und Sprachvergleich (Modul 3) zu belegen. 2In den Folgesemestern werden ein literaturwissenschaftliches Modul mit einem Schwerpunkt entweder in französischer, italienischer oder spanischer Literatur- und Kulturwissenschaft (Modul 6) sowie ein sprachwissen-schaftliches Modul in französischer, italienischer oder spanischer Sprachwissenschaft (Modul 7) belegt. 3Im Anschluss kann ein vertiefendes Wahlpflichtmodul in Literatur-/Kultur- oder Sprachwissenschaft (Modul 9) belegt werden (oder alternativ dazu ein sprachpraktisches Modul gem. Abs. 3) und es ist verpflichtend das Projektmod …
 
 ---
 
@@ -16928,20 +17922,17 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-mittelalterfrueheneuzeit-aug2017.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-mittelalterfrueheneuzeit-aug2017.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Geschichte der Bildenden Kunst des Mittelalters - Baustein II — Proseminar — Simon Scheidle
-- Ü Einführung in die Historischen Hilfswissenschaften — Übung — Dr. Matthias Maser
+**Studiengang:** Katholische Religionslehre
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
+- [Klausur oder mündliche Prüfung über die Vorlesungen Einführung in die Didaktik des katholischen Religionsunterrichts und Religiöses Lernen — ](../565-wintersemester-2025-26/katholische-religionslehre-17178.md)
 
-- [Geschichte der Bildenden Kunst von der Renaissance bis zur Gegenwart — Proseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Dr. Bettina Keller
+**Studiengang:** Lateinische Philologie
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
-
-- [Geschichte der Bildenden Kunst des Mittelalters - Baustein I — Proseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — apl. Prof. Dr. Manuel Teget-Welz
+- [Mündliche Prüfung (B.A.,2Fäch Lateinische Philologie Erstfach 2007) — ](../589-sommersemester-2026/lateinische-philologie-18232.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -16972,20 +17963,17 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-mittelalterfrueheneuzeit-maerz2017.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-mittelalterfrueheneuzeit-maerz2017.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Geschichte der Bildenden Kunst des Mittelalters - Baustein II — Proseminar — Simon Scheidle
-- Ü Einführung in die Historischen Hilfswissenschaften — Übung — Dr. Matthias Maser
+**Studiengang:** Katholische Religionslehre
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
+- [Klausur oder mündliche Prüfung über die Vorlesungen Einführung in die Didaktik des katholischen Religionsunterrichts und Religiöses Lernen — ](../565-wintersemester-2025-26/katholische-religionslehre-17178.md)
 
-- [Geschichte der Bildenden Kunst von der Renaissance bis zur Gegenwart — Proseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Dr. Bettina Keller
+**Studiengang:** Lateinische Philologie
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
-
-- [Geschichte der Bildenden Kunst des Mittelalters - Baustein I — Proseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — apl. Prof. Dr. Manuel Teget-Welz
+- [Mündliche Prüfung (B.A.,2Fäch Lateinische Philologie Erstfach 2007) — ](../589-sommersemester-2026/lateinische-philologie-18232.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -17191,36 +18179,45 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
+### PDF vom 08.06.2010 i.d.F. 18.08.2017
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-romanistik-aug2017.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-romanistik-aug2017.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Literaturstudien - intermedial und interkulturell
+
+- [Basismodul Aktuelle Interkulturalitäts-  und Intermedialitätstheorien — ](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Romanistik
+
+- [Basismodul Aktuelle Interkulturalitäts- und Intermedialitätstheorien — ](../565-wintersemester-2025-26/romanistik-17208.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [América Latina: Cultura y Literatura — ](../565-wintersemester-2025-26/romanistik-17208.md) — Prof. Dr. Andrea Pagni (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+sches Modul gem. Abs. 3) und es ist verpflichtend das Projektmodul Kultur- und Sprachkontakt (Modul 10) zu absolvieren.
+
+---
+
 ### PDF vom 08.06.2010 i.d.F. 24.08.2017
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-sinologie-aug2017.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/fachstuopro-ma-sinologie-aug2017.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- BA-4 Wissenschaft und Technik Chinas — Seminar — Dr. Sabine Weber
+**Studiengang:** Philosophie
 
-**Studiengang:** - Frühstudium -
-
-- [BA-1 Geschichte und Kultur Chinas I — Seminar](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Thomas Crone
-- [BA-1 Geschichte und Kultur Chinas II — Seminar](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Marc Matten
-- [Ba-Vorl Internationale Politik: Die Europäische Integration/Internationale Politik I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Christoph Moser
-- [Grundlagen der internationalen Politik I: Geschichte und Theorien der Internationalen Beziehungen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Johannes Jüde
-
-**Studiengang:** - Frühstudium -
-
-- [BA-2 Staat und Gesellschaft Chinas — Seminar](../589-sommersemester-2026/fruehstudium-13837955.md) — Prof. Dr. Marc Matten
-
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
-
-- [Politische Systeme im Nahen Osten im Vergleich: Schwerpunkt Saudi-Arabien — Proseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Prof. Dr. Thomas Demmelhuber
-
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
-
-- [Europäische Politische Systeme im Vergleich — Proseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Prof. Dr. Sandra Eckert
-- [Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien — Proseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Antonia Thies
-- [Internationale islamische Netzwerke: Religion, Politik und Gesellschaft im transnationalen Raum — Hauptseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Katharina Nicolai
+- [Basismodul Praktische Philosophie — ](../565-wintersemester-2025-26/philosophie-17205.md) — Prof. Dr. Nico Scarano (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Erasmus Mayr (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Praktische Philosophie — ](../565-wintersemester-2025-26/philosophie-17205.md)
+- [Basismodul Theoretische Philosophie — ](../565-wintersemester-2025-26/philosophie-17205.md) — Prof. Dr. Dorothea Debus (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Theoretische Philosophie — ](../565-wintersemester-2025-26/philosophie-17205.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -17685,9 +18682,13 @@ Bewertung einer App m …
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-antike-sprachen-und-kulturen-fpoansk-20100608-idf-20190326.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-antike-sprachen-und-kulturen-fpoansk-20100608-idf-20190326.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Italoromanistik
+
+- [Bachelorarbeit (B.A.,2Fäch Indogermanistik und Indoiranistik Zweitfach 20162) — ](../565-wintersemester-2025-26/italoromanistik-17180.md)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -17717,9 +18718,13 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-antike-sprachen-und-kulturen-fpoansk-20100608-idf-20210222.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-antike-sprachen-und-kulturen-fpoansk-20100608-idf-20210222.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Italoromanistik
+
+- [Bachelorarbeit (B.A.,2Fäch Indogermanistik und Indoiranistik Zweitfach 20162) — ](../565-wintersemester-2025-26/italoromanistik-17180.md)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -17749,9 +18754,13 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-antike-sprachen-und-kulturen-fpoansk-20190326-aes.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-antike-sprachen-und-kulturen-fpoansk-20190326-aes.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Italoromanistik
+
+- [Bachelorarbeit (B.A.,2Fäch Indogermanistik und Indoiranistik Zweitfach 20162) — ](../565-wintersemester-2025-26/italoromanistik-17180.md)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -17781,13 +18790,17 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-antike-sprachen-und-kulturen-fpoansk-20250131.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-antike-sprachen-und-kulturen-fpoansk-20250131.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -
 
 - [Sprachhistorisches Seminar — Sprachhistorisches Seminar](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Dennis Schmechel
+
+**Studiengang:** Italoromanistik
+
+- [Bachelorarbeit (B.A.,2Fäch Indogermanistik und Indoiranistik Zweitfach 20162) — ](../565-wintersemester-2025-26/italoromanistik-17180.md)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -17892,11 +18905,15 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20180221.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20180221.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
+
+**Studiengang:** Maschinenbau
+
+- [Master Thesis with Advanced Seminar (M.Sc. Maschinenbau IP 20222) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -17955,11 +18972,15 @@ Abweichend von § 32 Abs. 6 **ABMStPO/Phil** wird die Masterarbeit verpflichtend
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20200408.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20200408.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
+
+**Studiengang:** Maschinenbau
+
+- [Master Thesis with Advanced Seminar (M.Sc. Maschinenbau IP 20222) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -17986,11 +19007,15 @@ Abweichend von § 32 Abs. 6 **ABMStPO/Phil** wird die Masterarbeit verpflichtend
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20230731.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20100608-idf-20230731.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
+
+**Studiengang:** Maschinenbau
+
+- [Master Thesis with Advanced Seminar (M.Sc. Maschinenbau IP 20222) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -18017,11 +19042,15 @@ Abweichend von § 32 Abs. 6 **ABMStPO/Phil** wird die Masterarbeit verpflichtend
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20180221-aes.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20180221-aes.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
+
+**Studiengang:** Maschinenbau
+
+- [Master Thesis with Advanced Seminar (M.Sc. Maschinenbau IP 20222) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -18044,11 +19073,15 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20240807.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-deis-fpodeis-20240807.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung — Dr. Ádám Kocsis
+
+**Studiengang:** Maschinenbau
+
+- [Master Thesis with Advanced Seminar (M.Sc. Maschinenbau IP 20222) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -18068,6 +19101,48 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 |**Development Economics I**|Vorlesung|2||||**5**|5||||Klausur (60-90 Min.)|1|
 ||Übung||1||||||||||
 |**Development Economics II**|Vorlesung und<br>Übung …
+
+---
+
+### MA English Studies FPOEnStud 20250930.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-english-studies-fpoenstud-20250930.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-english-studies-fpoenstud-20250930.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **10**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Assessing English Language Skills — Proseminar / Mittelseminar — Georg Rösch
+
+**Studiengang:** - Pädagogik und Fachdidaktik (FAU Scientia)  -
+
+- [Teaching English at German Primary (and Secondary Modern) Schools — Hauptseminar](../589-sommersemester-2026/paedagogik-und-fachdidaktik-fau-scientia-13838880.md) — PD Dr. Anja Steinlen
+
+**Studiengang:** - Sprachenzentrum  (FAU Scientia)  -
+
+- [English: Level 1 - Focus on Academic Writing Skills — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Donna Liersch
+
+**Studiengang:** Linguistik
+
+- [Introductory Module Topics in Linguistic Theory and Language Acquisition Research — ](../565-wintersemester-2025-26/linguistik-17168.md) — Dr. Michael Klotz (Zuständigkeit: Verantwortliche/-r)
+- [First Language Acquisition and Language Teaching — ](../565-wintersemester-2025-26/linguistik-17168.md) — Prof. Dr. Thorsten Piske (Zuständigkeit: Verantwortliche/-r)
+- [Corpus Linguistics — ](../565-wintersemester-2025-26/linguistik-17168.md) — Prof. Dr. Stephanie Evert (Zuständigkeit: Verantwortliche/-r)
+- [Language Variation (English) — ](../565-wintersemester-2025-26/linguistik-17168.md) — Dr. Michael Klotz (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literaturstudien - intermedial und interkulturell
+
+- [Discourse Structure (MA) — Übung](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md) — Jennifer Meister, Ingrid Mina Fandrych
+
+**Studiengang:** Literaturstudien – medial und transkulturell
+
+- [Academic Discourse — ](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md)
+- [Discourse Structure — ](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md)
+
+#### Auszüge aus dem PO-Text
+
+**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
+
+_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
 
 ---
 
@@ -18291,20 +19366,17 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-mittelalter-und-fruehe-neuzeit-fpomifnz-20100608-idf-20190809.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-mittelalter-und-fruehe-neuzeit-fpomifnz-20100608-idf-20190809.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Geschichte der Bildenden Kunst des Mittelalters - Baustein II — Proseminar — Simon Scheidle
-- Ü Einführung in die Historischen Hilfswissenschaften — Übung — Dr. Matthias Maser
+**Studiengang:** Katholische Religionslehre
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
+- [Klausur oder mündliche Prüfung über die Vorlesungen Einführung in die Didaktik des katholischen Religionsunterrichts und Religiöses Lernen — ](../565-wintersemester-2025-26/katholische-religionslehre-17178.md)
 
-- [Geschichte der Bildenden Kunst von der Renaissance bis zur Gegenwart — Proseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Dr. Bettina Keller
+**Studiengang:** Lateinische Philologie
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
-
-- [Geschichte der Bildenden Kunst des Mittelalters - Baustein I — Proseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — apl. Prof. Dr. Manuel Teget-Welz
+- [Mündliche Prüfung (B.A.,2Fäch Lateinische Philologie Erstfach 2007) — ](../589-sommersemester-2026/lateinische-philologie-18232.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -18335,20 +19407,17 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-mittelalter-und-fruehe-neuzeit-fpomifnz-20240131.md`](../pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/ma-mittelalter-und-fruehe-neuzeit-fpomifnz-20240131.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Geschichte der Bildenden Kunst des Mittelalters - Baustein II — Proseminar — Simon Scheidle
-- Ü Einführung in die Historischen Hilfswissenschaften — Übung — Dr. Matthias Maser
+**Studiengang:** Katholische Religionslehre
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
+- [Klausur oder mündliche Prüfung über die Vorlesungen Einführung in die Didaktik des katholischen Religionsunterrichts und Religiöses Lernen — ](../565-wintersemester-2025-26/katholische-religionslehre-17178.md)
 
-- [Geschichte der Bildenden Kunst von der Renaissance bis zur Gegenwart — Proseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Dr. Bettina Keller
+**Studiengang:** Lateinische Philologie
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
-
-- [Geschichte der Bildenden Kunst des Mittelalters - Baustein I — Proseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — apl. Prof. Dr. Manuel Teget-Welz
+- [Mündliche Prüfung (B.A.,2Fäch Lateinische Philologie Erstfach 2007) — ](../589-sommersemester-2026/lateinische-philologie-18232.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -18529,7 +19598,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/modulstudien-digital-humanities-pom-dh-20250411.md`](../pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/modulstudien-digital-humanities-pom-dh-20250411.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -18547,6 +19616,10 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 - [Übung Grundlagen der Computerlinguistik 2 — Übung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 - [Vorlesung Grundlagen der Computerlinguistik 2 — Vorlesung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Grundlagen der Computerlinguistik II (statistische Verfahren) — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Stephanie Evert (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -18929,7 +20002,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20150811-idf-20200916.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20150811-idf-20200916.md)  
 Pflicht-Stellen gefunden: **16**  
-Vorgeschlagene Pflichtveranstaltungen: **18**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -18945,8 +20018,8 @@ Vorgeschlagene Pflichtveranstaltungen: **18**
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
-- [NT Einführung in die exeget. Methoden (mit Arbeit) — Proseminar](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Jonathan Reichel
 - [Bibelkunde Altes Testament I — Übung](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Veronika Bibelriether
+- [NT Einführung in die exeget. Methoden (mit Arbeit) — Proseminar](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Jonathan Reichel
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
@@ -18957,15 +20030,21 @@ Vorgeschlagene Pflichtveranstaltungen: **18**
 
 **Studiengang:** Evangelische Theologie
 
-- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
 - [AT-INT - Altes Testament — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. Reettakaisa Sofia Salo (Zuständigkeit: Verantwortliche/-r)
 - [NT-INT - Neues Testament — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
 - [ST-INT - Systematische Theologie — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. Peter Dabrock (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Lisanne Teuchert (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** LV mit Nachhaltigkeitsbezug, Philosophische Fakultät und Fachbereich Theologie
 
 - [Einführung in die Didaktik der romanischen Sprachen — Übungsseminar](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-philosophische-fakultaet-und-fachbereich-theologie-17586.md) — Pia Reimann
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Altes Testament — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Henrik Pfeiffer (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Reettakaisa Sofia Salo (Zuständigkeit: Verantwortliche/-r)
+- [Einführung in die Bibel: Neues Testament — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Jonathan Reichel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
+- [Neues Testament — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Jonathan Reichel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -19012,7 +20091,7 @@ _(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20150811-idf-20230314.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20150811-idf-20230314.md)  
 Pflicht-Stellen gefunden: **16**  
-Vorgeschlagene Pflichtveranstaltungen: **18**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -19028,8 +20107,8 @@ Vorgeschlagene Pflichtveranstaltungen: **18**
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
-- [NT Einführung in die exeget. Methoden (mit Arbeit) — Proseminar](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Jonathan Reichel
 - [Bibelkunde Altes Testament I — Übung](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Veronika Bibelriether
+- [NT Einführung in die exeget. Methoden (mit Arbeit) — Proseminar](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Jonathan Reichel
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
@@ -19040,15 +20119,21 @@ Vorgeschlagene Pflichtveranstaltungen: **18**
 
 **Studiengang:** Evangelische Theologie
 
-- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
 - [AT-INT - Altes Testament — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. Reettakaisa Sofia Salo (Zuständigkeit: Verantwortliche/-r)
 - [NT-INT - Neues Testament — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
 - [ST-INT - Systematische Theologie — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. Peter Dabrock (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Lisanne Teuchert (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** LV mit Nachhaltigkeitsbezug, Philosophische Fakultät und Fachbereich Theologie
 
 - [Einführung in die Didaktik der romanischen Sprachen — Übungsseminar](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-philosophische-fakultaet-und-fachbereich-theologie-17586.md) — Pia Reimann
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Altes Testament — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Henrik Pfeiffer (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Reettakaisa Sofia Salo (Zuständigkeit: Verantwortliche/-r)
+- [Einführung in die Bibel: Neues Testament — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Jonathan Reichel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
+- [Neues Testament — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Jonathan Reichel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -19087,7 +20172,7 @@ _(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20200916-aes.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/evangelische-theologie-stupo-evtheol-20200916-aes.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **14**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -19101,8 +20186,8 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
-- [NT Einführung in die exeget. Methoden (mit Arbeit) — Proseminar](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Jonathan Reichel
 - [Bibelkunde Altes Testament I — Übung](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Veronika Bibelriether
+- [NT Einführung in die exeget. Methoden (mit Arbeit) — Proseminar](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Jonathan Reichel
 
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
@@ -19111,11 +20196,17 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 
 **Studiengang:** Evangelische Theologie
 
-- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
-- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
 - [AT-INT - Altes Testament — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. Reettakaisa Sofia Salo (Zuständigkeit: Verantwortliche/-r)
 - [NT-INT - Neues Testament — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen des Theologiestudiums/Propädeuticum — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
 - [ST-INT - Systematische Theologie — ](../565-wintersemester-2025-26/evangelische-theologie-17142.md) — Prof. Dr. Peter Dabrock (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Lisanne Teuchert (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Altes Testament — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Henrik Pfeiffer (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Reettakaisa Sofia Salo (Zuständigkeit: Verantwortliche/-r)
+- [Einführung in die Bibel: Neues Testament — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Jonathan Reichel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
+- [Neues Testament — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Jonathan Reichel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. David du Toit (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Christina Eschner (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -19433,17 +20524,20 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20180711.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20180711.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-**Studiengang:** - Philosophie und Sozialwissenschaften (FAU Scientia)  -
+**Studiengang:** Literaturstudien - intermedial und interkulturell
 
-- [MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Religion: Theologie für Nichttheologen (Islam und Medien) — Seminar](../565-wintersemester-2025-26/philosophie-und-sozialwissenschaften-fau-scientia-12199890.md) — Prof. Dr. Abbas Poya
+- [MA Medien 1. FS -Modul 1: Dimensionen des Medialen und Visuellen — Masterseminar](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md) — Jana Alina Schorn
 
-**Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
+**Studiengang:** Medien-Ethik-Religion
 
-- [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
+- [Dimensionen des Medialen und Visuellen — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — PD Dr. Sven Grampp (Zuständigkeit: Verantwortliche/-r)
+- [Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
+- [Hausarbeit zu Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Praxisfeld Medien — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -19473,11 +20567,22 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20191212.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20191212.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Kolloquium (Bachelorbegleitkurs, Masterarbeiten und Promotionsvorhaben) — Kolloquium — Prof. Dr. Mohammed Nekroumi
+
+**Studiengang:** Literaturstudien - intermedial und interkulturell
+
+- [MA Medien 1. FS -Modul 1: Dimensionen des Medialen und Visuellen — Masterseminar](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md) — Jana Alina Schorn
+
+**Studiengang:** Medien-Ethik-Religion
+
+- [Dimensionen des Medialen und Visuellen — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — PD Dr. Sven Grampp (Zuständigkeit: Verantwortliche/-r)
+- [Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
+- [Hausarbeit zu Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Praxisfeld Medien — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -19515,7 +20620,7 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20200909.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20200909.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -19528,6 +20633,12 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 **Studiengang:** - Philosophie und Sozialwissenschaften (FAU Scientia)  -
 
 - [MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Religion: Theologie für Nichttheologen (Islam und Medien) — Seminar](../565-wintersemester-2025-26/philosophie-und-sozialwissenschaften-fau-scientia-12199890.md) — Prof. Dr. Abbas Poya
+
+**Studiengang:** Medien-Ethik-Religion
+
+- [Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
+- [Hausarbeit zu Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Praxisfeld Medien — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -19571,7 +20682,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20230731.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20081209-idf-20230731.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **9**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -19585,6 +20696,12 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 **Studiengang:** - Philosophie und Sozialwissenschaften (FAU Scientia)  -
 
 - [MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Religion: Theologie für Nichttheologen (Islam und Medien) — Seminar](../565-wintersemester-2025-26/philosophie-und-sozialwissenschaften-fau-scientia-12199890.md) — Prof. Dr. Abbas Poya
+
+**Studiengang:** Medien-Ethik-Religion
+
+- [Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
+- [Hausarbeit zu Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Praxisfeld Medien — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -19632,13 +20749,20 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20180711-aes.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20180711-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-**Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
+**Studiengang:** Literaturstudien - intermedial und interkulturell
 
-- [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
+- [MA Medien 1. FS -Modul 1: Dimensionen des Medialen und Visuellen — Masterseminar](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md) — Jana Alina Schorn
+
+**Studiengang:** Medien-Ethik-Religion
+
+- [Dimensionen des Medialen und Visuellen — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — PD Dr. Sven Grampp (Zuständigkeit: Verantwortliche/-r)
+- [Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
+- [Hausarbeit zu Mediensysteme, Journalismus und Öffentlichkeitsarbeit — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Praxisfeld Medien — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -19696,7 +20820,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20240904.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/ma-medien-ethik-religion-fpo-m-e-r-20240904.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -19711,6 +20835,11 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 - [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
 - [BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Elham Daniela Mazloum
 - [Queere Theologie für (digitale) Medien und Schule — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne, Prof. Dr. Peter Bubmann
+
+**Studiengang:** Medien-Ethik-Religion
+
+- [Grundlagen im Schwerpunkt Religion (Islam und Medien): Grundzüge des Islam — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Abbas Poya (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen: Medienethik — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Florian Höhne (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -19880,12 +21009,11 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/pro-20ma-medien-ethik-relig.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/pro-20ma-medien-ethik-relig.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **17**
+Vorgeschlagene Pflichtveranstaltungen: **16**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Islamische Seelsorge in Theorie und Praxis — Workshop — Prof. Dr. Tarek Badawia
-- Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Grundfragen der theologischen Ethik — Vorlesung mit Übung
 
 **Studiengang:** - Geologie und Geografie (FAU Scientia)  -
@@ -19994,7 +21122,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-medien-ethik-relig-aug2015.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/pro-ma-medien-ethik-relig-aug2015.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **16**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -20009,6 +21137,20 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [Islam, Christentum und (Medien-) Öffentlichkeiten — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Florian Höhne, Prof. Dr. Abbas Poya
 - [BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion — Seminar](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Elham Daniela Mazloum
 - [BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Gholam Reza Hajatpour
+
+**Studiengang:** Medien-Ethik-Religion
+
+- [Grundlagen im Schwerpunkt Religion (Islam und Medien): Grundzüge des Islam — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md) — Prof. Dr. Abbas Poya (Zuständigkeit: Verantwortliche/-r)
+- [Theologische Grundlagen (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Religion und Medien (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Religion und Medien I (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Grundzüge der Theologie für Nicht-Theologen (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Theologische Grundlagen I (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Theologische Grundlagen II (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Theologische Grundlagen III (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Vertiefung Theologie (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Religion und Medien I (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
+- [Theologische Grundlagen (Islam und Medien) — ](../565-wintersemester-2025-26/medien-ethik-religion-17234.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -20289,7 +21431,7 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/stpo-evangelische-theologie-neu.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/stpo-evangelische-theologie-neu.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **21**
+Vorgeschlagene Pflichtveranstaltungen: **28**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -20332,6 +21474,22 @@ Vorgeschlagene Pflichtveranstaltungen: **21**
 **Studiengang:** LV mit Nachhaltigkeitsbezug, Philosophische Fakultät und Fachbereich Theologie
 
 - [Einführung in die Didaktik der romanischen Sprachen — Übungsseminar](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-philosophische-fakultaet-und-fachbereich-theologie-17586.md) — Pia Reimann
+
+**Studiengang:** Literaturstudien - intermedial und interkulturell
+
+- [Interdisziplinäres Basismodul zur Einführung in den Theoriekomplex Literatur/Kultur/Medien — ](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [Interdisziplinäres Basismodul zur konkreten Analyse von Medialität und Kulturalität — ](../565-wintersemester-2025-26/literaturstudien-intermedial-und-interkulturell-17193.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Annette Gilbert (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literaturstudien – medial und transkulturell
+
+- [Interdisziplinäres Basismodul zur Einführung in den Theoriekomplex Literatur/Kultur/Medien — ](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Annette Gilbert (Zuständigkeit: Verantwortliche/-r)
+- [Interdisziplinäres Basismodul zur konkreten Analyse von Medialität und Kulturalität — ](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Annette Gilbert (Zuständigkeit: Verantwortliche/-r)
+- [Interdisziplinäres Basismodul zur Einführung in den Theoriekomplex Literatur/Kultur/Medien — ](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md)
+- [Interdisziplinäres Basismodul zur konkreten Analyse von Medialität und Kulturalität — ](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md)
+
+**Studiengang:** Romanistik
+
+- [Interdisziplinäres Basismodul zur Einführung in den Theoriekomplex Literatur/Kultur/Medien — ](../565-wintersemester-2025-26/romanistik-17208.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -20458,7 +21616,7 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/theologie/zwischenpruefungso.md`](../pruefungsordnungen/philosophische-fakultaet/theologie/zwischenpruefungso.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -20472,6 +21630,16 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 - [MA 2. FS: [Modul Semitische Sprachwissenschaft] Masterseminar — Seminar](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md) — Prof. Dr. Lutz Edzard
 - [MA 2. FS: [Modul Semitische Sprachwissenschaft] Vorlesung — Vorlesung](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md) — Prof. Dr. Lutz Edzard
+
+**Studiengang:** Lateinische Philologie
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -21110,7 +22278,7 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/zwischenpruefungso.md`](../pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/zwischenpruefungso.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21124,6 +22292,16 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 - [MA 2. FS: [Modul Semitische Sprachwissenschaft] Masterseminar — Seminar](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md) — Prof. Dr. Lutz Edzard
 - [MA 2. FS: [Modul Semitische Sprachwissenschaft] Vorlesung — Vorlesung](../589-sommersemester-2026/alte-welt-und-asiatische-kulturen-fau-scientia-13838503.md) — Prof. Dr. Lutz Edzard
+
+**Studiengang:** Lateinische Philologie
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -21141,13 +22319,20 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/11aes-2fach-ba-politikwissenschaft.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/11aes-2fach-ba-politikwissenschaft.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Frühstudium -
 
 - [Grundlagen der internationalen Politik I: Geschichte und Theorien der Internationalen Beziehungen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Johannes Jüde
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul Politische Systeme I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Politische Systeme II — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Außereuropäische Regionen I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Thomas Demmelhuber (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Außereuropäische Regionen II — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Thomas Demmelhuber (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -21198,11 +22383,22 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-english-and-american-studies-20250930.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-english-and-american-studies-20250930.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **9**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Readings in North American Cultural Studies — Masterseminar — Dr. Sarah Marak
+
+**Studiengang:** Englisch für das Lehramt
+
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -21216,15 +22412,80 @@ _Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zug
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-fpo-ba-skand-20071004-idf-20190520.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-fpo-ba-skand-20071004-idf-20190520.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **53**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Übung: Einführung in die Planung und Analyse des Geschichtsunterrichts in RS und Gym — Vorlesung mit Übung — Dr. Mona Kilau
+**Studiengang:** Deutsch
 
-**Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 
-- [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+**Studiengang:** Germanistik
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 1 — Seminar](../565-wintersemester-2025-26/skandinavistik-17170.md) — Thomas Krümpel
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Nordische Kulturgeschichte 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Erstsprache 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [BM Literaturgeschichte 2 / Literaturwissenschaft 3: Kanonkurs. Aufklärung — Übung](../565-wintersemester-2025-26/skandinavistik-17170.md) — Maja Ploch
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 2 — Einführungskurs](../589-sommersemester-2026/skandinavistik-18247.md) — Thomas Krümpel
+- [Nordische Erstsprache 1 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [BM Literaturgeschichte 2/Literaturwissenschaft 3: Kanontexte. Romantik/Poetischer Realismus — Übung](../589-sommersemester-2026/skandinavistik-18247.md) — Maja Ploch
 
 #### Auszüge aus dem PO-Text
 
@@ -21265,15 +22526,80 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-fpo-ba-skand-20071004-idf-20211201.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-fpo-ba-skand-20071004-idf-20211201.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **53**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Übung: Einführung in die Planung und Analyse des Geschichtsunterrichts in RS und Gym — Vorlesung mit Übung — Dr. Mona Kilau
+**Studiengang:** Deutsch
 
-**Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 
-- [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+**Studiengang:** Germanistik
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 1 — Seminar](../565-wintersemester-2025-26/skandinavistik-17170.md) — Thomas Krümpel
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Nordische Kulturgeschichte 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Erstsprache 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [BM Literaturgeschichte 2 / Literaturwissenschaft 3: Kanonkurs. Aufklärung — Übung](../565-wintersemester-2025-26/skandinavistik-17170.md) — Maja Ploch
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 2 — Einführungskurs](../589-sommersemester-2026/skandinavistik-18247.md) — Thomas Krümpel
+- [Nordische Erstsprache 1 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [BM Literaturgeschichte 2/Literaturwissenschaft 3: Kanontexte. Romantik/Poetischer Realismus — Übung](../589-sommersemester-2026/skandinavistik-18247.md) — Maja Ploch
 
 #### Auszüge aus dem PO-Text
 
@@ -21311,13 +22637,40 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-fpo-ba-skand-20250731.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-fpo-ba-skand-20250731.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **19**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-**Studiengang:** - Frühstudium -
+**Studiengang:** Germanistik
 
-- [Grundlagen der internationalen Politik I: Geschichte und Theorien der Internationalen Beziehungen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Johannes Jüde
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 1 — Seminar](../565-wintersemester-2025-26/skandinavistik-17170.md) — Thomas Krümpel
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Nordische Kulturgeschichte 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Erstsprache 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [BM Literaturgeschichte 1: Skandinavische Literaturgeschichte — Seminar](../565-wintersemester-2025-26/skandinavistik-17170.md) — Maja Ploch
+- [BM Literaturgeschichte 2 / Literaturwissenschaft 3: Kanonkurs. Aufklärung — Übung](../565-wintersemester-2025-26/skandinavistik-17170.md) — Maja Ploch
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 2 — Einführungskurs](../589-sommersemester-2026/skandinavistik-18247.md) — Thomas Krümpel
+- [Nordische Erstsprache 1 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Literaturgeschichte 1 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturgeschichte 2 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [BM Literaturgeschichte 2/Literaturwissenschaft 3: Kanontexte. Romantik/Poetischer Realismus — Übung](../589-sommersemester-2026/skandinavistik-18247.md) — Maja Ploch
 
 #### Auszüge aus dem PO-Text
 
@@ -21353,7 +22706,7 @@ mit der Kultur Nordeuropas. *im Rahmen des Zwei-Fach-Bachelorstudien …
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-frankoromanistik-20210624-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-frankoromanistik-20210624-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21363,6 +22716,24 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 - [Traduction version niveau avancé (F - A)  Examenskurs — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Dr. Corina Petersilka
 - [Vertiefungskurs B2 Communication orale — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Frankoromanistik
+
+- [Basismodul Französische Sprachwissenschaft — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [Traduction version  (F - A) — Übung](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Tanja Bollow, Dr. Corina Petersilka
+- [Traduction version (Version) — ](../565-wintersemester-2025-26/frankoromanistik-17182.md)
+
+**Studiengang:** Frankoromanistik
+
+- [Communication orale et civilisation — Übung](../589-sommersemester-2026/frankoromanistik-18259.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Französisch
+
+- [Basismodul Französische Sprachwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -21399,7 +22770,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-frankoromanistik-fpo-ba-frankorom-20071004-idf-20210624.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-frankoromanistik-fpo-ba-frankorom-20071004-idf-20210624.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21409,6 +22780,24 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 - [Traduction version niveau avancé (F - A)  Examenskurs — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Dr. Corina Petersilka
 - [Vertiefungskurs B2 Communication orale — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Frankoromanistik
+
+- [Basismodul Französische Sprachwissenschaft — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [Traduction version  (F - A) — Übung](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Tanja Bollow, Dr. Corina Petersilka
+- [Traduction version (Version) — ](../565-wintersemester-2025-26/frankoromanistik-17182.md)
+
+**Studiengang:** Frankoromanistik
+
+- [Communication orale et civilisation — Übung](../589-sommersemester-2026/frankoromanistik-18259.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Französisch
+
+- [Basismodul Französische Sprachwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -21447,7 +22836,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20071004-idf-20220914.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20071004-idf-20220914.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **13**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21476,6 +22865,11 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 - [Übung Grundlagen der Computerlinguistik 2 — Übung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 - [Vorlesung Grundlagen der Computerlinguistik 2 — Vorlesung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 
+**Studiengang:** Germanistik
+
+- [Ling BM-2: Geschichte der deutschen Sprache (Erlangen, geöffnet für alle Studiengänge) — Kurs](../589-sommersemester-2026/germanistik-18227.md) — Dr. Christine Ganslmayer
+- [Ling BM-2: Geschichte der deutschen Sprache (Nürnberg, geöffnet für alle Studiengänge) — Kurs](../589-sommersemester-2026/germanistik-18227.md) — Dr. Christine Ganslmayer
+
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
 - [Einführung in die Didaktik des Deutschen als Zweitsprache — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-naturwissenschaftlichen-fakultaet-17983.md) — Prof. Dr. Magdalena Michalak
@@ -21500,7 +22894,7 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20260115.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-ba-germ-20260115.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **22**
+Vorgeschlagene Pflichtveranstaltungen: **24**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21548,6 +22942,11 @@ Vorgeschlagene Pflichtveranstaltungen: **22**
 
 - [Übung Grundlagen der Computerlinguistik 2 — Übung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 - [Vorlesung Grundlagen der Computerlinguistik 2 — Vorlesung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
+
+**Studiengang:** Germanistik
+
+- [Ling BM-2: Geschichte der deutschen Sprache (Erlangen, geöffnet für alle Studiengänge) — Kurs](../589-sommersemester-2026/germanistik-18227.md) — Dr. Christine Ganslmayer
+- [Ling BM-2: Geschichte der deutschen Sprache (Nürnberg, geöffnet für alle Studiengänge) — Kurs](../589-sommersemester-2026/germanistik-18227.md) — Dr. Christine Ganslmayer
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -21658,7 +23057,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-germanistik-zwei-fach-20190708-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-germanistik-zwei-fach-20190708-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21666,6 +23065,21 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 - [Übung Grundlagen der Computerlinguistik 2 — Übung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 - [Vorlesung Grundlagen der Computerlinguistik 2 — Vorlesung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
+
+**Studiengang:** Deutsch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Germanistik
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -21686,7 +23100,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-germanistik-zwei-fach-20220914-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-germanistik-fpo-germanistik-zwei-fach-20220914-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **24**
+Vorgeschlagene Pflichtveranstaltungen: **26**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21735,6 +23149,11 @@ Vorgeschlagene Pflichtveranstaltungen: **24**
 - [Übung Grundlagen der Computerlinguistik 2 — Übung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 - [Vorlesung Grundlagen der Computerlinguistik 2 — Vorlesung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 
+**Studiengang:** Germanistik
+
+- [Ling BM-2: Geschichte der deutschen Sprache (Erlangen, geöffnet für alle Studiengänge) — Kurs](../589-sommersemester-2026/germanistik-18227.md) — Dr. Christine Ganslmayer
+- [Ling BM-2: Geschichte der deutschen Sprache (Nürnberg, geöffnet für alle Studiengänge) — Kurs](../589-sommersemester-2026/germanistik-18227.md) — Dr. Christine Ganslmayer
+
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
 - [Einführung in die Gestaltung wissenschaftlicher Texte mit LaTeX — Einführungskurs](../565-wintersemester-2025-26/veranstaltungen-aus-der-naturwissenschaftlichen-fakultaet-17336.md) — Prof. Dr. Ulrich Katz, Prof. Dr. Claudio Kopper
@@ -21769,11 +23188,207 @@ Vorgeschlagene Pflichtveranstaltungen: **24**
 
 ---
 
+### 2-Fach-BA Iberoromanistik 20210624 ÄS.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-iberoromanistik-20210624-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-iberoromanistik-20210624-aes.md)  
+Pflicht-Stellen gefunden: **4**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Iberoromanistik
+
+- [Basismodul Spanische Sprachwissenschaft — ](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Spanische Literaturwissenschaft — ](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Spanisch
+
+- [Basismodul Spanische Sprachwissenschaft — ](../565-wintersemester-2025-26/spanisch-17185.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Spanische Literaturwissenschaft — ](../565-wintersemester-2025-26/spanisch-17185.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**„ § 3a Empfohlene Grundkenntnisse** _(paragraph)_
+
+- aa) Nach dem Wort „Pflichtmodule: Spanische Sprachpraxis“ werden die Ziffern und das Zeichen „1-5“ durch die Ziffern und das Wort „1 bis 6“ ersetzt.
+
+**„ Anlage 1: Iberoromanistik als Erstfach** _(paragraph)_
+
+|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS||Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro||Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||SWS||||||||||||
+|||||||||Semester in ECTS-Punkten1|||||||
+||||||||||||||||
+|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
+|**Erstfach: Iberoromanistik(vgl.§ 4 Abs. 2)**|||||||||||||||
+|**Pflichtcurriculum **|||||||||||||||
+|**Spanische Sprachpraxis 1**|Aufbaukurs Spanisch I<br>(Español intermedio I)||4|||10|5||||||Klausur (90’) (70 %) und<br>mündliche Prüfung (15ʼ) (30 %)|1|
+||Praktische Phonetik<br>(Fonética práctica)||2||||2||||||||
+||Einführung in die Kultur Spaniens<br>(Introducciónala cultura española)||2||||3||||||||
+|**Spanische  …
+
+**„ Anlage 1: Iberoromanistik als Erstfach** _(paragraph)_
+
+- **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** .
+
+**„ Anlage 2: Iberoromanistik als Zweitfach** _(paragraph)_
+
+> **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** .
+
+---
+
+### 2-Fach-BA Iberoromanistik FPO BA Iberorom 20071004 i.d.F. 20210624.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-iberoromanistik-fpo-ba-iberorom-20071004-idf-20210624.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-iberoromanistik-fpo-ba-iberorom-20071004-idf-20210624.md)  
+Pflicht-Stellen gefunden: **5**  
+Vorgeschlagene Pflichtveranstaltungen: **4**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Iberoromanistik
+
+- [Basismodul Spanische Sprachwissenschaft — ](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Spanische Literaturwissenschaft — ](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Spanisch
+
+- [Basismodul Spanische Sprachwissenschaft — ](../565-wintersemester-2025-26/spanisch-17185.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Spanische Literaturwissenschaft — ](../565-wintersemester-2025-26/spanisch-17185.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+(1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert:
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+1. Pflichtmodule: Spanische Sprachpraxis 1 bis 6; Basismodule Spanische Sprachwissenschaft und Spanische Literaturwissenschaft; Aufbaumodule Spanische
+
+**Anlage 1: Iberoromanistik als Erstfach** _(paragraph)_
+
+|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS||Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro||Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||SWS||||||||||||
+|||||||||Semester in ECTS-Punkten1|||||||
+||||||||||||||||
+|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
+|**Erstfach: Iberoromanistik(vgl.§ 4 Abs. 2)**|||||||||||||||
+|**Pflichtcurriculum **|||||||||||||||
+|**Spanische Sprachpraxis 1**|Aufbaukurs Spanisch I<br>(Español intermedio I)||4|||10|5||||||Klausur (90’) (70 %) und<br>mündliche Prüfung (15ʼ) (30 %)|1|
+||Praktische Phonetik<br>(Fonética práctica)||2||||2||||||||
+||Einführung in die Kultur Spaniens<br>(Introducciónala cultura española)||2||||3||||||||
+|**Spanische  …
+
+**Anlage 1: Iberoromanistik als Erstfach** _(paragraph)_
+
+- **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** .
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
+
+---
+
+### 2-Fach-BA Italoromanistik 20210624 ÄS.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-italoromanistik-20210624-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-italoromanistik-20210624-aes.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **10**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Italienisch
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italienisch-17160.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachwissenschaft — ](../565-wintersemester-2025-26/italienisch-17160.md) — Prof. Dr. Ludwig Fesenmeier (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Literaturwissenschaft — ](../565-wintersemester-2025-26/italienisch-17160.md) — Prof. Dr. Christian Rivoletti (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md)
+- [Basismodul Italienische Sprachwissenschaft — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Prof. Dr. Ludwig Fesenmeier (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Literaturwissenschaft — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Prof. Dr. Christian Rivoletti (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Tecniche di lettura — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+- [Fonetica pratica — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+
+**Studiengang:** Romanistik
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**„ § 3a Empfohlene Grundkenntnisse** _(paragraph)_
+
+- aa) Nach dem Wort „Pflichtmodule“ werden das Zeichen, die Worte und die Ziffern „Italienische Sprachpraxis 1-5“ durch die Worte und Ziffern „Basismodule Italienische Sprachpraxis 1 und 2; Aufbaumodule Italienische Sprachpraxis 1 und 2; Vertiefungsmodule Italienische Sprachpraxis 1 und 2“ ersetzt.
+
+**„ Anlage 1: Italoromanistik als Erstfach** _(paragraph)_
+
+- **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** .
+
+**„ Anlage 2: Italoromanistik als Zweitfach** _(paragraph)_
+
+- **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** .
+
+---
+
+### 2-Fach-BA Italoromanistik FPO BA Italorom 20071004 i.d.F. 20210624.pdf
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-italoromanistik-fpo-ba-italorom-20071004-idf-20210624.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-italoromanistik-fpo-ba-italorom-20071004-idf-20210624.md)  
+Pflicht-Stellen gefunden: **4**  
+Vorgeschlagene Pflichtveranstaltungen: **10**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Italienisch
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italienisch-17160.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachwissenschaft — ](../565-wintersemester-2025-26/italienisch-17160.md) — Prof. Dr. Ludwig Fesenmeier (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Literaturwissenschaft — ](../565-wintersemester-2025-26/italienisch-17160.md) — Prof. Dr. Christian Rivoletti (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md)
+- [Basismodul Italienische Sprachwissenschaft — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Prof. Dr. Ludwig Fesenmeier (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Literaturwissenschaft — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Prof. Dr. Christian Rivoletti (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Tecniche di lettura — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+- [Fonetica pratica — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+
+**Studiengang:** Romanistik
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+(1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert, in denen folgende Qualifikationen erworben werden:
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+1. Pflichtmodule: Basismodule Italienische Sprachpraxis 1 und 2; Aufbaumodule Italienische Sprachpraxis 1 und 2; Vertiefungsmodule Italienische Sprachpraxis 1 und 2; Basismodule Italienische Sprachwissenschaft und Italienische Litera-
+
+**Anlage 1: Italoromanistik als Erstfach** _(paragraph)_
+
+- **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** .
+
+**Anlage 2: Italoromanistik als Zweitfach** _(paragraph)_
+
+> **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** .
+
+---
+
 ### 2-Fach-BA Kunstgeschichte FPO BA KuGe 20071005 i.d.F. 20200813.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-kunstgeschichte-fpo-ba-kuge-20071005-idf-20200813.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-kunstgeschichte-fpo-ba-kuge-20071005-idf-20200813.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **18**
+Vorgeschlagene Pflichtveranstaltungen: **25**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21801,6 +23416,16 @@ Vorgeschlagene Pflichtveranstaltungen: **18**
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
 - [Einführung in die Geschichte und Religionsgeschichte Israels — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Henrik Pfeiffer
+
+**Studiengang:** Lateinische Philologie
+
+- [Grundlagen der Graphischen Künste — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der angewandten Künste — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Digitales Lernen und Lehren — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Denkmalpflege — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Kunstgeschichte Italiens I — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — PD Dr. Anna Frasca-Rath (Zuständigkeit: Verantwortliche/-r)
+- [Kunstgeschichte Italiens II — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — PD Dr. Anna Frasca-Rath (Zuständigkeit: Verantwortliche/-r)
+- [Berufsorientierung Kunstgeschichte — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -21852,7 +23477,7 @@ Vorgeschlagene Pflichtveranstaltungen: **18**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-kunstgeschichte-fpo-ba-kuge-20071005-idf-20230323.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-kunstgeschichte-fpo-ba-kuge-20071005-idf-20230323.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **20**
+Vorgeschlagene Pflichtveranstaltungen: **24**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21880,6 +23505,13 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
 - [Einführung in die Geschichte und Religionsgeschichte Israels — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Henrik Pfeiffer
+
+**Studiengang:** Lateinische Philologie
+
+- [Grundlagen der Graphischen Künste — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der angewandten Künste — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Digitales Lernen und Lehren — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Denkmalpflege — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -21937,7 +23569,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-kunstgeschichte-fpo-ba-kuge-20200813-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-kunstgeschichte-fpo-ba-kuge-20200813-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **18**
+Vorgeschlagene Pflichtveranstaltungen: **25**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -21965,6 +23597,16 @@ Vorgeschlagene Pflichtveranstaltungen: **18**
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
 - [Einführung in die Geschichte und Religionsgeschichte Israels — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Henrik Pfeiffer
+
+**Studiengang:** Lateinische Philologie
+
+- [Grundlagen der Graphischen Künste — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der angewandten Künste — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Digitales Lernen und Lehren — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Denkmalpflege — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Kunstgeschichte Italiens I — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — PD Dr. Anna Frasca-Rath (Zuständigkeit: Verantwortliche/-r)
+- [Kunstgeschichte Italiens II — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — PD Dr. Anna Frasca-Rath (Zuständigkeit: Verantwortliche/-r)
+- [Berufsorientierung Kunstgeschichte — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -22016,7 +23658,7 @@ Vorgeschlagene Pflichtveranstaltungen: **18**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-kunstgeschichte-fpo-ba-kuge-20230323-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-kunstgeschichte-fpo-ba-kuge-20230323-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **20**
+Vorgeschlagene Pflichtveranstaltungen: **24**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -22044,6 +23686,13 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 **Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
 
 - [Einführung in die Geschichte und Religionsgeschichte Israels — Vorlesung](../589-sommersemester-2026/religionswissenschaften-und-theologie-fau-scientia-13838755.md) — Prof. Dr. Henrik Pfeiffer
+
+**Studiengang:** Lateinische Philologie
+
+- [Grundlagen der Graphischen Künste — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der angewandten Künste — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Digitales Lernen und Lehren — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Denkmalpflege — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Bettina Keller (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -22099,13 +23748,23 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-lateinische-philologie-20260305.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-lateinische-philologie-20260305.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Alte Welt und asiatische Kulturen (FAU Scientia)  -
 
 - [Einführung in die Lateinische Philologie — Übung](../565-wintersemester-2025-26/alte-welt-und-asiatische-kulturen-fau-scientia-12199371.md) — Dr. Jochen Schultheiß
+
+**Studiengang:** Lateinische Philologie
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -22156,13 +23815,40 @@ Rhetorische und mediale Kompet …
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-mittel-und-neulatein-fpo-mittellatein-zwei-fach-20071005-idf-20190614.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-mittel-und-neulatein-fpo-mittellatein-zwei-fach-20071005-idf-20190614.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Alte Welt und asiatische Kulturen (FAU Scientia)  -
 
 - [Einführung in die Lateinische Philologie — Übung](../565-wintersemester-2025-26/alte-welt-und-asiatische-kulturen-fau-scientia-12199371.md) — Dr. Jochen Schultheiß
+
+**Studiengang:** Lateinische Philologie
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literaturstudien – medial und transkulturell
+
+- [Epochen lateinischer Literatur: Die Spätantike [Übung Übersetzung ausgewählter Texte] — Übung](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md) — Dr. Stefan Weber
+
+**Studiengang:** Literaturstudien – medial und transkulturell
+
+- [Epochen lateinischer Literatur: Das Hochmittelalter (1050-1250) [Vorlesung oder Übung Übersetzung ausgewählter Texte] — Übung](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md) — Dr. Stefan Weber
+
+**Studiengang:** Mittellatein und Neulatein
+
+- [Ovid im Mittelalter [Proseminar Das Klassische Erbe] — Proseminar](../565-wintersemester-2025-26/mittellatein-und-neulatein-17158.md) — Dr. Stefan Weber
+- [Einführung in die lateinische Metrik und Rhythmik II [Übung oder Vorlesung Das Klassische Erbe] — Übung](../565-wintersemester-2025-26/mittellatein-und-neulatein-17158.md) — Dr. Stefan Weber
+
+**Studiengang:** Mittellatein und Neulatein
+
+- [Carmina Burana, Engel auf Nadelspitzen, Teufel auf Salatköpfen und mehr - Lektüre mittelalterlicher lateinischer Texte (auch für angehende Lehrkräfte) [Übung Übersetzung ausgewählter Texte] — Übung](../589-sommersemester-2026/mittellatein-und-neulatein-18324.md) — Dr. Stefan Weber
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -22184,13 +23870,35 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-mittel-und-neulatein-fpo-mittellatein-zwei-fach-20190614-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-mittel-und-neulatein-fpo-mittellatein-zwei-fach-20190614-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **9**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Alte Welt und asiatische Kulturen (FAU Scientia)  -
 
 - [Einführung in die Lateinische Philologie — Übung](../565-wintersemester-2025-26/alte-welt-und-asiatische-kulturen-fau-scientia-12199371.md) — Dr. Jochen Schultheiß
+
+**Studiengang:** Lateinische Philologie
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literaturstudien – medial und transkulturell
+
+- [Epochen lateinischer Literatur: Die Spätantike [Übung Übersetzung ausgewählter Texte] — Übung](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md) — Dr. Stefan Weber
+
+**Studiengang:** Literaturstudien – medial und transkulturell
+
+- [Epochen lateinischer Literatur: Das Hochmittelalter (1050-1250) [Vorlesung oder Übung Übersetzung ausgewählter Texte] — Übung](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md) — Dr. Stefan Weber
+
+**Studiengang:** Mittellatein und Neulatein
+
+- [Carmina Burana, Engel auf Nadelspitzen, Teufel auf Salatköpfen und mehr - Lektüre mittelalterlicher lateinischer Texte (auch für angehende Lehrkräfte) [Übung Übersetzung ausgewählter Texte] — Übung](../589-sommersemester-2026/mittellatein-und-neulatein-18324.md) — Dr. Stefan Weber
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -22212,13 +23920,40 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-mittel-und-neulatein-fpo-mittellatein-zwei-fach-20240430.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-mittel-und-neulatein-fpo-mittellatein-zwei-fach-20240430.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Alte Welt und asiatische Kulturen (FAU Scientia)  -
 
 - [Einführung in die Lateinische Philologie — Übung](../565-wintersemester-2025-26/alte-welt-und-asiatische-kulturen-fau-scientia-12199371.md) — Dr. Jochen Schultheiß
+
+**Studiengang:** Lateinische Philologie
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literaturstudien – medial und transkulturell
+
+- [Epochen lateinischer Literatur: Die Spätantike [Übung Übersetzung ausgewählter Texte] — Übung](../565-wintersemester-2025-26/literaturstudien-medial-und-transkulturell-17197.md) — Dr. Stefan Weber
+
+**Studiengang:** Literaturstudien – medial und transkulturell
+
+- [Epochen lateinischer Literatur: Das Hochmittelalter (1050-1250) [Vorlesung oder Übung Übersetzung ausgewählter Texte] — Übung](../589-sommersemester-2026/literaturstudien-medial-und-transkulturell-18252.md) — Dr. Stefan Weber
+
+**Studiengang:** Mittellatein und Neulatein
+
+- [Ovid im Mittelalter [Proseminar Das Klassische Erbe] — Proseminar](../565-wintersemester-2025-26/mittellatein-und-neulatein-17158.md) — Dr. Stefan Weber
+- [Einführung in die lateinische Metrik und Rhythmik II [Übung oder Vorlesung Das Klassische Erbe] — Übung](../565-wintersemester-2025-26/mittellatein-und-neulatein-17158.md) — Dr. Stefan Weber
+
+**Studiengang:** Mittellatein und Neulatein
+
+- [Carmina Burana, Engel auf Nadelspitzen, Teufel auf Salatköpfen und mehr - Lektüre mittelalterlicher lateinischer Texte (auch für angehende Lehrkräfte) [Übung Übersetzung ausgewählter Texte] — Übung](../589-sommersemester-2026/mittellatein-und-neulatein-18324.md) — Dr. Stefan Weber
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul 1: Einführung in die Sprache und Literatur des lateinischen Europas — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul 2: Einführung in die lateinische Schrift (Paläographie) — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Stefan Weber (Zuständigkeit: Verantwortliche/-r) Dennis Weber (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Michele Ferrari (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
@@ -22272,13 +24007,20 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-politikwissenschaft-20071005-idf-20210122.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-politikwissenschaft-20071005-idf-20210122.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Frühstudium -
 
 - [Grundlagen der internationalen Politik I: Geschichte und Theorien der Internationalen Beziehungen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Johannes Jüde
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul Politische Systeme I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Politische Systeme II — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Außereuropäische Regionen I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Thomas Demmelhuber (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Außereuropäische Regionen II — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Thomas Demmelhuber (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -22313,13 +24055,18 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-politikwissenschaft-20260305.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-politikwissenschaft-20260305.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **10**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Frühstudium -
 
 - [Grundlagen der internationalen Politik I: Geschichte und Theorien der Internationalen Beziehungen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Johannes Jüde
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul Politische Systeme I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Politische Systeme II — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -22382,13 +24129,20 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-politikwissenschaft-fpo-b-a-politik-20210122-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-politikwissenschaft-fpo-b-a-politik-20210122-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Frühstudium -
 
 - [Grundlagen der internationalen Politik I: Geschichte und Theorien der Internationalen Beziehungen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Johannes Jüde
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul Politische Systeme I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Politische Systeme II — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Außereuropäische Regionen I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Thomas Demmelhuber (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Außereuropäische Regionen II — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Thomas Demmelhuber (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -22419,15 +24173,80 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-skandinavistik-fpo-ba-skand-20190520-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-skandinavistik-fpo-ba-skand-20190520-aes.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **53**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Übung: Einführung in die Planung und Analyse des Geschichtsunterrichts in RS und Gym — Vorlesung mit Übung — Dr. Mona Kilau
+**Studiengang:** Deutsch
 
-**Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 
-- [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+**Studiengang:** Germanistik
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 1 — Seminar](../565-wintersemester-2025-26/skandinavistik-17170.md) — Thomas Krümpel
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Nordische Kulturgeschichte 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Erstsprache 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [BM Literaturgeschichte 2 / Literaturwissenschaft 3: Kanonkurs. Aufklärung — Übung](../565-wintersemester-2025-26/skandinavistik-17170.md) — Maja Ploch
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 2 — Einführungskurs](../589-sommersemester-2026/skandinavistik-18247.md) — Thomas Krümpel
+- [Nordische Erstsprache 1 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [BM Literaturgeschichte 2/Literaturwissenschaft 3: Kanontexte. Romantik/Poetischer Realismus — Übung](../589-sommersemester-2026/skandinavistik-18247.md) — Maja Ploch
 
 #### Auszüge aus dem PO-Text
 
@@ -22464,15 +24283,80 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-skandinavistik-fpo-ba-skand-20211201-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-skandinavistik-fpo-ba-skand-20211201-aes.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **53**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Übung: Einführung in die Planung und Analyse des Geschichtsunterrichts in RS und Gym — Vorlesung mit Übung — Dr. Mona Kilau
+**Studiengang:** Deutsch
 
-**Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, MS/GS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/deutsch-17139.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
 
-- [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+**Studiengang:** Germanistik
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM-2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/germanistik-17138.md)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Neueren deutschen Literaturwissenschaft 2 (NdL BM 2) — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r) apl. Prof. Dr. Gunnar Och (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 1 — Seminar](../565-wintersemester-2025-26/skandinavistik-17170.md) — Thomas Krümpel
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Nordische Kulturgeschichte 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Erstsprache 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Literaturwissenschaft 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [BM Literaturgeschichte 2 / Literaturwissenschaft 3: Kanonkurs. Aufklärung — Übung](../565-wintersemester-2025-26/skandinavistik-17170.md) — Maja Ploch
+- [Literaturwissenschaft 3 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 2 — Einführungskurs](../589-sommersemester-2026/skandinavistik-18247.md) — Thomas Krümpel
+- [Nordische Erstsprache 1 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [BM Literaturgeschichte 2/Literaturwissenschaft 3: Kanontexte. Romantik/Poetischer Realismus — Übung](../589-sommersemester-2026/skandinavistik-18247.md) — Maja Ploch
 
 #### Auszüge aus dem PO-Text
 
@@ -22512,11 +24396,10 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20190806.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20190806.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
 
@@ -22575,11 +24458,10 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20200818.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20071005-idf-20200818.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
 
@@ -22637,11 +24519,10 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20190806-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20190806-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
 
@@ -22699,11 +24580,10 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20200818-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20200818-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
 
@@ -22761,11 +24641,10 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20230822.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-soziologie-fposoz-zwei-fach-20230822.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Soziologische Theorie (B) — Seminar — Dr. Ronald Staples
 - Tech Worker in arbeitssoziologischer Perspektive — Seminar — Dr. Alexander Ziegler
 
@@ -22821,13 +24700,20 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-theater-und-medienwissenschaft-fpo-b-a-theatermedien-20071004-idf-20190815.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-theater-und-medienwissenschaft-fpo-b-a-theatermedien-20071004-idf-20190815.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Medien-, Theater- und Kulturwissenschaft (FAU Scientia)  -
 
 - [BA 1. FS: Vorlesung »Einführung in die Theater- und Medienwissenschaft« — Vorlesung](../565-wintersemester-2025-26/medien-theater-und-kulturwissenschaft-fau-scientia-12199158.md) — PD Dr. Sven Grampp
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Thematisches Modul Medienwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — PD Dr. Sven Grampp (Zuständigkeit: Verantwortliche/-r)
+- [Thematisches Modul Theaterwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Hans-Friedrich Bormann (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Medienwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — PD Dr. Sven Grampp (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Theaterwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Hans-Friedrich Bormann (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -22849,13 +24735,20 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-theater-und-medienwissenschaft-fpo-b-a-theatermedien-20071004-idf-20220512.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-theater-und-medienwissenschaft-fpo-b-a-theatermedien-20071004-idf-20220512.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Medien-, Theater- und Kulturwissenschaft (FAU Scientia)  -
 
 - [BA 1. FS: Vorlesung »Einführung in die Theater- und Medienwissenschaft« — Vorlesung](../565-wintersemester-2025-26/medien-theater-und-kulturwissenschaft-fau-scientia-12199158.md) — PD Dr. Sven Grampp
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Thematisches Modul Medienwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — PD Dr. Sven Grampp (Zuständigkeit: Verantwortliche/-r)
+- [Thematisches Modul Theaterwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Hans-Friedrich Bormann (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Medienwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — PD Dr. Sven Grampp (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Theaterwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Hans-Friedrich Bormann (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -22877,13 +24770,20 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-theater-und-medienwissenschaft-fpo-b-a-theatermedien-20190815-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2-fach-ba-theater-und-medienwissenschaft-fpo-b-a-theatermedien-20190815-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Medien-, Theater- und Kulturwissenschaft (FAU Scientia)  -
 
 - [BA 1. FS: Vorlesung »Einführung in die Theater- und Medienwissenschaft« — Vorlesung](../565-wintersemester-2025-26/medien-theater-und-kulturwissenschaft-fau-scientia-12199158.md) — PD Dr. Sven Grampp
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Thematisches Modul Medienwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — PD Dr. Sven Grampp (Zuständigkeit: Verantwortliche/-r)
+- [Thematisches Modul Theaterwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Hans-Friedrich Bormann (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Medienwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — PD Dr. Sven Grampp (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Theaterwissenschaft — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Dr. Hans-Friedrich Bormann (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -22905,17 +24805,21 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2fach-geschichte-20071004-idf-20180911.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2fach-geschichte-20071004-idf-20180911.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-**Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
 
-- [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Dr. Bernd Flessner (Zuständigkeit: Bearbeiter/-in) Dr. Katrin Götz-Votteler (Zuständigkeit: Verantwortliche/-r) Dr. Simone Hespers (Zuständigkeit: Verantwortliche/-r)
 
-**Studiengang:** - Geschichte (FAU Scientia)  -
+**Studiengang:** Modulstudien Studium Philosophicum
 
-- [Oberseminar Neueste Geschichte und Zeitgeschichte — Oberseminar](../565-wintersemester-2025-26/geschichte-fau-scientia-12199545.md) — Prof. Dr. Simone Derix
+- [Methodische Grundlagen — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Gabriel Zeilinger (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wissenschaftsreflexion & Studienerfolg
+
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — Seminar](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md) — Dr. Bernd Flessner
 
 #### Auszüge aus dem PO-Text
 
@@ -22943,17 +24847,21 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2fach-geschichte-20180911-aes.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/2fach-geschichte-20180911-aes.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **3**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-**Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
 
-- [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Dr. Bernd Flessner (Zuständigkeit: Bearbeiter/-in) Dr. Katrin Götz-Votteler (Zuständigkeit: Verantwortliche/-r) Dr. Simone Hespers (Zuständigkeit: Verantwortliche/-r)
 
-**Studiengang:** - Geschichte (FAU Scientia)  -
+**Studiengang:** Modulstudien Studium Philosophicum
 
-- [Oberseminar Neueste Geschichte und Zeitgeschichte — Oberseminar](../565-wintersemester-2025-26/geschichte-fau-scientia-12199545.md) — Prof. Dr. Simone Derix
+- [Methodische Grundlagen — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Gabriel Zeilinger (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wissenschaftsreflexion & Studienerfolg
+
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — Seminar](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md) — Dr. Bernd Flessner
 
 #### Auszüge aus dem PO-Text
 
@@ -23027,12 +24935,24 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/5aes-2fachba-20geschichte.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/5aes-2fachba-20geschichte.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Ü Einführung in die Historischen Hilfswissenschaften — Übung — Dr. Matthias Maser
 - Praxisübung I: Inschriften und Münzen als Quellen für die mittlere und späte römische Republik — Übungsseminar — Dr. Bernhard Kremer
+
+**Studiengang:** Englisch für das Lehramt
+
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul II Linguistics — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Armine Garibyan (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Peter Uhrig (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -23114,15 +25034,37 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/7aesa-2fachba-nordphilologie.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/7aesa-2fachba-nordphilologie.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **16**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Übung: Einführung in die Planung und Analyse des Geschichtsunterrichts in RS und Gym — Vorlesung mit Übung — Dr. Mona Kilau
+**Studiengang:** Germanistik
 
-**Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
 
-- [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 1 — Seminar](../565-wintersemester-2025-26/skandinavistik-17170.md) — Thomas Krümpel
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Nordische Kulturgeschichte 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Erstsprache 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 2 — Einführungskurs](../589-sommersemester-2026/skandinavistik-18247.md) — Thomas Krümpel
+- [Nordische Erstsprache 1 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -23158,7 +25100,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/8aes-2fach-ba-frankoromanistik.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/8aes-2fach-ba-frankoromanistik.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **18**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -23166,11 +25108,108 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 - [Vertiefungskurs B2 Communication orale — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Dr. Corina Petersilka, Julien Nairaince
 
+**Studiengang:** Frankoromanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Frankoromanistik
+
+- [Basisseminar französische Literaturwissenschaft — ](../589-sommersemester-2026/frankoromanistik-18259.md)
+- [Communication orale et civilisation — Übung](../589-sommersemester-2026/frankoromanistik-18259.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Französisch
+
+- [Basismodul Einführung in die Frankoromanistik — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Basisseminar französische Literaturwissenschaft A — Einführungskurs](../589-sommersemester-2026/literatur-und-buch-18236.md) — apl. Prof. Dr. Annette Keilhauer
+- [Tutorium zu Basisseminar französische Literaturwissenschaft — Tutorium](../589-sommersemester-2026/literatur-und-buch-18236.md) — apl. Prof. Dr. Annette Keilhauer
+
+**Studiengang:** Romanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
 #### Auszüge aus dem PO-Text
 
 **§ 1** _(paragraph)_
 
 1. Pflichtmodule: Französische Sprachpraxis 1-4; Einführung in die Frankoromanistik; Aufbaumodule Französische Sprachwissenschaft 1+2; Aufbaumodul Französische Literaturund Kulturwissenschaft; Bachelorarbeit
+
+---
+
+### 10. Juni 2014
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/8aes-2fach-ba-iberoromanistik.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/8aes-2fach-ba-iberoromanistik.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Iberoromanistik
+
+- [Fonética práctica — Übung](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Pedro José Martínez García, José Juan Ventura Usó
+
+**Studiengang:** Spanisch
+
+- [Basismodul Einführung in die Iberoromanistik — ](../565-wintersemester-2025-26/spanisch-17185.md)
+
+#### Auszüge aus dem PO-Text
+
+**§ 1** _(paragraph)_
+
+1. Pflichtmodule: Spanische Sprachpraxis 1-5; Einführung in die Iberoromanistik; Aufbaumodule Spanische Sprachwissenschaft 1+2; Aufbaumodul Spanische und/oder lateinamerikanische Literatur- und Kulturwissenschaft; Bachelorarbeit
+
+---
+
+### 10. Juni 2014
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/8aes-2fach-ba-italoromanistik.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/8aes-2fach-ba-italoromanistik.md)  
+Pflicht-Stellen gefunden: **1**  
+Vorgeschlagene Pflichtveranstaltungen: **10**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Italienisch
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italienisch-17160.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 2 — ](../565-wintersemester-2025-26/italienisch-17160.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Comprensione e produzione orale I — Übung](../565-wintersemester-2025-26/italoromanistik-17180.md) — Carla Ferrara, Paola Cesaroni-Meinzolt
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md)
+- [Basismodul Italienische Sprachpraxis 2 — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Tecniche di lettura — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+- [Fonetica pratica — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+
+**Studiengang:** Romanistik
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**§ 1** _(paragraph)_
+
+1. Pflichtmodule: Italienische Sprachpraxis 1-4; Einführung in die Italoromanistik; Aufbaumodule Italienische Sprachwissenschaft 1+2; Aufbaumodul Italienische Literatur- und Kulturwissenschaft; Bachelorarbeit.
 
 ---
 
@@ -23324,9 +25363,13 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-20frankorom.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-20frankorom.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Frankoromanistik
+
+- [Expression écrite I — Übung](../589-sommersemester-2026/frankoromanistik-18259.md) — Julien Nairaince, Dr. Corina Petersilka
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -23801,7 +25844,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-frankorom-10juni2014.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-frankorom-10juni2014.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **16**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -23810,6 +25853,35 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 **Studiengang:** - Sprachenzentrum  (FAU Scientia)  -
 
 - [Vertiefungskurs B2 Communication orale — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Frankoromanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Frankoromanistik
+
+- [Communication orale et civilisation — Übung](../589-sommersemester-2026/frankoromanistik-18259.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Französisch
+
+- [Basismodul Einführung in die Frankoromanistik — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Romanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -23827,7 +25899,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-frankoromjuli2017.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-frankoromjuli2017.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -23836,6 +25908,40 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 **Studiengang:** - Sprachenzentrum  (FAU Scientia)  -
 
 - [Vertiefungskurs B2 Communication orale — Übung](../565-wintersemester-2025-26/sprachenzentrum-fau-scientia-12201046.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Frankoromanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachwissenschaft — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/frankoromanistik-17182.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Frankoromanistik
+
+- [Communication orale et civilisation — Übung](../589-sommersemester-2026/frankoromanistik-18259.md) — Dr. Corina Petersilka, Julien Nairaince
+
+**Studiengang:** Französisch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Literaturwissenschaft — ](../565-wintersemester-2025-26/franzoesisch-17153.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Literatur und Buch
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/literatur-und-buch-17149.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Romanistik
+
+- [Basismodul Französische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Französische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -24124,7 +26230,7 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-geschichte-august2011.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-geschichte-august2011.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **25**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -24164,6 +26270,19 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 - [Übung Grundlagen der Computerlinguistik 2 — Übung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 - [Vorlesung Grundlagen der Computerlinguistik 2 — Vorlesung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
+
+**Studiengang:** Englisch für das Lehramt
+
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul II Linguistics — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Armine Garibyan (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Peter Uhrig (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul III Literature — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — PD Dr. Harald Zapf (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -24186,7 +26305,7 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-geschichte-februar2014.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-geschichte-februar2014.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **25**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -24227,6 +26346,19 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 - [Übung Grundlagen der Computerlinguistik 2 — Übung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 - [Vorlesung Grundlagen der Computerlinguistik 2 — Vorlesung](../589-sommersemester-2026/westliche-sprach-und-literaturwissenschaft-fau-scientia-13838303.md) — Philipp Heinrich
 
+**Studiengang:** Englisch für das Lehramt
+
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul I Language — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Ines Zwanger (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul II Linguistics — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — Dr. Armine Garibyan (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Peter Uhrig (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul III Literature — ](../565-wintersemester-2025-26/englisch-fuer-das-lehramt-17183.md) — PD Dr. Harald Zapf (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Lateinische Wortbildung und ihre indogermanischen Grundlagen — Mittelseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Prof. Dr. Stefan Schaffner
@@ -24241,6 +26373,159 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **§ 4 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
 
 (6)[1] Im Wahlpflichtmodul sind verpflichtend eine Übung des Typs Epochenübergreifende Lektüreübung sowie eine Übung des Typs Übung Wahlpflicht im Umfang von mind. 4 ECTS-Punkten zu belegen.[2] Die Anrechnung von Praktika ist nach vorher erfolgter Absprache mit dem Studiengangskoordinator und der Vorlage eines qualifizierten Nachweises möglich.
+
+---
+
+### PDF vom 04.10.2007 i.d.F. 10.06.2014
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-iberorom-10juni2014.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-iberorom-10juni2014.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **2**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Iberoromanistik
+
+- [Fonética práctica — Übung](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Pedro José Martínez García, José Juan Ventura Usó
+
+**Studiengang:** Spanisch
+
+- [Basismodul Einführung in die Iberoromanistik — ](../565-wintersemester-2025-26/spanisch-17185.md)
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+- (1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert:
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+1. Pflichtmodule: Spanische Sprachpraxis 1-5; Einführung in die Iberoromanistik; Aufbaumodule Spanische Sprachwissenschaft 1+2; Aufbaumodul Spanische und/oder lateinamerikanische Literatur- und Kulturwissenschaft; Bachelorarbeit
+
+---
+
+### PDF vom 04.10.2007 i.d.F. 28.07.2017
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-iberoromjuli2017.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-iberoromjuli2017.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **8**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Iberoromanistik
+
+- [Basismodul Spanische Sprachpraxis 2 — ](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Spanische Sprachwissenschaft — ](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Spanische Literaturwissenschaft — ](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+- [Fonética práctica — Übung](../565-wintersemester-2025-26/iberoromanistik-17187.md) — Pedro José Martínez García, José Juan Ventura Usó
+
+**Studiengang:** Romanistik
+
+- [Basismodul Spanische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Spanisch
+
+- [Basismodul Spanische Sprachpraxis 2 — ](../565-wintersemester-2025-26/spanisch-17185.md) — Dr. Corina Petersilka (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Spanische Sprachwissenschaft — ](../565-wintersemester-2025-26/spanisch-17185.md) — Prof. Dr. Silke Jansen (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Spanische Literaturwissenschaft — ](../565-wintersemester-2025-26/spanisch-17185.md) — Prof. Dr. Sabine Friedrich (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+- (1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert:
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+1. Pflichtmodule: Spanische Sprachpraxis 1-5; Basismodule Spanische Sprachwissenschaft und Spanische Literaturwissenschaft; Aufbaumodule Spanische Sprachwissenschaft 1+2; Aufbaumodul Spanische Literatur- und Kulturwissenschaft; Bachelorarbeit
+
+---
+
+### PDF vom 04.10.2007 i.d.F. 10.06.2014
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-italorom-10juni2014.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-italorom-10juni2014.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **10**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Italienisch
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italienisch-17160.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 2 — ](../565-wintersemester-2025-26/italienisch-17160.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Comprensione e produzione orale I — Übung](../565-wintersemester-2025-26/italoromanistik-17180.md) — Carla Ferrara, Paola Cesaroni-Meinzolt
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md)
+- [Basismodul Italienische Sprachpraxis 2 — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Tecniche di lettura — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+- [Fonetica pratica — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+
+**Studiengang:** Romanistik
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+- (1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert, in denen folgende Qualifikationen erworben werden:
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums** _(paragraph)_
+
+1. Pflichtmodule: Italienische Sprachpraxis 1-4; Einführung in die Italoromanistik; Aufbaumodule Italienische Sprachwissenschaft 1+2; Aufbaumodul Italienische Literatur- und Kulturwissenschaft; Bachelorarbeit.
+
+---
+
+### PDF vom 04.10.2007 i.d.F. 28.07.2017
+
+PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-italoromjuli2017.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-italoromjuli2017.md)  
+Pflicht-Stellen gefunden: **2**  
+Vorgeschlagene Pflichtveranstaltungen: **14**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Italienisch
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italienisch-17160.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 2 — ](../565-wintersemester-2025-26/italienisch-17160.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachwissenschaft — ](../565-wintersemester-2025-26/italienisch-17160.md) — Prof. Dr. Ludwig Fesenmeier (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Literaturwissenschaft — ](../565-wintersemester-2025-26/italienisch-17160.md) — Prof. Dr. Christian Rivoletti (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Comprensione e produzione orale I — Übung](../565-wintersemester-2025-26/italoromanistik-17180.md) — Carla Ferrara, Paola Cesaroni-Meinzolt
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/italoromanistik-17180.md)
+- [Basismodul Italienische Sprachpraxis 2 — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachwissenschaft — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Prof. Dr. Ludwig Fesenmeier (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Literaturwissenschaft — ](../565-wintersemester-2025-26/italoromanistik-17180.md) — Prof. Dr. Christian Rivoletti (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Italoromanistik
+
+- [Tecniche di lettura — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+- [Fonetica pratica — Übung](../589-sommersemester-2026/italoromanistik-18266.md) — Paola Cesaroni-Meinzolt
+
+**Studiengang:** Romanistik
+
+- [Basismodul Italienische Sprachpraxis 1 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Italienische Sprachpraxis 2 — ](../565-wintersemester-2025-26/romanistik-17208.md) — Paola Cesaroni-Meinzolt (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+- (1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert, in denen folgende Qualifikationen erworben werden:
+
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** _(paragraph)_
+
+1. Pflichtmodule: Italienische Sprachpraxis 1-5; Basismodule Italienische Sprachwissenschaft und Italienische Literaturwissenschaft; Aufbaumodule Italienische Sprachwissenschaft 1+2; Aufbaumodul Italienische Literatur- und Kulturwissenschaft; Bachelorarbeit.
 
 ---
 
@@ -24398,15 +26683,37 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-nordphilaug2017.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-nordphilaug2017.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **16**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Aufbaumodul Übung: Einführung in die Planung und Analyse des Geschichtsunterrichts in RS und Gym — Vorlesung mit Übung — Dr. Mona Kilau
+**Studiengang:** Germanistik
 
-**Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Mediävistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Christiane Witthöft (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Neuere deutsche Literaturwissenschaft — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Dirk Niefanger (Zuständigkeit: Verantwortliche/-r)
+- [Abschlussmodul Bachelorarbeit Linguistik — ](../565-wintersemester-2025-26/germanistik-17138.md) — Prof. Dr. Mechthild Habermann (Zuständigkeit: Verantwortliche/-r)
 
-- [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 1 — Seminar](../565-wintersemester-2025-26/skandinavistik-17170.md) — Thomas Krümpel
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Kulturgeschichte 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md)
+- [Nordische Kulturgeschichte 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+- [Nordische Erstsprache 1 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../565-wintersemester-2025-26/skandinavistik-17170.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Skandinavistik
+
+- [BM Nordische Kulturgeschichte 2 — Einführungskurs](../589-sommersemester-2026/skandinavistik-18247.md) — Thomas Krümpel
+- [Nordische Erstsprache 1 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r) Karina Brehm (Zuständigkeit: Bearbeiter/-in)
+- [Nordische Erstsprache 2 — ](../589-sommersemester-2026/skandinavistik-18247.md) — Prof. Dr. Hanna Eglinger-Bartl (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -24489,13 +26796,20 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-politik-juni2016.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fachstuo-pro-politik-juni2016.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **12**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Frühstudium -
 
 - [Grundlagen der internationalen Politik I: Geschichte und Theorien der Internationalen Beziehungen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Johannes Jüde
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Basismodul Politische Systeme I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Politische Systeme II — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Sandra Eckert (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Außereuropäische Regionen I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Thomas Demmelhuber (Zuständigkeit: Verantwortliche/-r)
+- [Basismodul Außereuropäische Regionen II — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Thomas Demmelhuber (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -24683,11 +26997,9 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-20230615-idf-20260331.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-20230615-idf-20260331.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
-
-- BA-4 Wissenschaft und Technik Chinas — Seminar — Dr. Sabine Weber
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
@@ -24725,120 +27037,34 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
-### FPO BA Sino Zwei-Fach ÄS 20260331.pdf
-
-PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-aes-20260331.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/fpo-ba-sino-zwei-fach-aes-20260331.md)  
-Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
-
-#### Pflichtveranstaltungen (Vorschlag)
-
-- BA-4 Wissenschaft und Technik Chinas — Seminar — Dr. Sabine Weber
-
-#### Auszüge aus dem PO-Text
-
-**Anlage 1: Sinologie als Erstfach** _(paragraph)_
-
-- 1  Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 11 **ABMStPO/Phil** .
-
-**Anlage 2: Sinologie als Zweitfach** _(paragraph)_
-
-1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 11 **ABMStPO/Phil** . 2 Für das Erstfach sind die Regelung der **(Fach-)Studien- und Prüfungsordnung** des Erstfachs zu berücksichtigen. Bei der hier angegebenen ECTS-Verteilung handelt es sich um Bandbreiten, innerhalb derer das Erstfach spezifischere Regelungen vorsehen kann. 3 Es sind entweder das Modul „Wissenschaft und Technik Chinas“ oder das Modul „Geistes- und Ideengeschichte Chinas“ sowie zusätzlich entweder das Modul „Sprache und Literatur Chinas“ oder das Modul „Politik und Wirtschaft Chinas“ erfolgreich abzulegen.
-
-**OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)** _(paragraph)_
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
-**OCR Seite 4** _(paragraph)_
-
-```
-Friedrich-Alexander-Universität
-E
-Erlangen-Nürnberg
-Sws
-Workload-Verteilung pro
-Fak-
-Ge-
-Semester in ECTS-Punkten '
-ri
-tor
-.
-Art und Umfang der Prü-
-Modulbezeichnung
-Lehrveranstaltung
-samt
-fun
-Mo-
-vöüor
-s
-ers
-1a
-2
-304.56
-9
-dul-
-note
-Worte
-Summe SWS und ECTS-Punkte im Erstfach:
-Fr
-Do
-1
-2
-17
-18
-10
-10
-|
-|
-Modernes Chinesisch:
-Hö-
-.
-.
-..
-Klausur (60 Min.) und
-Summe SWS und ECTS-Punkte Schlüsselqualifikationen:
-2
-2
-10
-5
-5
-|
-|
-Summe SWS und ECTS-Punkte Studiengang
-En
-Dr
-180
-30
-30
-30
-30
-30
-30
-! Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung
-über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach $ 11 ABMStPO/Phil.
-? Da es sich bei der hier angegebenen …
-
-_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
-
----
-
 ### Indogermanistik und Indoiranistik Zwei-Fach FPO Indo 20250131.pdf
 
 PO-Quelle: [`pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/indogermanistik-und-indoiranistik-zwei-fach-fpo-indo-20250131.md`](../pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/indogermanistik-und-indoiranistik-zwei-fach-fpo-indo-20250131.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **9**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+**Studiengang:** Lateinische Philologie
+
+- [Einführung in die Indogermanistik — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Prof. Dr. Stefan Schaffner (Zuständigkeit: Verantwortliche/-r)
+- [Einführung in das Germanische — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Prof. Dr. Stefan Schaffner (Zuständigkeit: Verantwortliche/-r)
+- [Sanskrit I — ](../589-sommersemester-2026/lateinische-philologie-18232.md) — Prof. Dr. Stefan Schaffner (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Einführung in die Indogermanistik — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Stefan Schaffner (Zuständigkeit: Verantwortliche/-r)
+- [Sanskrit I — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Stefan Schaffner (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
-- [Sanskrit I — Proseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Prof. Dr. Susanne Schnaus
 - [Einführung in die Indogermanistik — Proseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — apl. Prof. Dr. Thomas Steer
+- [Sanskrit I — Proseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Prof. Dr. Susanne Schnaus
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
-- [Sanskrit II — Proseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Prof. Dr. Susanne Schnaus
 - [Einführung in das Germanische — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Prof. Dr. Stefan Schaffner
+- [Sanskrit II — Proseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Prof. Dr. Susanne Schnaus
 
 #### Auszüge aus dem PO-Text
 
@@ -26617,7 +28843,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-international-business-studies-fpo-ba-ibs-20170810-idf-20180730.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-international-business-studies-fpo-ba-ibs-20170810-idf-20180730.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **20**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -26639,10 +28865,38 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 - [Ba/Ma-Vorl:  Internationale Entwicklungen im 21. Jahrhundert: Wo steht Lateinamerika in der Weltpolitik? — Sonstige Lehrveranstaltung](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md) — Prof. Dr. Almut Schilling-Vacaflor del Carpio, Jaime León González
 
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Dr. Bernd Flessner (Zuständigkeit: Bearbeiter/-in) Dr. Katrin Götz-Votteler (Zuständigkeit: Verantwortliche/-r) Dr. Simone Hespers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Methodische Grundlagen — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Gabriel Zeilinger (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Internationale Politik des Indo-Pazifischen Raums — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Prof. Dr. Marco Bünte
 - [Nichtdiskriminierung in der internationalen Politik - Zwischen Menschrechten, Interessen und Macht — Masterseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Dr. Janina Heaphy
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Intercultural Competence — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Nikhila Raghavan (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+- [Internationale Unternehmensführung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Luisa Wicht (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wissenschaftsreflexion & Studienerfolg
+
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — Seminar](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md) — Dr. Bernd Flessner
 
 #### Auszüge aus dem PO-Text
 
@@ -26665,7 +28919,7 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-international-business-studies-fpo-ba-ibs-20170810-idf-20190731.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-international-business-studies-fpo-ba-ibs-20170810-idf-20190731.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -26682,9 +28936,37 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 
 - [Ba-Vorl.: Global Governance — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Christoph Moser
 
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Dr. Bernd Flessner (Zuständigkeit: Bearbeiter/-in) Dr. Katrin Götz-Votteler (Zuständigkeit: Verantwortliche/-r) Dr. Simone Hespers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Methodische Grundlagen — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Gabriel Zeilinger (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Global Human Rights Governance: Accountability across International Relations and Law — Hauptseminar](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Dr. Janina Heaphy, Dr. Gemma Lligadas Gonzalez
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Intercultural Competence — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Nikhila Raghavan (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+- [Internationale Unternehmensführung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Luisa Wicht (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wissenschaftsreflexion & Studienerfolg
+
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — Seminar](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md) — Dr. Bernd Flessner
 
 #### Auszüge aus dem PO-Text
 
@@ -26751,8 +29033,8 @@ Vorgeschlagene Pflichtveranstaltungen: **27**
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
-- [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Ba-Vorl.: Global Governance — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Christoph Moser
+- [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
@@ -26847,8 +29129,8 @@ Vorgeschlagene Pflichtveranstaltungen: **27**
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
-- [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Ba-Vorl.: Global Governance — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Christoph Moser
+- [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
@@ -26942,8 +29224,8 @@ Vorgeschlagene Pflichtveranstaltungen: **27**
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
-- [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Ba-Vorl.: Global Governance — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Christoph Moser
+- [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
@@ -27034,8 +29316,8 @@ Vorgeschlagene Pflichtveranstaltungen: **24**
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
-- [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Ba-Vorl.: Global Governance — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Christoph Moser
+- [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
@@ -27088,7 +29370,7 @@ Vorgeschlagene Pflichtveranstaltungen: **24**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20220301.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20170810-idf-20220301.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **25**
+Vorgeschlagene Pflichtveranstaltungen: **27**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -27151,6 +29433,11 @@ Vorgeschlagene Pflichtveranstaltungen: **25**
 - [Unternehmen, Märkte, Volkswirtschaften — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Prof. Dr. Christian Merkl, Prof. Dr. Johannes Rincke, Prof. Dr. Regina Therese Riphahn
 - [Unternehmen, Märkte, Volkswirtschaften-Tutorium — Tutorium](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Anton Barabasch
 
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+- [Personal und Organisation I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Klaus Moser (Zuständigkeit: Verantwortliche/-r)
+
 #### Auszüge aus dem PO-Text
 
 **§ 1 Geltungsbereich** _(paragraph)_
@@ -27188,12 +29475,12 @@ Vorgeschlagene Pflichtveranstaltungen: **25**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20230822.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20230822.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **36**
+Vorgeschlagene Pflichtveranstaltungen: **38**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Introduction to international politics II — 
+- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Internationales Privatrecht — 
 - Schriftliche Leistung im Seminar Schwerpunktbereich Internationales Privatrecht — 
 - Verteidigung Schwerpunktbereich Internationales Privatrecht — 
@@ -27271,6 +29558,11 @@ Vorgeschlagene Pflichtveranstaltungen: **36**
 - [Cryptographic Communication Protocols: Key Exchange and Channels — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr. Paul Rösler
 - [Cryptographic Communication Protocols: Key Exchange and Channels - Exercise — Übung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr. Paul Rösler
 
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+- [Personal und Organisation I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Klaus Moser (Zuständigkeit: Verantwortliche/-r)
+
 #### Auszüge aus dem PO-Text
 
 **§ 2 Umfang und Gliederung des Studiums, Prüfungen, Unterrichts- und Prüfungssprache** _(paragraph)_
@@ -27309,7 +29601,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20240807.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-sozialoekonomik-fpo-ba-sozoek-20240807.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **20**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -27318,9 +29610,9 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 
 **Studiengang:** - Frühstudium -
 
-- [Ba-Vorl Internationale Politik: Die Europäische Integration/Internationale Politik I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Christoph Moser
 - [Unternehmer und Unternehmen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Sebastian Junge, Dr. Verena Hoßnofsky
 - [Unternehmer und Unternehmen - Übung — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Patrick-Peter Herold, Dr. Sebastian Junge, Dr. Verena Hoßnofsky
+- [Ba-Vorl Internationale Politik: Die Europäische Integration/Internationale Politik I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Christoph Moser
 
 **Studiengang:** - Frühstudium -
 
@@ -27367,6 +29659,10 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 - [Unternehmen, Märkte, Volkswirtschaften — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Prof. Dr. Christian Merkl, Prof. Dr. Johannes Rincke, Prof. Dr. Regina Therese Riphahn
 - [Unternehmen, Märkte, Volkswirtschaften-Tutorium — Tutorium](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Anton Barabasch
 
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+
 #### Auszüge aus dem PO-Text
 
 **§ 2 Umfang und Gliederung des Studiums, Prüfungen, Unterrichts- und Prüfungssprache** _(paragraph)_
@@ -27391,13 +29687,13 @@ Vorgeschlagene Pflichtveranstaltungen: **20**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20190222.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20190222.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
-- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 **Studiengang:** - Psychologie und Gerontologie (FAU Scientia)  -
 
@@ -27412,6 +29708,10 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
 
+**Studiengang:** Berufspädagogik Technik
+
+- [Schulpraktische Studien II — ](../565-wintersemester-2025-26/berufspaedagogik-technik-17128.md) — Prof. Dr. Karl Wilbers (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Betriebswirtschaftslehre I — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Prof. Dr. Matthias Fifka, Milena Störmer, Sebastian Klare
@@ -27419,6 +29719,10 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Betriebswirtschaftslehre II — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Sebastian Klare
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
 
 #### Auszüge aus dem PO-Text
 
@@ -27465,13 +29769,13 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20190731.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20190731.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
-- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 **Studiengang:** - Psychologie und Gerontologie (FAU Scientia)  -
 
@@ -27486,6 +29790,10 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
 
+**Studiengang:** Berufspädagogik Technik
+
+- [Schulpraktische Studien II — ](../565-wintersemester-2025-26/berufspaedagogik-technik-17128.md) — Prof. Dr. Karl Wilbers (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Betriebswirtschaftslehre I — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Prof. Dr. Matthias Fifka, Milena Störmer, Sebastian Klare
@@ -27493,6 +29801,10 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Betriebswirtschaftslehre II — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Sebastian Klare
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
 
 #### Auszüge aus dem PO-Text
 
@@ -27539,16 +29851,16 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20200902.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20200902.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **26**
+Vorgeschlagene Pflichtveranstaltungen: **42**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
+- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
-- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 **Studiengang:** - Frühstudium -
 
@@ -27579,9 +29891,28 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
+- [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
 - [Investition und Finanzierung (VL) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Hendrik Scholz
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
-- [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
+
+**Studiengang:** Artificial Intelligence
+
+- [People Analytics - Data Science für Human Resources Management — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Sven Laumer (Zuständigkeit: Verantwortliche/-r)
+- [People Analytics - Data Science für Human Resources Management (Project work) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** Berufspädagogik Technik
+
+- [Schulpraktische Studien II — ](../565-wintersemester-2025-26/berufspaedagogik-technik-17128.md) — Prof. Dr. Karl Wilbers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Innovation strategy III — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -27599,6 +29930,18 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+- [Ökonomie des öffentlichen Sektors — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Thiess Büttner (Zuständigkeit: Verantwortliche/-r) Dr. Maximilian Pöhnlein (Zuständigkeit: Bearbeiter/-in)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Kostenrechnung und Controlling — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Investition und Finanzierung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lukas Greger (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Hendrik Scholz (Zuständigkeit: Verantwortliche/-r)
+- [Wettbewerbstheorie und -politik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Karl Gregor Zöttl (Zuständigkeit: Verantwortliche/-r)
+- [Internationale Unternehmensführung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Luisa Wicht (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+- [Innovation strategy — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — apl. Prof. Dr. Angela Roth (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Kathrin Möslein (Zuständigkeit: Verantwortliche/-r) Matthäus Wilga (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -27643,16 +29986,16 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20210122.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20210122.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **26**
+Vorgeschlagene Pflichtveranstaltungen: **42**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
+- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
-- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 **Studiengang:** - Frühstudium -
 
@@ -27683,9 +30026,28 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
+- [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
 - [Investition und Finanzierung (VL) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Hendrik Scholz
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
-- [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
+
+**Studiengang:** Artificial Intelligence
+
+- [People Analytics - Data Science für Human Resources Management — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Sven Laumer (Zuständigkeit: Verantwortliche/-r)
+- [People Analytics - Data Science für Human Resources Management (Project work) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** Berufspädagogik Technik
+
+- [Schulpraktische Studien II — ](../565-wintersemester-2025-26/berufspaedagogik-technik-17128.md) — Prof. Dr. Karl Wilbers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Innovation strategy III — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -27703,6 +30065,18 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+- [Ökonomie des öffentlichen Sektors — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Thiess Büttner (Zuständigkeit: Verantwortliche/-r) Dr. Maximilian Pöhnlein (Zuständigkeit: Bearbeiter/-in)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Kostenrechnung und Controlling — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Investition und Finanzierung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lukas Greger (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Hendrik Scholz (Zuständigkeit: Verantwortliche/-r)
+- [Wettbewerbstheorie und -politik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Karl Gregor Zöttl (Zuständigkeit: Verantwortliche/-r)
+- [Internationale Unternehmensführung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Luisa Wicht (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+- [Innovation strategy — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — apl. Prof. Dr. Angela Roth (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Kathrin Möslein (Zuständigkeit: Verantwortliche/-r) Matthäus Wilga (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -27749,16 +30123,16 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20210806.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20210806.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **26**
+Vorgeschlagene Pflichtveranstaltungen: **42**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
+- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
-- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 **Studiengang:** - Frühstudium -
 
@@ -27789,9 +30163,28 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
+- [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
 - [Investition und Finanzierung (VL) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Hendrik Scholz
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
-- [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
+
+**Studiengang:** Artificial Intelligence
+
+- [People Analytics - Data Science für Human Resources Management — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Sven Laumer (Zuständigkeit: Verantwortliche/-r)
+- [People Analytics - Data Science für Human Resources Management (Project work) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** Berufspädagogik Technik
+
+- [Schulpraktische Studien II — ](../565-wintersemester-2025-26/berufspaedagogik-technik-17128.md) — Prof. Dr. Karl Wilbers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Innovation strategy III — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -27809,6 +30202,18 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+- [Ökonomie des öffentlichen Sektors — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Thiess Büttner (Zuständigkeit: Verantwortliche/-r) Dr. Maximilian Pöhnlein (Zuständigkeit: Bearbeiter/-in)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Kostenrechnung und Controlling — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Investition und Finanzierung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lukas Greger (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Hendrik Scholz (Zuständigkeit: Verantwortliche/-r)
+- [Wettbewerbstheorie und -politik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Karl Gregor Zöttl (Zuständigkeit: Verantwortliche/-r)
+- [Internationale Unternehmensführung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Luisa Wicht (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+- [Innovation strategy — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — apl. Prof. Dr. Angela Roth (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Kathrin Möslein (Zuständigkeit: Verantwortliche/-r) Matthäus Wilga (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -27855,7 +30260,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20220727.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20220727.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **22**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -27890,6 +30295,20 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 
+**Studiengang:** Artificial Intelligence
+
+- [People Analytics - Data Science für Human Resources Management — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Sven Laumer (Zuständigkeit: Verantwortliche/-r)
+- [People Analytics - Data Science für Human Resources Management (Project work) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Unternehmen, Märkte, Volkswirtschaften — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Prof. Dr. Christian Merkl, Prof. Dr. Johannes Rincke, Prof. Dr. Regina Therese Riphahn
@@ -27898,6 +30317,11 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -27934,7 +30358,7 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20230323.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20170810-idf-20230323.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **22**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -27969,6 +30393,20 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 
+**Studiengang:** Artificial Intelligence
+
+- [People Analytics - Data Science für Human Resources Management — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Sven Laumer (Zuständigkeit: Verantwortliche/-r)
+- [People Analytics - Data Science für Human Resources Management (Project work) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Unternehmen, Märkte, Volkswirtschaften — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Prof. Dr. Christian Merkl, Prof. Dr. Johannes Rincke, Prof. Dr. Regina Therese Riphahn
@@ -27977,6 +30415,11 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28016,16 +30459,16 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20200902-aes.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20200902-aes.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **26**
+Vorgeschlagene Pflichtveranstaltungen: **42**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
+- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
-- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Advanced machine learning for anomaly detection — 
 - Microeconometrics and machine learning — Vorlesung — Prof. Dr. Regina Therese Riphahn
-- Betriebliche Aus- und Weiterbildung -Vorlesung — Vorlesung — Prof. Dr. Nicole Kimmelmann
 
 **Studiengang:** - Frühstudium -
 
@@ -28056,9 +30499,28 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
+- [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
 - [Investition und Finanzierung (VL) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Hendrik Scholz
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
-- [Betriebliche Aus- und Weiterbildung - Übung — Übung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Nicole Kimmelmann
+
+**Studiengang:** Artificial Intelligence
+
+- [People Analytics - Data Science für Human Resources Management — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Sven Laumer (Zuständigkeit: Verantwortliche/-r)
+- [People Analytics - Data Science für Human Resources Management (Project work) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** Berufspädagogik Technik
+
+- [Schulpraktische Studien II — ](../565-wintersemester-2025-26/berufspaedagogik-technik-17128.md) — Prof. Dr. Karl Wilbers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Innovation strategy III — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -28076,6 +30538,18 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+- [Ökonomie des öffentlichen Sektors — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Thiess Büttner (Zuständigkeit: Verantwortliche/-r) Dr. Maximilian Pöhnlein (Zuständigkeit: Bearbeiter/-in)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Kostenrechnung und Controlling — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Investition und Finanzierung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lukas Greger (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Hendrik Scholz (Zuständigkeit: Verantwortliche/-r)
+- [Wettbewerbstheorie und -politik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Karl Gregor Zöttl (Zuständigkeit: Verantwortliche/-r)
+- [Internationale Unternehmensführung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Luisa Wicht (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+- [Innovation strategy — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — apl. Prof. Dr. Angela Roth (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Kathrin Möslein (Zuständigkeit: Verantwortliche/-r) Matthäus Wilga (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -28124,7 +30598,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20220727-aes.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20220727-aes.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **22**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28159,6 +30633,20 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 
+**Studiengang:** Artificial Intelligence
+
+- [People Analytics - Data Science für Human Resources Management — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Sven Laumer (Zuständigkeit: Verantwortliche/-r)
+- [People Analytics - Data Science für Human Resources Management (Project work) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Unternehmen, Märkte, Volkswirtschaften — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Prof. Dr. Christian Merkl, Prof. Dr. Johannes Rincke, Prof. Dr. Regina Therese Riphahn
@@ -28167,6 +30655,11 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28202,7 +30695,7 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807-idf-20250616.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807-idf-20250616.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **23**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28237,6 +30730,20 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
 
+**Studiengang:** Artificial Intelligence
+
+- [People Analytics - Data Science für Human Resources Management — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Sven Laumer (Zuständigkeit: Verantwortliche/-r)
+- [People Analytics - Data Science für Human Resources Management (Project work) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Unternehmen, Märkte, Volkswirtschaften — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Prof. Dr. Christian Merkl, Prof. Dr. Johannes Rincke, Prof. Dr. Regina Therese Riphahn
@@ -28245,6 +30752,12 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28284,7 +30797,7 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/ba-wirtschaftswissenschaften-fpo-ba-wiwi-20240807.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **23**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28319,6 +30832,20 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
 
+**Studiengang:** Artificial Intelligence
+
+- [People Analytics - Data Science für Human Resources Management — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Florian Meier (Zuständigkeit: Bearbeiter/-in) Sindi Biba (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Sven Laumer (Zuständigkeit: Verantwortliche/-r)
+- [People Analytics - Data Science für Human Resources Management (Project work) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Unternehmen, Märkte, Volkswirtschaften — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Prof. Dr. Christian Merkl, Prof. Dr. Johannes Rincke, Prof. Dr. Regina Therese Riphahn
@@ -28327,6 +30854,12 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28432,7 +30965,7 @@ In Zeile 30 (Modulbezeichnung „Wahl(pflicht\module aus einer Studienrichtung g
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20180615.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20180615.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **14**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28441,10 +30974,10 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 **Studiengang:** - Frühstudium -
 
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
-- [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Unternehmer und Unternehmen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Sebastian Junge, Dr. Verena Hoßnofsky
 - [Unternehmer und Unternehmen - Übung — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Patrick-Peter Herold, Dr. Sebastian Junge, Dr. Verena Hoßnofsky
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -28454,6 +30987,20 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28468,7 +31015,7 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20190815.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20190815.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **14**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28477,10 +31024,10 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 **Studiengang:** - Frühstudium -
 
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
-- [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Unternehmer und Unternehmen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Sebastian Junge, Dr. Verena Hoßnofsky
 - [Unternehmer und Unternehmen - Übung — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Patrick-Peter Herold, Dr. Sebastian Junge, Dr. Verena Hoßnofsky
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -28490,6 +31037,20 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28504,7 +31065,7 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20200902.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20200902.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28532,6 +31093,20 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28555,7 +31130,7 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20210222.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20210222.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28583,6 +31158,20 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28606,7 +31195,7 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20210806.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20170810-idf-20210806.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28635,6 +31224,20 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
 
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+
 #### Auszüge aus dem PO-Text
 
 **Anlage: Studienverlaufsplan Bachelor Wirtschaftsinformatik** _(paragraph)_
@@ -28657,7 +31260,7 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20200902-aes.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20200902-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **11**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28676,6 +31279,20 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 - [Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — apl. Prof. Dr. Stefan Milius
 - [Übung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr. Henning Urbat
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28702,7 +31319,7 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20210806-aes.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20210806-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **14**
+Vorgeschlagene Pflichtveranstaltungen: **20**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28735,9 +31352,24 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 - [Data Science: Datenmanagement und -analyse — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Sven Laumer
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
 
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Advanced Machine Learning for Anomaly Detection — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Bernhard Kainz, Johanna Müller
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Managing projects successfully — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Michael Amberg (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -28761,7 +31393,7 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20230822-idf-20250616.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20230822-idf-20250616.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **14**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28786,9 +31418,23 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 - [Übung zur Einführung in die hebräische Grammatik — Übung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Gerhard Karner
 - [Einführung in die hebräische Grammatik — Übung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Gerhard Karner
 
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Hebräisch I: Einführung in die hebräische Grammatik - Sommerferienblockveranstaltung — Vorlesung mit Übung](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Dr. Gerhard Karner
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -28822,7 +31468,7 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20230822.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/bsc-wirtschaftsinformatik-fpo-ba-winf-20230822.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **20**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -28856,9 +31502,23 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 - [Übung zur Einführung in die hebräische Grammatik — Übung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Gerhard Karner
 - [Einführung in die hebräische Grammatik — Übung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Gerhard Karner
 
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Hebräisch I: Einführung in die hebräische Grammatik - Sommerferienblockveranstaltung — Vorlesung mit Übung](../589-sommersemester-2026/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17984.md) — Dr. Gerhard Karner
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -29057,7 +31717,7 @@ ass
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-ibs-aug2017.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-ibs-aug2017.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **13**
+Vorgeschlagene Pflichtveranstaltungen: **23**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -29085,10 +31745,38 @@ Vorgeschlagene Pflichtveranstaltungen: **13**
 
 - [Ba/Ma-Vorl:  Internationale Entwicklungen im 21. Jahrhundert: Wo steht Lateinamerika in der Weltpolitik? — Sonstige Lehrveranstaltung](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md) — Prof. Dr. Almut Schilling-Vacaflor del Carpio, Jaime León González
 
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Dr. Bernd Flessner (Zuständigkeit: Bearbeiter/-in) Dr. Katrin Götz-Votteler (Zuständigkeit: Verantwortliche/-r) Dr. Simone Hespers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Modulstudien Studium Philosophicum
+
+- [Methodische Grundlagen — ](../565-wintersemester-2025-26/modulstudien-studium-philosophicum-17214.md) — Prof. Dr. Gabriel Zeilinger (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Internationale Politik des Indo-Pazifischen Raums — Hauptseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Prof. Dr. Marco Bünte
 - [Nichtdiskriminierung in der internationalen Politik - Zwischen Menschrechten, Interessen und Macht — Masterseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Dr. Janina Heaphy
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Intercultural Competence — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Nikhila Raghavan (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+- [Internationale Unternehmensführung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Luisa Wicht (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Dirk Holtbrügge (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wissenschaftsreflexion & Studienerfolg
+
+- [Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele — Seminar](../565-wintersemester-2025-26/wissenschaftsreflexion-studienerfolg-17332.md) — Dr. Bernd Flessner
 
 #### Auszüge aus dem PO-Text
 
@@ -29185,7 +31873,7 @@ Vorgeschlagene Pflichtveranstaltungen: **17**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-wirtschaftsinformatik.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-wirtschaftsinformatik.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -29194,10 +31882,10 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 **Studiengang:** - Frühstudium -
 
-- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
-- [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 - [Unternehmer und Unternehmen — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr. Sebastian Junge, Dr. Verena Hoßnofsky
 - [Unternehmer und Unternehmen - Übung — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Patrick-Peter Herold, Dr. Sebastian Junge, Dr. Verena Hoßnofsky
+- [Lineare Algebra I — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
+- [Übungen zur Linearen Algebra  I — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Lea Boßmann
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -29211,6 +31899,22 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
 - [International management: Doing business in emerging markets — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. Dirk Holtbrügge
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Innovation strategy III — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Innovation strategy — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — apl. Prof. Dr. Angela Roth (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Kathrin Möslein (Zuständigkeit: Verantwortliche/-r) Matthäus Wilga (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -29227,13 +31931,13 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-wiwiaug2017.md`](../pruefungsordnungen/rw/wiso/bachelorstudiengaenge/fpo-ba-wiwiaug2017.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **16**
+Vorgeschlagene Pflichtveranstaltungen: **24**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik — Übung
 - Vorlesung Grundlagen der Wirtschafts- und Betriebspädagogik — Vorlesung — Prof. Dr. Karl Wilbers
-- Unternehmen, Märkte, Volkswirtschaften - Softskills — Übung
 - Übungen zu Elemente der Linearen Algebra II — Übung — Dr. Alexander Prechtel
 
 **Studiengang:** - Frühstudium -
@@ -29255,6 +31959,19 @@ Vorgeschlagene Pflichtveranstaltungen: **16**
 
 - [Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../589-sommersemester-2026/wirtschaftswissenschaften-fau-scientia-13839426.md) — Prof. Dr. David Hummel
 
+**Studiengang:** Berufspädagogik Technik
+
+- [Schulpraktische Studien II — ](../565-wintersemester-2025-26/berufspaedagogik-technik-17128.md) — Prof. Dr. Karl Wilbers (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
 - [Vorbereitung auf das Staatsexamen Beruf und Wirtschaft — Seminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — Alexandra Wierer-Roth
@@ -29268,6 +31985,13 @@ Vorgeschlagene Pflichtveranstaltungen: **16**
 
 - [Unternehmen, Märkte, Volkswirtschaften — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Prof. Dr. Christian Merkl, Prof. Dr. Johannes Rincke, Prof. Dr. Regina Therese Riphahn
 - [Unternehmen, Märkte, Volkswirtschaften-Tutorium — Tutorium](../565-wintersemester-2025-26/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17335.md) — Anton Barabasch
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Jochen Hoffmann, Prof. Dr. David Hummel
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Produktion, Logistik, Beschaffung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Wirtschaft und Staat — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Sebastian Ach (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Thiess Büttner (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Matthias Wrede (Zuständigkeit: Verantwortliche/-r) Timm Schärfke (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -30839,7 +33563,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/1aes-20ma-management.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/1aes-20ma-management.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -30848,7 +33572,6 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Rechtliche Grundlagen der Start-up-Unternehmen — Vorlesung mit Übung](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — PD Dr. David Bartlitz
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
 
 #### Auszüge aus dem PO-Text
 
@@ -31106,7 +33829,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/3aes-20ma-management.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/3aes-20ma-management.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -31126,7 +33849,6 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Rechtliche Grundlagen der Start-up-Unternehmen — Vorlesung mit Übung](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — PD Dr. David Bartlitz
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
 
 #### Auszüge aus dem PO-Text
 
@@ -31324,15 +34046,11 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/5aes-ma-management.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/5aes-ma-management.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
-
-**Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
-
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
 
 #### Auszüge aus dem PO-Text
 
@@ -31730,7 +34448,7 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fachstuo-pro-20ma-management.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fachstuo-pro-20ma-management.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **2**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -31739,7 +34457,6 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Rechtliche Grundlagen der Start-up-Unternehmen — Vorlesung mit Übung](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — PD Dr. David Bartlitz
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
 
 #### Auszüge aus dem PO-Text
 
@@ -32217,17 +34934,36 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpo-ma-management-aug2017.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpo-ma-management-aug2017.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Übung — Übung — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Vorlesung — Vorlesung — Prof. Dr.-Ing. Eva Maria Hartmann, Wolf-Alexander Frenkler
-- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
 
-**Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
+**Studiengang:** International Production Engineering and Management
 
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
+- [Technology and innovation management — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Technology and innovation management — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Business strategy — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktions- und Supply Chain Management — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Christoph Küffner (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Eva Maria Hartmann (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Markus Beckmann (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management IV — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Markus Beckmann (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management VII — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management III — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Eva Maria Hartmann (Zuständigkeit: Verantwortliche/-r) Wolf-Alexander Frenkler (Zuständigkeit: Bearbeiter/-in)
+- [Fallstudien und Projekte im Management IX — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Patrick-Peter Herold (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management X — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Technology and innovation management — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fortgeschrittene Methoden der Managementforschung VII — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fortgeschrittene Methoden der Managementforschung I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Rabab Saleh (Zuständigkeit: Verantwortliche/-r)
+- [Business strategy — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -32670,17 +35406,36 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20190205.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20190205.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Übung — Übung — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Vorlesung — Vorlesung — Prof. Dr.-Ing. Eva Maria Hartmann, Wolf-Alexander Frenkler
-- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
 
-**Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
+**Studiengang:** International Production Engineering and Management
 
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
+- [Technology and innovation management — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Technology and innovation management — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Business strategy — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktions- und Supply Chain Management — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Christoph Küffner (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Eva Maria Hartmann (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Markus Beckmann (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management IV — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Markus Beckmann (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management VII — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management III — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Eva Maria Hartmann (Zuständigkeit: Verantwortliche/-r) Wolf-Alexander Frenkler (Zuständigkeit: Bearbeiter/-in)
+- [Fallstudien und Projekte im Management IX — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Patrick-Peter Herold (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management X — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Technology and innovation management — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fortgeschrittene Methoden der Managementforschung VII — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fortgeschrittene Methoden der Managementforschung I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Rabab Saleh (Zuständigkeit: Verantwortliche/-r)
+- [Business strategy — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -32706,17 +35461,36 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20191203.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20191203.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Übung — Übung — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Vorlesung — Vorlesung — Prof. Dr.-Ing. Eva Maria Hartmann, Wolf-Alexander Frenkler
-- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
 
-**Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
+**Studiengang:** International Production Engineering and Management
 
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
+- [Technology and innovation management — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Technology and innovation management — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Business strategy — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktions- und Supply Chain Management — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Christoph Küffner (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Eva Maria Hartmann (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Markus Beckmann (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management IV — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Markus Beckmann (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management VII — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management III — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Eva Maria Hartmann (Zuständigkeit: Verantwortliche/-r) Wolf-Alexander Frenkler (Zuständigkeit: Bearbeiter/-in)
+- [Fallstudien und Projekte im Management IX — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Patrick-Peter Herold (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management X — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Technology and innovation management — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fortgeschrittene Methoden der Managementforschung VII — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fortgeschrittene Methoden der Managementforschung I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Rabab Saleh (Zuständigkeit: Verantwortliche/-r)
+- [Business strategy — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -32742,17 +35516,36 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20210812.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomanagement-20090724-idf-20210812.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **4**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Übung — Übung — Wolf-Alexander Frenkler
 - Global Logistics and Supply Chain Management - Vorlesung — Vorlesung — Prof. Dr.-Ing. Eva Maria Hartmann, Wolf-Alexander Frenkler
-- Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
 
-**Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
+**Studiengang:** International Production Engineering and Management
 
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
+- [Technology and innovation management — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Technology and innovation management — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Business strategy — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Produktions- und Supply Chain Management — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Christoph Küffner (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Eva Maria Hartmann (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Markus Beckmann (Zuständigkeit: Verantwortliche/-r) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management IV — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Markus Beckmann (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management VII — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management III — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Eva Maria Hartmann (Zuständigkeit: Verantwortliche/-r) Wolf-Alexander Frenkler (Zuständigkeit: Bearbeiter/-in)
+- [Fallstudien und Projekte im Management IX — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Patrick-Peter Herold (Zuständigkeit: Verantwortliche/-r)
+- [Fallstudien und Projekte im Management X — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Technology and innovation management — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fortgeschrittene Methoden der Managementforschung VII — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Fortgeschrittene Methoden der Managementforschung I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Rabab Saleh (Zuständigkeit: Verantwortliche/-r)
+- [Business strategy — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -32780,11 +35573,18 @@ Vorgeschlagene Pflichtveranstaltungen: **4**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomigg-20150515-idf-20191120.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomigg-20150515-idf-20191120.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Gesundheitsökonomische Evaluationen I — Seminar — Prof. Dr. Oliver Schöffski
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Ambulantes Management I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Kristina Kast (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Kostenträger I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Krankenhausmanagement I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Dr. Martin Schwandt (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Pharmamanagement I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Dominik Blunck (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -32809,11 +35609,18 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomigg-20240229-idf-20250227.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomigg-20240229-idf-20250227.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Gesundheitsökonomische Evaluationen I — Seminar — Prof. Dr. Oliver Schöffski
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Ambulantes Management I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Kristina Kast (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Kostenträger I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Krankenhausmanagement I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Dr. Martin Schwandt (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Pharmamanagement I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Dominik Blunck (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -32845,11 +35652,18 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomigg-20240229.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomigg-20240229.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Gesundheitsökonomische Evaluationen I — Seminar — Prof. Dr. Oliver Schöffski
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Ambulantes Management I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Kristina Kast (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Kostenträger I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Krankenhausmanagement I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Dr. Martin Schwandt (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Pharmamanagement I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Dominik Blunck (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -32875,11 +35689,18 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomigg-20250227-aes.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/fpomigg-20250227-aes.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Gesundheitsökonomische Evaluationen I — Seminar — Prof. Dr. Oliver Schöffski
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Ambulantes Management I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Kristina Kast (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Kostenträger I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Krankenhausmanagement I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Dr. Martin Schwandt (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
+- [Pharmamanagement I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lena Jaegers (Zuständigkeit: Bearbeiter/-in) Dominik Blunck (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Oliver Schöffski (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -33022,13 +35843,19 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/ma-finance-auditing-controlling-taxation-20090720-idf-20180829.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/ma-finance-auditing-controlling-taxation-20090720-idf-20180829.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
 - [Kapitalmarktorientierte Unternehmenssteuerung (MA) — Vorlesung](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md) — Prof. Dr. Hendrik Scholz
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Controlling of business systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Versicherungs- und Risikotheorie — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Nadine Gatzert (Zuständigkeit: Verantwortliche/-r) Daniela Tagsold (Zuständigkeit: Bearbeiter/-in)
+- [Steuerliche Gewinnermittlung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Frank Hechtner (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -33143,13 +35970,19 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20090720-idf-20191120.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20090720-idf-20191120.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
 - [Kapitalmarktorientierte Unternehmenssteuerung (MA) — Vorlesung](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md) — Prof. Dr. Hendrik Scholz
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Controlling of business systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Versicherungs- und Risikotheorie — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Nadine Gatzert (Zuständigkeit: Verantwortliche/-r) Daniela Tagsold (Zuständigkeit: Bearbeiter/-in)
+- [Steuerliche Gewinnermittlung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Frank Hechtner (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -33188,13 +36021,19 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20090720-idf-20210311.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20090720-idf-20210311.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
 - [Kapitalmarktorientierte Unternehmenssteuerung (MA) — Vorlesung](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md) — Prof. Dr. Hendrik Scholz
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Controlling of business systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Versicherungs- und Risikotheorie — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Nadine Gatzert (Zuständigkeit: Verantwortliche/-r) Daniela Tagsold (Zuständigkeit: Bearbeiter/-in)
+- [Steuerliche Gewinnermittlung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Frank Hechtner (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -33235,13 +36074,19 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20090720-idf-20220721.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20090720-idf-20220721.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
 - [Kapitalmarktorientierte Unternehmenssteuerung (MA) — Vorlesung](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md) — Prof. Dr. Hendrik Scholz
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Controlling of business systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Versicherungs- und Risikotheorie — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Nadine Gatzert (Zuständigkeit: Verantwortliche/-r) Daniela Tagsold (Zuständigkeit: Bearbeiter/-in)
+- [Steuerliche Gewinnermittlung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Frank Hechtner (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -33277,13 +36122,20 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20230615-idf-20240229.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20230615-idf-20240229.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **5**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
 - [Kapitalmarktorientierte Unternehmenssteuerung (MA) — Vorlesung](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md) — Prof. Dr. Hendrik Scholz
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Controlling of business systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Versicherungs- und Risikotheorie — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Nadine Gatzert (Zuständigkeit: Verantwortliche/-r) Daniela Tagsold (Zuständigkeit: Bearbeiter/-in)
+- [Steuerliche Gewinnermittlung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Frank Hechtner (Zuständigkeit: Verantwortliche/-r)
+- [Kapitalmarktorientierte Unternehmenssteuerung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lukas Greger (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Hendrik Scholz (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -33322,13 +36174,19 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20230615.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/msc-finance-auditing-controlling-taxation-fpofact-20230615.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
 - [Kapitalmarktorientierte Unternehmenssteuerung (MA) — Vorlesung](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md) — Prof. Dr. Hendrik Scholz
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Controlling of business systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Versicherungs- und Risikotheorie — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Nadine Gatzert (Zuständigkeit: Verantwortliche/-r) Daniela Tagsold (Zuständigkeit: Bearbeiter/-in)
+- [Steuerliche Gewinnermittlung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Frank Hechtner (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -33970,6 +36828,54 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 ---
 
+### PDF vom 20.07.2009 i.d.F. 10.08.2017
+
+PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-finance-auditing-controlling-taxation-aug2017.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-finance-auditing-controlling-taxation-aug2017.md)  
+Pflicht-Stellen gefunden: **3**  
+Vorgeschlagene Pflichtveranstaltungen: **3**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Controlling of business systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Versicherungs- und Risikotheorie — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Nadine Gatzert (Zuständigkeit: Verantwortliche/-r) Daniela Tagsold (Zuständigkeit: Bearbeiter/-in)
+- [Steuerliche Gewinnermittlung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Frank Hechtner (Zuständigkeit: Verantwortliche/-r)
+
+#### Auszüge aus dem PO-Text
+
+**§ 4 Umfang und Gliederung des Masterstudiums, Prüfungen** _(paragraph)_
+
+1Im Pflichtbereich werden interdisziplinäre Grundkenntnisse vertiefend vermittelt (30 ECTS-Punkte).[2] Zudem wählen die Studierenden Module aus einem Angebot von größeren Vertiefungsmodulen (jeweils 5 ECTS-Punkte) im Gesamtumfang von 60 ECTSPunkten aus unterschiedlichen Modulgruppen.[3] Im Modulhandbuch werden den Studierenden berufsfeldspezifische Vorschläge zur Zusammenstellung von Modulen (z. B. Steuerberater/in, Investmentbanker/in, Wirtschaftsprüfer/in) unterbreitet.[4] Im Modul Masterarbeit (30 ECTS-Punkte) ist die Masterthesis zu erstellen.[5] Die Verteilung über die Studiensemester, Art und Umfang der Prüfungen in den Modulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 2a** bzw. **2b** sowie § 4a und §§ 16 bis 18b **MPOWIWI** zu entnehmen.
+
+**Anlage 2a: Überblickstabelle Studienverlauf: Beginn zum Wintersemester** _(paragraph)_
+
+|Modulbezeichnung|Lehrveranstaltung|||||||||||Faktor<br>Ab-<br>schlus<br>s-note|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||SWS|||Gesamt|Workload-Verteilung pro Semester<br>||||||
+||||||||||||||
+|||||||ECTS||in ECTS-Punkten|||Art und Umfang der Prüfung/||
+|||V|Ü|P|S||1.Sem.|2.Sem.|3.Sem.|4.Sem.|<br>Studienleistung||
+|Pflichtbereich||||||**30**|25|5|0|0|||
+||||||||||||||
+|Controlling of business systems|Controlling of business systems|2|1|||5|5||||Klausur (60 Minuten)|1|
+|Kapitalmarktorientierte<br>Unternehmensbesteuerung|Kapitalmarktorientierte Unternehmensbesteuerung|2|1|||5|5||||Klausur (60 Minuten)|1|
+|Versicherungs- und Risikotheo-<br>rie|Versicherungs- und Risikotheorie|2|1|||5|5||||Klausur (60 Minuten)|1|
+|Steuerliche Gewinnermittlung|Steuerliche Gewinnermittlung|2|2|| …
+
+**Anlage 2b: Überblickstabelle Studienverlauf: Beginn zum Sommersemester** _(paragraph)_
+
+|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der<br>Prüfung/Studienleistung|Faktor<br>Ab-<br>schluss-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||in ECTS-Punkten|||||
+|||V|Ü|P|S||1. Sem.|2. Sem.|3. Sem.|4. Sem.|||
+|Pflichtbereich||||||30|5|25|0|0|||
+|Controlling of business systems|Controlling of business systems|2|1|||5||5|||Klausur (60 Minuten)|1|
+|Kapitalmarktorientierte<br>Unternehmensbesteuerung|Kapitalmarktorientierte Unternehmensbesteuerung|2|1|||5||5|||Klausur (60 Minuten)|1|
+|Versicherungs- und Risikotheorie|Vers …
+
+---
+
 ### PDF vom 20.07.2009 i.d.F. 05.08.2011
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-finance-auditing-controlling-taxation-august2011.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-finance-auditing-controlling-taxation-august2011.md)  
@@ -34032,13 +36938,19 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-finance-auditing-controlling-taxation-dez2017.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-finance-auditing-controlling-taxation-dez2017.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Wirtschaftswissenschaften (FAU Scientia)  -
 
 - [Kapitalmarktorientierte Unternehmenssteuerung (MA) — Vorlesung](../565-wintersemester-2025-26/wirtschaftswissenschaften-fau-scientia-12200294.md) — Prof. Dr. Hendrik Scholz
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Controlling of business systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Friedrich Sommer (Zuständigkeit: Verantwortliche/-r)
+- [Versicherungs- und Risikotheorie — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Nadine Gatzert (Zuständigkeit: Verantwortliche/-r) Daniela Tagsold (Zuständigkeit: Bearbeiter/-in)
+- [Steuerliche Gewinnermittlung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Frank Hechtner (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -34377,7 +37289,7 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management-august2011.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management-august2011.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -34397,7 +37309,6 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Rechtliche Grundlagen der Start-up-Unternehmen — Vorlesung mit Übung](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — PD Dr. David Bartlitz
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
 
 #### Auszüge aus dem PO-Text
 
@@ -34431,7 +37342,7 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management-januar2012.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management-januar2012.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -34451,7 +37362,6 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Rechtliche Grundlagen der Start-up-Unternehmen — Vorlesung mit Übung](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — PD Dr. David Bartlitz
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
 
 #### Auszüge aus dem PO-Text
 
@@ -34485,15 +37395,11 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management-juli2014.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management-juli2014.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **1**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Hauptseminar / Fortgeschrittene Methoden der Managementforschung — Seminar — Wolf-Alexander Frenkler
-
-**Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
-
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
 
 #### Auszüge aus dem PO-Text
 
@@ -34527,7 +37433,7 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management-marz2011.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management-marz2011.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **8**
+Vorgeschlagene Pflichtveranstaltungen: **7**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -34547,7 +37453,6 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Rechtliche Grundlagen der Start-up-Unternehmen — Vorlesung mit Übung](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — PD Dr. David Bartlitz
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
 
 #### Auszüge aus dem PO-Text
 
@@ -34582,7 +37487,7 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management.md`](../pruefungsordnungen/rw/wiso/masterstudiengaenge/po-ma-management.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **8**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -34603,7 +37508,6 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 **Studiengang:** Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
 
 - [Rechtliche Grundlagen der Start-up-Unternehmen — Vorlesung mit Übung](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — PD Dr. David Bartlitz
-- [Teamfähigkeit, Präsentations- und Verhandlungstechniken (Advanced Soft Skills) — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-rechts-und-wirtschaftswissenschaftlichen-fakultaet-17987.md) — Christoph Küffner, Prof. Dr.-Ing. Eva Maria Hartmann
 
 #### Auszüge aus dem PO-Text
 
@@ -35908,7 +38812,7 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-feb2016.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-feb2016.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **26**
+Vorgeschlagene Pflichtveranstaltungen: **25**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -35933,7 +38837,6 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — apl. Prof. Dr. Stefan Milius
-- [Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" — Vorlesung mit Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Melanie Döllwanger
 - [Übungen zu Parallele und Funktionale Programmierung — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — David Schwarzbeck, Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, Lukas Rotsching
 
 **Studiengang:** - Informatik (FAU Scientia)  -
@@ -36165,7 +39068,7 @@ Vorgeschlagene Pflichtveranstaltungen: **8**
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2014.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2014.md)  
 Pflicht-Stellen gefunden: **13**  
-Vorgeschlagene Pflichtveranstaltungen: **29**
+Vorgeschlagene Pflichtveranstaltungen: **28**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -36187,7 +39090,6 @@ Vorgeschlagene Pflichtveranstaltungen: **29**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — apl. Prof. Dr. Stefan Milius
-- [Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" — Vorlesung mit Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Melanie Döllwanger
 - [Übungen zu Parallele und Funktionale Programmierung — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — David Schwarzbeck, Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, Lukas Rotsching
 
 **Studiengang:** - Informatik (FAU Scientia)  -
@@ -36275,7 +39177,7 @@ _(+ 9 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2015.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2015.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **30**
+Vorgeschlagene Pflichtveranstaltungen: **29**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -36301,7 +39203,6 @@ Vorgeschlagene Pflichtveranstaltungen: **30**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — apl. Prof. Dr. Stefan Milius
-- [Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" — Vorlesung mit Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Melanie Döllwanger
 - [Übungen zu Parallele und Funktionale Programmierung — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — David Schwarzbeck, Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, Lukas Rotsching
 
 **Studiengang:** - Informatik (FAU Scientia)  -
@@ -36393,7 +39294,7 @@ _(+ 10 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2016.md`](../pruefungsordnungen/rw/wiso/po-bachelorstudiengaenge-juli2016.md)  
 Pflicht-Stellen gefunden: **14**  
-Vorgeschlagene Pflichtveranstaltungen: **26**
+Vorgeschlagene Pflichtveranstaltungen: **25**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -36418,7 +39319,6 @@ Vorgeschlagene Pflichtveranstaltungen: **26**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Intensivübung zu Theoretische Informatik für Wirtschaftsinformatik und Lehramt (optional) — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — apl. Prof. Dr. Stefan Milius
-- [Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" — Vorlesung mit Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Melanie Döllwanger
 - [Übungen zu Parallele und Funktionale Programmierung — Übung](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — David Schwarzbeck, Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, Lukas Rotsching
 
 **Studiengang:** - Informatik (FAU Scientia)  -
@@ -38143,13 +41043,79 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/bsc-artificial-intelligence-fpobscai-20240328-idf-20250616.md`](../pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/bsc-artificial-intelligence-fpobscai-20240328-idf-20250616.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **54**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-**Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
+- Begleitseminar für Algorithms, Programming and Data Representation — Seminar — Felix Nützel, Prof. Dr. Bernhard Kainz
 
-- [GEAS: Das Gemeinsame Europäische Asylsystem unter der Lupe — Masterseminar](../565-wintersemester-2025-26/veranstaltungen-aus-der-philosophischen-fakultaet-und-dem-fachbereich-theologie-17330.md) — apl. Prof. Dr. Petra Bendel
+**Studiengang:** - Informatik (FAU Scientia)  -
+
+- [Applied Software Engineering Master-Projekt — Projekt](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Prof. Dr. Dirk Riehle
+
+**Studiengang:** - Informatik (FAU Scientia)  -
+
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Artificial Intelligence II — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Michael Kohlhase
+- [Artificial Intelligence II - Übung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md)
+
+**Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
+
+- [Materials Data Engineering in Industrial Practice — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Johannes Möller
+
+**Studiengang:** Artificial Intelligence
+
+- [Algorithms, programming, and data representation — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Bernhard Kainz (Zuständigkeit: Verantwortliche/-r)
+- [Algorithms, programming, and data representation — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Algorithms, programming, and data representation — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Mathematics for Data Science 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Daniel Tenbrinck (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Frauke Liers-Bergmann (Zuständigkeit: Verantwortliche/-r)
+- [Mathematics for Data Science 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Mathematics for Data Science 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Mathematics for Data Science 2 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Daniel Tenbrinck (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Frauke Liers-Bergmann (Zuständigkeit: Verantwortliche/-r)
+- [Mathematics for Data Science 2 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Logic and Symbolic Artificial Intelligence — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini (Zuständigkeit: Verantwortliche/-r)
+- [Logic and Symbolic Artificial Intelligence, Theory — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini, Dr. rer. nat. Sabine Thürauf
+- [Logic and Symbolic Artificial Intelligence — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Logic and Symbolic Artificial Intelligence, Exercises — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini, Dr. rer. nat. Sabine Thürauf
+- [Probability and Stochastic Processes — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Nora Manz (Zuständigkeit: Bearbeiter/-in) apl. Prof. Dr. Martin Gugat (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Giovanni Fantuzzi (Zuständigkeit: Verantwortliche/-r)
+- [Artificial Intelligence Fundamentals 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Andreas Kist (Zuständigkeit: Verantwortliche/-r)
+- [Artificial Intelligence Fundamentals 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Artificial Intelligence Fundamentals 2 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Jose Bernal Moyano (Zuständigkeit: Verantwortliche/-r)
+- [Artificial Intelligence Perspectives — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini (Zuständigkeit: Verantwortliche/-r)
+- [Artificial Intelligence Perspectives — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Data Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. David Benjamin Blumenthal (Zuständigkeit: Verantwortliche/-r)
+- [Data Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Applied Programming — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Alessandro Del Vecchio (Zuständigkeit: Verantwortliche/-r)
+- [Applied Programming — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Alessandro Del Vecchio (Zuständigkeit: Verantwortliche/-r)
+- [Applied Programming — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Applied Programming — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Computational Complexity — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Florian Knoll (Zuständigkeit: Verantwortliche/-r)
+- [Computational Complexity — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Computational Complexity Exercise — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Florian Knoll, Erik Gösche
+- [Computational Complexity Lecture — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Florian Knoll, Erik Gösche
+- [Algorithms, Programming and Data Representation — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Bernhard Kainz, Felix Nützel
+- [Computer Exercise to Algorithms, Programming and Data Representation — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Bernhard Kainz, Prof. Dr. Florian Knoll, Felix Nützel
+- [Exercise to Algorithms, Programming and Data Representation — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Bernhard Kainz
+- [Introduction to Software Engineering — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr.-Ing. Andreas Maier, Sally Zeitler
+- [Introduction to Software Engineering Exercises — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Sally Zeitler
+- [Free Choice (B.Sc. Artificial Intelligence 20242) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Nora Manz (Zuständigkeit: Bearbeiter/-in)
+- [Bachelor thesis (B.Sc. Artificial Intelligence 20242) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Ethics and Philosophy of AI — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Vincent Cornelius Müller, Miriam Gorr
+- [Ethics and Philosophy of AI — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Nora Manz (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Vincent Cornelius Müller (Zuständigkeit: Verantwortliche/-r)
+- [Ethics and Philosophy of AI — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** Artificial Intelligence
+
+- [Mathematics for Data Science 2 — ](../589-sommersemester-2026/artificial-intelligence-17950.md)
+- [Exercise Engineering Mathematics / Probability and stochastic processes — Übung](../589-sommersemester-2026/artificial-intelligence-17950.md) — apl. Prof. Dr. Martin Gugat
+- [Probability and stochastic processes — Vorlesung](../589-sommersemester-2026/artificial-intelligence-17950.md) — apl. Prof. Dr. Martin Gugat
+- [Probability and Stochastic Processes — ](../589-sommersemester-2026/artificial-intelligence-17950.md)
+- [Artificial Intelligence Fundamentals 2 — ](../589-sommersemester-2026/artificial-intelligence-17950.md)
+- [Data Engineering - Exercise — Übung](../589-sommersemester-2026/artificial-intelligence-17950.md) — Prof. Dr. David Benjamin Blumenthal, Farnaz Rahimi, Dr. Christel Sirocchi
+- [Data Engineering - Lecture — Vorlesung](../589-sommersemester-2026/artificial-intelligence-17950.md) — Prof. Dr. David Benjamin Blumenthal
+- [Applied Programming — Vorlesung mit Übung](../589-sommersemester-2026/artificial-intelligence-17950.md) — Prof. Dr. Alessandro Del Vecchio, Daniel Fenzel, Raul Simpetru
 
 #### Auszüge aus dem PO-Text
 
@@ -38191,6 +41157,106 @@ oder
 Medizintechnik. ?In begründeten Fällen kann die Studienkommission Ausnahmen von
 der Regelung in Satz 1 zulassen.
  …
+
+---
+
+### BSc Artificial Intelligence FPOBScAI 20240328.pdf
+
+PO-Quelle: [`pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/bsc-artificial-intelligence-fpobscai-20240328.md`](../pruefungsordnungen/technische-fakultaet/artificial-intelligence-in-biomedical-engineering/bsc-artificial-intelligence-fpobscai-20240328.md)  
+Pflicht-Stellen gefunden: **5**  
+Vorgeschlagene Pflichtveranstaltungen: **54**
+
+#### Pflichtveranstaltungen (Vorschlag)
+
+- Begleitseminar für Algorithms, Programming and Data Representation — Seminar — Felix Nützel, Prof. Dr. Bernhard Kainz
+
+**Studiengang:** - Informatik (FAU Scientia)  -
+
+- [Applied Software Engineering Master-Projekt — Projekt](../565-wintersemester-2025-26/informatik-fau-scientia-12200679.md) — Prof. Dr. Dirk Riehle
+
+**Studiengang:** - Informatik (FAU Scientia)  -
+
+- [Automotive Systems & Software Engineering — Vorlesung mit Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Loui Al Sardy, Thomas Reiß
+- [Artificial Intelligence II — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr. Michael Kohlhase
+- [Artificial Intelligence II - Übung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md)
+
+**Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
+
+- [Materials Data Engineering in Industrial Practice — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr. Johannes Möller
+
+**Studiengang:** Artificial Intelligence
+
+- [Algorithms, programming, and data representation — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Bernhard Kainz (Zuständigkeit: Verantwortliche/-r)
+- [Algorithms, programming, and data representation — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Algorithms, programming, and data representation — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Mathematics for Data Science 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Daniel Tenbrinck (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Frauke Liers-Bergmann (Zuständigkeit: Verantwortliche/-r)
+- [Mathematics for Data Science 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Mathematics for Data Science 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Mathematics for Data Science 2 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Daniel Tenbrinck (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Frauke Liers-Bergmann (Zuständigkeit: Verantwortliche/-r)
+- [Mathematics for Data Science 2 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Logic and Symbolic Artificial Intelligence — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini (Zuständigkeit: Verantwortliche/-r)
+- [Logic and Symbolic Artificial Intelligence, Theory — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini, Dr. rer. nat. Sabine Thürauf
+- [Logic and Symbolic Artificial Intelligence — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Logic and Symbolic Artificial Intelligence, Exercises — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini, Dr. rer. nat. Sabine Thürauf
+- [Probability and Stochastic Processes — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Nora Manz (Zuständigkeit: Bearbeiter/-in) apl. Prof. Dr. Martin Gugat (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Giovanni Fantuzzi (Zuständigkeit: Verantwortliche/-r)
+- [Artificial Intelligence Fundamentals 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Andreas Kist (Zuständigkeit: Verantwortliche/-r)
+- [Artificial Intelligence Fundamentals 1 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Artificial Intelligence Fundamentals 2 — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Jose Bernal Moyano (Zuständigkeit: Verantwortliche/-r)
+- [Artificial Intelligence Perspectives — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini (Zuständigkeit: Verantwortliche/-r)
+- [Artificial Intelligence Perspectives — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Data Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. David Benjamin Blumenthal (Zuständigkeit: Verantwortliche/-r)
+- [Data Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Applied Programming — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Alessandro Del Vecchio (Zuständigkeit: Verantwortliche/-r)
+- [Applied Programming — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Alessandro Del Vecchio (Zuständigkeit: Verantwortliche/-r)
+- [Applied Programming — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Applied Programming — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Computational Complexity — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Florian Knoll (Zuständigkeit: Verantwortliche/-r)
+- [Computational Complexity — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Computational Complexity Exercise — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Florian Knoll, Erik Gösche
+- [Computational Complexity Lecture — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Florian Knoll, Erik Gösche
+- [Algorithms, Programming and Data Representation — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Bernhard Kainz, Felix Nützel
+- [Computer Exercise to Algorithms, Programming and Data Representation — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Bernhard Kainz, Prof. Dr. Florian Knoll, Felix Nützel
+- [Exercise to Algorithms, Programming and Data Representation — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Bernhard Kainz
+- [Introduction to Software Engineering — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr.-Ing. Andreas Maier, Sally Zeitler
+- [Introduction to Software Engineering Exercises — Übung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Sally Zeitler
+- [Free Choice (B.Sc. Artificial Intelligence 20242) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Nora Manz (Zuständigkeit: Bearbeiter/-in)
+- [Bachelor thesis (B.Sc. Artificial Intelligence 20242) — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+- [Ethics and Philosophy of AI — Vorlesung](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Vincent Cornelius Müller, Miriam Gorr
+- [Ethics and Philosophy of AI — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Nora Manz (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Vincent Cornelius Müller (Zuständigkeit: Verantwortliche/-r)
+- [Ethics and Philosophy of AI — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** Artificial Intelligence
+
+- [Mathematics for Data Science 2 — ](../589-sommersemester-2026/artificial-intelligence-17950.md)
+- [Exercise Engineering Mathematics / Probability and stochastic processes — Übung](../589-sommersemester-2026/artificial-intelligence-17950.md) — apl. Prof. Dr. Martin Gugat
+- [Probability and stochastic processes — Vorlesung](../589-sommersemester-2026/artificial-intelligence-17950.md) — apl. Prof. Dr. Martin Gugat
+- [Probability and Stochastic Processes — ](../589-sommersemester-2026/artificial-intelligence-17950.md)
+- [Artificial Intelligence Fundamentals 2 — ](../589-sommersemester-2026/artificial-intelligence-17950.md)
+- [Data Engineering - Exercise — Übung](../589-sommersemester-2026/artificial-intelligence-17950.md) — Prof. Dr. David Benjamin Blumenthal, Farnaz Rahimi, Dr. Christel Sirocchi
+- [Data Engineering - Lecture — Vorlesung](../589-sommersemester-2026/artificial-intelligence-17950.md) — Prof. Dr. David Benjamin Blumenthal
+- [Applied Programming — Vorlesung mit Übung](../589-sommersemester-2026/artificial-intelligence-17950.md) — Prof. Dr. Alessandro Del Vecchio, Daniel Fenzel, Raul Simpetru
+
+#### Auszüge aus dem PO-Text
+
+**§ 2 Bachelorstudiengang, inhaltlich im Wesentlichen gleiche Studiengänge, Unterrichts- und Prüfungssprache, Sprachvoraussetzungen** _(paragraph)_
+
+(3)[1] Abweichend von § 3 Abs. 6 Satz 1 **ABMPO/TF** ist die Unterrichts- und Prüfungssprache im Bachelorstudiengang Artificial Intelligence Englisch.[2] Einzelne Lehrveranstaltungen und Prüfungen außerhalb des Pflichtmodulkatalogs können auch auf Deutsch abgehalten werden.[ 3] Im Übrigen bleibt § 3 Abs. 6 **ABMPO/TF** unberührt.
+
+**§ 3 Gliederung des Bachelorstudiums** _(paragraph)_
+
+1Das Bachelorstudium Artificial Intelligence setzt sich aus Pflichtmodulen (Module B1 bis B13 und B19), Wahlpflichtmodulen (Modulgruppen bzw. Module B14 bis B17) und 2 Schlüsselqualifikationen (Modulgruppe B18) zusammen. Näheres ist den nachfolgenden Regelungen und der **Anlage 1** bzw. **2** zu entnehmen.
+
+**§ 11 Bewertung der Leistungen des Bachelorstudiums** _(paragraph)_
+
+(2)[1] Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche in wählbaren Modulen des Bachelorstudiums, die im Studienverlaufsplan entsprechend gekennzeichnet sind, beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich.[2] Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.
+
+**Erläuterungen:** _(paragraph)_
+
+- 3) Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich. Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.
+
+_(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 ---
 
@@ -38360,13 +41426,13 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/ba-ma-chemie-und-bioingenieurwesen-fpocbi-20240328.md`](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/ba-ma-chemie-und-bioingenieurwesen-fpocbi-20240328.md)  
 Pflicht-Stellen gefunden: **3**  
-Vorgeschlagene Pflichtveranstaltungen: **13**
+Vorgeschlagene Pflichtveranstaltungen: **37**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 - Tutorium zu Simulation und Wissenschaftliches Rechnen 2 — Tutorium — Prof. Dr. Christoph Pflaum, Niklas Heidenreich
 - Chemische Thermodynamik (TUT) — Tutorium — Jens Dümler
+- Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung — apl. Prof. Dr. Marco Haumann, Prof. Dr. Kathrin Castiglione
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
@@ -38375,11 +41441,11 @@ Vorgeschlagene Pflichtveranstaltungen: **13**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
-- [Chemische Grundlagen der Energietechnik — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Bastian Etzold
+- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 - [Technische Thermodynamik (Vertiefung) für CBI und CEN — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 - [Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Andreas Paul Fröba
 - [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
-- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
+- [Chemische Grundlagen der Energietechnik — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Bastian Etzold
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -38392,6 +41458,51 @@ Vorgeschlagene Pflichtveranstaltungen: **13**
 **Studiengang:** - Maschinenbau (FAU Scientia)  -
 
 - [Prozess- und Temperaturmesstechnik - Online — Online-Kurs](../589-sommersemester-2026/maschinenbau-fau-scientia-13840031.md) — Prof. Dr.-Ing. Tino Hausotte
+
+**Studiengang:** International Production Engineering and Management
+
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** LV mit Nachhaltigkeitsbezug, Technische Fakultät
+
+- [Bioreaktions- und Bioverfahrenstechnik (CBI, MT) — Vorlesung](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md) — Prof. Dr. Kathrin Castiglione
+- [Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik; VF) — Vorlesung](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md) — Dr. Roman Breiter
+- [Praktikum Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik) — Praktikum](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md) — Dr. Roman Breiter
+- [Übungen zu Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik) — Übung](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md) — Dr. Roman Breiter
+- [Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, MT) — Übung](../565-wintersemester-2025-26/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17590.md) — Prof. Dr. Kathrin Castiglione, Stefanie Brückner
+
+**Studiengang:** LV mit Nachhaltigkeitsbezug, Technische Fakultät
+
+- [Bioreaktions- und Bioverfahrenstechnik (nur LSE) — Vorlesung](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md) — Prof. Dr. Kathrin Castiglione
+- [Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE) — Übung](../589-sommersemester-2026/lv-mit-nachhaltigkeitsbezug-technische-fakultaet-17605.md) — Prof. Dr. Kathrin Castiglione, Stefanie Brückner
+
+**Studiengang:** Maschinenbau
+
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Technische Thermodynamik — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Sebastian Rieß (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Michael Wensing (Zuständigkeit: Verantwortliche/-r)
+- [Technische Thermodynamik — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Sebastian Rieß (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Michael Wensing (Zuständigkeit: Verantwortliche/-r)
+- [Technische Thermodynamik — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+- [Technische Thermodynamik — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+
+**Studiengang:** Maschinenbau
+
+- [Technische Thermodynamik — Vorlesung](../589-sommersemester-2026/maschinenbau-17943.md) — Dr.-Ing. Sebastian Rieß, Prof. Dr.-Ing. Michael Wensing, Bastian Rüppel, Johanna Lützenkirchen
+- [Technische Thermodynamik Übung — Übung](../589-sommersemester-2026/maschinenbau-17943.md) — Bastian Rüppel, Johanna Lützenkirchen, Dr.-Ing. Sebastian Rieß, Prof. Dr.-Ing. Michael Wensing
+
+**Studiengang:** Mechatronik
+
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Technische Thermodynamik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Sebastian Rieß (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Michael Wensing (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Technische Thermodynamik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Sebastian Rieß (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Michael Wensing (Zuständigkeit: Verantwortliche/-r)
+- [Technische Thermodynamik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Sebastian Rieß (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Michael Wensing (Zuständigkeit: Verantwortliche/-r)
+- [Technische Thermodynamik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Sebastian Rieß (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Michael Wensing (Zuständigkeit: Verantwortliche/-r)
+- [Technische Thermodynamik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Sebastian Rieß (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Michael Wensing (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -38413,13 +41524,24 @@ Vorgeschlagene Pflichtveranstaltungen: **13**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/bsc-msc-chemical-engineering-fpocen-20230426-aes.md`](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/bsc-msc-chemical-engineering-fpocen-20230426-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **6**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
+
+**Studiengang:** Maschinenbau
+
+- [Masterarbeit mit Hauptseminar (M.Sc. Maschinenbau 20222) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+
+**Studiengang:** Mechatronik
+
+- [Masterarbeit mit Hauptseminar (M.Sc. Mechatronik 2012) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [M7 Masterarbeit mit Hauptseminar (M.Sc. Mechatronik 20202) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [M7 Masterarbeit mit Hauptseminar (M.Sc. Mechatronik 20212) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [M7 Masterarbeit mit Hauptseminar (M.Sc. Mechatronik 20252) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
 
 #### Auszüge aus dem PO-Text
 
@@ -38492,7 +41614,7 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md`](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-20110607-idf-20230426.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **12**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -38519,6 +41641,17 @@ Vorgeschlagene Pflichtveranstaltungen: **12**
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Advanced seminar (Hauptseminar) MSEI - Module M12 — Seminar](../565-wintersemester-2025-26/werkstoffwissenschaften-fau-scientia-12200959.md) — PD Dr.-Ing. Steffen Neumeier
+
+**Studiengang:** Maschinenbau
+
+- [Masterarbeit mit Hauptseminar (M.Sc. Maschinenbau 20222) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+
+**Studiengang:** Mechatronik
+
+- [Masterarbeit mit Hauptseminar (M.Sc. Mechatronik 2012) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [M7 Masterarbeit mit Hauptseminar (M.Sc. Mechatronik 20202) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [M7 Masterarbeit mit Hauptseminar (M.Sc. Mechatronik 20212) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [M7 Masterarbeit mit Hauptseminar (M.Sc. Mechatronik 20252) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
 
 **Studiengang:** Veranstaltungen aus der Philosophischen Fakultät und dem Fachbereich Theologie
 
@@ -38955,7 +42088,7 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/13aesa-fpoeei.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/13aesa-fpoeei.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **56**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -38965,15 +42098,54 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
-- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Entwurf Integrierter Schaltungen I — Vorlesung mit Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
-- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Übungen zu Entwurf Integrierter Schaltungen I — Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Feim Ridvan Rasim
+- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
+- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Seminar zu Fragen des Entwurfs Sicherheitskritischer Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
 - [Übungen zu Pulsumrichter für elektrische Antriebe — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Dr.-Ing. Jens Igney
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Medizintechnik
+
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/medizintechnik-17112.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -38986,6 +42158,20 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 - [Digitale elektronische Systeme — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr.-Ing. Georg Fischer
 - [Test Integrierter Schaltungen — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr.-Ing. Klaus Helmreich
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -39589,32 +42775,82 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-ma-elektrotechnik-elektronik-und-informationstechnik-fpoeei-20070920-idf-20190809.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-ma-elektrotechnik-elektronik-und-informationstechnik-fpoeei-20070920-idf-20190809.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **22**
+Vorgeschlagene Pflichtveranstaltungen: **78**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Elektromagnetische Verträglichkeit — Vorlesung — Dr.-Ing. Daniel Kübrich
+- Digitale Übertragung - Übungen — Übung
+- Digitale Übertragung — Vorlesung — Prof. Dr.-Ing. Robert Schober
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Prof. Dr.-Ing. Matthias Luther
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Dr.-Ing. Dieter Braisch
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Dr.-Ing. Gert Mehlmann
 - Berechnung und Auslegung elektrischer Maschinen — Vorlesung — Prof. Dr.-Ing. Ingo Hahn
-- Digitale Übertragung - Übungen — Übung
-- Digitale Übertragung — Vorlesung — Prof. Dr.-Ing. Robert Schober
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
-- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Entwurf Integrierter Schaltungen I — Vorlesung mit Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
-- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Übungen zu Entwurf Integrierter Schaltungen I — Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Feim Ridvan Rasim
+- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
+- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
 - [Seminar zu Fragen des Entwurfs Sicherheitskritischer Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
+- [Übungen zu Pulsumrichter für elektrische Antriebe — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Dr.-Ing. Jens Igney
 - [Betriebsverhalten elektrischer Energiesysteme — Vorlesung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Matthias Luther, Alina Feldmeier, Seyedehniloofar Kamalhosseini
 - [Übung zu Betriebsverhalten elektrischer Energiesysteme — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Alina Feldmeier, Seyedehniloofar Kamalhosseini, Prof. Dr.-Ing. Matthias Luther
-- [Übungen zu Pulsumrichter für elektrische Antriebe — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Dr.-Ing. Jens Igney
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Medizintechnik
+
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/medizintechnik-17112.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -39627,6 +42863,24 @@ Vorgeschlagene Pflichtveranstaltungen: **22**
 
 - [Digitale elektronische Systeme — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr.-Ing. Georg Fischer
 - [Test Integrierter Schaltungen — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr.-Ing. Klaus Helmreich
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -39654,32 +42908,84 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-ma-elektrotechnik-elektronik-und-informationstechnik-fpoeei-20070920-idf-20210701.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/ba-ma-elektrotechnik-elektronik-und-informationstechnik-fpoeei-20070920-idf-20210701.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **22**
+Vorgeschlagene Pflichtveranstaltungen: **80**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Elektromagnetische Verträglichkeit — Vorlesung — Dr.-Ing. Daniel Kübrich
+- Digitale Übertragung - Übungen — Übung
+- Digitale Übertragung — Vorlesung — Prof. Dr.-Ing. Robert Schober
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Prof. Dr.-Ing. Matthias Luther
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Dr.-Ing. Dieter Braisch
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Dr.-Ing. Gert Mehlmann
 - Berechnung und Auslegung elektrischer Maschinen — Vorlesung — Prof. Dr.-Ing. Ingo Hahn
-- Digitale Übertragung - Übungen — Übung
-- Digitale Übertragung — Vorlesung — Prof. Dr.-Ing. Robert Schober
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
-- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Entwurf Integrierter Schaltungen I — Vorlesung mit Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
-- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Übungen zu Entwurf Integrierter Schaltungen I — Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Feim Ridvan Rasim
+- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
+- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
 - [Seminar zu Fragen des Entwurfs Sicherheitskritischer Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
+- [Übungen zu Pulsumrichter für elektrische Antriebe — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Dr.-Ing. Jens Igney
 - [Betriebsverhalten elektrischer Energiesysteme — Vorlesung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Matthias Luther, Alina Feldmeier, Seyedehniloofar Kamalhosseini
 - [Übung zu Betriebsverhalten elektrischer Energiesysteme — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Alina Feldmeier, Seyedehniloofar Kamalhosseini, Prof. Dr.-Ing. Matthias Luther
-- [Übungen zu Pulsumrichter für elektrische Antriebe — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Dr.-Ing. Jens Igney
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Mechatronic components and systems (MCS) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Mechatronic components and systems (MCS) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Medizintechnik
+
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/medizintechnik-17112.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -39692,6 +42998,24 @@ Vorgeschlagene Pflichtveranstaltungen: **22**
 
 - [Digitale elektronische Systeme — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr.-Ing. Georg Fischer
 - [Test Integrierter Schaltungen — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr.-Ing. Klaus Helmreich
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -39845,7 +43169,7 @@ _(+ 21 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20240430.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20240430.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **17**
+Vorgeschlagene Pflichtveranstaltungen: **36**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -39861,6 +43185,29 @@ Vorgeschlagene Pflichtveranstaltungen: **17**
 - [Radar, RFID and Wireless Sensor Systems — Vorlesung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Martin Vossiek
 - [Joint Communications and Sensing in Wireless Systems — Hauptseminar](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Norman Franchi, Prof. Dr.-Ing. Robert Schober, Prof. Dr.-Ing. Georg Fischer, Prof. Dr.-Ing. Martin Vossiek
 
+**Studiengang:** Artificial Intelligence
+
+- [Intent Detection and Feedback — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini (Zuständigkeit: Verantwortliche/-r)
+- [Human Computer Interaction — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [MIMO Communication Systems — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Human Computer Interaction — ](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Mechatronik
+
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Human Computer Interaction — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Image, Video, and Multidimensional Signal Processing — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andre Kaup
@@ -39875,6 +43222,17 @@ Vorgeschlagene Pflichtveranstaltungen: **17**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Next Generation Mobile Communication Systems: 5G-Advanced and 6G — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Dr. Stefan Brück, apl. Prof. Dr. Wolfgang Gerstacker
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Statistical Signal Processing — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sebastian Schlecht (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in)
+- [Statistical Signal Processing — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sebastian Schlecht (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -39902,7 +43260,7 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20241219.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426-idf-20241219.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **17**
+Vorgeschlagene Pflichtveranstaltungen: **36**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -39918,6 +43276,29 @@ Vorgeschlagene Pflichtveranstaltungen: **17**
 - [Radar, RFID and Wireless Sensor Systems — Vorlesung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Martin Vossiek
 - [Joint Communications and Sensing in Wireless Systems — Hauptseminar](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Norman Franchi, Prof. Dr.-Ing. Robert Schober, Prof. Dr.-Ing. Georg Fischer, Prof. Dr.-Ing. Martin Vossiek
 
+**Studiengang:** Artificial Intelligence
+
+- [Intent Detection and Feedback — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini (Zuständigkeit: Verantwortliche/-r)
+- [Human Computer Interaction — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [MIMO Communication Systems — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Human Computer Interaction — ](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Mechatronik
+
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Human Computer Interaction — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Image, Video, and Multidimensional Signal Processing — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andre Kaup
@@ -39932,6 +43313,17 @@ Vorgeschlagene Pflichtveranstaltungen: **17**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Next Generation Mobile Communication Systems: 5G-Advanced and 6G — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Dr. Stefan Brück, apl. Prof. Dr. Wolfgang Gerstacker
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Statistical Signal Processing — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sebastian Schlecht (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in)
+- [Statistical Signal Processing — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sebastian Schlecht (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -39959,7 +43351,7 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-autonomy-technologies-fpo-at-20230426.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **17**
+Vorgeschlagene Pflichtveranstaltungen: **36**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -39975,6 +43367,29 @@ Vorgeschlagene Pflichtveranstaltungen: **17**
 - [Radar, RFID and Wireless Sensor Systems — Vorlesung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Martin Vossiek
 - [Joint Communications and Sensing in Wireless Systems — Hauptseminar](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Norman Franchi, Prof. Dr.-Ing. Robert Schober, Prof. Dr.-Ing. Georg Fischer, Prof. Dr.-Ing. Martin Vossiek
 
+**Studiengang:** Artificial Intelligence
+
+- [Intent Detection and Feedback — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Claudio Castellini (Zuständigkeit: Verantwortliche/-r)
+- [Human Computer Interaction — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [MIMO Communication Systems — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Human Computer Interaction — ](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Mechatronik
+
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Human Computer Interaction — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Björn Eskofier (Zuständigkeit: Verantwortliche/-r) Syrine Slim (Zuständigkeit: Bearbeiter/-in) Björn Nieth (Zuständigkeit: Bearbeiter/-in)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Image, Video, and Multidimensional Signal Processing — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andre Kaup
@@ -39989,6 +43404,17 @@ Vorgeschlagene Pflichtveranstaltungen: **17**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Next Generation Mobile Communication Systems: 5G-Advanced and 6G — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Dr. Stefan Brück, apl. Prof. Dr. Wolfgang Gerstacker
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Robot mechanisms and user interfaces — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r) Mehmet Ege Cansev (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Human-centered mechatronics and robotics — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Nonlinear Control Systems — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Statistical Signal Processing — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sebastian Schlecht (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in)
+- [Statistical Signal Processing — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sebastian Schlecht (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -40016,33 +43442,99 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-elektrotechnik-elektronik-und-informationstechnik-fpoeei-20070920-idf-20220629.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/bsc-msc-elektrotechnik-elektronik-und-informationstechnik-fpoeei-20070920-idf-20220629.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **27**
+Vorgeschlagene Pflichtveranstaltungen: **100**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
+- Digitale Übertragung - Übungen — Übung
+- Digitale Übertragung — Vorlesung — Prof. Dr.-Ing. Robert Schober
+- Elektromagnetische Verträglichkeit — Vorlesung — Dr.-Ing. Daniel Kübrich
 - Bachelorseminar Felder und Wellen in der Optoelektronik — Seminar — Prof. Dr. Bernd Witzigmann
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Prof. Dr.-Ing. Matthias Luther
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Dr.-Ing. Dieter Braisch
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Dr.-Ing. Gert Mehlmann
 - Berechnung und Auslegung elektrischer Maschinen — Vorlesung — Prof. Dr.-Ing. Ingo Hahn
-- Digitale Übertragung - Übungen — Übung
-- Digitale Übertragung — Vorlesung — Prof. Dr.-Ing. Robert Schober
-- Elektromagnetische Verträglichkeit — Vorlesung — Dr.-Ing. Daniel Kübrich
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
-- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Entwurf Integrierter Schaltungen I — Vorlesung mit Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
-- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Übungen zu Entwurf Integrierter Schaltungen I — Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Feim Ridvan Rasim
+- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
+- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
 - [Seminar zu Fragen des Entwurfs Sicherheitskritischer Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
+- [Übungen zu Pulsumrichter für elektrische Antriebe — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Dr.-Ing. Jens Igney
 - [Betriebsverhalten elektrischer Energiesysteme — Vorlesung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Matthias Luther, Alina Feldmeier, Seyedehniloofar Kamalhosseini
 - [Übung zu Betriebsverhalten elektrischer Energiesysteme — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Alina Feldmeier, Seyedehniloofar Kamalhosseini, Prof. Dr.-Ing. Matthias Luther
-- [Übungen zu Pulsumrichter für elektrische Antriebe — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Dr.-Ing. Jens Igney
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Felder und Wellen in optoelektronischen Bauelementen (V-Fel-Wel) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Mechatronic components and systems (MCS) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Mechatronik
+
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Mechatronic components and systems (MCS) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf Integrierter Schaltungen II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r) Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf Integrierter Schaltungen II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r) Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik B (Zustandsraummethoden) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Medizintechnik
+
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/medizintechnik-17112.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -40059,6 +43551,28 @@ Vorgeschlagene Pflichtveranstaltungen: **27**
 - [Test Integrierter Schaltungen — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr.-Ing. Klaus Helmreich
 - [Halbleitertechnologie IV - Optical Lithography: Technology, Physical Effects, and Modelling — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — PD Dr. Andreas Erdmann
 - [Übung zu Halbleitertechnologie IV - Optical Lithography — Übung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — PD Dr. Andreas Erdmann
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Felder und Wellen in optoelektronischen Bauelementen (V-Fel-Wel) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Felder und Wellen in optoelektronischen Bauelementen (V-Fel-Wel) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -40329,32 +43843,82 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-eei-juli2017.md`](../pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/fpo-ba-ma-eei-juli2017.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **22**
+Vorgeschlagene Pflichtveranstaltungen: **78**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
 - Elektromagnetische Verträglichkeit — Vorlesung — Dr.-Ing. Daniel Kübrich
+- Digitale Übertragung - Übungen — Übung
+- Digitale Übertragung — Vorlesung — Prof. Dr.-Ing. Robert Schober
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Prof. Dr.-Ing. Matthias Luther
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Dr.-Ing. Dieter Braisch
 - Anleitung zu wiss. Arbeiten auf dem Gebiet elektrischer Energiesysteme — Anleitung zu wiss. Arbeiten — Dr.-Ing. Gert Mehlmann
 - Berechnung und Auslegung elektrischer Maschinen — Vorlesung — Prof. Dr.-Ing. Ingo Hahn
-- Digitale Übertragung - Übungen — Übung
-- Digitale Übertragung — Vorlesung — Prof. Dr.-Ing. Robert Schober
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
-- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Entwurf Integrierter Schaltungen I — Vorlesung mit Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
-- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Übungen zu Entwurf Integrierter Schaltungen I — Übung](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Feim Ridvan Rasim
+- [Seminar Entwurf Integrierter Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
+- [Seminar Entwurf und Zuverlässigkeit Integrierter Schaltungen und Systeme — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 - [Hauptseminar über Diplom-, Studien-, Bachelor- und Masterarbeiten der elektrischen Maschinen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Ingo Hahn
 - [Seminar zu Fragen des Entwurfs Sicherheitskritischer Schaltungen — Hauptseminar](../565-wintersemester-2025-26/elektro-und-informationstechnik-fau-scientia-12200804.md) — Prof. Dr.-Ing. Sebastian Sattler
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
+- [Übungen zu Pulsumrichter für elektrische Antriebe — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Dr.-Ing. Jens Igney
 - [Betriebsverhalten elektrischer Energiesysteme — Vorlesung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Prof. Dr.-Ing. Matthias Luther, Alina Feldmeier, Seyedehniloofar Kamalhosseini
 - [Übung zu Betriebsverhalten elektrischer Energiesysteme — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Alina Feldmeier, Seyedehniloofar Kamalhosseini, Prof. Dr.-Ing. Matthias Luther
-- [Übungen zu Pulsumrichter für elektrische Antriebe — Übung](../589-sommersemester-2026/elektro-und-informationstechnik-fau-scientia-13839933.md) — Dr.-Ing. Jens Igney
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Pulsumrichter für elektrische Antriebe — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Jens Igney (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Entwurf integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sebastian Sattler (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Antriebstechnik II — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Elektrische Maschinen I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Ingo Hahn (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Angewandte Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r) Jeannette Konhäuser (Zuständigkeit: Verantwortliche/-r)
+- [Hauptseminar Elektromagnetische Verträglichkeit — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Daniel Kübrich (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Medizintechnik
+
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/medizintechnik-17112.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -40367,6 +43931,24 @@ Vorgeschlagene Pflichtveranstaltungen: **22**
 
 - [Digitale elektronische Systeme — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr.-Ing. Georg Fischer
 - [Test Integrierter Schaltungen — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Prof. Dr.-Ing. Klaus Helmreich
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Betriebsmittel und Komponenten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Entwurf Integrierter Schaltungen I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Peter Meisel (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Analoge elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Torsten Reißland (Zuständigkeit: Bearbeiter/-in) Ouadie Touijer (Zuständigkeit: Verantwortliche/-r)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Betriebsverhalten elektrischer Energiesysteme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Matthias Luther (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Dieter Braisch (Zuständigkeit: Bearbeiter/-in)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Digitale elektronische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Albert-Marcel Schrotz (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Weigel (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Laura Cottatellucci (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Digitale Übertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -41892,7 +45474,7 @@ Vorgeschlagene Pflichtveranstaltungen: **3**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/8aes-ba-ma-informatik.md`](../pruefungsordnungen/technische-fakultaet/informatik/8aes-ba-ma-informatik.md)  
 Pflicht-Stellen gefunden: **1**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **18**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -41900,11 +45482,11 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 **Studiengang:** - Frühstudium -
 
+- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
+- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Grundlagen der Technischen Informatik — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr.-Ing. Jürgen Teich, Dr.-Ing. Stefan Wildermann
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Parallele und Funktionale Programmierung — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, David Schwarzbeck
-- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
-- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -41913,14 +45495,22 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
-- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
-- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
 - [Intensivübung zu Theorie der Programmierung (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
 - [Übungen zu Theorie der Programmierung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
 
 **Studiengang:** - Philosophie und Sozialwissenschaften (FAU Scientia)  -
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
+
+**Studiengang:** Maschinenbau
+
+- [Berechenbarkeit und Formale Sprachen — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Rolf Wanka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -41929,6 +45519,10 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Theorie der Programmierung — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Dr.-Ing. Paul Wild
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Grundlagen der Rechnerarchitektur und -organisation — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Dietmar Fey (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -41951,17 +45545,66 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/ba-ma-medizintechnik-fpomt-20090915-idf-20180828.md`](../pruefungsordnungen/technische-fakultaet/informatik/ba-ma-medizintechnik-fpomt-20090915-idf-20180828.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **27**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Surfaces of Biomaterials / Oberflächen von Biomaterialien — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr.-Ing. Rainer Detsch, Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Passive Bauelemente und deren HF-Verhalten — Vorlesung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Martin Vossiek
+- [Passive Bauelemente und deren HF-Verhalten Übung — Übung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Martin Vossiek
+
+**Studiengang:** Maschinenbau
+
+- [Pattern Recognition — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik A (Grundlagen) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Recognition — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Analysis — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Pattern Recognition — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andreas Maier
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -41989,17 +45632,66 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/ba-ma-medizintechnik-fpomt-20090915-idf-20190710.md`](../pruefungsordnungen/technische-fakultaet/informatik/ba-ma-medizintechnik-fpomt-20090915-idf-20190710.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **27**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Surfaces of Biomaterials / Oberflächen von Biomaterialien — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr.-Ing. Rainer Detsch, Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Passive Bauelemente und deren HF-Verhalten — Vorlesung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Martin Vossiek
+- [Passive Bauelemente und deren HF-Verhalten Übung — Übung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Martin Vossiek
+
+**Studiengang:** Maschinenbau
+
+- [Pattern Recognition — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik A (Grundlagen) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Recognition — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Analysis — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Pattern Recognition — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andreas Maier
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -42027,7 +45719,7 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20150116-idf-20190815.md`](../pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20150116-idf-20190815.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **7**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42035,6 +45727,9 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 
 - [Grundlagen der Programmierung — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Tim Weyrich, Dr.-Ing. Vanessa Klein
 - [Übungen zu Grundlagen der Programmierung — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Vanessa Klein, Mathias Harrer
+- [Algorithmen und Datenstrukturen (für Medizintechnik) Rechnerübung (GOP) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Constantin Jehn, Jasmin Riegel, Prof. Dr. Tobias Reichenbach, Dr.-Ing. Alina Schüller, Pablo Ochoa de Eribe Delgado, Michael Thornton
+- [Algorithmen und Datenstrukturen (für Medizintechnik) (GOP) — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Tobias Reichenbach
+- [Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Constantin Jehn, Jasmin Riegel, Prof. Dr. Tobias Reichenbach, Pablo Ochoa de Eribe Delgado, Janna Steinebach
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -42049,9 +45744,38 @@ Vorgeschlagene Pflichtveranstaltungen: **7**
 
 - [Einführung in das Studium der Digitalen Geistes- und Sozialwissenschaften — Seminar](../565-wintersemester-2025-26/philosophie-und-sozialwissenschaften-fau-scientia-12199890.md) — Prof. Dr. Michaela Mahlberg, Dr. Marianna Grachova
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Systemnahe Programmierung in C — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Volkmar Sieh (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Systemnahe Programmierung in C — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr.-Ing. Volkmar Sieh (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Systemnahe Programmierung in C — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Volkmar Sieh (Zuständigkeit: Verantwortliche/-r)
+- [Systemnahe Programmierung in C — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Volkmar Sieh (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Systemnahe Programmierung in C — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Volkmar Sieh (Zuständigkeit: Verantwortliche/-r)
+- [Systemnahe Programmierung in C — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+
+**Studiengang:** Mechatronik
+
+- [Systemnahe Programmierung in C - Rechnerübungen — Übung](../589-sommersemester-2026/mechatronik-17956.md) — Arne Vogel, Maxim Ritter von Onciul, Eva Dengler
+- [Systemnahe Programmierung in C — Vorlesung](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Volkmar Sieh
+- [Systemnahe Programmierung in C - Tafelübung — Übung](../589-sommersemester-2026/mechatronik-17956.md) — Arne Vogel, Maxim Ritter von Onciul, Eva Dengler
+
 **Studiengang:** Wirtschaftsinformatik
 
 - [Algorithmen und Datenstrukturen für MT — ](../565-wintersemester-2025-26/wirtschaftsinformatik-16789.md) — Prof. Dr. Tobias Reichenbach (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Systemnahe Programmierung in C — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Volkmar Sieh (Zuständigkeit: Verantwortliche/-r)
+- [Systemnahe Programmierung in C — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Volkmar Sieh (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -42124,7 +45848,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180116.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180116.md)  
 Pflicht-Stellen gefunden: **18**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **89**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42135,19 +45859,129 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
+- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 - [Technische Thermodynamik (Vertiefung) für CBI und CEN — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 - [Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Andreas Paul Fröba
 - [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
-- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Festkörperthermodynamik — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Praktikum Grundlagen der Elektrotechnik I für Medizintechnik — Praktikum](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Dr.-Ing. Eva Russwurm, Prof. Dr.-Ing. Georg Fischer
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Praktikum Grundlagen der Elektrotechnik I (EEI, BPT) — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik III Kurs A — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik III Kurs C — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Tutorium zu Elektromagnetische Felder I — Tutorium](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Klaus Helmreich
+- [Elektromagnetische Felder I — Vorlesung mit Übung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Gerald Gold, Prof. Dr.-Ing. Klaus Helmreich
+
+**Studiengang:** International Production Engineering and Management
+
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Elektrotechnik I (MT und ME) — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Georg Fischer
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I für MT, MECH — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Angelika Thalmayer (Zuständigkeit: Bearbeiter/-in) Sebastian Peters (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Tutorium zu Grundlagen der Elektrotechnik I (MT und ME) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Angelika Thalmayer
+- [Übungen zu Grundlagen der Elektrotechnik I (MT und ME) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Timo Maiwald, Angelika Thalmayer, Maximilian Lübke
+- [Grundlagen der Elektrotechnik I für MT — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III und Praktikum Grundlagen der Elektrotechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle, Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III (Übung) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas, Prof. Dr.-Ing. Philipp Beckerle
+- [Grundlagen der Elektrotechnik III (Tutorium) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Praktikum Grundlagen der Elektrotechnik I für Energietechnik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik I für Mechatronik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Eva Russwurm
+- [Praktikum Grundlagen der Elektrotechnik III Kurs D — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Numerische Methoden elektromagnetischer Felder — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
 - [Übung zu Numerische Methoden elektromagnetischer Felder — Übung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Übung zu Signale und Systeme I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Paul Wawerek-López, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann
+- [Übungen zu Grundlagen der Elektrotechnik I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Daniel Kübrich, Sebastian Kölle
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Tutorium zur Dynamik starrer Körper — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Übungen zur Dynamik starrer Körper — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -42175,7 +46009,7 @@ _(+ 14 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180730.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180730.md)  
 Pflicht-Stellen gefunden: **18**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **89**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42186,19 +46020,129 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
+- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 - [Technische Thermodynamik (Vertiefung) für CBI und CEN — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 - [Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Andreas Paul Fröba
 - [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
-- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Festkörperthermodynamik — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Praktikum Grundlagen der Elektrotechnik I für Medizintechnik — Praktikum](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Dr.-Ing. Eva Russwurm, Prof. Dr.-Ing. Georg Fischer
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Praktikum Grundlagen der Elektrotechnik I (EEI, BPT) — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik III Kurs A — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik III Kurs C — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Tutorium zu Elektromagnetische Felder I — Tutorium](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Klaus Helmreich
+- [Elektromagnetische Felder I — Vorlesung mit Übung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Gerald Gold, Prof. Dr.-Ing. Klaus Helmreich
+
+**Studiengang:** International Production Engineering and Management
+
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Elektrotechnik I (MT und ME) — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Georg Fischer
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I für MT, MECH — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Angelika Thalmayer (Zuständigkeit: Bearbeiter/-in) Sebastian Peters (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Tutorium zu Grundlagen der Elektrotechnik I (MT und ME) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Angelika Thalmayer
+- [Übungen zu Grundlagen der Elektrotechnik I (MT und ME) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Timo Maiwald, Angelika Thalmayer, Maximilian Lübke
+- [Grundlagen der Elektrotechnik I für MT — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III und Praktikum Grundlagen der Elektrotechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle, Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III (Übung) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas, Prof. Dr.-Ing. Philipp Beckerle
+- [Grundlagen der Elektrotechnik III (Tutorium) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Praktikum Grundlagen der Elektrotechnik I für Energietechnik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik I für Mechatronik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Eva Russwurm
+- [Praktikum Grundlagen der Elektrotechnik III Kurs D — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Numerische Methoden elektromagnetischer Felder — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
 - [Übung zu Numerische Methoden elektromagnetischer Felder — Übung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann
+- [Übungen zu Grundlagen der Elektrotechnik I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Daniel Kübrich, Sebastian Kölle
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Übung zu Signale und Systeme I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Paul Wawerek-López, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Tutorium zur Dynamik starrer Körper — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Übungen zur Dynamik starrer Körper — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -42226,7 +46170,7 @@ _(+ 14 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20180116-aes.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20180116-aes.md)  
 Pflicht-Stellen gefunden: **16**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **106**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42237,19 +46181,146 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
+- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 - [Technische Thermodynamik (Vertiefung) für CBI und CEN — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 - [Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Andreas Paul Fröba
 - [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
-- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Festkörperthermodynamik — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Praktikum Grundlagen der Elektrotechnik I für Medizintechnik — Praktikum](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Dr.-Ing. Eva Russwurm, Prof. Dr.-Ing. Georg Fischer
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Praktikum Grundlagen der Elektrotechnik I (EEI, BPT) — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik III Kurs A — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik III Kurs C — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Tutorium zu Elektromagnetische Felder I — Tutorium](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Klaus Helmreich
+- [Elektromagnetische Felder I — Vorlesung mit Übung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Gerald Gold, Prof. Dr.-Ing. Klaus Helmreich
+
+**Studiengang:** International Production Engineering and Management
+
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Einführung in die Regelungstechnik — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Thomas Moor (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Einführung in die Regelungstechnik — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Thomas Moor (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Statik, Elastostatik und Festigkeitslehre — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in) Dr.-Ing. Gunnar Possart (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Paul Steinmann (Zuständigkeit: Verantwortliche/-r)
+- [Statik, Elastostatik und Festigkeitslehre — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in) Dr.-Ing. Gunnar Possart (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Paul Steinmann (Zuständigkeit: Verantwortliche/-r)
+- [Statik, Elastostatik und Festigkeitslehre — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+- [Statik, Elastostatik und Festigkeitslehre Prüfung 1 — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Modellbildung in der Regelungstechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Thomas Moor (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Modellbildung in der Regelungstechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Thomas Moor (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Grundlagen der Elektrotechnik I (MT und ME) — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Georg Fischer
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I für MT, MECH — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Angelika Thalmayer (Zuständigkeit: Bearbeiter/-in) Sebastian Peters (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Tutorium zu Grundlagen der Elektrotechnik I (MT und ME) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Angelika Thalmayer
+- [Übungen zu Grundlagen der Elektrotechnik I (MT und ME) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Timo Maiwald, Angelika Thalmayer, Maximilian Lübke
+- [Grundlagen der Elektrotechnik I für MT — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III und Praktikum Grundlagen der Elektrotechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle, Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III (Übung) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas, Prof. Dr.-Ing. Philipp Beckerle
+- [Grundlagen der Elektrotechnik III (Tutorium) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik B (Zustandsraummethoden) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Praktikum Grundlagen der Elektrotechnik I für Energietechnik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik I für Mechatronik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Eva Russwurm
+- [Praktikum Grundlagen der Elektrotechnik III Kurs D — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Numerische Methoden elektromagnetischer Felder — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
 - [Übung zu Numerische Methoden elektromagnetischer Felder — Übung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Übung zu Signale und Systeme I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Paul Wawerek-López, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann
+- [Übungen zu Grundlagen der Elektrotechnik I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Daniel Kübrich, Sebastian Kölle
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik B (Zustandsraummethoden) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Tutorium zur Dynamik starrer Körper — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Übungen zur Dynamik starrer Körper — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -42277,7 +46348,7 @@ _(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20180730-aes.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20180730-aes.md)  
 Pflicht-Stellen gefunden: **7**  
-Vorgeschlagene Pflichtveranstaltungen: **9**
+Vorgeschlagene Pflichtveranstaltungen: **89**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42288,19 +46359,129 @@ Vorgeschlagene Pflichtveranstaltungen: **9**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
+- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 - [Technische Thermodynamik (Vertiefung) für CBI und CEN — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 - [Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Andreas Paul Fröba
 - [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
-- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Festkörperthermodynamik — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Praktikum Grundlagen der Elektrotechnik I für Medizintechnik — Praktikum](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Dr.-Ing. Eva Russwurm, Prof. Dr.-Ing. Georg Fischer
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Praktikum Grundlagen der Elektrotechnik I (EEI, BPT) — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik III Kurs A — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik III Kurs C — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Tutorium zu Elektromagnetische Felder I — Tutorium](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Klaus Helmreich
+- [Elektromagnetische Felder I — Vorlesung mit Übung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Gerald Gold, Prof. Dr.-Ing. Klaus Helmreich
+
+**Studiengang:** International Production Engineering and Management
+
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Elektrotechnik I (MT und ME) — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Georg Fischer
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I für MT, MECH — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Angelika Thalmayer (Zuständigkeit: Bearbeiter/-in) Sebastian Peters (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Tutorium zu Grundlagen der Elektrotechnik I (MT und ME) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Angelika Thalmayer
+- [Übungen zu Grundlagen der Elektrotechnik I (MT und ME) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Timo Maiwald, Angelika Thalmayer, Maximilian Lübke
+- [Grundlagen der Elektrotechnik I für MT — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III und Praktikum Grundlagen der Elektrotechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle, Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III (Übung) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas, Prof. Dr.-Ing. Philipp Beckerle
+- [Grundlagen der Elektrotechnik III (Tutorium) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Praktikum Grundlagen der Elektrotechnik I für Energietechnik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik I für Mechatronik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Eva Russwurm
+- [Praktikum Grundlagen der Elektrotechnik III Kurs D — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Numerische Methoden elektromagnetischer Felder — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
 - [Übung zu Numerische Methoden elektromagnetischer Felder — Übung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Dr.-Ing. Friedhard Römer
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann
+- [Übungen zu Grundlagen der Elektrotechnik I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Daniel Kübrich, Sebastian Kölle
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Übung zu Signale und Systeme I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Paul Wawerek-López, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Elektromagnetische Felder I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Klaus Helmreich (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Tutorium zur Dynamik starrer Körper — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Übungen zur Dynamik starrer Körper — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -42353,7 +46534,7 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md)  
 Pflicht-Stellen gefunden: **18**  
-Vorgeschlagene Pflichtveranstaltungen: **25**
+Vorgeschlagene Pflichtveranstaltungen: **98**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42367,10 +46548,10 @@ Vorgeschlagene Pflichtveranstaltungen: **25**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
+- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 - [Technische Thermodynamik (Vertiefung) für CBI und CEN — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 - [Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Andreas Paul Fröba
 - [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
-- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 
 **Studiengang:** - Elektro- und Informationstechnik (FAU Scientia)  -
 
@@ -42405,6 +46586,84 @@ Vorgeschlagene Pflichtveranstaltungen: **25**
 
 - [Festkörperthermodynamik — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Praktikum Grundlagen der Elektrotechnik I für Medizintechnik — Praktikum](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Dr.-Ing. Eva Russwurm, Prof. Dr.-Ing. Georg Fischer
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Praktikum Grundlagen der Elektrotechnik I (EEI, BPT) — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik III Kurs A — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik III Kurs C — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
+**Studiengang:** International Production Engineering and Management
+
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik II für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik II für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik II für Ingenieure — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I (MT und ME) — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Georg Fischer
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I für MT, MECH — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Angelika Thalmayer (Zuständigkeit: Bearbeiter/-in) Sebastian Peters (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Tutorium zu Grundlagen der Elektrotechnik I (MT und ME) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Angelika Thalmayer
+- [Übungen zu Grundlagen der Elektrotechnik I (MT und ME) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Timo Maiwald, Angelika Thalmayer, Maximilian Lübke
+- [Grundlagen der Elektrotechnik I für MT — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III und Praktikum Grundlagen der Elektrotechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle, Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III (Übung) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas, Prof. Dr.-Ing. Philipp Beckerle
+- [Grundlagen der Elektrotechnik III (Tutorium) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Praktikum Grundlagen der Elektrotechnik I für Energietechnik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik I für Mechatronik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Eva Russwurm
+- [Praktikum Grundlagen der Elektrotechnik III Kurs D — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
 **Studiengang:** Veranstaltungen aus der Naturwissenschaftlichen Fakultät
 
 - [(GIS I) Einführung in die Geographischen Informationssysteme für Geologen — Seminar](../589-sommersemester-2026/veranstaltungen-aus-der-naturwissenschaftlichen-fakultaet-17983.md) — PD Dr. Robert van Geldern
@@ -42412,6 +46671,28 @@ Vorgeschlagene Pflichtveranstaltungen: **25**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik II für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann
+- [Übungen zu Grundlagen der Elektrotechnik I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Daniel Kübrich, Sebastian Kölle
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Tutorium zur Dynamik starrer Körper — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Übungen zur Dynamik starrer Körper — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -42447,19 +46728,62 @@ _(+ 14 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20220421-aes.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20220421-aes.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **3**
+Vorgeschlagene Pflichtveranstaltungen: **32**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
-- Dynamical Systems and Control — Vorlesung mit Übung — Dr.-Ing. Andreas Völz
+**Studiengang:** Elektromobilität-ACES
 
-**Studiengang:** - Geologie und Geografie (FAU Scientia)  -
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
 
-- [Dynamik des Systems Erde - System Erde III — Vorlesung mit Übung](../589-sommersemester-2026/geologie-und-geografie-fau-scientia-13839514.md)
+**Studiengang:** Elektromobilität-ACES
 
-**Studiengang:** - Religionswissenschaften und Theologie (FAU Scientia)  -
+- [Praktikum Grundlagen der Elektrotechnik I für Medizintechnik — Praktikum](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Dr.-Ing. Eva Russwurm, Prof. Dr.-Ing. Georg Fischer
 
-- [NT Einführung in die exeget. Methoden (mit Arbeit) — Proseminar](../565-wintersemester-2025-26/religionswissenschaften-und-theologie-fau-scientia-12199634.md) — Jonathan Reichel
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Praktikum Grundlagen der Elektrotechnik I (EEI, BPT) — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik III Kurs A — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik III Kurs C — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Elektrotechnik I (MT und ME) — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Georg Fischer
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I für MT, MECH — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Angelika Thalmayer (Zuständigkeit: Bearbeiter/-in) Sebastian Peters (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Tutorium zu Grundlagen der Elektrotechnik I (MT und ME) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Angelika Thalmayer
+- [Übungen zu Grundlagen der Elektrotechnik I (MT und ME) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Timo Maiwald, Angelika Thalmayer, Maximilian Lübke
+- [Grundlagen der Elektrotechnik I für MT — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III und Praktikum Grundlagen der Elektrotechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle, Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III (Übung) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas, Prof. Dr.-Ing. Philipp Beckerle
+- [Grundlagen der Elektrotechnik III (Tutorium) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Mechatronik
+
+- [Praktikum Grundlagen der Elektrotechnik I für Energietechnik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik I für Mechatronik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Eva Russwurm
+- [Praktikum Grundlagen der Elektrotechnik III Kurs D — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann
+- [Übungen zu Grundlagen der Elektrotechnik I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Daniel Kübrich, Sebastian Kölle
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
 
 #### Auszüge aus dem PO-Text
 
@@ -42498,7 +46822,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20250604.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20250604.md)  
 Pflicht-Stellen gefunden: **16**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **108**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42511,10 +46835,10 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 **Studiengang:** - Chemie- und Bioingenieurwesen (FAU Scientia)  -
 
+- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 - [Technische Thermodynamik (Vertiefung) für CBI und CEN — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Stefan Will
 - [Technische Thermodynamik (Vertiefung) für ET und CE — Vorlesung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Prof. Dr.-Ing. Andreas Paul Fröba
 - [Übung Technische Thermodynamik (Vertiefung) für ET und CE — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Tobias Klein, Prof. Dr.-Ing. Andreas Paul Fröba
-- [Übung zu Wärme- und Stoffübertragung — Übung](../589-sommersemester-2026/chemie-und-bioingenieurwesen-fau-scientia-13839715.md) — Dr.-Ing. Franz Huber
 
 **Studiengang:** - Frühstudium -
 
@@ -42542,9 +46866,128 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 - [Festkörperthermodynamik — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Praktikum Grundlagen der Elektrotechnik I für Medizintechnik — Praktikum](../589-sommersemester-2026/elektromobilitaet-aces-17969.md) — Dr.-Ing. Eva Russwurm, Prof. Dr.-Ing. Georg Fischer
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Praktikum Grundlagen der Elektrotechnik I (EEI, BPT) — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik III Kurs A — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+- [Praktikum Grundlagen der Elektrotechnik III Kurs C — Praktikum](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
+**Studiengang:** International Production Engineering and Management
+
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Maschinenbau
+
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik II für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik II für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Statik, Elastostatik und Festigkeitslehre — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in) Dr.-Ing. Gunnar Possart (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Paul Steinmann (Zuständigkeit: Verantwortliche/-r)
+- [Statik, Elastostatik und Festigkeitslehre — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in) Dr.-Ing. Gunnar Possart (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Paul Steinmann (Zuständigkeit: Verantwortliche/-r)
+- [Statik, Elastostatik und Festigkeitslehre — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+- [Statik, Elastostatik und Festigkeitslehre Prüfung 1 — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+- [Strömungsmechanik I — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Andreas Wierschem (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik II für Ingenieure — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I (MT und ME) — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Georg Fischer
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I für MT, MECH — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Angelika Thalmayer (Zuständigkeit: Bearbeiter/-in) Sebastian Peters (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Tutorium zu Grundlagen der Elektrotechnik I (MT und ME) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Angelika Thalmayer
+- [Übungen zu Grundlagen der Elektrotechnik I (MT und ME) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Timo Maiwald, Angelika Thalmayer, Maximilian Lübke
+- [Grundlagen der Elektrotechnik I für MT — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III und Praktikum Grundlagen der Elektrotechnik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik III — Vorlesung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Philipp Beckerle, Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III (Übung) — Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas, Prof. Dr.-Ing. Philipp Beckerle
+- [Grundlagen der Elektrotechnik III (Tutorium) — Tutorium](../565-wintersemester-2025-26/mechatronik-17113.md) — Marius Kindermann, Daniel Andreas
+- [Grundlagen der Elektrotechnik III — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+- [Photonik 2 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Bernhard Schmauß (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Praktikum Grundlagen der Elektrotechnik I für Energietechnik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Daniel Kübrich
+- [Praktikum Grundlagen der Elektrotechnik I für Mechatronik — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Eva Russwurm
+- [Praktikum Grundlagen der Elektrotechnik III Kurs D — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Prof. Dr.-Ing. Philipp Beckerle, Daniel Andreas
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik I für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Numerik II für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr. Michael Fried (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Elektrotechnik I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Bernd Witzigmann
+- [Übungen zu Grundlagen der Elektrotechnik I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Daniel Kübrich, Sebastian Kölle
+- [Grundlagen der Elektrotechnik I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Übung zu Signale und Systeme I — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Paul Wawerek-López, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme I — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Wärme- und Stoffübertragung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Franz Huber (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Stefan Will (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Tutorium zur Dynamik starrer Körper — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Übungen zur Dynamik starrer Körper — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r)
+- [Dynamik starrer Körper — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Digitale Regelung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Andreas Michalka (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Bearbeiter/-in) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+- [Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Heinrich Löllmann (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Digitale Signalverarbeitung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Walter Kellermann (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -42572,7 +47015,7 @@ _(+ 12 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20180801.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20180801.md)  
 Pflicht-Stellen gefunden: **2**  
-Vorgeschlagene Pflichtveranstaltungen: **15**
+Vorgeschlagene Pflichtveranstaltungen: **18**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42580,11 +47023,11 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 **Studiengang:** - Frühstudium -
 
+- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
+- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Grundlagen der Technischen Informatik — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr.-Ing. Jürgen Teich, Dr.-Ing. Stefan Wildermann
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Parallele und Funktionale Programmierung — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, David Schwarzbeck
-- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
-- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -42593,14 +47036,22 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** - Informatik (FAU Scientia)  -
 
 - [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
-- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
-- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
 - [Intensivübung zu Theorie der Programmierung (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
 - [Übungen zu Theorie der Programmierung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
 
 **Studiengang:** - Philosophie und Sozialwissenschaften (FAU Scientia)  -
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
+
+**Studiengang:** Maschinenbau
+
+- [Berechenbarkeit und Formale Sprachen — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Rolf Wanka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -42609,6 +47060,10 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Theorie der Programmierung — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Dr.-Ing. Paul Wild
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Grundlagen der Rechnerarchitektur und -organisation — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Dietmar Fey (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -42637,7 +47092,7 @@ Vorgeschlagene Pflichtveranstaltungen: **15**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20190306.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20190306.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **13**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42647,11 +47102,11 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 **Studiengang:** - Frühstudium -
 
+- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
+- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Grundlagen der Technischen Informatik — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr.-Ing. Jürgen Teich, Dr.-Ing. Stefan Wildermann
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Parallele und Funktionale Programmierung — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, David Schwarzbeck
-- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
-- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -42664,6 +47119,18 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 **Studiengang:** - Philosophie und Sozialwissenschaften (FAU Scientia)  -
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
+
+**Studiengang:** Maschinenbau
+
+- [Berechenbarkeit und Formale Sprachen — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Rolf Wanka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -42695,7 +47162,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20191203.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20191203.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **10**
+Vorgeschlagene Pflichtveranstaltungen: **13**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42705,11 +47172,11 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 
 **Studiengang:** - Frühstudium -
 
+- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
+- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Grundlagen der Technischen Informatik — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr.-Ing. Jürgen Teich, Dr.-Ing. Stefan Wildermann
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Parallele und Funktionale Programmierung — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, David Schwarzbeck
-- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
-- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -42722,6 +47189,18 @@ Vorgeschlagene Pflichtveranstaltungen: **10**
 **Studiengang:** - Philosophie und Sozialwissenschaften (FAU Scientia)  -
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
+
+**Studiengang:** Maschinenbau
+
+- [Berechenbarkeit und Formale Sprachen — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Rolf Wanka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -42753,7 +47232,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20200820.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20200820.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **14**
+Vorgeschlagene Pflichtveranstaltungen: **18**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42783,9 +47262,22 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
 
+**Studiengang:** Maschinenbau
+
+- [Berechenbarkeit und Formale Sprachen — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Rolf Wanka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
+- [Sichere Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -42813,7 +47305,7 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20210701.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20210701.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **14**
+Vorgeschlagene Pflichtveranstaltungen: **18**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42843,9 +47335,22 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
 
+**Studiengang:** Maschinenbau
+
+- [Berechenbarkeit und Formale Sprachen — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Rolf Wanka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
+- [Sichere Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -42873,7 +47378,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **22**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42881,13 +47386,13 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 **Studiengang:** - Frühstudium -
 
-- [Grundlagen der Programmierung — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Tim Weyrich, Dr.-Ing. Vanessa Klein
-- [Übungen zu Grundlagen der Programmierung — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Vanessa Klein, Mathias Harrer
 - [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Grundlagen der Technischen Informatik — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr.-Ing. Jürgen Teich, Dr.-Ing. Stefan Wildermann
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Parallele und Funktionale Programmierung — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, David Schwarzbeck
+- [Grundlagen der Programmierung — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Tim Weyrich, Dr.-Ing. Vanessa Klein
+- [Übungen zu Grundlagen der Programmierung — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Vanessa Klein, Mathias Harrer
 - [Systemprogrammierung - Rechnerübungen — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Tobias Häberlein, Ole Wiedemann, Thomas Preisner
 
 **Studiengang:** - Informatik (FAU Scientia)  -
@@ -42907,6 +47412,11 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
 
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
+- [Sichere Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
@@ -42914,6 +47424,10 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Theorie der Programmierung — Vorlesung](../589-sommersemester-2026/veranstaltungen-aus-der-technischen-fakultaet-17985.md) — Dr.-Ing. Paul Wild
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -42941,7 +47455,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **16**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -42973,9 +47487,23 @@ Vorgeschlagene Pflichtveranstaltungen: **16**
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
 
+**Studiengang:** Artificial Intelligence
+
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
+- [Sichere Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -43010,7 +47538,7 @@ _(+ 2 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20230426.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20230426.md)  
 Pflicht-Stellen gefunden: **8**  
-Vorgeschlagene Pflichtveranstaltungen: **16**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -43042,9 +47570,23 @@ Vorgeschlagene Pflichtveranstaltungen: **16**
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
 
+**Studiengang:** Artificial Intelligence
+
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Einführung in das Software Engineering — ](../565-wintersemester-2025-26/artificial-intelligence-17120.md)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
+- [Sichere Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -43079,7 +47621,7 @@ _(+ 4 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20190306-aes.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20190306-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **19**
+Vorgeschlagene Pflichtveranstaltungen: **22**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -43091,11 +47633,11 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 **Studiengang:** - Frühstudium -
 
+- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
+- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 - [Grundlagen der Technischen Informatik — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr.-Ing. Jürgen Teich, Dr.-Ing. Stefan Wildermann
 - [Praktische Übungen zu Grundlagen der Technischen Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Mark Deutel, Christian Heidorn, Stefan Meißner, Jakob Wittmann
 - [Parallele und Funktionale Programmierung — Vorlesung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Prof. Dr. Michael Philippsen, Dr.-Ing. Norbert Oster, David Schwarzbeck
-- [Intensivübung zu Grundlagen der Logik in der Informatik (optional) — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
-- [Übungen zu Grundlagen der Logik in der Informatik — Übung](../565-wintersemester-2025-26/fruehstudium-12198833.md) — Dr.-Ing. Thorsten Wißmann
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
@@ -43103,15 +47645,27 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 **Studiengang:** - Informatik (FAU Scientia)  -
 
-- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
-- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
-- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
 - [Intensivübung zu Theorie der Programmierung (optional) — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
 - [Übungen zu Theorie der Programmierung — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Dr.-Ing. Paul Wild
+- [Rechnerübung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Übung zu Algorithmik kontinuierlicher Systeme — Übung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Frederik Hennig
+- [Grundlagen der Rechnerarchitektur und -organisation — Vorlesung](../589-sommersemester-2026/informatik-fau-scientia-13839808.md) — Prof. Dr.-Ing. Dietmar Fey, Tobias Baumeister
 
 **Studiengang:** - Philosophie und Sozialwissenschaften (FAU Scientia)  -
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
+
+**Studiengang:** Maschinenbau
+
+- [Berechenbarkeit und Formale Sprachen — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr. Rolf Wanka (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Medizinischen Fakultät
 
@@ -43164,7 +47718,7 @@ Vorgeschlagene Pflichtveranstaltungen: **19**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20250604.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20250604.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **14**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -43194,9 +47748,18 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
 
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
+- [Sichere Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -43316,7 +47879,7 @@ _(+ 3 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328.md)  
 Pflicht-Stellen gefunden: **12**  
-Vorgeschlagene Pflichtveranstaltungen: **14**
+Vorgeschlagene Pflichtveranstaltungen: **17**
 
 #### Pflichtveranstaltungen (Vorschlag)
 
@@ -43346,9 +47909,18 @@ Vorgeschlagene Pflichtveranstaltungen: **14**
 
 - [Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen — Vorlesung](../589-sommersemester-2026/philosophie-und-sozialwissenschaften-fau-scientia-13839009.md) — Dr. Johannes Jüde
 
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Technischen Informatik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Jürgen Teich (Zuständigkeit: Verantwortliche/-r) Joachim Falk (Zuständigkeit: Verantwortliche/-r)
+- [Sichere Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Grundlagen der Logik in der Informatik — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr. Lutz Schröder
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Sichere Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Ralph Palutke (Zuständigkeit: Bearbeiter/-in) Philipp Klein (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Felix Freiling (Zuständigkeit: Verantwortliche/-r)
 
 #### Auszüge aus dem PO-Text
 
@@ -43383,17 +47955,65 @@ _(+ 8 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **26**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Surfaces of Biomaterials / Oberflächen von Biomaterialien — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr.-Ing. Rainer Detsch, Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Maschinenbau
+
+- [Pattern Recognition — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Robotics 1 — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Robotics 1 — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Mechatronik
+
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik A (Grundlagen) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Recognition — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Analysis — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Verantwortliche/-r)
+- [Robotics 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Medizintechnik
+
+- [Surfaces of Biomaterials — ](../565-wintersemester-2025-26/medizintechnik-17112.md) — Prof. Dr. Sannakaisa Virtanen (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Pattern Recognition — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andreas Maier
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Robotics 1 — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Robotics 1 — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -43429,17 +48049,65 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20230426.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20230426.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **26**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Surfaces of Biomaterials / Oberflächen von Biomaterialien — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr.-Ing. Rainer Detsch, Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Maschinenbau
+
+- [Pattern Recognition — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Robotics 1 — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Robotics 1 — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Mechatronik
+
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik A (Grundlagen) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Recognition — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Analysis — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Verantwortliche/-r)
+- [Robotics 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Medizintechnik
+
+- [Surfaces of Biomaterials — ](../565-wintersemester-2025-26/medizintechnik-17112.md) — Prof. Dr. Sannakaisa Virtanen (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Pattern Recognition — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andreas Maier
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Robotics 1 — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Robotics 1 — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -43474,17 +48142,65 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20230731.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20230731.md)  
 Pflicht-Stellen gefunden: **10**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **26**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Surfaces of Biomaterials / Oberflächen von Biomaterialien — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr.-Ing. Rainer Detsch, Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Maschinenbau
+
+- [Pattern Recognition — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Robotics 1 — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Robotics 1 — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Mechatronik
+
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik A (Grundlagen) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Recognition — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Analysis — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Verantwortliche/-r)
+- [Robotics 1 — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Medizintechnik
+
+- [Surfaces of Biomaterials — ](../565-wintersemester-2025-26/medizintechnik-17112.md) — Prof. Dr. Sannakaisa Virtanen (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Pattern Recognition — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andreas Maier
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Robotics 1 — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Robotics 1 — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Andreas Völz (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -43518,17 +48234,66 @@ _(+ 6 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20180828-aes.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20180828-aes.md)  
 Pflicht-Stellen gefunden: **4**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **27**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Surfaces of Biomaterials / Oberflächen von Biomaterialien — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr.-Ing. Rainer Detsch, Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Passive Bauelemente und deren HF-Verhalten — Vorlesung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Martin Vossiek
+- [Passive Bauelemente und deren HF-Verhalten Übung — Übung](../589-sommersemester-2026/elektrotechnik-elektronik-und-informationstechnik-17942.md) — Prof. Dr.-Ing. Martin Vossiek
+
+**Studiengang:** Maschinenbau
+
+- [Pattern Recognition — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Passive Bauelemente und deren HF-Verhalten — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Martin Vossiek (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik A (Grundlagen) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Recognition — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Analysis — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Pattern Recognition — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andreas Maier
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -43585,9 +48350,18 @@ Vorgeschlagene Pflichtveranstaltungen: **2**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20190710-aes.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20190710-aes.md)  
 Pflicht-Stellen gefunden: **9**  
-Vorgeschlagene Pflichtveranstaltungen: **1**
+Vorgeschlagene Pflichtveranstaltungen: **4**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Maschinenbau
+
+- [Pattern Recognition — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Pattern Recognition — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Analysis — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
@@ -43619,17 +48393,60 @@ _(+ 5 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20220413-aes.md`](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20220413-aes.md)  
 Pflicht-Stellen gefunden: **6**  
-Vorgeschlagene Pflichtveranstaltungen: **2**
+Vorgeschlagene Pflichtveranstaltungen: **21**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** - Sonstige Veranstaltungen (FAU Scientia) -
+
+- [Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure — Vorlesung](../565-wintersemester-2025-26/sonstige-veranstaltungen-fau-scientia-12201199.md) — Dr. Jana Dahlmanns
 
 **Studiengang:** - Werkstoffwissenschaften  (FAU Scientia)  -
 
 - [Surfaces of Biomaterials / Oberflächen von Biomaterialien — Vorlesung](../589-sommersemester-2026/werkstoffwissenschaften-fau-scientia-13840089.md) — Dr.-Ing. Rainer Detsch, Prof. Dr. Sannakaisa Virtanen
 
+**Studiengang:** Elektromobilität-ACES
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Maschinenbau
+
+- [Pattern Recognition — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Regelungstechnik A (Grundlagen) — Vorlesung mit Übung](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Knut Graichen
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Recognition — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)
+- [Pattern Analysis — ](../565-wintersemester-2025-26/mechatronik-17113.md) — PD Dr.-Ing. Christian Riess (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Medizintechnik
+
+- [Surfaces of Biomaterials — ](../565-wintersemester-2025-26/medizintechnik-17112.md) — Prof. Dr. Sannakaisa Virtanen (Zuständigkeit: Verantwortliche/-r)
+
 **Studiengang:** Veranstaltungen aus der Technischen Fakultät
 
 - [Pattern Recognition — Vorlesung](../565-wintersemester-2025-26/veranstaltungen-aus-der-technischen-fakultaet-17328.md) — Prof. Dr.-Ing. Andreas Maier
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Andre Kaup (Zuständigkeit: Verantwortliche/-r)
+- [Signale und Systeme II — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Regelungstechnik A (Grundlagen) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Knut Graichen (Zuständigkeit: Verantwortliche/-r) Sabine Rother (Zuständigkeit: Bearbeiter/-in)
+- [Medizintechnik I (Biomaterialien) — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Aldo Boccaccini (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übung Signale und Systeme II — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Simon Deniffel, Prof. Dr.-Ing. Andre Kaup
+- [Signale und Systeme II — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Andre Kaup
 
 #### Auszüge aus dem PO-Text
 
@@ -44547,9 +49364,23 @@ Für die Organisation der Prüfungen und die Bestellung der Prüfenden ist der P
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/10aes-ba-ma-wing.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/10aes-ba-ma-wing.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **33**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Seminar Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Maschinenbau
 
@@ -44558,6 +49389,38 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 - [Vorlesung Betriebliches Rechnungswesen (BWL für Ingenieure) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 - [BWL für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Praktikum Software für die Mathematik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Maximilian Schäfer (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r)
+- [Praktikum Software für die Mathematik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Praktikum Software für die Mathematik — Praktikum](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer
+- [BWL für Ingenieure I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Elektronik und Schaltungstechnik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Benedict Scheiner (Zuständigkeit: Bearbeiter/-in) Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Elektronik und Schaltungstechnik + Praktikum Schaltungstechnik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Benedict Scheiner (Zuständigkeit: Bearbeiter/-in) Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Elektronik und Schaltungstechnik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Ergänzungen und Übungen zu Nachrichtentechnische Systeme - Übertragungstechnik — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Moritz Garkisch, Prof. Dr.-Ing. Robert Schober
+- [Tutorium Nachrichtentechnische Systeme — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Moritz Garkisch
+- [Nachrichtentechnische Systeme - Übertragungstechnik — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Robert Schober, Prof. Dr.-Ing. Jörg Robert
+- [Nachrichtentechnische Systeme - Systemaspekte — Vorlesung mit Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Jörg Robert
+- [Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Laborpraktikum Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [BWL für Ingenieure II — Vorlesung mit Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
+- [Elektronik und Schaltungstechnik — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Georg Fischer
+- [Übungen zu Elektronik und Schaltungstechnik — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Michael Loose
 
 #### Auszüge aus dem PO-Text
 
@@ -44867,9 +49730,18 @@ Vorgeschlagene Pflichtveranstaltungen: **1**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/ba-ma-fpowing-20070925-idf-20180515.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/ba-ma-fpowing-20070925-idf-20180515.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **14**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Maschinenbau
 
@@ -44878,6 +49750,21 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 - [Vorlesung Betriebliches Rechnungswesen (BWL für Ingenieure) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 - [BWL für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [BWL für Ingenieure I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [BWL für Ingenieure II — Vorlesung mit Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
 
 #### Auszüge aus dem PO-Text
 
@@ -44928,9 +49815,18 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/ba-ma-fpowing-20070925-idf-20190815.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/ba-ma-fpowing-20070925-idf-20190815.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **5**
+Vorgeschlagene Pflichtveranstaltungen: **14**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Maschinenbau
 
@@ -44939,6 +49835,21 @@ Vorgeschlagene Pflichtveranstaltungen: **5**
 - [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 - [Vorlesung Betriebliches Rechnungswesen (BWL für Ingenieure) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 - [BWL für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [BWL für Ingenieure I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [BWL für Ingenieure II — Vorlesung mit Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
 
 #### Auszüge aus dem PO-Text
 
@@ -44989,9 +49900,21 @@ _(+ 1 weitere Treffer in dieser PO — siehe das vollständige PO-Dokument)_
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/ba-ma-fpowing-20180515-aes.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/ba-ma-fpowing-20180515-aes.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **6**
+Vorgeschlagene Pflichtveranstaltungen: **25**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Grundlagen der Produktentwicklung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Produktentwicklung und konstruktionstechnisches Praktikum — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Maschinenelemente I und konstruktionstechnisches Praktikum — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Maschinenbau
 
@@ -45001,6 +49924,28 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 - [Vorlesung Betriebliches Rechnungswesen (BWL für Ingenieure) — ](../565-wintersemester-2025-26/maschinenbau-17116.md)
 - [BWL für Ingenieure — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
 - [Technische Darstellungslehre — ](../565-wintersemester-2025-26/maschinenbau-17116.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Grundlagen der Produktentwicklung für Mechatronik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Produktentwicklung Mechatronik — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Technische Darstellungslehre I — Praktikum](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Christian Witzgall
+- [Technische Darstellungslehre I - Vorlesung — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Christian Witzgall
+- [Grundlagen der Produktentwicklung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Produktentwicklung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [BWL für Ingenieure I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Maschinenelemente I und konstruktionstechnisches Praktikum — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [BWL für Ingenieure II — Vorlesung mit Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
 
 #### Auszüge aus dem PO-Text
 
@@ -45700,9 +50645,28 @@ Vorgeschlagene Pflichtveranstaltungen: **6**
 
 PO-Quelle: [`pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-juli2014.md`](../pruefungsordnungen/technische-fakultaet/maschinenbau/fpo-ba-ma-wing-juli2014.md)  
 Pflicht-Stellen gefunden: **5**  
-Vorgeschlagene Pflichtveranstaltungen: **11**
+Vorgeschlagene Pflichtveranstaltungen: **57**
 
 #### Pflichtveranstaltungen (Vorschlag)
+
+**Studiengang:** Elektromobilität-ACES
+
+- [Statik und Festigkeitslehre — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Simone Schüler (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Gunnar Possart (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Kai Willner (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Seminar Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/elektromobilitaet-aces-17122.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in)
+
+**Studiengang:** Elektrotechnik - Elektronik und Informationstechnik
+
+- [Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/elektrotechnik-elektronik-und-informationstechnik-17119.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** International Production Engineering and Management
+
+- [Statik und Festigkeitslehre — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Simone Schüler (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Gunnar Possart (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Kai Willner (Zuständigkeit: Verantwortliche/-r)
+- [Statik und Festigkeitslehre — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Simone Schüler (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Gunnar Possart (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Kai Willner (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Produktentwicklung — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Produktentwicklung und konstruktionstechnisches Praktikum — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/international-production-engineering-and-management-17106.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
 
 **Studiengang:** Maschinenbau
 
@@ -45720,6 +50684,54 @@ Vorgeschlagene Pflichtveranstaltungen: **11**
 **Studiengang:** Maschinenbau
 
 - [Technische Mechanik 2 (Elastostatik und Festigkeitslehre) — Vorlesung](../589-sommersemester-2026/maschinenbau-17943.md) — Prof. Dr.-Ing. Paul Steinmann, Maximilian Ries
+
+**Studiengang:** Mechatronik
+
+- [Statik und Festigkeitslehre — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Simone Schüler (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Gunnar Possart (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Kai Willner (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Produktentwicklung für Mechatronik — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Produktentwicklung Mechatronik — ](../565-wintersemester-2025-26/mechatronik-17113.md)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure (BW 1 + BW 2) — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr. Lothar Czaja (Zuständigkeit: Bearbeiter/-in) Lars Friedrich (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/mechatronik-17113.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Mechatronik
+
+- [Technische Darstellungslehre II - Kurs Mi — Praktikum](../589-sommersemester-2026/mechatronik-17956.md) — Dr.-Ing. Christian Witzgall, Prof. Dr.-Ing. Sandro Wartzack
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Tutorium zur Statik und Festigkeitslehre — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Gunnar Possart
+- [Statik und Festigkeitslehre — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Kai Willner
+- [Tutorium zur Statik und Festigkeitslehre — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Lucie Spannraft, Dr.-Ing. Gunnar Possart
+- [Statik und Festigkeitslehre — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Maximilian Ries (Zuständigkeit: Bearbeiter/-in) Simone Schüler (Zuständigkeit: Bearbeiter/-in) Michael Lengger (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Sigrid Leyendecker (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Gunnar Possart (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Kai Willner (Zuständigkeit: Verantwortliche/-r)
+- [Statik und Festigkeitslehre — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Statik und Festigkeitslehre — Sonstige Lehrveranstaltung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Gunnar Possart
+- [Technische Darstellungslehre I — Praktikum](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Christian Witzgall
+- [Technische Darstellungslehre I - Vorlesung — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Christian Witzgall
+- [Grundlagen der Produktentwicklung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Sandro Wartzack (Zuständigkeit: Verantwortliche/-r)
+- [Grundlagen der Produktentwicklung — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [BWL für Ingenieure I — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Daliborka Witschel (Zuständigkeit: Bearbeiter/-in) Prof. Dr. Kai-Ingo Voigt (Zuständigkeit: Verantwortliche/-r)
+- [BWL für Ingenieure — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Elektronik und Schaltungstechnik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Benedict Scheiner (Zuständigkeit: Bearbeiter/-in) Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Elektronik und Schaltungstechnik + Praktikum Schaltungstechnik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Benedict Scheiner (Zuständigkeit: Bearbeiter/-in) Christof Pfannenmüller (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Georg Fischer (Zuständigkeit: Verantwortliche/-r)
+- [Elektronik und Schaltungstechnik — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Ergänzungen und Übungen zu Nachrichtentechnische Systeme - Übertragungstechnik — Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Moritz Garkisch, Prof. Dr.-Ing. Robert Schober
+- [Tutorium Nachrichtentechnische Systeme — Tutorium](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Moritz Garkisch
+- [Nachrichtentechnische Systeme - Übertragungstechnik — Vorlesung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Robert Schober, Prof. Dr.-Ing. Jörg Robert
+- [Nachrichtentechnische Systeme - Systemaspekte — Vorlesung mit Übung](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Prof. Dr.-Ing. Jörg Robert
+- [Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md)
+- [Laborpraktikum Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+- [Laborpraktikum Nachrichtentechnische Systeme — ](../565-wintersemester-2025-26/wirtschaftsingenieurwesen-17109.md) — Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Verantwortliche/-r) Dr.-Ing. Clemens Stierstorfer (Zuständigkeit: Bearbeiter/-in) Prof. Dr.-Ing. Robert Schober (Zuständigkeit: Verantwortliche/-r)
+
+**Studiengang:** Wirtschaftsingenieurwesen
+
+- [Übungen zur Statik und Festigkeitslehre — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Sigrid Leyendecker
+- [Technische Darstellungslehre II - Kurs Di — Praktikum](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Dr.-Ing. Christian Witzgall, Prof. Dr.-Ing. Sandro Wartzack
+- [BWL für Ingenieure II — Vorlesung mit Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr. Kai-Ingo Voigt, Dr. Lothar Czaja
+- [Elektronik und Schaltungstechnik — Vorlesung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Prof. Dr.-Ing. Georg Fischer
+- [Übungen zu Elektronik und Schaltungstechnik — Übung](../589-sommersemester-2026/wirtschaftsingenieurwesen-17948.md) — Michael Loose
 
 #### Auszüge aus dem PO-Text
 
