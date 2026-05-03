@@ -85,6 +85,26 @@ _TITLE_TOKEN_ANY_RE = re.compile(
 )
 
 
+# Role-suffix annotations that Campo appends to a name in some contexts:
+# "Prof. Dr.-Ing. Andreas Maier (Zuständigkeit: Verantwortliche/-r)",
+# "Dr. Foo Bar (Durchführende/-r)", "Müller, Hans (Beteiligte/-r)" etc.
+# These are role tags, not part of the person's identity — strip them so
+# the same person doesn't get split into multiple by-name buckets.
+_ROLE_SUFFIX_RE = re.compile(
+    r"\s*\((?:Zust[äa]ndigkeit:\s*)?"
+    r"(?:Verantwortliche|Durchf[üu]hrende|Begleitende|Beteiligte|Mitwirkende|Pr[üu]fende)"
+    # Optional gender/role inflection: "/-r", "/-in", "/r", "/in", "-r", "-in"
+    r"(?:[/-]+(?:r|in))?"
+    r"\s*\)\s*$",
+    re.IGNORECASE,
+)
+
+
+def _strip_role_suffix(s: str) -> str:
+    """Remove a trailing role annotation like ``(Zuständigkeit: Verantwortliche/-r)``."""
+    return _ROLE_SUFFIX_RE.sub("", s).strip()
+
+
 def split_concatenated_names(s: str) -> list[str]:
     """Split a Campo instructor string that holds *multiple* persons.
 
@@ -104,6 +124,10 @@ def split_concatenated_names(s: str) -> list[str]:
     once the parser is fixed).
     """
     s = (s or "").strip()
+    # Strip the trailing role annotation BEFORE splitting so it doesn't
+    # interfere with title-token detection and so each split-out person
+    # also gets stripped (we re-strip per part below as belt-and-braces).
+    s = _strip_role_suffix(s)
     if not s:
         return []
     starts: list[int] = []
@@ -131,9 +155,9 @@ def split_concatenated_names(s: str) -> list[str]:
     for pos in starts:
         chunk = s[last:pos].strip()
         if chunk:
-            parts.append(chunk)
+            parts.append(_strip_role_suffix(chunk))
         last = pos
-    parts.append(s[last:].strip())
+    parts.append(_strip_role_suffix(s[last:].strip()))
     return [p for p in parts if p]
 
 

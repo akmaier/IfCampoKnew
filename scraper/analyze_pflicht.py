@@ -61,8 +61,21 @@ def _strip_md_emphasis(s: str) -> str:
 
 
 def _has_real_pflicht(text: str) -> bool:
-    """True if the text mentions ``Pflicht*`` *not* as part of ``Wahlpflicht*``."""
-    return bool(re.search(r"(?<!Wahl)Pflicht\w*", text, flags=re.IGNORECASE))
+    """True if the text describes Pflicht (mandatory) modules.
+
+    Two paths:
+    1. ``Pflicht*`` not preceded by ``Wahl`` — the standard Pflicht marker.
+    2. ``Obligatorisch nachzuweisend*`` — FAU BA/MA Medizintechnik phrasing.
+       Covers both ``Obligatorisch nachzuweisende Module`` (strict Pflicht)
+       and ``Obligatorisch nachzuweisende Wahlpflichtmodule`` (mandatory
+       selection from a fixed catalogue, treated as Pflicht per project
+       policy — students MUST pass the required count).
+    """
+    if re.search(r"(?<!Wahl)Pflicht\w*", text, flags=re.IGNORECASE):
+        return True
+    if re.search(r"\bObligatorisch\s+nachzuweisend", text, flags=re.IGNORECASE):
+        return True
+    return False
 
 
 def extract_pflicht_blocks(po_md: str) -> list[dict]:
@@ -219,6 +232,48 @@ def _faculty_compatible(course_title: str, po_rel: str) -> bool:
     return po_fac in course_facs
 
 
+def _is_container_bucket(program_name: str) -> bool:
+    """A *container bucket* is a Campo catalogue program that groups
+    courses across multiple study programs rather than belonging to one.
+
+    Conventions encountered in Campo:
+      * ``- Frühstudium -`` / ``- Mathematik (FAU Scientia)  -`` —
+        leading-dash bucket names.
+      * ``Veranstaltungen aus der Technischen Fakultät`` (and the
+        Naturwissenschaftliche, Medizinische, Philosophische, RW
+        siblings) — faculty-level catalogue groupings used for cross-
+        listed courses (e.g. *Pattern Recognition* for MSc Medizintechnik
+        students appears here, not under MSc Medizintechnik directly).
+      * Frühstudium / Studium Generale / Schlüsselqualifikationen /
+        Sonstige Veranstaltungen — interdisciplinary buckets.
+
+    A course catalogued in any of these is NOT bound to a single
+    Studiengang and must stay matchable against POs whose slug hint
+    (e.g. ``informatik``) doesn't appear in the bucket name.
+    """
+    if not program_name:
+        return False
+    pn = program_name.strip().lower()
+    if pn.startswith("- ") or pn.startswith("-"):
+        return True
+    return any(
+        kw in pn for kw in (
+            "frühstudium",
+            "fau scientia",
+            "studium generale",
+            "schlüsselqualifikation",
+            "sonstige veranstaltungen",
+            # Faculty-level catalogue groupings (cross-listed courses).
+            "veranstaltungen aus der technischen fakultät",
+            "veranstaltungen aus der naturwissenschaftlichen fakultät",
+            "veranstaltungen aus der medizinischen fakultät",
+            "veranstaltungen aus der philosophischen fakultät",
+            "veranstaltungen aus der rechts- und wirtschaftswissenschaftlichen",
+            "veranstaltungen aus zentralen wissenschaftlichen einrichtungen",
+        )
+    )
+
+
 def _path_program_slug(po_md_path: Path) -> str | None:
     """Best-guess Campo program slug from the PO file's path.
 
@@ -268,9 +323,12 @@ def match_courses_to_pflicht_text(
         if len(tokens) < 2:
             continue
         if program_slug_hint:
-            prog_name = c.get("program_name", "").lower()
-            if prog_name:
-                prog_slug = re.sub(r"[^a-z0-9]+", "-", prog_name)
+            prog_name = c.get("program_name", "")
+            # Container buckets (Frühstudium, FAU Scientia, …) hold
+            # courses that belong to multiple study programs — don't
+            # exclude them on slug mismatch.
+            if prog_name and not _is_container_bucket(prog_name):
+                prog_slug = re.sub(r"[^a-z0-9]+", "-", prog_name.lower())
                 if program_slug_hint not in prog_slug:
                     continue
         overlap = sum(1 for t in tokens if t in pf_lower)
@@ -327,28 +385,58 @@ def match_courses_to_module_names(
         course_pool = [
             c for c in courses
             if not c.get("program_name")
+            # Container buckets (Frühstudium, FAU Scientia, Studium Generale,
+            # Sonstige Veranstaltungen, …) are catch-all catalogue sections.
+            # A WiSe Pflicht-Modul like "Grundlagen der Programmierung" is
+            # frequently catalogued under "- Frühstudium -" even though the
+            # PO declares it as Informatik-Pflicht — exclude these from the
+            # slug filter so they stay matchable.
+            or _is_container_bucket(c.get("program_name", ""))
             or h in re.sub(r"[^a-z0-9]+", "-", c["program_name"].lower())
         ]
     else:
         course_pool = courses
     for module_name in module_names:
         mod_tokens = _course_tokens(module_name)
-        if len(mod_tokens) < 2:
+        if len(mod_tokens) >= 2:
+            # Standard path: ≥ 2 strong (≥ 5-char) tokens overlap.
+            for c in course_pool:
+                ctitle = c.get("title", "").lower()
+                overlap = sum(1 for t in mod_tokens if t in ctitle)
+                if overlap < min_overlap:
+                    continue
+                if overlap < max(2, len(mod_tokens) // 2):
+                    continue
+                # Faculty cross-check: drop matches where the course's title
+                # implies a different faculty than the PO's path
+                # (e.g. Phil Fak PO ↔ Med-Tech course is almost surely a
+                # false positive from generic-keyword overlap).
+                if po_rel and not _faculty_compatible(c.get("title", ""), po_rel):
+                    continue
+                matched.append((overlap, c))
             continue
+
+        # Fallback path: short multi-word module names like "Deep Learning",
+        # "Analysis I", "Algebra II" reduce to ≤ 1 strong token (because the
+        # 5-char tokenizer drops "Deep", "I", "II"). Use whole-phrase substring
+        # matching so they don't get silently skipped. ~441 of 5 243 PO-
+        # extracted Pflichtmodul-Bezeichnungen fall into this bucket — most
+        # of them are short multi-word labels we want to honour.
+        mod_norm = re.sub(r"\s+", " ", module_name.strip().lower())
+        words = mod_norm.split()
+        if len(words) < 2:
+            # Ultra-short single-word labels ("Algebra", "Bachelorarbeit",
+            # "Internship") are too ambiguous for a substring match — skip.
+            continue
+        pattern = re.compile(rf"\b{re.escape(mod_norm)}\b")
         for c in course_pool:
-            ctitle = c.get("title", "").lower()
-            overlap = sum(1 for t in mod_tokens if t in ctitle)
-            if overlap < min_overlap:
+            ctitle_norm = re.sub(r"\s+", " ", c.get("title", "").strip().lower())
+            if not pattern.search(ctitle_norm):
                 continue
-            if overlap < max(2, len(mod_tokens) // 2):
-                continue
-            # Faculty cross-check: drop matches where the course's title
-            # implies a different faculty than the PO's path
-            # (e.g. Phil Fak PO ↔ Med-Tech course is almost surely a
-            # false positive from generic-keyword overlap).
             if po_rel and not _faculty_compatible(c.get("title", ""), po_rel):
                 continue
-            matched.append((overlap, c))
+            # Score by word count so dedupe prefers longer phrase matches.
+            matched.append((len(words) + 1, c))
     # Dedupe by unit_id
     seen: set[int] = set()
     out: list[dict] = []
@@ -863,61 +951,109 @@ def render_profs_mit_pflichtlehre_md(
             lines.append(
                 f"- **Pflichtveranstaltungen (heuristisch):** {len(info['pflicht'])}"
             )
-            for c in info["pflicht"][:10]:
-                title_str = c.get("title", "?")
-                ctype = c.get("course_type") or ""
-                rel = c.get("program_rel_path", "")
-                pname = c.get("program_name", "?") or "(nicht im Katalog)"
-                if rel:
-                    lines.append(f"  - **\"{title_str}\"** — {ctype} (Campo-Studiengang: [{pname}]({rel}))")
+            # Group Pflichtveranstaltungen by source period so the reader
+            # sees at a glance which terms a Prof teaches Pflicht in.
+            pflicht_by_period: dict[str, list[dict]] = defaultdict(list)
+            for c in info["pflicht"]:
+                pflicht_by_period[c.get("_period_name", "")].append(c)
+            ordered_periods = sorted(pflicht_by_period.keys(), key=lambda s: (
+                0 if "Winter" in s else 1 if "Sommer" in s else 2, s,
+            ))
+            shown = 0
+            for per in ordered_periods:
+                courses_in_per = pflicht_by_period[per]
+                if len(ordered_periods) > 1:
+                    lines.append(f"  - **{per or '(Periode unbekannt)'}** ({len(courses_in_per)})")
+                    indent = "    "
                 else:
-                    lines.append(f"  - **\"{title_str}\"** — {ctype} (Campo-Studiengang: {pname})")
-                # Show PO sources for this course (where it's flagged Pflicht).
-                sources = pflicht_sources.get(int(c["unit_id"]), [])
-                if sources:
-                    # group identical (program_slug, po_title) entries
-                    seen = set()
-                    deduped = []
-                    for s in sources:
-                        key = (s.get("po_rel"), s.get("po_title"))
-                        if key in seen:
-                            continue
-                        seen.add(key)
-                        deduped.append(s)
-                    if len(deduped) <= 5:
-                        for s in deduped:
-                            prog = s.get("program_slug") or "?"
-                            po_link = f"../{s['po_rel']}" if s.get("po_rel") else ""
-                            po_title = s.get("po_title") or s.get("po_rel", "?")
-                            if po_link:
-                                lines.append(
-                                    f"    - Pflicht laut: [{po_title}]({po_link}) "
-                                    f"(Studiengang: `{prog}`)"
-                                )
-                            else:
-                                lines.append(
-                                    f"    - Pflicht laut: {po_title} (Studiengang: `{prog}`)"
-                                )
+                    indent = "  "
+                for c in courses_in_per:
+                    if shown >= 10:
+                        break
+                    shown += 1
+                    title_str = c.get("title", "?")
+                    ctype = c.get("course_type") or ""
+                    rel = c.get("program_rel_path", "")
+                    pname = c.get("program_name", "?") or "(nicht im Katalog)"
+                    if rel:
+                        lines.append(f"{indent}- **\"{title_str}\"** — {ctype} (Campo-Studiengang: [{pname}]({rel}))")
                     else:
-                        # many POs — collapse to a count + the first 3
-                        progs = sorted({s.get("program_slug") or "?" for s in deduped})
-                        lines.append(
-                            f"    - Pflicht in **{len(deduped)} POs** "
-                            f"(Studiengänge: {', '.join(f'`{p}`' for p in progs[:8])}"
-                            f"{'…' if len(progs) > 8 else ''})"
-                        )
-                        for s in deduped[:3]:
-                            po_link = f"../{s['po_rel']}" if s.get("po_rel") else ""
-                            po_title = s.get("po_title") or s.get("po_rel", "?")
-                            if po_link:
-                                lines.append(f"      - [{po_title}]({po_link})")
+                        lines.append(f"{indent}- **\"{title_str}\"** — {ctype} (Campo-Studiengang: {pname})")
+                    # Show PO sources for this course (where it's flagged Pflicht).
+                    src_indent = indent + "  "
+                    sources = pflicht_sources.get(int(c["unit_id"]), [])
+                    if sources:
+                        # group identical (program_slug, po_title) entries
+                        seen = set()
+                        deduped = []
+                        for s in sources:
+                            key = (s.get("po_rel"), s.get("po_title"))
+                            if key in seen:
+                                continue
+                            seen.add(key)
+                            deduped.append(s)
+                        if len(deduped) <= 5:
+                            for s in deduped:
+                                prog = s.get("program_slug") or "?"
+                                po_link = f"../{s['po_rel']}" if s.get("po_rel") else ""
+                                po_title = s.get("po_title") or s.get("po_rel", "?")
+                                if po_link:
+                                    lines.append(
+                                        f"{src_indent}- Pflicht laut: [{po_title}]({po_link}) "
+                                        f"(Studiengang: `{prog}`)"
+                                    )
+                                else:
+                                    lines.append(
+                                        f"{src_indent}- Pflicht laut: {po_title} (Studiengang: `{prog}`)"
+                                    )
+                        else:
+                            # many POs — collapse to a count + the first 3
+                            progs = sorted({s.get("program_slug") or "?" for s in deduped})
+                            lines.append(
+                                f"{src_indent}- Pflicht in **{len(deduped)} POs** "
+                                f"(Studiengänge: {', '.join(f'`{p}`' for p in progs[:8])}"
+                                f"{'…' if len(progs) > 8 else ''})"
+                            )
+                            for s in deduped[:3]:
+                                po_link = f"../{s['po_rel']}" if s.get("po_rel") else ""
+                                po_title = s.get("po_title") or s.get("po_rel", "?")
+                                if po_link:
+                                    lines.append(f"{src_indent}  - [{po_title}]({po_link})")
             if len(info["pflicht"]) > 10:
                 lines.append(f"  - … und {len(info['pflicht'])-10} weitere")
+            # Also list non-Pflicht courses so the reader sees the full
+            # Lehre at a glance — distinguished from the Pflicht block by
+            # a visual separator and a header. Up to 10 shown per period.
             if info["other"]:
-                lines.append(
-                    f"- *(zusätzlich {len(info['other'])} Nicht-Pflicht-Veranstaltungen "
-                    "— hier nicht aufgeführt)*"
-                )
+                lines.append(f"- **Weitere Lehre (nicht Pflicht):** {len(info['other'])}")
+                other_by_period: dict[str, list[dict]] = defaultdict(list)
+                for c in info["other"]:
+                    other_by_period[c.get("_period_name", "")].append(c)
+                ordered_periods = sorted(other_by_period.keys(), key=lambda s: (
+                    0 if "Winter" in s else 1 if "Sommer" in s else 2, s,
+                ))
+                shown = 0
+                for per in ordered_periods:
+                    courses_in_per = other_by_period[per]
+                    if len(ordered_periods) > 1:
+                        lines.append(f"  - **{per or '(Periode unbekannt)'}** ({len(courses_in_per)})")
+                        indent = "    "
+                    else:
+                        indent = "  "
+                    for c in courses_in_per:
+                        if shown >= 10:
+                            break
+                        shown += 1
+                        title_str = c.get("title", "?")
+                        ctype = c.get("course_type") or ""
+                        rel = c.get("program_rel_path", "")
+                        pname = c.get("program_name", "?") or "(nicht im Katalog)"
+                        if rel:
+                            lines.append(f"{indent}- \"{title_str}\" — {ctype} (Campo-Studiengang: [{pname}]({rel}))")
+                        else:
+                            lines.append(f"{indent}- \"{title_str}\" — {ctype} (Campo-Studiengang: {pname})")
+                if len(info["other"]) > 10:
+                    lines.append(f"  - … und {len(info['other'])-10} weitere")
             lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
@@ -1071,20 +1207,33 @@ def main(argv: Iterable[str] | None = None) -> int:
     p.add_argument(
         "--period",
         type=int,
-        required=True,
-        help="periodId for the courses-JSON to use for cross-reference (e.g. 589)",
+        default=None,
+        help=(
+            "Optional. Single periodId for backwards compatibility. When "
+            "passing multiple --tree/--courses pairs, this is ignored — the "
+            "periodId is read from each tree JSON."
+        ),
     )
     p.add_argument(
         "--tree",
         type=Path,
+        nargs="+",
         required=True,
-        help="path to the period's tree JSON, e.g. tmp/589.json",
+        help=(
+            "Path(s) to the period tree JSON. Pass multiple to combine "
+            "periods (e.g. WiSe + SoSe of one academic year). Each --tree "
+            "is paired with the --courses at the same index."
+        ),
     )
     p.add_argument(
         "--courses",
         type=Path,
+        nargs="+",
         required=True,
-        help="path to the period's courses JSON, e.g. tmp/589-courses.json",
+        help=(
+            "Path(s) to the period courses JSON. Must have same count as "
+            "--tree (pairs are matched by index)."
+        ),
     )
     p.add_argument(
         "--out",
@@ -1098,50 +1247,72 @@ def main(argv: Iterable[str] | None = None) -> int:
     level = logging.WARNING - 10 * args.verbose
     logging.basicConfig(level=max(level, logging.DEBUG), format="%(levelname)s %(name)s: %(message)s")
 
-    snapshot = json.loads(args.tree.read_text(encoding="utf-8"))
-    courses_data = json.loads(args.courses.read_text(encoding="utf-8"))
-    period_name = snapshot.get("periodName", f"period-{args.period}")
-    period_slug = f"{args.period}-{slugify(period_name)}"
-
-    # Build per-course metadata (title + program info if available).
-    # Courses NOT in the catalogue tree (e.g. those collected only by the
-    # Tagesaktuelle-sweep) keep empty program info; the matchers below
-    # have a special case to include them when no program scope filter
-    # would otherwise let them in.
-    by_segment = {n["segment"]: n for n in snapshot["nodes"]}
-    uid_to_program: dict[int, dict] = {}
-    for n in snapshot["nodes"]:
-        uid = n.get("unitId")
-        if uid and len(n["path"]) >= 3:
-            program = by_segment.get(n["path"][2])
-            if program:
-                uid_to_program[int(uid)] = program
+    if len(args.tree) != len(args.courses):
+        p.error(
+            f"--tree ({len(args.tree)} paths) must have the same count as "
+            f"--courses ({len(args.courses)} paths)"
+        )
 
     courses_with_meta: list[dict] = []
+    period_names: list[str] = []
     courses_without_program = 0
-    for c in courses_data.get("courses", []):
-        uid = int(c["unit_id"])
-        program = uid_to_program.get(uid)
-        if program is not None:
-            program_node_id = int(program["segment"].split(":", 1)[1])
-            rel = (
-                f"../{period_slug}/{slugify(program['name'])[:88]}-{program_node_id}.md"
-            )
-            courses_with_meta.append(
-                {**c,
-                 "program_name": program["name"],
-                 "program_segment": program["segment"],
-                 "program_rel_path": rel}
-            )
-        else:
-            courses_without_program += 1
-            courses_with_meta.append(
-                {**c, "program_name": "", "program_segment": "", "program_rel_path": ""}
-            )
+    for tree_path, courses_path in zip(args.tree, args.courses):
+        snapshot = json.loads(tree_path.read_text(encoding="utf-8"))
+        courses_data = json.loads(courses_path.read_text(encoding="utf-8"))
+        per_period_id = int(snapshot.get("periodId") or args.period or 0)
+        per_period_name = snapshot.get("periodName", f"period-{per_period_id}")
+        per_period_slug = f"{per_period_id}-{slugify(per_period_name)}"
+        period_names.append(per_period_name)
+        log.info(
+            "loading period %d (%s) — tree=%s courses=%s",
+            per_period_id, per_period_name, tree_path, courses_path,
+        )
 
+        # Build per-course metadata (title + program info if available).
+        # Courses NOT in the catalogue tree (e.g. those collected only by
+        # the Tagesaktuelle-sweep) keep empty program info; matchers
+        # downstream include them via the no-scope special case.
+        by_segment = {n["segment"]: n for n in snapshot["nodes"]}
+        uid_to_program: dict[int, dict] = {}
+        for n in snapshot["nodes"]:
+            uid = n.get("unitId")
+            if uid and len(n["path"]) >= 3:
+                program = by_segment.get(n["path"][2])
+                if program:
+                    uid_to_program[int(uid)] = program
+
+        for c in courses_data.get("courses", []):
+            uid = int(c["unit_id"])
+            program = uid_to_program.get(uid)
+            if program is not None:
+                program_node_id = int(program["segment"].split(":", 1)[1])
+                rel = (
+                    f"../{per_period_slug}/"
+                    f"{slugify(program['name'])[:88]}-{program_node_id}.md"
+                )
+                courses_with_meta.append(
+                    {**c,
+                     "program_name": program["name"],
+                     "program_segment": program["segment"],
+                     "program_rel_path": rel,
+                     "_period_id": per_period_id,
+                     "_period_name": per_period_name}
+                )
+            else:
+                courses_without_program += 1
+                courses_with_meta.append(
+                    {**c,
+                     "program_name": "",
+                     "program_segment": "",
+                     "program_rel_path": "",
+                     "_period_id": per_period_id,
+                     "_period_name": per_period_name}
+                )
+
+    period_name = " + ".join(period_names) if len(period_names) > 1 else period_names[0]
     log.info(
-        "ingested %d courses (%d with catalogue program, %d sweep-only)",
-        len(courses_with_meta),
+        "ingested %d courses across %d period(s) (%d with catalogue program, %d sweep-only)",
+        len(courses_with_meta), len(period_names),
         len(courses_with_meta) - courses_without_program,
         courses_without_program,
     )

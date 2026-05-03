@@ -152,20 +152,41 @@ _INSTRUCTOR_TITLE_RE = re.compile(
 )
 
 
+# Role annotations Campo appends to the visible instructor name in some
+# views (e.g. "Prof. Dr. Andreas Maier (Zuständigkeit: Verantwortliche/-r)").
+# These are not part of the person's identity — the same prof rendered with
+# vs. without the suffix used to land in two separate by_person buckets in
+# downstream tools. Strip them at parse time so the JSON intermediate is
+# clean and every consumer benefits.
+_ROLE_SUFFIX_RE = re.compile(
+    r"\s*\((?:Zust[äa]ndigkeit:\s*)?"
+    r"(?:Verantwortliche|Durchf[üu]hrende|Begleitende|Beteiligte|Mitwirkende|Pr[üu]fende)"
+    r"(?:[/-]+(?:r|in))?"
+    r"\s*\)\s*$",
+    re.IGNORECASE,
+)
+
+
+def _strip_role_suffix(s: str) -> str:
+    return _ROLE_SUFFIX_RE.sub("", s).strip()
+
+
 def _instructors_from_cell(cell_html: str) -> list[str]:
     """Extract the list of instructor names from an instructor-column
     ``<td>``. Each instructor lives in its own ``<li>`` — we parse those
     structurally so two adjacent names never get concatenated into one
     string. The cleanest signal is the ``title="Profil von … anzeigen"``
     attribute on the inner button/span; if that's missing we fall back
-    to the visible text of the ``<li>``.
+    to the visible text of the ``<li>``. Role-suffix annotations like
+    ``(Zuständigkeit: Verantwortliche/-r)`` are stripped here so the
+    JSON intermediate carries clean person identities.
     """
     items = _LI_RE.findall(cell_html)
     if not items:
         # No <li> at all — fall back to the previous-style splitter so a
         # single-instructor cell still works.
         text = _text(cell_html)
-        return [p.strip() for p in re.split(r"[·•|]+|\n", text) if p.strip()]
+        return [_strip_role_suffix(p) for p in re.split(r"[·•|]+|\n", text) if p.strip()]
 
     out: list[str] = []
     seen: set[str] = set()
@@ -176,6 +197,7 @@ def _instructors_from_cell(cell_html: str) -> list[str]:
             name = _html.unescape(m.group(1)).strip()
         else:
             name = _text(li).strip()
+        name = _strip_role_suffix(name)
         if not name or name in seen:
             continue
         seen.add(name)

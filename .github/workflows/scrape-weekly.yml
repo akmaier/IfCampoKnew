@@ -12,10 +12,14 @@ on:
         description: "Campo periodId (default 589 = SoSe 2026)"
         required: false
         default: "589"
-      max_depth:
-        description: "Tree-walk max depth (4 = PO-versions; 0 = unlimited, hard cap 12)"
+      prior_period_id:
+        description: "Optional adjacent period (default 565 = WiSe 2025/26). The Pflicht-Analyse uses both terms for full-year coverage. Empty = skip."
         required: false
-        default: "4"
+        default: "565"
+      max_depth:
+        description: "Tree-walk max depth (6 = courses inside Studiengänge; 4 = only PO stubs + buckets; 0 = unlimited, hard cap 12)"
+        required: false
+        default: "6"
       with_courses:
         description: "Also fetch course-detail pages (true/false)"
         required: false
@@ -50,25 +54,37 @@ jobs:
         id: vars
         run: |
           echo "period_id=${{ github.event.inputs.period_id || '589' }}" >> "$GITHUB_OUTPUT"
-          echo "max_depth=${{ github.event.inputs.max_depth || '4' }}"   >> "$GITHUB_OUTPUT"
+          echo "prior_period_id=${{ github.event.inputs.prior_period_id || '565' }}" >> "$GITHUB_OUTPUT"
+          echo "max_depth=${{ github.event.inputs.max_depth || '6' }}"   >> "$GITHUB_OUTPUT"
           echo "with_courses=${{ github.event.inputs.with_courses || 'true' }}" >> "$GITHUB_OUTPUT"
           echo "iso_week=$(date -u +%G-W%V)" >> "$GITHUB_OUTPUT"
 
       - name: Walk catalogue tree
+        # Walker is single-session; the rate probe (Entry 0016) shows
+        # interval=0.2s = ~1.4 req/s effective ceiling (latency-bound).
+        # Default 1.0s would triple wall-clock for the depth-6 walk.
         run: |
           mkdir -p tmp
           python scraper/scrape.py \
             --period ${{ steps.vars.outputs.period_id }} \
             --out tmp/${{ steps.vars.outputs.period_id }}.json \
             --max-depth ${{ steps.vars.outputs.max_depth }} \
+            --interval 0.2 \
+            --checkpoint-every 100 \
             -v
 
       - name: Fetch course detail pages (catalogue)
         if: steps.vars.outputs.with_courses == 'true'
+        # parallel=2 + interval=0.2s ≈ 2.7 req/s aggregate. Per the
+        # 2026-05-03 rate probe: doubles throughput vs --interval 0.5
+        # at the same p95 latency, no backend contention. See devlog
+        # entry 0016 for the calibration.
         run: |
           python scraper/fetch_courses.py \
             --in tmp/${{ steps.vars.outputs.period_id }}.json \
             --out tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --parallel 2 \
+            --interval 0.2 \
             --save-every 50 \
             -v
 
@@ -89,6 +105,62 @@ jobs:
             --in tmp/${{ steps.vars.outputs.period_id }}-tagesaktuelle.json \
             --out tmp/${{ steps.vars.outputs.period_id }}-courses.json \
             --resume \
+            --parallel 2 \
+            --interval 0.2 \
+            --save-every 50 \
+            -v
+
+      # ── Prior-period steps ──────────────────────────────────────────────
+      # The Pflicht-Analyse needs both terms of an academic year (Entry
+      # 0019 in devlog.md): many Pflicht-Vorlesungen run only in WiSe
+      # (Analysis I, Programmierung, Anatomie, …) and would be invisible
+      # if we only scrape the current term. All prior-period steps use
+      # `continue-on-error: true` so a transient failure on the prior
+      # term never blocks the main scrape.
+      - name: Walk prior period catalogue
+        if: steps.vars.outputs.prior_period_id != ''
+        continue-on-error: true
+        run: |
+          python scraper/scrape.py \
+            --period ${{ steps.vars.outputs.prior_period_id }} \
+            --out tmp/${{ steps.vars.outputs.prior_period_id }}.json \
+            --max-depth ${{ steps.vars.outputs.max_depth }} \
+            --interval 0.2 \
+            --checkpoint-every 100 \
+            -v
+
+      - name: Fetch prior-period course details
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}.json', steps.vars.outputs.prior_period_id)) != ''
+        continue-on-error: true
+        run: |
+          python scraper/fetch_courses.py \
+            --in tmp/${{ steps.vars.outputs.prior_period_id }}.json \
+            --out tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
+            --parallel 2 \
+            --interval 0.2 \
+            --save-every 50 \
+            -v
+
+      - name: Sweep Tagesaktuelle for prior period
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true'
+        continue-on-error: true
+        run: |
+          python scraper/scrape_tagesaktuelle.py \
+            --period ${{ steps.vars.outputs.prior_period_id }} \
+            --out tmp/${{ steps.vars.outputs.prior_period_id }}-tagesaktuelle.json \
+            --interval 0.5 \
+            -v
+
+      - name: Fetch additional prior-period courses from sweep
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', steps.vars.outputs.prior_period_id)) != ''
+        continue-on-error: true
+        run: |
+          python scraper/fetch_courses.py \
+            --in tmp/${{ steps.vars.outputs.prior_period_id }}-tagesaktuelle.json \
+            --out tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
+            --resume \
+            --parallel 2 \
+            --interval 0.2 \
             --save-every 50 \
             -v
 
@@ -105,12 +177,38 @@ jobs:
               --out data
           fi
 
+      - name: Render prior-period markdown corpus
+        # Without this, the Pflicht-Analyse's "Campo-Studiengang"
+        # links into ../{prior-period-slug}/… would resolve to nothing.
+        if: steps.vars.outputs.prior_period_id != '' && hashFiles(format('tmp/{0}.json', steps.vars.outputs.prior_period_id)) != ''
+        continue-on-error: true
+        run: |
+          if [ -f "tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json" ]; then
+            python scraper/render_markdown.py \
+              --in tmp/${{ steps.vars.outputs.prior_period_id }}.json \
+              --courses tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
+              --out data
+          else
+            python scraper/render_markdown.py \
+              --in tmp/${{ steps.vars.outputs.prior_period_id }}.json \
+              --out data
+          fi
+
       - name: Aggregate Lehrende-Index aus Campo (people)
+        # Includes prior-period inputs when available so the index covers
+        # the full academic year (Profs who only teach WiSe wouldn't show
+        # up in a SoSe-only index).
         if: hashFiles(format('tmp/{0}-courses.json', steps.vars.outputs.period_id)) != ''
         run: |
+          INPUTS="tmp/${{ steps.vars.outputs.period_id }}.json tmp/${{ steps.vars.outputs.period_id }}-courses.json"
+          if [ -n "${{ steps.vars.outputs.prior_period_id }}" ]; then
+            for f in tmp/${{ steps.vars.outputs.prior_period_id }}.json tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json; do
+              [ -f "$f" ] && INPUTS="$INPUTS $f"
+            done
+          fi
+          echo "people_index inputs: $INPUTS"
           python scraper/people_index.py \
-            --inputs tmp/${{ steps.vars.outputs.period_id }}.json \
-                    tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --inputs $INPUTS \
             --out data/personen \
             -v
 
@@ -124,14 +222,29 @@ jobs:
 
       - name: Heuristische Pflicht-Analyse + W-Profs-Cross-Ref
         if: hashFiles(format('tmp/{0}-courses.json', steps.vars.outputs.period_id)) != ''
+        # When prior-period data is on disk, pass BOTH periods to the
+        # analyser. analyze_pflicht.py auto-derives periodId from each
+        # tree JSON so --period is no longer required (Entry 0017).
         run: |
-          python scraper/analyze_pflicht.py \
-            --data data \
-            --period ${{ steps.vars.outputs.period_id }} \
-            --tree tmp/${{ steps.vars.outputs.period_id }}.json \
-            --courses tmp/${{ steps.vars.outputs.period_id }}-courses.json \
-            --out data/analyse/pflichtveranstaltungen.md \
-            -v
+          PRIOR_TREE="tmp/${{ steps.vars.outputs.prior_period_id }}.json"
+          PRIOR_COURSES="tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json"
+          if [ -n "${{ steps.vars.outputs.prior_period_id }}" ] && [ -f "$PRIOR_TREE" ] && [ -f "$PRIOR_COURSES" ]; then
+            echo "Running Pflicht-Analyse with both periods (current + prior)"
+            python scraper/analyze_pflicht.py \
+              --data data \
+              --tree "$PRIOR_TREE" tmp/${{ steps.vars.outputs.period_id }}.json \
+              --courses "$PRIOR_COURSES" tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+              --out data/analyse/pflichtveranstaltungen.md \
+              -v
+          else
+            echo "Prior-period data not present — single-period analyse"
+            python scraper/analyze_pflicht.py \
+              --data data \
+              --tree tmp/${{ steps.vars.outputs.period_id }}.json \
+              --courses tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+              --out data/analyse/pflichtveranstaltungen.md \
+              -v
+          fi
 
       - name: Strukturierte Pflichtmodul-Extraktion aus PO-Anlagen
         run: |
@@ -187,4 +300,6 @@ jobs:
             ${{ steps.zip.outputs.name }}
             tmp/${{ steps.vars.outputs.period_id }}.json
             tmp/${{ steps.vars.outputs.period_id }}-courses.json
+            tmp/${{ steps.vars.outputs.prior_period_id }}.json
+            tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json
           fail_on_unmatched_files: false

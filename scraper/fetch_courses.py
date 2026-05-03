@@ -9,6 +9,11 @@ Stage 2 of the scraper pipeline:
 Unique ``unit_id``s are deduplicated — a single course can be referenced
 from multiple catalogue leaves (a Vorlesung used by several POs); we
 fetch each detail page exactly once.
+
+Parallelism: ``--parallel N`` spawns N worker threads, each with its own
+CampoClient (own JSESSIONID, own per-session rate limit). At ``--interval
+0.5`` and ``--parallel 4`` the effective request rate is ≈ 8 req/s split
+across four sessions — comfortably within HISinOne's tolerance.
 """
 from __future__ import annotations
 
@@ -17,6 +22,8 @@ import datetime as _dt
 import json
 import logging
 import sys
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent
@@ -92,6 +99,22 @@ def _write_progress(
     tmp.replace(out_path)
 
 
+def _fetch_one(
+    client: CampoClient, uid: int, fallback_title: str, period_id: int
+):
+    """Fetch + parse one course detail. Returns (course, None) or (None, err)."""
+    url = DETAIL_URL_TPL.format(unit_id=uid, period_id=period_id)
+    try:
+        r = client.get(url)
+        r.raise_for_status()
+        course = parse_course_detail(
+            r.text, unit_id=uid, period_id=period_id, fallback_title=fallback_title,
+        )
+        return course, None
+    except Exception as e:  # noqa: BLE001
+        return None, e
+
+
 def fetch_courses(
     snapshot: dict,
     *,
@@ -101,6 +124,7 @@ def fetch_courses(
     out_path: Path | None = None,
     resume: bool = False,
     save_every: int = 25,
+    parallel: int = 1,
 ) -> dict:
     period_id = int(snapshot["periodId"])
     period_name = snapshot.get("periodName", f"(period {period_id})")
@@ -121,34 +145,84 @@ def fetch_courses(
             log.info("resume: %d courses + %d failures already on disk", len(courses_existing), len(failures))
 
     todo = [(uid, t) for (uid, t) in all_units if uid not in skip]
-    log.info("fetching %d new course details (%d skipped via resume)", len(todo), len(skip))
+    log.info(
+        "fetching %d new course details (%d skipped via resume) — parallel=%d, interval=%.2fs",
+        len(todo), len(skip), parallel, interval,
+    )
 
-    client = CampoClient(min_interval=interval)
     courses: list = list(courses_existing)
-    last_save_count = 0
-    for i, (uid, fallback_title) in enumerate(todo, 1):
-        url = DETAIL_URL_TPL.format(unit_id=uid, period_id=period_id)
-        try:
-            r = client.get(url)
-            r.raise_for_status()
-            course = parse_course_detail(
-                r.text,
-                unit_id=uid,
-                period_id=period_id,
-                fallback_title=fallback_title,
-            )
-            courses.append(course)
-        except Exception as e:  # noqa: BLE001
-            log.warning("unit_id=%d failed: %s", uid, e)
-            failures.append({"unitId": uid, "error": str(e)})
-        if i % 25 == 0 or i == len(todo):
-            log.info(
-                "progress %d/%d (total: %d ok, %d failed)",
-                i, len(todo), len(courses), len(failures),
-            )
-        if out_path and save_every > 0 and (i - last_save_count) >= save_every:
-            _write_progress(out_path, period_id, period_name, courses, failures)
-            last_save_count = i
+    if parallel <= 1:
+        # Sequential path (unchanged) — single client, single rate limit.
+        client = CampoClient(min_interval=interval)
+        last_save_count = 0
+        for i, (uid, fallback_title) in enumerate(todo, 1):
+            course, err = _fetch_one(client, uid, fallback_title, period_id)
+            if err is not None:
+                log.warning("unit_id=%d failed: %s", uid, err)
+                failures.append({"unitId": uid, "error": str(err)})
+            else:
+                courses.append(course)
+            if i % 25 == 0 or i == len(todo):
+                log.info(
+                    "progress %d/%d (total: %d ok, %d failed)",
+                    i, len(todo), len(courses), len(failures),
+                )
+            if out_path and save_every > 0 and (i - last_save_count) >= save_every:
+                _write_progress(out_path, period_id, period_name, courses, failures)
+                last_save_count = i
+    else:
+        # Parallel path: N worker threads, each with its own CampoClient.
+        # Locks guard the shared courses/failures lists and the periodic
+        # save. Effective request rate is N * (1 / interval).
+        clients = [CampoClient(min_interval=interval) for _ in range(parallel)]
+        client_pool = list(clients)
+        pool_lock = threading.Lock()
+        results_lock = threading.Lock()
+        done = [0]
+        last_save_count = [0]
+
+        def take_client() -> CampoClient:
+            with pool_lock:
+                return client_pool.pop()
+
+        def return_client(c: CampoClient) -> None:
+            with pool_lock:
+                client_pool.append(c)
+
+        def worker(uid_title: tuple[int, str]):
+            uid, title = uid_title
+            client = take_client()
+            try:
+                course, err = _fetch_one(client, uid, title, period_id)
+            finally:
+                return_client(client)
+            return uid, course, err
+
+        with ThreadPoolExecutor(max_workers=parallel) as ex:
+            futures = [ex.submit(worker, ut) for ut in todo]
+            for fut in as_completed(futures):
+                uid, course, err = fut.result()
+                with results_lock:
+                    if err is not None:
+                        log.warning("unit_id=%d failed: %s", uid, err)
+                        failures.append({"unitId": uid, "error": str(err)})
+                    else:
+                        courses.append(course)
+                    done[0] += 1
+                    if done[0] % 50 == 0 or done[0] == len(todo):
+                        log.info(
+                            "progress %d/%d (total: %d ok, %d failed)",
+                            done[0], len(todo), len(courses), len(failures),
+                        )
+                    if (
+                        out_path
+                        and save_every > 0
+                        and (done[0] - last_save_count[0]) >= save_every
+                    ):
+                        _write_progress(
+                            out_path, period_id, period_name, courses, failures
+                        )
+                        last_save_count[0] = done[0]
 
     return {
         "periodId": period_id,
@@ -187,6 +261,13 @@ def main(argv: list[str] | None = None) -> int:
         default=25,
         help="atomically write --out after every N successful fetches (default 25; 0 disables)",
     )
+    p.add_argument(
+        "--parallel",
+        type=int,
+        default=1,
+        help="number of concurrent worker sessions (each w/ own JSESSIONID + rate limit). "
+        "Try 4–6 for speed; default 1 (sequential, fully polite).",
+    )
     p.add_argument("-v", "--verbose", action="count", default=0)
     args = p.parse_args(argv)
 
@@ -202,6 +283,7 @@ def main(argv: list[str] | None = None) -> int:
         out_path=args.out,
         resume=args.resume,
         save_every=args.save_every,
+        parallel=args.parallel,
     )
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")

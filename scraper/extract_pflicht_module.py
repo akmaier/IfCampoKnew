@@ -53,6 +53,17 @@ _PFLICHT_SECTION_RE = re.compile(
     r"Grundlagen(?:\s+der)?|"
     r"Basismodule?|Kernbereich|Kernmodule?|"
     r"Bachelorarbeit|Masterarbeit|"
+    # FAU BA/MA Medizintechnik (BMT/MMT) POs use two related phrasings,
+    # both of which are interpreted as Pflicht per project policy:
+    #   * "Obligatorisch nachzuweisende Module" — strict Pflicht.
+    #   * "Obligatorisch nachzuweisende Wahlpflichtmodule" — mandatory
+    #     selection from a fixed catalogue. The student MUST pass the
+    #     required count of these courses; the choice is which subset.
+    # Both are surfaced as Pflicht here so e.g. "Pattern Recognition"
+    # (declared in Anlage 3a-e of every BMT/MMT version) is no longer
+    # invisible to the analyse.
+    r"Obligatorisch\s+nachzuweisend\w*\s+(?:Wahlpflicht)?Module?|"
+    r"Obligatory(?:\s+core)?\s+modules?|"
     r"Pflicht(?:bereich|module?|fach)\b"
     r")\b",
     re.IGNORECASE,
@@ -114,6 +125,16 @@ def _likely_module_name(s: str) -> bool:
         return False
     if re.search(r"^\(?\s*\d", s):
         return False
+    # Modulgruppe/Bereich row labels — these appear as section dividers in
+    # BA/MA Medizintechnik and similar POs (e.g. "M2 BDV/IDP Engineering
+    # core modules gemäß § 44a Abs. 2"). They reference a regulation
+    # ("gemäß § …") or a multi-Studienrichtung group. Strip them so the
+    # actual module name (in the next column) is what we capture instead.
+    if re.search(r"\bgem(?:ä|ae)ß\s+§", s, re.IGNORECASE):
+        return False
+    if re.match(r"^M\s*\d+\b", s) and ("/" in s or len(s.split()) > 4):
+        # "M2 BDV/IDP Engineering core modules" pattern
+        return False
     if s.lower() in {
         "modul", "modulbezeichnung", "lehrveranstaltung", "summe",
         "ects", "sws", "vorlesung", "übung", "seminar", "praktikum",
@@ -155,7 +176,13 @@ def _likely_module_name(s: str) -> bool:
 
 def _detect_module_name_column(header: list[str]) -> int | None:
     """If the header row mentions Modulbezeichnung or similar, return its
-    column index. Else return None (caller will fall back to a default)."""
+    column index. Else return None (caller will fall back to a default).
+
+    Also handles tables whose header has a *plain* "Name" column — common
+    in FAU BA/MA Medizintechnik POs where the structure is
+    ``[Nr. | Name (Gruppe) | ECTS | Name (Modul) | …]``. We prefer the
+    LAST "Name" cell because it's the more specific one (module level)."""
+    last_name_col: int | None = None
     for i, cell in enumerate(header):
         text = _strip_emph(cell).lower()
         if "modulbezeichnung" in text:
@@ -164,7 +191,59 @@ def _detect_module_name_column(header: list[str]) -> int | None:
             return i
         if "fach" == text or "bezeichnung" == text:
             return i
+        if text == "name":
+            last_name_col = i
+    return last_name_col
+
+
+def _detect_table_section_from_header(header: list[str]) -> str | None:
+    """If any header cell is a Pflicht/Wahl section marker (e.g. the BA/MA
+    Medizintechnik POs put ``Obligatorisch nachzuweisende Module`` in the
+    column header), return that classification — applied to the whole
+    table unless overridden by a marker in a later data row."""
+    for cell in header:
+        m = _is_section_marker(cell)
+        if m:
+            return m
     return None
+
+
+# Heading-text section detection. Unlike `_is_section_marker` (anchored
+# match for table cells), heading text often carries prefixes like
+# "Anlage 3a:" before the meaningful marker — so we use re.search.
+# Order matters: "Obligatorisch nachzuweisende ..." takes precedence so
+# "Anlage 3a: Obligatorisch nachzuweisende Wahlpflichtmodule für alle
+# Studienrichtungen" is classified as Pflicht (per project policy).
+_HEADING_PFLICHT_RE = re.compile(
+    r"\bObligatorisch\s+nachzuweisend"
+    r"|\b(?:Pflichtbereich|Pflichtmodule?|Pflichtfa(?:ch|ecker)|"
+    r"Bachelorarbeit|Masterarbeit|Kernmodule?|Kernbereich|Basismodule?)\b",
+    re.IGNORECASE,
+)
+_HEADING_WAHL_RE = re.compile(
+    r"\b(?:Wahlpflicht\w*|Wahlbereich|Wahlmodule?|Wahlfach|"
+    r"Aufbaumodule?|Vertiefungs(?:bereich|modul\w*)|"
+    r"Schwerpunkt\w*|Schl[uü]sselqualifikation\w*|"
+    r"Nebenfach|Erg[aä]nzungsbereich)\b",
+    re.IGNORECASE,
+)
+
+
+def _heading_section_marker(text: str) -> str | None:
+    """Classify a markdown heading's text as ``"pflicht"`` / ``"wahl"`` /
+    ``None``. Pflicht is checked first so headings that combine both
+    signals (e.g. the BA/MA Medizintechnik *"Obligatorisch nachzuweisende
+    Wahlpflichtmodule"*) come out as Pflicht."""
+    if not text:
+        return None
+    if _HEADING_PFLICHT_RE.search(text):
+        return "pflicht"
+    if _HEADING_WAHL_RE.search(text):
+        return "wahl"
+    return None
+
+
+_MD_HEADING_RE = re.compile(r"^(#{1,6})\s+(.*?)\s*$")
 
 
 def extract_pflicht_modules_from_md(po_md: str) -> list[dict]:
@@ -181,23 +260,82 @@ def extract_pflicht_modules_from_md(po_md: str) -> list[dict]:
     out: list[dict] = []
     seen: set[str] = set()
 
+    # Section context applied to the whole next table by its header row
+    # (BA/MA Medizintechnik tables put "Obligatorisch nachzuweisende
+    # Module" in column headers, not in data-row first cells).
+    table_default_section: str | None = None
+    # Section context derived from the most recent markdown heading
+    # (some POs put "Anlage 3a: Obligatorisch nachzuweisende Wahlpflicht-
+    # module …" in a heading and follow with a plain table).
+    heading_section: str | None = None
+
+    def _row_is_subheader(cells: list[str]) -> bool:
+        """A row that looks like a column-label row (sub-header), not real
+        data. Heuristic: most non-empty cells are short and look like
+        labels (Nr., Name, ECTS, V, Ü, P, S, …)."""
+        nonempty = [_strip_emph(c) for c in cells if _strip_emph(c)]
+        if not nonempty:
+            return False
+        labelish = sum(
+            1 for c in nonempty
+            if len(c) <= 20
+            and (
+                c.lower() in {
+                    "nr.", "nr", "name", "ects", "sws", "v", "ü", "ue",
+                    "p", "s", "tut", "ü/tut", "modul", "modulbezeichnung",
+                    "fach", "bezeichnung", "punkten", "1", "2", "3", "4",
+                    "5", "6", "7", "8", "lp", "credits",
+                }
+                or re.fullmatch(r"\*+[^*]{1,15}\*+", c.strip())
+            )
+        )
+        return labelish >= max(2, len(nonempty) // 2)
+
     i = 0
     while i < len(lines):
         line = lines[i]
+        # Markdown heading: update the rolling section context BEFORE we
+        # decide what to do with the line.
+        h = _MD_HEADING_RE.match(line)
+        if h:
+            heading_text = _strip_emph(h.group(2))
+            heading_section = _heading_section_marker(heading_text)
+            # A new heading clears any pending table-default section so
+            # an Obligatorisch-Pflicht table can't bleed into the table
+            # under the next "Wahlpflichtmodule" heading.
+            table_default_section = None
+            i += 1
+            continue
         if _TABLE_ROW_RE.match(line):
             row = _split_row(line)
             # Sep line marks end of header
             if _TABLE_SEP_RE.match(line):
                 in_table = True
+                # Carry the header-derived section into the row walker —
+                # falling back to the heading-derived context if the
+                # table itself didn't carry a marker.
+                effective = table_default_section or heading_section
+                if effective:
+                    current_section = effective
                 i += 1
                 continue
             if not in_table:
                 # Likely header
                 header = row
                 module_col = _detect_module_name_column(header)
+                table_default_section = _detect_table_section_from_header(header)
                 i += 1
                 continue
             # Real data row inside a table.
+            # Some PO tables (BA/MA Medizintechnik) have additional sub-
+            # header rows AFTER the separator that hold the actual column
+            # labels (Nr. | Name | ECTS | Name | V | Ü | P | S | …). When
+            # the top header didn't yield a module-name column AND this
+            # row looks like a sub-header, re-detect from THIS row.
+            if module_col is None and _row_is_subheader(row):
+                module_col = _detect_module_name_column(row)
+                i += 1
+                continue
             # Section detection: first cell, bold or otherwise, may set section.
             if row:
                 first = row[0]
@@ -208,9 +346,19 @@ def extract_pflicht_modules_from_md(po_md: str) -> list[dict]:
                 # ("**1**" → Grundlagen still active) — section sticks.
             # If we're in a Pflicht section, capture module name.
             if current_section == "pflicht":
-                # Determine which column to read.
-                col = module_col if module_col is not None else 2
-                if col < len(row):
+                # Determine which column to read. Try the detected column
+                # first; if that cell is empty (often the case in 2-tier
+                # PO tables where a Modulgruppe row holds col 0 and the
+                # actual module rows have col 0 empty + col 1 set), fall
+                # through to the next column as a recovery.
+                primary = module_col if module_col is not None else 2
+                candidates_to_try = [primary]
+                if primary + 1 < len(row):
+                    candidates_to_try.append(primary + 1)
+                captured = False
+                for col in candidates_to_try:
+                    if col >= len(row):
+                        continue
                     candidate = _strip_emph(row[col])
                     if _likely_module_name(candidate):
                         module_no = _strip_emph(row[1]) if len(row) > 1 else ""
@@ -225,6 +373,8 @@ def extract_pflicht_modules_from_md(po_md: str) -> list[dict]:
                                     "raw_row": " | ".join(row),
                                 }
                             )
+                        captured = True
+                        break
                 # Some POs split a module across multiple rows (e.g.
                 # one row per Lehrveranstaltung within a module). The
                 # module-no column is empty on continuation rows; we only
@@ -238,6 +388,7 @@ def extract_pflicht_modules_from_md(po_md: str) -> list[dict]:
                 header = None
                 module_col = None
                 current_section = None
+                table_default_section = None
             i += 1
     return out
 
