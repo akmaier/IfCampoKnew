@@ -58,6 +58,7 @@ jobs:
           echo "max_depth=${{ github.event.inputs.max_depth || '6' }}"   >> "$GITHUB_OUTPUT"
           echo "with_courses=${{ github.event.inputs.with_courses || 'true' }}" >> "$GITHUB_OUTPUT"
           echo "iso_week=$(date -u +%G-W%V)" >> "$GITHUB_OUTPUT"
+          echo "iso_month=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
 
       - name: Walk catalogue tree
         # Walker is single-session; the rate probe (Entry 0016) shows
@@ -117,8 +118,33 @@ jobs:
       # if we only scrape the current term. All prior-period steps use
       # `continue-on-error: true` so a transient failure on the prior
       # term never blocks the main scrape.
-      - name: Walk prior period catalogue
+      #
+      # The 2026-05-04 cron timed out at GitHub Actions' 6-hour cap with
+      # depth-6 walks for both periods. Fix: cache the prior-period
+      # snapshots and refresh only monthly. The prior period (WiSe in
+      # the SoSe-cron case, etc.) has finished/is finishing — its data
+      # changes far less than the current term's. On a cache hit (most
+      # weeks) the four prior-period scrape steps below all skip.
+
+      - name: Restore prior-period cache (monthly key)
         if: steps.vars.outputs.prior_period_id != ''
+        id: cache_prior
+        uses: actions/cache@v4
+        with:
+          path: |
+            tmp/${{ steps.vars.outputs.prior_period_id }}.json
+            tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json
+            tmp/${{ steps.vars.outputs.prior_period_id }}-tagesaktuelle.json
+          key: campo-prior-${{ steps.vars.outputs.prior_period_id }}-d${{ steps.vars.outputs.max_depth }}-${{ steps.vars.outputs.iso_month }}
+          # Fall back to ANY cached snapshot for this period+depth if the
+          # current month's key misses (e.g. very first run of a month).
+          # Even a slightly-stale prior-period snapshot is better than
+          # re-walking 5 000+ unit_ids in a 6-hour budget.
+          restore-keys: |
+            campo-prior-${{ steps.vars.outputs.prior_period_id }}-d${{ steps.vars.outputs.max_depth }}-
+
+      - name: Walk prior period catalogue
+        if: steps.vars.outputs.prior_period_id != '' && steps.cache_prior.outputs.cache-hit != 'true'
         continue-on-error: true
         run: |
           python scraper/scrape.py \
@@ -130,7 +156,7 @@ jobs:
             -v
 
       - name: Fetch prior-period course details
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}.json', steps.vars.outputs.prior_period_id)) != ''
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true' && hashFiles(format('tmp/{0}.json', steps.vars.outputs.prior_period_id)) != ''
         continue-on-error: true
         run: |
           python scraper/fetch_courses.py \
@@ -142,7 +168,7 @@ jobs:
             -v
 
       - name: Sweep Tagesaktuelle for prior period
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true'
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true'
         continue-on-error: true
         run: |
           python scraper/scrape_tagesaktuelle.py \
@@ -152,7 +178,7 @@ jobs:
             -v
 
       - name: Fetch additional prior-period courses from sweep
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', steps.vars.outputs.prior_period_id)) != ''
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', steps.vars.outputs.prior_period_id)) != ''
         continue-on-error: true
         run: |
           python scraper/fetch_courses.py \
