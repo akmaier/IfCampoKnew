@@ -1488,3 +1488,71 @@ The course is in our Campo data (uid 83746, WiSe, Prof. Vasileios Belagiannis). 
 Without the source PO this is unfixable from our analyzer alone. Recommend: identify which Studiengang(en) declare Maschinelles Lernen in der Signalverarbeitung as Pflicht and ensure their PO is in the FAU.de corpus.
 
 **Status:** 4 of 5 user-supplied test cases now correctly classified as Pflicht. The 5th is a corpus-coverage gap, not an analyzer bug.
+
+
+## Entry 0025 — Weekly cron timed out at 6h: cache prior-period snapshots monthly
+
+- **Start:** 2026-05-04 13:00 CEST
+- **End:** 2026-05-04 13:15 CEST
+- **Duration:** ~15 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompt (verbatim):**
+
+> What happend with the github action? It seems not to have completed...
+
+**Diagnosis:**
+
+The 2026-05-04 06:19 UTC scheduled run of `Weekly Campo scrape` (commit `dc65fd1c`) hit GitHub Actions' 6-hour job-timeout wall:
+
+| step | result |
+|---|---|
+| Walk catalogue (current period, depth 6) | ✓ ~30 min |
+| Fetch course details (catalogue) | ✓ ~30 min |
+| Sweep Tagesaktuelle | ✓ ~30 min |
+| Fetch sweep-only courses | ✓ ~10 min |
+| **Walk prior period catalogue** | ⏱ in-progress when killed |
+| (everything after) render / analyse / commit / release | ⏸ never ran |
+
+The added scope from Entries 0017–0024 (depth-4 → depth-6 + prior-period steps + Tagesaktuelle for both terms + multi-period analyse) doesn't fit in the 6h budget. Net effect: nothing committed this week — corpus is unchanged.
+
+**Fix:**
+
+The prior period (`565` = WiSe 2025/26 in the current cron) is a *finished/finishing* term. Its data changes far less than the active term's. Cache the prior-period snapshots and refresh only **monthly**:
+
+```yaml
+- name: Restore prior-period cache (monthly key)
+  uses: actions/cache@v4
+  with:
+    path: |
+      tmp/{prior}.json
+      tmp/{prior}-courses.json
+      tmp/{prior}-tagesaktuelle.json
+    key: campo-prior-{prior}-d{max_depth}-{YYYY-MM}
+    restore-keys:
+      campo-prior-{prior}-d{max_depth}-
+```
+
+All four prior-period scrape steps now gate on `steps.cache_prior.outputs.cache-hit != 'true'`. On a cache hit (most weeks) those steps skip in seconds; the analyse step still runs against the cached files.
+
+The fallback `restore-keys` accepts ANY cached snapshot for the same period+depth — so if the current-month key misses (first run of a new month), we still get a slightly-stale snapshot and skip the slow walk. The fresh full re-walk happens once a month when the new key actually misses everything.
+
+**Estimated wall-clock per cron run:**
+
+| scenario | walk (current) | fetch (current) | sweep (current) | prior period | analyse + commit | total |
+|---|--:|--:|--:|--:|--:|--:|
+| previously (no cache) | 30 min | 30 min | 30 min | **120 min** | 60 min | ~270 min ❌ timed out |
+| cache hit (typical week) | 30 min | 30 min | 30 min | < 1 min | 60 min | **~150 min** ✓ |
+| cache miss (~monthly) | 30 min | 30 min | 30 min | 120 min | 60 min | ~270 min — still tight |
+
+Even on a cache miss, the `restore-keys` fallback should grab a slightly-older snapshot, so the prior-period scrape skips. A genuine "no cache at all" run is the very first run after this change.
+
+**Files changed:**
+
+```
+.github/workflows/scrape-weekly.yml | +30 / -4 (cache step + 4× cache-hit guard)
+```
+
+YAML lint passes. The change is workflow-only — no scraper logic touched, no need to re-run the analysis.
+
+**Status:** Cron should complete inside the 6-hour budget on cache hit. If the next scheduled run still times out, the next escalation would be to split into two parallel jobs sharing artifacts.
