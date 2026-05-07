@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17939"
 campo_path: "title:17593|title:17601|title:17939"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17939"
-po_version_count: 2
+po_version_count: 3
 course_count: 0
 fau_studiengang:
   - title: "Biotechnologie (B.Sc.)"
@@ -197,14 +197,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (2)
+## Prüfungsordnungs-Versionen (3)
 
-### Bachelor of Science Biotechnologie Hauptfach PO-Version 20252
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13829724`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17939|exam:13829724>
+- **Campo-Segment:** `exam:13826474`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17939|exam:13826470|exam:13826471|exam:13826474>
 
-### Master of Science Biotechnologie Hauptfach PO-Version 20252
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13826470`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17939|exam:13826470>
+- **Campo-Segment:** `exam:13829729`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17939|exam:13829724|exam:13829726|exam:13829729>
+
+### 88888 Auflage (lt. Zulassungsbescheid zum Masterstudium)
+
+- **Campo-Segment:** `exam:13829690`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17939|exam:13826470|exam:13826471|exam:13829690>

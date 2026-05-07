@@ -183,12 +183,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (2)
 
-### Master of Science Economics Hauptfach PO-Version 20212
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14020293`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17629|exam:14020293>
+- **Campo-Segment:** `exam:14020300`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17629|exam:14020293|exam:14020294|exam:14020300>
 
-### Master of Science Economics Hauptfach PO-Version 20252
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14024051`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17629|exam:14024051>
+- **Campo-Segment:** `exam:14024058`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17629|exam:14024051|exam:14024052|exam:14024058>

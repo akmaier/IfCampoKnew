@@ -5,7 +5,7 @@ campo_segment: "title:17646"
 campo_path: "title:17593|title:17602|title:17646"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646"
 po_version_count: 20
-course_count: 0
+course_count: 3
 fau_studiengang:
   - title: "Mathematik (B.Sc.)"
     rel_path: "studiengang/mathematik-b-sc.md"
@@ -383,264 +383,153 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (20)
 
-### Bachelor of Education Mathematik Hauptfach PO-Version 20152
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:14213772`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213772>
-- **Passende PO-PDFs (FAU.de):**
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805-en.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20230731.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20230731.md)
-  - [PDF 27th of February 2017](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpo-ba-ma-technomathematik-fpotechnomathe-20150311-idf-20170227-en.md)
-  - [FPOMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20190715.md)
-  - [FPOMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20210805.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20200820 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20200820-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20200820.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20210805 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20210805-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20210805.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20220811 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20220811-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20220811.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20220811.md)
-  - [FPOWiMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20190715.md)
-  - [FPOWiMathe 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20200820.md)
-  - [FPOWiMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20210805.md)
+- **Campo-Segment:** `exam:14215375`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14215374|exam:14215375>
 
-### Bachelor of Education Mathematik Hauptfach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14215374`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14215374>
-- **Passende PO-PDFs (FAU.de):**
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20230731.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20230731.md)
-  - [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/sammel-aesa-masterbewerbung-20230731-aes.md)
+- **Campo-Segment:** `exam:14212943`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14212941|exam:14212942|exam:14212943>
 
-### Bachelor of Science Mathematik Hauptfach PO-Version 20152
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14218473`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473>
-- **Passende PO-PDFs (FAU.de):**
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805-en.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20230731.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20230731.md)
-  - [PDF 27th of February 2017](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpo-ba-ma-technomathematik-fpotechnomathe-20150311-idf-20170227-en.md)
-  - [FPOMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20190715.md)
-  - [FPOMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20210805.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20200820 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20200820-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20200820.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20210805 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20210805-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20210805.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20220811 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20220811-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20220811.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20220811.md)
-  - [FPOWiMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20190715.md)
-  - [FPOWiMathe 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20200820.md)
-  - [FPOWiMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20210805.md)
+- **Campo-Segment:** `exam:14212968`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14212965|exam:14212967|exam:14212968>
 
-### Bachelor of Science Mathematik Hauptfach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14222942`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942>
-- **Passende PO-PDFs (FAU.de):**
-  - [ABMPOMathe-NatFak 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/abmpomathe-natfak-20190715-aes.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715.md)
-  - [FPOMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20190715.md)
-  - [FPOMathe 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20190715-aes.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715.md)
-  - [FPOTechnoMathe 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20190715-aes.md)
-  - [FPOWiMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20190715.md)
-  - [FPOWiMathe 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20190715-aes.md)
+- **Campo-Segment:** `exam:14213049`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213047|exam:14213048|exam:14213049>
 
-### Bachelor of Science Mathematik Hauptfach PO-Version 20261
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15839997`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997>
-- **Passende PO-PDFs (FAU.de):**
-  - [FPODataScience 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)
-  - [FPOMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20260305.md)
-  - [FPOTechnomathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20260305.md)
-  - [FPOWiMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md)
+- **Campo-Segment:** `exam:14213134`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213132|exam:14213133|exam:14213134>
 
-### Lehramt Grundschule Mathematik Didaktikfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14212941`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14212941>
+- **Campo-Segment:** `exam:14213242`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213240|exam:14213241|exam:14213242>
 
-### Lehramt Grundschule Mathematik Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14212965`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14212965>
+- **Campo-Segment:** `exam:15888127`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127>
 
-### Lehramt Gymnasium Mathematik Hauptfach PO-Version 2010
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14213047`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213047>
-- **Passende PO-PDFs (FAU.de):**
-  - [PDF vom 07.09.2007 i.d.F. 30.07.2010](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/po-bachelor-ma-mathe-technomathe-neu-ws-2010-2011.md)
+- **Campo-Segment:** `exam:14213473`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213471|exam:14213472|exam:14213473>
 
-### Lehramt Gymnasium Mathematik Hauptfach PO-Version 20152
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14213132`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213132>
-- **Passende PO-PDFs (FAU.de):**
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805-en.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20230731.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20230731.md)
-  - [PDF 27th of February 2017](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpo-ba-ma-technomathematik-fpotechnomathe-20150311-idf-20170227-en.md)
-  - [FPOMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20190715.md)
-  - [FPOMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20210805.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20200820 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20200820-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20200820.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20210805 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20210805-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20210805.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20220811 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20220811-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20220811.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20220811.md)
-  - [FPOWiMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20190715.md)
-  - [FPOWiMathe 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20200820.md)
-  - [FPOWiMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20210805.md)
+- **Campo-Segment:** `exam:14213498`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213495|exam:14213497|exam:14213498>
 
-### Lehramt Gymnasium Mathematik Hauptfach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14213240`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213240>
-- **Passende PO-PDFs (FAU.de):**
-  - [ABMPOMathe-NatFak 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/abmpomathe-natfak-20190715-aes.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715.md)
-  - [FPOMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20190715.md)
-  - [FPOMathe 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20190715-aes.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715.md)
-  - [FPOTechnoMathe 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20190715-aes.md)
-  - [FPOWiMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20190715.md)
-  - [FPOWiMathe 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20190715-aes.md)
+- **Campo-Segment:** `exam:15895534`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534>
 
-### Lehramt Gymnasium Mathematik Hauptfach PO-Version 20261
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15888125`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125>
-- **Passende PO-PDFs (FAU.de):**
-  - [FPODataScience 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)
-  - [FPOMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20260305.md)
-  - [FPOTechnomathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20260305.md)
-  - [FPOWiMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md)
+- **Campo-Segment:** `exam:15895554`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554>
 
-### Lehramt Mittelschule Mathematik Didaktikfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14213471`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213471>
+- **Campo-Segment:** `exam:14213703`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213701|exam:14213702|exam:14213703>
 
-### Lehramt Mittelschule Mathematik Didaktikfach PO-Version 20261
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15895532`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532>
-- **Passende PO-PDFs (FAU.de):**
-  - [FPODataScience 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)
-  - [FPOMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20260305.md)
-  - [FPOTechnomathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20260305.md)
-  - [FPOWiMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md)
+- **Campo-Segment:** `exam:15889215`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215>
 
-### Lehramt Mittelschule Mathematik Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14213495`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213495>
+- **Campo-Segment:** `exam:14213775`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213772|exam:14213774|exam:14213775>
 
-### Lehramt Mittelschule Mathematik Hauptfach PO-Version 20261
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15895551`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551>
-- **Passende PO-PDFs (FAU.de):**
-  - [FPODataScience 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)
-  - [FPOMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20260305.md)
-  - [FPOTechnomathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20260305.md)
-  - [FPOWiMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md)
+- **Campo-Segment:** `exam:14215377`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14215374|exam:14215376|exam:14215377>
 
-### Lehramt Realschule Mathematik Hauptfach PO-Version 20152
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14213701`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213701>
-- **Passende PO-PDFs (FAU.de):**
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805-en.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805.md)
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20230731.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20230731.md)
-  - [PDF 27th of February 2017](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpo-ba-ma-technomathematik-fpotechnomathe-20150311-idf-20170227-en.md)
-  - [FPOMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20190715.md)
-  - [FPOMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20210805.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20200820 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20200820-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20200820.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20210805 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20210805-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20210805.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20220811 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20220811-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20220811.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20220811.md)
-  - [FPOWiMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20190715.md)
-  - [FPOWiMathe 20150311 i.d.F. 20200820.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20200820.md)
-  - [FPOWiMathe 20150311 i.d.F. 20210805.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20210805.md)
+- **Campo-Segment:** `exam:14216944`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14216942|exam:14216943|exam:14216944>
 
-### Lehramt Realschule Mathematik Hauptfach PO-Version 20261
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15889213`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213>
-- **Passende PO-PDFs (FAU.de):**
-  - [FPODataScience 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpodatascience-20260305.md)
-  - [FPOMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20260305.md)
-  - [FPOTechnomathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20260305.md)
-  - [FPOWiMathe 20260305.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20260305.md)
+- **Campo-Segment:** `exam:14218477`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477>
 
-### Master of Education Mathematik Hauptfach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14216942`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14216942>
-- **Passende PO-PDFs (FAU.de):**
-  - [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20230731.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20230731.md)
-  - [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/sammel-aesa-masterbewerbung-20230731-aes.md)
+- **Campo-Segment:** `exam:14222946`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946>
 
-### Master of Science Mathematik Hauptfach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14232518`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518>
-- **Passende PO-PDFs (FAU.de):**
-  - [ABMPOMathe-NatFak 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/abmpomathe-natfak-20190715-aes.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715-en.md)
-  - [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715.md)
-  - [FPOMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20150311-idf-20190715.md)
-  - [FPOMathe 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpomathe-20190715-aes.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715-en.md)
-  - [FPOTechnoMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20150311-idf-20190715.md)
-  - [FPOTechnoMathe 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpotechnomathe-20190715-aes.md)
-  - [FPOWiMathe 20150311 i.d.F. 20190715.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20150311-idf-20190715.md)
-  - [FPOWiMathe 20190715 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/fpowimathe-20190715-aes.md)
+- **Campo-Segment:** `exam:15840002`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002>
 
-### Staatsexamensvorbereitung Fachdidaktik
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `title:17860`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|title:17860>
+- **Campo-Segment:** `exam:14232521`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521>
+
+## Veranstaltungen (3)
+
+### Staatsexamenskurs Mathematikdidaktik (GY) - Seminar
+
+- **Segment:** `exam:14362591` · **unitId:** `107697`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|title:17860|exam:14362591>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107697&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 25.05.2026 | 20 |
+
+### ExamensGS - Staatsexamenskurs Mathematikdidaktik (GS) - Hauptseminar
+
+- **Segment:** `exam:14362590` · **unitId:** `87016`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|title:17860|exam:14362590>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87016&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 25.05.2026 | 20 |
+
+### HS-Ex-MS - Staatsexamenskurs Mathematikdidaktik (MS) - Hauptseminar
+
+- **Segment:** `exam:14362592` · **unitId:** `82993`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|title:17860|exam:14362592>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82993&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 26.05.2026 | 30 |

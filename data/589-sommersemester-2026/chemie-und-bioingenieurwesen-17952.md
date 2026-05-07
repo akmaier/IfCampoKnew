@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17952"
 campo_path: "title:17593|title:17601|title:17952"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952"
-po_version_count: 4
+po_version_count: 6
 course_count: 0
 fau_studiengang:
   - title: "Chemie- und Bioingenieurwesen (B.Sc.)"
@@ -372,54 +372,34 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (4)
+## Prüfungsordnungs-Versionen (6)
 
-### Bachelor of Science Chemie- und Bioingenieurwesen Hauptfach PO-Version 20152
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14820239`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14820239>
-- **Passende PO-PDFs (FAU.de):**
-  - [PDF vom 07.06.2011 i.d.F. 03.07.2015](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-juli2015.md)
-  - [PDF vom 05.12.2008 i.d.F. 03.07.2015](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemie-bioingenieurwesen-juli2015.md)
-  - [PDF vom 24.09.2007 i.d.F. 03.07.2015](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-lifesceng-juli2015.md)
-  - [PDF vom 15.12.2008 i.d.F. 02.07.2015](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-energietechnik-ba-ma-juli2015.md)
+- **Campo-Segment:** `exam:14820243`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14820239|exam:14820241|exam:14820243>
 
-### Bachelor of Science Chemie- und Bioingenieurwesen Hauptfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14821993`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14821993>
-- **Passende PO-PDFs (FAU.de):**
-  - [BA-MA Chemie- und Bioingenieurwesen FPOCBI 20240328.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/ba-ma-chemie-und-bioingenieurwesen-fpocbi-20240328.md)
-  - [Elite-MSc Advanced Optical Technologies FPO MAOT 20071002 i.d.F. 20240926 en.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/elite-msc-advanced-optical-technologies-fpo-maot-20071002-idf-20240926-en.md)
-  - [Elite-MSc Advanced Optical Technologies FPO MAOT 20071002 i.d.F. 20240926.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/elite-msc-advanced-optical-technologies-fpo-maot-20071002-idf-20240926.md)
-  - [FPOCEP 20240328 en.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpocep-20240328-en.md)
-  - [FPOCEP 20240328 i.d.F. 20250320 en.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpocep-20240328-idf-20250320-en.md)
-  - [FPOCEP 20240328 i.d.F. 20250320.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpocep-20240328-idf-20250320.md)
-  - [FPOCEP 20240328.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpocep-20240328.md)
-  - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926-en.md)
-  - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926.md)
+- **Campo-Segment:** `exam:14821997`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14821993|exam:14821995|exam:14821997>
 
-### Master of Science Chemie- und Bioingenieurwesen Hauptfach PO-Version 20152
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14827089`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14827089>
-- **Passende PO-PDFs (FAU.de):**
-  - [PDF vom 07.06.2011 i.d.F. 03.07.2015](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemengin-nachhaltigechemtechn-juli2015.md)
-  - [PDF vom 05.12.2008 i.d.F. 03.07.2015](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-chemie-bioingenieurwesen-juli2015.md)
-  - [PDF vom 24.09.2007 i.d.F. 03.07.2015](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-ba-ma-lifesceng-juli2015.md)
-  - [PDF vom 15.12.2008 i.d.F. 02.07.2015](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpo-energietechnik-ba-ma-juli2015.md)
+- **Campo-Segment:** `exam:14827091`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14827089|exam:14827090|exam:14827091>
 
-### Master of Science Chemie- und Bioingenieurwesen Hauptfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14829108`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14829108>
-- **Passende PO-PDFs (FAU.de):**
-  - [BA-MA Chemie- und Bioingenieurwesen FPOCBI 20240328.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/ba-ma-chemie-und-bioingenieurwesen-fpocbi-20240328.md)
-  - [Elite-MSc Advanced Optical Technologies FPO MAOT 20071002 i.d.F. 20240926 en.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/elite-msc-advanced-optical-technologies-fpo-maot-20071002-idf-20240926-en.md)
-  - [Elite-MSc Advanced Optical Technologies FPO MAOT 20071002 i.d.F. 20240926.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/elite-msc-advanced-optical-technologies-fpo-maot-20071002-idf-20240926.md)
-  - [FPOCEP 20240328 en.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpocep-20240328-en.md)
-  - [FPOCEP 20240328 i.d.F. 20250320 en.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpocep-20240328-idf-20250320-en.md)
-  - [FPOCEP 20240328 i.d.F. 20250320.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpocep-20240328-idf-20250320.md)
-  - [FPOCEP 20240328.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/fpocep-20240328.md)
-  - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926-en.md)
-  - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](../pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926.md)
+- **Campo-Segment:** `exam:14829110`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14829108|exam:14829109|exam:14829110>
+
+### 88888 Auflage (lt. Zulassungsbescheid zum Masterstudium)
+
+- **Campo-Segment:** `exam:14829016`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14827089|exam:14827090|exam:14829016>
+
+### 88888 Auflage (lt. Zulassungsbescheid zum Masterstudium)
+
+- **Campo-Segment:** `exam:14832656`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17952|exam:14829108|exam:14829109|exam:14832656>

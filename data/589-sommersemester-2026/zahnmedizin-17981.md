@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17981"
 campo_path: "title:17593|title:17600|title:17981"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981"
-po_version_count: 3
-course_count: 0
+po_version_count: 6
+course_count: 9
 fau_studiengang:
   - title: "Zahnmedizin (Staatsexamen)"
     rel_path: "studiengang/zahnmedizin-staatsexamen.md"
@@ -146,19 +146,207 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (3)
+## Prüfungsordnungs-Versionen (6)
 
-### Extracurriculare Veranstaltungen der Zahnmedizin -
+### 1100 Zweiter Abschnitt der Zahnärztlichen Prüfung
 
-- **Campo-Segment:** `exam:13855530`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530>
+- **Campo-Segment:** `exam:13853466`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853466>
 
-### Staatsexamen Zahnmedizin Hauptfach PO-Version 1
+### 1200 Dritter Abschnitt der Zahnärztlichen Prüfung
 
-- **Campo-Segment:** `exam:13851681`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681>
+- **Campo-Segment:** `exam:15733214`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:15733214>
 
-### Staatsexamen Zahnmedizin Hauptfach PO-Version 20212
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13853463`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463>
+- **Campo-Segment:** `exam:13851685`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:13853469`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469>
+
+### 77777 Zusatzleistungen
+
+- **Campo-Segment:** `exam:13851952`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952>
+
+### 77777 Zusatzleistungen
+
+- **Campo-Segment:** `exam:13854019`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019>
+
+## Veranstaltungen (9)
+
+### Keramik in der restaurativen Zahnheilkunde - Vorlesung
+
+- **Segment:** `exam:13855541` · **unitId:** `113771`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530|exam:13855541>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113771&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 15:00–17:30 | 08.05.2026 | Hörsaal 2 |
+| Einzeltermin | Fr | 15:00–17:30 | 29.05.2026 | Hörsaal 2 |
+| Einzeltermin | Fr | 15:00–17:30 | 12.06.2026 | Hörsaal 2 |
+| Einzeltermin | Fr | 14:30–17:00 | 10.07.2026 | Hörsaal 2 |
+
+### Klinischer Workflow unter werkstoffkundlichen Aspekten - Vorlesung
+
+- **Segment:** `exam:13855540` · **unitId:** `94064`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530|exam:13855540>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94064&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 15:00–17:30 | 22.05.2026 | Hörsaal 1 |
+| Einzeltermin | Fr | 15:00–17:30 | 19.06.2026 | Hörsaal 2 |
+| Einzeltermin | Fr | 14:30–17:00 | 03.07.2026 | Hörsaal 2 |
+| Einzeltermin | Fr | 15:00–17:00 | 17.07.2026 | Hörsaal 2 |
+
+### MKG - Plastisch-Ästhetische/Dysgnathie-Chirurgie - Vorlesung
+
+- **Segment:** `exam:13855534` · **unitId:** `90468`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530|exam:13855534>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90468&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 17:00–21:00 | 08.05.2026 | — |
+| Einzeltermin | Sa | 08:00–12:00 | 09.05.2026 | — |
+| Einzeltermin | Fr | 17:00–21:00 | 22.05.2026 | — |
+| Einzeltermin | Sa | 08:00–12:00 | 23.05.2026 | — |
+| Einzeltermin | Fr | 17:00–21:00 | 26.06.2026 | — |
+
+### MKG - Hox, Sox, body plan - MKG - Hox, Sox, body plan, Rank-Ligand-science meets daily life- Entwicklungsbiologie u Immunologie für Zahnarztpraxen - Vorlesung
+
+- **Segment:** `exam:13855532` · **unitId:** `83536`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530|exam:13855532>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83536&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 17:00–20:00 | 26.06.2026 | — |
+| Einzeltermin | So | 08:00–12:00 | 28.06.2026 | — |
+| Einzeltermin | Fr | 17:00–20:00 | 03.07.2026 | — |
+| Einzeltermin | So | 08:00–15:00 | 05.07.2026 | — |
+| Einzeltermin | Fr | 17:00–20:00 | 10.07.2026 | — |
+| Einzeltermin | So | 08:00–16:00 | 12.07.2026 | — |
+
+### MKG - Orale Regeneration - MKG - Orale Regeneration - Vorlesung
+
+- **Segment:** `exam:13855536` · **unitId:** `86938`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530|exam:13855536>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86938&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:00–21:00 | 15.05.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 16.05.2026 | — |
+
+### MKG für Praxis und Praktiker - MKG für Praxis und Praktiker - Vorlesung
+
+- **Segment:** `exam:13855531` · **unitId:** `82907`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530|exam:13855531>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82907&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–16:00 | 09.05.2026 | — |
+| Einzeltermin | Sa | 09:00–16:00 | 16.05.2026 | — |
+
+### MKG-Chirurgie Repetitorium - Mund-, Kiefer- und Gesichtschirurgie Repetitorium - Vorlesung
+
+- **Segment:** `exam:13855537` · **unitId:** `89099`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530|exam:13855537>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89099&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–17:00 | 06.06.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 13.06.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 20.06.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 27.06.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 04.07.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 11.07.2026 | — |
+
+### MKG_Das Plattenepithelkarzinom d. Mundhöhle - MKG_Das Plattenepithelkarzinom d. Mundhöhle - Biol. Grundlagen, Hallmarks of Cancer, Diagnostik, Therapiestrategien - Vorlesung
+
+- **Segment:** `exam:13855533` · **unitId:** `85155`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530|exam:13855533>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85155&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | 14-täglich | — | 04.06.2026 | — |
+
+### VL der BLZK u. KZVB für Zahnmediziner - 3-V35 Berufskunde und Praxisführung  - Vorlesung
+
+- **Segment:** `exam:13855542` · **unitId:** `115688`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13855530|exam:13855542>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115688&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 17:30–18:15 | 23.04.2026 | — |
+| Einzeltermin | Do | 17:30–18:15 | 30.04.2026 | — |
+| Einzeltermin | Do | 17:30–18:15 | 21.05.2026 | — |
+| Einzeltermin | Do | 17:30–18:15 | 11.06.2026 | — |
+| Einzeltermin | Do | 17:30–18:15 | 18.06.2026 | — |
+| Einzeltermin | Do | 17:30–18:15 | 02.07.2026 | — |
+| Einzeltermin | Do | 17:30–18:15 | 09.07.2026 | — |

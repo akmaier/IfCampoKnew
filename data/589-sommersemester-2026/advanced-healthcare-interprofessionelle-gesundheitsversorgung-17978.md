@@ -16,7 +16,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Master of Science Advanced Healthcare - Interprofessionelle Gesundheitsversorgung Hauptfach PO-Version 20251
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13845400`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17978|exam:13845400>
+- **Campo-Segment:** `exam:13845402`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17978|exam:13845400|exam:13845401|exam:13845402>

@@ -16,7 +16,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Doctor of Philosophy Advanced ImmunoMedicine Hauptfach PO-Version 20221
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13850125`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17974|exam:13850125>
+- **Campo-Segment:** `exam:13850127`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17974|exam:13850125|exam:13850126|exam:13850127>

@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17649"
 campo_path: "title:17593|title:17602|title:17649"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649"
-po_version_count: 2
-course_count: 0
+po_version_count: 10
+course_count: 11
 fau_studiengang:
   - title: "Chemistry (M.Sc.)"
     rel_path: "studiengang/chemistry-m-sc.md"
@@ -159,14 +159,229 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (2)
+## Prüfungsordnungs-Versionen (10)
 
-### Lecture Directory (under construction)
+### 10000 Masterprüfung
 
-- **Campo-Segment:** `title:17754`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754>
+- **Campo-Segment:** `exam:14375578`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578>
 
-### Module Directory
+### Advances in Bio-Organic and Bio-Inorganic Chemistry
 
-- **Campo-Segment:** `title:17753`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753>
+- **Campo-Segment:** `title:17764`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17764>
+
+### Advances in Energy Materials
+
+- **Campo-Segment:** `title:17766`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17766>
+
+### Advances in Homogenous Catalysis
+
+- **Campo-Segment:** `title:17763`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17763>
+
+### Advances in Interface Research and Catalysis
+
+- **Campo-Segment:** `title:17765`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17765>
+
+### Advances in Organic Chemistry
+
+- **Campo-Segment:** `title:18416`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:18416>
+
+### Inorganic Chemistry
+
+- **Campo-Segment:** `title:17761`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17761>
+
+### Organic Chemistry
+
+- **Campo-Segment:** `title:17762`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17762>
+
+### Physical Chemistry
+
+- **Campo-Segment:** `title:17760`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17760>
+
+### Quantum Chemistry
+
+- **Campo-Segment:** `title:17759`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17759>
+
+## Veranstaltungen (11)
+
+### CM-QC-SS - Quantum Chemistry 2 - Vorlesung mit Übung
+
+- **Segment:** `exam:14378893` · **unitId:** `86532`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17757|exam:14378893>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86532&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 26.05.2026 | — |
+
+### HomCatal-1-SS - Organometallic Catalysis - Vorlesung mit Übung
+
+- **Segment:** `exam:14378895` · **unitId:** `89807`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17757|exam:14378895>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89807&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
+
+### HomCatal-SS - Organocatalysis and Catalytic Reactions in Water - Vorlesung mit Übung
+
+- **Segment:** `exam:14378892` · **unitId:** `84427`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17757|exam:14378892>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84427&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
+| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
+
+### HomCatal-SS - Small Molecule Activation - Vorlesung mit Übung
+
+- **Segment:** `exam:14378891` · **unitId:** `84325`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17757|exam:14378891>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84325&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
+
+### IC-R-Lab - Research module - Inorganic Chemistry - Praktikum
+
+- **Segment:** `exam:14378899` · **unitId:** `88541`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17758|exam:14378899>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88541&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 15.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+
+### IntCat-SS - Heterogeneous Catalysis and Kinetics - Vorlesung mit Übung
+
+- **Segment:** `exam:14378897` · **unitId:** `92770`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17757|exam:14378897>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92770&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
+
+### IntCat-SS - Surfaces and Interface Science - Vorlesung mit Übung
+
+- **Segment:** `exam:14378894` · **unitId:** `87199`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17757|exam:14378894>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87199&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 01.05.2026 15.05.2026 05.06.2026 19.06.2026 03.07.2026 10.07.2026 17.07.2026 | — |
+| — | Einzeltermin | — | — | — |
+
+### Neurotech - Neurotech: Physics and Chemistry of Neuromodulation Technologies - Vorlesung mit Übung
+
+- **Segment:** `exam:14378890` · **unitId:** `82551`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17757|exam:14378890>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82551&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
+
+### OC-R-Lab - Research module - Organic Chemistry - Praktikum
+
+- **Segment:** `exam:14378900` · **unitId:** `82810`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17758|exam:14378900>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82810&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 15.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+
+### PC-R-Lab - Research Module - Physical Chemistry - Praktikum
+
+- **Segment:** `exam:14378901` · **unitId:** `93833`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17758|exam:14378901>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93833&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 15.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+### QC-R-Lab - Research Module - Quantum Chemistry - Praktikum
+
+- **Segment:** `exam:14378902` · **unitId:** `89940`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17758|exam:14378902>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89940&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 15.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+

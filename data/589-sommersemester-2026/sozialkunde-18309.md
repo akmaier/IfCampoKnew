@@ -16,40 +16,40 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ## Prüfungsordnungs-Versionen (7)
 
-### Lehramt Grundschule Sozialkunde Didaktikfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15179911`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15179911>
+- **Campo-Segment:** `exam:15179913`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15179911|exam:15179912|exam:15179913>
 
-### Lehramt Grundschule Sozialkunde Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15179920`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15179920>
+- **Campo-Segment:** `exam:15179923`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15179920|exam:15179922|exam:15179923>
 
-### Lehramt Gymnasium Sozialkunde Hauptfach PO-Version 2010
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15180006`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180006>
+- **Campo-Segment:** `exam:15180008`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180006|exam:15180007|exam:15180008>
 
-### Lehramt Gymnasium Sozialkunde Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15180086`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180086>
+- **Campo-Segment:** `exam:15180088`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180086|exam:15180087|exam:15180088>
 
-### Lehramt Mittelschule Sozialkunde Didaktikfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15180364`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180364>
+- **Campo-Segment:** `exam:15180366`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180364|exam:15180365|exam:15180366>
 
-### Lehramt Mittelschule Sozialkunde Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15180377`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180377>
+- **Campo-Segment:** `exam:15180380`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180377|exam:15180379|exam:15180380>
 
-### Lehramt Realschule Sozialkunde Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15180508`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180508>
+- **Campo-Segment:** `exam:15180510`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180508|exam:15180509|exam:15180510>
 
 ## Lehramts-Prüfungsordnungen
 

@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17621"
 campo_path: "title:17593|title:17603|title:17621"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621"
-po_version_count: 3
+po_version_count: 6
 course_count: 0
 fau_studiengang:
   - title: "Wirtschaftspädagogik (M.Sc.)"
@@ -176,19 +176,34 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (3)
+## Prüfungsordnungs-Versionen (6)
 
-### Master of Science Wirtschaftspädagogik Studienrichtung I Hauptfach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14044309`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14044309>
+- **Campo-Segment:** `exam:14044311`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14044309|exam:14044310|exam:14044311>
 
-### Master of Science Wirtschaftspädagogik Studienrichtung II Hauptfach PO-Version 2009
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14051292`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14051292>
+- **Campo-Segment:** `exam:14046346`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14046344|exam:14046345|exam:14046346>
 
-### Master of Science Wirtschaftspädagogik Studienrichtung II Hauptfach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14046344`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14046344>
+- **Campo-Segment:** `exam:14051294`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14051292|exam:14051293|exam:14051294>
+
+### 88888 Auflage (lt. Zulassungsbescheid zum Masterstudium)
+
+- **Campo-Segment:** `exam:14046243`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14044309|exam:14044310|exam:14046243>
+
+### 88888 Auflage (lt. Zulassungsbescheid zum Masterstudium)
+
+- **Campo-Segment:** `exam:14048884`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14046344|exam:14046345|exam:14048884>
+
+### 88888 Auflage (lt. Zulassungsbescheid zum Masterstudium)
+
+- **Campo-Segment:** `exam:14053923`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14051292|exam:14051293|exam:14053923>

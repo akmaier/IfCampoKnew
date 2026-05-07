@@ -16,7 +16,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Master of Science Materials Physics Hauptfach PO-Version 20151
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14266656`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17634|exam:14266656>
+- **Campo-Segment:** `exam:14266658`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17634|exam:14266656|exam:14266657|exam:14266658>

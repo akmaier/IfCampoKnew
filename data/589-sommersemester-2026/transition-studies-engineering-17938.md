@@ -16,7 +16,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Transition Studies Engineering Hauptfach PO-Version 20212
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14513409`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17938|exam:14513409>
+- **Campo-Segment:** `exam:14513411`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17938|exam:14513409|exam:14513410|exam:14513411>

@@ -175,7 +175,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Master of Science Marketing- und Vertriebsmanagement Hauptfach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13901209`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17612|exam:13901209>
+- **Campo-Segment:** `exam:13901211`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17612|exam:13901209|exam:13901210|exam:13901211>

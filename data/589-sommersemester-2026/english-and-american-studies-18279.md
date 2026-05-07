@@ -251,22 +251,22 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (4)
 
-### Bachelor of Arts (2 Fächer) English and American Studies 1. Fach PO-Version 2009
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15423530`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530>
+- **Campo-Segment:** `exam:15423540`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540>
 
-### Bachelor of Arts (2 Fächer) English and American Studies 1. Fach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15426955`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955>
+- **Campo-Segment:** `exam:15426965`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965>
 
-### Bachelor of Arts (2 Fächer) English and American Studies 2. Fach PO-Version 2009
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15430354`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354>
+- **Campo-Segment:** `exam:15430364`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364>
 
-### Bachelor of Arts (2 Fächer) English and American Studies 2. Fach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15432078`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078>
+- **Campo-Segment:** `exam:15432088`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088>

@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17946"
 campo_path: "title:17593|title:17601|title:17946"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17946"
-po_version_count: 2
+po_version_count: 3
 course_count: 0
 fau_studiengang:
   - title: "Nanotechnology (M.Sc.)"
@@ -217,14 +217,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (2)
+## Prüfungsordnungs-Versionen (3)
 
-### Master of Science Nanotechnology Hauptfach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14516454`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17946|exam:14516454>
+- **Campo-Segment:** `exam:14516456`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17946|exam:14516454|exam:14516455|exam:14516456>
 
-### Master of Science Nanotechnology Hauptfach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14518606`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17946|exam:14518606>
+- **Campo-Segment:** `exam:14518608`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17946|exam:14518606|exam:14518607|exam:14518608>
+
+### 88888 Auflage (lt. Zulassungsbescheid zum Masterstudium)
+
+- **Campo-Segment:** `exam:14520765`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17946|exam:14518606|exam:14518607|exam:14520765>

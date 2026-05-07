@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18269"
 campo_path: "title:17593|title:17595|title:18269"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269"
-po_version_count: 3
+po_version_count: 6
 course_count: 0
 fau_studiengang:
   - title: "Orientalistik (B.A.)"
@@ -238,19 +238,34 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (3)
+## Prüfungsordnungs-Versionen (6)
 
-### Bachelor of Arts (2 Fächer) Orientalistik 1. Fach PO-Version 2007
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15317450`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15317450>
+- **Campo-Segment:** `exam:15317451`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15317450|exam:15317451>
 
-### Bachelor of Arts (2 Fächer) Orientalistik 1. Fach PO-Version 20182
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15320726`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15320726>
+- **Campo-Segment:** `exam:15320727`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15320726|exam:15320727>
 
-### Bachelor of Arts (2 Fächer) Orientalistik 2. Fach PO-Version 20182
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15325605`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15325605>
+- **Campo-Segment:** `exam:15325606`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15325605|exam:15325606>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15317454`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15317450|exam:15317453|exam:15317454>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15320730`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15320726|exam:15320729|exam:15320730>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15325609`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15325605|exam:15325608|exam:15325609>

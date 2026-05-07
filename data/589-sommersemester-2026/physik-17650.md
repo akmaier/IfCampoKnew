@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17650"
 campo_path: "title:17593|title:17602|title:17650"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650"
-po_version_count: 2
+po_version_count: 34
 course_count: 0
 fau_studiengang:
   - title: "Physik (B.Sc.)"
@@ -184,14 +184,174 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (2)
+## Prüfungsordnungs-Versionen (34)
 
-### Modulverzeichnis nach Studiengängen
+### 10000 Bachelorprüfung
 
-- **Campo-Segment:** `title:17715`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715>
+- **Campo-Segment:** `exam:14286546`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14286545|exam:14286546>
 
-### Vorlesungsverzeichnis
+### 10000 Bachelorprüfung
 
-- **Campo-Segment:** `title:17716`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716>
+- **Campo-Segment:** `exam:14291826`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14291825|exam:14291826>
+
+### 10000 Bachelorprüfung
+
+- **Campo-Segment:** `exam:14296693`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14296692|exam:14296693>
+
+### 10000 Bachelorprüfung
+
+- **Campo-Segment:** `exam:14301585`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14301584|exam:14301585>
+
+### 10000 Staatsexamen
+
+- **Campo-Segment:** `exam:14306438`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14306437|exam:14306438>
+
+### 10000 Staatsexamen
+
+- **Campo-Segment:** `exam:14306720`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14306719|exam:14306720>
+
+### 10000 Staatsexamen
+
+- **Campo-Segment:** `exam:14307022`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14307021|exam:14307022>
+
+### 10000 Staatsexamen
+
+- **Campo-Segment:** `exam:14307338`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14307337|exam:14307338>
+
+### 10000 Staatsexamen
+
+- **Campo-Segment:** `exam:14307427`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14307426|exam:14307427>
+
+### 10000 Staatsexamen
+
+- **Campo-Segment:** `exam:14307513`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14307512|exam:14307513>
+
+### 10000 Staatsexamen
+
+- **Campo-Segment:** `exam:14307541`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17715|exam:14307539|exam:14307541>
+
+### Fachdidaktik
+
+- **Campo-Segment:** `title:17746`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17746>
+
+### Fachdidaktische Veranstaltungen
+
+- **Campo-Segment:** `title:17752`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17717|title:17752>
+
+### Fachwissenschaftliche Veranstaltungen
+
+- **Campo-Segment:** `title:17751`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17717|title:17751>
+
+### Nichtphysikalische Wahlfächer
+
+- **Campo-Segment:** `title:17721`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17721>
+
+### Physikalische Seminare (ab 5. Fachsemester)
+
+- **Campo-Segment:** `title:17723`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17723>
+
+### Physikalische Wahlfächer (ab 5. Fachsemester)
+
+- **Campo-Segment:** `title:17728`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17728>
+
+### Physikalischer Wahlpflichtbereich
+
+- **Campo-Segment:** `title:17740`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17740>
+
+### Schlüsselqualifikationen (Physik)
+
+- **Campo-Segment:** `title:17724`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17724>
+
+### Veranstaltungen des 1. Fachsemesters
+
+- **Campo-Segment:** `title:17726`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17726>
+
+### Veranstaltungen des 1. Fachsemesters
+
+- **Campo-Segment:** `title:17743`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17743>
+
+### Veranstaltungen des 2. Fachsemesters
+
+- **Campo-Segment:** `title:17722`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17722>
+
+### Veranstaltungen des 2. Fachsemesters
+
+- **Campo-Segment:** `title:17747`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17747>
+
+### Veranstaltungen des 3. Fachsemesters
+
+- **Campo-Segment:** `title:17725`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17725>
+
+### Veranstaltungen des 3. Fachsemesters
+
+- **Campo-Segment:** `title:17742`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17742>
+
+### Veranstaltungen des 4. Fachsemesters
+
+- **Campo-Segment:** `title:17727`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17727>
+
+### Veranstaltungen des 4. Fachsemesters
+
+- **Campo-Segment:** `title:17748`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17748>
+
+### Veranstaltungen des 5. Fachsemesters
+
+- **Campo-Segment:** `title:17720`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17720>
+
+### Veranstaltungen des 5. Fachsemesters
+
+- **Campo-Segment:** `title:17749`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17749>
+
+### Veranstaltungen des 6. Fachsemesters
+
+- **Campo-Segment:** `title:17729`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17719|title:17729>
+
+### Veranstaltungen des 6. Fachsemesters
+
+- **Campo-Segment:** `title:17745`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17745>
+
+### Veranstaltungen des 7. Fachsemesters
+
+- **Campo-Segment:** `title:17744`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17744>
+
+### Veranstaltungen des 8. Fachsemesters
+
+- **Campo-Segment:** `title:17741`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17741>
+
+### Veranstaltungen des 9. Fachsemesters
+
+- **Campo-Segment:** `title:17750`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17650|title:17716|title:17718|title:17750>

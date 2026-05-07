@@ -547,37 +547,37 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (7)
 
-### Bachelor of Science Geowissenschaften Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14172341`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14172341>
+- **Campo-Segment:** `exam:14172345`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14172341|exam:14172343|exam:14172345>
 
-### Bachelor of Science Geowissenschaften Hauptfach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14175519`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14175519>
+- **Campo-Segment:** `exam:14175523`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14175519|exam:14175521|exam:14175523>
 
-### Bachelor of Science Geowissenschaften Hauptfach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14178712`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14178712>
+- **Campo-Segment:** `exam:14178716`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14178712|exam:14178714|exam:14178716>
 
-### Bachelor of Science Geowissenschaften Hauptfach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14181923`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14181923>
+- **Campo-Segment:** `exam:14181926`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14181923|exam:14181925|exam:14181926>
 
-### Bachelor of Science Geowissenschaften Hauptfach PO-Version 20252
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14185131`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14185131>
+- **Campo-Segment:** `exam:14185134`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14185131|exam:14185133|exam:14185134>
 
-### Master of Science Geowissenschaften Hauptfach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14192158`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14192158>
+- **Campo-Segment:** `exam:14192161`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14192158|exam:14192159|exam:14192161>
 
-### Zusatzstudien Geowissenschaften im Lehramt Hauptfach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14194263`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14194263>
+- **Campo-Segment:** `exam:14194265`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14194263|exam:14194264|exam:14194265>

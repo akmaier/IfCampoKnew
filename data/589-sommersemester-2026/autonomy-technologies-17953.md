@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17953"
 campo_path: "title:17593|title:17601|title:17953"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17953"
-po_version_count: 3
+po_version_count: 5
 course_count: 0
 fau_studiengang:
   - title: "Autonomy Technologies (B.Sc.)"
@@ -328,19 +328,29 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (3)
+## Prüfungsordnungs-Versionen (5)
 
-### Bachelor of Science Autonomy Technologies Hauptfach PO-Version 20232
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:14832718`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17953|exam:14832718>
+- **Campo-Segment:** `exam:14841681`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17953|exam:14841680|exam:14841681>
 
-### Bachelor of Science Autonomy Technologies Hauptfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14841680`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17953|exam:14841680>
+- **Campo-Segment:** `exam:14832724`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17953|exam:14832718|exam:14832721|exam:14832724>
 
-### Master of Science Autonomy Technologies Hauptfach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14838191`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17953|exam:14838191>
+- **Campo-Segment:** `exam:14838193`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17953|exam:14838191|exam:14838192|exam:14838193>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14841685`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17953|exam:14841680|exam:14841683|exam:14841685>
+
+### 88888 Auflage (lt. Zulassungsbescheid zum Masterstudium)
+
+- **Campo-Segment:** `exam:14841672`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17953|exam:14838191|exam:14838192|exam:14841672>

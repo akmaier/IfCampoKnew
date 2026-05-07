@@ -16,7 +16,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Master of Arts Kunstvermittlung Hauptfach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15621057`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18267|exam:15621057>
+- **Campo-Segment:** `exam:15621059`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18267|exam:15621057|exam:15621058|exam:15621059>

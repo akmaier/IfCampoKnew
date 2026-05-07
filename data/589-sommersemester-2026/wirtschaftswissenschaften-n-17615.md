@@ -221,32 +221,32 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (6)
 
-### Bachelor of Arts (1 Fach) Wirtschaftswissenschaften Hauptfach PO-Version 2010
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13905919`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13905919>
+- **Campo-Segment:** `exam:13905922`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13905919|exam:13905921|exam:13905922>
 
-### Bachelor of Arts (1 Fach) Wirtschaftswissenschaften Hauptfach PO-Version 20172
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13964789`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13964789>
+- **Campo-Segment:** `exam:13964795`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13964789|exam:13964791|exam:13964795>
 
-### Bachelor of Arts (1 Fach) Wirtschaftswissenschaften Hauptfach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13973484`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13973484>
+- **Campo-Segment:** `exam:13973490`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13973484|exam:13973486|exam:13973490>
 
-### Bachelor of Arts (1 Fach) Wirtschaftswissenschaften Hauptfach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13982353`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13982353>
+- **Campo-Segment:** `exam:13982356`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13982353|exam:13982355|exam:13982356>
 
-### Bachelor of Arts (1 Fach) Wirtschaftswissenschaften Hauptfach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13991236`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13991236>
+- **Campo-Segment:** `exam:13991239`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13991236|exam:13991238|exam:13991239>
 
-### Bachelor of Arts (1 Fach) Wirtschaftswissenschaften Hauptfach PO-Version 20252
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14000112`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:14000112>
+- **Campo-Segment:** `exam:14000115`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:14000112|exam:14000114|exam:14000115>

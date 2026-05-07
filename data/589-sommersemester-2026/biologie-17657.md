@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17657"
 campo_path: "title:17593|title:17602|title:17657"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657"
-po_version_count: 4
-course_count: 0
+po_version_count: 41
+course_count: 14
 fau_studiengang:
   - title: "Biologie (B.Sc.)"
     rel_path: "studiengang/biologie-b-sc.md"
@@ -182,28 +182,338 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (4)
+## Prüfungsordnungs-Versionen (41)
 
-### Modulverzeichnis Biologie Bachelor of Science (PO-Versionen)
+### 1. Semester
 
-- **Campo-Segment:** `title:17675`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675>
+- **Campo-Segment:** `title:17698`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17698>
 
-### Modulverzeichnis Lehramtsstudiengänge (PO-Versionen)
+### 1. Semester
 
-- **Campo-Segment:** `title:17673`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673>
+- **Campo-Segment:** `title:17709`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17695|title:17709>
 
-### Vorlesungsverzeichnis Bachelor of Science Biologie PO-Version 20192
+### 10000 Bachelorprüfung
 
-- **Campo-Segment:** `title:17674`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674>
+- **Campo-Segment:** `exam:14378937`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937>
+
+### 10000 Bachelorprüfung
+
+- **Campo-Segment:** `exam:14381356`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14381354|exam:14381356>
+
+### 2. Semester
+
+- **Campo-Segment:** `title:17702`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17702>
+
+### 2. Semester
+
+- **Campo-Segment:** `title:17707`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17695|title:17707>
+
+### 3. Semester
+
+- **Campo-Segment:** `title:17704`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17704>
+
+### 3. Semester
+
+- **Campo-Segment:** `title:17706`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17695|title:17706>
+
+### 4. Semester
+
+- **Campo-Segment:** `title:17700`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17700>
+
+### 4. Semester
+
+- **Campo-Segment:** `title:17710`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17695|title:17710>
+
+### 5. Semester
+
+- **Campo-Segment:** `title:17703`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17703>
+
+### 5. Semester
+
+- **Campo-Segment:** `title:17705`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17695|title:17705>
+
+### 6. Semester
+
+- **Campo-Segment:** `title:17699`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17699>
+
+### 6. Semester
+
+- **Campo-Segment:** `title:17708`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17695|title:17708>
+
+### 7. Semester
+
+- **Campo-Segment:** `title:17697`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17697>
+
+### 8. Semester
+
+- **Campo-Segment:** `title:17701`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17701>
+
+### Bachelor of Education
+
+- **Campo-Segment:** `title:17711`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17694|title:17711>
+
+### Bachelor of Education Biologie Hauptfach PO-Version 2011
+
+- **Campo-Segment:** `exam:14385952`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17691|exam:14385952>
 - **Passende PO-PDFs (FAU.de):**
-  - [FPO BAMA Bio 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bama-bio-20191028.md)
-  - [FPO BSc-MSc ILS FPO BAMA ILS 20191028 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20191028-en.md)
-  - [FPO BSc-MSc ILS FPO BAMA ILS 20191028.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bsc-msc-ils-fpo-bama-ils-20191028.md)
+  - [PDF vom 05.08.2008 i.d.F. 15.08.2011](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/po-biologie-bama-august2011.md)
 
-### Vorlesungsverzeichnis Lehramtsstudiengänge (Fachwissenschaften Biologie)
+### Bachelor of Education Biologie Hauptfach PO-Version 20222
 
-- **Campo-Segment:** `title:17672`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672>
+- **Campo-Segment:** `exam:14384385`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17691|exam:14384385>
+- **Passende PO-PDFs (FAU.de):**
+  - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718-en.md)
+  - [FPOilmmune 20180319 i.d.F. 20220718.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718.md)
+  - [FPOilmmune 20220718 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20220718-aes.md)
+
+### Biologische Fachmodule
+
+- **Campo-Segment:** `title:17682`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17681|title:17682>
+
+### Biologische Fachmodule
+
+- **Campo-Segment:** `title:17686`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17678|title:17686>
+
+### Englisch oder gleichwertige Sprachkurse
+
+- **Campo-Segment:** `title:17685`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685>
+
+### Lehramt Grundschule Biologie Didaktikfach PO-Version 20162
+
+- **Campo-Segment:** `exam:14384365`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17693|exam:14384365>
+- **Passende PO-PDFs (FAU.de):**
+  - [PDF vom 22.07.2015 i.d.F. 05.08.2016](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bio-zellmolekbio-neu-aug2016.md)
+
+### Lehramt Grundschule Biologie Didaktikfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14384348`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17693|exam:14384348>
+- **Passende PO-PDFs (FAU.de):**
+  - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718-en.md)
+  - [FPOilmmune 20180319 i.d.F. 20220718.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718.md)
+  - [FPOilmmune 20220718 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20220718-aes.md)
+
+### Lehramt Grundschule Biologie Didaktikfach PO-Version 20252
+
+- **Campo-Segment:** `exam:14384332`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17693|exam:14384332>
+
+### Lehramt Grundschule Biologie Hauptfach PO-Version 20162
+
+- **Campo-Segment:** `exam:14384261`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17693|exam:14384261>
+- **Passende PO-PDFs (FAU.de):**
+  - [PDF vom 22.07.2015 i.d.F. 05.08.2016](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bio-zellmolekbio-neu-aug2016.md)
+
+### Lehramt Grundschule Biologie Hauptfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14384200`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17693|exam:14384200>
+- **Passende PO-PDFs (FAU.de):**
+  - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718-en.md)
+  - [FPOilmmune 20180319 i.d.F. 20220718.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718.md)
+  - [FPOilmmune 20220718 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20220718-aes.md)
+
+### Lehramt Gymnasium Biologie Hauptfach PO-Version 2012
+
+- **Campo-Segment:** `exam:14387623`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17689|exam:14387623>
+- **Passende PO-PDFs (FAU.de):**
+  - [PDF vom 23.12.2009 i.d.F. 30.07.2012](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/stuopro-ba-integrated-life-sciencejuli2012.md)
+
+### Lehramt Gymnasium Biologie Hauptfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14387555`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17689|exam:14387555>
+- **Passende PO-PDFs (FAU.de):**
+  - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718-en.md)
+  - [FPOilmmune 20180319 i.d.F. 20220718.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718.md)
+  - [FPOilmmune 20220718 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20220718-aes.md)
+
+### Lehramt Mittelschule Biologie Didaktikfach PO-Version 20162
+
+- **Campo-Segment:** `exam:14387869`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17692|exam:14387869>
+- **Passende PO-PDFs (FAU.de):**
+  - [PDF vom 22.07.2015 i.d.F. 05.08.2016](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bio-zellmolekbio-neu-aug2016.md)
+
+### Lehramt Mittelschule Biologie Didaktikfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14387849`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17692|exam:14387849>
+- **Passende PO-PDFs (FAU.de):**
+  - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718-en.md)
+  - [FPOilmmune 20180319 i.d.F. 20220718.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718.md)
+  - [FPOilmmune 20220718 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20220718-aes.md)
+
+### Lehramt Mittelschule Biologie Didaktikfach PO-Version 20252
+
+- **Campo-Segment:** `exam:14387828`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17692|exam:14387828>
+
+### Lehramt Mittelschule Biologie Hauptfach PO-Version 20162
+
+- **Campo-Segment:** `exam:14387757`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17692|exam:14387757>
+- **Passende PO-PDFs (FAU.de):**
+  - [PDF vom 22.07.2015 i.d.F. 05.08.2016](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bio-zellmolekbio-neu-aug2016.md)
+
+### Lehramt Mittelschule Biologie Hauptfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14387696`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17692|exam:14387696>
+- **Passende PO-PDFs (FAU.de):**
+  - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718-en.md)
+  - [FPOilmmune 20180319 i.d.F. 20220718.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718.md)
+  - [FPOilmmune 20220718 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20220718-aes.md)
+
+### Lehramt Realschule Biologie Hauptfach PO-Version 2012
+
+- **Campo-Segment:** `exam:14387956`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17690|exam:14387956>
+- **Passende PO-PDFs (FAU.de):**
+  - [PDF vom 23.12.2009 i.d.F. 30.07.2012](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/stuopro-ba-integrated-life-sciencejuli2012.md)
+
+### Lehramt Realschule Biologie Hauptfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14387894`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17690|exam:14387894>
+- **Passende PO-PDFs (FAU.de):**
+  - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718-en.md)
+  - [FPOilmmune 20180319 i.d.F. 20220718.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718.md)
+  - [FPOilmmune 20220718 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20220718-aes.md)
+
+### Master of Education
+
+- **Campo-Segment:** `title:17712`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17694|title:17712>
+
+### Nicht-biologische Fachmodule
+
+- **Campo-Segment:** `title:17683`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17681|title:17683>
+
+### Wahlpflichtbereich
+
+- **Campo-Segment:** `title:17688`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17676|title:17688>
+
+### Wahlpflichtbereich
+
+- **Campo-Segment:** `title:17687`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17677|title:17687>
+
+### Wahlpflichtbereich
+
+- **Campo-Segment:** `title:17684`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17680|title:17684>
+
+## Veranstaltungen (14)
+
+### 1999 Bachelorarbeit (B.Sc. Biologie 20192)
+
+- **Segment:** `exam:14383952` · **unitId:** `53959`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17678|exam:14383952>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53959&periodId=589>
+
+### 62065 Allgemeine und Anorganische Chemie mit Experimenten
+
+- **Segment:** `exam:14384004` · **unitId:** `33724`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17676|exam:14384004>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33724&periodId=589>
+
+### 62457 Organische Chemie 1
+
+- **Segment:** `exam:14383996` · **unitId:** `53939`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17677|exam:14383996>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53939&periodId=589>
+
+### 62487 Organische Chemie 2
+
+- **Segment:** `exam:14383977` · **unitId:** `53941`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17680|exam:14383977>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53941&periodId=589>
+
+### 62487 Organische Chemie 2
+
+- **Segment:** `exam:14383964` · **unitId:** `53941`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|exam:14383964>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53941&periodId=589>
+
+### 62776 Biologie I: Zellbiologische Grundlagen
+
+- **Segment:** `exam:14384010` · **unitId:** `46121`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17676|exam:14384010>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46121&periodId=589>
+
+### 62785 Biologie II: Baupläne und Evolution
+
+- **Segment:** `exam:14383991` · **unitId:** `33705`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17677|exam:14383991>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33705&periodId=589>
+
+### 62795 Biologie III: Biochemie und Physiologie
+
+- **Segment:** `exam:14383972` · **unitId:** `33708`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17680|exam:14383972>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33708&periodId=589>
+
+### 62805 Biologie IV: Molekularbiologie der Zelle
+
+- **Segment:** `exam:14383955` · **unitId:** `33719`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|exam:14383955>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33719&periodId=589>
+
+### 62810 Ökologie und Diversität A
+
+- **Segment:** `exam:14384000` · **unitId:** `24960`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17676|exam:14384000>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24960&periodId=589>
+
+### 62820 Ökologie und Diversität B
+
+- **Segment:** `exam:14383987` · **unitId:** `24961`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17677|exam:14383987>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24961&periodId=589>
+
+### 62825 Digitale Werkzeuge für Biologen
+
+- **Segment:** `exam:14383969` · **unitId:** `46124`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17681|exam:14383969>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46124&periodId=589>
+
+### 62835 Experimentelle und Theoretische Ansätze der Biologie
+
+- **Segment:** `exam:14383961` · **unitId:** `33722`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|exam:14383961>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33722&periodId=589>
+
+### 65760 Mathematische Modellbildung und Statistik für Naturwissenschaftler
+
+- **Segment:** `exam:14383982` · **unitId:** `27936`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17680|exam:14383982>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27936&periodId=589>
+

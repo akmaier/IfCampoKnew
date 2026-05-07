@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18291"
 campo_path: "title:17593|title:17595|title:18291"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291"
-po_version_count: 8
-course_count: 0
+po_version_count: 6
+course_count: 2
 fau_studiengang:
   - title: "Ethik der Textkulturen (M.A.)"
     rel_path: "studiengang/ethik-der-textkulturen-m-a.md"
@@ -214,27 +214,22 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (8)
+## Prüfungsordnungs-Versionen (6)
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15308189`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189>
 
 ### M 4: Theorien der Kanon- und Wertebildung
 
 - **Campo-Segment:** `title:18342`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18342>
 
-### M 5: Sprach-, kommunikations- und medienwissenschaftliche Aspekte der Normbildung
-
-- **Campo-Segment:** `title:18345`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18345>
-
 ### M 6: Rhetorik öffentlichen Schreibens und Sprechens
 
 - **Campo-Segment:** `title:18341`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18341>
-
-### M 7: Angewandte Ethik
-
-- **Campo-Segment:** `title:18344`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18344>
 
 ### M1: Geschichte und Theorie der Ethik
 
@@ -251,7 +246,38 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `title:18339`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18339>
 
-### Master of Arts Ethik der Textkulturen Hauptfach PO-Version 20192
+## Veranstaltungen (2)
 
-- **Campo-Segment:** `exam:15308187`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187>
+### Übungen Themenfelder der Praktischen Theologie I - Übung
+
+- **Segment:** `exam:15687457` · **unitId:** `85679`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18345|exam:15687457>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85679&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 16:00–19:00 | 21.04.2026–14.07.2026 | — |
+
+### Übungen Themenfelder der Praktischen Theologie I - Übung
+
+- **Segment:** `exam:15687460` · **unitId:** `85679`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18344|exam:15687460>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85679&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 16:00–19:00 | 21.04.2026–14.07.2026 | — |

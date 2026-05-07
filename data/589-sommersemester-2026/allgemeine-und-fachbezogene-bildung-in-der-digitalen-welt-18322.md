@@ -152,12 +152,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (2)
 
-### Zusatzstudien Allgemeine und fachbezogene Bildung in der digitalen Welt Hauptfach PO-Version 20231
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15619376`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376>
+- **Campo-Segment:** `exam:15619378`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376|exam:15619377|exam:15619378>
 
-### Zusatzstudien Allgemeine und fachbezogene Bildung in der digitalen Welt Hauptfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15619420`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420>
+- **Campo-Segment:** `exam:15619422`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420|exam:15619421|exam:15619422>

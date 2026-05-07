@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18229"
 campo_path: "title:17593|title:17595|title:18229"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229"
-po_version_count: 11
+po_version_count: 17
 course_count: 0
 fau_studiengang:
   - title: "Kunstgeschichte (B.A.)"
@@ -436,37 +436,77 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (11)
+## Prüfungsordnungs-Versionen (17)
 
-### Bachelor of Arts (2 Fächer) Kunstgeschichte 1. Fach PO-Version 2013
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15669402`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15669402>
+- **Campo-Segment:** `exam:15663022`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15663021|exam:15663022>
 
-### Bachelor of Arts (2 Fächer) Kunstgeschichte 1. Fach PO-Version 20172
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15666271`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15666271>
+- **Campo-Segment:** `exam:15666272`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15666271|exam:15666272>
 
-### Bachelor of Arts (2 Fächer) Kunstgeschichte 1. Fach PO-Version 20202
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15663021`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15663021>
+- **Campo-Segment:** `exam:15669403`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15669402|exam:15669403>
 
-### Bachelor of Arts (2 Fächer) Kunstgeschichte 2. Fach PO-Version 2013
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15675673`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15675673>
+- **Campo-Segment:** `exam:15672514`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15672513|exam:15672514>
 
-### Bachelor of Arts (2 Fächer) Kunstgeschichte 2. Fach PO-Version 20172
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15674094`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15674094>
+- **Campo-Segment:** `exam:15674095`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15674094|exam:15674095>
 
-### Bachelor of Arts (2 Fächer) Kunstgeschichte 2. Fach PO-Version 20202
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15672513`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15672513>
+- **Campo-Segment:** `exam:15675674`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15675673|exam:15675674>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15663026`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15663021|exam:15663025|exam:15663026>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15666276`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15666271|exam:15666275|exam:15666276>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15669407`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15669402|exam:15669406|exam:15669407>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15672518`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15672513|exam:15672517|exam:15672518>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15674099`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15674094|exam:15674098|exam:15674099>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15675678`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15675673|exam:15675677|exam:15675678>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15677235`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15677233|exam:15677234|exam:15677235>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15678943`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15678941|exam:15678942|exam:15678943>
 
 ### Bachelorstudiengang - 1. Fach
 
@@ -477,16 +517,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Campo-Segment:** `title:18378`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|title:18378>
-
-### Master of Arts Kunstgeschichte Hauptfach PO-Version 20201
-
-- **Campo-Segment:** `exam:15678941`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15678941>
-
-### Master of Arts Kunstgeschichte Hauptfach PO-Version 20232
-
-- **Campo-Segment:** `exam:15677233`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18229|exam:15677233>
 
 ### Masterstudiengang
 

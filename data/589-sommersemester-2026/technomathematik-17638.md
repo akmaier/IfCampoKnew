@@ -175,17 +175,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (3)
 
-### Bachelor of Science Technomathematik Hauptfach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14255362`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17638|exam:14255362>
+- **Campo-Segment:** `exam:14255366`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17638|exam:14255362|exam:14255364|exam:14255366>
 
-### Bachelor of Science Technomathematik Hauptfach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14258768`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17638|exam:14258768>
+- **Campo-Segment:** `exam:14258772`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17638|exam:14258768|exam:14258770|exam:14258772>
 
-### Bachelor of Science Technomathematik Hauptfach PO-Version 20261
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15869803`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17638|exam:15869803>
+- **Campo-Segment:** `exam:15869808`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17638|exam:15869803|exam:15869805|exam:15869808>

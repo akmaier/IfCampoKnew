@@ -16,7 +16,7 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Master of Science Gesundheitsmanagement und -ökonomie Hauptfach PO-Version 20152
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14014912`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17613|exam:14014912>
+- **Campo-Segment:** `exam:14014914`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17613|exam:14014912|exam:14014913|exam:14014914>

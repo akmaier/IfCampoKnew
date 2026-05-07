@@ -16,35 +16,35 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ## Prüfungsordnungs-Versionen (6)
 
-### Erweiterungsprüfung Grundschule Didaktik des Deutschen als Zweitsprache Hauptfach PO-Version 2007
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15115761`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115761>
+- **Campo-Segment:** `exam:15115719`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115717|exam:15115718|exam:15115719>
 
-### Erweiterungsprüfung Gymnasium Didaktik des Deutschen als Zweitsprache Hauptfach PO-Version 2007
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15120938`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15120938>
+- **Campo-Segment:** `exam:15115741`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115739|exam:15115740|exam:15115741>
 
-### Erweiterungsprüfung Mittelschule Didaktik des Deutschen als Zweitsprache Hauptfach PO-Version 2013
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15119212`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15119212>
+- **Campo-Segment:** `exam:15115763`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115761|exam:15115762|exam:15115763>
 
-### Erweiterungsprüfung Realschule Didaktik des Deutschen als Zweitsprache Hauptfach PO-Version 2007
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15117486`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15117486>
+- **Campo-Segment:** `exam:15117488`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15117486|exam:15117487|exam:15117488>
 
-### Lehramt Grundschule Didaktik des Deutschen als Zweitsprache Didaktikfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15115717`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115717>
+- **Campo-Segment:** `exam:15119214`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15119212|exam:15119213|exam:15119214>
 
-### Lehramt Mittelschule Didaktik des Deutschen als Zweitsprache Didaktikfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15115739`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115739>
+- **Campo-Segment:** `exam:15120940`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15120938|exam:15120939|exam:15120940>
 
 ## Lehramts-Prüfungsordnungen
 

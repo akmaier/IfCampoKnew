@@ -265,12 +265,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (2)
 
-### Bachelor of Arts (2 Fächer) Indogermanistik und Indoiranistik 1. Fach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15270503`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18258|exam:15270503>
+- **Campo-Segment:** `exam:15270507`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18258|exam:15270503|exam:15270506|exam:15270507>
 
-### Bachelor of Arts (2 Fächer) Indogermanistik und Indoiranistik 2. Fach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15276446`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18258|exam:15276446>
+- **Campo-Segment:** `exam:15276450`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18258|exam:15276446|exam:15276449|exam:15276450>

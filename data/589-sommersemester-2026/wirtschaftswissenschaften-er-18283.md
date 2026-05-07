@@ -221,27 +221,27 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (5)
 
-### Lehramt Gymnasium Wirtschaftswissenschaften Hauptfach PO-Version 20142
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15303143`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15303143>
+- **Campo-Segment:** `exam:15303145`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15303143|exam:15303144|exam:15303145>
 
-### Lehramt Gymnasium Wirtschaftswissenschaften Hauptfach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15304778`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778>
+- **Campo-Segment:** `exam:15304780`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780>
 
-### Lehramt Realschule Wirtschaftswissenschaften Hauptfach PO-Version 2007
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15306412`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412>
+- **Campo-Segment:** `exam:15306414`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414>
 
-### Lehramt Realschule Wirtschaftswissenschaften Hauptfach PO-Version 20142
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15306477`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477>
+- **Campo-Segment:** `exam:15306479`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479>
 
-### Lehramt Realschule Wirtschaftswissenschaften Hauptfach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15306564`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306564>
+- **Campo-Segment:** `exam:15306566`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306564|exam:15306565|exam:15306566>

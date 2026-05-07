@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18307"
 campo_path: "title:17593|title:17595|title:18307"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307"
-po_version_count: 6
+po_version_count: 11
 course_count: 0
 fau_studiengang:
   - title: "Sinologie (B.A.)"
@@ -251,34 +251,59 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (6)
+## Prüfungsordnungs-Versionen (11)
 
-### Bachelor of Arts (2 Fächer) Sinologie 1. Fach PO-Version 20172
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15048314`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15048314>
+- **Campo-Segment:** `exam:15048315`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15048314|exam:15048315>
 
-### Bachelor of Arts (2 Fächer) Sinologie 1. Fach PO-Version 20192
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15051543`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15051543>
+- **Campo-Segment:** `exam:15051544`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15051543|exam:15051544>
 
-### Bachelor of Arts (2 Fächer) Sinologie 1. Fach PO-Version 20232
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15054762`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15054762>
+- **Campo-Segment:** `exam:15054763`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15054762|exam:15054763>
 
-### Bachelor of Arts (2 Fächer) Sinologie 2. Fach PO-Version 20172
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15062691`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15062691>
+- **Campo-Segment:** `exam:15062692`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15062691|exam:15062692>
 
-### Bachelor of Arts (2 Fächer) Sinologie 2. Fach PO-Version 20192
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15064274`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15064274>
+- **Campo-Segment:** `exam:15065862`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15065861|exam:15065862>
 
-### Bachelor of Arts (2 Fächer) Sinologie 2. Fach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15065861`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15065861>
+- **Campo-Segment:** `exam:15048318`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15048314|exam:15048317|exam:15048318>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15051547`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15051543|exam:15051546|exam:15051547>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15054766`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15054762|exam:15054765|exam:15054766>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15062695`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15062691|exam:15062694|exam:15062695>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15064278`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15064274|exam:15064277|exam:15064278>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15065865`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18307|exam:15065861|exam:15065864|exam:15065865>

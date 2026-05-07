@@ -16,15 +16,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ## Prüfungsordnungs-Versionen (2)
 
-### Erweiterungsprüfung Gymnasium Chinesisch Hauptfach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15433777`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18314|exam:15433777>
+- **Campo-Segment:** `exam:15433779`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18314|exam:15433777|exam:15433778|exam:15433779>
 
-### Erweiterungsprüfung Gymnasium Chinesisch Hauptfach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15435356`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18314|exam:15435356>
+- **Campo-Segment:** `exam:15435358`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18314|exam:15435356|exam:15435357|exam:15435358>
 
 ## Lehramts-Prüfungsordnungen
 

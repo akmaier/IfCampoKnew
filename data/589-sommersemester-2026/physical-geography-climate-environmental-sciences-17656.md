@@ -16,7 +16,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Master of Science Physical Geography: Climate & Environmental Sciences Hauptfach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14264963`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17656|exam:14264963>
+- **Campo-Segment:** `exam:14264965`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17656|exam:14264963|exam:14264964|exam:14264965>

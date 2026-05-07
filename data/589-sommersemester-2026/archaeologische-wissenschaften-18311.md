@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18311"
 campo_path: "title:17593|title:17595|title:18311"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311"
-po_version_count: 9
+po_version_count: 12
 course_count: 0
 fau_studiengang:
   - title: "Archäologische Wissenschaften (B.A.)"
@@ -354,49 +354,64 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (9)
+## Prüfungsordnungs-Versionen (12)
 
-### Bachelor of Arts (1 Fach) Archäologische Wissenschaften Hauptfach PO-Version 20142
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15632489`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15632489>
+- **Campo-Segment:** `exam:15654556`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15654555|exam:15654556>
 
-### Bachelor of Arts (1 Fach) Archäologische Wissenschaften Hauptfach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15635674`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15635674>
+- **Campo-Segment:** `exam:15632494`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15632489|exam:15632492|exam:15632494>
 
-### Bachelor of Arts (1 Fach) Archäologische Wissenschaften Hauptfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15654555`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15654555>
+- **Campo-Segment:** `exam:15635679`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15635674|exam:15635677|exam:15635679>
 
-### Bachelor of Arts (2 Fächer) Archäologische Wissenschaften 1. Fach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15642326`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15642326>
+- **Campo-Segment:** `exam:15642331`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15642326|exam:15642330|exam:15642331>
 
-### Bachelor of Arts (2 Fächer) Archäologische Wissenschaften 1. Fach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15657855`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15657855>
+- **Campo-Segment:** `exam:15647440`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15647435|exam:15647439|exam:15647440>
 
-### Bachelor of Arts (2 Fächer) Archäologische Wissenschaften 2. Fach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15647435`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15647435>
+- **Campo-Segment:** `exam:15650935`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15650933|exam:15650934|exam:15650935>
 
-### Bachelor of Arts (2 Fächer) Archäologische Wissenschaften 2. Fach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15661276`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15661276>
+- **Campo-Segment:** `exam:15652643`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15652641|exam:15652642|exam:15652643>
 
-### Master of Arts Archäologische Wissenschaften Hauptfach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15650933`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15650933>
+- **Campo-Segment:** `exam:15654560`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15654555|exam:15654558|exam:15654560>
 
-### Master of Arts Archäologische Wissenschaften Hauptfach PO-Version 20201
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15652641`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15652641>
+- **Campo-Segment:** `exam:15657860`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15657855|exam:15657859|exam:15657860>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15661281`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15661276|exam:15661280|exam:15661281>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Archäologische Wissenschaften
+
+- **Campo-Segment:** `exam:15657857`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15657855|exam:15657856|exam:15657857>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Archäologische Wissenschaften
+
+- **Campo-Segment:** `exam:15661278`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18311|exam:15661276|exam:15661277|exam:15661278>

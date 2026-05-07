@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18242"
 campo_path: "title:17593|title:17595|title:18242"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242"
-po_version_count: 8
+po_version_count: 14
 course_count: 0
 fau_studiengang:
   - title: "Theater- und Medienwissenschaft (B.A.)"
@@ -278,44 +278,74 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (8)
+## Prüfungsordnungs-Versionen (14)
 
-### Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 1. Fach PO-Version 2010
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15549855`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855>
+- **Campo-Segment:** `exam:15536871`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15536866|exam:15536870|exam:15536871>
 
-### Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 1. Fach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15543373`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15543373>
+- **Campo-Segment:** `exam:15540131`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15540126|exam:15540130|exam:15540131>
 
-### Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 1. Fach PO-Version 20172
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15540126`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15540126>
+- **Campo-Segment:** `exam:15543378`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15543373|exam:15543377|exam:15543378>
 
-### Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 1. Fach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15536866`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15536866>
+- **Campo-Segment:** `exam:15549860`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860>
 
-### Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 2. Fach PO-Version 2010
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15557864`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864>
+- **Campo-Segment:** `exam:15553128`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15553123|exam:15553127|exam:15553128>
 
-### Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 2. Fach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15556288`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288>
+- **Campo-Segment:** `exam:15554717`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717>
 
-### Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 2. Fach PO-Version 20172
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15554712`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712>
+- **Campo-Segment:** `exam:15556293`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293>
 
-### Bachelor of Arts (2 Fächer) Theater- und Medienwissenschaft 2. Fach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15553123`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15553123>
+- **Campo-Segment:** `exam:15557869`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557868|exam:15557869>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
+
+- **Campo-Segment:** `exam:15536868`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15536866|exam:15536868>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
+
+- **Campo-Segment:** `exam:15540128`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15540126|exam:15540128>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
+
+- **Campo-Segment:** `exam:15549857`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549857>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
+
+- **Campo-Segment:** `exam:15553125`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15553123|exam:15553125>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
+
+- **Campo-Segment:** `exam:15554714`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554714>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
+
+- **Campo-Segment:** `exam:15557866`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557866>

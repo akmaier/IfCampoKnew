@@ -1,0 +1,184 @@
+---
+period_id: 565
+period_name: "Wintersemester 2025/26"
+campo_segment: "title:17213"
+campo_path: "title:16758|title:16763|title:17213"
+campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213"
+po_version_count: 4
+course_count: 8
+---
+
+# Medienpädagogik
+
+**Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213>
+
+_Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
+
+## Prüfungsordnungs-Versionen (4)
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:12705900`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12705898|exam:12705899|exam:12705900>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:12707335`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12707333|exam:12707334|exam:12707335>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:12708771`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12708769|exam:12708770|exam:12708771>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:12710206`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12710204|exam:12710205|exam:12710206>
+
+## Veranstaltungen (8)
+
+### Einführung: Erweiterung Medienpädagogik - Einführungskurs
+
+- **Segment:** `exam:13758638` · **unitId:** `133055`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:13758638>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133055&periodId=565>
+
+- **Veranstaltungsart:** Einführungskurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 15:45–17:15 | 13.10.2025 | — |
+
+### Examensseminar Medienpädagogik - Examensseminar
+
+- **Segment:** `exam:12711641` · **unitId:** `102940`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:12711641>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102940&periodId=565>
+
+- **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 15:45–17:15 | 23.10.2025 | Einführungsveranstaltung |
+| Einzeltermin | Do | 15:45–17:15 | 13.11.2025 | — |
+| Einzeltermin | Do | 15:45–17:15 | 27.11.2025 | — |
+| Einzeltermin | Do | 15:45–17:15 | 11.12.2025 | — |
+| Einzeltermin | Do | 15:45–17:15 | 15.01.2026 | — |
+| Einzeltermin | Fr | 14:30–19:00 | 30.01.2026 | Blocktermin in Zoom: Prüfungsvorbereitung "last minute" |
+
+### Grundlagen der Mediendidaktik - Seminar
+
+- **Segment:** `exam:12711642` · **unitId:** `93795`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:12711642>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93795&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
+
+### Grundlagen der Medienerziehung (VHB) - Seminar A - Seminar
+
+- **Segment:** `exam:12711646` · **unitId:** `84842`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:12711646>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84842&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+
+### Grundlagen der Medienerziehung (VHB) - Seminar B - Seminar
+
+- **Segment:** `exam:12711647` · **unitId:** `101363`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:12711647>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101363&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+
+### ITG Informationstechnische Grundlagen - Seminar
+
+- **Segment:** `exam:12711643` · **unitId:** `92352`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:12711643>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92352&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+| Einzeltermin | Fr | 14:00–15:30 | 17.10.2025 | Einführungsveranstaltung ITG-Seminar (Zoom) |
+| Einzeltermin | Mi | 17:30–19:00 | 26.11.2025 | Synchrone Sitzung 1 (Zoom) |
+| Einzeltermin | Mi | 17:30–19:00 | 10.12.2025 | Synchrone Sitzung 2 (Zoom) |
+| Einzeltermin | Mi | 17:30–19:00 | 07.01.2026 | Synchrone Sitzung 3 (Zoom) |
+| Einzeltermin | Sa | 09:00–15:30 | 24.01.2026 | Blocktermin in Präsenz im DigiLLab (Campus Regensburger Str. in Nürnberg) |
+
+### Praxisprojekt Mediengestaltung - Sonstige Lehrveranstaltung
+
+- **Segment:** `exam:12711645` · **unitId:** `96627`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:12711645>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96627&periodId=565>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+| Einzeltermin | Do | 15:45–17:15 | 16.10.2025 | — |
+
+### Zukunftstechnologien für Bildungskontexte - 3D-Druck, KI und Robotik - Seminar
+
+- **Segment:** `exam:13665603` · **unitId:** `128626`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:13665603>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128626&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 15:30–17:00 | 17.10.2025 | Einführungsveranstaltung (Zoom) |
+| Einzeltermin | Fr | 14:00–18:00 | 24.10.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | — |
+| Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | Feedback-Sitzung (online) |
+| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | — |

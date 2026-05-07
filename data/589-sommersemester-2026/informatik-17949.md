@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17949"
 campo_path: "title:17593|title:17601|title:17949"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949"
-po_version_count: 14
-course_count: 0
+po_version_count: 16
+course_count: 1
 fau_studiengang:
   - title: "Informatik (B.Sc.)"
     rel_path: "studiengang/informatik-b-sc.md"
@@ -461,213 +461,93 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (14)
+## Prüfungsordnungs-Versionen (16)
 
-### Bachelor of Arts (2 Fächer) Informatik 1. Fach PO-Version 2013
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:14872559`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14872559>
-- **Passende PO-PDFs (FAU.de):**
-  - [PDF vom 19.09.2007 i.d.F. 29.07.2013](../pruefungsordnungen/technische-fakultaet/informatik/fpo-ba-ma-compeng-juli2013.md)
-  - [PDF vom 21.09.2007 i.d.F. 07.10.2013](../pruefungsordnungen/technische-fakultaet/informatik/fpo-ba-ma-informatik-oktober2013.md)
-  - [PDF vom 15.09.2009 i.d.F. 18.02.2013](../pruefungsordnungen/technische-fakultaet/informatik/fpo-ba-ma-medizintechnik-18feb2013.md)
-  - [PDF vom 15.03.2005 i.d.F. 30.07.2013](../pruefungsordnungen/technische-fakultaet/informatik/fpo-master-of-science-with-honours-juli2013.md)
+- **Campo-Segment:** `exam:14872560`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14872559|exam:14872560>
 
-### Bachelor of Science Informatik Hauptfach PO-Version 20092
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14876377`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14876377>
-- **Passende PO-PDFs (FAU.de):**
-  - [BA-MA-Medizintechnik FPOMT 20090915 i.d.F. 20180828 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/ba-ma-medizintechnik-fpomt-20090915-idf-20180828-en.md)
-  - [BA-MA-Medizintechnik FPOMT 20090915 i.d.F. 20180828.pdf](../pruefungsordnungen/technische-fakultaet/informatik/ba-ma-medizintechnik-fpomt-20090915-idf-20180828.md)
-  - [BA-MA-Medizintechnik FPOMT 20090915 i.d.F. 20190710 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/ba-ma-medizintechnik-fpomt-20090915-idf-20190710-en.md)
-  - [BA-MA-Medizintechnik FPOMT 20090915 i.d.F. 20190710.pdf](../pruefungsordnungen/technische-fakultaet/informatik/ba-ma-medizintechnik-fpomt-20090915-idf-20190710.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413-en.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20230426 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20230426-en.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20230426.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20230731 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20230731-en.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20230731.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20230731.md)
+- **Campo-Segment:** `exam:14867625`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14867623|exam:14867624|exam:14867625>
 
-### Bachelor of Science Informatik Hauptfach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14880401`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14880401>
-- **Passende PO-PDFs (FAU.de):**
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421-en.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md)
-  - [BSc-MSc Computational Engineering FPOCE 20220421 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20220421-aes.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20220301.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md)
-  - [BSc-MSc Informatik FPOINF 20070921 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md)
-  - [BSc-MSc Informatik FPOINF 20220301 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20220301-aes.md)
-  - [BSc-MSc Informatik FPOINF 20220726 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20220726-aes.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413-en.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413.md)
-  - [BSc-MSc Medizintechnik FPOMT 20220413 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20220413-aes.md)
-  - [FPOAI 20201111 i.d.F. 20220726 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20201111-idf-20220726-en.md)
-  - [FPOAI 20201111 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20201111-idf-20220726.md)
-  - [FPOAI 20220726 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20220726-aes.md)
+- **Campo-Segment:** `exam:14867866`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14867864|exam:14867865|exam:14867866>
 
-### Lehramt Gymnasium Informatik Hauptfach PO-Version 2007
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14867623`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14867623>
-- **Passende PO-PDFs (FAU.de):**
-  - [BSc-MSc Computational Engineering 20070919 i.d.F. 20180116 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180116-en.md)
-  - [BSc-MSc Computational Engineering 20070919 i.d.F. 20180116.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180116.md)
-  - [BSc-MSc Computational Engineering 20070919 i.d.F. 20180730.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180730.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20180730 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20180730-en.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421-en.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20180801.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20180801.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20190306.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20190306.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20191203.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20191203.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20200820.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20200820.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20210701.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20210701.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20220301.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md)
-  - [BSc-MSc Informatik FPOINF 20070921 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md)
-  - [BSc-MSc Informatik FPOINF 20070921 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20230426.md)
+- **Campo-Segment:** `exam:14868032`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868030|exam:14868031|exam:14868032>
 
-### Lehramt Gymnasium Informatik Hauptfach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14867864`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14867864>
-- **Passende PO-PDFs (FAU.de):**
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421-en.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md)
-  - [BSc-MSc Computational Engineering FPOCE 20220421 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20220421-aes.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20220301.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md)
-  - [BSc-MSc Informatik FPOINF 20070921 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md)
-  - [BSc-MSc Informatik FPOINF 20220301 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20220301-aes.md)
-  - [BSc-MSc Informatik FPOINF 20220726 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20220726-aes.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413-en.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413.md)
-  - [BSc-MSc Medizintechnik FPOMT 20220413 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20220413-aes.md)
-  - [FPOAI 20201111 i.d.F. 20220726 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20201111-idf-20220726-en.md)
-  - [FPOAI 20201111 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20201111-idf-20220726.md)
-  - [FPOAI 20220726 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20220726-aes.md)
+- **Campo-Segment:** `exam:14868197`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868195|exam:14868196|exam:14868197>
 
-### Lehramt Gymnasium Informatik Hauptfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14868030`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868030>
-- **Passende PO-PDFs (FAU.de):**
-  - [berufsbegl BSc Informatik-IT-Sicherheit BPOITS 20240926.pdf](../pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20240926.md)
-  - [BSc-MSc Informatik FPOINF 20240328 iF 20250604.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20250604.md)
-  - [BSc-MSc Informatik FPOINF 20240328 iF 20260115.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20260115.md)
-  - [BSc-MSc Informatik FPOINF 20240328.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328.md)
-  - [FPOMScAI 20240328 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328-en.md)
-  - [FPOMScAI 20240328 i.d.F. 20260213.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328-idf-20260213.md)
-  - [FPOMScAI 20240328.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328.md)
+- **Campo-Segment:** `exam:14868214`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868211|exam:14868213|exam:14868214>
 
-### Lehramt Mittelschule Informatik Didaktikfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14868195`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868195>
-- **Passende PO-PDFs (FAU.de):**
-  - [berufsbegl BSc Informatik-IT-Sicherheit BPOITS 20240926.pdf](../pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20240926.md)
-  - [BSc-MSc Informatik FPOINF 20240328 iF 20250604.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20250604.md)
-  - [BSc-MSc Informatik FPOINF 20240328 iF 20260115.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20260115.md)
-  - [BSc-MSc Informatik FPOINF 20240328.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328.md)
-  - [FPOMScAI 20240328 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328-en.md)
-  - [FPOMScAI 20240328 i.d.F. 20260213.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328-idf-20260213.md)
-  - [FPOMScAI 20240328.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328.md)
+- **Campo-Segment:** `exam:14868322`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868319|exam:14868321|exam:14868322>
 
-### Lehramt Mittelschule Informatik Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14868211`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868211>
-- **Passende PO-PDFs (FAU.de):**
-  - [PDF 18th January 2016](../pruefungsordnungen/technische-fakultaet/informatik/fpo-ba-ma-compeng-jan2016-en.md)
-  - [PDF vom 19.09.2007 i.d.F. 18.01.2016](../pruefungsordnungen/technische-fakultaet/informatik/fpo-ba-ma-compeng-jan2016.md)
-  - [PDF 31 March 2016](../pruefungsordnungen/technische-fakultaet/informatik/fpo-master-of-science-maerz2016-en.md)
-  - [PDF vom 15.03.2015 i.d.F. 31.03.2016](../pruefungsordnungen/technische-fakultaet/informatik/fpo-master-of-science-maerz2016.md)
+- **Campo-Segment:** `exam:14868376`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868373|exam:14868375|exam:14868376>
 
-### Lehramt Mittelschule Informatik Hauptfach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14868319`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868319>
-- **Passende PO-PDFs (FAU.de):**
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421-en.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md)
-  - [BSc-MSc Computational Engineering FPOCE 20220421 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20220421-aes.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20220301.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md)
-  - [BSc-MSc Informatik FPOINF 20070921 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md)
-  - [BSc-MSc Informatik FPOINF 20220301 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20220301-aes.md)
-  - [BSc-MSc Informatik FPOINF 20220726 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20220726-aes.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413-en.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413.md)
-  - [BSc-MSc Medizintechnik FPOMT 20220413 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20220413-aes.md)
-  - [FPOAI 20201111 i.d.F. 20220726 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20201111-idf-20220726-en.md)
-  - [FPOAI 20201111 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20201111-idf-20220726.md)
-  - [FPOAI 20220726 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20220726-aes.md)
+- **Campo-Segment:** `exam:14868433`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868431|exam:14868432|exam:14868433>
 
-### Lehramt Mittelschule Informatik Hauptfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14868373`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868373>
-- **Passende PO-PDFs (FAU.de):**
-  - [berufsbegl BSc Informatik-IT-Sicherheit BPOITS 20240926.pdf](../pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20240926.md)
-  - [BSc-MSc Informatik FPOINF 20240328 iF 20250604.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20250604.md)
-  - [BSc-MSc Informatik FPOINF 20240328 iF 20260115.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20260115.md)
-  - [BSc-MSc Informatik FPOINF 20240328.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328.md)
-  - [FPOMScAI 20240328 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328-en.md)
-  - [FPOMScAI 20240328 i.d.F. 20260213.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328-idf-20260213.md)
-  - [FPOMScAI 20240328.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328.md)
+- **Campo-Segment:** `exam:14868603`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868601|exam:14868602|exam:14868603>
 
-### Lehramt Realschule Informatik Hauptfach PO-Version 2007
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14868431`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868431>
-- **Passende PO-PDFs (FAU.de):**
-  - [BSc-MSc Computational Engineering 20070919 i.d.F. 20180116 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180116-en.md)
-  - [BSc-MSc Computational Engineering 20070919 i.d.F. 20180116.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180116.md)
-  - [BSc-MSc Computational Engineering 20070919 i.d.F. 20180730.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-20070919-idf-20180730.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20180730 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20180730-en.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421-en.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20180801.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20180801.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20190306.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20190306.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20191203.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20191203.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20200820.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20200820.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20210701.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20210701.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20220301.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md)
-  - [BSc-MSc Informatik FPOINF 20070921 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md)
-  - [BSc-MSc Informatik FPOINF 20070921 i.d.F. 20230426.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20230426.md)
+- **Campo-Segment:** `exam:14868689`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868687|exam:14868688|exam:14868689>
 
-### Lehramt Realschule Informatik Hauptfach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14868601`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868601>
-- **Passende PO-PDFs (FAU.de):**
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421-en.md)
-  - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20070919-idf-20220421.md)
-  - [BSc-MSc Computational Engineering FPOCE 20220421 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-computational-engineering-fpoce-20220421-aes.md)
-  - [BSc-MSc Informatik FPOINF 20070920 i.d.F. 20220301.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070920-idf-20220301.md)
-  - [BSc-MSc Informatik FPOINF 20070921 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20070921-idf-20220726.md)
-  - [BSc-MSc Informatik FPOINF 20220301 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20220301-aes.md)
-  - [BSc-MSc Informatik FPOINF 20220726 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20220726-aes.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413-en.md)
-  - [BSc-MSc-Medizintechnik FPOMT 20090915 i.d.F. 20220413.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20090915-idf-20220413.md)
-  - [BSc-MSc Medizintechnik FPOMT 20220413 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-medizintechnik-fpomt-20220413-aes.md)
-  - [FPOAI 20201111 i.d.F. 20220726 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20201111-idf-20220726-en.md)
-  - [FPOAI 20201111 i.d.F. 20220726.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20201111-idf-20220726.md)
-  - [FPOAI 20220726 ÄS.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpoai-20220726-aes.md)
+- **Campo-Segment:** `exam:14872563`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14872559|exam:14872562|exam:14872563>
 
-### Lehramt Realschule Informatik Hauptfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14868687`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14868687>
-- **Passende PO-PDFs (FAU.de):**
-  - [berufsbegl BSc Informatik-IT-Sicherheit BPOITS 20240926.pdf](../pruefungsordnungen/technische-fakultaet/informatik/berufsbegl-bsc-informatik-it-sicherheit-bpoits-20240926.md)
-  - [BSc-MSc Informatik FPOINF 20240328 iF 20250604.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20250604.md)
-  - [BSc-MSc Informatik FPOINF 20240328 iF 20260115.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328-if-20260115.md)
-  - [BSc-MSc Informatik FPOINF 20240328.pdf](../pruefungsordnungen/technische-fakultaet/informatik/bsc-msc-informatik-fpoinf-20240328.md)
-  - [FPOMScAI 20240328 en.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328-en.md)
-  - [FPOMScAI 20240328 i.d.F. 20260213.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328-idf-20260213.md)
-  - [FPOMScAI 20240328.pdf](../pruefungsordnungen/technische-fakultaet/informatik/fpomscai-20240328.md)
+- **Campo-Segment:** `exam:14876381`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14876377|exam:14876379|exam:14876381>
 
-### Master of Science Informatik Hauptfach PO-Version 2010
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14884271`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14884271>
+- **Campo-Segment:** `exam:14880405`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14880401|exam:14880403|exam:14880405>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14884274`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14884271|exam:14884272|exam:14884274>
+
+### 88888 Auflage (lt. Zulassungsbescheid zum Masterstudium)
+
+- **Campo-Segment:** `exam:14889236`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14884271|exam:14884272|exam:14889236>
+
+## Veranstaltungen (1)
+
+### 96401 Globale Navigationssatellitensysteme
+
+- **Segment:** `exam:15695296` · **unitId:** `61620`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17949|exam:14884271|exam:14884272|exam:15695296>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61620&periodId=589>
+

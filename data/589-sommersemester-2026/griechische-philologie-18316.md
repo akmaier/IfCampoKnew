@@ -231,12 +231,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (2)
 
-### Bachelor of Arts (2 Fächer) Griechische Philologie 1. Fach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15367531`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18316|exam:15367531>
+- **Campo-Segment:** `exam:15367535`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18316|exam:15367531|exam:15367534|exam:15367535>
 
-### Bachelor of Arts (2 Fächer) Griechische Philologie 2. Fach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15370865`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18316|exam:15370865>
+- **Campo-Segment:** `exam:15370869`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18316|exam:15370865|exam:15370868|exam:15370869>

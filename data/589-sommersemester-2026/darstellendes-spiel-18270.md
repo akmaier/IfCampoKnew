@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18270"
 campo_path: "title:17593|title:17595|title:18270"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270"
-po_version_count: 6
-course_count: 0
+po_version_count: 5
+course_count: 2
 ---
 
 # Darstellendes Spiel
@@ -14,12 +14,7 @@ course_count: 0
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Prüfungsordnungs-Versionen (6)
-
-### Veranstaltungsangebot Darstellendes Spiel -
-
-- **Campo-Segment:** `exam:15529222`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15529222>
+## Prüfungsordnungs-Versionen (5)
 
 ### Erweiterungsprüfung Grundschule Darstellendes Spiel Hauptfach PO-Version 2007
 
@@ -45,6 +40,43 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Campo-Segment:** `exam:15533814`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15533814>
+
+## Veranstaltungen (2)
+
+### Examenskurs Pädagogik theatral-performativer Praxis - Seminar
+
+- **Segment:** `exam:15733891` · **unitId:** `134759`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15529222|exam:15733891>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134759&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | 14-täglich | — | 14.05.2026 | — |
+| — | Einzeltermin | — | — | — |
+| — | Einzeltermin | — | — | — |
+
+### Examenskurs Theatertheorie / Darstellendes Spiel - Seminar
+
+- **Segment:** `exam:15849271` · **unitId:** `135725`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15529222|exam:15849271>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135725&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 15:00–20:00 | 17.07.2026 | &lt;style&gt; &lt;/style&gt;&lt;p&gt;&lt;span&gt;FR, 17.7. – SO. 19.7.26 (FR 15-20 // SA + SO 10-18), ITM 204&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span&gt;Anmeldung per Mail an Andre.Studt(at)fau.de –&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span&gt;Nach der Anmeldung bekommen Sie den Seminarplan / Materialien von mir.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt; |
+| Blockveranstaltung+Sa | — | 10:00–18:00 | 18.07.2026 | — |
 
 ## Lehramts-Prüfungsordnungen
 

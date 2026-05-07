@@ -408,87 +408,87 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (17)
 
-### Bachelor of Arts (2 Fächer) Geschichte 1. Fach PO-Version 2011
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15567735`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15567735>
+- **Campo-Segment:** `exam:15564307`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564305|exam:15564306|exam:15564307>
 
-### Bachelor of Arts (2 Fächer) Geschichte 1. Fach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15571586`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15571586>
+- **Campo-Segment:** `exam:15564386`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564384|exam:15564385|exam:15564386>
 
-### Bachelor of Arts (2 Fächer) Geschichte 2. Fach PO-Version 2011
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15575523`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15575523>
+- **Campo-Segment:** `exam:15564478`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564475|exam:15564477|exam:15564478>
 
-### Bachelor of Arts (2 Fächer) Geschichte 2. Fach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15577704`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15577704>
+- **Campo-Segment:** `exam:15564756`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564753|exam:15564755|exam:15564756>
 
-### Lehramt Grundschule Geschichte Didaktikfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15564305`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564305>
+- **Campo-Segment:** `exam:15565390`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15565388|exam:15565389|exam:15565390>
 
-### Lehramt Grundschule Geschichte Didaktikfach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15564384`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564384>
+- **Campo-Segment:** `exam:15565778`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15565776|exam:15565777|exam:15565778>
 
-### Lehramt Grundschule Geschichte Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15564475`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564475>
+- **Campo-Segment:** `exam:15566294`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566292|exam:15566293|exam:15566294>
 
-### Lehramt Grundschule Geschichte Hauptfach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15564753`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564753>
+- **Campo-Segment:** `exam:15566376`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566374|exam:15566375|exam:15566376>
 
-### Lehramt Gymnasium Geschichte Hauptfach PO-Version 2011
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15565388`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15565388>
+- **Campo-Segment:** `exam:15566481`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566478|exam:15566480|exam:15566481>
 
-### Lehramt Gymnasium Geschichte Hauptfach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15565776`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15565776>
+- **Campo-Segment:** `exam:15566761`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566758|exam:15566760|exam:15566761>
 
-### Lehramt Mittelschule Geschichte Didaktikfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15566292`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566292>
+- **Campo-Segment:** `exam:15567093`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15567091|exam:15567092|exam:15567093>
 
-### Lehramt Mittelschule Geschichte Didaktikfach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15566374`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566374>
+- **Campo-Segment:** `exam:15567382`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15567380|exam:15567381|exam:15567382>
 
-### Lehramt Mittelschule Geschichte Hauptfach PO-Version 20162
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15566478`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566478>
+- **Campo-Segment:** `exam:15567740`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15567735|exam:15567739|exam:15567740>
 
-### Lehramt Mittelschule Geschichte Hauptfach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15566758`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566758>
+- **Campo-Segment:** `exam:15571592`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15571586|exam:15571591|exam:15571592>
 
-### Lehramt Realschule Geschichte Hauptfach PO-Version 2011
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15567091`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15567091>
+- **Campo-Segment:** `exam:15575528`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15575523|exam:15575527|exam:15575528>
 
-### Lehramt Realschule Geschichte Hauptfach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15567380`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15567380>
+- **Campo-Segment:** `exam:15577710`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15577704|exam:15577709|exam:15577710>
 
-### Master of Arts Geschichte Hauptfach PO-Version 20172
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15582929`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15582929>
+- **Campo-Segment:** `exam:15582931`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15582929|exam:15582930|exam:15582931>

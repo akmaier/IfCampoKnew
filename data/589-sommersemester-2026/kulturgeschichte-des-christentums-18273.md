@@ -250,17 +250,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (3)
 
-### Bachelor of Arts (2 Fächer) Kulturgeschichte des Christentums 1. Fach PO-Version 2011
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15598205`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18273|exam:15598205>
+- **Campo-Segment:** `exam:15598210`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18273|exam:15598205|exam:15598209|exam:15598210>
 
-### Bachelor of Arts (2 Fächer) Kulturgeschichte des Christentums 1. Fach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15601488`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18273|exam:15601488>
+- **Campo-Segment:** `exam:15601492`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18273|exam:15601488|exam:15601491|exam:15601492>
 
-### Bachelor of Arts (2 Fächer) Kulturgeschichte des Christentums 2. Fach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15606439`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18273|exam:15606439>
+- **Campo-Segment:** `exam:15606443`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18273|exam:15606439|exam:15606442|exam:15606443>

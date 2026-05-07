@@ -16,7 +16,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Master of Science Climate & Environmental Sciences Hauptfach PO-Version 20172
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14211282`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17640|exam:14211282>
+- **Campo-Segment:** `exam:14211284`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17640|exam:14211282|exam:14211283|exam:14211284>

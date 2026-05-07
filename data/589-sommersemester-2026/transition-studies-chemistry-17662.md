@@ -16,7 +16,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Transition Studies Chemistry Hauptfach PO-Version 20202
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14283508`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17662|exam:14283508>
+- **Campo-Segment:** `exam:14283510`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17662|exam:14283508|exam:14283509|exam:14283510>

@@ -16,10 +16,10 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### LL.M. Recht und Informatik Hauptfach PO-Version PO 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:14130477`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17628|exam:14130477>
+- **Campo-Segment:** `exam:14130479`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17628|exam:14130477|exam:14130478|exam:14130479>
 
 ## Lehramts-Prüfungsordnungen
 

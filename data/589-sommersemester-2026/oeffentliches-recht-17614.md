@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17614"
 campo_path: "title:17593|title:17603|title:17614"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17614"
-po_version_count: 1
+po_version_count: 2
 course_count: 0
 fau_studiengang:
   - title: "Öffentliches Recht (B.A.)"
@@ -181,9 +181,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (1)
+## Prüfungsordnungs-Versionen (2)
 
-### Bachelor of Arts (2 Fächer) Öffentliches Recht 2. Fach PO-Version 20162
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:13904326`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17614|exam:13904326>
+- **Campo-Segment:** `exam:13904327`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17614|exam:13904326|exam:13904327>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:13904331`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17614|exam:13904326|exam:13904330|exam:13904331>

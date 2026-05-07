@@ -16,12 +16,12 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 ## Prüfungsordnungs-Versionen (2)
 
-### Master of Science Medical Process Management Hauptfach PO-Version 2008
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13865586`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13865586>
+- **Campo-Segment:** `exam:13865589`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13865586|exam:13865587|exam:13865589>
 
-### Master of Science Medical Process Management Hauptfach PO-Version 20242
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13867178`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13867178>
+- **Campo-Segment:** `exam:13867181`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13867178|exam:13867179|exam:13867181>

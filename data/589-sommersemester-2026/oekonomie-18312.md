@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18312"
 campo_path: "title:17593|title:17595|title:18312"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312"
-po_version_count: 4
+po_version_count: 8
 course_count: 0
 fau_studiengang:
   - title: "Ökonomie (B.A.)"
@@ -247,24 +247,44 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (4)
+## Prüfungsordnungs-Versionen (8)
 
-### Bachelor of Arts (2 Fächer) Ökonomie 1. Fach PO-Version 20142
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15135096`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15135096>
+- **Campo-Segment:** `exam:15135097`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15135096|exam:15135097>
 
-### Bachelor of Arts (2 Fächer) Ökonomie 1. Fach PO-Version 20202
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15138432`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15138432>
+- **Campo-Segment:** `exam:15138433`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15138432|exam:15138433>
 
-### Bachelor of Arts (2 Fächer) Ökonomie 2. Fach PO-Version 20142
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15143360`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15143360>
+- **Campo-Segment:** `exam:15143361`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15143360|exam:15143361>
 
-### Bachelor of Arts (2 Fächer) Ökonomie 2. Fach PO-Version 20202
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15144998`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15144998>
+- **Campo-Segment:** `exam:15144999`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15144998|exam:15144999>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15135100`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15135096|exam:15135099|exam:15135100>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15138436`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15138432|exam:15138435|exam:15138436>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15143364`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15143360|exam:15143363|exam:15143364>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15145002`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18312|exam:15144998|exam:15145001|exam:15145002>

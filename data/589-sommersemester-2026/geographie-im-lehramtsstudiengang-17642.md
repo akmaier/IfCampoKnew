@@ -16,80 +16,80 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 ## Prüfungsordnungs-Versionen (15)
 
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14244730`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244728|exam:14244729|exam:14244730>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14244754`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244751|exam:14244753|exam:14244754>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14244820`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244818|exam:14244819|exam:14244820>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14244920`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244918|exam:14244919|exam:14244920>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14244983`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244981|exam:14244982|exam:14244983>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14245006`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245003|exam:14245005|exam:14245006>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14245066`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245064|exam:14245065|exam:14245066>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14245095`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245092|exam:14245094|exam:14245095>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14245185`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14245376`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245374|exam:14245375|exam:14245376>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14245468`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245466|exam:14245467|exam:14245468>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14245492`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245489|exam:14245491|exam:14245492>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14245571`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:14245755`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755>
+
 ### Die Termine für die Platzvergabe werden auf der Website der Geographiedidaktik sowie über den Mail-Verteiler „GeoLA“ bekannt gegeben werden.
 
 - **Campo-Segment:** `title:17867`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|title:17867>
-
-### Lehramt Grundschule Geographie Didaktikfach PO-Version 20162
-
-- **Campo-Segment:** `exam:14245064`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245064>
-
-### Lehramt Grundschule Geographie Didaktikfach PO-Version 20222
-
-- **Campo-Segment:** `exam:14244728`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244728>
-
-### Lehramt Grundschule Geographie Hauptfach PO-Version 20162
-
-- **Campo-Segment:** `exam:14245092`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245092>
-
-### Lehramt Grundschule Geographie Hauptfach PO-Version 20222
-
-- **Campo-Segment:** `exam:14244751`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244751>
-
-### Lehramt Gymnasium Geographie Hauptfach PO-Version 2012
-
-- **Campo-Segment:** `exam:14245569`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569>
-
-### Lehramt Gymnasium Geographie Hauptfach PO-Version 20162
-
-- **Campo-Segment:** `exam:14245183`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183>
-
-### Lehramt Gymnasium Geographie Hauptfach PO-Version 20222
-
-- **Campo-Segment:** `exam:14244818`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244818>
-
-### Lehramt Mittelschule Geographie Didaktikfach PO-Version 20162
-
-- **Campo-Segment:** `exam:14245466`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245466>
-
-### Lehramt Mittelschule Geographie Didaktikfach PO-Version 20222
-
-- **Campo-Segment:** `exam:14244981`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244981>
-
-### Lehramt Mittelschule Geographie Hauptfach PO-Version 20162
-
-- **Campo-Segment:** `exam:14245489`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245489>
-
-### Lehramt Mittelschule Geographie Hauptfach PO-Version 20222
-
-- **Campo-Segment:** `exam:14245003`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245003>
-
-### Lehramt Realschule Geographie Hauptfach PO-Version 2012
-
-- **Campo-Segment:** `exam:14245753`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753>
-
-### Lehramt Realschule Geographie Hauptfach PO-Version 20162
-
-- **Campo-Segment:** `exam:14245374`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245374>
-
-### Lehramt Realschule Geographie Hauptfach PO-Version 20222
-
-- **Campo-Segment:** `exam:14244918`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14244918>
 
 ## Lehramts-Prüfungsordnungen
 

@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18315"
 campo_path: "title:17593|title:17595|title:18315"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315"
-po_version_count: 6
+po_version_count: 8
 course_count: 0
 fau_studiengang:
   - title: "Japanologie (B.A.)"
@@ -244,34 +244,44 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (6)
+## Prüfungsordnungs-Versionen (8)
 
-### Bachelor of Arts (2 Fächer) Japanologie 1. Fach PO-Version 20182
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15405890`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15405890>
+- **Campo-Segment:** `exam:15412409`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15412408|exam:15412409>
 
-### Bachelor of Arts (2 Fächer) Japanologie 1. Fach PO-Version 20212
+### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
-- **Campo-Segment:** `exam:15409146`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15409146>
+- **Campo-Segment:** `exam:15421952`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15421951|exam:15421952>
 
-### Bachelor of Arts (2 Fächer) Japanologie 1. Fach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15412408`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15412408>
+- **Campo-Segment:** `exam:15405894`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15405890|exam:15405893|exam:15405894>
 
-### Bachelor of Arts (2 Fächer) Japanologie 2. Fach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15418786`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15418786>
+- **Campo-Segment:** `exam:15409150`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15409146|exam:15409149|exam:15409150>
 
-### Bachelor of Arts (2 Fächer) Japanologie 2. Fach PO-Version 20212
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15420365`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15420365>
+- **Campo-Segment:** `exam:15412412`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15412408|exam:15412411|exam:15412412>
 
-### Bachelor of Arts (2 Fächer) Japanologie 2. Fach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15421951`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15421951>
+- **Campo-Segment:** `exam:15418790`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15418786|exam:15418789|exam:15418790>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15420369`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15420365|exam:15420368|exam:15420369>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:15421955`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18315|exam:15421951|exam:15421954|exam:15421955>

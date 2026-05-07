@@ -16,7 +16,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 ## Prüfungsordnungs-Versionen (1)
 
-### Bachelor of Science GeoNachhaltigkeit: Erdsystem, Ressourcen, Biodiversität (PO 20252)
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:13832880`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17651|exam:13832880>
+- **Campo-Segment:** `exam:13832883`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17651|exam:13832880|exam:13832882|exam:13832883>

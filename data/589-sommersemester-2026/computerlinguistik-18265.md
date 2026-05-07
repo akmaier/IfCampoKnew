@@ -239,12 +239,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (2)
 
-### Bachelor of Arts (2 Fächer) Computerlinguistik 1. Fach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15464745`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18265|exam:15464745>
+- **Campo-Segment:** `exam:15464749`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18265|exam:15464745|exam:15464748|exam:15464749>
 
-### Bachelor of Arts (2 Fächer) Computerlinguistik 2. Fach PO-Version 20222
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15468089`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18265|exam:15468089>
+- **Campo-Segment:** `exam:15468093`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18265|exam:15468089|exam:15468092|exam:15468093>

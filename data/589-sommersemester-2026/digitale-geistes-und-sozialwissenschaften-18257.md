@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18257"
 campo_path: "title:17593|title:17595|title:18257"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257"
-po_version_count: 4
+po_version_count: 6
 course_count: 0
 fau_studiengang:
   - title: "Digitale Geistes- und Sozialwissenschaften (B.A.)"
@@ -253,24 +253,34 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (4)
+## Prüfungsordnungs-Versionen (6)
 
-### Bachelor of Arts (2 Fächer) Digitale Geistes- und Sozialwissenschaften 1. Fach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15003209`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15003209>
+- **Campo-Segment:** `exam:15003214`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15003209|exam:15003213|exam:15003214>
 
-### Bachelor of Arts (2 Fächer) Digitale Geistes- und Sozialwissenschaften 1. Fach PO-Version 20252
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15006493`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15006493>
+- **Campo-Segment:** `exam:15006498`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15006493|exam:15006497|exam:15006498>
 
-### Bachelor of Arts (2 Fächer) Digitale Geistes- und Sozialwissenschaften 2. Fach PO-Version 20182
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15011379`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15011379>
+- **Campo-Segment:** `exam:15011384`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15011379|exam:15011383|exam:15011384>
 
-### Bachelor of Arts (2 Fächer) Digitale Geistes- und Sozialwissenschaften 2. Fach PO-Version 20252
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15013015`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15013015>
+- **Campo-Segment:** `exam:15013023`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15013015|exam:15013019|exam:15013023>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Digitale Geistes- und Sozialwissenschaft
+
+- **Campo-Segment:** `exam:15006495`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15006493|exam:15006494|exam:15006495>
+
+### 990 Module der Grundlagen- und Orientierungsprüfung Digitale Geistes- und Sozialwissenschaft
+
+- **Campo-Segment:** `exam:15013017`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18257|exam:15013015|exam:15013016|exam:15013017>

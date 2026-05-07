@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17976"
 campo_path: "title:17593|title:17600|title:17976"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976"
-po_version_count: 1
+po_version_count: 3
 course_count: 0
 fau_studiengang:
   - title: "Medizin Erlangen/Bayreuth (Staatsexamen)"
@@ -156,9 +156,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (1)
+## Prüfungsordnungs-Versionen (3)
 
-### Staatsexamen Medizin Erlangen/Bayreuth Hauptfach PO-Version 1
+### 1000 1. Ärztliche Prüfung
 
-- **Campo-Segment:** `exam:13868770`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770>
+- **Campo-Segment:** `exam:13868771`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868771>
+
+### 2000 Gesamtkonto
+
+- **Campo-Segment:** `exam:13868776`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13868776>
+
+### 77777 Zusatzleistungen
+
+- **Campo-Segment:** `exam:13869594`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594>

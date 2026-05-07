@@ -264,32 +264,32 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Prüfungsordnungs-Versionen (6)
 
-### Bachelor of Arts (2 Fächer) Buchwissenschaft 1. Fach PO-Version 2013
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15092167`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15092167>
+- **Campo-Segment:** `exam:15092171`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15092167|exam:15092170|exam:15092171>
 
-### Bachelor of Arts (2 Fächer) Buchwissenschaft 1. Fach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15095413`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15095413>
+- **Campo-Segment:** `exam:15095417`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15095413|exam:15095416|exam:15095417>
 
-### Bachelor of Arts (2 Fächer) Buchwissenschaft 2. Fach PO-Version 2013
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15098665`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15098665>
+- **Campo-Segment:** `exam:15098669`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15098665|exam:15098668|exam:15098669>
 
-### Bachelor of Arts (2 Fächer) Buchwissenschaft 2. Fach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15100223`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15100223>
+- **Campo-Segment:** `exam:15100227`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15100223|exam:15100226|exam:15100227>
 
-### Master of Arts Buchwissenschaft Hauptfach PO-Version 20192
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15103361`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15103361>
+- **Campo-Segment:** `exam:15103363`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15103361|exam:15103362|exam:15103363>
 
-### Master of Arts Schriftmedienkultur und Digitale Transformation Hauptfach PO-Version 20232
+### 2000 Gesamtkonto
 
-- **Campo-Segment:** `exam:15104927`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15104927>
+- **Campo-Segment:** `exam:15104929`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18306|exam:15104927|exam:15104928|exam:15104929>

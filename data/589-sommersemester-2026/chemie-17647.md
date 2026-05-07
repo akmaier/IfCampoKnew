@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17647"
 campo_path: "title:17593|title:17602|title:17647"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647"
-po_version_count: 3
-course_count: 0
+po_version_count: 35
+course_count: 25
 fau_studiengang:
   - title: "Chemie (B.Sc.)"
     rel_path: "studiengang/chemie-b-sc.md"
@@ -175,19 +175,332 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (3)
+## Prüfungsordnungs-Versionen (35)
 
-### Modulverzeichnis nach Studiengängen
+### 1. Semester (PO 2022)
 
-- **Campo-Segment:** `title:17769`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769>
+- **Campo-Segment:** `title:17818`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17818>
 
-### Vorlesungsverzeichnis B.Sc. Chemie nach Semestern (PO 2020)
+### 1. Semester (PO 2022)
 
-- **Campo-Segment:** `title:17767`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767>
+- **Campo-Segment:** `title:17778`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17774|title:17778>
 
-### Vorlesungsverzeichnis Lehramt Chemie nach Semestern (PO 2022)
+### 1. Semester (PO 2022)
 
-- **Campo-Segment:** `title:17768`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768>
+- **Campo-Segment:** `title:17795`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17773|title:17795>
+
+### 10000 Masterprüfung
+
+- **Campo-Segment:** `exam:14319927`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17771|exam:14319927>
+
+### 2. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17820`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17820>
+
+### 2. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17777`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17774|title:17777>
+
+### 2. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17796`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17773|title:17796>
+
+### 3. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17819`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17819>
+
+### 3. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17775`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17774|title:17775>
+
+### 3. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17798`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17773|title:17798>
+
+### 4. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17816`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17816>
+
+### 4. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17779`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17774|title:17779>
+
+### 4. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17797`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17773|title:17797>
+
+### 5. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17814`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17814>
+
+### 6. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17815`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17815>
+
+### ab 5. Semester
+
+- **Campo-Segment:** `title:17776`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17774|title:17776>
+
+### ab 5. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17794`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17773|title:17794>
+
+### ab 7. Semester (PO 2022)
+
+- **Campo-Segment:** `title:17817`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17817>
+
+### Bachelor of Science Chemie Hauptfach PO-Version 2013
+
+- **Campo-Segment:** `exam:14318308`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17771|exam:14318308>
+
+### Bachelor of Science Chemie Hauptfach PO-Version 20202
+
+- **Campo-Segment:** `exam:14323017`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17771|exam:14323017>
+
+### Freier Bereich (PO2007)(PO 2022)
+
+- **Campo-Segment:** `title:17813`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17813>
+
+### Lehramt Grundschule Chemie Didaktikfach PO-Version 20162
+
+- **Campo-Segment:** `exam:14317740`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14317740>
+
+### Lehramt Grundschule Chemie Didaktikfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14318294`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14318294>
+
+### Lehramt Grundschule Chemie Hauptfach PO-Version 20162
+
+- **Campo-Segment:** `exam:14317757`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14317757>
+
+### Lehramt Grundschule Chemie Hauptfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14318202`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14318202>
+
+### Lehramt Gymnasium Chemie Hauptfach PO-Version 2007
+
+- **Campo-Segment:** `exam:14317616`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14317616>
+
+### Lehramt Gymnasium Chemie Hauptfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14317931`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14317931>
+
+### Lehramt Mittelschule Chemie Didaktikfach PO-Version 20162
+
+- **Campo-Segment:** `exam:14317830`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14317830>
+
+### Lehramt Mittelschule Chemie Didaktikfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14318271`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14318271>
+
+### Lehramt Mittelschule Chemie Hauptfach PO-Version 20162
+
+- **Campo-Segment:** `exam:14317856`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14317856>
+
+### Lehramt Mittelschule Chemie Hauptfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14318131`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14318131>
+
+### Lehramt Realschule Chemie Hauptfach PO-Version 2007
+
+- **Campo-Segment:** `exam:14317531`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14317531>
+
+### Lehramt Realschule Chemie Hauptfach PO-Version 20222
+
+- **Campo-Segment:** `exam:14318052`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17769|title:17770|exam:14318052>
+
+### Orientierungsmodule (3 aus 4 Fachbereichen sind zu wählen) (5. + 6. Semester)
+
+- **Campo-Segment:** `title:17858`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17854|title:17858>
+
+### Pflichtmodule 5. Semester (PO 2020)
+
+- **Campo-Segment:** `title:17857`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17854|title:17857>
+
+## Veranstaltungen (25)
+
+### 22021 Toxikologie und Rechtskunde
+
+- **Segment:** `exam:14315905` · **unitId:** `71540`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17853|exam:14315905>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71540&periodId=589>
+
+### 22021 Toxikologie und Rechtskunde
+
+- **Segment:** `exam:14315942` · **unitId:** `71540`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17855|exam:14315942>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71540&periodId=589>
+
+### 62015 Anorganische Chemie 1
+
+- **Segment:** `exam:14315967` · **unitId:** `71575`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17852|exam:14315967>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71575&periodId=589>
+
+### 62016 Theoretische Chemie 1
+
+- **Segment:** `exam:14315930` · **unitId:** `71578`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17856|exam:14315930>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71578&periodId=589>
+
+### 62025 Qualitative analytische Chemie
+
+- **Segment:** `exam:14315979` · **unitId:** `71509`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17852|exam:14315979>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71509&periodId=589>
+
+### 62026 Praktikum Qualitative analytische Chemie
+
+- **Segment:** `exam:14315983` · **unitId:** `71512`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17852|exam:14315983>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71512&periodId=589>
+
+### 62027 Quantitative analytische Chemie
+
+- **Segment:** `exam:14315986` · **unitId:** `71515`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17852|exam:14315986>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71515&periodId=589>
+
+### 62027 Quantitative analytische Chemie
+
+- **Segment:** `exam:14315914` · **unitId:** `71515`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17856|exam:14315914>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71515&periodId=589>
+
+### 62028 Anorganische Chemie 2
+
+- **Segment:** `exam:14315919` · **unitId:** `71519`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17856|exam:14315919>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71519&periodId=589>
+
+### 62029 Organische Chemie 1
+
+- **Segment:** `exam:14315923` · **unitId:** `71522`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17856|exam:14315923>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71522&periodId=589>
+
+### 62030 Physikalische Chemie 1
+
+- **Segment:** `exam:14315926` · **unitId:** `71525`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17856|exam:14315926>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71525&periodId=589>
+
+### 62031 Physikalische Chemie 2
+
+- **Segment:** `exam:14315888` · **unitId:** `71531`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17853|exam:14315888>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71531&periodId=589>
+
+### 62033 Organische Chemie 2
+
+- **Segment:** `exam:14315896` · **unitId:** `71534`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17853|exam:14315896>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71534&periodId=589>
+
+### 62034 Praktikum Physikalische Chemie
+
+- **Segment:** `exam:14315900` · **unitId:** `71537`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17853|exam:14315900>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71537&periodId=589>
+
+### 62035 Biochemie
+
+- **Segment:** `exam:14315908` · **unitId:** `71543`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17853|exam:14315908>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71543&periodId=589>
+
+### 62035 Biochemie
+
+- **Segment:** `exam:14315945` · **unitId:** `71543`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17855|exam:14315945>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71543&periodId=589>
+
+### 62036 Organische Chemie 3
+
+- **Segment:** `exam:14315951` · **unitId:** `71547`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17855|exam:14315951>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71547&periodId=589>
+
+### 62037 Physikalische Chemie 3
+
+- **Segment:** `exam:14315955` · **unitId:** `71550`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17855|exam:14315955>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71550&periodId=589>
+
+### 62038 Theoretische Chemie 3
+
+- **Segment:** `exam:14315959` · **unitId:** `71553`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17855|exam:14315959>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71553&periodId=589>
+
+### 62039 Praktikum Organische Chemie
+
+- **Segment:** `exam:14315963` · **unitId:** `71555`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17855|exam:14315963>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71555&periodId=589>
+
+### 62045 Präparativ Anorganische Chemie
+
+- **Segment:** `exam:14315938` · **unitId:** `71528`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17856|exam:14315938>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71528&periodId=589>
+
+### 62059 Theoretische Chemie 2
+
+- **Segment:** `exam:14315892` · **unitId:** `71581`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17853|exam:14315892>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71581&periodId=589>
+
+### 64640 Mathematik für Naturwissenschaftler
+
+- **Segment:** `exam:14315975` · **unitId:** `23732`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17852|exam:14315975>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23732&periodId=589>
+
+### 66382 Physik 1
+
+- **Segment:** `exam:14315971` · **unitId:** `34102`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17852|exam:14315971>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34102&periodId=589>
+
+### 66383 Physik 2
+
+- **Segment:** `exam:14315934` · **unitId:** `34103`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17767|title:17856|exam:14315934>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34103&periodId=589>
+

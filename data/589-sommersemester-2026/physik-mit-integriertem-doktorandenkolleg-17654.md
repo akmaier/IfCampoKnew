@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17654"
 campo_path: "title:17593|title:17602|title:17654"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654"
-po_version_count: 2
-course_count: 0
+po_version_count: 3
+course_count: 7
 ---
 
 # Physik mit integriertem Doktorandenkolleg
@@ -14,17 +14,78 @@ course_count: 0
 
 _Section: Studiengänge der Naturwissenschaftlichen Fakultät_  
 
-## Prüfungsordnungs-Versionen (2)
+## Prüfungsordnungs-Versionen (3)
 
-### Modulverzeichnis
+### 10000 Bachelorprüfung
 
-- **Campo-Segment:** `title:17713`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713>
+- **Campo-Segment:** `exam:14341113`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113>
 
-### Vorlesungsverzeichnis
+### 10000 Bachelorprüfung
 
-- **Campo-Segment:** `title:17714`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17714>
+- **Campo-Segment:** `exam:14346209`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209>
+
+### 10000 Masterprüfung
+
+- **Campo-Segment:** `exam:14353221`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221>
+
+## Veranstaltungen (7)
+
+### Übung TPL-4 - Übung
+
+- **Segment:** `exam:14336035` · **unitId:** `110498`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17714|exam:14336031|exam:14336035>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110498&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 26.05.2026 | — |
+| — | wöchentlich | — | — | — |
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
+
+### 66282 Integrated course 3: Quantum field theory and particle physics
+
+- **Segment:** `exam:14336047` · **unitId:** `42181`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17714|exam:14336047>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42181&periodId=589>
+
+### 66301 Research-oriented project 1
+
+- **Segment:** `exam:14336050` · **unitId:** `42184`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17714|exam:14336050>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42184&periodId=589>
+
+### 66305 Forschungsorientierte Projektarbeit 1
+
+- **Segment:** `exam:14336042` · **unitId:** `31566`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17714|exam:14336042>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=31566&periodId=589>
+
+### 66311 Research-oriented project 2
+
+- **Segment:** `exam:14336052` · **unitId:** `42185`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17714|exam:14336052>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42185&periodId=589>
+
+### 66330 Studientage
+
+- **Segment:** `exam:14336038` · **unitId:** `26164`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17714|exam:14336038>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26164&periodId=589>
+
+### 66341 Study workshop
+
+- **Segment:** `exam:14336045` · **unitId:** `42179`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17714|exam:14336045>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42179&periodId=589>
 
 ## Lehramts-Prüfungsordnungen
 
