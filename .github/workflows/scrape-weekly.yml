@@ -61,9 +61,12 @@ jobs:
           echo "iso_month=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
 
       - name: Walk catalogue tree
-        # Walker is single-session; the rate probe (Entry 0016) shows
-        # interval=0.2s = ~1.4 req/s effective ceiling (latency-bound).
-        # Default 1.0s would triple wall-clock for the depth-6 walk.
+        # Parallel BFS (4 workers, each its own JSESSIONID) cuts depth-6
+        # walk from ~30 min to ~10 min per the rate-probe ceiling
+        # (~4 r/s aggregate at 4 sessions × 0.2s interval). Tradeoff:
+        # SIGINT/SIGTERM checkpointing is disabled in parallel mode, so
+        # a manual cancel won't leave a resumable state — but the cron
+        # never cancels mid-walk anyway.
         run: |
           mkdir -p tmp
           python scraper/scrape.py \
@@ -71,6 +74,7 @@ jobs:
             --out tmp/${{ steps.vars.outputs.period_id }}.json \
             --max-depth ${{ steps.vars.outputs.max_depth }} \
             --interval 0.2 \
+            --parallel 4 \
             --checkpoint-every 100 \
             -v
 
@@ -152,6 +156,7 @@ jobs:
             --out tmp/${{ steps.vars.outputs.prior_period_id }}.json \
             --max-depth ${{ steps.vars.outputs.max_depth }} \
             --interval 0.2 \
+            --parallel 4 \
             --checkpoint-every 100 \
             -v
 

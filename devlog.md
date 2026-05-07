@@ -1544,3 +1544,101 @@ Even on a cache miss, the `restore-keys` fallback should grab a slightly-older s
 YAML lint passes. The change is workflow-only — no scraper logic touched, no need to re-run the analysis.
 
 **Status:** Cron should complete inside the 6-hour budget on cache hit. If the next scheduled run still times out, the next escalation would be to split into two parallel jobs sharing artifacts.
+
+## Entry 0026 — Quality + speed: course consolidation, noise-token cleanup, parallel walker
+
+- **Start:** 2026-05-07 16:30 CEST
+- **End:** 2026-05-07 18:05 CEST
+- **Duration:** ~95 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompt (verbatim):**
+
+> implement the quality / audit points and the walker parallelism.
+
+Three deferred items from earlier entries, addressed in one arc:
+
+### 1. Cross-program unit-id consolidation (`analyze_pflicht.py`)
+
+**Problem.** The depth-6 catalogue walk surfaces the same logical course (e.g. *Deep Learning*) once per Studiengang it's cross-listed in. Campo issues a fresh `unit_id` per program-context, so a popular lecture rendered as 12–14 rows in *profs-mit-pflichtlehre.md*. Audit: **1 597 (title, period) groups have ≥ 2 unit_ids** in our scrape.
+
+**Fix.** New helper `_consolidate_courses_by_title(courses)` groups entries by `(title, period_name, course_type)` and merges program-contexts. Each rendered row now carries `_program_contexts` (list of `{program_name, program_rel_path}`) and `_unit_ids` (the merged uid set so PO-source lookup still works). New `_format_program_contexts(contexts, max_inline=3)` shows up to 3 program links inline, then collapses the remainder to a count.
+
+Both renderers (`render_profs_mit_pflichtlehre_md` for Pflicht and Weitere Lehre, `render_profs_ohne_pflichtlehre_md`) now run on consolidated lists.
+
+Spot-check Maier — *"Deep Learning for Beginners"* used to render 3 separate rows under IPEM, Maschinenbau and Wirtschaftsingenieurwesen; now it renders as one row with `Campo-Studiengang: IPEM, Maschinenbau, Wirtschaftsingenieurwesen`.
+
+`profs-mit-pflichtlehre.md` shrank from 8 105 → 7 447 lines (−658, ≈ −8 %), with no information loss — the cross-listings are still on the same line.
+
+### 2. Within-faculty FP audit — extend noise-token list
+
+**Problem.** Some 2-token Pflichtmodul names are dominated by structural words (course-types, section-labels) rather than subject content. Auditing single-word and 2-token Pflichtmodul names that recur across many POs surfaced course-type tokens that shouldn't drive matching:
+
+```
+single-word Pflichtmodul names declared in many POs:
+  Tutorium       (13 POs)
+  Proseminar     (10 POs)
+  Mastermodul    (10 POs)
+  Begleitseminar (10 POs)
+```
+
+**Fix.** Added 14 tokens to `_NOISE_TOKENS` (`scraper/analyze_pflicht.py`):
+
+```
+tutorium, proseminar, begleitseminar, mastermodul, fachmodul,
+hauptseminar, oberseminar, kolloquium, ringvorlesung,
+schwerpunkt, schwerpunktbereich,
+vertiefungsmodul, ergaenzungsmodul, ergänzungsmodul, aufbaumodul
+```
+
+These are course-types and section-labels — they shouldn't be the discriminator when matching a 2-token module name against a course title. Effect on the analyse:
+
+| metric | before | after | Δ |
+|---|--:|--:|--:|
+| POs matched ≥ 1 course | 890 | **889** | −1 |
+| matched courses (sum) | 8 968 | **8 865** | −103 |
+| unique Pflicht unit_ids | 1 436 | **1 430** | −6 |
+| profs-mit candidates | 266 | **264** | −2 |
+| profs-ohne candidates | 270 | **272** | +2 |
+
+Marginal tightening — the change drops the most obviously-spurious matches without disturbing the bulk. The within-faculty FP audit is otherwise open-ended; without specific test cases, blanket changes risk over-filtering. Future iteration: targeted user-reported cases like Entry 0024.
+
+### 3. Walker parallelism (`scrape.py`)
+
+**Problem.** The single-session walker is latency-bound at ~1.4 r/s (rate probe Entry 0016). A depth-6 walk of one period takes ~30 min; with prior-period scope (Entry 0019), 60+ min total. Cache fix (Entry 0025) softened this for the typical week, but cache-miss runs still flirt with the 6-hour cron limit.
+
+**Fix.** New `parallel >= 2` mode in `walk_tree`. N `CampoClient`s, each with its own JSESSIONID, share a thread-safe deque + nodes dict via a coarse global lock. Quiescence detection is via `in_flight` counter + `Condition.notify_all()` so workers terminate cleanly when the queue is empty AND no other worker has fresh children to enqueue.
+
+Tradeoffs:
+- Lock contention is negligible because the work per node is dominated by ~700 ms server latency; the critical section (parse-result merge + queue append) is microseconds.
+- SIGINT/SIGTERM checkpointing is disabled in parallel mode (workers don't share a clean quiescent moment). Use sequential mode if you need resumable interrupts. The cron never cancels mid-walk anyway.
+
+Smoke test: SoSe at `--max-depth 3 --parallel 4 --interval 0.2` walked 247 nodes in <1 min, all 4 workers cooperating, clean quiescence at the end.
+
+Wired `--parallel 4` into both walk steps in `scrape-weekly.yml`. Per the rate-probe: 4 workers × 0.2 s ≈ 4 r/s aggregate, ~3× single-session throughput at the same p95 latency. Estimated wall-clock for a depth-6 walk drops from ~30 → ~10 min per period.
+
+**Updated cron budget:**
+
+| scenario | walk (curr) | fetch (curr) | sweep (curr) | prior period | analyse | total |
+|---|--:|--:|--:|--:|--:|--:|
+| previous (sequential walker, no cache) | 30 | 30 | 30 | 120 | 60 | ~270 ❌ |
+| Entry 0025 cache hit | 30 | 30 | 30 | <1 | 60 | ~150 ✓ |
+| Entry 0025 cache miss | 30 | 30 | 30 | 120 | 60 | ~270 (tight) |
+| **Entry 0026 cache hit, parallel walker** | **10** | 30 | 30 | <1 | 60 | **~130 ✓** |
+| **Entry 0026 cache miss, parallel walker** | 10 | 30 | 30 | **40** | 60 | **~170 ✓** |
+
+Even with full prior-period rescrape, 170 min fits comfortably in the 360-min cap.
+
+**Files changed:**
+
+```
+scraper/analyze_pflicht.py            | +85 / -38   (consolidation helpers, noise tokens,
+                                                     consolidated rendering in both renderers)
+scraper/scrape.py                     | +112 / -47  (parallel BFS path with shared deque
+                                                     + Condition-based quiescence detection)
+.github/workflows/scrape-weekly.yml   | +6 / -3     (--parallel 4 on both walk steps)
+```
+
+**91 unit tests still green** at every step.
+
+**Status:** All three deferred items shipped. Next Monday's cron is the live test of the cache + parallel walker combo. The within-faculty FP audit landed a defensive cleanup; deeper precision work needs concrete user-supplied false-positive cases.

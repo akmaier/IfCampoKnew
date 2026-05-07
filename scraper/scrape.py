@@ -94,6 +94,8 @@ def walk_tree(
     checkpoint_path: Optional[Path] = None,
     checkpoint_every: int = 50,
     resume_from: Optional[dict] = None,
+    parallel: int = 1,
+    interval: float = 1.0,
 ) -> CatalogSnapshot:
     """Walk the catalogue BFS up to ``max_depth`` segments past the root.
 
@@ -103,6 +105,19 @@ def walk_tree(
 
     If ``resume_from`` is a previously-saved checkpoint dict, the BFS
     resumes from its queue + node table (the root fetch is skipped).
+
+    ``parallel >= 2`` switches to a multi-worker BFS where each worker
+    has its own :class:`CampoClient` (own JSESSIONID, own per-session
+    rate limit). The single-session walker is latency-bound at ~1.4
+    req/s (probe Entry 0016); 4 workers reach ~4 req/s aggregate, so
+    a depth-6 walk drops from ~30 min to ~10 min. The first ``client``
+    argument is always the bootstrap session (used for the root fetch
+    and as worker 0); ``parallel - 1`` extra :class:`CampoClient`s are
+    instantiated internally with ``min_interval=interval``.
+
+    On parallel mode the SIGINT/SIGTERM checkpoint protection is
+    disabled (the workers don't share a clean quiescent point). Use the
+    sequential mode if you need resumable runs.
     """
     HARD_DEPTH_CAP = 12
     if max_depth <= 0:
@@ -222,53 +237,148 @@ def walk_tree(
             log.warning("signal %d — checkpoint flushed; exiting", signum)
         sys.exit(130)
 
-    if checkpoint_path:
+    if checkpoint_path and parallel <= 1:
         signal.signal(signal.SIGINT, _flush_and_exit)
         signal.signal(signal.SIGTERM, _flush_and_exit)
 
-    processed = 0
-    while queue:
-        cur_path, depth = queue.pop(0)
-        if depth >= max_depth:
-            continue
-        url = client.catalog_url(period_id, cur_path)
-        try:
-            r = client.get(url, referer=root_url)
-            r.raise_for_status()
-        except Exception as e:  # noqa: BLE001
-            log.warning("skip %s (%s)", cur_path, e)
-            continue
-        page_nodes = parse_nodes(r.text)
-        current, kids = classify_nodes(page_nodes, cur_path)
-        if current and current.name and not nodes[cur_path[-1]].name:
-            nodes[cur_path[-1]].name = current.name
-        for ch in kids:
-            record(ch, cur_path[-1])
-            if ch.segment not in nodes[cur_path[-1]].children:
-                nodes[cur_path[-1]].children.append(ch.segment)
-            queue.append((ch.path, depth + 1))
+    if parallel > 1:
+        # ── Parallel BFS: N CampoClients, shared deque + nodes dict ────
+        # We use a coarse global lock for the shared state. The work
+        # per node is dominated by the HTTP fetch (~700 ms server-side
+        # latency); the lock-protected critical section (parse-result
+        # merge, queue append) is microseconds. So lock contention is
+        # negligible in practice. Probe Entry 0016: 4 workers ≈ 4 r/s
+        # aggregate (~3× single-session throughput at the same p95).
+        import threading
+        from collections import deque
+        from concurrent.futures import ThreadPoolExecutor
 
-        processed += 1
-        if processed % 10 == 0 or len(kids) > 0:
-            log.info(
-                "depth=%d path=%s children=%d total_nodes=%d queue=%d",
-                depth,
-                "/".join(cur_path),
-                len(kids),
-                len(nodes),
-                len(queue),
-            )
-        if checkpoint_path and processed % checkpoint_every == 0:
-            _save_checkpoint(
-                checkpoint_path,
-                period_id,
-                period_name,
-                max_depth,
-                root_segment,
-                nodes,
-                queue,
-            )
-            log.debug("checkpoint @ processed=%d nodes=%d", processed, len(nodes))
+        # Bootstrap N-1 extra clients; client index 0 is the caller's.
+        clients = [client] + [
+            CampoClient(min_interval=interval) for _ in range(parallel - 1)
+        ]
+        for c in clients[1:]:
+            c.start_session()
+
+        deq: "deque[tuple[list[str], int]]" = deque(queue)
+        queue = []  # the original list is no longer the source of truth
+        state_lock = threading.Lock()
+        # Track in-flight worker count so we can detect global quiescence.
+        in_flight = [0]
+        not_empty = threading.Condition(state_lock)
+        processed = [0]
+        last_log_at = [0]
+
+        def take_work() -> Optional[tuple[list[str], int]]:
+            """Pop a work item, blocking until either an item is available
+            or all workers are idle and the deque is empty (terminate)."""
+            with not_empty:
+                while not deq:
+                    if in_flight[0] == 0:
+                        return None
+                    not_empty.wait()
+                in_flight[0] += 1
+                return deq.popleft()
+
+        def release_work() -> None:
+            with not_empty:
+                in_flight[0] -= 1
+                if not deq and in_flight[0] == 0:
+                    not_empty.notify_all()
+
+        def worker(client_idx: int) -> None:
+            cli = clients[client_idx]
+            while True:
+                item = take_work()
+                if item is None:
+                    return
+                cur_path, depth = item
+                try:
+                    if depth >= max_depth:
+                        continue
+                    url = cli.catalog_url(period_id, cur_path)
+                    try:
+                        r = cli.get(url, referer=root_url)
+                        r.raise_for_status()
+                    except Exception as e:  # noqa: BLE001
+                        log.warning("skip %s (%s)", cur_path, e)
+                        continue
+                    page_nodes = parse_nodes(r.text)
+                    current, kids = classify_nodes(page_nodes, cur_path)
+                    with state_lock:
+                        if current and current.name and not nodes[cur_path[-1]].name:
+                            nodes[cur_path[-1]].name = current.name
+                        for ch in kids:
+                            record(ch, cur_path[-1])
+                            if ch.segment not in nodes[cur_path[-1]].children:
+                                nodes[cur_path[-1]].children.append(ch.segment)
+                            deq.append((ch.path, depth + 1))
+                        processed[0] += 1
+                        # Periodic progress log (rate-limited so workers
+                        # don't all log at once).
+                        if processed[0] - last_log_at[0] >= 25 or kids:
+                            log.info(
+                                "[w%d] depth=%d path=%s children=%d "
+                                "total_nodes=%d queue=%d in_flight=%d",
+                                client_idx, depth, "/".join(cur_path),
+                                len(kids), len(nodes), len(deq), in_flight[0],
+                            )
+                            last_log_at[0] = processed[0]
+                    # Notify other workers that fresh work might be in
+                    # the queue (or that we're done).
+                    with not_empty:
+                        not_empty.notify_all()
+                finally:
+                    release_work()
+
+        with ThreadPoolExecutor(max_workers=parallel) as ex:
+            futures = [ex.submit(worker, i) for i in range(parallel)]
+            for f in futures:
+                f.result()
+    else:
+        processed = 0
+        while queue:
+            cur_path, depth = queue.pop(0)
+            if depth >= max_depth:
+                continue
+            url = client.catalog_url(period_id, cur_path)
+            try:
+                r = client.get(url, referer=root_url)
+                r.raise_for_status()
+            except Exception as e:  # noqa: BLE001
+                log.warning("skip %s (%s)", cur_path, e)
+                continue
+            page_nodes = parse_nodes(r.text)
+            current, kids = classify_nodes(page_nodes, cur_path)
+            if current and current.name and not nodes[cur_path[-1]].name:
+                nodes[cur_path[-1]].name = current.name
+            for ch in kids:
+                record(ch, cur_path[-1])
+                if ch.segment not in nodes[cur_path[-1]].children:
+                    nodes[cur_path[-1]].children.append(ch.segment)
+                queue.append((ch.path, depth + 1))
+
+            processed += 1
+            if processed % 10 == 0 or len(kids) > 0:
+                log.info(
+                    "depth=%d path=%s children=%d total_nodes=%d queue=%d",
+                    depth,
+                    "/".join(cur_path),
+                    len(kids),
+                    len(nodes),
+                    len(queue),
+                )
+            if checkpoint_path and processed % checkpoint_every == 0:
+                _save_checkpoint(
+                    checkpoint_path,
+                    period_id,
+                    period_name,
+                    max_depth,
+                    root_segment,
+                    nodes,
+                    queue,
+                )
+                log.debug("checkpoint @ processed=%d nodes=%d", processed, len(nodes))
 
     return CatalogSnapshot(
         period_id=period_id,
@@ -305,6 +415,15 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="if <out>.checkpoint.json exists, load it and continue the walk",
     )
+    p.add_argument(
+        "--parallel",
+        type=int,
+        default=1,
+        help="number of concurrent worker sessions for the BFS walk (default 1 "
+        "= sequential, fully resumable). 4 cuts depth-6 wall-clock from ~30 to "
+        "~10 min (rate-probe Entry 0016). Parallel mode disables SIGINT/SIGTERM "
+        "checkpointing — use sequential if you need resumable runs.",
+    )
     p.add_argument("-v", "--verbose", action="count", default=0)
     args = p.parse_args(argv)
 
@@ -328,6 +447,8 @@ def main(argv: list[str] | None = None) -> int:
         checkpoint_path=ckpt,
         checkpoint_every=args.checkpoint_every,
         resume_from=resume_state,
+        parallel=args.parallel,
+        interval=args.interval,
     )
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
