@@ -542,7 +542,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 | — |
+| — | wöchentlich | — | 15.04.2026 13.05.2026 | — |
 
 ### Einführung in die Datenaufbereitung und Datenanalyse mit SPSS - Seminar
 

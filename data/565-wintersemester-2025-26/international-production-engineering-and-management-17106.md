@@ -9999,7 +9999,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 88 |
 
-### IngMathD1V - Mathematik für Ingenieure D1: CBI, BT, CEN, IP, MWT, NT - Vorlesung
+### IngMathD1V - Mathematik für Ingenieure D1: BT, CBI, CEN, IP, MWT, NT - Vorlesung
 
 - **Segment:** `exam:12419014` · **unitId:** `82195`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12417465|exam:12419013|exam:12419014>
@@ -10017,7 +10017,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 307 |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 307 |
 
-### IngMathD1V - Mathematik für Ingenieure D1: CBI, BT, CEN, IP, MWT, NT - Vorlesung
+### IngMathD1V - Mathematik für Ingenieure D1: BT, CBI, CEN, IP, MWT, NT - Vorlesung
 
 - **Segment:** `exam:12422501` · **unitId:** `82195`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12420568|exam:12422500|exam:12422501>
@@ -10035,7 +10035,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 307 |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 307 |
 
-### IngMathD1V - Mathematik für Ingenieure D1: CBI, BT, CEN, IP, MWT, NT - Vorlesung
+### IngMathD1V - Mathematik für Ingenieure D1: BT, CBI, CEN, IP, MWT, NT - Vorlesung
 
 - **Segment:** `exam:12425972` · **unitId:** `82195`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12424047|exam:12425971|exam:12425972>
@@ -10053,7 +10053,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 307 |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 307 |
 
-### IngMathD1V - Mathematik für Ingenieure D1: CBI, BT, CEN, IP, MWT, NT - Vorlesung
+### IngMathD1V - Mathematik für Ingenieure D1: BT, CBI, CEN, IP, MWT, NT - Vorlesung
 
 - **Segment:** `exam:12429435` · **unitId:** `82195`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12427518|exam:12429434|exam:12429435>
@@ -10071,7 +10071,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 307 |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 307 |
 
-### IngMathD1V - Mathematik für Ingenieure D1: CBI, BT, CEN, IP, MWT, NT - Vorlesung
+### IngMathD1V - Mathematik für Ingenieure D1: BT, CBI, CEN, IP, MWT, NT - Vorlesung
 
 - **Segment:** `exam:12430990` · **unitId:** `82195`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12430983|exam:12430989|exam:12430990>
@@ -10089,7 +10089,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 307 |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 307 |
 
-### IngMathD1V - Mathematik für Ingenieure D1: CBI, BT, CEN, IP, MWT, NT - Vorlesung
+### IngMathD1V - Mathematik für Ingenieure D1: BT, CBI, CEN, IP, MWT, NT - Vorlesung
 
 - **Segment:** `exam:12436347` · **unitId:** `82195`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12434451|exam:12436346|exam:12436347>
@@ -10107,7 +10107,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 307 |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 307 |
 
-### IngMathD1V - Mathematik für Ingenieure D1: CBI, BT, CEN, IP, MWT, NT - Vorlesung
+### IngMathD1V - Mathematik für Ingenieure D1: BT, CBI, CEN, IP, MWT, NT - Vorlesung
 
 - **Segment:** `exam:15813683` · **unitId:** `82195`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12437919|exam:15813682|exam:15813683>
@@ -10125,7 +10125,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 307 |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 307 |
 
-### IngMathD3V - Mathematik für Ingenieure D3: CBI, CEN, LSE, IP - Vorlesung
+### IngMathD3V - Mathematik für Ingenieure D3: BT, CBI, CEN, IP - Vorlesung
 
 - **Segment:** `exam:12431022` · **unitId:** `85795`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12430983|exam:12431021|exam:12431022>
@@ -10143,7 +10143,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 133 |
 | — | wöchentlich | — | 25.12.2025 01.01.2026 | 133 |
 
-### IngMathD3V - Mathematik für Ingenieure D3: CBI, CEN, LSE, IP - Vorlesung
+### IngMathD3V - Mathematik für Ingenieure D3: BT, CBI, CEN, IP - Vorlesung
 
 - **Segment:** `exam:12436379` · **unitId:** `85795`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12434451|exam:12436378|exam:12436379>
@@ -10161,7 +10161,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 133 |
 | — | wöchentlich | — | 25.12.2025 01.01.2026 | 133 |
 
-### IngMathD3V - Mathematik für Ingenieure D3: CBI, CEN, LSE, IP - Vorlesung
+### IngMathD3V - Mathematik für Ingenieure D3: BT, CBI, CEN, IP - Vorlesung
 
 - **Segment:** `exam:12437958` · **unitId:** `85795`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17106|exam:12437919|exam:12437957|exam:12437958>

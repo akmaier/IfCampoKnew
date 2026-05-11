@@ -2147,7 +2147,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| Mi | 09:00 - 11:00 | — | — | 11906.01.040 (H20) |
 
 ### 46901 Werkstoffkunde - Leistung
 
@@ -2162,7 +2162,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| Mi | 09:00 - 11:00 | — | — | 11906.01.040 (H20) |
 
 ### 46901 Werkstoffkunde - Leistung
 
@@ -2177,7 +2177,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| Mi | 09:00 - 11:00 | — | — | 11906.01.040 (H20) |
 
 ### 46901 Werkstoffkunde - Leistung
 
@@ -2192,7 +2192,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| Mi | 09:00 - 11:00 | — | — | 11906.01.040 (H20) |
 
 ### 46901 Werkstoffkunde - Leistung
 
@@ -2207,7 +2207,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| Mi | 09:00 - 11:00 | — | — | 11906.01.040 (H20) |
 
 ### 46901 Werkstoffkunde - Leistung
 
@@ -2222,7 +2222,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| Mi | 09:00 - 11:00 | — | — | 11906.01.040 (H20) |
 
 ### 46901 Werkstoffkunde - Leistung
 
@@ -2237,7 +2237,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| Mi | 09:00 - 11:00 | — | — | 11906.01.040 (H20) |
 
 ### 46939 Angewandte Elektronik- und Hochfrequenzmesstechnik (AEM)
 
@@ -7977,6 +7977,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | Terminplanung s. StudOn |
+
 ### ASISP - Advanced Seminar on International & Sustainable Production - Seminar
 
 - **Segment:** `exam:14411923` · **unitId:** `85707`
@@ -7987,6 +7993,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | Terminplanung s. StudOn |
 
 ### ASISP - Advanced Seminar on International & Sustainable Production - Seminar
 
@@ -7999,6 +8011,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | Terminplanung s. StudOn |
+
 ### ASISP - Advanced Seminar on International & Sustainable Production - Seminar
 
 - **Segment:** `exam:14417244` · **unitId:** `85707`
@@ -8010,6 +8028,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | Terminplanung s. StudOn |
+
 ### ASISP - Advanced Seminar on International & Sustainable Production - Seminar
 
 - **Segment:** `exam:14420894` · **unitId:** `85707`
@@ -8020,6 +8044,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | Terminplanung s. StudOn |
 
 ### FEE - Fundamentals of Electrical Engineering - Vorlesung
 
@@ -8874,6 +8904,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | alle ungeraden KWs. Terminplanung REP Verteiler. |
+
 ### HS REP - Hauptseminar zur Bachelorarbeit am LS für Ressourcen- und Energieeffiziente Produkionsmaschinen - Hauptseminar
 
 - **Segment:** `exam:14404533` · **unitId:** `82341`
@@ -8884,6 +8920,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | alle ungeraden KWs. Terminplanung REP Verteiler. |
+
 ### HS REP - Hauptseminar zur Bachelorarbeit am LS für Ressourcen- und Energieeffiziente Produkionsmaschinen - Hauptseminar
 
 - **Segment:** `exam:14408183` · **unitId:** `82341`
@@ -8893,6 +8935,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | alle ungeraden KWs. Terminplanung REP Verteiler. |
 
 ### HS[TechDyn] - Hauptseminar Technische Dynamik — MA / PA  - Hauptseminar
 

@@ -580,8 +580,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 10:00–14:00 | 13.04.2026 | &lt;p&gt;&lt;b&gt;&lt;style&gt; &lt;/style&gt;&lt;span&gt;Untertitel &quot;MultiPluriTranslokale Zugänge in der Ethnografie&quot; &lt;/span&gt; &lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Anmeldezeiträume:&amp;nbsp;Freitag, 13. März (12:00), bis Montag, 30. März (12:00)&lt;/b&gt;&lt;/p&gt; |
+| Einzeltermin | Fr | 10:00–14:00 | 22.05.2026 | — |
 | Einzeltermin | Mo | 10:00–14:00 | 01.06.2026 | — |
 | Einzeltermin | Mo | 10:00–14:00 | 08.06.2026 | — |
+| Einzeltermin | Fr | 10:00–18:00 | 19.06.2026 | — |
 | Einzeltermin | Mo | 10:00–14:00 | 06.07.2026 | — |
 
 ### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
@@ -598,11 +600,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 22.04.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| Einzeltermin | Mi | 10:00–12:00 | 29.04.2026 | — |
+| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | — |
+| Einzeltermin | Mi | 10:00–12:00 | 01.07.2026 | — |
+| Einzeltermin | Mi | 10:00–12:00 | 08.07.2026 | — |
+| Einzeltermin | Mi | 10:00–12:00 | 15.07.2026 | — |
 
 ### NN - Seminar
 

@@ -625,7 +625,7 @@ _Section: Frühstudium_
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Norwegisch: EK I - Übung
+### Norwegisch: Elementarkurs  I (GeR A1) - Übung
 
 - **Segment:** `exam:13838087` · **unitId:** `83927`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838087>
@@ -758,7 +758,7 @@ _Section: Frühstudium_
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.05.2026 | — |
 
-### Schwedisch: EK IV - Übung
+### Schwedisch: EK IV (GeR B2) - Übung
 
 - **Segment:** `exam:13838134` · **unitId:** `91879`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838134>
@@ -994,7 +994,6 @@ _Section: Frühstudium_
 |---|---|---|---|---|
 | Einzeltermin | Di | 15:00–16:30 | 28.04.2026 | — |
 | Einzeltermin | Di | 15:00–18:15 | 12.05.2026 | — |
-| Einzeltermin | Mi | 13:15–16:30 | 13.05.2026 | — |
 
 ### Vorlesung "Grundlagen und Anwendungsfelder der Sozialpsychologie" - Vorlesung
 

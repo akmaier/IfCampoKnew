@@ -892,7 +892,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13395284` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17243|exam:13395278|exam:13395284>
@@ -908,7 +908,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13395299` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17243|exam:13395292|exam:13395299>
@@ -924,7 +924,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13395153` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17245|exam:13395147|exam:13395153>
@@ -940,7 +940,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13395168` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17245|exam:13395161|exam:13395168>
@@ -956,7 +956,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13394913` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394907|exam:13394913>
@@ -972,7 +972,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13394927` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394921|exam:13394927>
@@ -988,7 +988,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13394941` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394935|exam:13394941>
@@ -1004,7 +1004,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13394954` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394948|exam:13394954>
@@ -1020,7 +1020,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13394968` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394962|exam:13394968>
@@ -1036,7 +1036,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13394981` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394976|exam:13394981>
@@ -1052,7 +1052,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13394995` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394989|exam:13394995>
@@ -1068,7 +1068,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13395009` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13395003|exam:13395009>
@@ -1084,7 +1084,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13395023` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13395017|exam:13395023>
@@ -1100,7 +1100,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 26.11.2025 24.12.2025 31.12.2025 | — |
 
-### Current Work in Philosophy and AI Research (PAIR) - Oberseminar
+### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
 - **Segment:** `exam:13395037` · **unitId:** `112943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13395031|exam:13395037>
@@ -2378,7 +2378,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13395289` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17243|exam:13395278|exam:13395289>
@@ -2394,7 +2394,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13395305` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17243|exam:13395292|exam:13395305>
@@ -2410,7 +2410,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13395158` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17245|exam:13395147|exam:13395158>
@@ -2426,7 +2426,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13395174` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17245|exam:13395161|exam:13395174>
@@ -2442,7 +2442,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13394918` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394907|exam:13394918>
@@ -2458,7 +2458,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13394932` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394921|exam:13394932>
@@ -2474,7 +2474,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13394946` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394935|exam:13394946>
@@ -2490,7 +2490,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13394960` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394948|exam:13394960>
@@ -2506,7 +2506,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13394974` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394962|exam:13394974>
@@ -2522,7 +2522,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13394987` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394976|exam:13394987>
@@ -2538,7 +2538,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13395000` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13394989|exam:13395000>
@@ -2554,7 +2554,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13395014` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13395003|exam:13395014>
@@ -2570,7 +2570,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13395029` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13395017|exam:13395029>
@@ -2586,7 +2586,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:13395043` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17205|title:17242|exam:13395031|exam:13395043>

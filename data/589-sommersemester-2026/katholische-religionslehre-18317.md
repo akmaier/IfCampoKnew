@@ -127,8 +127,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Mo | 17:30–19:00 | 20.04.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 04.05.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 18.05.2026 | — |
+| Einzeltermin | Fr | 14:00–17:15 | 29.05.2026 | — |
+| Einzeltermin | Do | 17:30–19:00 | 11.06.2026 | — |
 | Einzeltermin | Fr | 14:00–20:00 | 12.06.2026 | — |
 | Einzeltermin | Sa | 08:00–20:00 | 13.06.2026 | — |
+| Einzeltermin | So | 19:30–21:30 | 21.06.2026 | — |
 
 ### BiblTheol - Biblische Theologie und ihre Didaktik / Einführung in die Theologie - Seminar
 
@@ -147,8 +150,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Mo | 17:30–19:00 | 20.04.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 04.05.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 18.05.2026 | — |
+| Einzeltermin | Fr | 14:00–17:15 | 29.05.2026 | — |
+| Einzeltermin | Do | 17:30–19:00 | 11.06.2026 | — |
 | Einzeltermin | Fr | 14:00–20:00 | 12.06.2026 | — |
 | Einzeltermin | Sa | 08:00–20:00 | 13.06.2026 | — |
+| Einzeltermin | So | 19:30–21:30 | 21.06.2026 | — |
 
 ### BiblTheol - Biblische Theologie und ihre Didaktik / Einführung in die Theologie - Seminar
 
@@ -167,8 +173,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Mo | 17:30–19:00 | 20.04.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 04.05.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 18.05.2026 | — |
+| Einzeltermin | Fr | 14:00–17:15 | 29.05.2026 | — |
+| Einzeltermin | Do | 17:30–19:00 | 11.06.2026 | — |
 | Einzeltermin | Fr | 14:00–20:00 | 12.06.2026 | — |
 | Einzeltermin | Sa | 08:00–20:00 | 13.06.2026 | — |
+| Einzeltermin | So | 19:30–21:30 | 21.06.2026 | — |
 
 ### BiblTheol - Biblische Theologie und ihre Didaktik / Einführung in die Theologie - Seminar
 
@@ -187,8 +196,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Mo | 17:30–19:00 | 20.04.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 04.05.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 18.05.2026 | — |
+| Einzeltermin | Fr | 14:00–17:15 | 29.05.2026 | — |
+| Einzeltermin | Do | 17:30–19:00 | 11.06.2026 | — |
 | Einzeltermin | Fr | 14:00–20:00 | 12.06.2026 | — |
 | Einzeltermin | Sa | 08:00–20:00 | 13.06.2026 | — |
+| Einzeltermin | So | 19:30–21:30 | 21.06.2026 | — |
 
 ### GrundAT/NT - Grundfragen des Alten und Neuen Testaments - Seminar
 

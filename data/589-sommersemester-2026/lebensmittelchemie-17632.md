@@ -567,7 +567,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 22.04.2026 10.06.2026 01.07.2026 | — |
+| — | wöchentlich | — | 15.04.2026 22.04.2026 13.05.2026 10.06.2026 01.07.2026 | — |
 
 ### VLEC - Ernährungslehre:  Chemosensorik - Vorlesung
 
@@ -583,7 +583,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.06.2026 01.07.2026 | — |
+| — | wöchentlich | — | 13.05.2026 10.06.2026 01.07.2026 | — |
 
 ### VLM1/4/7/8 - Chemie und Technologie der Lebensmittel, Teil 1, 4, 7 oder 8 - Vorlesung
 

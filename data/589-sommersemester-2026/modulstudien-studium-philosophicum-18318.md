@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18318"
 campo_path: "title:17593|title:17595|title:18318"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318"
-po_version_count: 27
-course_count: 53
+po_version_count: 29
+course_count: 52
 ---
 
 # Modulstudien Studium Philosophicum
@@ -14,7 +14,12 @@ course_count: 53
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Prüfungsordnungs-Versionen (27)
+## Prüfungsordnungs-Versionen (29)
+
+### 1082 Sinologie - Module grösser 5 ECTS
+
+- **Campo-Segment:** `exam:15924935`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318|exam:15505520|exam:15507626|exam:15924935>
 
 ### 1701 Archäologische Wissenschaften - Module mit 5 ECTS
 
@@ -141,6 +146,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:15507603`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318|exam:15505520|exam:15507568|exam:15507603>
 
+### 1801 Sinologie - Module mit 5 ECTS
+
+- **Campo-Segment:** `exam:15924890`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318|exam:15505520|exam:15507626|exam:15924890>
+
 ### 1811 Soziologie - Module mit 5 ECTS
 
 - **Campo-Segment:** `exam:15507655`
@@ -151,7 +161,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:15507662`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318|exam:15505520|exam:15507654|exam:15507662>
 
-## Veranstaltungen (53)
+## Veranstaltungen (52)
 
 ### 64013 Grundlagen der Kulturgeographie I
 
@@ -248,6 +258,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:15507456` · **unitId:** `76477`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318|exam:15505520|exam:15507455|exam:15507456>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76477&periodId=589>
+
+### 73803 Beschreiben und vergleichendes Sehen
+
+- **Segment:** `exam:15924800` · **unitId:** `137607`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318|exam:15505520|exam:15507455|exam:15924800>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137607&periodId=589>
 
 ### 73812 Propädeutik - Ikonographie
 
@@ -416,18 +432,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:15507859` · **unitId:** `76658`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318|exam:15505520|exam:15507796|exam:15507859>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76658&periodId=589>
-
-### 76003 Modernes Chinesisch 1
-
-- **Segment:** `exam:15507627` · **unitId:** `76493`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318|exam:15505520|exam:15507626|exam:15507627>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76493&periodId=589>
-
-### 76026 Geschichte und Kultur Chinas
-
-- **Segment:** `exam:15507631` · **unitId:** `127927`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18318|exam:15505520|exam:15507626|exam:15507631>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127927&periodId=589>
 
 ### 76840 Einführung
 

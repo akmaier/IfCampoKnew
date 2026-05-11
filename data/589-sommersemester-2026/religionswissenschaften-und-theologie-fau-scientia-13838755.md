@@ -507,7 +507,7 @@ _Section: FAU Scientia Gaststudium_
 | — | wöchentlich | — | 06.08.2026 13.08.2026 03.09.2026 24.09.2026 | — |
 | — | wöchentlich | — | 07.08.2026 14.08.2026 04.09.2026 25.09.2026 | — |
 
-### KG I: VL - VL: Kirchen- und Theologiegeschichte im Überblick I: das Christentum in der Antike - neu - Vorlesung
+### KG I: VL - VL: Kirchen- und Theologiegeschichte im Überblick I: das Christentum in der Antike - Vorlesung
 
 - **Segment:** `exam:13838801` · **unitId:** `103744`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:13838801>

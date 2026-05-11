@@ -5,7 +5,7 @@ campo_segment: "title:17987"
 campo_path: "title:17593|title:17598|title:17987"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17987"
 po_version_count: 0
-course_count: 21
+course_count: 24
 ---
 
 # Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
@@ -14,7 +14,17 @@ course_count: 21
 
 _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprachkurse_  
 
-## Veranstaltungen (21)
+## Veranstaltungen (24)
+
+### Data Science: Ökonometrie - Softskills - Übung
+
+- **Segment:** `exam:15925196` · **unitId:** `85722`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17987|exam:15688857|exam:15925196>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85722&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Data Science: Ökonometrie - Vorlesung
 
@@ -32,6 +42,48 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | wöchentlich | — | 25.05.2026 | — |
+
+### Data Science: Ökonometrie-Tutorium - Tutorium
+
+- **Segment:** `exam:15925188` · **unitId:** `88450`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17987|exam:15688857|exam:15925188>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88450&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 25.05.2026 | — |
+| — | wöchentlich | — | 25.05.2026 | — |
+| — | wöchentlich | — | 26.05.2026 | — |
+| — | wöchentlich | — | — | — |
+| — | wöchentlich | — | — | — |
+
+### Data Science: Ökonometrie-Übung - Übung
+
+- **Segment:** `exam:15925180` · **unitId:** `91502`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17987|exam:15688857|exam:15925180>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91502&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 25.05.2026 | — |
+| — | wöchentlich | — | 25.05.2026 | — |
+| — | wöchentlich | — | 26.05.2026 | — |
+| — | wöchentlich | — | 26.05.2026 | — |
+| — | wöchentlich | — | — | — |
+| — | wöchentlich | — | — | — |
+| — | wöchentlich | — | — | — |
 
 ### Excel für Insurance und Finance (Excel for insurance and finance) - Seminar
 

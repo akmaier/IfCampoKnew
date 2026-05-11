@@ -674,7 +674,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 | — |
+| — | wöchentlich | — | 15.04.2026 13.05.2026 | — |
 
 ### Einführung in die Angewandte Ethik - Proseminar / Mittelseminar
 
@@ -1314,7 +1314,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1830,7 +1830,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | — | wöchentlich | — | 24.04.2026 01.05.2026 15.05.2026 29.05.2026 05.06.2026 19.06.2026 26.06.2026 10.07.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:15688653` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17984|exam:15688472|exam:15688653>
@@ -3449,7 +3449,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
 
-### KG I: VL - VL: Kirchen- und Theologiegeschichte im Überblick I: das Christentum in der Antike - neu - Vorlesung
+### KG I: VL - VL: Kirchen- und Theologiegeschichte im Überblick I: das Christentum in der Antike - Vorlesung
 
 - **Segment:** `exam:15688728` · **unitId:** `103744`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17984|exam:15688724|exam:15688728>

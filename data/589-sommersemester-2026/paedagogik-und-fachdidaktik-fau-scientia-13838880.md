@@ -308,6 +308,7 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | wöchentlich | — | 14.05.2026 04.06.2026 | 180 |
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
 
 ### AN_PSTEPS - Teaching English at German Primary (and Secondary Modern) Schools - Hauptseminar
 

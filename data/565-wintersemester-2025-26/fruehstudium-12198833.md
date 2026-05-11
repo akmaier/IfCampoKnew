@@ -476,7 +476,7 @@ _Section: Frühstudium_
 |---|---|---|---|---|
 | — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
 
-### Dänisch: SK I / EK I - Übung
+### Dänisch: SK I / EK I (GeR A1) - Übung
 
 - **Segment:** `exam:12198876` · **unitId:** `85163`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16762|exam:12198833|exam:12198876>
@@ -494,7 +494,7 @@ _Section: Frühstudium_
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Dänisch: SK III / Elementarkurs III - Übung
+### Dänisch: SK III / Elementarkurs III (GeR B1) - Übung
 
 - **Segment:** `exam:12198877` · **unitId:** `92847`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16762|exam:12198833|exam:12198877>
@@ -935,7 +935,7 @@ _Section: Frühstudium_
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 | — | wöchentlich | — | 05.11.2025 24.12.2025 31.12.2025 | — |
 
-### Norwegisch: EK I - Übung
+### Norwegisch: Elementarkurs  I (GeR A1) - Übung
 
 - **Segment:** `exam:12198965` · **unitId:** `83927`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16762|exam:12198833|exam:12198965>
@@ -953,7 +953,7 @@ _Section: Frühstudium_
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
 
-### Norwegisch: SK I - Übung
+### Norwegisch: SK I (GeR A1) - Übung
 
 - **Segment:** `exam:12198966` · **unitId:** `90937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16762|exam:12198833|exam:12198966>

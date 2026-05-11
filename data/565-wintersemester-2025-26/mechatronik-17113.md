@@ -12434,6 +12434,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
 | — | Einzeltermin | — | — | 30 |
+| — | Einzeltermin | — | — | 30 |
 
 ### Tut Sen - Sensorik / Sensors (Tutorium) - Tutorium
 
@@ -12451,6 +12452,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
 | — | Einzeltermin | — | — | 30 |
+| — | Einzeltermin | — | — | 30 |
 
 ### Tut Sen - Sensorik / Sensors (Tutorium) - Tutorium
 
@@ -12467,6 +12469,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
+| — | Einzeltermin | — | — | 30 |
 | — | Einzeltermin | — | — | 30 |
 
 ### TutzuDigit - Tutorium zu Digitaltechnik - Tutorium

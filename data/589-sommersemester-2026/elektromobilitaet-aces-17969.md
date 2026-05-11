@@ -863,7 +863,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| Mo | 16:30 - 17:30 | — | — | 11906.01.040 (H20) |
 
 ### 46601 Statik und Festigkeitslehre - Leistung
 
@@ -893,7 +893,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| Mi | 09:00 - 11:00 | — | — | 11906.01.040 (H20) |
 
 ### 46934 Characterization Techniques for Electrochemical Cells
 

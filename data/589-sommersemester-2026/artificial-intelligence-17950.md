@@ -5,7 +5,7 @@ campo_segment: "title:17950"
 campo_path: "title:17593|title:17601|title:17950"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17950"
 po_version_count: 1
-course_count: 84
+course_count: 85
 fau_studiengang:
   - title: "Artificial Intelligence (B.Sc.)"
     rel_path: "studiengang/artificial-intelligence-b-sc.md"
@@ -332,7 +332,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14689041`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17950|exam:14689039|exam:14689040|exam:14689041>
 
-## Veranstaltungen (84)
+## Veranstaltungen (85)
 
 ### AI Fundamentals 2 (AIF2) - Vorlesung mit Übung
 
@@ -349,10 +349,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.04.2026 25.05.2026 | 10 |
-| — | wöchentlich | — | 14.04.2026 26.05.2026 | 10 |
-| — | wöchentlich | — | 16.04.2026 07.05.2026 14.05.2026 04.06.2026 | 10 |
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | 10 |
+| — | wöchentlich | — | 13.04.2026 25.05.2026 13.07.2026 | 10 |
+| — | wöchentlich | — | 14.04.2026 26.05.2026 14.07.2026 | 10 |
+| — | wöchentlich | — | 16.04.2026 07.05.2026 14.05.2026 04.06.2026 16.07.2026 | 10 |
+| — | wöchentlich | — | 01.05.2026 05.06.2026 17.07.2026 | 10 |
 
 ### Exercise Mathematics for Engineers II - Übung
 
@@ -532,6 +532,20 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | - | — | — | — |
+
+### 30233 Portugiesisch: Elementarkurs I - Leistung
+
+- **Segment:** `exam:14689032` · **unitId:** `37612`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17950|exam:14687132|exam:14689018|exam:14689032>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37612&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | 14:30 - 16:00 | — | — | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### 30971 Einführung in das Software Engineering - Leistung
 

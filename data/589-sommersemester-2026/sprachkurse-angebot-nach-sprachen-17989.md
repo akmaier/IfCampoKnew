@@ -800,7 +800,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
 
-### Isländisch: EK II ONLINE - Übung
+### Isländisch: EK II ONLINE (GeR A2) - Übung
 
 - **Segment:** `exam:13826313` · **unitId:** `104574`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17989|title:18015|title:18155|exam:13826313>
@@ -929,12 +929,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:15–13:45 | 24.07.2026 | — |
-
 ### Schwedisch: Multimedialer Online-Kurs bayernweit: Leseverstehen für Fortgeschrittene - Klara, färdiga, gå! B1 - Übung
 
 - **Segment:** `exam:13826113` · **unitId:** `82496`
@@ -945,12 +939,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:15–11:45 | 24.07.2026 | — |
 
 ### Spanisch: ELE.O A1 - virtueller Kurs A1  - Online-Kurs
 

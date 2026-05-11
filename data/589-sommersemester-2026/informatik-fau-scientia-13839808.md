@@ -1172,7 +1172,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | 74 |
+| — | wöchentlich | — | 25.05.2026 | 74 |
 
 ### OSS-PROJ - Applied Software Engineering Master-Projekt - Projekt
 

@@ -519,7 +519,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 09:00 - 10:30 | — | — | 56901.00.013 (Seminarraum 2 (Vorbelegungsrecht HTA Departments für SS bis 15.02.26)) |
+| Fr | 09:00 - 10:30 | — | — | 56901.00.013 (Seminarraum 2 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26)) |
 
 ### 24071 Logic and Symbolic Artificial Intelligence - Leistung
 
@@ -1297,7 +1297,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | 31 |
 
-### LSAI-E - Logic and Symbolic Artificial Intelligence, Exercises - Übung
+### LSAI-E - Logic and Symbolic Artificial Intelligence (LSAI) Exercises - Übung
 
 - **Segment:** `exam:12669447` · **unitId:** `129482`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17120|exam:12667824|exam:12669443|exam:12669447>
@@ -1314,7 +1314,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | 12 |
 
-### LSAI-T - Logic and Symbolic Artificial Intelligence, Theory - Vorlesung
+### LSAI-T - Logic and Symbolic Artificial Intelligence (LSAI) Theory - Vorlesung
 
 - **Segment:** `exam:12669445` · **unitId:** `129480`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17120|exam:12667824|exam:12669443|exam:12669445>

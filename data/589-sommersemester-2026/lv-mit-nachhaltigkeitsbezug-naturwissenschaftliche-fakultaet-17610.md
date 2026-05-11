@@ -532,7 +532,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 22.04.2026 10.06.2026 01.07.2026 | — |
+| — | wöchentlich | — | 15.04.2026 22.04.2026 13.05.2026 10.06.2026 01.07.2026 | — |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -548,7 +548,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 22.04.2026 10.06.2026 01.07.2026 | — |
+| — | wöchentlich | — | 15.04.2026 22.04.2026 13.05.2026 10.06.2026 01.07.2026 | — |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -564,7 +564,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 22.04.2026 10.06.2026 01.07.2026 | — |
+| — | wöchentlich | — | 15.04.2026 22.04.2026 13.05.2026 10.06.2026 01.07.2026 | — |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -580,7 +580,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 22.04.2026 10.06.2026 01.07.2026 | — |
+| — | wöchentlich | — | 15.04.2026 22.04.2026 13.05.2026 10.06.2026 01.07.2026 | — |
 
 ### VLEC - Ernährungslehre:  Chemosensorik - Vorlesung
 
@@ -596,4 +596,4 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.06.2026 01.07.2026 | — |
+| — | wöchentlich | — | 13.05.2026 10.06.2026 01.07.2026 | — |

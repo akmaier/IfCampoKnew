@@ -5,7 +5,7 @@ campo_segment: "title:17335"
 campo_path: "title:16758|title:16760|title:17335"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17335"
 po_version_count: 0
-course_count: 16
+course_count: 18
 ---
 
 # Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
@@ -14,7 +14,7 @@ course_count: 16
 
 _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprachkurse_  
 
-## Veranstaltungen (16)
+## Veranstaltungen (18)
 
 ### An Introduction to Science Technology Studies - Seminar
 
@@ -32,6 +32,32 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | 10 |
+
+### Data Science: Ökonometrie - Softskills - Übung
+
+- **Segment:** `exam:15925195` · **unitId:** `85722`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17335|exam:12189986|exam:15925195>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85722&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:00–09:45 | 13.10.2025 | — |
+
+### Data Science: Ökonometrie-Tutorium - Tutorium
+
+- **Segment:** `exam:15925187` · **unitId:** `88450`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17335|exam:12189986|exam:15925187>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88450&periodId=565>
+
+- **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Excel für Insurance und Finance (Excel for insurance and finance) - Seminar
 

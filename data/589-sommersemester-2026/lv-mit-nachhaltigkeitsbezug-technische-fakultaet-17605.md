@@ -109,6 +109,12 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | Online vhb Kurs. Terminplanung s. StudOn |
+
 ### Nano-Bauelemente-Sensoren - Vorlesung mit Übung
 
 - **Segment:** `exam:15783702` · **unitId:** `126629`

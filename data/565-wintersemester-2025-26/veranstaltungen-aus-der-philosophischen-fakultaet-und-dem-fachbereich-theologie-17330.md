@@ -1911,7 +1911,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 
-### Recent publications in the philosophy and ethics of AI - Hauptseminar / Masterseminar
+### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:12190555` · **unitId:** `126923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17330|exam:12190374|exam:12190555>

@@ -5,7 +5,7 @@ campo_segment: "title:17170"
 campo_path: "title:16758|title:16763|title:17170"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170"
 po_version_count: 4
-course_count: 211
+course_count: 212
 fau_studiengang:
   - title: "Skandinavistik (B.A.)"
     rel_path: "studiengang/skandinavistik-b-a.md"
@@ -265,7 +265,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:13761990`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:13761988|exam:13761989|exam:13761990>
 
-## Veranstaltungen (211)
+## Veranstaltungen (212)
 
 ### AM Perf. / AM Kultwiss. / AM Narr.: Schrift trifft Leinwand: Literatur und Film im Dialog - Übung
 
@@ -871,7 +871,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
 
-### Dänisch: SK I / EK I - Übung
+### Dänisch: SK I / EK I (GeR A1) - Übung
 
 - **Segment:** `exam:12944283` · **unitId:** `85163`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12942753|exam:12944281|exam:12944283>
@@ -889,7 +889,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Dänisch: SK I / EK I - Übung
+### Dänisch: SK I / EK I (GeR A1) - Übung
 
 - **Segment:** `exam:12944302` · **unitId:** `85163`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12942753|exam:12944299|exam:12944302>
@@ -907,7 +907,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Dänisch: SK I / EK I - Übung
+### Dänisch: SK I / EK I (GeR A1) - Übung
 
 - **Segment:** `exam:12947469` · **unitId:** `85163`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12945798|exam:12947467|exam:12947469>
@@ -925,7 +925,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Dänisch: SK I / EK I - Übung
+### Dänisch: SK I / EK I (GeR A1) - Übung
 
 - **Segment:** `exam:12947488` · **unitId:** `85163`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12945798|exam:12947485|exam:12947488>
@@ -943,7 +943,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Dänisch: SK I / EK I - Übung
+### Dänisch: SK I / EK I (GeR A1) - Übung
 
 - **Segment:** `exam:12949088` · **unitId:** `85163`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12948984|exam:12949086|exam:12949088>
@@ -961,7 +961,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Dänisch: SK I / EK I - Übung
+### Dänisch: SK I / EK I (GeR A1) - Übung
 
 - **Segment:** `exam:12949107` · **unitId:** `85163`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12948984|exam:12949104|exam:12949107>
@@ -979,7 +979,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Dänisch: SK I / EK I - Übung
+### Dänisch: SK I / EK I (GeR A1) - Übung
 
 - **Segment:** `exam:12950697` · **unitId:** `85163`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12950594|exam:12950695|exam:12950697>
@@ -997,7 +997,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Dänisch: SK I / EK I - Übung
+### Dänisch: SK I / EK I (GeR A1) - Übung
 
 - **Segment:** `exam:12950716` · **unitId:** `85163`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12950594|exam:12950713|exam:12950716>
@@ -1015,7 +1015,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Dänisch: SK III / Elementarkurs III - Übung
+### Dänisch: SK III / Elementarkurs III (GeR B1) - Übung
 
 - **Segment:** `exam:12944322` · **unitId:** `92847`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12942753|exam:12944319|exam:12944322>
@@ -1033,7 +1033,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
 
-### Dänisch: SK III / Elementarkurs III - Übung
+### Dänisch: SK III / Elementarkurs III (GeR B1) - Übung
 
 - **Segment:** `exam:12947508` · **unitId:** `92847`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12945798|exam:12947505|exam:12947508>
@@ -1051,7 +1051,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
 
-### Dänisch: SK III / Elementarkurs III - Übung
+### Dänisch: SK III / Elementarkurs III (GeR B1) - Übung
 
 - **Segment:** `exam:12949127` · **unitId:** `92847`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12948984|exam:12949124|exam:12949127>
@@ -1069,7 +1069,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
 
-### Dänisch: SK III / Elementarkurs III - Übung
+### Dänisch: SK III / Elementarkurs III (GeR B1) - Übung
 
 - **Segment:** `exam:12950736` · **unitId:** `92847`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12950594|exam:12950733|exam:12950736>
@@ -1231,7 +1231,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Isländisch: Elementarkurs I - ONLINE - Kurs
+### Isländisch: Elementarkurs I - ONLINE (GeR A1) - Kurs
 
 - **Segment:** `exam:12944282` · **unitId:** `92069`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12942753|exam:12944281|exam:12944282>
@@ -1249,7 +1249,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 12.11.2025 24.12.2025 31.12.2025 | — |
 | — | wöchentlich | — | 24.11.2025 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Isländisch: Elementarkurs I - ONLINE - Kurs
+### Isländisch: Elementarkurs I - ONLINE (GeR A1) - Kurs
 
 - **Segment:** `exam:12947468` · **unitId:** `92069`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12945798|exam:12947467|exam:12947468>
@@ -1267,7 +1267,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 12.11.2025 24.12.2025 31.12.2025 | — |
 | — | wöchentlich | — | 24.11.2025 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Isländisch: Elementarkurs I - ONLINE - Kurs
+### Isländisch: Elementarkurs I - ONLINE (GeR A1) - Kurs
 
 - **Segment:** `exam:12949087` · **unitId:** `92069`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12948984|exam:12949086|exam:12949087>
@@ -1285,7 +1285,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 12.11.2025 24.12.2025 31.12.2025 | — |
 | — | wöchentlich | — | 24.11.2025 22.12.2025 29.12.2025 05.01.2026 | — |
 
-### Isländisch: Elementarkurs I - ONLINE - Kurs
+### Isländisch: Elementarkurs I - ONLINE (GeR A1) - Kurs
 
 - **Segment:** `exam:12950696` · **unitId:** `92069`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12950594|exam:12950695|exam:12950696>
@@ -1371,7 +1371,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
 
-### Norwegisch: SK I - Übung
+### Norwegisch: SK I (GeR A1) - Übung
 
 - **Segment:** `exam:12944285` · **unitId:** `90937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12942753|exam:12944281|exam:12944285>
@@ -1389,7 +1389,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Norwegisch: SK I - Übung
+### Norwegisch: SK I (GeR A1) - Übung
 
 - **Segment:** `exam:12944301` · **unitId:** `90937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12942753|exam:12944299|exam:12944301>
@@ -1407,7 +1407,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Norwegisch: SK I - Übung
+### Norwegisch: SK I (GeR A1) - Übung
 
 - **Segment:** `exam:12947471` · **unitId:** `90937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12945798|exam:12947467|exam:12947471>
@@ -1425,7 +1425,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Norwegisch: SK I - Übung
+### Norwegisch: SK I (GeR A1) - Übung
 
 - **Segment:** `exam:12947487` · **unitId:** `90937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12945798|exam:12947485|exam:12947487>
@@ -1443,7 +1443,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Norwegisch: SK I - Übung
+### Norwegisch: SK I (GeR A1) - Übung
 
 - **Segment:** `exam:12949090` · **unitId:** `90937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12948984|exam:12949086|exam:12949090>
@@ -1461,7 +1461,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Norwegisch: SK I - Übung
+### Norwegisch: SK I (GeR A1) - Übung
 
 - **Segment:** `exam:12949106` · **unitId:** `90937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12948984|exam:12949104|exam:12949106>
@@ -1479,7 +1479,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Norwegisch: SK I - Übung
+### Norwegisch: SK I (GeR A1) - Übung
 
 - **Segment:** `exam:12950699` · **unitId:** `90937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12950594|exam:12950695|exam:12950699>
@@ -1497,7 +1497,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Norwegisch: SK I - Übung
+### Norwegisch: SK I (GeR A1) - Übung
 
 - **Segment:** `exam:12950715` · **unitId:** `90937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12950594|exam:12950713|exam:12950715>
@@ -1515,7 +1515,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
 | — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
 
-### Norwegisch: SK III / EK III - Übung
+### Norwegisch: SK III / EK III (GeR B1) - Übung
 
 - **Segment:** `exam:12944321` · **unitId:** `90057`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12942753|exam:12944319|exam:12944321>
@@ -1533,7 +1533,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
 
-### Norwegisch: SK III / EK III - Übung
+### Norwegisch: SK III / EK III (GeR B1) - Übung
 
 - **Segment:** `exam:12947507` · **unitId:** `90057`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12945798|exam:12947505|exam:12947507>
@@ -1551,7 +1551,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
 
-### Norwegisch: SK III / EK III - Übung
+### Norwegisch: SK III / EK III (GeR B1) - Übung
 
 - **Segment:** `exam:12949126` · **unitId:** `90057`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12948984|exam:12949124|exam:12949126>
@@ -1569,7 +1569,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
 | — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
 
-### Norwegisch: SK III / EK III - Übung
+### Norwegisch: SK III / EK III (GeR B1) - Übung
 
 - **Segment:** `exam:12950735` · **unitId:** `90057`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12950594|exam:12950733|exam:12950735>
@@ -1969,6 +1969,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13579889` · **unitId:** `130406`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12945798|exam:13579889>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130406&periodId=565>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Indogermanistik und Indoiranistik Zweitfach 20162)
+
+- **Segment:** `exam:15924825` · **unitId:** `121378`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17170|exam:12942753|exam:15924825>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121378&periodId=565>
 
 ### 1999 Bachelorarbeit (B.A.,2Fäch Skandinavistik Erstfach 20192)
 

@@ -833,7 +833,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
 
-### Isländisch: Elementarkurs I - ONLINE - Kurs
+### Isländisch: Elementarkurs I - ONLINE (GeR A1) - Kurs
 
 - **Segment:** `exam:12191271` · **unitId:** `92069`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17347|title:17500|exam:12191271>

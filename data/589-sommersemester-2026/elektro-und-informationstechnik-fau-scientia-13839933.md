@@ -340,7 +340,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
+| — | wöchentlich | — | 05.05.2026 26.05.2026 | — |
 | — | Einzeltermin | — | — | — |
 | — | Einzeltermin | — | — | — |
 

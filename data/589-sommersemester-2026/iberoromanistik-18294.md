@@ -5,7 +5,7 @@ campo_segment: "title:18294"
 campo_path: "title:17593|title:17595|title:18294"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18294"
 po_version_count: 5
-course_count: 60
+course_count: 63
 fau_studiengang:
   - title: "Iberoromanistik (B.A.)"
     rel_path: "studiengang/iberoromanistik-b-a.md"
@@ -266,7 +266,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:15293864`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18294|exam:15293766|exam:15293848|exam:15293864>
 
-## Veranstaltungen (60)
+## Veranstaltungen (63)
 
 ### BA-6 Modernes Chinesisch 6 - Seminar und Übung
 
@@ -518,6 +518,51 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15717456` · **unitId:** `123872`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18294|exam:15283958|exam:15717456>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123872&periodId=589>
+
+### 23831 Español intermedio II (Klausur) - Leistung
+
+- **Segment:** `exam:15293897` · **unitId:** `76778`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18294|exam:15293766|exam:15293894|exam:15293897>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76778&periodId=589>
+
+- **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Spanisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | 10:15 - 11:45 | — | — | 05701.00.010 ( 00.010 Übungsraum 1) |
+
+### 23832 Introducción a la cultura hispanoamericana (mündlich) - Leistung
+
+- **Segment:** `exam:15293898` · **unitId:** `76779`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18294|exam:15293766|exam:15293894|exam:15293898>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76779&periodId=589>
+
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Spanisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | 09:00 - 11:00 | — | — | 05701.00.010 ( 00.010 Übungsraum 1) |
+
+### 26322 Basisseminar Spanische Literaturwissenschaft - Leistung
+
+- **Segment:** `exam:15293906` · **unitId:** `40417`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18294|exam:15293766|exam:15293904|exam:15293906>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40417&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | - | — | — | — |
 
 ### 72373 Spanische Sprachpraxis 1
 

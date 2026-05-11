@@ -5,7 +5,7 @@ campo_segment: "title:18247"
 campo_path: "title:17593|title:17595|title:18247"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247"
 po_version_count: 0
-course_count: 256
+course_count: 263
 fau_studiengang:
   - title: "Skandinavistik (B.A.)"
     rel_path: "studiengang/skandinavistik-b-a.md"
@@ -243,7 +243,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (256)
+## Veranstaltungen (263)
 
 ### AM Kulturwissenschaft: Weltliteratur aus Dänemark: Transkulturelle und transmediale Formationen im Werk Karen Blixens/Isak Dinesens - Seminar
 
@@ -1435,7 +1435,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15163390` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15161748|exam:15163388|exam:15163390>
@@ -1453,7 +1453,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15163409` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15161748|exam:15163404|exam:15163409>
@@ -1471,7 +1471,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15166794` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15164997|exam:15166792|exam:15166794>
@@ -1489,7 +1489,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15166813` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15164997|exam:15166808|exam:15166813>
@@ -1507,7 +1507,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15788700` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15168402|exam:15170102|exam:15788700>
@@ -1525,7 +1525,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15171800` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15171659|exam:15171798|exam:15171800>
@@ -1543,7 +1543,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15171819` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15171659|exam:15171814|exam:15171819>
@@ -1561,7 +1561,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15173536` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15173394|exam:15173534|exam:15173536>
@@ -1579,7 +1579,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15173555` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15173394|exam:15173550|exam:15173555>
@@ -1597,7 +1597,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs II / SK II - Übung
+### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15788701` · **unitId:** `111353`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15175130|exam:15175168|exam:15788701>
@@ -1615,7 +1615,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Dänisch: Elementarkurs IV / SK IV - Übung
+### Dänisch: Elementarkurs IV / SK IV  (GeR B2) - Übung
 
 - **Segment:** `exam:15163432` · **unitId:** `111355`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15161748|exam:15163426|exam:15163432>
@@ -1633,7 +1633,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Dänisch: Elementarkurs IV / SK IV - Übung
+### Dänisch: Elementarkurs IV / SK IV  (GeR B2) - Übung
 
 - **Segment:** `exam:15166836` · **unitId:** `111355`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15164997|exam:15166830|exam:15166836>
@@ -1651,7 +1651,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Dänisch: Elementarkurs IV / SK IV - Übung
+### Dänisch: Elementarkurs IV / SK IV  (GeR B2) - Übung
 
 - **Segment:** `exam:15788723` · **unitId:** `111355`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15168402|exam:15170111|exam:15788723>
@@ -1669,7 +1669,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Dänisch: Elementarkurs IV / SK IV - Übung
+### Dänisch: Elementarkurs IV / SK IV  (GeR B2) - Übung
 
 - **Segment:** `exam:15171842` · **unitId:** `111355`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15171659|exam:15171836|exam:15171842>
@@ -1687,7 +1687,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Dänisch: Elementarkurs IV / SK IV - Übung
+### Dänisch: Elementarkurs IV / SK IV  (GeR B2) - Übung
 
 - **Segment:** `exam:15173578` · **unitId:** `111355`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15173394|exam:15173572|exam:15173578>
@@ -1705,7 +1705,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Dänisch: Elementarkurs IV / SK IV - Übung
+### Dänisch: Elementarkurs IV / SK IV  (GeR B2) - Übung
 
 - **Segment:** `exam:15788724` · **unitId:** `111355`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15175130|exam:15175177|exam:15788724>
@@ -1723,7 +1723,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Isländisch: EK II ONLINE - Übung
+### Isländisch: EK II ONLINE (GeR A2) - Übung
 
 - **Segment:** `exam:15163395` · **unitId:** `104574`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15161748|exam:15163388|exam:15163395>
@@ -1741,7 +1741,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Isländisch: EK II ONLINE - Übung
+### Isländisch: EK II ONLINE (GeR A2) - Übung
 
 - **Segment:** `exam:15166799` · **unitId:** `104574`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15164997|exam:15166792|exam:15166799>
@@ -1759,7 +1759,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Isländisch: EK II ONLINE - Übung
+### Isländisch: EK II ONLINE (GeR A2) - Übung
 
 - **Segment:** `exam:15171805` · **unitId:** `104574`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15171659|exam:15171798|exam:15171805>
@@ -1777,7 +1777,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Isländisch: EK II ONLINE - Übung
+### Isländisch: EK II ONLINE (GeR A2) - Übung
 
 - **Segment:** `exam:15173541` · **unitId:** `104574`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15173394|exam:15173534|exam:15173541>
@@ -1795,7 +1795,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15163389` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15161748|exam:15163388|exam:15163389>
@@ -1813,7 +1813,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15163410` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15161748|exam:15163404|exam:15163410>
@@ -1831,7 +1831,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15166793` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15164997|exam:15166792|exam:15166793>
@@ -1849,7 +1849,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15166814` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15164997|exam:15166808|exam:15166814>
@@ -1867,7 +1867,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15788627` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15168402|exam:15170102|exam:15788627>
@@ -1885,7 +1885,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15171799` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15171659|exam:15171798|exam:15171799>
@@ -1903,7 +1903,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15171820` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15171659|exam:15171814|exam:15171820>
@@ -1921,7 +1921,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15173535` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15173394|exam:15173534|exam:15173535>
@@ -1939,7 +1939,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15173556` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15173394|exam:15173550|exam:15173556>
@@ -1957,7 +1957,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK II - Übung
+### Norwegisch: SK II (GeR A2) - Übung
 
 - **Segment:** `exam:15788628` · **unitId:** `100444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15175130|exam:15175168|exam:15788628>
@@ -1975,7 +1975,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 26.05.2026 | — |
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
-### Norwegisch: SK IV / EK IV - Übung
+### Norwegisch: SK IV / EK IV (GeR B2) - Übung
 
 - **Segment:** `exam:15163427` · **unitId:** `104491`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15161748|exam:15163426|exam:15163427>
@@ -1993,7 +1993,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Norwegisch: SK IV / EK IV - Übung
+### Norwegisch: SK IV / EK IV (GeR B2) - Übung
 
 - **Segment:** `exam:15166831` · **unitId:** `104491`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15164997|exam:15166830|exam:15166831>
@@ -2011,7 +2011,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Norwegisch: SK IV / EK IV - Übung
+### Norwegisch: SK IV / EK IV (GeR B2) - Übung
 
 - **Segment:** `exam:15788727` · **unitId:** `104491`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15168402|exam:15170111|exam:15788727>
@@ -2029,7 +2029,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Norwegisch: SK IV / EK IV - Übung
+### Norwegisch: SK IV / EK IV (GeR B2) - Übung
 
 - **Segment:** `exam:15171837` · **unitId:** `104491`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15171659|exam:15171836|exam:15171837>
@@ -2047,7 +2047,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Norwegisch: SK IV / EK IV - Übung
+### Norwegisch: SK IV / EK IV (GeR B2) - Übung
 
 - **Segment:** `exam:15173573` · **unitId:** `104491`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15173394|exam:15173572|exam:15173573>
@@ -2065,7 +2065,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | — | wöchentlich | — | 25.05.2026 | — |
 | — | wöchentlich | — | — | — |
 
-### Norwegisch: SK IV / EK IV - Übung
+### Norwegisch: SK IV / EK IV (GeR B2) - Übung
 
 - **Segment:** `exam:15788728` · **unitId:** `104491`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15175130|exam:15175177|exam:15788728>
@@ -2252,6 +2252,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15166874` · **unitId:** `130406`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15164997|exam:15166874>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130406&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Indogermanistik und Indoiranistik Zweitfach 20162)
+
+- **Segment:** `exam:15924821` · **unitId:** `121378`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15161748|exam:15924821>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121378&periodId=589>
 
 ### 1999 Bachelorarbeit (B.A.,2Fäch Skandinavistik Erstfach 20192)
 
@@ -2618,6 +2624,66 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | 16:15 - 17:45 | — | 07.06.2026 23:59:59 | — |
+
+### 46455 Isländisch II - Leistung
+
+- **Segment:** `exam:15163394` · **unitId:** `69602`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15161748|exam:15163388|exam:15163394>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69602&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | - | — | — | — |
+
+### 46455 Isländisch II - Leistung
+
+- **Segment:** `exam:15166798` · **unitId:** `69602`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15164997|exam:15166792|exam:15166798>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69602&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | - | — | — | — |
+
+### 46455 Isländisch II - Leistung
+
+- **Segment:** `exam:15171804` · **unitId:** `69602`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15171659|exam:15171798|exam:15171804>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69602&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | - | — | — | — |
+
+### 46455 Isländisch II - Leistung
+
+- **Segment:** `exam:15173540` · **unitId:** `69602`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15173394|exam:15173534|exam:15173540>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69602&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | - | — | — | — |
 
 ### 46461 Sprachanalyse - Leistung
 
@@ -3419,6 +3485,36 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15175169` · **unitId:** `133039`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15175130|exam:15175168|exam:15175169>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133039&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | 12:15 - 13:45 | — | — | — |
+
+### 47623 Dänisch II - Leistung
+
+- **Segment:** `exam:15170104` · **unitId:** `133040`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15168402|exam:15170102|exam:15170104>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133040&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | 12:15 - 13:45 | — | — | — |
+
+### 47623 Dänisch II - Leistung
+
+- **Segment:** `exam:15175170` · **unitId:** `133040`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18247|exam:15175130|exam:15175168|exam:15175170>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133040&periodId=589>
 
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch

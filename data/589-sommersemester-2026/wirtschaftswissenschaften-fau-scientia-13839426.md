@@ -600,8 +600,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 | — |
-| — | wöchentlich | — | 15.04.2026 | — |
+| — | wöchentlich | — | 15.04.2026 27.05.2026 | — |
+| — | wöchentlich | — | 15.04.2026 27.05.2026 | — |
 
 ### FEST - Financial Engineering und Structured Finance (VL) - Vorlesung
 
@@ -700,6 +700,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Do | 11:00–12:30 | 30.04.2026 | — |
+| Einzeltermin | Do | 11:30–12:30 | 07.05.2026 | — |
+| Einzeltermin | Mi | 11:30–12:30 | 13.05.2026 | — |
 
 ### SPIW Lecture - BA L Social Policy in an Interdependent World (V2: BA SPIW) - Vorlesung
 
