@@ -75,12 +75,14 @@ Course events carry `unit_id` instead. They appear inside program files as
     │                                    (~5 200 modules across 679 POs).
     ├── pflichtveranstaltungen.md      ← Pflicht sections per PO + matched Campo
     │                                    courses (token-overlap heuristic).
-    ├── profs-ohne-pflichtlehre.md     ← FAUdir-confirmed Profs (with W-Rang) without
-    │                                    Pflicht teaching
-    ├── profs-mit-pflichtlehre.md      ← FAUdir-confirmed Profs WITH Pflicht teaching
-    │                                    (with their Pflicht-courses listed). Together
-    │                                    with profs-ohne-* this partitions the FAUdir-
-    │                                    matched cohort.
+    ├── profs-pflichtlehre.md          ← FAUdir-confirmed Professor:innen (Prof./apl.
+    │                                    Prof./Hon. Prof./Ass.-Prof./Juniorprofessor),
+    │                                    grouped by W-Rang. Each person carries a
+    │                                    "Pflicht-Status: mit / ohne Pflichtlehre"
+    │                                    line plus their full teaching load
+    │                                    (Pflicht-V. first when present, then Weitere
+    │                                    Lehre). Replaces the previous split files
+    │                                    profs-mit-pflichtlehre.md + profs-ohne-*.
     └── lehrende-ohne-pflicht.md       ← Lehrende without Pflicht teaching whose
                                           name does NOT match any FAUdir entry
                                           (Lehrbeauftragte, externe Dozent:innen,

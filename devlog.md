@@ -1642,3 +1642,64 @@ scraper/scrape.py                     | +112 / -47  (parallel BFS path with shar
 **91 unit tests still green** at every step.
 
 **Status:** All three deferred items shipped. Next Monday's cron is the live test of the cache + parallel walker combo. The within-faculty FP audit landed a defensive cleanup; deeper precision work needs concrete user-supplied false-positive cases.
+
+## Entry 0027 — Merge profs-mit/-ohne into one `profs-pflichtlehre.md`
+
+- **Start:** 2026-05-15 20:50 CEST
+- **End:** 2026-05-15 21:10 CEST
+- **Duration:** ~20 min
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompt (verbatim):**
+
+> I don't think we should include profs-mit-pflichtlehre.md and profs-ohne-pflichtlehre.md in the analyse for the future. I think it's better to merge them to one file in future versions.
+
+**Change.** The split between `profs-mit-pflichtlehre.md` (270 Profs) and `profs-ohne-pflichtlehre.md` (272 Profs) is replaced by one file `profs-pflichtlehre.md` (543 Profs combined). Each Prof's entry now carries an explicit `Pflicht-Status: mit / ohne Pflichtlehre` line, then their full teaching load (Pflicht-V. first when present, then Weitere Lehre). The two-file partition is preserved as a per-Prof flag — no information loss.
+
+**Layout per Prof in the merged file:**
+
+```
+### {Familyname}, {Givenname} ({personalTitle})
+- **FAUdir:** [`{id}`](https://faudir.fau.de/public/person/{id})
+- **Affiliation:** {organization name}
+- **Pflicht-Status: mit Pflichtlehre** (N Pflichtveranstaltungen)    ← OR
+- **Pflicht-Status: ohne Pflichtlehre**
+- **Pflichtveranstaltungen (heuristisch):** N     ← only if has_pflicht
+  - **Wintersemester …** (n)
+    - …
+  - **Sommersemester …** (n)
+    - …
+- **Weitere Lehre (nicht Pflicht):** N            ← if non-empty
+  - …
+```
+
+W-Rang grouping (W3 / W2 / W1 / W? / Junior / apl. / Hon.) is preserved. Within each rank, *mit*-Profs come first (sorted by family name), then *ohne*-Profs.
+
+**Reconciliation fix:** the status-line count and the listing count now both use the consolidated total (e.g. Maier shows *"mit Pflichtlehre (14 Pflichtveranstaltungen)"* matching the 14 entries listed below). Previously the status line used the raw `len(info["pflicht"])` (which counts cross-listed unit_ids separately) and would have read *"(40 Veranstaltungen)"* against a 14-entry list.
+
+**File:**
+
+```
+scraper/analyze_pflicht.py     | +303 / -432  (new render_profs_pflichtlehre_md;
+                                                deleted the two superseded renderers;
+                                                main() writes one file + sweeps legacy)
+data/README.md                 | +8  / -8     (corpus layout update)
+data/analyse/                  | -2 files      (profs-mit + profs-ohne removed)
+data/analyse/profs-pflichtlehre.md | NEW (1.4 MB, 543 Profs)
+```
+
+**Numbers (cron-data, depth-6 both periods):**
+
+| metric | before | after |
+|---|--:|--:|
+| files in `data/analyse/` | 5 | **4** |
+| Prof-cohort lines | 5 418 (mit) + 3 660 (ohne) = 9 078 | 9 224 (one file) |
+| total bytes for prof data | 1 044 543 + 288 665 = 1.33 MB | **1.39 MB** |
+| FAUdir-confirmed Profs | 270 + 272 (separate files) | **543** (one file, status-flagged) |
+
+The merged file is ~60 KB bigger than the sum of the two because each Prof's *ohne*-half now also carries the Vorbehalte preamble and the W-Rang verteilung table once. The information density is unchanged.
+
+**91 unit tests still green.**
+
+**Status:** One file replaces two. The cron's analyse step writes `profs-pflichtlehre.md` and sweeps the legacy split files, so future Releases ship only the merged version.
+
