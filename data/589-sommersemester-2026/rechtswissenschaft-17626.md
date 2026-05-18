@@ -2282,7 +2282,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 05.05.2026 12.05.2026 26.05.2026 02.06.2026 09.06.2026 16.06.2026 23.06.2026 07.07.2026 | — |
+| — | wöchentlich | — | 05.05.2026 12.05.2026 26.05.2026 02.06.2026 09.06.2026 16.06.2026 23.06.2026 30.06.2026 07.07.2026 | — |
+| — | Einzeltermin | — | — | — |
 
 ### VR II - Völkerrecht II - Vorlesung
 

@@ -465,7 +465,7 @@ _Section: Frühstudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | — | 35 |
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | — |
 
 ### ILS-MA-I2B: Interactions at Biological Macromolecules (Lecture) - Vorlesung
 
@@ -676,8 +676,8 @@ _Section: Frühstudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | — | — |
-| — | wöchentlich | — | 25.05.2026 | — |
+| — | wöchentlich | — | 26.05.2026 | — |
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
 
 ### Politik geht alle an? Politiktheoretische und ideengeschichtliche Diskurse um politische Öffentlichkeit - Proseminar
 
@@ -1190,7 +1190,7 @@ _Section: Frühstudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | wöchentlich | — | 25.05.2026 | — |
-| — | wöchentlich | — | — | — |
+| — | wöchentlich | — | 15.07.2026 | — |
 
 ### CA: Ikonographie - Einführung in die christliche Ikonographie - Einführungskurs
 
@@ -1789,22 +1789,6 @@ _Section: Frühstudium_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### SuF-Tut - Tutorium zur Statik und Festigkeitslehre - Tutorium
-
-- **Segment:** `exam:13838154` · **unitId:** `91315`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838154>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 09.04.2026 14.05.2026 04.06.2026 | 181 |
-
 ### SuF-VL - Statik und Festigkeitslehre - Vorlesung
 
 - **Segment:** `exam:13838140` · **unitId:** `83320`
@@ -1821,6 +1805,22 @@ _Section: Frühstudium_
 |---|---|---|---|---|
 | — | wöchentlich | — | 25.05.2026 | 359 |
 | — | wöchentlich | — | — | 359 |
+
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+
+- **Segment:** `exam:13838154` · **unitId:** `91315`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838154>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | 181 |
 
 ### TD II - Mi - Technische Darstellungslehre II - Kurs Mi - Praktikum
 

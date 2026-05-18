@@ -890,7 +890,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | wöchentlich | — | 14.05.2026 04.06.2026 | 1 |
 
-### SuF-Tut - Tutorium zur Statik und Festigkeitslehre - Tutorium
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
 
 - **Segment:** `exam:13840069` · **unitId:** `91315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840031|exam:13840069>
@@ -904,7 +904,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 09.04.2026 14.05.2026 04.06.2026 | 181 |
+| — | wöchentlich | — | 14.05.2026 04.06.2026 | 181 |
 
 ### TO - Tribologie und Oberflächentechnik - Vorlesung
 

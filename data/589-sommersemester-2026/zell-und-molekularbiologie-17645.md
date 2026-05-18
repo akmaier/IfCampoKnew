@@ -5,7 +5,7 @@ campo_segment: "title:17645"
 campo_path: "title:17593|title:17602|title:17645"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17645"
 po_version_count: 3
-course_count: 30
+course_count: 31
 fau_studiengang:
   - title: "Zell- und Molekularbiologie (M.Sc.)"
     rel_path: "studiengang/zell-und-molekularbiologie-m-sc.md"
@@ -231,13 +231,27 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14332691`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17645|title:17862|exam:14332690|exam:14332691>
 
-## Veranstaltungen (30)
+## Veranstaltungen (31)
 
 ### 1999 Masterarbeit (M.Sc. Zell- und Molekularbiologie 20192)
 
 - **Segment:** `exam:14335941` · **unitId:** `53860`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17645|title:17861|title:17863|exam:14335941>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53860&periodId=589>
+
+### 21511 Vergleichende Verhaltens- und Kognitionsbiologie - Leistung
+
+- **Segment:** `exam:14335934` · **unitId:** `115159`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17645|title:17861|title:17866|exam:14335934>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115159&periodId=589>
+
+- **ECTS-Punkte:** 7.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | - | — | — | — |
 
 ### 42010 Zellbiologie: Signaltransduktion
 

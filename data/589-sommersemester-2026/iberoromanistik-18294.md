@@ -909,6 +909,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 12:15–13:45 | 18.05.2026–29.06.2026 | — |
+
 ### Tut. span. Lit.wiss. - Tutorium zu Basisseminar spanische Literaturwissenschaft - Tutorium
 
 - **Segment:** `exam:15787249` · **unitId:** `112573`
@@ -918,6 +924,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 12:15–13:45 | 18.05.2026–29.06.2026 | — |
+
 ### Tut. span. Lit.wiss. - Tutorium zu Basisseminar spanische Literaturwissenschaft - Tutorium
 
 - **Segment:** `exam:15787250` · **unitId:** `112573`
@@ -926,6 +938,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 12:15–13:45 | 18.05.2026–29.06.2026 | — |
 
 ### Tut. span. Phon. - Tutorium  zu Phonetik und Phonologie des Spanischen - Tutorium
 

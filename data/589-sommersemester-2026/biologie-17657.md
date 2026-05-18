@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17657"
 campo_path: "title:17593|title:17602|title:17657"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657"
-po_version_count: 41
+po_version_count: 38
 course_count: 14
 fau_studiengang:
   - title: "Biologie (B.Sc.)"
@@ -182,7 +182,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (41)
+## Prüfungsordnungs-Versionen (38)
 
 ### 1. Semester
 
@@ -198,11 +198,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Campo-Segment:** `exam:14378937`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937>
-
-### 10000 Bachelorprüfung
-
-- **Campo-Segment:** `exam:14381356`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14381354|exam:14381356>
 
 ### 2. Semester
 
@@ -268,13 +263,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Campo-Segment:** `title:17711`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17694|title:17711>
-
-### Bachelor of Education Biologie Hauptfach PO-Version 2011
-
-- **Campo-Segment:** `exam:14385952`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17691|exam:14385952>
-- **Passende PO-PDFs (FAU.de):**
-  - [PDF vom 05.08.2008 i.d.F. 15.08.2011](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/po-biologie-bama-august2011.md)
 
 ### Bachelor of Education Biologie Hauptfach PO-Version 20222
 
@@ -374,13 +362,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14387828`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17692|exam:14387828>
 
-### Lehramt Mittelschule Biologie Hauptfach PO-Version 20162
-
-- **Campo-Segment:** `exam:14387757`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17692|exam:14387757>
-- **Passende PO-PDFs (FAU.de):**
-  - [PDF vom 22.07.2015 i.d.F. 05.08.2016](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpo-bio-zellmolekbio-neu-aug2016.md)
-
 ### Lehramt Mittelschule Biologie Hauptfach PO-Version 20222
 
 - **Campo-Segment:** `exam:14387696`
@@ -389,13 +370,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
   - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718-en.md)
   - [FPOilmmune 20180319 i.d.F. 20220718.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718.md)
   - [FPOilmmune 20220718 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20220718-aes.md)
-
-### Lehramt Realschule Biologie Hauptfach PO-Version 2012
-
-- **Campo-Segment:** `exam:14387956`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17690|exam:14387956>
-- **Passende PO-PDFs (FAU.de):**
-  - [PDF vom 23.12.2009 i.d.F. 30.07.2012](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/stuopro-ba-integrated-life-sciencejuli2012.md)
 
 ### Lehramt Realschule Biologie Hauptfach PO-Version 20222
 
@@ -410,6 +384,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Campo-Segment:** `title:17712`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17694|title:17712>
+
+### Master of Education Biologie Hauptfach PO-Version 20222
+
+- **Campo-Segment:** `exam:15928527`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17691|exam:15928527>
+- **Passende PO-PDFs (FAU.de):**
+  - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718-en.md)
+  - [FPOilmmune 20180319 i.d.F. 20220718.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20180319-idf-20220718.md)
+  - [FPOilmmune 20220718 ÄS.pdf](../pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/fpoilmmune-20220718-aes.md)
 
 ### Nicht-biologische Fachmodule
 

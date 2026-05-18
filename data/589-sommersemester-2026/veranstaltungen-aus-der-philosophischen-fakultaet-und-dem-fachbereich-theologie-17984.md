@@ -90,6 +90,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
+| — | Einzeltermin | — | — | — |
 
 ### AM Narrative / AM Kulturwissenschaft: Lektürekurs skandinavische Gegenwartsliteratur - Übung
 
@@ -1626,6 +1627,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | — | wöchentlich | — | 01.05.2026 05.06.2026 | 25 |
 | — | Blockveranstaltung | — | — | — |
+| — | Einzeltermin | — | — | — |
 | — | Blockveranstaltung | — | — | — |
 | — | Blockveranstaltung | — | — | — |
 
@@ -2690,7 +2692,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | wöchentlich | — | 25.05.2026 | — |
-| — | wöchentlich | — | — | — |
+| — | wöchentlich | — | 15.07.2026 | — |
 
 ### CA: HS - Christliche Archäologie, Hauptseminar - Hauptseminar
 

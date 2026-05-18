@@ -47,6 +47,9 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mi | 10:15–18:00 | 08.04.2026 | — |
+| Einzeltermin | Mo | 08:00–12:00 | 01.06.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 19.06.2026 | — |
+| Einzeltermin | Do | 11:30–13:00 | 23.07.2026 | — |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Albrecht) - Übung
 
@@ -308,7 +311,6 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | wöchentlich | — | 14.05.2026 04.06.2026 | 180 |
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
 
 ### AN_PSTEPS - Teaching English at German Primary (and Secondary Modern) Schools - Hauptseminar
 

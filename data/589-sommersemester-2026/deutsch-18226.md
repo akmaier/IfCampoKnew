@@ -266,6 +266,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mi | 10:15–18:00 | 08.04.2026 | — |
+| Einzeltermin | Mo | 08:00–12:00 | 01.06.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 19.06.2026 | — |
+| Einzeltermin | Do | 11:30–13:00 | 23.07.2026 | — |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur MS): Sprachdidaktik - Seminar
 
@@ -1606,7 +1609,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 11:30 - 13:00 | — | 07.06.2026 23:59:59 | — |
+| Do | 11:30 - 13:00 | — | 07.06.2026 23:59:59 | — |
 
 ### Basismodul FDD - Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch - Seminar und Übung
 
@@ -1755,7 +1758,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | — | 14-täglich | — | 26.05.2026 | 5 |
 
-### LingExam - Ling Exam: Examenskurs Linguistik (nur LA GS, MS, RS, im SoSe 2026 in Erlangen) - Examensseminar
+### LingExam - Ling Exam: Examenskurs Linguistik (Nürnberg, nur LA GS, MS, RS) - Examensseminar
 
 - **Segment:** `exam:14921958` · **unitId:** `104778`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14921954|exam:14921958>

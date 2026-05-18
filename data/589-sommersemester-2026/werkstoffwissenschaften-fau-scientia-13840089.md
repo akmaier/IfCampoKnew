@@ -172,7 +172,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 17.04.2026 01.05.2026 05.06.2026 17.07.2026 | 31 |
+| — | wöchentlich | — | 17.04.2026 01.05.2026 15.05.2026 05.06.2026 17.07.2026 | 31 |
 | — | Blockveranstaltung | — | — | 30 |
 
 ### AST-SPDev-Appl - Advanced Semiconductor Technologies - Solution Processed Devices / Applications - Vorlesung mit Übung
@@ -837,7 +837,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | 0 |
+| wöchentlich | Mi | 16:15–17:45 | 13.05.2026–15.07.2026 | — |
 
 ### WW-CBI - Werkstoffkunde für Studierende des CBI und CEN - Vorlesung mit Übung
 

@@ -243,7 +243,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 17.04.2026 01.05.2026 05.06.2026 17.07.2026 | 31 |
+| — | wöchentlich | — | 17.04.2026 01.05.2026 15.05.2026 05.06.2026 17.07.2026 | 31 |
 | — | Blockveranstaltung | — | — | 30 |
 
 ### AST-QD - Advanced Semiconductor Technologies - Synthesis of Carbon Quantum Dots - Praktikum

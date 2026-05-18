@@ -1,7 +1,7 @@
 ---
 period_id: 589
 period_name: "Sommersemester 2026"
-program_count: 235
+program_count: 234
 ---
 
 # Sommersemester 2026 — Studiengänge
@@ -270,5 +270,4 @@ Dieses Verzeichnis enthält pro Campo-Studiengang **eine** Markdown-Datei mit al
 - [Medizintechnik](medizintechnik-17967.md)
 - [Nanotechnologie](nanotechnologie-17963.md)
 - [Nanotechnology](nanotechnology-17946.md)
-- [Transition Studies Engineering](transition-studies-engineering-17938.md)
 - [Wirtschaftsingenieurwesen](wirtschaftsingenieurwesen-17948.md)
