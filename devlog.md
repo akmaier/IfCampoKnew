@@ -1703,3 +1703,84 @@ The merged file is ~60 KB bigger than the sum of the two because each Prof's *oh
 
 **Status:** One file replaces two. The cron's analyse step writes `profs-pflichtlehre.md` and sweeps the legacy split files, so future Releases ship only the merged version.
 
+## Entry 0028 — Parser bug: room column was the capacity (350 instead of H18)
+
+- **Start:** 2026-05-15 22:50 CEST
+- **End:** 2026-05-15 23:25 CEST
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompt (verbatim):**
+
+> Room 350 is not correct. It is H8 is something wrong in the parsing? Did you shorten Room Identifiers?
+
+**Diagnosis.** Fetched the live Deep Learning detail page (`unitId=82185`, periodId=565). The appointments table has 10 columns — Campo added an `Änderungen` (changes) column at index 0 and `Erw. Tn.` (Erwartete Teilnehmer / expected attendees) at index 6 since the parser was written. The actual header layout:
+
+```
+[0] Änderungen
+[1] Rhythmus
+[2] Wochentag
+[3] Von - Bis
+[4] Ausfalltermin
+[5] Startdatum - Enddatum
+[6] Erw. Tn.            ← capacity, e.g. "350"
+[7] Bemerkung
+[8] Durchführende/-r    ← instructors
+[9] Raum                ← actual room, e.g. "11907.01.040 (H18) 11906.01.030 (H21)"
+```
+
+Our `_parse_appointments` was positional (per a 2026-04 comment): read col 6 as room (got the capacity 350) and col 7 as instructors. Effect across the current corpus: **1 074 of 6 086 appointments (17.6 %) have a purely-numeric room** — those are the bug-hits where the capacity got rendered as the room.
+
+The Deep Learning instructor cell still rendered correctly because col 7 in the new layout (`Bemerkung`, usually empty) means we got an empty instructors list per-appointment, and the course-level `Verantwortlich`/`Durchführend` lists at the top of the detail page (parsed separately via `_parse_instructors`) carried the real names — so instructors weren't visibly wrong even when the column index was wrong.
+
+The user's reported "H8" is probably H18 (typo): the real rooms for Deep Learning are H18 + H21 across two buildings.
+
+**Fix** in `scraper/parse_detail.py`:
+
+* New `_detect_termine_columns(table_html)` parses the `<thead>` and returns `{semantic_name: col_index}` for `rhythm / weekday / time / cancelled / daterange / note / instructors / room / capacity` based on the header label text (case-insensitive substring match on `Rhythmus`, `Wochentag`, `Von-Bis`, `Raum`, `Durchführende`, `Erw. Tn.`, …).
+* `_parse_appointments` now uses those indices, with the old positional layout as a fallback when the header parse fails. The parser is now robust against future column reordering — Campo can add or rearrange columns and the parser still finds the right semantic field.
+
+After the fix:
+
+```
+Deep Learning live re-parse → room='11907.01.040 (H18) 11906.01.030 (H21)'  ✓
+```
+
+**Regression test** added in `scraper/tests/test_parse_detail.py`:
+
+```
+def test_termine_column_detection_room_is_real_room_not_capacity():
+    fixture = (FIXTURES / "termine_deep_learning_2026.html").read_text(...)
+    appts = _parse_appointments(fixture)
+    assert "H18" in appts[0].room
+    assert "11907.01.040" in appts[0].room
+    assert "350" not in appts[0].room  # the previous bug
+```
+
+Fixture is the actual appointments-table HTML from the live page on 2026-05-15.
+
+**92 unit tests pass (was 91 — added one)**.
+
+**Blast radius:**
+
+* On disk now: `tmp/565-courses.json` + `tmp/589-courses.json` carry the buggy rooms (1 074 appointments / 17.6 %). The W21 corpus-zip Release inherits them.
+* The fix lands in the parser — the next `fetch_courses.py` invocation re-parses and fixes them.
+* The Monday cron (2026-05-25) will produce the first corrected corpus zip automatically.
+* For a faster fix, we could `workflow_dispatch` the cron now — that re-walks + re-fetches both periods, ~2–3 h.
+
+**On Person A (user's second question):**
+
+The Campo URL the user shared is a `searchCourseNonStaff-flow` results page with `_flowExecutionKey=e4s4` (session-bound). Direct GETs against `searchCourseNonStaff-flow` and `showStartPersonSearch-flow` both return 403 from a fresh client — these flows require navigation through the start page. To verify why Person A isn't in our scrape, we need the **course title or `unitId=...` from the detail page**. Possible explanations (in decreasing likelihood):
+
+1. The course is in the Campo catalog at depth ≥ 7 (we walk depth 6).
+2. The course is in a niche flow (e.g., a Doktoranden-Programm) not surfaced via the main `showCourseCatalog-flow` tree.
+3. Campo's underlying instructor record uses a different name string (initials, married name, Lehrstuhl alias) that doesn't match "Person A" lexically.
+
+**Files changed:**
+
+```
+scraper/parse_detail.py                       | +95 / -27   (header-based column detection)
+scraper/tests/test_parse_detail.py            | +33         (regression test)
+scraper/tests/fixtures/termine_deep_learning_2026.html | NEW (16 KB)
+```
+
+**Status:** Parser fix shipped, regression locked in. Existing corpus carries the bug until the next re-fetch; deciding whether to trigger an immediate cron run or wait for Monday is the user's call.

@@ -134,3 +134,38 @@ def test_basic_data_instructors_handle_multi_li():
         "Dr.-Ing. Fixture Gamma",
         "Fixture Delta",
     ]
+
+# ── Regression: Termine-table column detection ─────────────────────────────
+
+def test_termine_column_detection_room_is_real_room_not_capacity():
+    """Saved fixture from 2026-05-15 Deep Learning detail page.
+
+    Campo's appointments table has up to 10 columns:
+    ``Änderungen | Rhythmus | Wochentag | Von-Bis | Ausfalltermin |
+    Startdatum-Enddatum | Erw. Tn. | Bemerkung | Durchführende | Raum``
+
+    The "Erw. Tn." (expected attendees) column at index 6 used to be
+    read as the room. That returned ``350`` (the capacity) for Deep
+    Learning instead of the actual room
+    ``11907.01.040 (H18) 11906.01.030 (H21)``. Header-based detection
+    makes the parser robust to column reordering.
+    """
+    from parse_detail import _parse_appointments  # noqa: WPS433
+
+    fixture = (FIXTURES / "termine_deep_learning_2026.html").read_text(
+        encoding="utf-8"
+    )
+    appts = _parse_appointments(fixture)
+    assert len(appts) == 1
+    a = appts[0]
+    # Room contains the real Raum identifier(s), NOT the capacity 350.
+    assert "H18" in (a.room or "")
+    assert "11907.01.040" in (a.room or "")
+    assert a.room and "350" not in a.room
+    # Sanity-check the other columns came through correctly too.
+    assert a.weekday == "Fr"
+    assert a.time_from == "12:15"
+    assert a.time_to == "13:45"
+    assert a.rhythm == "wöchentlich"
+    # The instructors column moved too (now col 8, not col 7).
+    assert any("Person D" in n for n in a.instructors)

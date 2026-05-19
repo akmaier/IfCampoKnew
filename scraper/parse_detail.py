@@ -123,11 +123,21 @@ def _parse_instructors(html: str, label: str) -> list[str]:
 
 # ── schedule table ─────────────────────────────────────────────────────────
 
+_TERMINE_TABLE_RE = re.compile(
+    r'<table[^>]*\bid="[^"]*appointmentSeriesTableTable"[^>]*>'
+    r"(?P<table>.*?)</table>",
+    re.DOTALL,
+)
 _TERMINE_TBODY_RE = re.compile(
     r'<tbody[^>]*\bid="[^"]*appointmentSeriesTableTable:tbody_element"[^>]*>'
     r"(?P<body>.*?)</tbody>",
     re.DOTALL,
 )
+_TERMINE_THEAD_RE = re.compile(
+    r"<thead\b[^>]*>(?P<head>.*?)</thead>",
+    re.DOTALL,
+)
+_TH_RE = re.compile(r"<th\b[^>]*>(?P<cell>.*?)</th>", re.DOTALL)
 _TR_RE = re.compile(r"<tr\b[^>]*>(?P<row>.*?)</tr>", re.DOTALL)
 _TD_RE = re.compile(r"<td\b[^>]*>(?P<cell>.*?)</td>", re.DOTALL)
 _LI_RE = re.compile(r"<li\b[^>]*>(?P<item>.*?)</li>", re.DOTALL)
@@ -187,43 +197,117 @@ def _instructors_from_cell(cell_html: str) -> list[str]:
         out.append(name)
     return out
 
+def _detect_termine_columns(table_html: str) -> dict[str, int]:
+    """Map Campo's Termine-table headers to column indices.
+
+    Campo's column layout has drifted over time and is not fixed-width:
+    different course detail pages can have 8, 9, or 10 columns
+    (e.g. an "Änderungen" column at the front, an "Erw. Tn." column for
+    expected attendees, a "Bemerkung" column, ...). The previous parser
+    used a positional comment from "2026-04" that mapped col 6 to room
+    and col 7 to instructors — by 2026-05 the room cell at col 6 was
+    actually the *capacity* (e.g. ``350`` for Deep Learning) and the
+    real room sat at col 9 with full identifiers like
+    ``11907.01.040 (H18)``.
+
+    This helper parses the ``<thead>`` and returns a dict of
+    ``{semantic_name: col_index}`` for the headers we care about. Caller
+    falls back to no-op if a column isn't present.
+    """
+    out: dict[str, int] = {}
+    thead_m = _TERMINE_THEAD_RE.search(table_html)
+    if not thead_m:
+        return out
+    th_cells = _TH_RE.findall(thead_m.group("head"))
+    for i, th in enumerate(th_cells):
+        label = _text(th).strip().lower()
+        # The header text often has "[Sortierbare Spalte]" tail noise;
+        # drop it before keyword matching.
+        label = re.sub(r"\[.*?\]", "", label).strip()
+        if "rhythmus" in label:
+            out.setdefault("rhythm", i)
+        elif "wochentag" in label:
+            out.setdefault("weekday", i)
+        elif "von" in label and "bis" in label:
+            out.setdefault("time", i)
+        elif "ausfalltermin" in label:
+            out.setdefault("cancelled", i)
+        elif ("startdatum" in label and "enddatum" in label) or label == "datum von – bis":
+            out.setdefault("daterange", i)
+        elif "bemerkung" in label:
+            out.setdefault("note", i)
+        elif "durchführende" in label or "dozent" in label or "lehrende" in label:
+            out.setdefault("instructors", i)
+        elif label == "raum" or label.startswith("raum"):
+            out.setdefault("room", i)
+        # Erw. Tn. / capacity is captured but unused (kept for future).
+        elif "erw" in label and "tn" in label:
+            out.setdefault("capacity", i)
+    return out
+
 def _parse_appointments(html: str) -> list[Appointment]:
-    """The Termine table — one row per scheduled appointment series."""
-    m = _TERMINE_TBODY_RE.search(html)
-    if not m:
+    """The Termine table — one row per scheduled appointment series.
+
+    Columns are detected from the ``<thead>`` so a future Campo layout
+    change doesn't silently mis-map fields (the previous positional
+    parser read the "Erw. Tn." capacity column as the room — yielding
+    e.g. ``350`` instead of ``11907.01.040 (H18)`` for Deep Learning).
+    """
+    table_m = _TERMINE_TABLE_RE.search(html)
+    body_m = _TERMINE_TBODY_RE.search(html)
+    if not body_m:
         return []
+    col_idx = _detect_termine_columns(table_m.group("table")) if table_m else {}
     appts: list[Appointment] = []
-    for row_m in _TR_RE.finditer(m.group("body")):
+    for row_m in _TR_RE.finditer(body_m.group("body")):
         cells_html = _TD_RE.findall(row_m.group("row"))
         if not cells_html:
             continue
         cells = [_text(c) for c in cells_html]
+
+        def cell(name: str, fallback_idx: int | None = None) -> str | None:
+            idx = col_idx.get(name)
+            if idx is None:
+                idx = fallback_idx
+            if idx is None or idx >= len(cells):
+                return None
+            return cells[idx] or None
+
         appt = Appointment()
-        # Column order observed on Campo (2026-04):
-        #   0 rhythm, 1 weekday, 2 time, 3 cancelled-dates list,
-        #   4 date-range, 5 (sometimes) note, 6 room, 7 instructors-list
-        if len(cells) > 0: appt.rhythm = cells[0] or None
-        if len(cells) > 1: appt.weekday = cells[1] or None
-        if len(cells) > 2:
-            tm = re.match(r"(\d{2}:\d{2})\s*[-–]\s*(\d{2}:\d{2})", cells[2])
+        appt.rhythm = cell("rhythm", 0)
+        appt.weekday = cell("weekday", 1)
+        time_text = cell("time", 2)
+        if time_text:
+            tm = re.match(r"(\d{2}:\d{2})\s*[-–]\s*(\d{2}:\d{2})", time_text)
             if tm:
                 appt.time_from, appt.time_to = tm.group(1), tm.group(2)
-        if len(cells) > 3 and cells[3]:
-            appt.cancelled_dates = [d.strip() for d in re.split(r"[;,\s]+", cells[3]) if d.strip()]
-        if len(cells) > 4 and cells[4]:
-            dm = re.match(r"(\d{2}\.\d{2}\.\d{4})\s*[-–]\s*(\d{2}\.\d{2}\.\d{4})", cells[4])
+        cancelled = cell("cancelled", 3)
+        if cancelled:
+            appt.cancelled_dates = [
+                d.strip() for d in re.split(r"[;,\s]+", cancelled) if d.strip()
+            ]
+        date_text = cell("daterange", 4)
+        if date_text:
+            dm = re.match(
+                r"(\d{2}\.\d{2}\.\d{4})\s*[-–]\s*(\d{2}\.\d{2}\.\d{4})", date_text,
+            )
             if dm:
                 appt.date_from, appt.date_to = dm.group(1), dm.group(2)
             else:
-                appt.date_from = cells[4]
-        if len(cells) > 5 and cells[5]:
-            appt.note = cells[5] or None
-        if len(cells) > 6 and cells[6]:
-            appt.room = cells[6] or None
+                appt.date_from = date_text
+        note = cell("note", 5)
+        if note:
+            appt.note = note
+        room = cell("room", 6)
+        if room:
+            appt.room = room
         # instructors: parse the raw <li> structure of the cell HTML, not
         # the flattened text — see _instructors_from_cell.
-        if len(cells_html) > 7:
-            appt.instructors = _instructors_from_cell(cells_html[7])
+        instr_idx = col_idx.get("instructors")
+        if instr_idx is None:
+            instr_idx = 7 if len(cells_html) > 7 else None
+        if instr_idx is not None and instr_idx < len(cells_html):
+            appt.instructors = _instructors_from_cell(cells_html[instr_idx])
         appts.append(appt)
     return appts
 
