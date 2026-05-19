@@ -35,7 +35,9 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 360  # generous; depth-0 + courses can run for hours
+    timeout-minutes: 420  # generous: catalog walk + fetch + sweep +
+                          # search-walker per period; the search-walker
+                          # alone runs ~2 h on the cron runner.
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -225,29 +227,14 @@ jobs:
             --save-every 50 \
             -v
 
-      - name: Search-walker backfill for prior period
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true'
-        continue-on-error: true
-        run: |
-          python scraper/search_walker.py \
-            --period ${{ steps.vars.outputs.prior_period_id }} \
-            --queries-file scraper/data/search_queries.txt \
-            --out tmp/${{ steps.vars.outputs.prior_period_id }}-search.json \
-            --interval 0.5 \
-            -v
-
-      - name: Fetch prior-period courses from search backfill
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true' && hashFiles(format('tmp/{0}-search.json', steps.vars.outputs.prior_period_id)) != ''
-        continue-on-error: true
-        run: |
-          python scraper/fetch_courses.py \
-            --in tmp/${{ steps.vars.outputs.prior_period_id }}-search.json \
-            --out tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
-            --resume \
-            --parallel 2 \
-            --interval 0.2 \
-            --save-every 50 \
-            -v
+      # Note: there used to be a prior-period search-walker step here.
+      # It's been removed because the search-walker takes ~2 h per period
+      # on the cron runner, which busts the 6 h job timeout when added
+      # to both periods. The prior-period data naturally rolls in via
+      # the monthly cache: today's current-period search-walker results
+      # land in the current-period courses.json → next week the cache
+      # restore makes them the prior-period dataset. So running search-
+      # walker on the current period only is sufficient long-term.
 
       - name: Render markdown corpus
         run: |
