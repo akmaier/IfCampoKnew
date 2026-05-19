@@ -514,8 +514,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 01.05.2026 05.06.2026 19.06.2026 03.07.2026 | — |
-| — | wöchentlich | — | 19.06.2026 | — |
+| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
+| wöchentlich | Fr | 16:00–18:00 | 12.06.2026–26.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Einführung in die Medienpädagogik - Seminar
 
@@ -524,14 +524,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104671&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | &lt;style&gt; &lt;/style&gt;&lt;p&gt;&lt;b&gt;Anmeldezeiträume:&amp;nbsp;Freitag, 13. März (12:00), bis Montag, 30. März (12:00)&lt;/b&gt;&lt;/p&gt; |
 
 ### Einführung in die Organisationspädagogik - Seminar
 
@@ -547,7 +540,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 | — |
+| wöchentlich | Mi | 12:00–14:00 | 22.04.2026–15.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### Entwicklung von Professionalität als Bildungsprozess - Praxisreflexion - Seminar
 
@@ -563,7 +556,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.04.2026 25.05.2026 01.06.2026 08.06.2026 06.07.2026 13.07.2026 | — |
+| wöchentlich | Mo | 10:00–14:00 | 20.04.2026–29.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### Ethnografie über Feldgrenzen hinweg: Welt, Web, Workplace - Seminar
 
@@ -579,12 +572,21 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 10:00–14:00 | 13.04.2026 | &lt;p&gt;&lt;b&gt;&lt;style&gt; &lt;/style&gt;&lt;span&gt;Untertitel &quot;MultiPluriTranslokale Zugänge in der Ethnografie&quot; &lt;/span&gt; &lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Anmeldezeiträume:&amp;nbsp;Freitag, 13. März (12:00), bis Montag, 30. März (12:00)&lt;/b&gt;&lt;/p&gt; |
-| Einzeltermin | Fr | 10:00–14:00 | 22.05.2026 | — |
-| Einzeltermin | Mo | 10:00–14:00 | 01.06.2026 | — |
-| Einzeltermin | Mo | 10:00–14:00 | 08.06.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 19.06.2026 | — |
-| Einzeltermin | Mo | 10:00–14:00 | 06.07.2026 | — |
+| Einzeltermin | Mo | 10:00–14:00 | 13.04.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+| Einzeltermin | Fr | 10:00–14:00 | 22.05.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
+| Einzeltermin | Mo | 10:00–14:00 | 01.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+| Einzeltermin | Mo | 10:00–14:00 | 08.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+| Einzeltermin | Fr | 10:00–18:00 | 19.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
+| Einzeltermin | Mo | 10:00–14:00 | 06.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+
+### How do you Meme? - Visuelles Material mit der Situationsanalyse erforschen - Seminar
+
+- **Segment:** `exam:15724660` · **unitId:** `134615`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238355|exam:15724660>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134615&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
 
 ### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
 
@@ -601,10 +603,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mi | 10:00–12:00 | 29.04.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 01.07.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 08.07.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 15.07.2026 | — |
+| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05701.00.017 ( Kl. Hörsaal) |
+| Einzeltermin | Mi | 10:00–12:00 | 01.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
+| Einzeltermin | Mi | 10:00–12:00 | 08.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
+| Einzeltermin | Mi | 10:00–12:00 | 15.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### NN - Seminar
 
@@ -613,30 +615,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134617&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | &lt;style&gt; &lt;/style&gt;&lt;p&gt;&lt;b&gt;Anmeldezeiträume:&amp;nbsp;Freitag, 13. März (12:00), bis Montag, 30. März (12:00)&lt;/b&gt;&lt;/p&gt; |
-
-### Pixel, Prompts & Patterns: Grounded Theory in der explorativen Forschung - Seminar
-
-- **Segment:** `exam:15724660` · **unitId:** `134615`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238355|exam:15724660>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134615&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
 
 ### Pädagogische Handlungsformen - Seminar
 
@@ -645,14 +624,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100815&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | &lt;style&gt; &lt;/style&gt;&lt;p&gt;&lt;b&gt;Anmeldezeiträume:&amp;nbsp;Freitag, 13. März (12:00), bis Montag, 30. April (12:00)&lt;/b&gt;&lt;/p&gt; |
 
 ### Traditionen und Transformationen von Erziehung und Bildung - kulturgeschichtliche Reflexionen - Vorlesung
 
@@ -668,7 +640,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | Anmeldezeiträume:&nbsp;Freitag, 13. März (12:00), bis Montag, 30. März (12:00) |
+| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### 52122 Einführung in die Pädagogik - Leistung
 
@@ -683,7 +655,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 08:30 - 09:30 | — | 07.06.2026 23:59:59 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| Mi | Mi | 08:30–09:30 | 07.06.2026 23:59:59 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### 52311 Historische und systematische Grundlagen der Pädagogik - Leistung
 
@@ -698,7 +670,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 08:30 - 09:30 | — | 07.06.2026 23:59:59 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| Mi | Mi | 08:30–09:30 | 07.06.2026 23:59:59 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### 52411 Pädagogische Arbeitsfelder - Leistung
 
@@ -713,7 +685,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 10:00 - 11:15 | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | 10:00–11:15 | 07.06.2026 23:59:59 | — |
 
 ### 52531 Einführung in pädagogische Bereiche - Leistung
 
@@ -728,7 +700,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | - | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### 52631 Praktikum - Leistung
 
@@ -743,7 +715,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | - | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### 52711 Pädagogische Forschung I - Leistung
 
@@ -758,7 +730,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 14:00 - 15:30 | — | 07.06.2026 23:59:59 | 05701.00.021 ( 00.021 Seminarraum) |
+| Fr | Fr | 14:00–15:30 | 07.06.2026 23:59:59 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### 52801 Pädagogische Forschung II - Leistung
 
@@ -773,7 +745,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | - | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### 75221 Wahlpflichtbereich I: Pädagogische Grundlagen
 

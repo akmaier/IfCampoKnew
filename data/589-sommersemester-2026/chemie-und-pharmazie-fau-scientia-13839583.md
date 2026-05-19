@@ -31,7 +31,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
 
 ### CC 05, LAG OC1 - Vorlesung Grundlagen der Organischen Chemie I - Vorlesung
 
@@ -48,8 +48,8 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
+| wöchentlich | Di | 09:15–10:00 | 14.04.2026–14.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Do | 09:15–10:45 | 16.04.2026–16.07.2026 | 11907.01.040 (H18) |
 
 ### CM-OC-SS - Organic Chemistry - Vorlesung mit Übung
 
@@ -58,14 +58,7 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101543&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
 
 ### CM-QC-SS - Quantum Chemistry 2 - Vorlesung mit Übung
 
@@ -81,7 +74,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
+| wöchentlich | Di | 14:15–16:45 | 14.04.2026–14.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
 
 ### HomCatal-Lab - Homogeneous Catalysis - Lab - Praktikum
 
@@ -101,14 +94,7 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84325&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
 ### ILS-C1-V - Allgemeine Chemie (für ILS) - Vorlesung
 
@@ -118,15 +104,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | — | — |
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
 ### LebTech - Lebensmitteltechnologie - Vorlesung
 
@@ -135,14 +113,7 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92928&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:00–12:30 | 15.04.2026–15.07.2026 | — |
 
 ### OC-LAB - Praktikum Organische Chemie - Praktikum
 
@@ -152,20 +123,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–12:00 | 19.06.2026 | — |
-| wöchentlich | Mo | 08:00–17:00 | 22.06.2026–13.07.2026 | — |
-| wöchentlich | Di | 13:00–17:30 | 23.06.2026–14.07.2026 | — |
-| wöchentlich | Mi | 13:30–17:30 | 24.06.2026–15.07.2026 | — |
-| wöchentlich | Do | 08:00–17:00 | 25.06.2026–16.07.2026 | — |
-| wöchentlich | Fr | 08:00–16:00 | 26.06.2026–17.07.2026 | — |
-| Blockveranstaltung | — | 08:00–17:00 | 20.07.2026–24.07.2026 | — |
 
 ### OC1 - Organische Chemie 1 - Vorlesung mit Übung
 
@@ -182,11 +140,11 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
+| wöchentlich | Di | 08:00–09:00 | 14.04.2026–14.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
+| wöchentlich | Di | 08:00–09:00 | 14.04.2026–14.07.2026 | 13301.00.110 (00.110 - Chemikum Seminarraum Organische Chemie) |
+| wöchentlich | Di | 08:00–09:00 | 14.04.2026–14.07.2026 | 13301.00.111 (00.111 - Chemikum Seminarraum Organische Chemie) |
+| wöchentlich | Do | 13:00–15:00 | 16.04.2026–16.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
+| wöchentlich | Fr | 12:30–14:00 | 17.04.2026–17.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
 ## Lehramts-Prüfungsordnungen
 

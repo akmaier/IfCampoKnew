@@ -31,7 +31,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
 
 ### Basismodul: Vorlesung - Grundlagen des Unterrichtens und Erziehens in der Mittelschule - Vorlesung
 
@@ -48,7 +48,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
 ### Forschungskolloquium - Kolloquium
 
@@ -65,7 +65,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
+| wöchentlich | Di | 17:30–19:00 | 14.04.2026–14.07.2026 | — |
 
 ### HeIn: Inklusion - Aufgabe für Schule und Schulsystem (Online) - Seminar
 
@@ -75,7 +75,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### HeIn: Schüler mit Förderschwerpunkten in der Mittelschule - Umgang mit Hörschädigungen, Autismus, Mutismus, Lernbehinderungen und ADHS - Seminar
@@ -93,10 +92,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 19:00–20:00 | 15.04.2026 | Anmeldung über StudOn im Zeitraum 01.03.-12.04.2026 Vorbesprechung am 15.04.2026 online |
-| Einzeltermin | Fr | 15:00–18:00 | 08.05.2026 | — |
-| Einzeltermin | Sa | 09:00–16:00 | 09.05.2026 | — |
-| Einzeltermin | Sa | 09:00–16:00 | 23.05.2026 | — |
+| Einzeltermin | Mi | 19:00–20:00 | 15.04.2026 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 08.05.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| Einzeltermin | Sa | 09:00–16:00 | 09.05.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| Einzeltermin | Sa | 09:00–16:00 | 23.05.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
 
 ### PäDiMe: Beurteilen und Bewerten, so unfair wie nötig und so gerecht wie möglich - Seminar
 
@@ -113,7 +112,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
 
 ### PäDiMe: Spielend Lernen - Teamkompetenz fördern - Seminar
 
@@ -123,17 +122,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 13:00–14:00 | 21.04.2026 | Anmeldung über StudOn im Zeitraum 01.03.-12.04.2026 |
-| Einzeltermin | Sa | 09:00–16:00 | 13.06.2026 | — |
-| Einzeltermin | Fr | 14:00–19:00 | 26.06.2026 | — |
-| Einzeltermin | Sa | 09:00–16:00 | 27.06.2026 | — |
 
 ### SHM-InInKo / SHM-KoRe: „Und jetzt?!“ - Handlungsmöglichkeiten in herausfordernden Situationen - für an Schulen tätige Studierende und andere - Seminar
 
@@ -143,18 +132,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
 
 ### SHM-InInKo: Förderung von Schlüsselkompetenzen in außerschulischen Lernsettings - Seminar
 
@@ -171,8 +149,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | Blockveranstaltung+SaundSo | — | 24.05.2026 25.05.2026 26.05.2026 | — |
+| Einzeltermin | Mo | 19:00–20:00 | 13.04.2026 | — |
+| Blockveranstaltung+SaundSo | — | 08:00–18:00 | 22.05.2026–28.05.2026 | — |
 
 ### SHM-InInKo: Lernen, Lehren, Forschen mittels unmittelbarer Erfahrung. Geschichte zum Anfassen und Gestaltung von Experiential Learning-Lernumgebungen. (Kooperationsseminar in Zusammenarbeit mit Boris Dreyer, Prof. Alte Geschichte, Römerboot) - Seminar
 
@@ -182,19 +160,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 14:00–17:15 | 05.05.2026 | Anmeldung über StudOn im Zeitraum 01.03.-12.04.2026 |
-| Einzeltermin | Mo | 09:00–17:00 | 18.05.2026 | Blocktermin Nähe Gunzenhausen |
-| Einzeltermin | Mo | 09:00–17:00 | 01.06.2026 | Blocktermin Nähe Gunzenhausen |
-| Einzeltermin | Di | 14:00–15:30 | 09.06.2026 | — |
-| Einzeltermin | Di | 14:00–15:30 | 16.06.2026 | — |
-| Einzeltermin | Di | 14:00–15:30 | 23.06.2026 | — |
 
 ### SHM-KoRe: Kooperation Schule-Jugendhilfe - Seminar
 
@@ -211,9 +177,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–16:00 | 08.05.2026 | Anmeldung über StudOn im Zeitraum 01.03.-12.04.2026 |
-| Einzeltermin | Fr | 09:00–16:00 | 15.05.2026 | — |
-| Einzeltermin | Fr | 09:00–16:00 | 22.05.2026 | — |
+| Einzeltermin | Fr | 09:00–16:00 | 08.05.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
+| Einzeltermin | Fr | 09:00–16:00 | 15.05.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
+| Einzeltermin | Fr | 09:00–16:00 | 22.05.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### SHM-Trans: Endlich Praxis! Einblick ins "Referendariat" schon jetzt - Seminar
 
@@ -223,14 +189,4 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–17:30 | 20.04.2026 | Dozent: Markus Drexl Anmeldung über StudOn im Zeitraum 01.03.-12.04.2026 Vorbesprechung am 20.04.2026 online |
-| Einzeltermin | Fr | 14:00–18:00 | 08.05.2026 | — |
-| Einzeltermin | Sa | 09:00–15:00 | 09.05.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 03.07.2026 | — |

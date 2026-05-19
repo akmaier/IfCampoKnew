@@ -42,15 +42,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | wöchentlich | — | — | — |
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
-
 ### 66282 Integrated course 3: Quantum field theory and particle physics
 
 - **Segment:** `exam:14336047` · **unitId:** `42181`

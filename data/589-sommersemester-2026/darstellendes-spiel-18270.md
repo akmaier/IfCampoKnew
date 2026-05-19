@@ -57,9 +57,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 14.05.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| 14-täglich | Do | 16:00–18:00 | 16.04.2026–09.07.2026 | — |
+| Einzeltermin | Fr | 13:00–17:30 | 31.07.2026 | — |
+| Einzeltermin | Sa | 09:30–15:00 | 01.08.2026 | — |
 
 ### Examenskurs Theatertheorie / Darstellendes Spiel - Seminar
 
@@ -68,15 +68,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135725&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–20:00 | 17.07.2026 | &lt;style&gt; &lt;/style&gt;&lt;p&gt;&lt;span&gt;FR, 17.7. – SO. 19.7.26 (FR 15-20 // SA + SO 10-18), ITM 204&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span&gt;Anmeldung per Mail an Andre.Studt(at)fau.de –&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span&gt;Nach der Anmeldung bekommen Sie den Seminarplan / Materialien von mir.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;/p&gt; |
-| Blockveranstaltung+Sa | — | 10:00–18:00 | 18.07.2026 | — |
 
 ## Lehramts-Prüfungsordnungen
 

@@ -213,16 +213,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85726&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–17:00 | 27.07.2026–31.07.2026 | — |
-| Blockveranstaltung | — | 09:00–17:00 | 27.07.2026–31.07.2026 | — |
-| Einzeltermin | Fr | 09:00–17:00 | 31.07.2026 | — |
 
 ### Einführung zu den Übungen Pharmazeutische Biologie I: (Untersuchungen arzneistoffproduzierender Organismen) - Vorlesung
 
@@ -248,7 +239,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | — |
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
 
 ### CC 05, LAG OC1 - Vorlesung Grundlagen der Organischen Chemie I - Vorlesung
 
@@ -265,8 +256,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
+| wöchentlich | Di | 09:15–10:00 | 14.04.2026–14.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Do | 09:15–10:45 | 16.04.2026–16.07.2026 | 11907.01.040 (H18) |
 
 ### CC 06, LAG OC1 - Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I - Hauptseminar
 
@@ -275,14 +266,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92492&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
 
 ### ForschSem - Seminar zu Forschungsarbeiten in der Lebensmittelchemie - Seminar
 
@@ -298,8 +282,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | wöchentlich | — | 26.05.2026 | — |
+| wöchentlich | Di | 09:00–10:30 | 14.04.2026–14.07.2026 | 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) |
+| wöchentlich | Di | 09:00–10:30 | 14.04.2026–14.07.2026 | 13301.00.234 (00.234 Seminarraum Pharmazie/Lebensmittelchemie) |
 
 ### LAG PC I (Ib) / LMCh, Bio PC II - V - Physikalische Chemie 2 (Kinetik u. Aufbau der Materie) für LA Gymnasium (PC Ib), Lebensmittelchemie und Biologie (PC II) - Vorlesung
 
@@ -316,7 +300,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
+| wöchentlich | Fr | 08:15–10:00 | 17.04.2026–17.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### LAG PC Ib / LMCh, Bio PC II - UE - Übung zur Physikalischen Chemie (Kinetik u. Aufbau der Materie) für LA Gymnasium (PC Ib), Lebensmittelchemie und Biologie (PC II) - Übung
 
@@ -325,14 +309,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82913&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:00 | 15.04.2026–15.07.2026 | — |
 
 ### LebTech - Lebensmitteltechnologie - Vorlesung
 
@@ -341,14 +318,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92928&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:00–12:30 | 15.04.2026–15.07.2026 | — |
 
 ### MikÜPfL - Mikroskopische Übungen pflanzlicher Lebensmittel - Übung
 
@@ -364,8 +334,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 13:00–16:00 | 29.06.2026–06.07.2026 | — |
-| wöchentlich | Di | 13:00–16:00 | 30.06.2026–07.07.2026 | — |
+| wöchentlich | Mo | 13:00–16:00 | 29.06.2026–06.07.2026 | 13002.00.782 (Ks L Kursraum L) |
+| wöchentlich | Di | 13:00–16:00 | 30.06.2026–07.07.2026 | 13002.00.771 (Kursraum K 00.771 (Entwicklungsbiologie)) |
 | wöchentlich | Fr | 10:00–14:00 | 03.07.2026–10.07.2026 | — |
 
 ### PBGV2 - Allgemeine Biologie für Pharmazeuten sowie systematische Einstellung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil II - Vorlesung
@@ -375,14 +345,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84413&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 14.04.2026 26.05.2026 | — |
 
 ### PBGÜ1 - Übungen Pharmazeutische Biologie I (Untersuchung arzneistoffproduzierender Organismen) - Praktikum
 
@@ -398,8 +361,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
-| — | wöchentlich | — | — | — |
+| wöchentlich | Mo | 13:00–17:00 | 13.04.2026–13.07.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| wöchentlich | Mo | 13:00–17:00 | 20.07.2026–27.07.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
 
 ### PC LMCh - PR - Physikalisch-chemisches Praktikum für LMCh - Praktikum
 
@@ -415,7 +378,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| nach Vereinbarung | — | — | — | Die Terminvergabe der Versuche erfolgt über die zugehörigen StudOn-Kurse (Anmeldung ab 09.03.2026 möglich) , die Durchführung des Praktikums erfolgt in den Räumen P 0.57 und P 0.72. |
+| nach Vereinbarung | — | — | — | — |
 
 ### Pr2 - Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von Arzneibuch-Methoden) (f. Stud. d. Pharmazie u. Lebensmittelchemie im 2. Semester) - Praktikum
 
@@ -431,8 +394,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | — | — |
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
+| wöchentlich | Mi | 13:00–18:00 | 15.04.2026–15.07.2026 | — |
+| wöchentlich | Do | 13:00–18:00 | 16.04.2026–16.07.2026 | — |
 
 ### Pr4LM - Chemisches Praktikum II - Instrumentelle Analytik (f. Stud. d. Lebensmittelchemie im 4. Semester) - Praktikum
 
@@ -441,16 +404,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104177&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
 ### PrLM6 - Lebensmittelchemisches Praktikum II: Projektarbeit Lebensmittelanalytik/Validierung - Praktikum
 
@@ -459,17 +413,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87373&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
-| — | wöchentlich | — | 26.05.2026 | — |
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
 
 ### RMLM6-8 - Reaktionsmechanismen (Übung) - Übung
 
@@ -478,14 +422,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83316&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
 
 ### SemLM5/7 - Seminare Bioanalytik oder Instrumentelle Analytik für Lebensmittelchemie und Molecular Science - Seminar
 
@@ -501,7 +438,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:00 | 15.04.2026–15.07.2026 | — |
+| wöchentlich | Mi | 10:15–11:00 | 15.04.2026–15.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### SemLMTechno - Seminar mit Übung Lebensmitteltechnologie - Übung
 
@@ -517,8 +454,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–17:00 | 31.08.2026 | — |
-| Einzeltermin | Mo | 08:00–17:00 | 31.08.2026 | — |
+| Einzeltermin | Mo | 08:00–17:00 | 31.08.2026 | 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) |
+| Einzeltermin | Mo | 08:00–17:00 | 31.08.2026 | 13301.00.234 (00.234 Seminarraum Pharmazie/Lebensmittelchemie) |
 | Blockveranstaltung | — | 08:00–17:00 | 01.09.2026–04.09.2026 | — |
 
 ### Tox/Recht - Grundlagen der Gefahrstoffverordnung - Vorlesung
@@ -528,14 +465,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82487&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 21.04.2026 26.05.2026 | — |
 
 ### UELM5-8 - Übungen LM-Analytik - Übung
 
@@ -544,14 +474,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98093&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–10:15 | 15.04.2026–15.07.2026 | — |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -560,14 +483,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94389&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 15.04.2026 22.04.2026 13.05.2026 10.06.2026 01.07.2026 | — |
 
 ### VLEC - Ernährungslehre:  Chemosensorik - Vorlesung
 
@@ -576,14 +492,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101175&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 13.05.2026 10.06.2026 01.07.2026 | — |
 
 ### VLM1/4/7/8 - Chemie und Technologie der Lebensmittel, Teil 1, 4, 7 oder 8 - Vorlesung
 
@@ -599,7 +508,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
+| wöchentlich | Mo | 11:45–12:30 | 13.04.2026–13.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLM2/5/6/9 - Chemie und Technologie der Lebensmittel, Teil 2, 5, 6 oder 9 - Vorlesung
 
@@ -608,14 +517,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84132&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
 
 ### Vorl2 - Pharmazeutisch-chemische Analytik I - Vorlesung
 
@@ -624,15 +526,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92843&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | — | — |
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
 
 ### Vorl3+4 - Einführung in die instrumentelle Analytik - Vorlesung
 
@@ -648,8 +542,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
+| wöchentlich | Mo | 09:00–10:00 | 13.04.2026–13.07.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Fr | 10:00–11:00 | 17.04.2026–17.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VorlLMGes - Lebensmittelrecht einschl. Futtermittelrecht I und II - Vorlesung
 
@@ -665,4 +559,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 01.05.2026 05.06.2026 | — |
+| wöchentlich | Fr | 08:30–10:00 | 17.04.2026–17.07.2026 | 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) |

@@ -193,10 +193,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–17:30 | 08.05.2026 | Hörsaal 2 |
-| Einzeltermin | Fr | 15:00–17:30 | 29.05.2026 | Hörsaal 2 |
-| Einzeltermin | Fr | 15:00–17:30 | 12.06.2026 | Hörsaal 2 |
-| Einzeltermin | Fr | 14:30–17:00 | 10.07.2026 | Hörsaal 2 |
+| Einzeltermin | Fr | 15:00–17:30 | 08.05.2026 | — |
+| Einzeltermin | Fr | 15:00–17:30 | 29.05.2026 | — |
+| Einzeltermin | Fr | 15:00–17:30 | 12.06.2026 | — |
+| Einzeltermin | Fr | 14:30–17:00 | 10.07.2026 | — |
 
 ### Klinischer Workflow unter werkstoffkundlichen Aspekten - Vorlesung
 
@@ -205,17 +205,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94064&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–17:30 | 22.05.2026 | Hörsaal 1 |
-| Einzeltermin | Fr | 15:00–17:30 | 19.06.2026 | Hörsaal 2 |
-| Einzeltermin | Fr | 14:30–17:00 | 03.07.2026 | Hörsaal 2 |
-| Einzeltermin | Fr | 15:00–17:00 | 17.07.2026 | Hörsaal 2 |
 
 ### MKG - Plastisch-Ästhetische/Dysgnathie-Chirurgie - Vorlesung
 
@@ -265,15 +255,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86938&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–21:00 | 15.05.2026 | — |
-| Einzeltermin | Sa | 09:00–17:00 | 16.05.2026 | — |
 
 ### MKG für Praxis und Praktiker - MKG für Praxis und Praktiker - Vorlesung
 
@@ -320,14 +302,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85155&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | 14-täglich | — | 04.06.2026 | — |
 
 ### VL der BLZK u. KZVB für Zahnmediziner - 3-V35 Berufskunde und Praxisführung  - Vorlesung
 
@@ -336,17 +311,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115688&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 17:30–18:15 | 23.04.2026 | — |
-| Einzeltermin | Do | 17:30–18:15 | 30.04.2026 | — |
-| Einzeltermin | Do | 17:30–18:15 | 21.05.2026 | — |
-| Einzeltermin | Do | 17:30–18:15 | 11.06.2026 | — |
-| Einzeltermin | Do | 17:30–18:15 | 18.06.2026 | — |
-| Einzeltermin | Do | 17:30–18:15 | 02.07.2026 | — |
-| Einzeltermin | Do | 17:30–18:15 | 09.07.2026 | — |

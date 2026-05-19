@@ -24,18 +24,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:00–18:00 | 22.04.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 24.04.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 08.05.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | — |
-| Einzeltermin | Mi | 14:00–16:00 | 23.09.2026 | — |
 
 ### "Lampenfieber ade!": Überzeugend und sicher vor anderen auftreten - Kurs
 
@@ -52,7 +41,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### "Und was macht man dann damit?" Karriere(n) im Wissenschaftssystem - Seminar
 
@@ -69,7 +58,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–16:00 | 27.07.2026–30.07.2026 | — |
+| Blockveranstaltung | — | 10:00–16:00 | 27.07.2026–30.07.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### (Inter)nationale Medientrends reflektieren - Kurs
 
@@ -86,7 +75,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 20 |
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 05801.02.110 ( A 401) |
 
 ### Arguments that matter: Critical Thinking and Argumentation in Academic Practice - Seminar
 
@@ -96,15 +85,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–15:00 | 17.07.2026 | Online via Zoom |
-| Blockveranstaltung | — | 10:00–17:00 | 21.09.2026–24.09.2026 | — |
 
 ### Arguments that matter: Critical Thinking and Argumentation in Academic Practice - Seminar
 
@@ -114,15 +95,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–15:00 | 17.07.2026 | Online via Zoom |
-| Blockveranstaltung | — | 10:00–17:00 | 21.09.2026–24.09.2026 | — |
 
 ### Challenge Accepted! - Selbstwirksamkeit als Erfolgsfaktor im Studium (und darüber hinaus) - Kurs
 
@@ -138,10 +111,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 12:15–13:45 | 29.04.2026 | — |
-| Einzeltermin | Mi | 12:15–13:45 | 13.05.2026 | — |
-| Einzeltermin | Mi | 12:15–13:45 | 03.06.2026 | — |
-| Einzeltermin | Mi | 12:15–13:45 | 24.06.2026 | — |
+| Einzeltermin | Mi | 12:15–13:45 | 29.04.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mi | 12:15–13:45 | 13.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mi | 12:15–13:45 | 03.06.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mi | 12:15–13:45 | 24.06.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### Das Meer und die Geschichte der Wissenschaften - Seminar
 
@@ -158,7 +131,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### Digital-Tandem: Generationen lernen voneinander - Seminar
 
@@ -178,17 +151,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–17:00 | 09.05.2026 | — |
-| Einzeltermin | Mi | 18:00–20:00 | 20.05.2026 | online |
-| Einzeltermin | Sa | 09:00–17:00 | 13.06.2026 | — |
-| Einzeltermin | Mi | 18:00–20:00 | 17.06.2026 | online |
 
 ### Einführung in VBA und VB für blinde und sehbehinderte Studierende - Seminar
 
@@ -208,19 +171,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 15:00–18:00 | 23.04.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 21.05.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 11.06.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 02.07.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 09.07.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 16.07.2026 | — |
 
 ### Fotogestaltung mit Digitalkameras [Blockseminar] - Kurs
 
@@ -237,8 +188,8 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–17:00 | 08.04.2026 | online per Zoom |
-| Einzeltermin | Fr | 09:00–17:00 | 10.04.2026 | — |
+| Einzeltermin | Mi | 09:00–17:00 | 08.04.2026 | — |
+| Einzeltermin | Fr | 09:00–17:00 | 10.04.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### Fragen an Foucault: Seminar zu 'Die Ordnung der Dinge' - Seminar
 
@@ -248,14 +199,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
 
 ### Global, kollektiv und nützlich: Wissenschaft in der Frühen Neuzeit - Seminar
 
@@ -272,7 +216,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | — |
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### Interkulturelle Kompetenz: Theoretische und praktische Grundlagen - Seminar
 
@@ -281,19 +225,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91821&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | 04.06.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
 
 ### Kompaktkurs für blinde und sehbehinderte Studienanfänger/-innen - Kurs
 
@@ -303,7 +235,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Kreatives Schreiben und Sprechen - Seminar
@@ -314,14 +245,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | — |
 
 ### Kreatives Schreiben und Sprechen - Seminar
 
@@ -331,14 +255,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | — |
 
 ### Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele - Seminar
 
@@ -355,7 +272,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | — |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05801.02.110 ( A 401) |
 
 ### Micro-Credential: Einführung in die Wissenschaftsreflexion - Sonstige Lehrveranstaltung
 
@@ -365,7 +282,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Micro-Credential: Einführung in die Wissenschaftsreflexion - Sonstige Lehrveranstaltung
@@ -376,7 +292,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Micro-Credential: Grundlagen der Visual Literacy - Sonstige Lehrveranstaltung
@@ -420,7 +335,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Micro-Credential: Reflektierter Umgang mit KI-Tools - Sonstige Lehrveranstaltung
@@ -431,7 +345,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Micro-Credential: Reflektierter Umgang mit KI-Tools - Sonstige Lehrveranstaltung
@@ -442,7 +355,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Micro-Credential: Resilienz stärken - Sonstige Lehrveranstaltung
@@ -485,14 +397,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | — |
 
 ### Resilienz stärken [Blockseminar] - Seminar
 
@@ -508,7 +413,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–17:00 | 29.08.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 29.08.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### Schreiben für die Wissenschaft - Seminar
 
@@ -520,12 +425,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **ECTS-Punkte:** 2.5
 - **Turnus:** Unregelmäßig
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | — |
-
 ### Science Communication in Virtual Teams: Co-Creating a Social Media Campaign - Seminar
 
 - **Segment:** `exam:15767521` · **unitId:** `134090`
@@ -534,14 +433,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–16:00 | 14.09.2026–17.09.2026 | Die Veranstaltung findet online über Zoom statt.&nbsp; |
 
 ### Science Communication in Virtual Teams: Co-Creating a Social Media Campaign - Seminar
 
@@ -551,14 +443,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–16:00 | 14.09.2026–17.09.2026 | Die Veranstaltung findet online über Zoom statt.&nbsp; |
 
 ### Science Communication in Virtual Teams: Co-Creating a Social Media Campaign - Seminar
 
@@ -568,14 +453,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–16:00 | 14.09.2026–17.09.2026 | Die Veranstaltung findet online über Zoom statt.&nbsp; |
 
 ### Science Fiction und Wissenschaft - Seminar
 
@@ -586,12 +464,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | 25 |
 
 ### Social Entrepreneurship und Inklusion: Projektwerkstatt - Seminar
 
@@ -608,11 +480,11 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 14:00–16:00 | 20.04.2026 | — |
-| Einzeltermin | Mo | 14:00–18:00 | 04.05.2026 | — |
-| Einzeltermin | Mo | 14:00–18:00 | 18.05.2026 | — |
-| Einzeltermin | Mo | 14:00–16:00 | 15.06.2026 | — |
-| Einzeltermin | Mo | 14:00–18:00 | 29.06.2026 | — |
+| Einzeltermin | Mo | 14:00–16:00 | 20.04.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
+| Einzeltermin | Mo | 14:00–18:00 | 04.05.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
+| Einzeltermin | Mo | 14:00–18:00 | 18.05.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
+| Einzeltermin | Mo | 14:00–16:00 | 15.06.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
+| Einzeltermin | Mo | 14:00–18:00 | 29.06.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### Stimmbildung und Sprecherziehung - Kurs
 
@@ -629,7 +501,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | — |
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### Tiere in der Forschung: Zwischen Datenerhebung und Verantwortung - Seminar
 
@@ -639,14 +511,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | 25 |
 
 ### Versprechen oder Verhängnis? Ethische, erkenntnistheoretische und politische Perspektiven auf das Verhältnis zwischen Mensch und Technik - Seminar
 
@@ -656,15 +521,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–16:00 | 12.06.2026 | Raum 2.106 (Bismarckstr. 8, 2. Stock) |
-| Blockveranstaltung | — | 09:00–14:00 | 20.07.2026–24.07.2026 | Raum 2.106 (Bismarckstr. 8, 2. Stock) |
 
 ### Video- und Filmgestaltung mit Digitalkameras [Blockseminar] - Kurs
 
@@ -683,7 +540,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | Einzeltermin | Fr | 09:00–10:00 | 08.05.2026 | — |
 | Einzeltermin | Fr | 09:00–17:00 | 05.06.2026 | — |
-| Einzeltermin | Sa | 09:00–17:00 | 18.07.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 18.07.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### Warum Wissenschaft? Reflexionen über Wissen, Methode und Verantwortung - Seminar
 
@@ -712,14 +569,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | 25 |
 
 ### Zum guten Stil im wissenschaftlichen Schreiben - Kurs
 
@@ -747,4 +597,4 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | — |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |

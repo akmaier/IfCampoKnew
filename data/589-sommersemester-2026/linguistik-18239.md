@@ -229,12 +229,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 18:00–20:00 | 27.04.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 11.05.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 18.05.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 01.06.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 15.06.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 22.06.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 06.07.2026 | — |
+| Einzeltermin | Mo | 18:00–20:00 | 11.05.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 18.05.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 01.06.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 15.06.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 22.06.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 06.07.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Dialektologie und Sprachvariation: Gastvorträge - Kolloquium
 
@@ -251,12 +251,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 18:00–20:00 | 27.04.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 11.05.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 18.05.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 01.06.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 15.06.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 22.06.2026 | — |
-| Einzeltermin | Mo | 18:00–20:00 | 06.07.2026 | — |
+| Einzeltermin | Mo | 18:00–20:00 | 11.05.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 18.05.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 01.06.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 15.06.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 22.06.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Mo | 18:00–20:00 | 06.07.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Oberseminar - Oberseminar
 
@@ -272,7 +272,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 20 |
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Oberseminar - Oberseminar
 
@@ -288,7 +288,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 20 |
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Oberseminar - Oberseminar
 
@@ -304,7 +304,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 20 |
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### 35400 Linguistik - Sprachen - Sprache
 
@@ -859,7 +859,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 54401 Methoden der Linguistik - empirisch, formal und computergestützt - Leistung
 
@@ -874,7 +874,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 54501 Dialekte und Sprachvariation - Leistung
 
@@ -889,7 +889,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 54501 Dialekte und Sprachvariation - Leistung
 
@@ -904,7 +904,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### OS MA Ling. - Dialektologie und Sprachvariation: Oberseminar - Oberseminar
 
@@ -920,13 +920,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–18:00 | 27.04.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 11.05.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 18.05.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 01.06.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 15.06.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 22.06.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 06.07.2026 | — |
+| Einzeltermin | Mo | 16:00–18:00 | 27.04.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 11.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 18.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 01.06.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 15.06.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 22.06.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 06.07.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### OS MA Ling. - Dialektologie und Sprachvariation: Oberseminar - Oberseminar
 
@@ -942,13 +942,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–18:00 | 27.04.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 11.05.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 18.05.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 01.06.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 15.06.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 22.06.2026 | — |
-| Einzeltermin | Mo | 16:00–18:00 | 06.07.2026 | — |
+| Einzeltermin | Mo | 16:00–18:00 | 27.04.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 11.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 18.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 01.06.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 15.06.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 22.06.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Mo | 16:00–18:00 | 06.07.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### OS roman. Sprachwiss. - Kolloquium Romanistische Linguistik - Oberseminar
 
@@ -957,14 +957,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89943&periodId=589>
 
 - **Veranstaltungsart:** Oberseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Mi | 16:00–18:00 | 22.04.2026–01.07.2026 | — |
 
 ### OS roman. Sprachwiss. - Kolloquium Romanistische Linguistik - Oberseminar
 
@@ -973,11 +966,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89943&periodId=589>
 
 - **Veranstaltungsart:** Oberseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Mi | 16:00–18:00 | 22.04.2026–01.07.2026 | — |

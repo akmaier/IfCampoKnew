@@ -48,14 +48,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 14:00–15:30 | 30.06.2025 | — |
-| Einzeltermin | Di | 14:00–15:30 | 14.04.2026 | — |
-| Einzeltermin | Di | 14:00–15:30 | 28.04.2026 | — |
-| Einzeltermin | Di | 14:00–15:30 | 05.05.2026 | — |
-| Einzeltermin | Di | 14:00–15:30 | 19.05.2026 | — |
-| Einzeltermin | Di | 14:00–15:30 | 09.06.2026 | — |
-| Einzeltermin | Di | 14:00–15:30 | 16.06.2026 | — |
-| Einzeltermin | Di | 14:00–15:30 | 23.06.2026 | — |
-| Einzeltermin | Di | 14:00–15:30 | 14.07.2026 | — |
+| Einzeltermin | Di | 14:00–15:30 | 14.04.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Di | 14:00–15:30 | 28.04.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Di | 14:00–15:30 | 05.05.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Di | 14:00–15:30 | 19.05.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Di | 14:00–15:30 | 09.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Di | 14:00–15:30 | 16.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Di | 14:00–15:30 | 23.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Di | 14:00–15:30 | 14.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### 16221 Einführungsmodul GSD: Grundlagen der Grundschuldidaktik (Sachunterricht und Schriftspracherwerb) - Leistung
 
@@ -70,7 +70,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 12:00 - 13:10 | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 12:00–13:10 | 07.06.2026 23:59:59 | — |
 
 ### 16241 Aufbaumodul GSP: Umgang mit Heterogenität (in der Grundschule) - Leistung
 
@@ -85,7 +85,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 09:45 - 11:15 | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | 09:45–11:15 | 07.06.2026 23:59:59 | — |
 
 ### 16242 Aufbaumodul GSP: Umgang mit Heterogenität (in der Grundschule) - Leistung
 
@@ -100,7 +100,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | - | — | 07.06.2026 23:59:59 | — |
+| Fr | Fr | — | 07.06.2026 23:59:59 | — |
 
 ### 16251 Aufbaumodul SSE: Adaptiver Schriftspracherwerb in der Grundschule - Leistung
 
@@ -115,7 +115,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 09:45 - 11:15 | — | 07.06.2026 23:59:59 | — |
+| Di | Di | 09:45–11:15 | 07.06.2026 23:59:59 | — |
 
 ### 16252 Aufbaumodul SSE: Adaptiver Schriftspracherwerb in der Grundschule - Leistung
 
@@ -130,7 +130,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | - | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### 16261 Aufbaumodul SU: Adaptiver Sachunterricht in der Grundschule - Leistung
 
@@ -145,7 +145,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 14:00 - 15:30 | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 16262 Aufbaumodul SU: Adaptiver Sachunterricht in der Grundschule - Leistung
 
@@ -160,7 +160,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 15:45 - 17:15 | — | 07.06.2026 23:59:59 | — |
+| Di | Di | 15:45–17:15 | 07.06.2026 23:59:59 | — |
 
 ### 16301 Pflichtseminar (Proseminar) Grundschulpädagogik 2 - Leistung
 
@@ -175,7 +175,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 09:45 - 11:15 | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | 09:45–11:15 | 07.06.2026 23:59:59 | — |
 
 ### 16302 Wahlpflichtseminar (Proseminar) Grundschulpädagogik 2 - Leistung
 
@@ -190,7 +190,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | - | — | — | — |
+| Fr | Fr | — | — | — |
 
 ### 16501 Klausur zu Vorlesung und Pflichtseminar Sachunterricht 1 - Leistung
 
@@ -205,7 +205,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 12:00 - 12:55 | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 12:00–12:55 | 07.06.2026 23:59:59 | — |
 
 ### 16601 benotete Prüfungsleistung zum Pflichtseminar (Proseminar) zum Aufbaumodul Sachunterricht 2 - Leistung
 
@@ -220,7 +220,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 14:00 - 15:30 | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 16602 unbewertete Prüfungsleistung zum Wahlpflichtseminar (Proseminar) Sachunterricht 2 Aufbaumodul - Leistung
 
@@ -235,7 +235,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 15:45 - 17:15 | — | 07.06.2026 23:59:59 | — |
+| Di | Di | 15:45–17:15 | 07.06.2026 23:59:59 | — |
 
 ### 16701 Klausur zu Vorlesung und Pflichtseminar Schriftspracherwerb 1 - Leistung
 
@@ -250,7 +250,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 12:00 - 12:55 | — | 07.06.2026 23:59:59 | — |
+| Di | Di | 12:00–12:55 | 07.06.2026 23:59:59 | — |
 
 ### 16801 Prüfung zum Pflichtseminar (Proseminar) Aufbaumodul Schriftspracherwerb 2 - Leistung
 
@@ -265,7 +265,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 14:00 - 15:00 | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:00 | 07.06.2026 23:59:59 | — |
 
 ### 16802 2. Seminar aus Pflicht- oder Wahlpflichtbereich zum Aufbaumodul Schriftspracherwerb 2 - Leistung
 
@@ -280,7 +280,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | - | — | 07.06.2026 23:59:59 | — |
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### 59534 Freier Bereich I - Didaktik der Grundschule (GSP, SSE, SU) - Leistung
 
@@ -295,7 +295,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 59535 Freier Bereich II - Didaktik der Grundschule (GSP, SSE, SU) - Leistung
 
@@ -310,7 +310,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 59536 Freier Bereich III - Didaktik der Grundschule (GSP, SSE, SU) - Leistung
 
@@ -325,7 +325,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 59628 Freier Bereich IV - Didaktik der Grundschule (GSP, SSE, SU) - Leistung
 
@@ -340,7 +340,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### Außerschulische Lernorte-A - Büttner / Vorgelagertes Blockseminar: Außerschulische Lernorte und/oder digitales Lernen (Kurs A) - Mittelseminar
 
@@ -357,11 +357,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 12:00–13:00 | 09.03.2026 | — |
-| Einzeltermin | Mo | 08:30–13:30 | 16.03.2026 | — |
-| Einzeltermin | Di | 08:30–16:00 | 17.03.2026 | — |
-| Einzeltermin | Mi | 08:30–13:30 | 18.03.2026 | — |
+| Einzeltermin | Mo | 08:30–13:30 | 16.03.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 08:30–16:00 | 17.03.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mi | 08:30–13:30 | 18.03.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 | Einzeltermin | Do | 08:30–12:30 | 19.03.2026 | — |
-| Einzeltermin | Fr | 08:30–12:30 | 20.03.2026 | — |
+| Einzeltermin | Fr | 08:30–12:30 | 20.03.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Außerschulisches Lernorte B - Büttner / Außerschulische Lernorte und/oder digitales Lernen?! (Kurs B) - Mittelseminar
 
@@ -372,12 +372,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Mittelseminar
 - **Turnus:** in jedem Semester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 30 |
-
 ### Bausteine GSP - Pro-EX - Kopp / Bausteine der Grundschulpädagogik - Strategien zur Bearbeitung von Staatsexamensklausuren  - Hauptseminar
 
 - **Segment:** `exam:15687589` · **unitId:** `92913`
@@ -385,21 +379,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92913&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 13:00–14:00 | 21.04.2026 | — |
-| Einzeltermin | Di | 13:00–14:00 | 19.05.2026 | — |
-| Einzeltermin | Di | 13:00–14:00 | 16.06.2026 | — |
-| Einzeltermin | Di | 13:00–14:00 | 07.07.2026 | — |
-| Einzeltermin | Di | 09:00–16:00 | 21.07.2026 | — |
-| Einzeltermin | Mi | 09:00–16:00 | 22.07.2026 | — |
-| Einzeltermin | Do | 09:00–16:00 | 23.07.2026 | — |
-| Einzeltermin | Di | 10:00–14:00 | 28.07.2026 | — |
 
 ### Digitale Medien - Büttner / Digitale Medien im Sachunterricht der Grundschule sinnvoll einsetzen(Kurs A) - Mittelseminar
 
@@ -408,14 +388,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98094&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | 30 |
 
 ### EFLesen - Jandl / Blended-Learning: E-Books für die Förderung von allen Kindern im Lesen?! Auf die Qualität kommt es an!  - Seminar
 
@@ -431,13 +404,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 08:00–09:30 | 16.04.2026 | — |
-| Einzeltermin | Do | 08:00–09:30 | 07.05.2026 | — |
-| Einzeltermin | Do | 08:00–09:30 | 21.05.2026 | — |
-| Einzeltermin | Do | 08:00–09:30 | 11.06.2026 | — |
-| Einzeltermin | Do | 08:00–09:30 | 25.06.2026 | — |
-| Einzeltermin | Do | 08:00–09:30 | 16.07.2026 | — |
-| Einzeltermin | Do | 08:00–09:30 | 23.07.2026 | — |
+| Einzeltermin | Do | 08:00–09:30 | 16.04.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Do | 08:00–09:30 | 07.05.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Do | 08:00–09:30 | 21.05.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Do | 08:00–09:30 | 11.06.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Do | 08:00–09:30 | 25.06.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Do | 08:00–09:30 | 16.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Do | 08:00–09:30 | 23.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 
 ### Forschen und Experimentieren-A - Büttner / Vorgelagertes Blockseminar: Forschen und Experimentieren in den verschiedenen Perspektiven des Sachunterrichts (Kurs A) - Mittelseminar
 
@@ -446,19 +419,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134016&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 11:00–12:00 | 09.03.2026 | — |
-| Einzeltermin | Mo | 08:30–13:30 | 23.03.2026 | — |
-| Einzeltermin | Di | 08:30–15:00 | 24.03.2026 | — |
-| Einzeltermin | Mi | 08:30–13:30 | 25.03.2026 | — |
-| Einzeltermin | Do | 08:30–15:00 | 26.03.2026 | — |
-| Einzeltermin | Fr | 08:30–12:30 | 27.03.2026 | — |
 
 ### Forschen und Experimentieren_B - Büttner / Forschen und Experimentieren in den verschiedenen Perspektiven des Sachunterrichts (Kurs B) - Seminar
 
@@ -467,14 +428,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130787&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | 30 |
 
 ### GesErz SU - Trinks / Gesundheitserziehung im Sachunterricht?! - Potenziale, Perspektiven und Herausforderungen! - Seminar
 
@@ -483,16 +437,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127844&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 30 |
-| — | wöchentlich | — | 26.05.2026 | 30 |
-| — | Einzeltermin | — | — | 30 |
 
 ### Grundfragen der Grundschulpädagogik (B) - Meyer / Blended Learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule (B) - Seminar
 
@@ -501,14 +446,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133960&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | 30 |
 
 ### Grundfragen der Grundschulpädagogik (Kurs A) - Liebner / Blended learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule (Kurs A) - Seminar
 
@@ -524,7 +462,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | 30 |
+| wöchentlich | Do | 11:30–13:00 | 16.04.2026–16.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 
 ### Grundlagenseminar SSE - Römer / Blended Learning: Grundlagen des Schriftspracherwerbs im Kontext von Vielfalt und individueller Förderung (Kurs B) - Seminar
 
@@ -533,22 +471,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133921&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | — |
-| Einzeltermin | Do | 14:00–15:30 | 30.04.2026 | — |
-| Einzeltermin | Do | 14:00–15:30 | 07.05.2026 | — |
-| Einzeltermin | Do | 14:00–15:30 | 21.05.2026 | — |
-| Einzeltermin | Do | 14:00–15:30 | 11.06.2026 | — |
-| Einzeltermin | Do | 14:00–15:30 | 18.06.2026 | — |
-| Einzeltermin | Do | 14:00–15:30 | 25.06.2026 | — |
-| Einzeltermin | Do | 14:00–15:30 | 02.07.2026 | — |
-| Einzeltermin | Do | 14:00–15:30 | 16.07.2026 | — |
 
 ### GSdZ - Trinks / Blockseminar: Wie sieht die Grundschule der Zukunft aus? - Seminar
 
@@ -564,10 +487,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 10.04.2026 | — |
-| Einzeltermin | Fr | 14:00–17:00 | 08.05.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 10.04.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:00 | 08.05.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 | Einzeltermin | Do | 08:00–11:30 | 11.06.2026 | — |
-| Einzeltermin | Fr | 14:00–17:00 | 12.06.2026 | — |
+| Einzeltermin | Fr | 14:00–17:00 | 12.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### GSP / Konzeptionen der GS - Renner / asynchron-online: Reformpädagogische und innovative Konzeptionen der Grundschule (Einschreibekurs) - Mittelseminar
 
@@ -586,20 +509,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87995&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 13:10–13:50 | 16.04.2026 | — |
-| Einzeltermin | Do | 13:10–13:50 | 23.04.2026 | — |
-| Einzeltermin | Do | 13:10–13:50 | 07.05.2026 | — |
-| Einzeltermin | Do | 13:10–13:50 | 21.05.2026 | — |
-| Einzeltermin | Do | 13:10–13:50 | 11.06.2026 | — |
-| Einzeltermin | Do | 13:10–13:50 | 25.06.2026 | — |
-| Einzeltermin | Do | 13:10–13:50 | 09.07.2026 | — |
 
 ### GTS - Knoth / Die Grundschule im Wandel - pädagogische Implikationen der Ganztagsschule - Seminar
 
@@ -608,14 +518,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131095&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | — |
 
 ### Guter U SSE  - Truckenbrodt / Blockseminar: Guter Unterricht im Schriftspracherwerb  - Mittelseminar
 
@@ -632,9 +535,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 17:00–18:00 | 13.04.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 19.06.2026 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | — |
-| Einzeltermin | So | 09:00–18:00 | 21.06.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 19.06.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | So | 09:00–18:00 | 21.06.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 
 ### HE-NS  - Römer /  Holocaust Education und Nationalsozialismus im Sachunterricht der Grundschule  - Mittelseminar
 
@@ -650,7 +553,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 30 |
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### IchDuWir - Büttner / Ich-Du-Wir. Persönlichkeitsentwicklung in der Grundschule  - Mittelseminar
 
@@ -659,14 +562,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96841&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 30 |
 
 ### Inklusion und Medien (vhb) - Meyer / Online: Inklusion und Medien im Unterricht der Grundschule (vhb-Seminar) - Mittelseminar
 
@@ -685,19 +581,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126870&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 11:30–13:00 | 16.04.2026 | — |
-| Einzeltermin | Do | 11:30–13:00 | 30.04.2026 | — |
-| Einzeltermin | Do | 11:30–13:00 | 21.05.2026 | — |
-| Einzeltermin | Do | 11:30–13:00 | 11.06.2026 | — |
-| Einzeltermin | Do | 11:30–13:00 | 02.07.2026 | — |
-| Einzeltermin | Do | 11:30–13:00 | 09.07.2026 | — |
 
 ### LEFÖ - Ackerlauer / Leseförderung in der Grundschule mit Praxisanteil - Seminar
 
@@ -713,8 +597,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.05.2026 | 20 |
-| — | Einzeltermin | — | — | 20 |
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Mo | 09:00–12:00 | 27.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### Lernschwierigkeiten GS - Liebner / Blended Learning: Kinder mit Lernschwierigkeiten in der Grundschule  - Mittelseminar
 
@@ -730,7 +614,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 30 |
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Lesen fördern - Pfann /Blockseminar: Lesen fördern im Anfangsunterricht - aber wie? Digitale und andere Möglichkeiten - Mittelseminar
 
@@ -739,16 +623,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89176&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:00–19:30 | 22.04.2026 | — |
-| Einzeltermin | Fr | 14:30–19:00 | 12.06.2026 | — |
-| Einzeltermin | Sa | 09:00–17:00 | 27.06.2026 | — |
 
 ### Medien GS - Ackerlauer / Blockseminar: Medienpädagogik in der Grundschule - Mittelseminar
 
@@ -757,16 +632,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126882&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–15:00 | 10.04.2026 | — |
-| Einzeltermin | Sa | 09:00–15:00 | 09.05.2026 | — |
-| Einzeltermin | Sa | 09:00–14:00 | 20.06.2026 | — |
 
 ### Mitbestimmungssensibel unterrichten?!  - Cejvan / Mitbestimmungssensibel unterrichten?! Gelingenselemente und Gestaltungsmöglichkeiten im Grundschulunterricht  - Mittelseminar
 
@@ -782,7 +648,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 30 |
+| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Schbeg - Jandl / Kinder auf den Weg zur Schrift begleiten - Seminar
 
@@ -791,14 +657,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122255&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 30 |
 
 ### SSE / Fallbeispiele - Renner / Präsenzseminar: Diagnose und Förderung im Schriftspracherwerb - Arbeit an Fallbeispielen - Mittelseminar
 
@@ -808,15 +667,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Mittelseminar
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | — |
-| Einzeltermin | Mi | 14:00–15:30 | 01.07.2026 | — |
 
 ### SSE / Konzeptionen des SSE - Renner / asynchron-online: Lehrgangsorientierte und lernwegsorientierte Konzeptionen des Schriftspracherwerbs (Einschreibekurs) - Mittelseminar
 
@@ -826,7 +677,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Mittelseminar
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### SSE HM  - Ackerlauer/ Schriftspracherwerb unter den Aspekten von Heterogenität und Mehrsprachigkeit  - Mittelseminar
@@ -843,7 +693,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | 30 |
+| wöchentlich | Do | 11:30–13:00 | 16.04.2026–16.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### SU / Theorie & Praxis - SU / Theory and practice - Renner / Blockseminar: Sachunterricht in Theorie und Praxis (mit Schulbesuch): Europa macht Schule! / Block seminar: General Education in Theory and Practice (includes school visit): Europe meets School! - Mittelseminar
 
@@ -859,10 +709,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 13:10–13:50 | 28.04.2026 | — |
-| Einzeltermin | Fr | 09:00–18:00 | 22.05.2026 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 23.05.2026 | — |
-| Einzeltermin | Di | 15:45–17:15 | 23.06.2026 | — |
+| Einzeltermin | Di | 13:10–13:50 | 28.04.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Fr | 09:00–18:00 | 22.05.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Sa | 09:00–18:00 | 23.05.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 15:45–17:15 | 23.06.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 | Einzeltermin | Fr | 08:00–14:00 | 17.07.2026 | — |
 
 ### SU: naturwiss. Perspektive - Knoth / Grundlagen des naturwissenschaftlichen Sachunterrichts - Seminar
@@ -879,7 +729,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.05.2026 | 30 |
+| wöchentlich | Di | 15:45–17:15 | 14.04.2026–14.07.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### SU: techn. Perspektive - Knoth / Die technische Perspektive des Sachunterrichts handlungsorientiert umsetzen - Seminar
 
@@ -895,7 +745,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | — |
+| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### VL PS_SU_SSE - Einführungsmodul GSD: Grundlagen der Grundschuldidaktik - Sachunterricht und Schriftspracherwerb  - Vorlesung
 
@@ -911,4 +761,4 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.05.2026 04.06.2026 | 500 |
+| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
