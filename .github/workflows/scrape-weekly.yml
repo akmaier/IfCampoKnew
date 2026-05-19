@@ -115,6 +115,36 @@ jobs:
             --save-every 50 \
             -v
 
+      - name: Search-walker backfill (catches courses missed by catalog walk)
+        # Drives Campo's public searchCourseNonStaff-flow with a curated
+        # query list (FAUdir Prof full names + Lehrstuhl name-suffixes).
+        # Catches courses at depth 7+ in the catalog tree, niche cross-
+        # listed Veranstaltungen, and seminars by non-FAUdir lecturers
+        # (e.g. Person A's "Seminar Large Language Models in
+        # Medicine" — depth-?+ in MSc AI / MSc DataScience / MA English
+        # Studies / BA Computerlinguistik / MSc Medizintechnik).
+        if: steps.vars.outputs.with_courses == 'true'
+        continue-on-error: true
+        run: |
+          python scraper/search_walker.py \
+            --period ${{ steps.vars.outputs.period_id }} \
+            --queries-file scraper/data/search_queries.txt \
+            --out tmp/${{ steps.vars.outputs.period_id }}-search.json \
+            --interval 0.5 \
+            -v
+
+      - name: Fetch course details from search backfill
+        if: steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', steps.vars.outputs.period_id)) != ''
+        run: |
+          python scraper/fetch_courses.py \
+            --in tmp/${{ steps.vars.outputs.period_id }}-search.json \
+            --out tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --resume \
+            --parallel 2 \
+            --interval 0.2 \
+            --save-every 50 \
+            -v
+
       # ── Prior-period steps ──────────────────────────────────────────────
       # The Pflicht-Analyse needs both terms of an academic year (Entry
       # 0019 in devlog.md): many Pflicht-Vorlesungen run only in WiSe
@@ -188,6 +218,30 @@ jobs:
         run: |
           python scraper/fetch_courses.py \
             --in tmp/${{ steps.vars.outputs.prior_period_id }}-tagesaktuelle.json \
+            --out tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
+            --resume \
+            --parallel 2 \
+            --interval 0.2 \
+            --save-every 50 \
+            -v
+
+      - name: Search-walker backfill for prior period
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true'
+        continue-on-error: true
+        run: |
+          python scraper/search_walker.py \
+            --period ${{ steps.vars.outputs.prior_period_id }} \
+            --queries-file scraper/data/search_queries.txt \
+            --out tmp/${{ steps.vars.outputs.prior_period_id }}-search.json \
+            --interval 0.5 \
+            -v
+
+      - name: Fetch prior-period courses from search backfill
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true' && hashFiles(format('tmp/{0}-search.json', steps.vars.outputs.prior_period_id)) != ''
+        continue-on-error: true
+        run: |
+          python scraper/fetch_courses.py \
+            --in tmp/${{ steps.vars.outputs.prior_period_id }}-search.json \
             --out tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
             --resume \
             --parallel 2 \

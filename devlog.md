@@ -1784,3 +1784,105 @@ scraper/tests/fixtures/termine_deep_learning_2026.html | NEW (16 KB)
 ```
 
 **Status:** Parser fix shipped, regression locked in. Existing corpus carries the bug until the next re-fetch; deciding whether to trigger an immediate cron run or wait for Monday is the user's call.
+
+## Entry 0029 — Option B: search_walker.py backfills courses missed by catalog walk
+
+- **Start:** 2026-05-15 23:30 CEST
+- **End:** 2026-05-16 (in progress)
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompt (verbatim):**
+
+> I think Option B neeeds to be added to make sure all course are there.
+>
+> Once the fix is done, can we fire an additional github action today as a bug fix?
+
+**Context.** Entry 0028 fixed the room-column parser bug. While diagnosing
+that, we discovered Person A's "Seminar Large Language Models in
+Medicine" (`unitId=136825`, SoSe 2026) is also missing from our scrape.
+It's cross-listed for 5 Studiengänge (MSc Medizintechnik, MSc AI, MSc
+Data Science, MA English Studies, BA Computerlinguistik) but lives at
+depth ≥ 7+ in every catalog subtree we walked. Catalog-walk alone can't
+reach it.
+
+**Solution.** New `scraper/search_walker.py` drives Campo's public
+**`searchCourseNonStaff-flow`** (the same flow the user originally
+shared) with JSF POSTs:
+
+1. **Bootstrap** the flow via the start page — Campo redirects to
+   `_flowExecutionKey=e1s1` with a real ViewState.
+2. **Discover form-field IDs at runtime.** Campo embeds hashes in
+   names like `inputField_0_{hash}:id{hash}`; extracting them from the
+   rendered `<label for="…">Suchbegriffe</label>` keeps the walker
+   robust against Campo re-deploys.
+3. **POST one search per query term**, harvest `unitId=N`
+   references from the result page.
+4. **Output** a snapshot JSON in scrape.py-compatible shape so
+   `fetch_courses.py --resume` can pick it up unmodified.
+
+**Query list** (`scraper/data/search_queries.txt`, **1 391 entries**):
+* **766 full Prof names** ("Vorname Nachname") from FAUdir, filtered
+  by `personalTitle ∈ {Prof.*, Juniorprof.*}` and `^PD` excluded.
+* **625 Lehrstuhl/Institut name-suffixes** parsed from the
+  `organization.name` strings in FAUdir (e.g. *"Lehrstuhl für
+  Mustererkennung"* → query `Mustererkennung`).
+
+At Campo's ~1 req per 0.5 s the full sweep is ≈ 12 min per period; both
+periods together fit in the cron budget alongside the catalog walk.
+
+**Verification:**
+
+```
+$ python scraper/search_walker.py --period 589 \
+    --queries "Large Language Models in Medicine" "Mustererkennung" \
+    --out /tmp/test.json -v
+INFO query 'Large Language Models in Medicine': page 1 → 1 hits
+INFO query 'Mustererkennung':                    page 1 → 2 hits
+wrote /tmp/test.json: unit_ids=3
+  uid= 86267  "Praktikum Mustererkennung"
+  uid= 89944  "Projekt Mustererkennung"
+  uid=136825  "Seminar Large Language Models in Medicine"    ← THE GAP
+```
+
+Then `fetch_courses` on 136825:
+
+```
+title:               "Seminar Large Language Models in Medicine"
+instructors_resp:    ["Person A"]
+appointments[0]:     room='05101.00.016 (SR)' weekday='Di'
+                     time=10:00-12:00 rhythm='wöchentlich'
+```
+
+Matches the user's manual lookup exactly.
+
+**Limitations of v1:**
+
+* Only page 1 of search results is harvested (up to 10 hits per query).
+  Broad queries like "Maier" return 102 results in 11 pages; we lose
+  page 2+. Mitigated by using **narrow queries** (full names, specific
+  Lehrstuhl-suffixes) so most return < 10 hits.
+* JSF pagination (POST to next-page link) is feasible but deferred —
+  needs the JSF behaviour-event payload format which isn't trivial to
+  reproduce. v2 if/when the narrow-query strategy proves insufficient.
+* The query list is curated from FAUdir as-of last scrape; new Profs
+  added between FAU refreshes won't yet have queries. The monthly
+  FAU.de scrape will refresh FAUdir, and a small generator script can
+  rebuild `search_queries.txt` from it.
+
+**Workflow integration** (`.github/workflows/scrape-weekly.yml`):
+
+Added 2 × 2 = **4 new steps** (one search-walker + one resume-fetch per
+period, plus the same pair for the prior period). All gated on
+`with_courses == 'true'` and `continue-on-error: true` so a transient
+search-flow failure never blocks the main scrape. Cron budget impact:
++ ~12 min walker + ~5–10 min resume-fetch per period = ~30 min extra
+total. Still under the 6 h cap.
+
+**Status (in flight):**
+- WiSe re-fetch (Entry 0028 room fix) DONE: 0 numeric-only rooms (was
+  1 074), 1 845 named rooms.
+- SoSe re-fetch in progress (~45 %).
+- SoSe search-walker running in parallel (~0.6 % done).
+- After both complete locally: resume-fetch new uids → render → analyse
+  → commit + push → workflow_dispatch the cron for the canonical
+  release zip.
