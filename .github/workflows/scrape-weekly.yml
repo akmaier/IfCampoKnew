@@ -3,6 +3,30 @@ name: Weekly Campo scrape
 # Mondays 03:00 UTC = 04:00 CET / 05:00 CEST.
 # Off-peak for Campo; gives the workweek a fresh corpus by Monday morning.
 # Manual run via the Actions tab is also supported.
+#
+# Architecture (refactored 2026-05-20): 4-job pipeline.
+#
+#   vars                      — resolves inputs once, ~1 min
+#     ├── scrape_current      — walk+fetch+sweep+walker for the current
+#     │                         period (589 by default), uploads tmp/*.json
+#     │                         as artifacts. 6 h budget.
+#     ├── scrape_prior        — same chain for the prior period (565 by
+#     │                         default). Has its own monthly cache; on
+#     │                         hit, skips the heavy walks. 6 h budget.
+#     ├── faudir              — pulls the FAUdir Professor:innen-Index,
+#     │                         uploads tmp/faudir-persons.json + the
+#     │                         data/personen/ chunk files. ~5 min.
+#     └── render_and_release  — needs all three. Downloads their
+#                               artifacts, renders markdown, runs all
+#                               analyses, commits + zips + Releases.
+#                               ~15 min.
+#
+# Why split? The previous monolith ran sequentially in one job and
+# routinely brushed (and twice exceeded) GitHub Actions' job timeout.
+# Splitting lets scrape_current / scrape_prior / faudir run in PARALLEL
+# (max wall-clock ≈ 3.5 h instead of 8 h), each gets its own 6 h
+# budget, and a hiccup in one scrape job doesn't lose the other two.
+
 on:
   schedule:
     - cron: "0 3 * * 1"
@@ -33,16 +57,36 @@ concurrency:
   cancel-in-progress: false  # never interrupt an in-flight scrape
 
 jobs:
-  scrape:
+
+  # ─── Job 1: resolve workflow inputs once, expose them to other jobs ───
+  vars:
     runs-on: ubuntu-latest
-    timeout-minutes: 720  # 12 h. The 2026-05-20 run with parallel=4
-                          # search-walker for BOTH periods observed:
-                          # catalog walk ~40 min + catalog fetch ~70 min
-                          # + sweep ~15 min + search-walker ~75 min +
-                          # resume-fetch ~50 min, all twice (current +
-                          # prior on cache miss) ≈ 8 h. 12 h gives a
-                          # generous safety margin per project policy:
-                          # completeness > wall-clock.
+    timeout-minutes: 5
+    outputs:
+      period_id:        ${{ steps.set.outputs.period_id }}
+      prior_period_id:  ${{ steps.set.outputs.prior_period_id }}
+      max_depth:        ${{ steps.set.outputs.max_depth }}
+      with_courses:     ${{ steps.set.outputs.with_courses }}
+      iso_week:         ${{ steps.set.outputs.iso_week }}
+      iso_month:        ${{ steps.set.outputs.iso_month }}
+    steps:
+      - name: Resolve inputs
+        id: set
+        run: |
+          echo "period_id=${{ github.event.inputs.period_id || '589' }}" >> "$GITHUB_OUTPUT"
+          echo "prior_period_id=${{ github.event.inputs.prior_period_id || '565' }}" >> "$GITHUB_OUTPUT"
+          echo "max_depth=${{ github.event.inputs.max_depth || '6' }}"   >> "$GITHUB_OUTPUT"
+          echo "with_courses=${{ github.event.inputs.with_courses || 'true' }}" >> "$GITHUB_OUTPUT"
+          echo "iso_week=$(date -u +%G-W%V)" >> "$GITHUB_OUTPUT"
+          echo "iso_month=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
+
+  # ─── Job 2: scrape the current period (no cache; always re-fetch) ────
+  scrape_current:
+    needs: vars
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 h. Catalog walk + fetch + sweep + search-
+                           # walker for one period observed ~3.5 h on
+                           # 2026-05-20. 6 h gives a comfortable margin.
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -57,65 +101,45 @@ jobs:
       - name: Install scraper dependencies
         run: pip install -r scraper/requirements.txt
 
-      - name: Resolve inputs
-        id: vars
-        run: |
-          echo "period_id=${{ github.event.inputs.period_id || '589' }}" >> "$GITHUB_OUTPUT"
-          echo "prior_period_id=${{ github.event.inputs.prior_period_id || '565' }}" >> "$GITHUB_OUTPUT"
-          echo "max_depth=${{ github.event.inputs.max_depth || '6' }}"   >> "$GITHUB_OUTPUT"
-          echo "with_courses=${{ github.event.inputs.with_courses || 'true' }}" >> "$GITHUB_OUTPUT"
-          echo "iso_week=$(date -u +%G-W%V)" >> "$GITHUB_OUTPUT"
-          echo "iso_month=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
-
       - name: Walk catalogue tree
-        # Parallel BFS (4 workers, each its own JSESSIONID) cuts depth-6
-        # walk from ~30 min to ~10 min per the rate-probe ceiling
-        # (~4 r/s aggregate at 4 sessions × 0.2s interval). Tradeoff:
-        # SIGINT/SIGTERM checkpointing is disabled in parallel mode, so
-        # a manual cancel won't leave a resumable state — but the cron
-        # never cancels mid-walk anyway.
         run: |
           mkdir -p tmp
           python scraper/scrape.py \
-            --period ${{ steps.vars.outputs.period_id }} \
-            --out tmp/${{ steps.vars.outputs.period_id }}.json \
-            --max-depth ${{ steps.vars.outputs.max_depth }} \
+            --period ${{ needs.vars.outputs.period_id }} \
+            --out tmp/${{ needs.vars.outputs.period_id }}.json \
+            --max-depth ${{ needs.vars.outputs.max_depth }} \
             --interval 0.2 \
             --parallel 4 \
             --checkpoint-every 100 \
             -v
 
       - name: Fetch course detail pages (catalogue)
-        if: steps.vars.outputs.with_courses == 'true'
-        # parallel=2 + interval=0.2s ≈ 2.7 req/s aggregate. Per the
-        # 2026-05-03 rate probe: doubles throughput vs --interval 0.5
-        # at the same p95 latency, no backend contention. See devlog
-        # entry 0016 for the calibration.
+        if: needs.vars.outputs.with_courses == 'true'
         run: |
           python scraper/fetch_courses.py \
-            --in tmp/${{ steps.vars.outputs.period_id }}.json \
-            --out tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --in tmp/${{ needs.vars.outputs.period_id }}.json \
+            --out tmp/${{ needs.vars.outputs.period_id }}-courses.json \
             --parallel 2 \
             --interval 0.2 \
             --save-every 50 \
             -v
 
       - name: Sweep Tagesaktuelle Veranstaltungen for the semester
-        if: steps.vars.outputs.with_courses == 'true'
+        if: needs.vars.outputs.with_courses == 'true'
+        continue-on-error: true
         run: |
           python scraper/scrape_tagesaktuelle.py \
-            --period ${{ steps.vars.outputs.period_id }} \
-            --out tmp/${{ steps.vars.outputs.period_id }}-tagesaktuelle.json \
+            --period ${{ needs.vars.outputs.period_id }} \
+            --out tmp/${{ needs.vars.outputs.period_id }}-tagesaktuelle.json \
             --interval 0.5 \
             -v
-        continue-on-error: true
 
       - name: Fetch additional course details from sweep
-        if: steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', steps.vars.outputs.period_id)) != ''
+        if: needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', needs.vars.outputs.period_id)) != ''
         run: |
           python scraper/fetch_courses.py \
-            --in tmp/${{ steps.vars.outputs.period_id }}-tagesaktuelle.json \
-            --out tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --in tmp/${{ needs.vars.outputs.period_id }}-tagesaktuelle.json \
+            --out tmp/${{ needs.vars.outputs.period_id }}-courses.json \
             --resume \
             --parallel 2 \
             --interval 0.2 \
@@ -123,119 +147,118 @@ jobs:
             -v
 
       - name: Search-walker backfill (catches courses missed by catalog walk)
-        # Drives Campo's public searchCourseNonStaff-flow with a curated
-        # query list (FAUdir Prof full names + Lehrstuhl name-suffixes
-        # + instructor names from the current corpus + known gaps).
-        # Catches courses at depth 7+ in the catalog tree, niche cross-
-        # listed Veranstaltungen, and seminars by non-FAUdir lecturers
-        # (e.g. Person A's "Seminar Large Language Models in
-        # Medicine" — depth-?+ in MSc AI / MSc DataScience / MA English
-        # Studies / BA Computerlinguistik / MSc Medizintechnik).
-        # parallel=4 keeps aggregate HTTP rate under the 4 r/s
-        # comfortable ceiling (rate-probe Entry 0016).
-        if: steps.vars.outputs.with_courses == 'true'
+        if: needs.vars.outputs.with_courses == 'true'
         continue-on-error: true
         run: |
           python scraper/search_walker.py \
-            --period ${{ steps.vars.outputs.period_id }} \
+            --period ${{ needs.vars.outputs.period_id }} \
             --queries-file scraper/data/search_queries.txt \
-            --out tmp/${{ steps.vars.outputs.period_id }}-search.json \
+            --out tmp/${{ needs.vars.outputs.period_id }}-search.json \
             --parallel 4 \
             --interval 0.5 \
             -v
 
       - name: Fetch course details from search backfill
-        if: steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', steps.vars.outputs.period_id)) != ''
+        if: needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', needs.vars.outputs.period_id)) != ''
         run: |
           python scraper/fetch_courses.py \
-            --in tmp/${{ steps.vars.outputs.period_id }}-search.json \
-            --out tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+            --in tmp/${{ needs.vars.outputs.period_id }}-search.json \
+            --out tmp/${{ needs.vars.outputs.period_id }}-courses.json \
             --resume \
             --parallel 2 \
             --interval 0.2 \
             --save-every 50 \
             -v
 
-      # ── Prior-period steps ──────────────────────────────────────────────
-      # The Pflicht-Analyse needs both terms of an academic year (Entry
-      # 0019 in devlog.md): many Pflicht-Vorlesungen run only in WiSe
-      # (Analysis I, Programmierung, Anatomie, …) and would be invisible
-      # if we only scrape the current term. All prior-period steps use
-      # `continue-on-error: true` so a transient failure on the prior
-      # term never blocks the main scrape.
-      #
-      # The 2026-05-04 cron timed out at GitHub Actions' 6-hour cap with
-      # depth-6 walks for both periods. Fix: cache the prior-period
-      # snapshots and refresh only monthly. The prior period (WiSe in
-      # the SoSe-cron case, etc.) has finished/is finishing — its data
-      # changes far less than the current term's. On a cache hit (most
-      # weeks) the four prior-period scrape steps below all skip.
+      - name: Upload current-period artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-current-${{ needs.vars.outputs.period_id }}
+          path: |
+            tmp/${{ needs.vars.outputs.period_id }}.json
+            tmp/${{ needs.vars.outputs.period_id }}-courses.json
+            tmp/${{ needs.vars.outputs.period_id }}-tagesaktuelle.json
+            tmp/${{ needs.vars.outputs.period_id }}-search.json
+          if-no-files-found: warn
+          retention-days: 7
+
+  # ─── Job 3: scrape the prior period (with monthly cache) ─────────────
+  scrape_prior:
+    needs: vars
+    if: needs.vars.outputs.prior_period_id != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 h. Same shape as scrape_current.
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
 
       - name: Restore prior-period cache (monthly key)
-        if: steps.vars.outputs.prior_period_id != ''
         id: cache_prior
         uses: actions/cache@v4
         with:
           path: |
-            tmp/${{ steps.vars.outputs.prior_period_id }}.json
-            tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json
-            tmp/${{ steps.vars.outputs.prior_period_id }}-tagesaktuelle.json
-          # Cache key salted with "v2" to invalidate the May-2026 W20/W21
-          # caches whose 565-courses.json was fetched before the room-
-          # column parser fix (commit ef3349e). Bumping the salt forces a
-          # one-time re-walk + re-fetch of the prior period so it gets the
-          # corrected Raum data (H18+H21 / H8 instead of "350" etc.).
-          # Future cache rotations should keep the salt unless another
-          # parser-level breaking change lands.
-          key: campo-prior-${{ steps.vars.outputs.prior_period_id }}-d${{ steps.vars.outputs.max_depth }}-v2-${{ steps.vars.outputs.iso_month }}
-          # Restore-keys NO LONGER fall back to v1: that would defeat the
-          # cache bust. Only the v2-keyed prior-period snapshots are
-          # accepted; the first run of any month with v2 will repopulate.
+            tmp/${{ needs.vars.outputs.prior_period_id }}.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-search.json
+          # Cache key salted with "v3" — the 2026-05 cache rotation
+          # introduced the search-walker + room parser fix. Bump the
+          # salt whenever a parser-level breaking change lands so the
+          # cache invalidates cleanly.
+          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v3-${{ needs.vars.outputs.iso_month }}
           restore-keys: |
-            campo-prior-${{ steps.vars.outputs.prior_period_id }}-d${{ steps.vars.outputs.max_depth }}-v2-
+            campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v3-
 
       - name: Walk prior period catalogue
-        if: steps.vars.outputs.prior_period_id != '' && steps.cache_prior.outputs.cache-hit != 'true'
-        continue-on-error: true
+        if: steps.cache_prior.outputs.cache-hit != 'true'
         run: |
+          mkdir -p tmp
           python scraper/scrape.py \
-            --period ${{ steps.vars.outputs.prior_period_id }} \
-            --out tmp/${{ steps.vars.outputs.prior_period_id }}.json \
-            --max-depth ${{ steps.vars.outputs.max_depth }} \
+            --period ${{ needs.vars.outputs.prior_period_id }} \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}.json \
+            --max-depth ${{ needs.vars.outputs.max_depth }} \
             --interval 0.2 \
             --parallel 4 \
             --checkpoint-every 100 \
             -v
 
       - name: Fetch prior-period course details
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true' && hashFiles(format('tmp/{0}.json', steps.vars.outputs.prior_period_id)) != ''
-        continue-on-error: true
+        if: steps.cache_prior.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}.json', needs.vars.outputs.prior_period_id)) != ''
         run: |
           python scraper/fetch_courses.py \
-            --in tmp/${{ steps.vars.outputs.prior_period_id }}.json \
-            --out tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
+            --in tmp/${{ needs.vars.outputs.prior_period_id }}.json \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json \
             --parallel 2 \
             --interval 0.2 \
             --save-every 50 \
             -v
 
       - name: Sweep Tagesaktuelle for prior period
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true'
+        if: steps.cache_prior.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true'
         continue-on-error: true
         run: |
           python scraper/scrape_tagesaktuelle.py \
-            --period ${{ steps.vars.outputs.prior_period_id }} \
-            --out tmp/${{ steps.vars.outputs.prior_period_id }}-tagesaktuelle.json \
+            --period ${{ needs.vars.outputs.prior_period_id }} \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json \
             --interval 0.5 \
             -v
 
       - name: Fetch additional prior-period courses from sweep
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && steps.cache_prior.outputs.cache-hit != 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', steps.vars.outputs.prior_period_id)) != ''
-        continue-on-error: true
+        if: steps.cache_prior.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', needs.vars.outputs.prior_period_id)) != ''
         run: |
           python scraper/fetch_courses.py \
-            --in tmp/${{ steps.vars.outputs.prior_period_id }}-tagesaktuelle.json \
-            --out tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
+            --in tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json \
             --resume \
             --parallel 2 \
             --interval 0.2 \
@@ -243,73 +266,155 @@ jobs:
             -v
 
       - name: Search-walker backfill for prior period
-        # Same queries / parallelism as current-period. Per project
-        # policy: prefer corpus completeness over wall-clock — search-
-        # walker for prior period catches Veranstaltungen that the
-        # cached catalog walk misses (e.g. depth-7+ Lehrstuhl seminars).
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true'
+        if: needs.vars.outputs.with_courses == 'true'
         continue-on-error: true
         run: |
           python scraper/search_walker.py \
-            --period ${{ steps.vars.outputs.prior_period_id }} \
+            --period ${{ needs.vars.outputs.prior_period_id }} \
             --queries-file scraper/data/search_queries.txt \
-            --out tmp/${{ steps.vars.outputs.prior_period_id }}-search.json \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}-search.json \
             --parallel 4 \
             --interval 0.5 \
             -v
 
       - name: Fetch prior-period courses from search backfill
-        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', steps.vars.outputs.prior_period_id)) != ''
-        continue-on-error: true
+        if: needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', needs.vars.outputs.prior_period_id)) != ''
         run: |
           python scraper/fetch_courses.py \
-            --in tmp/${{ steps.vars.outputs.prior_period_id }}-search.json \
-            --out tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
+            --in tmp/${{ needs.vars.outputs.prior_period_id }}-search.json \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json \
             --resume \
             --parallel 2 \
             --interval 0.2 \
             --save-every 50 \
             -v
 
+      - name: Upload prior-period artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-prior-${{ needs.vars.outputs.prior_period_id }}
+          path: |
+            tmp/${{ needs.vars.outputs.prior_period_id }}.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-search.json
+          if-no-files-found: warn
+          retention-days: 7
+
+  # ─── Job 4: FAUdir Professor:innen-Index (runs in parallel) ──────────
+  faudir:
+    needs: vars
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Pull FAUdir Professor:innen-Index
+        run: |
+          mkdir -p tmp data/personen
+          python scraper/faudir_scrape.py \
+            --out data/personen/faudir-INDEX.md \
+            --interval 0.5 \
+            -v
+
+      - name: Upload FAUdir artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: faudir
+          path: |
+            tmp/faudir-persons.json
+            data/personen/faudir-*.md
+          if-no-files-found: warn
+          retention-days: 7
+
+  # ─── Job 5: render markdown + analyse + commit + zip + Release ───────
+  render_and_release:
+    needs: [vars, scrape_current, scrape_prior, faudir]
+    # Continue even if one of the upstream jobs failed (e.g. prior-period
+    # scrape hit a transient Campo issue) — the analyse adapts to whichever
+    # period artifacts are present.
+    if: always() && needs.scrape_current.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Download current-period artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: scrape-current-${{ needs.vars.outputs.period_id }}
+          path: tmp
+
+      - name: Download prior-period artifacts
+        if: needs.scrape_prior.result == 'success'
+        uses: actions/download-artifact@v4
+        with:
+          name: scrape-prior-${{ needs.vars.outputs.prior_period_id }}
+          path: tmp
+
+      - name: Download FAUdir artifacts
+        if: needs.faudir.result == 'success'
+        uses: actions/download-artifact@v4
+        with:
+          name: faudir
+          path: .  # restores tmp/faudir-persons.json AND data/personen/faudir-*.md
+
       - name: Render markdown corpus
         run: |
-          if [ -f "tmp/${{ steps.vars.outputs.period_id }}-courses.json" ]; then
+          if [ -f "tmp/${{ needs.vars.outputs.period_id }}-courses.json" ]; then
             python scraper/render_markdown.py \
-              --in tmp/${{ steps.vars.outputs.period_id }}.json \
-              --courses tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+              --in tmp/${{ needs.vars.outputs.period_id }}.json \
+              --courses tmp/${{ needs.vars.outputs.period_id }}-courses.json \
               --out data
           else
             python scraper/render_markdown.py \
-              --in tmp/${{ steps.vars.outputs.period_id }}.json \
+              --in tmp/${{ needs.vars.outputs.period_id }}.json \
               --out data
           fi
 
       - name: Render prior-period markdown corpus
-        # Without this, the Pflicht-Analyse's "Campo-Studiengang"
-        # links into ../{prior-period-slug}/… would resolve to nothing.
-        if: steps.vars.outputs.prior_period_id != '' && hashFiles(format('tmp/{0}.json', steps.vars.outputs.prior_period_id)) != ''
+        if: needs.vars.outputs.prior_period_id != '' && hashFiles(format('tmp/{0}.json', needs.vars.outputs.prior_period_id)) != ''
         continue-on-error: true
         run: |
-          if [ -f "tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json" ]; then
+          if [ -f "tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json" ]; then
             python scraper/render_markdown.py \
-              --in tmp/${{ steps.vars.outputs.prior_period_id }}.json \
-              --courses tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
+              --in tmp/${{ needs.vars.outputs.prior_period_id }}.json \
+              --courses tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json \
               --out data
           else
             python scraper/render_markdown.py \
-              --in tmp/${{ steps.vars.outputs.prior_period_id }}.json \
+              --in tmp/${{ needs.vars.outputs.prior_period_id }}.json \
               --out data
           fi
 
       - name: Aggregate Lehrende-Index aus Campo (people)
-        # Includes prior-period inputs when available so the index covers
-        # the full academic year (Profs who only teach WiSe wouldn't show
-        # up in a SoSe-only index).
-        if: hashFiles(format('tmp/{0}-courses.json', steps.vars.outputs.period_id)) != ''
+        if: hashFiles(format('tmp/{0}-courses.json', needs.vars.outputs.period_id)) != ''
         run: |
-          INPUTS="tmp/${{ steps.vars.outputs.period_id }}.json tmp/${{ steps.vars.outputs.period_id }}-courses.json"
-          if [ -n "${{ steps.vars.outputs.prior_period_id }}" ]; then
-            for f in tmp/${{ steps.vars.outputs.prior_period_id }}.json tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json; do
+          INPUTS="tmp/${{ needs.vars.outputs.period_id }}.json tmp/${{ needs.vars.outputs.period_id }}-courses.json"
+          if [ -n "${{ needs.vars.outputs.prior_period_id }}" ]; then
+            for f in tmp/${{ needs.vars.outputs.prior_period_id }}.json tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json; do
               [ -f "$f" ] && INPUTS="$INPUTS $f"
             done
           fi
@@ -319,36 +424,25 @@ jobs:
             --out data/personen \
             -v
 
-      - name: Pull FAUdir Professor:innen-Index (für Pflicht-Cross-Ref)
-        run: |
-          python scraper/faudir_scrape.py \
-            --out data/personen/faudir-INDEX.md \
-            --interval 0.5 \
-            -v
-        continue-on-error: true  # if FAUdir is down, the analyze still runs without it
-
       - name: Heuristische Pflicht-Analyse + W-Profs-Cross-Ref
-        if: hashFiles(format('tmp/{0}-courses.json', steps.vars.outputs.period_id)) != ''
-        # When prior-period data is on disk, pass BOTH periods to the
-        # analyser. analyze_pflicht.py auto-derives periodId from each
-        # tree JSON so --period is no longer required (Entry 0017).
+        if: hashFiles(format('tmp/{0}-courses.json', needs.vars.outputs.period_id)) != ''
         run: |
-          PRIOR_TREE="tmp/${{ steps.vars.outputs.prior_period_id }}.json"
-          PRIOR_COURSES="tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json"
-          if [ -n "${{ steps.vars.outputs.prior_period_id }}" ] && [ -f "$PRIOR_TREE" ] && [ -f "$PRIOR_COURSES" ]; then
+          PRIOR_TREE="tmp/${{ needs.vars.outputs.prior_period_id }}.json"
+          PRIOR_COURSES="tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json"
+          if [ -n "${{ needs.vars.outputs.prior_period_id }}" ] && [ -f "$PRIOR_TREE" ] && [ -f "$PRIOR_COURSES" ]; then
             echo "Running Pflicht-Analyse with both periods (current + prior)"
             python scraper/analyze_pflicht.py \
               --data data \
-              --tree "$PRIOR_TREE" tmp/${{ steps.vars.outputs.period_id }}.json \
-              --courses "$PRIOR_COURSES" tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+              --tree "$PRIOR_TREE" tmp/${{ needs.vars.outputs.period_id }}.json \
+              --courses "$PRIOR_COURSES" tmp/${{ needs.vars.outputs.period_id }}-courses.json \
               --out data/analyse/pflichtveranstaltungen.md \
               -v
           else
             echo "Prior-period data not present — single-period analyse"
             python scraper/analyze_pflicht.py \
               --data data \
-              --tree tmp/${{ steps.vars.outputs.period_id }}.json \
-              --courses tmp/${{ steps.vars.outputs.period_id }}-courses.json \
+              --tree tmp/${{ needs.vars.outputs.period_id }}.json \
+              --courses tmp/${{ needs.vars.outputs.period_id }}-courses.json \
               --out data/analyse/pflichtveranstaltungen.md \
               -v
           fi
@@ -370,7 +464,7 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No corpus changes — skipping commit and release."
           else
-            git commit -m "Weekly scrape: ${{ steps.vars.outputs.iso_week }} (period ${{ steps.vars.outputs.period_id }})"
+            git commit -m "Weekly scrape: ${{ needs.vars.outputs.iso_week }} (period ${{ needs.vars.outputs.period_id }})"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
@@ -380,8 +474,7 @@ jobs:
         id: zip
         run: |
           cd data
-          ZIP_NAME="ifcampoknew-corpus-${{ steps.vars.outputs.iso_week }}.zip"
-          # archive the whole corpus so a downloader gets one self-contained file
+          ZIP_NAME="ifcampoknew-corpus-${{ needs.vars.outputs.iso_week }}.zip"
           zip -r -q "../$ZIP_NAME" .
           cd ..
           echo "name=$ZIP_NAME" >> "$GITHUB_OUTPUT"
@@ -391,22 +484,22 @@ jobs:
         if: steps.commit.outputs.changed == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: snapshot-${{ steps.vars.outputs.iso_week }}
-          name: Snapshot ${{ steps.vars.outputs.iso_week }} (period ${{ steps.vars.outputs.period_id }})
+          tag_name: snapshot-${{ needs.vars.outputs.iso_week }}
+          name: Snapshot ${{ needs.vars.outputs.iso_week }} (period ${{ needs.vars.outputs.period_id }})
           body: |
             Automated weekly scrape of Campo.
 
-            * periodId: ${{ steps.vars.outputs.period_id }}
-            * tree max-depth: ${{ steps.vars.outputs.max_depth }}
-            * with course details: ${{ steps.vars.outputs.with_courses }}
+            * periodId: ${{ needs.vars.outputs.period_id }}
+            * tree max-depth: ${{ needs.vars.outputs.max_depth }}
+            * with course details: ${{ needs.vars.outputs.with_courses }}
             * corpus zip: ${{ steps.zip.outputs.name }} (${{ steps.zip.outputs.size }})
 
             Download `${{ steps.zip.outputs.name }}` for a self-contained,
             RAG-ready markdown corpus. Start with `README.md` inside the zip.
           files: |
             ${{ steps.zip.outputs.name }}
-            tmp/${{ steps.vars.outputs.period_id }}.json
-            tmp/${{ steps.vars.outputs.period_id }}-courses.json
-            tmp/${{ steps.vars.outputs.prior_period_id }}.json
-            tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json
+            tmp/${{ needs.vars.outputs.period_id }}.json
+            tmp/${{ needs.vars.outputs.period_id }}-courses.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
           fail_on_unmatched_files: false
