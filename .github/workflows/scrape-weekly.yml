@@ -35,9 +35,11 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 420  # generous: catalog walk + fetch + sweep +
-                          # search-walker per period; the search-walker
-                          # alone runs ~2 h on the cron runner.
+    timeout-minutes: 480  # 8 h. Search-walker with --parallel 4 over the
+                          # 2 680-entry query list runs ~30–45 min per
+                          # period; the budget covers a worst-case cron
+                          # where prior-period cache misses AND search-
+                          # walker runs slow.
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -119,12 +121,15 @@ jobs:
 
       - name: Search-walker backfill (catches courses missed by catalog walk)
         # Drives Campo's public searchCourseNonStaff-flow with a curated
-        # query list (FAUdir Prof full names + Lehrstuhl name-suffixes).
+        # query list (FAUdir Prof full names + Lehrstuhl name-suffixes
+        # + instructor names from the current corpus + known gaps).
         # Catches courses at depth 7+ in the catalog tree, niche cross-
         # listed Veranstaltungen, and seminars by non-FAUdir lecturers
         # (e.g. Person A's "Seminar Large Language Models in
         # Medicine" — depth-?+ in MSc AI / MSc DataScience / MA English
         # Studies / BA Computerlinguistik / MSc Medizintechnik).
+        # parallel=4 keeps aggregate HTTP rate under the 4 r/s
+        # comfortable ceiling (rate-probe Entry 0016).
         if: steps.vars.outputs.with_courses == 'true'
         continue-on-error: true
         run: |
@@ -132,6 +137,7 @@ jobs:
             --period ${{ steps.vars.outputs.period_id }} \
             --queries-file scraper/data/search_queries.txt \
             --out tmp/${{ steps.vars.outputs.period_id }}-search.json \
+            --parallel 4 \
             --interval 0.5 \
             -v
 
@@ -233,14 +239,34 @@ jobs:
             --save-every 50 \
             -v
 
-      # Note: there used to be a prior-period search-walker step here.
-      # It's been removed because the search-walker takes ~2 h per period
-      # on the cron runner, which busts the 6 h job timeout when added
-      # to both periods. The prior-period data naturally rolls in via
-      # the monthly cache: today's current-period search-walker results
-      # land in the current-period courses.json → next week the cache
-      # restore makes them the prior-period dataset. So running search-
-      # walker on the current period only is sufficient long-term.
+      - name: Search-walker backfill for prior period
+        # Same queries / parallelism as current-period. Per project
+        # policy: prefer corpus completeness over wall-clock — search-
+        # walker for prior period catches Veranstaltungen that the
+        # cached catalog walk misses (e.g. depth-7+ Lehrstuhl seminars).
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true'
+        continue-on-error: true
+        run: |
+          python scraper/search_walker.py \
+            --period ${{ steps.vars.outputs.prior_period_id }} \
+            --queries-file scraper/data/search_queries.txt \
+            --out tmp/${{ steps.vars.outputs.prior_period_id }}-search.json \
+            --parallel 4 \
+            --interval 0.5 \
+            -v
+
+      - name: Fetch prior-period courses from search backfill
+        if: steps.vars.outputs.prior_period_id != '' && steps.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', steps.vars.outputs.prior_period_id)) != ''
+        continue-on-error: true
+        run: |
+          python scraper/fetch_courses.py \
+            --in tmp/${{ steps.vars.outputs.prior_period_id }}-search.json \
+            --out tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json \
+            --resume \
+            --parallel 2 \
+            --interval 0.2 \
+            --save-every 50 \
+            -v
 
       - name: Render markdown corpus
         run: |

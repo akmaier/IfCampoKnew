@@ -208,31 +208,108 @@ def search_query(
 
 
 def collect(
-    client: CampoClient,
     queries: list[str],
     period_id: int,
     period_name: str,
+    *,
+    interval: float = 0.5,
+    parallel: int = 1,
     max_pages: int = 5,
 ) -> dict:
-    """Run all queries and aggregate into a scrape.py-shaped snapshot."""
+    """Run all queries and aggregate into a scrape.py-shaped snapshot.
+
+    ``parallel >= 2`` spawns N worker threads, each with its own
+    :class:`CampoClient` (own JSESSIONID, own per-session rate limit).
+    Each worker independently bootstraps a fresh flow per query (the
+    flow advances per POST and produces stale results on re-use within
+    a single session — see comment in :func:`search_query`). Workers
+    pull queries from a thread-safe deque; results are merged under a
+    lock.
+
+    At ``parallel=4`` we observed ~40 queries/min on Campo's runner
+    (vs ~9 queries/min single-session), so the full FAUdir + instructor
+    backfill list (~5 000 queries) fits comfortably in a single cron
+    step.
+    """
     aggregate: dict[int, str] = {}
-    for i, q in enumerate(queries):
-        if not q.strip():
-            continue
-        try:
-            hits = search_query(client, q.strip(), max_pages=max_pages)
-        except Exception as e:  # noqa: BLE001
-            log.warning("query %r failed: %s", q, e)
-            continue
-        if (i + 1) % 50 == 0:
-            log.info(
-                "progress: %d/%d queries, %d unique unit_ids so far",
-                i + 1, len(queries), len(aggregate),
-            )
-        for uid, title in hits.items():
-            # Prefer the first non-empty title we see for a uid.
-            if uid not in aggregate or (not aggregate[uid] and title):
-                aggregate[uid] = title
+
+    if parallel <= 1:
+        client = CampoClient(min_interval=interval)
+        for i, q in enumerate(queries):
+            if not q.strip():
+                continue
+            try:
+                hits = search_query(client, q.strip(), max_pages=max_pages)
+            except Exception as e:  # noqa: BLE001
+                log.warning("query %r failed: %s", q, e)
+                continue
+            if (i + 1) % 50 == 0:
+                log.info(
+                    "progress: %d/%d queries, %d unique unit_ids so far",
+                    i + 1, len(queries), len(aggregate),
+                )
+            for uid, title in hits.items():
+                if uid not in aggregate or (not aggregate[uid] and title):
+                    aggregate[uid] = title
+    else:
+        # ── Parallel path: N worker threads + shared deque ────────────
+        import threading
+        from collections import deque
+        from concurrent.futures import ThreadPoolExecutor
+
+        clients = [CampoClient(min_interval=interval) for _ in range(parallel)]
+        for c in clients:
+            c.start_session()
+
+        deq: "deque[str]" = deque(q for q in queries if q.strip())
+        total = len(deq)
+        deq_lock = threading.Lock()
+        agg_lock = threading.Lock()
+        done = [0]
+        last_log_at = [0]
+
+        def take_query() -> Optional[str]:
+            with deq_lock:
+                if not deq:
+                    return None
+                return deq.popleft()
+
+        def worker(client_idx: int) -> None:
+            client = clients[client_idx]
+            while True:
+                q = take_query()
+                if q is None:
+                    return
+                q = q.strip()
+                try:
+                    hits = search_query(client, q, max_pages=max_pages)
+                except Exception as e:  # noqa: BLE001
+                    log.warning("[w%d] query %r failed: %s", client_idx, q, e)
+                    hits = {}
+                with agg_lock:
+                    for uid, title in hits.items():
+                        if uid not in aggregate or (not aggregate[uid] and title):
+                            aggregate[uid] = title
+                    done[0] += 1
+                    if done[0] - last_log_at[0] >= 50:
+                        log.info(
+                            "progress: %d/%d queries, %d unique unit_ids",
+                            done[0], total, len(aggregate),
+                        )
+                        last_log_at[0] = done[0]
+
+        log.info(
+            "running %d queries against periodId=%d with %d parallel workers",
+            total, period_id, parallel,
+        )
+        with ThreadPoolExecutor(max_workers=parallel) as ex:
+            futures = [ex.submit(worker, i) for i in range(parallel)]
+            for f in futures:
+                f.result()
+        log.info(
+            "search-walker done: %d queries processed, %d unique unit_ids",
+            done[0], len(aggregate),
+        )
 
     nodes = [
         {
@@ -284,6 +361,12 @@ def main(argv: list[str] | None = None) -> int:
         "--max-pages", type=int, default=5,
         help="max result pages to walk per query (default 5; v1 honours page 1 only)",
     )
+    p.add_argument(
+        "--parallel", type=int, default=1,
+        help="number of concurrent worker sessions (each with own JSESSIONID + rate limit). "
+        "Default 1; 4 cuts wall-clock by ~4× on a multi-thousand-query list. "
+        "Total HTTP rate ≈ parallel/interval r/s; stay ≤ 4 r/s aggregate per the rate probe.",
+    )
     p.add_argument("-v", "--verbose", action="count", default=0)
     args = p.parse_args(argv)
 
@@ -303,13 +386,16 @@ def main(argv: list[str] | None = None) -> int:
     if not queries:
         p.error("supply --queries or --queries-file")
 
-    log.info("running %d queries against periodId=%d", len(queries), args.period)
-    client = CampoClient(min_interval=args.interval)
+    log.info(
+        "running %d queries against periodId=%d (parallel=%d, interval=%.2fs)",
+        len(queries), args.period, args.parallel, args.interval,
+    )
     snap = collect(
-        client,
         queries,
         period_id=args.period,
         period_name=args.period_name or f"period {args.period}",
+        interval=args.interval,
+        parallel=args.parallel,
         max_pages=args.max_pages,
     )
     args.out.parent.mkdir(parents=True, exist_ok=True)
