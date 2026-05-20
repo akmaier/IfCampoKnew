@@ -171,13 +171,19 @@ jobs:
             tmp/${{ steps.vars.outputs.prior_period_id }}.json
             tmp/${{ steps.vars.outputs.prior_period_id }}-courses.json
             tmp/${{ steps.vars.outputs.prior_period_id }}-tagesaktuelle.json
-          key: campo-prior-${{ steps.vars.outputs.prior_period_id }}-d${{ steps.vars.outputs.max_depth }}-${{ steps.vars.outputs.iso_month }}
-          # Fall back to ANY cached snapshot for this period+depth if the
-          # current month's key misses (e.g. very first run of a month).
-          # Even a slightly-stale prior-period snapshot is better than
-          # re-walking 5 000+ unit_ids in a 6-hour budget.
+          # Cache key salted with "v2" to invalidate the May-2026 W20/W21
+          # caches whose 565-courses.json was fetched before the room-
+          # column parser fix (commit ef3349e). Bumping the salt forces a
+          # one-time re-walk + re-fetch of the prior period so it gets the
+          # corrected Raum data (H18+H21 / H8 instead of "350" etc.).
+          # Future cache rotations should keep the salt unless another
+          # parser-level breaking change lands.
+          key: campo-prior-${{ steps.vars.outputs.prior_period_id }}-d${{ steps.vars.outputs.max_depth }}-v2-${{ steps.vars.outputs.iso_month }}
+          # Restore-keys NO LONGER fall back to v1: that would defeat the
+          # cache bust. Only the v2-keyed prior-period snapshots are
+          # accepted; the first run of any month with v2 will repopulate.
           restore-keys: |
-            campo-prior-${{ steps.vars.outputs.prior_period_id }}-d${{ steps.vars.outputs.max_depth }}-
+            campo-prior-${{ steps.vars.outputs.prior_period_id }}-d${{ steps.vars.outputs.max_depth }}-v2-
 
       - name: Walk prior period catalogue
         if: steps.vars.outputs.prior_period_id != '' && steps.cache_prior.outputs.cache-hit != 'true'

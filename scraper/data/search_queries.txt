@@ -1,6 +1,9 @@
+- Harald-zur Hausen-Institut für Virologie
+- Klinische Mikrobiologie, Immunologie und Hygiene
 Abbas Poya
 Achim Bräuning
 Adrian Meier
+Advanced Optical Technologies - Thermophysical Properties
 Albert Ziegler
 Aldo Boccaccini
 Alessandro Del Vecchio
@@ -11,14 +14,33 @@ Alexander Link
 Alexander Sasse
 Alexander Schneider
 Alexander Steinkasserer
+Alexander von Humboldt-Professur
 Alexey Ponomarenko
 Alfred Holzer-Thieser
+Algebra und Geometrie
 Ali Yarayan
 Aline Bozec
+Allgemein- und Viszeralchirurgie
+Allgemeine Mineralogie/Kristallographie
+Allgemeine Pathologie am Medizincampus Oberfranken
+Allgemeine Pathologie und Pathologische Anatomie
+Allgemeine Psychologie
+Allgemeine Werkstoffeigenschaften
+Allgemeinmedizin
 Almut Schilling-Vacaflor del Carpio
+Alte Geschichte
+Alte Sprachen
+Alte Welt und Asiatische Kulturen
+Altes Testament
+Amerikanistik, insbesondere Literaturwissenschaft
+Amerikanistik, insbesondere nordamerikanische Literatur- und Kulturwissenschaft
 Ana-Suncana Smith
+Analysis
+Analysis und Numerik partieller Differentialgleichungen
+Analytics & Mixed-Integer Optimization
 Anastasia Glawion
 Anatoli Rakhkochkine
+Anatomie
 Andre Kaup
 Andrea Bréard
 Andrea Büttner
@@ -48,8 +70,20 @@ Andreas Wierschem
 Andreas Winterpacht
 Andriy Mokhir
 André Wiesmann da Silva Reis
+Angeborene Immunität und Pathogenerkennung
 Angela Roth
 Angelika Emmerich-Fritsche
+Angewandte Analysis
+Angewandte Geologie
+Angewandte Geologie und Modellierung von Umweltsystemen
+Angewandte Kryptographie
+Angewandte Mathematik
+Angewandte Physik
+Angewandte Quantentechnologien
+Anglistik und Amerikanistik
+Anglistik/Amerikanistik und Romanistik
+Anglistische Literatur- und Kulturwissenschaft
+Anglistische Literaturwissenschaft
 Anja Katrin Boßerhoff
 Anja Lux
 Anja Zimmermann
@@ -62,20 +96,45 @@ Annett Bork
 Annette Gilbert
 Annette Keilhauer
 Annette Pfahlberg
+Person A
+Anorganische Chemie
+Anorganische und Allgemeine Chemie
+Anorganische und Metallorganische Chemie
 Anselm Schubert
 Antje Kley
 Antonio Delgado
+Anwaltsrecht und Anwaltspraxis
+Anästhesiologie
+Anästhesiologie am Medizincampus Oberfranken
+Arabistik und Semitistik
+Arbeits-, Sozial- und Umweltmedizin
+Arbeitsmarkt- und Berufsforschung
+Arbeitsmarkt- und Innovationsökonomik
 Armin Enßer
 Armin Michael Nagel
 Armin Scherb
 Arnd Dörfler
 Arndt Hartmann
+Aroma- und Geruchsforschung
+Artificial Intelligence in Biomedical Engineering
+Arzneimitteltherapiesicherheit und Klinische Pharmakologie
+Assistive Intelligente Robotik
+Astronomie und Astrophysik
+Astroteilchenphysik
+Atom Probe Tomography
+AudioLabs
+Audiocodierung
+Audiologie
+Audiosignalanalyse
+Augenheilkunde
+Autonome Systeme und Mechatronik
 Axel Adrian
 Axel Brehmer
 Axel Munnecke
 Ayaka Löschke
 Barbara Kleine-Marshall
 Bastian Etzold
+Bayerische und Fränkische Landesgeschichte
 Ben Fabry
 Benedikt Downar
 Benedikt Kost
@@ -96,10 +155,49 @@ Bernhard Kainz
 Bernhard Schmauß
 Bernhard Wegener
 Berthold Lausen
+Betriebswirtschaftliche Steuerlehre
+Betriebswirtschaftslehre
+Betriebswirtschaftslehre, insbesondere Finanzierung und Banken
+Betriebswirtschaftslehre, insbesondere Gesundheitsmanagement
+Betriebswirtschaftslehre, insbesondere Industrielles Management
+Betriebswirtschaftslehre, insbesondere Internationales Management
+Betriebswirtschaftslehre, insbesondere Marketing
+Betriebswirtschaftslehre, insbesondere Supply Chain Management
+Betriebswirtschaftslehre, insbesondere Versicherungsmarketing
 Bettina Brandl-Risi
+Bioanorganische Chemie
+Biochemie
+Biochemie und Medizinische Molekularbiologie
+Biochemie und Molekulare Medizin
+Biochemie und Molekulare Neurowissenschaften
+Biochemie und Molekulare Pathobiologie
+Biochemie und Pathobiochemie
+Bioinformatik
+Biologie
+Biologie, Geschäftsstelle
+Biologie, Serviceeinrichtungen
+Biomarker in der Arbeitsmedizin
+Biomaterialien
+Biomedical Network Science
+Biometrie und Epidemiologie
+Biophysik
+Biotechnik
+Bioverfahrenstechnik
 Blake Walker
 Boris Dreyer
+Buchwissenschaft
+Buchwissenschaft, insbesondere E-Publishing und Digitale Märkte
+Business Analytics and Sustainability
 Bärbel Kopp
+Bürgerliches Recht und Arbeitsrecht
+Bürgerliches Recht, Arbeits- und Sozialrecht
+Bürgerliches Recht, Deutsche und Europäische Rechtsgeschichte
+Bürgerliches Recht, Handels-, Gesellschafts- und Wirtschaftsrecht
+Bürgerliches Recht, Internationales Privatrecht und Rechtsvergleichung
+Bürgerliches Recht, Recht des Geistigen Eigentums und Technikrecht
+Bürgerliches Recht, Römisches Recht und Antike Rechtsgeschichte
+Bürgerliches Recht, Zivilprozessrecht, Insolvenzrecht und Freiwillige Gerichtsbarkeit
+CAR-T-Zell-Therapie
 Carola Berking
 Carolin Körner
 Caroline Voskens
@@ -108,6 +206,11 @@ Cassandra Flügel-Koch
 Cathérine Meusburger
 Charlotte Bühl-Gramer
 Charlotte Köckert
+Chemie und Pharmazie
+Chemie- und Bioingenieurwesen
+Chemische Reaktionstechnik
+Chemistry of thin film materials
+Chirurgische Forschung
 Christian Alzheimer
 Christian Bogdan
 Christian Jäger
@@ -125,6 +228,7 @@ Christina Eschner
 Christina Strunck
 Christina Zitzmann
 Christine Binzel
+Christliche Archäologie
 Christoph Alexiou
 Christoph Becker
 Christoph Bert
@@ -147,9 +251,16 @@ Claudio Kopper
 Claus Hellerbrand
 Claus Schnabel
 Clemens Risi
+Computational Biology
+Computational Chemistry
+Computational Imaging
+Computational Materials Microscopy
+Computational Medicine
+Controlling und Rechnungswesen
 Cornelia Niessen
 Cornelia Schneider
 Cornelia Weise
+Corporate Sustainability Management
 Cristobal Pagan Canovas
 Dagmar Fischer
 Dagmar Kiesel
@@ -158,44 +269,104 @@ Daniel Hess
 Daniel Köhn
 Daniele Fausti
 Danijela Gregurec
+Darstellungstheorie
+Darstellungstheorie und Mathematische Physik
+Data Analytics
+Data Science
+Datenmanagement
 David Benjamin Blumenthal
 David Vöhringer
 David du Toit
 Dejan Reljic
 Detlef Kips
+Deutsche Philologie im europäischen Kontext
+Deutsches und Bayerisches Staats- und Verwaltungsrecht
+Deutsches und Internationales Privatrecht und Zivilverfahrensrecht
+Deutsches, Europäisches und Internationales Privat- und Wirtschaftsrecht
 Devrimi Kaya
+Diagnostische Molekularpathologie
+Diagnostische Radiologie
+Didaktik Wirtschaft und Recht
+Didaktik der Chemie
+Didaktik der Geographie
+Didaktik der Geschichte
+Didaktik der Informatik
+Didaktik der Mathematik
+Didaktik der Physik
+Didaktik der deutschen Sprache und Literatur
+Didaktik des Deutschen als Zweitsprache
 Dieter Chichung Lie
 Dieter Swandulla
 Dietmar Drummer
 Dietmar Fey
+Digital Health
+Digital Humanities and Social Studies
+Digital Humanities mit Schwerpunkt Computing Text and Language
+Digital Humanities mit Schwerpunkt Images and Objects
+Digital Industrial Service Systems
+Digital Industries
+Digital Reality
+Digitale Fabrik mit dem Schwerpunkt Medizintechnik
+Digitale Geographie / Kulturgeographie
+Digitale Linguistik mit dem Schwerpunkt Big Data
+Digitale Transformation
+Digitale Übertragung
 Dirk Holtbrügge
 Dirk Michael Guldi
 Dirk Niefanger
 Dirk Riehle
 Dirk Schubert
 Dirk Zahn
+Dogmatik
 Dominik Müller
 Dominique Ligny
 Doris Mischka
 Dorothea Debus
 Dorothee Volkert
+Dynamics, Control, Machine Learning and Numerics
 Eberhard Bänsch
+Effiziente Algorithmen und Kombinatorische Optimierung
 Ekaterina Makhotina
+Electrocatalytic Interface Engineering
+Elektrische Antriebe und Maschinen
+Elektrische Energiesysteme
+Elektrische Energieversorgung
+Elektrische Wasserstoffsysteme
+Elektrochemische und Elektrische Energietechnologien
+Elektrokatalyse
+Elektromagnetische Felder
+Elektronische Bauelemente
+Elektrotechnik-Elektronik-Informationstechnik
 Elisabeth Bergherr
 Elisabeth Sock
 Elke Lütjen-Drecoll
 Elke Ober
 Ellen Kuhl
+Else Kröner Clinician Scientist Professur
 Emanuël Habets
 Emil Wiedemann
+Empirische Bildungsforschung
+Empirische Wirtschaftssoziologie
+Endogene Geodynamik
+Endokrinologie
+Energieverfahrenstechnik
+Englische Linguistik
 Enrique Zuazua Iriondo
+Entwicklungsbiologie
+Entwicklungspsychologie und Pädagogische Psychologie
+Entzündungsdermatologie
+Epidemiologie und Public Health
+Epileptologie
 Erasmus Mayr
 Erdmann Spiecker
 Eric Wagner
 Erik Bitzek
 Ernst Grammes
+Erziehungswissenschaft
 Esther Schmädicke
 Esther Zanin
+Ethik
+Ethik in der Medizin
 Eva Breindl-Hiller
 Eva Kiermaier
 Eva Maria Hartmann
@@ -203,12 +374,35 @@ Eva Marlene Hausteiner
 Eva Pils
 Evgeny Kataev
 Ewa Dabrowska
+Exogene Dynamik
+Experimentalphysik
+Experimentelle Astroteilchenphysik
+Experimentelle Astroteilchenphysik, insbesondere Radionachweis von Neutrinos
+Experimentelle Augenheilkunde
+Experimentelle Biomedizin
+Experimentelle Dermatologie
+Experimentelle HNO-Heilkunde
+Experimentelle Immuntherapie
+Experimentelle Medizin
+Experimentelle Medizin mit dem Schwerpunkt Molekulare Pathogeneseforschung
+Experimentelle Molekulare Zelldynamik
+Experimentelle Nieren- und Kreislaufforschung
+Experimentelle Reproduktionsmedizin
+Experimentelle Schmerzforschung
+Experimentelle Tumorpathologie
+Experimentelle und Klinische Pharmakologie und Toxikologie
 Fabian Müller
 Fabian Schäfer
+Fachdidaktiken
 Falk Nimmerjahn
 Fanny Schober
 Felix Engel
 Felix Freiling
+Fernerkundung und GIS
+Fertigungsautomatisierung und Produktionssystematik
+Fertigungsmesstechnik
+Fertigungstechnologie
+Festkörperphysik
 Florian Haller
 Florian Höhne
 Florian Knoll
@@ -217,6 +411,7 @@ Florian Marquardt
 Florian Rabe
 Florian Risch
 Florian Rosar
+Fluidsystemtechnik
 Franco Rau
 Frank Diedrich
 Frank Hechtner
@@ -232,6 +427,7 @@ Frauke Liers-Bergmann
 Frederik Bernd Laun
 Frederik Graw
 Freimut Bodendorf
+Fremdsprachendidaktik mit dem Schwerpunkt Didaktik des Englischen
 Frieder Lang
 Friederike Zunke
 Friedlinde Götz-Neunhoeffer
@@ -240,9 +436,22 @@ Friedrich Michael Dimpel
 Friedrich Paulsen
 Friedrich Sommer
 Fritz Dross
+Funktionelle Bildgebung in der Medizin
+Funktionelle und Klinische Anatomie
+GB Lehre
 Gabriel Zeilinger
 Gabriele Chiogna
 Gandalf Lechner
+Gastrointestinale Pathophysiologie
+Geburtshilfe und Frauenheilkunde
+Gefäßchirurgie
+Genbasierte Immunisierungsverfahren
+Generative AI
+Genetik
+Geochemie von Lagerstätten
+Geographie
+Geographie und Geowissenschaften
+Geologie
 Georg Caspers
 Georg Fischer
 Georg Glasze
@@ -254,18 +463,43 @@ Gerhard Ernst
 Gerhard Krieger
 Gerhard Leuchs
 Gerhard Wellein
+Geriatrie
+Geriatrie am Medizincampus Oberfranken
+Germanistik und Komparatistik
+Germanistische Linguistik mit Schwerpunkt Variation und Wandel des Deutschen
+Germanistische Sprachwissenschaft
 Gerold Sedlmayr
+Geschichte
+Geschichte der Frühen Neuzeit
+Geschichte der Medizin
+Geschichte und Ethik der Medizin
+Geschichte und Literaturgeschichte
+Geschichte und Theologie des Christlichen Ostens
 Gesine Stephan
+Gesundheitspsychologie
+Gesundheitsökonomie
+Gießereitechnik
 Giovanni Del Galdo
 Giovanni Fantuzzi
 Giovanni Maltese
+Glas und Keramik
+Glaukome
+Global Governance and International Trade
+Graphische Datenverarbeitung
 Grazyna Baranowska
 Gregor Fuhrmann
+Griechisch
+Grundschulforschung
+Grundschulpädagogik und -didaktik mit dem Schwerpunkt Lehren und Lernen
+Grundschulpädagogik und -didaktik mit dem Schwerpunkt Umgang mit Heterogenität
+Gynäkologie und Geburtsmedizin am Medizincampus Oberfranken
 Gözde Gül Sahin
 Günther Ammon
 Günther Grün
+HIERN
 Hacik Rafi Gazer
 Hajo Hamer
+Hals-Nasen-Ohrenheilkunde
 Hanna Eglinger-Bartl
 Hannes Meinlschmidt
 Hanno Sahlmann
@@ -282,7 +516,9 @@ Harald Neumeyer
 Harald Rupprecht
 Harald Stollhofen
 Harald Tauchmann
+Hardware-Software-Co-Design
 Hartmut Hombrecher
+Haut- und Geschlechtskrankheiten
 Heike Henning
 Heike Paul
 Heiko Martin Reutter
@@ -291,22 +527,64 @@ Heinrich Milosiu
 Heinrich Sticht
 Heinrich Wall
 Fixture Person Alpha
+Heisenberg-Professur
+Heisenbergprofessur
 Hendrik Scholz
 Henri Girao Franquelim
+Henriette-Schmidt-Burkhardt Lehrstuhl
 Henrik Pfeiffer
 Henry Dube
+Hepatologie
 Hermann Schulz-Baldes
+Herz-Kreislaufphysiologie
+Herzchirurgie mit dem Schwerpunkt Kinderherzchirurgie
 Hinnerk Hagenah
+Hochdruckforschung
+Hochdruckthermofluiddynamik und Rheologie
+Hochfrequenztechnik
+Hochfrequenztechnik mit dem Schwerpunkt Optische Hochfrequenztechnik und Photonik
 Holger Arndt
 Holger Hackstein
 Holger Schulze
 Holm Schneider
+Homiletik, Liturgik und Poimenik
 Horia Sirbu
+Human Rights Law
+Humangenetik
+Höchstleistungsrechnen
+IT-Sicherheitsinfrastrukturen
+Image Data Exploration and Analysis
+Immunologie der Niere
+Immuntoleranz und Autoimmunität
+Immunzellmigration
 Indravati Félicité-Hiltl
+Infektionsabwehr und Toleranz
+Informatik
+Informatik, Serviceeinrichtungen
+Informationstechnik mit dem Schwerpunkt Kommunikationselektronik
+Informationsübertragung
 Ingmar Blümcke
 Ingo Hahn
 Ingrid Artus
 Ingrid Span
+Innere Medizin
+Innere Medizin mit dem Schwerpunkt Gastroenterologie am Medizincampus Oberfranken
+Innere Medizin mit dem Schwerpunkt Immundefizienz
+Innere Medizin mit dem Schwerpunkt Nephrologie am Medizincampus Oberfranken
+Integrated Immunology
+Integrative Gewebeimmunologie
+Integrative Medizin mit dem Schwerpunkt Ernährungsmedizin
+Intelligente Sprachsysteme
+Intelligente Technische Elektronik und Systeme
+Interfaces und Partikeltechnologie
+International Business, Society and Sustainability
+Internationale Beziehungen
+Interoperabilität in der Onkologie
+Islamisch-Religiöse Studien
+Islamisch-Religiöse Studien mit Schwerpunkt Reformdiskurs im gegenwärtigen Islam
+Islamisch-Religiöse Studien mit Schwerpunkt Religionspädagogik/Religionslehre
+Islamisch-Religiöse Studien mit Schwerpunkt Textwissenschaft und Normenlehre
+Islamisch-Religiöse Studien mit systematischem Schwerpunkt
 Jan Adriaan Graw
 Jan Christoph Schubert
 Jan Kremers
@@ -314,6 +592,7 @@ Jan-Peter Meyn
 Jan-Reinard Sieckmann
 Janina Maultzsch
 Janina Müller-Deile
+Japanologie mit dem Schwerpunkt Japan der Moderne und Gegenwart
 Jean-Baptiste Pettier
 Jens Cornelsen
 Jens Fürst
@@ -351,6 +630,7 @@ Jörg Reutershan
 Jörg Robert
 Jörg Schulze
 Jörn Wilms
+Jüngere Urgeschichte mit Schwerpunkt Neolithikum und Ältere Metallzeiten
 Jürgen Hermann Dolderer
 Jürgen Herre
 Jürgen Karl
@@ -362,10 +642,12 @@ Jürgen Stamm
 Jürgen Teich
 Jürgen Winkler
 Jürgen Wörl
+KI-gesteuerte Nanomaterialien
 Kai Hildner
 Kai Phillip Schmidt
 Kai Willner
 Kai-Ingo Voigt
+Kardiologie am Medizincampus Oberfranken
 Karl Friedrich Hilgers
 Karl Gregor Zöttl
 Karl Hermann Neeb
@@ -376,6 +658,8 @@ Karl-Heinz Leven
 Karsten Haase
 Karsten Kilian
 Karsten Meyer
+Katalyse und nachhaltige Verfahren
+Katalytische Grenzflächenforschung
 Katharina Diehl
 Katharina Völkel
 Katharina Zimmermann
@@ -387,6 +671,18 @@ Kay Kirchmann
 Kerstin Martina Galler
 Kerstin Ute Amann
 Kilian Schober
+Kinder- u. Jugendmedizin Schwerpunkt Neuropädiatrie
+Kinder- und Jugendmedizin
+Kinder- und Jugendmedizin mit dem Schwerpunkt Pädiatrische Onkologie und Hämatologie
+Kinderchirurgie
+Kinderheilkunde/Experimentelle Perinatalmedizin
+Kinderkardiologie
+Kirchengeschichte
+Kirchenmusik
+Kirchenrecht
+Kirchenrecht, Staats- und Verwaltungsrecht
+Klassische Archäologie
+Klassische Philologie
 Klaus Georg Binder
 Klaus Helmreich
 Klaus Henselmann
@@ -396,21 +692,55 @@ Klaus Moser
 Klaus Pfeifer
 Klaus Willi Rith
 Klaus Überla
+Klinische Ernährung im Alter
+Klinische Mikrobiologie und Immunologie
+Klinische Nuklearmedizin
+Klinische Pharmakologie und Klinische Toxikologie
+Klinische Psychologie und Behavioral Health Technology
+Klinische Psychologie und Psychotherapie
+Klinische Psychologie und Psychotherapie des Kindes- und Jugendalters
+Klinische und Molekulare Virologie
 Knut Graichen
+Kognitive Radarsysteme für die Fernerkundung
+Kommunikationswissenschaft
+Komparatistik mit dem Schwerpunkt nordeuropäische Literaturen/Skandinavistik
 Konrad Klek
+Konstruktionstechnik
+Kontinuierliche Optimierung
+Kontinuumsmechanik
+Korpus- und Computerlinguistik
+Korrosion und Oberflächentechnik
+Kristallographie und Strukturphysik
 Kristian Franze
 Kristina Giesel
+Kultur- und Sozialanthropologie
+Kulturgeographie und Gesellschafts-/Umweltforschung
+Kulturgeographie und Politische Geographie
+Kunstgeschichte
+Kunstpädagogik und -didaktik
+Kunststofftechnik
 Kyle Grant Webber
+Künstliche Intelligenz
+Language und Cognition
+Large Language Models
 Lars Bräuer
 Lars Nitschke
 Lars-Oliver Nowak
+Laserphysik
+Latein
+Lateinische Philologie des Mittelalters und der Neuzeit
 Laura Cottatellucci
 Lea Boßmann
+Lebensmittelchemie
+Leistungselektronik
 Leopold Klepacki
+Lie-Gruppen und Darstellungstheorie
 Liliia Bezugla
 Lina Gölz
 Lisa Handke
 Lisanne Teuchert
+Literatur und Geschichte des Urchristentums
+Lokalisierungssysteme
 Lorenz Graf-Vlachy
 Lotte Sommerer
 Louisa Steines
@@ -447,6 +777,7 @@ Mario Zaiss
 Marion Merklein
 Marisa Karow-Falk
 Mark Stemmler
+Marketing Intelligence
 Markus Albert
 Markus Beckmann
 Markus Fröb
@@ -466,6 +797,17 @@ Martin Radespiel-Tröger
 Martin Vossiek
 Martina Steul-Fischer
 Marvin Nipper
+Maschinelles Lernen in der Signalverarbeitung
+Maschinelles Lernen und Datenanalytik
+Maschinenbau
+Materialien der Elektronik und der Energietechnologie
+Materialien für die elektrochemische Energiekonversion
+Mathematik
+Mathematik in den Lebenswissenschaften
+Mathematik, Geschäftsstelle
+Mathematische Analyse von Daten
+Mathematische Physik
+Mathematische Stochastik
 Mathias Göken
 Mathias Rohe
 Matthias Beckmann
@@ -481,10 +823,23 @@ Matthias Westerhoff
 Matthias Wrede
 Max-Emanuel Geis
 Maximilian Waldner
+Maßgeschneiderte Produktionsprozesse
 Mechthild Habermann
+Med. Strahlenphysik
+Medical Data Science
+Medical Image Analysis
+Medienethik
+Medienkommunikation, Medienethik und Digitale Theologie
+Medienwissenschaft
+Medienwissenschaften und Kunstgeschichte
+Medizininformatik, Biometrie und Epidemiologie
+Medizinische Biotechnologie
+Medizinische Mikrobiologie und Infektionsimmunologie
 Meike Stöhr
 Meinard Müller
 Melanie Arntz
+Menschenrechtspolitik
+Methoden der empirischen Sozialforschung
 Michael Amberg
 Michael Döllinger
 Michael Engel
@@ -512,13 +867,72 @@ Michael Zaiser
 Michaela Gläser-Zikuda
 Michaela Mahlberg
 Michele Ferrari
+Migrationsrecht und Menschenrechte
+Mikro- und Nanostrukturforschung
+Mikrobiologie
+Mikrobiologie und Infektionsimmunologie
+Mikrobiomik
+Mikroskopische Anatomie und Molekulare Bildgebung
 Mila Oiva
 Milena Pachowsky
+Mineralogie
+Mittelalterliche Geschichte
+Modellierung und Numerik
+Modellierung von Immunprozessen
+Modellierung von Selbstorganisationsprozessen
+Modulation von Immunantworten
 Mohammad Ibrahim
 Mohammed Nekroumi
+Molekulare Bildgebung und Radiochemie
+Molekulare Gastroenterologie
+Molekulare Nanostrukturen
+Molekulare Neurologie
+Molekulare Neuropathologie
+Molekulare Pflanzenphysiologie
+Molekulare Pneumologie
+Molekulare Psychiatrie
+Molekulare Tumorforschung
+Molekulare und Experimentelle Chirurgie
+Molekulare und Klinische Pharmazie
 Monika Pischetsrieder
+Montagetechnologien elektrischer Energiespeicher
 Moritz Zaiß
+Motivation, Emotion und Lernen
+Mukosale Immuntherapie
+Multimediakommunikation und Signalverarbeitung
+Multimodale Bildgebung in der klinischen Forschung
+Multiscale Simulation of Particulate Systems
+Multiskalen-Modellierung für kontrollierte Filmbildung
+Multiwellenlängenastronomie
+Museumsforschung und Kulturgeschichte
+Musikpädagogik und -didaktik
+Mustererkennung
 Nadine Gatzert
+Nanomaterialcharakterisierung
+Nanomedizin
+Nanostructured Particles
+Neonatologie
+Nephrologie
+Nephropathologie
+Neuere Bayerische und Fränkische Landesgeschichte und Volkskunde
+Neuere Kirchengeschichte
+Neuere deutsche Literatur mit komparatistischem Schwerpunkt
+Neuere deutsche Literatur mit kulturwissenschaftlichem Schwerpunkt
+Neuere deutsche Literatur mit systematischem Schwerpunkt
+Neuere und Neueste Geschichte mit dem Schwerpunkt der Geschichte Osteuropas
+Neues Testament
+Neueste Geschichte und Zeitgeschichte
+Neurale Epigenomik
+Neurobildgebung Immunologischer und Metabolischer Prozesse
+Neurobiologie
+Neurochirurgie
+Neuroimmunologie
+Neurologie
+Neuromuscular Physiology and Neural Interfacing
+Neuronale Mechanik
+Neuropathologie
+Neuroradiologie
+Neurowissenschaften der sensorischen Wahrnehmung
 Nico Hanenkamp
 Nicolai Burzlaff
 Nicolas Engel
@@ -535,6 +949,8 @@ Nina Bremm
 Norbert Jux
 Norbert Lindlein
 Norman Franchi
+Numerische Simulation und Hochleistungsrechnen
+Oberflächenaktive Proteine
 Olaf Gefeller
 Olaf Prante
 Olga Kasian
@@ -543,11 +959,26 @@ Oliver Schallert
 Oliver Schnell
 Oliver Schultheiss
 Oliver Schöffski
+Open Source Software
+Operatoralgebren
+Optik
+Optimization under Uncertainty & Data Analysis
+Optische Quantentechnologien
+Optoelektronik
+Organische Chemie
+Orientalische Philologie und Islamwissenschaft
+Orthopädie und Orthopädische Chirurgie
+Palliativmedizin
+Paläontologie
+Paläoumwelt
+Partikelbasierte Materialchemie
+Partikeltechnik
 Patricia Wiater-Hellgardt
 Patrik Schmuki
 Paul Rösler
 Paul Steinmann
 Paulina Pesch
+Personalmanagement und Arbeitsorganisation technologieorientierter Unternehmen
 Peter Bernhard
 Peter Betz
 Peter Bubmann
@@ -566,11 +997,54 @@ Peter Weidinger
 Peter Wellmann
 Petra Dietrich
 Petra Imhof
+Pharmakologie und Toxikologie
+Pharmazeutische Biologie
+Pharmazeutische Chemie
+Pharmazeutische Technologie und Biopharmazie
 Philipp Beckerle
 Philipp Hansmann
 Philipp Pelz
 Philipp Schlatter
+Philosophie
+Phoniatrie und Pädaudiologie
+Photonik
+Photonische Technologien
+Physik
+Physik der Kondensierten Materie
+Physik, Geschäftsstelle
+Physikalische Chemie
+Physiologie
+Physiologie und Pathophysiologie
+Physische Geographie
+Plastische Chirurgie und Handchirurgie
+Plastische und Handchirurgie am Medizincampus Oberfranken
+Politik und Gesellschaft des Nahen Ostens
+Politik und Gesellschaft in Asien
+Politische Theorie und Ideengeschichte
+Politische Wissenschaft
+Polymerwerkstoffe
+Power-to-X-Technologien
+Praktische Philosophie
+Praktische Theologie
+Programmiersysteme
+Proteinstruktur und -design
+Psychiatrie und Psychotherapie
+Psychogerontologie
+Psychologie
+Psychologie im Arbeitsleben
+Psychologie, insbesondere Wirtschafts- und Sozialpsychologie
+Psychologische Diagnostik, Methodenlehre und Rechtspsychologie
+Psychosomatik und Psychotherapie
+Pädagogik
+Pädagogik mit Schwerpunkt Digitalisierung in Hochschul- und Erwachsenenbildung
+Pädagogik mit dem Schwerpunkt Diversity Education und internationale Bildungsforschung
+Pädagogik mit dem Schwerpunkt Kultur und ästhetische Bildung
+Pädagogik mit dem Schwerpunkt Medienpädagogik
+Pädagogik mit dem Schwerpunkt Organisationspädagogik
+Pädagogische Psychologie und Exzellenzforschung
+Quantitative Arbeitsökonomik
 Rachel Warnock
+Radiologie am Medizincampus Oberfranken
 Rainer Böckmann
 Rainer Fink
 Raja Atreya
@@ -579,13 +1053,25 @@ Ralf Enz
 Ralf Müller
 Ralf Sygusch
 Raphaele Xenidis
+Rastersondenmikroskopie
+Rechnerarchitektur
+Rechnergestützten Schaltungsentwurf
+Rechnernetze und Kommunikationssysteme
+Rechnungslegung und Wirtschaftsprüfung
+Rechtsmedizin
+Rechtstheorie und Rechtsphilosophie
 Reettakaisa Sofia Salo
+Regelungstechnik
 Regina Therese Riphahn
 Regina Trollmann
 Regine Schneider-Stock
 Reinhard German
+Religions- und Gemeindepädagogik
+Religionspädagogik und Didaktik des Evangelischen Religionsunterrichts
+Religionswissenschaft und Interkulturelle Theologie
 Renate Liebold
 Renke Maas
+Ressourcen- und Energieeffiziente Produktionsmaschinen
 Ricardo Grieshaber Bouyer
 Richard Lenz
 Robert Cesnjevar
@@ -600,12 +1086,17 @@ Robert Sieghörtner
 Robert Slany
 Robert Weigel
 Robin Klupp Taylor
+Robotische Planung und Kognition in der Chirurgie
 Rohtraud Pichner
 Roland Francis
 Roland Lang
 Roland Nagy
 Rolf Schröder
 Rolf Wanka
+Romanistik
+Romanistik, insbesondere Literatur- und Kulturwissenschaft
+Romanistik, insbesondere Sprachwissenschaft
+Romanistik, insbesondere italienische Literatur- und Kulturwissenschaft im europäischen Kontext
 Romano Dorta
 Rosario La Sala
 Roswitha Zeis
@@ -613,6 +1104,7 @@ Rudolf Kammerl
 Rupert Bäumler
 Ruth Beckervordersandforth-Bonk
 Ruth Neubauer-Petzoldt
+Röntgenspektroskopie
 Rüdiger Kapitza
 Sabine Friedrich
 Sabine Müller
@@ -627,16 +1119,30 @@ Sannakaisa Virtanen
 Sarah Kittel-Schneider
 Sarah Necker
 Sarina Katrin Ursel Müller-Hübner
+Schulpädagogik mit Schwerpunkt Digitalisierung im Unterricht
+Schulpädagogik mit Schwerpunkt Educational Governance and Educational Change
+Schulpädagogik mit dem Schwerpunkt Schulentwicklungsforschung und Experiential Learning
+Schulpädagogik mit dem Schwerpunkt empirische Unterrichtsforschung
+Schwerpunkt Arbeitsmarktsoziologie
+Schwerpunkt Biomechanik
+Schwerpunkt Faziesanalyse
+Schwerpunkt Ostasien
+Schwerpunkt Systembiologie
+Science in Society
+Science, Technology and Gender Studies
 Sebastian Aljoscha Wahl
 Sebastian Habig
 Sebastian Müller
 Sebastian Sattler
 Sebastian Schlecht
 Sebastian Zundler
+Semantische Audiosignalverarbeitung
 Sena Coskun Dalgic
+Sensorische Neurotechnologie
 Serge Kräutle
 Siegfried Krückeberg
 Siegfried Russwurm
+Signalverarbeitung
 Sigrid Leyendecker
 Silke Jansen
 Silke Kuphal
@@ -646,9 +1152,28 @@ Simon Thiele
 Simone Anna Mader
 Simone Derix
 Simone Schmitz-Spanke
+Sinologie mit dem Schwerpunkt Geistes- und Kulturgeschichte Chinas
 Siow Woon Ng
 Sjoerd Harder
+Smart Imaging and Data Profiling
 Sonja Glauch
+Sozialpsychologie mit Schwerpunkt Gender und Diversity
+Sozialwissenschaften und Philosophie
+Soziologie
+Soziologie mit Schwerpunkt transnationale Arbeit
+Soziologie mit dem Schwerpunkt Soziologische Theorie
+Soziologie mit dem Schwerpunkt Technik - Arbeit - Gesellschaft
+Soziologie und Empirische Sozialforschung
+Sportbiologie und Bewegungsmedizin
+Sportdidaktik
+Sportpädagogik
+Sportwissenschaft mit dem Schwerpunkt Bewegung und Gesundheit
+Sportwissenschaft mit der Ausrichtung Gesundheitsförderung/Public Health/Sozialwissenschaften des Sports
+Sportwissenschaft und Sport
+Sprach- und Akustische Signalverarbeitung
+Sprachen und Kulturen des Nahen Ostens und Ostasiens
+Statistik und empirische Wirtschaftsforschung
+Statistik und Ökonometrie
 Stefan Applis
 Stefan Becker
 Stefan Funk
@@ -671,12 +1196,26 @@ Stephan Kröner
 Stephan Patrick Rosshart
 Stephan Schröder
 Stephanie Evert
+Steuerrecht
+Stiftungslehrstuhl
+Stiftungsprofessur
+Stiftungsprofessur der Hector Stiftung II gGmbH
+Stochastic Methods
+Strafrecht, Strafprozessrecht und Rechtsphilosophie
+Strafrecht, Strafprozessrecht, Internationales Strafrecht und Völkerrecht
+Strafrecht, Strafprozessrecht, Wirtschafts- und Medizinstrafrecht
+Strahlentherapie
+Streumethoden
+Strukturmechanik
+Strömungsmechanik
+Suchtmedizin
 Susanne Bruckmüller
 Susanne Lehner
 Susanne Mühlich
 Susanne Sauer
 Susanne Schnaus
 Susetta Neurath-Finotto
+Sustainability Transition Policy
 Sven Dittrich
 Sven Krappmann
 Sven Laumer
@@ -684,8 +1223,35 @@ Sven Pflefka
 Svenja Bedenlier
 Svenja Hagenhoff
 Svetlana Tsogoeva
+System-Paläobiologie
+System-on-Chip
+Systematische Theologie
+Systembiotechnologie
+Systemische Neurophysiologie
+Systemsimulation
+Systemsoftware
+T-Zell-Immunologie
 Tabea Ott
 Tarek Badawia
+Technische Dynamik
+Technische Elektronik
+Technische Mechanik
+Technische Thermodynamik
+Technologiemanagement
+Tektonik
+Theater- und Medienwissenschaft
+Theaterwissenschaft
+Theaterwissenschaft mit Schwerpunkt Performance und Gegenwartstheater
+Theologie
+Theologie des Neuen Testaments
+Theoretische Chemie
+Theoretische Festkörperphysik
+Theoretische Informatik
+Theoretische Philosophie
+Theoretische Physik
+Theoretische Physik mit dem Schwerpunkt Molekulare Materialien
+Theory and Ethics of Artificial Intelligence
+Thermische Verfahrenstechnik
 Thiess Büttner
 Thilo Michel
 Thomas Brabletz
@@ -707,9 +1273,11 @@ Thomas Mölg
 Thomas Regenfus
 Thomas Steer
 Thomas Thiemann
+Thoraxchirurgie
 Thorsten Piske
 Thorsten Pöschel
 Thorsten Uthmeier
+Tierphysiologie
 Tilmann Volk
 Tim Hosenfeldt
 Tim Rohe
@@ -726,6 +1294,15 @@ Tobias Unruh
 Tobias Wolbring
 Tomohisa Toda
 Torben Krüger
+Transfusionsmedizin und Cell-Engineering
+Translationale Anästhesiologie und Intensivmedizin
+Translationale Frauenheilkunde und Geburtshilfe
+Translationale Immundermatologie
+Translationale Immunforschung bei chronisch entzündlichen Darmerkrankungen
+Translationale Immunologie
+Translationale Immunpathologie
+Translationale Neurowissenschaften
+Tumorimmunologie
 Udo Kindermann
 Ulrich Hoppe
 Ulrich Löwen
@@ -733,6 +1310,11 @@ Ulrich Rother
 Ulrich Schubert
 Ulrike Ernst-Auga
 Ulrike Hüffmeier
+Unfallchirurgie und Orthopädie
+Unternehmensführung
+Ur- und Frühgeschichte
+Urologie
+Urologie am Medizincampus Oberfranken
 Ursula Roth
 Ute Verstegen
 Uwe Scheuermann
@@ -742,17 +1324,50 @@ Vahid Sandoghdar
 Valentin Riedl
 Vasileios Belagiannis
 Vasily Zaburdaev
+Vegetative Physiologie
 Veit Rothhammer
 Verena Tiefenbeck
+Vergleichende Indogermanische Sprachwissenschaft
+Vergleichende Literaturwissenschaft
+Vergleichende Politikwissenschaft und Europäisches Regieren
 Veronika Grimm
+Versicherungswirtschaft und Risikomanagement
 Vincent Cornelius Müller
+Virologie
+Visual Computing
 Vojislav Krstic
 Volker Strehl
+Volkswirtschaftslehre
+Volkswirtschaftslehre mit dem Schwerpunkt Entwicklungsökonomik
+Volkswirtschaftslehre, insbesondere Arbeitsmarkt- und Regionalpolitik
+Volkswirtschaftslehre, insbesondere Empirische Mikroökonomie
+Volkswirtschaftslehre, insbesondere Finanzwissenschaft
+Volkswirtschaftslehre, insbesondere Makroökonomik
+Volkswirtschaftslehre, insbesondere Sozialpolitik
+Volkswirtschaftslehre, insbesondere Wirtschaftspolitik
+Volkswirtschaftslehre, insbesondere Wirtschaftstheorie
+Volkswirtschaftslehre: Wirtschaft und Gesellschaft des Nahen Ostens
+Wahrnehmungspsychologie
 Walter Kellermann
+Werkstoffe der Elektrotechnik
+Werkstoffkunde und Technologie der Metalle
+Werkstoffsimulation
+Werkstoffwissenschaften
 Werner Gosen
 Werner Wilhelm Schnabel
 Wiebke Herzog
 Wiebke Sondermann
+Wirtschaftsinformatik, insbesondere Digitalisierung in Wirtschaft und Gesellschaft
+Wirtschaftsinformatik, insbesondere IT-Management
+Wirtschaftsinformatik, insbesondere Innovation und Wertschöpfung
+Wirtschaftsinformatik, insbesondere Technische Informationssysteme
+Wirtschaftsinformatik, insbesondere im Dienstleistungsbereich
+Wirtschaftsprivatrecht
+Wirtschaftspädagogik
+Wirtschaftspädagogik und Personalentwicklung
+Wirtschaftswissenschaft
+Wissenschaftliches Rechnen
+Wissensrepräsentation und -verarbeitung
 Wolfgang Achtziger
 Wolfgang Gerstacker
 Wolfgang Goldmann
@@ -764,606 +1379,6 @@ Wolfgang Stummer
 Yesim Erim
 Yurdagül Zopf
 Yves Muller
-- Harald-zur Hausen-Institut für Virologie
-- Klinische Mikrobiologie, Immunologie und Hygiene
-Advanced Optical Technologies - Thermophysical Properties
-Allgemein- und Viszeralchirurgie
-Allgemeine Mineralogie/Kristallographie
-Allgemeine Pathologie am Medizincampus Oberfranken
-Allgemeine Pathologie und Pathologische Anatomie
-Allgemeine Psychologie (Motivation, Emotion und Lernen)
-Allgemeinmedizin
-Alte Geschichte
-Alte Sprachen
-Alte Welt und Asiatische Kulturen
-Altes Testament
-Altes Testament (Geschichte und Literaturgeschichte)
-Altes Testament (Theologie)
-Amerikanistik, insbesondere Literaturwissenschaft
-Amerikanistik, insbesondere nordamerikanische Literatur- und Kulturwissenschaft
-Analysis
-Analytics & Mixed-Integer Optimization
-Anatomie
-Angeborene Immunität und Pathogenerkennung
-Angewandte Geologie
-Angewandte Geologie und Modellierung von Umweltsystemen
-Angewandte Mathematik
-Angewandte Mathematik (Analysis und Numerik partieller Differentialgleichungen)
-Angewandte Mathematik (Angewandte Analysis)
-Angewandte Mathematik (Kontinuierliche Optimierung)
-Angewandte Mathematik (Modellierung und Numerik)
-Angewandte Mathematik (Wissenschaftliches Rechnen)
-Angewandte Physik
-Angewandte Quantentechnologien
-Anglistik und Amerikanistik
-Anglistik/Amerikanistik und Romanistik
-Anglistische Literatur- und Kulturwissenschaft
-Anglistische Literaturwissenschaft
-Anorganische Chemie
-Anorganische und Allgemeine Chemie
-Anorganische und Metallorganische Chemie
-Anwaltsrecht und Anwaltspraxis
-Anästhesiologie
-Anästhesiologie am Medizincampus Oberfranken
-Arabistik und Semitistik
-Arbeits-, Sozial- und Umweltmedizin
-Arbeitsmarkt- und Berufsforschung
-Arbeitsmarkt- und Innovationsökonomik
-Aroma- und Geruchsforschung
-Artificial Intelligence in Biomedical Engineering
-Arzneimitteltherapiesicherheit und Klinische Pharmakologie
-Assistive Intelligente Robotik
-Astronomie und Astrophysik
-Atom Probe Tomography
-Audiocodierung (AudioLabs)
-Audiologie
-Audiosignalanalyse (AudioLabs)
-Augenheilkunde
-Augenheilkunde (Glaukome)
-Autonome Systeme und Mechatronik
-Bayerische und Fränkische Landesgeschichte
-Betriebswirtschaftliche Steuerlehre
-Betriebswirtschaftslehre
-Betriebswirtschaftslehre, insbesondere Finanzierung und Banken
-Betriebswirtschaftslehre, insbesondere Gesundheitsmanagement
-Betriebswirtschaftslehre, insbesondere Industrielles Management
-Betriebswirtschaftslehre, insbesondere Internationales Management
-Betriebswirtschaftslehre, insbesondere Marketing
-Betriebswirtschaftslehre, insbesondere Supply Chain Management
-Betriebswirtschaftslehre, insbesondere Versicherungsmarketing
-Bioanorganische Chemie
-Biochemie
-Biochemie und Medizinische Molekularbiologie
-Biochemie und Molekulare Medizin
-Biochemie und Molekulare Neurowissenschaften
-Biochemie und Molekulare Pathobiologie
-Biochemie und Pathobiochemie
-Bioinformatik
-Biologie
-Biologie, Geschäftsstelle
-Biologie, Serviceeinrichtungen
-Biomarker in der Arbeitsmedizin
-Biomedical Network Science
-Biometrie und Epidemiologie
-Biophysik
-Biotechnik (Proteinstruktur und -design)
-Bioverfahrenstechnik
-Buchwissenschaft
-Buchwissenschaft, insbesondere E-Publishing und Digitale Märkte
-Business Analytics and Sustainability
-Bürgerliches Recht und Arbeitsrecht
-Bürgerliches Recht, Arbeits- und Sozialrecht
-Bürgerliches Recht, Deutsche und Europäische Rechtsgeschichte
-Bürgerliches Recht, Handels-, Gesellschafts- und Wirtschaftsrecht
-Bürgerliches Recht, Internationales Privatrecht und Rechtsvergleichung
-Bürgerliches Recht, Recht des Geistigen Eigentums und Technikrecht
-Bürgerliches Recht, Römisches Recht und Antike Rechtsgeschichte
-Bürgerliches Recht, Zivilprozessrecht, Insolvenzrecht und Freiwillige Gerichtsbarkeit
-CAR-T-Zell-Therapie
-Chemie und Pharmazie
-Chemie- und Bioingenieurwesen
-Chemische Reaktionstechnik
-Chemistry of thin film materials
-Chirurgische Forschung
-Christliche Archäologie
-Computational Biology
-Computational Chemistry
-Computational Imaging
-Computational Medicine
-Controlling und Rechnungswesen
-Corporate Sustainability Management
-Darstellungstheorie
-Data Science
-Deutsche Philologie im europäischen Kontext
-Deutsches und Bayerisches Staats- und Verwaltungsrecht
-Deutsches und Internationales Privatrecht und Zivilverfahrensrecht
-Deutsches, Europäisches und Internationales Privat- und Wirtschaftsrecht
-Diagnostische Molekularpathologie
-Diagnostische Radiologie
-Didaktik Wirtschaft und Recht
-Didaktik der Chemie
-Didaktik der Geographie
-Didaktik der Geschichte
-Didaktik der Informatik
-Didaktik der Mathematik
-Didaktik der Physik
-Didaktik der deutschen Sprache und Literatur
-Didaktik des Deutschen als Zweitsprache
-Digital Health
-Digital Humanities and Social Studies
-Digital Humanities mit Schwerpunkt Computing Text and Language
-Digital Humanities mit Schwerpunkt Images and Objects
-Digital Industrial Service Systems
-Digital Industries
-Digitale Fabrik mit dem Schwerpunkt Medizintechnik
-Digitale Linguistik mit dem Schwerpunkt Big Data
-Digitale Transformation
-Digitale Übertragung
-Dynamics, Control, Machine Learning and Numerics (Alexander von Humboldt-Professur)
-Electrocatalytic Interface Engineering (HIERN)
-Elektrische Antriebe und Maschinen
-Elektrische Energiesysteme
-Elektrische Energieversorgung
-Elektrische Wasserstoffsysteme
-Elektrochemische und Elektrische Energietechnologien
-Elektrokatalyse (HIERN)
-Elektromagnetische Felder
-Elektronische Bauelemente
-Elektrotechnik-Elektronik-Informationstechnik
-Empirische Bildungsforschung
-Empirische Wirtschaftssoziologie
-Endogene Geodynamik
-Endokrinologie
-Energieverfahrenstechnik
-Englische Linguistik
-Entwicklungsbiologie
-Entwicklungspsychologie und Pädagogische Psychologie
-Entzündungsdermatologie
-Epidemiologie und Public Health
-Epileptologie
-Erziehungswissenschaft
-Ethik in der Medizin
-Experimentalphysik
-Experimentalphysik (Astroteilchenphysik)
-Experimentalphysik (Photonik)
-Experimentalphysik (Rastersondenmikroskopie)
-Experimentelle Astroteilchenphysik
-Experimentelle Astroteilchenphysik, insbesondere Radionachweis von Neutrinos
-Experimentelle Augenheilkunde
-Experimentelle Biomedizin
-Experimentelle Dermatologie
-Experimentelle HNO-Heilkunde
-Experimentelle Immuntherapie
-Experimentelle Medizin II (Molekulare Tumorforschung)
-Experimentelle Medizin mit dem Schwerpunkt Molekulare Pathogeneseforschung
-Experimentelle Molekulare Zelldynamik
-Experimentelle Nieren- und Kreislaufforschung
-Experimentelle Reproduktionsmedizin
-Experimentelle Schmerzforschung (Heisenbergprofessur)
-Experimentelle Tumorpathologie
-Experimentelle und Klinische Pharmakologie und Toxikologie
-Fachdidaktiken
-Fertigungsautomatisierung und Produktionssystematik
-Fertigungsmesstechnik
-Fertigungstechnologie
-Festkörperphysik
-Fluidsystemtechnik
-Fremdsprachendidaktik mit dem Schwerpunkt Didaktik des Englischen
-Funktionelle Bildgebung in der Medizin
-Funktionelle und Klinische Anatomie
-Gastrointestinale Pathophysiologie
-Geburtshilfe und Frauenheilkunde
-Gefäßchirurgie
-Genbasierte Immunisierungsverfahren
-Genetik
-Geochemie von Lagerstätten
-Geographie
-Geographie (Digitale Geographie / Kulturgeographie)
-Geographie (Fernerkundung und GIS)
-Geographie (Kulturgeographie und Gesellschafts-/Umweltforschung)
-Geographie (Kulturgeographie und Politische Geographie)
-Geographie (Physische Geographie)
-Geographie und Geowissenschaften
-Geologie (Exogene Dynamik)
-Geriatrie am Medizincampus Oberfranken
-Germanistik und Komparatistik
-Germanistische Linguistik mit Schwerpunkt Variation und Wandel des Deutschen
-Germanistische Sprachwissenschaft
-Geschichte
-Geschichte der Frühen Neuzeit
-Geschichte der Medizin
-Geschichte und Ethik der Medizin
-Geschichte und Theologie des Christlichen Ostens
-Gesundheitspsychologie
-Gesundheitsökonomie
-Gießereitechnik
-Glas und Keramik
-Global Governance and International Trade
-Grundschulforschung
-Grundschulpädagogik und -didaktik mit dem Schwerpunkt Lehren und Lernen
-Grundschulpädagogik und -didaktik mit dem Schwerpunkt Umgang mit Heterogenität
-Gynäkologie und Geburtsmedizin am Medizincampus Oberfranken
-Hals-Nasen-Ohrenheilkunde
-Haut- und Geschlechtskrankheiten
-Hepatologie
-Herz-Kreislaufphysiologie
-Herzchirurgie mit dem Schwerpunkt Kinderherzchirurgie
-Hochdruckthermofluiddynamik und Rheologie
-Hochfrequenztechnik
-Hochfrequenztechnik mit dem Schwerpunkt Optische Hochfrequenztechnik und Photonik
-Human Rights Law (Alexander von Humboldt-Professur)
-Humangenetik
-Höchstleistungsrechnen
-Image Data Exploration and Analysis
-Immunologie der Niere
-Immuntoleranz und Autoimmunität
-Immunzellmigration (Else Kröner Clinician Scientist Professur)
-Infektionsabwehr und Toleranz
-Informatik
-Informatik (Effiziente Algorithmen und Kombinatorische Optimierung)
-Informatik 1 (IT-Sicherheitsinfrastrukturen)
-Informatik 10 (Systemsimulation)
-Informatik 12 (Hardware-Software-Co-Design)
-Informatik 13 (Angewandte Kryptographie)
-Informatik 15 (Digital Reality)
-Informatik 2 (Programmiersysteme)
-Informatik 3 (Rechnerarchitektur)
-Informatik 4 (Systemsoftware)
-Informatik 5 (Mustererkennung)
-Informatik 6 (Datenmanagement)
-Informatik 7 (Rechnernetze und Kommunikationssysteme)
-Informatik 8 (Theoretische Informatik)
-Informatik 9 (Graphische Datenverarbeitung)
-Informatik, Serviceeinrichtungen
-Informationstechnik mit dem Schwerpunkt Kommunikationselektronik (Stiftungslehrstuhl)
-Informationsübertragung
-Innere Medizin (Geriatrie)
-Innere Medizin (Hochdruckforschung)
-Innere Medizin (Nephrologie)
-Innere Medizin I
-Innere Medizin II
-Innere Medizin III
-Innere Medizin IV
-Innere Medizin V
-Innere Medizin mit dem Schwerpunkt Gastroenterologie am Medizincampus Oberfranken
-Innere Medizin mit dem Schwerpunkt Immundefizienz
-Innere Medizin mit dem Schwerpunkt Nephrologie am Medizincampus Oberfranken
-Integrated Immunology
-Integrative Gewebeimmunologie (Heisenberg-Professur)
-Integrative Medizin mit dem Schwerpunkt Ernährungsmedizin (Stiftungsprofessur der Hector Stiftung II gGmbH)
-Intelligente Sprachsysteme
-Intelligente Technische Elektronik und Systeme
-Interfaces und Partikeltechnologie
-International Business, Society and Sustainability
-Internationale Beziehungen
-Interoperabilität in der Onkologie
-Islamisch-Religiöse Studien
-Islamisch-Religiöse Studien mit Schwerpunkt Reformdiskurs im gegenwärtigen Islam (Heisenberg-Professur)
-Islamisch-Religiöse Studien mit Schwerpunkt Religionspädagogik/Religionslehre
-Islamisch-Religiöse Studien mit Schwerpunkt Textwissenschaft und Normenlehre
-Islamisch-Religiöse Studien mit systematischem Schwerpunkt
-Japanologie mit dem Schwerpunkt Japan der Moderne und Gegenwart
-Jüngere Urgeschichte mit Schwerpunkt Neolithikum und Ältere Metallzeiten
-KI-gesteuerte Nanomaterialien
-Kardiologie am Medizincampus Oberfranken
-Katalyse und nachhaltige Verfahren
-Katalytische Grenzflächenforschung
-Kinder- u. Jugendmedizin Schwerpunkt Neuropädiatrie
-Kinder- und Jugendmedizin
-Kinder- und Jugendmedizin mit dem Schwerpunkt Pädiatrische Onkologie und Hämatologie
-Kinderchirurgie
-Kinderheilkunde/Experimentelle Perinatalmedizin
-Kinderkardiologie
-Kirchengeschichte
-Kirchengeschichte I (Ältere Kirchengeschichte)
-Kirchengeschichte II (Neuere Kirchengeschichte)
-Kirchenmusik
-Kirchenrecht
-Kirchenrecht, Staats- und Verwaltungsrecht
-Klassische Archäologie
-Klassische Philologie (Griechisch)
-Klassische Philologie (Latein)
-Klinische Ernährung im Alter
-Klinische Mikrobiologie und Immunologie
-Klinische Nuklearmedizin
-Klinische Pharmakologie und Klinische Toxikologie
-Klinische Psychologie und Behavioral Health Technology
-Klinische Psychologie und Psychotherapie
-Klinische Psychologie und Psychotherapie des Kindes- und Jugendalters
-Klinische und Molekulare Virologie
-Kognitive Radarsysteme für die Fernerkundung
-Kommunikationswissenschaft
-Komparatistik (Vergleichende Literaturwissenschaft) mit dem Schwerpunkt nordeuropäische Literaturen/Skandinavistik
-Konstruktionstechnik
-Kontinuumsmechanik (Schwerpunkt Biomechanik)
-Korpus- und Computerlinguistik
-Kristallographie und Strukturphysik
-Kultur- und Sozialanthropologie (Heisenberg-Professur)
-Kultur- und Sozialanthropologie (Schwerpunkt Ostasien)
-Kunstgeschichte
-Kunstpädagogik und -didaktik
-Kunststofftechnik
-Language und Cognition (Alexander von Humboldt-Professur)
-Laserphysik
-Lateinische Philologie des Mittelalters und der Neuzeit
-Lebensmittelchemie (Henriette-Schmidt-Burkhardt Lehrstuhl)
-Leistungselektronik
-Lokalisierungssysteme
-Marketing Intelligence
-Maschinelles Lernen in der Signalverarbeitung
-Maschinelles Lernen und Datenanalytik
-Maschinenbau
-Materialien für die elektrochemische Energiekonversion
-Mathematik
-Mathematik (Algebra und Geometrie)
-Mathematik (Analysis)
-Mathematik (Darstellungstheorie und Mathematische Physik)
-Mathematik (Lie-Gruppen und Darstellungstheorie)
-Mathematik (Mathematische Physik)
-Mathematik (Operatoralgebren) (Heisenberg-Professur)
-Mathematik in den Lebenswissenschaften
-Mathematik, Geschäftsstelle
-Mathematische Analyse von Daten (Data Analytics)
-Mathematische Stochastik
-Maßgeschneiderte Produktionsprozesse
-Med. Strahlenphysik
-Medical Data Science
-Medical Image Analysis (Stiftungsprofessur)
-Medienethik
-Medienkommunikation, Medienethik und Digitale Theologie
-Medienwissenschaft
-Medienwissenschaften und Kunstgeschichte
-Medizininformatik, Biometrie und Epidemiologie
-Medizinische Biotechnologie
-Medizinische Mikrobiologie und Infektionsimmunologie
-Menschenrechtspolitik
-Methoden der empirischen Sozialforschung
-Migrationsrecht und Menschenrechte
-Mikrobiologie
-Mikrobiologie und Infektionsimmunologie
-Mikrobiomik
-Mikroskopische Anatomie und Molekulare Bildgebung
-Mineralogie
-Mittelalterliche Geschichte
-Modellierung von Immunprozessen
-Modellierung von Selbstorganisationsprozessen
-Modulation von Immunantworten
-Molekulare Bildgebung und Radiochemie
-Molekulare Gastroenterologie
-Molekulare Nanostrukturen
-Molekulare Neurologie
-Molekulare Neuropathologie (Heisenberg-Professur)
-Molekulare Pflanzenphysiologie
-Molekulare Pneumologie
-Molekulare Psychiatrie
-Molekulare und Experimentelle Chirurgie
-Molekulare und Klinische Pharmazie
-Montagetechnologien elektrischer Energiespeicher
-Mukosale Immuntherapie
-Multimediakommunikation und Signalverarbeitung
-Multimodale Bildgebung in der klinischen Forschung
-Multiscale Simulation of Particulate Systems
-Multiskalen-Modellierung für kontrollierte Filmbildung (HIERN)
-Multiwellenlängenastronomie
-Museumsforschung und Kulturgeschichte
-Musikpädagogik und -didaktik
-Nanomaterialcharakterisierung (Streumethoden)
-Nanomedizin
-Nanostructured Particles
-Neonatologie
-Nephropathologie
-Neuere Bayerische und Fränkische Landesgeschichte und Volkskunde
-Neuere deutsche Literatur mit komparatistischem Schwerpunkt
-Neuere deutsche Literatur mit kulturwissenschaftlichem Schwerpunkt
-Neuere deutsche Literatur mit systematischem Schwerpunkt
-Neuere und Neueste Geschichte mit dem Schwerpunkt der Geschichte Osteuropas
-Neues Testament
-Neues Testament I (Theologie des Neuen Testaments)
-Neues Testament II (Literatur und Geschichte des Urchristentums)
-Neueste Geschichte und Zeitgeschichte
-Neurale Epigenomik
-Neurobildgebung Immunologischer und Metabolischer Prozesse
-Neurobiologie
-Neurochirurgie
-Neuroimmunologie
-Neurologie
-Neuromuscular Physiology and Neural Interfacing
-Neuronale Mechanik
-Neuropathologie
-Neuroradiologie
-Neurowissenschaften der sensorischen Wahrnehmung (Stiftungsprofessur)
-Numerische Simulation und Hochleistungsrechnen
-Oberflächenaktive Proteine
-Open Source Software
-Optik
-Optimization under Uncertainty & Data Analysis
-Optische Quantentechnologien
-Optoelektronik
-Organische Chemie
-Organische Chemie I
-Organische Chemie II
-Orientalische Philologie und Islamwissenschaft
-Orthopädie und Orthopädische Chirurgie
-Palliativmedizin
-Paläontologie (Schwerpunkt Faziesanalyse)
-Paläoumwelt
-Partikelbasierte Materialchemie
-Partikeltechnik
-Personalmanagement und Arbeitsorganisation technologieorientierter Unternehmen
-Pharmakologie und Toxikologie
-Pharmazeutische Biologie
-Pharmazeutische Chemie
-Pharmazeutische Technologie und Biopharmazie
-Philosophie
-Phoniatrie und Pädaudiologie
-Photonische Technologien
-Physik
-Physik der Kondensierten Materie
-Physik, Geschäftsstelle
-Physikalische Chemie
-Physikalische Chemie I
-Physikalische Chemie II
-Physiologie
-Physiologie (Vegetative Physiologie)
-Physiologie und Pathophysiologie
-Plastische Chirurgie und Handchirurgie
-Plastische und Handchirurgie am Medizincampus Oberfranken
-Politik und Gesellschaft des Nahen Ostens
-Politik und Gesellschaft in Asien
-Politische Theorie und Ideengeschichte
-Politische Wissenschaft
-Power-to-X-Technologien
-Praktische Philosophie
-Praktische Theologie
-Praktische Theologie (Homiletik, Liturgik und Poimenik)
-Praktische Theologie (Religions- und Gemeindepädagogik)
-Psychiatrie und Psychotherapie
-Psychogerontologie
-Psychologie
-Psychologie im Arbeitsleben
-Psychologie, insbesondere Wirtschafts- und Sozialpsychologie
-Psychologische Diagnostik, Methodenlehre und Rechtspsychologie
-Psychosomatik und Psychotherapie
-Pädagogik
-Pädagogik mit Schwerpunkt Digitalisierung in Hochschul- und Erwachsenenbildung
-Pädagogik mit dem Schwerpunkt Diversity Education und internationale Bildungsforschung
-Pädagogik mit dem Schwerpunkt Kultur und ästhetische Bildung
-Pädagogik mit dem Schwerpunkt Medienpädagogik
-Pädagogik mit dem Schwerpunkt Organisationspädagogik
-Pädagogische Psychologie und Exzellenzforschung
-Quantitative Arbeitsökonomik
-Radiologie am Medizincampus Oberfranken
-Rechnergestützten Schaltungsentwurf
-Rechnungslegung und Wirtschaftsprüfung
-Rechtsmedizin
-Rechtstheorie und Rechtsphilosophie
-Regelungstechnik
-Religionspädagogik und Didaktik des Evangelischen Religionsunterrichts
-Religionswissenschaft und Interkulturelle Theologie
-Ressourcen- und Energieeffiziente Produktionsmaschinen
-Robotische Planung und Kognition in der Chirurgie
-Romanistik
-Romanistik, insbesondere Literatur- und Kulturwissenschaft
-Romanistik, insbesondere Sprachwissenschaft
-Romanistik, insbesondere italienische Literatur- und Kulturwissenschaft im europäischen Kontext
-Röntgenspektroskopie (HIERN)
-Schulpädagogik mit Schwerpunkt Digitalisierung im Unterricht
-Schulpädagogik mit Schwerpunkt Educational Governance and Educational Change
-Schulpädagogik mit dem Schwerpunkt Schulentwicklungsforschung und Experiential Learning
-Schulpädagogik mit dem Schwerpunkt empirische Unterrichtsforschung
-Science in Society
-Science, Technology and Gender Studies
-Semantische Audiosignalverarbeitung (AudioLabs)
-Sensorische Neurotechnologie
-Signalverarbeitung
-Sinologie mit dem Schwerpunkt Geistes- und Kulturgeschichte Chinas (Alexander von Humboldt-Professur)
-Smart Imaging and Data Profiling (Heisenberg-Professur)
-Sozialpsychologie mit Schwerpunkt Gender und Diversity
-Sozialwissenschaften und Philosophie
-Soziologie
-Soziologie mit Schwerpunkt transnationale Arbeit
-Soziologie mit dem Schwerpunkt Soziologische Theorie
-Soziologie mit dem Schwerpunkt Technik - Arbeit - Gesellschaft
-Soziologie und Empirische Sozialforschung (Schwerpunkt Arbeitsmarktsoziologie)
-Sportbiologie und Bewegungsmedizin
-Sportpädagogik (Sportdidaktik)
-Sportwissenschaft mit dem Schwerpunkt Bewegung und Gesundheit
-Sportwissenschaft mit der Ausrichtung Gesundheitsförderung/Public Health/Sozialwissenschaften des Sports
-Sportwissenschaft und Sport
-Sportwissenschaft und Sport (GB Lehre)
-Sprach- und Akustische Signalverarbeitung
-Sprachen und Kulturen des Nahen Ostens und Ostasiens
-Statistik und empirische Wirtschaftsforschung
-Statistik und Ökonometrie
-Steuerrecht
-Stochastic Methods
-Strafrecht, Strafprozessrecht und Rechtsphilosophie
-Strafrecht, Strafprozessrecht, Internationales Strafrecht und Völkerrecht
-Strafrecht, Strafprozessrecht, Wirtschafts- und Medizinstrafrecht
-Strahlentherapie
-Strukturmechanik
-Strömungsmechanik
-Suchtmedizin
-Sustainability Transition Policy
-System-Paläobiologie
-System-on-Chip
-Systematische Theologie I (Dogmatik)
-Systematische Theologie II (Ethik)
-Systembiotechnologie
-Systemische Neurophysiologie
-T-Zell-Immunologie (Heisenberg-Professur)
-Technische Dynamik
-Technische Elektronik
-Technische Mechanik
-Technische Thermodynamik
-Technologiemanagement
-Tektonik
-Theater- und Medienwissenschaft
-Theaterwissenschaft
-Theaterwissenschaft mit Schwerpunkt Performance und Gegenwartstheater
-Theoretische Chemie
-Theoretische Festkörperphysik
-Theoretische Philosophie
-Theoretische Physik
-Theoretische Physik mit dem Schwerpunkt Molekulare Materialien
-Theory and Ethics of Artificial Intelligence (Alexander von Humboldt-Professur)
-Thermische Verfahrenstechnik
-Thoraxchirurgie
-Tierphysiologie
-Transfusionsmedizin und Cell-Engineering
-Translationale Anästhesiologie und Intensivmedizin
-Translationale Frauenheilkunde und Geburtshilfe
-Translationale Immundermatologie
-Translationale Immunforschung bei chronisch entzündlichen Darmerkrankungen
-Translationale Immunologie
-Translationale Immunpathologie (Else Kröner Clinician Scientist Professur)
-Translationale Neurowissenschaften
-Tumorimmunologie (Schwerpunkt Systembiologie)
-Unfallchirurgie und Orthopädie
-Unternehmensführung
-Ur- und Frühgeschichte
-Urologie
-Urologie am Medizincampus Oberfranken
-Vergleichende Indogermanische Sprachwissenschaft
-Vergleichende Politikwissenschaft und Europäisches Regieren
-Versicherungswirtschaft und Risikomanagement
-Virologie
-Visual Computing
-Volkswirtschaftslehre
-Volkswirtschaftslehre mit dem Schwerpunkt Entwicklungsökonomik
-Volkswirtschaftslehre, insbesondere Arbeitsmarkt- und Regionalpolitik
-Volkswirtschaftslehre, insbesondere Empirische Mikroökonomie (Stiftungslehrstuhl)
-Volkswirtschaftslehre, insbesondere Finanzwissenschaft
-Volkswirtschaftslehre, insbesondere Makroökonomik
-Volkswirtschaftslehre, insbesondere Sozialpolitik
-Volkswirtschaftslehre, insbesondere Wirtschaftspolitik
-Volkswirtschaftslehre, insbesondere Wirtschaftstheorie
-Volkswirtschaftslehre: Wirtschaft und Gesellschaft des Nahen Ostens
-Wahrnehmungspsychologie
-Werkstoffsimulation
-Werkstoffwissenschaften
-Werkstoffwissenschaften (Allgemeine Werkstoffeigenschaften)
-Werkstoffwissenschaften (Biomaterialien)
-Werkstoffwissenschaften (Computational Materials Microscopy)
-Werkstoffwissenschaften (Glas und Keramik)
-Werkstoffwissenschaften (Korrosion und Oberflächentechnik)
-Werkstoffwissenschaften (Materialien der Elektronik und der Energietechnologie)
-Werkstoffwissenschaften (Mikro- und Nanostrukturforschung)
-Werkstoffwissenschaften (Polymerwerkstoffe)
-Werkstoffwissenschaften (Werkstoffe der Elektrotechnik)
-Werkstoffwissenschaften (Werkstoffkunde und Technologie der Metalle)
-Werkstoffwissenschaften (lösungsprozessierte Halbleitermaterialien)
-Wirtschaftsinformatik, insbesondere Digitalisierung in Wirtschaft und Gesellschaft (Stiftungslehrstuhl)
-Wirtschaftsinformatik, insbesondere IT-Management
-Wirtschaftsinformatik, insbesondere Innovation und Wertschöpfung
-Wirtschaftsinformatik, insbesondere Technische Informationssysteme
-Wirtschaftsinformatik, insbesondere im Dienstleistungsbereich
-Wirtschaftsprivatrecht
-Wirtschaftspädagogik
-Wirtschaftspädagogik und Personalentwicklung
-Wirtschaftswissenschaft
-Wissenschaftliches Rechnen
-Wissensrepräsentation und -verarbeitung
 Zahn-, Mund- und Kieferheilkunde, insbesondere Kieferorthopädie
 Zahn-, Mund- und Kieferheilkunde, insbesondere zahnärztliche Prothetik
 Zahn-,Mund- und Kieferheilkunde, insbesondere Fächergruppe Zahnerhaltung
@@ -1379,11 +1394,13 @@ Zuverlässige Schaltungen und Systeme
 betriebliche Arbeitsmarkt- und Berufsforschung
 die Zeitgeschichte Chinas
 evolutionäres Datenmanagement
+lösungsprozessierte Halbleitermaterialien
 metabolische und funktionelle MR-Bildgebung
 qualitative Methoden der empirischen Sozialforschung
 quantitative MR-Bildgebung
 seltene Nierenerkrankungen
 und Poliklinik für Arbeits-, Sozial- und Umweltmedizin
+Ältere Kirchengeschichte
 Ältere deutsche Literatur
 Öffentliches Recht und Europarecht
 Öffentliches Recht und Rechtsphilosophie
