@@ -5,7 +5,7 @@ campo_segment: "title:17122"
 campo_path: "title:16758|title:16764|title:17122"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17122"
 po_version_count: 2
-course_count: 295
+course_count: 297
 fau_studiengang:
   - title: "Elektromobilität-ACES (B.Sc.)"
     rel_path: "studiengang/elektromobilitaet-aces-b-sc.md"
@@ -356,7 +356,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:12331234`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17122|exam:12326335|exam:12326336|exam:12331234>
 
-## Veranstaltungen (295)
+## Veranstaltungen (297)
 
 ### Bachelor Internship Seminar/Berufspraktische Tätigkeit Elektromobilität-ACES - Hauptseminar
 
@@ -389,7 +389,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 300 |
+| wöchentlich | Mi | 08:30–10:00 | 15.10.2025–04.02.2026 | 12801.01.210 (H11) |
 
 ### 118154 Aufbau- und Verbindungstechnik in der Leistungselektronik
 
@@ -458,7 +458,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 242643 Praktikum Photonik/Lasertechnik 1
 
@@ -479,7 +479,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 11:00 - 13:00 | — | — | — |
+| Do | Do | 11:00–13:00 | — | — |
 
 ### 25701 Grundlagen der Elektrotechnik II - Leistung
 
@@ -494,7 +494,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 08:00 - 09:30 | — | — | 12801.01.210 (H11) |
+| Di | Di | 08:00–09:30 | — | 12801.01.210 (H11) |
 
 ### 26801 Signale und Systeme I - Leistung
 
@@ -509,7 +509,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:00 - 12:30 | — | — | — |
+| Mo | Mo | 11:00–12:30 | — | — |
 
 ### 30601 Grundlagen der Informatik - Leistung
 
@@ -524,7 +524,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 13:00 - 14:30 | — | — | — |
+| Mi | Mi | 13:00–14:30 | — | — |
 
 ### 30602 Übung Grundlagen der Informatik - Leistung
 
@@ -539,7 +539,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 313638 Automotive Systems and Software Engineering
 
@@ -560,7 +560,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 08:00 - 09:30 | — | — | 11906.01.040 (H20) |
+| Mi | Mi | 08:00–09:30 | — | 11906.01.040 (H20) |
 
 ### 343279 Praktikum Regelungstechnik II
 
@@ -659,7 +659,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:00 - 12:30 | — | — | — |
+| Mo | Mo | 11:00–12:30 | — | — |
 
 ### 45084 Cooling of Power electronics
 
@@ -680,7 +680,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 08:00 - 09:00 | — | — | 11907.01.040 (H18) |
+| Fr | Fr | 08:00–09:00 | — | 11907.01.040 (H18) |
 
 ### 45111 Grundlagen der Messtechnik und Angewandte Statistik - Leistung
 
@@ -695,7 +695,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 08:00 - 10:00 | — | — | 11907.01.030 (H19) |
+| Fr | Fr | 08:00–10:00 | — | 11907.01.030 (H19) |
 
 ### 45121 Angewandte Statistik - Leistung
 
@@ -710,7 +710,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 09:15 - 10:15 | — | — | 11907.01.040 (H18) |
+| Fr | Fr | 09:15–10:15 | — | 11907.01.040 (H18) |
 
 ### 45291 Angewandte Thermofluiddynamik (Fahrzeugantriebe)
 
@@ -731,7 +731,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 08:00 - 10:00 | — | — | — |
+| Do | Do | 08:00–10:00 | — | — |
 
 ### 45401 Mathematik B 1 - Leistung
 
@@ -746,7 +746,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 11:00 - 12:30 | — | — | — |
+| Fr | Fr | 11:00–12:30 | — | — |
 
 ### 45402 Übung Mathematik B 1 - Leistung
 
@@ -761,7 +761,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 45431 Technische Akustik
 
@@ -782,7 +782,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 08:00 - 09:30 | — | — | 11901.00.226 (H8 Hörsaal 8) |
+| Mo | Mo | 08:00–09:30 | — | 11901.00.226 (H8 Hörsaal 8) |
 
 ### 45601 Mathematik B 3 - Leistung
 
@@ -797,7 +797,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 11:00 - 12:30 | — | — | — |
+| Do | Do | 11:00–12:30 | — | — |
 
 ### 45701 Produktionstechnik I und II - Leistung
 
@@ -812,7 +812,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 08:00 - 10:00 | — | — | — |
+| Do | Do | 08:00–10:00 | — | — |
 
 ### 45751 Automotive Engineering II - Leistung
 
@@ -827,7 +827,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 16:00 - 17:00 | — | — | 11906.01.030 (H21) |
+| Fr | Fr | 16:00–17:00 | — | 11906.01.030 (H21) |
 
 ### 45901 Praktikum Technische Darstellungslehre 1. Teil - Leistung
 
@@ -842,7 +842,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 46601 Statik und Festigkeitslehre - Leistung
 
@@ -857,7 +857,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 08:00 - 09:30 | — | — | — |
+| Do | Do | 08:00–09:30 | — | — |
 
 ### 46901 Werkstoffkunde - Leistung
 
@@ -872,7 +872,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 09:00 - 11:00 | — | — | 11906.01.040 (H20) |
+| Mi | Mi | 09:00–11:00 | — | 11906.01.040 (H20) |
 
 ### 46934 Characterization Techniques for Electrochemical Cells
 
@@ -953,7 +953,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 12:00 - 13:00 | — | — | — |
+| Mo | Mo | 12:00–13:00 | — | — |
 
 ### 623734 Smart Grids und Elektromobilität
 
@@ -1783,6 +1783,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17122|exam:12322479|exam:12322921|exam:12323069>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79601&periodId=565>
 
+### 97059 Materials for Electrochemical Energy Conversion and Storage (with exercise)
+
+- **Segment:** `exam:15928241` · **unitId:** `137710`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17122|exam:12322479|exam:12322921|exam:15928241>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137710&periodId=565>
+
 ### 97060 Regelungstechnik B (Zustandsraummethoden)
 
 - **Segment:** `exam:12322658` · **unitId:** `79410`
@@ -1806,6 +1812,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12323155` · **unitId:** `125932`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17122|exam:12322479|exam:12322921|exam:12323155>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125932&periodId=565>
+
+### 97071 Electrochemical Process Engineering
+
+- **Segment:** `exam:15928196` · **unitId:** `137709`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17122|exam:12322479|exam:12322921|exam:15928196>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137709&periodId=565>
 
 ### 97086 Gießereitechnik 1
 
@@ -2168,7 +2180,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 11:00 - 12:00 | — | — | 11906.01.030 (H21) |
+| Mi | Mi | 11:00–12:00 | — | 11906.01.030 (H21) |
 
 ### ARB-SIM-Tools - Arbeitstechnik-SIM-Tools - Sonstige Lehrveranstaltung
 
@@ -2205,7 +2217,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.10.2025 31.10.2025 07.11.2025 14.11.2025 28.11.2025 05.12.2025 19.12.2025 26.12.2025 02.01.2026 09.01.2026 23.01.2026 06.02.2026 | 200 |
+| wöchentlich | Fr | 10:15–13:45 | 17.10.2025–30.01.2026 | 11906.01.040 (H20) |
 
 ### DSK (Tut) - Tutorium zur Dynamik starrer Körper - Tutorium
 
@@ -2221,7 +2233,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 409 |
+| wöchentlich | Di | 18:15–19:45 | 14.10.2025–03.02.2026 | 12801.01.210 (H11) |
 
 ### DSK (V) - Dynamik starrer Körper - Vorlesung
 
@@ -2238,8 +2250,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 409 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 409 |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 12801.01.210 (H11) |
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 12801.01.210 (H11) |
 
 ### DSK (Ü) - Übungen zur Dynamik starrer Körper - Übung
 
@@ -2255,7 +2267,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 140 |
+| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
 ### GdI - Grundlagen der Informatik - Vorlesung
 
@@ -2271,7 +2283,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 10:15–13:45 | 16.10.2025–05.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
 ### GET I - Grundlagen der Elektrotechnik I - Vorlesung
 
@@ -2288,8 +2300,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 158 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 158 |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 11907.01.040 (H18) |
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 11907.01.040 (H18) |
 
 ### GMT - Grundlagen der Messtechnik - Vorlesung mit Übung
 
@@ -2306,8 +2318,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 166 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 166 |
+| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 11907.01.030 (H19) |
+| wöchentlich | Di | 08:15–09:45 | 14.10.2025–03.02.2026 | 11907.01.030 (H19) |
 
 ### GMT UE - Grundlagen der Messtechnik - Übung - Übung
 
@@ -2323,8 +2335,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 11.11.2025 25.11.2025 09.12.2025 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | — | — |
+| wöchentlich | Di | 08:15–09:45 | 04.11.2025–03.02.2026 | — |
+| wöchentlich | Mo | 10:15–11:45 | 17.11.2025–01.12.2025 | — |
 
 ### IngMatB1U - Übungen zur Mathematik für Ingenieure B1: MB,WING,BPT-M,ACES - Übung
 
@@ -2341,7 +2353,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
 
 ### IngMathB1V - Mathematik für Ingenieure B1: MB, WING, BPT-M, ACES - Vorlesung
 
@@ -2358,9 +2370,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | Einzeltermin | — | — | 130 |
+| wöchentlich | Mo | 12:00–14:00 | 20.10.2025–02.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 12801.01.210 (H11) |
+| Einzeltermin | Mo | 11:00–12:00 | 23.02.2026 | 12801.01.210 (H11) |
 
 ### IngMathB3U - Übungen zur Mathematik für Ingenieure B3: MB, WING, BPT-M, ACES - Übung
 
@@ -2376,11 +2388,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 24 |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | 40 |
-| — | Einzeltermin | — | — | 40 |
+| Einzeltermin | Mi | 14:45–16:00 | 24.09.2025 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 11901.00.236 (K1-119 Brose-Saal) |
+| Einzeltermin | Do | 14:00–16:00 | 20.11.2025 | 11501.01.021 (01.021 Seminarraum) |
+| Einzeltermin | Do | 14:00–16:00 | 04.12.2025 | 11501.01.021 (01.021 Seminarraum) |
+| Einzeltermin | Mi | 14:00–16:00 | 08.04.2026 | 12801.01.255 (01.255-128 Besprechungsraum) |
 
 ### IngMathB3V - Mathematik für Ingenieure  B3: MB, WING, BPT-M, ACES - Vorlesung
 
@@ -2397,8 +2409,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 178 |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 178 |
+| wöchentlich | Mo | 08:15–09:45 | 13.10.2025–02.02.2026 | 11907.01.030 (H19) |
+| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 11907.01.030 (H19) |
 
 ### KoPra - Konstruktives Projektpraktikum - Praktikum
 
@@ -2414,7 +2426,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–04.02.2026 | — |
 
 ### ME1 V - Vorlesung Maschinenelemente I - Vorlesung
 
@@ -2430,8 +2442,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 259 |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 259 |
+| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 11907.01.040 (H18) |
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 11907.01.040 (H18) |
 
 ### PR GET II EEI - Praktikum Grundlagen der Elektrotechnik II (EEI) - Praktikum
 
@@ -2448,8 +2460,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 08:00–12:00 | 15.10.2025–04.02.2026 | 11501.00.157 (0.157-115 CIP Pool EEI) |
+| wöchentlich | Mi | 08:00–12:00 | 15.10.2025–04.02.2026 | 11501.00.150 (0.150-115 GET Praktikum) |
 
 ### PT Tutorium - Produktionstechnik (PT I und PT2 für MB) - Tutorium - Tutorium
 
@@ -2465,8 +2477,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 08.01.2026 29.01.2026 05.02.2026 | 246 |
-| — | wöchentlich | — | — | 50 |
+| wöchentlich | Do | 18:15–19:45 | 16.10.2025–22.01.2026 | 11907.01.030 (H19) |
+| wöchentlich | Do | 16:30–18:00 | 29.01.2026–05.02.2026 | 07205.02.030 (SR LPT 02.030 Seminarraum LS Photonische Technologien) |
 
 ### PTI  - Produktionstechnik (PT I und PT2 für MB) - Vorlesung
 
@@ -2482,8 +2494,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 246 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 45 |
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 11501.00.151 (0.151-115 Seminar) |
 
 ### SISY I - Signale und Systeme I - Vorlesung
 
@@ -2499,10 +2511,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 16.10.2025 25.12.2025 01.01.2026 | 155 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 155 |
+| wöchentlich | Do | 08:15–09:45 | 23.10.2025–05.02.2026 | 11901.00.226 (H8 Hörsaal 8) |
+| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
-### SMM - Angewandte Statistik (Statistik, Messdatenauswertung und Messunsicherheit) - Online-Kurs
+### SMM - Angewandte Statistik (Statistik, Messdatenauswertung und Messunsicherheit) - Online - Online-Kurs
 
 - **Segment:** `exam:12322546` · **unitId:** `116524`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17122|exam:12322479|exam:12322540|exam:12322546>
@@ -2526,23 +2538,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 134 |
-
-### SuF-Tut - Tutorium zur Statik und Festigkeitslehre - Tutorium
-
-- **Segment:** `exam:12322515` · **unitId:** `91315`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17122|exam:12322479|exam:12322514|exam:12322515>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 67 |
+| wöchentlich | Di | 08:15–09:45 | 14.10.2025–03.02.2026 | 11906.01.030 (H21) |
 
 ### SuF-VL - Statik und Festigkeitslehre - Vorlesung
 
@@ -2558,8 +2554,24 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 134 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 134 |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
+
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+
+- **Segment:** `exam:12322515` · **unitId:** `91315`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17122|exam:12322479|exam:12322514|exam:12322515>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=565>
+
+- **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 11906.01.030 (H21) |
 
 ### TD I - Technische Darstellungslehre I - Praktikum
 
@@ -2575,10 +2587,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 350 |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 350 |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 350 |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 350 |
+| wöchentlich | Fr | 14:15–18:00 | 17.10.2025–06.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
+| wöchentlich | Fr | 14:15–18:00 | 17.10.2025–06.02.2026 | 11901.00.226 (H8 Hörsaal 8) |
+| wöchentlich | Fr | 14:15–18:00 | 17.10.2025–06.02.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
+| wöchentlich | Fr | 14:15–18:00 | 17.10.2025–06.02.2026 | 12801.01.210 (H11) |
 
 ### TD I V - Technische Darstellungslehre I - Vorlesung - Vorlesung
 
@@ -2594,7 +2606,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 413 |
+| wöchentlich | Mo | 16:15–17:45 | 20.10.2025–02.02.2026 | 12801.01.210 (H11) |
 
 ### Tut ME I - Tutorium Maschinenelemente I - Tutorium
 
@@ -2610,7 +2622,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 259 |
+| wöchentlich | Di | 16:15–17:45 | 14.10.2025–03.02.2026 | 11907.01.040 (H18) |
 
 ### TÜGdI - Sprechstunden zu Grundlagen der Informatik - Übung
 
@@ -2626,10 +2638,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 20 |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 20 |
+| wöchentlich | Mo | 08:00–18:00 | 13.10.2025–02.02.2026 | 11302.02.135 |
+| wöchentlich | Di | 08:00–18:00 | 14.10.2025–03.02.2026 | 11302.02.135 |
+| wöchentlich | Mi | 08:00–18:00 | 15.10.2025–04.02.2026 | 11302.02.135 |
+| wöchentlich | Do | 08:00–12:00 | 16.10.2025–05.02.2026 | 11302.02.135 |
 
 ### UE GET I - Übungen zu Grundlagen der Elektrotechnik I - Übung
 
@@ -2645,7 +2657,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 23 |
+| wöchentlich | Di | 18:15–19:45 | 14.10.2025–03.02.2026 | 11501.02.019 (02.019 Seminarraum) |
 
 ### WK1 - Werkstoffkunde 1 - Vorlesung
 
@@ -2662,8 +2674,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 359 |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 359 |
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
+| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
 ### Ü SISY I - Übung zu Signale und Systeme I - Übung
 
@@ -2679,7 +2691,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 17.10.2025 24.10.2025 31.10.2025 28.11.2025 05.12.2025 12.12.2025 19.12.2025 26.12.2025 02.01.2026 | 155 |
+| wöchentlich | Fr | 16:15–17:45 | 07.11.2025–06.02.2026 | 11906.01.030 (H21) 11907.01.040 (H18) 11501.01.104 (H5 Hörsaal 5) |
 
 ### ÜB ME I - Übungen zu Maschinenelemente I - Übung
 
@@ -2695,4 +2707,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 259 |
+| wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 11907.01.030 (H19) |

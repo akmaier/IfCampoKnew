@@ -42,6 +42,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
+| wöchentlich | Mi | 16:00–19:00 | 15.04.2026–15.07.2026 | 10402.01.121 (TL 1.140 Seminarraum im Tandemlabor (1.140)) |
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
+| wöchentlich | Do | 13:00–18:00 | 16.04.2026–09.07.2026 | 10402.01.121 (TL 1.140 Seminarraum im Tandemlabor (1.140)) |
+
 ### 66282 Integrated course 3: Quantum field theory and particle physics
 
 - **Segment:** `exam:14336047` · **unitId:** `42181`

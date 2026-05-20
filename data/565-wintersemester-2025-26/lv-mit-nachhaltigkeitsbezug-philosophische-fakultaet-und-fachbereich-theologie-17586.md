@@ -30,7 +30,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 05.02.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–29.01.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### Aktuelle erziehungswissenschaftliche Probleme und Fragestellungen (Angebot am Standort Erlangen) - Vorlesung
 
@@ -46,7 +46,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 05.02.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–29.01.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
 
@@ -82,7 +82,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Analyse von Lehrmaterialien und Aufgabenstellungen - Seminar
 
@@ -98,7 +98,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -115,7 +115,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -132,7 +132,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -149,7 +149,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -166,7 +166,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -183,7 +183,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -200,7 +200,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -217,7 +217,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -234,7 +234,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -251,7 +251,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -268,7 +268,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -285,7 +285,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Cultural Heritage and Identity in Education - Seminar
 
@@ -301,8 +301,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | — | — |
+| wöchentlich | Mo | 11:00–12:00 | 13.10.2025–02.02.2026 | — |
+| wöchentlich | Fr | 13:00–17:00 | 17.10.2025–28.11.2025 | 75409.01.034 |
 
 ### Cultural Heritage and Identity in Education - Seminar
 
@@ -318,8 +318,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | — | — |
+| wöchentlich | Mo | 11:00–12:00 | 13.10.2025–02.02.2026 | — |
+| wöchentlich | Fr | 13:00–17:00 | 17.10.2025–28.11.2025 | 75409.01.034 |
 
 ### Deutsch als Zweitsprache und Sprachliche Bildung - Digitalisierungsbezogene Kompetenzen - Seminar
 
@@ -357,7 +357,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Diagnosegestützte Sprachförderung in der Schule - Seminar
 
@@ -373,7 +373,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Einführung in die Didaktik der romanischen Sprachen - Übungsseminar
 
@@ -390,7 +390,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | 05801.02.110 ( A 401) |
 
 ### Einführung in pädagogisches Sehen und Denken - Seminar
 
@@ -405,7 +405,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Einführung in pädagogisches Sehen und Denken - Seminar
 
@@ -420,7 +420,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Examenskolloquium - Examensseminar
 
@@ -436,7 +436,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Examenskolloquium - Examensseminar
 
@@ -452,7 +452,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Forschungswerkstatt DaZ - Doktorandenkolloquium - Seminar
 
@@ -467,7 +467,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 09:45–11:15 | 17.10.2025–06.02.2026 | 75202.01.529 |
 
 ### Forschungswerkstatt DaZ - Doktorandenkolloquium - Seminar
 
@@ -482,7 +482,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 09:45–11:15 | 17.10.2025–06.02.2026 | 75202.01.529 |
 
 ### Grundkonzepte Biologie für Grund- und Mittelschule Fächergruppe: Außerschulische Lernorte im Biologieunterricht - Seminar
 
@@ -499,7 +499,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 25.12.2025 | — |
+| 14-täglich | Do | 09:45–13:00 | 16.10.2025–05.02.2026 | 20301.02.039 (2.039 Biolabor (Nutzung nur durch FD und FW Biologie!)) |
 
 ### Grundkonzepte Biologie für Grund- und Mittelschule Fächergruppe: Außerschulische Lernorte im Biologieunterricht - Seminar
 
@@ -516,7 +516,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 25.12.2025 | — |
+| 14-täglich | Do | 09:45–13:00 | 16.10.2025–05.02.2026 | 20301.02.039 (2.039 Biolabor (Nutzung nur durch FD und FW Biologie!)) |
 
 ### Grundkonzepte Biologie für Grund- und Mittelschule Fächergruppe: Außerschulische Lernorte im Biologieunterricht - Seminar
 
@@ -533,7 +533,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 25.12.2025 | — |
+| 14-täglich | Do | 09:45–13:00 | 16.10.2025–05.02.2026 | 20301.02.039 (2.039 Biolabor (Nutzung nur durch FD und FW Biologie!)) |
 
 ### Grundkonzepte Biologie für Grund- und Mittelschule Fächergruppe: Außerschulische Lernorte im Biologieunterricht - Seminar
 
@@ -550,7 +550,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 25.12.2025 | — |
+| 14-täglich | Do | 09:45–13:00 | 16.10.2025–05.02.2026 | 20301.02.039 (2.039 Biolabor (Nutzung nur durch FD und FW Biologie!)) |
 
 ### Schriftspracherwerb im Kontext der Mehrsprachigkeit (vhb-Seminar) - Seminar
 
@@ -630,7 +630,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 09:45–11:15 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### Sprachvermittlung und literar-ästhestisches Lernen - Seminar
 
@@ -646,7 +646,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 09:45–11:15 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache - Seminar
 
@@ -662,7 +662,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 11:30–13:00 | 17.10.2025–06.02.2026 | 75202.01.529 |
 
 ### Wissenschaftliches Arbeiten im Bereich Sprachliche Bildung und Deutsch als Zweitsprache - Seminar
 
@@ -678,7 +678,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 11:30–13:00 | 17.10.2025–06.02.2026 | 75202.01.529 |
 
 ### DIDCHEM LAG II - Übungen im Schülerlabor EAM-Lab Erlangen (DIDCHEM LAG II) - Praxisseminar
 
@@ -695,10 +695,10 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 06.11.2025 | — |
-| — | Einzeltermin | — | — | — |
+| Einzeltermin | Do | 09:30–12:00 | 16.10.2025 | — |
+| Einzeltermin | Do | 09:30–12:00 | 23.10.2025 | — |
+| wöchentlich | Do | 09:30–12:00 | 30.10.2025–11.12.2025 | — |
+| Einzeltermin | Mi | 09:30–12:00 | 10.12.2025 | — |
 
 ### DIDCHEM LAG II - Übungen im Schülerlabor EAM-Lab Erlangen (DIDCHEM LAG II) - Praxisseminar
 
@@ -715,10 +715,10 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 06.11.2025 | — |
-| — | Einzeltermin | — | — | — |
+| Einzeltermin | Do | 09:30–12:00 | 16.10.2025 | — |
+| Einzeltermin | Do | 09:30–12:00 | 23.10.2025 | — |
+| wöchentlich | Do | 09:30–12:00 | 30.10.2025–11.12.2025 | — |
+| Einzeltermin | Mi | 09:30–12:00 | 10.12.2025 | — |
 
 ### Klima - Klimawandel als Thema im Geographieunterricht GS-MS-RS-GY | (in ER,10:15h)  - Seminar
 
@@ -734,7 +734,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 16.10.2025 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 10:15–11:45 | 23.10.2025–05.02.2026 | 05901.01.053 ( 01.053) |
 
 ### KOAla regulär - Übungen im Schülerlabor "KOAla" (wöchentlich am Campus Nürnberg) - Übung
 
@@ -751,7 +751,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### KOAla regulär - Übungen im Schülerlabor "KOAla" (wöchentlich am Campus Nürnberg) - Übung
 
@@ -768,7 +768,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### KOAla regulär - Übungen im Schülerlabor "KOAla" (wöchentlich am Campus Nürnberg) - Übung
 
@@ -785,7 +785,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
 

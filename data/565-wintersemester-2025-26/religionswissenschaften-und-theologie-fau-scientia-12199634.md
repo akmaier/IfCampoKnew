@@ -31,7 +31,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–18:00 | 12.02.2026–18.02.2026 | — |
+| Blockveranstaltung | — | 09:00–18:00 | 12.02.2026–18.02.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
 ### BA 4.+5.+6. FS, Ein-Fach und Zwei-Fach IRS, Islamische Mystik, Vorlesung - Vorlesung
 
@@ -48,7 +48,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 21.10.2025–03.02.2026 | — |
 
 ### BA 5. FS: Einführung in die islamische Philosophie (Modul: Islamische Philosophie & Ästhetik/Ethik) - Seminar
 
@@ -65,7 +65,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 21.10.2025–03.02.2026 | — |
 
 ### BA 5. FS: Islam, Menschenrechte und Gender I - Seminar
 
@@ -99,7 +99,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 29.10.2025 19.11.2025 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 14:00–16:00 | 22.10.2025–04.02.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### Exegetische Lektüre - Übung
 
@@ -116,7 +116,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 06201.00.024 (TSG R. 0.024 Bibliothek Altes Testament) |
 
 ### Grundfragen Digitaler Theologie und Christlicher Publizistik - Vorlesung
 
@@ -132,7 +132,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 06201.01.020 (TSG R. 1.020 Bibliothek Praktische Theologie) |
 
 ### Grundzüge der Theologie für Nicht-Theologen - Seminar
 
@@ -148,7 +148,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
 ### HS/UE Einführung in Spiritualität & Meditation inkl. Blockseminar "Stille vor Gott" - Hauptseminar
 
@@ -165,7 +165,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.10.2025–11.11.2025 | — |
+| wöchentlich | Di | 16:00–18:00 | 14.10.2025–11.11.2025 | 06201.01.020 (TSG R. 1.020 Bibliothek Praktische Theologie) |
 
 ### Interdisziplinäres Blockseminar mit Exkursion  - Seminar
 
@@ -182,9 +182,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | Blockveranstaltung+SaundSo | — | 03.10.2025 | — |
-| — | wöchentlich | — | — | — |
+| Einzeltermin | Mo | 16:00–19:00 | 29.09.2025 | — |
+| Blockveranstaltung+SaundSo | — | 15:30–18:00 | 04.10.2025–05.10.2025 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–18.11.2025 | — |
 
 ### MA 1. FS: Eine Einführung in die islamische Glaubenslehre (Modul: Ideengeschichte islamischer Glaubensinhalte) - Seminar
 
@@ -201,7 +201,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 12:00–14:00 | 05.11.2025 | Online |
+| Einzeltermin | Mi | 12:00–14:00 | 05.11.2025 | — |
 | Blockveranstaltung+SaundSo | — | 08:00–18:00 | 13.12.2025–14.12.2025 | — |
 
 ### MA 3. FS: Einführungsübung (Modul: Gegenwartsfragen islamischer Religionsdiskurse) - Einführungskurs
@@ -219,9 +219,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | — |
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | — |
-| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | — |
+| Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | 56701.03.033 |
+| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
 
 ### MA 3. FS: Seminar (Modul: Islamische Religionsphilosophie) - Seminar
 
@@ -238,7 +238,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | — |
 
 ### MA 3. FS: Vertiefungsseminar (Gegenwartsfragen islamischer Religionsdiskurse) - Seminar
 
@@ -255,9 +255,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:00–18:00 | 13.11.2025 | Die Veranstaltung findet per Zoom statt. |
-| Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | Die Veranstaltung findet per Zoom statt. |
-| Einzeltermin | Sa | 14:00–18:00 | 15.11.2025 | Die Veranstaltung findet per Zoom statt. |
+| Einzeltermin | Do | 14:00–18:00 | 13.11.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | — |
+| Einzeltermin | Sa | 14:00–18:00 | 15.11.2025 | — |
 
 ### MA 3. FS: Vorlesung Islamische Religionsphilosophie (Modul: Islamische Religionsphilosophie) - Vorlesung
 
@@ -274,7 +274,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:00–14:00 | 20.10.2025–02.02.2026 | — |
 
 ### MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Religion: Theologie für Nichttheologen (Islam und Medien) - Seminar
 
@@ -291,9 +291,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| Einzeltermin | Fr | 10:00–18:00 | 09.01.2026 | 56701.03.011 |
+| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 10:00–16:00 | 16.01.2026 | 56701.03.011 |
 
 ### NT Einführung in die exeget. Methoden (mit Arbeit) - Proseminar
 
@@ -310,7 +310,23 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
+
+### Ringvorlesung "Bayerisches Interreligiöses Kolleg" (BaFID) - Seminar
+
+- **Segment:** `exam:13742411` · **unitId:** `132815`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199634|exam:13742411>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132815&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 16.10.2025–29.01.2026 | — |
 
 ### V/UE Jesus und die Evangelien - Vorlesung mit Übung
 
@@ -326,7 +342,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### VL: Kirchen- und Theologiegeschichte im Überblick II: Geschichte des Christentums im Mittelalter - Vorlesung
 
@@ -343,7 +359,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### VORL Einführung in die Religionspädagogik I - Vorlesung
 
@@ -360,7 +376,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 06201.01.020 (TSG R. 1.020 Bibliothek Praktische Theologie) |
 
 ### Vorlesung Kirchenmusik - Vorlesung
 
@@ -377,23 +393,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-
-### WS 2025/2026: Ringvorlesung "Bayerisches Interreligiöses Kolleg" (BaFID) - Seminar
-
-- **Segment:** `exam:13742411` · **unitId:** `132815`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199634|exam:13742411>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132815&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | wöchentlich | — | 11.12.2025 18.12.2025 25.12.2025 01.01.2026 08.01.2026 22.01.2026 | — |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 00901.00.018 (Orangerie - Eingang B, Hörsaal) |
 
 ### Zentrale Texte des Neuen Testaments (Lektüre) - Übung
 
@@ -410,9 +410,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–15.12.2025 | — |
-| Einzeltermin | Fr | 10:00–15:00 | 28.11.2025 | — |
-| Einzeltermin | Fr | 10:00–15:00 | 05.12.2025 | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–15.12.2025 | 06201.00.023 (TSG R. 0.023 Bibliothek Neues Testament) |
+| Einzeltermin | Fr | 10:00–15:00 | 28.11.2025 | 06201.00.023 (TSG R. 0.023 Bibliothek Neues Testament) |
+| Einzeltermin | Fr | 10:00–15:00 | 05.12.2025 | 06201.00.023 (TSG R. 0.023 Bibliothek Neues Testament) |
 
 ### CA: Einführung - Einführung in die Christliche Archäologie - Einführungskurs
 
@@ -429,7 +429,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### CA: VL - Christliche Archäologie, Hauptvorlesung - Vorlesung
 
@@ -445,7 +445,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Ethik - HS Ethik  - Hauptseminar
 
@@ -462,7 +462,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### Ethik - VL: Einführung in die Ethik in theologischer Perspektive - Vorlesung
 
@@ -479,7 +479,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Griechisch I - Griechisch I - Übung
 
@@ -495,9 +495,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
+| wöchentlich | Di | 08:00–10:00 | 14.10.2025–03.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 08:00–10:00 | 16.10.2025–05.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Hebräische Lektüre - Hebräische Lektüre (Hebräisch II): - Übung
 
@@ -514,7 +514,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–13:00 | 14.10.2025–03.02.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### Paulus - V/UE Paulus: Leben und Werk - Vorlesung mit Übung
 
@@ -530,7 +530,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### PS - PS Proseminar - Proseminar
 
@@ -547,7 +547,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
 ### Ue ST - UE Dogmatik - Übung
 
@@ -564,8 +564,8 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 10:00–11:00 | 05.11.2025 | Konstituierende Sitzung/Vorbesprechung |
-| Blockveranstaltung | — | 09:00–18:00 | 09.01.2026 | — |
+| Einzeltermin | Mi | 10:00–11:00 | 05.11.2025 | — |
+| Blockveranstaltung | — | 09:00–18:00 | 09.01.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 | Blockveranstaltung | — | 09:00–18:00 | 16.01.2026 | — |
 
 ### UE: KG II - Ü: Quellenübung zur Theologie- und Kirchengeschichte II - Übung
@@ -583,7 +583,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 06201.02.025 (TSG R. 2.025 Bibliothek Ältere Kirchengeschichte) |
 
 ### VL AT Ü-1 - Pentateuch - Vorlesung
 
@@ -600,7 +600,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 17.10.2025 31.10.2025 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 12:00–14:00 | 24.10.2025–06.02.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### Ü AT Bibel1 - Bibelkunde Altes Testament I - Übung
 
@@ -616,4 +616,4 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–13:00 | 14.10.2025–03.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |

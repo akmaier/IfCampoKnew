@@ -5,7 +5,7 @@ campo_segment: "title:17138"
 campo_path: "title:16758|title:16763|title:17138"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17138"
 po_version_count: 20
-course_count: 297
+course_count: 299
 fau_studiengang:
   - title: "Germanistik (B.A.)"
     rel_path: "studiengang/germanistik-b-a.md"
@@ -502,7 +502,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `title:17318`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17138|title:17308|title:17318>
 
-## Veranstaltungen (297)
+## Veranstaltungen (299)
 
 ### Bücher lesen: Von der Literaturtheorie zu Social Media (und zurück) - Seminar
 
@@ -518,7 +518,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | 05801.00.316 ( C 201 00.316) |
 
 ### Bücher lesen: Von der Literaturtheorie zu Social Media (und zurück) - Seminar
 
@@ -534,7 +534,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | 05801.00.316 ( C 201 00.316) |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -550,8 +550,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -567,8 +567,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -584,8 +584,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -601,8 +601,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -618,8 +618,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -635,8 +635,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -652,8 +652,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -669,8 +669,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -686,8 +686,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
 
@@ -703,8 +703,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
+| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
 
 ### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
 
@@ -721,7 +721,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
 
@@ -738,7 +738,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
 
@@ -755,7 +755,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
 
@@ -772,7 +772,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
 
@@ -789,7 +789,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
 
@@ -806,7 +806,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
 
@@ -823,7 +823,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
 
@@ -840,7 +840,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -856,7 +856,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -872,7 +872,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -888,7 +888,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -904,7 +904,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -920,7 +920,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -936,7 +936,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -952,7 +952,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -968,7 +968,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -984,7 +984,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
 
@@ -1000,7 +1000,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Genres der digitalen Literatur - Seminar
 
@@ -1016,7 +1016,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | — |
 
 ### Genres der digitalen Literatur - Seminar
 
@@ -1032,7 +1032,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | — |
 
 ### Genres der digitalen Literatur - Seminar
 
@@ -1048,7 +1048,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | — |
 
 ### Genres der digitalen Literatur - Seminar
 
@@ -1064,7 +1064,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | — |
 
 ### Genres der digitalen Literatur - Seminar
 
@@ -1080,7 +1080,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | — |
 
 ### HS /Ü: Adam Olearius und die Wunderkammer von Schloss Gottorf (mit Exkursion)   - Seminar und Übung
 
@@ -1096,7 +1096,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 12:00–14:00 | 22.10.2025–04.02.2026 | 05801.00.318 ( C 203) |
 
 ### HS/Ü: Das Bilderbuch - Seminar und Übung
 
@@ -1112,7 +1112,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### HS/Ü: Das Haiku in der deutschsprachigen Lyrik vom 19. Jahrhundert bis zur Gegenwart (Online-Seminar) - Seminar und Übung
 
@@ -1128,7 +1128,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | — |
 
 ### HS/Ü: Lyrik und Lyrikdiskussionen der Nachkriegszeit (1945-1968) - Seminar und Übung
 
@@ -1144,8 +1144,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.00.318 ( C 203) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | — |
 
 ### HS/Ü: Ulrike Draesner: Science & Poetry Lab Die Vorbereitung eines Romans zu Emmy Noether, Romantrilogie zu Flucht und Vertreibung - Seminar und Übung
 
@@ -1161,11 +1161,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–16:00 | 24.10.2025 | — |
-| Blockveranstaltung | — | 14:00–20:00 | 21.11.2025 | — |
+| Einzeltermin | Fr | 14:00–16:00 | 24.10.2025 | 05801.01.210 ( B 301) |
+| Blockveranstaltung | — | 14:00–20:00 | 21.11.2025 | 05902.00.015 ( 00.15 PSG) |
 | Blockveranstaltung | — | 09:00–18:00 | 22.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 22.11.2025 | — |
-| Einzeltermin | Do | 12:00–14:00 | 04.12.2025 | — |
+| Einzeltermin | Sa | 09:00–18:00 | 22.11.2025 | 05902.00.015 ( 00.15 PSG) |
+| Einzeltermin | Do | 12:00–14:00 | 04.12.2025 | 05801.01.211 ( B 302) |
 | Einzeltermin | Do | 12:00–17:00 | 04.12.2025 | — |
 
 ### Kinder- und Jugendliteratur und Gender (Lit AM-L) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Seminar
@@ -1182,7 +1182,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 09:45–11:15 | 15.10.2025–04.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Kinder- und Jugendliteratur und Gender (Lit AM-L) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Seminar
 
@@ -1198,7 +1198,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 09:45–11:15 | 15.10.2025–04.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre - Hauptseminar
 
@@ -1214,7 +1214,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 21.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre - Hauptseminar
 
@@ -1230,7 +1230,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 21.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre - Hauptseminar
 
@@ -1246,7 +1246,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 21.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre - Hauptseminar
 
@@ -1262,7 +1262,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 21.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre - Hauptseminar
 
@@ -1278,7 +1278,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 21.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre - Hauptseminar
 
@@ -1294,7 +1294,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 21.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre - Hauptseminar
 
@@ -1310,7 +1310,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 21.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre - Hauptseminar
 
@@ -1326,7 +1326,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 21.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### Kolleg/Übung Mediävistik: Althochdeutsche Literatur - Übung
 
@@ -1342,7 +1342,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### Kolleg/Übung Mediävistik: Althochdeutsche Literatur - Übung
 
@@ -1358,7 +1358,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### Kolleg/Übung Mediävistik: Althochdeutsche Literatur - Übung
 
@@ -1374,7 +1374,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### Leserlenkung. Politische Dichtung von der Reformation bis zum Vormärz (Lit AM-G) - Kolleg
 
@@ -1390,7 +1390,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.01.210 ( B 301) |
 
 ### Leserlenkung. Politische Dichtung von der Reformation bis zum Vormärz (Lit AM-G) - Kolleg
 
@@ -1406,7 +1406,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.01.210 ( B 301) |
 
 ### Leserlenkung. Politische Dichtung von der Reformation bis zum Vormärz (Lit AM-G) - Kolleg
 
@@ -1422,7 +1422,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.01.210 ( B 301) |
 
 ### Leserlenkung. Politische Dichtung von der Reformation bis zum Vormärz (Lit AM-G) - Kolleg
 
@@ -1438,7 +1438,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.01.210 ( B 301) |
 
 ### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Erlangen) - Tutorium
 
@@ -1454,7 +1454,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 18:15–19:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Erlangen) - Tutorium
 
@@ -1470,7 +1470,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 18:15–19:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Lit AM-L (Nürnberg: GS/MS/RS/Berufl. S.) - Seminar
 
@@ -1486,7 +1486,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 11:30–13:00 | 17.10.2025–06.02.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Lit AM-L (Nürnberg: GS/MS/RS/Berufl. S.) - Seminar
 
@@ -1502,7 +1502,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 11:30–13:00 | 17.10.2025–06.02.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Lit AM-L: Ecken und Kanten. Provokantes und Irritierendes in mittelalterlicher Dichtung - Seminar
 
@@ -1518,7 +1518,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.01.313 ( C 304) |
 
 ### Lit AM-L: Ecken und Kanten. Provokantes und Irritierendes in mittelalterlicher Dichtung - Seminar
 
@@ -1534,7 +1534,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.01.313 ( C 304) |
 
 ### Lit AM-L: Ecken und Kanten. Provokantes und Irritierendes in mittelalterlicher Dichtung - Seminar
 
@@ -1550,7 +1550,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.01.313 ( C 304) |
 
 ### Lit AM-L: Ecken und Kanten. Provokantes und Irritierendes in mittelalterlicher Dichtung - Seminar
 
@@ -1566,7 +1566,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.01.313 ( C 304) |
 
 ### Lit AM-L: Tabubrüche: Opferkult und Inzest in den höfischen Legenden des Mittelalters (Hartmann von Aue) - Seminar
 
@@ -1582,7 +1582,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:00–10:00 | 13.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Lit AM-L: Tabubrüche: Opferkult und Inzest in den höfischen Legenden des Mittelalters (Hartmann von Aue) - Seminar
 
@@ -1598,7 +1598,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:00–10:00 | 13.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Lit AM-L: Tabubrüche: Opferkult und Inzest in den höfischen Legenden des Mittelalters (Hartmann von Aue) - Seminar
 
@@ -1614,7 +1614,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:00–10:00 | 13.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Lit AM-L: Tabubrüche: Opferkult und Inzest in den höfischen Legenden des Mittelalters (Hartmann von Aue) - Seminar
 
@@ -1630,7 +1630,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:00–10:00 | 13.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Lit BM - Einführungskurs
 
@@ -1646,7 +1646,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 16:00–18:00 | 14.10.2025–03.02.2026 | 05801.01.211 ( B 302) |
 
 ### Lit BM - Einführungskurs
 
@@ -1662,7 +1662,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 16:00–18:00 | 14.10.2025–03.02.2026 | 05801.01.211 ( B 302) |
 
 ### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") - Hauptseminar / Masterseminar
 
@@ -1678,7 +1678,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") - Hauptseminar / Masterseminar
 
@@ -1694,7 +1694,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") - Hauptseminar / Masterseminar
 
@@ -1710,7 +1710,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") - Hauptseminar / Masterseminar
 
@@ -1726,7 +1726,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") - Hauptseminar / Masterseminar
 
@@ -1742,7 +1742,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") - Hauptseminar / Masterseminar
 
@@ -1758,7 +1758,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") - Hauptseminar / Masterseminar
 
@@ -1774,7 +1774,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") - Hauptseminar / Masterseminar
 
@@ -1790,7 +1790,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") - Hauptseminar / Masterseminar
 
@@ -1806,7 +1806,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Mythos in der mhd. Literatur um 1200 - Hauptseminar / Masterseminar
 
@@ -1822,7 +1822,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Mythos in der mhd. Literatur um 1200 - Hauptseminar / Masterseminar
 
@@ -1838,7 +1838,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Mythos in der mhd. Literatur um 1200 - Hauptseminar / Masterseminar
 
@@ -1854,7 +1854,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1870,7 +1870,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1886,7 +1886,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1902,7 +1902,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1918,7 +1918,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1934,7 +1934,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1950,7 +1950,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1966,7 +1966,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1982,7 +1982,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1998,7 +1998,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### MA Linguistik Ringvorlesung: Linguistik - Sprachen - Sprache - Vorlesung
 
@@ -2015,8 +2015,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 10:15–11:45 | 09.01.2026 | — |
 
 ### MA Linguistik Übung: Linguistik - Sprachen - Sprache - Übung
 
@@ -2033,11 +2033,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| Einzeltermin | Mo | 12:15–13:00 | 13.10.2025 | 05801.00.318 ( C 203) |
+| wöchentlich | Mo | 12:15–13:00 | 20.10.2025–02.02.2026 | 05801.00.318 ( C 203) |
+| Einzeltermin | Fr | 12:15–13:00 | 07.11.2025 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Mo | 12:15–13:00 | 12.01.2026 | 05204.00.320 (0.320 Bismarckstr. 12 Computerlinguistik) |
+| Einzeltermin | Fr | 12:15–13:00 | 23.01.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### Master Oberseminar - Oberseminar
 
@@ -2069,7 +2069,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–13:00 | 13.10.2025–02.02.2026 | 05902.00.004 ( 00.4 PSG) |
 
 ### Med AM-Mhd: Aufbaumodul Mittelhochdeutsch - Aufbauseminar
 
@@ -2085,7 +2085,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–13:00 | 13.10.2025–02.02.2026 | 05902.00.004 ( 00.4 PSG) |
 
 ### Med AM-Mhd: Aufbaumodul Mittelhochdeutsch - Aufbauseminar
 
@@ -2101,7 +2101,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–13:00 | 13.10.2025–02.02.2026 | 05902.00.004 ( 00.4 PSG) |
 
 ### Med AM-Mhd: Aufbaumodul Mittelhochdeutsch - Aufbauseminar
 
@@ -2117,7 +2117,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–13:00 | 13.10.2025–02.02.2026 | 05902.00.004 ( 00.4 PSG) |
 
 ### Med Finit: Übung zur Besprechung der BA-Arbeit (Glauch) - Übung
 
@@ -2149,7 +2149,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 05801.01.312 ( C 303 Seminarraum) |
 
 ### Natur und Industrie. Die DDR-Literatur mit den Environmental Humanities gelesen (Lit AM-L) - Seminar
 
@@ -2165,7 +2165,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 05801.01.312 ( C 303 Seminarraum) |
 
 ### Natur und Industrie. Die DDR-Literatur mit den Environmental Humanities gelesen (Lit AM-L) - Seminar
 
@@ -2181,7 +2181,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 05801.01.312 ( C 303 Seminarraum) |
 
 ### Natur und Industrie. Die DDR-Literatur mit den Environmental Humanities gelesen (Lit AM-L) - Seminar
 
@@ -2197,7 +2197,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 05801.01.312 ( C 303 Seminarraum) |
 
 ### NdL BM-1-Erlangen: Grundlagen und Analyseverfahren der NdL I  - Einführungskurs
 
@@ -2213,8 +2213,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 12 |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 11:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Di | 11:45–14:00 | 03.02.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### NdL BM-1-Erlangen: Grundlagen und Analyseverfahren der NdL I  - Einführungskurs
 
@@ -2230,8 +2230,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 12 |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 11:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Di | 11:45–14:00 | 03.02.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### NdL BM-1-Nürnberg: Grundlagen und Analyseverfahren der NdL I - Einführungskurs
 
@@ -2247,7 +2247,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 30 |
+| wöchentlich | Mi | 09:45–12:15 | 15.10.2025–04.02.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### NdL BM-1-Nürnberg: Grundlagen und Analyseverfahren der NdL I - Einführungskurs
 
@@ -2263,7 +2263,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 30 |
+| wöchentlich | Mi | 09:45–12:15 | 15.10.2025–04.02.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Oberseminar Mediävistik/ Forschungskolloquium - Oberseminar
 
@@ -2279,7 +2279,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 16:00–18:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### Rainer Maria Rilke: Die Aufzeichnungen des Malte Laurids Brigge (Nürnberg) NDL VM-1&NDL VM-2 - Hauptseminar
 
@@ -2295,7 +2295,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 25 |
+| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 
 ### Rainer Maria Rilke: Die Aufzeichnungen des Malte Laurids Brigge (Nürnberg) NDL VM-1&NDL VM-2 - Hauptseminar
 
@@ -2311,7 +2311,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 25 |
+| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 
 ### Rainer Maria Rilke: Die Aufzeichnungen des Malte Laurids Brigge (Nürnberg) NDL VM-1&NDL VM-2 - Hauptseminar
 
@@ -2327,7 +2327,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 25 |
+| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 
 ### Rainer Maria Rilke: Die Aufzeichnungen des Malte Laurids Brigge (Nürnberg) NDL VM-1&NDL VM-2 - Hauptseminar
 
@@ -2343,7 +2343,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 25 |
+| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 
 ### Schriftstellerinnen der Weimarer Republik (Lit AM-L) - Seminar
 
@@ -2360,8 +2360,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 19:00–21:00 | 21.10.2025 | — |
-| Einzeltermin | Sa | 09:00–18:30 | 29.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:30 | 21.02.2026 | — |
+| Einzeltermin | Sa | 09:00–18:30 | 29.11.2025 | 05801.01.211 ( B 302) |
+| Einzeltermin | Sa | 09:00–18:30 | 21.02.2026 | 05801.01.210 ( B 301) |
 
 ### Schriftstellerinnen der Weimarer Republik (Lit AM-L) - Seminar
 
@@ -2378,8 +2378,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 19:00–21:00 | 21.10.2025 | — |
-| Einzeltermin | Sa | 09:00–18:30 | 29.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:30 | 21.02.2026 | — |
+| Einzeltermin | Sa | 09:00–18:30 | 29.11.2025 | 05801.01.211 ( B 302) |
+| Einzeltermin | Sa | 09:00–18:30 | 21.02.2026 | 05801.01.210 ( B 301) |
 
 ### Schriftstellerinnen der Weimarer Republik (Lit AM-L) - Seminar
 
@@ -2396,8 +2396,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 19:00–21:00 | 21.10.2025 | — |
-| Einzeltermin | Sa | 09:00–18:30 | 29.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:30 | 21.02.2026 | — |
+| Einzeltermin | Sa | 09:00–18:30 | 29.11.2025 | 05801.01.211 ( B 302) |
+| Einzeltermin | Sa | 09:00–18:30 | 21.02.2026 | 05801.01.210 ( B 301) |
 
 ### Schriftstellerinnen der Weimarer Republik (Lit AM-L) - Seminar
 
@@ -2414,8 +2414,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 19:00–21:00 | 21.10.2025 | — |
-| Einzeltermin | Sa | 09:00–18:30 | 29.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:30 | 21.02.2026 | — |
+| Einzeltermin | Sa | 09:00–18:30 | 29.11.2025 | 05801.01.211 ( B 302) |
+| Einzeltermin | Sa | 09:00–18:30 | 21.02.2026 | 05801.01.210 ( B 301) |
 
 ### Thomas Manns Erzählungen (LitAM-L GS/MS/RS) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Seminar
 
@@ -2431,7 +2431,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 11:30–13:00 | 15.10.2025–04.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Thomas Manns Erzählungen (LitAM-L GS/MS/RS) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Seminar
 
@@ -2447,7 +2447,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 11:30–13:00 | 15.10.2025–04.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Thomas Manns Erzählungen (LitAM-L GS/MS/RS) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Seminar
 
@@ -2463,7 +2463,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 11:30–13:00 | 15.10.2025–04.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Thomas Manns Erzählungen (LitAM-L GS/MS/RS) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Seminar
 
@@ -2479,7 +2479,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 11:30–13:00 | 15.10.2025–04.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### VM: Artus, Abraham, Fuchs und Schlehe. (Problematische) Exempelfiguren in der mittelalterlichen Literatur - Hauptseminar
 
@@ -2495,7 +2495,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) 05801.01.211 ( B 302) |
 
 ### VM: Artus, Abraham, Fuchs und Schlehe. (Problematische) Exempelfiguren in der mittelalterlichen Literatur - Hauptseminar
 
@@ -2511,7 +2511,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) 05801.01.211 ( B 302) |
 
 ### VM: Artus, Abraham, Fuchs und Schlehe. (Problematische) Exempelfiguren in der mittelalterlichen Literatur - Hauptseminar
 
@@ -2527,7 +2527,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) 05801.01.211 ( B 302) |
 
 ### VM: Artus, Abraham, Fuchs und Schlehe. (Problematische) Exempelfiguren in der mittelalterlichen Literatur - Hauptseminar
 
@@ -2543,7 +2543,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) 05801.01.211 ( B 302) |
 
 ### VM: Artus, Abraham, Fuchs und Schlehe. (Problematische) Exempelfiguren in der mittelalterlichen Literatur - Hauptseminar
 
@@ -2559,7 +2559,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) 05801.01.211 ( B 302) |
 
 ### VM: Artus, Abraham, Fuchs und Schlehe. (Problematische) Exempelfiguren in der mittelalterlichen Literatur - Hauptseminar
 
@@ -2575,7 +2575,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) 05801.01.211 ( B 302) |
 
 ### VM: Artus, Abraham, Fuchs und Schlehe. (Problematische) Exempelfiguren in der mittelalterlichen Literatur - Hauptseminar
 
@@ -2591,7 +2591,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) 05801.01.211 ( B 302) |
 
 ### VM: Artus, Abraham, Fuchs und Schlehe. (Problematische) Exempelfiguren in der mittelalterlichen Literatur - Hauptseminar
 
@@ -2607,7 +2607,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05801.02.260 ( B 4A1) 05801.01.211 ( B 302) |
 
 ### Weltmodelle und Erzählwelten (Lit AM-G) (Seminarbeginn 20.10.25) - Kolleg
 
@@ -2623,7 +2623,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Weltmodelle und Erzählwelten (Lit AM-G) (Seminarbeginn 20.10.25) - Kolleg
 
@@ -2639,7 +2639,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Weltmodelle und Erzählwelten (Lit AM-G) (Seminarbeginn 20.10.25) - Kolleg
 
@@ -2655,7 +2655,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Weltmodelle und Erzählwelten (Lit AM-G) (Seminarbeginn 20.10.25) - Kolleg
 
@@ -2671,7 +2671,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2687,8 +2687,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2704,8 +2704,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2721,8 +2721,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2738,8 +2738,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2755,8 +2755,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2772,8 +2772,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2789,8 +2789,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2806,8 +2806,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2823,8 +2823,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Wiener Moderne - Hauptseminar
 
@@ -2840,8 +2840,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
+| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Ü: Lesen alter Schriften. Paläographische Übungen für Neugermanisten - Übung
 
@@ -2857,7 +2857,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 16:00–18:00 | 16.10.2025–05.02.2026 | 05801.00.318 ( C 203) |
 
 ### Übung Mediävistik: Die politische Legende im Mittelalter - Übung
 
@@ -2873,7 +2873,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### Übung Mediävistik: Lektüren zur 'Anderswelt' in mhd. Epik - Übung
 
@@ -2889,7 +2889,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### Übung Mediävistik: Lektüren zur 'Anderswelt' in mhd. Epik - Übung
 
@@ -2905,7 +2905,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### Übung Mediävistik: Lektüren zur 'Anderswelt' in mhd. Epik - Übung
 
@@ -2921,7 +2921,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05801.02.260 ( B 4A1) |
 
 ### 1999 Bachelorarbeit (B.A.,2Fäch Buchwissenschaft Zweitfach 20192)
 
@@ -2960,7 +2960,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 16:15 - 17:15 | — | 07.12.2025 23:59:59 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| Di | Di | 16:15–17:15 | 07.12.2025 23:59:59 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### 73011 Grundlagen der Germanistischen Linguistik 1 - Leistung
 
@@ -2975,7 +2975,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 16:15 - 17:15 | — | 07.12.2025 23:59:59 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| Di | Di | 16:15–17:15 | 07.12.2025 23:59:59 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### 73031 Grundlagen der germanistischen Linguistik (Ling BM-1) - Leistung
 
@@ -2990,7 +2990,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 16:15 - 17:15 | — | 07.12.2025 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| Di | Di | 16:15–17:15 | 07.12.2025 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
 ### 73031 Grundlagen der germanistischen Linguistik (Ling BM-1) - Leistung
 
@@ -3005,7 +3005,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 16:15 - 17:15 | — | 07.12.2025 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| Di | Di | 16:15–17:15 | 07.12.2025 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
 ### 73211 Grundlagen der Germanistischen Mediävistik 1 - Leistung
 
@@ -3020,7 +3020,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 10:30 - 11:30 | — | — | — |
+| Mo | Mo | 10:30–11:30 | — | — |
 
 ### 73211 Grundlagen der Germanistischen Mediävistik 1 - Leistung
 
@@ -3035,7 +3035,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 10:30 - 11:30 | — | — | — |
+| Mo | Mo | 10:30–11:30 | — | — |
 
 ### 73261 Aufbaumodul Mittelhochdeutsch (Med AM-Mhd) - Leistung
 
@@ -3050,7 +3050,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 10:30 - 11:30 | — | 07.12.2025 23:59:59 | — |
+| Mo | Mo | 10:30–11:30 | 07.12.2025 23:59:59 | — |
 
 ### 73261 Aufbaumodul Mittelhochdeutsch (Med AM-Mhd) - Leistung
 
@@ -3065,7 +3065,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 10:30 - 11:30 | — | 07.12.2025 23:59:59 | — |
+| Mo | Mo | 10:30–11:30 | 07.12.2025 23:59:59 | — |
 
 ### 73311 Grundlagen der Neueren deutschen Literaturwissenschaft 1 - Leistung
 
@@ -3080,7 +3080,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 73311 Grundlagen der Neueren deutschen Literaturwissenschaft 1 - Leistung
 
@@ -3095,7 +3095,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 73321 Grundlagen der Neueren deutschen Literaturwissenschaft 2 - Leistung
 
@@ -3110,7 +3110,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 14:00 - 16:00 | — | 07.12.2025 23:59:59 | — |
+| Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | — |
 
 ### 73321 Grundlagen der Neueren deutschen Literaturwissenschaft 2 - Leistung
 
@@ -3125,7 +3125,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 14:00 - 16:00 | — | 07.12.2025 23:59:59 | — |
+| Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | — |
 
 ### 73351 Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) - Leistung
 
@@ -3140,7 +3140,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | - | — | 07.12.2025 23:59:59 | — |
+| Do | Do | — | 07.12.2025 23:59:59 | — |
 
 ### 73351 Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1) - Leistung
 
@@ -3155,7 +3155,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | - | — | 07.12.2025 23:59:59 | — |
+| Do | Do | — | 07.12.2025 23:59:59 | — |
 
 ### 73411 Grundlagen des wissenschaftlichen Arbeitens in der Literaturwissenschaft (Lit BM) - Leistung
 
@@ -3170,7 +3170,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 73411 Grundlagen des wissenschaftlichen Arbeitens in der Literaturwissenschaft (Lit BM) - Leistung
 
@@ -3185,7 +3185,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 73531 Linguistik - Leistung
 
@@ -3200,7 +3200,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 73531 Linguistik - Leistung
 
@@ -3215,7 +3215,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 73551 Aufbaumodul Linguistik 1 (Ling AM-1) - Leistung
 
@@ -3230,7 +3230,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 18:15 - 19:25 | — | 07.12.2025 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Mi | Mi | 18:15–19:25 | 07.12.2025 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### 73551 Aufbaumodul Linguistik 1 (Ling AM-1) - Leistung
 
@@ -3245,7 +3245,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 18:15 - 19:25 | — | 07.12.2025 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Mi | Mi | 18:15–19:25 | 07.12.2025 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### 73561 Aufbaumodul Linguistik 2 (Ling AM-2) - Leistung
 
@@ -3260,7 +3260,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 73561 Aufbaumodul Linguistik 2 (Ling AM-2) - Leistung
 
@@ -3275,7 +3275,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 73721 Aufbaumodul Literatur, Lektüren und Kontexte (Lit AM-L) - Leistung
 
@@ -3290,7 +3290,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | 07.12.2025 23:59:59 | — |
+| Mo | Mo | — | 07.12.2025 23:59:59 | — |
 
 ### 73721 Aufbaumodul Literatur, Lektüren und Kontexte (Lit AM-L) - Leistung
 
@@ -3305,7 +3305,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | 07.12.2025 23:59:59 | — |
+| Mo | Mo | — | 07.12.2025 23:59:59 | — |
 
 ### 73731 Aufbaumodul Literaturgeschichte (Lit AM-G) - Leistung
 
@@ -3320,7 +3320,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | - | — | — | — |
+| Mi | Mi | — | — | — |
 
 ### 73731 Aufbaumodul Literaturgeschichte (Lit AM-G) - Leistung
 
@@ -3335,7 +3335,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | - | — | — | — |
+| Mi | Mi | — | — | — |
 
 ### 73811 Literaturgeschichte - Leistung
 
@@ -3350,7 +3350,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74021 Sprachwandel und Variation - Leistung
 
@@ -3365,7 +3365,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74021 Sprachwandel und Variation - Leistung
 
@@ -3380,7 +3380,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74031 Vertiefungsmodul Linguistik 1 (Ling VM-1) - Leistung
 
@@ -3395,7 +3395,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74031 Vertiefungsmodul Linguistik 1 (Ling VM-1) - Leistung
 
@@ -3410,7 +3410,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74321 Gegenwartssprache / Deutsch als Fremdsprache - Leistung
 
@@ -3425,7 +3425,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74321 Gegenwartssprache / Deutsch als Fremdsprache - Leistung
 
@@ -3440,7 +3440,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74331 Vertiefungsmodul Linguistik 2 (Ling VM-2) - Leistung
 
@@ -3455,7 +3455,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | - | — | 07.12.2025 23:59:59 | — |
+| Fr | Fr | — | 07.12.2025 23:59:59 | — |
 
 ### 74331 Vertiefungsmodul Linguistik 2 (Ling VM-2) - Leistung
 
@@ -3470,7 +3470,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | - | — | 07.12.2025 23:59:59 | — |
+| Fr | Fr | — | 07.12.2025 23:59:59 | — |
 
 ### 74411 Interdisziplinäre Mediävistik - Leistung
 
@@ -3485,7 +3485,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74411 Interdisziplinäre Mediävistik - Leistung
 
@@ -3500,7 +3500,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74511 Germanistische Mediävistik - Leistung
 
@@ -3515,7 +3515,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74511 Germanistische Mediävistik - Leistung
 
@@ -3530,7 +3530,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74521 Vertiefungsmodul Mediävistik 1 (Med VM-1) - Leistung
 
@@ -3545,7 +3545,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74521 Vertiefungsmodul Mediävistik 1 (Med VM-1) - Leistung
 
@@ -3560,7 +3560,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 74531 Vertiefungsmodul Mediävistik 2 (Med VM-2) - Leistung
 
@@ -3575,7 +3575,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | - | — | — | — |
+| Fr | Fr | — | — | — |
 
 ### 74531 Vertiefungsmodul Mediävistik 2 (Med VM-2) - Leistung
 
@@ -3590,7 +3590,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | - | — | — | — |
+| Fr | Fr | — | — | — |
 
 ### 74651 Literaturgeschichte - Leistung
 
@@ -3605,7 +3605,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| So | - | — | — | — |
+| So | So | — | — | — |
 
 ### 74651 Literaturgeschichte - Leistung
 
@@ -3620,7 +3620,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| So | - | — | — | — |
+| So | So | — | — | — |
 
 ### 74721 Neuere deutsche Literatur - Leistung
 
@@ -3635,7 +3635,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| So | - | — | — | — |
+| So | So | — | — | — |
 
 ### 74721 Neuere deutsche Literatur - Leistung
 
@@ -3650,7 +3650,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| So | - | — | — | — |
+| So | So | — | — | — |
 
 ### 74741 Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 1 (NdL VM-1) - Leistung
 
@@ -3665,7 +3665,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 74741 Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 1 (NdL VM-1) - Leistung
 
@@ -3680,7 +3680,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 74751 Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 2 (NdL VM-2) - Leistung
 
@@ -3695,7 +3695,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 74751 Vertiefungsmodul Neuere deutsche Literatur / Komparatistik 2 (NdL VM-2) - Leistung
 
@@ -3710,7 +3710,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 74911 Komparatistik - Leistung
 
@@ -3725,7 +3725,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| So | - | — | — | — |
+| So | So | — | — | — |
 
 ### 74911 Komparatistik - Leistung
 
@@ -3740,7 +3740,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| So | - | — | — | — |
+| So | So | — | — | — |
 
 ### 77302 Grundlagen der Germanistischen Linguistik 2 (Ling BM 2)
 
@@ -3817,7 +3817,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 12:00–13:30 | 15.10.2025–04.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Ling AM-1 - Ling AM-1: Syntax der deutschen Gegenwartssprache (nur für BA, LA Gym und Berufliche Schulen) - Seminar
 
@@ -3834,7 +3834,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 12:00–13:30 | 15.10.2025–04.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Ling AM-1 - Ling AM-1: Syntax der deutschen Gegenwartssprache (nur für LA GS, MS, RS und Berufliche Schulen) - Seminar
 
@@ -3851,7 +3851,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling AM-1 - Ling AM-1: Syntax der deutschen Gegenwartssprache (nur für LA GS, MS, RS und Berufliche Schulen) - Seminar
 
@@ -3868,7 +3868,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
 
@@ -3885,9 +3885,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | 15 |
-| — | Einzeltermin | — | — | 15 |
-| — | Einzeltermin | — | — | 15 |
+| wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 10.12.2025 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 07.01.2026 | 05801.01.210 ( B 301) |
 
 ### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
 
@@ -3904,7 +3904,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
 
@@ -3921,9 +3921,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | 15 |
-| — | Einzeltermin | — | — | 15 |
-| — | Einzeltermin | — | — | 15 |
+| wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 10.12.2025 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 07.01.2026 | 05801.01.210 ( B 301) |
 
 ### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
 
@@ -3940,9 +3940,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | 15 |
-| — | Einzeltermin | — | — | 15 |
-| — | Einzeltermin | — | — | 15 |
+| wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 10.12.2025 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 07.01.2026 | 05801.01.210 ( B 301) |
 
 ### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
 
@@ -3959,7 +3959,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
 
@@ -3976,9 +3976,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | 15 |
-| — | Einzeltermin | — | — | 15 |
-| — | Einzeltermin | — | — | 15 |
+| wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 10.12.2025 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 07.01.2026 | 05801.01.210 ( B 301) |
 
 ### Ling AM-2 - Ling AM-2: Wortbildung der deutschen Gegenwartssprache - Seminar
 
@@ -3995,7 +3995,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
+| wöchentlich | Mi | 08:30–10:00 | 15.10.2025–04.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Ling AM-2 - Ling AM-2: Wortbildung der deutschen Gegenwartssprache - Seminar
 
@@ -4012,7 +4012,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
+| wöchentlich | Mi | 08:30–10:00 | 15.10.2025–04.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Ling BM-1 - Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) - Einführungskurs
 
@@ -4023,13 +4023,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Einführungskurs
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 08:30–11:00 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### Ling BM-1 - Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) - Einführungskurs
 
@@ -4040,13 +4040,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Einführungskurs
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 08:30–11:00 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### Ling BM-1 - Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) - Einführungskurs
 
@@ -4057,13 +4057,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Einführungskurs
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 08:30–11:00 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### Ling BM-1 - Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) - Einführungskurs
 
@@ -4074,13 +4074,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Einführungskurs
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 08:30–11:00 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### Ling BM-1 - Ling BM-1: Einführung in die germanistische Linguistik (nur für LA GS, MS, RS und Berufliche Schulen) - Einführungskurs
 
@@ -4097,7 +4097,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 30 |
+| wöchentlich | Fr | 10:30–13:00 | 17.10.2025–06.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-1 - Ling BM-1: Einführung in die germanistische Linguistik (nur für LA GS, MS, RS und Berufliche Schulen) - Einführungskurs
 
@@ -4114,7 +4114,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 30 |
+| wöchentlich | Fr | 10:30–13:00 | 17.10.2025–06.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-1 - Ling BM-1: Einführung in die germanistische Linguistik (nur für LA GS, MS, RS und Berufliche Schulen) - Einführungskurs
 
@@ -4131,7 +4131,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 30 |
+| wöchentlich | Fr | 10:30–13:00 | 17.10.2025–06.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-1 - Ling BM-1: Einführung in die germanistische Linguistik (nur für LA GS, MS, RS und Berufliche Schulen) - Einführungskurs
 
@@ -4148,7 +4148,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 30 |
+| wöchentlich | Fr | 10:30–13:00 | 17.10.2025–06.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-1 - Ling BM-1: Tutorium (Erlangen) - Tutorium
 
@@ -4164,7 +4164,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 17:15–18:00 | 21.10.2025–03.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
 ### Ling BM-1 - Ling BM-1: Tutorium (Erlangen) - Tutorium
 
@@ -4180,7 +4180,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 17:15–18:00 | 21.10.2025–03.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
 ### Ling BM-1 - Ling BM-1: Tutorium (Erlangen) - Tutorium
 
@@ -4196,7 +4196,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 17:15–18:00 | 21.10.2025–03.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
 ### Ling BM-1 - Ling BM-1: Tutorium (Erlangen) - Tutorium
 
@@ -4212,7 +4212,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 17:15–18:00 | 21.10.2025–03.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
 ### Ling BM-1 - Ling BM-1: Tutorium (Nürnberg) - Tutorium
 
@@ -4228,7 +4228,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 13:00–13:45 | 21.10.2025–03.02.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Ling BM-1 - Ling BM-1: Tutorium (Nürnberg) - Tutorium
 
@@ -4244,7 +4244,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 13:00–13:45 | 21.10.2025–03.02.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Ling Finit - Ling Finit Kolloquium: BA-Arbeit und Schriftliche Hausarbeit (Erlangen) - Übung
 
@@ -4260,7 +4260,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 23.12.2025 06.01.2026 | 10 |
+| 14-täglich | Di | 16:00–17:30 | 14.10.2025–03.02.2026 | 05801.00.318 ( C 203) |
 
 ### Ling Finit - Ling Finit Kolloquium: BA-Arbeit und Schriftliche Hausarbeit (Erlangen) - Übung
 
@@ -4276,7 +4276,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 23.12.2025 06.01.2026 | 10 |
+| 14-täglich | Di | 16:00–17:30 | 14.10.2025–03.02.2026 | 05801.00.318 ( C 203) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
 
@@ -4292,7 +4292,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
+| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
 
@@ -4308,7 +4308,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
+| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
 
@@ -4324,7 +4324,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
+| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
 
@@ -4340,7 +4340,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
+| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
 
@@ -4356,7 +4356,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 14:15–15:45 | 17.10.2025–06.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
 
@@ -4372,7 +4372,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 14:15–15:45 | 17.10.2025–06.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
 
@@ -4388,7 +4388,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 14:15–15:45 | 17.10.2025–06.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
 
@@ -4404,7 +4404,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 14:15–15:45 | 17.10.2025–06.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4420,7 +4420,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 15 |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4436,7 +4436,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 08:45–10:15 | 17.10.2025–06.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4452,7 +4452,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 08:45–10:15 | 17.10.2025–06.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4468,7 +4468,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 15 |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4484,7 +4484,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 15 |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4500,7 +4500,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 08:45–10:15 | 17.10.2025–06.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4516,7 +4516,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 08:45–10:15 | 17.10.2025–06.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4532,7 +4532,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 15 |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 
 ### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
 
@@ -4548,7 +4548,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
 ### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
 
@@ -4564,7 +4564,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
 ### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
 
@@ -4580,7 +4580,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
 ### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
 
@@ -4596,9 +4596,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
+### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
 
 - **Segment:** `exam:12761749` · **unitId:** `87232`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17138|exam:12760066|exam:12761744|exam:12761749>
@@ -4612,9 +4612,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 16:30–18:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
-### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
+### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
 
 - **Segment:** `exam:12764866` · **unitId:** `87232`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17138|exam:12763279|exam:12764863|exam:12764866>
@@ -4628,9 +4628,25 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 16:30–18:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
-### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
+### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
+
+- **Segment:** `exam:15932324` · **unitId:** `87232`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17138|exam:12763279|exam:12764871|exam:15932324>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87232&periodId=565>
+
+- **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:30–18:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
+
+### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
 
 - **Segment:** `exam:12769829` · **unitId:** `87232`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17138|exam:12769802|exam:12769824|exam:12769829>
@@ -4644,9 +4660,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 16:30–18:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
-### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
+### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
 
 - **Segment:** `exam:12771433` · **unitId:** `87232`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17138|exam:12771420|exam:12771430|exam:12771433>
@@ -4660,7 +4676,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 16:30–18:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
+
+### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
+
+- **Segment:** `exam:15932325` · **unitId:** `87232`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17138|exam:12771420|exam:12771438|exam:15932325>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87232&periodId=565>
+
+- **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:30–18:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
 
@@ -4676,7 +4708,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
 
@@ -4692,7 +4724,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
 
@@ -4708,7 +4740,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
 
@@ -4724,7 +4756,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### Ling VM-HS - Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen) - Hauptseminar
 
@@ -4740,7 +4772,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling VM-HS - Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen) - Hauptseminar
 
@@ -4756,7 +4788,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 15 |
+| wöchentlich | Do | 16:00–17:30 | 16.10.2025–05.02.2026 | 05801.00.317 ( C 202) |
 
 ### Ling VM-HS - Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen) - Hauptseminar
 
@@ -4772,7 +4804,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling VM-HS - Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen) - Hauptseminar
 
@@ -4788,7 +4820,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 15 |
+| wöchentlich | Do | 16:00–17:30 | 16.10.2025–05.02.2026 | 05801.00.317 ( C 202) |
 
 ### Ling VM-HS - Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen) - Hauptseminar
 
@@ -4804,7 +4836,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling VM-HS - Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen) - Hauptseminar
 
@@ -4820,7 +4852,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 15 |
+| wöchentlich | Do | 16:00–17:30 | 16.10.2025–05.02.2026 | 05801.00.317 ( C 202) |
 
 ### Ling VM-HS - Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen) - Hauptseminar
 
@@ -4836,7 +4868,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling VM-HS - Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen) - Hauptseminar
 
@@ -4852,7 +4884,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 15 |
+| wöchentlich | Do | 16:00–17:30 | 16.10.2025–05.02.2026 | 05801.00.317 ( C 202) |
 
 ### Lit AM - Freiwilliges Zusatzangebot: Online-Ringvorlesung "Systematische Aspekte der Literaturwissenschaft"  - Vorlesung
 
@@ -4908,7 +4940,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 23.12.2025 06.01.2026 | 10 |
+| 14-täglich | Di | 16:00–17:30 | 14.10.2025–03.02.2026 | 05801.00.318 ( C 203) |
 
 ### Med Finit - Med Finit: Abschlussmodul (Dimpel) - Übung
 
@@ -4973,7 +5005,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:15–17:45 | 20.10.2025–02.02.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### Modul 33201 Hauptseminar - Antike Helden und moderne Krieger. Das lateinische Epos ab dem 13. Jahrhundert [Hauptseminar Lateinische Literatur und Sprache I] - Hauptseminar
 
@@ -4990,7 +5022,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:15–17:45 | 20.10.2025–02.02.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### Modul 74401 Proseminar - Einführung in das Mittellatein und Neulatein [Proseminar Einführung in das lateinische Europa] - Proseminar
 
@@ -5007,7 +5039,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 24 |
+| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### Modul 74401 Proseminar - Einführung in das Mittellatein und Neulatein [Proseminar Einführung in das lateinische Europa] - Proseminar
 
@@ -5024,7 +5056,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 24 |
+| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### Modul 74431 Hauptseminar - Jenseitsvisionen im Mittelalter [Hauptseminar Lateinische Literatur in Mittelalter und Früher Neuzeit] - Hauptseminar
 
@@ -5041,7 +5073,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### Modul 74431 Hauptseminar - Jenseitsvisionen im Mittelalter [Hauptseminar Lateinische Literatur in Mittelalter und Früher Neuzeit] - Hauptseminar
 
@@ -5058,7 +5090,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### Modul 74431 Hauptseminar - Jenseitsvisionen im Mittelalter [Hauptseminar Lateinische Literatur in Mittelalter und Früher Neuzeit] - Hauptseminar
 
@@ -5075,7 +5107,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### Modul 74431 Hauptseminar - Jenseitsvisionen im Mittelalter [Hauptseminar Lateinische Literatur in Mittelalter und Früher Neuzeit] - Hauptseminar
 
@@ -5092,7 +5124,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### WP 2/16; III LING 2; Projektmodul - M-LingProjekt: Praktikum am Fränkischen Wörterbuch (WBF) - Praktikum
 

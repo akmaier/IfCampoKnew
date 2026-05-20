@@ -30,7 +30,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 40 |
+| wöchentlich | Fr | 11:30–13:45 | 17.10.2025–06.02.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur MS): Literatur- und Mediendidaktik - Seminar
 
@@ -46,7 +46,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | — |
+| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 | Einzeltermin | Fr | 08:00–10:00 | 30.01.2026 | — |
 | Einzeltermin | Mo | 15:00–18:00 | 09.02.2026 | — |
 | Einzeltermin | Fr | 10:30–12:00 | 13.02.2026 | — |
@@ -66,8 +66,8 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 16.01.2026 | — |
-| Einzeltermin | Sa | 09:30–15:30 | 17.01.2026 | — |
+| Einzeltermin | Fr | 14:00–17:00 | 16.01.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:30–15:30 | 17.01.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Stiller) - Übung
 
@@ -83,7 +83,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–21:00 | 24.10.2025 | — |
+| Einzeltermin | Fr | 14:00–21:00 | 24.10.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) - Übung
 
@@ -99,7 +99,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 19.12.2025 02.01.2026 | — |
+| 14-täglich | Fr | 11:30–13:00 | 24.10.2025–30.01.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur MS): Sprachdidaktik (1) - Übung
 
@@ -115,7 +115,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.10.2025–25.11.2025 | — |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–25.11.2025 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### Basisseminar: Planung und Analyse von Lehr-Lernprozessen (Angebot am Standort Nürnberg; Lehrstuhl Prof. Dr. Gläser-Zikuda) - Seminar
 
@@ -132,7 +132,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 25 |
+| wöchentlich | Mo | 08:00–09:45 | 13.10.2025–02.02.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
 ### Begleitseminar Praktikum GS (II) - Seminar
 
@@ -149,9 +149,9 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 18:00–19:30 | 13.10.2025 | — |
-| Einzeltermin | Sa | 09:00–15:00 | 25.10.2025 | — |
+| Einzeltermin | Sa | 09:00–15:00 | 25.10.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Sa | 09:00–15:00 | 08.11.2025 | — |
-| Einzeltermin | Sa | 09:00–15:00 | 22.11.2025 | — |
+| Einzeltermin | Sa | 09:00–15:00 | 22.11.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Begleitseminar Praktikum MS - Seminar
 
@@ -167,14 +167,14 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 15:45–17:15 | 23.10.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 30.10.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 06.11.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 13.11.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 20.11.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 27.11.2025 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 06.12.2025 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 13.12.2025 | — |
+| Einzeltermin | Do | 15:45–17:15 | 23.10.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 30.10.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 06.11.2025 | 20301.U1.012 (U1.012 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 13.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 20.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 27.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Sa | 10:00–17:00 | 06.12.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Sa | 10:00–17:00 | 13.12.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Didaktik der Analysis - Seminar
 
@@ -191,7 +191,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 08:15–09:45 | 13.10.2025–02.02.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### EEBF Modul 9 - Projektdurchführung - Seminar
 
@@ -218,7 +218,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 20 |
+| wöchentlich | Di | 08:00–09:30 | 14.10.2025–03.02.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 
 ### Teaching Methods and Materials in the FLC - Proseminar (Mittelseminar, PO 2020)
 
@@ -234,7 +234,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 11:45–13:15 | 13.10.2025–02.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (LA GS/MS): Ethische Bildung im Deutschunterricht - Seminar
 
@@ -250,7 +250,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:00–09:30 | 13.10.2025–02.02.2026 | — |
 
 ### VHB  MS/HS Global Education - Mittelseminar (Hauptseminar, PO 2020)
 
@@ -288,7 +288,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 15 |
+| wöchentlich | Di | 15:45–17:15 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Übungsmodul GS (Albrecht) - Übung
 
@@ -315,8 +315,8 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 05.11.2025 31.12.2025 | 25 |
-| — | Einzeltermin | — | — | 25 |
+| 14-täglich | Mi | 15:45–19:00 | 22.10.2025–28.01.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
+| Einzeltermin | Mi | 08:00–13:00 | 05.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
 ### DiAlgRS - Didaktik der Algebra (RS) - Seminar
 
@@ -333,9 +333,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20303.01.205 (SemRSportNbg Seminarraum Sport an der Regensburger Str (40)) |
+| Einzeltermin | Di | 09:45–11:15 | 13.01.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Di | 09:45–11:15 | 27.01.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 
 ### DidDaZuRS - Didaktik Daten und Zufall (RS) - Seminar
 
@@ -352,8 +352,8 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | — | 50 |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 50 |
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–24.11.2025 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
+| wöchentlich | Mo | 15:45–17:15 | 01.12.2025–02.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
 ### ELUNTEMS - Elemente der Unterrichtsgestaltung MS - Seminar
 
@@ -370,8 +370,8 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 09:45–11:15 | 15.10.2025–04.02.2026 | 20303.01.205 (SemRSportNbg Seminarraum Sport an der Regensburger Str (40)) |
+| Einzeltermin | Mi | 09:45–11:15 | 14.01.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
 ### Ethik - VL: Einführung in die Ethik in theologischer Perspektive - Vorlesung
 
@@ -388,7 +388,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Liebe (Theologie; Gesellschaftswissenschaften) - ""Größer aber ist die Liebe?" - Was bleibt, wenn wir Liebe neu denken - Seminar
 
@@ -405,9 +405,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 17:30–19:00 | 11.12.2025 | — |
-| Einzeltermin | Fr | 14:00–19:00 | 09.01.2026 | — |
-| Einzeltermin | Sa | 09:00–16:00 | 10.01.2026 | — |
+| Einzeltermin | Do | 17:30–19:00 | 11.12.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+| Einzeltermin | Fr | 14:00–19:00 | 09.01.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+| Einzeltermin | Sa | 09:00–16:00 | 10.01.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### MethMent - EEBF Modul 3 - Mentorat - Übung
 
@@ -433,8 +433,8 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Do | 15:45–17:15 | 16.10.2025–05.02.2026 | — |
+| Einzeltermin | Fr | 14:00–19:00 | 30.01.2026 | — |
 
 ### PuGDid1Vorl - PuGDid1: VORLESUNG: Einführung in die Fachdidaktik Sozialkunde / Politik und Gesellschaft - Vorlesung
 
@@ -450,14 +450,14 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | — |
-| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | — |
-| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | — |
-| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | — |
-| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | — |
-| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | — |
-| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | — |
-| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | — |
+| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
 ### Sem Einführung GSP - Seminar Einführungsmodul GSP: Grundlagen der Grundschulpädagogik  - Seminar
 
@@ -474,9 +474,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 400 |
-| — | Einzeltermin | — | — | 30 |
-| — | Einzeltermin | — | — | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | — |
+| Einzeltermin | Di | 12:00–16:00 | 24.02.2026 | — |
+| Einzeltermin | Di | 10:00–14:00 | 07.04.2026 | — |
 
 ### UEBZ - Übungen zu Zahlen (MS) - Übung
 
@@ -493,7 +493,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 30.12.2025 | 20 |
+| 14-täglich | Di | 11:30–13:00 | 21.10.2025–27.01.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
 
 ### vhb - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Filmdidaktik und Filmästhetik (VHB) - Hauptseminar
 
@@ -510,7 +510,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 15:45–17:15 | 17.10.2025–06.02.2026 | — |
 
 ### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
 
@@ -538,7 +538,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 14:00–15:30 | 17.10.2025–06.02.2026 | — |
 
 ### VL Einführung GSP - Vorlesung Einführungsmodul GSP: Grundlagen der Grundschulpädagogik  - Vorlesung
 
@@ -555,6 +555,6 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 400 |
-| — | Einzeltermin | — | — | 30 |
-| — | Einzeltermin | — | — | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
+| Einzeltermin | Di | 12:00–16:00 | 24.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 10:00–14:00 | 07.04.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |

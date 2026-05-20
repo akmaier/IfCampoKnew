@@ -208,7 +208,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 12:30–14:00 | 15.10.2025–04.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Einführung in die Arzneimittelinformation - Vorlesung
 
@@ -224,7 +224,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Pathophysiologie/Pathobiochemie f. Pharmazeuten - Vorlesung
 
@@ -240,7 +240,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 11:00–12:00 | 16.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Pathophysiologie/Pathobiochemie f. Pharmazeuten - Vorlesung
 
@@ -256,7 +256,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 11:00–12:00 | 16.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Pharmakologie und Toxikologie f. Pharmazeuten - Vorlesung
 
@@ -272,7 +272,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Pharmakologie und Toxikologie f. Pharmazeuten - Vorlesung
 
@@ -288,7 +288,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Pharmakotherapie und Pathophysiologie (4. Stj.) - Seminar
 
@@ -304,7 +304,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–16:00 | 16.03.2026–27.03.2026 | — |
+| Blockveranstaltung | — | 09:00–16:00 | 16.03.2026–27.03.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Pharmazeutische Technologie (3./4. Stj.) - Vorlesung
 
@@ -320,7 +320,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Pharmazeutische Technologie (3./4. Stj.) - Vorlesung
 
@@ -336,7 +336,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Tutorium Chemische Nomenklatur - Tutorium
 
@@ -352,7 +352,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 16:00–18:00 | 23.10.2025–05.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Tutorium Stereochemie - Tutorium
 
@@ -368,7 +368,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 16:00–18:00 | 30.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Tutorium zur Chemie der organischen Arznei-/Hilfs- und Schadstoffe - Tutorium
 
@@ -384,11 +384,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 16.10.2025 25.12.2025 01.01.2026 | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Di | 17:00–18:00 | 21.10.2025–03.02.2026 | 13301.02.0241 (C3 - Chemikum) 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) |
+| wöchentlich | Do | 13:00–14:00 | 23.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Di | 17:00–18:00 | 21.10.2025–03.02.2026 | 13301.01.0241 (C4 - Chemikum) |
+| wöchentlich | Do | 13:00–14:00 | 23.10.2025–05.02.2026 | 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) 13301.00.110 (00.110 - Chemikum Seminarraum Organische Chemie) |
+| wöchentlich | Do | 13:00–14:00 | 23.10.2025–05.02.2026 | 13301.00.234 (00.234 Seminarraum Pharmazie/Lebensmittelchemie) |
 
 ### AFL - Arzneiformenlehre (2. Stj.) - Praktikum
 
@@ -404,7 +404,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 12:30–18:30 | 15.10.2025–04.02.2026 | 12106.01.673 |
 
 ### AFL - Grundlagen der Arzneiformenlehre (2. Stj.) - Vorlesung
 
@@ -420,8 +420,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mo | 08:00–09:00 | 13.10.2025–02.02.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 11907.01.030 (H19) |
 
 ### BCNF1 - Einführung in die Biochemie für Naturwisschenschaftler und Techniker Teil1 - Vorlesung
 
@@ -437,7 +437,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
 
 ### Bph - Biopharmazie (3./4. Stj.) - Vorlesung
 
@@ -453,7 +453,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 10:00–11:00 | 16.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Bph - Biopharmazie (3./4. Stj.) - Vorlesung
 
@@ -469,7 +469,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 10:00–11:00 | 16.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### MikNatMol.V/UE - Med. Mikrobiologie, Hygiene, Immunologie u. Virologie f. Studierende d. Pharmazie (2. Studienjahr) - Vorlesung mit Übung
 
@@ -486,11 +486,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | wöchentlich | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | — | — |
+| Einzeltermin | Mi | 12:15–14:30 | 15.10.2025 | 01101.00.040 (Ks Wasserturmstr. 3/5) |
+| wöchentlich | Mi | 12:15–13:45 | 22.10.2025–04.02.2026 | 01101.00.[Telefon entfernt].00.040 (Ks Wasserturmstr. 3/5) |
+| wöchentlich | Mi | 10:00–12:00 | 05.11.2025–19.11.2025 | 01101.00.040 (Ks Wasserturmstr. 3/5) |
+| Einzeltermin | Mi | 10:00–12:00 | 17.12.2025 | 01101.00.040 (Ks Wasserturmstr. 3/5) |
+| wöchentlich | Mi | 10:00–12:00 | 14.01.2026–11.02.2026 | 01101.00.040 (Ks Wasserturmstr. 3/5) |
 
 ### MSM-ME5B-B1-S Drug Development - Biopharmazie (3./4. Stj.) - Seminar
 
@@ -506,7 +506,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 08:00–10:00 | 17.10.2025–06.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### MSM-ME5B-B3-S - Gefriertrocknung pharmazeutischer Produkte (4. Stj.) - Vorlesung
 
@@ -522,7 +522,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### PBHV - Pharmazeutische Biologie - Vorlesung Teil 1 - Vorlesung
 
@@ -538,15 +538,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 27.01.2026 03.02.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 26.11.2025 17.12.2025 24.12.2025 31.12.2025 04.02.2026 | — |
-| — | wöchentlich | — | 04.12.2025 18.12.2025 25.12.2025 01.01.2026 29.01.2026 05.02.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 08.01.2026 15.01.2026 22.01.2026 29.01.2026 05.02.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 08:15–09:00 | 14.10.2025–20.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 14.10.2025 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Mi | 08:15–09:00 | 15.10.2025–28.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 08:15–09:00 | 16.10.2025–22.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 12:15–13:00 | 16.10.2025–18.12.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Do | 09:15–10:00 | 06.11.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 11.11.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 02.12.2025 | — |
+| Einzeltermin | Do | 09:15–10:00 | 08.01.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### PBHV - Pharmazeutische Biologie - Vorlesung Teil 1 - Vorlesung
 
@@ -562,15 +562,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 27.01.2026 03.02.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 26.11.2025 17.12.2025 24.12.2025 31.12.2025 04.02.2026 | — |
-| — | wöchentlich | — | 04.12.2025 18.12.2025 25.12.2025 01.01.2026 29.01.2026 05.02.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 08.01.2026 15.01.2026 22.01.2026 29.01.2026 05.02.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 08:15–09:00 | 14.10.2025–20.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 14.10.2025 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Mi | 08:15–09:00 | 15.10.2025–28.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 08:15–09:00 | 16.10.2025–22.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 12:15–13:00 | 16.10.2025–18.12.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Do | 09:15–10:00 | 06.11.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 11.11.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 02.12.2025 | — |
+| Einzeltermin | Do | 09:15–10:00 | 08.01.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### PBHÜ3 - Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Immunochemie - Übung
 
@@ -586,7 +586,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–18:00 | 09.02.2026–13.02.2026 | — |
+| Blockveranstaltung | — | 10:00–18:00 | 09.02.2026–13.02.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
 
 ### PBHÜ3 - Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Phytochemie - Übung
 
@@ -602,12 +602,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 13:15–18:00 | 12.01.2026 | — |
-| Einzeltermin | Mi | 13:15–18:00 | 14.01.2026 | — |
-| Einzeltermin | Fr | 13:15–18:00 | 16.01.2026 | — |
-| Einzeltermin | Di | 13:15–18:00 | 20.01.2026 | — |
-| Einzeltermin | Do | 13:15–18:00 | 22.01.2026 | — |
-| Einzeltermin | Mo | 13:15–18:00 | 26.01.2026 | — |
+| Einzeltermin | Mo | 13:15–18:00 | 12.01.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| Einzeltermin | Mi | 13:15–18:00 | 14.01.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| Einzeltermin | Fr | 13:15–18:00 | 16.01.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| Einzeltermin | Di | 13:15–18:00 | 20.01.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| Einzeltermin | Do | 13:15–18:00 | 22.01.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| Einzeltermin | Mo | 13:15–18:00 | 26.01.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
 
 ### PhysioPharm - Grundlagen der Physiologie für Pharmazeuten - Vorlesung
 
@@ -623,10 +623,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.10.2025 21.11.2025 05.12.2025 19.12.2025 26.12.2025 02.01.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Do | 08:15–09:45 | 23.10.2025 | 13301.01.0241 (C4 - Chemikum) |
+| Einzeltermin | Do | 08:15–09:45 | 20.11.2025 | 13301.01.0241 (C4 - Chemikum) |
+| Einzeltermin | Do | 08:15–09:45 | 04.12.2025 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Pr3PH - Chemie der organischen Arznei-, Hilfs- und Schadstoffe (f. Stud. d. Pharmazie im 3. Semester) - Praktikum
 
@@ -642,9 +642,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Mo | 12:00–18:00 | 13.10.2025–02.02.2026 | — |
+| wöchentlich | Di | 08:30–17:00 | 14.10.2025–03.02.2026 | — |
+| wöchentlich | Fr | 12:00–18:00 | 17.10.2025–06.02.2026 | — |
 
 ### Pr5 - Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Qualitätskontrolle und -sicherung bei Arzneistoffen) und der entsprechenden Normen für Medizinprodukte - Praktikum
 
@@ -660,13 +660,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Blockveranstaltung | — | 03.10.2025 | — |
-| — | wöchentlich | — | — | — |
-| — | wöchentlich | — | — | — |
-| — | wöchentlich | — | — | — |
-| — | wöchentlich | — | — | — |
+| Einzeltermin | Fr | 09:00–17:00 | 26.09.2025 | — |
+| Einzeltermin | Mo | 09:00–11:00 | 29.09.2025 | 13301.01.0241 (C4 - Chemikum) |
+| Blockveranstaltung | — | 09:00–18:00 | 29.09.2025–10.10.2025 | — |
+| wöchentlich | Mo | 10:00–18:00 | 13.10.2025–20.10.2025 | — |
+| wöchentlich | Di | 10:00–18:00 | 14.10.2025–21.10.2025 | — |
+| wöchentlich | Mi | 12:00–18:00 | 15.10.2025–22.10.2025 | — |
+| wöchentlich | Do | 13:00–18:00 | 16.10.2025–23.10.2025 | — |
 
 ### PrWPfl - Wahlpflichtfach Pharmazeutische / Medizinische Chemie - Praktikum
 
@@ -692,8 +692,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Mo | 08:30–18:00 | 13.10.2025–02.02.2026 | 12106.00.642 (SemR 0.642 Pharmazeutische Technologie) |
+| wöchentlich | Di | 13:00–18:00 | 14.10.2025–03.02.2026 | 12106.00.642 (SemR 0.642 Pharmazeutische Technologie) |
 
 ### Sem3Ch - Seminar Chemie der organischen Arznei-, Hilfs- und Schadstoffe - Seminar
 
@@ -709,7 +709,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Sem3No - Chemische Nomenklatur - Seminar
 
@@ -725,7 +725,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 10:00–11:00 | 24.10.2025–06.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Sem3St - Stereochemie - Seminar
 
@@ -741,7 +741,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 09:00–10:00 | 13.10.2025–02.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### SpRGApo - Spezielle Rechtsgebiete für Apotheker - Vorlesung
 
@@ -757,7 +757,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.11.2025 26.11.2025 03.12.2025 10.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 | — |
+| wöchentlich | Mi | 12:30–16:00 | 05.11.2025–04.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### SpRGApo - Spezielle Rechtsgebiete für Apotheker - Vorlesung
 
@@ -773,7 +773,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.11.2025 26.11.2025 03.12.2025 10.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 | — |
+| wöchentlich | Mi | 12:30–16:00 | 05.11.2025–04.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Vor HÜPB3 - Übungen Pharmazeutische Biologie III: (Biologische und Phytochemische Untersuchungen) Vorbesprechung - Klausurenkurs
 
@@ -789,11 +789,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:15–17:00 | 07.01.2026 | — |
-| Einzeltermin | Do | 14:00–16:00 | 08.01.2026 | — |
-| Einzeltermin | Fr | 13:45–15:00 | 09.01.2026 | — |
-| Einzeltermin | Do | 11:15–13:00 | 29.01.2026 | — |
-| Einzeltermin | Do | 13:15–18:00 | 29.01.2026 | — |
+| Einzeltermin | Mi | 13:15–17:00 | 07.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Do | 14:00–16:00 | 08.01.2026 | 13301.01.0241 (C4 - Chemikum) |
+| Einzeltermin | Fr | 13:45–15:00 | 09.01.2026 | 13301.01.0241 (C4 - Chemikum) |
+| Einzeltermin | Do | 11:15–13:00 | 29.01.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
+| Einzeltermin | Do | 13:15–18:00 | 29.01.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
 
 ### Vorl3+4 - Einführung in die instrumentelle Analytik - Vorlesung
 
@@ -809,8 +809,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Mo | 10:00–11:00 | 13.10.2025–02.02.2026 | 13301.01.0241 (C4 - Chemikum) |
+| wöchentlich | Do | 10:00–12:00 | 16.10.2025–05.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
 ### Vorl5 - Pharmazeutisch-medizinische Analytik II/Pharmacopeia based analysis - Vorlesung
 
@@ -826,9 +826,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | — | — |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
-| — | wöchentlich | — | — | — |
+| wöchentlich | Mo | 09:00–10:00 | 13.10.2025–20.10.2025 | 13301.01.0241 (C4 - Chemikum) |
+| wöchentlich | Fr | 09:00–10:00 | 17.10.2025–06.02.2026 | 13301.02.0241 (C3 - Chemikum) |
+| wöchentlich | Di | 10:00–11:00 | 28.10.2025–02.12.2025 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Vorl5-8 - Pharmazeutische/Medizinische Chemie (Hauptstudium Pharmazie) - Vorlesung
 
@@ -844,9 +844,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | wöchentlich | — | 16.10.2025 06.11.2025 25.12.2025 01.01.2026 | — |
-| — | wöchentlich | — | 11.11.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Mi | 09:00–10:00 | 15.10.2025–04.02.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 09:00–10:00 | 23.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Di | 09:00–10:00 | 21.10.2025–03.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Vorl5-8 - Pharmazeutische/Medizinische Chemie (Hauptstudium Pharmazie) - Vorlesung
 
@@ -862,6 +862,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | wöchentlich | — | 16.10.2025 06.11.2025 25.12.2025 01.01.2026 | — |
-| — | wöchentlich | — | 11.11.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Mi | 09:00–10:00 | 15.10.2025–04.02.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 09:00–10:00 | 23.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Di | 09:00–10:00 | 21.10.2025–03.02.2026 | 13301.01.0331 (C2 - Chemikum) |

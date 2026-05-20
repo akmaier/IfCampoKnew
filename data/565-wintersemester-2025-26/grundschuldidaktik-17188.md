@@ -40,7 +40,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 14:00 - 14:55 | — | 07.12.2025 23:59:59 | — |
+| Di | Di | 14:00–14:55 | 07.12.2025 23:59:59 | — |
 
 ### 16241 Aufbaumodul GSP: Umgang mit Heterogenität (in der Grundschule) - Leistung
 
@@ -55,7 +55,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 16242 Aufbaumodul GSP: Umgang mit Heterogenität (in der Grundschule) - Leistung
 
@@ -70,7 +70,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 16251 Aufbaumodul SSE: Adaptiver Schriftspracherwerb in der Grundschule - Leistung
 
@@ -85,7 +85,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:30 - 13:00 | — | 07.12.2025 23:59:59 | — |
+| Mo | Mo | 11:30–13:00 | 07.12.2025 23:59:59 | — |
 
 ### 16252 Aufbaumodul SSE: Adaptiver Schriftspracherwerb in der Grundschule - Leistung
 
@@ -100,7 +100,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | - | — | 07.12.2025 23:59:59 | — |
+| Sa | Sa | — | 07.12.2025 23:59:59 | — |
 
 ### 16261 Aufbaumodul SU: Adaptiver Sachunterricht in der Grundschule - Leistung
 
@@ -115,7 +115,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | - | — | 07.12.2025 23:59:59 | — |
+| Fr | Fr | — | 07.12.2025 23:59:59 | — |
 
 ### 16262 Aufbaumodul SU: Adaptiver Sachunterricht in der Grundschule - Leistung
 
@@ -130,7 +130,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 16281 Vertiefungsmodul GSP: Planung, Gestaltung und Reflexion von Grundschulunterricht - Leistung
 
@@ -144,7 +144,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 16301 Pflichtseminar (Proseminar) Grundschulpädagogik 2 - Leistung
 
@@ -159,7 +159,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 16302 Wahlpflichtseminar (Proseminar) Grundschulpädagogik 2 - Leistung
 
@@ -174,7 +174,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | — | — |
+| Di | Di | — | — | — |
 
 ### 16401 Praktikum Grundschulpädagogik 3 - Leistung
 
@@ -189,7 +189,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 16402 Proseminar (Pflichtseminar)  Grundschulpädagogik 3 - Leistung
 
@@ -204,7 +204,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 16601 benotete Prüfungsleistung zum Pflichtseminar (Proseminar) zum Aufbaumodul Sachunterricht 2 - Leistung
 
@@ -219,7 +219,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | - | — | 07.12.2025 23:59:59 | — |
+| Fr | Fr | — | 07.12.2025 23:59:59 | — |
 
 ### 16602 unbewertete Prüfungsleistung zum Wahlpflichtseminar (Proseminar) Sachunterricht 2 Aufbaumodul - Leistung
 
@@ -234,7 +234,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 16801 Prüfung zum Pflichtseminar (Proseminar) Aufbaumodul Schriftspracherwerb 2 - Leistung
 
@@ -249,7 +249,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:30 - 13:00 | — | 07.12.2025 23:59:59 | — |
+| Mo | Mo | 11:30–13:00 | 07.12.2025 23:59:59 | — |
 
 ### 16802 2. Seminar aus Pflicht- oder Wahlpflichtbereich zum Aufbaumodul Schriftspracherwerb 2 - Leistung
 
@@ -264,7 +264,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | - | — | 07.12.2025 23:59:59 | — |
+| Sa | Sa | — | 07.12.2025 23:59:59 | — |
 
 ### 59534 Freier Bereich I - Didaktik der Grundschule (GSP, SSE, SU) - Leistung
 
@@ -279,7 +279,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 59535 Freier Bereich II - Didaktik der Grundschule (GSP, SSE, SU) - Leistung
 
@@ -294,7 +294,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 59536 Freier Bereich III - Didaktik der Grundschule (GSP, SSE, SU) - Leistung
 
@@ -309,7 +309,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 59628 Freier Bereich IV - Didaktik der Grundschule (GSP, SSE, SU) - Leistung
 
@@ -324,7 +324,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### Außerschulische Lernorte-A - Büttner / Vorgelagertes Blockseminar: Außerschulische Lernorte und/oder digitales Lernen (Kurs A) - Mittelseminar
 
@@ -341,11 +341,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 12:00–13:00 | 15.09.2025 | — |
-| Einzeltermin | Mo | 08:30–13:30 | 22.09.2025 | — |
-| Einzeltermin | Di | 08:30–13:30 | 23.09.2025 | — |
-| Einzeltermin | Mi | 08:30–13:30 | 24.09.2025 | — |
-| Einzeltermin | Do | 08:30–13:30 | 25.09.2025 | — |
-| Einzeltermin | Fr | 08:30–12:30 | 26.09.2025 | — |
+| Einzeltermin | Mo | 08:30–13:30 | 22.09.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 08:30–13:30 | 23.09.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mi | 08:30–13:30 | 24.09.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 08:30–13:30 | 25.09.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Fr | 08:30–12:30 | 26.09.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Außerschulische Lernorte-B - Büttner / Außerschulische Lernorte und/oder digitales Lernen (Kurs B) - Mittelseminar
 
@@ -361,8 +361,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 30 |
-| — | Einzeltermin | — | — | 30 |
+| wöchentlich | Do | 08:00–09:30 | 16.10.2025–05.02.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Do | 08:00–09:30 | 23.10.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Bausteine GSP - Pro-EX - Kopp / Bausteine der Grundschulpädagogik - Strategien zur Bearbeitung von Staatsexamensklausuren  - Hauptseminar
 
@@ -382,10 +382,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Do | 13:00–14:00 | 20.11.2025 | — |
 | Einzeltermin | Do | 13:00–14:00 | 11.12.2025 | — |
 | Einzeltermin | Do | 13:00–14:00 | 22.01.2026 | — |
-| Einzeltermin | Mi | 09:00–16:00 | 11.02.2026 | — |
-| Einzeltermin | Do | 09:00–16:00 | 12.02.2026 | — |
-| Einzeltermin | Fr | 09:00–16:00 | 13.02.2026 | — |
-| Einzeltermin | Di | 10:00–14:00 | 17.02.2026 | — |
+| Einzeltermin | Mi | 09:00–16:00 | 11.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| Einzeltermin | Do | 09:00–16:00 | 12.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| Einzeltermin | Fr | 09:00–16:00 | 13.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| Einzeltermin | Di | 10:00–14:00 | 17.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
 ### BL RundSSE - Kasanmascheff /  Blockseminar Blended Learning: Schriftspracherwerb in Theorie und Praxis - Mittelseminar
 
@@ -402,8 +402,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 17:00–18:00 | 06.10.2025 | — |
-| Einzeltermin | Sa | 08:30–16:00 | 15.11.2025 | — |
-| Einzeltermin | Sa | 08:30–16:00 | 29.11.2025 | — |
+| Einzeltermin | Sa | 08:30–16:00 | 15.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Sa | 08:30–16:00 | 29.11.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 | Einzeltermin | Sa | 09:00–14:00 | 06.12.2025 | — |
 
 ### BL SSE - Ackerlauer / Blended learning: Individuelle Unterstützung im Schriftspracherwerb  - Mittelseminar
@@ -420,12 +420,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 11:30–13:00 | 16.10.2025 | — |
-| Einzeltermin | Do | 11:30–13:00 | 30.10.2025 | — |
-| Einzeltermin | Do | 11:30–13:00 | 27.11.2025 | — |
-| Einzeltermin | Do | 11:30–13:00 | 11.12.2025 | — |
-| Einzeltermin | Do | 11:30–13:00 | 15.01.2026 | — |
-| Einzeltermin | Do | 11:30–13:00 | 05.02.2026 | — |
+| Einzeltermin | Do | 11:30–13:00 | 16.10.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 30.10.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 27.11.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 11.12.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 15.01.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 05.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### BL_PumH  - Römer / Blended Learning: Professioneller Umgang mit Heterogenität  - Mittelseminar
 
@@ -441,12 +441,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 15:45–17:00 | 23.10.2025 | — |
-| Einzeltermin | Do | 15:45–17:00 | 13.11.2025 | — |
-| Einzeltermin | Do | 15:45–17:00 | 27.11.2025 | — |
-| Einzeltermin | Do | 15:45–17:00 | 18.12.2025 | — |
-| Einzeltermin | Do | 15:45–17:00 | 08.01.2026 | — |
-| Einzeltermin | Do | 15:45–17:00 | 05.02.2026 | — |
+| Einzeltermin | Do | 15:45–17:00 | 23.10.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 15:45–17:00 | 13.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 15:45–17:00 | 27.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 15:45–17:00 | 18.12.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 15:45–17:00 | 08.01.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 15:45–17:00 | 05.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Digitale Medien - Büttner / Digitale Medien im Sachunterricht der Grundschule sinnvoll einsetzen(Kurs A) - Mittelseminar
 
@@ -462,7 +462,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 08:00–09:30 | 14.10.2025–03.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### DigMed im GS - Knoth /  Potentiale digitaler Medien im Grundschulunterricht effektiv nutzen - Seminar
 
@@ -478,7 +478,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 30 |
+| wöchentlich | Do | 08:00–09:30 | 16.10.2025–05.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### Forschen und Experimentieren_B - Büttner / Forschen und Experimentieren in den verschiedenen Perspektiven des Sachunterrichts (Kurs B) - Seminar
 
@@ -494,8 +494,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
-| — | Einzeltermin | — | — | 30 |
+| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 14:00–15:30 | 25.11.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### FreiSch - Banh / Blockseminar: (Freies) Schreiben im Anfangsunterricht der Grundschule - Seminar
 
@@ -511,10 +511,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–16:00 | 13.03.2026 | — |
-| Einzeltermin | Mi | 08:00–15:00 | 08.04.2026 | — |
-| Einzeltermin | Do | 08:00–15:00 | 09.04.2026 | — |
-| Einzeltermin | Fr | 08:00–15:00 | 10.04.2026 | — |
+| Einzeltermin | Fr | 14:00–16:00 | 13.03.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mi | 08:00–15:00 | 08.04.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 08:00–15:00 | 09.04.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Fr | 08:00–15:00 | 10.04.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### GesErz SU - Trinks / Gesundheitserziehung im Sachunterricht?! - Potenziale, Perspektiven und Herausforderungen! - Seminar
 
@@ -530,9 +530,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
-| — | Einzeltermin | — | — | 30 |
-| — | wöchentlich | — | — | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20303.01.205 (SemRSportNbg Seminarraum Sport an der Regensburger Str (40)) |
+| Einzeltermin | Di | 11:30–13:00 | 13.01.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
+| wöchentlich | Di | 11:30–13:00 | 20.01.2026–03.02.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Grund SU - Kopp / Grundfragen der Sachunterrichtsdidaktik - Seminar
 
@@ -548,7 +548,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 30 |
+| wöchentlich | Mi | 08:00–09:30 | 15.10.2025–04.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Grundfragen der Grundschulpädagogik (Kurs A) - Liebner / Blended learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule (Kurs A) - Seminar
 
@@ -564,8 +564,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | 30 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| Einzeltermin | Di | 11:30–13:00 | 14.10.2025 | 20301.U1.031 (U1.031 Seminarraum (40)) |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Grundlagenseminar (Kurs B) - Meyer / Blended learning: Umgang mit Heterogenität in der Grundschule - Grundlagenseminar (Kurs B) - Seminar
 
@@ -581,7 +581,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 30 |
+| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 
 ### GSdZ - Trinks / Blockseminar: Wie sieht die Grundschule der Zukunft aus? - Seminar
 
@@ -646,9 +646,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 17:00–18:00 | 13.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 22.11.2025 | — |
-| Einzeltermin | So | 09:00–18:00 | 23.11.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Sa | 09:00–18:00 | 22.11.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | So | 09:00–18:00 | 23.11.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 
 ### HE-NS  - Römer /  Holocaust Education und Nationalsozialismus im Sachunterricht der Grundschule  - Mittelseminar
 
@@ -664,7 +664,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Heterogene Kinder SSE - Wiederseiner / Kinder mit heterogenen Lernvoraussetzungen im Schriftspracherwerb - Seminar
 
@@ -680,8 +680,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | 30 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| Einzeltermin | Di | 14:00–15:30 | 14.10.2025 | — |
+| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### IchDuWir - Büttner / Ich-Du-Wir. Persönlichkeitsentwicklung in der Grundschule  - Mittelseminar
 
@@ -697,8 +697,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
-| — | Einzeltermin | — | — | 20 |
+| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 22.01.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### Inklusion und Medien (vhb) - Meyer / Online: Inklusion und Medien im Unterricht der Grundschule (vhb-Seminar) - Mittelseminar
 
@@ -724,10 +724,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 | 30 |
-| — | Einzeltermin | — | — | 30 |
-| — | Einzeltermin | — | — | 30 |
-| — | Einzeltermin | — | — | 30 |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–16.12.2025 | — |
+| Einzeltermin | Fr | 14:00–18:30 | 05.12.2025 | — |
+| Einzeltermin | Fr | 14:00–18:30 | 05.12.2025 | — |
+| Einzeltermin | Fr | 14:00–18:30 | 05.12.2025 | — |
 
 ### Kognitive Aktivierung im SU - Cejvan / Blended-Learning: Denkprozesse anregen - Kognitive Aktivierung im Sachunterricht erleben und gestalten - Seminar
 
@@ -743,12 +743,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:00–15:30 | 16.10.2025 | — |
-| Einzeltermin | Do | 14:00–15:30 | 30.10.2025 | — |
-| Einzeltermin | Do | 14:00–15:30 | 20.11.2025 | — |
-| Einzeltermin | Do | 14:00–15:30 | 11.12.2025 | — |
-| Einzeltermin | Do | 14:00–15:30 | 15.01.2026 | — |
-| Einzeltermin | Do | 14:00–15:30 | 22.01.2026 | — |
+| Einzeltermin | Do | 14:00–15:30 | 16.10.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 14:00–15:30 | 30.10.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 14:00–15:30 | 20.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 14:00–15:30 | 11.12.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 14:00–15:30 | 15.01.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 14:00–15:30 | 22.01.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Leistung - Keßler-Schnupp / Blockseminar: Was ist Leistung und wie kommt man zu einer objektiven und bewussten Bewertung? - Mittelseminar
 
@@ -764,11 +764,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 15.11.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 22.11.2025 | — |
-| Einzeltermin | Fr | 14:00–15:30 | 05.12.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Sa | 09:00–18:00 | 15.11.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Sa | 09:00–18:00 | 22.11.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–15:30 | 05.12.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Lesen fördern - Pfann /Blockseminar: Lesen fördern im Anfangsunterricht - aber wie? Digitale und andere Möglichkeiten - Mittelseminar
 
@@ -785,8 +785,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mi | 18:00–19:30 | 22.10.2025 | — |
-| Einzeltermin | Fr | 14:30–19:00 | 14.11.2025 | — |
-| Einzeltermin | Sa | 09:00–17:00 | 29.11.2025 | — |
+| Einzeltermin | Fr | 14:30–19:00 | 14.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Sa | 09:00–17:00 | 29.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### MedienSU-B - Büttner / Vorgezogenes Blockseminar: Digitale Medien im Sachunterricht der Grundschule sinnvoll einsetzen (Kurs B) - Mittelseminar
 
@@ -802,11 +802,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 11:00–12:00 | 15.09.2025 | — |
-| Einzeltermin | Mo | 08:30–16:00 | 29.09.2025 | — |
-| Einzeltermin | Di | 08:30–16:00 | 30.09.2025 | — |
-| Einzeltermin | Mi | 08:30–13:30 | 01.10.2025 | — |
-| Einzeltermin | Do | 08:30–13:30 | 02.10.2025 | — |
+| Einzeltermin | Mo | 11:00–12:00 | 15.09.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mo | 08:30–16:00 | 29.09.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 08:30–16:00 | 30.09.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mi | 08:30–13:30 | 01.10.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 08:30–13:30 | 02.10.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Mitbestimmungssensibel unterrichten?!  - Cejvan / Mitbestimmungssensibel unterrichten?! Gelingenselemente und Gestaltungsmöglichkeiten im Grundschulunterricht  - Mittelseminar
 
@@ -822,7 +822,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Praktikum - Alle /Analyse und Planung von Unterrichtsabläufen (Begleitseminar zum Praktikum) - Seminar
 
@@ -838,24 +838,24 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | — |
-| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | — |
-| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | — |
-| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | — |
-| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | — |
-| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | — |
-| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | — |
-| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | — |
-| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | — |
-| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | — |
-| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | — |
-| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | — |
-| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | — |
-| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 17.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 17.10.2025 | — |
+| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | 20301.00.014 (0.014 Seminarraum (40)) |
+| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mo | 09:00–15:00 | 06.10.2025 | 20301.U1.038 (U1.038 Seminarraum (50)) |
+| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
+| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | 20301.00.014 (0.014 Seminarraum (40)) |
+| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 09:00–15:00 | 09.10.2025 | 20301.U1.038 (U1.038 Seminarraum (50)) |
+| Einzeltermin | Fr | 14:00–18:00 | 17.10.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Fr | 14:00–18:00 | 17.10.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 | Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 25.10.2025 | — |
+| Einzeltermin | Sa | 09:00–18:00 | 25.10.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
 | Einzeltermin | Mi | 14:00–15:30 | 12.11.2025 | — |
 | Einzeltermin | Mi | 14:00–15:30 | 26.11.2025 | — |
 | Einzeltermin | Mi | 14:00–15:30 | 28.01.2026 | — |
@@ -874,12 +874,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–09:30 | 20.10.2025 | — |
-| Einzeltermin | Mo | 08:00–09:30 | 10.11.2025 | — |
-| Einzeltermin | Mo | 08:00–09:30 | 24.11.2025 | — |
-| Einzeltermin | Mo | 08:00–09:30 | 15.12.2025 | — |
-| Einzeltermin | Mo | 08:00–09:30 | 12.01.2026 | — |
-| Einzeltermin | Mo | 08:00–09:30 | 02.02.2026 | — |
+| Einzeltermin | Mo | 08:00–09:30 | 20.10.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mo | 08:00–09:30 | 10.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mo | 08:00–09:30 | 24.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mo | 08:00–09:30 | 15.12.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mo | 08:00–09:30 | 12.01.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mo | 08:00–09:30 | 02.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Schbeg - Jandl / Kinder auf den Weg zur Schrift begleiten - Seminar
 
@@ -895,7 +895,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 30 |
+| wöchentlich | Do | 08:00–09:30 | 16.10.2025–05.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Sem Einführung GSP - Seminar Einführungsmodul GSP: Grundlagen der Grundschulpädagogik  - Seminar
 
@@ -912,9 +912,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 400 |
-| — | Einzeltermin | — | — | 30 |
-| — | Einzeltermin | — | — | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | — |
+| Einzeltermin | Di | 12:00–16:00 | 24.02.2026 | — |
+| Einzeltermin | Di | 10:00–14:00 | 07.04.2026 | — |
 
 ### SSE / Konzeptionen des SSE - Renner / asynchron-online: Lehrgangsorientierte und lernwegsorientierte Konzeptionen des Schriftspracherwerbs (Einschreibekurs) - Mittelseminar
 
@@ -941,7 +941,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 11:30–13:00 | 13.10.2025–02.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### SU / Theorie & Praxis - SU / Theory and practice - Renner / Blockseminar: Sachunterricht in Theorie und Praxis (mit Schulbesuch): Europa macht Schule! / Block seminar: General Education in Theory and Practice (includes school visit): Europe meets School! - Mittelseminar
 
@@ -957,10 +957,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 13:10–13:50 | 28.10.2025 | — |
-| Einzeltermin | Fr | 09:00–18:00 | 21.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 22.11.2025 | — |
-| Einzeltermin | Di | 15:45–17:15 | 16.12.2025 | — |
+| Einzeltermin | Di | 13:10–13:50 | 28.10.2025 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+| Einzeltermin | Fr | 09:00–18:00 | 21.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Sa | 09:00–18:00 | 22.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 15:45–17:15 | 16.12.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 | Einzeltermin | Fr | 07:00–15:00 | 16.01.2026 | — |
 
 ### SU: naturwiss. Perspektive - Knoth / Grundlagen des naturwissenschaftlichen Sachunterrichts - Seminar
@@ -977,11 +977,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 16:00–17:00 | 27.01.2026 | — |
-| Einzeltermin | Di | 09:30–17:30 | 17.02.2026 | — |
-| Einzeltermin | Mi | 08:30–16:30 | 18.02.2026 | — |
-| Einzeltermin | Do | 08:30–16:30 | 19.02.2026 | — |
-| Einzeltermin | Di | 09:00–10:30 | 24.02.2026 | — |
+| Einzeltermin | Di | 16:00–17:00 | 27.01.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 09:30–17:30 | 17.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Mi | 08:30–16:30 | 18.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Do | 08:30–16:30 | 19.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 09:00–10:30 | 24.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### SU: techn. Perspektive - Knoth / Die technische Perspektive des Sachunterrichts handlungsorientiert umsetzen - Seminar
 
@@ -997,7 +997,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 30 |
+| wöchentlich | Do | 14:00–15:30 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### VL Einführung GSP - Vorlesung Einführungsmodul GSP: Grundlagen der Grundschulpädagogik  - Vorlesung
 
@@ -1014,9 +1014,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 400 |
-| — | Einzeltermin | — | — | 30 |
-| — | Einzeltermin | — | — | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
+| Einzeltermin | Di | 12:00–16:00 | 24.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Di | 10:00–14:00 | 07.04.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Übergänge im Grundschulalter  - Meyer / Blended Learning: Alles auf Anfang?! - Übergänge im Grundschulalter  - Mittelseminar
 
@@ -1032,4 +1032,4 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |

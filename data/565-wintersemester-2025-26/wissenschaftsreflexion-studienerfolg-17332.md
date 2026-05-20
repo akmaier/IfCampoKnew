@@ -42,7 +42,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 25 |
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### (Inter)nationale Mediengenres reflektieren - Kurs
 
@@ -59,7 +59,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 20 |
+| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 05801.02.110 ( A 401) |
 
 ### (Inter)nationale Medientrends reflektieren - Kurs
 
@@ -76,7 +76,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 20 |
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 05801.02.110 ( A 401) |
 
 ### Die Kunst des Zuhörens - Kurs
 
@@ -93,7 +93,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 25 |
+| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### Expeditionsziel: Erkenntnis. Forschungsreisen in der Geschichte der Wissenschaften - Seminar
 
@@ -110,7 +110,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 15 |
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | — |
 
 ### Flora und Forschung: Pflanzen in der Geschichte der Wissenschaften - Seminar
 
@@ -126,7 +126,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 05801.02.110 ( A 401) |
 
 ### Forschungsethik in den Natur- und Sozialwissenschaften - Seminar
 
@@ -144,7 +144,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Fr | 14:00–15:00 | 31.10.2025 | — |
-| Blockveranstaltung | — | 10:00–17:00 | 09.02.2026–12.02.2026 | — |
+| Blockveranstaltung | — | 10:00–17:00 | 09.02.2026–12.02.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### Fotogestaltung mit Digitalkameras [Blockseminar] - Kurs
 
@@ -161,9 +161,9 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:30–10:00 | 02.10.2025 | Online per Zoom |
-| Einzeltermin | Mi | 09:30–17:30 | 08.10.2025 | Online per Zoom |
-| Einzeltermin | Fr | 09:30–17:30 | 10.10.2025 | — |
+| Einzeltermin | Do | 09:30–10:00 | 02.10.2025 | — |
+| Einzeltermin | Mi | 09:30–17:30 | 08.10.2025 | — |
+| Einzeltermin | Fr | 09:30–17:30 | 10.10.2025 | 05902.00.015 ( 00.15 PSG) |
 
 ### Hausarbeiten schreiben mit KI & Co. - Seminar
 
@@ -180,7 +180,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 30 |
+| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 05801.02.110 ( A 401) |
 
 ### Ich in der Wissenschaft - Reflexionen über Identität(en) und Vorurteile - Seminar
 
@@ -197,7 +197,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–16:00 | 16.02.2026–19.02.2026 | — |
+| Blockveranstaltung | — | 09:00–16:00 | 16.02.2026–19.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Interkulturelle Kompetenz: Theoretische und praktische Grundlagen - Seminar
 
@@ -213,10 +213,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 15:15–16:45 | 21.10.2025 | Online Sitzung |
-| Einzeltermin | Di | 15:15–16:45 | 04.11.2025 | Online Sitzung |
-| Einzeltermin | Fr | 10:00–18:00 | 12.12.2025 | — |
-| Einzeltermin | Sa | 10:00–18:00 | 13.12.2025 | — |
+| Einzeltermin | Di | 15:15–16:45 | 21.10.2025 | — |
+| Einzeltermin | Di | 15:15–16:45 | 04.11.2025 | — |
+| Einzeltermin | Fr | 10:00–18:00 | 12.12.2025 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Sa | 10:00–18:00 | 13.12.2025 | 05902.00.003 ( 00.3 PSG) |
 
 ### Interkulturelles Konfliktmanagement: Theoretische und praktische Grundlagen - Seminar
 
@@ -232,10 +232,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 15:15–16:45 | 23.10.2025 | Online Sitzung |
-| Einzeltermin | Do | 15:15–16:45 | 06.11.2025 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 19.12.2025 | — |
-| Einzeltermin | Sa | 10:00–18:00 | 20.12.2025 | — |
+| Einzeltermin | Do | 15:15–16:45 | 23.10.2025 | — |
+| Einzeltermin | Do | 15:15–16:45 | 06.11.2025 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Fr | 10:00–18:00 | 19.12.2025 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Sa | 10:00–18:00 | 20.12.2025 | 05902.00.003 ( 00.3 PSG) |
 
 ### Kompaktkurs für blinde und sehbehinderte Studienanfänger/-innen - Kurs
 
@@ -263,7 +263,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 30 |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 05801.02.110 ( A 401) |
 
 ### Micro-Credential: Einführung in die Wissenschaftsreflexion - Sonstige Lehrveranstaltung
 
@@ -366,7 +366,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 26.11.2025 03.12.2025 10.12.2025 24.12.2025 31.12.2025 07.01.2026 21.01.2026 | 25 |
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### Schreiben für die Wissenschaft - Seminar
 
@@ -382,7 +382,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 30 |
+| wöchentlich | Mi | 16:15–17:45 | 15.10.2025–04.02.2026 | 05801.02.110 ( A 401) |
 
 ### Seminar für erblindete Doktorand/-innen - Seminar
 
@@ -407,7 +407,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 25 |
+| wöchentlich | Mi | 16:00–17:30 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Stimmbildung und Sprecherziehung - Kurs
 
@@ -424,7 +424,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 25 |
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### Verbessern von wissenschaftlichen Texten - Kurs
 
@@ -441,7 +441,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:00–19:00 | 21.10.2025–09.12.2025 | online |
+| wöchentlich | Di | 16:00–19:00 | 21.10.2025–09.12.2025 | — |
 
 ### Video- und Filmgestaltung mit Digitalkameras [Blockseminar] - Kurs
 
@@ -458,9 +458,9 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–09:30 | 04.12.2025 | Online per Zoom |
-| Einzeltermin | Fr | 09:30–17:30 | 09.01.2026 | Online per Zoom |
-| Einzeltermin | Sa | 09:30–17:00 | 10.01.2026 | — |
+| Einzeltermin | Do | 09:00–09:30 | 04.12.2025 | — |
+| Einzeltermin | Fr | 09:30–17:30 | 09.01.2026 | — |
+| Einzeltermin | Sa | 09:30–17:00 | 10.01.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### Visual Basic for Applications für Blinde und Sehbehinderte - Kurs
 
@@ -487,7 +487,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 05801.02.110 ( A 401) |
 
 ### Wissenschaftliche Präsentationen als Infotainment gestalten - Kurs
 
@@ -504,7 +504,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 20 |
+| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | — |
 
 ### ZIWIS Spring School Future Skills - Seminar
 
@@ -520,7 +520,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–18:00 | 02.03.2026–05.03.2026 | — |
+| Blockveranstaltung | — | 10:00–18:00 | 02.03.2026–05.03.2026 | 05902.00.004 ( 00.4 PSG) |
 
 ### Öffentliche Vorlesungsreihe: Collegium Alexandrinum - "Kultur und Natur im Wandel" - Vorlesung
 
@@ -537,4 +537,4 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 06.11.2025 13.11.2025 20.11.2025 27.11.2025 25.12.2025 01.01.2026 | 40 |
+| wöchentlich | Do | 20:15–21:45 | 04.12.2025–05.02.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |

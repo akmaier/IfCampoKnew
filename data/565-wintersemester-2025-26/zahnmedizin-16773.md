@@ -333,4 +333,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 01.01.2026 | — |
+| 14-täglich | Do | 12:00–13:00 | 23.10.2025–29.01.2026 | — |

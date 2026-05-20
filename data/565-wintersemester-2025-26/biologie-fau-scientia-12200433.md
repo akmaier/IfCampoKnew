@@ -198,7 +198,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### AnaPhys_MT - Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure - Vorlesung
 
@@ -215,7 +215,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
 
 ### Bio-NF - Allgemeine Biologie I: Biologie für Nebenfächler (Bio-NF) - Vorlesung
 
@@ -232,7 +232,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:15–17:30 | 13.10.2025–02.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
 
 ### Ethik - VL: Einführung in die Ethik in theologischer Perspektive - Vorlesung
 
@@ -249,7 +249,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### FMA-S-Gen - Forschungs-/Vertiefungsmodul Genetik: Seminar - Vorlesung
 
@@ -275,10 +275,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 20.01.2026 27.01.2026 03.02.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 11:15–12:00 | 14.10.2025–13.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 10:15–11:00 | 09.12.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 10:15–11:00 | 16.12.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 10:15–11:00 | 13.01.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### PBHV - Pharmazeutische Biologie - Vorlesung Teil 1 - Vorlesung
 
@@ -294,12 +294,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 27.01.2026 03.02.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 26.11.2025 17.12.2025 24.12.2025 31.12.2025 04.02.2026 | — |
-| — | wöchentlich | — | 04.12.2025 18.12.2025 25.12.2025 01.01.2026 29.01.2026 05.02.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 08.01.2026 15.01.2026 22.01.2026 29.01.2026 05.02.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 08:15–09:00 | 14.10.2025–20.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 14.10.2025 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Mi | 08:15–09:00 | 15.10.2025–28.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 08:15–09:00 | 16.10.2025–22.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 12:15–13:00 | 16.10.2025–18.12.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Do | 09:15–10:00 | 06.11.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 11.11.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 02.12.2025 | — |
+| Einzeltermin | Do | 09:15–10:00 | 08.01.2026 | 13301.01.0331 (C2 - Chemikum) |

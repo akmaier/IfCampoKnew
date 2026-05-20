@@ -379,4 +379,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 12:15–13:45 | 13.10.2025 | — |
+| Einzeltermin | Mo | 12:15–13:45 | 13.10.2025 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |

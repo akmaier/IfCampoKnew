@@ -22,9 +22,17 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840281|exam:13840296>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94653&periodId=589>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 17:00–18:00 | 22.04.2026 | 05902.00.015 ( 00.15 PSG) |
+| Einzeltermin | Fr | 14:00–18:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 08.05.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | — |
+| Einzeltermin | Mi | 14:00–16:00 | 23.09.2026 | — |
 
 ### "Lampenfieber ade!": Überzeugend und sicher vor anderen auftreten - Kurs
 
@@ -49,8 +57,18 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840281|exam:13840284>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91821&periodId=589>
 
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 16:15–17:45 | 28.05.2026 | — |
+| Einzeltermin | Mo | 17:00–18:30 | 01.06.2026 | — |
+| Einzeltermin | Do | 16:15–17:45 | 04.06.2026 | — |
+| Einzeltermin | Do | 16:15–17:45 | 11.06.2026 | 05902.00.015 ( 00.15 PSG) |
+| Einzeltermin | Fr | 10:00–18:00 | 17.07.2026 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Sa | 10:00–18:00 | 18.07.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Methodische Grundlagen der Zukunftsforschung und aktuelle Forschungsbeispiele - Seminar
 
@@ -94,4 +112,11 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 20:15–21:45 | 07.05.2026–16.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |

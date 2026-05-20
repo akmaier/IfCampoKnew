@@ -163,7 +163,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 13:15–15:30 | 13.10.2025–02.02.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien - Seminar
 
@@ -180,7 +180,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 40 |
+| wöchentlich | Mo | 08:15–10:30 | 13.10.2025–02.02.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien - Seminar
 
@@ -197,7 +197,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 40 |
+| wöchentlich | Mo | 11:30–13:45 | 13.10.2025–02.02.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien - Seminar
 
@@ -213,7 +213,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 15:45–18:00 | 13.10.2025–02.02.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien - Seminar
 
@@ -229,7 +229,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 40 |
+| wöchentlich | Fr | 11:30–13:45 | 17.10.2025–06.02.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur MS): Literatur- und Mediendidaktik - Seminar
 
@@ -245,7 +245,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | — |
+| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 | Einzeltermin | Fr | 08:00–10:00 | 30.01.2026 | — |
 | Einzeltermin | Mo | 15:00–18:00 | 09.02.2026 | — |
 | Einzeltermin | Fr | 10:30–12:00 | 13.02.2026 | — |
@@ -266,13 +266,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | 21.10.2025 | 25 |
-| — | Einzeltermin | — | — | 25 |
-| — | Einzeltermin | — | — | 25 |
-| — | Einzeltermin | — | — | 25 |
-| — | Einzeltermin | — | — | 25 |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | 25 |
+| Einzeltermin | Di | 15:45–19:00 | 21.10.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Di | 15:45–19:00 | 04.11.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Sa | 09:30–14:00 | 22.11.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Di | 15:45–19:00 | 02.12.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Di | 15:45–19:00 | 16.12.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Sa | 09:30–12:30 | 10.01.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Di | 15:45–19:00 | 27.01.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Albrecht) - Übung
 
@@ -288,8 +288,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 16.01.2026 | — |
-| Einzeltermin | Sa | 09:30–15:30 | 17.01.2026 | — |
+| Einzeltermin | Fr | 14:00–17:00 | 16.01.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:30–15:30 | 17.01.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Stiller) - Übung
 
@@ -305,7 +305,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–21:00 | 24.10.2025 | — |
+| Einzeltermin | Fr | 14:00–21:00 | 24.10.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) - Übung
 
@@ -321,7 +321,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 19.12.2025 02.01.2026 | — |
+| 14-täglich | Fr | 11:30–13:00 | 24.10.2025–30.01.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur MS): Sprachdidaktik (1) - Übung
 
@@ -337,7 +337,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.10.2025–25.11.2025 | — |
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–25.11.2025 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch - Seminar und Übung
 
@@ -354,9 +354,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | 180 |
-| — | wöchentlich | — | — | 180 |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 12.01.2026 19.01.2026 26.01.2026 02.02.2026 | 180 |
+| Einzeltermin | Sa | 09:00–18:00 | 11.10.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | — |
+| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
 ### Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch - Seminar und Übung
 
@@ -373,9 +373,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | 180 |
-| — | wöchentlich | — | — | 180 |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 12.01.2026 19.01.2026 26.01.2026 02.02.2026 | 180 |
+| Einzeltermin | Sa | 09:00–18:00 | 11.10.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | — |
+| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
 ### Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch - Seminar und Übung
 
@@ -392,9 +392,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | 180 |
-| — | wöchentlich | — | — | 180 |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 12.01.2026 19.01.2026 26.01.2026 02.02.2026 | 180 |
+| Einzeltermin | Sa | 09:00–18:00 | 11.10.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | — |
+| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
 ### Begleitseminar Praktikum GS (I) - Seminar
 
@@ -430,9 +430,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 18:00–19:30 | 13.10.2025 | — |
-| Einzeltermin | Sa | 09:00–15:00 | 25.10.2025 | — |
+| Einzeltermin | Sa | 09:00–15:00 | 25.10.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Sa | 09:00–15:00 | 08.11.2025 | — |
-| Einzeltermin | Sa | 09:00–15:00 | 22.11.2025 | — |
+| Einzeltermin | Sa | 09:00–15:00 | 22.11.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Begleitseminar Praktikum MS - Seminar
 
@@ -448,14 +448,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 15:45–17:15 | 23.10.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 30.10.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 06.11.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 13.11.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 20.11.2025 | — |
-| Einzeltermin | Do | 15:45–17:45 | 27.11.2025 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 06.12.2025 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 13.12.2025 | — |
+| Einzeltermin | Do | 15:45–17:15 | 23.10.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 30.10.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 06.11.2025 | 20301.U1.012 (U1.012 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 13.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 20.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Do | 15:45–17:45 | 27.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Sa | 10:00–17:00 | 06.12.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Sa | 10:00–17:00 | 13.12.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Examensseminar
 
@@ -471,7 +471,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| wöchentlich | Di | 16:00–17:30 | 14.10.2025–03.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Med Finit: Übung zur Besprechung der BA-Arbeit (Glauch) - Übung
 
@@ -519,7 +519,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 14:00–15:30 | 15.10.2025–04.02.2026 | 20303.01.205 (SemRSportNbg Seminarraum Sport an der Regensburger Str (40)) |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt - Seminar
 
@@ -546,7 +546,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:00–09:30 | 13.10.2025–02.02.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (LA GS/MS): Ethische Bildung im Deutschunterricht - Seminar
 
@@ -562,7 +562,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:00–09:30 | 13.10.2025–02.02.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (LA GS/MS): Ethische Bildung im Deutschunterricht - Seminar
 
@@ -578,7 +578,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:00–09:30 | 13.10.2025–02.02.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Grundlagen der Lesedidaktik (Janle) - Hauptseminar
 
@@ -594,9 +594,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–17:00 | 25.10.2025 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 25.10.2025 | 05801.01.210 ( B 301) |
 | Einzeltermin | Sa | 09:00–12:00 | 06.12.2025 | — |
-| Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | 05801.01.210 ( B 301) |
 | Einzeltermin | Sa | 09:00–10:30 | 31.01.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Grundlagen der Lesedidaktik (Janle) - Hauptseminar
@@ -613,9 +613,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–17:00 | 25.10.2025 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 25.10.2025 | 05801.01.210 ( B 301) |
 | Einzeltermin | Sa | 09:00–12:00 | 06.12.2025 | — |
-| Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | 05801.01.210 ( B 301) |
 | Einzeltermin | Sa | 09:00–10:30 | 31.01.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Grundlagen der Lesedidaktik (Janle) - Hauptseminar
@@ -632,9 +632,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–17:00 | 25.10.2025 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 25.10.2025 | 05801.01.210 ( B 301) |
 | Einzeltermin | Sa | 09:00–12:00 | 06.12.2025 | — |
-| Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | 05801.01.210 ( B 301) |
 | Einzeltermin | Sa | 09:00–10:30 | 31.01.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Was hat das mit mir zu tun? Holocaust und NS-Verbrechen als Thema im Deutschunterricht (VHB) - Hauptseminar
@@ -651,7 +651,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 17:30–19:00 | 16.10.2025–05.02.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Was hat das mit mir zu tun? Holocaust und NS-Verbrechen als Thema im Deutschunterricht (VHB) - Hauptseminar
 
@@ -667,7 +667,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 17:30–19:00 | 16.10.2025–05.02.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Was hat das mit mir zu tun? Holocaust und NS-Verbrechen als Thema im Deutschunterricht (VHB) - Hauptseminar
 
@@ -683,7 +683,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 17:30–19:00 | 16.10.2025–05.02.2026 | — |
 
 ### 35003 Spezialisierungsmodul Linguistik (Ling SM)
 
@@ -1718,7 +1718,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 17:30 - 19:00 | — | — | — |
+| Mo | Mo | 17:30–19:00 | — | — |
 
 ### 79021 Basismodul Fachdidaktik Deutsch - Leistung
 
@@ -1733,7 +1733,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 17:30 - 19:00 | — | — | — |
+| Mo | Mo | 17:30–19:00 | — | — |
 
 ### 79031 Basismodul Fachdidaktik Deutsch (BM FDD) - Leistung
 
@@ -1747,7 +1747,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 17:30 - 19:00 | — | — | — |
+| Mo | Mo | 17:30–19:00 | — | — |
 
 ### 79211 Vertiefungsmodul Fachdidaktik Deutsch - Leistung
 
@@ -1762,7 +1762,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 09:00 - 11:00 | — | — | — |
+| Di | Di | 09:00–11:00 | — | — |
 
 ### 79211 Vertiefungsmodul Fachdidaktik Deutsch - Leistung
 
@@ -1777,7 +1777,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 09:00 - 11:00 | — | — | — |
+| Di | Di | 09:00–11:00 | — | — |
 
 ### 79221 Vertiefungsmodul Fachdidaktik Deutsch (VM FDD) - Leistung
 
@@ -1791,7 +1791,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 79851 Aufbaumodul Fachdidaktik Deutsch (GS) - Leistung
 
@@ -1806,7 +1806,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 08:15 - 09:45 | — | — | — |
+| Mo | Mo | 08:15–09:45 | — | — |
 
 ### 80021 Aufbaumodul Literatur- und Mediendidaktik Deutsch (MS) - Leistung
 
@@ -1821,7 +1821,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 10:45 - 12:15 | — | 07.12.2025 23:59:59 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Fr | Fr | 10:45–12:15 | 07.12.2025 23:59:59 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### 80031 Aufbaumodul Sprach- und Mediendidaktik Deutsch (MS) - Leistung
 
@@ -1836,7 +1836,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 15:45 - 17:45 | — | 07.12.2025 23:59:59 | — |
+| Di | Di | 15:45–17:45 | 07.12.2025 23:59:59 | — |
 
 ### Außerschulische Lernorte - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (alle Schularten) - Hauptseminar
 
@@ -1852,7 +1852,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
 
 ### Außerschulische Lernorte - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (alle Schularten) - Hauptseminar
 
@@ -1868,7 +1868,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
 
 ### Außerschulische Lernorte - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (alle Schularten) - Hauptseminar
 
@@ -1884,7 +1884,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
 
 ### Begl.Prakt.GY/RS - Studienbegleitendes fachdidaktisches Praktikum GY und RS: Begleitseminar - Seminar
 
@@ -1901,8 +1901,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 05.11.2025 31.12.2025 | 25 |
-| — | Einzeltermin | — | — | 25 |
+| 14-täglich | Mi | 15:45–19:00 | 22.10.2025–28.01.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
+| Einzeltermin | Mi | 08:00–13:00 | 05.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
 ### Begl.Prakt.GY/RS - Studienbegleitendes fachdidaktisches Praktikum GY und RS: Begleitseminar - Seminar
 
@@ -1919,8 +1919,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 05.11.2025 31.12.2025 | 25 |
-| — | Einzeltermin | — | — | 25 |
+| 14-täglich | Mi | 15:45–19:00 | 22.10.2025–28.01.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
+| Einzeltermin | Mi | 08:00–13:00 | 05.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -1937,8 +1937,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 03.11.2025 29.12.2025 | 40 |
-| — | Einzeltermin | — | — | 40 |
+| 14-täglich | Mo | 15:45–19:00 | 20.10.2025–26.01.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:00 | 05.12.2025 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Ling Finit - Ling Finit Kolloquium: BA-Arbeit und Schriftliche Hausarbeit (Erlangen) - Übung
 
@@ -1954,9 +1954,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | 14-täglich | — | 23.12.2025 06.01.2026 | 10 |
+| 14-täglich | Di | 16:00–17:30 | 14.10.2025–03.02.2026 | 05801.00.318 ( C 203) |
 
-### LingExam - Ling Exam: Examenskurs Linguistik (nur LA GS, MS, RS, im SoSe 2026 in Erlangen) - Examensseminar
+### LingExam - Ling Exam: Examenskurs Linguistik (Nürnberg, nur LA GS, MS, RS) - Examensseminar
 
 - **Segment:** `exam:12783280` · **unitId:** `104778`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12783276|exam:12783280>
@@ -1971,7 +1971,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 50 |
+| wöchentlich | Do | 13:30–16:45 | 16.10.2025–05.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Med Finit - Med Finit: Abschlussmodul (Dimpel) - Übung
 
@@ -2058,7 +2058,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 15:45–17:15 | 17.10.2025–06.02.2026 | — |
 
 ### vhb - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Filmdidaktik und Filmästhetik (VHB) - Hauptseminar
 
@@ -2075,7 +2075,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 15:45–17:15 | 17.10.2025–06.02.2026 | — |
 
 ### vhb - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Filmdidaktik und Filmästhetik (VHB) - Hauptseminar
 
@@ -2092,7 +2092,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 15:45–17:15 | 17.10.2025–06.02.2026 | — |
 
 ### VHBKJL - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Kinder- und Jugendliteratur im Medienverbund (VHB) - Online-Kurs
 
@@ -2109,7 +2109,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 14:00–15:30 | 17.10.2025–06.02.2026 | — |
 
 ### VHBKJL - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Kinder- und Jugendliteratur im Medienverbund (VHB) - Online-Kurs
 
@@ -2126,7 +2126,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 14:00–15:30 | 17.10.2025–06.02.2026 | — |
 
 ### VHBKJL - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Kinder- und Jugendliteratur im Medienverbund (VHB) - Online-Kurs
 
@@ -2143,7 +2143,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 14:00–15:30 | 17.10.2025–06.02.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -2160,7 +2160,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 17:30–19:00 | 14.10.2025–09.12.2025 | Die Veranstaltung am 29.10. entfällt aus dienstlichen Gründen. Dafür findet am 9.12. eine Zusatzveranstaltung statt. |
+| wöchentlich | Di | 17:30–19:00 | 14.10.2025–09.12.2025 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -2177,7 +2177,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 17:30–19:00 | 14.10.2025–09.12.2025 | Die Veranstaltung am 29.10. entfällt aus dienstlichen Gründen. Dafür findet am 9.12. eine Zusatzveranstaltung statt. |
+| wöchentlich | Di | 17:30–19:00 | 14.10.2025–09.12.2025 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -2194,7 +2194,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 17:30–19:00 | 14.10.2025–09.12.2025 | Die Veranstaltung am 29.10. entfällt aus dienstlichen Gründen. Dafür findet am 9.12. eine Zusatzveranstaltung statt. |
+| wöchentlich | Di | 17:30–19:00 | 14.10.2025–09.12.2025 | — |
 
 ## Lehramts-Prüfungsordnungen
 

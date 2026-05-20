@@ -30,7 +30,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 21.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 11:30–13:00 | 28.10.2025–03.02.2026 | 20101.02.024 (FG 2.024 (48 Plätze) Seminarraum) |
 
 ### Bachelorseminar LS Business Analytics and Sustainability - Seminar
 
@@ -47,7 +47,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Fr | 11:00–12:00 | 17.10.2025 | — |
-| Einzeltermin | Do | 09:00–18:00 | 15.01.2026 | — |
+| Einzeltermin | Do | 09:00–18:00 | 15.01.2026 | 21102.05.430 ((16 Plätze)) |
 
 ### Bachelorseminar LS Business Analytics and Sustainability - Seminar
 
@@ -64,7 +64,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Fr | 11:00–12:00 | 17.10.2025 | — |
-| Einzeltermin | Do | 09:00–18:00 | 15.01.2026 | — |
+| Einzeltermin | Do | 09:00–18:00 | 15.01.2026 | 21102.05.430 ((16 Plätze)) |
 
 ### Between the Global and the Local: Sustainability in practice - Seminar
 
@@ -81,7 +81,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | 30 |
+| wöchentlich | Mi | 15:00–18:15 | 15.10.2025–17.12.2025 | 20101.03.023 (FG 3.023 (14 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -98,7 +98,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -115,7 +115,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -132,7 +132,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -149,7 +149,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -166,7 +166,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -183,7 +183,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -200,7 +200,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -217,7 +217,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -234,7 +234,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -251,7 +251,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
@@ -268,7 +268,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Digital and Sustainable Industrial Ecosystems - Seminar
 
@@ -285,8 +285,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 60 |
+| Einzeltermin | Di | 09:45–12:00 | 23.09.2025 | 21102.05.452 ((14 Plätze)) |
+| wöchentlich | Mi | 15:00–16:30 | 22.10.2025–04.02.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
 
 ### Digital and Sustainable Industrial Ecosystems - Seminar
 
@@ -303,8 +303,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 60 |
+| Einzeltermin | Di | 09:45–12:00 | 23.09.2025 | 21102.05.452 ((14 Plätze)) |
+| wöchentlich | Mi | 15:00–16:30 | 22.10.2025–04.02.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
 
 ### Digital and Sustainable Industrial Ecosystems - Seminar
 
@@ -321,8 +321,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 60 |
+| Einzeltermin | Di | 09:45–12:00 | 23.09.2025 | 21102.05.452 ((14 Plätze)) |
+| wöchentlich | Mi | 15:00–16:30 | 22.10.2025–04.02.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
 
 ### Digital and Sustainable Industrial Ecosystems - Seminar
 
@@ -339,8 +339,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 60 |
+| Einzeltermin | Di | 09:45–12:00 | 23.09.2025 | 21102.05.452 ((14 Plätze)) |
+| wöchentlich | Mi | 15:00–16:30 | 22.10.2025–04.02.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
 
 ### Digital and Sustainable Industrial Ecosystems - Seminar
 
@@ -357,8 +357,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 60 |
+| Einzeltermin | Di | 09:45–12:00 | 23.09.2025 | 21102.05.452 ((14 Plätze)) |
+| wöchentlich | Mi | 15:00–16:30 | 22.10.2025–04.02.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
 
 ### Empirical Research in Financial Reporting, Analytics, and Sustainability - Seminar
 
@@ -375,9 +375,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.11.2025 03.12.2025 24.12.2025 31.12.2025 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 15:00–18:15 | 22.10.2025–04.02.2026 | 21102.05.452 ((14 Plätze)) |
+| Einzeltermin | Mi | 15:00–18:15 | 19.11.2025 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mi | 15:00–18:15 | 03.12.2025 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
 ### Empirical Research in Financial Reporting, Analytics, and Sustainability - Seminar
 
@@ -394,9 +394,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.11.2025 03.12.2025 24.12.2025 31.12.2025 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 15:00–18:15 | 22.10.2025–04.02.2026 | 21102.05.452 ((14 Plätze)) |
+| Einzeltermin | Mi | 15:00–18:15 | 19.11.2025 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mi | 15:00–18:15 | 03.12.2025 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
 ### Energiewirtschaft und Nachhaltigkeit - Vorlesung mit Übung
 
@@ -413,7 +413,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 15:00–18:15 | 16.10.2025–05.02.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
 ### Energy Security - Vorlesung mit Übung
 
@@ -430,8 +430,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 13:15–14:45 | 16.10.2025–05.02.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+| wöchentlich | Do | 11:30–13:00 | 30.10.2025–05.02.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
 
 ### European critical materials supply chains - Seminar
 
@@ -448,8 +448,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
-| — | wöchentlich | — | — | 20 |
+| wöchentlich | Mi | 09:45–11:15 | 15.10.2025–04.02.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+| wöchentlich | Mi | 09:00–09:45 | 14.01.2026–28.01.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
 
 ### Politics of Development and the Sustainable Development Goals (SDGs) - Seminar
 
@@ -466,7 +466,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 13:00–14:45 | 16.10.2025–05.02.2026 | 20101.01.036 (FG 1.036 (24 Plätze) Seminarraum) 20101.02.016 (FG 2.016 (15 Plätze) Seminarraum) |
 
 ### Praxisseminar Sustainability Reporting - Seminar
 
@@ -483,8 +483,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 15:00–16:30 | 21.10.2025 | — |
-| Einzeltermin | Do | 09:00–18:00 | 08.01.2026 | — |
+| Einzeltermin | Di | 15:00–16:30 | 21.10.2025 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Do | 09:00–18:00 | 08.01.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Praxisseminar Sustainability Reporting - Seminar
 
@@ -501,8 +501,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 15:00–16:30 | 21.10.2025 | — |
-| Einzeltermin | Do | 09:00–18:00 | 08.01.2026 | — |
+| Einzeltermin | Di | 15:00–16:30 | 21.10.2025 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Do | 09:00–18:00 | 08.01.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Praxisseminar Sustainability Reporting - Seminar
 
@@ -519,8 +519,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 15:00–16:30 | 21.10.2025 | — |
-| Einzeltermin | Do | 09:00–18:00 | 08.01.2026 | — |
+| Einzeltermin | Di | 15:00–16:30 | 21.10.2025 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Do | 09:00–18:00 | 08.01.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Seminar Corporate Reporting, Business Analytics, and Sustainability - Seminar
 
@@ -537,8 +537,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 11:30–13:00 | 21.10.2025 | — |
-| Einzeltermin | Mo | 09:00–18:00 | 12.01.2026 | — |
+| Einzeltermin | Di | 11:30–13:00 | 21.10.2025 | 21102.05.430 ((16 Plätze)) |
+| Einzeltermin | Mo | 09:00–18:00 | 12.01.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Seminar Corporate Reporting, Business Analytics, and Sustainability - Seminar
 
@@ -555,8 +555,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 11:30–13:00 | 21.10.2025 | — |
-| Einzeltermin | Mo | 09:00–18:00 | 12.01.2026 | — |
+| Einzeltermin | Di | 11:30–13:00 | 21.10.2025 | 21102.05.430 ((16 Plätze)) |
+| Einzeltermin | Mo | 09:00–18:00 | 12.01.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Seminar Energy Markets - Seminar
 
@@ -573,9 +573,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 15:00–16:30 | 14.10.2025 | — |
-| Einzeltermin | Di | 13:00–18:00 | 03.02.2026 | — |
-| Einzeltermin | Di | 13:00–18:00 | 03.02.2026 | — |
+| Einzeltermin | Di | 15:00–16:30 | 14.10.2025 | 21102.05.430 ((16 Plätze)) |
+| Einzeltermin | Di | 13:00–18:00 | 03.02.2026 | 21102.05.430 ((16 Plätze)) |
+| Einzeltermin | Di | 13:00–18:00 | 03.02.2026 | 21102.05.452 ((14 Plätze)) |
 
 ### Seminar Nachhaltigkeitsberichterstattung und Prüfung - Seminar
 
@@ -591,8 +591,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:15–16:30 | 22.10.2025 | — |
-| Einzeltermin | Mi | 09:00–13:00 | 14.01.2026 | Präsentationen bei BNP Paribas |
+| Einzeltermin | Mi | 13:15–16:30 | 22.10.2025 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 09:00–13:00 | 14.01.2026 | — |
 
 ### Seminar Nachhaltigkeitsberichterstattung und Prüfung - Seminar
 
@@ -608,8 +608,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:15–16:30 | 22.10.2025 | — |
-| Einzeltermin | Mi | 09:00–13:00 | 14.01.2026 | Präsentationen bei BNP Paribas |
+| Einzeltermin | Mi | 13:15–16:30 | 22.10.2025 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 09:00–13:00 | 14.01.2026 | — |
 
 ### Seminar Nachhaltigkeitsberichterstattung und Prüfung - Seminar
 
@@ -625,8 +625,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:15–16:30 | 22.10.2025 | — |
-| Einzeltermin | Mi | 09:00–13:00 | 14.01.2026 | Präsentationen bei BNP Paribas |
+| Einzeltermin | Mi | 13:15–16:30 | 22.10.2025 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 09:00–13:00 | 14.01.2026 | — |
 
 ### Seminar Nachhaltigkeitsberichterstattung und Prüfung - Seminar
 
@@ -642,8 +642,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:15–16:30 | 22.10.2025 | — |
-| Einzeltermin | Mi | 09:00–13:00 | 14.01.2026 | Präsentationen bei BNP Paribas |
+| Einzeltermin | Mi | 13:15–16:30 | 22.10.2025 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 09:00–13:00 | 14.01.2026 | — |
 
 ### Sustainability Reporting: Praxisorientierte Fallstudien mit Lucanet - Seminar
 
@@ -660,9 +660,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:45–13:00 | 15.10.2025 | — |
-| Einzeltermin | Do | 09:00–13:00 | 13.11.2025 | — |
-| Einzeltermin | Di | 09:00–15:00 | 16.12.2025 | Präsentationen vor Ort bei KPMG |
+| Einzeltermin | Mi | 09:45–13:00 | 15.10.2025 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Do | 09:00–13:00 | 13.11.2025 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
+| Einzeltermin | Di | 09:00–15:00 | 16.12.2025 | — |
 
 ### Sustainability Reporting: Praxisorientierte Fallstudien mit Lucanet - Seminar
 
@@ -679,9 +679,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:45–13:00 | 15.10.2025 | — |
-| Einzeltermin | Do | 09:00–13:00 | 13.11.2025 | — |
-| Einzeltermin | Di | 09:00–15:00 | 16.12.2025 | Präsentationen vor Ort bei KPMG |
+| Einzeltermin | Mi | 09:45–13:00 | 15.10.2025 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Do | 09:00–13:00 | 13.11.2025 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
+| Einzeltermin | Di | 09:00–15:00 | 16.12.2025 | — |
 
 ### Sustainability Reporting: Praxisorientierte Fallstudien mit Lucanet - Seminar
 
@@ -698,9 +698,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:45–13:00 | 15.10.2025 | — |
-| Einzeltermin | Do | 09:00–13:00 | 13.11.2025 | — |
-| Einzeltermin | Di | 09:00–15:00 | 16.12.2025 | Präsentationen vor Ort bei KPMG |
+| Einzeltermin | Mi | 09:45–13:00 | 15.10.2025 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Do | 09:00–13:00 | 13.11.2025 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
+| Einzeltermin | Di | 09:00–15:00 | 16.12.2025 | — |
 
 ### Transnational Business Governance for Sustainable Development - Seminar
 
@@ -717,7 +717,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 16.10.2025 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 23.10.2025–05.02.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
 
 ### Transnational Business Governance for Sustainable Development - Seminar
 
@@ -734,7 +734,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 16.10.2025 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 23.10.2025–05.02.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
 
 ### Wahlseminar A - Lernsituationen gestalten - Seminar
 
@@ -751,7 +751,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 13:15–16:30 | 22.10.2025–04.02.2026 | 21101.04.156 |
 
 ### LFF-KS - Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende) - Seminar
 
@@ -768,7 +768,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 11:00–12:30 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### Regeneration - master seminar - Regeneration and sustainable development - Seminar
 
@@ -785,7 +785,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:45–11:15 | 21.10.2025–03.02.2026 | 20101.00.016 (FG 0.016 (44 Plätze) Seminarraum) |
 
 ### Regeneration - master seminar - Regeneration and sustainable development - Seminar
 
@@ -802,7 +802,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:45–11:15 | 21.10.2025–03.02.2026 | 20101.00.016 (FG 0.016 (44 Plätze) Seminarraum) |
 
 ### Regeneration - master seminar - Regeneration and sustainable development - Seminar
 
@@ -819,7 +819,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:45–11:15 | 21.10.2025–03.02.2026 | 20101.00.016 (FG 0.016 (44 Plätze) Seminarraum) |
 
 ### SEM - Case Studies in Sustainability Management and Social Innovation - Seminar
 
@@ -836,7 +836,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 23.10.2025–05.02.2026 | 20101.01.036 (FG 1.036 (24 Plätze) Seminarraum) |
 
 ### VORL - Introduction to Sustainability Management  - Vorlesung
 
@@ -853,7 +853,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 15:00–16:30 | 20.10.2025–02.02.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
 ### VORL - Introduction to Sustainability Management  - Vorlesung
 
@@ -870,7 +870,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 15:00–16:30 | 20.10.2025–02.02.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
 ### VORL - Introduction to Sustainability Management  - Vorlesung
 
@@ -887,7 +887,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 15:00–16:30 | 20.10.2025–02.02.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
 ### VORL - Introduction to Sustainability Management  - Vorlesung
 
@@ -904,7 +904,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 15:00–16:30 | 20.10.2025–02.02.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
 ### VORL - Introduction to Sustainability Management  - Vorlesung
 
@@ -921,4 +921,4 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 15:00–16:30 | 20.10.2025–02.02.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |

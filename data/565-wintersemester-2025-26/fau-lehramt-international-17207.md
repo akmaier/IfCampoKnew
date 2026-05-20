@@ -29,7 +29,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### LA M2/ MA Päd M VI/ EE-BF M7d / ZS M4 : SEM "Handlungsfelder der internationalen Bildung: Zugänge und Erkundungen" (English-friendly) (Standort Nürnberg) - Seminar
 
@@ -44,7 +44,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 30 |
+| wöchentlich | Do | 14:00–15:30 | 16.10.2025–05.02.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### 87101 Internationale und Europäische Dimension in den Fachwissenschaften, Fachdidaktiken und/oder Bildungswissenschaften - Leistung
 
@@ -59,7 +59,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 87111 Mehrsprachigkeit und Pädagogische Professionalität - Leistung
 
@@ -74,7 +74,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 87121 Pädagogische Professionalität im Kontext der internationalen Mobilität - Leistung
 
@@ -89,7 +89,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 87131 Global Citizens in Aktion - Leistung
 
@@ -104,7 +104,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### SEM - LA M2 / MA Päd Modul V: SEM "Internationale schulische und außerschulische Bildungsarbeit" / ZS M3 Mentorat Vor- und Nachbereitungsseminar für Auslandsaufenthalte (Standort Nürnberg) - Seminar
 
@@ -120,12 +120,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–11:30 | 24.10.2025 | — |
+| Einzeltermin | Fr | 10:00–11:30 | 24.10.2025 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 | Einzeltermin | Fr | 14:00–16:15 | 14.11.2025 | — |
-| Blockveranstaltung | — | 14:15–17:45 | 12.12.2025 | — |
+| Blockveranstaltung | — | 14:15–17:45 | 12.12.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
 | Einzeltermin | Fr | 14:00–15:30 | 09.01.2026 | — |
-| Blockveranstaltung | — | 14:00–19:30 | 16.01.2026 | — |
-| Blockveranstaltung+Sa | — | 09:15–19:00 | 17.01.2026 | — |
+| Blockveranstaltung | — | 14:00–19:30 | 16.01.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
+| Blockveranstaltung+Sa | — | 09:15–19:00 | 17.01.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### SEM - ZS M2 Mentorat zum Sprachkurs: "Mehrsprachigkeit und Pädagogische Professionalität" (Standort Nürnberg) - Seminar
 
@@ -141,4 +141,4 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:45–11:15 | 16.01.2026 | Raum 1.014 (Büro Flötotto), Nürnberg Campus Regensburger Straße 160 |
+| Einzeltermin | Fr | 09:45–11:15 | 16.01.2026 | — |

@@ -52,7 +52,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### Systematische Theologie und ihre Didaktik - Hauptseminar
 
@@ -68,7 +68,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### Systematische Theologie und ihre Didaktik - Hauptseminar
 
@@ -84,7 +84,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### Systematische Theologie und ihre Didaktik - Hauptseminar
 
@@ -100,7 +100,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### 79671 Basismodul Fachdidaktik kath. Religionslehre Grundschule
 
@@ -133,7 +133,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 96601 Begleitseminar zum Blockpraktikum - Leistung
 
@@ -148,7 +148,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 96721 Vorlesung Grundprobleme des Alten und/oder des Neuen Testaments - Leistung
 
@@ -163,7 +163,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 96731 Basismodul Grundlagen der Fachdidaktik - Leistung
 
@@ -178,7 +178,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 96731 Basismodul Grundlagen der Fachdidaktik - Leistung
 
@@ -193,7 +193,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 96811 Klausur oder mündliche Prüfung über die Vorlesungen Einführung in die Didaktik des katholischen Religionsunterrichts und Religiöses Lernen - Leistung
 
@@ -208,7 +208,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | 07.12.2025 23:59:59 | — |
+| Mo | Mo | — | 07.12.2025 23:59:59 | — |
 
 ### 96811 Klausur oder mündliche Prüfung über die Vorlesungen Einführung in die Didaktik des katholischen Religionsunterrichts und Religiöses Lernen - Leistung
 
@@ -223,7 +223,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | 07.12.2025 23:59:59 | — |
+| Mo | Mo | — | 07.12.2025 23:59:59 | — |
 
 ### 96831 Aufbaumodul Fachdidaktik Katholische Religionslehre - Leistung
 
@@ -238,7 +238,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 96841 Aufbaumodul I Fachdidaktik Katholische Religionslehre - Leistung
 
@@ -253,7 +253,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 96851 Aufbaumodul II Fachdidaktik Katholische Religionslehre - Leistung
 
@@ -268,7 +268,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | 07.12.2025 23:59:59 | — |
+| Mo | Mo | — | 07.12.2025 23:59:59 | — |
 
 ### 96912 Religionspädagogisches Seminar - Leistung
 
@@ -283,7 +283,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | - | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 96921 Vertiefungsmodul Fachdidaktik Katholische Religionslehre - Leistung
 
@@ -298,7 +298,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | - | — | — | — |
+| Do | Do | — | — | — |
 
 ### BasisVHB - Basiswissen Weltreligionen (VHB) Modul I - Hauptseminar
 
@@ -347,7 +347,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75202.00.512 (St.Paul 00.512 - (12)) |
 
 ### BeglFrüh25 - Begleitseminar zum Praktikum GS und MS - Hauptseminar
 
@@ -364,7 +364,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75202.00.512 (St.Paul 00.512 - (12)) |
 
 ### DidRU - Didaktik des katholischen Religionsunterrichts  - Seminar
 
@@ -381,7 +381,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 11:30–13:00 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### DidRU - Didaktik des katholischen Religionsunterrichts  - Seminar
 
@@ -398,7 +398,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 11:30–13:00 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### DidRU - Didaktik des katholischen Religionsunterrichts  - Seminar
 
@@ -415,7 +415,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 11:30–13:00 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### DidRU - Didaktik des katholischen Religionsunterrichts  - Seminar
 
@@ -432,7 +432,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 11:30–13:00 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### RelFrag - Aktuelle religionspädagogische Fragestellungen - Oberseminar
 
@@ -448,8 +448,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Do | 14:00–15:30 | 16.10.2025–05.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
+| Einzeltermin | Do | 14:00–15:30 | 20.11.2025 | 75202.00.514 (St.Paul 00.514 - (12)) |
 
 ### TheoPraxMS - Theorie-Praxis Seminar zum Praktikum MS - Seminar
 
@@ -465,7 +465,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 08:00–13:00 | 15.10.2025–04.02.2026 | — |
 
 ## Lehramts-Prüfungsordnungen
 

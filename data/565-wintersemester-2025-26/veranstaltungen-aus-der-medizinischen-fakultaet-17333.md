@@ -30,7 +30,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 09:00–10:30 | 15.10.2025–04.02.2026 | — |
 
 ### Mixed Methods in der Public Health - Seminar
 
@@ -46,7 +46,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 11:00–12:30 | 15.10.2025–04.02.2026 | — |
 
 ### Qualitative Forschung in der Medizin - Seminar
 
@@ -62,7 +62,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–10:30 | 14.10.2025–03.02.2026 | — |
 
 ### Schlüsselqualifikation: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR - Seminar
 
@@ -79,7 +79,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 3 |
+| wöchentlich | Mo | 16:00–20:00 | 20.10.2025–26.01.2026 | — |
 
 ### Schlüsselqualifikation: Erkenntnis aus Leichen(teilen): Forschen und Lehren mit menschlichen Überresten - Seminar
 
@@ -96,7 +96,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 4 |
+| wöchentlich | Mi | 17:15–18:45 | 22.10.2025–04.02.2026 | — |
 
 ### Schlüsselqualifikation: Rassismus in der Medizin - Seminar
 
@@ -131,7 +131,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 14:00–15:30 | 17.10.2025–06.02.2026 | — |
 
 ### FDM - Forschungsdatenmanagement (FDM) - Kolloquium
 
@@ -147,4 +147,4 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 50 |
+| wöchentlich | Fr | 14:00–16:00 | 17.10.2025–06.02.2026 | 11302.08.130 (08.130 Besprechungsraum Informatik 6) |

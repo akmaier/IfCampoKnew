@@ -474,7 +474,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 20 |
+| wöchentlich | Mo | 11:00–13:00 | 13.10.2025–02.02.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
 ### ExamensGS - Staatsexamenskurs Mathematikdidaktik (GS) - Hauptseminar
 
@@ -491,7 +491,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 16 |
+| wöchentlich | Mo | 11:30–13:00 | 13.10.2025–02.02.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
 ### HS-Ex-MS - Staatsexamenskurs Mathematikdidaktik (MS) - Hauptseminar
 
@@ -507,4 +507,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 20 |
+| wöchentlich | Di | 08:00–09:30 | 14.10.2025–03.02.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |

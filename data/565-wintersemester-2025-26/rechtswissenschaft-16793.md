@@ -248,9 +248,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 10:00–18:00 | 22.01.2026 | — |
-| Einzeltermin | Fr | 09:00–18:00 | 23.01.2026 | — |
-| Einzeltermin | Mi | 14:00–18:00 | 04.02.2026 | — |
+| Einzeltermin | Do | 10:00–18:00 | 22.01.2026 | 18101.01.3523 |
+| Einzeltermin | Fr | 09:00–18:00 | 23.01.2026 | 18101.01.3523 |
+| Einzeltermin | Mi | 14:00–18:00 | 04.02.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### Aktuelle Rechtsprechung in Strafsachen - Vorlesung
 
@@ -265,7 +265,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | — | — |
+| wöchentlich | Di | 16:00–18:00 | 04.11.2025–16.12.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Aktuelle Rechtsprechung Zivilrecht - Vorlesung
 
@@ -281,7 +281,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 50 |
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Aktuelle Rechtsprechung Zivilrecht - Vorlesung
 
@@ -297,7 +297,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 50 |
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Aktuelle Rechtsprechung Zivilrecht - Vorlesung
 
@@ -313,7 +313,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 50 |
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Bankrecht - Vorlesung
 
@@ -329,7 +329,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–17:00 | 14.10.2025–03.02.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Besprechung 3. Klausur, Übung f. Fortgeschrittene Zivilrecht - Sonstige Lehrveranstaltung
 
@@ -345,7 +345,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:00–16:00 | 26.02.2026 | — |
+| Einzeltermin | Do | 14:00–16:00 | 26.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Besprechung Abschlussklausur Sachenrecht - Sonstige Lehrveranstaltung
 
@@ -361,7 +361,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–11:00 | 19.03.2026 | — |
+| Einzeltermin | Do | 09:00–11:00 | 19.03.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Crashkurs zum Bayerischen Verfassungsrecht - Vorlesung
 
@@ -377,7 +377,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 10:00–22:00 | 15.11.2025 | — |
+| Einzeltermin | Sa | 10:00–22:00 | 15.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Crashkurs zum Staatshaftungsrecht - Vorlesung
 
@@ -393,7 +393,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 10:00–15:00 | 25.10.2025 | — |
+| Einzeltermin | Sa | 10:00–15:00 | 25.10.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Einführung in das Chinesische Recht - Vorlesung
 
@@ -409,7 +409,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | — |
 
 ### Einführung in das Sozialversicherungsrecht - Vorlesung
 
@@ -425,7 +425,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 18:00–20:00 | 14.10.2025–03.02.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### English: JUR - Legal English for Legal Trainees - Online-Kurs
 
@@ -464,7 +464,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–26.01.2026 | 54606.02.021 (F 21 (IFA)) |
 
 ### English: Level 2 (JUR) - Introduction to English Legal Language - Kurs
 
@@ -481,7 +481,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–26.01.2026 | 54606.02.021 (F 21 (IFA)) |
 
 ### English: Level 3 (JUR) - Civil Procedure and the Law of Obligations - Kurs
 
@@ -498,7 +498,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 16:15–17:45 | 21.10.2025–27.01.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### English: Level 3 (JUR) - Criminal Procedure and Criminal Law - Kurs
 
@@ -515,7 +515,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 08:15–09:45 | 21.10.2025–27.01.2026 | 54606.02.021 (F 21 (IFA)) |
 
 ### English: Level 3 (JUR) - Private Law A (Company & Commercial Law, Competition Law, Intellectual Property) - Kurs
 
@@ -532,7 +532,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–26.01.2026 | 54606.02.021 (F 21 (IFA)) |
 
 ### English: Level 3 (JUR) - Private Law B (Family Law, Employment Law, Property Law, Law of Succession) - Kurs
 
@@ -549,7 +549,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:15–09:45 | 20.10.2025–26.01.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 4 (JUR) - Law through Media - Kurs
 
@@ -566,7 +566,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### English: Level 4 (JUR) - Legal Drafting and Writing Skills - Kurs
 
@@ -583,7 +583,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: Level 4 (JUR) - Presenting Skills in the Legal Context - Kurs
 
@@ -600,7 +600,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:15–13:45 | 21.10.2025–03.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### English: Level 4 (JUR) - Translating & Interpreting in the Legal Context - Kurs
 
@@ -617,7 +617,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:15–17:45 | 20.10.2025–02.02.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Europäisches Strafrecht - Vorlesung
 
@@ -633,7 +633,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 09:00–11:00 | 13.10.2025–02.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Examenskurs "Strafprozessrecht" - Vorlesung
 
@@ -649,9 +649,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–12:00 | 13.02.2026 | — |
-| Einzeltermin | Do | 09:00–14:00 | 19.02.2026 | — |
-| Einzeltermin | Fr | 09:00–14:00 | 20.02.2026 | — |
+| Einzeltermin | Fr | 09:00–12:00 | 13.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Do | 09:00–14:00 | 19.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Fr | 09:00–14:00 | 20.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs BGB AT - Repetitorium
 
@@ -667,7 +667,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 03.10.2025 | — |
+| wöchentlich | Fr | 09:15–11:45 | 19.09.2025–07.11.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Erbrecht - Repetitorium
 
@@ -683,10 +683,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–12:00 | 14.11.2025 | — |
-| Einzeltermin | Fr | 09:00–12:00 | 21.11.2025 | — |
-| Einzeltermin | Fr | 09:00–12:00 | 28.11.2025 | — |
-| Einzeltermin | Fr | 09:00–12:00 | 05.12.2025 | — |
+| Einzeltermin | Fr | 09:00–12:00 | 14.11.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Fr | 09:00–12:00 | 21.11.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Fr | 09:00–12:00 | 28.11.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Fr | 09:00–12:00 | 05.12.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Familienrecht - Vorlesung
 
@@ -702,7 +702,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 09:00–12:00 | 16.01.2026–06.02.2026 | — |
+| wöchentlich | Fr | 09:00–12:00 | 16.01.2026–06.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Rechtsgeschäftliche Schuldverhältnisse - Vorlesung
 
@@ -718,8 +718,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 09:15–12:00 | 14.10.2025–03.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:15–12:00 | 19.01.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Schuldrecht AT - Vorlesung
 
@@ -735,9 +735,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 09:00–12:00 | 09.09.2025–07.10.2025 | — |
-| wöchentlich | Do | 09:00–12:00 | 11.09.2025–09.10.2025 | — |
-| Einzeltermin | Fr | 09:00–12:00 | 12.09.2025 | — |
+| wöchentlich | Di | 09:00–12:00 | 09.09.2025–07.10.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| wöchentlich | Do | 09:00–12:00 | 11.09.2025–09.10.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Fr | 09:00–12:00 | 12.09.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Strafrecht AT - Repetitorium
 
@@ -753,8 +753,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Do | 09:00–12:00 | 16.10.2025–05.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
+| Einzeltermin | Do | 09:00–12:00 | 12.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Zivilrecht: Sachenrecht - Vorlesung
 
@@ -770,9 +770,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 09:15–11:45 | 26.01.2026–23.03.2026 | — |
-| Einzeltermin | Mo | 09:15–11:45 | 02.03.2026 | — |
-| Einzeltermin | Mo | 09:15–11:45 | 09.03.2026 | — |
+| wöchentlich | Mo | 09:15–11:45 | 26.01.2026–23.03.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:15–11:45 | 02.03.2026 | 06102.00.283 |
+| Einzeltermin | Mo | 09:15–11:45 | 09.03.2026 | 06102.00.283 |
 
 ### Examenskurs ZPO - Vorlesung
 
@@ -788,8 +788,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 09:00–12:00 | 10.02.2026–03.03.2026 | — |
-| Einzeltermin | Do | 09:00–12:00 | 26.02.2026 | — |
+| wöchentlich | Di | 09:00–12:00 | 10.02.2026–03.03.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Do | 09:00–12:00 | 26.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Zwangsvollstreckungsrecht - Vorlesung
 
@@ -805,8 +805,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 09:00–12:00 | 05.03.2026–12.03.2026 | — |
-| wöchentlich | Di | 09:00–12:00 | 10.03.2026–17.03.2026 | — |
+| wöchentlich | Do | 09:00–12:00 | 05.03.2026–12.03.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| wöchentlich | Di | 09:00–12:00 | 10.03.2026–17.03.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Öffentliches Recht I  - Vorlesung
 
@@ -822,7 +822,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 09:00–13:00 | 08.10.2025–25.03.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Français juridique I (nur für Studenten des Programms Deutsch-Französisches Recht) - Übung
 
@@ -839,7 +839,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:30–14:00 | 21.10.2025–03.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Français juridique III - Responsabilité civile (nur für Studenten des Programms Deutsch-Französisches Recht) - Übung
 
@@ -856,7 +856,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Grundkurs Strafprozessrecht (StPO) - Vorlesung
 
@@ -872,7 +872,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 11:00–14:00 | 14.10.2025–03.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Individualarbeitsrecht - Vorlesung
 
@@ -888,8 +888,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Internationale Schiedsgerichtsbarkeit in der Praxis (SPB 6) - Vorlesung
 
@@ -905,9 +905,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–17:00 | 09.10.2025 | — |
-| Einzeltermin | Fr | 09:00–14:00 | 10.10.2025 | — |
-| Einzeltermin | Fr | 09:00–17:00 | 17.10.2025 | — |
+| Einzeltermin | Do | 09:00–17:00 | 09.10.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
+| Einzeltermin | Fr | 09:00–14:00 | 10.10.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
+| Einzeltermin | Fr | 09:00–17:00 | 17.10.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Italienisch: L'italiano giuridico (§ 24 Abs. 2 JAPO)   - Übung
 
@@ -924,7 +924,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:15–15:45 | 23.10.2025–05.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
 ### Kartellrecht I - Vorlesung
 
@@ -940,7 +940,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Kartellrecht I - Vorlesung
 
@@ -956,7 +956,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Kollektives Arbeitsrecht I - Vorlesung
 
@@ -972,7 +972,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 10:00–12:00 | 16.10.2025–05.02.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### Kreditsicherungsrecht - Vorlesung
 
@@ -988,7 +988,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 25 |
+| wöchentlich | Mo | 16:15–17:45 | 20.10.2025–02.02.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Kriminologie - Vorlesung
 
@@ -1004,7 +1004,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
 ### Mediation auf dem Vormarsch - was jeder Studierende über Mediation unbedingt wissen sollte - Workshop
 
@@ -1020,7 +1020,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–16:00 | 21.11.2025 | — |
+| Einzeltermin | Fr | 10:00–16:00 | 21.11.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Medizinstrafrecht - Vorlesung
 
@@ -1036,7 +1036,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 16:00–18:00 | 16.10.2025–05.02.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Neue Vertragstypen - Vorlesung
 
@@ -1052,7 +1052,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 14:00–16:00 | 17.10.2025–06.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Planungsrecht - Vorlesung
 
@@ -1068,7 +1068,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Probeklausur Sachenrecht - Sonstige Lehrveranstaltung
 
@@ -1084,7 +1084,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–18:00 | 15.12.2025 | — |
+| Einzeltermin | Mo | 16:00–18:00 | 15.12.2025 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Propädeutische Übung - Allgemeines Verwaltungsrecht - Übung
 
@@ -1100,7 +1100,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 08:00–10:00 | 23.10.2025–05.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Propädeutische Übung Sachenrecht - Propädeutische Übung
 
@@ -1116,7 +1116,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–16:00 | 27.10.2025–02.02.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Propädeutische Übung Schuldrecht AT - Propädeutische Übung
 
@@ -1132,7 +1132,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 18:00–20:00 | 21.10.2025–03.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Propädeutische Übung Strafrecht III (PÜ StR III) (PÜ) - Propädeutische Übung
 
@@ -1148,7 +1148,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### Propädeutische Übung Vertragliche Schuldverhältnisse - Propädeutische Übung
 
@@ -1164,7 +1164,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 35 |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Proseminar "Haftung im Straßenverkehr" - Proseminar
 
@@ -1179,7 +1179,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Proseminar "Rechtsprechung des EGMR" - Proseminar
 
@@ -1195,7 +1195,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Proseminar - Proseminar
 
@@ -1211,8 +1211,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–14:00 | 10.10.2025 | — |
-| Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | — |
+| Einzeltermin | Fr | 10:00–14:00 | 10.10.2025 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
+| Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Proseminar - Seminar
 
@@ -1228,14 +1228,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | — |
-| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | — |
+| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 | Einzeltermin | Mi | 07:00–20:00 | 26.11.2025 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | — |
-| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | — |
-| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | — |
+| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
+| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Proseminar - Seminar
 
@@ -1251,14 +1251,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | — |
-| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | — |
+| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 | Einzeltermin | Mi | 07:00–20:00 | 26.11.2025 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | — |
-| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | — |
-| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | — |
+| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
+| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Proseminar - Seminar
 
@@ -1274,14 +1274,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | — |
-| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | — |
+| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 | Einzeltermin | Mi | 07:00–20:00 | 26.11.2025 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | — |
-| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | — |
-| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | — |
+| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
+| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Proseminar - Seminar
 
@@ -1297,14 +1297,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | — |
-| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | — |
+| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 | Einzeltermin | Mi | 07:00–20:00 | 26.11.2025 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | — |
-| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | — |
-| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | — |
+| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
+| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Proseminar - Seminar
 
@@ -1320,14 +1320,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | — |
-| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | — |
-| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | — |
+| Einzeltermin | Mo | 09:00–13:00 | 13.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 20.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 27.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Mo | 10:00–12:00 | 03.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 | Einzeltermin | Mi | 07:00–20:00 | 26.11.2025 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | — |
-| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | — |
-| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | — |
+| Einzeltermin | Sa | 10:00–16:00 | 29.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Do | 14:00–18:00 | 11.12.2025 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
+| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Proseminar deutsch-französisches Recht - Seminar
 
@@ -1343,8 +1343,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | 25 |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 30 |
+| Einzeltermin | Fr | 08:00–20:00 | 10.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Proseminar zum Zivilrecht / zur Rechtsgeschichte - Proseminar
 
@@ -1360,7 +1360,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 15 |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Proseminar: Recht trifft KI - Proseminar
 
@@ -1376,10 +1376,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 24.10.2025 | — |
-| Einzeltermin | Fr | 14:00–17:00 | 31.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 16.01.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 23.01.2026 | — |
+| Einzeltermin | Fr | 14:00–17:00 | 24.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Fr | 14:00–17:00 | 31.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Fr | 14:00–18:00 | 16.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 14:00–18:00 | 23.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Psychologische Grundlagen des Verhandelns - Workshop
 
@@ -1395,8 +1395,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–17:00 | 05.12.2025 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 06.12.2025 | — |
+| Einzeltermin | Fr | 09:00–17:00 | 05.12.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
+| Einzeltermin | Sa | 10:00–17:00 | 06.12.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Recht gegen den unlauteren Wettbewerb - Vorlesung
 
@@ -1412,9 +1412,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 12.11.2025 10.12.2025 24.12.2025 31.12.2025 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 18:15–19:45 | 22.10.2025–04.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
+| Einzeltermin | Di | 18:15–19:45 | 18.11.2025 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Mi | 14:15–15:45 | 10.12.2025 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Rechtsphilosophie I (Einführung) - Vorlesung
 
@@ -1430,7 +1430,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Rechtsphilosophie II (SPB 4, 5, 7 alte PO), (SPB 8, 9, 11 neue PO) (RPh II) - Vorlesung
 
@@ -1446,7 +1446,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 08:00–10:00 | 16.10.2025–05.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Richterliches Verhandlungsmanagement - Vorlesung
 
@@ -1462,7 +1462,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:15–12:45 | 14.11.2025 | — |
+| Einzeltermin | Fr | 09:15–12:45 | 14.11.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Römische Rechtsgeschichte - Vorlesung
 
@@ -1478,13 +1478,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–19:00 | 17.10.2025 | — |
-| Einzeltermin | Fr | 16:00–19:00 | 24.10.2025 | — |
-| Einzeltermin | Fr | 16:00–19:00 | 14.11.2025 | — |
-| Einzeltermin | Fr | 16:00–19:00 | 05.12.2025 | — |
-| Einzeltermin | Fr | 16:00–19:00 | 09.01.2026 | — |
-| Einzeltermin | Fr | 16:00–19:00 | 23.01.2026 | — |
-| Einzeltermin | Fr | 16:00–19:00 | 30.01.2026 | — |
+| Einzeltermin | Fr | 16:00–19:00 | 17.10.2025 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 16:00–19:00 | 24.10.2025 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 16:00–19:00 | 14.11.2025 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 16:00–19:00 | 05.12.2025 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 16:00–19:00 | 09.01.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 16:00–19:00 | 23.01.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 16:00–19:00 | 30.01.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### Sachenrecht - Vorlesung
 
@@ -1500,8 +1500,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Do | 10:00–12:00 | 16.10.2025–05.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Sanktionenrecht - Übung
 
@@ -1517,7 +1517,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Schuldrecht-Allgemeiner Teil - Vorlesung mit Übung
 
@@ -1533,7 +1533,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 60 |
+| wöchentlich | Mi | 16:00–19:00 | 15.10.2025–04.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Seminar Geistiges Eigentum und Wettbewerbsrecht (SPB 4) - Seminar
 
@@ -1548,8 +1548,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–16:00 | 23.01.2026 | — |
-| Einzeltermin | Mi | 14:00–17:30 | 28.01.2026 | — |
+| Einzeltermin | Fr | 09:00–16:00 | 23.01.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
+| Einzeltermin | Mi | 14:00–17:30 | 28.01.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Seminar zum Arbeitsrecht - Seminar
 
@@ -1565,8 +1565,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 30.01.2026 | — |
-| Einzeltermin | Sa | 09:30–13:00 | 31.01.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 30.01.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Sa | 09:30–13:00 | 31.01.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Seminar zum Arbeitsrecht - Seminar
 
@@ -1582,8 +1582,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 30.01.2026 | — |
-| Einzeltermin | Sa | 09:30–13:00 | 31.01.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 30.01.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Sa | 09:30–13:00 | 31.01.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### SPB-Seminar Aktuelle Fragen des Europarechts (Neue PO SPB 5, 9 und 11) (Alte PO SPB 2, 5 und 7) - Seminar
 
@@ -1619,8 +1619,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 10:00–12:00 | 16.10.2025–05.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Strafrecht I - Vorlesung
 
@@ -1636,8 +1636,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Di | 16:00–18:00 | 14.10.2025–03.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Strafrecht III - Vorlesung
 
@@ -1653,8 +1653,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 12:00–14:00 | 16.10.2025–05.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### Straßen- und Wegerecht (SPB 9) - Vorlesung
 
@@ -1670,7 +1670,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Tutorium für Erstsemester - Tutorium
 
@@ -1686,7 +1686,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### V: Steuerrecht I - Einführung in das Steuerrecht - Vorlesung
 
@@ -1702,7 +1702,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### Verkehrswende und Energiewende - Vorlesung
 
@@ -1718,7 +1718,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 10:00–22:00 | 17.01.2026 | — |
+| Einzeltermin | Sa | 10:00–22:00 | 17.01.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Vertragliche Schuldverhältnisse - Vorlesung mit Übung
 
@@ -1734,10 +1734,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 19.01.2026 | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Fr | 12:00–14:00 | 12.12.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Fr | 12:00–14:00 | 12.12.2025 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Vocal Power - Stimmtraining für Jurastudierende - Workshop
 
@@ -1753,7 +1753,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–17:00 | 28.11.2025 | — |
+| Einzeltermin | Fr | 09:00–17:00 | 28.11.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Zeugen vor Gericht - Aussagepsychologie und Zeugenvernehmung - Workshop
 
@@ -1769,7 +1769,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 11:00–17:00 | 09.01.2026 | — |
+| Einzeltermin | Fr | 11:00–17:00 | 09.01.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Zwangsvollstreckungsrecht - Vorlesung
 
@@ -1785,7 +1785,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–11:00 | 14.10.2025–03.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Überzeugend auftreten vor anderen  Rederhetorik für Jurastudierende - Vorlesung
 
@@ -1801,8 +1801,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–17:00 | 12.12.2025 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 13.12.2025 | — |
+| Einzeltermin | Fr | 09:00–17:00 | 12.12.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
+| Einzeltermin | Sa | 10:00–17:00 | 13.12.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Übung für Fortgeschrittene im Zivilrecht - Vorlesung mit Übung
 
@@ -1817,7 +1817,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 08:00–10:00 | 16.10.2025–05.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Übung im Strafrecht für Fortgeschrittene - Übung
 
@@ -1833,7 +1833,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### AllgVerwR - Allgemeines Verwaltungsrecht - Vorlesung
 
@@ -1849,9 +1849,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 08:00–10:00 | 14.10.2025–03.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 16:00–18:00 | 16.10.2025–05.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Do | 16:00–18:00 | 04.12.2025 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### BauR - Vorlesung Baurecht - Vorlesung
 
@@ -1867,7 +1867,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### EinfRechtswissenschaftPol - Einführung in die Rechtswissenschaft für Studierende der Politikwissenschaft im BA-Studiengang "Öffentliches Recht als Zweitfach" - Vorlesung
 
@@ -1884,7 +1884,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### EuR I und OeR III - Europarecht I: Recht der Europäischen Union und Staatsrecht III - Vorlesung
 
@@ -1901,8 +1901,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Forensik - Forensische Psychiatrie für Juristen - Vorlesung
 
@@ -1918,7 +1918,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 16:30–18:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### GK ÖR I - Propädeutische Übung zum Staatsorganisationsrecht - Propädeutische Übung
 
@@ -1934,7 +1934,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### GmbHR - GmbH-Recht - Vorlesung
 
@@ -1950,7 +1950,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### HRL - Human Rights Law - Vorlesung
 
@@ -1967,9 +1967,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| Einzeltermin | Mo | 10:00–12:00 | 10.02.2025 | — |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–16.12.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
 ### HRT - Human Rights Talks (Human Rights Clinic) (Blockveranstaltung) - Vorlesung
 
@@ -1996,7 +1996,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### IPR I - Internationales Privatrecht I - Vorlesung
 
@@ -2013,7 +2013,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 30 |
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### IsR I - Islamisches Recht I - NOS 22 - Vorlesung
 
@@ -2030,7 +2030,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 20 |
+| wöchentlich | Di | 16:15–17:45 | 14.10.2025–03.02.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### KirchR - Einführung in das Kirchenrecht - Vorlesung
 
@@ -2046,7 +2046,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 06301.01.004 (Seminarraum Hindenburgstr. 34) |
 
 ### MigR - Migrationsrecht - Vorlesung
 
@@ -2063,7 +2063,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Pat_Des_R - Patent- und Designrecht - Vorlesung
 
@@ -2079,11 +2079,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 07.11.2025 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 08.11.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 15.11.2025 | — |
-| Einzeltermin | Fr | 16:15–19:30 | 28.11.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 07.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Sa | 10:00–16:00 | 08.11.2025 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
+| Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
+| Einzeltermin | Sa | 10:00–16:00 | 15.11.2025 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
+| Einzeltermin | Fr | 16:15–19:30 | 28.11.2025 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### PPU BauR - PÜ Baurecht - Propädeutische Übung
 
@@ -2099,7 +2099,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 45 |
+| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
 ### PPU EuR - Propädeutische Übungen Europarecht - Propädeutische Übung
 
@@ -2115,7 +2115,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 18:00–20:00 | 21.10.2025–03.02.2026 | — |
 
 ### PÜ - Propädeutische Übung Strafrecht I (PÜ StR I) (PÜ) - Propädeutische Übung
 
@@ -2131,7 +2131,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 20.10.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:00–14:00 | 27.10.2025–02.02.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### PÜ BGB AT - Propädeutische Übung BGB AT - Propädeutische Übung
 
@@ -2147,7 +2147,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 21.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 08:00–10:00 | 28.10.2025–03.02.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### RSoz - Rechtssoziologie - Vorlesung
 
@@ -2164,7 +2164,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 08:00–10:00 | 17.10.2025–06.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Sem IPR Rvergl - Seminar zum Internationalen Privatrecht und zur Rechtsvergleichung /Einführung in die islamische Normenlehre - Seminar
 
@@ -2250,7 +2250,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 10:00–13:00 | 17.10.2025–06.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### VerfGesch - Verfassungsgeschichte der Neuzeit  - Vorlesung
 
@@ -2267,7 +2267,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### VerfGesch - Verfassungsgeschichte der Neuzeit  - Vorlesung
 
@@ -2284,7 +2284,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### VORL Dt. RG - Deutsche Rechtsgeschichte - Vorlesung
 
@@ -2300,7 +2300,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 19.01.2026 | — |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### VorlBGBATEinfBR - Vorlesung BGB Allgemeiner Teil und Einführung in das Bürgerliche Recht - Vorlesung
 
@@ -2317,10 +2317,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 27.01.2026 | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 08:30–10:00 | 15.10.2025–04.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Di | 14:00–16:00 | 21.10.2025–20.01.2026 | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
+| Einzeltermin | Di | 14:00–16:00 | 03.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+| Einzeltermin | Di | 14:00–18:00 | 17.02.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### VöR I - Völkerrecht I - Vorlesung
 
@@ -2337,7 +2337,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### ÖWiR - Öffentliches Wirtschaftsrecht - Vorlesung
 
@@ -2353,4 +2353,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 08:00–10:00 | 14.10.2025–03.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |

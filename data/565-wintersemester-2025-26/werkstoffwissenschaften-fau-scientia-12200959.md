@@ -31,7 +31,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
 
 ### APT VL - Introduction to Atom Probe Tomography - Vorlesung
 
@@ -48,7 +48,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Blockveranstaltung | — | — | — |
+| Blockveranstaltung | — | 09:00–18:00 | 09.02.2026–11.02.2026 | 11401.03.053 (3.31, Martensstr. 5 Seminarraum) |
 
 ### Ethik - VL: Einführung in die Ethik in theologischer Perspektive - Vorlesung
 
@@ -65,7 +65,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### KFSEMWWI - Advanced seminar (Hauptseminar) MSEI - Module M12 - Seminar
 
@@ -93,7 +93,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 100 |
+| wöchentlich | Di | 10:15–12:45 | 14.10.2025–03.02.2026 | 12501.01.007 |
 
 ### MA_Vortrag - Seminar Presentation of Master's Theses - Seminar
 
@@ -138,7 +138,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 2 |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 11401.03.053 (3.31, Martensstr. 5 Seminarraum) |
 
 ### SuAl1 - Surface Analysis I - Vorlesung
 
@@ -155,7 +155,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 19 |
+| wöchentlich | Di | 14:00–15:30 | 28.10.2025–03.02.2026 | 11401.00.237 (0.85 Seminarraum) |
 
 ### VB PA WW I - MSE I labwork Briefing for Masters & Safetyinstruction/Vorbesprechung Praktika in Mastermodulen WW 1 inkl. Sicherheitsbelehrung - Sonstige Lehrveranstaltung
 
@@ -182,4 +182,4 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 28.10.2025 11.11.2025 18.11.2025 25.11.2025 02.12.2025 23.12.2025 30.12.2025 06.01.2026 03.02.2026 | 30 |
+| wöchentlich | Di | 12:15–13:45 | 21.10.2025–27.01.2026 | 11401.03.053 (3.31, Martensstr. 5 Seminarraum) |

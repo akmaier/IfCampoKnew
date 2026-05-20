@@ -30,7 +30,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 0 |
+| wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 11401.03.260 (3.71 Seminarraum) |
 
 ### Advanced Bioanalytics - Übung - Übung
 
@@ -57,7 +57,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 40 |
+| wöchentlich | Do | 14:15–16:45 | 16.10.2025–05.02.2026 | 11501.00.151 (0.151-115 Seminar) |
 
 ### Hochdrucktrenntechnik (VL) - Vorlesung
 
@@ -101,8 +101,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 16.10.2025 25.12.2025 01.01.2026 | 140 |
-| — | wöchentlich | — | 17.10.2025 19.12.2025 26.12.2025 02.01.2026 | 140 |
+| wöchentlich | Do | 08:15–09:45 | 23.10.2025–05.02.2026 | 11907.01.030 (H19) |
+| wöchentlich | Fr | 10:15–11:45 | 24.10.2025–06.02.2026 | 11907.01.030 (H19) |
 
 ### Praktikum zur Lebensmittelbiotechnologie - Praktikum
 
@@ -151,7 +151,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 2 |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | — |
 
 ### Advanced Bioanalytics - Advanced Bioanalytics - Vorlesung - Vorlesung
 
@@ -168,7 +168,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 4 |
+| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### ASI - D&A - Advanced Semiconductors Introduction: Devices & Applications - Vorlesung
 
@@ -185,7 +185,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 16 |
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### ASI - F - Advanced Semiconductors Introduction: Fundamentals - Vorlesung
 
@@ -202,7 +202,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 16 |
+| wöchentlich | Mo | 08:15–09:45 | 20.10.2025–02.02.2026 | 11901.00.240 (H10 Hörsaal 10) |
 
 ### ASM-ES-ChT-OE - Advanced Semiconductor Materials - Excited States and Charge Transport in Organic Semiconductors - Vorlesung
 
@@ -219,7 +219,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.12.2025 24.12.2025 31.12.2025 04.02.2026 | 7 |
+| wöchentlich | Mi | 12:30–14:00 | 15.10.2025–28.01.2026 | 11401.03.260 (3.71 Seminarraum) |
 
 ### AST-MatOE - Advanced Semiconductor Technologies - Materials for Organic Electronics - Vorlesung
 
@@ -236,7 +236,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:15–13:45 | 27.10.2025–02.02.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
 
 ### AST-PVS-Design - Advanced Semiconductor Technologies - Photovoltaic Systems for Power Generation - Design Implementation and Characterization - Vorlesung mit Übung
 
@@ -253,7 +253,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 16.10.2025 25.12.2025 01.01.2026 29.01.2026 | 200 |
+| wöchentlich | Do | 08:15–09:45 | 23.10.2025–05.02.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
 
 ### AST-QD - Advanced Semiconductor Technologies - Synthesis of Carbon Quantum Dots - Praktikum
 
@@ -281,8 +281,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 03.12.2025 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | 26 |
-| — | wöchentlich | — | 17.10.2025 24.10.2025 31.10.2025 07.11.2025 14.11.2025 21.11.2025 28.11.2025 05.12.2025 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Mi | 10:15–11:45 | 22.10.2025–26.11.2025 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Fr | 12:15–13:45 | 12.12.2025–06.02.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
 
 ### B_Bio_1 - Basics in Biomaterials and Bioprocessing 1 - Vorlesung
 
@@ -299,8 +299,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 03.12.2025 10.12.2025 17.12.2025 24.12.2025 31.12.2025 07.01.2026 14.01.2026 21.01.2026 28.01.2026 04.02.2026 | 26 |
-| — | wöchentlich | — | 17.10.2025 24.10.2025 31.10.2025 07.11.2025 14.11.2025 21.11.2025 28.11.2025 05.12.2025 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Mi | 10:15–11:45 | 22.10.2025–26.11.2025 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Fr | 12:15–13:45 | 12.12.2025–06.02.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
 
 ### BRAU_SEM - Brauseminar - Seminar
 
@@ -316,7 +316,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 18:00–20:00 | 17.11.2025 | — |
+| Einzeltermin | Mo | 18:00–20:00 | 17.11.2025 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### BRAU_SEM - Brauseminar - Seminar
 
@@ -332,7 +332,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 18:00–20:00 | 17.11.2025 | — |
+| Einzeltermin | Mo | 18:00–20:00 | 17.11.2025 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### BRAU_SEM - Brauseminar - Seminar
 
@@ -348,9 +348,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 18:00–20:00 | 17.11.2025 | — |
+| Einzeltermin | Mo | 18:00–20:00 | 17.11.2025 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
-### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, MT) - Übung
+### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Übung
 
 - **Segment:** `exam:13795952` · **unitId:** `85817`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795952>
@@ -364,9 +364,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 11.11.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, MT) - Übung
+### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Übung
 
 - **Segment:** `exam:13795951` · **unitId:** `85817`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13795951>
@@ -380,9 +380,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 11.11.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, MT) - Übung
+### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Übung
 
 - **Segment:** `exam:13795953` · **unitId:** `85817`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754751|exam:13795953>
@@ -396,9 +396,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 11.11.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, MT) - Vorlesung
+### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Vorlesung
 
 - **Segment:** `exam:13795542` · **unitId:** `84907`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795542>
@@ -413,9 +413,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 10.11.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, MT) - Vorlesung
+### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Vorlesung
 
 - **Segment:** `exam:13795543` · **unitId:** `84907`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13795543>
@@ -430,9 +430,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 10.11.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, MT) - Vorlesung
+### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Vorlesung
 
 - **Segment:** `exam:13795544` · **unitId:** `84907`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754751|exam:13795544>
@@ -447,7 +447,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 10.11.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
 ### BT-1 (Üb) - Biotechnologie 1 Übung (Grundlagen der Zellbiotechnologie) - Übung
 
@@ -463,7 +463,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 22 |
+| wöchentlich | Di | 10:15–11:45 | 21.10.2025–03.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### BT-1 (Üb) - Biotechnologie 1 Übung (Grundlagen der Zellbiotechnologie) - Übung
 
@@ -479,7 +479,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 22 |
+| wöchentlich | Di | 10:15–11:45 | 21.10.2025–03.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### BT-1 - Biotechnologie 1 (Grundlagen der Zellbiotechnologie) - Vorlesung
 
@@ -496,8 +496,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 22 |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 22 |
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
 
 ### BT-1 - Biotechnologie 1 (Grundlagen der Zellbiotechnologie) - Vorlesung
 
@@ -514,8 +514,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 22 |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 22 |
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
 
 ### BVT_SEM - BVT-Seminar - Seminar
 
@@ -531,7 +531,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 09:30–11:00 | 17.10.2025–06.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### CBI-WKKT UE - Übung zu Wärmekraftanlagen und Kraftwerkstechnik - Übung
 
@@ -548,7 +548,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 8 |
+| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 12102.00.231 (LSTM-SR LSTM-Seminarraum) |
 
 ### CBI-WKKT-VL - Wärmekraftanlagen und Kraftwerkstechnik - Vorlesung
 
@@ -565,7 +565,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 20 |
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 12106.00.633 (VT-Seminarraum FST-Cauerstraße 4) |
 
 ### CES - Chemische Energiespeicherung - Vorlesung mit Übung
 
@@ -582,7 +582,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 60 |
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### CES - Chemische Energiespeicherung - Vorlesung mit Übung
 
@@ -599,7 +599,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 60 |
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### CES-Üb - Übung zur Chemischen Energiespeicherung - Übung
 
@@ -615,7 +615,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 80 |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### CES-Üb - Übung zur Chemischen Energiespeicherung - Übung
 
@@ -631,7 +631,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 80 |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### Ex-AST-PVS-Design - Excercises Photovoltaic systems - Fundamentals - Übung
 
@@ -648,7 +648,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 21.10.2025 28.10.2025 04.11.2025 11.11.2025 18.11.2025 09.12.2025 23.12.2025 30.12.2025 06.01.2026 | 12 |
+| wöchentlich | Di | 12:15–13:45 | 25.11.2025–03.02.2026 | 11901.00.236 (K1-119 Brose-Saal) |
 
 ### Ex-Ph-PV-LED - Exercices Phosphors for Light Conversion in Photovoltaic Devices and LEDs (CEP) (Ex-PVS-LC) - Übung
 
@@ -665,7 +665,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 9 |
+| wöchentlich | Mo | 14:15–15:45 | 03.11.2025–02.02.2026 | 11401.03.260 (3.71 Seminarraum) |
 
 ### ISCM - International Supply Chain Management (vhb) - Vorlesung mit Übung
 
@@ -703,7 +703,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 1 |
+| wöchentlich | Mo | 08:15–09:45 | 20.10.2025–02.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### LMBT_UE - Übung und Tutorium zur Lebensmittelbiotechnologie - Übung
 
@@ -719,7 +719,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 1 |
+| wöchentlich | Mo | 08:15–09:45 | 20.10.2025–02.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### LMBT_UE - Übung und Tutorium zur Lebensmittelbiotechnologie - Übung
 
@@ -735,7 +735,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 1 |
+| wöchentlich | Mo | 08:15–09:45 | 20.10.2025–02.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### LMBT_V - Lebensmittelbiotechnologie - Vorlesung
 
@@ -752,7 +752,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 2 |
+| wöchentlich | Di | 08:15–09:45 | 14.10.2025–03.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### LMBT_V - Lebensmittelbiotechnologie - Vorlesung
 
@@ -769,7 +769,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 2 |
+| wöchentlich | Di | 08:15–09:45 | 14.10.2025–03.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### LMBT_V - Lebensmittelbiotechnologie - Vorlesung
 
@@ -786,7 +786,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 2 |
+| wöchentlich | Di | 08:15–09:45 | 14.10.2025–03.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### MiVT - Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik; VF) - Vorlesung
 
@@ -803,8 +803,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 51 |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 51 |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### MiVT - Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik; VF) - Vorlesung
 
@@ -821,8 +821,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 51 |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 51 |
+| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### MiVT - Pr - Praktikum Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik) - Praktikum
 
@@ -901,7 +901,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 16.10.2025 25.12.2025 01.01.2026 | 23 |
+| wöchentlich | Do | 12:15–13:45 | 23.10.2025–05.02.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
 
 ### NanoSpek - Nanospectroscopy - Vorlesung
 
@@ -918,7 +918,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 17.10.2025 19.12.2025 26.12.2025 02.01.2026 | 21 |
+| wöchentlich | Fr | 08:15–09:45 | 24.10.2025–06.02.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
 
 ### NCT-1 - Nachhaltige Chemische Technologien 1 -Rohstoffe - Vorlesung
 
@@ -934,7 +934,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 21 |
+| wöchentlich | Mi | 12:15–14:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-1 - Nachhaltige Chemische Technologien 1 -Rohstoffe - Vorlesung
 
@@ -950,7 +950,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 21 |
+| wöchentlich | Mi | 12:15–14:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-1 - Nachhaltige Chemische Technologien 1 -Rohstoffe - Vorlesung
 
@@ -966,7 +966,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 21 |
+| wöchentlich | Mi | 12:15–14:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-1 - Nachhaltige Chemische Technologien 1 -Rohstoffe - Vorlesung
 
@@ -982,7 +982,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 21 |
+| wöchentlich | Mi | 12:15–14:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-1 - Nachhaltige Chemische Technologien 1 -Rohstoffe - Vorlesung
 
@@ -998,7 +998,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 21 |
+| wöchentlich | Mi | 12:15–14:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-1 - Nachhaltige Chemische Technologien 1 -Rohstoffe - Vorlesung
 
@@ -1014,7 +1014,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 21 |
+| wöchentlich | Mi | 12:15–14:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-1 - Nachhaltige Chemische Technologien 1 -Rohstoffe - Vorlesung
 
@@ -1030,7 +1030,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 21 |
+| wöchentlich | Mi | 12:15–14:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-2 - Nachhaltige Chemische Technologien 2 -  Verfahren - Vorlesung
 
@@ -1047,7 +1047,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 25 |
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-2 - Nachhaltige Chemische Technologien 2 -  Verfahren - Vorlesung
 
@@ -1064,7 +1064,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 25 |
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-2 - Nachhaltige Chemische Technologien 2 -  Verfahren - Vorlesung
 
@@ -1081,7 +1081,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 25 |
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-2 - Nachhaltige Chemische Technologien 2 -  Verfahren - Vorlesung
 
@@ -1098,7 +1098,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 25 |
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-2 - Nachhaltige Chemische Technologien 2 -  Verfahren - Vorlesung
 
@@ -1115,7 +1115,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 25 |
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### PCHAR - Produktanalyse - Vorlesung
 
@@ -1132,8 +1132,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 11 |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 11 |
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 12102.00.231 (LSTM-SR LSTM-Seminarraum) |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 12103.00.332 |
 
 ### Ph-PV-LED - Phosphors for Light Conversion in Photovoltaic Devices and LEDs - Vorlesung
 
@@ -1150,7 +1150,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 13 |
+| wöchentlich | Di | 16:15–17:45 | 21.10.2025–03.02.2026 | 11401.03.260 (3.71 Seminarraum) |
 
 ### PS - Produktionssystematik - Vorlesung
 
@@ -1167,7 +1167,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 150 |
+| wöchentlich | Mo | 08:15–09:45 | 20.10.2025–02.02.2026 | 11906.01.030 (H21) |
 
 ### REGEN-WSE-VL - Regenerative Energien - Erzeugung, Integration, Speicherung - Vorlesung
 
@@ -1183,7 +1183,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 15 |
+| wöchentlich | Mi | 14:15–17:45 | 15.10.2025–04.02.2026 | 11501.01.019 (01.019 Seminarraum) |
 
 ### SBT-PR-VT - Praktikum Systembiotechnologie (Vertiefung) - Praktikum
 
@@ -1200,7 +1200,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 10:00–12:15 | 16.10.2025–05.02.2026 | 07205.03.016 (CIP-Pool CBI) |
 
 ### SBT-PR-VT - Praktikum Systembiotechnologie (Vertiefung) - Praktikum
 
@@ -1217,7 +1217,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 10:00–12:15 | 16.10.2025–05.02.2026 | 07205.03.016 (CIP-Pool CBI) |
 
 ### SBT-UE-VT - Übung Systembiotechnologie (Vertiefung) - Übung
 
@@ -1233,7 +1233,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 08:15–09:45 | 16.10.2025–05.02.2026 | 07205.03.016 (CIP-Pool CBI) |
 
 ### SBT-UE-VT - Übung Systembiotechnologie (Vertiefung) - Übung
 
@@ -1249,7 +1249,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 08:15–09:45 | 16.10.2025–05.02.2026 | 07205.03.016 (CIP-Pool CBI) |
 
 ### SBT-VT - Systembiotechnologie (Vertiefung) - Vorlesung
 
@@ -1266,7 +1266,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 21 |
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 12106.00.633 (VT-Seminarraum FST-Cauerstraße 4) |
 
 ### SBT-VT - Systembiotechnologie (Vertiefung) - Vorlesung
 
@@ -1283,7 +1283,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 21 |
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 12106.00.633 (VT-Seminarraum FST-Cauerstraße 4) |
 
 ### SEE - Sustainability and Environmental Ethics - Seminar
 
@@ -1300,7 +1300,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 92 |
+| wöchentlich | Do | 10:15–13:45 | 16.10.2025–05.02.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### SEE - Sustainability and Environmental Ethics - Seminar
 
@@ -1317,7 +1317,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 92 |
+| wöchentlich | Do | 10:15–13:45 | 16.10.2025–05.02.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### SEE - Sustainability and Environmental Ethics - Seminar
 
@@ -1334,7 +1334,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 92 |
+| wöchentlich | Do | 10:15–13:45 | 16.10.2025–05.02.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### SEE - Sustainability and Environmental Ethics - Seminar
 
@@ -1351,7 +1351,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 92 |
+| wöchentlich | Do | 10:15–13:45 | 16.10.2025–05.02.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### SEE - Sustainability and Environmental Ethics - Seminar
 
@@ -1368,7 +1368,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 92 |
+| wöchentlich | Do | 10:15–13:45 | 16.10.2025–05.02.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### SEE - Sustainability and Environmental Ethics - Seminar
 
@@ -1385,7 +1385,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 92 |
+| wöchentlich | Do | 10:15–13:45 | 16.10.2025–05.02.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### SEM-DOK - Doktorandenseminar - Seminar
 
@@ -1401,7 +1401,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 11:00–12:30 | 17.10.2025–06.02.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### SoPS-Sem - Seminar über "Solution Processed Semiconductors" - Seminar
 
@@ -1418,7 +1418,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 18:00–19:45 | 16.10.2025–05.02.2026 | — |
 
 ### UVT - Umweltverfahrenstechnik - Vorlesung
 
@@ -1435,7 +1435,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 29 |
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### UVT UE - Übung zur Umweltverfahrenstechnik - Übung
 
@@ -1451,7 +1451,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 29 |
+| wöchentlich | Mo | 18:15–19:45 | 13.10.2025–02.02.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### Üb. PCHAR - Übung Produktanalyse - Übung
 
@@ -1468,4 +1468,4 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 8 |
+| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 12102.00.231 (LSTM-SR LSTM-Seminarraum) |

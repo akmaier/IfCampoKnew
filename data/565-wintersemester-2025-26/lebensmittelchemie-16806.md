@@ -220,8 +220,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Di | 13:15–14:00 | 14.10.2025–03.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
+| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
 
 ### Mikrobiologische Übungen für Naturwissenschaftler - Übung
 
@@ -237,7 +237,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–19:00 | 09.02.2026–20.02.2026 | — |
+| Blockveranstaltung | — | 08:00–19:00 | 09.02.2026–20.02.2026 | 13002.00.783 (Ks M Kursraum M) |
 
 ### Mikromethoden in der forensischen Analytik - Vorlesung
 
@@ -253,7 +253,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 15 |
+| wöchentlich | Di | 08:15–09:45 | 14.10.2025–13.01.2026 | 02301.01.020 (HS Rechtsmedizin) |
 
 ### Praktikum angewandte Biochemie, molekulare Physiologie und Chemosensorik - Praktikum
 
@@ -269,7 +269,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–17:00 | 24.11.2025–05.12.2025 | Praktikumsteil "Chemosensorik" am LS für Aroma- und Geruchsforschung. Details zu Ort und Uhrzeit werden über den StudOn-Kurs kommuniziert. Der zweite Praktikumsteil mit Schwerpunkt Zellkultur findet nach der Vorlesungszeit statt; Termin tba |
+| Blockveranstaltung | — | 08:00–17:00 | 24.11.2025–05.12.2025 | — |
 
 ### Tierische Lebensmittel (Chemie und Technologie der LM III) - Vorlesung
 
@@ -285,7 +285,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:10–10:55 | 15.10.2025–04.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Tutorium Chemische Nomenklatur - Tutorium
 
@@ -301,7 +301,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 16:00–18:00 | 23.10.2025–05.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Tutorium Stereochemie - Tutorium
 
@@ -317,7 +317,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 16:00–18:00 | 30.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Tutorium zur Chemie der organischen Arznei-/Hilfs- und Schadstoffe - Tutorium
 
@@ -333,11 +333,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 16.10.2025 25.12.2025 01.01.2026 | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Di | 17:00–18:00 | 21.10.2025–03.02.2026 | 13301.02.0241 (C3 - Chemikum) 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) |
+| wöchentlich | Do | 13:00–14:00 | 23.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Di | 17:00–18:00 | 21.10.2025–03.02.2026 | 13301.01.0241 (C4 - Chemikum) |
+| wöchentlich | Do | 13:00–14:00 | 23.10.2025–05.02.2026 | 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) 13301.00.110 (00.110 - Chemikum Seminarraum Organische Chemie) |
+| wöchentlich | Do | 13:00–14:00 | 23.10.2025–05.02.2026 | 13301.00.234 (00.234 Seminarraum Pharmazie/Lebensmittelchemie) |
 
 ### BCNF1 - Einführung in die Biochemie für Naturwisschenschaftler und Techniker Teil1 - Vorlesung
 
@@ -353,7 +353,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
 
 ### ExLM5-7 - Lebensmittelchemische Exkursionen I-II - Exkursion
 
@@ -379,8 +379,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 09:00–10:30 | 21.10.2025–03.02.2026 | 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) |
+| wöchentlich | Di | 09:00–10:30 | 21.10.2025–03.02.2026 | 13301.00.234 (00.234 Seminarraum Pharmazie/Lebensmittelchemie) |
 
 ### LAG PC Ia / LMCh, Bio PC I - UE - Übung zur Physikalischen Chemie (Thermodynamik und Elektrochemie) für LA Gymnasium (PC Ia), Lebensmittelchemie und Biologie (PC I) - Übung
 
@@ -396,7 +396,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 13:15–14:00 | 16.10.2025–05.02.2026 | 11907.01.030 (H19) |
 
 ### LAG PC Ia / LMCh, Bio PC I - V - Physikalische Chemie I (Thermodynamik und Elektrochemie) für LA Gymnasium (PC Ia), Lebensmittelchemie und Biologie (PC I) - Vorlesung
 
@@ -413,7 +413,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 
 ### Lebm.Mik.VO - Einführung in die Lebensmittelmikrobiologie f. Studierende d. Lebensmittelchemie - Vorlesung
 
@@ -429,7 +429,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 15:15–16:45 | 17.10.2025–06.02.2026 | 13301.02.0241 (C3 - Chemikum) |
 
 ### LMPhys7 - Ernährungslehre: Molekulare Physiologie der Lebensmittel - Seminar
 
@@ -445,7 +445,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 09:15–10:00 | 15.10.2025–04.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Physikpraktikum - Physikalisches Praktikum für Lebensmittelchemiker - Praktikum
 
@@ -462,8 +462,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 19.11.2025 24.12.2025 31.12.2025 | — |
+| Einzeltermin | Mi | 16:15–17:30 | 15.10.2025 | 13003.00.807 (HH Hörsaal Physikum) |
+| wöchentlich | Mi | 14:00–18:00 | 29.10.2025–04.02.2026 | — |
 
 ### Pr3LM - Chemie der organischen Arznei-, Hilfs- und Schadstoffe (f. Stud. d. Lebensmittelchemie im 3. Semester) - Praktikum
 
@@ -479,9 +479,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Mo | 12:00–18:00 | 13.10.2025–02.02.2026 | — |
+| wöchentlich | Di | 08:30–17:00 | 14.10.2025–03.02.2026 | — |
+| wöchentlich | Fr | 12:00–18:00 | 17.10.2025–06.02.2026 | — |
 
 ### PrLMMikro - Praktikum Lebensmittelmikrobiologie - Praktikum
 
@@ -507,10 +507,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 | — |
-| — | wöchentlich | — | 13.10.2025 | — |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 09:15–10:45 | 20.10.2025–01.12.2025 | 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) |
+| wöchentlich | Mo | 09:15–10:45 | 20.10.2025–01.12.2025 | 13301.00.234 (00.234 Seminarraum Pharmazie/Lebensmittelchemie) |
+| wöchentlich | Mo | 09:15–10:45 | 08.12.2025–02.02.2026 | 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) |
+| wöchentlich | Mo | 09:15–10:45 | 08.12.2025–02.02.2026 | 13301.00.234 (00.234 Seminarraum Pharmazie/Lebensmittelchemie) |
 
 ### RMLM6-8 - Reaktionsmechanismen (Übung) - Übung
 
@@ -526,7 +526,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:45–13:05 | 13.10.2025–02.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Sem3Ch - Seminar Chemie der organischen Arznei-, Hilfs- und Schadstoffe - Seminar
 
@@ -542,7 +542,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Sem3No - Chemische Nomenklatur - Seminar
 
@@ -558,7 +558,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | — |
+| wöchentlich | Fr | 10:00–11:00 | 24.10.2025–06.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Sem3St - Stereochemie - Seminar
 
@@ -574,7 +574,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 09:00–10:00 | 13.10.2025–02.02.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### SemLM5/7 - Seminare Bioanalytik oder Instrumentelle Analytik für Lebensmittelchemie und Molecular Science - Seminar
 
@@ -590,7 +590,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 11:15–12:00 | 15.10.2025–04.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Tox/Recht - Grundlagen der Gefahrstoffverordnung - Vorlesung
 
@@ -606,7 +606,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 10:00–11:45 | 14.10.2025–03.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
 ### ToxPr - Toxikologisch-analytisches Praktikum - Übung
 
@@ -632,7 +632,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:55–11:15 | 15.10.2025–04.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLM1/4/7/8 - Chemie und Technologie der Lebensmittel, Teil 1, 4, 7 oder 8 - Vorlesung
 
@@ -648,7 +648,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:00–12:45 | 13.10.2025–02.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLM2/5/6/9 - Chemie und Technologie der Lebensmittel, Teil 2, 5, 6 oder 9 - Vorlesung
 
@@ -664,7 +664,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 11:15–12:00 | 13.10.2025–02.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### Vorl3+4 - Einführung in die instrumentelle Analytik - Vorlesung
 
@@ -680,8 +680,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | — |
+| wöchentlich | Mo | 10:00–11:00 | 13.10.2025–02.02.2026 | 13301.01.0241 (C4 - Chemikum) |
+| wöchentlich | Do | 10:00–12:00 | 16.10.2025–05.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
 ### VorlLMGes - Lebensmittelrecht einschl. Futtermittelrecht I und II - Vorlesung
 
@@ -697,4 +697,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.10.2025 05.11.2025 19.11.2025 03.12.2025 17.12.2025 24.12.2025 31.12.2025 14.01.2026 28.01.2026 04.02.2026 | — |
+| wöchentlich | Mi | 13:00–14:30 | 15.10.2025–21.01.2026 | 13301.01.0241 (C4 - Chemikum) 13301.00.233 (00.233 Seminarraum Pharmazie/Lebensmittelchemie) |

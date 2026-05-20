@@ -56,7 +56,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Examenskurs Pädagogik theatral-performativer Praxis - Vorlesung mit Übung
 
@@ -72,7 +72,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 10:00–18:00 | 30.01.2026–01.02.2026 | AkademieLAB (1.34), Fürther Straße 244d, 90429 Nürnberg Für TN aus früheren Jahrgängen gilt Anmeldung per Mail an: sabine.koestler-kilian@fau.d |
+| Blockveranstaltung+SaundSo | — | 10:00–18:00 | 30.01.2026–01.02.2026 | — |
 
 ### Fachpraxis 5: Umsetzung einer Spielvorlage - Seminar
 
@@ -88,7 +88,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–19:00 | 14.11.2025 | AkademieLAB (1.34), Fürther Straße 244d, 90429 Nürnberg Für TN aus früheren Jahrgängen gilt Anmeldung&nbsp; per Mail an: sabine.koestler-kilian@fau.d |
+| Einzeltermin | Fr | 14:00–19:00 | 14.11.2025 | — |
 | Einzeltermin | Sa | 10:00–18:00 | 15.11.2025 | — |
 | Einzeltermin | Fr | 14:00–19:00 | 05.12.2025 | — |
 | Einzeltermin | Sa | 10:00–18:00 | 06.12.2025 | — |
@@ -108,7 +108,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–19:00 | 13.02.2026 | AkademieLAB (1.34), Fürther Straße 244d, 90429 Nürnberg Für TN aus früheren Jahrgängen gilt Anmeldung&nbsp; per Mail an: [E-Mail entfernt] |
+| Einzeltermin | Fr | 14:00–19:00 | 13.02.2026 | — |
 | Einzeltermin | Sa | 10:00–16:00 | 14.02.2026 | — |
 
 ### Fachpraxis 7: Praxisreflexion (Begleitseminar zum Praktikum) - Seminar
@@ -125,7 +125,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–19:00 | 06.02.2026 | AkademieLAB (1.34), Fürther Straße 244d, 90429 Nürnberg Für TN aus früheren Jahrgängen gilt Anmeldung&nbsp; per Mail an: sabine.koestler-kilian@fau.d |
+| Einzeltermin | Fr | 14:00–19:00 | 06.02.2026 | — |
 | Einzeltermin | Sa | 10:00–16:00 | 07.02.2026 | — |
 
 ### Transformative Arts in Education - Seminar
@@ -142,7 +142,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05701.00.003 (00.003) |
 
 ## Lehramts-Prüfungsordnungen
 

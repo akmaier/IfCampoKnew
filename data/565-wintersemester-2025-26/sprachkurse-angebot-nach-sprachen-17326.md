@@ -743,7 +743,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 05701.U1.008 () |
 
 ### Ferienintensivkurs Französisch: Auffrischung EK I / Einstieg EK II - Übung
 
@@ -760,7 +760,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Blockveranstaltung | — | 03.10.2025 | — |
+| Blockveranstaltung | — | 09:30–15:00 | 22.09.2025–06.10.2025 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Ferienintensivkurs in Erlangen:  Italiano - Intermedio I / Elementarkurs III (Niveau B1) - Übung
 
@@ -777,16 +777,16 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 14:30–17:45 | 09.03.2026 | — |
-| Einzeltermin | Mi | 14:30–17:45 | 11.03.2026 | — |
-| Einzeltermin | Fr | 10:00–13:15 | 13.03.2026 | — |
-| Einzeltermin | Mo | 14:30–17:45 | 16.03.2026 | — |
-| Einzeltermin | Mi | 14:30–17:45 | 18.03.2026 | — |
-| Einzeltermin | Fr | 10:00–13:15 | 20.03.2026 | — |
-| Einzeltermin | Mo | 14:30–17:45 | 23.03.2026 | — |
-| Einzeltermin | Mi | 14:30–17:45 | 25.03.2026 | — |
-| Einzeltermin | Fr | 10:00–13:15 | 27.03.2026 | — |
-| Einzeltermin | Mo | 14:30–16:00 | 30.03.2026 | — |
+| Einzeltermin | Mo | 14:30–17:45 | 09.03.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| Einzeltermin | Mi | 14:30–17:45 | 11.03.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| Einzeltermin | Fr | 10:00–13:15 | 13.03.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| Einzeltermin | Mo | 14:30–17:45 | 16.03.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| Einzeltermin | Mi | 14:30–17:45 | 18.03.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| Einzeltermin | Fr | 10:00–13:15 | 20.03.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| Einzeltermin | Mo | 14:30–17:45 | 23.03.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| Einzeltermin | Mi | 14:30–17:45 | 25.03.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| Einzeltermin | Fr | 10:00–13:15 | 27.03.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| Einzeltermin | Mo | 14:30–16:00 | 30.03.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
 ### Finnisch: Elementarkurs I - Online - Übung
 
@@ -803,8 +803,8 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mo | 18:00–19:30 | 13.10.2025–02.02.2026 | — |
+| wöchentlich | Mi | 18:00–19:30 | 15.10.2025–04.02.2026 | — |
 
 ### Französisch: Grammatik B2: Auffrischung und Vertiefung, VHB Kurs - ONLINE - Übung
 
@@ -848,8 +848,8 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 12.11.2025 24.12.2025 31.12.2025 | — |
-| — | wöchentlich | — | 24.11.2025 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mi | 16:15–17:45 | 22.10.2025–04.02.2026 | — |
+| wöchentlich | Mo | 18:00–19:30 | 27.10.2025–02.02.2026 | — |
 
 ### ItaliaNet A1 NUR ONLINE - VHB-Kurs  - Online-Kurs
 
@@ -961,7 +961,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 16:15–17:45 | 13.02.2026 | — |
+| Einzeltermin | Fr | 16:15–17:45 | 13.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### Schwedisch: Multimedialer Online-Kurs bayernweit: Klara grammatiken! Schwedische Grammatik A1/A2 - Übung
 
@@ -978,7 +978,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 12:15–13:45 | 13.02.2026 | — |
+| Einzeltermin | Fr | 12:15–13:45 | 13.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Schwedisch: Multimedialer Online-Kurs bayernweit: Leseverstehen für Fortgeschrittene - Klara, färdiga, gå! B1 - Übung
 
@@ -1052,7 +1052,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 18:00–19:30 | 13.10.2025–02.02.2026 | — |
 
 ### Swahili Intensivferienkurs (+ kleine Einführung in die Sprachgeschichte) Hybrid - Kurs
 
@@ -1068,8 +1068,8 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Blockveranstaltung | — | 03.10.2025 | — |
-| — | Blockveranstaltung | — | 03.10.2025 | — |
+| Blockveranstaltung | — | 09:00–10:30 | 01.10.2025–08.10.2025 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| Blockveranstaltung | — | 10:45–11:45 | 01.10.2025–08.10.2025 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
 
 ### Tandem mit Université Paris Sciences et Lettres (PSL) - Übung
 

@@ -514,11 +514,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–18:00 | 24.10.2025 | Anmeldezeitraum: Montag, 22. September, 12:00 bis Dienstag, 07. Oktober, 12:00 &nbsp; |
-| Einzeltermin | Fr | 12:00–18:00 | 21.11.2025 | — |
-| Einzeltermin | Fr | 12:00–18:00 | 12.12.2025 | — |
-| Einzeltermin | Fr | 12:00–18:00 | 23.01.2026 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 24.01.2026 | — |
+| Einzeltermin | Fr | 12:00–18:00 | 24.10.2025 | 05701.00.021 ( 00.021 Seminarraum) |
+| Einzeltermin | Fr | 12:00–18:00 | 21.11.2025 | 05701.00.021 ( 00.021 Seminarraum) |
+| Einzeltermin | Fr | 12:00–18:00 | 12.12.2025 | 05701.00.021 ( 00.021 Seminarraum) |
+| Einzeltermin | Fr | 12:00–18:00 | 23.01.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+| Einzeltermin | Sa | 09:00–18:00 | 24.01.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### Einführung in die Grounded Theory - Seminar
 
@@ -534,9 +534,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
-| — | Blockveranstaltung | — | — | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+| Blockveranstaltung | — | 14:00–18:00 | 16.01.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
+| Einzeltermin | Sa | 10:00–16:00 | 17.01.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Einführung in die Medienpädagogik - Seminar
 
@@ -552,7 +552,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 08:00–10:00 | 13.10.2025–02.02.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Einführung in die Organisationspädagogik - Seminar
 
@@ -568,8 +568,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 10.11.2025 22.12.2025 29.12.2025 05.01.2026 12.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+| Einzeltermin | Fr | 12:00–20:00 | 09.01.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Einführung in Grounded Theory - Seminar
 
@@ -585,7 +585,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Entwicklung von Professionalität als Bildungsprozess - Praxisreflexion - Seminar
 
@@ -601,8 +601,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 12:00–14:00 | 24.11.2025–02.02.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+| wöchentlich | Mo | 14:00–16:00 | 24.11.2025–02.02.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### Historisch-Politische Bildung - Seminar
 
@@ -618,8 +618,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.11.2025 01.12.2025 15.12.2025 22.12.2025 29.12.2025 05.01.2026 12.01.2026 19.01.2026 | — |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Mo | 10:00–16:00 | 10.11.2025–26.01.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
+| Einzeltermin | Mo | 10:00–16:00 | 09.02.2026 | — |
 
 ### Pädagogik und Gesellschaft (Pädagogische Anthropologie) - Vorlesung
 
@@ -635,7 +635,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 10:00–12:00 | 22.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### 52121 Wiss. Hausarbeit bzw. Essay zu Einführung in pädagogisches Sehen und Denken - Leistung
 
@@ -650,7 +650,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 52122 Einführung in die Pädagogik - Leistung
 
@@ -665,7 +665,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | 07.12.2025 23:59:59 | — |
+| — | — | — | 07.12.2025 23:59:59 | — |
 
 ### 52211 Pädagogische Grundlagen - Leistung
 
@@ -680,7 +680,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 52311 Historische und systematische Grundlagen der Pädagogik - Leistung
 
@@ -695,7 +695,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 10:15 - 11:15 | — | 07.12.2025 23:59:59 | 05701.00.017 ( Kl. Hörsaal) |
+| Mi | Mi | 10:15–11:15 | 07.12.2025 23:59:59 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### 52531 Einführung in pädagogische Bereiche - Leistung
 
@@ -710,7 +710,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 52631 Praktikum - Leistung
 
@@ -725,7 +725,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | 07.12.2025 23:59:59 | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 52711 Pädagogische Forschung I - Leistung
 
@@ -740,7 +740,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 12:15 - 13:15 | — | 07.12.2025 23:59:59 | 05701.00.021 ( 00.021 Seminarraum) |
+| Fr | Fr | 12:15–13:15 | 07.12.2025 23:59:59 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### 75280 Pädagogische Forschung II
 

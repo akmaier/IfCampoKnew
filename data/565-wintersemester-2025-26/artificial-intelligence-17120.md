@@ -348,7 +348,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | — |
+| wöchentlich | Di | 12:00–13:30 | 14.10.2025–27.01.2026 | 07901.00.052 (Ernst-Freiberger-sen.-Hörsaal) |
 
 ### Introduction to Software Engineering - Vorlesung
 
@@ -365,7 +365,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 315 |
+| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 11906.01.030 (H21) |
 
 ### Introduction to Software Engineering Exercises - Übung
 
@@ -381,7 +381,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 54 |
+| wöchentlich | Di | 18:15–19:45 | 21.10.2025–03.02.2026 | 11907.01.030 (H19) |
 
 ### 122337 Magnetic Resonance Imaging
 
@@ -402,7 +402,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 13:00 - 15:00 | — | — | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
+| Fr | Fr | 13:00–15:00 | — | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
 
 ### 1999 Bachelor thesis (B.Sc. Artificial Intelligence 20242)
 
@@ -429,7 +429,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 14:00 - 15:30 | — | — | 11901.00.226 (H8 Hörsaal 8) |
+| Mi | Mi | 14:00–15:30 | — | 11901.00.226 (H8 Hörsaal 8) |
 
 ### 24021 Applied Programming - Leistung
 
@@ -444,7 +444,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 24022 Applied Programming - Leistung
 
@@ -459,7 +459,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 24022 Applied Programming - Leistung
 
@@ -474,7 +474,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 24031 Computational Complexity - Leistung
 
@@ -489,7 +489,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 10:15 - 11:45 | — | — | 11901.U1.245 (K2-119 Seminarraum) |
+| Do | Do | 10:15–11:45 | — | 11901.U1.245 (K2-119 Seminarraum) |
 
 ### 24051 Artificial Intelligence Perspectives - Leistung
 
@@ -504,7 +504,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 08:00 - 09:30 | — | — | 11901.00.222 (H7 Hörsaal 7) |
+| Fr | Fr | 08:00–09:30 | — | 11901.00.222 (H7 Hörsaal 7) |
 
 ### 24061 Artificial Intelligence Fundamentals 1 - Leistung
 
@@ -519,7 +519,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 09:00 - 10:30 | — | — | 56901.00.013 (Seminarraum 2 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26)) |
+| Fr | Fr | 09:00–10:30 | — | 56901.00.013 (Seminarraum 2 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26)) |
 
 ### 24071 Logic and Symbolic Artificial Intelligence - Leistung
 
@@ -534,7 +534,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 09:00 - 10:30 | — | — | — |
+| Mo | Mo | 09:00–10:30 | — | — |
 
 ### 24091 Ethics and Philosophy of AI - Leistung
 
@@ -549,7 +549,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 12:15 - 13:45 | — | — | — |
+| Di | Di | 12:15–13:45 | — | — |
 
 ### 24121 Neuroanatomy and Neurophysiology - Leistung
 
@@ -564,7 +564,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 10:15 - 11:15 | — | — | — |
+| Fr | Fr | 10:15–11:15 | — | — |
 
 ### 27661 Physics I - Leistung
 
@@ -579,7 +579,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 09:00 - 12:00 | — | — | — |
+| Di | Di | 09:00–12:00 | — | — |
 
 ### 27721 Renewable energies - Leistung
 
@@ -594,7 +594,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 11:00 - 12:30 | — | — | 11906.01.040 (H20) |
+| Fr | Fr | 11:00–12:30 | — | 11906.01.040 (H20) |
 
 ### 30013 Deutsch A1.1: Allgemeinkurs - Leistung
 
@@ -609,7 +609,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 08:30 - 10:00 | — | — | — |
+| Mi | Mi | 08:30–10:00 | — | — |
 
 ### 30014 Deutsch A1.2: Allgemeinkurs - Leistung
 
@@ -624,7 +624,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 08:30 - 10:00 | — | — | — |
+| Mi | Mi | 08:30–10:00 | — | — |
 
 ### 30015 Deutsch A1: Allgemeinkurs - Leistung
 
@@ -639,7 +639,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 14:15 - 15:45 | — | — | — |
+| Mi | Mi | 14:15–15:45 | — | — |
 
 ### 30233 Portugiesisch: Elementarkurs I - Leistung
 
@@ -653,7 +653,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | 16:00 - 17:30 | — | — | 54201.02.011 ( Übungsraum II/11 Studienzentrum) |
+| Do | Do | 16:00–17:30 | — | 54201.02.011 ( Übungsraum II/11 Studienzentrum) |
 
 ### 30971 Einführung in das Software Engineering - Leistung
 
@@ -668,7 +668,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 14:00 - 15:30 | — | — | — |
+| Fr | Fr | 14:00–15:30 | — | — |
 
 ### 428256 Maschinelles Lernen für Zeitreihen
 
@@ -851,7 +851,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | 16:15 - 17:45 | — | 07.12.2025 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Mi | Mi | 16:15–17:45 | 07.12.2025 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### 56031 Analysis of macroeconomic and financial markets data - Leistung
 
@@ -866,7 +866,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | 00:00 - 18:00 | — | — | — |
+| Sa | Sa | 00:00–18:00 | — | — |
 
 ### 568977 Magnetic Resonance Imaging 2 + Übung
 
@@ -893,7 +893,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | — | — |
+| Di | Di | — | — | — |
 
 ### 57142 Mathematics for Data Science 1 - Leistung
 
@@ -908,7 +908,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 57241 Mathematics for Data Science 2 - Leistung
 
@@ -923,7 +923,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 10:15 - 12:15 | — | — | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
+| Di | Di | 10:15–12:15 | — | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### 62766 Physics I
 
@@ -956,7 +956,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 13:15 - 14:45 | — | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
+| Mo | Mo | 13:15–14:45 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### 71341 People Analytics - Data Science für Human Resources Management (Project work) - Leistung
 
@@ -971,7 +971,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | 16:45 - 18:15 | — | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
+| Di | Di | 16:45–18:15 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
 ### 75981 Algorithms, programming, and data representation - Leistung
 
@@ -986,7 +986,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 10:00 - 12:00 | — | — | — |
+| Mo | Mo | 10:00–12:00 | — | — |
 
 ### 75982 Algorithms, programming, and data representation - Leistung
 
@@ -1001,7 +1001,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 10:00 - 12:00 | — | — | — |
+| Mo | Mo | 10:00–12:00 | — | — |
 
 ### 85603 Analysis of macroeconomic and financial markets data
 
@@ -1138,8 +1138,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 12 |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 12 |
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
 
 ### AIP - AI Perspectives - Vorlesung mit Übung
 
@@ -1156,8 +1156,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 100 |
-| — | wöchentlich | — | 18.12.2025 25.12.2025 01.01.2026 08.01.2026 22.01.2026 | 100 |
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
+| wöchentlich | Do | 14:00–18:00 | 11.12.2025–29.01.2026 | — |
 
 ### AlgProgDat - Algorithms, Programming and Data Representation - Vorlesung
 
@@ -1174,7 +1174,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 22.12.2025 29.12.2025 05.01.2026 | 127 |
+| wöchentlich | Mo | 10:15–13:45 | 20.10.2025–02.02.2026 | — |
 
 ### AlgProgDatEx - Computer Exercise to Algorithms, Programming and Data Representation - Übung
 
@@ -1208,7 +1208,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 127 |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 11907.01.030 (H19) |
 
 ### CC-E - Computational Complexity Exercise - Übung
 
@@ -1225,7 +1225,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 12 |
+| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 11901.U1.245 (K2-119 Seminarraum) 11501.01.019 (01.019 Seminarraum) |
 
 ### CC-L - Computational Complexity Lecture - Vorlesung
 
@@ -1242,8 +1242,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 13.10.2025 10.11.2025 22.12.2025 29.12.2025 05.01.2026 | 12 |
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 12 |
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 11901.U1.245 (K2-119 Seminarraum) |
+| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
 
 ### CEP1 - Mathematics for Engineers I - Vorlesung
 
@@ -1259,11 +1259,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 23.12.2025 30.12.2025 06.01.2026 | 175 |
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 175 |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | 150 |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 11901.00.226 (H8 Hörsaal 8) |
+| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 11901.00.226 (H8 Hörsaal 8) |
+| Einzeltermin | Fr | 11:00–12:00 | 30.01.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
+| Einzeltermin | Di | 08:00–11:00 | 07.04.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Fr | 12:00–14:00 | 10.04.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### CEP1 - Special Topics in Mathematics for Engineers I - Übung
 
@@ -1279,7 +1279,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 75 |
+| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### CEP1E - Exercise Mathematics for Engineers I - Übung
 
@@ -1295,7 +1295,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 14.10.2025 23.12.2025 30.12.2025 06.01.2026 | 31 |
+| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 11901.00.236 (K1-119 Brose-Saal) |
 
 ### LSAI-E - Logic and Symbolic Artificial Intelligence (LSAI) Exercises - Übung
 
@@ -1312,7 +1312,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 15.10.2025 24.12.2025 31.12.2025 | 12 |
+| wöchentlich | Mi | 10:15–11:45 | 22.10.2025–04.02.2026 | 11901.U1.245 (K2-119 Seminarraum) |
 
 ### LSAI-T - Logic and Symbolic Artificial Intelligence (LSAI) Theory - Vorlesung
 
@@ -1329,5 +1329,5 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 25.12.2025 01.01.2026 | 12 |
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 12 |
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 11401.03.260 (3.71 Seminarraum) |
+| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 11401.03.260 (3.71 Seminarraum) |

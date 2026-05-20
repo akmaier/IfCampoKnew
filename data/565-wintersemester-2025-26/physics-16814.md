@@ -289,7 +289,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | 14:00 - 16:00 | — | — | 08801.01.020 ( Hörsaal ZMPT 01.020) |
+| Fr | Fr | 14:00–16:00 | — | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### 582360 Modern Optics 2: Nonlinear Optics
 

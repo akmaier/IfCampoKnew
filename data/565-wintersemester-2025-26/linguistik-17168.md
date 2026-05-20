@@ -208,7 +208,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 25 |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Advances in Construction Grammar - Oberseminar
 
@@ -224,7 +224,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 25 |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Advances in Construction Grammar - Oberseminar
 
@@ -240,7 +240,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 25 |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### MA Linguistik Ringvorlesung: Linguistik - Sprachen - Sprache - Vorlesung
 
@@ -257,8 +257,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 10:15–11:45 | 09.01.2026 | — |
 
 ### MA Linguistik Ringvorlesung: Linguistik - Sprachen - Sprache - Vorlesung
 
@@ -275,8 +275,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 19.12.2025 26.12.2025 02.01.2026 | 15 |
-| — | Einzeltermin | — | — | — |
+| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 10:15–11:45 | 09.01.2026 | — |
 
 ### MA Linguistik Übung: Linguistik - Sprachen - Sprache - Übung
 
@@ -293,11 +293,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| Einzeltermin | Mo | 12:15–13:00 | 13.10.2025 | 05801.00.318 ( C 203) |
+| wöchentlich | Mo | 12:15–13:00 | 20.10.2025–02.02.2026 | 05801.00.318 ( C 203) |
+| Einzeltermin | Fr | 12:15–13:00 | 07.11.2025 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Mo | 12:15–13:00 | 12.01.2026 | 05204.00.320 (0.320 Bismarckstr. 12 Computerlinguistik) |
+| Einzeltermin | Fr | 12:15–13:00 | 23.01.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### MA Linguistik Übung: Linguistik - Sprachen - Sprache - Übung
 
@@ -314,11 +314,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | Einzeltermin | — | — | — |
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | 15 |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
-| — | Einzeltermin | — | — | — |
+| Einzeltermin | Mo | 12:15–13:00 | 13.10.2025 | 05801.00.318 ( C 203) |
+| wöchentlich | Mo | 12:15–13:00 | 20.10.2025–02.02.2026 | 05801.00.318 ( C 203) |
+| Einzeltermin | Fr | 12:15–13:00 | 07.11.2025 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Mo | 12:15–13:00 | 12.01.2026 | 05204.00.320 (0.320 Bismarckstr. 12 Computerlinguistik) |
+| Einzeltermin | Fr | 12:15–13:00 | 23.01.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### 35411 Sprachnorm und Variation (Germanistik)
 
@@ -879,7 +879,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 54001 Linguistik - Sprachen - Sprache - Leistung
 
@@ -894,7 +894,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 55501 Lexikografie, Valenz- und Kollokationsforschung - Leistung
 
@@ -909,7 +909,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### 55501 Lexikografie, Valenz- und Kollokationsforschung - Leistung
 
@@ -924,7 +924,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | - | — | — | — |
+| — | — | — | — | — |
 
 ### OS roman. Sprachwiss. - Kolloquium Romanistische Linguistik - Oberseminar
 
@@ -940,7 +940,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
 
 ### OS roman. Sprachwiss. - Kolloquium Romanistische Linguistik - Oberseminar
 
@@ -956,4 +956,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | — |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |

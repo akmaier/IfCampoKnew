@@ -68,12 +68,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 15:45–17:15 | 23.10.2025 | Einführungsveranstaltung |
+| Einzeltermin | Do | 15:45–17:15 | 23.10.2025 | — |
 | Einzeltermin | Do | 15:45–17:15 | 13.11.2025 | — |
 | Einzeltermin | Do | 15:45–17:15 | 27.11.2025 | — |
 | Einzeltermin | Do | 15:45–17:15 | 11.12.2025 | — |
 | Einzeltermin | Do | 15:45–17:15 | 15.01.2026 | — |
-| Einzeltermin | Fr | 14:30–19:00 | 30.01.2026 | Blocktermin in Zoom: Prüfungsvorbereitung "last minute" |
+| Einzeltermin | Fr | 14:30–19:00 | 30.01.2026 | — |
 
 ### Grundlagen der Mediendidaktik - Seminar
 
@@ -90,7 +90,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 24.12.2025 31.12.2025 | 20 |
+| wöchentlich | Mi | 15:45–17:15 | 15.10.2025–04.02.2026 | — |
 
 ### Grundlagen der Medienerziehung (VHB) - Seminar A - Seminar
 
@@ -140,11 +140,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
-| Einzeltermin | Fr | 14:00–15:30 | 17.10.2025 | Einführungsveranstaltung ITG-Seminar (Zoom) |
-| Einzeltermin | Mi | 17:30–19:00 | 26.11.2025 | Synchrone Sitzung 1 (Zoom) |
-| Einzeltermin | Mi | 17:30–19:00 | 10.12.2025 | Synchrone Sitzung 2 (Zoom) |
-| Einzeltermin | Mi | 17:30–19:00 | 07.01.2026 | Synchrone Sitzung 3 (Zoom) |
-| Einzeltermin | Sa | 09:00–15:30 | 24.01.2026 | Blocktermin in Präsenz im DigiLLab (Campus Regensburger Str. in Nürnberg) |
+| Einzeltermin | Fr | 14:00–15:30 | 17.10.2025 | — |
+| Einzeltermin | Mi | 17:30–19:00 | 26.11.2025 | — |
+| Einzeltermin | Mi | 17:30–19:00 | 10.12.2025 | — |
+| Einzeltermin | Mi | 17:30–19:00 | 07.01.2026 | — |
+| Einzeltermin | Sa | 09:00–15:30 | 24.01.2026 | — |
 
 ### Praxisprojekt Mediengestaltung - Sonstige Lehrveranstaltung
 
@@ -177,8 +177,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 15:30–17:00 | 17.10.2025 | Einführungsveranstaltung (Zoom) |
-| Einzeltermin | Fr | 14:00–18:00 | 24.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | — |
-| Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | Feedback-Sitzung (online) |
-| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | — |
+| Einzeltermin | Fr | 15:30–17:00 | 17.10.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 24.10.2025 | 20302.01.121 (1.121 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
+| Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 20302.01.121 (1.121 Seminarraum (40)) |

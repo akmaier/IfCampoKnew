@@ -191,8 +191,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 23.01.2026 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 24.01.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 23.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Sa | 09:00–18:00 | 24.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1001 Sozial- und gesundheitspolitische Grundlagen - Seminar
 
@@ -209,8 +209,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 23.01.2026 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 24.01.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 23.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Sa | 09:00–18:00 | 24.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1002 Spezielle Fragestellungen der Sozialpolitik und Gesundheitsversorgung - Seminar
 
@@ -226,7 +226,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 17.12.2025 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 17.12.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1002 Spezielle Fragestellungen der Sozialpolitik und Gesundheitsversorgung - Seminar
 
@@ -242,7 +242,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 17.12.2025 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 17.12.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 101 Einführung in die Gerontologie - Vorlesung
 
@@ -259,8 +259,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 16.10.2025 | — |
-| Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | — |
+| Einzeltermin | Do | 09:00–18:00 | 16.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 101 Einführung in die Gerontologie - Vorlesung
 
@@ -277,8 +277,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 16.10.2025 | — |
-| Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | — |
+| Einzeltermin | Do | 09:00–18:00 | 16.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 102 Anwendungsfelder der Gerontologie - Seminar
 
@@ -295,7 +295,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 06.11.2025 | — |
+| Einzeltermin | Do | 09:00–18:00 | 06.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 102 Anwendungsfelder der Gerontologie - Seminar
 
@@ -312,7 +312,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 06.11.2025 | — |
+| Einzeltermin | Do | 09:00–18:00 | 06.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1201 Modelle und Befunde kognitiven und emotionalen Alterns - Hauptseminar
 
@@ -329,8 +329,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 26.11.2025 | — |
-| Einzeltermin | Mi | 09:00–18:00 | 21.01.2026 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 26.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mi | 09:00–18:00 | 21.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1202 Kognition und Emotion im Alternsprozess - Seminar
 
@@ -347,7 +347,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 27.01.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 27.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1301 Themen der Psychogerontologie - Seminar
 
@@ -364,8 +364,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 11.11.2025 | — |
-| Einzeltermin | Mi | 09:00–18:00 | 12.11.2025 | — |
+| Einzeltermin | Di | 09:00–18:00 | 11.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mi | 09:00–18:00 | 12.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1301 Themen der Psychogerontologie - Seminar
 
@@ -382,8 +382,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 11.11.2025 | — |
-| Einzeltermin | Mi | 09:00–18:00 | 12.11.2025 | — |
+| Einzeltermin | Di | 09:00–18:00 | 11.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mi | 09:00–18:00 | 12.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1302 Aktuelle Forschung in der Psychogerontologie (Master- und Forschungskolloquium) (semesterbegleitend) - Kolloquium
 
@@ -400,7 +400,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | wöchentlich | — | 22.12.2025 29.12.2025 05.01.2026 | — |
+| wöchentlich | Mo | 13:00–14:30 | 20.10.2025–02.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1501 Methoden der psychogerontologischen Intervention Kurs A - Hauptseminar
 
@@ -417,8 +417,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 15.01.2026 | — |
-| Einzeltermin | Fr | 09:00–18:00 | 16.01.2026 | — |
+| Einzeltermin | Do | 09:00–18:00 | 15.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Fr | 09:00–18:00 | 16.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1501 Methoden der psychogerontologischen Intervention Kurs A - Hauptseminar
 
@@ -435,8 +435,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 15.01.2026 | — |
-| Einzeltermin | Fr | 09:00–18:00 | 16.01.2026 | — |
+| Einzeltermin | Do | 09:00–18:00 | 15.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Fr | 09:00–18:00 | 16.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1501 Methoden der psychogerontologischen Intervention Kurs B: - Hauptseminar
 
@@ -453,8 +453,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 13.02.2026 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 14.02.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 13.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Sa | 09:00–18:00 | 14.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1501 Methoden der psychogerontologischen Intervention Kurs B: - Hauptseminar
 
@@ -471,8 +471,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 13.02.2026 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 14.02.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 13.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Sa | 09:00–18:00 | 14.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1502 Ausgewählte Methoden der psychogerontologischen Intervention Kurs A: - Seminar
 
@@ -489,7 +489,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 07.11.2025 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 07.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1502 Ausgewählte Methoden der psychogerontologischen Intervention Kurs A: - Seminar
 
@@ -506,7 +506,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 07.11.2025 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 07.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1502 Ausgewählte Methoden der psychogerontologischen Intervention Kurs B - Seminar
 
@@ -523,7 +523,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 20.01.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 20.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1502 Ausgewählte Methoden der psychogerontologischen Intervention Kurs B - Seminar
 
@@ -540,7 +540,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 20.01.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 20.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1601 Praktikumsreflexion - Seminar
 
@@ -556,7 +556,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 06.02.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 06.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1601 Praktikumsreflexion - Seminar
 
@@ -572,7 +572,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 06.02.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 06.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1699 - Praktikumsbegleitung - Seminar
 
@@ -621,8 +621,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 22.10.2025 | — |
-| Einzeltermin | Di | 09:00–18:00 | 02.12.2025 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 22.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Di | 09:00–18:00 | 02.12.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1701 Wahlpflichtseminar I Kurs A - Seminar
 
@@ -639,8 +639,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 22.10.2025 | — |
-| Einzeltermin | Di | 09:00–18:00 | 02.12.2025 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 22.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Di | 09:00–18:00 | 02.12.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1701 Wahlpflichtseminar I Kurs B - Seminar
 
@@ -657,8 +657,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 28.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 29.11.2025 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 28.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Sa | 09:00–18:00 | 29.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1701 Wahlpflichtseminar I Kurs B - Seminar
 
@@ -675,8 +675,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 28.11.2025 | — |
-| Einzeltermin | Sa | 09:00–18:00 | 29.11.2025 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 28.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Sa | 09:00–18:00 | 29.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1702 Wahlpflichtseminar II Kurs A - Seminar
 
@@ -693,7 +693,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1702 Wahlpflichtseminar II Kurs A - Seminar
 
@@ -710,7 +710,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1702 Wahlpflichtseminar II Kurs B - Seminar
 
@@ -727,7 +727,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 05.11.2025 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 05.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1702 Wahlpflichtseminar II Kurs C - Seminar
 
@@ -744,7 +744,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 04.02.2026 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 04.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 201 Theorien und Ethik der Gerontologie - Hauptseminar
 
@@ -761,8 +761,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 25.11.2025 | — |
-| Einzeltermin | Mi | 09:00–18:00 | 28.01.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 25.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mi | 09:00–18:00 | 28.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 202 - Grundlagen der Gerontologie - Seminar
 
@@ -779,7 +779,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 13.01.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 13.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 301 Methoden der Datenerhebung - Hauptseminar
 
@@ -796,9 +796,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 28.10.2025 | — |
-| Einzeltermin | Mi | 09:00–18:00 | 03.12.2025 | — |
-| Einzeltermin | Di | 09:00–18:00 | 03.02.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 28.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mi | 09:00–18:00 | 03.12.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Di | 09:00–18:00 | 03.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 301 Methoden der Datenerhebung Kurs B - Hauptseminar
 
@@ -815,9 +815,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 28.10.2025 | — |
-| Einzeltermin | Mi | 09:00–18:00 | 03.12.2025 | — |
-| Einzeltermin | Di | 09:00–18:00 | 03.02.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 28.10.2025 | 21301.00.049 (00.049 00.049 Seminarraum) |
+| Einzeltermin | Mi | 09:00–18:00 | 03.12.2025 | 21301.00.049 (00.049 00.049 Seminarraum) |
+| Einzeltermin | Di | 09:00–18:00 | 03.02.2026 | 21301.00.049 (00.049 00.049 Seminarraum) |
 
 ### 501 Einführung in die Geriatrie Teil 1 und Teil 2 - Vorlesung
 
@@ -834,8 +834,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 08:30–17:30 | 21.10.2025 | findet im Waldkrankenhaus in Erlangen, Raum Malta statt |
-| Einzeltermin | Fr | 09:00–18:00 | 14.11.2025 | — |
+| Einzeltermin | Di | 08:30–17:30 | 21.10.2025 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 14.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 501 Einführung in die Geriatrie Teil 1 und Teil 2 - Vorlesung
 
@@ -852,8 +852,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 08:30–17:30 | 21.10.2025 | findet im Waldkrankenhaus in Erlangen, Raum Malta statt |
-| Einzeltermin | Fr | 09:00–18:00 | 14.11.2025 | — |
+| Einzeltermin | Di | 08:30–17:30 | 21.10.2025 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 14.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 502 A Einführung in die Laborarbeit - Seminar
 
@@ -870,7 +870,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 29.01.2026 | — |
+| Einzeltermin | Do | 09:00–18:00 | 29.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 502 B Geriatrische Fallbesprechungen - Seminar
 
@@ -887,7 +887,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 30.01.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 30.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 502 B Geriatrische Fallbesprechungen - Seminar
 
@@ -904,7 +904,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 30.01.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 30.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 601 Grundlagen der Gerontopsychiatrie - Seminar
 
@@ -993,7 +993,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–18:00 | 13.12.2025 | — |
+| Einzeltermin | Sa | 09:00–18:00 | 13.12.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 602 Spezielle Themen der Gerontopsychiatrie Kurs B - Seminar
 
@@ -1010,7 +1010,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 22.01.2026 | — |
+| Einzeltermin | Do | 09:00–18:00 | 22.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 602 Spezielle Themen der Gerontopsychiatrie Kurs B - Seminar
 
@@ -1027,7 +1027,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 22.01.2026 | — |
+| Einzeltermin | Do | 09:00–18:00 | 22.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 701 Grundlagen der gerontologischen Diagnostik - Hauptseminar
 
@@ -1044,8 +1044,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 29.10.2025 | — |
-| Einzeltermin | Do | 09:00–18:00 | 13.11.2025 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 29.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Do | 09:00–18:00 | 13.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 702 Spezielle Anwendungsfelder gerontologischer Diagnostik Kurs A - Seminar
 
@@ -1062,7 +1062,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 20.11.2025 | — |
+| Einzeltermin | Do | 09:00–18:00 | 20.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 702 Spezielle Anwendungsfelder gerontologischer Diagnostik Kurs B - Seminar
 
@@ -1079,7 +1079,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–18:00 | 27.11.2025 | — |
+| Einzeltermin | Do | 09:00–18:00 | 27.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 801 Berufs- und Tätigkeitsfelder der Gerontologie - Seminar
 
@@ -1096,7 +1096,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 09.01.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 09.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 801 Berufs- und Tätigkeitsfelder der Gerontologie - Seminar
 
@@ -1113,7 +1113,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 09.01.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 09.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 802 Kommunikation - Seminar
 
@@ -1130,7 +1130,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 14.01.2026 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 14.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 902 - Altern, Recht und Gesellschaft Kurs A - Seminar
 
@@ -1147,7 +1147,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 10.12.2025 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 10.12.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 902 - Altern, Recht und Gesellschaft Kurs B - Seminar
 
@@ -1164,7 +1164,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 16.12.2025 | — |
+| Einzeltermin | Di | 09:00–18:00 | 16.12.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1998 Mastermodul (M.Sc. Gerontologie 20172)
 
@@ -1197,7 +1197,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | — | — |
+| Di | Di | — | — | — |
 
 ### 85151 Forschungsmethoden - Leistung
 
@@ -1212,7 +1212,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | — | — |
+| Di | Di | — | — | — |
 
 ### 85161 Modelle und Methoden der Datenanalyse - Leistung
 
@@ -1227,7 +1227,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:00 - 12:00 | — | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Mo | Mo | 11:00–12:00 | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 85251 Geriatrie - Leistung
 
@@ -1242,7 +1242,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:00 - 12:00 | — | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Mo | Mo | 11:00–12:00 | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 85261 Gerontopsychiatrie - Leistung
 
@@ -1257,7 +1257,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:00 - 12:00 | — | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Mo | Mo | 11:00–12:00 | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 85271 Gerontologische Diagnostik - Leistung
 
@@ -1272,7 +1272,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:00 - 12:00 | — | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Mo | Mo | 11:00–12:00 | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 85321 Praxisfelder der Gerontologie - Leistung
 
@@ -1287,7 +1287,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | — | — |
+| Di | Di | — | — | — |
 
 ### 85461 Sozialpolitik und Gesundheitsversorgung - Leistung
 
@@ -1302,7 +1302,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | — | — |
+| Di | Di | — | — | — |
 
 ### 85511 Einführung in die Psychologie des Alterns - Leistung
 
@@ -1317,7 +1317,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:00 - 12:00 | — | — | 21301.00.049 (00.049 00.049 Seminarraum) |
+| Mo | Mo | 11:00–12:00 | — | 21301.00.049 (00.049 00.049 Seminarraum) |
 
 ### 85551 Grundlagen der Alternspsychologie - Leistung
 
@@ -1332,7 +1332,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:00 - 12:00 | — | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Mo | Mo | 11:00–12:00 | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 85651 Forschungsthemen der Psychogerontologie - Leistung
 
@@ -1347,7 +1347,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | — | — |
+| Di | Di | — | — | — |
 
 ### 85661 Grundlagen der psychogerontologischen Intervention - Leistung
 
@@ -1362,7 +1362,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | 11:00 - 12:00 | — | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Mo | Mo | 11:00–12:00 | — | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 85671 Methoden der psychogerontologischen Intervention - Leistung
 
@@ -1377,7 +1377,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | — | — |
+| Di | Di | — | — | — |
 
 ### 85721 Gerontologisches Praktikum - Leistung
 
@@ -1392,7 +1392,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | - | — | — | — |
+| Do | Do | — | — | — |
 
 ### 85821 Wahlpflichtmodul - Leistung
 
@@ -1407,4 +1407,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | - | — | — | — |
+| Di | Di | — | — | — |
