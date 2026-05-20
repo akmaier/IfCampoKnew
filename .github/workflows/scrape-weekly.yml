@@ -35,11 +35,14 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 480  # 8 h. Search-walker with --parallel 4 over the
-                          # 2 680-entry query list runs ~30–45 min per
-                          # period; the budget covers a worst-case cron
-                          # where prior-period cache misses AND search-
-                          # walker runs slow.
+    timeout-minutes: 720  # 12 h. The 2026-05-20 run with parallel=4
+                          # search-walker for BOTH periods observed:
+                          # catalog walk ~40 min + catalog fetch ~70 min
+                          # + sweep ~15 min + search-walker ~75 min +
+                          # resume-fetch ~50 min, all twice (current +
+                          # prior on cache miss) ≈ 8 h. 12 h gives a
+                          # generous safety margin per project policy:
+                          # completeness > wall-clock.
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
