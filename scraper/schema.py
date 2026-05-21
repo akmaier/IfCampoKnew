@@ -93,6 +93,12 @@ class Course:
     instructors_exec: list[str] = field(default_factory=list)
     appointments: list[Appointment] = field(default_factory=list)
     org_unit: Optional[str] = None
+    # Cross-listed Studiengänge harvested from the detail-page's
+    # "Organisationseinheit" <ul><li> list (one entry per program row of
+    # shape "Fakultät | Programm | Abschluss"). Each item is a dict with
+    # ``faculty``, ``program``, ``degree``, ``role`` (+ ``raw``, ``kind``).
+    # Empty list when the course has no cross-listings.
+    assigned_programs: list[dict] = field(default_factory=list)
     description: Optional[str] = None  # Inhalte tab — filled if available
     extra_links: list[tuple[str, str]] = field(default_factory=list)  # (label, url)
 

@@ -135,6 +135,70 @@ def test_basic_data_instructors_handle_multi_li():
         "Fixture Delta",
     ]
 
+# ── Regression: Organisationseinheit list → assigned_programs ──────────────
+
+@pytest.fixture(scope="module")
+def llm_seminar_html() -> str:
+    return (FIXTURES / "detail_136825_seminar_llm_medicine.html").read_text(
+        encoding="utf-8"
+    )
+
+def test_llm_seminar_assigned_programs_complete(llm_seminar_html):
+    """Saved 2026-05-21 — `Seminar Large Language Models in Medicine` is
+    cross-listed under 5 Studiengängen. Four are in the visible <ul>; the
+    fifth (Computerlinguistik, BA 2 Fächer) only appears in the "Mehr…"
+    popup. The parser must surface all five.
+    """
+    c = parse_course_detail(llm_seminar_html, unit_id=136825, period_id=589)
+    assert c.title == "Seminar Large Language Models in Medicine"
+    assert c.org_unit == "Lehrstuhl für Informatik 5 (Mustererkennung) (Verantwortlicher)"
+    programs = [(p["faculty"], p["program"], p["degree"]) for p in c.assigned_programs]
+    assert ("TechFak", "Medizintechnik", "Master of Science") in programs
+    assert ("TechFak", "Artificial Intelligence", "Master of Science") in programs
+    assert ("NatFak", "Data Science", "Master of Science") in programs
+    assert ("PhilFak", "English Studies", "Master of Arts") in programs
+    # Computerlinguistik lives in the popup only — guards against any
+    # future regression where the parser only scrapes the visible <ul>.
+    assert (
+        "PhilFak",
+        "Computerlinguistik",
+        "Bachelor of Arts (2 Fächer)",
+    ) in programs
+    assert len(programs) == 5
+
+def test_org_row_classifier_program_vs_lehrstuhl():
+    """The classifier separates pipe-shaped program rows from free-form
+    Lehrstuhl/Institut rows, even when the Lehrstuhl name contains
+    parentheses (which look like a role suffix to a naive parser).
+    """
+    from parse_detail import _parse_org_row  # noqa: WPS433
+
+    # Program row
+    r = _parse_org_row(
+        "TechFak | Medizintechnik | Master of Science (Verantwortlicher)"
+    )
+    assert r["kind"] == "program"
+    assert r["faculty"] == "TechFak"
+    assert r["program"] == "Medizintechnik"
+    assert r["degree"] == "Master of Science"
+    assert r["role"] == "Verantwortlicher"
+
+    # ReWiFak — the faculty token list is a `\w+Fak` regex, not a fixed
+    # allowlist. This test pins that change in place.
+    r = _parse_org_row("ReWiFak | Economics | Master of Science (Verantwortlicher)")
+    assert r["kind"] == "program"
+    assert r["faculty"] == "ReWiFak"
+
+    # Lehrstuhl with parens in the name + role suffix in parens at the end
+    r = _parse_org_row(
+        "Lehrstuhl für Informatik 5 (Mustererkennung) (Verantwortlicher)"
+    )
+    assert r["kind"] == "org"
+    # Role suffix is stripped from `name`, but the parenthetical
+    # disambiguator inside the Lehrstuhl name is preserved.
+    assert r["name"] == "Lehrstuhl für Informatik 5 (Mustererkennung)"
+    assert r["role"] == "Verantwortlicher"
+
 # ── Regression: Termine-table column detection ─────────────────────────────
 
 def test_termine_column_detection_room_is_real_room_not_capacity():

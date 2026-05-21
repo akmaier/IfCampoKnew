@@ -1886,3 +1886,204 @@ total. Still under the 6 h cap.
 - After both complete locally: resume-fetch new uids → render → analyse
   → commit + push → workflow_dispatch the cron for the canonical
   release zip.
+
+## Entry 0030 — Pipeline split: 4-job parallel scrape, cache-bust, broader query list
+
+- **Start:** 2026-05-19 18:00 CEST
+- **End:** 2026-05-20 (run 26180636100 in flight)
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompts (verbatim, condensed across multiple turns):**
+
+> I'd rather have a complete scrape than potential misses. If wall time
+> in the run is a problem, parallelization and splitting into multiple
+> sequential actions could be a solution.
+>
+> gh should work now. Fire the workflow
+
+**Context.** Entries 0028 + 0029 landed three fixes that all needed a
+fresh corpus on Releases to be visible:
+1. Room/instructor column-mapping fix in `parse_detail.py` (header-
+   based detection).
+2. New `search_walker.py` surfacing Person A / Seminar LLM in
+   Medicine and any other depth-7+ orphan.
+3. WiSe cache bust: cached `prior-period-courses.json` from before the
+   parser fix still contained the buggy numeric "rooms" (e.g. "350").
+
+Running these end-to-end exposed a budget problem: the monolithic
+"scrape" job ran every step sequentially (current catalog walk → fetch
+→ sweep → walker → resume-fetch → SAME for prior period → faudir →
+render), comfortably crossing 6 h and twice hitting the 12 h cap.
+
+**What changed (commit `e99593b`):** `.github/workflows/scrape-weekly.yml`
+refactored into a **4-job DAG**:
+
+```
+vars (1 min)
+ ├── scrape_current   (≤ 6 h budget, no cache)
+ ├── scrape_prior     (≤ 6 h budget, monthly cache, on hit skips walks)
+ └── faudir           (~5 min)
+       ↓
+   render_and_release (~15 min, downloads all three artifacts)
+```
+
+`scrape_current` and `scrape_prior` run **in parallel** on separate
+runners, so the wall-clock floor is `max(current, prior) + render`
+≈ 3 h 45 min instead of `current + prior + render` ≈ 8 h. Each scrape
+job has its own 6 h budget, and `render_and_release` is gated on
+`needs.scrape_current.result == 'success'` only (a prior-period
+failure cannot block the canonical SoSe corpus).
+
+Artifacts pass JSON between jobs:
+- `scrape-current-{period}` → `tmp/current-tree.json`,
+  `tmp/current-courses.json`, `tmp/search-walker-current.json`.
+- `scrape-prior-{prior}` → same shape, prior-period payloads.
+- `faudir` → `tmp/faudir-persons.json` + `data/personen/*.md`.
+
+**Cache key bump:** `campo-prior-{id}-d{depth}-v3-{iso_month}` (was
+`v2`). The `v3` salt forces a fresh fetch of the WiSe snapshot so the
+buggy "350"-as-room rows from before the parser fix are evicted. With
+the bump in place, future runs of the same month will hit the new
+cache normally.
+
+**search_queries.txt expansion (2 680 entries, was 1 391):**
+- 766 FAUdir Prof full names (unchanged from Entry 0029).
+- 625 Lehrstuhl/Institut suffixes were re-cleaned: split on
+  parentheses (so "Informatik 5 (Mustererkennung)" yields *both*
+  "Informatik 5" *and* "Mustererkennung"), then strip trailing
+  Arabic/Roman numerals so "Informatik 5" → "Informatik" (already
+  covered by another query — dedup wins).
+- 12 613 instructor names harvested from the existing scraped course
+  set, deduped, title-prefixes ("Prof. Dr.", "PD", "Hon.") stripped.
+- 3 topic-keyword seeds: "Large Language Models", "Generative AI",
+  "Künstliche Intelligenz".
+- 1 known-gap canary: "Person A".
+
+**search_walker parallelism (`--parallel N`).** Each worker keeps its
+own `CampoClient` (own JSESSIONID) and bootstraps a fresh
+`searchCourseNonStaff-flow` per query — *not* per-worker — because
+each POST advances the flow state, and a reused flow returns stale
+results from the previous query. With `parallel=4` and bootstrap-per-
+query the full 2 680-query sweep finishes in ~12 min instead of ~45.
+
+**Run 26180636100 (in flight):**
+- Triggered: 2026-05-20 18:02 UTC on `e99593b`.
+- `vars` ✓ (4 s), `faudir` ✓ (1 m 9 s).
+- `scrape_current` + `scrape_prior` both at "Fetch course detail
+  pages" step, ~67 min in as of 19:09 UTC. ETA: ~21:30 UTC for
+  both scrapes, ~21:45 UTC for the Release upload.
+
+Next: when the run lands, verify in `data/589-…/`:
+- Seminar LLM in Medicine (uid 136825, Person A) is present.
+- Deep Learning SoSe shows `H8` and WiSe shows `H18` + `H21`.
+- `565-courses.json` reports 0 numeric-only rooms (the v3 cache-bust
+  worked).
+
+## Entry 0031 — Cross-listing fix: courses appear under every Studiengang they belong to
+
+- **Start:** 2026-05-21 02:00 CEST
+- **End:** 2026-05-21 (in progress, pipeline re-trigger pending)
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompt (verbatim):**
+
+> #2 [better fix: teach the render step to map uid → Studiengang(e)
+> via Campo's detailView page (it lists all programs the course is
+> cross-listed under) so the Seminar shows up correctly under
+> Medizintechnik / AI / Data Science / English / Computerlinguistik]
+
+**Context.** Run 26180636100 (Entry 0030) succeeded but exposed a
+second-order issue with the Annette-Schwarz fix: `search_walker.py`
+*discovered* Seminar LLM in Medicine (uid 136825), `fetch_courses`
+pulled its detail page, and `people_index.py` indexed Annette under it
+— but the render step couldn't assign the course to any Studiengang
+program file because that mapping lives in the catalog walk hierarchy,
+and depth-4 walk never reaches uid 136825. Result: the seminar showed
+up in `personen/INDEX.md` with a link to a phantom
+`nicht-im-katalog-auf-tiefe-4-0.md` that was never written, and didn't
+appear under Medizintechnik / AI / Data Science / English Studies /
+Computerlinguistik at all.
+
+**Discovery.** Campo's `detailView-flow` page renders an
+"Organisationseinheit" field as a `<ul><li>` list. The first row is
+typically the home Lehrstuhl ("Lehrstuhl für Informatik 5
+(Mustererkennung) (Verantwortlicher)"); subsequent rows have a stable
+pipe-shaped form `Fakultät | Programm | Abschluss (Rolle)`, one per
+cross-listed Studiengang. When the list overflows the visible 4–6 rows,
+Campo adds a "Mehr…" popup whose own `<ul class="listStyleIconSimple">`
+holds the **complete** list — including the rows hidden in the
+truncated view.
+
+**Parser changes (`scraper/parse_detail.py`):**
+
+1. New `_parse_org_units(html)` returns `(home_org_unit, list[dict])`.
+   It scans a 20 kB window from the Organisationseinheit label and
+   unions `<li>` rows across **every** `<ul class="listStyleIconSimple">`
+   inside that window, so the popup's expanded list is harvested
+   alongside the visible one. De-dupes by raw text.
+2. New `_parse_org_row(text)` classifies one row. A row with exactly
+   three pipe-separated parts whose first part matches `\w+Fak\b`
+   (TechFak, PhilFak, ReWiFak, NatFak, MedFak, TheolFak …) is a
+   `program` row; anything else is an `org` (Lehrstuhl/Institut).
+3. The popup-wrapper `<li>` is detected by the substrings
+   `popupDismissable` / `showPopup` and skipped — without this the
+   non-greedy `<li>...</li>` regex captures the wrapper text
+   ("Mehr…") plus content up to the *inner* `</li>`, yielding a
+   duplicate row with "Mehr…" glued in front.
+4. `Course.org_unit` now holds just the home Lehrstuhl text (cleaner
+   than the previous flat concatenation). New `Course.assigned_programs`
+   holds the structured cross-listing list.
+
+**Test fixture.** Saved `tests/fixtures/detail_136825_seminar_llm_medicine.html`
+and pinned all 5 cross-listings (Medizintechnik MSc, Artificial
+Intelligence MSc, Data Science MSc, English Studies MA, Computerlinguistik
+BA 2 Fächer) in `test_llm_seminar_assigned_programs_complete`. A unit
+test on `_parse_org_row` covers the `ReWiFak` faculty token and the
+home-Lehrstuhl with parenthetical name+role.
+
+**Render changes (`scraper/render_markdown.py`):**
+
+1. New `_norm_program_name(name)` — ASCII / umlaut / lower / non-alnum
+   normalisation, used as the cross-listing lookup key.
+2. New `_build_program_cross_index(programs)` — keyed by normalised
+   program name → catalog segment(s) at depth-3.
+3. New `_resolve_assigned_segments(course, by_name)` — for one course,
+   return the segments of every program it cross-lists into.
+4. `render_corpus` now computes `cross_uids_by_segment` upfront and
+   passes the per-program list to `render_program_md`.
+5. `render_program_md` emits a new
+   `## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung`
+   section listing courses whose `assigned_programs` matches this
+   program but whose catalog walk doesn't reach them (so they don't
+   duplicate the native "Veranstaltungen" section).
+6. `_course_h3_section` skips the Katalog-Permalink line for
+   cross-listed entries (whose synthesised node has segment `unit:NNN`
+   — there's no genuine catalog deep-link, only the Veranstaltungs-Permalink).
+
+**Personen-INDEX + Pflicht-Analyse benefit too** (`people_index.py`,
+`analyze_pflicht.py`): both modules previously dropped sweep / walker-
+discovered courses into a `"(nicht im Katalog auf Tiefe 4)"` bucket.
+They now consult `_build_program_cross_index` as a fallback and link
+the course to the first matching Studiengang from `assigned_programs`,
+eliminating the broken `nicht-im-katalog-auf-tiefe-4-0.md` placeholder.
+
+**Cache bump (`.github/workflows/scrape-weekly.yml`):** prior-period
+cache key salt **v3 → v4**. The cached `courses.json` was produced by
+the old parser without `assigned_programs`; the new render step
+wouldn't have anything to cross-list under WiSe. Bump forces a fresh
+fetch.
+
+**Synthetic integration test** (`test_cross_listing_render_synthetic_corpus`):
+build a tiny snapshot with 5 depth-3 programs + a single course with
+`assigned_programs` to all 5, render with `render_corpus`, assert the
+seminar lands in every program file under a "querverknüpft" section
+with the explanatory note. Catches future regressions of the entire
+plumbing chain.
+
+**Tests:** 96 green (was 92; +1 LLM-seminar fixture, +1 `_parse_org_row`
+classifier, +1 cross-listing index resolution, +1 end-to-end render).
+
+**Status (in flight at write-time):** ready to commit + workflow_dispatch.
+A full re-scrape is needed (both periods) so the new `assigned_programs`
+field actually populates in the artifacts that `render_and_release`
+consumes.

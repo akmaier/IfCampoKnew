@@ -511,6 +511,90 @@ def _related_fau_section(node: dict, fau_index: dict, md_file: Path, out_root: P
     lines.append("")
     return "\n".join(lines)
 
+# ── Cross-listing index ─────────────────────────────────────────────────────
+
+def _norm_program_name(name: str) -> str:
+    """Normalise a program name for cross-listing lookup.
+
+    The Campo catalogue and the detail-page "Organisationseinheit" list use
+    the same German program names but with minor formatting differences
+    (whitespace, decorative HTML, optional trailing parenthetical). We:
+      * strip inline HTML tags,
+      * fold umlauts (so "Pädagogik" matches "Paedagogik" if either side
+        chose the ASCII form),
+      * NFKD-normalise then drop diacritics,
+      * lowercase, collapse runs of non-alphanumeric to a single ``-``.
+
+    The result is a stable string key for dict lookup. We deliberately
+    DO NOT include the degree here — degree disambiguation is added on top
+    when the name alone is ambiguous (see ``_build_program_cross_index``).
+    """
+    s = re.sub(r"<[^>]+>", "", name or "")
+    s = s.translate(_UMLAUT_FOLD)
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if c.isascii())
+    s = s.lower()
+    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+    return s
+
+def _build_program_cross_index(
+    programs: list[dict],
+) -> tuple[dict[str, list[str]], dict[str, list[str]]]:
+    """Build the lookup that maps a detail-page program name → catalogue segments.
+
+    Returns a tuple ``(by_name, by_name_path_segment)`` where:
+      * ``by_name`` maps a normalised program name to the list of catalog
+        depth-3 program-node *segments* that share that name. Usually a
+        single segment, but Campo sometimes lists the same program twice
+        under different sections (e.g. "Informatik" under both the
+        Lehramts-section and the regular section).
+      * ``by_name_path_segment`` is a sister lookup keyed by
+        ``"<normalised name>|<faculty-section slug>"`` for disambiguating
+        when more than one program shares the name. We derive the section
+        slug from the *first* segment in the catalog path that follows the
+        root — typically the faculty/section node.
+
+    Both maps are populated during the same scan of the catalog programs.
+    """
+    by_name: dict[str, list[str]] = {}
+    by_name_section: dict[str, list[str]] = {}
+    for p in programs:
+        key = _norm_program_name(p["name"])
+        if not key:
+            continue
+        by_name.setdefault(key, []).append(p["segment"])
+        # Section disambiguator: depth-2 segment if present (path[1])
+        section = p["path"][1] if len(p["path"]) >= 2 else ""
+        sec_key = f"{key}|{section}"
+        by_name_section.setdefault(sec_key, []).append(p["segment"])
+    return by_name, by_name_section
+
+def _resolve_assigned_segments(
+    course: dict, by_name: dict[str, list[str]]
+) -> list[str]:
+    """For one course, return the catalog segments of every cross-listed program.
+
+    The detail-page ``assigned_programs`` field carries dicts of shape
+    ``{"faculty": "TechFak", "program": "Medizintechnik", "degree": "Master of Science"}``.
+    We match on the normalised ``program`` string against the catalog's
+    depth-3 program names. Unmatched assignments are silently dropped —
+    they typically represent programs Campo lists in the detail view but
+    that don't have a top-level node in the catalogue at the scraped depth
+    (rare but possible for very small Studiengänge).
+    """
+    segments: list[str] = []
+    seen: set[str] = set()
+    for a in course.get("assigned_programs") or []:
+        prog_name = a.get("program") if isinstance(a, dict) else None
+        if not prog_name:
+            continue
+        key = _norm_program_name(prog_name)
+        for seg in by_name.get(key, []):
+            if seg not in seen:
+                seen.add(seg)
+                segments.append(seg)
+    return segments
+
 _PO_VERSION_YEAR_RE = re.compile(r"PO-Version\s+(\d{4})\d?", re.IGNORECASE)
 
 def _po_version_years(name: str) -> list[str]:
@@ -641,7 +725,12 @@ def _course_h3_section(node: dict, course: dict, period_id: int) -> str:
     lines.append(
         f"- **Segment:** `{node['segment']}` · **unitId:** `{course.get('unit_id')}`"
     )
-    lines.append(f"- **Katalog-Permalink:** <{catalog_permalink(node, period_id)}>")
+    # Cross-listed courses (synthesised node with segment "unit:NNN") don't
+    # live in the catalog tree under this program, so the catalog permalink
+    # would point at the program rather than the course — emit only the
+    # Veranstaltungs-Permalink in that case.
+    if not node["segment"].startswith("unit:"):
+        lines.append(f"- **Katalog-Permalink:** <{catalog_permalink(node, period_id)}>")
     if course.get("permalink"):
         lines.append(f"- **Veranstaltungs-Permalink:** <{course['permalink']}>")
 
@@ -813,6 +902,8 @@ def render_program_md(
     md_path: Path,
     period_id: int,
     period_name: str,
+    *,
+    cross_listed_uids: list[int] | None = None,
 ) -> tuple[str, dict]:
     """Render *one* merged Campo-program markdown.
 
@@ -829,11 +920,18 @@ def render_program_md(
     Source links are preserved verbatim (Campo permalinks, FAU.de URLs,
     PDF source URLs all appear inline so a RAG can cite them).
     """
-    file_stats = {"po_versions": 0, "courses": 0, "studiengang_inlines": 0, "lehramt_pdfs": 0}
+    file_stats = {
+        "po_versions": 0,
+        "courses": 0,
+        "courses_cross": 0,
+        "studiengang_inlines": 0,
+        "lehramt_pdfs": 0,
+    }
 
     # Collect descendants → split into PO-versions vs courses
     po_versions: list[dict] = []
     course_pairs: list[tuple[dict, dict]] = []
+    native_uids: set[int] = set()
     for n in _walk_subtree(program["segment"], children_of):
         kids = children_of.get(n["segment"], [])
         if kids:
@@ -842,8 +940,22 @@ def render_program_md(
         uid = int(n.get("unitId") or 0)
         if uid and courses_by_uid.get(uid):
             course_pairs.append((n, courses_by_uid[uid]))
+            native_uids.add(uid)
         else:
             po_versions.append(n)
+
+    # Resolve cross-listed courses (from detail-page Organisationseinheit
+    # rows) that are NOT already in the native catalog-walk set. These are
+    # rendered in a separate section so RAG agents can tell apart "lives
+    # under this program in the catalogue" vs "linked here via detail-page
+    # cross-listing".
+    cross_courses: list[dict] = []
+    for uid in cross_listed_uids or []:
+        if uid in native_uids:
+            continue
+        crs = courses_by_uid.get(uid)
+        if crs:
+            cross_courses.append(crs)
 
     # FAU matches
     related = _find_related_fau(program, fau_index)
@@ -925,6 +1037,38 @@ def render_program_md(
         for node, course in sorted(course_pairs, key=lambda p: p[0]["name"].lower()):
             body.append(_course_h3_section(node, course, period_id))
             file_stats["courses"] += 1
+
+    # ── Cross-listed courses (from detail-page Organisationseinheit) ──
+    if cross_courses:
+        body.append(
+            f"## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung ({len(cross_courses)})"
+        )
+        body.append("")
+        body.append(
+            "_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** "
+            "unter diesem Studiengang, sind aber in der "
+            "Organisationseinheit-Liste der jeweiligen Detail-Seite diesem "
+            "Studiengang zugeordnet (typisch für tief liegende Wahl- und "
+            "Querschnitts-Lehrveranstaltungen)._"
+        )
+        body.append("")
+        for course in sorted(
+            cross_courses,
+            key=lambda c: (c.get("title") or "").lower(),
+        ):
+            # Build a minimal node-dict for _course_h3_section. Cross-listed
+            # courses don't have a catalog node under this program — we
+            # synthesise one whose segment is the unit's own (so the
+            # Katalog-Permalink falls back to the detailView URL) and whose
+            # path is the program's path (just for permalink rendering).
+            synth_node = {
+                "name": course.get("title") or f"unit:{course['unit_id']}",
+                "segment": f"unit:{course['unit_id']}",
+                "unitId": course["unit_id"],
+                "path": program["path"],
+            }
+            body.append(_course_h3_section(synth_node, course, period_id))
+            file_stats["courses_cross"] += 1
 
     # ── Lehramt fallback ──────────────────────────────────────────────
     if not has_studiengang:
@@ -1040,10 +1184,25 @@ def render_corpus(
         by_section.setdefault(section_seg, []).append(p)
         program_filenames[p["segment"]] = f"{node_basename(p)}.md"
 
+    # Build the cross-listing index: program-name → catalog segment(s).
+    # Then for each course with `assigned_programs`, record which program
+    # segments it should appear under (in a "querverknüpft" section).
+    cross_index, _cross_index_sec = _build_program_cross_index(programs)
+    cross_uids_by_segment: dict[str, list[int]] = {}
+    cross_uid_count = 0
+    for uid, course in courses_by_uid.items():
+        target_segs = _resolve_assigned_segments(course, cross_index)
+        if target_segs:
+            cross_uid_count += 1
+            for seg in target_segs:
+                cross_uids_by_segment.setdefault(seg, []).append(uid)
+
     stats = {
         "programs": 0,
         "po_versions": 0,
         "courses_embedded": 0,
+        "courses_cross_listed": 0,
+        "courses_with_cross_assignments": cross_uid_count,
         "studiengang_inlines": 0,
         "lehramt_pdf_blocks": 0,
     }
@@ -1061,11 +1220,13 @@ def render_corpus(
             md_path,
             period_id,
             period_name,
+            cross_listed_uids=cross_uids_by_segment.get(program["segment"], []),
         )
         md_path.write_text(content, encoding="utf-8")
         stats["programs"] += 1
         stats["po_versions"] += fstats["po_versions"]
         stats["courses_embedded"] += fstats["courses"]
+        stats["courses_cross_listed"] += fstats.get("courses_cross", 0)
         stats["studiengang_inlines"] += fstats["studiengang_inlines"]
         if fstats["lehramt_pdfs"]:
             stats["lehramt_pdf_blocks"] += 1
@@ -1112,6 +1273,8 @@ def main(argv: Iterable[str] | None = None) -> int:
         f"rendered period {snapshot['periodId']} {snapshot['periodName']!r} "
         f"into {args.out}: programs={stats['programs']} "
         f"po_versions={stats['po_versions']} courses={stats['courses_embedded']} "
+        f"cross_listed_courses={stats.get('courses_cross_listed', 0)} "
+        f"(from {stats.get('courses_with_cross_assignments', 0)} unique uids) "
         f"studiengang_inlines={stats['studiengang_inlines']} "
         f"lehramt_blocks={stats['lehramt_pdf_blocks']}"
     )

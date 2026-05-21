@@ -211,13 +211,16 @@ jobs:
             tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-search.json
-          # Cache key salted with "v3" — the 2026-05 cache rotation
-          # introduced the search-walker + room parser fix. Bump the
-          # salt whenever a parser-level breaking change lands so the
-          # cache invalidates cleanly.
-          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v3-${{ needs.vars.outputs.iso_month }}
+          # Cache key salted with "v4" — bumped 2026-05-21 when the
+          # Organisationseinheit parser was restructured to emit a
+          # structured `assigned_programs` list (Entry 0031). Without a
+          # bump, the old cached courses.json would lack the new field
+          # and the render step's cross-listing fix would have nothing
+          # to work with. Bump the salt whenever a parser-level
+          # breaking change lands so the cache invalidates cleanly.
+          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v4-${{ needs.vars.outputs.iso_month }}
           restore-keys: |
-            campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v3-
+            campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v4-
 
       - name: Walk prior period catalogue
         if: steps.cache_prior.outputs.cache-hit != 'true'

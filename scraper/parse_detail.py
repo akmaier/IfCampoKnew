@@ -71,7 +71,10 @@ _BASIC_LABELS = {
     "language": "Unterrichtssprache",
     "turnus": "Turnus des Angebots",
     "short_text": "Kurztext",
-    "org_unit": "Organisationseinheit",
+    # NB: "Organisationseinheit" is parsed separately via _parse_org_units —
+    # it's a <ul><li> list with one entry per home-Lehrstuhl + one per
+    # cross-listed Studiengang. The previous parser flattened this into a
+    # single text blob that dropped row boundaries.
 }
 
 def _parse_basic(html: str) -> dict:
@@ -86,6 +89,138 @@ def _parse_basic(html: str) -> dict:
         m = re.search(r"\d+(?:[.,]\d+)?", out["ects"])
         out["ects"] = float(m.group(0).replace(",", ".")) if m else None
     return out
+
+# ── Organisationseinheit list (home Lehrstuhl + cross-listed Studiengänge) ───
+
+# Campo's Organisationseinheit value is a <ul> with one <li> per row. Each
+# row is one of:
+#   * a home Lehrstuhl,      e.g.  "Lehrstuhl für Informatik 5 (Mustererkennung) (Verantwortlicher)"
+#   * a cross-listed program, e.g. "TechFak | Medizintechnik | Master of Science (Verantwortlicher)"
+# Program rows always have a stable `Fakultät | Programm | Abschluss`
+# pipe-separated shape; the role suffix in parens is optional. Faculty
+# strings vary (TechFak / PhilFak / ReWiFak / NatFak / MedFak / TheolFak /
+# FB Pharmazie / ZUV / FAU-weit / …) — we recognise them by the trailing
+# "Fak"/"FB"/"Fachbereich" stem rather than a fixed allowlist.
+_FACULTY_TOKEN_RE = re.compile(
+    r"^(?:[A-Za-z]+Fak|FB\s|Fachbereich\s|ZUV|ZiWiS|FAU|Lehrstuhl|Institut|FB)\b",
+    re.IGNORECASE,
+)
+_ROLE_PAREN_RE = re.compile(
+    r"\s*\(\s*("
+    r"Verantwortlicher|Verantwortliche|Verantwortliche/-r|Verantwortliche/r"
+    r"|Durchführender|Durchführende|Durchf[üu]hrende(?:/-r|/r)?"
+    r"|Begleitende(?:/-r|/r)?|Beteiligte(?:/-r|/r)?|Mitwirkende(?:/-r|/r)?"
+    r"|Prüfende(?:/-r|/r)?"
+    r")\s*\)\s*$",
+    re.IGNORECASE,
+)
+
+def _parse_org_row(text: str) -> dict:
+    """Classify one Organisationseinheit row.
+
+    Returns a dict with at least:
+      * ``raw``  — the original cleaned text,
+      * ``role`` — the role-suffix (Verantwortlicher / Durchführender / …) if any,
+      * ``kind`` — ``"program"`` if the row matches the
+        ``Fakultät | Programm | Abschluss`` shape, else ``"org"``.
+    For ``kind == "program"`` additionally:
+      * ``faculty``, ``program``, ``degree`` — the three pipe-separated parts.
+    For ``kind == "org"`` additionally:
+      * ``name`` — the same as ``raw`` minus the role suffix (e.g. ``"Lehrstuhl für Informatik 5 (Mustererkennung)"``).
+    """
+    text = (text or "").strip()
+    role_m = _ROLE_PAREN_RE.search(text)
+    role = role_m.group(1) if role_m else None
+    main = _ROLE_PAREN_RE.sub("", text).strip() if role else text
+    parts = [p.strip() for p in main.split("|")]
+    # A program row has exactly 3 pipe-separated parts where the first one
+    # *looks* like a faculty token (e.g. "TechFak", "ReWiFak", "FB Theologie").
+    # The faculty-token check guards against pipes inside a Lehrstuhl name
+    # that happen to produce three parts — those won't start with a faculty
+    # token and stay classified as "org".
+    if len(parts) == 3 and _FACULTY_TOKEN_RE.match(parts[0]) and "Fak" in parts[0]:
+        return {
+            "raw": text,
+            "kind": "program",
+            "role": role,
+            "faculty": parts[0],
+            "program": parts[1],
+            "degree": parts[2],
+        }
+    return {
+        "raw": text,
+        "kind": "org",
+        "role": role,
+        "name": main,
+    }
+
+_ORG_UL_RE = re.compile(
+    r'<ul\b[^>]*\bclass="[^"]*\blistStyleIconSimple\b[^"]*"[^>]*>'
+    r"(?P<body>.*?)</ul>",
+    re.DOTALL,
+)
+_ORG_LABEL_RE = re.compile(
+    r"<label\b[^>]*>\s*Organisationseinheit\b[^<]*</label>",
+    re.IGNORECASE,
+)
+_NEXT_LABEL_RE = re.compile(r"<label\b[^>]*>\s*(?!Organisationseinheit)", re.IGNORECASE)
+# Inside a popup, Campo emits a draggable "<h3 class=mouseMoveTitle>" which
+# the plain label-block matcher treats as a section boundary. The popup's
+# own heading is not a section break — so we use a wider capture here and
+# rely on the `<ul class="listStyleIconSimple">` shape to find every
+# Organisationseinheit row (visible list + popup-expanded list).
+
+def _parse_org_units(html: str) -> tuple[Optional[str], list[dict]]:
+    """Return ``(home_org_unit, assigned_programs)`` from the Organisationseinheit list.
+
+    Campo renders this field as a small visible ``<ul>`` plus, when the
+    list overflows, a "Mehr…" popup containing the *complete* list in a
+    second ``<ul class="listStyleIconSimple">``. We slurp a wide window
+    starting at the ``Organisationseinheit`` label, find every such
+    ``<ul>`` until the next labelled field, and union the ``<li>`` rows
+    (de-duplicated by raw text).
+
+    ``home_org_unit`` is the *text* of the first non-program row (typically
+    the home Lehrstuhl), preserved for backwards compatibility with
+    ``Course.org_unit``. ``assigned_programs`` is the structured list of
+    cross-listed Studiengänge, each a dict from ``_parse_org_row``.
+    """
+    m = _ORG_LABEL_RE.search(html)
+    if not m:
+        return None, []
+    after = html[m.end():]
+    # Cut at the next labelled field so we don't bleed into the rest of the
+    # detail page. A generous 20 kB window comfortably covers Campo's
+    # popup HTML for courses with many cross-listings.
+    nxt = _NEXT_LABEL_RE.search(after)
+    window = after[: nxt.start() if nxt else min(20_000, len(after))]
+
+    seen_raw: set[str] = set()
+    rows: list[dict] = []
+    for ul_m in _ORG_UL_RE.finditer(window):
+        for li_html in _LI_RE.findall(ul_m.group("body")):
+            # Skip the popup-wrapper <li> — it just holds the "Mehr..." button
+            # and re-emits the same list inside a nested <ul>. Non-greedy
+            # _LI_RE would otherwise capture this wrapper's opening text
+            # ("Mehr...") plus content up to the first inner </li>, producing
+            # a duplicate row prefixed with "Mehr...".
+            if "popupDismissable" in li_html or "showPopup" in li_html:
+                continue
+            text = _text(li_html).strip()
+            if not text or text in seen_raw:
+                continue
+            seen_raw.add(text)
+            rows.append(_parse_org_row(text))
+
+    if not rows:
+        # No <ul> structure at all — fall back to the flattened text.
+        flat = _text(window[:2000])
+        return flat or None, []
+
+    home_rows = [r for r in rows if r["kind"] == "org"]
+    program_rows = [r for r in rows if r["kind"] == "program"]
+    home_org = home_rows[0]["raw"] if home_rows else None
+    return home_org, program_rows
 
 # ── instructors (responsible / executing) ──────────────────────────────────
 
@@ -357,6 +492,7 @@ def parse_course_detail(
     title = title or fallback_title or f"unit:{unit_id}"
 
     basic = _parse_basic(html)
+    home_org, assigned_programs = _parse_org_units(html)
     course = Course(
         unit_id=unit_id,
         period_id=period_id,
@@ -367,7 +503,8 @@ def parse_course_detail(
         ects=basic.get("ects"),
         language=basic.get("language"),
         turnus=basic.get("turnus"),
-        org_unit=basic.get("org_unit"),
+        org_unit=home_org,
+        assigned_programs=assigned_programs,
         instructors_resp=_parse_instructors(html, "Verantwortliche/-r")
         or _parse_instructors(html, "Verantwortliche"),
         instructors_exec=_parse_instructors(html, "Dozent/-in (durchführend)")

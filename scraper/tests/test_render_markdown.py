@@ -242,12 +242,14 @@ def test_lehramt_match_no_false_positive_on_stopwords(tiny_lehramt_corpus):
 
 # ── F-TOKEN folding logic ─────────────────────────────────────────────────
 
-def _mk_node(seg: str, parent: str | None = None, unit_id=None) -> dict:
+def _mk_node(
+    seg: str, parent: str | None = None, unit_id=None, *, name: str | None = None
+) -> dict:
     return {
         "segment": seg,
         "parentSegment": parent,
         "unitId": unit_id,
-        "name": seg,
+        "name": name or seg,
         "path": [seg] if parent is None else [parent, seg],
     }
 
@@ -305,3 +307,132 @@ def test_estimate_folder_chars_distinguishes_courses_from_stubs():
     assert has1 is False
     assert has2 is True
     assert total_mixed > total_stubs
+
+# ── Cross-listing via detail-page `assigned_programs` ────────────────────
+
+def test_cross_listing_index_and_resolution():
+    """Detail-page program-name → catalog segment lookup."""
+    from render_markdown import (  # noqa: WPS433
+        _build_program_cross_index,
+        _norm_program_name,
+        _resolve_assigned_segments,
+    )
+
+    programs = [
+        _mk_node("title:17967", parent="title:17593", name="Medizintechnik"),
+        _mk_node("title:17950", parent="title:17593", name="Artificial Intelligence"),
+        _mk_node("title:18301", parent="title:17600", name="English Studies"),
+        # Computerlinguistik has a parenthetical decoration in some
+        # Campo views — the normalizer must collapse it to the same key
+        # the detail-page string produces.
+        _mk_node("title:18265", parent="title:17600", name="Computerlinguistik"),
+    ]
+    # Add a depth-2 parent path so path[1] resolves cleanly.
+    for p in programs:
+        p["path"] = ["title:1", p["parentSegment"], p["segment"]]
+
+    by_name, _by_section = _build_program_cross_index(programs)
+    assert _norm_program_name("Medizintechnik") in by_name
+    assert by_name[_norm_program_name("English Studies")] == ["title:18301"]
+
+    course = {
+        "unit_id": 136825,
+        "assigned_programs": [
+            {"faculty": "TechFak", "program": "Medizintechnik", "degree": "M.Sc."},
+            {"faculty": "PhilFak", "program": "English Studies", "degree": "M.A."},
+            {"faculty": "PhilFak", "program": "Computerlinguistik", "degree": "B.A. (2 Fächer)"},
+            # An unknown program (not in the catalog at this depth) should
+            # silently be dropped, not raise.
+            {"faculty": "TechFak", "program": "Some-Discontinued-Program", "degree": "—"},
+        ],
+    }
+    segs = _resolve_assigned_segments(course, by_name)
+    assert set(segs) == {"title:17967", "title:18301", "title:18265"}
+
+def test_cross_listing_render_synthetic_corpus(tmp_path):
+    """End-to-end: a course whose subtree is empty in the catalog walk
+    but whose detail-page `assigned_programs` lists five Studiengängen
+    must land in all five program files under a "querverknüpft" section.
+    """
+    from render_markdown import render_corpus  # noqa: WPS433
+
+    def node(seg, name, parent, path, *, children=()):
+        return {
+            "segment": seg,
+            "kind": seg.split(":", 1)[0],
+            "nodeId": int(seg.split(":", 1)[1]),
+            "name": name,
+            "path": path,
+            "parentSegment": parent,
+            "children": list(children),
+            "unitId": None,
+        }
+
+    snapshot = {
+        "periodId": 589,
+        "periodName": "Sommersemester 2026",
+        "scrapedAt": "2026-05-21T00:00:00Z",
+        "rootSegment": "title:1",
+        "maxDepth": 6,
+        "nodes": [
+            node("title:1", "Studiengänge", None, ["title:1"],
+                 children=["title:17593", "title:17592", "title:17600"]),
+            node("title:17593", "TechFak", "title:1",
+                 ["title:1", "title:17593"],
+                 children=["title:17967", "title:17950"]),
+            node("title:17967", "Medizintechnik", "title:17593",
+                 ["title:1", "title:17593", "title:17967"]),
+            node("title:17950", "Artificial Intelligence", "title:17593",
+                 ["title:1", "title:17593", "title:17950"]),
+            node("title:17592", "NatFak", "title:1",
+                 ["title:1", "title:17592"], children=["title:17658"]),
+            node("title:17658", "Data Science", "title:17592",
+                 ["title:1", "title:17592", "title:17658"]),
+            node("title:17600", "PhilFak", "title:1",
+                 ["title:1", "title:17600"],
+                 children=["title:18301", "title:18265"]),
+            node("title:18301", "English Studies", "title:17600",
+                 ["title:1", "title:17600", "title:18301"]),
+            node("title:18265", "Computerlinguistik", "title:17600",
+                 ["title:1", "title:17600", "title:18265"]),
+        ],
+    }
+    courses = {
+        "periodId": 589,
+        "courses": [
+            {
+                "unit_id": 136825,
+                "period_id": 589,
+                "title": "Seminar Large Language Models in Medicine",
+                "permalink": "https://www.campo.fau.de/...&unitId=136825&periodId=589",
+                "course_type": "Seminar",
+                "instructors_resp": ["Person A"],
+                "appointments": [],
+                "org_unit": "Lehrstuhl für Informatik 5 (Mustererkennung) (Verantwortlicher)",
+                "assigned_programs": [
+                    {"faculty": "TechFak", "program": "Medizintechnik", "degree": "Master of Science"},
+                    {"faculty": "TechFak", "program": "Artificial Intelligence", "degree": "Master of Science"},
+                    {"faculty": "NatFak", "program": "Data Science", "degree": "Master of Science"},
+                    {"faculty": "PhilFak", "program": "English Studies", "degree": "Master of Arts"},
+                    {"faculty": "PhilFak", "program": "Computerlinguistik", "degree": "Bachelor of Arts (2 Fächer)"},
+                ],
+            }
+        ],
+    }
+    stats = render_corpus(snapshot, tmp_path, courses=courses)
+    assert stats["courses_cross_listed"] == 5
+    assert stats["courses_with_cross_assignments"] == 1
+
+    period_dir = next(tmp_path.glob("589-*"))
+    expected_program_files = {
+        "medizintechnik-17967.md",
+        "artificial-intelligence-17950.md",
+        "data-science-17658.md",
+        "english-studies-18301.md",
+        "computerlinguistik-18265.md",
+    }
+    for fname in expected_program_files:
+        body = (period_dir / fname).read_text(encoding="utf-8")
+        assert "Seminar Large Language Models in Medicine" in body, fname
+        assert "querverknüpft" in body, fname  # the section heading marker
+        assert "unit:136825" in body, fname    # synthesised segment label
