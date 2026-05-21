@@ -350,7 +350,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | Einzeltermin | Mo | 18:00–20:00 | 17.11.2025 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
-### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Übung
+### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, LSE, MT) - Übung
 
 - **Segment:** `exam:13795952` · **unitId:** `85817`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795952>
@@ -366,7 +366,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Übung
+### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, LSE, MT) - Übung
 
 - **Segment:** `exam:13795951` · **unitId:** `85817`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13795951>
@@ -382,7 +382,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Übung
+### BRT-Ü - Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, LSE, MT) - Übung
 
 - **Segment:** `exam:13795953` · **unitId:** `85817`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754751|exam:13795953>
@@ -398,7 +398,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Vorlesung
+### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, BT, LSE, MT) - Vorlesung
 
 - **Segment:** `exam:13795542` · **unitId:** `84907`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795542>
@@ -415,7 +415,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Vorlesung
+### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, BT, LSE, MT) - Vorlesung
 
 - **Segment:** `exam:13795543` · **unitId:** `84907`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13795543>
@@ -432,7 +432,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, BT, MT) - Vorlesung
+### BRT_D - Bioreaktions- und Bioverfahrenstechnik (CBI, BT, LSE, MT) - Vorlesung
 
 - **Segment:** `exam:13795544` · **unitId:** `84907`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754751|exam:13795544>

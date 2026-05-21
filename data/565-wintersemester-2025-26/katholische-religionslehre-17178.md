@@ -467,6 +467,35 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–13:00 | 15.10.2025–04.02.2026 | — |
 
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (3)
+
+_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Begleitseminar zum Praktikum in der Mittelschule — Hauptseminar
+
+- **Segment:** `unit:92662` · **unitId:** `92662`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92662&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
+### Biblische Theologie und ihre Didaktik / Einführung in die Theologie — Seminar
+
+- **Segment:** `unit:93520` · **unitId:** `93520`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93520&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Sommersemester
+
+### Grundfragen des Alten und Neuen Testaments — Seminar
+
+- **Segment:** `unit:101922` · **unitId:** `101922`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101922&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Sommersemester
+
 ## Lehramts-Prüfungsordnungen
 
 - [LA Katholische Religionslehre 20210415 ÄS.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-katholische-religionslehre-20210415-aes.md)
