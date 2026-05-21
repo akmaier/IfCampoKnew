@@ -84,12 +84,15 @@ jobs:
   scrape_current:
     needs: vars
     runs-on: ubuntu-latest
-    timeout-minutes: 720  # 12 h. Run 26207008409 (2026-05-21) hit the
-                           # original 6 h cap on a Campo-rate-limited day —
-                           # the fetch step alone burned the full budget.
-                           # 12 h matches the pre-refactor allowance per
-                           # job; with parallelism, total wall-clock still
-                           # stays bounded by max(current, prior).
+    timeout-minutes: 350   # ~6 h. **GitHub-hosted runners have a hard
+                            # 6 h per-job cap** that overrides any larger
+                            # `timeout-minutes` (run 26222834010 ran into
+                            # this — 720 was silently treated as 360).
+                            # Use a step-level `timeout-minutes` on the
+                            # slow search-walker step instead (see below)
+                            # and let it fail-soft so the *rest* of the
+                            # job (resume-fetch, artifact upload) still
+                            # runs inside the per-job budget.
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -150,8 +153,14 @@ jobs:
             -v
 
       - name: Search-walker backfill (catches courses missed by catalog walk)
+        # Cap at 90 min so a slow-Campo day (run 26222834010 saw search-
+        # walker stuck at 3 h+) can't burn the whole 6 h job budget.
+        # `search_walker.py` checkpoints to disk every ~50 queries, so
+        # whatever was discovered before the cap is still usable by the
+        # resume-fetch step below.
         if: needs.vars.outputs.with_courses == 'true'
         continue-on-error: true
+        timeout-minutes: 90
         run: |
           python scraper/search_walker.py \
             --period ${{ needs.vars.outputs.period_id }} \
@@ -163,6 +172,8 @@ jobs:
 
       - name: Fetch course details from search backfill
         if: needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', needs.vars.outputs.period_id)) != ''
+        continue-on-error: true
+        timeout-minutes: 45
         run: |
           python scraper/fetch_courses.py \
             --in tmp/${{ needs.vars.outputs.period_id }}-search.json \
@@ -174,6 +185,11 @@ jobs:
             -v
 
       - name: Upload current-period artifacts
+        # `if: always()` so even a partial scrape (walker timed out,
+        # resume-fetch never reached) still uploads whatever made it to
+        # disk. Without this, a single slow step throws away ~3 h of
+        # successful catalog walk + detail fetch + sweep work.
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: scrape-current-${{ needs.vars.outputs.period_id }}
@@ -190,7 +206,7 @@ jobs:
     needs: vars
     if: needs.vars.outputs.prior_period_id != ''
     runs-on: ubuntu-latest
-    timeout-minutes: 720  # 12 h. Same shape as scrape_current (see note there).
+    timeout-minutes: 350   # See scrape_current — GitHub-hosted hard 6 h cap.
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -272,8 +288,11 @@ jobs:
             -v
 
       - name: Search-walker backfill for prior period
+        # See scrape_current — step-level cap so a slow-Campo day can't
+        # eat the per-job budget. Checkpoints to disk every ~50 queries.
         if: needs.vars.outputs.with_courses == 'true'
         continue-on-error: true
+        timeout-minutes: 90
         run: |
           python scraper/search_walker.py \
             --period ${{ needs.vars.outputs.prior_period_id }} \
@@ -285,6 +304,8 @@ jobs:
 
       - name: Fetch prior-period courses from search backfill
         if: needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', needs.vars.outputs.prior_period_id)) != ''
+        continue-on-error: true
+        timeout-minutes: 45
         run: |
           python scraper/fetch_courses.py \
             --in tmp/${{ needs.vars.outputs.prior_period_id }}-search.json \
@@ -296,6 +317,9 @@ jobs:
             -v
 
       - name: Upload prior-period artifacts
+        # See scrape_current — `if: always()` so partial scrapes are
+        # still persisted as artifacts.
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: scrape-prior-${{ needs.vars.outputs.prior_period_id }}

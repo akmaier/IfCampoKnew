@@ -207,6 +207,34 @@ def search_query(
     return found
 
 
+def _snapshot_from_aggregate(
+    aggregate: dict[int, str], period_id: int, period_name: str
+) -> dict:
+    """Materialise the current ``aggregate`` dict as a scrape.py-shaped
+    snapshot. Pulled out of :func:`collect` so the parallel path can
+    checkpoint incrementally without duplicating the dict-flattening."""
+    nodes = [
+        {
+            "segment": f"search:{uid}",
+            "name": title or f"(via search, unit_id {uid})",
+            "path": [],
+            "parentSegment": None,
+            "kind": "search-result",
+            "unitId": uid,
+            "children": [],
+        }
+        for uid, title in sorted(aggregate.items())
+    ]
+    return {
+        "periodId": period_id,
+        "periodName": period_name,
+        "scrapedAt": _dt.datetime.now(_dt.timezone.utc).isoformat(timespec="seconds"),
+        "rootSegment": None,
+        "maxDepth": 0,
+        "nodes": nodes,
+    }
+
+
 def collect(
     queries: list[str],
     period_id: int,
@@ -215,6 +243,8 @@ def collect(
     interval: float = 0.5,
     parallel: int = 1,
     max_pages: int = 5,
+    out_path: "Optional[object]" = None,
+    save_every: int = 50,
 ) -> dict:
     """Run all queries and aggregate into a scrape.py-shaped snapshot.
 
@@ -230,8 +260,27 @@ def collect(
     (vs ~9 queries/min single-session), so the full FAUdir + instructor
     backfill list (~5 000 queries) fits comfortably in a single cron
     step.
+
+    When ``out_path`` is provided the aggregate is written to disk every
+    ``save_every`` completed queries, so a forced exit (job timeout,
+    SIGTERM, OOM) leaves a usable JSON behind. Without this checkpoint
+    a 6 h GitHub-Actions job-cap that fires mid-walker silently throws
+    away every discovered unit_id (Entry 0031 / run 26222834010).
     """
     aggregate: dict[int, str] = {}
+    last_save_count = [0]
+
+    def maybe_checkpoint(done_count: int, force: bool = False) -> None:
+        if out_path is None:
+            return
+        if not force and (done_count - last_save_count[0]) < save_every:
+            return
+        snap = _snapshot_from_aggregate(aggregate, period_id, period_name)
+        from pathlib import Path as _Path
+        p = _Path(out_path) if not isinstance(out_path, _Path) else out_path
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(json.dumps(snap, ensure_ascii=False, indent=2), encoding="utf-8")
+        last_save_count[0] = done_count
 
     if parallel <= 1:
         client = CampoClient(min_interval=interval)
@@ -251,6 +300,7 @@ def collect(
             for uid, title in hits.items():
                 if uid not in aggregate or (not aggregate[uid] and title):
                     aggregate[uid] = title
+            maybe_checkpoint(i + 1)
     else:
         # ── Parallel path: N worker threads + shared deque ────────────
         import threading
@@ -297,6 +347,9 @@ def collect(
                             done[0], total, len(aggregate),
                         )
                         last_log_at[0] = done[0]
+                    # Checkpoint inside the lock so the on-disk snapshot
+                    # is a consistent slice of the in-memory aggregate.
+                    maybe_checkpoint(done[0])
 
         log.info(
             "running %d queries against periodId=%d with %d parallel workers",
@@ -311,26 +364,10 @@ def collect(
             done[0], len(aggregate),
         )
 
-    nodes = [
-        {
-            "segment": f"search:{uid}",
-            "name": title or f"(via search, unit_id {uid})",
-            "path": [],
-            "parentSegment": None,
-            "kind": "search-result",
-            "unitId": uid,
-            "children": [],
-        }
-        for uid, title in sorted(aggregate.items())
-    ]
-    return {
-        "periodId": period_id,
-        "periodName": period_name,
-        "scrapedAt": _dt.datetime.now(_dt.timezone.utc).isoformat(timespec="seconds"),
-        "rootSegment": None,
-        "maxDepth": 0,
-        "nodes": nodes,
-    }
+    # Final checkpoint so the on-disk JSON matches the in-memory state
+    # regardless of how we exited the parallel/sequential paths.
+    maybe_checkpoint(len(queries), force=True)
+    return _snapshot_from_aggregate(aggregate, period_id, period_name)
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -390,6 +427,13 @@ def main(argv: list[str] | None = None) -> int:
         "running %d queries against periodId=%d (parallel=%d, interval=%.2fs)",
         len(queries), args.period, args.parallel, args.interval,
     )
+    # Pass `out_path` into collect() so the aggregate is checkpointed to
+    # disk every ~50 queries. If the surrounding GitHub-Actions job hits
+    # its hard 6 h cap mid-walker, the JSON already on disk holds every
+    # uid we've discovered so far — `fetch_courses.py --resume` (or the
+    # next workflow run) can pick up from there instead of throwing the
+    # whole sweep away.
+    args.out.parent.mkdir(parents=True, exist_ok=True)
     snap = collect(
         queries,
         period_id=args.period,
@@ -397,9 +441,8 @@ def main(argv: list[str] | None = None) -> int:
         interval=args.interval,
         parallel=args.parallel,
         max_pages=args.max_pages,
+        out_path=args.out,
     )
-    args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(json.dumps(snap, ensure_ascii=False, indent=2), encoding="utf-8")
     print(
         f"wrote {args.out}: periodId={args.period} unit_ids={len(snap['nodes'])}"
     )
