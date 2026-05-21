@@ -84,9 +84,12 @@ jobs:
   scrape_current:
     needs: vars
     runs-on: ubuntu-latest
-    timeout-minutes: 360  # 6 h. Catalog walk + fetch + sweep + search-
-                           # walker for one period observed ~3.5 h on
-                           # 2026-05-20. 6 h gives a comfortable margin.
+    timeout-minutes: 720  # 12 h. Run 26207008409 (2026-05-21) hit the
+                           # original 6 h cap on a Campo-rate-limited day —
+                           # the fetch step alone burned the full budget.
+                           # 12 h matches the pre-refactor allowance per
+                           # job; with parallelism, total wall-clock still
+                           # stays bounded by max(current, prior).
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -187,7 +190,7 @@ jobs:
     needs: vars
     if: needs.vars.outputs.prior_period_id != ''
     runs-on: ubuntu-latest
-    timeout-minutes: 360  # 6 h. Same shape as scrape_current.
+    timeout-minutes: 720  # 12 h. Same shape as scrape_current (see note there).
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
