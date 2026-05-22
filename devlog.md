@@ -2087,3 +2087,95 @@ classifier, +1 cross-listing index resolution, +1 end-to-end render).
 A full re-scrape is needed (both periods) so the new `assigned_programs`
 field actually populates in the artifacts that `render_and_release`
 consumes.
+
+## Entry 0032 — The hard 6 h job cap: fail-soft pipeline + resume-fetch tuning
+
+- **Start:** 2026-05-21 13:00 CEST
+- **End:** 2026-05-22 (run 26270794853 in flight)
+- **Actor:** user → Claude Code (Opus 4.7, 1M context); auto mode
+
+**Prompt (verbatim, condensed):**
+
+> [continue] … What budget do we have for gh actions? We can use that
+> budget...
+
+**Context.** The Entry 0031 cross-listing fix shipped on commit
+`1104e6c`, but getting a clean corpus out of CI took **four** runs and
+surfaced a GitHub-Actions constraint we'd been quietly fighting since
+Entry 0025:
+
+| Run | Commit | Outcome |
+|---|---|---|
+| 26207008409 | `1104e6c` | Both scrapes **cancelled at 360 min** |
+| 26222834010 | `f9039b0` | Same — `timeout-minutes: 720` ignored |
+| 26242109232 | `d004d88` | **success**, but resume-fetch capped early |
+| 26270794853 | `2f89e3e` | in flight |
+
+**Root cause — GitHub-hosted runners cap a job at 6 h, hard.**
+`timeout-minutes` can only ever *lower* the limit; setting `720`
+silently clamps to `360`. The pre-refactor monolith had `720` in its
+YAML and "worked" only because no single run had yet crossed 6 h.
+The Entry 0030 split into parallel jobs made each job shorter — but a
+slow-Campo day still pushed `scrape_current` / `scrape_prior` past the
+cap, and they were killed mid-fetch.
+
+**Fail-soft redesign (commit `d004d88`).** Stop fighting the cap; make
+every long step *survivable*:
+
+1. `search_walker.py` now checkpoints to disk every ~50 queries
+   (new `out_path` arg to `collect()` + `_snapshot_from_aggregate`
+   helper). Previously it wrote JSON only at the very end, so a kill
+   mid-walker discarded *every* discovered uid. (Run 26222834010 lost
+   a 3 h+ walker this way.)
+2. The slow steps get **step-level** `timeout-minutes` with
+   `continue-on-error: true`: search-walker 90 min, resume-fetch
+   45 min (later 75). A step that blows its budget is killed, but the
+   *job* keeps going to the next step.
+3. Artifact uploads run `if: always()` so a partial scrape is still
+   persisted for `render_and_release`.
+4. Per-job `timeout-minutes` set to `350` — documents the real
+   ceiling instead of the fictional `720`.
+
+**Run 26242109232 (commit `d004d88`) — success in ~4 h.** Both scrape
+jobs finished inside budget; `render_and_release` produced a corpus
+and cut a Release. But verification showed Person A's seminar
+*still* absent: the `search_walker` completed all 2 680 queries
+(9 150 uids), but the **resume-fetch step timed out at its 45 min cap**
+— 7 400 of 7 741 current-period uids fetched. uid 136825 sorts at
+rank 9 117/9 150, i.e. squarely in the unfetched 341-uid tail
+(131963–137849). `scrape_prior` hit the identical wall (~8 000 uids).
+
+**Local end-to-end verification.** Rather than burn another 4 h CI run
+on a guess, downloaded the `scrape-current-589` artifact, fetched just
+the 341 missing uids locally (`fetch_courses.py --resume`, parallel=4,
+~2 min), merged, and ran `render_markdown.py`:
+
+```
+rendered period 589: programs=234 courses=11342
+  cross_listed_courses=33402 (from 7674 unique uids)
+$ grep -rl "Seminar Large Language Models in Medicine" 589-…/
+  artificial-intelligence-17950.md
+  computerlinguistik-18265.md
+  data-science-17658.md
+  english-studies-18301.md
+  medizintechnik-17967.md          ← all 5, as designed
+```
+
+The Entry 0031 cross-listing chain is therefore **proven correct on
+real data** — the only thing wrong was the resume-fetch budget.
+
+**Fix (commit `2f89e3e`).** Resume-fetch-from-search: `--parallel 2 →
+4`, `--interval 0.2 → 0.3`, step cap `45 → 75 min`, both periods.
+`scrape_current` had run only 238 min of its 350 min budget, so the
+extra resume-fetch headroom fits comfortably.
+
+**GH Actions budget note.** `akmaier/IfCampoKnew` is a **public** repo
+→ unlimited Actions minutes, free. The 6 h limit is a per-job
+*execution* cap, not a billing cap — it cannot be bought around on
+hosted runners. The only ways past it are: finish faster (parallelism),
+split into more jobs, or self-hosted runners.
+
+**Status (in flight):** run 26270794853 on `2f89e3e`. On completion,
+verify the seminar lands in all 5 Studiengang files straight from CI
+and that `personen/INDEX.md` no longer links the phantom
+`nicht-im-katalog-auf-tiefe-4-0.md`.
