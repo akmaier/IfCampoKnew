@@ -171,16 +171,20 @@ jobs:
             -v
 
       - name: Fetch course details from search backfill
+        # parallel=4 (run 26242109232 timed out at 7400/7741 with
+        # parallel=2 — Person A's seminar was in the unfetched
+        # tail). 75 min cap leaves headroom: scrape_current ran 238 min
+        # total, well under the 350 min job budget.
         if: needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', needs.vars.outputs.period_id)) != ''
         continue-on-error: true
-        timeout-minutes: 45
+        timeout-minutes: 75
         run: |
           python scraper/fetch_courses.py \
             --in tmp/${{ needs.vars.outputs.period_id }}-search.json \
             --out tmp/${{ needs.vars.outputs.period_id }}-courses.json \
             --resume \
-            --parallel 2 \
-            --interval 0.2 \
+            --parallel 4 \
+            --interval 0.3 \
             --save-every 50 \
             -v
 
@@ -303,16 +307,18 @@ jobs:
             -v
 
       - name: Fetch prior-period courses from search backfill
+        # See scrape_current — parallel=4, 75 min cap (run 26242109232
+        # timed out at parallel=2 with ~8 000 courses to fetch).
         if: needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', needs.vars.outputs.prior_period_id)) != ''
         continue-on-error: true
-        timeout-minutes: 45
+        timeout-minutes: 75
         run: |
           python scraper/fetch_courses.py \
             --in tmp/${{ needs.vars.outputs.prior_period_id }}-search.json \
             --out tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json \
             --resume \
-            --parallel 2 \
-            --interval 0.2 \
+            --parallel 4 \
+            --interval 0.3 \
             --save-every 50 \
             -v
 
