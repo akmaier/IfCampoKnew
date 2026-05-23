@@ -512,26 +512,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-| Einzeltermin | Mi | 09:00–12:00 | 22.04.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 29.04.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 06.05.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 13.05.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 20.05.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 03.06.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 10.06.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 17.06.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 24.06.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 01.07.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 08.07.2026 | — |
-| Blockveranstaltung | — | 09:00–18:00 | 08.07.2026–15.07.2026 | — |
 
 ### Energy Materials - LAB — Praktikum
 
@@ -622,7 +603,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Interface & Catalysis LAB — Praktikum

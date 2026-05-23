@@ -21,7 +21,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Campo-Segment:** `exam:13845402`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17978|exam:13845400|exam:13845401|exam:13845402>
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (2)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (5)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -41,6 +41,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
+### Chirurgische Dammversorgung — Übung
+
+- **Segment:** `unit:134507` · **unitId:** `134507`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134507&periodId=589>
+
+- **Veranstaltungsart:** Übung
+
+### Das auffällige Neugeborene — Vorlesung
+
+- **Segment:** `unit:134500` · **unitId:** `134500`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134500&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+
 ### Ethik der Medizin — Seminar
 
 - **Segment:** `unit:131541` · **unitId:** `131541`
@@ -48,3 +70,18 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
+
+### Notfall und Intensivpflege des Neu- und Frühgeborenen — Übung
+
+- **Segment:** `unit:134499` · **unitId:** `134499`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134499&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |

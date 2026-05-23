@@ -178,7 +178,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:12816143`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17163|exam:12816141|exam:12816142|exam:12816143>
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (32)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (38)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -270,6 +270,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:15–17:45 | 20.10.2025–02.02.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
+### Arat, Phainomena — Hauptseminar
+
+- **Segment:** `unit:134789` · **unitId:** `134789`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134789&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+
+### Ausgewählte Partien aus der zweiten Hälfte der Odyssee — Hauptseminar
+
+- **Segment:** `unit:120031` · **unitId:** `120031`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120031&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### Betreute berufsorientierte Tätigkeit an der Bayerischen Staatsbibliothek München (mit einer Selbststudiumseinheit) — Sonstige Lehrveranstaltung
 
 - **Segment:** `unit:88259` · **unitId:** `88259`
@@ -295,6 +309,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 6.0
 - **Turnus:** Unregelmäßig
 
+### Das italische Verb — Hauptseminar
+
+- **Segment:** `unit:134569` · **unitId:** `134569`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134569&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Die frühe Indogermanistik — Vorlesung
 
 - **Segment:** `unit:88876` · **unitId:** `88876`
@@ -312,6 +335,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Die philosophische Inschrift des Diogenes in Oinoanda — Seminar
+
+- **Segment:** `unit:120033` · **unitId:** `120033`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120033&periodId=565>
+
+- **Veranstaltungsart:** Seminar
 
 ### Dion von Prusa: Olympische Rede — Hauptseminar
 
@@ -352,6 +382,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:15–09:45 | 20.10.2025–02.02.2026 | 05901.04.012 |
+
+### Einführung in das Altpersische — Übung
+
+- **Segment:** `unit:134567` · **unitId:** `134567`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134567&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Einführung in das Hethitische — Mittelseminar
 
@@ -439,6 +478,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119182&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
+
+### Kolloquium Literaturgeschichte — Übung
+
+- **Segment:** `unit:122716` · **unitId:** `122716`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122716&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
 
 ### Kolloquium Literaturgeschichte: Dichtkunst. Poetiken von der Antike bis zur Barockzeit — Übung
 

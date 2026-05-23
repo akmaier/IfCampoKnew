@@ -335,7 +335,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | 14-täglich | Do | 12:00–13:00 | 23.10.2025–29.01.2026 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (149)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (182)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -467,6 +467,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 14:15–17:45 | 28.11.2025 | 00701.00.014 (Histosaal) |
 | Einzeltermin | Fr | 14:45–15:45 | 05.12.2025 | 00801.03.024 (KS Anatomie II) |
 | Einzeltermin | Fr | 14:45–15:45 | 19.12.2025 | 00801.03.024 (KS Anatomie II) |
+
+### 1-P8, Praktikum der mikroskopischen Anatomie Teil 1 für Studierende der Zahnmedizin
+
+- **Segment:** `unit:132511` · **unitId:** `132511`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132511&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 04.11.2025–20.01.2026 | 00701.00.014 (Histosaal) |
+| wöchentlich | Di | 16:00–17:30 | 04.11.2025–20.01.2026 | 00701.00.014 (Histosaal) |
 
 ### 1-P9, Praktikum der mikroskopischen Anatomie Teil 2 für Studierende der Zahnmedizin
 
@@ -663,6 +679,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** in jedem Semester
 
+### 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I
+
+- **Segment:** `unit:132135` · **unitId:** `132135`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132135&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–17:00 | 07.01.2026–09.01.2026 | — |
+
 ### 3-P12 Operationskurs Teil I B — Praktikum
 
 - **Segment:** `unit:117688` · **unitId:** `117688`
@@ -671,6 +702,137 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+### 3-P13 Operationskurs Teil 1C — Praktikum
+
+- **Segment:** `unit:126329` · **unitId:** `126329`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126329&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### 3-P14 Operationskurs Teil IIA — Praktikum
+
+- **Segment:** `unit:126361` · **unitId:** `126361`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126361&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### 3-P15 Operationskurs Teil II B — Praktikum
+
+- **Segment:** `unit:130008` · **unitId:** `130008`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130008&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### 3-P29 Praktikum der allgemeinen und speziellen Pathologie für Studierende der Zahnmedizin (incl. 3-V14 & 3-V31) — Vorlesung mit Übung
+
+- **Segment:** `unit:127876` · **unitId:** `127876`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127876&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–17:00 | 17.10.2025–23.01.2026 | — |
+
+### 3-P8 und 3-S2 Praktikum und Seminar der kieferorthopädischen Diagnostik und Therapie I
+
+- **Segment:** `unit:132293` · **unitId:** `132293`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132293&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 17:00–18:00 | 13.10.2025–02.02.2026 | — |
+| wöchentlich | Mi | 17:00–19:00 | 15.10.2025–04.02.2026 | — |
+
+### 3-P9 & 3-P11 & 3-S3 Praktikum der kieferorthopädischen Diagnostik und Therapie II (incl. Assistieren und Seminar)
+
+- **Segment:** `unit:132136` · **unitId:** `132136`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132136&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 17:15–18:00 | 15.10.2025–04.02.2026 | — |
+
+### 3-V1&3-V2&3-V5 Zahnerhaltungskunde I incl. Poliklinik und Parodontologische Demonstrationen — Vorlesung
+
+- **Segment:** `unit:124634` · **unitId:** `124634`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124634&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–12:45 | 14.10.2025–03.02.2026 | — |
+| wöchentlich | Mi | 08:00–09:00 | 15.10.2025–04.02.2026 | — |
+| wöchentlich | Mi | 10:15–11:00 | 15.10.2025–04.02.2026 | — |
+| wöchentlich | Mi | 11:30–12:15 | 15.10.2025–04.02.2026 | — |
+| wöchentlich | Do | 11:30–12:15 | 16.10.2025–05.02.2026 | — |
+
+### 3-V10 Zahnersatzkunde II — Vorlesung
+
+- **Segment:** `unit:132158` · **unitId:** `132158`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132158&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### 3-V29 Pharmakologie und Toxikologie I für Studierende der Zahnmedizin — Vorlesung
+
+- **Segment:** `unit:128679` · **unitId:** `128679`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128679&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | — |
+
+### 3-V30 Pharmakologie und Toxikologie II für Studierende der Zahnmedizin — Vorlesung
+
+- **Segment:** `unit:132094` · **unitId:** `132094`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132094&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | — |
 
 ### 3-V32/3-V33 Innere Medizin für Zahnmediziner — Vorlesung
 
@@ -686,6 +848,75 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 13:15–14:45 | 24.10.2025–06.02.2026 | — |
+
+### 3-V38 Medizin und Zahnmedizin des Alterns und des alten Menschen (QZ3) — Vorlesung mit Übung
+
+- **Segment:** `unit:124736` · **unitId:** `124736`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124736&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### 3-V39 QZ4 Klinische Werkstoffkunde — Vorlesung
+
+- **Segment:** `unit:133183` · **unitId:** `133183`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133183&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### 3-V40 Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, Öffentliche Gesundheitspflege, Gesundheitsökonomie — Vorlesung
+
+- **Segment:** `unit:125508` · **unitId:** `125508`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125508&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:00 | 15.10.2025–04.02.2026 | — |
+
+### 3-V41 QZ8 Geschichte und Ethik der Zahnheilkunde — Seminar
+
+- **Segment:** `unit:132281` · **unitId:** `132281`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132281&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 15:00–17:00 | 12.11.2025 | — |
+| Einzeltermin | Mi | 15:00–17:00 | 03.12.2025 | — |
+| Einzeltermin | Mi | 15:00–17:00 | 17.12.2025 | — |
+| Einzeltermin | Mi | 15:00–17:00 | 07.01.2026 | — |
+| Einzeltermin | Mi | 15:00–17:00 | 21.01.2026 | — |
+| Einzeltermin | Mi | 15:00–17:00 | 04.02.2026 | — |
+
+### 3-V42 Wissenschaftliches Arbeiten mit den Schwerpunkten medizinische Biometrie, medizinische Informatik, Literaturrecherche und -bewertung und evidenzbasierte Medizin QZ9 — Vorlesung
+
+- **Segment:** `unit:135409` · **unitId:** `135409`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135409&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### 3-V9 Zahnersatzkunde — Vorlesung
+
+- **Segment:** `unit:127609` · **unitId:** `127609`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127609&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Allgemeine Chirurgie für Zahnmediziner Vorlesung als Auskultant
 
@@ -709,6 +940,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kurs
 - **Turnus:** in jedem Semester
+
+### Anmeldung für 3-P9 & 3-P11 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie II & Hospitation Kursus II
+
+- **Segment:** `unit:132143` · **unitId:** `132143`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132143&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–17:00 | 23.03.2026–10.04.2026 | — |
 
 ### Chemisches Praktikum für Zahnmediziner
 
@@ -1023,6 +1269,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 18:30–20:00 | 20.10.2025–02.02.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
 | wöchentlich | Mi | 18:30–20:00 | 22.10.2025–04.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
+### Deutsch B1: Allgemeinkurs — Übung
+
+- **Segment:** `unit:127471` · **unitId:** `127471`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127471&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 21.10.2025–03.02.2026 | 05203.00.213 (SZ 00.213 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| wöchentlich | Do | 12:15–13:45 | 23.10.2025–05.02.2026 | 05203.00.213 (SZ 00.213 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+
 ### Deutsch B1: Grammatik — Übung
 
 - **Segment:** `unit:90891` · **unitId:** `90891`
@@ -1066,6 +1329,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
+
+### Deutsch B1: Schriftlicher und mündlicher Ausdruck — Übung
+
+- **Segment:** `unit:122786` · **unitId:** `122786`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122786&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** Unregelmäßig
 
 ### Deutsch B1: Übungen im Formulieren
 
@@ -1232,6 +1504,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
+
+### English: Level 3 - Communicating in a Professional Context — Übung
+
+- **Segment:** `unit:127210` · **unitId:** `127210`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127210&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 22.10.2025–04.02.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 3 - Conversational Language — Übung
 
@@ -1620,6 +1908,115 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
+### MED 42001 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patient:innenversorgung — Praxisseminar
+
+- **Segment:** `unit:126788` · **unitId:** `126788`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126788&periodId=565>
+
+- **Veranstaltungsart:** Praxisseminar
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | — |
+
+### MED 42011: Ärztliche Selbstfürsorge II — Seminar
+
+- **Segment:** `unit:120511` · **unitId:** `120511`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120511&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+### MED 42051: "Amors vergifteter Pfeil." Die Geschichte der Syphilis — Seminar
+
+- **Segment:** `unit:127582` · **unitId:** `127582`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127582&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### MED 42101: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR — Seminar
+
+- **Segment:** `unit:127647` · **unitId:** `127647`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127647&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–20:00 | 20.10.2025–26.01.2026 | — |
+
+### MED 42351 Grundlagen der experimentellen Forschung für die medizinische Doktorarbeit — Seminar
+
+- **Segment:** `unit:128455` · **unitId:** `128455`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128455&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–13:30 | 23.02.2026–27.02.2026 | — |
+| Einzeltermin | Fr | 09:00–12:00 | 06.03.2026 | — |
+
+### MED 42751: Mensch-Medizin-Maschine. Objektgeschichten als Medizingeschichte 3D — Seminar
+
+- **Segment:** `unit:132306` · **unitId:** `132306`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132306&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
+| Einzeltermin | Do | 17:00–19:00 | 30.10.2025 | — |
+
+### MED 44001: "Durch die hörnerne oder elfenbeinfarbene Pforte..." - Traumdeutung in der Antike — Seminar
+
+- **Segment:** `unit:120718` · **unitId:** `120718`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120718&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### MED 44351 Hands-on Simulation einer praktischen Doktorarbeit für Zahnmediziner — Kurs
+
+- **Segment:** `unit:124057` · **unitId:** `124057`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124057&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–16:00 | 09.02.2026–13.02.2026 | — |
+
+### MED 45041: Deutsche Emigration nach Brasilien — Seminar
+
+- **Segment:** `unit:120720` · **unitId:** `120720`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120720&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nicht in diesem Semester
+
 ### MED 45051 Angewandte Anatomie (EMPTY-Kurs) — Seminar
 
 - **Segment:** `unit:102627` · **unitId:** `102627`
@@ -1847,6 +2244,31 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+### MED47351 - Bioinformatics in Medical Research / Bioinformatik in der medizinischen Forschung — Seminar
+
+- **Segment:** `unit:135363` · **unitId:** `135363`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135363&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### MED: 42701: Die Erfindung des Hippokrates. Was gibt's Neues bei den Griechen? — Seminar
+
+- **Segment:** `unit:132305` · **unitId:** `132305`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132305&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:15–19:45 | 11.11.2025 | — |
+| wöchentlich | Di | 18:15–19:45 | 25.11.2025 | — |
+| wöchentlich | Di | 18:15–19:45 | 09.12.2025 | — |
+| Blockveranstaltung | — | 15:00–20:00 | 21.01.2026 | — |
 
 ### Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. — Vorlesung mit Übung
 

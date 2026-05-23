@@ -385,12 +385,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:15–12:45 | 13.04.2026–13.07.2026 | — |
-
 ### Phoniatrie III Übung
 
 - **Segment:** `unit:118253` · **unitId:** `118253`

@@ -358,15 +358,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85725&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
-| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### Molecular Neuroscience — Seminar
 
@@ -398,17 +390,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103186&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 09:15–10:00 | 13.04.2026–13.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
-| wöchentlich | Di | 09:15–10:00 | 14.04.2026–14.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
-| wöchentlich | Mi | 09:15–10:00 | 15.04.2026–15.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
-| wöchentlich | Do | 09:15–10:00 | 16.04.2026–16.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
 
 ### Rechnerübungen zu Algorithmen und Datenstrukturen
 

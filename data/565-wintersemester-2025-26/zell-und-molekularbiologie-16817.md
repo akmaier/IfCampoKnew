@@ -413,7 +413,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16817|title:16982|title:16986|exam:11920837>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53877&periodId=565>
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (60)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (68)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -425,6 +425,31 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### Computational ImmunoBiology — Seminar und Übung
+
+- **Segment:** `unit:125834` · **unitId:** `125834`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125834&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 11:00–18:00 | 20.10.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+| Einzeltermin | Di | 10:00–12:00 | 21.10.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+| Einzeltermin | Mi | 10:00–12:00 | 22.10.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+| Einzeltermin | Fr | 10:00–12:00 | 24.10.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.10.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+| Einzeltermin | Mo | 10:00–12:00 | 27.10.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+| Einzeltermin | Mo | 15:00–17:00 | 27.10.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+| Einzeltermin | Di | 10:00–12:00 | 28.10.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+| Einzeltermin | Mo | 10:00–18:00 | 10.11.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+| Einzeltermin | Fr | 10:00–13:00 | 14.11.2025 | — |
 
 ### Englisch C1+ Focus on American Politics
 
@@ -439,6 +464,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### English: Level 3 - Communicating in a Professional Context — Übung
+
+- **Segment:** `unit:127210` · **unitId:** `127210`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127210&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 22.10.2025–04.02.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 3 - Conversational Language — Übung
 
@@ -865,6 +906,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 7.5
 - **Turnus:** nur im Sommersemester
 
+### Klinische Immunologie — Seminar und Übung
+
+- **Segment:** `unit:125958` · **unitId:** `125958`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125958&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Sommersemester
+
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:96547` · **unitId:** `96547`
@@ -990,6 +1040,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
+### Mukosale Immunologie — Seminar und Übung
+
+- **Segment:** `unit:122521` · **unitId:** `122521`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122521&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Sommersemester
+
 ### Orientierungsmodul Autoimmunität — Seminar und Übung
 
 - **Segment:** `unit:85114` · **unitId:** `85114`
@@ -1090,6 +1149,33 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
+### Orientierungsmodul: Immunonkologie — Seminar und Übung
+
+- **Segment:** `unit:122518` · **unitId:** `122518`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122518&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Sommersemester
+
+### Orientierungsmodul: Interkindom communication via extracellular vesicles — Seminar und Übung
+
+- **Segment:** `unit:129112` · **unitId:** `129112`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129112&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Sommersemester
+
+### Orientierungsmodul: Sekretionssysteme und gezielte Beladung extrazellulärer bakterieller Vesikel — Seminar und Übung
+
+- **Segment:** `unit:129117` · **unitId:** `129117`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129117&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Sommersemester
+
 ### Queer Research Worlds (Ringvorlesung)
 
 - **Segment:** `unit:129269` · **unitId:** `129269`
@@ -1146,3 +1232,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 08:30–10:00 | 16.10.2025–05.02.2026 | 01501.01.027 (Konferenzraum Virologie) |
+
+### Translationale Strahlenbiologie — Seminar und Übung
+
+- **Segment:** `unit:135605` · **unitId:** `135605`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135605&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Sommersemester
