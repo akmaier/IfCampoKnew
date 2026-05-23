@@ -491,6 +491,13 @@ jobs:
             -v
 
       - name: Commit corpus changes
+        # Run 26270794853 produced a perfect corpus but lost it: a
+        # devlog commit landed on main during the 6 h scrape, so the
+        # job's checkout was behind and `git push` was rejected. We
+        # only touch `data/` — nothing the human pushes manually — so
+        # a `pull --rebase` is conflict-free in practice. The retry
+        # loop covers the same race repeating during the rebase
+        # (someone else pushes again while we're catching up).
         id: commit
         run: |
           git config user.name "github-actions[bot]"
@@ -499,11 +506,21 @@ jobs:
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No corpus changes — skipping commit and release."
-          else
-            git commit -m "Weekly scrape: ${{ needs.vars.outputs.iso_week }} (period ${{ needs.vars.outputs.period_id }})"
-            git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
+          git commit -m "Weekly scrape: ${{ needs.vars.outputs.iso_week }} (period ${{ needs.vars.outputs.period_id }})"
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main || true
+            if git push origin HEAD:main; then
+              echo "push succeeded on attempt $attempt"
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "push attempt $attempt rejected — refetching and retrying"
+            sleep $((attempt * 5))
+          done
+          echo "ERROR: push failed after 5 attempts"
+          exit 1
 
       - name: Build corpus zip
         if: steps.commit.outputs.changed == 'true'
