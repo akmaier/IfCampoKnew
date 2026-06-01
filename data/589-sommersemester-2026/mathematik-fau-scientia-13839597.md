@@ -559,6 +559,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Mi | 10:00–12:00 | 03.06.2026–15.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 | Einzeltermin | Mi | 16:00–18:00 | 03.06.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### ProO - Projektseminar Optimierung (Bachelor) - Seminar

@@ -444,7 +444,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 07901.00.052 (Ernst-Freiberger-sen.-Hörsaal) 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 
 ### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
 

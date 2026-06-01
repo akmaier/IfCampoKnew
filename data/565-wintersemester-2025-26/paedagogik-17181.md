@@ -2416,6 +2416,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Einführung in pädagogisches Sehen und Denken — Seminar
 
+- **Segment:** `unit:106135` · **unitId:** `106135`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106135&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Einführung in pädagogisches Sehen und Denken — Seminar
+
 - **Segment:** `unit:106133` · **unitId:** `106133`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106133&periodId=565>
 
@@ -2428,13 +2435,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Do | 14:00–16:00 | 30.10.2025 | 05701.00.011 ( 00.011 Übungsraum 2) |
 | wöchentlich | Do | 14:00–16:00 | 06.11.2025–05.02.2026 | 05902.00.005 ( 00.5 PSG) |
-
-### Einführung in pädagogisches Sehen und Denken — Seminar
-
-- **Segment:** `unit:106135` · **unitId:** `106135`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106135&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Einführung in qualitative Methoden — Seminar
 

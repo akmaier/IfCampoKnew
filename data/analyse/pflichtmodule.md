@@ -2,7 +2,7 @@
 kind: "campo-pflichtmodule-aus-po"
 po_files_with_pflicht_modules: 792
 total_pflicht_modules: 8076
-scraped_at: 2026-05-25T11:15:50+00:00
+scraped_at: 2026-06-01T12:32:01+00:00
 ---
 
 # Pflichtmodule — direkt aus PO-Anlagen extrahiert

@@ -529,6 +529,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 16:45–18:15 | 24.06.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Übung Arbeitsmarktökonomik - Übung
 

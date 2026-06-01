@@ -838,7 +838,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 13.05.2026–15.07.2026 | — |
+| wöchentlich | Mi | 16:15–17:45 | 13.05.2026–15.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
 
 ### WW-CBI - Werkstoffkunde für Studierende des CBI und CEN - Vorlesung mit Übung
 

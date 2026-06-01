@@ -427,7 +427,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17645|title:17861|title:17865|exam:14336004>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53877&periodId=589>
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (52)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (71)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -485,6 +485,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+
+### English: Level 3 - Conversational Language — Übung
+
+- **Segment:** `unit:101218` · **unitId:** `101218`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101218&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 3 - Discussing Scientific Research — Übung
 
@@ -546,6 +562,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 54606.02.021 (F 21 (IFA)) |
+
+### English: Level 3 - Intercultural Communication — Übung
+
+- **Segment:** `unit:115692` · **unitId:** `115692`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115692&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 3 - Presenting Scientific Papers for Natural Scientists — Übung
 
@@ -647,6 +678,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+### Forschungs-/Vertiefungsmodul Biochemie: Übungen
+
+- **Segment:** `unit:91391` · **unitId:** `91391`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91391&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
 ### Forschungs-/Vertiefungsmodul Computational Biology: Seminar
 
 - **Segment:** `unit:90503` · **unitId:** `90503`
@@ -662,6 +703,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94507&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Forschungs-/Vertiefungsmodul Entwicklungsbiologie: Seminar
+
+- **Segment:** `unit:88732` · **unitId:** `88732`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88732&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -684,10 +734,48 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+### Forschungs-/Vertiefungsmodul Genetik: Übungen
+
+- **Segment:** `unit:91228` · **unitId:** `91228`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91228&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Forschungs-/Vertiefungsmodul Mikrobiologie: Seminar (Prof. Burkovski)
+
+- **Segment:** `unit:92454` · **unitId:** `92454`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92454&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
 ### Forschungs-/Vertiefungsmodul Mikrobiologie: Übungen (Prof. Burkovski)
 
 - **Segment:** `unit:89634` · **unitId:** `89634`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89634&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Forschungs-/Vertiefungsmodul Molekulare Pflanzenphysiologie: Seminar
+
+- **Segment:** `unit:89352` · **unitId:** `89352`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89352&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Forschungs-/Vertiefungsmodul Molekulare Pflanzenphysiologie: Übungen
+
+- **Segment:** `unit:84838` · **unitId:** `84838`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84838&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 20.0
@@ -728,6 +816,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 20.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+### Forschungs-/Vertiefungsmodul Zellbiologie: Seminar
+
+- **Segment:** `unit:93478` · **unitId:** `93478`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93478&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
 
 ### Forschungs-/Vertiefungsmodul Zellbiologie: Übungen
 
@@ -784,6 +880,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 13:00–19:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
+### Grundlagenvorlesung I im Masterstudium "Zell-und Molekularbiologie"
+
+- **Segment:** `unit:86491` · **unitId:** `86491`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86491&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
+
 ### Grundlagenvorlesung II im Masterstudium "Zell-und Molekularbiologie"
 
 - **Segment:** `unit:87723` · **unitId:** `87723`
@@ -800,6 +905,39 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:45–18:30 | 13.04.2026–22.06.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
 | wöchentlich | Fr | 12:15–14:00 | 17.04.2026–17.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
+
+### Interkingdom communication via extracellular vesicles
+
+- **Segment:** `unit:129103` · **unitId:** `129103`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129103&periodId=589>
+
+- **ECTS-Punkte:** 7.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 08:00–09:00 | — | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+
+### Klinische Immunologie — Seminar und Übung
+
+- **Segment:** `unit:125958` · **unitId:** `125958`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125958&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 10:15–17:00 | 22.06.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
+| Einzeltermin | Di | 10:15–12:00 | 23.06.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
+| Einzeltermin | Mo | 10:15–15:00 | 06.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
+| Einzeltermin | Do | 10:15–15:00 | 16.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
+| Einzeltermin | Fr | 10:30–17:00 | 17.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -833,10 +971,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
+### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:89729` · **unitId:** `89729`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** Unregelmäßig
+
 ### Masterarbeiten Entwicklungsbiologie — Sonstige Lehrveranstaltung
 
 - **Segment:** `unit:89218` · **unitId:** `89218`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89218&periodId=589>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **ECTS-Punkte:** 30.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Masterarbeiten Mikrobiologie (Prof. Burkovski) — Sonstige Lehrveranstaltung
+
+- **Segment:** `unit:96861` · **unitId:** `96861`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96861&periodId=589>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **ECTS-Punkte:** 30.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Masterarbeiten Molekulare Pflanzenphysiologie — Sonstige Lehrveranstaltung
+
+- **Segment:** `unit:88158` · **unitId:** `88158`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88158&periodId=589>
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 30.0
@@ -861,6 +1027,33 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 30.0
 - **Turnus:** in jedem Semester
+
+### Mastermodul Immunologie für Zell- und Molekularbiologen — Seminar und Übung
+
+- **Segment:** `unit:92872` · **unitId:** `92872`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92872&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
+
+### Masterstudiengang Biologie Zell- und Molekularbiologie; Mastermodul "Immunologie und Molekulare Mikrobiologie von Infektionskrankheiten" — Seminar und Übung
+
+- **Segment:** `unit:90939` · **unitId:** `90939`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90939&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
+
+### Molekulare Humangenetik für MSc-Studiengang Zell- und Molekularbiologie — Seminar und Übung
+
+- **Segment:** `unit:94400` · **unitId:** `94400`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94400&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
 
 ### Mukosale Immunologie — Seminar und Übung
 
@@ -1043,6 +1236,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:00–19:00 | 14.04.2026–14.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
+
+### Scientific Presentations — Seminar
+
+- **Segment:** `unit:114539` · **unitId:** `114539`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114539&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–12:30 | 13.05.2026–03.06.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Mi | 09:00–12:30 | 20.05.2026 | — |
 
 ### Scientific Presentations Module for Cell- and Molecular Biology — Seminar
 
