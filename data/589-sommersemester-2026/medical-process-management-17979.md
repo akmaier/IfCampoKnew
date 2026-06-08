@@ -101,15 +101,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | — |
-| wöchentlich | Mi | 15:00–16:30 | 15.04.2026–15.07.2026 | 03002.02.225 (Harald zur Hausen-Hörsaal) |
 
 ### Kommunikations- und Kooperationsaspekte im Gesundheitssystem — Vorlesung
 

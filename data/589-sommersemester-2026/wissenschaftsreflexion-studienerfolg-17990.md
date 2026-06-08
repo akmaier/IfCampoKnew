@@ -701,8 +701,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mo | 12:15–13:45 | 01.06.2026 | — |
-| Einzeltermin | Fr | 09:00–17:00 | 12.06.2026 | — |
-| Einzeltermin | Fr | 09:00–17:00 | 03.07.2026 | — |
+| Einzeltermin | Fr | 09:00–17:00 | 12.06.2026 | 05902.00.014 ( 00.14 PSG) |
 
 ### Zukunftsforschung II - Der Think Tank - Seminar
 

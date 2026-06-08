@@ -1285,7 +1285,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 12104.01.411 (KS II Kurssaal II) 11901.00.226 (H8 Hörsaal 8) |
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | — |
+| T1.76, Egerlandstr. 3 | — | — | — | — |
+| T1.76, Egerlandstr. 3 | — | — | — | — |
+| KS II, Cauerstr. 4 | — | — | — | — |
+| T1.76, Egerlandstr. 3 | — | — | — | — |
+| T1.76, Egerlandstr. 3 | — | — | — | — |
 
 ### Ü-GFiVT - Übung zu Grenzflächen in der Verfahrenstechnik - Übung
 

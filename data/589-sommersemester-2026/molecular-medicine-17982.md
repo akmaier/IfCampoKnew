@@ -287,14 +287,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -398,17 +391,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103186&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 09:15–10:00 | 13.04.2026–13.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
-| wöchentlich | Di | 09:15–10:00 | 14.04.2026–14.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
-| wöchentlich | Mi | 09:15–10:00 | 15.04.2026–15.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
-| wöchentlich | Do | 09:15–10:00 | 16.04.2026–16.07.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
 
 ### Rechnerübungen zu Algorithmen und Datenstrukturen
 
@@ -425,15 +408,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94972&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 14:00–16:00 | 14.04.2026 | — |
-| Einzeltermin | Di | 13:00–15:00 | 21.04.2026 | 08501.00.010 (Seminarraum - TRC) |
 
 ### Scientific Programming in R — Vorlesung mit Übung
 
