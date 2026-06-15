@@ -487,7 +487,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–17:15 | 28.04.2026–07.07.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
+| wöchentlich | Di | 14:00–17:15 | 28.04.2026–14.07.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
 | Einzeltermin | Di | 12:00–14:00 | 19.05.2026 | — |
 
 ### MoleSAssy - Self-assembly at surface - Vorlesung

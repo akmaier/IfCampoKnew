@@ -63,7 +63,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 17:30–19:00 | 28.04.2026 | — |
-| Einzeltermin | Sa | 09:00–15:00 | 13.06.2026 | — |
+| Einzeltermin | Sa | 09:00–15:00 | 13.06.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 | Einzeltermin | Mo | 17:30–19:00 | 13.07.2026 | — |
 
 ### 87101 Internationale und Europäische Dimension in den Fachwissenschaften, Fachdidaktiken und/oder Bildungswissenschaften - Leistung

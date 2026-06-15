@@ -230,8 +230,9 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:30–12:00 | 15.04.2026–15.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 10:30–12:00 | 15.04.2026–01.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 | Einzeltermin | Mi | 14:15–15:45 | 24.06.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
+| Einzeltermin | Di | 18:00–20:30 | 14.07.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
 ### NOS-TR II - Islamwissenschaft kritisch denken: Konzepte und Theorien (Thinking about Islamic Studies: Concepts and Theories) - Masterseminar
 

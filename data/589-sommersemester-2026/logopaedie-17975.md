@@ -256,7 +256,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86198&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:00–13:00 | 22.04.2026–08.07.2026 | — |
+| Einzeltermin | Mo | 09:30–11:30 | 11.05.2026 | — |
+| Einzeltermin | Mo | 09:30–11:30 | 08.06.2026 | — |
+| Einzeltermin | Mo | 09:30–11:30 | 22.06.2026 | — |
+| Einzeltermin | Mo | 09:30–11:30 | 13.07.2026 | — |
+| Einzeltermin | Fr | 11:00–12:30 | 17.07.2026 | — |
 
 ### Integration und Teilhabe des behinderten Menschen — Vorlesung
 

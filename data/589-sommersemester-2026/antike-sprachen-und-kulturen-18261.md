@@ -216,19 +216,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 09:30–11:00 | 22.04.2026–15.07.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
-### Althochdeutsch — Vorlesung
-
-- **Segment:** `unit:115923` · **unitId:** `115923`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115923&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Althochdeutsch — Mittelseminar
 
 - **Segment:** `unit:115922` · **unitId:** `115922`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115922&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
+
+### Althochdeutsch — Vorlesung
+
+- **Segment:** `unit:115923` · **unitId:** `115923`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115923&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
 
 ### Altkirchenslavisch II — Hauptseminar
 
@@ -391,7 +391,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–13:30 | 23.04.2026–16.07.2026 | 05901.04.012 |
 
 ### Einführung in das Hethitische — Hauptseminar
 

@@ -372,7 +372,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | wöchentlich | Do | 08:00–12:30 | 16.04.2026–16.07.2026 | — |
 | wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | — |
 
-### Klima - Klimawandel als Thema im Geographieunterricht GS-MS-RS-GY | (in ER,10:15h)  - Seminar
+### Klima - Klimawandel als Thema im Geographieunterricht GS-MS-RS-GY | (in ER, Do 10:15h)  - Seminar
 
 - **Segment:** `exam:13836139` · **unitId:** `84255`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17607|exam:13836135|exam:13836139>

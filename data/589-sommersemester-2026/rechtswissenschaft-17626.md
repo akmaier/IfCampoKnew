@@ -1928,8 +1928,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:30–12:00 | 15.04.2026–15.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 10:30–12:00 | 15.04.2026–01.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 | Einzeltermin | Mi | 14:15–15:45 | 24.06.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
+| Einzeltermin | Di | 18:00–20:30 | 14.07.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
 ### PPU GR - Propädeutische Übungen Grundrechte - Propädeutische Übung
 
@@ -2344,7 +2345,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (179)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (182)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2605,6 +2606,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
+
+### Europäisches Arbeitsrecht — Vorlesung
+
+- **Segment:** `unit:137885` · **unitId:** `137885`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137885&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
 
 ### Europäisches Arbeitsrecht SPB 7 — Vorlesung
 
@@ -2922,6 +2930,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
+### Individualarbeitsrecht — Vorlesung
+
+- **Segment:** `unit:137886` · **unitId:** `137886`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137886&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+
 ### Interkulturelle Kommunikation — Seminar
 
 - **Segment:** `unit:97644` · **unitId:** `97644`
@@ -3154,7 +3169,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 08:00–10:00 | — | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
+| Di | Di | 08:00–10:00 | — | — |
 
 ### Migration and Human Rights — Masterseminar
 
@@ -3304,6 +3319,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124934&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+
+### Proseminar
+
+- **Segment:** `unit:130698` · **unitId:** `130698`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130698&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Proseminar
 

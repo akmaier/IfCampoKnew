@@ -5,7 +5,7 @@ campo_segment: "title:17990"
 campo_path: "title:17593|title:17598|title:17990"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17990"
 po_version_count: 0
-course_count: 47
+course_count: 48
 ---
 
 # Wissenschaftsreflexion & Studienerfolg
@@ -14,7 +14,7 @@ course_count: 47
 
 _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprachkurse_  
 
-## Veranstaltungen (47)
+## Veranstaltungen (48)
 
 ### "funklust" - Medienkompetenzen erwerben, Medienpraxis erlernen, Campusmedien gestalten - Übung
 
@@ -123,6 +123,22 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | Einzeltermin | Fr | 14:00–15:00 | 17.07.2026 | — |
 | Blockveranstaltung | — | 10:00–17:00 | 21.09.2026–24.09.2026 | 05902.00.003 ( 00.3 PSG) |
+
+### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie - Proseminar / Mittelseminar
+
+- **Segment:** `exam:17685645` · **unitId:** `134127`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17990|title:17999|exam:17685645>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134127&periodId=589>
+
+- **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–18:00 | 20.07.2026–23.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Challenge Accepted! - Selbstwirksamkeit als Erfolgsfaktor im Studium (und darüber hinaus) - Kurs
 
