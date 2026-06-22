@@ -281,7 +281,7 @@ _Section: Frühstudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:15–14:45 | 02.06.2026–14.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
+| wöchentlich | Di | 13:15–14:45 | 02.06.2026–14.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Einzelunterricht Orgel, Klavier - Übung
 

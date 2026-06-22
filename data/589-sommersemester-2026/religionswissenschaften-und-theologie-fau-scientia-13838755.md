@@ -318,7 +318,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 06201.00.023 (TSG R. 0.023 Bibliothek Neues Testament) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | — |
 
 ### UE Examensvorbereitung Ethik - Übung
 

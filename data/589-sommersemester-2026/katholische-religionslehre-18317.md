@@ -544,53 +544,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (5)
-
-_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Aktuelle religionspädagogische Fragestellungen — Oberseminar
-
-- **Segment:** `unit:96887` · **unitId:** `96887`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96887&periodId=589>
-
-- **Veranstaltungsart:** Oberseminar
-- **Turnus:** nur im Sommersemester
-
-### Begleitseminar zum Praktikum GS und MS — Hauptseminar
-
-- **Segment:** `unit:86393` · **unitId:** `86393`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86393&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-### Begleitseminar zum Praktikum in der Mittelschule — Hauptseminar
-
-- **Segment:** `unit:92662` · **unitId:** `92662`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92662&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-### Didaktik des katholischen Religionsunterrichts — Seminar
-
-- **Segment:** `unit:96994` · **unitId:** `96994`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96994&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-### Systematische Theologie und ihre Didaktik — Hauptseminar
-
-- **Segment:** `unit:106141` · **unitId:** `106141`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106141&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** jedes 2. Semester
-
 ## Lehramts-Prüfungsordnungen
 
 - [LA Katholische Religionslehre 20210415 ÄS.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-katholische-religionslehre-20210415-aes.md)
