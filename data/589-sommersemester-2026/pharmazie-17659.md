@@ -456,7 +456,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### Bph - Biopharmazie (3./4. Stj.) - Vorlesung
 
@@ -672,10 +672,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:00 | 14.04.2026–14.07.2026 | 13301.01.0331 (C2 - Chemikum) |
-| wöchentlich | Mi | 08:15–09:00 | 15.04.2026–15.07.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–23.06.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Mi | 08:15–09:00 | 15.04.2026–24.06.2026 | 13301.01.0331 (C2 - Chemikum) |
 | Einzeltermin | Mi | 09:15–10:00 | 15.04.2026 | 13301.01.0331 (C2 - Chemikum) |
-| wöchentlich | Do | 08:15–09:00 | 23.04.2026–16.07.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 08:15–09:00 | 23.04.2026–25.06.2026 | 13301.01.0331 (C2 - Chemikum) |
 | Einzeltermin | Do | 09:15–10:00 | 30.04.2026 | 13301.01.0331 (C2 - Chemikum) |
 | Einzeltermin | Do | 09:15–10:00 | 18.06.2026 | 13301.01.0331 (C2 - Chemikum) |
 
@@ -878,7 +878,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–22.06.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Vorl2 - Pharmazeutisch-chemische Analytik I - Vorlesung
 

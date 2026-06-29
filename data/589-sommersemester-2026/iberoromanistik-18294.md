@@ -330,13 +330,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05801.04.112 ( A 602) |
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05801.04.112 ( A 602) |
-
 ### Español intermedio I - Übung
 
 - **Segment:** `exam:15293888` · **unitId:** `92053`
@@ -348,13 +341,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05801.04.112 ( A 602) |
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05801.04.112 ( A 602) |
-
 ### Español intermedio I - Übung
 
 - **Segment:** `exam:15295489` · **unitId:** `92053`
@@ -365,13 +351,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05801.04.112 ( A 602) |
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05801.04.112 ( A 602) |
 
 ### Español intermedio II - Übung
 

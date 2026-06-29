@@ -752,7 +752,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 14:00–15:00 | — | — |
+| Fr | Fr | 15:30–16:30 | — | — |
 
 ### 45291 Angewandte Thermofluiddynamik (Fahrzeugantriebe)
 

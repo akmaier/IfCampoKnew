@@ -977,7 +977,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 13:15–14:45 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
+| Do | Do | 13:00–14:30 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### 71341 People Analytics - Data Science für Human Resources Management (Project work) - Leistung
 

@@ -248,7 +248,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### CC 05, LAG OC1 - Vorlesung Grundlagen der Organischen Chemie I - Vorlesung
 
@@ -364,9 +364,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 13:00–16:00 | 29.06.2026–06.07.2026 | 13002.00.782 (Ks L Kursraum L) |
-| wöchentlich | Di | 13:00–16:00 | 30.06.2026–07.07.2026 | 13002.00.771 (Kursraum K 00.771 (Entwicklungsbiologie)) |
-| wöchentlich | Fr | 10:00–14:00 | 03.07.2026–10.07.2026 | — |
+| wöchentlich | Mo | 13:00–16:00 | 06.07.2026 | 13002.00.782 (Ks L Kursraum L) |
+| wöchentlich | Di | 13:00–16:00 | 07.07.2026 | 13002.00.771 (Kursraum K 00.771 (Entwicklungsbiologie)) |
+| wöchentlich | Fr | 10:00–14:00 | 10.07.2026 | — |
+| Einzeltermin | Mo | 13:00–16:00 | 13.07.2026 | — |
+| Einzeltermin | Di | 13:00–16:00 | 14.07.2026 | — |
+| Einzeltermin | Fr | 10:00–14:00 | 17.07.2026 | — |
 
 ### PBGV2 - Allgemeine Biologie für Pharmazeuten sowie systematische Einstellung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil II - Vorlesung
 

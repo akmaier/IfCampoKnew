@@ -782,7 +782,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:00–13:30 | 16.04.2026–16.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| wöchentlich | Do | 12:00–13:30 | 16.04.2026–16.07.2026 | 05701.U1.008 () |
 
 ### Français juridique IV - Régime des obligations (nur für Studenten des Programms Deutsch-Französisches Recht) - Übung
 
@@ -1446,6 +1446,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:30–16:30 | 27.06.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
+
 ### Seminar Rechtsphilosophie (SPB 4, 5, 7;neu: 8, 9, 11) - Seminar
 
 - **Segment:** `exam:14065666` · **unitId:** `88067`
@@ -1718,6 +1724,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 18:00–20:00 | 15.04.2026–15.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Do | 14:00–16:00 | 09.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Übung im Strafprozessrecht - Vorlesung
 
@@ -1847,7 +1854,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–16:15 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
-| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | — |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 06101.U1.155 (JDC CIP-Raum) |
 
 ### Forensik - Forensische Psychiatrie für Juristen - Vorlesung
 

@@ -359,8 +359,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
-| Einzeltermin | Mo | 09:00–18:00 | 29.06.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
-| Einzeltermin | Di | 09:00–18:00 | 30.06.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Mo | 09:00–18:00 | 29.06.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 30.06.2026 | — |
 
 ### Praxisseminar Sustainability Reporting - Seminar
 
@@ -378,8 +378,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
-| Einzeltermin | Mo | 09:00–18:00 | 29.06.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
-| Einzeltermin | Di | 09:00–18:00 | 30.06.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Mo | 09:00–18:00 | 29.06.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 30.06.2026 | — |
 
 ### Praxisseminar Sustainability Reporting - Seminar
 
@@ -397,8 +397,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
-| Einzeltermin | Mo | 09:00–18:00 | 29.06.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
-| Einzeltermin | Di | 09:00–18:00 | 30.06.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Mo | 09:00–18:00 | 29.06.2026 | — |
+| Einzeltermin | Di | 09:00–18:00 | 30.06.2026 | — |
 
 ### Quantitative Methods in Energy Market Modelling - Vorlesung mit Übung
 

@@ -33,8 +33,8 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 | wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Do | 14:00–15:00 | 16.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
-| Einzeltermin | Do | 14:00–15:30 | 16.07.2026 | — |
+| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
 ### Einführung in die Didaktik des Deutschen als Zweitsprache - Vorlesung
 
@@ -53,8 +53,8 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 | wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Do | 14:00–15:00 | 16.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
-| Einzeltermin | Do | 14:00–15:30 | 16.07.2026 | — |
+| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
 ### Einführung in die Didaktik des Deutschen als Zweitsprache - Vorlesung
 
@@ -73,8 +73,8 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 | wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Do | 14:00–15:00 | 16.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
-| Einzeltermin | Do | 14:00–15:30 | 16.07.2026 | — |
+| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
 ### Einführung in die Didaktik des Deutschen als Zweitsprache - Vorlesung
 
@@ -93,8 +93,8 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 | wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Do | 14:00–15:00 | 16.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
-| Einzeltermin | Do | 14:00–15:30 | 16.07.2026 | — |
+| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
 ### Einführung in die Didaktik des Deutschen als Zweitsprache - Vorlesung
 
@@ -113,8 +113,8 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 | wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Do | 14:00–15:00 | 16.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
-| Einzeltermin | Do | 14:00–15:30 | 16.07.2026 | — |
+| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
 ### FAU Ringvorlesung "Sustainability" - Vorlesung
 
@@ -692,7 +692,11 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 13101.00.704 (CIP-Pool in der Physik) |
+| wöchentlich | Fr | 14:00–16:00 | 24.04.2026–17.07.2026 | 13101.00.704 (CIP-Pool in der Physik) |
+| Einzeltermin | Do | 12:00–16:00 | 23.07.2026 | 13101.00.704 (CIP-Pool in der Physik) |
+| Einzeltermin | Fr | 12:00–16:00 | 24.07.2026 | 13101.00.704 (CIP-Pool in der Physik) |
+| Einzeltermin | Mo | 12:00–16:00 | 05.10.2026 | 13101.00.704 (CIP-Pool in der Physik) |
+| Einzeltermin | Di | 12:00–16:00 | 06.10.2026 | 13101.00.704 (CIP-Pool in der Physik) |
 
 ### SQ_IP - SQ Industriepraktikum - Praktikum
 

@@ -5,7 +5,7 @@ campo_segment: "title:17956"
 campo_path: "title:17593|title:17601|title:17956"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17956"
 po_version_count: 71
-course_count: 1575
+course_count: 1578
 fau_studiengang:
   - title: "Mechatronik (B.Sc.)"
     rel_path: "studiengang/mechatronik-b-sc.md"
@@ -709,7 +709,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14561738`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17956|exam:14561045|exam:14561172|exam:14561738>
 
-## Veranstaltungen (1575)
+## Veranstaltungen (1578)
 
 ### Angewandte Statistik (Statistik, Messdatenauswertung und Messunsicherheit) - Übung - Übung
 
@@ -2631,7 +2631,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 14:00–15:00 | — | — |
+| Fr | Fr | 15:30–16:30 | — | — |
 
 ### 45121 Angewandte Statistik - Leistung
 
@@ -2646,7 +2646,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 14:00–15:00 | — | — |
+| Fr | Fr | 15:30–16:30 | — | — |
 
 ### 45291 Angewandte Thermofluiddynamik (Fahrzeugantriebe)
 
@@ -3106,6 +3106,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14577431` · **unitId:** `120932`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17956|exam:14575621|exam:14576341|exam:14577431>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120932&periodId=589>
+
+### 47598 Algorithms, programming, and data representation
+
+- **Segment:** `exam:17723584` · **unitId:** `138723`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17956|exam:14575621|exam:14576341|exam:17723584>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138723&periodId=589>
 
 ### 47650 Medizintechnische Anwendungen der Photonik
 
@@ -5851,6 +5857,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15914247` · **unitId:** `137280`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17956|exam:14575621|exam:14576341|exam:15914247>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137280&periodId=589>
+
+### 92573 Numerical Methods for Semiconductor Devices
+
+- **Segment:** `exam:17714340` · **unitId:** `138588`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17956|exam:14570326|exam:14571046|exam:17714340>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138588&periodId=589>
+
+### 92573 Numerical Methods for Semiconductor Devices
+
+- **Segment:** `exam:17714343` · **unitId:** `138588`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17956|exam:14575621|exam:14576341|exam:17714343>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138588&periodId=589>
 
 ### 92601 Nachrichtentechnische Systeme
 

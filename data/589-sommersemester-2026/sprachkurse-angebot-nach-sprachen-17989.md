@@ -728,6 +728,12 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 10:15–15:30 | 03.08.2026–07.08.2026 | 05701.U1.008 () |
+
 ### Deutsch: Schreibberatung - Übung
 
 - **Segment:** `exam:15688973` · **unitId:** `94496`
